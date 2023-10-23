@@ -1,0 +1,17 @@
+# Ignore all files
+*.*
+
+# Except
+!*.json
+!*.js
+!*.zip
+!*.7z
+!*.csv
+!*.ks
+!.gitignore
+!README.md
+!bokukae_sce.dat
+!bokukae_sce.dat.bak
+!bokukae_define.dat
+
+# Images
