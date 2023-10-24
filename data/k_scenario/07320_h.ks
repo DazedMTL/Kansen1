@@ -896,7 +896,7 @@ Uvuu... ha... ha... ubaaaahhhh...!![pcms]
 [fc]
 [ns]Kato[nse]
 Hahaha... Once again... your hair...[l][er]
-messy... came out...   Haha, hahaha, hahaha, hahahaha,[r]hahaha[pcms]
+messy... came out...      Haha, hahaha, hahaha, hahahaha,[r]hahaha[pcms]
 
 ;;;[sysbt_meswin clear]
 

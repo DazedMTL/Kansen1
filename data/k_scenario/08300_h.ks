@@ -676,7 +676,7 @@ Various fluids gush out from their bodies.[pcms]
 [ns]Yamagishi[nse]
 Nngh! Ahaha... Hitomi-san's...[l][er]
 drops are falling on my face...[l][er]
-How lewd... Fufu...   Ahhh[pcms]
+How lewd... Fufu...      Ahhh[pcms]
 
 *v3919|
 [fc]

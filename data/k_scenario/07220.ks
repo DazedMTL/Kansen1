@@ -105,7 +105,7 @@ When I looked up, Yamagishi-san was smiling right in front[r]of me.[pcms]
 [vo_ya s="yama0956"]
 [ns]Yamagishi[nse]
 Kato-kun... you don't have to run away...[l][er]
-ahaha... ahahahaha... you look so cute...   let me give you[r]a little kiss~ *smooch*[pcms]
+ahaha... ahahahaha... you look so cute...      let me give[r]you a little kiss~ *smooch*[pcms]
 
 *7601|
 [fc]

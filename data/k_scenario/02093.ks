@@ -236,8 +236,8 @@ Yeah, I guess...[pcms]
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '散歩、行ってみようかな'"]
-[eval exp="f.seltext04 = '真也に一票'"]
+[eval exp="f.seltext02 = 'Should we go for a walk?'"]
+[eval exp="f.seltext04 = 'Vote for Shinya'"]
 
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]

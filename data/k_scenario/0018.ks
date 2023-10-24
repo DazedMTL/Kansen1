@@ -242,9 +242,9 @@ Itadakimasu![pcms]
 Now then... which one should I start with?[pcms]
 
 ;//[選択肢]
-;//A:もちろん山岸さんが作った料理だ;//[0020]
-;//B:佐伯の料理は、見てくれは悪いけどウマそうだな;//[0023]
-;//C:祐二が勧めるから、五十嵐サンのを食べてみよう;//[08000]
+;//A:Of course, it's a dish made by Yamagishi-san;//[0020]
+;//B:Saeki's cooking looks delicious, even though it doesn't look good;//[0023]
+;//C:Since Yuuji recommends it, let's try eating Igarashi-san's;//[08000]
 
 *SEL00_0018
 
@@ -254,9 +254,9 @@ Now then... which one should I start with?[pcms]
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext01 = 'もちろん山岸さんが作った料理だ'"]
-[eval exp="f.seltext03 = '佐伯の料理は、見てくれは悪いけどウマそうだな'"]
-[eval exp="f.seltext05 = '祐二が勧めるから、五十嵐サンのを食べてみよう'"]
+[eval exp="f.seltext01 = 'Of course, it\'s a dish made by Yamagishi-san'"]
+[eval exp="f.seltext03 = 'Saeki\'s cooking looks delicious, even though it doesn\'t look good'"]
+[eval exp="f.seltext05 = 'Since Yuuji recommends it, let\'s try Igarashi-san\'s'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

@@ -272,7 +272,7 @@ it turned into... something like this...[pcms]
 [fc]
 [vo_sa s="sae0887"]
 [ns]Saeki[nse]
-Ahh... n-no... stop... gghh...  yaaahhh[pcms]
+Ahh... n-no... stop... gghh...     yaaahhh[pcms]
 痛い……痛いぃ……、加藤さん……助けて……助けてッ！！
 Ahh... gghh!![pcms]
 
@@ -469,7 +469,7 @@ uaaah...[pcms]
 *7552|
 [fc]
 [ns]Tanaka[nse]
-I'm... coming... I'm... coming...   ohhh[pcms]
+I'm... coming... I'm... coming...      ohhh[pcms]
 
 *v3028|
 [fc]

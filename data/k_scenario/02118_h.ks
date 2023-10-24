@@ -395,7 +395,7 @@ Do it... Ahh... a lot, do it...[pcms]
 [vo_to s="tomo0154"]
 [ns]Igarashi[nse]
 Dick... dick... more... more...[l][er]
-ah... happy...   so happy~[pcms]
+ah... happy...      so happy~[pcms]
 
 ;;;[sysbt_meswin clear]
 

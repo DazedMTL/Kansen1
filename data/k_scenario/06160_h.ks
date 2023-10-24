@@ -102,7 +102,7 @@ Something feels off... You seem to have a fever, don't you?[pcms]
 [vo_ya s="yama0942"]
 [ns]Yamagishi[nse]
 Ahaha... It's okay... trust me, okay?[l][er]
-Leave it to me... Mmm...   *kiss*[pcms]
+Leave it to me... Mmm...      *kiss*[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 

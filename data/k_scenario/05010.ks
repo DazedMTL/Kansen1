@@ -137,8 +137,8 @@ I desperately covered my mouth to hold it in.[pcms]
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'ぐぬぅ……耐えろ……耐えるんだ……'"]
-[eval exp="f.seltext04 = '笑うな！　こらえろ！　はんにゃーはーらー……'"]
+[eval exp="f.seltext02 = 'Guh Endure I have to endure'"]
+[eval exp="f.seltext04 = 'Don\'t laugh! Hold it in! Hanya-haa-raa'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

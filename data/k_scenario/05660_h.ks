@@ -140,8 +140,8 @@ Yamagishi-san...[pcms]
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'いや……このままやり過ごそう'"]
-[eval exp="f.seltext04 = '声をかけて、確認してみよう……'"]
+[eval exp="f.seltext02 = 'No let\'s just pretend it didn\'t happen'"]
+[eval exp="f.seltext04 = 'Let\'s call out and confirm'"]
 
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]

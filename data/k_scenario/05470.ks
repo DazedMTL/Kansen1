@@ -104,7 +104,7 @@ No, because... I've been searching for you all this time,[r]you know?[pcms]
 [fc]
 [vo_ya s="yama0825"]
 [ns]Yamagishi[nse]
-Sorry~. We all gathered in Kato-kun's classroom.   You[r]should have come too~[pcms]
+Sorry~. We all gathered in Kato-kun's classroom.      You[r]should have come too~[pcms]
 
 *5533|
 [fc]

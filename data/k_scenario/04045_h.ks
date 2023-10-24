@@ -44,7 +44,7 @@
 [ns]Saeki[nse]
 Ah... Ka... to... u... sa... no...[l][er]
 pe... ni... su... ga... wa... ta...[l][er]
-ku... shi... no... na... ka...  ni~ Uhaa~[pcms]
+ku... shi... no... na... ka...     ni~ Uhaa~[pcms]
 
 *4579|
 [fc]
@@ -108,7 +108,7 @@ ngh, kuhh![pcms]
 *4583|
 [fc]
 [ns]Kato[nse]
-Haa... n, ngu...  chu~[pcms]
+Haa... n, ngu...     chu~[pcms]
 
 *v1972|
 [fc]

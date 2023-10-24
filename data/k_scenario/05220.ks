@@ -461,8 +461,8 @@ But still, I wonder if Saeki will be okay by herself...[pcms]
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'しつこく聞くと、また怒りだしそうだな……'"]
-[eval exp="f.seltext04 = '言い出せないだけだろう。ついていってやるか。'"]
+[eval exp="f.seltext02 = 'If I keep asking persistently, she might get angry again'"]
+[eval exp="f.seltext04 = 'Maybe she just can\'t bring herself to say it Should I go with her?'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

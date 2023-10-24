@@ -292,7 +292,7 @@ O-of course. I don't believe in superstitions or anything[r]like that.[pcms]
 *212|
 [fc]
 [ns]Kato[nse]
-... What are you talking about?   You[pcms]
+... What are you talking about?      You[pcms]
 
 *213|
 [fc]
@@ -324,7 +324,7 @@ Taishi, can't you cook? If you want to eat, you have no[r]choice but to cook it 
 [fc]
 [vo_sa s="sae0020"]
 [ns]Saeki[nse]
-Coo... Cooking...   *sigh*[pcms]
+Coo... Cooking...      *sigh*[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]

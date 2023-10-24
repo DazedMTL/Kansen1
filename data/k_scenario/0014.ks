@@ -274,7 +274,7 @@ Yuuji, who was holding his head and crouching down,[r]brightened up at Igarashi-
 *std79|
 [fc]
 [ns]Tanaka[nse]
-Really!? Yay!   I love Tomominô[pcms]
+Really!? Yay!      I love Tomominô[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]

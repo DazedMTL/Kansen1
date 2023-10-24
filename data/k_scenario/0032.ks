@@ -121,8 +121,8 @@ Although I suggested that we split up and search, I had my[r]own intentions.[pcm
 [fc]
 There were hidden intentions that I couldn't express in that[r]situation.[pcms]
 
-;//A:ここで山岸さんを追いかければ、二人きりになれる……。;//[02000]（優ルート）へ
-;//B:恐がりの佐伯に、夜中の学校を一人で歩かせるのはかわいそうだ;//[05000]（瞳ルート）へ
+;//A:If I chase after Yamagishi-san here, we can be alone together;//[02000]（優ルート）へ
+;//B:It's pitiful to make the timid Saeki walk alone in the school at night;//[05000]（瞳ルート）へ
 
 *SEL00_0017
 
@@ -130,8 +130,8 @@ There were hidden intentions that I couldn't express in that[r]situation.[pcms]
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'ここで山岸さんを追いかければ、二人きりになれる……'"]
-[eval exp="f.seltext04 = '恐がりの佐伯に、夜中の学校を一人で歩かせるのはかわいそうだ'"]
+[eval exp="f.seltext02 = 'If I chase after Yamagishi-san here, we can be alone together'"]
+[eval exp="f.seltext04 = 'It\'s pitiful to make the timid Saeki walk alone in the school at night'"]
 
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]

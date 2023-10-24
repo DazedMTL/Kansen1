@@ -99,7 +99,7 @@ Is that so? Because those two are said to be an incredibly[r]stupid couple in hi
 [fc]
 [vo_ya s="yama0171"]
 [ns]Yamagishi[nse]
-Ahaha. But isn't it common to have parental approval?   I[r]heard they've already been introduced to each other's[r]parents, it's amazing, right~[pcms]
+Ahaha. But isn't it common to have parental approval?      I[r]heard they've already been introduced to each other's[r]parents, it's amazing, right~[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 

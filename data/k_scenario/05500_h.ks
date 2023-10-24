@@ -398,7 +398,7 @@ I-it, hiiii!! Hiaaa, aaaah!! Naaaah, higuuuu!![pcms]
 [fc]
 [vo_ya s="yama0831"]
 [ns]Yamagishi[nse]
-Nn, jyuu... hea, hamu...  nnn~[pcms]
+Nn, jyuu... hea, hamu...     nnn~[pcms]
 
 *5600|
 [fc]

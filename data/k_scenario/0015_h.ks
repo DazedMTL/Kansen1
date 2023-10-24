@@ -1125,7 +1125,7 @@ However, the daughter's melting brain did not objectively[r]recognize this fact.
 *425|
 [fc]
 [ns]Male D[nse]
-T-t-ti... tow... er... it's...  standing[pcms]
+T-t-ti... tow... er... it's...     standing[pcms]
 
 *v174|
 [fc]
@@ -1309,7 +1309,7 @@ She savored and enjoyed it with her whole being.[pcms]
 [fc]
 [vo_mob s="imo_0033"]
 [ns]Tomomi's younger sister[nse]
-*Sucking... mmm, slurp...  *[pcms]
+*Sucking... mmm, slurp...     *[pcms]
 
 *437|
 [fc]

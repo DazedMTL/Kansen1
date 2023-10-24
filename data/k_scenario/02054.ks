@@ -470,7 +470,7 @@ Alright...[pcms]
 [fc]
 We held our breath in order to call out to the person who[r]should be inside.[pcms]
 
-;//[02055]`;//[02059]‚Ü‚ÅŒ‡”Ô
+;//[02055];//[02059]‚Ü‚ÅŒ‡”Ô
 
 ;//[02070]‚Ö
 [jump target=*02070_TOP storage="02070.ks"]

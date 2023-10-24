@@ -293,8 +293,8 @@ Now then, whose cooking should I eat...?[pcms]
 ;//[選択肢]
 *SEL00_0017
 
-;//A:もちろん山岸さんが作ったのを食べる;//[0020]
-;//B:かわいそうだから佐伯が作ったのを食べてやる;//[0023]
+;//A:Of course, I'll eat the one Yamagishi-san made;//[0020]
+;//B:Because I feel sorry for her, I'll eat the one Saeki made;//[0023]
 
 ;;;;[sysbt_meswin clear]
 
@@ -305,8 +305,8 @@ Now then, whose cooking should I eat...?[pcms]
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'もちろん山岸さんが作ったのを食べる'"]
-[eval exp="f.seltext04 = 'かわいそうだから佐伯が作ったのを食べてやる'"]
+[eval exp="f.seltext02 = 'Of course, I\'ll eat the one Yamagishi-san made'"]
+[eval exp="f.seltext04 = 'Because I feel sorry for her, I\'ll eat the one Saeki made'"]
 
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]

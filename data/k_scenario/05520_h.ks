@@ -124,7 +124,7 @@ There, an orgy between unfamiliar students was taking place.[pcms]
 [fc]
 [vo_mob s="other030001"]
 [ns]Female Student Alpha[nse]
-Heh... ahh...  mmm~[pcms]
+Heh... ahh...     mmm~[pcms]
 
 *5638|
 [fc]

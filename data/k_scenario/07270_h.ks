@@ -39,7 +39,7 @@ Moreover, from her crotch, the remnants of the squirting[r]from earlier were dri
 *7793|
 [fc]
 [ns]Kato[nse]
-Wow... Saeki... it's dripping down...   haha[pcms]
+Wow... Saeki... it's dripping down...      haha[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -384,7 +384,7 @@ But if things continue like this, I feel like I'll end up[r]losing to Saeki, and
 [fc]
 [vo_sa s="sae0971"]
 [ns]Saeki[nse]
-Ah, u, ngh... uahh!   Fuahh, aahh[pcms]
+Ah, u, ngh... uahh!      Fuahh, aahh[pcms]
 
 *7829|
 [fc]

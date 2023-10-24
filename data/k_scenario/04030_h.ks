@@ -360,7 +360,7 @@ please...[pcms]
 [fc]
 [ns]Male Student U[nse]
 Fufufu, hehe... you don't like it, huh...[l][er]
-moaning... like this, huhn...   fuuun~[pcms]
+moaning... like this, huhn...      fuuun~[pcms]
 
 *v1759|
 [fc]
@@ -436,7 +436,7 @@ Ugh, fuu~...[pcms]
 ;//*|
 ;	[vo_ri s="risa0436"]
 [ns]Shindou[nse]
-;//「あっ……あ゛っ……あ゛ぁ～～～……ひっ、ぁ……い
+;//「あっ……あ゛っ……あ゛ぁ……ひっ、ぁ……い
 ;//や、ぁ……入っで、くる゛ぅ……」
 ;//[l][er]
 

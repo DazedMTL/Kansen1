@@ -100,8 +100,8 @@ Saeki was staring at the collapsed Shindou-sensei.[pcms]
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'とりあえず、声だけかけてみよう……'"]
-[eval exp="f.seltext04 = '本当に手遅れになる前に、助けなきゃ……'"]
+[eval exp="f.seltext02 = 'For now, let\'s try calling out to them'"]
+[eval exp="f.seltext04 = 'Before it becomes truly too late, I have to help'"]
 
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]

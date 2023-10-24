@@ -672,7 +672,7 @@ Ahh...[pcms]
 [fc]
 [vo_to s="tomo0452"]
 [ns]Igarashi[nse]
-Ahaha... That's nice... Yuu-chan...   It's good that your[r]first partner is someone you likeô[pcms]
+Ahaha... That's nice... Yuu-chan...      It's good that your[r]first partner is someone you likeô[pcms]
 
 *9917|
 [fc]

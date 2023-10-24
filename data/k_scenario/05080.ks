@@ -243,8 +243,8 @@ On the other hand, it means that I'll remain in a different[r]class from Yamagis
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'でも、今のクラスの方が居心地いいしな'"]
-[eval exp="f.seltext04 = '俺だけの専門クラスとかできないかな……'"]
+[eval exp="f.seltext02 = 'But, I feel more comfortable in my current class'"]
+[eval exp="f.seltext04 = 'I wonder if we could have a special class just for me'"]
 
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]

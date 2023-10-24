@@ -149,8 +149,8 @@ I feel breath on me, it tickles...?[pcms]
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '夢にしては、ずいぶんリアルな感触だな……'"]
-[eval exp="f.seltext04 = 'なんだろう……これ、正夢になるのかな……'"]
+[eval exp="f.seltext02 = 'For a dream, it feels surprisingly real'"]
+[eval exp="f.seltext04 = 'I wonder could this be a lucid dream?'"]
 
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]

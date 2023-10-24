@@ -134,7 +134,7 @@ Of course...[pcms]
 [fc]
 [vo_ya s="yama0489"]
 [ns]Yamagishi[nse]
-Hehe... Taishi...   kun[pcms]
+Hehe... Taishi...      kun[pcms]
 
 *3101|
 [fc]

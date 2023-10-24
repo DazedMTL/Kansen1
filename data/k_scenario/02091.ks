@@ -140,8 +140,8 @@ Saeki, who was sleeping at the desk by the window, was[r]nowhere to be found in 
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '便所にでも行ってんのかな……'"]
-[eval exp="f.seltext04 = 'なんか泣いてたな……'"]
+[eval exp="f.seltext02 = 'I wonder if she went to the restroom'"]
+[eval exp="f.seltext04 = 'Seems like she was crying'"]
 
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]

@@ -94,9 +94,9 @@ I felt like I couldn't hide it, but I chose a destination[r]and started moving w
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext01 = 'まず理科室準備室の新道先生のとこだろう'"]
-[eval exp="f.seltext03 = 'とりあえず一階のトイレから行ってみようか'"]
-[eval exp="f.seltext05 = '一番離れてる体育館が怪しいな'"]
+[eval exp="f.seltext01 = 'First, it must be Shindou-sensei\'s office in the science preparation room, right?'"]
+[eval exp="f.seltext03 = 'Should we start by going to the restroom on the first floor?'"]
+[eval exp="f.seltext05 = 'The gym that is the farthest away seems suspicious'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

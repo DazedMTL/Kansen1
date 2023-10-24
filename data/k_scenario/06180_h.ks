@@ -469,7 +469,7 @@ Ah... aah~... I-I... I'll... undress...[pcms]
 *6886|
 [fc]
 [ns]Male Student D[nse]
-Oh yeah! I've been waiting for this!!   Uhahaha[pcms]
+Oh yeah! I've been waiting for this!!      Uhahaha[pcms]
 
 *6887|
 [fc]
@@ -713,7 +713,7 @@ omae no kuchi ii zo...[pcms]
 [vo_ri s="risa0641"]
 [ns]Shindou[nse]
 Ahh... ngh... pudyu... guchu...[l][er]
-jyubunhaa... Kishida... sama...  jyubu[pcms]
+jyubunhaa... Kishida... sama...     jyubu[pcms]
 
 *6924|
 [fc]

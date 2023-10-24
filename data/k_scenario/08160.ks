@@ -1124,7 +1124,7 @@ S-s-sex... it's fast... too fast...[pcms]
 *std649|
 [fc]
 [ns]Male Student C[nse]
-I... I... want to... see... your...   face[pcms]
+I... I... want to... see... your...      face[pcms]
 
 [ChrSetEx layer=1 chbase="kisi_b_a_01"]
 [ChrSetXY layer=1 x=140 y=0]
@@ -1341,7 +1341,7 @@ Igarashi-san, what's with that outfit?[pcms]
 [fc]
 [vo_to s="tomo0420"]
 [ns]Igarashi[nse]
-Ahh... this, you see...   I was planning to change and go[r]outside, but a bunch of boys came in and they messed me up~[pcms]
+Ahh... this, you see...      I was planning to change and go[r]outside, but a bunch of boys came in and they messed me up~[pcms]
 
 *9789|
 [fc]

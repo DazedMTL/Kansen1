@@ -681,8 +681,8 @@ So, if we can safely get out of this situation and it's no[r]longer like this, I
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'どこに行きたいか聞いてみようか'"]
-[eval exp="f.seltext04 = '今は想いが通じた幸せに浸っておこう'"]
+[eval exp="f.seltext02 = 'Shall I ask where you want to go?'"]
+[eval exp="f.seltext04 = 'Let\'s bask in the happiness of our feelings being understood for now'"]
 
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]

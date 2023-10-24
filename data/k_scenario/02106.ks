@@ -50,8 +50,8 @@ I should bring something else as well...[pcms]
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '湿布があるといいんだけど……'"]
-[eval exp="f.seltext04 = '痛み止めはあった方がいいよな'"]
+[eval exp="f.seltext02 = 'It would be good to have a wet compress'"]
+[eval exp="f.seltext04 = 'It\'s better to have painkillers, right?'"]
 
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]

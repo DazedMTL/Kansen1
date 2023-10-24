@@ -72,8 +72,8 @@ Interesting...![pcms]
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'このまま校舎の中にいる奴ら、全員追い出してやる！'"]
-[eval exp="f.seltext04 = '山岸さんと真也にも、松明を持って行ってやろう'"]
+[eval exp="f.seltext02 = 'I\'ll kick out everyone who\'s inside the school building just like this!'"]
+[eval exp="f.seltext04 = 'Let\'s give Yuu and Shinya torches too'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

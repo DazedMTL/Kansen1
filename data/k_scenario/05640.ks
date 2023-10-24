@@ -190,8 +190,8 @@ Even now, just because we don't hear any footsteps, they[r]might be gathered in 
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'ここに残した方が安全だろう……'"]
-[eval exp="f.seltext04 = '一緒にいた方が不安にさせなくて済むだろう……'"]
+[eval exp="f.seltext02 = 'It would be safer to stay here'"]
+[eval exp="f.seltext04 = 'It would be better to stay together and not make them worry'"]
 
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]

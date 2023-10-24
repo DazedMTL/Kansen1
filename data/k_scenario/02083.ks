@@ -85,8 +85,8 @@ How should I respond...?[pcms]
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '田中君、食い過ぎで腹を壊していたんです'"]
-[eval exp="f.seltext04 = '多分、二人で星でも見てるんですよ、屋上で'"]
+[eval exp="f.seltext02 = 'Tanaka-kun, you ate too much and got a stomachache'"]
+[eval exp="f.seltext04 = 'Maybe we could watch the stars together, on the rooftop'"]
 
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]

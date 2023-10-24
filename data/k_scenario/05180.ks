@@ -36,7 +36,7 @@ While walking through the corridor that leads to the[r]gymnasium, I noticed ligh
 
 *4981|
 [fc]
-When we gathered at Shinya's house the other day, Yuuji, who[r]was looking at his erotic manga collection, said, The[r]equipment storage room is clich, but I'd like to do it[r]there at least once.[pcms]
+When we gathered at Shinya's house the other day, Yuuji, who[r]was looking at his erotic manga collection, said, The[r]equipment storage room is clich, but I'd like to do it there[r]at least once.[pcms]
 
 *4982|
 [fc]

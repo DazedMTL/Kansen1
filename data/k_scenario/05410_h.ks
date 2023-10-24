@@ -135,8 +135,8 @@ I... waited for Saeki, who was sobbing, for her response.[pcms]
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '力強く、佐伯の言葉に答えた'"]
-[eval exp="f.seltext04 = '濡れた佐伯の体を、優しく抱きしめた'"]
+[eval exp="f.seltext02 = 'I responded to Saeki\'s words with strength'"]
+[eval exp="f.seltext04 = 'I gently embraced Saeki\'s wet body'"]
 
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]

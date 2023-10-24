@@ -284,4 +284,4 @@ Together, just the two of us, forever and ever...[pcms]
 [returntitle]
 
 ;//※瞳・メインルート・ここまで
-;//『感染（仮題）－瞳・ザッピングルートテキスト』
+;//『感染（仮題）瞳・ザッピングルートテキスト』

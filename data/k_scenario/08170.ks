@@ -50,7 +50,7 @@ Hey... We were supposed to go look for Yamagishi-san and the[r]others, right?[pc
 [fc]
 [vo_to s="tomo0428"]
 [ns]Igarashi[nse]
-Ah! That's right!! ... Let's meet up with Yuu-chan and the[r]others...   and let's play together~[pcms]
+Ah! That's right!! ... Let's meet up with Yuu-chan and the[r]others...      and let's play together~[pcms]
 
 *9811|
 [fc]
@@ -96,8 +96,8 @@ Hmm, what should I do...[pcms]
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '五十嵐サンと、山岸さんを捜しに行こう'"]
-[eval exp="f.seltext04 = '真也に付いて行こう'"]
+[eval exp="f.seltext02 = 'Let\'s go look for Igarashi-san and Yamagishi-san'"]
+[eval exp="f.seltext04 = 'Let\'s go with Shinya'"]
 
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]

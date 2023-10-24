@@ -62,8 +62,8 @@ I think now is a chance to ask Yamagishi-san while we're[r]alone, but it doesn't
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'ダメもとで聞いてみよう'"]
-[eval exp="f.seltext04 = 'やっぱりやめておこう'"]
+[eval exp="f.seltext02 = 'Let\'s give it a try and ask anyway'"]
+[eval exp="f.seltext04 = 'Maybe I should just stop after all'"]
 
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]

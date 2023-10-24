@@ -826,7 +826,7 @@ for me... It feels... so good~...[pcms]
 [vo_to s="tomo0369"]
 [ns]Igarashi[nse]
 Chupu... Buchu... Nhaa... I-inahh...[l][er]
-Yuu-cha-n... Oma-nko... Kimochi yo saso...   Nbu[pcms]
+Yuu-cha-n... Oma-nko... Kimochi yo saso...      Nbu[pcms]
 
 *v3216|
 [fc]

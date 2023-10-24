@@ -102,8 +102,8 @@ Isn't it rude to whisper while looking at someone's face!?[pcms]
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'お、女帝復活か？'"]
-[eval exp="f.seltext04 = 'ゴメンゴメン、悪気はないんだ'"]
+[eval exp="f.seltext02 = 'Oh, the Empress has returned?'"]
+[eval exp="f.seltext04 = 'Sorry, sorry, I didn\'t mean any harm'"]
 
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]

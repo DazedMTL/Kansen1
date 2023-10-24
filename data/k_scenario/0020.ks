@@ -468,8 +468,8 @@ The lively atmosphere at the dining table had suddenly[r]turned silent, and the 
 ;//[‘I‘ğ]
 *SEL00_0020
 
-;//A:“µ‚Æ’|“à‚ğ—@‚·;//[0021]
-;//B:•ú‚Á‚Ä‚¨‚­;//[0022]
+;//A:Reprimand Hitomi and Shinya;//[0021]
+;//B:Leave it alone;//[0022]
 
 ;;;;[sysbt_meswin clear]
 
@@ -478,8 +478,8 @@ The lively atmosphere at the dining table had suddenly[r]turned silent, and the 
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '“µ‚Æ’|“à‚ğ—@‚·'"]
-[eval exp="f.seltext04 = '•ú‚Á‚Ä‚¨‚­'"]
+[eval exp="f.seltext02 = 'Reprimand Hitomi and Shinya'"]
+[eval exp="f.seltext04 = 'Leave it alone'"]
 
 
 [if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]

@@ -266,7 +266,7 @@ I made sure not to look back at the teacher and shouted[r]loudly.[pcms]
 *8234|
 [fc]
 [ns]Kato[nse]
-Haa... haa...  *[pcms]
+Haa... haa...     *[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]

@@ -996,7 +996,7 @@ I-I'm gonna... I'm gonna cum!![pcms]
 [ns]Shindou[nse]
 *sucking sounds* ... Mmm... Hehe, did you get excited[r]watching her being violated right in front of you?[l][er]
 You're quite the pervert too...[l][er]
-That's fine... Release a lot inside my mouth...   *sucking[r]sounds*[pcms]
+That's fine... Release a lot inside my mouth...[r]*sucking sounds*[pcms]
 
 *9661|
 [fc]
