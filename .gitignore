@@ -10,6 +10,7 @@
 !*.ks
 !*.xp3
 !.gitignore
+!.gitattributes
 !README.md
 !bokukae_sce.dat
 !bokukae_sce.dat.bak
