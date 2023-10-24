@@ -1,2 +1,0 @@
-*xp3 filter=lfs diff=lfs merge=lfs -text
-*.xp3 filter=lfs diff=lfs merge=lfs -text
