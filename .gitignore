@@ -8,6 +8,7 @@
 !*.7z
 !*.csv
 !*.ks
+!*.xp3
 !.gitignore
 !README.md
 !bokukae_sce.dat
