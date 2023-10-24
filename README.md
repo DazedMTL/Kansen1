@@ -2,6 +2,7 @@
 1. Click Code
 2. Click Download ZIP
 3. Extract to game folder and Replace All.
+4. Run the .bat
 
 # How To Contribute
 TLDR 3 steps.
