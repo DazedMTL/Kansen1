@@ -734,7 +734,7 @@ Ahh... I-I, I can't... hold it in anymore...[pcms]
 
 *7934|
 [fc]
-Again... my [penis] has gotten bigger...[l][er]
+Again... my penis has gotten bigger...[l][er]
 I want to release it inside her again...[l][er]
 Just like this, inside her... one more time...[pcms]
 

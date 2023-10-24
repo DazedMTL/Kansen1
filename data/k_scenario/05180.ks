@@ -121,9 +121,8 @@ But just as I did, at the moment when I least wanted to hear[r]it, I heard a voi
 [fc]
 [vo_to s="tomo0249"]
 [ns]Igarashi[nse]
-[fontsize=20]Ah, nghh! ... Don't lick me there...[l][er]
+Ah, nghh! ... Don't lick me there...[l][er]
 hiaahh![pcms]
-[fontsize=24][l][er]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
