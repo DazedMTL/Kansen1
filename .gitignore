@@ -8,13 +8,10 @@
 !*.7z
 !*.csv
 !*.ks
-!*.xp3
 !.gitignore
-!.gitattributes
-!README.md
-!bokukae_sce.dat
-!bokukae_sce.dat.bak
-!bokukae_define.dat
+!kikiriki.exe
+!madCHook.dll
+!patch.bat
 
 # Images
 !bg_conf_mes_t.png
