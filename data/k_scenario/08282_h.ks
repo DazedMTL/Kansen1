@@ -1,14 +1,14 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08282ã€ã‚ãŠã‹ã‚“ã€â€»ãƒ–ãƒ­ãƒƒã‚¯è¿½åŠ 
-;//;//BG:å±‹ä¸Šï¼šæœ
-;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»å„ªãƒ»æœ‹ç¾ãƒ»ãƒªã‚µãƒ»ç³
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN08282w‚ ‚¨‚©‚ñx¦ƒuƒƒbƒN’Ç‰Á
+;//;//BG:‰®ãF’©
+;//“oêl•¨FålŒöE—DE•ü”üEƒŠƒTE“µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *08282_H_TOP
-;[debug_win]ãªã†ã€€08282_H[debug_win_end]
+;[debug_win]‚È‚¤@08282_H[debug_win_end]
 
 [eval exp="sf.SRP48 = 1"][if exp="tf.scene_mode == 0"][jump target=*08282_H][endif]
 ;;[winset]
@@ -16,11 +16,11 @@
 [jump target=*scene_start]
 
 *08282_H
-;*SceneSet|ã€ã‚ãŠã‹ã‚“ã€
+;*SceneSet|w‚ ‚¨‚©‚ñx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08282 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08282 = 1"]
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 [bgm001]
 
@@ -39,7 +39,7 @@ And... it's hot...[pcms]
 [ChrSetParts layer=1 chface="yuu_a_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3835|
 [fc]
@@ -57,7 +57,7 @@ Uwa...[pcms]
 [fc]
 The girl said that and forcefully pushed me down.[pcms]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 
 [se0 storage="se021"]
 
@@ -68,7 +68,7 @@ The girl said that and forcefully pushed me down.[pcms]
 [ChrSetParts layer=1 chface="risa_a_a_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3836|
 [fc]
@@ -79,11 +79,11 @@ I wonder if you'll let me lick you...[pcms]
 [ChrSetEx layer=1 chbase="tomo_a_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 ;[ChrSetParts layer=0 chface="tomo_a_a_01"]
-;mm â†‘è©²å½“ãƒ•ã‚¡ã‚¤ãƒ«ç„¡ã—
+;mm ªŠY“–ƒtƒ@ƒCƒ‹–³‚µ
 [ChrSetParts layer=1 chface="tomo_a_a1_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3837|
 [fc]
@@ -108,7 +108,7 @@ Finally, I could open my eyes...[pcms]
 
 ;;;[sysbt_meswin]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
@@ -374,10 +374,10 @@ Ughhh...[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 [stop_se0]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 [se0 storage="se062"]
 
 ;//whiteflash
@@ -442,7 +442,7 @@ It feels good...[pcms]
 
 ;;;[sysbt_meswin clear]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
@@ -512,7 +512,7 @@ Survivors, follow the instructions of the Self-Defense Force[r]and evacuate imme
 [ChrSetParts layer=1 chface="sae_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3867|
 [fc]
@@ -526,7 +526,7 @@ Oh, Kato-san...[pcms]
 W-What is that...? It's... overwhelming...[l][er]
 ha, here...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3868|
 [fc]
@@ -544,7 +544,7 @@ Uru, sa, i...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3869|
 [fc]
@@ -565,7 +565,7 @@ It's noisy...[pcms]
 [fc]
 Ah, if I keep hearing that noisy voice, my head starts[r]spinning and my vision gets blurry.[pcms]
 
-;//SE:ã‚¬ãƒ³ãƒƒ
+;//SE:ƒKƒ“ƒb
 ;//[se0 storage="se031"]
 
 *10543|
@@ -590,7 +590,7 @@ I want to run away somewhere...[pcms]
 [ChrSetParts layer=1 chface="sae_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3870|
 [fc]
@@ -605,7 +605,7 @@ U, ru, sa, i... Uru, sai... U, ru, sai...[l][er]
 Uru, sa, i, uru, sai... Ata, ma, ga...[l][er]
 Ware, ruiya, da... Mou, iya, da...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3871|
 [fc]
@@ -690,7 +690,7 @@ Smoke.[pcms]
 [fc]
 What is that...?[pcms]
 
-;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM008ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
@@ -710,7 +710,7 @@ Weird.[pcms]
 
 [black_toplayer winon][trans_c cross time=500][hide_chara_int]
 
-;//SE:ã‚µã‚¤ãƒ¬ãƒ³ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒTƒCƒŒƒ“@ƒ‹[ƒv
 
 [se1 storage="se051" loop=true]
 
@@ -730,25 +730,25 @@ The sound of a fire truck...[pcms]
 [fc]
 It's so noisy...[pcms]
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
 
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn49 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn49 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;BGMåœæ­¢
+;BGM’â~
 [fadeoutbgm time=500]
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*08290_TOP storage="08290.ks"]
 

@@ -1,12 +1,12 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07120ã€å€‹å®¤ã€
-;//BG:æ˜‡é™å£å‰å»Šä¸‹ï¼šå¤œï¼›æ¶ˆç¯
-;//BG;ç„¡ã—ï¼ˆEVENTèƒŒæ™¯ã§ãƒˆã‚¤ãƒ¬ã®ã¿ï¼‰
-;//ç™»å ´äººç‰©ï¼šç³ãƒ»æ„ŸæŸ“ç”°ä¸­ãƒ»åŠç«¯æ„ŸæŸ“ã‚¾ãƒ³ãƒ“Ã—ï¼“
-;//ï¼šç³è¦–ç‚¹
+;//¡ËƒuƒƒbƒN07120wŒÂºx
+;//BG:¸~Œû‘O˜L‰ºF–éGÁ“”
+;//BG;–³‚µiEVENT”wŒi‚ÅƒgƒCƒŒ‚Ì‚İj
+;//“oêl•¨F“µEŠ´õ“c’†E”¼’[Š´õƒ]ƒ“ƒr~‚R
+;//F“µ‹“_
 
 *07120_H_TOP
-;[debug_win]ãªã†ã€€07120_H[debug_win_end]
+;[debug_win]‚È‚¤@07120_H[debug_win_end]
 
 [eval exp="sf.SRP36 = 1"][if exp="tf.scene_mode == 0"][jump target=*07120_H][endif]
 ;;[winset]
@@ -14,15 +14,15 @@
 [jump target=*scene_start]
 
 *07120_H
-;*SceneSet|ã€å€‹å®¤ã€
+;*SceneSet|wŒÂºx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07120 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07120 = 1"]
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 ;//[bgm008]
 
-;//;//BG:bgç„¡ã—
+;//;//BG:bg–³‚µ
 
 
 
@@ -42,14 +42,14 @@ In the face of the approaching fear, I mustered my voice and[r]screamed for help
 [ns]Saeki[nse]
 Someone, helppp!!! Kato-san, help meeee!!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std419|
 [fc]
 [ns]Male Student Y[nse]
 Hehehe... good girl, huh... there...[l][er]
 huff... I've come to do this...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std420|
 [fc]
 [ns]Male Student W[nse]
@@ -81,7 +81,7 @@ I was lifted up by Tanaka from behind, and I was forced into[r]a humiliating pos
 ;	[ChrSetParts layer=1 chface="tanaka_b_a_11"]
 ;	[trans_c cross time=150]
 ;	*/
-;ç«‹ã¡
+;—§‚¿
 
 *std421|
 [fc]
@@ -118,7 +118,7 @@ I was lifted up by Tanaka and taken into a restroom stall,[r]where I was made to
 [fc]
 A different man appeared between me and the toilet bowl, and[r]he began groping his crotch.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
@@ -258,7 +258,7 @@ But it was more than enough to stain my underwear and[r]stockings.[pcms]
 [fc]
 And it was more than enough to fuel the excitement of the[r]men around me.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
@@ -284,7 +284,7 @@ come on, pee for me... let it flow~...[pcms]
 No... I can't go any further...[l][er]
 I'll lose myself...!![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
@@ -316,7 +316,7 @@ When the man, who had his face sticking out from below,[r]inserted his finger in
 
 [stop_se0]
 
-;//SE:æ”¾å°¿
+;//SE:•ú”A
 
 [se0 storage="se064"]
 
@@ -400,7 +400,7 @@ Ugh...[pcms]
 
 
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 [bgm008]
 
@@ -438,5 +438,5 @@ this alone isn't enough...[pcms]
 Ahhh... I want to... touch your pussy...[l][er]
 It's fine even if you resist...[pcms]
 
-;//[07130]ã¸
+;//[07130]‚Ö
 [jump target=*07130_H_TOP storage="07130_H.ks"]

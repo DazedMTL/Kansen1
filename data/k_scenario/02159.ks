@@ -1,27 +1,27 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02159ã€è¨€ã‚ãªã„ã€
-;//BG:å±‹ä¸Šï¼šå¤œ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02159wŒ¾‚í‚È‚¢x
+;//BG:‰®ãF–é
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02159_TOP
-;[debug_win]ãªã†ã€€02159[debug_win_end]
+;[debug_win]‚È‚¤@02159[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02159 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02159 = 1"]
 
-;*SceneSet|ã€è¨€ã‚ãªã„ã€
+;*SceneSet|wŒ¾‚í‚È‚¢x
 
-;//flag:ãƒ‡ãƒ¼ãƒˆã®ç´„æŸã‚’ã—ã¦ã„ãªã„ã€‚
+;//flag:ƒf[ƒg‚Ì–ñ‘©‚ğ‚µ‚Ä‚¢‚È‚¢B
 
 [eval exp="f.NO_DATE = 1"]
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 
 [fadeoutbgm time=500]
 
-;//SE:è™«ã®éŸ³ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:’‚Ì‰¹@ƒ‹[ƒv
 
 [se0 storage="se018" loop=true]
 
@@ -41,7 +41,7 @@ I felt someone resting their head on my shoulder, and when I[r]looked at Yamagis
 [fc]
 [vo_ya s="yama0432"]
 [ns]Yamagishi[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *2922|
 [fc]
@@ -51,5 +51,5 @@ I briefly thought about asking her where she would like to[r]go on our first dat
 [fc]
 But more than that, right now, I wanted to fully immerse[r]myself in the happiness of our feelings being understood by[r]each other.[pcms]
 
-;//[02160]ã¸
+;//[02160]‚Ö
 [jump target=*02160_TOP storage="02160.ks"]

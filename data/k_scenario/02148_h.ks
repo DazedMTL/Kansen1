@@ -1,26 +1,26 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02148ã€å²¸ç”°ç™ºç—‡ã€
-;//BG:äºŒéšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰ï¼šå¤•æ–¹
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»å²¸ç”°ãƒ»åŠ è—¤
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02148wŠİ“c”­Çx
+;//BG:“ñŠK˜L‰ºFƒoƒŠƒP[ƒhF—[•û
+;//“oêl•¨GålŒöE—DEƒŠƒTEŠİ“cE‰Á“¡
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02148_H_TOP
-;[debug_win]ãªã†ã€€02148_H[debug_win_end]
-;mm â†“ã®åˆ†å²ã«æ„å‘³ã¯ãªã„ãŒå›æƒ³ãƒ•ã‚¡ã‚¤ãƒ«ã®æ¤œç´¢ç”¨ã«ã„ã‚Œã¦ãŠã
+;[debug_win]‚È‚¤@02148_H[debug_win_end]
+;mm «‚Ì•ªŠò‚ÉˆÓ–¡‚Í‚È‚¢‚ª‰ñ‘zƒtƒ@ƒCƒ‹‚ÌŒŸõ—p‚É‚¢‚ê‚Ä‚¨‚­
 [eval exp="sf.SRP08 = 1"][if exp="tf.scene_mode == 0"][jump target=*02148_H][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 *02148_H
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02148 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02148 = 1"]
 
-;*SceneSet|ã€å²¸ç”°ç™ºç—‡ã€
+;*SceneSet|wŠİ“c”­Çx
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 
 ;[fadeoutbgm time=500]
 
@@ -33,10 +33,10 @@ We returned to the second floor and there, we witnessed a[r]shocking scene that 
 
 *scene_start
 
-;//â™ªï¼šBGM002
+;//ôFBGM002
 [bgm002]
 
-;//H_CG:ãƒªã‚µãŒç«¹å†…ã¨å²¸ç”°ã«ã‚„ã‚‰ã‚Œã¦ã„ã‚‹
+;//H_CG:ƒŠƒT‚ª’|“à‚ÆŠİ“c‚É‚â‚ç‚ê‚Ä‚¢‚é
 
 [evcg storage="HEV_011_a"]
 [trans_c cross time=500]
@@ -44,11 +44,11 @@ We returned to the second floor and there, we witnessed a[r]shocking scene that 
 
 ;;;[sysbt_meswin]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [se1 storage="se061" loop=true]
 
@@ -132,12 +132,12 @@ The sound of Kishida and Shindou-sensei's bodies colliding[r]reaches where we ar
 [fc]
 [vo_ya s="yama0341"]
 [ns]Yamagishi[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *2667|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *2668|
 [fc]
@@ -309,11 +309,11 @@ Hii, iaahh!! Igu... don't look, uahh![l][er]
 Don't look, plee... haa, ku...[l][er]
 aghh!![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se1]
 
@@ -327,7 +327,7 @@ N-noooo![pcms]
 [fc]
 Without pulling out, Shinya and Kishida continued to thrust[r]their own members into Shindou-sensei, causing her body to[r]tremble intermittently.[pcms]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -369,7 +369,7 @@ Guhh... hi, hii...[pcms]
 [ns]Shindou[nse]
 No... ahh~...[pcms]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -459,24 +459,24 @@ Ugh... guh... uhh...[pcms]
 Shindou-sensei, who was embraced by Shinya, had a dazed[r]expression on her face and was completely exhausted.[l][er]
 She was dripping with the semen that Kishida released from[r]her genitals.[pcms]
 
-; å›æƒ³ãƒ¢ãƒ¼ãƒ‰ä¸­ãªã‚‰ã€å›æƒ³ãƒ¢ãƒ¼ãƒ‰ç”»é¢ã«æˆ»ã‚‹
+; ‰ñ‘zƒ‚[ƒh’†‚È‚çA‰ñ‘zƒ‚[ƒh‰æ–Ê‚É–ß‚é
 [if exp="tf.scene_mode==true"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
 
-;SEåœæ­¢
+;SE’â~
 [stopse_all]
-;ã‚·ã‚¹ãƒ†ãƒ ãƒœã‚¿ãƒ³ï¼†ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;ƒVƒXƒeƒ€ƒ{ƒ^ƒ“•ƒEƒBƒ“ƒhƒEÁ‹
 [sysbt_meswin clear]
 
-;BGMåœæ­¢
+;BGM’â~
 [fadeoutbgm time=500]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
-;//[02149]ã¸
+;//[02149]‚Ö
 [jump target=*02149_H_TOP storage="02149_H.ks"]
 
 

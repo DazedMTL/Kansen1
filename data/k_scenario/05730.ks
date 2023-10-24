@@ -1,14 +1,14 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05730ã€è„±å‡ºã€
-;//BG:åœ°ä¸‹å®¤ï¼›æ¶ˆç¯
-;//BG:å­¦é£Ÿï¼šå¤•æ–¹ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05730w’Eox
+;//BG:’n‰ººGÁ“”
+;//BG:ŠwHF—[•ûFÁ“”
+;//“oêl•¨GålŒöE“µ
 
 *05730_TOP
-;[debug_win]ãªã†ã€€05730[debug_win_end]
-;*SceneSet|ã€è„±å‡ºã€
+;[debug_win]‚È‚¤@05730[debug_win_end]
+;*SceneSet|w’Eox
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05730 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05730 = 1"]
 
 ;//;//BG:bg23b
 
@@ -35,7 +35,7 @@ After warning Saeki about that, I quietly opened the door[r]and went up to the s
 
 ;//;//BG:bg14b
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 [bgm009]
 
 [bg storage="bg14b"]
@@ -48,9 +48,9 @@ After warning Saeki about that, I quietly opened the door[r]and went up to the s
 *6140|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
-;ç«‹ã¡
+;—§‚¿
 
 *6141|
 [fc]
@@ -65,9 +65,9 @@ Alright, let's go![pcms]
 
 
 
-;ç«‹ã¡
+;—§‚¿
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 
 [se0 storage="se005"]
 
@@ -76,5 +76,5 @@ Alright, let's go![pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05740]ã¸
+;//[05740]‚Ö
 [jump target=*05740_TOP storage="05740.ks"]

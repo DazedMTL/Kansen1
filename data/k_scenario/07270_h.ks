@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07270ã€äº¤å°¾ã€
-;//BG;åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN07270wŒğ”öx
+;//BG;’n‰ººFÁ“”
+;//“oêl•¨FålŒöE“µ
 
 *07270_H_TOP
-;[debug_win]ãªã†ã€€07270_H[debug_win_end]
-;*SceneSet|ã€äº¤å°¾ã€
+;[debug_win]‚È‚¤@07270_H[debug_win_end]
+;*SceneSet|wŒğ”öx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07270 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07270 = 1"]
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 [bgm008]
 
@@ -39,7 +39,7 @@ Moreover, from her crotch, the remnants of the squirting[r]from earlier were dri
 *7793|
 [fc]
 [ns]Kato[nse]
-Wow... Saeki... it's dripping down...  haha[pcms]
+Wow... Saeki... it's dripping down...   haha[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -135,7 +135,7 @@ hahahaha[l][er]
 [fc]
 I press down on Saeki's round and soft butt, and push my[r]painfully erect cock against her soaking wet crotch.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
@@ -183,7 +183,7 @@ Ahh... ahh... ahh... it hurts...[l][er]
 noo! Don't be so rough... guuh![l][er]
 Ahh... ughhh![pcms]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 
 [se1 storage="se058"]
 
@@ -251,7 +251,7 @@ If it continues like this... I won't be able to feel good,[r]will I?![pcms]
 Saeki, it's not satisfying even if you stay still...[l][er]
 I'm going to move, okay?![pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [overflow_se storage="se061" loop=true]
 
@@ -384,7 +384,7 @@ But if things continue like this, I feel like I'll end up[r]losing to Saeki, and
 [fc]
 [vo_sa s="sae0971"]
 [ns]Saeki[nse]
-Ah, u, ngh... uahh!  Fuahh, aahh[pcms]
+Ah, u, ngh... uahh!   Fuahh, aahh[pcms]
 
 *7829|
 [fc]
@@ -478,15 +478,15 @@ fuaaahhh!! Ahh... aahh... aahh!![pcms]
 [fc]
 As if in response to Saeki's words, my hot magma erupted all[r]at once.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_overflow_se]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -606,7 +606,7 @@ Can we do it one more time!? Hey, Saeki!![pcms]
 Huh...! Let me rest for a bit...[l][er]
 Nooo![pcms]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 
 [se0 storage="se058"]
 
@@ -627,11 +627,11 @@ Without even waiting for a response, I suddenly inserted it.[pcms]
 [fc]
 Saeki's place, which was already slippery with overflowing[r]bodily fluids, easily accepted my thing.[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [se0 storage="se061" loop=true]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se1 storage="se059" loop=true]
 
@@ -752,15 +752,15 @@ In response to Saeki's screams, her insides contracted[r]intensely, and my thing
 With a slippery sensation and the stimulation of hot love[r]juices, I reached my limit once again.[l][er]
 My thing, which had jumped out, bounced back vigorously.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se1]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -817,7 +817,7 @@ Ahh...[pcms]
 [ns]Kato[nse]
 Haa... haa... Uwaaa! It's coming out again![pcms]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -844,7 +844,7 @@ Noooo!! It's hot!! Ugh...[pcms]
 
 [bg storage="effect_white"][trans_c cross time=500]
 
-;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM008ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
@@ -856,32 +856,32 @@ Despite not providing any stimulation, I ejaculated again[r]due to the semen flo
 [fc]
 Did I break her...?[pcms]
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn39 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn39 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;BGMåœæ­¢
+;BGM’â~
 [fadeoutbgm time=500]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[07280]ã¸
+;//[07280]‚Ö
 [jump target=*07280_TOP storage="07280.ks"]
 
 

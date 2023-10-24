@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02117ã€å¤–ã¸ã€
-;//BG:è·å“¡å®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»å²¸ç”°ãƒ»ç«¹å†…ãƒ»ã‚¾ãƒ³ãƒ“
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02117wŠO‚Öx
+;//BG:EˆõºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DEƒŠƒTEŠİ“cE’|“àEƒ]ƒ“ƒr
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02117_TOP
-;[debug_win]ãªã†ã€€02117[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02117 = 1"]
+;[debug_win]‚È‚¤@02117[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02117 = 1"]
 
-;*SceneSet|ã€å¤–ã¸ã€
+;*SceneSet|wŠO‚Öx
 
 ;//[02117]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 ;//[bgm007]
 
 ;//BG:bg012a
@@ -31,7 +31,7 @@ Sensei, I went and checked all the way up to the third[r]floor, but there was no
 [ChrSetParts layer=1 chface="risa_c_d_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v882|
 [fc]
@@ -47,7 +47,7 @@ Shindou-sensei listened to my report and knelt beside[r]Kishida, wearing a pensi
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v883|
 [fc]
@@ -62,7 +62,7 @@ Please help me prepare and lend me a hand, both of you.[pcms]
 W-Wait a minute, please. If we go outside now, it will[r]become a big problem.[l][er]
 There are a lot of strange people around the school.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v884|
 [fc]
@@ -81,7 +81,7 @@ Indeed, Kishida, who is lying on the floor, has a pale[r]complexion and his brea
 But, for Shinya and me to carry him down the mountain, this[r]man is too big.[l][er]
 How on earth are we supposed to transport him...?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v885|
 [fc]
@@ -96,7 +96,7 @@ Bring them here, please.[pcms]
 [ns]Kato[nse]
 A handcart and bandages... wait, are you saying we're going[r]to put Kishida-sensei on it and push him along...?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v886|
 [fc]
@@ -115,17 +115,17 @@ For Shindou-sensei, who is usually calm, this plan has a[r]strong gambling eleme
 [ns]Kato[nse]
 Understood. Well then, let's go, Shinya.[pcms]
 
-;//â™ªï¼šBGM007åœæ­¢
+;//ôFBGM007’â~
 [bgm007]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 [se0 storage="se008"]
 
 *2239|
 [fc]
 As Shinya nodded in agreement and started walking towards[r]the entrance, the moment they took a step, someone opened[r]the door.[pcms]
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 [bgm008]
 
 [ChrSetEx layer=1 chbase="zom_01_a"]
@@ -145,7 +145,7 @@ The one who appeared for the third time today was that man.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v887|
 [fc]
@@ -167,7 +167,7 @@ Just like in the infirmary, I charged towards the man.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std254|
 [fc]
 [ns]male student[nse]
@@ -188,7 +188,7 @@ Sensei! Hurry and take Kishida-sensei outside now...!![pcms]
 [ChrSetParts layer=1 chface="risa_c_a_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v888|
 [fc]
@@ -201,7 +201,7 @@ F-Fine! Takeuchi-kun, Yamagishi-san, please help me out![pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v889|
 [fc]
@@ -217,7 +217,7 @@ Shindou-sensei, Yamagishi-san, and Shinya, the three of[r]them, left the staff r
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std255|
 [fc]
 [ns]male student[nse]
@@ -230,7 +230,7 @@ Pus... sy~... It's mine, you know...[pcms]
 [ns]Kato[nse]
 Speak in your sleep while you're asleep!![pcms]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
 
 ;//redflash
@@ -248,11 +248,11 @@ I no longer held back and slammed the chair into the man's[r]face, then quickly 
 
 ;//BG:bg003a
 
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [bg storage="bg03a"]
 [trans_c cross time=500]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 *2249|
@@ -264,7 +264,7 @@ Shindou-sensei was waiting with a key prepared, and as soon[r]as I came out, she
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std256|
 [fc]
 [ns]Takeuchi[nse]
@@ -283,7 +283,7 @@ I wonder if he had help from someone or if he managed to[r]crawl out on his own.
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v890|
 [fc]
@@ -301,12 +301,12 @@ We nodded in agreement with Shindou-sensei's words and[r]started walking, draggi
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//[02118]ã¸
+;//[02118]‚Ö
 [jump target=*02118_H_TOP storage="02118_H.ks"]
 

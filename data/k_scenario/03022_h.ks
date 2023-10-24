@@ -1,32 +1,32 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;â– â‡’ãƒ–ãƒ­ãƒƒã‚¯03022ã€ç„¡æƒ¨ã«æ•£ã‚‰ã•ã‚Œã‚‹èŠ±ã€
-;â‡’ç«¹å†…è¦–ç‚¹
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;¡ËƒuƒƒbƒN03022w–³S‚ÉU‚ç‚³‚ê‚é‰Ôx
+;Ë’|“à‹“_
 ;
-;BG:æ•™å®¤ï¼šå¤œï¼šç‚¹ç¯
-;ç™»å ´äººç‰©ï¼›ç«¹å†…ãƒ»ç³
+;BG:‹³ºF–éF“_“”
+;“oêl•¨G’|“àE“µ
 ;
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *03022_H_TOP
-;[debug_win]ãªã†ã€€03022_H[debug_win_end]
+;[debug_win]‚È‚¤@03022_H[debug_win_end]
 [eval exp="sf.SRP12 = 1"][if exp="tf.scene_mode == 0"][jump target=*03022][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 *03022
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_03022 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_03022 = 1"]
 
-;*SceneSet|ã€ç„¡æƒ¨ã«æ•£ã‚‰ã•ã‚Œã‚‹èŠ±ã€
+;*SceneSet|w–³S‚ÉU‚ç‚³‚ê‚é‰Ôx
 
 ;;;[sysbt_meswin clear]
 
 *scene_start
 
-;//â™ªï¼šBGM003
+;//ôFBGM003
 [bgm003]
 
 ;//H_CG
@@ -194,7 +194,7 @@ You better not think about telling the police later, okay?[l][er]
 If you do something like that, I'll keep raping you for the[r]rest of your life.[pcms]
 [l][er]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 
 [se0 storage="se059"]
 
@@ -256,7 +256,7 @@ While asking for help that will never come, you'll be[r]violated by me, creampie
 [ns]Saeki[nse]
 Stop it! Please stop![pcms]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 
 [se0 storage="se058"]
 
@@ -351,7 +351,7 @@ I'm the first one!! I'm the first one!![pcms]
 Hitomi is a virgin!! I-I'm the first man for her!![l][er]
 My head is spinning!! I'm getting so excited that the ground[r]is warping!![pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [se0 storage="se061" loop=true]
 
@@ -429,11 +429,11 @@ I firmly grabbed Hitomi's waist, inserted my penis all the[r]way to the base, an
 H-Hold on! Ah! Ahh!! Something, something is bouncing!![l][er]
 I... ahhhh! Kyaaa![pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se0]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -551,20 +551,20 @@ If you do, I'll violate you again, and this time I'll[r]creampie you until you g
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1354|
 [fc]
 [vo_sa s="sae0139"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *3445|
 [fc]
 [ns]Takeuchi[nse]
 Fuhii... fuhiihihi...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1355|
 [fc]
@@ -572,7 +572,7 @@ Fuhii... fuhiihihi...[pcms]
 [ns]Saeki[nse]
 Ugh... ughhh...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1356|
 [fc]
@@ -588,24 +588,24 @@ someone like this...[pcms]
 
 ;//blackout
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn12 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn12 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
@@ -615,11 +615,11 @@ someone like this...[pcms]
 
 ;;;[sysbt_meswin]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;//â€»é¸æŠè‚¢ï¼ˆï¼Ÿï¼‰
-;//ãƒ»;//[02076]ã¸
-;//ãƒ»;//[02077]ã¸
+;//¦‘I‘ğˆiHj
+;//E;//[02076]‚Ö
+;//E;//[02077]‚Ö
 
 [jump target=*02076_TOP storage="02076.ks"]
 

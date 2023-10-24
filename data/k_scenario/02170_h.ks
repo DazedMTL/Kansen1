@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02170ã€å€‹å®¤ã§å„ªã¨ã€
-;//BG:ç—…å®¤ï¼šå¤•æ–¹
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02170wŒÂº‚Å—D‚Æx
+;//BG:•aºF—[•û
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02170_H_TOP
-;[debug_win]ãªã†ã€€02170_H[debug_win_end]
+;[debug_win]‚È‚¤@02170_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 ;[if exp="tf.scene_mode == 0"][jump target=*02170][endif]
 ;[winset]
 
-;//å›æƒ³ãƒ¢ãƒ¼ãƒ‰ãªã®ã§ãŠç´„æŸã®å‡¦ç†ã‚’ä»•è¾¼ã‚€
+;//‰ñ‘zƒ‚[ƒh‚È‚Ì‚Å‚¨–ñ‘©‚Ìˆ—‚ğd‚Ş
 
 [fadeoutbgm time=500]
 
@@ -24,30 +24,30 @@
 
 ;;;[sysbt_meswin]
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 [bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *02170
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02170 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02170 = 1"]
 
-;*SceneSet|ã€å€‹å®¤ã§å„ªã¨ã€
+;*SceneSet|wŒÂº‚Å—D‚Æx
 
-;//â™ªï¼šBGM010
+;//ôFBGM010
 
 [bgm010]
 
-;//BG:bgæ•‘è­·æ–½è¨­
+;//BG:bg‹~Œì{İ
 
 [bg storage="bg80"]
 [trans_c cross time=500]
 
-;//SE:ã‚¬ãƒ¤
+;//SE:ƒKƒ„
 
 ;//[se0 storage="se001"]
 
@@ -55,7 +55,7 @@
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1182|
 [fc]
@@ -82,7 +82,7 @@ When she realized I had woken up, she scolded me angrily.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1183|
 [fc]
@@ -106,7 +106,7 @@ Even after hearing that, she didn't show any tears and[r]continued to behave che
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1184|
 [fc]
@@ -125,7 +125,7 @@ It's fine already...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1185|
 [fc]
@@ -144,7 +144,7 @@ Your mother passed away, so it must be really tough for[r]you...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1186|
 [fc]
@@ -158,7 +158,7 @@ Besides, as for my mother...[pcms]
 [ns]Kato[nse]
 Show me your true feelings. I will definitely be there to[r]support you.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1187|
 [fc]
@@ -176,7 +176,7 @@ Yamagishi-san, you know well that I am a man who keeps his[r]promises, right?[pc
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1188|
 [fc]
@@ -194,7 +194,7 @@ Come here...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1189|
 [fc]
@@ -206,7 +206,7 @@ Uaaann!![pcms]
 [fc]
 I firmly embraced Yamagishi-san, who jumped into my chest.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1190|
 [fc]
@@ -214,7 +214,7 @@ I firmly embraced Yamagishi-san, who jumped into my chest.[pcms]
 [ns]Yamagishi[nse]
 Mom... *sniffle*![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1191|
 [fc]
@@ -222,7 +222,7 @@ Mom... *sniffle*![pcms]
 [ns]Yamagishi[nse]
 Mom... Uwaaaaaaaah!! Uwaaaaaa![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1192|
 [fc]
@@ -236,7 +236,7 @@ Tomo-chan and Hitomi-san... uwaaaah!![pcms]
 [ns]Kato[nse]
 Yamagishi-san...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1193|
 [fc]
@@ -246,7 +246,7 @@ I wonder if we... were saved in place of everyone else...[l][er]
 If that's the case... if that's the case!![l][er]
 Let's not just save ourselves together, but let's all, let's[r]all be saved together!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1194|
 [fc]
@@ -261,7 +261,7 @@ Uwaaaah...[pcms]
 [ns]Kato[nse]
 Yamagishi-san is kind, isn't she...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1195|
 [fc]
@@ -279,7 +279,7 @@ and also, Shindou-sensei. After we were rescued, I wonder if[r]they were still w
 [fc]
 If that's the case, then by the bombing...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1196|
 [fc]
@@ -323,7 +323,7 @@ I want to forget. Everything except for Yamagishi-san.[pcms]
 
 ;//blackout
 
-;//BG:bgæ•‘è­·æ–½è¨­
+;//BG:bg‹~Œì{İ
 
 [bg storage="bg80"]
 [trans_c cross time=500]
@@ -338,7 +338,7 @@ Are you calm now?[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1197|
 [fc]
@@ -364,7 +364,7 @@ Yamagishi-san stared at me with a serious expression as I[r]playfully laughed.[p
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1198|
 [fc]
@@ -378,7 +378,7 @@ Back then, you called me Yuu, didn't you...[pcms]
 [ns]Kato[nse]
 That time...?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1199|
 [fc]
@@ -386,7 +386,7 @@ That time...?[pcms]
 [ns]Yamagishi[nse]
 Yuu said she's waiting...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1200|
 [fc]
@@ -411,7 +411,7 @@ Calling her by her name again makes me a little[r]embarrassed...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1201|
 [fc]
@@ -430,7 +430,7 @@ No... I don't mind, Yuu...[pcms]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;//[02171]ã¸
+;//[02171]‚Ö
 [jump target=*02171_H_TOP storage="02171_H.ks"]
 
 

@@ -1,25 +1,25 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04035ã€ãƒªã‚µã¨ã‚»ãƒƒã‚¯ã‚¹ã€
-;//BG:ä¸‰éšæ•™å®¤ï¼šå¤œ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04035wƒŠƒT‚ÆƒZƒbƒNƒXx
+;//BG:OŠK‹³ºF–é
+;//“oêl•¨GålŒöEƒŠƒT
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04035_H_TOP
-;[debug_win]ãªã†ã€€04035_H[debug_win_end]
+;[debug_win]‚È‚¤@04035_H[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04035 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04035 = 1"]
 
-;*SceneSet|ã€ãƒªã‚µã¨ã‚»ãƒƒã‚¯ã‚¹ã€
+;*SceneSet|wƒŠƒT‚ÆƒZƒbƒNƒXx
 
-;//â™ªï¼šBGM006
+;//ôFBGM006
 
 [bgm006]
 
-;//H_CG:ãƒªã‚µã¨ã‚»ãƒƒã‚¯ã‚¹
+;//H_CG:ƒŠƒT‚ÆƒZƒbƒNƒX
 
 [sysbt_meswin clear]
 
@@ -62,7 +62,7 @@ Teacher Shindou places her hand on my erect member and[r]traces the groove of he
 [fc]
 The sensation of the slippery skin is transmitted to the[r]tip, and my heartbeat quickens.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
@@ -77,7 +77,7 @@ but, it's fine... I'm not satisfied yet...[pcms]
 [fc]
 I try to push Shindou-sensei away and separate our bodies,[r]but her embrace is unexpectedly strong, and I still can't[r]escape from her.[pcms]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 
 [overflow_se storage="se058"]
 
@@ -132,7 +132,7 @@ My resistance weakened and I had already entrusted[r]everything to her.[pcms]
 [ns]Kato[nse]
 Nn, u...[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
 
 [se1 storage="se060"]
 
@@ -259,15 +259,15 @@ Huh... huh... *sigh*...[pcms]
 Ahh... kuu... nnu, hi, aahh! ...[l][er]
 n, gu, uuhh... ha, ahh, auu![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@’x‚¢@’â~
 
 [stop_se1]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -326,7 +326,7 @@ Shindou-sensei's genitals squirm as if delighted to be[r]filled inside, swallowi
 More... more, Kato-kun... give me...[l][er]
 more...[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
 
 [se1 storage="se060" loop=true]
 
@@ -459,11 +459,11 @@ deeper...![pcms]
 [ns]Kato[nse]
 Nnghh!![pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@’x‚¢@’â~
 
 [stop_se1]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -541,28 +541,28 @@ While being embraced by Sensei Shindou, the feeling of[r]exhaustion, the warmth 
 
 ;//blackout
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn09 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn09 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[04036]ã¸
+;//[04036]‚Ö
 [jump target=*04036_H_TOP storage="04036_H.ks"]

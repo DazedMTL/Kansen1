@@ -1,36 +1,36 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
-;//â€»;//[04021]ã¯æ¬ ç•ª
+;//¦;//[04021]‚ÍŒ‡”Ô
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04022ã€å®´ã€
-;//BG:ä¿å¥å®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»ãƒªã‚µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04022w‰ƒx
+;//BG:•ÛŒ’ºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DE“µEƒŠƒT
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04022_H_TOP
-;[debug_win]ãªã†ã€€04022_H[debug_win_end]
+;[debug_win]‚È‚¤@04022_H[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04022 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04022 = 1"]
 
-;*SceneSet|ã€å®´ã€
+;*SceneSet|w‰ƒx
 
-;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€badï¼’ã€€è¡¨ç¤º
+;//flag:—Dƒ‹[ƒgƒtƒ[@bad‚Q@•\¦
 
-;//flag:ä¸»äººå…¬æš´èµ°ã€€on
+;//flag:ålŒö–\‘–@on
 
 [eval exp="sf.g_run_away = 1"]
 
-;//â™ªï¼šBGM006
+;//ôFBGM006
 
 ;//[bgm006]
 
-;//BG:bgç„¡ã—
+;//BG:bg–³‚µ
 
 ;;;[sysbt_meswin clear]
 
@@ -40,7 +40,7 @@
 
 ;;;[sysbt_meswin]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
@@ -48,14 +48,14 @@
 [fc]
 [vo_ri s="risa0363"]
 [ns]Female[nse]
-;//â€»ãƒªã‚µ[nse]
+;//¦ƒŠƒT[nse]
 Tsu, gi... Wa-ta, shi-ga, na, ka-ni, da-sa-re, ru, ba-n[r]yo...[pcms]
 
 *v1661|
 [fc]
 [vo_sa s="sae0252"]
 [ns]Female[nse]
-;//â€»ç³[nse]
+;//¦“µ[nse]
 Please finish it quickly... I want your...[l][er]
 penis... again... I'm waiting for it...[pcms]
 
@@ -63,7 +63,7 @@ penis... again... I'm waiting for it...[pcms]
 [fc]
 [vo_ya s="yama0698"]
 [ns]Female[nse]
-;//â€»å„ª[nse]
+;//¦—D[nse]
 No, please... Th-this... penis...[l][er]
 is... mine... so...[pcms]
 
@@ -222,7 +222,7 @@ chi... ii...[pcms]
 Ki, mo... chi, yo, sasou.... U, ra...[l][er]
 ya, ma... shii...[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
 
 [se1 storage="se060"]
 
@@ -302,15 +302,15 @@ I unleashed my semen, which was on the verge of erupting,[r]without hesitation i
 [ns]Kato[nse]
 Ugh... ku...![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@’x‚¢@’â~
 
 [stop_se1]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -432,7 +432,7 @@ isn't it nice? ... nfu... fuaahh!![pcms]
 [fc]
 As the sound of an airplane's roar could be heard from[r]outside the building, I pounced on the next woman.[pcms]
 
-;//SE:çˆ†éŸ³
+;//SE:”š‰¹
 [se0 storage="se054"]
 
 ;;;[sysbt_meswin clear]
@@ -442,28 +442,28 @@ As the sound of an airplane's roar could be heard from[r]outside the building, I
 
 ;//blackout
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn18 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn18 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;//â€»ã‚²ãƒ¼ãƒ ã‚ªãƒ¼ãƒãƒ¼
+;//¦ƒQ[ƒ€ƒI[ƒo[
 
 ;;;[sysbt_meswin clear]
 
@@ -485,7 +485,7 @@ As the sound of an airplane's roar could be heard from[r]outside the building, I
 	[jump target=*BADEND]
 [endif]
 
-;ã“ã“ã¯sf.g_run_awayã§é–‹ãã¨ã“ã‚ã‚‹ã‹ã‚‰åˆã£ã¦ã‚‹
+;‚±‚±‚Ísf.g_run_away‚ÅŠJ‚­‚Æ‚±‚ ‚é‚©‚ç‡‚Á‚Ä‚é
 [call storage="movie_sub.ks" target=*badend_open]
 
 [eval exp="sf.g_badend2 = 1"]

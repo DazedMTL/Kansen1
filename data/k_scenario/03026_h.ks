@@ -1,21 +1,21 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯03026ã€å†ã³ã€â™‚â™‚
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ç³ãƒ»åŠ è—¤
-;//ã€†ç«¹å†…è¦–ç‚¹
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN03026wÄ‚Ñx‰‰
+;//BG:“Áê‹³º˜L‰ºF–éFÁ“”
+;//“oêl•¨G“µE‰Á“¡
+;//Y’|“à‹“_
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *03026_H_TOP
-;[debug_win]ãªã†ã€€03026_H[debug_win_end]
+;[debug_win]‚È‚¤@03026_H[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_03026 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_03026 = 1"]
 
-;*SceneSet|ã€å†ã³ã€
+;*SceneSet|wÄ‚Ñx
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 ;//[bgm007]
 
@@ -27,7 +27,7 @@
 *3489|
 [fc]
 [ns]Takeuchi[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *3490|
 [fc]
@@ -37,15 +37,15 @@ Hitomi still hasn't noticed me chasing after her from[r]behind.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1361|
 [fc]
 [vo_sa s="sae0145"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
-;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM007ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
@@ -60,7 +60,7 @@ I approached Hitomi, who had stopped in front of the[r]restroom, and quickly jum
 [ns]Takeuchi[nse]
 Hitomii!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1362|
 [fc]
@@ -68,13 +68,13 @@ Hitomii!![pcms]
 [ns]Saeki[nse]
 Huh...?![pcms]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 
 [se0 storage="se021"]
 
 [quake_bg xy m]
 
-;//â™ªï¼šBGM003ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM003ƒtƒF[ƒhƒCƒ“
 
 [bgm003]
 
@@ -117,6 +117,6 @@ I need to cum inside Hitomi's pussy quickly...[pcms]
 
 ;//blackout
 
-;//[03027]ã¸
+;//[03027]‚Ö
 [jump target=*03027_H_TOP storage="03027_H.ks"]
 

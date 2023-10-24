@@ -1,29 +1,29 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02112ã€è¡æ’ƒã€
-;//BG:è¦–è´è¦šå®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»å²¸ç”°ãƒ»ç«¹å†…
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02112wÕŒ‚x
+;//BG:‹’®ŠoºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DEƒŠƒTEŠİ“cE’|“à
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02112_TOP
-;[debug_win]ãªã†ã€€02112[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02112 = 1"]
+;[debug_win]‚È‚¤@02112[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02112 = 1"]
 
-;*SceneSet|ã€è¡æ’ƒã€
+;*SceneSet|wÕŒ‚x
 
 ;//[02112]
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 ;//[bgm008]
 ;//BG:bg015a
 ;//[bg storage="bg15a"]
 ;//[trans_c cross time=500]
 
-;//SE:æ‰‰ã‚’é–‹ã
+;//SE:”à‚ğŠJ‚­
 [se0 storage="se027"]
 
-;ç«‹ã¡
+;—§‚¿
 *std241|
 [fc]
 [ns]Takeuchi[nse]
@@ -33,7 +33,7 @@ Ah, there she is!! The morning one![pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std242|
 [fc]
 [ns]male student[nse]
@@ -65,7 +65,7 @@ Just punching won't work on this guy!![pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std243|
 [fc]
 [ns]Takeuchi[nse]
@@ -73,7 +73,7 @@ O-Okay...[pcms]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
 
 ;//redflash
@@ -89,7 +89,7 @@ O-Okay...[pcms]
 [fc]
 Shinya grabbed the leg of a nearby chair and swung it wildly[r]at the man.[pcms]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
 
 ;//redflash
@@ -101,13 +101,13 @@ Shinya grabbed the leg of a nearby chair and swung it wildly[r]at the man.[pcms]
 
 [quake_bg xy m]
 
-;ç«‹ã¡
+;—§‚¿
 *std244|
 [fc]
 [ns]Takeuchi[nse]
 This...! Don't get close to Yuu-chan!![pcms]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
 
 ;//redflash
@@ -142,7 +142,7 @@ Takeuchi and I will take care of Kishida-sensei!![pcms]
 [ChrSetParts layer=1 chface="risa_c_a_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v865|
 [fc]
@@ -154,7 +154,7 @@ Yamagishi-san, run![pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v866|
 [fc]
@@ -164,14 +164,14 @@ Y-Yes![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 *2161|
 [fc]
 Takeuchi and I waited for Yamagishi-san and Shindou-sensei[r]to leave the classroom, and then we mercilessly struck the[r]man's body with chairs.[pcms]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
 
 ;//redflash
@@ -187,7 +187,7 @@ Takeuchi and I waited for Yamagishi-san and Shindou-sensei[r]to leave the classr
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std245|
 [fc]
 [ns]male student[nse]
@@ -201,7 +201,7 @@ You perverted bastard!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
 
 ;//redflash
@@ -232,8 +232,8 @@ I noticed that the desks in the audiovisual room were larger[r]than the ones in 
 [fc]
 We kicked the man who was trying to stand up, and with[r]Shinya's help, we toppled the desk onto him.[pcms]
 
-;//ã‚¬ã‚¿ã‚¬ã‚¿ã§å¯¾å¿œ
-;//SE:ã‚¬ãƒ©ã‚¬ãƒ©
+;//ƒKƒ^ƒKƒ^‚Å‘Î‰
+;//SE:ƒKƒ‰ƒKƒ‰
 [se0 storage="se024"]
 
 *2167|
@@ -246,14 +246,14 @@ Put everything on him, everything!![pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std246|
 [fc]
 [ns]Takeuchi[nse]
 Okay![pcms]
 
-;//ã‚¬ã‚¿ã‚¬ã‚¿ã§å¯¾å¿œ
-;//SE:ã‚¬ãƒ©ã‚¬ãƒ©
+;//ƒKƒ^ƒKƒ^‚Å‘Î‰
+;//SE:ƒKƒ‰ƒKƒ‰
 [se0 storage="se024"]
 
 [backlay_c][chara_int][trans_c cross time=150]
@@ -268,8 +268,8 @@ We piled up all the desks in the audiovisual room on top of[r]the struggling man
 [fc]
 With this, if the guy's friends don't move the desks or if[r]the desks don't collapse for some reason, we shouldn't have[r]to see this guy's face for a while.[pcms]
 
-;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
-;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM008ƒtƒF[ƒhƒAƒEƒg
+;//ôFBGM007ƒtƒF[ƒhƒCƒ“
 [bgm007]
 
 *2170|
@@ -281,7 +281,7 @@ With this, if the guy's friends don't move the desks or if[r]the desks don't col
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std247|
 [fc]
 [ns]Takeuchi[nse]
@@ -317,7 +317,7 @@ Shinya, can you lend me a hand over there?[pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std248|
 [fc]
 [ns]Takeuchi[nse]
@@ -358,11 +358,11 @@ I guess I'm not so different from Shinya after all...[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//[02113]ã¸
+;//[02113]‚Ö
 [jump target=*02113_TOP storage="02113.ks"]

@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05480ã€é™ã¾ã‚Šè¿”ã‚‹å­¦åœ’ï¼’ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤•æ–¹ï¼›æ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05480wÃ‚Ü‚è•Ô‚éŠw‰€‚Qx
+;//BG:“Áê‹³º˜L‰ºF—[•ûGÁ“”
+;//“oêl•¨GålŒöE“µ
 
 *05480_TOP
-;[debug_win]ãªã†ã€€05480[debug_win_end]
-;*SceneSet|ã€é™ã¾ã‚Šè¿”ã‚‹å­¦åœ’ï¼’ã€
+;[debug_win]‚È‚¤@05480[debug_win_end]
+;*SceneSet|wÃ‚Ü‚è•Ô‚éŠw‰€‚Qx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05480 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05480 = 1"]
 
-;//â™ªï¼šBGM004
+;//ôFBGM004
 [bgm004]
 
 ;//;//BG:bg05a
@@ -23,7 +23,7 @@ By the way, it's so quiet that it's making my ears hurt...[l][er]
 It's getting darker and darker too...[l][er]
 It feels more like a horror movie than a war movie...[pcms]
 
-;//SE:ã‚«ãƒ©ã‚¹ã®æ³£ãå£°
+;//SE:ƒJƒ‰ƒX‚Ì‹ƒ‚«º
 [se0 storage="se042"]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
@@ -31,7 +31,7 @@ It feels more like a horror movie than a war movie...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2297|
 [fc]
@@ -49,7 +49,7 @@ Kyaa![pcms]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2298|
 [fc]
@@ -67,7 +67,7 @@ It's just my imagination...[pcms]
 I couldn't help but find Saeki, who was surprised, scared,[r]and gripping her shirt tightly with force, cute.[pcms]
 
 ;//;//BG:bg03a
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [bg storage="bg03a"]
 [trans_c cross time=500]
 
@@ -80,7 +80,7 @@ After walking for a while, Saeki approached me from behind.[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2299|
 [fc]
@@ -93,7 +93,7 @@ Kato-san...[pcms]
 [ns]Kato[nse]
 Hm?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2300|
 [fc]
@@ -137,8 +137,8 @@ I nodded in response and we started walking towards the[r]second floor classroom
 
 ;//blackout
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05490]ã¸
+;//[05490]‚Ö
 [jump target=*05490_H_TOP storage="05490_H.ks"]

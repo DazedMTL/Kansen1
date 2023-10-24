@@ -1,19 +1,19 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05330ã€è·å“¡å®¤ã§ãƒ©ã‚¸ã‚ªã‚’è´ãã€
-;//;//BG:è·å“¡å®¤ï¼šæœï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN05330wEˆõº‚Åƒ‰ƒWƒI‚ğ’®‚­x
+;//;//BG:EˆõºF’©FÁ“”
+;//“oêl•¨GålŒöE“µEƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *05330_TOP
-;[debug_win]ãªã†ã€€05330[debug_win_end]
-;*SceneSet|ã€è·å“¡å®¤ã§ãƒ©ã‚¸ã‚ªã‚’è´ãã€
+;[debug_win]‚È‚¤@05330[debug_win_end]
+;*SceneSet|wEˆõº‚Åƒ‰ƒWƒI‚ğ’®‚­x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05330 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05330 = 1"]
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 [bgm008]
 
@@ -22,7 +22,7 @@
 [bg storage="bg12a"]
 [trans_c cross time=500]
 
-;//SE:æ‰‰ã‚’é–‹ãï¼ˆå‹¢ã„ã‚ˆãï¼‰
+;//SE:”à‚ğŠJ‚­i¨‚¢‚æ‚­j
 
 [se0 storage="se009"]
 
@@ -40,7 +40,7 @@ Sensei!![pcms]
 [ChrSetParts layer=1 chface="risa_c_a_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2201|
 [fc]
@@ -48,7 +48,7 @@ Sensei!![pcms]
 [ns]Shindou[nse]
 Close the door! Quickly!![pcms]
 
-;//SE:æ‰‰ã‚’é–‰ã‚ã‚‹ï¼ˆå‹¢ã„ã‚ˆãï¼‰
+;//SE:”à‚ğ•Â‚ß‚éi¨‚¢‚æ‚­j
 
 [se0 storage="se010"]
 
@@ -57,7 +57,7 @@ Close the door! Quickly!![pcms]
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2202|
 [fc]
@@ -75,7 +75,7 @@ Also, I saw Tanaka-kun and Igarashi-san, but something[r]seemed off about both o
 [fc]
 Shindou-sensei's face turned serious at my words, Something[r]strange is going on.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2203|
 [fc]
@@ -96,7 +96,7 @@ it was really weird.[pcms]
 [ChrSetParts layer=1 chface="risa_c_a_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2204|
 [fc]
@@ -110,7 +110,7 @@ Hurry![pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2205|
 [fc]
@@ -137,7 +137,7 @@ While listening to my question, Shindou-sensei took a small[r]radio from the nea
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2206|
 [fc]
@@ -179,7 +179,7 @@ According to eyewitness testimonies, the female victims[r]initially did not move
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2211|
 [fc]
@@ -199,7 +199,7 @@ Saeki, who had silently stood by my side and listened to the[r]radio, became sus
 ;//
 
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2212|
 [fc]
@@ -221,7 +221,7 @@ I listened to the information coming from the radio and[r]remembered what I saw 
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2213|
 [fc]
@@ -240,7 +240,7 @@ Igarashi-san's clothes were torn and they were walking with[r]a group...[pcms]
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2214|
 [fc]
@@ -254,7 +254,7 @@ If the cause is something other than a riot, they might be[r]able to be saved.[p
 [ns]Kato[nse]
 I hope that's the case...[pcms]
 
-;//SE:æ‰‰ã‚’å©ãéŸ³ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:”à‚ğ’@‚­‰¹@ƒ‹[ƒv
 [se0 storage="se027" loop=true]
 
 [backlay_c][chara_int][trans_c cross time=150]
@@ -288,7 +288,7 @@ The voice of Yuuji and Igarashi-san, calling out while[r]knocking on the door, c
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2216|
 [fc]
@@ -304,7 +304,7 @@ Shindou-sensei quickly headed towards the nearby phone,[r]picked up the receiver
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2217|
 [fc]
@@ -337,7 +337,7 @@ give me a full load...[pcms]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2219|
 [fc]
@@ -362,7 +362,7 @@ It seems like they won't come in...[pcms]
 [ChrSetParts layer=1 chface="risa_c_a_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2220|
 [fc]
@@ -379,7 +379,7 @@ Shindou-sensei repeated the action of placing the receiver[r]down, wearing a ste
 [ns]Kato[nse]
 Oh, please calm down, Sensei. If you take your time, it will[r]connect properly.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2221|
 [fc]
@@ -392,7 +392,7 @@ It's not connecting...[pcms]
 [ns]Kato[nse]
 Huh...?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2222|
 [fc]
@@ -410,7 +410,7 @@ Well then...[pcms]
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2223|
 [fc]
@@ -423,7 +423,7 @@ I can't call for help... According to what you've told me,[r]there are other thu
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2224|
 [fc]
@@ -434,7 +434,7 @@ No way...[pcms]
 *5331|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5332|
 [fc]
@@ -472,13 +472,13 @@ Let's have some fun~...[pcms]
 [ChrSetParts layer=1 chface="sae_c_c_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2226|
 [fc]
 [vo_sa s="sae0464"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5337|
 [fc]
@@ -494,7 +494,7 @@ H-Hey! What are you doing!![pcms]
 [ChrSetParts layer=1 chface="sae_c_c_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2227|
 [fc]
@@ -506,7 +506,7 @@ Stop it already!! If you want to have sex so badly, then do[r]it on your own!![p
 [fc]
 I became worried that Saeki might be trying to open the[r]door, but she directed a furious shout towards Yuuji and the[r]others outside the door.[pcms]
 
-;//SE:æ‰‰ã‚’å©ãéŸ³ã€€åœæ­¢
+;//SE:”à‚ğ’@‚­‰¹@’â~
 [stop_se0]
 
 [backlay_c][chara_int][trans_c cross time=150]
@@ -543,7 +543,7 @@ When I saw Saeki, who was breathing through her shoulder,[r]her complexion had b
 Calm down, Saeki... Is something wrong with your body?[l][er]
 Your complexion doesn't look good.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2229|
 [fc]
@@ -565,7 +565,7 @@ For Saeki, who is already so scared just walking inside the[r]school building at
 I understand that it's tough, but right now, think about[r]protecting yourself.[l][er]
 I'll support you too.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2230|
 [fc]
@@ -582,7 +582,7 @@ Next to me, calming down Saeki, Shindou-sensei, who was[r]troubled by the fact t
 [ChrSetParts layer=1 chface="risa_c_a_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2231|
 [fc]
@@ -615,7 +615,7 @@ I was shocked.[pcms]
 [ChrSetParts layer=1 chface="risa_c_a_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2232|
 [fc]
@@ -634,7 +634,7 @@ Yes![pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2233|
 [fc]
@@ -648,8 +648,8 @@ Yes...[pcms]
 
 ;//blackout
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05340]ã¸
+;//[05340]‚Ö
 [jump target=*05340_TOP storage="05340.ks"]

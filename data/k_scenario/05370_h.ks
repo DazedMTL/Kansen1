@@ -1,17 +1,17 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05370ã€ãƒˆã‚¤ãƒ¬ï¼’ã€
-;//;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæœï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN05370wƒgƒCƒŒ‚Qx
+;//;//BG:“Áê‹³º˜L‰ºF’©FÁ“”
+;//“oêl•¨GålŒö
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *05370_H_TOP
-;[debug_win]ãªã†ã€€05370_H[debug_win_end]
-;*SceneSet|ã€ãƒˆã‚¤ãƒ¬ï¼’ã€
+;[debug_win]‚È‚¤@05370_H[debug_win_end]
+;*SceneSet|wƒgƒCƒŒ‚Qx
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 
 [bgm009]
 
@@ -20,7 +20,7 @@
 [bg storage="bg03a"]
 [trans_c cross time=500]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05370 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05370 = 1"]
 
 *5397|
 [fc]
@@ -66,7 +66,7 @@ Are you a child who can't go to the bathroom alone at[r]night...?[pcms]
 I wonder what Saeki's dad is like...[l][er]
 Is he handsome and really serious and strict...?[pcms]
 
-;//â™ªï¼šBGM009ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM009ƒtƒF[ƒhƒAƒEƒg
 
 *5404|
 [fc]
@@ -95,7 +95,7 @@ Even if I wanted to check, I can't go inside...[pcms]
 [ns]Kato[nse]
 Well, I guess a cockroach came out or something...[pcms]
 
-;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM008ƒtƒF[ƒhƒCƒ“
 
 *v2257|
 [fc]
@@ -106,7 +106,7 @@ K-Kato-san!![pcms]
 *5408|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5409|
 [fc]
@@ -119,9 +119,9 @@ I quickly stepped into the women's restroom.[pcms]
 
 ;//blackout
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05390]ã¸
+;//[05390]‚Ö
 [jump target=*05390_H_TOP storage="05390_H.ks"]
 

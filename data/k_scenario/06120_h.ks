@@ -1,11 +1,11 @@
 
-;//â‡’ãƒ–ãƒ­ãƒƒã‚¯06120ã€ä¸å®‰ï¼’ã€
-;//BG;ä½“è‚²æ•™å®˜å®¤ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ãƒªã‚µãƒ»å„ª
-;//è¦–ç‚¹ï¼šãƒªã‚µ
+;//ËƒuƒƒbƒN06120w•sˆÀ‚Qx
+;//BG;‘Ìˆç‹³Š¯ºF–éF“_“”
+;//“oêl•¨GƒŠƒTE—D
+;//‹“_FƒŠƒT
 
 *06120_H_TOP
-;[debug_win]ãªã†ã€€06120_H[debug_win_end]
+;[debug_win]‚È‚¤@06120_H[debug_win_end]
 
 [eval exp="sf.SRP32 = 1"][if exp="tf.scene_mode == 0"][jump target=*06120_H][endif]
 ;;[winset]
@@ -13,14 +13,14 @@
 [jump target=*scene_start]
 
 *06120_H
-;*SceneSet|ã€ä¸å®‰ï¼’ã€
+;*SceneSet|w•sˆÀ‚Qx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_06120 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_06120 = 1"]
 
-;//â™ªï¼šBGM003
+;//ôFBGM003
 [bgm003]
 
-;//;//BG:bgç„¡ã—
+;//;//BG:bg–³‚µ
 
 ;;;[sysbt_meswin]
 
@@ -63,7 +63,7 @@ But, maybe...[pcms]
 
 ;;;[sysbt_meswin]
 
-;//SE:å¿ƒæ‹éŸ³
+;//SE:S”‰¹
 
 [se0 storage="se003"]
 
@@ -92,7 +92,7 @@ her entire body covered in semen...[pcms]
 [fc]
 [vo_ri s="risa0602"]
 [ns]Shindou[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *6684|
 [fc]
@@ -295,14 +295,14 @@ I wiped Yamagishi-san's exhausted body and dressed her in[r]clothes.[pcms]
 
 ;;;[sysbt_meswin clear]
 
-; å›æƒ³ãƒ¢ãƒ¼ãƒ‰ä¸­ãªã‚‰ã€å›æƒ³ãƒ¢ãƒ¼ãƒ‰ç”»é¢ã«æˆ»ã‚‹
+; ‰ñ‘zƒ‚[ƒh’†‚È‚çA‰ñ‘zƒ‚[ƒh‰æ–Ê‚É–ß‚é
 [if exp="tf.scene_mode==true"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
 
 
-;//[06130]ã¸
+;//[06130]‚Ö
 [jump target=*06130_H_TOP storage="06130_H.ks"]
 
 

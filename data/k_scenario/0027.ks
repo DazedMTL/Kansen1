@@ -1,29 +1,29 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0027ã€è¦–è´è¦šå®¤ã€
-;//BG:è¦–è´è¦šå®¤ï¼šå¤œ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­ãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN0027w‹’®Šoºx
+;//BG:‹’®ŠoºF–é
+;//“oêl•¨GålŒöE—DE“µE•ü”üE’|“àE“c’†EƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 ;//[0027]
 
 *0027_TOP
-;[debug_win]ãªã†ã€€0027[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0027 = 1"]
+;[debug_win]‚È‚¤@0027[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0027 = 1"]
 
-;*SceneSet|ã€è¦–è´è¦šå®¤ã€
+;*SceneSet|w‹’®Šoºx
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 [bgm001]
 ;//BG:bg015d
 
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [bg storage="bg15d"]
 [trans_c wipe time=501]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 [se0 storage="se008"]
 
 *627|
@@ -54,7 +54,7 @@ I wonder what those guys are really up to.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v249|
 [fc]
@@ -72,7 +72,7 @@ Yuuji ate too much and seems to be feeling sick, so he might[r]still be throwing
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v250|
 [fc]
@@ -90,7 +90,7 @@ Ah, Shinya had to take a dump on his way to throw out the[r]garbage, so he ended
 [ChrSetParts layer=1 chface="sae_c_b_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v251|
 [fc]
@@ -108,7 +108,7 @@ Hehe, excuse my rudeness.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v252|
 [fc]
@@ -125,7 +125,7 @@ Saeki let out a sigh of exasperation, and just as she did,[r]someone opened the 
 [ChrSetParts layer=1 chface="tanaka_a_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std127|
 [fc]
 [ns]Tanaka[nse]
@@ -136,8 +136,8 @@ Well then, is that kind of feeling okay?[pcms]
 [ChrSetParts layer=1 chface="tomo_c_a1_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
-;//äº”ååµâ€»voiceç„¡ã—
+;—§‚¿
+;//ŒÜ\—’¦voice–³‚µ
 
 *635|
 [fc]
@@ -148,7 +148,7 @@ Yuuji whispered something, and Yamagishi-san nodded with a[r]troubled expression
 [ChrSetParts layer=1 chface="tanaka_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std129|
 [fc]
 [ns]Tanaka[nse]
@@ -164,7 +164,7 @@ You're slow! How far did you go to throw up?[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std130|
 [fc]
 [ns]Tanaka[nse]
@@ -185,7 +185,7 @@ Yuuji looked around the room with a smirk, while I made a[r]bitter face.[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std131|
 [fc]
 [ns]Tanaka[nse]
@@ -201,7 +201,7 @@ Ah, he went out to take out the trash and still hasn't come[r]back.[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std132|
 [fc]
 [ns]Tanaka[nse]
@@ -228,7 +228,7 @@ Idiot!! Stop that in front of Saeki![pcms]
 [fc]
 While whispering to Yuuji, I looked at Saeki and she was[r]staring at me with a suspicious look.[pcms]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 [se0 storage="se008"]
 
 [ChrSetEx layer=1 chbase="take_a_c_01"]
@@ -249,7 +249,7 @@ Oh, Shinya, you're late! What have you been doing all this[r]time?[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std133|
 [fc]
 [ns]Takeuchi[nse]
@@ -282,7 +282,7 @@ Did you manage to capture it? A spirit photograph...[pcms]
 [fc]
 Shinya laughed at my words with a snort and made a lewd[r]smile.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std134|
 [fc]
 [ns]Takeuchi[nse]
@@ -301,13 +301,13 @@ I felt something unsettling about Shinya's smile, which was[r]different from his
 [ChrSetParts layer=1 chface="tanaka_a_a_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std135|
 [fc]
 [ns]Tanaka[nse]
 Oh, what did you take? Show me a little.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std136|
 [fc]
 [ns]Takeuchi[nse]
@@ -321,7 +321,7 @@ In response to Shinya's gesture of pointing at himself with[r]his index finger, 
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std137|
 [fc]
 [ns]Tanaka[nse]
@@ -332,7 +332,7 @@ Ugh, gross! Shinya is so creepy!![pcms]
 [ChrSetParts layer=1 chface="take_a_c_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std138|
 [fc]
 [ns]Takeuchi[nse]
@@ -341,7 +341,7 @@ Heheh...[pcms]
 *653|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *654|
 [fc]
@@ -355,14 +355,14 @@ I couldn't help but wonder what Shinya had captured with his[r]digital camera, s
 [fc]
 However, I lost that timing when Shindou-sensei entered the[r]audiovisual room.[pcms]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 [se0 storage="se008"]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v253|
 [fc]
@@ -376,7 +376,7 @@ Well then, please take a seat wherever you like.[pcms]
 [ChrSetParts layer=1 chface="take_a_d_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std139|
 [fc]
 [ns]Takeuchi[nse]
@@ -402,9 +402,9 @@ I wonder what kind of scoop could have changed Shinya's[r]demeanor like that...[
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;//â€»æ¡ä»¶åˆ†å²
-;//ãƒ»flag:ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ã‚¶ãƒƒãƒ”ãƒ³ã‚°ãƒ‘ãƒ¼ãƒˆã€€é–‹æ”¾ã€€ãŒoff;//[0028]ã¸
-;//ãƒ»flag:ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ã‚¶ãƒƒãƒ”ãƒ³ã‚°ãƒ‘ãƒ¼ãƒˆã€€é–‹æ”¾ã€€andã€€flag:ãƒªã‚µã¨å²¸ç”°ã®ã‚¢ã‚ªã‚«ãƒ³ã€€onã®ã¨ã;//[0101]ã¸
+;//¦ğŒ•ªŠò
+;//Eflag:ƒvƒƒ[ƒOƒUƒbƒsƒ“ƒOƒp[ƒg@ŠJ•ú@‚ªoff;//[0028]‚Ö
+;//Eflag:ƒvƒƒ[ƒOƒUƒbƒsƒ“ƒOƒp[ƒg@ŠJ•ú@and@flag:ƒŠƒT‚ÆŠİ“c‚ÌƒAƒIƒJƒ“@on‚Ì‚Æ‚«;//[0101]‚Ö
 
 [if exp="sf.g_prologue_clear == 1 && f.AOKAN == 1"]
 	[jump target=*0101_TOP storage="0101.ks"]

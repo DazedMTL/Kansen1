@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08130ã€å¥´éš·ã®ç›®è¦šã‚ã€
-;//BG;ç„¡ã—
-;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»ç«¹å†…ãƒ»ãƒªã‚µ
+;//¡ËƒuƒƒbƒN08130w“z—ê‚Ì–ÚŠo‚ßx
+;//BG;–³‚µ
+;//BG:“n‚è˜L‰ºF–éF“_“”
+;//“oêl•¨FålŒöE’|“àEƒŠƒT
 
 *08130_TOP
-;[debug_win]ãªã†ã€€08130[debug_win_end]
+;[debug_win]‚È‚¤@08130[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08130 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08130 = 1"]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 [bgm007]
 
@@ -26,7 +26,7 @@
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std598|
 [fc]
 [ns]Takeuchi[nse]
@@ -43,7 +43,7 @@ And you say it's heavy... Maybe it's your own body that's[r]heavy, huh?[pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std599|
 [fc]
 [ns]Takeuchi[nse]
@@ -69,7 +69,7 @@ Shindou-sensei, who was dragged by Shinya, is talking in her[r]sleep.[pcms]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std600|
 [fc]
 [ns]Takeuchi[nse]
@@ -85,7 +85,7 @@ Hahaha!! Don't be surprised by something like this!![pcms]
 [ChrSetParts layer=1 chface="risa_a_a_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3518|
 [fc]
@@ -99,7 +99,7 @@ What? Why am I naked...?[pcms]
 My laughter woke up the teacher.[l][er]
 After looking around, the teacher started to alternate[r]between looking at our faces and began to feel scared.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3519|
 [fc]
@@ -117,7 +117,7 @@ Sensei, why are you so scared![pcms]
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std601|
 [fc]
 [ns]Takeuchi[nse]
@@ -134,7 +134,7 @@ It's kind of funny!![pcms]
 Kukuku!! Hahahaha!! What's up, sensei!![l][er]
 What's wrong!? There's no need to be scared, you know!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std602|
 [fc]
 [ns]Takeuchi[nse]
@@ -152,7 +152,7 @@ You'll listen to everything we say, right?[pcms]
 [ChrSetParts layer=1 chface="risa_a_a_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3520|
 [fc]
@@ -170,7 +170,7 @@ Th-this... is...[pcms]
 When I gave Shinya a meaningful look, he immediately came to[r]my defense without hesitation.[l][er]
 He really is my best friend.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std603|
 [fc]
 [ns]Takeuchi[nse]
@@ -197,7 +197,7 @@ ugh...[pcms]
 [ChrSetParts layer=1 chface="risa_a_a_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3521|
 [fc]
@@ -224,7 +224,7 @@ As I suspected, the teacher blushed and started speaking[r]while looking down at
 [ChrSetParts layer=1 chface="risa_a_c_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3522|
 [fc]
@@ -246,7 +246,7 @@ What's wrong with your body, sensei?[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std604|
 [fc]
 [ns]Takeuchi[nse]
@@ -261,7 +261,7 @@ Still avoiding our gaze, the teacher finally spoke up.[pcms]
 [ChrSetParts layer=1 chface="risa_a_c_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3523|
 [fc]
@@ -280,7 +280,7 @@ My body feels hot, you know...[pcms]
 [ChrSetParts layer=1 chface="risa_a_c_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3524|
 [fc]
@@ -306,7 +306,7 @@ We also thought it was fun...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std605|
 [fc]
 [ns]Takeuchi[nse]
@@ -318,7 +318,7 @@ Sensei, are you also starting to enjoy it?[pcms]
 [ChrSetParts layer=1 chface="risa_a_c_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3525|
 [fc]
@@ -336,7 +336,7 @@ Well, who cares about the cause anyway!![pcms]
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std606|
 [fc]
 [ns]Takeuchi[nse]
@@ -361,7 +361,7 @@ But well, who cares about that![pcms]
 [ChrSetParts layer=1 chface="risa_a_c_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3526|
 [fc]
@@ -375,7 +375,7 @@ honestly... it was fun... and felt good...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std607|
 [fc]
 [ns]Takeuchi[nse]
@@ -386,7 +386,7 @@ Is that so? Somehow, I'm happy about it!![pcms]
 [ChrSetParts layer=1 chface="risa_a_c_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3527|
 [fc]
@@ -409,7 +409,7 @@ The teacher closed their eyes and after making a hesitant[r]expression, they sta
 [ChrSetParts layer=1 chface="risa_a_c_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3528|
 [fc]
@@ -423,7 +423,7 @@ And today, that fantasy became a reality...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std608|
 [fc]
 [ns]Takeuchi[nse]
@@ -434,7 +434,7 @@ So, were you happy about it? Sensei?[pcms]
 [ChrSetParts layer=1 chface="risa_a_c_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3529|
 [fc]
@@ -454,7 +454,7 @@ was getting excited!![pcms]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std609|
 [fc]
 [ns]Takeuchi[nse]
@@ -504,7 +504,7 @@ Let's have fun together, everyone!![pcms]
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std610|
 [fc]
 [ns]Takeuchi[nse]
@@ -516,7 +516,7 @@ What does it mean to have fun?[l][er]
 [ChrSetParts layer=1 chface="risa_a_c_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3530|
 [fc]
@@ -529,7 +529,7 @@ I want to be violated here, right now...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std611|
 [fc]
 [ns]Takeuchi[nse]
@@ -550,7 +550,7 @@ No!! Let's go quickly!![pcms]
 [ChrSetParts layer=1 chface="risa_a_c_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3531|
 [fc]
@@ -568,7 +568,7 @@ You're so forceful...[pcms]
 ;	*|
 ;	*/
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*08140_H_TOP storage="08140_H.ks"]
 
 

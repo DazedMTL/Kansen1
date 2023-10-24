@@ -1,43 +1,43 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0102ã€Žãƒ­ãƒ¼ã‚¿ãƒ¼ãŒå…¥ã£ãŸã¾ã¾ã€ç”Ÿå¾’ã®å‰ã§ã€
-;//BG:è¦–è´è¦šå®¤
-;//EVENT;//BG:è¦–è´è¦šå®¤ï¼š
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»çž³ãƒ»æœ‹ç¾Žãƒ»ç«¹å†…ãƒ»ç”°ä¸­ãƒ»ãƒªã‚µ
-;//è¦–ç‚¹ï¼šãƒªã‚µ
-;//â˜…ï¼¨EVENT_004ã€€ã€Žãƒ”ãƒ³ã‚¯ãƒ­ãƒ¼ã‚¿ãƒ¼ã€
-;//ä½“ä½ï¼šç«‹ã£ã¦ã„ã‚‹ã€‚ç›¸æ‰‹ã¯ç„¡ã—ã€‚
-;//è‚¡é–“ã«ãƒ­ãƒ¼ã‚¿ãƒ¼ã‚’æŒ¿å…¥ã—ãŸã¾ã¾ã®ãƒªã‚µã€‚
-;//ã‚¢ãƒŠãƒ«ã‹ã‚‰ã¯ã€å²¸ç”°ã®ç²¾æ¶²ãŒã‚ãµã‚Œã¦å‡ºã¦ããã†ã€‚
-;//ä¸»äººå…¬é”ã«ãƒ­ãƒ¼ã‚¿ãƒ¼ã®éŸ³ãŒã°ã‚Œãªã„æ§˜ã€è¶³ã‚’ãã¤ãé–‰ã˜ã¦ã„ã‚‹ã€‚
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN0102wƒ[ƒ^[‚ª“ü‚Á‚½‚Ü‚ÜA¶“k‚Ì‘O‚Åx
+;//BG:Ž‹’®ŠoŽº
+;//EVENT;//BG:Ž‹’®ŠoŽºF
+;//“oêl•¨GŽålŒöE—DE“µE•ü”üE’|“àE“c’†EƒŠƒT
+;//Ž‹“_FƒŠƒT
+;//š‚gEVENT_004@wƒsƒ“ƒNƒ[ƒ^[x
+;//‘ÌˆÊF—§‚Á‚Ä‚¢‚éB‘ŠŽè‚Í–³‚µB
+;//ŒÒŠÔ‚Éƒ[ƒ^[‚ð‘}“ü‚µ‚½‚Ü‚Ü‚ÌƒŠƒTB
+;//ƒAƒiƒ‹‚©‚ç‚ÍAŠÝ“c‚Ì¸‰t‚ª‚ ‚Ó‚ê‚Äo‚Ä‚«‚»‚¤B
+;//ŽålŒö’B‚Éƒ[ƒ^[‚Ì‰¹‚ª‚Î‚ê‚È‚¢—lA‘«‚ð‚«‚Â‚­•Â‚¶‚Ä‚¢‚éB
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *0102_H_TOP
-;[debug_win]ãªã†ã€€0102_H[debug_win_end]
+;[debug_win]‚È‚¤@0102_H[debug_win_end]
 
-;//å›žæƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [eval exp="sf.SRP03 = 1"][if exp="tf.scene_mode == 0"][jump target=*0102][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚ÌŽdž‚Ý
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚ÌŽdž‚Ý‚ð‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
-;*SceneSet|ã€Žãƒ­ãƒ¼ã‚¿ãƒ¼ãŒå…¥ã£ãŸã¾ã¾ã€ç”Ÿå¾’ã®å‰ã§ã€
+;*SceneSet|wƒ[ƒ^[‚ª“ü‚Á‚½‚Ü‚ÜA¶“k‚Ì‘O‚Åx
 
 *0102
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0102 = 1"]
+;Žg‚Á‚Ä‚È‚¢[eval exp="sf.g_0102 = 1"]
 
-;//flag:ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ãƒ•ãƒ­ãƒ¼ã€€zapï¼’ã€€è¡¨ç¤º
+;//flag:ƒvƒƒ[ƒOƒtƒ[@zap‚Q@•\Ž¦
 
 
 ;//BG:bg015c
@@ -50,7 +50,7 @@
 
 *scene_start
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 [bgm007]
 
 ;//H_CG:
@@ -60,7 +60,7 @@
 
 ;;;[sysbt_meswin]
 
-;//SE:ãƒ­ãƒ¼ã‚¿ãƒ¼ã®éŸ³ãƒ«ãƒ¼ãƒ—
+;//SE:ƒ[ƒ^[‚Ì‰¹ƒ‹[ƒv
 [se0 storage="se063" loop=true]
 
 *v371|
@@ -328,7 +328,7 @@ Or perhaps, could it be my heart...?[pcms]
 
 ;;;[sysbt_meswin clear]
 
-;//å›žæƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
@@ -336,19 +336,19 @@ Or perhaps, could it be my heart...?[pcms]
 
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
 
 
-;//å›žæƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn03 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚ÌŽdž‚Ý
+;•s—v[eval exp="="sf.g_scn03 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆåŽ»
+;//ƒEƒBƒ“ƒhƒEÁ‹Ž
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
@@ -358,8 +358,8 @@ Or perhaps, could it be my heart...?[pcms]
 
 ;;;[sysbt_meswin]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[ŽŸ‚ÌƒV[ƒ“‚Ö]
 
-;//[0029]ï¼ˆãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ãƒ»æœ¬ãƒ«ãƒ¼ãƒˆï¼‰ã¸
+;//[0029]iƒvƒƒ[ƒOE–{ƒ‹[ƒgj‚Ö
 [jump target=*0029_TOP storage="0029.ks"]
 

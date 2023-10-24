@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05850ã€å±‹ä¸Šã€
-;//BG:å±‹ä¸Šï¼šå¤•æ–¹
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05850w‰®ãx
+;//BG:‰®ãF—[•û
+;//“oêl•¨GålŒöE“µ
 
 *05850_TOP
-;[debug_win]ãªã†ã€€05850[debug_win_end]
-;*SceneSet|ã€å±‹ä¸Šã€
+;[debug_win]‚È‚¤@05850[debug_win_end]
+;*SceneSet|w‰®ãx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05850 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05850 = 1"]
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 
 [bgm009]
 
@@ -18,7 +18,7 @@
 [bg storage="bg22b"]
 [trans_c cross time=500]
 
-;//SE:ãƒ˜ãƒªã‚³ãƒ—ã‚¿ãƒ¼ã®éŸ³ã€€é ã„
+;//SE:ƒwƒŠƒRƒvƒ^[‚Ì‰¹@‰“‚¢
 
 [se0 storage="se033"]
 
@@ -35,7 +35,7 @@ When I reached the rooftop, I could see a helicopter flying[r]very close by, whi
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2576|
 [fc]
@@ -62,7 +62,7 @@ Don't relax just yet, Saeki. We haven't been saved yet.[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2577|
 [fc]
@@ -85,7 +85,7 @@ However, the rescue helicopter did not descend and instead[r]changed direction a
 [ns]Kato[nse]
 What are they doing... Where are they going...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2578|
 [fc]
@@ -98,7 +98,7 @@ Fu... Fufu... Ufufu! Ahhahaha![l][er]
 [fc]
 Saeki seemed to be greatly shocked by the loss of hope right[r]before her eyes, and she became unstable.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2579|
 [fc]
@@ -126,7 +126,7 @@ I'm going to borrow this for a moment...[pcms]
 I squatted down and pulled the radio out of Saeki's hand,[r]desperate for any new information that could become a[r]glimmer of hope.[l][er]
 With a sense of urgency, I turned on the switch.[pcms]
 
-;//SE:ãƒ©ã‚¸ã‚ªã®ãƒãƒ¥ãƒ¼ãƒ‹ãƒ³ã‚°éŸ³
+;//SE:ƒ‰ƒWƒI‚Ìƒ`ƒ…[ƒjƒ“ƒO‰¹
 [se0 storage="se041"]
 
 *6276|
@@ -192,7 +192,7 @@ Do you remember the phrase Hitohachimaru?[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2580|
 [fc]
@@ -210,7 +210,7 @@ It's something important. If you know, please tell me![pcms]
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2581|
 [fc]
@@ -227,7 +227,7 @@ Saeki narrowed her eyes and for a moment, let her gaze swim[r]in the air as if l
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2582|
 [fc]
@@ -240,7 +240,7 @@ Saeki narrowed her eyes and for a moment, let her gaze swim[r]in the air as if l
 [ns]Kato[nse]
 ... Saeki, stand up! We need to hurry!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2583|
 [fc]
@@ -262,5 +262,5 @@ Hurry up!![pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05860]ã¸
+;//[05860]‚Ö
 [jump target=*05860_TOP storage="05860.ks"]

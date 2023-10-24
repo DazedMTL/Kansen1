@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02127ã€ãƒªã‚µã®è»Šã€â™‚â™‚
-;//BG:äºŒéšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼[l][er]
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02127wƒŠƒT‚ÌÔx‰‰
+;//BG:“ñŠK˜L‰ºFƒoƒŠƒP[ƒhF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöEƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥[l][er]
 
 *02127_TOP
-;[debug_win]ãªã†ã€€02127[debug_win_end]
+;[debug_win]‚È‚¤@02127[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02127 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02127 = 1"]
 
-;*SceneSet|ã€ãƒªã‚µã®è»Šã€
+;*SceneSet|wƒŠƒT‚ÌÔx
 
-;//â™ªï¼šBGM003
+;//ôFBGM003
 
 [bgm003]
 
@@ -27,7 +27,7 @@
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v958|
 [fc]
@@ -45,7 +45,7 @@ I raised the fire door a little and peeked my face out to[r]see what was happeni
 [ns]Kato[nse]
 It looks like there's no one here.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v959|
 [fc]
@@ -62,7 +62,7 @@ When I tried to follow Shindou-sensei who had already left[r]and go outside, Yam
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v960|
 [fc]
@@ -101,14 +101,14 @@ When I said that and turned around again, behind Yamagishi-[r]san, there was Shi
 I was curious about Shinya's eyes, but I couldn't just stand[r]there hesitating.[l][er]
 I chased after Shindou-sensei as he hurriedly went down the[r]stairs.[pcms]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 
 [se0 storage="se005"]
 
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -116,5 +116,5 @@ I chased after Shindou-sensei as he hurriedly went down the[r]stairs.[pcms]
 
 ;//blackout
 
-;//[02128]ã¸
+;//[02128]‚Ö
 [jump target=*02128_TOP storage="02128.ks"]

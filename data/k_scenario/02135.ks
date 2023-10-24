@@ -1,24 +1,24 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02135ã€ãƒªã‚µã®å±è²¬ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02135wƒŠƒT‚Ì¶Óx
+;//BG:“Áê‹³º˜L‰ºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöEƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02135_TOP
-;[debug_win]ãªã†ã€€02135[debug_win_end]
+;[debug_win]‚È‚¤@02135[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02135 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02135 = 1"]
 
-;*SceneSet|ã€ãƒªã‚µã®å±è²¬ã€
+;*SceneSet|wƒŠƒT‚Ì¶Óx
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 
 ;//[bgm009]
 
-;//bg008a+zombie_003ã€€ä¸€ä½“
+;//bg008a+zombie_003@ˆê‘Ì
 
 ;	[ChrSetEx layer=2 chbase="zom_01_a"]
 ;	[ChrSetXY layer=2 x=200 y=0]
@@ -47,7 +47,7 @@ I swing the torch, intimidating the men and making them[r]retreat.[pcms]
 [ChrSetParts layer=1 chface="risa_f_f_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v972|
 [fc]
@@ -63,12 +63,12 @@ I had no choice but to chase after Shindou-sensei, who said[r]that with an unwav
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 ;//blackout
 
-;//[02136]ã¸
+;//[02136]‚Ö
 [jump target=*02136_TOP storage="02136.ks"]
 
 

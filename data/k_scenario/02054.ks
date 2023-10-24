@@ -1,26 +1,26 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02054ã€æ¸¡ã‚Šå»Šä¸‹ï¼šå„ªã®éå»ã€
-;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02054w“n‚è˜L‰ºF—D‚Ì‰ß‹x
+;//BG:“n‚è˜L‰ºF–éFÁ“”
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02054_TOP
-;[debug_win]ãªã†ã€€02054[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02054 = 1"]
+;[debug_win]‚È‚¤@02054[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02054 = 1"]
 
-;*SceneSet|ã€æ¸¡ã‚Šå»Šä¸‹ï¼šå„ªã®éå»ã€
+;*SceneSet|w“n‚è˜L‰ºF—D‚Ì‰ß‹x
 
 ;//[02054]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg009e
 [bg storage="bg09e"]
 [trans_c cross time=500]
 
-;//SE:å»Šä¸‹ã‚’æ­©ã
+;//SE:˜L‰º‚ğ•à‚­
 
 [se0 storage="se067"]
 
@@ -29,7 +29,7 @@
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v605|
 [fc]
@@ -53,7 +53,7 @@ Yamagishi-san, with a worried expression on her face, turned[r]to me as I asked 
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v606|
 [fc]
@@ -66,7 +66,7 @@ No, not at all. Actually, I've watched that horror movie we[r]all saw earlier wi
 [ns]Kato[nse]
 Huh, then why were you scared...?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v607|
 [fc]
@@ -89,7 +89,7 @@ Come to think of it, didn't Shinya tell us stories about the[r]spirits of a stud
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v608|
 [fc]
@@ -97,7 +97,7 @@ Come to think of it, didn't Shinya tell us stories about the[r]spirits of a stud
 [ns]Yamagishi[nse]
 Since you seem absent-minded, stop midway while trying to[r]say something, and have a gloomy expression, I thought maybe[r]if I talk about something you like, Kato-kun, you'll cheer[r]up~[l][er]
 
-;//SE:å¿ƒæ‹éŸ³
+;//SE:S”‰¹
 [se0 storage="se003"]
 
 *1437|
@@ -113,7 +113,7 @@ With my unrequited feelings weighing on me, even strange[r]expectations start to
 [ns]Kato[nse]
 Ah, thank you for worrying about me.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v609|
 [fc]
@@ -135,7 +135,7 @@ Ah, I-I see, h-haha, hahahaha...[pcms]
 [ns]Kato[nse]
 The movie we watched today, you said you've seen it multiple[r]times at home, but Yamagishi-san, do you also like horror[r]movies?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v610|
 [fc]
@@ -153,7 +153,7 @@ Yamagishi-san's face became lonely, and with eyes that[r]seemed to be looking in
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v611|
 [fc]
@@ -186,7 +186,7 @@ oh, voice training or something?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v612|
 [fc]
@@ -200,7 +200,7 @@ When I was little, I used to take classical ballet lessons[r]too.[pcms]
 [ns]Kato[nse]
 Eh... Yamagishi-san, have you been studying to become an[r]actress since you were a child?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v613|
 [fc]
@@ -214,7 +214,7 @@ She made me take lessons because she thought it would be[r]useful in the future.
 [ns]Kato[nse]
 Wow... classical ballet, huh? People who do that are[r]surprisingly flexible, aren't they?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v614|
 [fc]
@@ -223,7 +223,7 @@ Wow... classical ballet, huh? People who do that are[r]surprisingly flexible, ar
 If your joints are stiff, you can't make beautiful poses.[l][er]
 I think I'm quite flexible too.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v615|
 [fc]
@@ -260,7 +260,7 @@ But if those feelings are not reciprocated, this opportunity[r]will never come a
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v616|
 [fc]
@@ -281,7 +281,7 @@ With her face turning bright red, she glared at me with[r]upturned eyes.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v617|
 [fc]
@@ -296,7 +296,7 @@ Huh!? W-What? Ah, your hands, right?[l][er]
 Of course I saw! Your whole palm was pressed flat against[r]the floor.[l][er]
 Wow, you really are experienced in ballet![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v618|
 [fc]
@@ -318,7 +318,7 @@ W-Wait a minute! I-I didn't...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v619|
 [fc]
@@ -326,7 +326,7 @@ W-Wait a minute! I-I didn't...[pcms]
 [ns]Yamagishi[nse]
 Moo!![pcms]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 [backlay_c][chara_int][trans_c cross time=150]
@@ -343,7 +343,7 @@ While we were playing what might be our last game of tag, we[r]had made it to th
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v620|
 [fc]
@@ -384,7 +384,7 @@ Hey, Yuuji! Come out![pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v621|
 [fc]
@@ -415,7 +415,7 @@ Shh![pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v622|
 [fc]
@@ -434,7 +434,7 @@ The one inside might actually be Kishida.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v623|
 [fc]
@@ -470,9 +470,9 @@ Alright...[pcms]
 [fc]
 We held our breath in order to call out to the person who[r]should be inside.[pcms]
 
-;//[02055]ã€œ;//[02059]ã¾ã§æ¬ ç•ª
+;//[02055]`;//[02059]‚Ü‚ÅŒ‡”Ô
 
-;//[02070]ã¸
+;//[02070]‚Ö
 [jump target=*02070_TOP storage="02070.ks"]
 
 

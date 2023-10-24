@@ -1,37 +1,37 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯06090ã€ç”°ä¸­ã®ç›®è¦šã‚ã€
-;//BG:ä½“è‚²ç”¨å…·å®¤ï¼šå¤œï¼›æ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ç”°ä¸­ãƒ»æœ‹ç¾ãƒ»æ„ŸæŸ“ã‚¾ãƒ³ãƒ“Ã—ï¼’
+;//¡ËƒuƒƒbƒN06090w“c’†‚Ì–ÚŠo‚ßx
+;//BG:‘Ìˆç—p‹ïºF–éGÁ“”
+;//“oêl•¨G“c’†E•ü”üEŠ´õƒ]ƒ“ƒr~‚Q
 [ns]Tanaka[nse]
 
 *06090_H_TOP
-;[debug_win]ãªã†ã€€06090_H[debug_win_end]
+;[debug_win]‚È‚¤@06090_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [eval exp="sf.SRP31 = 1"][if exp="tf.scene_mode == 0"][jump target=*06090][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *06090
 [fadeoutbgm time=500]
 
-;*SceneSet|ã€ç”°ä¸­ã®ç›®è¦šã‚ã€
+;*SceneSet|w“c’†‚Ì–ÚŠo‚ßx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_06090 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_06090 = 1"]
 
-;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€zapï¼’ã€€è¡¨ç¤º
-;//â™ªï¼šBGMç„¡ã—
-;//BG:bgç„¡ã—
+;//flag:“µƒ‹[ƒgƒtƒ[@zap‚Q@•\¦
+;//ôFBGM–³‚µ
+;//BG:bg–³‚µ
 
 
 
@@ -61,7 +61,7 @@ My dick feels hot for some reason...[pcms]
 
 *scene_start
 
-;//â™ªï¼šBGM004
+;//ôFBGM004
 [bgm004]
 
 ;//HCG:ON
@@ -72,10 +72,10 @@ My dick feels hot for some reason...[pcms]
 ;;;[sysbt_meswin]
 
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 [se0 storage="se059" loop=true]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
 [se1 storage="se060" loop=true]
 
 *6610|
@@ -89,7 +89,7 @@ good...[pcms]
 [vo_to s="tomo0277"]
 [ns]Igarashi[nse]
 Hyau! Ehehe~... It feels... so...[l][er]
-gooood~â™ª My... di-di... it's so full...[l][er]
+gooood~ô My... di-di... it's so full...[l][er]
 nnaaah...[pcms]
 
 *6611|
@@ -189,7 +189,7 @@ Well, I... will... enter... here...[pcms]
 [fc]
 [vo_to s="tomo0282"]
 [ns]Igarashi[nse]
-Yesâ™ª Can I... enter? Right? Quickly?[l][er]
+Yesô Can I... enter? Right? Quickly?[l][er]
 Fuwa... Uaaah... Like this, move, thrust...[l][er]
 Right... Once more, please.[pcms]
 
@@ -383,15 +383,15 @@ Ugh~...[pcms]
 [ns]Male Student L[nse]
 I'm cumming... Ah~...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se1]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -438,7 +438,7 @@ That which flows down her body has transformed this girl[r]from cute to erotic.[
 [fc]
 Tomomin... The semen flowing down her body...[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
 
 [se0 storage="se060" loop=true]
 
@@ -468,11 +468,11 @@ dai... nfuu... a, nu...[pcms]
 [ns]Tanaka[nse]
 Ku, u... aah...[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@’x‚¢@’â~
 
 [stop_se0]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -557,19 +557,19 @@ I wonder what these words mean...[pcms]
 
 
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn32 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn32 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
@@ -579,12 +579,12 @@ I wonder what these words mean...[pcms]
 
 ;;;[sysbt_meswin]
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;//[05190]ã¸
+;//[05190]‚Ö
 [jump target=*05190_TOP storage="05190.ks"]
 

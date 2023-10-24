@@ -1,22 +1,22 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05790ã€Žåˆ¤å®šã€
-;//;//BG:äºŒå›žå»Šä¸‹ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»çž³ãƒ»æ„ŸæŸ“ãƒªã‚µ
+;//¡ËƒuƒƒbƒN05790w”»’èx
+;//;//BG:“ñ‰ñ˜L‰ºF—[•ûFÁ“”
+;//“oêl•¨GŽålŒöE“µEŠ´õƒŠƒT
 
 *05790_TOP
-;[debug_win]ãªã†ã€€05790[debug_win_end]
-;*SceneSet|ã€Žåˆ¤å®šã€
+;[debug_win]‚È‚¤@05790[debug_win_end]
+;*SceneSet|w”»’èx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05790 = 1"]
+;Žg‚Á‚Ä‚È‚¢[eval exp="sf.g_05790 = 1"]
 
-;//â€»ãƒ•ãƒ©ã‚°åˆ¤å®šãƒ–ãƒ­ãƒƒã‚¯
+;//¦ƒtƒ‰ƒO”»’èƒuƒƒbƒN
 
-;//flag:çž³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼‘ï¼“ã€€è¡¨ç¤º
-;//â€»æ¡ä»¶åˆ†å²
-;//ãƒ»flag:æ¥å¹´ã®æ•™å®¤ã€flag:çž³ã¨ä¸€ç·’ã«é£Ÿæ–™ã‚’ã€€ãŒã„ãšã‚Œ
-;//ã‚‚off;//[07370]ã¸
-;//ãƒ»flag:æ¥å¹´ã®æ•™å®¤ã€flag:çž³ã¨ä¸€ç·’ã«é£Ÿæ–™ã‚’ã€€ãŒã„ãšã‚Œ
-;//ã‹ãŒon;//[05800]ã¸
+;//flag:“µƒ‹[ƒgƒtƒ[@‚P‚R@•\Ž¦
+;//¦ðŒ•ªŠò
+;//Eflag:—ˆ”N‚Ì‹³ŽºAflag:“µ‚Æˆê‚ÉH—¿‚ð@‚ª‚¢‚¸‚ê
+;//‚àoff;//[07370]‚Ö
+;//Eflag:—ˆ”N‚Ì‹³ŽºAflag:“µ‚Æˆê‚ÉH—¿‚ð@‚ª‚¢‚¸‚ê
+;//‚©‚ªon;//[05800]‚Ö
 
 [if exp="f.TOGETHER == 0"]
 	;[jump target=*SEL00_05790_01]

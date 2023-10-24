@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02156ã€å¤œç©ºã€
-;//BG:å±‹ä¸Šï¼šå¤œ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02156w–é‹óx
+;//BG:‰®ãF–é
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02156_TOP
-;[debug_win]ãªã†ã€€02156[debug_win_end]
+;[debug_win]‚È‚¤@02156[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02156 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02156 = 1"]
 
-;*SceneSet|ã€å¤œç©ºã€
+;*SceneSet|w–é‹óx
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 
 ;//[bgm009]
 
@@ -28,7 +28,7 @@
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1083|
 [fc]
@@ -57,7 +57,7 @@ I was being swept away by what was happening, without[r]understanding the cause,
 [fc]
 Yamagishi-san, who was observing my disappointed expression,[r]screamed in a tearful voice that resembled a scream of[r]anxiety that had exploded.[pcms]
 
-;//SE:é¢¨ã®éŸ³
+;//SE:•—‚Ì‰¹
 
 [se0 storage="se019"]
 
@@ -66,7 +66,7 @@ Yamagishi-san, who was observing my disappointed expression,[r]screamed in a tea
 [ChrSetParts layer=1 chface="yuu_c_b_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1084|
 [fc]
@@ -74,7 +74,7 @@ Yamagishi-san, who was observing my disappointed expression,[r]screamed in a tea
 [ns]Yamagishi[nse]
 Kato-kun...![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1085|
 [fc]
@@ -88,7 +88,7 @@ Hey, Kato-kun!! I'm scared... I'm so scared!![pcms]
 [ns]Kato[nse]
 Yamagishi-san...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1086|
 [fc]
@@ -104,7 +104,7 @@ Tell me...[pcms]
 [ns]Kato[nse]
 I don't understand what's going on either...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1087|
 [fc]
@@ -115,7 +115,7 @@ Because everyone suddenly changed!![l][er]
 Without any warning!! It's scary![l][er]
 Kato-kun!? Kato-kun!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1088|
 [fc]
@@ -125,7 +125,7 @@ Tomo-chan... Shindou-sensei...[l][er]
 Takeuchi-kun too!! Everyone...[l][er]
 everyone has gone crazy...!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1089|
 [fc]
@@ -135,7 +135,7 @@ We will probably end up like that too...[l][er]
 Like Tomo-chan... Uwaaaaah!! I don't want to!![l][er]
 I don't want to!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1090|
 [fc]
@@ -145,7 +145,7 @@ I don't want to!![pcms]
 I... I don't want to become like that!![l][er]
 Help me... Help me, please!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1091|
 [fc]
@@ -157,13 +157,13 @@ Kato-kun... I...![pcms]
 [fc]
 I unconsciously embraced the distraught Yamagishi-san.[pcms]
 
-;//â™ªï¼šBGM009ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM009ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 
-;//SE:è™«ã®éŸ³ï¼ˆãƒ«ãƒ¼ãƒ—ï¼‰
+;//SE:’‚Ì‰¹iƒ‹[ƒvj
 
 [se0 storage="se018" loop=true]
 
@@ -172,7 +172,7 @@ I unconsciously embraced the distraught Yamagishi-san.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1092|
 [fc]
@@ -185,25 +185,25 @@ I unconsciously embraced the distraught Yamagishi-san.[pcms]
 Yamagishi-san is surprised and stops speaking.[l][er]
 I am also surprised by my own unconscious actions and[r]quickly move away from Yamagishi-san.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1093|
 [fc]
 [vo_ya s="yama0381"]
 [ns]Yamagishi[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *2844|
 [fc]
 My sudden and unexpected actions seemed to have caused a[r]great shock, as Yamagishi-san fell silent and crouched down[r]on the spot.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1094|
 [fc]
 [vo_ya s="yama0382"]
 [ns]Yamagishi[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *2845|
 [fc]
@@ -215,28 +215,28 @@ I surprised her...[pcms]
 [ns]Kato[nse]
 I... I'm sorry...[pcms]
 
-;//SE:è™«ã®éŸ³ï¼ˆåœæ­¢ï¼‰
+;//SE:’‚Ì‰¹i’â~j
 
 [stop_se0]
 
-;//â™ªï¼šBGM010ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM010ƒtƒF[ƒhƒCƒ“
 
 [bgm010]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1095|
 [fc]
 [vo_ya s="yama0383"]
 [ns]Yamagishi[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1096|
 [fc]
@@ -248,7 +248,7 @@ I... I'm the one who should apologize...[pcms]
 [fc]
 We apologize to each other without looking into each other's[r]eyes.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1097|
 [fc]
@@ -261,7 +261,7 @@ We apologize to each other without looking into each other's[r]eyes.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1098|
 [fc]
@@ -270,7 +270,7 @@ We apologize to each other without looking into each other's[r]eyes.[pcms]
 ... I wonder if we'll really be saved...[l][er]
 Even if we are saved, I wonder if we'll end up like Tomo-[r]chan and the others...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1099|
 [fc]
@@ -282,9 +282,9 @@ I don't understand why things turned out that way at all![pcms]
 *2848|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1100|
 [fc]
@@ -299,13 +299,13 @@ When will it become like that...?[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1101|
 [fc]
 [vo_ya s="yama0389"]
 [ns]Yamagishi[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *2849|
 [fc]
@@ -318,13 +318,13 @@ as long as we don't get attacked...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1102|
 [fc]
 [vo_ya s="yama0390"]
 [ns]Yamagishi[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *2850|
 [fc]
@@ -362,25 +362,25 @@ I will show her that. I will definitely rescue Yamagishi-san[r]from here!![pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1103|
 [fc]
 [vo_ya s="yama0391"]
 [ns]Yamagishi[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *2856|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *2857|
 [fc]
 Yamagishi-san, who was sitting a little away, moved closer[r]to me and sat down next to me.[l][er]
 She lowered her head and placed her hand on top of mine.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1104|
 [fc]
@@ -394,5 +394,5 @@ I'm sure, together with Kato-kun, we can go back home.[pcms]
 [fc]
 I met her gaze straight on, with the same feelings as her,[r]and returned the gaze.[pcms]
 
-;//[02157]ã¸
+;//[02157]‚Ö
 [jump target=*02157_TOP storage="02157.ks"]

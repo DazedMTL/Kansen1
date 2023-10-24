@@ -1,21 +1,21 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02030ã€æ¢ç´¢å…ˆã‚’ææ¡ˆã™ã‚‹ä¸»äººå…¬ã€
-;//BG:ç‰¹æ®Šæ•™å®¤ï¼šå»Šä¸‹ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02030w’Tõæ‚ğ’ñˆÄ‚·‚éålŒöx
+;//BG:“Áê‹³ºF˜L‰ºF–éF“_“”
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02030_TOP
-;[debug_win]ãªã†ã€€02030[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02030 = 1"]
+;[debug_win]‚È‚¤@02030[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02030 = 1"]
 
-;*SceneSet|ã€æ¢ç´¢å…ˆã‚’ææ¡ˆã™ã‚‹ä¸»äººå…¬ã€
+;*SceneSet|w’Tõæ‚ğ’ñˆÄ‚·‚éålŒöx
 
 ;//[02030]
 
-;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼‘è¡¨ç¤º
-;//â™ªï¼šBGM001
+;//flag:—Dƒ‹[ƒgƒtƒ[@‚P•\¦
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg008c
 ;g[bg storage="bg08c"]
@@ -33,7 +33,7 @@ I remembered what Yuuji was talking about when we gathered[r]at Shinya's house a
 
 *1326|
 [fc]
-The gymnasium is a clichÃ©, isn't it?[l][er]
+The gymnasium is a clich, isn't it?[l][er]
 The individual stalls in the restroom...[l][er]
 that might be pretty good.[pcms]
 
@@ -53,7 +53,7 @@ Shindou-sensei said she has urgent work, so without a doubt,[r]she must be in th
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v574|
 [fc]
@@ -62,7 +62,7 @@ Shindou-sensei said she has urgent work, so without a doubt,[r]she must be in th
 I understand that Shindou-sensei is in the science[r]preparation room, but why are Tomo-chan and the others in[r]the restroom or gymnasium?[l][er]
 What are they doing in such places?[pcms]
 
-;//SE:å¿ƒæ‹éŸ³
+;//SE:S”‰¹
 [se0 storage="se003"]
 
 *1330|
@@ -83,19 +83,19 @@ If I end up being disliked by Yamagishi-san because I made a[r]dirty joke, I won
 [fc]
 That's right... Speaking of dirty jokes, it's only Shinya,[r]but where did he go?[pcms]
 
-;//â€»æ¡ä»¶åˆ†å²
-;//ãƒ»flag:å„ªãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒoff;//[02040]ã¸
-;//ãƒ»flag:å„ªãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒon;//[03000]ã¸
+;//¦ğŒ•ªŠò
+;//Eflag:—Dƒ‹[ƒgƒNƒŠƒA@‚ªoff;//[02040]‚Ö
+;//Eflag:—Dƒ‹[ƒgƒNƒŠƒA@‚ªon;//[03000]‚Ö
 
 [if exp="sf.g_yuu_clear==0"]
 	[jump target=*02040_TOP storage="02040.ks"]
 [endif]
 
-;//ã‚¯ãƒªã‚¢ã—ã¦ã‚‹
+;//ƒNƒŠƒA‚µ‚Ä‚é
 [jump target=*03000_TOP storage="03000.ks"]
 
 ;------------------------------------------------
-;//ã‚¯ãƒªã‚¢ã—ã¦ãªã„
+;//ƒNƒŠƒA‚µ‚Ä‚È‚¢
 *02030_off
 [jump target=*02040_TOP storage="02040.ks"]
 

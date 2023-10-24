@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯06070ã€å§«è¼ªå§¦ã€
-;//BG:ä½“è‚²æ•™å®˜å®¤ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›å²¸ç”°ãƒ»å„ªãƒ»ã‚¾ãƒ³ãƒ“Ã—ï¼•
-;//è¦–ç‚¹ï¼šå²¸ç”°
+;//¡ËƒuƒƒbƒN06070w•P—ÖŠ­x
+;//BG:‘Ìˆç‹³Š¯ºF–éF“_“”
+;//“oêl•¨GŠİ“cE—DEƒ]ƒ“ƒr~‚T
+;//‹“_FŠİ“c
 
 *06070_H_TOP
-;[debug_win]ãªã†ã€€06070_H[debug_win_end]
+;[debug_win]‚È‚¤@06070_H[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_06070 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_06070 = 1"]
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 [bgm008]
 
@@ -42,7 +42,7 @@ Ugh! My stomach... And my side, and my shoulder too...![pcms]
 
 ;;;[sysbt_meswin]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 [se0 storage="se060" loop=true]
 
 *v2651|
@@ -56,7 +56,7 @@ stop!![pcms]
 [fc]
 [ns]Male Student A[nse]
 Th-this... pussy... is so tight...[l][er]
-it's... amazing... ahh~[pcms]
+it's... amazing...  ahh~[pcms]
 
 *6564|
 [fc]
@@ -214,7 +214,7 @@ and smelly! Ewww!! It's disgusting!![pcms]
 *6577|
 [fc]
 [ns]Female student[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *6578|
 [fc]
@@ -227,9 +227,9 @@ Guaaahh![pcms]
 [evcg storage="HEV_112_c"]
 [trans_c cross time=500]
 
-;//â€»ãƒœã‚¤ã‚¹ç„¡ã—
+;//¦ƒ{ƒCƒX–³‚µ
 [ns]Female student[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *6579|
 [fc]
@@ -360,11 +360,11 @@ Ahh... your hair smells so good...[pcms]
 [ns]Male Student A[nse]
 Sho, n, ben... a, a, a...[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se0]
 
-;//SE:æ”¾å°¿
+;//SE:•ú”A
 
 [se0 storage="se064"]
 
@@ -404,7 +404,7 @@ I-I've become... hahaha... so...[l][er]
 embarrassed... I, I can't hold it in anymore...[l][er]
 it's coming out... I'm so ashamed...[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [se0 storage="se061" loop=true]
 
@@ -467,11 +467,11 @@ In... side... in... side...[pcms]
 [ns]Male Student A[nse]
 Ugh~...[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se0]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -518,7 +518,7 @@ Noooo!! Uwaaaahhhh!![pcms]
 [ns]Male Student A[nse]
 Sti-ll... co-mi-ng...[pcms]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -556,7 +556,7 @@ Noooo!![pcms]
 *6604|
 [fc]
 [ns]Female student[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *6605|
 [fc]
@@ -574,23 +574,23 @@ Guooo![pcms]
 ;g[backlay_c][chara_int][trans_c cross time=150]
 
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn31 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn31 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
-;BGMåœæ­¢
+;BGM’â~
 [fadeoutbgm time=500]
 ;[black_toplayer][trans_c random][hide_chara_int]
 [zapfade]
@@ -598,12 +598,12 @@ Guooo![pcms]
 
 ;;;[sysbt_meswin]
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;//[05100]ã¸
+;//[05100]‚Ö
 [jump target=*05100_TOP storage="05100.ks"]
 

@@ -1,47 +1,47 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04036ã€ä¸»äººå…¬ä¹±å¿ƒã€
-;//BG:ä¸‰éšæ•™å®¤ï¼šå¤œ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04036wålŒö—Sx
+;//BG:OŠK‹³ºF–é
+;//“oêl•¨GålŒöEƒŠƒTE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04036_H_TOP
-;[debug_win]ãªã†ã€€04036_H[debug_win_end]
+;[debug_win]‚È‚¤@04036_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 ;[if exp="tf.scene_mode == 0"][jump target=*04036][endif]
 ;[winset]
 
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *04036
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04036 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04036 = 1"]
 
-;*SceneSet|ã€ä¸»äººå…¬ä¹±å¿ƒã€
+;*SceneSet|wålŒö—Sx
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 
 [fadeoutbgm time=500]
 
-;//BG:bgç„¡ã—
+;//BG:bg–³‚µ
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//SE:è™«ã®éŸ³
+;//SE:’‚Ì‰¹
 
 [se0 storage="se018"]
 
@@ -74,7 +74,7 @@ Who is this? This girl... Have I seen her somewhere[r]before...?[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1834|
 [fc]
@@ -102,7 +102,7 @@ Earlier, I had sex with this woman...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *4383|
 [fc]
@@ -113,7 +113,7 @@ Earlier, I had sex with this woman...[pcms]
 *4384|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4385|
 [fc]
@@ -126,7 +126,7 @@ I see... This girl wants to have sex with me...[pcms]
 
 [stop_se0]
 
-;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM008ƒtƒF[ƒhƒCƒ“
 
 [bgm008]
 
@@ -140,7 +140,7 @@ Come here...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1835|
 [fc]
@@ -162,7 +162,7 @@ I felt my penis getting harder and throbbing, and I jumped[r]onto the woman in f
 [ChrSetParts layer=1 chface="yuu_c_e_14"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1836|
 [fc]
@@ -170,7 +170,7 @@ I felt my penis getting harder and throbbing, and I jumped[r]onto the woman in f
 [ns]Yamagishi[nse]
 Kyaaahh!![pcms]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 
 [se0 storage="se021"]
 
@@ -179,7 +179,7 @@ Kyaaahh!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//[04037]ã¸
+;//[04037]‚Ö
 [jump target=*04037_H_TOP storage="04037_H.ks"]
 
 

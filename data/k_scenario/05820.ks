@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05820ã€ãƒ©ã‚¸ã‚ªï¼’ã€
-;//;//BG:æ˜‡é™å£å‰å»Šä¸‹ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05820wƒ‰ƒWƒI‚Qx
+;//;//BG:¸~Œû‘O˜L‰ºF—[•ûFÁ“”
+;//“oêl•¨GålŒöE“µ
 
 *05820_TOP
-;[debug_win]ãªã†ã€€05820[debug_win_end]
-;*SceneSet|ã€ãƒ©ã‚¸ã‚ªï¼’ã€
+;[debug_win]‚È‚¤@05820[debug_win_end]
+;*SceneSet|wƒ‰ƒWƒI‚Qx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05820 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05820 = 1"]
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 [bgm008]
 
@@ -40,7 +40,7 @@ What the hell are they...? Do they have some kind of[r]supernatural power...?[pc
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2568|
 [fc]
@@ -81,5 +81,5 @@ I approached the door and gently opened it, peering inside[r]to see what was hap
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05830]ã¸
+;//[05830]‚Ö
 [jump target=*05830_TOP storage="05830.ks"]

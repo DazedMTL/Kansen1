@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02120ã€é˜²è¡›ã€
-;//BG:äºŒéšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»å²¸ç”°ãƒ»ç«¹å†…
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02120w–h‰qx
+;//BG:“ñŠK˜L‰ºFƒoƒŠƒP[ƒhF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DEƒŠƒTEŠİ“cE’|“à
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02120_TOP
-;[debug_win]ãªã†ã€€02120[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02120 = 1"]
+;[debug_win]‚È‚¤@02120[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02120 = 1"]
 
-;*SceneSet|ã€é˜²è¡›ã€
+;*SceneSet|w–h‰qx
 
 ;//[02120]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 ;//[bgm007]
 ;//BG:bg007a
 [bg storage="bg07a"]
@@ -41,7 +41,7 @@ I wonder what will happen to us...[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v925|
 [fc]
@@ -53,7 +53,7 @@ Can I talk to you for a moment?[pcms]
 [fc]
 Shindou-sensei, who had been examining Kishida's condition,[r]stood up and called me, Yamagishi-san, and Shinya together.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v926|
 [fc]
@@ -69,7 +69,7 @@ What Shinya and I made was just a barricade, or rather, we[r]just piled up desks
 [fc]
 As Shindou-sensei said, if we forcefully push our way in[r]with a large group, we will allow the intrusion in a short[r]amount of time.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v927|
 [fc]
@@ -82,7 +82,7 @@ In order to be able to respond immediately in case of such[r]an emergency, I'm t
 [ns]Kato[nse]
 So we'll be keeping watch to make sure they don't come in,[r]right?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v928|
 [fc]
@@ -95,7 +95,7 @@ We will evacuate to the third floor as soon as possible.[pcms]
 [fc]
 The three of us, Yamagishi-san, Shinya, and I, nodded in[r]agreement with Shindou-sensei's words.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v929|
 [fc]
@@ -129,12 +129,12 @@ Sorry, Shinya. I'm counting on you...[pcms]
 [fc]
 Shinya silently nodded and walked towards the barricade.[pcms]
 
-;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM007ƒtƒF[ƒhƒAƒEƒg
 [fadeoutbgm time=500]
 
 *2350|
 [fc]
 And at the moment I stood in front of the barricade...[pcms]
 
-;//[02121]ã¸
+;//[02121]‚Ö
 [jump target=*02121_TOP storage="02121.ks"]

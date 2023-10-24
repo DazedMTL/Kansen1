@@ -1,16 +1,16 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05200ã€æ€ã„ã¨ã©ã¾ã‚‹ç³ã€
-;//BG:æ˜‡é™å£å‰å»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05200wv‚¢‚Æ‚Ç‚Ü‚é“µx
+;//BG:¸~Œû‘O˜L‰ºF–éFÁ“”
+;//“oêl•¨GålŒöE“µ
 
 *05200_TOP
-;[debug_win]ãªã†ã€€05200[debug_win_end]
-;*SceneSet|ã€æ€ã„ã¨ã©ã¾ã‚‹ç³ã€
+;[debug_win]‚È‚¤@05200[debug_win_end]
+;*SceneSet|wv‚¢‚Æ‚Ç‚Ü‚é“µx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05200 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05200 = 1"]
 
 ;	/*
-;	;//â™ªï¼šBGM001
+;	;//ôFBGM001
 ;	[bgm001]
 ;	*/
 
@@ -31,13 +31,13 @@ Saeki...[pcms]
 [fc]
 I hurriedly chased after her and once again, I grabbed[r]Saeki's slender arm to stop her.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2110|
 [fc]
 [vo_sa s="sae0399"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5024|
 [fc]
@@ -56,7 +56,7 @@ She kept her head down and muttered words of reflection.[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2111|
 [fc]
@@ -74,7 +74,7 @@ I heaved a sigh of relief as it seemed that Saeki's anger,[r]which had been fuel
 ... I'll give Yuuji, Shinya, and the others a stern lecture.[l][er]
 Please forgive them today.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2112|
 [fc]
@@ -101,7 +101,7 @@ Saeki blushed at my words and once again looked down.[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2113|
 [fc]
@@ -139,7 +139,7 @@ Saeki frowned again at the casual question I asked, and[r]scolded me.[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2114|
 [fc]
@@ -182,7 +182,7 @@ Saeki glared at me with an even more intense expression, her[r]face furrowing in
 [ChrSetParts layer=1 chface="sae_c_c_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2115|
 [fc]
@@ -222,10 +222,10 @@ Ugh...[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 ;//blackout
 
-;//[05210]ã¸
+;//[05210]‚Ö
 [jump target=*05210_TOP storage="05210.ks"]

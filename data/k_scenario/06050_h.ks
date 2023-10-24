@@ -1,17 +1,17 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯06050ã€ã”æ©Ÿå«Œå²¸ç”°ï¼’ã€
-;//BG:ä½“è‚²æ•™å®˜å®¤ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›å²¸ç”°ãƒ»å„ª
-;//è¦–ç‚¹ï¼šå²¸ç”°
+;//¡ËƒuƒƒbƒN06050w‚²‹@Œ™Šİ“c‚Qx
+;//BG:‘Ìˆç‹³Š¯ºF–éF“_“”
+;//“oêl•¨GŠİ“cE—D
+;//‹“_FŠİ“c
 
 
 *06050_H_TOP
-;[debug_win]ãªã†ã€€06050_H[debug_win_end]
-;*SceneSet|ã€ã”æ©Ÿå«Œå²¸ç”°ï¼’ã€
+;[debug_win]‚È‚¤@06050_H[debug_win_end]
+;*SceneSet|w‚²‹@Œ™Šİ“c‚Qx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_06050 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_06050 = 1"]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 ;//[bgm007]
 
@@ -132,7 +132,7 @@ Before that, I'll make sure to pleasure this person...[pcms]
 [fc]
 I pick up the vibrator that is rolling at my feet and show[r]it to Yamagishi.[pcms]
 
-;//SE:ãƒã‚¤ãƒ–ã®éŸ³
+;//SE:ƒoƒCƒu‚Ì‰¹
 [se0 storage="se065"]
 
 *6530|
@@ -276,7 +276,7 @@ Help me! Help me!![pcms]
 This is the best... the absolute best, Yamagishi!![l][er]
 Guwaa!?[pcms]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
 
 [flash_re]
@@ -290,7 +290,7 @@ Guwaa!?[pcms]
 [fc]
 W-What's wrong? Do you have something in your stomach?[pcms]
 
-;//[06060]ã¸
+;//[06060]‚Ö
 [jump target=*06060_H_TOP storage="06060_H.ks"]
 
 

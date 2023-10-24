@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04015ã€å»Šä¸‹ã®ç•°äººã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»åŠ è—¤
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04015w˜L‰º‚ÌˆÙlx
+;//BG:“Áê‹³º˜L‰ºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DE‰Á“¡
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04015_TOP
-;[debug_win]ãªã†ã€€04015[debug_win_end]
+;[debug_win]‚È‚¤@04015[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04015 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04015 = 1"]
 
-;*SceneSet|ã€å»Šä¸‹ã®ç•°äººã€
+;*SceneSet|w˜L‰º‚ÌˆÙlx
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 
 ;//[bgm001]
 
@@ -27,7 +27,7 @@
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std319|
 [fc]
 [ns]Takeuchi[nse]
@@ -37,7 +37,7 @@ Ugh, I'm still sleepy... I really hate the heat...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1607|
 [fc]
@@ -59,7 +59,7 @@ I'm looking at your body, so we're the ones who are hot.[pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std320|
 [fc]
 [ns]Takeuchi[nse]
@@ -70,7 +70,7 @@ Ugh... I hate this heat...[pcms]
 We dragged the sulking Shinya and arrived in front of the[r]staff entrance.[l][er]
 There, we noticed a boy standing there wearing our school[r]uniform.[pcms]
 
-;//[04016]ã¸
+;//[04016]‚Ö
 [jump target=*04016_TOP storage="04016.ks"]
 
 

@@ -1,15 +1,15 @@
 
-;//â– â‡’â‡’ãƒ–ãƒ­ãƒƒã‚¯05800ã€å½è£…ã€
-;//;//BG:äºŒéšå»Šä¸‹ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»æ„ŸæŸ“ãƒªã‚µ
+;//¡ËËƒuƒƒbƒN05800w‹U‘•x
+;//;//BG:“ñŠK˜L‰ºF—[•ûFÁ“”
+;//“oêl•¨GålŒöE“µEŠ´õƒŠƒT
 
 *05800_TOP
-;[debug_win]ãªã†ã€€05800[debug_win_end]
-;*SceneSet|ã€å½è£…ã€
+;[debug_win]‚È‚¤@05800[debug_win_end]
+;*SceneSet|w‹U‘•x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05800 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05800 = 1"]
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 
 [bgm009]
 
@@ -32,7 +32,7 @@ But if she's completely lost it, we'll have to run away[r]because we'll be in da
 [fc]
 I approached near Shindou-sensei and tried calling out to[r]her.[pcms]
 
-;//â™ªï¼šBGM009ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM009ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
@@ -41,7 +41,7 @@ I approached near Shindou-sensei and tried calling out to[r]her.[pcms]
 [ns]Kato[nse]
 Sensei... Shindou-sensei![pcms]
 
-;//SE:ã‚¬ã‚¿ãƒƒ
+;//SE:ƒKƒ^ƒb
 
 [se0 storage="se023"]
 
@@ -58,7 +58,7 @@ I quickly pulled my hand back and jumped back.[pcms]
 [ns]Kato[nse]
 Uwah!![pcms]
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 [bgm008]
 
@@ -66,7 +66,7 @@ Uwah!![pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2563|
 [fc]
@@ -84,7 +84,7 @@ Then, she began to let out a loud, eerie laughter.[pcms]
 [ChrSetParts layer=1 chface="risa_e_e_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2564|
 [fc]
@@ -95,11 +95,11 @@ Haha! Hahahaha![r]Hahahafufufuhihihiihihahahahahaahyaahahafufu...[pcms]
 *6203|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 *6204|
@@ -120,5 +120,5 @@ And perhaps due to my disturbance caused by Shindou-sensei's[r]abnormality, inst
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05810]ã¸
+;//[05810]‚Ö
 [jump target=*05810_TOP storage="05810.ks"]

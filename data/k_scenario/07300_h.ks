@@ -1,11 +1,11 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07300ã€å¾…ã¡ä¼ã›ã€
-;//BG:å­¦é£Ÿï¼šæœï¼›æ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»æ„ŸæŸ“å„ªãƒ»æ„ŸæŸ“æœ‹ç¾ãƒ»æ„ŸæŸ“ãƒªã‚µ
-;//ã€†ï¼šã“ã®ãƒ–ãƒ­ãƒƒã‚¯ã‹ã‚‰ã€å„ªã€æœ‹ç¾ã€‚ãƒªã‚µã®ç«‹ã¡ã‚­ãƒ£ãƒ©è¡¨ç¤º
+;//¡ËƒuƒƒbƒN07300w‘Ò‚¿•š‚¹x
+;//BG:ŠwHF’©GÁ“”
+;//“oêl•¨GålŒöEŠ´õ—DEŠ´õ•ü”üEŠ´õƒŠƒT
+;//YF‚±‚ÌƒuƒƒbƒN‚©‚çA—DA•ü”üBƒŠƒT‚Ì—§‚¿ƒLƒƒƒ‰•\¦
 
 *07300_H_TOP
-;[debug_win]ãªã†ã€€07300_H[debug_win_end]
+;[debug_win]‚È‚¤@07300_H[debug_win_end]
 
 [eval exp="sf.SRP29 = 1"][if exp="tf.scene_mode == 0"][jump target=*07300_H][endif]
 ;;[winset]
@@ -14,13 +14,13 @@
 
 *07300_H
 
-;*SceneSet|ã€å¾…ã¡ä¼ã›ã€
+;*SceneSet|w‘Ò‚¿•š‚¹x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07300 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07300 = 1"]
 
-;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼‘ï¼•ã€€è¡¨ç¤º
+;//flag:“µƒ‹[ƒgƒtƒ[@‚P‚T@•\¦
 
-;//â™ªï¼šBGM004
+;//ôFBGM004
 
 ;//[bgm004]
 
@@ -33,7 +33,7 @@
 
 ;;;[sysbt_meswin]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3178|
 [fc]
@@ -53,7 +53,7 @@ I decided to stay in place and observe until Yamagishi-san[r]leaves the cafeteri
 *7959|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 [ChrSetEx layer=1 chbase="yuu_c_d_11"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -65,8 +65,8 @@ I decided to stay in place and observe until Yamagishi-san[r]leaves the cafeteri
 I cautiously peeked my face out, just enough to see beyond[r]the counter into the kitchen.[l][er]
 Yamagishi-san was wandering around the cafeteria, giggling[r]as if she were drunk.[pcms]
 
-;//ï¼ æ‰æ¸•ï¼šä¸‹è¨˜ï¼³ï¼¥ãŒè¡¨ã«ãªã„ãŸã‚ã«ç¾åœ¨éŸ³ã‚’å¼µã£ã¦ã„ã¾ã›ã‚“ã€‚
-;//SE:ã‚¬ãƒ³
+;//—™ŸºF‰º‹L‚r‚d‚ª•\‚É‚È‚¢‚½‚ß‚ÉŒ»İ‰¹‚ğ’£‚Á‚Ä‚¢‚Ü‚¹‚ñB
+;//SE:ƒKƒ“
 
 ;//[se0 storage="se028"]
 [se0 storage="se021"]
@@ -75,14 +75,14 @@ Yamagishi-san was wandering around the cafeteria, giggling[r]as if she were drun
 [fc]
 Yamagishi-san is staggering and bumping into tables as she[r]gradually approaches closer to here.[pcms]
 
-;//ï¼ æ‰æ¸•ï¼šä¸‹è¨˜ï¼³ï¼¥ãŒè¡¨ã«ãªã„ãŸã‚ã«ç¾åœ¨éŸ³ã‚’å¼µã£ã¦ã„ã¾ã›ã‚“ã€‚
-;//SE:ã‚¬ãƒ³ã€€SE28
+;//—™ŸºF‰º‹L‚r‚d‚ª•\‚É‚È‚¢‚½‚ß‚ÉŒ»İ‰¹‚ğ’£‚Á‚Ä‚¢‚Ü‚¹‚ñB
+;//SE:ƒKƒ“@SE28
 ;//[se0 storage="se028"]
 
-;//ãƒ‰ã‚µãƒƒã§ä»£ç”¨ã€€SE21
+;//ƒhƒTƒb‚Å‘ã—p@SE21
 [se0 storage="se021"]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3179|
 [fc]
@@ -128,7 +128,7 @@ Yamagishi-san![pcms]
 [ChrSetParts layer=1 chface="yuu_c_d_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3180|
 [fc]
@@ -144,7 +144,7 @@ Kato, to, u, kun came out![pcms]
 Yamagishi-san, calm down... Please calm down![l][er]
 Uwaah!? What's wrong?[pcms]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [se0 storage="se021"]
 
 [quake_bg xy m]
@@ -154,7 +154,7 @@ Uwaah!? What's wrong?[pcms]
 I was tripped up by something...[l][er]
 but what on earth could it be...?[pcms]
 
-;//â™ªï¼šBGM004ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM004ƒtƒF[ƒhƒAƒEƒg
 [fadeoutbgm time=500]
 
 [ChrSetEx layer=1 chbase="tomo_d_b_01"]
@@ -168,7 +168,7 @@ but what on earth could it be...?[pcms]
 Yaa, su, yuki, ku, n~... tsuka, ma, e...[l][er]
 ta~... ehehe... ochin, chin daa...[pcms]
 
-;//SE:å¿ƒæ‹éŸ³
+;//SE:S”‰¹
 [se0 storage="se003"]
 
 *7971|
@@ -186,8 +186,8 @@ It was a complete lack of attention.[l][er]
 I was distracted by Yamagishi-san and my guard was down.[l][er]
 Just as I jumped out, I tripped over Igarashi-san who was[r]lying down...[pcms]
 
-;ç«‹ã¡
-;æœ‹ç¾
+;—§‚¿
+;•ü”ü
 [ChrSetEx layer=1 chbase="tomo_d_b_01"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
@@ -205,7 +205,7 @@ Unfortunately, as I stumbled backwards after tripping over[r]my own ass, there h
 [fc]
 Due to the sudden event, I couldn't move my body as I[r]wanted, and Igarashi-san approached me.[pcms]
 
-;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM008ƒtƒF[ƒhƒCƒ“
 
 [bgm008]
 
@@ -213,7 +213,7 @@ Due to the sudden event, I couldn't move my body as I[r]wanted, and Igarashi-san
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3182|
 [fc]
@@ -226,7 +226,7 @@ Ehehe... Yasu, yu, ki, kun...[pcms]
 [ns]Kato[nse]
 Uwa... Uwaaa...[pcms]
 
-;//â€»æ–°é“
+;//¦V“¹
 *v3183|
 [fc]
 [vo_ri s="risa0650"]
@@ -249,7 +249,7 @@ but my body isn't moving as I want it to!![pcms]
 [ChrSetParts layer=1 chface="risa_e_e_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3184|
 [fc]
@@ -303,7 +303,7 @@ Damn it... If Saeki sees me, she'll just laugh at me!![pcms]
 [ChrSetParts layer=1 chface="risa_e_e_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3185|
 [fc]
@@ -316,7 +316,7 @@ Don't... show me... your... penis...[pcms]
 [ChrSetParts layer=1 chface="tomo_d_d_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3186|
 [fc]
@@ -330,7 +330,7 @@ your penis~...[pcms]
 [ns]Kato[nse]
 Uwaa![pcms]
 
-;//SE:ãƒ™ãƒ«ãƒˆã‚’ã¯ãšã™éŸ³
+;//SE:ƒxƒ‹ƒg‚ğ‚Í‚¸‚·‰¹
 [se0 storage="se066"]
 
 *7989|
@@ -343,7 +343,7 @@ Igarashi-san and Sensei reached out their hands and easily[r]pulled down my pant
 [ChrSetParts layer=1 chface="risa_e_e_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3187|
 [fc]
@@ -355,7 +355,7 @@ Haa...[pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3188|
 [fc]
@@ -368,7 +368,7 @@ Uwaa~... Yasuyu-kun's... penis is so cute~...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_d_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3189|
 [fc]
@@ -396,7 +396,7 @@ What is this![pcms]
 [ChrSetParts layer=1 chface="risa_e_e_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3190|
 [fc]
@@ -419,7 +419,7 @@ Shit... I have to run away! I don't want this...!![pcms]
 [ChrSetParts layer=1 chface="yuu_c_d_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3191|
 [fc]
@@ -447,7 +447,7 @@ come at me...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_d_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3193|
 [fc]
@@ -486,7 +486,7 @@ Suddenly, without any warning, my thing buried itself inside[r]Yamagishi-san, an
 [fc]
 All at once, something that I couldn't understand whether it[r]was good or bad happened right in front of me, and my head[r]became confused.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
@@ -511,7 +511,7 @@ kissed me so passionately... I couldn't resist...[pcms]
 Nhaa... Am I not the one here...?[l][er]
 Please, at least let me...[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
 
 [se0 storage="se060" loop=true]
 
@@ -597,7 +597,7 @@ Could it be that what they were talking about on the radio[r]is somehow related?
 H-here... S-suck, it, gently...[l][er]
 K-Kato-kun... nghh...[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [se0 storage="se061" loop=true]
 
@@ -671,11 +671,11 @@ It's not Yamagishi-san!![pcms]
 Yamagishi-san, stop! Doing something like this![l][er]
 Please go back to your usual self, Yamagishi-san!![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se1]
 
@@ -683,7 +683,7 @@ Please go back to your usual self, Yamagishi-san!![pcms]
 [fc]
 [vo_ya s="yama0973"]
 [ns]Yamagishi[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *8015|
 [fc]
@@ -706,11 +706,11 @@ Ahahahaha!! W-What are you saying...[l][er]
 I-I'm... me, you know? It's just...[l][er]
 a weird... ahahahaha!![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [se0 storage="se061" loop=true]
 
@@ -826,7 +826,7 @@ for me... It feels... so good~...[pcms]
 [vo_to s="tomo0369"]
 [ns]Igarashi[nse]
 Chupu... Buchu... Nhaa... I-inahh...[l][er]
-Yuu-cha-n... Oma-nko... Kimochi yo saso...  Nbu[pcms]
+Yuu-cha-n... Oma-nko... Kimochi yo saso...   Nbu[pcms]
 
 *v3216|
 [fc]
@@ -929,15 +929,15 @@ Yamagishi-san's pussy intermittently tightens around me.[pcms]
 [fc]
 Due to Igarashi-san and Shindou-sensei's passionate moans,[r]as well as the stimulation from Yamagishi-san, I reached my[r]limit involuntarily, regardless of my own will.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se1]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -1000,7 +1000,7 @@ Yamagishi-san, trembling slightly, took all of my semen and[r]then collapsed tow
 
 
 
-;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM008ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
@@ -1037,13 +1037,13 @@ And Shindou-sensei, too, occasionally trembles enough to not[r]show any signs of
 [fc]
 If you're going to run away, now is the only chance.[pcms]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 
 [se0 storage="se021"]
 
 [quake_bg xy m]
 
-;//â™ªï¼šBGM009ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM009ƒtƒF[ƒhƒCƒ“
 
 [bgm009]
 
@@ -1057,7 +1057,7 @@ Ugh... fah...[pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3231|
 [fc]
@@ -1103,28 +1103,28 @@ I pulled up my pants and ran towards the entrance of the[r]basement.[pcms]
 ;g[backlay_c][chara_int][trans_c cross time=150]
 
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn30 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn30 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 [wait_c time=1000]
 

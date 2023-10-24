@@ -1,16 +1,16 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05120ã€æ°—ã¾ãšã„æ²ˆé»™ã€
-;//BG:ä¸‰éšå»Šä¸‹ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05120w‹C‚Ü‚¸‚¢’¾–Ùx
+;//BG:OŠK˜L‰ºF–éF“_“”
+;//“oêl•¨GålŒöE“µ
 
 *05120_TOP
-;[debug_win]ãªã†ã€€05120[debug_win_end]
-;*SceneSet|ã€æ°—ã¾ãšã„æ²ˆé»™ã€
+;[debug_win]‚È‚¤@05120[debug_win_end]
+;*SceneSet|w‹C‚Ü‚¸‚¢’¾–Ùx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05120 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05120 = 1"]
 
 ;	/*
-;	;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;	;//SE:˜L‰º‚ğ‘–‚é
 ;	[se0 storage="se005"]
 ;	*/
 
@@ -24,7 +24,7 @@ I caught up with Saeki, who was walking with a gloomy[r]expression on her face, 
 ;;;[sysbt_meswin clear]
 
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 [bgm001]
 
 ;//BG:bg006c
@@ -44,13 +44,13 @@ Ah, um...[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2076|
 [fc]
 [vo_sa s="sae0370"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4877|
 [fc]
@@ -75,13 +75,13 @@ I'm sorry... It might take a little time for me to give you[r]an answer...[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2077|
 [fc]
 [vo_sa s="sae0371"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4881|
 [fc]
@@ -93,7 +93,7 @@ Besides, we also have to quickly search for the ones who[r]disappeared...[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2078|
 [fc]
@@ -110,18 +110,18 @@ Saeki, without making eye contact and still looking down,[r]responded with just 
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2079|
 [fc]
 [vo_sa s="sae0373"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4883|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
@@ -148,7 +148,7 @@ I think they might be there or in the club building.[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2080|
 [fc]
@@ -163,15 +163,15 @@ Saeki, without making eye contact with me, quietly responded[r]and started desce
 *4889|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 ;//blackout
 
-;//[05130]ã¸
+;//[05130]‚Ö
 [jump target=*05130_TOP storage="05130.ks"]

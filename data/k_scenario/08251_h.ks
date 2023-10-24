@@ -1,10 +1,10 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08251ã€å¤±ç¦å¥³ã€
-;//BG:ç„¡ã—
-;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»ç«¹å†…ãƒ»ç³
+;//¡ËƒuƒƒbƒN08251w¸‹Ö—x
+;//BG:–³‚µ
+;//“oêl•¨FålŒöE’|“àE“µ
 
 *08251_H_TOP
-;[debug_win]ãªã†ã€€08251_H[debug_win_end]
+;[debug_win]‚È‚¤@08251_H[debug_win_end]
 
 [eval exp="sf.SRP45 = 1"][if exp="tf.scene_mode == 0"][jump target=*08251_H][endif]
 ;;[winset]
@@ -13,17 +13,17 @@
 
 *08251_H
 
-;*SceneSet|ã€å¤±ç¦å¥³ã€
+;*SceneSet|w¸‹Ö—x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08251 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08251 = 1"]
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 
 [bgm009]
 
-;//;//BG:bgç„¡ã—
+;//;//BG:bg–³‚µ
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹ï¼ˆå‹¢ã„ã‚ˆãï¼‰
+;//SE:”à‚ğŠJ‚¯‚éi¨‚¢‚æ‚­j
 
 [se0 storage="se009"]
 
@@ -34,7 +34,7 @@
 ;	[trans_c cross time=150]
 ;	*/
 
-;ç«‹ã¡
+;—§‚¿
 
 *10082|
 [fc]
@@ -54,7 +54,7 @@ Is there no crying child here?![pcms]
 
 *scene_start
 
-;//HCG:ã€€on
+;//HCG:@on
 [evcg storage="HEV_209_a"]
 [trans_c cross time=301]
 
@@ -77,7 +77,7 @@ Saeki let out a startled scream and froze in surprise.[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;//SE:æ”¾å°¿
+;//SE:•ú”A
 [se0 storage="se064"]
 
 [evcg storage="HEV_209_b"]
@@ -421,7 +421,7 @@ Buahaha!! Shinya... that's excessive theatrics![pcms]
 [fc]
 ... But, would it be good to turn off the lights at this[r]timing?[pcms]
 
-;//;//BG:bgç„¡ã—
+;//;//BG:bg–³‚µ
 
 [bg storage="effect_black"][trans_c normal]
 
@@ -435,7 +435,7 @@ Ugh? Aaaa... Ah? Huh? Uaaah?[pcms]
 [fc]
 What? You're making weird noises again...[pcms]
 
-;//HCG:oï½
+;//HCG:o‚
 
 ;;;[sysbt_meswin clear]
 
@@ -472,7 +472,7 @@ Aaahh, I-I'm... I'm peeing... Aaahhh!![pcms]
 ;;;[sysbt_meswin clear]
 
 
-;//SE:æ”¾å°¿
+;//SE:•ú”A
 [se0 storage="se064"]
 
 [evcg storage="HEV_209_c"]
@@ -721,7 +721,7 @@ Shinya inserted an enema kit into Saeki's asshole.[l][er]
 I wonder how it will turn out.[l][er]
 I'm looking forward to Saeki's reaction...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 
 [se0 storage="se059"]
 
@@ -762,7 +762,7 @@ The expelled water flows down along the thighs and drips.[pcms]
 Uwaaa... P-please stop... It feels...[l][er]
 gross...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 
 [se0 storage="se059"]
 
@@ -801,7 +801,7 @@ It's going to come out!![pcms]
 It's still too early... I'm going to the bathroom...[l][er]
 It's a total of 100cc...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 
 [se0 storage="se059"]
 
@@ -827,7 +827,7 @@ She's trying to tighten her butt to prevent it from leaking,[r]but it's still dr
 [fc]
 This person really is loose in various ways, huh...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 
 [se0 storage="se059"]
 
@@ -880,7 +880,7 @@ Saeki, who was wriggling her hips provocatively and moaning,[r]suddenly stopped 
 ... gau... It's not... this is...[l][er]
 water...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 
 [se0 storage="se059"]
 
@@ -1091,7 +1091,7 @@ It's a bit pitiful to tease her so much...[pcms]
 [ns]Kato[nse]
 Alright... It's about time to put it in...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
@@ -1105,7 +1105,7 @@ My pre-cum mixes with the water, making it slippery.[l][er]
 And sometimes, it gets caught in her asshole, which feels[r]good too.[l][er]
 I can't take it anymore! Put it in all at once![pcms]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 
 [se0 storage="se058"]
 
@@ -1131,7 +1131,7 @@ Uwaaa! Giiii! I-It hurts!! It hurts so much...![pcms]
 Ahh! It's tight! It's making squelching sounds inside![l][er]
 Uwaaaahh!![pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
 
 [se0 storage="se060" loop=true]
 
@@ -1222,7 +1222,7 @@ Everything about Saeki excites me.[pcms]
 [fc]
 I wanted more stimulation, so I violently thrust my hips and[r]ravaged Saeki's insides.[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [se1 storage="se061" loop=true]
 
@@ -1250,15 +1250,15 @@ My penis has reached its limit due to the tightness that[r]squeezes tightly at t
 No, stop!! I'm gonna cum inside!![l][er]
 Uaaahhh![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se1]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -1319,9 +1319,9 @@ will be covered in shit!! That's bad!![pcms]
 Haa... U-uwaaa... Even when I pull out, it feels amazing...[l][er]
 Ah![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Êi¼‚Á‚½‰¹j
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -1390,7 +1390,7 @@ Noooooooo![pcms]
 
 *10238|
 [fc]
-â€¦â€¦â€¦â€¦ã€‚ â€¦â€¦â€¦ã€‚ â€¦â€¦ã€‚[pcms]
+ccccB cccB ccB[pcms]
 
 *10239|
 [fc]
@@ -1560,7 +1560,7 @@ I wonder what happened to her.[pcms]
 Well then... I'll put it inside Hitomi's pussy...[l][er]
 Here we go...[pcms]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 
 [se0 storage="se058"]
 
@@ -1601,11 +1601,11 @@ Come to think of it, we haven't done any foreplay, is that[r]okay?[l][er]
 Well, considering she's a pervert who gets turned on by[r]enemas, it should be fine even if Shinya's thing goes inside[r]her.[l][er]
 She'll be alright.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [se1 storage="se060" loop=true]
 
@@ -1713,11 +1713,11 @@ Hey... Saeki... Does it feel good?[pcms]
 [ns]Saeki[nse]
 ...![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se1]
 
@@ -1932,11 +1932,11 @@ What the hell... It's like I'm not even here...[l][er]
 You two have created your own world...[l][er]
 Damn it...![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [se1 storage="se061" loop=true]
 
@@ -2157,15 +2157,15 @@ I feel a hot lump welling up in my lower body.[pcms]
 [ns]Kato[nse]
 Uaaaaaaaah! I-I'm coming![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se1]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -2197,11 +2197,11 @@ Uaaaaaaaah! I-I'm coming![pcms]
 It felt as if a volcano had erupted, my cock exploded.[l][er]
 I ejaculated deeply into the back of her throat...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059"]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [se1 storage="se061"]
 
@@ -2258,15 +2258,15 @@ Uaaaah!! I'm cumming![pcms]
 N-No... inside!? No no no no!![l][er]
 Ahh, it's hot!! Inside! Noooo!![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se1]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -2337,7 +2337,7 @@ It's also pitiful to leave them in dirty clothes.[pcms]
 
 ;;;[sysbt_meswin clear]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
@@ -2346,7 +2346,7 @@ It's also pitiful to leave them in dirty clothes.[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//;//BG:æ˜‡é™å£å‰å»Šä¸‹
+;//;//BG:¸~Œû‘O˜L‰º
 
 [bg storage="bg03a"]
 [trans_c cross time=500]
@@ -2364,7 +2364,7 @@ I thought she had died...[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std688|
 [fc]
 [ns]Takeuchi[nse]
@@ -2382,7 +2382,7 @@ Well...? After being treated so roughly, I wonder if she's[r]capable of orgasmin
 [ChrSetParts layer=1 chface="take_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std689|
 [fc]
 [ns]Takeuchi[nse]
@@ -2403,23 +2403,23 @@ What is that...?[pcms]
 [fc]
 Promise? I wonder if there was something like that...?[pcms]
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn46 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn46 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
 [jump target=*08252_TOP storage="08252.ks"]

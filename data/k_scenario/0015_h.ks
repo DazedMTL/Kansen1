@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0015ã€äº”ååµå®¶ã®æƒ¨åŠ‡ã€
-;//ï¼¨-EVENT001
-;//BG:æœ‹ç¾ã®è‡ªå®…ãƒ»ãƒªãƒ“ãƒ³ã‚°
-;//æ™‚é–“ï¼šå¤•æ–¹
-;//ç™»å ´ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼ï¼šæœ‹ç¾ã®æ¯è¦ªãƒ»æœ‹ç¾ã®å¦¹ãƒ»ç”·æ€§ã‚¾ãƒ³ãƒ“
-;//ï¼”å
+;//¡ËƒuƒƒbƒN0015wŒÜ\—’‰Æ‚ÌSŒ€x
+;//‚g-EVENT001
+;//BG:•ü”ü‚Ì©‘îEƒŠƒrƒ“ƒO
+;//ŠÔF—[•û
+;//“oêƒLƒƒƒ‰ƒNƒ^[F•ü”ü‚Ì•êeE•ü”ü‚Ì–…E’j«ƒ]ƒ“ƒr
+;//‚S–¼
 
 *0015_H_TOP
-;[debug_win]ãªã†ã€€0015_H[debug_win_end]
+;[debug_win]‚È‚¤@0015_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [eval exp="sf.SRP01 = 1"][if exp="tf.scene_mode == 0"][jump target=*0015][endif]
 ;;[winset]
 [jump target=*scene_start]
@@ -17,13 +17,13 @@
 
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *0015
 
@@ -37,23 +37,23 @@
 
 *0015_PLAY
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0015 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0015 = 1"]
 
-;*SceneSet|ã€äº”ååµå®¶ã®æƒ¨åŠ‡ã€
+;*SceneSet|wŒÜ\—’‰Æ‚ÌSŒ€x
 
-;//flag:ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°SKIP on
+;//flag:ƒvƒƒ[ƒOSKIP on
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 [fadeoutbgm time=500]
 
-;//;//BG:bgç„¡ã—
+;//;//BG:bg–³‚µ
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//;//SE:é›»è©±ã®ã‚³ãƒ¼ãƒ«éŸ³
+;//;//SE:“d˜b‚ÌƒR[ƒ‹‰¹
 [se0 storage="se013" loop=true]
 
 *347|
@@ -64,7 +64,7 @@ There was a reason why Tomomi's family, who should have been[r]at home, didn't a
 [fc]
 The reason why she couldn't answer the phone, let alone[r]move.[pcms]
 
-;//;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 [se1 storage="se059" loop=true]
 
 *v125|
@@ -87,12 +87,12 @@ Mom... help me...![pcms]
 
 [stop_se0]
 
-;//H_CG:æ¯ãŒã‚¾ãƒ³ãƒ“ã«ãƒ¬ã‚¤ãƒ—ã•ã‚Œã¦ã„ã‚‹
+;//H_CG:•ê‚ªƒ]ƒ“ƒr‚ÉƒŒƒCƒv‚³‚ê‚Ä‚¢‚é
 
 
 *scene_start
 
-;//â™ªï¼šBGM02
+;//ôFBGM02
 [bgm002]
 
 [evcg storage="HEV_001_a"]
@@ -102,9 +102,9 @@ Mom... help me...![pcms]
 ;;;[sysbt_meswin]
 
 
-;//;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
-;//å†ç”Ÿæ¸ˆã¿
-;//;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
+;//Ä¶Ï‚İ
+;//;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
 [overflow_se storage="se060"]
 
 *v128|
@@ -318,25 +318,25 @@ I... I'm... the first... to...[pcms]
 
 [stop_overflow_se]
 
-;//â™ªï¼šBGM002ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM002ƒtƒF[ƒhƒAƒEƒg
 [fadeoutbgm time=500]
 
-;//H_CG:æœ‹ç¾ã®å¦¹ãŒå›²ã¾ã‚Œã¦ã„ã‚‹
+;//H_CG:•ü”ü‚Ì–…‚ªˆÍ‚Ü‚ê‚Ä‚¢‚é
 
 [sysbt_meswin clear]
 
 
 [evcg storage="HEV_002_a"]
 [trans_c cross time=500]
-;CGã‹ã‚‰CGã ã¨å¾…ã¡å…¥ã‚‰ãªã„ã‹ã‚‰æ‰‹æ‰“ã¡ã™ã‚‹ã—ã‹ãªã„ã‹ã
+;CG‚©‚çCG‚¾‚Æ‘Ò‚¿“ü‚ç‚È‚¢‚©‚çè‘Å‚¿‚·‚é‚µ‚©‚È‚¢‚©‚Ÿ
 [wait_c time=500]
 
 ;;;[sysbt_meswin]
 
-;//â™ªï¼šBGM003
+;//ôFBGM003
 [bgm003]
 
-;//;//SE:æŒ¿å…¥
+;//;//SE:‘}“ü
 [se0 storage="se058"]
 
 *v139|
@@ -356,7 +356,7 @@ Giiii?!?!!!!!![pcms]
 [fc]
 Without any warning, the tip is forcefully thrust into the[r]still tightly closed door.[pcms]
 
-;//;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 [overflow_se storage="se061"]
 
 *v140|
@@ -498,11 +498,11 @@ The man grabs the daughter's head with both hands and moves[r]his hips back and 
 [fc]
 While licking two erect towers at once, and yet still[r]feeling unsatisfied, he gazes at his daughter who is being[r]violated deep in her oral cavity with an envious look.[pcms]
 
-;//H_CG:æ¯ãŒãƒ¬ã‚¤ãƒ—ã•ã‚Œã¦ã„ã‚‹
+;//H_CG:•ê‚ªƒŒƒCƒv‚³‚ê‚Ä‚¢‚é
 
 ;;;[sysbt_meswin clear]
 
-;//;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
 [overflow_se storage="se060"]
 
 [evcg storage="HEV_001_c"]
@@ -511,8 +511,8 @@ While licking two erect towers at once, and yet still[r]feeling unsatisfied, he 
 
 ;;;[sysbt_meswin]
 
-;//;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
-;//å†ç”Ÿæ¸ˆã¿
+;//;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
+;//Ä¶Ï‚İ
 
 *v148|
 [fc]
@@ -595,7 +595,7 @@ Nghh... Ahh... Ugh, noo...[pcms]
 My... is... hard... and... soft...[l][er]
 yet... it's being touched...[pcms]
 
-;//;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 [se0 storage="se061" loop=true]
 
 ;;;[sysbt_meswin clear]
@@ -627,7 +627,7 @@ into a pussy...[pcms]
 Hurry... give me your semen...[l][er]
 please give me a lot...[pcms]
 
-;//H_CG:å¦¹ãŒãƒ¬ã‚¤ãƒ—ã•ã‚Œã¦ã„ã‚‹
+;//H_CG:–…‚ªƒŒƒCƒv‚³‚ê‚Ä‚¢‚é
 
 ;;;[sysbt_meswin clear]
 
@@ -638,10 +638,10 @@ please give me a lot...[pcms]
 
 ;;;[sysbt_meswin]
 
-;//;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
-;//å†ç”Ÿä¸­
-;//;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
-;//å†ç”Ÿä¸­
+;//;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
+;//Ä¶’†
+;//;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
+;//Ä¶’†
 
 *v155|
 [fc]
@@ -673,18 +673,18 @@ Nghh... Ahh... Ugh, noo...[pcms]
 [fc]
 However, the desperate rejection of the daughter was in[r]vain, as the men's boiling filth was forcefully expelled[r]from every part of her body.[pcms]
 
-;//;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
-;//;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
+;//;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 [stop_se1]
 [stop_overflow_se]
 
-;//;//SE:å°„ç²¾
+;//;//SE:Ë¸
 [se1 storage="se062"]
 
-;//;//SE:å°„ç²¾
+;//;//SE:Ë¸
 [overflow_se storage="se062"]
 
-;//;//SE:å°„ç²¾
+;//;//SE:Ë¸
 [se1 storage="se062"]
 
 ;//;//whiteflash
@@ -750,7 +750,7 @@ Ugh...[pcms]
 [fc]
 The men who were blaming and violating the mother, while the[r]daughter was choking and spitting out filthy fluid, were[r]also reaching their climax.[pcms]
 
-;//H_CG:æ¯ãŒãƒ¬ã‚¤ãƒ—ã•ã‚Œã¦ã„ã‚‹
+;//H_CG:•ê‚ªƒŒƒCƒv‚³‚ê‚Ä‚¢‚é
 
 ;;;[sysbt_meswin clear]
 
@@ -761,10 +761,10 @@ The men who were blaming and violating the mother, while the[r]daughter was chok
 
 ;;;[sysbt_meswin]
 
-;//;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 [se1 storage="se059" loop=true]
 
-;//;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 [overflow_se storage="se061" loop=true]
 
 *400|
@@ -789,18 +789,18 @@ I-I'm... going... to... cum...[pcms]
 [ns]Male B[nse]
 Ahh~...[pcms]
 
-;//;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
-;//;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
+;//;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 [stop_se1]
 [stop_overflow_se]
 
-;//;//SE:å°„ç²¾
+;//;//SE:Ë¸
 [se1 storage="se062"]
 
-;//;//SE:å°„ç²¾
+;//;//SE:Ë¸
 [overflow_se storage="se062"]
 
-;//;//SE:å°„ç²¾
+;//;//SE:Ë¸
 [se1 storage="se062"]
 
 ;//;//whiteflash
@@ -902,7 +902,7 @@ The man grabbed the white ass and lifted it up, exposing[r]another tightly close
 [fc]
 The place where the pointed tower was pressed against was[r]different from before, sending a chill down her spine, and[r]her daughter's consciousness awakened once again in fear.[pcms]
 
-;//H_CG:å¦¹ãŒãƒ¬ã‚¤ãƒ—ã•ã‚Œã¦ã„ã‚‹
+;//H_CG:–…‚ªƒŒƒCƒv‚³‚ê‚Ä‚¢‚é
 
 ;;;[sysbt_meswin clear]
 
@@ -930,7 +930,7 @@ White, i, shi... ri...[pcms]
 Nooo!! Someone help me! Please!![l][er]
 Someone, someone save meeee!![pcms]
 
-;//;//SE:æŒ¿å…¥
+;//;//SE:‘}“ü
 [se0 storage="se058"]
 
 ;//redflash
@@ -945,10 +945,10 @@ Someone, someone save meeee!![pcms]
 Ignoring the daughter's plea, the man instead showed an[r]expression as if he was intoxicated by her screams.[l][er]
 He forcefully thrust his pointed tower inside, forcibly[r]opening her secret entrance.[pcms]
 
-;//;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 [se1 storage="se059" loop=true]
 
-;//;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 [overflow_se storage="se061" loop=true]
 
 *413|
@@ -1039,8 +1039,8 @@ Hiaa! Ah, auu! Amazing... it's throbbing~![l][er]
 Haa, fu, aah! On... on my butt and...[l][er]
 pussy...!![pcms]
 
-;//â™ªï¼šBGM003ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
-;//â™ªï¼šBGM004ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM003ƒtƒF[ƒhƒAƒEƒg
+;//ôFBGM004ƒtƒF[ƒhƒCƒ“
 [bgm004]
 
 ;;;[sysbt_meswin clear]
@@ -1125,7 +1125,7 @@ However, the daughter's melting brain did not objectively[r]recognize this fact.
 *425|
 [fc]
 [ns]Male D[nse]
-T-t-ti... tow... er... it's... standing[pcms]
+T-t-ti... tow... er... it's...  standing[pcms]
 
 *v174|
 [fc]
@@ -1230,15 +1230,15 @@ Ah, aah, uah![pcms]
 [ns]Male I[nse]
 I... I'm... going...[pcms]
 
-;//;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
-;//;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
+;//;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 [stop_se1]
 [stop_overflow_se]
 
-;//;//SE:å°„ç²¾
+;//;//SE:Ë¸
 [se1 storage="se062"]
 
-;//;//SE:å°„ç²¾
+;//;//SE:Ë¸
 [overflow_se storage="se062"]
 
 ;//whiteout
@@ -1309,7 +1309,7 @@ She savored and enjoyed it with her whole being.[pcms]
 [fc]
 [vo_mob s="imo_0033"]
 [ns]Tomomi's younger sister[nse]
-*Sucking... mmm, slurp... *[pcms]
+*Sucking... mmm, slurp...  *[pcms]
 
 *437|
 [fc]
@@ -1342,8 +1342,8 @@ The daughter's heart was completely dominated by pleasure,[r]her face relaxed wi
 ... Hey, more... I want you to rub it harder with your[r]dick...[l][er]
 It's getting all tingly inside my pussy...[pcms]
 
-;//â™ªï¼šBGM004ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM004ƒtƒF[ƒhƒAƒEƒg
+;//ôFBGM–³‚µ
 [fadeoutbgm time=500]
 
 ;//blackout
@@ -1364,29 +1364,29 @@ The fact that their own town was gradually being covered by[r]an unknown shadow,
 
 
 [eval exp="sf.g_pl_skip = 1"]
-;mm ysysç”¨Pã‚¹ã‚­ãƒƒãƒ—è¿½åŠ 
+;mm ysys—pPƒXƒLƒbƒv’Ç‰Á
 [eval exp="sf.pskip = 1"]
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn01 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn01 = 1"]
 ;[black_toplayer][trans_c random][hide_chara_int]
 [zapfade]
 
 
 ;;;[sysbt_meswin]
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*0016_TOP storage="0016.ks"]
 
 

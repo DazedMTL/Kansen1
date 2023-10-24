@@ -1,22 +1,22 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0110ã€æ–°ä»»æ•™å¸«ãƒªã‚µã€
-;//BG:è·å“¡å®¤
-;//BGä½“è‚²æ•™å“¡å®¤
-;//ç™»å ´äººç‰©ï¼›å²¸ç”°ãƒ»ãƒªã‚µ
-;//è¦–ç‚¹ï¼šãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN0110wV”C‹³tƒŠƒTx
+;//BG:Eˆõº
+;//BG‘Ìˆç‹³ˆõº
+;//“oêl•¨GŠİ“cEƒŠƒT
+;//‹“_FƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *0110_H_TOP
-;[debug_win]ãªã†ã€€0110_H[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0110 = 1"]
+;[debug_win]‚È‚¤@0110_H[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0110 = 1"]
 
-;*SceneSet|ã€æ–°ä»»æ•™å¸«ãƒªã‚µã€
+;*SceneSet|wV”C‹³tƒŠƒTx
 
 ;//[0110]
 
-;//â™ªï¼šBGM007ã€€
+;//ôFBGM007@
 ;//[bgm007]
 ;//BG:bg017d
 
@@ -54,21 +54,21 @@ After the opening ceremony, filled with anticipation for[r]what was to come on t
 
 ;;;[sysbt_meswin]
 
-;//BG:bgæ˜‡é™å£å‰å»Šä¸‹ã€€ã‚»ãƒ”ã‚¢
+;//BG:bg¸~Œû‘O˜L‰º@ƒZƒsƒA
 
 [bg storage="bg03a_s"]
 [trans_c cross time=500]
 
-;//SE:èµ°ã‚‹éŸ³
+;//SE:‘–‚é‰¹
 
-;ã‚»ãƒ”ã‚¢
+;ƒZƒsƒA
 
 [ChrSetEx layer=1 chbase="spi_kisi_a_a_01"]
 [ChrSetXY layer=1 x=140 y=0]
 [ChrSetParts layer=1 chface="spi_kisi_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std167|
 [fc]
 [ns]Kishida[nse]
@@ -80,7 +80,7 @@ Ah! Shindou-sensei!![pcms]
 [ns]Shindou[nse]
 Kishida-sensei... What is it?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std168|
 [fc]
 [ns]Kishida[nse]
@@ -93,7 +93,7 @@ However, it seems that he forgot to explain about the club[r]building.[pcms]
 [ns]Shindou[nse]
 Club building...?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std169|
 [fc]
 [ns]Kishida[nse]
@@ -112,7 +112,7 @@ Come to think of it, I didn't hear about that.[pcms]
 [ChrSetParts layer=1 chface="spi_kisi_a_b_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std170|
 [fc]
 [ns]Kishida[nse]
@@ -144,13 +144,13 @@ Unbeknownst to me, that would lead to tragedy.[pcms]
 [ChrSetParts layer=1 chface="spi_kisi_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std171|
 [fc]
 [ns]Kishida[nse]
 Before heading to the club building, would you like to take[r]a look at the physical education instructor's office where[r]we, the physical education teachers, are stationed?[pcms]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 [se0 storage="se008"]
 
 [backlay_c][chara_int][trans_c cross time=150]
@@ -196,7 +196,7 @@ When I turned around at the sound I heard from behind, that[r]man's fist was alr
 
 ;;;[sysbt_meswin]
 
-;//[0111]ã¸
+;//[0111]‚Ö
 [jump target=*0111_H_TOP storage="0111_H.ks"]
 
 

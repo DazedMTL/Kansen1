@@ -1,20 +1,20 @@
 
-;//â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼
-;//â– ãƒ–ãƒ­ãƒƒã‚¯0002ï¼šã€æ•™å®¤ã®ã‚¯ãƒ©ã‚¹æ•™å®¤ï¼šç³ç™»å ´ã€
-;//BG:æ•™å®¤ï¼šæ˜¼
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»ç«¹å†…
+;//¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥
+;//¡ƒuƒƒbƒN0002Fw‹³º‚ÌƒNƒ‰ƒX‹³ºF“µ“oêx
+;//BG:‹³ºF’‹
+;//“oêl•¨GålŒöE“µE’|“à
 ;//
-;//â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼
+;//¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥
 *0002_TOP
-;[debug_win]ãªã†ã€€0002[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0002 = 1"]
+;[debug_win]‚È‚¤@0002[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0002 = 1"]
 
-;*SceneSet|ã€æ•™å®¤ã®ã‚¯ãƒ©ã‚¹æ•™å®¤ã€
+;*SceneSet|w‹³º‚ÌƒNƒ‰ƒX‹³ºx
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//BG:bg010a
 
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [bg storage="bg10a"]
 [trans_c cross time=500]
 
@@ -41,7 +41,7 @@ Who actually follows that kind of rule...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;//â€»ä½ä¼¯
+;//¦²”Œ
 *v13|
 [fc]
 [vo_sa s="sae0001"]
@@ -92,7 +92,7 @@ However, I feel like I would be extremely nervous.[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std7|
 [fc]
 [ns]Takeuchi[nse]
@@ -112,7 +112,7 @@ Hm? Well... I guess I'll grab something to eat somewhere.[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std8|
 [fc]
 [ns]Takeuchi[nse]
@@ -130,7 +130,7 @@ There you go again... You really like that, don't you?[pcms]
 [ChrSetParts layer=1 chface="take_a_d_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std9|
 [fc]
 [ns]Takeuchi[nse]
@@ -145,7 +145,7 @@ Well, as a healthy man...[pcms]
 [fc]
 We were leaning against each other, playfully hitting each[r]other's shoulders and laughing without any sense of decorum,[r]when we suddenly felt a cold and heavy pressure approaching[r]from behind, causing us to freeze in place.[pcms]
 
-;//â€»ä½ä¼¯
+;//¦²”Œ
 *v14|
 [fc]
 [vo_sa s="sae0002"]
@@ -154,7 +154,7 @@ I apologize for enjoying myself with vulgar talk.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//â€»çµµç„¡ã—
+;//¦ŠG–³‚µ
 
 *83|
 [fc]
@@ -169,8 +169,8 @@ We turned around, anticipating that those cold eyes were[r]waiting for us, and c
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
-;//â€»ä½ä¼¯
+;—§‚¿
+;//¦²”Œ
 *v15|
 [fc]
 [vo_sa s="sae0003"]
@@ -187,7 +187,7 @@ We turned around as expected, and the one who greeted us[r]with eyes full of aut
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std11|
 [fc]
 [ns]Takeuchi[nse]
@@ -201,7 +201,7 @@ Saeki, with a stern expression on her face, furrowed her[r]brows even more at Ta
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v16|
 [fc]
@@ -235,7 +235,7 @@ Saeki turned her gaze away from Shinya and let out a small[r]sigh before turning
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v17|
 [fc]
@@ -255,7 +255,7 @@ There's no trash or anything.[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v18|
 [fc]
@@ -267,10 +267,10 @@ If you don't finish cleaning, you won't be able to go home[r]no matter how long 
 [fc]
 When we were starting to lose hope in the tone that didn't[r]allow us to question Saeki, a heavenly voice descended upon[r]us from above.[pcms]
 
-;//â™ªï¼šBGM01ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM01ƒtƒF[ƒhƒAƒEƒg
 [fadeoutbgm time=500]
 
-;//SE:æ ¡å†…æ”¾é€ãƒãƒ£ã‚¤ãƒ 
+;//SE:Z“à•ú‘—ƒ`ƒƒƒCƒ€
 [overflow_se storage="se004"]
 
 *94|
@@ -279,7 +279,7 @@ When we were starting to lose hope in the tone that didn't[r]allow us to questio
 Attention members of the Film Research Club, please gather[r]in the science preparation room immediately.[l][er]
 I repeat...[pcms]
 
-;//â™ªï¼šBGM01ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM01ƒtƒF[ƒhƒCƒ“
 [bgm001]
 
 *95|
@@ -292,10 +292,10 @@ Thank goodness! Let's go, Shinya![pcms]
 [trans_c cross time=150]
 
 [stop_overflow_se]
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
-;ç«‹ã¡
+;—§‚¿
 *std12|
 [fc]
 [ns]Takeuchi[nse]
@@ -306,7 +306,7 @@ Okay![pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v19|
 [fc]
@@ -320,7 +320,7 @@ W-Wait a minute![pcms]
 Saeki!! You're a member too, right?[l][er]
 Hurry up and come. If you're cleaning, Shindou-sensei will[r]get mad.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v20|
 [fc]
@@ -333,6 +333,6 @@ Cleaning...! Wait! Listen to what people are saying!![pcms]
 [fc]
 While receiving the sound of Saeki shouting something from[r]behind, Shinya and I started running.[pcms]
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*0003_TOP storage="0003.ks"]
 

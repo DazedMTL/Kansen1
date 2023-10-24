@@ -1,16 +1,16 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07240ã€åŒ…å›²2ã€
-;//BG:å­¦é£Ÿï¼šå¤•æ–¹ï¼›æ¶ˆç¯
-;//BG;åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN07240w•ïˆÍ2x
+;//BG:ŠwHF—[•ûGÁ“”
+;//BG;’n‰ººFÁ“”
+;//“oêl•¨GålŒöE“µ
 
 *07240_TOP
-;[debug_win]ãªã†ã€€07240[debug_win_end]
-;*SceneSet|ã€åŒ…å›²ï¼’ã€
+;[debug_win]‚È‚¤@07240[debug_win_end]
+;*SceneSet|w•ïˆÍ‚Qx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07240 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07240 = 1"]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 [bgm007]
 
@@ -36,7 +36,7 @@ The room was filled with a sunset so dazzling it made my[r]eyes hurt, and I coul
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3051|
 [fc]
@@ -97,7 +97,7 @@ Let's stay here until tomorrow for now.[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3052|
 [fc]
@@ -113,7 +113,7 @@ Saeki answered in a murmuring voice, let out a deep sigh,[r]buried her face in h
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3053|
 [fc]
@@ -139,7 +139,7 @@ As I let out a sigh in response, Saeki suddenly started[r]getting angry.[pcms]
 [ChrSetParts layer=1 chface="sae_c_c_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3054|
 [fc]
@@ -148,7 +148,7 @@ As I let out a sigh in response, Saeki suddenly started[r]getting angry.[pcms]
 Even though you knew that, why didn't you run away[r]immediately from that place![l][er]
 If you had been attacked by Yamagishi-san at that time...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3055|
 [fc]
@@ -162,7 +162,7 @@ And yet, you went through something like that...[pcms]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3056|
 [fc]
@@ -198,7 +198,7 @@ I have to protect Saeki... I have to be strong.[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3057|
 [fc]
@@ -206,7 +206,7 @@ I have to protect Saeki... I have to be strong.[pcms]
 [ns]Saeki[nse]
 Kato-san!? Listen carefully...[pcms]
 
-;//SE;ã‚¬ãƒ©ã‚¬ãƒ©
+;//SE;ƒKƒ‰ƒKƒ‰
 [se0 storage="se024"]
 
 *7665|
@@ -219,7 +219,7 @@ Kato-san!? Listen carefully...[pcms]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3058|
 [fc]
@@ -250,7 +250,7 @@ However, if a large group gathers at the entrance here, like[r]they did at the s
 I don't want to stay still in a place like this.[l][er]
 I want to seize the opportunity and escape outside.[pcms]
 
-;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM007ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
@@ -259,7 +259,7 @@ I want to seize the opportunity and escape outside.[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3059|
 [fc]
@@ -277,7 +277,7 @@ Ah, something might have just fallen...[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3060|
 [fc]
@@ -290,7 +290,7 @@ Um... already...[pcms]
 Saeki, who was still being embraced by me, shyly looked[r]down.[l][er]
 I had completely forgotten that I was holding her.[pcms]
 
-;//â™ªï¼šBGM010ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM010ƒtƒF[ƒhƒCƒ“
 [bgm010]
 
 *7673|
@@ -298,15 +298,15 @@ I had completely forgotten that I was holding her.[pcms]
 [ns]Kato[nse]
 Ah... S-Sorry...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3061|
 [fc]
 [vo_sa s="sae0919"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3062|
 [fc]
@@ -321,18 +321,18 @@ I lost control...[pcms]
 Ah, no... I'm sorry too... And, I won't be careless like[r]that again...[pcms]
 
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3063|
 [fc]
 [vo_sa s="sae0921"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *7675|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
@@ -349,7 +349,7 @@ It was eerily silent, with only the ringing in my ears[r]breaking the stillness.
 [fc]
 The only sounds I could hear were Saeki's breathing and my[r]own heartbeat.[pcms]
 
-;//SE:å¿ƒæ‹éŸ³
+;//SE:S”‰¹
 
 [se0 storage="se003"]
 
@@ -367,7 +367,7 @@ That's what I thought, and right then, Saeki spoke up.[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3064|
 [fc]
@@ -410,6 +410,6 @@ If only it hadn't come to this...[pcms]
 ;	*|
 ;	*/
 
-;//[07250]ã¸
+;//[07250]‚Ö
 [jump target=*07250_H_TOP storage="07250_H.ks"]
 

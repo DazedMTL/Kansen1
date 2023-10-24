@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05160ã€ãƒªã‚µå¯¾ç«¹å†…ã€
-;//BG:ä¿å¥å®¤ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»ç«¹å†…ãƒ»ãƒªã‚µ
+;//¡ËƒuƒƒbƒN05160wƒŠƒT‘Î’|“àx
+;//BG:•ÛŒ’ºF–éF“_“”
+;//“oêl•¨GålŒöE“µE’|“àEƒŠƒT
 
 *05160_TOP
-;[debug_win]ãªã†ã€€05160[debug_win_end]
-;*SceneSet|ã€ãƒªã‚µå¯¾ç«¹å†…ã€
+;[debug_win]‚È‚¤@05160[debug_win_end]
+;*SceneSet|wƒŠƒT‘Î’|“àx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05160 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05160 = 1"]
 ;	/*
-;	;//â™ªï¼šBGM001
+;	;//ôFBGM001
 ;	[bgm001]
 ;	*/
 ;//BG:bg013c
@@ -25,7 +25,7 @@
 
 ;;;[sysbt_meswin]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2087|
 [fc]
@@ -39,7 +39,7 @@ Since there is no evidence, no one will believe your story!![pcms]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std336|
 [fc]
 [ns]Takeuchi[nse]
@@ -55,7 +55,7 @@ Shinya and Ms. Shindou didn't seem to stop arguing.[pcms]
 [ChrSetParts layer=1 chface="risa_c_a_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2088|
 [fc]
@@ -68,7 +68,7 @@ Even if there was evidence, it would be a big mistake to[r]just give up without 
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std337|
 [fc]
 [ns]Takeuchi[nse]
@@ -91,7 +91,7 @@ Saeki and I were simply dumbfounded by the intensity of[r]their exchange, as we 
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std338|
 [fc]
 [ns]Takeuchi[nse]
@@ -120,7 +120,7 @@ Why are you fighting with the teacher?[pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std339|
 [fc]
 [ns]Takeuchi[nse]
@@ -130,13 +130,13 @@ It's none of your business...[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2089|
 [fc]
 [vo_ri s="risa0524"]
 [ns]Shindou[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4943|
 [fc]
@@ -147,7 +147,7 @@ After staring at Ms. Shindou for a moment, Shinya began to[r]walk towards the do
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std340|
 [fc]
 [ns]Takeuchi[nse]
@@ -168,7 +168,7 @@ Takeuchi, with a malicious expression as if he had never[r]seen me before, looke
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std341|
 [fc]
 [ns]Takeuchi[nse]
@@ -181,7 +181,7 @@ Holding hands and all.[pcms]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2090|
 [fc]
@@ -204,7 +204,7 @@ No, this is...[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std342|
 [fc]
 [ns]Takeuchi[nse]
@@ -225,14 +225,14 @@ With an unnaturally loud voice, Shinya said that and quickly[r]left the infirmar
 *4950|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2091|
 [fc]
@@ -245,7 +245,7 @@ Also, did Takeuchi-san cause any trouble?[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2092|
 [fc]
@@ -255,7 +255,7 @@ There's nothing wrong.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:æ‰‰ã‚’é–‰ã‚ã‚‹ï¼ˆå‹¢ã„ã‚ˆãï¼‰
+;//SE:”à‚ğ•Â‚ß‚éi¨‚¢‚æ‚­j
 [se0 storage="se010"]
 
 *4951|
@@ -267,7 +267,7 @@ Without even making eye contact with Saeki, Shindou-sensei[r]said that and left 
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2093|
 [fc]
@@ -278,7 +278,7 @@ Without even making eye contact with Saeki, Shindou-sensei[r]said that and left 
 *4952|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4953|
 [fc]
@@ -296,5 +296,5 @@ We stood in the infirmary, dumbfounded, for a while.[pcms]
 
 ;//blackout
 
-;//[05170]ã¸
+;//[05170]‚Ö
 [jump target=*05170_TOP storage="05170.ks"]

@@ -1,23 +1,23 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07140ã€å½·å¾¨ã€
-;//;//BG:æ˜‡é™å£å‰å»Šä¸‹ï¼šå¤œï¼›æ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼šç³
-;//ï¼šç³è¦–ç‚¹
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN07140wœfœrx
+;//;//BG:¸~Œû‘O˜L‰ºF–éGÁ“”
+;//“oêl•¨F“µ
+;//F“µ‹“_
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *07140_H_TOP
-;[debug_win]ãªã†ã€€07140_H[debug_win_end]
+;[debug_win]‚È‚¤@07140_H[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07140 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07140 = 1"]
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 
 [fadeoutbgm time=500]
 
-;//;//BG:bgç„¡ã—
+;//;//BG:bg–³‚µ
 
 *v2928|
 [fc]
@@ -38,7 +38,7 @@ I must have been really tired...[pcms]
 [fc]
 [vo_sa s="sae0810"]
 [ns]Saeki[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *7258|
 [fc]
@@ -57,7 +57,7 @@ The more I try to remember what happened to me, the more the[r]images become blu
 [fc]
 I rushed out of the bathroom, trying to erase those thoughts[r]from my mind.[pcms]
 
-;//â™ªï¼šBGM004ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM004ƒtƒF[ƒhƒCƒ“
 
 [bgm004]
 
@@ -81,7 +81,7 @@ Perhaps because of that, I could strangely hear my own[r]heartbeat loudly.[pcms]
 [ns]Saeki[nse]
 *Heavy breathing*... *Heavy breathing*...[pcms]
 
-;//SE:å¿ƒæ‹éŸ³
+;//SE:S”‰¹
 
 [se0 storage="se003"]
 
@@ -94,7 +94,7 @@ And... my body feels hot...[pcms]
 [fc]
 Furthermore, I was attacked by a horrifying sensation as if[r]countless small insects were crawling inside my body, and I[r]hugged myself tightly in an attempt to suppress it.[pcms]
 
-;//SE:å¿ƒæ‹éŸ³
+;//SE:S”‰¹
 
 [se0 storage="se003"]
 
@@ -109,7 +109,7 @@ What...? What is this...?[pcms]
 I felt fear as if someone else, someone different from[r]myself, was entering my mind and gradually erasing my[r]consciousness.[l][er]
 I screamed out loud.[pcms]
 
-;//SE:å¿ƒæ‹éŸ³
+;//SE:S”‰¹
 
 [se0 storage="se003"]
 
@@ -171,5 +171,5 @@ I stood up and started walking in order to search for that[r]person.[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[07150]ã¸
+;//[07150]‚Ö
 [jump target=*07150_H_TOP storage="07150_H.ks"]

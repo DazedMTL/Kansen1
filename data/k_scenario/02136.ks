@@ -1,31 +1,31 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02136ã€å„ªã®æ‚²é³´ã€
-;//BG:äºŒéšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰å‰ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02136w—D‚Ì”ß–Âx
+;//BG:“ñŠK˜L‰ºFƒoƒŠƒP[ƒh‘OF’‹i’©Œ“—pj
 //Characters; Protagonist, Risa, Yuu, Shinya, and Semi-[r]infected Zombies[l][er]
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02136_TOP
-;[debug_win]ãªã†ã€€02136[debug_win_end]
+;[debug_win]‚È‚¤@02136[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02136 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02136 = 1"]
 
-;*SceneSet|ã€å„ªã®æ‚²é³´ã€
+;*SceneSet|w—D‚Ì”ß–Âx
 
-;//â™ªï¼šBGM003
+;//ôFBGM003
 
 [bgm003]
 
-;//BG:bgç„¡ã—
+;//BG:bg–³‚µ
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//â€»çµµç„¡ã—
+;//¦ŠG–³‚µ
 
 *v973|
 [fc]
@@ -42,14 +42,14 @@ Yuu-san!?[pcms]
 [fc]
 I quickly ran up the stairs upon hearing Yamagishi-san's[r]scream coming from the second floor.[pcms]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 
 [se0 storage="se005"]
 
 [bg storage="bg90"]
 [trans_c cross time=500]
 
-;//H_CG:ä¸€èˆ¬ã‚·ãƒ¼ãƒ³ã€€
+;//H_CG:ˆê”ÊƒV[ƒ“@
 
 [ChrSetEx layer=1 chbase="zom_03_a"]
 [ChrSetXY layer=1 x=0 y=0]
@@ -108,12 +108,12 @@ Hands off! Release her!![pcms]
 
 
 
-;mm ãªã‚“ã§æ®´ã‚‹å¯¾è±¡ã‚’è²¼ã‚‰ãªã„ã‚“ã ã‚ã†ãªã
+;mm ‚È‚ñ‚Å‰£‚é‘ÎÛ‚ğ“\‚ç‚È‚¢‚ñ‚¾‚ë‚¤‚È‚Ÿ
 [ChrSetEx layer=1 chbase="zom_03_a"]
 [ChrSetXY layer=1 x=280 y=0]
 [trans_c cross time=150]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 
 [se0 storage="se026"]
 
@@ -171,7 +171,7 @@ I reached the top of the stairs and brought the flame of a[r]torch close to the 
 [ns]male student[nse]
 Ugh... Ah, ah...[pcms]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 
 [se0 storage="se021"]
 
@@ -202,5 +202,5 @@ You bastard...[pcms]
 
 ;//blackout
 
-;//[02137]ã¸
+;//[02137]‚Ö
 [jump target=*02137_TOP storage="02137.ks"]

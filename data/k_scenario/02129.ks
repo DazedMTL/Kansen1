@@ -1,12 +1,12 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02129ã€ã‚¨ãƒ«ã‚°ãƒ©ãƒ³ãƒ‰ã€
-;//BG:å­¦åœ’å…¥ã‚Šå£ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µ
+;//¡ËƒuƒƒbƒN02129wƒGƒ‹ƒOƒ‰ƒ“ƒhx
+;//BG:Šw‰€“ü‚èŒûF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöEƒŠƒT
 
 *02129_TOP
-;[debug_win]ãªã†ã€€02129[debug_win_end]
+;[debug_win]‚È‚¤@02129[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02129 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02129 = 1"]
 
 [eval exp="f.prologue_route = 0"]
 [eval exp="f.yuu_route1 = 0"]
@@ -19,9 +19,9 @@
 [eval exp="f.hitomi_route4 = 0"]
 [eval exp="f.infection_route = 0"]
 
-;*SceneSet|ã€ãƒªã‚µã®è»Šã€
+;*SceneSet|wƒŠƒT‚ÌÔx
 
-;//â™ªï¼šBGM003
+;//ôFBGM003
 
 [bgm003]
 
@@ -56,7 +56,7 @@ I handed the key to the emergency staircase door to Sensei[r]Shindou, and I unlo
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v961|
 [fc]
@@ -69,7 +69,7 @@ Wait here. If anything happens to me, immediately return to[r]the school buildin
 [ns]Kato[nse]
 Eh, but if that's the case, Sensei...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v962|
 [fc]
@@ -99,11 +99,11 @@ After a while, I heard the sound of the engine starting,[r]followed by the sound
 [fc]
 In that moment of hope and relief when I heard that sound,[r]the next instant, along with the sound of sudden braking, I[r]heard a noise like the scraping of two hard objects.[pcms]
 
-;//SE:æ€¥ãƒ–ãƒ¬ãƒ¼ã‚­
+;//SE:‹}ƒuƒŒ[ƒL
 
 [se0 storage="se029"]
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 
 [bgm009]
 
@@ -130,7 +130,7 @@ Sensei! Are you okay!?[pcms]
 [ChrSetParts layer=1 chface="risa_c_a_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v963|
 [fc]
@@ -147,7 +147,7 @@ Oh, it flipped over!?[pcms]
 [fc]
 Did the sound I heard earlier, like the scraping of two hard[r]objects, actually come from the car flipping over and[r]sliding on the ground...?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v964|
 [fc]
@@ -156,5 +156,5 @@ Did the sound I heard earlier, like the scraping of two hard[r]objects, actually
 Suddenly, a student... jumped out...[l][er]
 and rode onto the flower bed...[pcms]
 
-;//[02130]ã¸
+;//[02130]‚Ö
 [jump target=*02130_TOP storage="02130.ks"]

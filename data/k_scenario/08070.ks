@@ -1,25 +1,25 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08070ã€èª¬æ•™ã€
-;//BG;è¦–è´è¦šå®¤ï¼šå¤œï¼šä¸Šæ˜ ä¸­
-;//BG:è¦–è´è¦šå®¤ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­ãƒ»ãƒªã‚µ
+;//¡ËƒuƒƒbƒN08070wà‹³x
+;//BG;‹’®ŠoºF–éFã‰f’†
+;//BG:‹’®ŠoºF–éF“_“”
+;//“oêl•¨GålŒöE—DE“µE•ü”üE’|“àE“c’†EƒŠƒT
 
 *08070_TOP
-;[debug_win]ãªã†ã€€08070[debug_win_end]
-;*SceneSet|ã€èª¬æ•™ã€
+;[debug_win]‚È‚¤@08070[debug_win_end]
+;*SceneSet|wà‹³x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08070 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08070 = 1"]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 
 ;//;//BG:bg15e
 
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [bg storage="bg15e"]
 [trans_c cross time=500]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 [se0 storage="se008"]
 
 
@@ -37,7 +37,7 @@ It's okay... Shinya, no one has noticed...[pcms]
 ;	[trans_c cross time=150]
 ;	*/
 
-;ç«‹ã¡
+;—§‚¿
 
 *9033|
 [fc]
@@ -62,7 +62,7 @@ At that moment...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3420|
 [fc]
@@ -75,7 +75,7 @@ Huh...? Kato-kun...?[pcms]
 [ChrSetParts layer=1 chface="risa_c_a_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3421|
 [fc]
@@ -88,7 +88,7 @@ Huh...? Kato-kun...?[pcms]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std532|
 [fc]
 [ns]Takeuchi[nse]
@@ -107,7 +107,7 @@ And to make matters worse... I ended up jumping right next[r]to where Saeki was 
 [ChrSetParts layer=1 chface="sae_c_c_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3422|
 [fc]
@@ -115,7 +115,7 @@ And to make matters worse... I ended up jumping right next[r]to where Saeki was 
 [ns]Saeki[nse]
 You guys...!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3423|
 [fc]
@@ -130,7 +130,7 @@ And thanks to you guys...[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std533|
 [fc]
 [ns]Tanaka[nse]
@@ -141,7 +141,7 @@ That's right, because of you guys, the start time of the[r]movie I was looking f
 [ChrSetParts layer=1 chface="risa_c_a_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3424|
 [fc]
@@ -155,9 +155,9 @@ How much I worried!![pcms]
 [ChrSetParts layer=1 chface="sae_c_c_10"]
 [trans_c cross time=150]
 
-;//ï¼ æ‰æ¸•ï¼šè¦å¾‹â†’è¦å‰‡
+;//—™ŸºF‹K—¥¨‹K‘¥
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3425|
 [fc]
@@ -170,7 +170,7 @@ Is it because you don't follow the rules that the school is[r]becoming more and 
 [ChrSetParts layer=1 chface="tanaka_a_a_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std534|
 [fc]
 [ns]Tanaka[nse]
@@ -188,7 +188,7 @@ I should have just walked home instead.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3426|
 [fc]
@@ -201,7 +201,7 @@ Well, well, even though we're late, we still made it here,[r]so isn't that fine?
 [ChrSetParts layer=1 chface="tomo_c_a_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3427|
 [fc]
@@ -231,7 +231,7 @@ I'm sorry... Really, I'm sorry.[pcms]
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std535|
 [fc]
 [ns]Takeuchi[nse]
@@ -251,7 +251,7 @@ I wonder if they have forgiven me...[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3428|
 [fc]
@@ -264,7 +264,7 @@ Just this once. I'll forgive you just this once.[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3429|
 [fc]
@@ -287,7 +287,7 @@ I wonder when was the last time I apologized this much...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3430|
 [fc]
@@ -315,7 +315,7 @@ Ah...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3431|
 [fc]
@@ -356,7 +356,7 @@ As I absentmindedly stared at the band-aid, Yamagishi-san[r]suddenly let out a w
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3432|
 [fc]
@@ -388,7 +388,7 @@ Rather than the fever, it felt like my heart was going to[r]jump out and kill me
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3433|
 [fc]
@@ -417,7 +417,7 @@ The girl from earlier wasn't like this...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std536|
 [fc]
 [ns]Takeuchi[nse]
@@ -428,7 +428,7 @@ Ah, I know what it is. It's probably because a girl came[r]close to you, so you 
 [ChrSetParts layer=1 chface="sae_c_c_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3434|
 [fc]
@@ -441,7 +441,7 @@ Takeuchi-san?[pcms]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std537|
 [fc]
 [ns]Takeuchi[nse]
@@ -452,7 +452,7 @@ Takeuchi-san?[pcms]
 [ChrSetParts layer=1 chface="sae_c_c_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3435|
 [fc]
@@ -467,7 +467,7 @@ Reflect more... seriously!![pcms]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std538|
 [fc]
 [ns]Takeuchi[nse]
@@ -485,7 +485,7 @@ Maybe, Saeki... is interested in that guy, just like Shinya[r]said...[pcms]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std539|
 [fc]
 [ns]Tanaka[nse]
@@ -493,7 +493,7 @@ Ah, sorry... I'm gonna go take a piss...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 [se0 storage="se008"]
 
 *9066|
@@ -510,7 +510,7 @@ Maybe I should sneak out too...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3436|
 [fc]
@@ -529,7 +529,7 @@ Not only is there no desperation in her voice, but she is[r]also peering into Sh
 [ChrSetParts layer=1 chface="take_a_d_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std540|
 [fc]
 [ns]Takeuchi[nse]
@@ -544,7 +544,7 @@ Saeki, whose worried expression had changed to a perplexed[r]one, continued to g
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std541|
 [fc]
 [ns]Takeuchi[nse]
@@ -555,7 +555,7 @@ You don't have to look at my face like that, it's gross![pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3437|
 [fc]
@@ -569,7 +569,7 @@ there was a strange smell coming from you...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std542|
 [fc]
 [ns]Takeuchi[nse]
@@ -579,7 +579,7 @@ What's the matter... Am I really that smelly?[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3438|
 [fc]
@@ -589,7 +589,7 @@ Alright, alright, that's enough.[l][er]
 We should start the next movie soon...[l][er]
 If we delay any longer, we won't be able to watch the[r]scheduled three films...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std543|
 [fc]
 [ns]Kato & Takeuchi[nse]
@@ -600,7 +600,7 @@ Yes![pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3439|
 [fc]
@@ -613,7 +613,7 @@ Are you really okay?[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3440|
 [fc]
@@ -621,7 +621,7 @@ Are you really okay?[pcms]
 [ns]Saeki[nse]
 If you start feeling sick along the way, please let me know[r]right away, okay?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std544|
 [fc]
 [ns]Kato & Takeuchi[nse]
@@ -637,7 +637,7 @@ They responded to each other harmoniously and sat together[r]in the back seat.[p
 [fc]
 As soon as we sat down, Yuuji came back.[pcms]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹ï¼ˆå‹¢ã„ã‚ˆãï¼‰
+;//SE:”à‚ğŠJ‚¯‚éi¨‚¢‚æ‚­j
 
 [se0 storage="se009"]
 
@@ -646,7 +646,7 @@ As soon as we sat down, Yuuji came back.[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std545|
 [fc]
 [ns]Tanaka[nse]
@@ -663,7 +663,7 @@ Eh... Seriously...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std546|
 [fc]
 [ns]Takeuchi[nse]
@@ -673,7 +673,7 @@ You wouldn't come here, right...[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3441|
 [fc]
@@ -690,7 +690,7 @@ I was gently admonished by Shindou-sensei, whose tone seemed[r]to be mixed with 
 [ChrSetParts layer=1 chface="risa_c_d_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3442|
 [fc]
@@ -698,7 +698,7 @@ I was gently admonished by Shindou-sensei, whose tone seemed[r]to be mixed with 
 [ns]Shindou[nse]
 Alright, onto the second one. This is...[pcms]
 
-;//SE:æˆ¦é—˜æ©ŸãŒé£›ã‚“ã§ã„ãéŸ³
+;//SE:í“¬‹@‚ª”ò‚ñ‚Å‚¢‚­‰¹
 [se0 storage="se017"]
 
 *9074|
@@ -709,7 +709,7 @@ As soon as the teacher started speaking, a fighter jet[r]roared and flew away.[p
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std547|
 [fc]
 [ns]Tanaka[nse]
@@ -721,7 +721,7 @@ Did something happen?[pcms]
 [ChrSetParts layer=1 chface="take_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std548|
 [fc]
 [ns]Takeuchi[nse]
@@ -741,7 +741,7 @@ Maybe something happened... Well, probably like Shinya said,[r]it's night traini
 [ChrSetParts layer=1 chface="tomo_c_a_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3443|
 [fc]
@@ -754,7 +754,7 @@ It must be tough for the military personnel too...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3444|
 [fc]
@@ -774,5 +774,5 @@ After sighing, Shindou-sensei spread out both hands in a[r]gesture of enough alr
 
 
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*08080_TOP storage="08080.ks"]

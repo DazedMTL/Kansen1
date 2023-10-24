@@ -1,40 +1,40 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04026ã€è¦–ç‚¹é¸æŠã€
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04026w‹“_‘I‘ğx
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04026_TOP
-;[debug_win]ãªã†ã€€04026[debug_win_end]
+;[debug_win]‚È‚¤@04026[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04026 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04026 = 1"]
 
-;*SceneSet|ã€è¦–ç‚¹é¸æŠã€
+;*SceneSet|w‹“_‘I‘ğx
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 
 [fadeoutbgm time=500]
 
-;//â€»ã‚¶ãƒƒãƒ”ãƒ³ã‚°é¸æŠãƒ–ãƒ­ãƒƒã‚¯
-;//ãƒ»è¦‹ãªã„;//[04017]ã¸
-;//ãƒ»è¦‹ã‚‹ï¼ˆãƒªã‚µè¦–ç‚¹ï¼‰;//[04027]ã¸
+;//¦ƒUƒbƒsƒ“ƒO‘I‘ğƒuƒƒbƒN
+;//EŒ©‚È‚¢;//[04017]‚Ö
+;//EŒ©‚éiƒŠƒT‹“_j;//[04027]‚Ö
 
-;mm ã‚¶ãƒƒãƒ”ãƒ³ã‚°å‰ã«é»’å…¥ã£ã¦ãªã„ã¨ãƒ­ãƒ¼ãƒ‰æ™‚ã«ã“ã“ã‚ˆã‚Šå‰ã®èƒŒæ™¯å‡ºã¡ã‚ƒã†ãªã
+;mm ƒUƒbƒsƒ“ƒO‘O‚É•“ü‚Á‚Ä‚È‚¢‚Æƒ[ƒh‚É‚±‚±‚æ‚è‘O‚Ì”wŒio‚¿‚á‚¤‚È‚Ÿ
 [black_toplayer][trans_c cross time=100][hide_chara_int]
 
-*ZAP11|ã‚¶ãƒƒãƒ”ãƒ³ã‚°é¸æŠè‚¢ã€€æ–°é“
+*ZAP11|ƒUƒbƒsƒ“ƒO‘I‘ğˆ@V“¹
 
-;ãƒãƒƒã‚¯ãƒ­ã‚°ã‚­ãƒ£ãƒ©æŒ‡å®š
-[eval exp="f.zap_sel_chara01 = 'ã€€æ–°é“'"]
-[eval exp="f.zap_sel_chara02 = 'ã€€ã‚­ãƒ£ãƒ³ã‚»ãƒ«'"]
+;ƒoƒbƒNƒƒOƒLƒƒƒ‰w’è
+[eval exp="f.zap_sel_chara01 = '@V“¹'"]
+[eval exp="f.zap_sel_chara02 = '@ƒLƒƒƒ“ƒZƒ‹'"]
 
 [zap_set1]
 
 [eval exp="f.zap_bt01_x = 200"][eval exp="f.zap_bt01_y = 200"]
 [eval exp="f.zap_bt99_x = 320"][eval exp="f.zap_bt99_y = 540"]
 
-;ãƒœã‚¿ãƒ³
+;ƒ{ƒ^ƒ“
 [locate x="&f.zap_bt01_x" y="&f.zap_bt01_y"][button graphic="zap_risa_"   target=*SEL00_risa   recthit=true]
 [locate x="&f.zap_bt99_x" y="&f.zap_bt99_y"][button graphic="zap_cancel" target=*SEL00_cancel recthit=true]
 
@@ -44,7 +44,7 @@
 
 ;-------------------------------------------------
 *SEL00_risa
-[zap_hisout txt="ã‚¶ãƒƒãƒ”ãƒ³ã‚°"][zap_hisout txt="&f.zap_sel_chara01 "][zap_hisout txt="ã€€é¸æŠ"][hr][hr]
+[zap_hisout txt="ƒUƒbƒsƒ“ƒO"][zap_hisout txt="&f.zap_sel_chara01 "][zap_hisout txt="@‘I‘ğ"][hr][hr]
 [zap_clear]
 [image storage="zap_risa"   layer=1 left="&f.zap_bt01_x" top="&f.zap_bt01_y" page=fore visible=true opacity=255]
 [image storage="zap_cancel" layer=2 left="&f.zap_bt99_x" top="&f.zap_bt99_y" page=fore visible=true opacity=255 clipleft=0 cliptop=0 clipwidth=160 clipheight=40]
@@ -55,13 +55,13 @@
 
 ;-------------------------------------------------
 *SEL00_cancel
-[zap_hisout txt="ã‚¶ãƒƒãƒ”ãƒ³ã‚°"][zap_hisout txt="&f.zap_sel_chara02 "][zap_hisout txt="ã€€é¸æŠ"][hr][hr]
+[zap_hisout txt="ƒUƒbƒsƒ“ƒO"][zap_hisout txt="&f.zap_sel_chara02 "][zap_hisout txt="@‘I‘ğ"][hr][hr]
 [zap_clear]
 [image storage="zap_risa_" layer=1 left="&f.zap_bt01_x" top="&f.zap_bt01_y" page=fore visible=true opacity=255 clipleft=0 cliptop=0 clipwidth=400 clipheight=120]
 [black_toplayer][trans_c random time=1000][hide_chara_int]
 ;[zapfade]
 
-;mm 04017ã‹ã‚‰æ¥ãŸã‹ã‚‰ãƒ«ãƒ¼ãƒ—ã—ã¦ã­ï¼Ÿ04028_H.ksã®æœ«ç«¯ã®é£›ã³å…ˆã¨åˆã‚ã›ã¦ãŠã
+;mm 04017‚©‚ç—ˆ‚½‚©‚çƒ‹[ƒv‚µ‚Ä‚ËH04028_H.ks‚Ì––’[‚Ì”ò‚Ñæ‚Æ‡‚í‚¹‚Ä‚¨‚­
 ;[jump target=*04017_TOP storage="04017.ks"]
 
 [bgm007]

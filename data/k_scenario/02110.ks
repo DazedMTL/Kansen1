@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02110ã€çŠ¶æ³æ•´ç†ã€
-;//BG:è¦–è´è¦šå®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»å²¸ç”°ãƒ»ç«¹å†…
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02110wó‹µ®—x
+;//BG:‹’®ŠoºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DEƒŠƒTEŠİ“cE’|“à
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02110_TOP
-;[debug_win]ãªã†ã€€02110[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02110 = 1"]
+;[debug_win]‚È‚¤@02110[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02110 = 1"]
 
-;*SceneSet|ã€çŠ¶æ³æ•´ç†ã€
+;*SceneSet|wó‹µ®—x
 
 ;//[02110]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 [bgm007]
 ;//BG:bg015a
 [bg storage="bg15a"]
@@ -24,7 +24,7 @@
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v849|
 [fc]
@@ -45,7 +45,7 @@ When I came back here, I caught a glimpse of it.[l][er]
 A huge number of them had gathered at the entrance shutter.[l][er]
 And all of them were our students.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v850|
 [fc]
@@ -57,7 +57,7 @@ What did you say...?[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v851|
 [fc]
@@ -80,7 +80,7 @@ but you don't need it?[pcms]
 [ChrSetParts layer=1 chface="risa_c_d_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v852|
 [fc]
@@ -92,10 +92,10 @@ No, it's helpful. You're considerate, aren't you?[pcms]
 [fc]
 As soon as Dr. Shindou started administering first aid to[r]Kishida, there was a sound of something hitting the window,[r]and Yamagishi-san let out a scream.[pcms]
 
-;//SE:ãƒ‰ã‚¢ã‚’å©ããƒ«ãƒ¼ãƒ—
+;//SE:ƒhƒA‚ğ’@‚­ƒ‹[ƒv
 [overflow_se storage="se027" loop=true]
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 [bgm008]
 
 [ChrSetEx layer=1 chbase="yuu_c_e_13"]
@@ -103,7 +103,7 @@ As soon as Dr. Shindou started administering first aid to[r]Kishida, there was a
 [ChrSetParts layer=1 chface="yuu_c_e_14"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v853|
 [fc]
@@ -116,7 +116,7 @@ Kyaaaaaa!![pcms]
 [ns]Kato[nse]
 Huh!? What is it?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v854|
 [fc]
@@ -129,7 +129,7 @@ Oh, that...!![pcms]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std237|
 [fc]
 [ns]Takeuchi[nse]
@@ -148,7 +148,7 @@ I wonder if their target is still Yamagishi-san...[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v855|
 [fc]
@@ -162,7 +162,7 @@ Did they attack Kato-kun and the others...?[pcms]
 It's not him, but he's the one with those eyes.[l][er]
 He seems like the type who would do some dangerous drugs or[r]something...[pcms]
 
-;//SE:ãƒ‰ã‚¢ã‚’å©ããƒ«ãƒ¼ãƒ—ã€€åœæ­¢
+;//SE:ƒhƒA‚ğ’@‚­ƒ‹[ƒv@’â~
 [stop_overflow_se]
 
 *2129|
@@ -179,7 +179,7 @@ The man seemed to give up on entering as we stared at him in[r]unease, and he di
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std238|
 [fc]
 [ns]Takeuchi[nse]
@@ -199,6 +199,6 @@ In that case, it's dangerous to go outside...[pcms]
 [fc]
 After listening to my conversation with Shinya, Shindou-[r]sensei had a pensive expression on her face.[pcms]
 
-;//[02111]ã¸
+;//[02111]‚Ö
 [jump target=*02111_TOP storage="02111.ks"]
 

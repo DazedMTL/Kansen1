@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02111ã€è€ƒå¯Ÿã€
-;//BG:è¦–è´è¦šå®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»å²¸ç”°ãƒ»ç«¹å†…
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02111wl@x
+;//BG:‹’®ŠoºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DEƒŠƒTEŠİ“cE’|“à
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02111_TOP
-;[debug_win]ãªã†ã€€02111[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02111 = 1"]
+;[debug_win]‚È‚¤@02111[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02111 = 1"]
 
-;*SceneSet|ã€è€ƒå¯Ÿã€
+;*SceneSet|wl@x
 
 ;//[02111]
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 ;//[bgm008]
 ;//BG:bg015a
 ;//[bg storage="bg15a"]
@@ -24,7 +24,7 @@
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v856|
 [fc]
@@ -36,7 +36,7 @@ I want to grasp the current situation...[pcms]
 [fc]
 After Shindou-sensei finished his emergency measures for[r]Kishida, he stood up with a pensive expression and looked[r]around at us.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v857|
 [fc]
@@ -48,7 +48,7 @@ Kato-kun, I had you listen to it on the radio earlier, but[r]right now, riots ar
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v858|
 [fc]
@@ -69,7 +69,7 @@ Shindou-sensei turned his palm towards me and interrupted my[r]words.[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v859|
 [fc]
@@ -95,7 +95,7 @@ When I looked at Yamagishi-san, she had an anxious[r]expression on her face and 
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v860|
 [fc]
@@ -108,7 +108,7 @@ I see... And then, Kishida-sensei was attacked...[pcms]
 Shindou-sensei's gaze falls upon Kishida, who is lying on[r]the floor.[l][er]
 It seems like his wounds are hurting because Kishida's face[r]contorts in pain as he struggles to breathe.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v861|
 [fc]
@@ -145,7 +145,7 @@ I don't hear any sounds of the baseball club practicing on[r]the school grounds 
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v862|
 [fc]
@@ -162,7 +162,7 @@ Shinya opened his mouth, as if remembering something, when[r]our conversation wi
 [ChrSetParts layer=1 chface="take_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std239|
 [fc]
 [ns]Takeuchi[nse]
@@ -178,7 +178,7 @@ A movie...?[pcms]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std240|
 [fc]
 [ns]Takeuchi[nse]
@@ -194,7 +194,7 @@ Shinya, with an excited expression as if he had become the[r]protagonist of that
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v863|
 [fc]
@@ -211,7 +211,7 @@ Yeah... Calm down, it's just a coincidence.[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v864|
 [fc]
@@ -230,7 +230,7 @@ First, we need to think about our own safety...[pcms]
 [fc]
 However, when a man appeared in the audiovisual room, the[r]situation became urgent, and it was no longer a time to[r]think about our own safety.[pcms]
 
-;//[02112]ã¸
+;//[02112]‚Ö
 [jump target=*02112_TOP storage="02112.ks"]
 
 

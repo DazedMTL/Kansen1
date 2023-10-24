@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05130ã€ææ¡ˆã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05130w’ñˆÄx
+;//BG:“Áê‹³º˜L‰ºF–éF“_“”
+;//“oêl•¨GålŒöE“µ
 
 *05130_TOP
-;[debug_win]ãªã†ã€€05130[debug_win_end]
-;*SceneSet|ã€ææ¡ˆã€
+;[debug_win]‚È‚¤@05130[debug_win_end]
+;*SceneSet|w’ñˆÄx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05130 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05130 = 1"]
 ;	/*
-;	;//â™ªï¼šBGM001
+;	;//ôFBGM001
 ;	[bgm001]
 ;	*/
 
@@ -46,7 +46,7 @@ Saeki, who had been silent until then, opened her mouth as[r]she stopped and gaz
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2081|
 [fc]
@@ -70,7 +70,7 @@ Saeki, with a displeased expression and tone, said that and[r]started walking to
 [fc]
 I was starting to feel sorry for Saeki again, thinking that[r]her unclear answer earlier might be the cause of her[r]displeasure.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2082|
 [fc]
@@ -88,5 +88,5 @@ Huh? Ah, ah, I'm coming now![pcms]
 [fc]
 I felt relieved when Saeki's way of calling out to me seemed[r]to return to her usual self.[pcms]
 
-;//[05140]ã¸
+;//[05140]‚Ö
 [jump target=*05140_TOP storage="05140.ks"]

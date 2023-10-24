@@ -1,18 +1,18 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0016ã€å¤•é£Ÿä¼šã€
-;//BG:å­¦åœ’å†…å­¦é£Ÿï¼šå¤•æ–¹
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­
-;//[äºŒé€±ç›®ä»¥é™ã€ã‚¹ã‚¿ãƒ¼ãƒˆæ™‚ã«ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ã‚’ã‚¹ã‚­ãƒƒãƒ—ã—ãŸ
-;//å ´åˆã¯ã€ã“ã“ã‹ã‚‰ã‚¹ã‚¿ãƒ¼ãƒˆ]
-;//[æœ¬ç·¨ã¸]
+;//¡ËƒuƒƒbƒN0016w—[H‰ïx
+;//BG:Šw‰€“àŠwHF—[•û
+;//“oêl•¨GålŒöE—DE“µE•ü”üE’|“àE“c’†
+;//[“ñT–ÚˆÈ~AƒXƒ^[ƒg‚Éƒvƒƒ[ƒO‚ğƒXƒLƒbƒv‚µ‚½
+;//ê‡‚ÍA‚±‚±‚©‚çƒXƒ^[ƒg]
+;//[–{•Ò‚Ö]
 
 *0016_TOP
-;[debug_win]ãªã†ã€€0016[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0016 = 1"]
+;[debug_win]‚È‚¤@0016[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0016 = 1"]
 
-;*SceneSet|ã€å¤•é£Ÿä¼šã€
+;*SceneSet|w—[H‰ïx
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 [bgm001]
 ;//BG:bg014b
 [bg storage="bg14b"]
@@ -27,7 +27,7 @@ We put our belongings in the audiovisual room and headed to[r]the cafeteria, whe
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std91|
 [fc]
 [ns]Takeuchi[nse]
@@ -50,7 +50,7 @@ Therefore, Teacher Shindou had applied to the school so that[r]we could use the 
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v189|
 [fc]
@@ -63,7 +63,7 @@ It seems more convenient than the home economics room,[r]doesn't it?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v190|
 [fc]
@@ -77,7 +77,7 @@ I've always wanted to try using the cooking room in the[r]school cafeteria~[l][e
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v191|
 [fc]
@@ -111,7 +111,7 @@ If you called me, I would fly at Mach speed to Yamagishi-[r]san's house...[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std92|
 [fc]
 [ns]Takeuchi[nse]
@@ -146,7 +146,7 @@ Besides, she sighed earlier too...[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std93|
 [fc]
 [ns]Takeuchi[nse]
@@ -160,7 +160,7 @@ Even though there was quite a distance from our table to[r]Saeki in the kitchen,
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v192|
 [fc]
@@ -172,7 +172,7 @@ Did you say something!?[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std94|
 [fc]
 [ns]Kato & Takeuchi[nse]
@@ -183,22 +183,22 @@ No, not really...[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//â€»æ¡ä»¶åˆ†å²
-;//ãƒ»flag:å„ªãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ï¼‹flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€flagãŒ
-;//ã©ã¡ã‚‰ã‚‚ONã®æ™‚ã€€;//[0018]ã¸
-;//ãƒ»flag:å„ªãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ã®ã„ãš
-;//ã‚Œã‹ãŒOFFã®æ™‚ã€€ ;//[0017]ã¸
-;//ãƒ»flag:å„ªãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ã©ã¡ã‚‰
-;//ã‚‚OFFã®æ™‚ã€€ã€€ã€€ ;//[0017]ã¸
+;//¦ğŒ•ªŠò
+;//Eflag:—Dƒ‹[ƒgƒNƒŠƒA{flag:“µƒ‹[ƒgƒNƒŠƒA@flag‚ª
+;//‚Ç‚¿‚ç‚àON‚Ì@;//[0018]‚Ö
+;//Eflag:—Dƒ‹[ƒgƒNƒŠƒAAflag:“µƒ‹[ƒgƒNƒŠƒA@‚Ì‚¢‚¸
+;//‚ê‚©‚ªOFF‚Ì@ ;//[0017]‚Ö
+;//Eflag:—Dƒ‹[ƒgƒNƒŠƒAAflag:“µƒ‹[ƒgƒNƒŠƒA@‚Ç‚¿‚ç
+;//‚àOFF‚Ì@@@ ;//[0017]‚Ö
 
 
-;mm ã“ã‚Œ2ç•ªã‚ã®æ¡ä»¶ã„ã‚‰ã‚“ã‚ˆãª
+;mm ‚±‚ê2”Ô‚ß‚ÌğŒ‚¢‚ç‚ñ‚æ‚È
 [if    exp="sf.g_yuu_clear == 1 && sf.g_hitomi_clear == 1"]
 	[jump target=*0018_TOP storage="0018.ks"]
 [elsif exp="sf.g_yuu_clear == 1 || sf.g_hitomi_clear == 1"]

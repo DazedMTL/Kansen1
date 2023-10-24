@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07040ã€æ‡‡é¡˜ã€
-;//BG:æ•™å®¤ï¼šå¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»æ„ŸæŸ“ç³
+;//¡ËƒuƒƒbƒN07040w§Šèx
+;//BG:‹³ºF–éFÁ“”
+;//“oêl•¨GålŒöEŠ´õ“µ
 
 *07040_H_TOP
-;[debug_win]ãªã†ã€€07040_H[debug_win_end]
-;*SceneSet|ã€æ‡‡é¡˜ã€
+;[debug_win]‚È‚¤@07040_H[debug_win_end]
+;*SceneSet|w§Šèx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07040 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07040 = 1"]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 [bgm007]
 
@@ -38,13 +38,13 @@ When I opened my eyes, there was a woman wearing tattered[r]clothes, kneeling do
 *7054|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 [ChrSetEx layer=1 chbase="sae_d_d_12"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2845|
 [fc]
@@ -70,7 +70,7 @@ The woman smiled at me as I stared absentmindedly.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2846|
 [fc]
@@ -88,7 +88,7 @@ Were you looking for me...?[pcms]
 [fc]
 As I was wondering about it, the woman approached my ear and[r]whispered.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2847|
 [fc]
@@ -121,7 +121,7 @@ Come here...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2848|
 [fc]
@@ -138,5 +138,5 @@ Yes...[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[07050]ã¸
+;//[07050]‚Ö
 [jump target=*07050_H_TOP storage="07050_H.ks"]

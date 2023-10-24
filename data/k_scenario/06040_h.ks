@@ -1,18 +1,18 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯06040ã€ã”æ©Ÿå«Œå²¸ç”°ã€
-;//BG:ä½“è‚²æ•™å®˜å®¤ï¼šå¤œï¼šæ¶ˆç¯
-;//BG:ä½“è‚²æ•™å®˜å®¤ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›å²¸ç”°ãƒ»å„ª
-;//è¦–ç‚¹ï¼šå²¸ç”°
+;//¡ËƒuƒƒbƒN06040w‚²‹@Œ™Šİ“cx
+;//BG:‘Ìˆç‹³Š¯ºF–éFÁ“”
+;//BG:‘Ìˆç‹³Š¯ºF–éF“_“”
+;//“oêl•¨GŠİ“cE—D
+;//‹“_FŠİ“c
 
 *06040_H_TOP
-;[debug_win]ãªã†ã€€06040_H[debug_win_end]
+;[debug_win]‚È‚¤@06040_H[debug_win_end]
 
-;*SceneSet|ã€ã”æ©Ÿå«Œå²¸ç”°ã€
+;*SceneSet|w‚²‹@Œ™Šİ“cx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_06040 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_06040 = 1"]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 ;//[bgm007]
 
@@ -21,7 +21,7 @@
 [bg storage="bg17d"]
 [trans_c cross time=500]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 
 [se0 storage="se008"]
 
@@ -34,7 +34,7 @@
 
 ;;;[sysbt_meswin]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2620|
 [fc]
@@ -57,7 +57,7 @@ Well, that's because the lights aren't on.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2621|
 [fc]
@@ -70,7 +70,7 @@ Oh... it's become like this, huh...[pcms]
 [ns]Kishida[nse]
 Ah, is this your first time coming here?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2622|
 [fc]
@@ -93,7 +93,7 @@ There's nothing here.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2623|
 [fc]
@@ -127,7 +127,7 @@ What an interesting reaction!![pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2624|
 [fc]
@@ -141,7 +141,7 @@ W-What is this...? Why is Shindou-sensei involved in[r]something like this...?[p
 It's not like there are any scary images or anything.[l][er]
 What are you hesitating for?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2625|
 [fc]
@@ -149,7 +149,7 @@ What are you hesitating for?[pcms]
 [ns]Yamagishi[nse]
 B-But... that... Why is Shindou-sensei involved in something[r]like this...?[pcms]
 
-;//SE:ã‚¬ãƒ³ï¼ˆãƒ­ãƒƒã‚«ãƒ¼ã«ã¶ã¤ã‹ã‚‹ï¼‰
+;//SE:ƒKƒ“iƒƒbƒJ[‚É‚Ô‚Â‚©‚éj
 [se0 storage="se053"]
 
 [ChrSetEx layer=1 chbase="yuu_c_e_13"]
@@ -157,7 +157,7 @@ B-But... that... Why is Shindou-sensei involved in something[r]like this...?[pcm
 [ChrSetParts layer=1 chface="yuu_c_e_14"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2626|
 [fc]
@@ -187,7 +187,7 @@ As I desperately tried to step back, my feet got tangled up[r]and just as the lo
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2627|
 [fc]
@@ -205,7 +205,7 @@ Nuffu... Just as I thought. You're making such a nice sound![pcms]
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2628|
 [fc]
@@ -228,7 +228,7 @@ Zaaahhhaahha!! Yamagishi![pcms]
 [ChrSetParts layer=1 chface="yuu_c_e_14"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2629|
 [fc]
@@ -241,7 +241,7 @@ Kyaaaahhhhh!![pcms]
 [ns]Kishida[nse]
 You're annoying![pcms]
 
-;//SE:å¹³æ‰‹
+;//SE:•½è
 [se0 storage="se048"]
 ;[backlay_c][chara_int][trans_c cross time=150]
 [flash_wh]
@@ -256,7 +256,7 @@ You're annoying![pcms]
 [quake_chara layer=1 lo xy m]
 
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2630|
 [fc]
@@ -264,7 +264,7 @@ You're annoying![pcms]
 [ns]Yamagishi[nse]
 Uhh...[pcms]
 
-;//SE;ãƒ‰ã‚µãƒƒ
+;//SE;ƒhƒTƒb
 [se0 storage="se021"]
 
 [backlay_c][chara_int][trans_c cross time=150]
@@ -284,7 +284,7 @@ Nuffu...[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[06050]ã¸
+;//[06050]‚Ö
 [jump target=*06050_H_TOP storage="06050_H.ks"]
 
 

@@ -1,24 +1,24 @@
 
-;//ã€†ãƒ–ãƒ­ãƒƒã‚¯No.08283ã‹ã‚‰08289ã¾ã§æ¬ ç•ª
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08290ã€ã“ã‚“ã‚‰ã‚“ã€
-;//BG:å±‹ä¸Šï¼šæœ
-;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»å„ªãƒ»æœ‹ç¾ãƒ»ãƒªã‚µãƒ»ç«¹å†…
+;//YƒuƒƒbƒNNo.08283‚©‚ç08289‚Ü‚ÅŒ‡”Ô
+;//¡ËƒuƒƒbƒN08290w‚±‚ñ‚ç‚ñx
+;//BG:‰®ãF’©
+;//“oêl•¨FålŒöE—DE•ü”üEƒŠƒTE’|“à
 
 *08290_TOP
-;[debug_win]ãªã†ã€€08290[debug_win_end]
+;[debug_win]‚È‚¤@08290[debug_win_end]
 
-;*SceneSet|ã€ã“ã‚“ã‚‰ã‚“ã€
+;*SceneSet|w‚±‚ñ‚ç‚ñx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08290 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08290 = 1"]
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 
 ;//;//BG:bg22a
 
 [bg storage="bg22b"]
 [trans_c cross time=500]
 
-;//SE:ã‚µã‚¤ãƒ¬ãƒ³ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒTƒCƒŒƒ“@ƒ‹[ƒv
 
 *10572|
 [fc]
@@ -74,7 +74,7 @@ No one... can be seen...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std697|
 [fc]
 [ns]Takeuchi[nse]
@@ -103,7 +103,7 @@ Ju... gyou...[pcms]
 [ChrSetParts layer=1 chface="yuu_a_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3872|
 [fc]
@@ -127,14 +127,14 @@ That room... In that room... Class...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std698|
 [fc]
 [ns]Takeuchi[nse]
 Ah... What... are you... doing?[l][er]
 I... dislike... you...[pcms]
 
-;//SE:äººã«ã¶ã¤ã‹ã‚‹
+;//SE:l‚É‚Ô‚Â‚©‚é
 [se0 storage="se025"]
 [quake_bg x m]
 
@@ -144,7 +144,7 @@ I... dislike... you...[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;//SE:çª“ã‚¬ãƒ©ã‚¹ã®å‰²ã‚Œã‚‹éŸ³
+;//SE:‘‹ƒKƒ‰ƒX‚ÌŠ„‚ê‚é‰¹
 [se0 storage="se031"]
 
 [bg storage="bg20b"]
@@ -169,7 +169,7 @@ What is this...?[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [se0 storage="se021"]
 [flash_re]
 
@@ -265,10 +265,10 @@ It's painful.[pcms]
 [fc]
 Huh... Something just flew by...[pcms]
 
-;//SE:ã‚µã‚¤ãƒ¬ãƒ³ã€€â€»åœæ­¢
+;//SE:ƒTƒCƒŒƒ“@¦’â~
 [stop_se1]
 
-;//SE:æˆ¦é—˜æ©Ÿï¼‹çˆ†å¼¾
+;//SE:í“¬‹@{”š’e
 [se0 storage="se054"]
 
 *10607|
@@ -285,7 +285,7 @@ I wonder what it is... that...[pcms]
 
 [bg storage="effect_white"][trans_c cross time=500]
 
-;//â™ªç„¡éŸ³
+;//ô–³‰¹
 
 *10609|
 [fc]
@@ -295,5 +295,5 @@ It's dazzling...[pcms]
 [fc]
 Ah... Something hit my head...[pcms]
 
-;//[08310ã¸]
+;//[08310‚Ö]
 [jump target=*08310_TOP storage="08310.ks"]

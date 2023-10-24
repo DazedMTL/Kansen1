@@ -1,37 +1,37 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08020ã€ç„¼å´ç‚‰ã€
-;//BG:æ¸¡ã‚Šå»Šä¸‹
-;//BG;ãªã—
-;//BG:æ¸¡ã‚Šå»Šä¸‹
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç«¹å†…
+;//¡ËƒuƒƒbƒN08020wÄ‹p˜Fx
+;//BG:“n‚è˜L‰º
+;//BG;‚È‚µ
+;//BG:“n‚è˜L‰º
+;//“oêl•¨GålŒöE’|“à
 
 *08020_H_TOP
-;[debug_win]ãªã†ã€€08020_H[debug_win_end]
+;[debug_win]‚È‚¤@08020_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 ;[if exp="tf.scene_mode == 0"][jump target=*08020][endif]
 ;[winset]
 
 
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
 [bgm001]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *08020
 
-;*SceneSet|ã€ç„¼å´ç‚‰ã€
+;*SceneSet|wÄ‹p˜Fx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08020 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08020 = 1"]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 
 ;;;[sysbt_meswin clear]
@@ -39,7 +39,7 @@
 
 
 ;//;//BG:bg09b
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [bg storage="bg09b"]
 [trans_c cross time=500]
 
@@ -47,7 +47,7 @@
 
 ;;;[sysbt_meswin]
 
-;ç«‹ã¡
+;—§‚¿
 *std473|
 [fc]
 [ns]Takeuchi[nse]
@@ -64,7 +64,7 @@ He's aware that he's clumsy.[pcms]
 [ChrSetParts layer=1 chface="take_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std474|
 [fc]
 [ns]Takeuchi[nse]
@@ -72,7 +72,7 @@ By the way, why, why do we have to be yelled at?[l][er]
 She definitely treats us like enemies...[l][er]
 and it's me she's targeting!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std475|
 [fc]
 [ns]Takeuchi[nse]
@@ -90,7 +90,7 @@ That's true. Earlier, she was definitely looking at you and[r]yelling.[pcms]
 [ChrSetParts layer=1 chface="take_a_b_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std476|
 [fc]
 [ns]Takeuchi[nse]
@@ -125,7 +125,7 @@ Hey...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std477|
 [fc]
 [ns]Takeuchi[nse]
@@ -137,7 +137,7 @@ She always says such terrible things!![pcms]
 [ns]Kato[nse]
 Shinya...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std478|
 [fc]
 [ns]Takeuchi[nse]
@@ -153,7 +153,7 @@ Hey... Shinya... Listen.[pcms]
 [ChrSetParts layer=1 chface="take_a_d_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std479|
 [fc]
 [ns]Takeuchi[nse]
@@ -174,13 +174,13 @@ Shinya... I'm sorry, but... I think Saeki probably hates[r]you...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std480|
 [fc]
 [ns]Takeuchi[nse]
-â€¦â€¦â€¦[l][er]
+ccc[l][er]
 
-;ç«‹ã¡
+;—§‚¿
 *std481|
 [fc]
 [ns]Takeuchi[nse]
@@ -189,24 +189,24 @@ Ugh... Don't say that... Let me have my fantasies too...[pcms]
 *8705|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std482|
 [fc]
 [ns]Takeuchi[nse]
-â€¦â€¦â€¦[l][er]
+ccc[l][er]
 
 *8706|
 [fc]
 We became somewhat sad and ended up looking down.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std483|
 [fc]
 [ns]Takeuchi[nse]
@@ -276,7 +276,7 @@ Shinya, let's change the topic already...[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std484|
 [fc]
 [ns]Takeuchi[nse]
@@ -292,7 +292,7 @@ Shinya was thinking the same thing as me.[pcms]
 [ns]Kato[nse]
 What is it? Just say it already.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std485|
 [fc]
 [ns]Takeuchi[nse]
@@ -309,7 +309,7 @@ Huh?[pcms]
 [ChrSetParts layer=1 chface="take_a_d_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std486|
 [fc]
 [ns]Takeuchi[nse]
@@ -326,7 +326,7 @@ I'll just give some vague responses and let it slide.[pcms]
 [ns]Kato[nse]
 Yeah yeah, I guess so.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std487|
 [fc]
 [ns]Takeuchi[nse]
@@ -339,7 +339,7 @@ want to... mess around with a mature and dignified woman[r]like Shindou-sensei..
 I mean, I want to... do things to her...[l][er]
 um, no, how should I say it...[l][er]
 you know...[pcms]
-Takeuchi: ãƒœã‚¯ã•ãã€æ–°é“å…ˆç”Ÿã¿ãŸã„ãªå‡›ã¨ã—ãŸå¤§äººã®å¥³æ€§ã‚’â€¦â€¦ã‚ã¡ã‚ƒãã¡ã‚ƒã«â€¦â€¦ã—ã¦ã¿ãŸã„ã¦ã„ã†ã‹ã•â€¦â€¦ã„ã€[r]ã„ã‚„ã€ä½•ã¦è¨€ã†ã‹ã“ã†ã€ã»ã‚‰â€¦â€¦[l][er]
+Takeuchi: ƒ{ƒN‚³‚ŸAV“¹æ¶‚İ‚½‚¢‚È™z‚Æ‚µ‚½‘ål‚Ì—«‚ğcc‚ß‚¿‚á‚­‚¿‚á‚Écc‚µ‚Ä‚İ‚½‚¢‚Ä‚¢‚¤‚©‚³cc‚¢A[r]‚¢‚âA‰½‚ÄŒ¾‚¤‚©‚±‚¤A‚Ù‚çcc[l][er]
 
 *8724|
 [fc]
@@ -352,7 +352,7 @@ Shinya, you... have you really become this perverted?[l][er]
 Are you now an explorer of erotica?[l][er]
 Where exactly will you end up?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std488|
 [fc]
 [ns]Takeuchi[nse]
@@ -367,7 +367,7 @@ It would be better to just admit it honestly instead of[r]denying it in a panic.
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std489|
 [fc]
 [ns]Takeuchi[nse]
@@ -380,7 +380,7 @@ want to conquer her, or rather, make her obey me...[pcms]
 Haha, changing the subject, huh?[l][er]
 Don't panic.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std490|
 [fc]
 [ns]Takeuchi[nse]
@@ -398,7 +398,7 @@ Yamagishi-san, I guess.[pcms]
 [ChrSetParts layer=1 chface="take_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std491|
 [fc]
 [ns]Takeuchi[nse]
@@ -418,7 +418,7 @@ Ah, damn it... I said it without thinking...[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std492|
 [fc]
 [ns]Takeuchi[nse]
@@ -435,7 +435,7 @@ W-What's the matter? Isn't it fine like this?![pcms]
 [ChrSetParts layer=1 chface="take_a_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std493|
 [fc]
 [ns]Takeuchi[nse]
@@ -458,7 +458,7 @@ Hmm...?[pcms]
 I feel a gaze behind me... This cold sensation...[l][er]
 Could it be...?[pcms]
 
-;//SE:å¿ƒæ‹éŸ³
+;//SE:S”‰¹
 [se0 storage="se003"]
 
 *8735|
@@ -470,7 +470,7 @@ just as I thought, the Empress was glaring at us with a[r]freezing gaze.[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3380|
 [fc]
@@ -497,7 +497,7 @@ S-Saeki... Since when have you been there...?[pcms]
 [ChrSetParts layer=1 chface="sae_c_d_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3381|
 [fc]
@@ -525,7 +525,7 @@ Shinya, let's go!! Hurry up!! Dash!![pcms]
 [ChrSetParts layer=1 chface="take_a_d_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std494|
 [fc]
 [ns]Takeuchi[nse]
@@ -533,7 +533,7 @@ F-Fine!! Hitomi... if you keep screaming all the time,[r]wrinkles will form arou
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 [ChrSetEx layer=1 chbase="sae_c_d_08"]
@@ -541,7 +541,7 @@ F-Fine!! Hitomi... if you keep screaming all the time,[r]wrinkles will form arou
 [ChrSetParts layer=1 chface="sae_c_d_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3382|
 [fc]
@@ -562,7 +562,7 @@ F-Fine!! Hitomi... if you keep screaming all the time,[r]wrinkles will form arou
 
 ;;;[sysbt_meswin]
 
-;//;//BG:bgç„¡ã—
+;//;//BG:bg–³‚µ
 
 [bg storage="bg03b"]
 [trans_c cross time=500]
@@ -588,7 +588,7 @@ Shinya, out of breath, ran towards us.[pcms]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std495|
 [fc]
 [ns]Takeuchi[nse]
@@ -605,7 +605,7 @@ I guess I need to train it.[pcms]
 Alright, Shinya!! Once you throw away that trash, let's have[r]a race to see who can come back faster!![l][er]
 The loser has to buy a drink for the winner!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std496|
 [fc]
 [ns]Takeuchi[nse]
@@ -615,7 +615,7 @@ M-Mattabashiru no ka...[pcms]
 
 
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 
 [se0 storage="se005"]
 
@@ -656,7 +656,7 @@ If I were to lose to someone like Shinya, it would be the[r]end.[pcms]
 [ChrSetParts layer=1 chface="take_a_b_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std497|
 [fc]
 [ns]Takeuchi[nse]
@@ -674,7 +674,7 @@ Besides, I think you'll run faster if you lose a little[r]weight, you know?[pcms
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
-;ç«‹ã¡
+;—§‚¿
 *std498|
 [fc]
 [ns]Takeuchi[nse]
@@ -691,7 +691,7 @@ I forgot about it. I've done something bad, haven't I?[pcms]
 [ns]Kato[nse]
 ... I'm sorry.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std499|
 [fc]
 [ns]Takeuchi[nse]
@@ -708,7 +708,7 @@ Yeah... I'm sorry...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std500|
 [fc]
 [ns]Takeuchi[nse]
@@ -757,7 +757,7 @@ She's beckoning...? Did she find something stupid again...?[pcms]
 [ns]Kato[nse]
 What's wrong?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std501|
 [fc]
 [ns]Takeuchi[nse]
@@ -778,7 +778,7 @@ Isn't it obvious? It's because you turned on the faucet that[r]the water is flow
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std502|
 [fc]
 [ns]Takeuchi[nse]
@@ -808,7 +808,7 @@ I was about to say, Saeki's preaching time is increasing,[r]but I was interrupte
 [ChrSetParts layer=1 chface="take_a_d_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std503|
 [fc]
 [ns]Takeuchi[nse]
@@ -820,7 +820,7 @@ There might be some kind of scoop!![pcms]
 [ns]Kato[nse]
 N-No... Shinya?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std504|
 [fc]
 [ns]Takeuchi[nse]
@@ -839,7 +839,7 @@ Well then, I've taken my medicine too, so let's go!![pcms]
 
 ;;;[sysbt_meswin]
 
-;//;//BG:bgç„¡ã—
+;//;//BG:bg–³‚µ
 
 *8772|
 [fc]
@@ -851,7 +851,7 @@ I was dragged along and forcibly brought here.[pcms]
 Even so, no matter when I come here, this corridor is always[r]dark...[l][er]
 If they call it the pride of the club building, I think they[r]should renovate it to let in some sunlight...[pcms]
 
-;//SE:ã‚·ãƒ£ãƒ¯ãƒ¼ã®éŸ³ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒVƒƒƒ[‚Ì‰¹@ƒ‹[ƒv
 [se1 storage="se043" loop=true]
 
 *8774|
@@ -875,14 +875,14 @@ He must be trying to take out his prized camera.[pcms]
 [fc]
 Suddenly, amidst the sound of the shower water, a voice[r]could be heard.[pcms]
 
-;//ï¼ˆå¥³ï¼‰
+;//i—j
 *v3383|
 [fc]
 [vo_mob s="syaw0001"]
 [ns]???[nse]
 Haa... hehehe... feels... good...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std505|
 [fc]
 [ns]Kato & Takeuchi[nse]
@@ -904,7 +904,7 @@ Or are they doing it alone...?[pcms]
 [fc]
 I'm curious...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std506|
 [fc]
 [ns]Takeuchi[nse]
@@ -914,7 +914,7 @@ What the hell... Taiyuki... Don't push me...[pcms]
 [fc]
 I was driven by curiosity and before I knew it, I had[r]surpassed Shinya...[pcms]
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*08030_H_TOP storage="08030_H.ks"]
 
 

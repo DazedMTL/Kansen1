@@ -1,37 +1,37 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05410ã€Žã‚·ãƒ£ãƒ¯ãƒ¼ã€
-;//;//BG:ç„¡ã—
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»çž³
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN05410wƒVƒƒƒ[x
+;//;//BG:–³‚µ
+;//“oêl•¨GŽålŒöE“µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *05410_H_TOP
-;[debug_win]ãªã†ã€€05410_H[debug_win_end]
+;[debug_win]‚È‚¤@05410_H[debug_win_end]
 
-;//å›žæƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [eval exp="sf.SRP25 = 1"][if exp="tf.scene_mode == 0"][jump target=*05410][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚ÌŽdž‚Ý
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚ÌŽdž‚Ý‚ð‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *05410
 
-;*SceneSet|ã€Žã‚·ãƒ£ãƒ¯ãƒ¼ã€
+;*SceneSet|wƒVƒƒƒ[x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05410 = 1"]
+;Žg‚Á‚Ä‚È‚¢[eval exp="sf.g_05410 = 1"]
 
-;//flag:çž³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼—ã€€è¡¨ç¤º
-;//â™ªï¼šBGMç„¡ã—
+;//flag:“µƒ‹[ƒgƒtƒ[@‚V@•\Ž¦
+;//ôFBGM–³‚µ
 
 [fadeoutbgm time=500]
 
@@ -44,7 +44,7 @@
 
 *scene_start
 
-;//SE:ã‚·ãƒ£ãƒ¯ãƒ¼ã®éŸ³ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒVƒƒƒ[‚Ì‰¹@ƒ‹[ƒv
 
 [se0 storage="se043" loop=true]
 
@@ -73,7 +73,7 @@ Since Saeki started taking a shower, she finally started[r]crying, and I became 
 *5454|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5455|
 [fc]
@@ -122,35 +122,35 @@ I... waited for Saeki, who was sobbing, for her response.[pcms]
 
 [if exp="tf.scene_mode == 1"][jump target=*SEL00_HOLD][endif]
 
-;//â€»é¸æŠžè‚¢
-;//ãƒ»åŠ›å¼·ãã€ä½ä¼¯ã®è¨€è‘‰ã«ç­”ãˆãŸ;//[05420]ã¸
-;//ãƒ»æ¿¡ã‚ŒãŸä½ä¼¯ã®ä½“ã‚’ã€å„ªã—ãæŠ±ãã—ã‚ãŸ;//[07180]ã¸
+;//¦‘I‘ðŽˆ
+;//E—Í‹­‚­A²”Œ‚ÌŒ¾—t‚É“š‚¦‚½;//[05420]‚Ö
+;//E”G‚ê‚½²”Œ‚Ì‘Ì‚ðA—D‚µ‚­•ø‚«‚µ‚ß‚½;//[07180]‚Ö
 
 ;//<SltDel ALL>
-;//<SltAdd 0ã‚«ãƒ³ãƒžSEL00_05410_ANSWERã‚«ãƒ³ãƒžåŠ›å¼·ãã€ä½ä¼¯ã®è¨€è‘‰ã«ç­”ãˆãŸ>
-;//<SltAdd 1ã‚«ãƒ³ãƒžSEL00_05410_HOLDã‚«ãƒ³ãƒžæ¿¡ã‚ŒãŸä½ä¼¯ã®ä½“ã‚’ã€å„ªã—ãæŠ±ãã—ã‚ãŸ>
+;//<SltAdd 0ƒJƒ“ƒ}SEL00_05410_ANSWERƒJƒ“ƒ}—Í‹­‚­A²”Œ‚ÌŒ¾—t‚É“š‚¦‚½>
+;//<SltAdd 1ƒJƒ“ƒ}SEL00_05410_HOLDƒJƒ“ƒ}”G‚ê‚½²”Œ‚Ì‘Ì‚ðA—D‚µ‚­•ø‚«‚µ‚ß‚½>
 ;//<SltRun>
 
-*SEL01|åŠ›å¼·ãã€ä½ä¼¯ã®è¨€è‘‰ã«ç­”ãˆãŸï¼æ¿¡ã‚ŒãŸä½ä¼¯ã®ä½“ã‚’ã€å„ªã—ãæŠ±ãã—ã‚ãŸ
+*SEL01|—Í‹­‚­A²”Œ‚ÌŒ¾—t‚É“š‚¦‚½^”G‚ê‚½²”Œ‚Ì‘Ì‚ðA—D‚µ‚­•ø‚«‚µ‚ß‚½
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'åŠ›å¼·ãã€ä½ä¼¯ã®è¨€è‘‰ã«ç­”ãˆãŸ'"]
-[eval exp="f.seltext04 = 'æ¿¡ã‚ŒãŸä½ä¼¯ã®ä½“ã‚’ã€å„ªã—ãæŠ±ãã—ã‚ãŸ'"]
+[eval exp="f.seltext02 = '—Í‹­‚­A²”Œ‚ÌŒ¾—t‚É“š‚¦‚½'"]
+[eval exp="f.seltext04 = '”G‚ê‚½²”Œ‚Ì‘Ì‚ðA—D‚µ‚­•ø‚«‚µ‚ß‚½'"]
 
 
-[if exp="tf.sys_sub == 0 || tf.é¸æŠžè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
-	;é¸æŠžè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
+[if exp="tf.sys_sub == 0 || tf.‘I‘ðŽˆƒƒO•\Ž¦‚µ‚Ä‚Ë == 1"]
+	;‘I‘ðŽˆ“à—e‚ðƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[å±¥æ­´å‡ºåŠ›å¾©å¸°]
+[—š—ðo—Í•œ‹A]
 
-;é¸æŠžè‚¢ãƒ™ãƒ¼ã‚¹
+;‘I‘ðŽˆƒx[ƒX
 [selbase]
-;æ–‡å­—ã®å·¦ãƒžãƒ¼ã‚¸ãƒ³
+;•¶Žš‚Ì¶ƒ}[ƒWƒ“
 [eval exp="sf.seltext_x = 200"]
 
 [sel02 target=*SEL00_tika]

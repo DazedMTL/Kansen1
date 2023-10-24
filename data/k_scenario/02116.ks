@@ -1,27 +1,27 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02116ã€å­¦åœ’æ¢ç´¢ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//BG:æ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//BG:æ•™å®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02116wŠw‰€’Tõx
+;//BG:“Áê‹³º˜L‰ºF’‹i’©Œ“—pj
+;//BG:‹³º˜L‰ºF’‹i’©Œ“—pj
+;//BG:‹³ºF’‹i’©Œ“—pj
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02116_TOP
-;[debug_win]ãªã†ã€€02116[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02116 = 1"]
+;[debug_win]‚È‚¤@02116[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02116 = 1"]
 
-;*SceneSet|ã€å­¦åœ’æ¢ç´¢ã€
+;*SceneSet|wŠw‰€’Tõx
 
 ;//[02116]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 ;//[bgm007]
 ;//BG:bg003a
 [bg storage="bg03a"]
 [trans_c cross time=500]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
@@ -29,7 +29,7 @@
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std249|
 [fc]
 [ns]Takeuchi[nse]
@@ -45,7 +45,7 @@ We can't let Yamagishi-san and Shindou-sensei do something[r]dangerous, right?[p
 However, with the uncertainty of how many people there are[r]in the school building who might have tried to attack[r]Yamagishi-san, I couldn't completely erase my sense of fear[r]either.[pcms]
 [l][er]
 
-;ç«‹ã¡
+;—§‚¿
 *std250|
 [fc]
 [ns]Takeuchi[nse]
@@ -65,7 +65,7 @@ We increased our speed as we ran down the hallway.[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 [wait_c time=500]
 
@@ -104,7 +104,7 @@ Hey... Could it be, is there something here...?[pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std251|
 [fc]
 [ns]Takeuchi[nse]
@@ -119,7 +119,7 @@ What's the matter? Don't scare me like that...[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std252|
 [fc]
 [ns]Takeuchi[nse]
@@ -134,7 +134,7 @@ We turned back and ran to the third floor.[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -153,7 +153,7 @@ We arrived on the third floor, but it seemed like there was[r]no one here either
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std253|
 [fc]
 [ns]Takeuchi[nse]
@@ -187,11 +187,11 @@ We ran to the staff room, being careful not to be suddenly[r]attacked.[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//[02117]ã¸
+;//[02117]‚Ö
 [jump target=*02117_TOP storage="02117.ks"]

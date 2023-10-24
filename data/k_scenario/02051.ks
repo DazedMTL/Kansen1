@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02051ã€ãƒˆã‚¤ãƒ¬ã€
-;//BG:ç‰¹æ®Šæ•™å®¤ï¼šå»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02051wƒgƒCƒŒx
+;//BG:“Áê‹³ºF˜L‰ºF–éFÁ“”
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02051_TOP
-;[debug_win]ãªã†ã€€02051[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02051 = 1"]
+;[debug_win]‚È‚¤@02051[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02051 = 1"]
 
-;*SceneSet|ã€ãƒˆã‚¤ãƒ¬ã€
+;*SceneSet|wƒgƒCƒŒx
 
 ;//[02051]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg005d
 [bg storage="bg05d"]
@@ -27,7 +27,7 @@
 
 ;;;[sysbt_meswin]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v583|
 [fc]
@@ -42,7 +42,7 @@ The girl I had reserved must feel so sorry~[l][er]
 Ugh, Yuuji was bragging so much about it.[l][er]
 It made me really angry. Oh, I still have it, the second[r]button I took from him.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v584|
 [fc]
@@ -60,7 +60,7 @@ I was thinking of giving it to him as a wedding gift instead[r]of a congratulato
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v585|
 [fc]
@@ -93,7 +93,7 @@ For example, what kind of movies?[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v586|
 [fc]
@@ -117,7 +117,7 @@ Maybe, the people in her family aren't getting along as well[r]as I imagine.[pcm
 [fc]
 Maybe it's better not to ask about her family relationships[r]anymore...[pcms]
 
-;//â™ªï¼šBGM010
+;//ôFBGM010
 [bgm010]
 ;//BG:bg003d
 [bg storage="bg03d"]
@@ -127,7 +127,7 @@ Maybe it's better not to ask about her family relationships[r]anymore...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v587|
 [fc]
@@ -145,7 +145,7 @@ Ah...[pcms]
 We had intended to walk slowly to buy some time, but there[r]was a limit to that as well.[l][er]
 We had already arrived at the designated staff restroom.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v588|
 [fc]
@@ -158,7 +158,7 @@ Well then, see you later.[pcms]
 [ns]Kato[nse]
 Ah, um, yeah...[pcms]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 [backlay_c][chara_int][trans_c cross time=150]
@@ -170,7 +170,7 @@ Laughing and waving her hand, Yamagishi-san entered the[r]women's staff restroom
 *1371|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *1372|
 [fc]
@@ -217,7 +217,7 @@ After that, we also checked the student restroom in the[r]regular classroom buil
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v589|
 [fc]
@@ -236,6 +236,6 @@ I nodded back at Yamagishi-san who nodded, and we headed[r]towards the gymnasium
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;//[02052]ã¸
+;//[02052]‚Ö
 [jump target=*02052_TOP storage="02052.ks"]
 

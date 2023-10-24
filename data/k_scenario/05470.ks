@@ -1,19 +1,19 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05470ã€å§«ã®èª˜ã„ã€
-;//;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤•æ–¹ï¼›æ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN05470w•P‚Ì—U‚¢x
+;//;//BG:“Áê‹³º˜L‰ºF—[•ûGÁ“”
+;//“oêl•¨GålŒöE“µE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *05470_TOP
-;[debug_win]ãªã†ã€€05470[debug_win_end]
-;*SceneSet|ã€å§«ã®èª˜ã„ã€
+;[debug_win]‚È‚¤@05470[debug_win_end]
+;*SceneSet|w•P‚Ì—U‚¢x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05470 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05470 = 1"]
 
-;//â™ªï¼šBGM004
+;//ôFBGM004
 
 [bgm007]
 
@@ -48,8 +48,8 @@ I thought that the whole school might have been involved in[r]some kind of incid
 [fc]
 I wonder what on earth is happening...[pcms]
 
-;//ï¼ æ‰æ¸•ï¼šä¸‹è¨˜ï¼³ï¼¥ãŒè¡¨ã«ãªã„ãŸã‚ã«ç¾åœ¨éŸ³ã‚’å¼µã£ã¦ã„ã¾ã›ã‚“ã€‚
-;//SE:å»Šä¸‹ã‚’æ­©ã
+;//—™ŸºF‰º‹L‚r‚d‚ª•\‚É‚È‚¢‚½‚ß‚ÉŒ»İ‰¹‚ğ’£‚Á‚Ä‚¢‚Ü‚¹‚ñB
+;//SE:˜L‰º‚ğ•à‚­
 ;//[se0 storage="se005"]
 
 *5528|
@@ -57,7 +57,7 @@ I wonder what on earth is happening...[pcms]
 [ns]Kato[nse]
 ...?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 [ChrSetEx layer=1 chbase="yuu_c_d_11"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
@@ -77,7 +77,7 @@ Yamagishi-san!? Where have you been all this time?[pcms]
 [ChrSetParts layer=1 chface="yuu_c_d_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2290|
 [fc]
@@ -98,13 +98,13 @@ No, because... I've been searching for you all this time,[r]you know?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2291|
 [fc]
 [vo_ya s="yama0825"]
 [ns]Yamagishi[nse]
-Sorry~. We all gathered in Kato-kun's classroom.  You should[r]have come too~[pcms]
+Sorry~. We all gathered in Kato-kun's classroom.   You[r]should have come too~[pcms]
 
 *5533|
 [fc]
@@ -112,7 +112,7 @@ Sorry~. We all gathered in Kato-kun's classroom.  You should[r]have come too~[pc
 Everyone... Including Shinya and Ms.[l][er]
 Shindou too?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2292|
 [fc]
@@ -142,7 +142,7 @@ I'll bring Saeki along too.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_d_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2293|
 [fc]
@@ -157,16 +157,16 @@ Well then, I'll be waiting~[l][er]
 [fc]
 Saying that, she laughed and waved her hand at me, then[r]Yamagishi-san turned back the way she came.[pcms]
 
-;//ï¼ æ‰æ¸•ï¼šä¸‹è¨˜ï¼³ï¼¥ãŒè¡¨ã«ãªã„ãŸã‚ã«ç¾åœ¨éŸ³ã‚’å¼µã£ã¦ã„ã¾ã›ã‚“ã€‚
-;//SE:å»Šä¸‹ã‚’æ­©ã
+;//—™ŸºF‰º‹L‚r‚d‚ª•\‚É‚È‚¢‚½‚ß‚ÉŒ»İ‰¹‚ğ’£‚Á‚Ä‚¢‚Ü‚¹‚ñB
+;//SE:˜L‰º‚ğ•à‚­
 ;//[se0 storage="se005"]
 
 *5538|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 [se0 storage="se008"]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
@@ -174,7 +174,7 @@ Saying that, she laughed and waved her hand at me, then[r]Yamagishi-san turned b
 [ChrSetParts layer=1 chface="sae_c_b_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2294|
 [fc]
@@ -211,7 +211,7 @@ Saeki, who had been watching me worry, suddenly kicked my[r]leg and turned away 
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2295|
 [fc]
@@ -233,7 +233,7 @@ I couldn't hear what was muttered in a low voice, so I asked[r]Saeki again, and 
 [ChrSetParts layer=1 chface="sae_c_c_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2296|
 [fc]
@@ -253,5 +253,5 @@ O-Okay...[pcms]
 [fc]
 I was pushed by Saeki's momentum, and I started walking[r]towards the classroom on the second floor that Yamagishi-san[r]mentioned.[pcms]
 
-;//[05480]ã¸
+;//[05480]‚Ö
 [jump target=*05480_TOP storage="05480.ks"]

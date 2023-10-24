@@ -1,37 +1,37 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04032ã€å„ªã®æ‚²é³´ï¼’ã€
-;//BG:äºŒéšå»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µãƒ»å„ªãƒ»åŠ è—¤
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04032w—D‚Ì”ß–Â‚Qx
+;//BG:“ñŠK˜L‰ºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöEƒŠƒTE—DE‰Á“¡
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04032_H_TOP
-;[debug_win]ãªã†ã€€04032_H[debug_win_end]
+;[debug_win]‚È‚¤@04032_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 ;[if exp="tf.scene_mode == 0"][jump target=*04032][endif]
 ;[winset]
 
 
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *04032
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04032 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04032 = 1"]
 
-;*SceneSet|ã€å„ªã®æ‚²é³´ï¼’ã€
+;*SceneSet|w—D‚Ì”ß–Â‚Qx
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 
 [bgm009]
 
@@ -117,7 +117,7 @@ The man, with his eyes wide open, moved his long, extended[r]tongue back and for
 [ns]male student[nse]
 Heh... ah, Shii...[pcms]
 
-;//ï¼ æ‰æ¸•ï¼šç«¹å†…ã•ã‚“â†’ç«¹å†…ãã‚“
+;//—™ŸºF’|“à‚³‚ñ¨’|“à‚­‚ñ
 
 [ChrSetEx layer=1 chbase="take_a_e_06"]
 [ChrSetXY layer=1 x=100 y=0]
@@ -150,7 +150,7 @@ While I was thinking about what to do with the man who was[r]grabbing her leg, S
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer winon][trans_c cross time=501][hide_chara_int]
 
 
@@ -177,7 +177,7 @@ Ahh, nooo! Stop it!![pcms]
 [fc]
 I jumped inside upon hearing Yamagishi-san's scream coming[r]from beyond the door.[pcms]
 
-;//[04033]ã¸
+;//[04033]‚Ö
 [jump target=*04033_H_TOP storage="04033_H.ks"]
 
 

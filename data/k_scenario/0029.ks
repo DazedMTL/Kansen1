@@ -1,22 +1,22 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0029ã€é‘‘è³ä¼šã€
-;//BG:è¦–è´è¦šå®¤ï¼šå¤œ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­ãƒ»ãƒªã‚µ
-;//â˜…ãƒãƒ¼ãƒãƒ«EVENTï¼šè¦–è´è¦šå®¤ã«é›†åˆã—ã€æ˜ ç”»ã‚’è¦‹ã¦ã„ã‚‹
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN0029wŠÓÜ‰ïx
+;//BG:‹’®ŠoºF–é
+;//“oêl•¨GålŒöE—DE“µE•ü”üE’|“àE“c’†EƒŠƒT
+;//šƒm[ƒ}ƒ‹EVENTF‹’®Šoº‚ÉW‡‚µA‰f‰æ‚ğŒ©‚Ä‚¢‚é
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 
 *0029_TOP
-;[debug_win]ãªã†ã€€0029[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0029 = 1"]
+;[debug_win]‚È‚¤@0029[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0029 = 1"]
 
-;*SceneSet|ã€é‘‘è³ä¼šã€
+;*SceneSet|wŠÓÜ‰ïx
 
 ;//[0029]
 
-;//â™ªï¼šBGM005
+;//ôFBGM005
 [bgm005]
 ;//BG:bg015d
 [bg storage="bg15d"]
@@ -55,7 +55,7 @@ It seemed like she was actually laughing.[pcms]
 [fc]
 I wonder if there was any part that made her laugh...[pcms]
 
-;//â™ªï¼šBGM005ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM005ƒtƒF[ƒhƒAƒEƒg
 [fadeoutbgm time=500]
 
 *685|
@@ -66,7 +66,7 @@ Saeki remained in the same posture as usual, completely[r]absorbed in the movie 
 [fc]
 And after the second movie ended, it was time for a break.[pcms]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 [bgm001]
 
 ;//BG:bg015c
@@ -78,7 +78,7 @@ And after the second movie ended, it was time for a break.[pcms]
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std140|
 [fc]
 [ns]Takeuchi[nse]
@@ -89,7 +89,7 @@ Wow! That scene at the end where the priest seals the demon[r]by sacrificing his
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v263|
 [fc]
@@ -107,7 +107,7 @@ I noticed your shoulders shaking and wondered what was going[r]on.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v264|
 [fc]
@@ -126,7 +126,7 @@ Indeed, when compared to movies nowadays, they do seem a bit[r]outdated.[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std141|
 [fc]
 [ns]Tanaka[nse]
@@ -137,7 +137,7 @@ I'm gonna go to the bathroom real quick.[pcms]
 [ChrSetParts layer=1 chface="tomo_c_a1_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v265|
 [fc]
@@ -153,7 +153,7 @@ Yuuji and Igarashi-san went to the bathroom together.[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std142|
 [fc]
 [ns]Takeuchi[nse]
@@ -169,7 +169,7 @@ I wonder why.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v266|
 [fc]
@@ -194,7 +194,7 @@ Hey Saeki, how long are you going to stay frozen like that?[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v267|
 [fc]
@@ -218,7 +218,7 @@ You're surprisingly easily frightened, huh?[pcms]
 [fc]
 When I laughed and teased her, Saeki blushed and turned her[r]face away with a pout.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v268|
 [fc]
@@ -237,7 +237,7 @@ Oh, I see. It might be a good idea to go to the bathroom now[r]so you don't have
 [ChrSetParts layer=1 chface="sae_c_c_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v269|
 [fc]
@@ -253,7 +253,7 @@ However, a different sound came from a different direction.[pcms]
 [backlay_c][chara_int][trans_c cross time=150]
 [trans_c cross time=500]
 
-;//SE:æˆ¦é—˜æ©ŸãŒé£›ã‚“ã§ã„ãéŸ³
+;//SE:í“¬‹@‚ª”ò‚ñ‚Å‚¢‚­‰¹
 [se0 storage="se017"]
 
 *697|
@@ -269,7 +269,7 @@ A fighter jet...? Is it still flying?[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std143|
 [fc]
 [ns]Takeuchi[nse]
@@ -284,7 +284,7 @@ Yamagishi-san made a face that seemed to indicate she wasn't[r]quite convinced b
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v270|
 [fc]
@@ -296,7 +296,7 @@ At this time? It's already past midnight, you know?[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std144|
 [fc]
 [ns]Takeuchi[nse]
@@ -306,7 +306,7 @@ Hmm... Maybe they're doing training with the setting that[r]some country is atta
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v271|
 [fc]
@@ -315,7 +315,7 @@ Hmm... Maybe they're doing training with the setting that[r]some country is atta
 Regardless of the reason, it doesn't change the fact that[r]it's inconvenient.[l][er]
 It's fine to have training, but I would like them to[r]consider the general public a little bit more.[pcms]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 [se0 storage="se008"]
 
 *700|
@@ -327,7 +327,7 @@ Yuuji and Igarashi-san, who had gone to the bathroom, came[r]back panting as I f
 [ChrSetParts layer=1 chface="tanaka_a_a_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std145|
 [fc]
 [ns]Tanaka[nse]
@@ -342,7 +342,7 @@ Geehh!! Why!?[pcms]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std146|
 [fc]
 [ns]Tanaka[nse]
@@ -353,7 +353,7 @@ I don't know about that. Give me a break, will ya?![pcms]
 [ChrSetParts layer=1 chface="tomo_c_a_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v272|
 [fc]
@@ -367,13 +367,13 @@ Is it interesting?[pcms]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std147|
 [fc]
 [ns]Tanaka[nse]
 Ugh... This is such an unlucky day, isn't it?[pcms]
 
-;//â™ªï¼šBGM001ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM001ƒtƒF[ƒhƒAƒEƒg
 [fadeoutbgm time=500]
 
 *702|
@@ -392,7 +392,7 @@ I confirmed that everyone had taken their seats, and then I[r]pressed the play b
 [fc]
 The time had already passed midnight, and the date had[r]changed.[pcms]
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*0030_TOP storage="0030.ks"]
 
 

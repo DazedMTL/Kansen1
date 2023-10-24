@@ -1,21 +1,21 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07320ã€è±¹å¤‰ã€
-;//BG;åœ°ä¸‹å®¤ï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN07320w•^•Ïx
+;//BG;’n‰ººF“_“”
+;//“oêl•¨GålŒöE“µ
 
 *07320_H_TOP
-;[debug_win]ãªã†ã€€07320_H[debug_win_end]
+;[debug_win]‚È‚¤@07320_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [eval exp="sf.SRP40 = 1"][if exp="tf.scene_mode == 0"][jump target=*07320][endif]
 ;;[winset]
 [bgm008]
 [jump target=*scene_start]
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//â™ªï¼šBGM010
+;//ôFBGM010
 [bgm010]
 
 ;//;//BG:bg23a
@@ -27,14 +27,14 @@
 
 ;;;[sysbt_meswin]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *07320
-;*SceneSet|ã€è±¹å¤‰ã€
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07320 = 1"]
+;*SceneSet|w•^•Ïx
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07320 = 1"]
 
-;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€badï¼”ã€€è¡¨ç¤º
+;//flag:“µƒ‹[ƒgƒtƒ[@bad‚S@•\¦
 
 [backlay_c][chara_int][trans_c cross time=150]
 
@@ -47,7 +47,7 @@
 *8100|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *8101|
 [fc]
@@ -148,7 +148,7 @@ Saeki...[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3259|
 [fc]
@@ -167,7 +167,7 @@ I can smell something...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3260|
 [fc]
@@ -187,7 +187,7 @@ It's beautiful...[pcms]
 [fc]
 And, it smells good...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3261|
 [fc]
@@ -212,7 +212,7 @@ This woman...[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3262|
 [fc]
@@ -238,7 +238,7 @@ I can't take it anymore either...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3263|
 [fc]
@@ -253,7 +253,7 @@ I can't take it anymore either...[pcms]
 [ns]Kato[nse]
 Let me... do it... ah, I'm at my limit...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3264|
 [fc]
@@ -287,7 +287,7 @@ I can't control my desires...[pcms]
 
 *8138|
 [fc]
-â€¦â€¦â€¦â€¦ã€‚ â€¦â€¦ã€‚[pcms]
+ccccB ccB[pcms]
 
 [bgm008]
 
@@ -311,7 +311,7 @@ Please, let me have you...[pcms]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3265|
 [fc]
@@ -327,7 +327,7 @@ Didn't I say that even if I become like this, I'll still be[r]by your side?[l][e
 That means... let me do it to you...[l][er]
 right?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3266|
 [fc]
@@ -364,7 +364,7 @@ Sa... eki... I... can't... anymore...[l][er]
 Haha... Haha, ha... I... can't...[l][er]
 hold back... anymore.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3267|
 [fc]
@@ -390,7 +390,7 @@ I can't hold back anymore...[pcms]
 [ns]Kato[nse]
 Sa... eki...[pcms]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [se0 storage="se021"]
 
 [quake_bg xy m]
@@ -402,7 +402,7 @@ Girls are so fragile.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3268|
 [fc]
@@ -410,7 +410,7 @@ Girls are so fragile.[pcms]
 [ns]Saeki[nse]
 Uwaaaaaaahhh!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3269|
 [fc]
@@ -427,7 +427,7 @@ It's such a hassle to take them off...[pcms]
 [fc]
 And besides, you're so noisy...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3270|
 [fc]
@@ -448,7 +448,7 @@ Noooo! Uwaaaah! Nbuu!?[pcms]
 
 ;;;[sysbt_meswin]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 [se0 storage="se059" loop=true]
 
 *8156|
@@ -687,11 +687,11 @@ Uaaaahh... Gubu...[pcms]
 [ns]Kato[nse]
 Uaaah... It's coming out... Uaaah...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -746,7 +746,7 @@ That's right... That's how it is, right?[l][er]
 I'll give it to you just like before, in your mouth...[l][er]
 Haha, hahaha...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
@@ -840,11 +840,11 @@ geho... geeee! Nguuuu![pcms]
 [ns]Kato[nse]
 Ugh... it's coming out...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -896,7 +896,7 @@ Uvuu... ha... ha... ubaaaahhhh...!![pcms]
 [fc]
 [ns]Kato[nse]
 Hahaha... Once again... your hair...[l][er]
-messy... came out...  Haha, hahaha, hahaha, hahahaha, hahaha[pcms]
+messy... came out...   Haha, hahaha, hahaha, hahahaha,[r]hahaha[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -949,11 +949,11 @@ Geho!![pcms]
 
 
 
-;//â€»ã‚²ãƒ¼ãƒ ã‚ªãƒ¼ãƒãƒ¼
+;//¦ƒQ[ƒ€ƒI[ƒo[
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
@@ -961,19 +961,19 @@ Geho!![pcms]
 [fadeoutbgm time=500]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn41 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn41 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
 ;;;[sysbt_meswin clear]
 

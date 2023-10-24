@@ -1,19 +1,19 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05680ã€ç•°å¸¸å ±å‘Šã€
-;//;//BG:åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN05680wˆÙí•ñx
+;//;//BG:’n‰ººFÁ“”
+;//“oêl•¨GålŒöE“µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *05680_TOP
-;[debug_win]ãªã†ã€€05680[debug_win_end]
-;*SceneSet|ã€ç•°å¸¸å ±å‘Šã€
+;[debug_win]‚È‚¤@05680[debug_win_end]
+;*SceneSet|wˆÙí•ñx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05680 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05680 = 1"]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 [bgm007]
 
@@ -22,7 +22,7 @@
 [bg storage="bg23a"]
 [trans_c cross time=500]
 
-;//SE:æ‰‰ã‚’é–‰ã‚ã‚‹
+;//SE:”à‚ğ•Â‚ß‚é
 
 [se0 storage="se010"]
 
@@ -35,7 +35,7 @@
 
 ;;;[sysbt_meswin]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2499|
 [fc]
@@ -52,7 +52,7 @@ Aah...[pcms]
 [fc]
 When I returned to the basement, Saeki, with an anxious[r]expression on her face, rushed over and greeted me.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2500|
 [fc]
@@ -71,7 +71,7 @@ It's Yamagishi-san, what's that...[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2501|
 [fc]
@@ -79,20 +79,20 @@ It's Yamagishi-san, what's that...[pcms]
 [ns]Saeki[nse]
 Yamagishi-san...?[pcms]
 
-;//SE:å†·è”µåº«ã®ãƒ¢ãƒ¼ã‚¿ãƒ¼éŸ³
+;//SE:—â‘ ŒÉ‚Ìƒ‚[ƒ^[‰¹
 [se0 storage="se044"]
 
 *6051|
 [fc]
 I peeked through the counter of the kitchen and told Saeki[r]about the strange behavior of Yamagishi-san, Igarashi-san,[r]and Shindou-sensei.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2502|
 [fc]
 [vo_sa s="sae0644"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *6052|
 [fc]
@@ -114,13 +114,13 @@ I don't know if it's because of drugs or something else, but[r]it seems like the
 Saeki, who seemed scared, approached me and grabbed the hem[r]of my shirt.[l][er]
 I embraced her and gently stroked her trembling back to[r]reassure her.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2503|
 [fc]
 [vo_sa s="sae0645"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *6056|
 [fc]
@@ -148,7 +148,7 @@ Saeki looked at me with a pitiful expression and smiled[r]softly as if to say It
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2504|
 [fc]
@@ -179,7 +179,7 @@ We sat down on the floor, took out the squashed bread from[r]the bag, and starte
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05690]ã¸
+;//[05690]‚Ö
 [jump target=*05690_TOP storage="05690.ks"]
 
 

@@ -1,20 +1,20 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08280ã€ã²ã¨ã‚Šã€
-;//BG:æ•™å®¤ï¼šæœ
-;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬
+;//¡ËƒuƒƒbƒN08280w‚Ğ‚Æ‚èx
+;//BG:‹³ºF’©
+;//“oêl•¨FålŒö
 
 *08280_TOP
-;[debug_win]ãªã†ã€€08280[debug_win_end]
+;[debug_win]‚È‚¤@08280[debug_win_end]
 
-;*SceneSet|ã€ã²ã¨ã‚Šã€
+;*SceneSet|w‚Ğ‚Æ‚èx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08280 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08280 = 1"]
 ;	/*
-;	;//â™ªï¼šBGM008
+;	;//ôFBGM008
 ;	[bgm008]
 ;	*/
 
-;//;//BG:bgç„¡ã—
+;//;//BG:bg–³‚µ
 
 
 
@@ -22,7 +22,7 @@
 
 *10490|
 [fc]
-â€¦â€¦â€¦â€¦ã€‚ â€¦â€¦â€¦ã€‚ â€¦â€¦ã€‚[pcms]
+ccccB cccB ccB[pcms]
 
 *10491|
 [fc]
@@ -94,6 +94,6 @@ Is someone outside...?[pcms]
 [fc]
 Let's go and check it out...[pcms]
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*08281_H_TOP storage="08281_H.ks"]
 

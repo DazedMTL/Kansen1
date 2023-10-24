@@ -1,16 +1,16 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05081ã€æ¥å¹´ã€
-;//â€»05083ã‹ã‚‰05089ã¾ã§æ¬ ç•ª
-;//BG:ä¸‰éšå»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯ï¼ç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05081w—ˆ”Nx
+;//¦05083‚©‚ç05089‚Ü‚ÅŒ‡”Ô
+;//BG:OŠK˜L‰ºF–éFÁ“”^“_“”
+;//“oêl•¨GålŒöE“µ
 
 *05081_TOP
-;[debug_win]ãªã†ã€€05081[debug_win_end]
-;*SceneSet|ã€æ¥å¹´ã€
+;[debug_win]‚È‚¤@05081[debug_win_end]
+;*SceneSet|w—ˆ”Nx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05081 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05081 = 1"]
 
-;//flag:æ¥å¹´ã®æ•™å®¤
+;//flag:—ˆ”N‚Ì‹³º
 
 [eval exp="f.NEXT_YEAR = 1"]
 
@@ -32,7 +32,7 @@ It's not just a little, but rather quite regrettable to lose[r]them.[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2047|
 [fc]
@@ -50,7 +50,7 @@ Huh? Ah, sorry... What was it again?[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2048|
 [fc]
@@ -67,7 +67,7 @@ Sorry, sorry. I just remembered something.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2049|
 [fc]
@@ -86,7 +86,7 @@ So, Saeki and I will be in the same class again.[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2050|
 [fc]
@@ -105,7 +105,7 @@ So I guess I'm in favor of not having a class change.[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2051|
 [fc]
@@ -116,7 +116,7 @@ Is that so?[pcms]
 *4793|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
@@ -125,5 +125,5 @@ Is that so?[pcms]
 Did he just say something happily now...?[l][er]
 I wonder if it's just my imagination...[pcms]
 
-;//[05090]ã¸
+;//[05090]‚Ö
 [jump target=*05090_TOP storage="05090.ks"]

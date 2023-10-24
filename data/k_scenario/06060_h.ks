@@ -1,20 +1,20 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯06060ã€æ„ŸæŸ“è€…é”ã€
-;//;//BG:ä½“è‚²æ•™å®˜å®¤ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›å²¸ç”°ãƒ»å„ªãƒ»ã‚¾ãƒ³ãƒ“Ã—ï¼•
-;//è¦–ç‚¹ï¼šå²¸ç”°
+;//¡ËƒuƒƒbƒN06060wŠ´õÒ’Bx
+;//;//BG:‘Ìˆç‹³Š¯ºF–éF“_“”
+;//“oêl•¨GŠİ“cE—DEƒ]ƒ“ƒr~‚T
+;//‹“_FŠİ“c
 
-;//EVENTï¼£ï¼§ï¼šæ„ŸæŸ“è€…ã€€EV004
+;//EVENT‚b‚fFŠ´õÒ@EV004
 
 *06060_H_TOP
-;[debug_win]ãªã†ã€€06060_H[debug_win_end]
+;[debug_win]‚È‚¤@06060_H[debug_win_end]
 [eval exp="sf.SRP30 = 1"][if exp="tf.scene_mode == 0"][jump target=*06060_H][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 *06060_H
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_06060 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_06060 = 1"]
 
 
 
@@ -22,7 +22,7 @@
 
 *scene_start
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 [bgm008]
 
 ;//H_CG:
@@ -76,7 +76,7 @@ How disgusting!![pcms]
 Guh... What the hell are you guys doing![l][er]
 Gaaaah![pcms]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
 
 [flash_re]
@@ -108,7 +108,7 @@ U-u... My... stomach... it's empty...[pcms]
 Stop! Stay away!! What... what the hell are you guys!![l][er]
 Ughh!![pcms]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
 
 [flash_re]
@@ -117,7 +117,7 @@ Ughh!![pcms]
 [trans_c cross time=300]
 
 [quake_bg xy m]
-;//SE;ãƒ‰ã‚µãƒƒ
+;//SE;ƒhƒTƒb
 [se0 storage="se021"]
 
 
@@ -126,11 +126,11 @@ Ughh!![pcms]
 My students, someone with such strong power...!?[l][er]
 Damn it!! My side...!![pcms]
 
-;//â€»ãƒœã‚¤ã‚¹ç„¡ã—
+;//¦ƒ{ƒCƒX–³‚µ
 *6555a|
 [fc]
 [ns]Female student[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *6556|
 [fc]
@@ -150,7 +150,7 @@ Teacher!! Noooo!![pcms]
 Yamagishi!! Help me!! Do something!![l][er]
 Aaargh!![pcms]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
 
 [flash_re]
@@ -191,5 +191,5 @@ D-Don't come over here... Don't come...!![pcms]
 [ns]Yamagishi[nse]
 Nooooooo!![pcms]
 
-;//[06070]ã¸
+;//[06070]‚Ö
 [jump target=*06070_H_TOP storage="06070_H.ks"]

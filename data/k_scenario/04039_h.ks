@@ -1,42 +1,42 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04039ã€ãƒ©ã‚¸ã‚ªå›åã€
-;//BG:å±‹ä¸Šï¼šæœ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04039wƒ‰ƒWƒI‰ñûx
+;//BG:‰®ãF’©
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04039_H_TOP
-;[debug_win]ãªã†ã€€04039_H[debug_win_end]
+;[debug_win]‚È‚¤@04039_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 ;[if exp="tf.scene_mode == 0"][jump target=*04039][endif]
 ;[winset]
-;mm ã‚‚ã¨ã‚‚ã¨ã“ã“ã‹ã‚‰ã˜ã‚ƒãªã„ã¿ãŸã„
+;mm ‚à‚Æ‚à‚Æ‚±‚±‚©‚ç‚¶‚á‚È‚¢‚İ‚½‚¢
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *04039
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04039 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04039 = 1"]
 
-;*SceneSet|ã€ãƒ©ã‚¸ã‚ªå›åã€
+;*SceneSet|wƒ‰ƒWƒI‰ñûx
 
-;//flag:å„ªãƒ«ãƒ¼ãƒˆbadendï¼ˆbadï¼–ï¼‰ã€€è¡¨ç¤º
+;//flag:—Dƒ‹[ƒgbadendibad‚Uj@•\¦
 
-;//â™ªï¼šBGM001ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM001ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 [wait_c time=500]
-;//â™ªï¼šBGM009ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM009ƒtƒF[ƒhƒCƒ“
 
 [bgm009]
 
@@ -59,7 +59,7 @@ Are they still not here...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1902|
 [fc]
@@ -76,7 +76,7 @@ I made a suggestion to Yamagishi-san, who had an uneasy[r]expression, in an atte
 [ns]Kato[nse]
 Yamagishi-san, how about going to get the radio?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1903|
 [fc]
@@ -90,7 +90,7 @@ Radio?[pcms]
 Why don't we try listening to the radio?[l][er]
 If it sounds like the commotion has settled down, we can[r]wait for rescue with peace of mind, right?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1904|
 [fc]
@@ -110,7 +110,7 @@ Besides, I'll be with you.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1905|
 [fc]
@@ -120,7 +120,7 @@ Yeah...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 
 [se0 storage="se005"]
 
@@ -138,7 +138,7 @@ Holding Yamagishi-san's hand, who still had an uneasy[r]expression, I headed tow
 
 ;//blackout
 
-;//[04040]ã¸
+;//[04040]‚Ö
 [jump target=*04040_H_TOP storage="04040_H.ks"]
 
 

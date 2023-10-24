@@ -1,17 +1,17 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07220ã€å¥³ç‹ã¨å§«ã€
-;//BG:æ•™å®¤ï¼šå¤•æ–¹ï¼›æ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»æ„ŸæŸ“ç”°ä¸­ãƒ»æ„ŸæŸ“æœ‹ç¾ãƒ»æ„ŸæŸ“å²¸ç”°
-;//ãƒ»ãƒªã‚µãƒ»æ„ŸæŸ“å„ªãƒ»æ„ŸæŸ“ç«¹å†…
+;//¡ËƒuƒƒbƒN07220w—‰¤‚Æ•Px
+;//BG:‹³ºF—[•ûGÁ“”
+;//“oêl•¨GålŒöE“µEŠ´õ“c’†EŠ´õ•ü”üEŠ´õŠİ“c
+;//EƒŠƒTEŠ´õ—DEŠ´õ’|“à
 
 *07220_TOP
-;[debug_win]ãªã†ã€€07220[debug_win_end]
-;*SceneSet|ã€å¥³ç‹ã¨å§«ã€
+;[debug_win]‚È‚¤@07220[debug_win_end]
+;*SceneSet|w—‰¤‚Æ•Px
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07220 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07220 = 1"]
 
-;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼‘ï¼ã€€è¡¨ç¤º
-;//â™ªï¼šBGMç„¡ã—
+;//flag:“µƒ‹[ƒgƒtƒ[@‚P‚O@•\¦
+;//ôFBGM–³‚µ
 ;//BG:bg10b
 
 [bg storage="bg10b"]
@@ -25,7 +25,7 @@
 
 ;;;[sysbt_meswin]
 
-;ç«‹ã¡
+;—§‚¿
 *std427|
 [fc]
 [ns]Takeuchi[nse]
@@ -45,7 +45,7 @@ Shinya, even you... Damn it! What the hell is going on?![pcms]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3032|
 [fc]
@@ -55,7 +55,7 @@ Kato-san!! Don't stop! Hurry over here!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 [bgm009]
 
 *7597|
@@ -63,8 +63,8 @@ Kato-san!! Don't stop! Hurry over here!![pcms]
 [ns]Kato[nse]
 Ah... Aah!! Uwah![pcms]
 
-;//ï¼ æ‰æ¸•ï¼šä¸‹è¨˜ï¼³ï¼¥ãŒè¡¨ã«ãªã„ãŸã‚ã«ç¾åœ¨éŸ³ã‚’å¼µã£ã¦ã„ã¾ã›ã‚“ã€‚
-;//SE:ã‚¬ãƒ©ã‚¬ãƒ©
+;//—™ŸºF‰º‹L‚r‚d‚ª•\‚É‚È‚¢‚½‚ß‚ÉŒ»İ‰¹‚ğ’£‚Á‚Ä‚¢‚Ü‚¹‚ñB
+;//SE:ƒKƒ‰ƒKƒ‰
 [se0 storage="se024"]
 [quake_bg xy m]
 
@@ -77,7 +77,7 @@ Shinya, with the same creepy look in his eyes as those guys,[r]was coming right 
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3033|
 [fc]
@@ -98,14 +98,14 @@ When I looked up, Yamagishi-san was smiling right in front[r]of me.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3034|
 [fc]
 [vo_ya s="yama0956"]
 [ns]Yamagishi[nse]
 Kato-kun... you don't have to run away...[l][er]
-ahaha... ahahahaha... you look so cute...  let me give you a[r]little kiss~ *smooch*[pcms]
+ahaha... ahahahaha... you look so cute...   let me give you[r]a little kiss~ *smooch*[pcms]
 
 *7601|
 [fc]
@@ -127,7 +127,7 @@ I was suddenly kissed by Yamagishi-san...[pcms]
 [ChrSetParts layer=1 chface="sae_c_d_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3035|
 [fc]
@@ -139,7 +139,7 @@ I was suddenly kissed by Yamagishi-san...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3036|
 [fc]
@@ -154,7 +154,7 @@ Ahaha... Haha...[pcms]
 [ChrSetParts layer=1 chface="sae_c_d_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3037|
 [fc]
@@ -172,13 +172,13 @@ Yamagishi-san!![pcms]
 [bg storage="bg10b"]
 [trans_c cross time=500]
 
-;//SE:å¹³æ‰‹
+;//SE:•½è
 [se0 storage="se048"]
 [quake_bg x m]
 
 
-;//ï¼ æ‰æ¸•ï¼šä¸‹è¨˜ï¼³ï¼¥ãŒè¡¨ã«ãªã„ãŸã‚ã«ç¾åœ¨éŸ³ã‚’å¼µã£ã¦ã„ã¾ã›ã‚“ã€‚
-;//SE:ã‚¬ãƒ©ã‚¬ãƒ©
+;//—™ŸºF‰º‹L‚r‚d‚ª•\‚É‚È‚¢‚½‚ß‚ÉŒ»İ‰¹‚ğ’£‚Á‚Ä‚¢‚Ü‚¹‚ñB
+;//SE:ƒKƒ‰ƒKƒ‰
 ;//[se0 storage="se047"]
 
 *7604|
@@ -190,7 +190,7 @@ Yamagishi-san, who took Saeki's slap, staggered[r]dramatically.[pcms]
 [ChrSetParts layer=1 chface="sae_c_c_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3038|
 [fc]
@@ -213,7 +213,7 @@ Her expression looked demonic.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_d_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3039|
 [fc]
@@ -223,7 +223,7 @@ Ahahaha... I-I got slapped. Ahahaha, ahahahaha...[l][er]
 Hitomi-san's face is scary, isn't it?[l][er]
 Ahaha, ahahahahaha![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3040|
 [fc]
@@ -253,7 +253,7 @@ Saeki, perhaps angered by Yamagishi-san's words, took a deep[r]breath and sighed
 [ChrSetParts layer=1 chface="sae_c_c_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3041|
 [fc]
@@ -271,7 +271,7 @@ Ouch... My shoulder popped out![pcms]
 [ChrSetParts layer=1 chface="sae_c_c_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3042|
 [fc]
@@ -299,7 +299,7 @@ What happened to the teacher, Takeuchi, and Yamagishi-san?![pcms]
 [fc]
 What on earth is happening?![pcms]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 [se0 storage="se008"]
 
 *v3043|
@@ -308,7 +308,7 @@ What on earth is happening?![pcms]
 [ns]Yamagishi[nse]
 Hahahaha!! Ahahahaha!! Ahahahaha!![pcms]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 
 [se0 storage="se005"]
 

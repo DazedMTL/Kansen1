@@ -1,26 +1,26 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07180ã€æ±‚ã‚åˆã†äºŒäººã€
-;//;//BG:ç„¡ã—
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN07180w‹‚ß‡‚¤“ñlx
+;//;//BG:–³‚µ
+;//“oêl•¨GålŒöE“µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *07180_H_TOP
-;[debug_win]ãªã†ã€€07180_H[debug_win_end]
+;[debug_win]‚È‚¤@07180_H[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07180 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07180 = 1"]
 
-;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼˜ã€€è¡¨ç¤º
+;//flag:“µƒ‹[ƒgƒtƒ[@‚W@•\¦
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 
-;//;//BG:bgç„¡ã—
+;//;//BG:bg–³‚µ
 
-;//SE:ã‚·ãƒ£ãƒ¯ãƒ¼ã®éŸ³ãƒ«ãƒ¼ãƒ—
+;//SE:ƒVƒƒƒ[‚Ì‰¹ƒ‹[ƒv
 
-;//ï¼ ï¼³ï¼¥æ¸ˆã¿
+;//—‚r‚dÏ‚İ
 
 
 ;;;[sysbt_meswin]
@@ -43,7 +43,7 @@ I want to hold you right now. Driven by such feelings, I[r]impulsively jumped in
 
 [stop_se0]
 
-;//SE:ã‚«ãƒ¼ãƒ†ãƒ³ã‚’é–‹ã
+;//SE:ƒJ[ƒeƒ“‚ğŠJ‚­
 
 [se0 storage="se046"]
 
@@ -58,7 +58,7 @@ I want to hold you right now. Driven by such feelings, I[r]impulsively jumped in
 
 ;;;[sysbt_meswin]
 
-;//â™ªï¼šBGM006
+;//ôFBGM006
 
 [bgm006]
 
@@ -152,7 +152,7 @@ Ugh...[pcms]
 [fc]
 [vo_sa s="sae0828"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *7315|
 [fc]
@@ -221,7 +221,7 @@ I have to respond to Saeki's feelings and that confession.[pcms]
 [fc]
 [vo_sa s="sae0832"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *7324|
 [fc]
@@ -303,7 +303,7 @@ Saeki...[pcms]
 [fc]
 [vo_sa s="sae0837"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *7334|
 [fc]
@@ -331,7 +331,7 @@ As I thought about that, my heart started pounding so fast[r]that I felt like it
 [fc]
 I could feel the same heartbeat as mine, coming from Saeki's[r]soft chest pressed tightly against me.[pcms]
 
-;//SE:å¿ƒæ‹éŸ³
+;//SE:S”‰¹
 
 [se0 storage="se003"]
 
@@ -418,7 +418,7 @@ I want to know Saeki more...[pcms]
 [fc]
 [vo_sa s="sae0841"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *7351|
 [fc]
@@ -430,7 +430,7 @@ Does this mean... it's okay to touch her?[pcms]
 I part the soft thicket and place my finger on Saeki's slit.[l][er]
 I push through the slickness and the swelling that envelops[r]my finger, lightly touching the small protrusion.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 
 [se0 storage="se059"]
 
@@ -466,7 +466,7 @@ hah...[pcms]
 With each gentle flick of my finger against the small[r]protrusion that I feel in my hand, Saeki's shoulder twitches[r]slightly.[l][er]
 With each twitch, a slickness overflows from deep within[r]Saeki's body.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
@@ -591,7 +591,7 @@ Uwaa... Kato-san... I...[pcms]
 Saeki's insides have become much softer compared to before.[l][er]
 I wonder if she's alright now?[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
@@ -625,7 +625,7 @@ I couldn't help but want to become one with Saeki anymore.[pcms]
 I slowly press my thing against Saeki's crotch.[l][er]
 The entrance is tight, resisting my entry.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 
 [se0 storage="se059"]
 
@@ -659,7 +659,7 @@ Haa... haa... ngh![pcms]
 [fc]
 My thing slowly sinks into Saeki, matching her interrupted[r]and delicate breaths.[pcms]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 
 [se0 storage="se058"]
 
@@ -733,7 +733,7 @@ She's being considerate of me...[pcms]
 [fc]
 My thing, which hasn't moved much due to Saeki's kindness,[r]is about to burst.[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
 [se0 storage="se059"]
 
 *7387|
@@ -803,11 +803,11 @@ The words I love you that Saeki, and only me, uttered, race[r]through my mind.[p
 [fc]
 With that happiness, my thing immediately burst.[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@’x‚¢@’â~
 
 [stop_se0]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -861,7 +861,7 @@ only you...[pcms]
 [ns]Kato[nse]
 Me too... I won't let go... forever...[pcms]
 
-;//â™ªï¼šBGM006ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM006ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
@@ -887,29 +887,29 @@ While embracing each other tightly.[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn26 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn26 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 [wait_c time=1000]
 
-;//[07190]ã¸
+;//[07190]‚Ö
 [jump target=*07190_TOP storage="07190.ks"]
 

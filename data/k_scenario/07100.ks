@@ -1,38 +1,38 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07100ã€å¥³ç‹é™¥è½ã€
-;//BGï¼šç„¡ã—
-;//â˜…SYSTEMï¼šã‚¶ãƒƒãƒ”ãƒ³ã‚°é¸æŠç”»é¢ï¼ˆzap_â—â—â—)
+;//¡ËƒuƒƒbƒN07100w—‰¤Š×—x
+;//BGF–³‚µ
+;//šSYSTEMFƒUƒbƒsƒ“ƒO‘I‘ğ‰æ–Êizap_œœœ)
 
 *07100_TOP
-;[debug_win]ãªã†ã€€07100[debug_win_end]
-;*SceneSet|ã€å¥³ç‹é™¥è½ã€
+;[debug_win]‚È‚¤@07100[debug_win_end]
+;*SceneSet|w—‰¤Š×—x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07100 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07100 = 1"]
 
-;//â€»ã‚¶ãƒƒãƒ”ãƒ³ã‚°é¸æŠè¡¨ç¤ºãƒ–ãƒ­ãƒƒã‚¯
+;//¦ƒUƒbƒsƒ“ƒO‘I‘ğ•\¦ƒuƒƒbƒN
 
-;//â€»é¸æŠè‚¢
-;//ãƒ»è¦‹ã‚‹ï¼ˆç³è¦–ç‚¹ï¼‰;//[07110]ã¸
-;//ãƒ»è¦‹ãªã„;//[07030]ã¸
+;//¦‘I‘ğˆ
+;//EŒ©‚éi“µ‹“_j;//[07110]‚Ö
+;//EŒ©‚È‚¢;//[07030]‚Ö
 
 ;//<SltDel ALL>
-;//<SltAdd 0ã‚«ãƒ³ãƒSEL00_07100_YESã‚«ãƒ³ãƒè¦‹ã‚‹ï¼ˆç³è¦–ç‚¹ï¼‰>
-;//<SltAdd 1ã‚«ãƒ³ãƒSEL00_07100_NOã‚«ãƒ³ãƒè¦‹ãªã„>
+;//<SltAdd 0ƒJƒ“ƒ}SEL00_07100_YESƒJƒ“ƒ}Œ©‚éi“µ‹“_j>
+;//<SltAdd 1ƒJƒ“ƒ}SEL00_07100_NOƒJƒ“ƒ}Œ©‚È‚¢>
 ;//<SltRun>
 
 
-*ZAP17|ã‚¶ãƒƒãƒ”ãƒ³ã‚°é¸æŠè‚¢ã€€ä½ä¼¯
+*ZAP17|ƒUƒbƒsƒ“ƒO‘I‘ğˆ@²”Œ
 
-;ãƒãƒƒã‚¯ãƒ­ã‚°ã‚­ãƒ£ãƒ©æŒ‡å®š
-[eval exp="f.zap_sel_chara01 = 'ã€€ä½ä¼¯'"]
-[eval exp="f.zap_sel_chara02 = 'ã€€ã‚­ãƒ£ãƒ³ã‚»ãƒ«'"]
+;ƒoƒbƒNƒƒOƒLƒƒƒ‰w’è
+[eval exp="f.zap_sel_chara01 = '@²”Œ'"]
+[eval exp="f.zap_sel_chara02 = '@ƒLƒƒƒ“ƒZƒ‹'"]
 
 [zap_set1]
 
 [eval exp="f.zap_bt01_x = 200"][eval exp="f.zap_bt01_y = 200"]
 [eval exp="f.zap_bt99_x = 320"][eval exp="f.zap_bt99_y = 540"]
 
-;ãƒœã‚¿ãƒ³
+;ƒ{ƒ^ƒ“
 [locate x="&f.zap_bt01_x" y="&f.zap_bt01_y"][button graphic="zap_hitomi_" target=*SEL00_hitomi recthit=true]
 [locate x="&f.zap_bt99_x" y="&f.zap_bt99_y"][button graphic="zap_cancel" target=*SEL00_cancel recthit=true]
 
@@ -42,7 +42,7 @@
 
 ;-------------------------------------------------
 *SEL00_hitomi
-[zap_hisout txt="ã‚¶ãƒƒãƒ”ãƒ³ã‚°"][zap_hisout txt="&f.zap_sel_chara01 "][zap_hisout txt="ã€€é¸æŠ"][hr][hr]
+[zap_hisout txt="ƒUƒbƒsƒ“ƒO"][zap_hisout txt="&f.zap_sel_chara01 "][zap_hisout txt="@‘I‘ğ"][hr][hr]
 [zap_clear]
 [image storage="zap_hitomi" layer=1 left="&f.zap_bt01_x" top="&f.zap_bt01_y" page=fore visible=true opacity=255]
 [image storage="zap_cancel" layer=2 left="&f.zap_bt99_x" top="&f.zap_bt99_y" page=fore visible=true opacity=255 clipleft=0 cliptop=0 clipwidth=160 clipheight=40]
@@ -54,7 +54,7 @@
 
 ;-------------------------------------------------
 *SEL00_cancel
-[zap_hisout txt="ã‚¶ãƒƒãƒ”ãƒ³ã‚°"][zap_hisout txt="&f.zap_sel_chara02 "][zap_hisout txt="ã€€é¸æŠ"][hr][hr]
+[zap_hisout txt="ƒUƒbƒsƒ“ƒO"][zap_hisout txt="&f.zap_sel_chara02 "][zap_hisout txt="@‘I‘ğ"][hr][hr]
 [zap_clear]
 [image storage="zap_hitomi_" layer=1 left="&f.zap_bt01_x" top="&f.zap_bt01_y" page=fore visible=true opacity=255 clipleft=0 cliptop=0 clipwidth=400 clipheight=120]
 [black_toplayer][trans_c random time=1000][hide_chara_int]

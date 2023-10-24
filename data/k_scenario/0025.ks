@@ -1,24 +1,24 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0025ã€é£Ÿå™¨è’ã„çµ‚äº†ï¼šé¸æŠè‚¢ç™ºç”Ÿã€
-;//BG:å­¦åœ’å†…å­¦é£Ÿï¼šå¤•æ–¹
-;//â˜…SYSTEMï¼šã‚¶ãƒƒãƒ”ãƒ³ã‚°é¸æŠç”»é¢ï¼ˆzap_001)
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN0025wHŠír‚¢I—¹F‘I‘ğˆ”­¶x
+;//BG:Šw‰€“àŠwHF—[•û
+;//šSYSTEMFƒUƒbƒsƒ“ƒO‘I‘ğ‰æ–Êizap_001)
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *0025_TOP
-;[debug_win]ãªã†ã€€0025[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0025 = 1"]
+;[debug_win]‚È‚¤@0025[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0025 = 1"]
 
-;*SceneSet|ã€é£Ÿå™¨è’ã„çµ‚äº†ã€
+;*SceneSet|wHŠír‚¢I—¹x
 
 ;//[0025]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg014b
 
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [bg storage="bg14c"]
 [trans_c cross time=500]
 
@@ -53,30 +53,30 @@ Even if it's preparation for the screening, it shouldn't[r]take much time, just 
 I wish they would come and show their faces here at least[r]once.[l][er]
 I wonder if they're doing some other work...[pcms]
 
-;//â€»ã‚¶ãƒƒãƒ”ãƒ³ã‚°é¸æŠç™ºç”Ÿ
-;//ãƒ»ãƒªã‚µè¦–ç‚¹ã‚’é¸æŠ;//[0100]ã¸
-;//ãƒ»è¦–ç‚¹åˆ‡ã‚Šæ›¿ãˆã‚’è¡Œã‚ãªã„;//[0026]ã¸
+;//¦ƒUƒbƒsƒ“ƒO‘I‘ğ”­¶
+;//EƒŠƒT‹“_‚ğ‘I‘ğ;//[0100]‚Ö
+;//E‹“_Ø‚è‘Ö‚¦‚ğs‚í‚È‚¢;//[0026]‚Ö
 
 ;//[SEL00_0025_mine]
 
-;BGMåœæ­¢
+;BGM’â~
 [fadeoutbgm time=500]
 
-;mm ã‚¶ãƒƒãƒ”ãƒ³ã‚°å‰ã«é»’è¿½åŠ 
+;mm ƒUƒbƒsƒ“ƒO‘O‚É•’Ç‰Á
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
-*ZAP01|ã‚¶ãƒƒãƒ”ãƒ³ã‚°é¸æŠè‚¢ã€€æ–°é“
+*ZAP01|ƒUƒbƒsƒ“ƒO‘I‘ğˆ@V“¹
 
-;ãƒãƒƒã‚¯ãƒ­ã‚°ã‚­ãƒ£ãƒ©æŒ‡å®š
-[eval exp="f.zap_sel_chara01 = 'ã€€æ–°é“'"]
-[eval exp="f.zap_sel_chara02 = 'ã€€ã‚­ãƒ£ãƒ³ã‚»ãƒ«'"]
+;ƒoƒbƒNƒƒOƒLƒƒƒ‰w’è
+[eval exp="f.zap_sel_chara01 = '@V“¹'"]
+[eval exp="f.zap_sel_chara02 = '@ƒLƒƒƒ“ƒZƒ‹'"]
 
 [zap_set1]
 
 [eval exp="f.zap_bt01_x = 200"][eval exp="f.zap_bt01_y = 200"]
 [eval exp="f.zap_bt99_x = 320"][eval exp="f.zap_bt99_y = 540"]
 
-;ãƒœã‚¿ãƒ³
+;ƒ{ƒ^ƒ“
 [locate x="&f.zap_bt01_x" y="&f.zap_bt01_y"][button graphic="zap_risa_"   target=*SEL00_risa   recthit=true]
 [locate x="&f.zap_bt99_x" y="&f.zap_bt99_y"][button graphic="zap_cancel" target=*SEL00_cancel recthit=true]
 
@@ -86,7 +86,7 @@ I wonder if they're doing some other work...[pcms]
 
 ;-------------------------------------------------
 *SEL00_risa
-[zap_hisout txt="ã‚¶ãƒƒãƒ”ãƒ³ã‚°"][zap_hisout txt="&f.zap_sel_chara01 "][zap_hisout txt="ã€€é¸æŠ"][hr][hr]
+[zap_hisout txt="ƒUƒbƒsƒ“ƒO"][zap_hisout txt="&f.zap_sel_chara01 "][zap_hisout txt="@‘I‘ğ"][hr][hr]
 [zap_clear]
 [image storage="zap_risa"   layer=1 left="&f.zap_bt01_x" top="&f.zap_bt01_y" page=fore visible=true opacity=255]
 [image storage="zap_cancel" layer=2 left="&f.zap_bt99_x" top="&f.zap_bt99_y" page=fore visible=true opacity=255 clipleft=0  cliptop=0 clipwidth=160 clipheight=40]
@@ -97,7 +97,7 @@ I wonder if they're doing some other work...[pcms]
 
 ;-------------------------------------------------
 *SEL00_cancel
-[zap_hisout txt="ã‚¶ãƒƒãƒ”ãƒ³ã‚°"][zap_hisout txt="&f.zap_sel_chara02 "][zap_hisout txt="ã€€é¸æŠ"][hr][hr]
+[zap_hisout txt="ƒUƒbƒsƒ“ƒO"][zap_hisout txt="&f.zap_sel_chara02 "][zap_hisout txt="@‘I‘ğ"][hr][hr]
 [zap_clear]
 [image storage="zap_risa_" layer=1 left="&f.zap_bt01_x"  top="&f.zap_bt01_y" page=fore visible=true opacity=255 clipleft=0  cliptop=0 clipwidth=400 clipheight=120]
 [black_toplayer][trans_c random time=1000][hide_chara_int]

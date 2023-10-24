@@ -1,39 +1,39 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07110ã€ä¾µç•¥ã€
-;//BG:ç„¡ã—
-;//BG:æ˜‡é™å£å‰å»Šä¸‹ï¼šå¤œï¼›æ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼šç³ãƒ»æ„ŸæŸ“ç”°ä¸­ãƒ»åŠç«¯æ„ŸæŸ“ã‚¾ãƒ³ãƒ“Ã—ï¼“
-;//ï¼šç³è¦–ç‚¹
+;//¡ËƒuƒƒbƒN07110wN—ªx
+;//BG:–³‚µ
+;//BG:¸~Œû‘O˜L‰ºF–éGÁ“”
+;//“oêl•¨F“µEŠ´õ“c’†E”¼’[Š´õƒ]ƒ“ƒr~‚R
+;//F“µ‹“_
 
 *07110_H_TOP
-;[debug_win]ãªã†ã€€07110_H[debug_win_end]
+;[debug_win]‚È‚¤@07110_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 ;[if exp="tf.scene_mode == 0"][jump target=*07110][endif]
 ;[winset]
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *07110
 
-;*SceneSet|ã€ä¾µç•¥ã€
+;*SceneSet|wN—ªx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07110 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07110 = 1"]
 
-;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€zapï¼”ã€€è¡¨ç¤º
-;//â™ªï¼šBGM007
+;//flag:“µƒ‹[ƒgƒtƒ[@zap‚S@•\¦
+;//ôFBGM007
 
 [bgm007]
 
-;//BG:bgç„¡ã—
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//BG:bg–³‚µ
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 
@@ -93,7 +93,7 @@ Why are you worried about other women instead of me...?[pcms]
 Is it really necessary to leave me behind like this?[l][er]
 Couldn't you just call out loudly from here?[pcms]
 
-;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM007ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
@@ -117,7 +117,7 @@ If Kato-san were to find out that I'm thinking about such[r]things, she would ha
 That's the one thing I can't bear...[l][er]
 I can't stand it...[pcms]
 
-;//â™ªï¼šBGM005ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM005ƒtƒF[ƒhƒCƒ“
 
 [bgm005]
 
@@ -135,7 +135,7 @@ I heard something low, like a man's groaning voice, coming[r]from beyond the cor
 [fc]
 [vo_sa s="sae0769"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *7145|
 [fc]
@@ -149,7 +149,7 @@ I wonder if he lied about finding Igarashi-senpai just to[r]surprise me...[pcms]
 [fc]
 [vo_sa s="sae0770"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *7147|
 [fc]
@@ -187,7 +187,7 @@ Kato-san, enough with the pranks...[pcms]
 [fc]
 When I peeked around the corner, it wasn't Kato-san who was[r]there, but several unfamiliar male students and leading them[r]was Senpai Tanaka.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 [ChrSetEx layer=1 chbase="tanaka_b_a_10"]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
@@ -200,13 +200,13 @@ Senpai Tanaka's uniform was torn in various places, and from[r]there, I could se
 [fc]
 [vo_sa s="sae0773"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *7154|
 [fc]
 I felt a sense of danger from their clearly abnormal[r]atmosphere, and tried to call for help, but Senpai Tanaka[r]quickly covered my mouth.[pcms]
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 [bgm008]
 
@@ -215,7 +215,7 @@ I felt a sense of danger from their clearly abnormal[r]atmosphere, and tried to 
 [ChrSetParts layer=1 chface="tanaka_b_a_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std415|
 [fc]
 [ns]Tanaka[nse]
@@ -230,14 +230,14 @@ play... with me...?[pcms]
 [ns]Saeki[nse]
 ...!! ...!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std416|
 [fc]
 [ns]Male Student X[nse]
 It's a new pussy... I don't need the old one anymore...[l][er]
 Come, let's go together...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std417|
 [fc]
 [ns]Male Student Z[nse]
@@ -253,7 +253,7 @@ He placed his hand over my mouth, pushed me against the[r]wall, and Senpai Tanak
 [ChrSetParts layer=1 chface="tanaka_b_a_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std418|
 [fc]
 [ns]Tanaka[nse]
@@ -276,7 +276,7 @@ Bringing along a bunch of lackeys...[pcms]
 [fc]
 [vo_sa s="sae0775"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *7159|
 [fc]
@@ -306,6 +306,6 @@ In the end, I ended up going back to the staff restroom[r]where I was just a mom
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[07120]ã¸
+;//[07120]‚Ö
 [jump target=*07120_H_TOP storage="07120_H.ks"]
 

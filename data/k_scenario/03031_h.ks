@@ -1,44 +1,44 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯03031ã€ç«¹å†…ã®æœ€å¾Œã€â™‚â™‚
-;//BG:äºŒéšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰ï¼šå¤•æ–¹
-;//ç™»å ´äººç‰©ï¼›ç«¹å†…ãƒ»ã‚¾ãƒ³ãƒ“ãƒ»ç³
-;//ã€†ç«¹å†…è¦–ç‚¹
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN03031w’|“à‚ÌÅŒãx‰‰
+;//BG:“ñŠK˜L‰ºFƒoƒŠƒP[ƒhF—[•û
+;//“oêl•¨G’|“àEƒ]ƒ“ƒrE“µ
+;//Y’|“à‹“_
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *03031_H_TOP
-;[debug_win]ãªã†ã€€03031_H[debug_win_end]
+;[debug_win]‚È‚¤@03031_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [eval exp="sf.SRP15 = 1"][if exp="tf.scene_mode == 0"][jump target=*03031][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *03031
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_03031 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_03031 = 1"]
 
-;*SceneSet|ã€ç«¹å†…ã®æœ€å¾Œã€
+;*SceneSet|w’|“à‚ÌÅŒãx
 
-;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€zapï¼—ï¼ï¼‘ï¼’ã€€è¡¨ç¤º
+;//flag:—Dƒ‹[ƒgƒtƒ[@zap‚VD‚P‚Q@•\¦
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 
 [bgm009]
 
-;//BG:bgç„¡ã—
+;//BG:bg–³‚µ
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
@@ -69,7 +69,7 @@ Since I already came inside that woman earlier, my legs are[r]weak and tangled u
 [ns]Takeuchi[nse]
 Uwah...[pcms]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 
 [se0 storage="se021"]
 
@@ -107,7 +107,7 @@ My body won't move...[pcms]
 Hm...?[pcms]
 
 ;	/*
-;	;//SE:ã‚¬ãƒ¤ï¼ˆå†ç”Ÿç›´å¾Œåœæ­¢ï¼‰
+;	;//SE:ƒKƒ„iÄ¶’¼Œã’â~j
 ;	[se0 storage="se001"]
 ;	*/
 
@@ -116,7 +116,7 @@ Hm...?[pcms]
 I had a feeling that someone was approaching nearby, so I[r]managed to move my head and look in that direction.[l][er]
 There, I saw a woman with several men, looking down at me.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 [ChrSetEx layer=1 chbase="sae_c_d_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_d_12"]
@@ -145,7 +145,7 @@ But I guess if I do it forcefully, it'll be fine...[pcms]
 [ns]Takeuchi[nse]
 Fuhi... Fuhi, hihi...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1439|
 [fc]
@@ -171,7 +171,7 @@ Hitomi, who was staring at my penis with a greedy look,[r]smirked and squatted d
 
 *scene_start
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 [bgm008]
 
 [evcg storage="HEV_040_a"]
@@ -181,7 +181,7 @@ Hitomi, who was staring at my penis with a greedy look,[r]smirked and squatted d
 ;;;[sysbt_meswin]
 
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 
 [se0 storage="se059"]
 
@@ -489,7 +489,7 @@ Hau, nkuu!! ... Nbuu, ntsu, chubuu!![pcms]
 [fc]
 I was vigorously teased with my anus and cock, lifting my[r]hips and ejaculating semen into Hitomi's mouth.[pcms]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [stop_se0]
 
@@ -692,19 +692,19 @@ Hitomi's mouth, after she started sucking my dick, within a[r]few minutes, every
 
 ;//blackout
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn15 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn15 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
@@ -714,11 +714,11 @@ Hitomi's mouth, after she started sucking my dick, within a[r]few minutes, every
 
 ;;;[sysbt_meswin]
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
-;//[02150]ã¸
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//[02150]‚Ö
 [jump target=*02150_TOP storage="02150.ks"]
 

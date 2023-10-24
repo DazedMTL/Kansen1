@@ -1,14 +1,14 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05570ã€åœ°ä¸‹ï¼’ã€
-;//BG:åœ°ä¸‹å®¤ï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05570w’n‰º‚Qx
+;//BG:’n‰ººF“_“”
+;//“oêl•¨GålŒöE“µ
 
 *05570_H_TOP
-;[debug_win]ãªã†ã€€05570_H[debug_win_end]
+;[debug_win]‚È‚¤@05570_H[debug_win_end]
 
-;*SceneSet|ã€åœ°ä¸‹ï¼’ã€
+;*SceneSet|w’n‰º‚Qx
 
-;//â™ªï¼šBGM010ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM010ƒtƒF[ƒhƒCƒ“
 
 [bgm004]
 
@@ -17,9 +17,9 @@
 ;//[bg storage="bg23a"]
 ;//[trans_c cross time=500]
 
-;//æ¸…æ°´ï¼ â†‘ç¶™ç¶šä¸­ã«ã¤ãã€ãã®ã¾ã¾
+;//´…—ªŒp‘±’†‚É‚Â‚«A‚»‚Ì‚Ü‚Ü
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05570 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05570 = 1"]
 
 *5713|
 [fc]
@@ -62,7 +62,7 @@ I might be seen as a convenient guy.[pcms]
 [fc]
 But if it means Saeki will regain her energy like this...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2391|
 [fc]
@@ -86,13 +86,13 @@ I looked up at Saeki, her face soaked with tears, and firmly[r]and clearly expre
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2392|
 [fc]
 [vo_sa s="sae0550"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5725|
 [fc]
@@ -117,7 +117,7 @@ Saeki's eyes, which were fixed on my confession, quickly[r]filled with tears.[pc
 
 [bgm010]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2393|
 [fc]
@@ -133,7 +133,7 @@ I buried my face in Saeki's chest again and tightly embraced[r]her as she sobbed
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05580]ã¸
+;//[05580]‚Ö
 [jump target=*05580_H_TOP storage="05580_H.ks"]
 
 

@@ -1,29 +1,29 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
-;//â€»å„ªãƒ«ãƒ¼ãƒˆãƒ»ã‚¶ãƒƒãƒ”ãƒ³ã‚°ãƒ«ãƒ¼ãƒˆãƒ»ã“ã“ã¾ã§
+;//¦—Dƒ‹[ƒgEƒUƒbƒsƒ“ƒOƒ‹[ƒgE‚±‚±‚Ü‚Å
 
-;//ã€Žæ„ŸæŸ“ï¼ˆä»®é¡Œï¼‰âˆ’å„ªãƒ»ãƒãƒƒãƒ‰ã‚¨ãƒ³ãƒ‰ãƒ†ã‚­ã‚¹ãƒˆã€
+;//wŠ´õi‰¼‘èj|—DEƒoƒbƒhƒGƒ“ƒhƒeƒLƒXƒgx
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04000ã€Žä½“è‚²é¤¨ã€
-;//BG:ç‰¹æ®Šæ•™å®¤ï¼šå»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04000w‘ÌˆçŠÙx
+;//BG:“ÁŽê‹³ŽºF˜L‰ºF–éFÁ“”
+;//“oêl•¨GŽålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04000_TOP
-;[debug_win]ãªã†ã€€04000[debug_win_end]
+;[debug_win]‚È‚¤@04000[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04000 = 1"]
+;Žg‚Á‚Ä‚È‚¢[eval exp="sf.g_04000 = 1"]
 
-;*SceneSet|ã€Žä½“è‚²é¤¨ã€
+;*SceneSet|w‘ÌˆçŠÙx
 
-;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼”ï¼Žï¼•ã€€è¡¨ç¤º
+;//flag:—Dƒ‹[ƒgƒtƒ[@‚SD‚T@•\Ž¦
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 
 ;//[bgm001]
 
@@ -64,7 +64,7 @@ I headed towards the gymnasium.[pcms]
 
 ;//blackout
 
-;//[04001]ã¸
+;//[04001]‚Ö
 [jump target=*04001_TOP storage="04001.ks"]
 
 

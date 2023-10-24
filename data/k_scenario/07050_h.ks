@@ -1,19 +1,19 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07050ã€è¨˜æ†¶ã€
-;//BG:æ•™å®¤ï¼šå¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»æ„ŸæŸ“ç³
+;//¡ËƒuƒƒbƒN07050w‹L‰¯x
+;//BG:‹³ºF–éFÁ“”
+;//“oêl•¨GålŒöEŠ´õ“µ
 
 *07050_H_TOP
-;[debug_win]ãªã†ã€€07050_H[debug_win_end]
+;[debug_win]‚È‚¤@07050_H[debug_win_end]
 
-;*SceneSet|ã€è¨˜æ†¶ã€
+;*SceneSet|w‹L‰¯x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07050 = 1"]
-;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€badï¼‘ã€€è¡¨ç¤º
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07050 = 1"]
+;//flag:“µƒ‹[ƒgƒtƒ[@bad‚P@•\¦
 
 [eval exp="sf.g_queen = 1"]
-;//flag:å¥³ç‹é™¥è½ã€€on
-;//â™ªï¼šBGM004
+;//flag:—‰¤Š×—@on
+;//ôFBGM004
 
 [bgm004]
 
@@ -32,7 +32,7 @@ The woman straddled me, placing her hand on my penis, and[r]positioned herself o
 ;	[trans_c cross time=150]
 ;	*/
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2849|
 [fc]
@@ -56,7 +56,7 @@ The woman happily laughed, lowered her body, and took my[r]penis into her mouth.
 
 ;;;[sysbt_meswin]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 
 [se0 storage="se058"]
 
@@ -127,7 +127,7 @@ fah, haaan! Ugh, nfuhh![pcms]
 [fc]
 I, who wanted not only to receive pleasure from the woman[r]but also to obtain it myself, thrust my hips forward and[r]thrust up into her pussy.[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [se0 storage="se060" loop=true]
 
@@ -515,11 +515,11 @@ At the deepest part of her pussy, I released the accumulated[r]semen.[pcms]
 [ns]Kato[nse]
 Guh... ah...!![pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se0]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -643,30 +643,30 @@ Anyone... it doesn't matter...[pcms]
 ;g[backlay_c][chara_int][trans_c cross time=150]
 
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn36 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn36 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;//â€»ã‚²ãƒ¼ãƒ ã‚ªãƒ¼ãƒãƒ¼
+;//¦ƒQ[ƒ€ƒI[ƒo[
 
 ;;;[sysbt_meswin clear]
 
@@ -680,7 +680,7 @@ Anyone... it doesn't matter...[pcms]
 	[jump target=*BADEND]
 [endif]
 
-;sf.g_queenè¸ã‚“ã§é–‹ãã‚„ã¤
+;sf.g_queen“¥‚ñ‚ÅŠJ‚­‚â‚Â
 [call storage="movie_sub.ks" target=*badend_open]
 
 [eval exp="sf.g_badend1 = 1"]

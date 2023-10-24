@@ -1,36 +1,36 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯06150ã€å§«ã®å¯é¡”ã€
-;//;//BG:ä¿å¥å®¤ï¼šæœï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ç«¹å†…ãƒ»å„ª
-;//è¦–ç‚¹ï¼›ç«¹å†…
+;//¡ËƒuƒƒbƒN06150w•P‚ÌQŠçx
+;//;//BG:•ÛŒ’ºF’©FÁ“”
+;//“oêl•¨G’|“àE—D
+;//‹“_G’|“à
 
 *06150_H_TOP
-;[debug_win]ãªã†ã€€06150_H[debug_win_end]
-;*SceneSet|ã€çœ ã‚Šå§«ã®èµ·åºŠã€
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;[debug_win]‚È‚¤@06150_H[debug_win_end]
+;*SceneSet|w–°‚è•P‚Ì‹N°x
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 ;[if exp="tf.scene_mode == 0"][jump target=*06150][endif]
 ;[winset]
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *06150
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_06150 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_06150 = 1"]
 
-;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€zapï¼•ã€€è¡¨ç¤º
+;//flag:“µƒ‹[ƒgƒtƒ[@zap‚T@•\¦
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 [bgm007]
 
-;//;//BG:bgç„¡ã—
+;//;//BG:bg–³‚µ
 
 
 
@@ -77,7 +77,7 @@ Just that alone makes me happy.[pcms]
 
 
 
-;//;//BG:bgç„¡ã—
+;//;//BG:bg–³‚µ
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
@@ -131,7 +131,7 @@ It feels like Yuu-chan is the only one who understands me...[pcms]
 [fc]
 Just by seeing that cheerful smile, my cloudy feelings[r]disappear somewhere.[pcms]
 
-;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM007ƒtƒF[ƒhƒAƒEƒg
 
 [bgm007]
 
@@ -145,7 +145,7 @@ If Yuu-chan becomes my girlfriend, I can change...[l][er]
 Even my personality can change.[l][er]
 I'm sure of it.[pcms]
 
-;//â™ªï¼šBGM006
+;//ôFBGM006
 
 [bgm006]
 
@@ -159,7 +159,7 @@ Yuu-chan...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_d_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2734|
 [fc]
@@ -189,7 +189,7 @@ Is this a dream? Did I fall asleep while lost in thought?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2735|
 [fc]
@@ -203,7 +203,7 @@ hot...[pcms]
 [ns]Takeuchi[nse]
 Eh? Hot? Are you feeling hot too?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2736|
 [fc]
@@ -241,7 +241,7 @@ It's fine... even if it's a dream...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_d_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2737|
 [fc]
@@ -302,7 +302,7 @@ Yuu-chan, you smell so good...[pcms]
 [fc]
 Spring has come to me too!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2738|
 [fc]
@@ -310,7 +310,7 @@ Spring has come to me too!![pcms]
 [ns]Yamagishi[nse]
 Yaaan![pcms]
 
-;//[06160]ã¸
+;//[06160]‚Ö
 [jump target=*06160_H_TOP storage="06160_H.ks"]
 
 

@@ -1,26 +1,26 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02103ã€ãƒ©ã‚¸ã‚ªã€
-;//BG:ç†ç§‘è·å“¡å®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02103wƒ‰ƒWƒIx
+;//BG:—‰ÈEˆõºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöEƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02103_TOP
-;[debug_win]ãªã†ã€€02103[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02103 = 1"]
+;[debug_win]‚È‚¤@02103[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02103 = 1"]
 
-;*SceneSet|ã€ãƒ©ã‚¸ã‚ªã€
+;*SceneSet|wƒ‰ƒWƒIx
 
 ;//[02103]
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 [bgm009]
 ;//BG:bg018a
 [bg storage="bg18a"]
 [trans_c cross time=500]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 *2067|
@@ -51,7 +51,7 @@ It's urgent, right now...[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v838|
 [fc]
@@ -63,8 +63,8 @@ Yes. It's perfect timing. You should listen as well.[pcms]
 [fc]
 Shindou-sensei, without breaking her serious expression,[r]turned the radio that was placed on the desk towards me and[r]increased the volume.[pcms]
 
-;//â™ªï¼šBGM009åœæ­¢
-;//â™ªï¼šBGMç„¡éŸ³
+;//ôFBGM009’â~
+;//ôFBGM–³‰¹
 [fadeoutbgm time=500]
 
 *v839|
@@ -80,7 +80,7 @@ I repeat...[pcms]
 [ns]Kato[nse]
 What is this...?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v840|
 [fc]
@@ -89,7 +89,7 @@ What is this...?[pcms]
 Just as you heard. Riots are happening all over Japan right[r]now.[l][er]
 Isn't that why you came to tell me?[pcms]
 
-;//â™ªï¼šBGM009ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM009ƒtƒF[ƒhƒCƒ“
 [bgm009]
 
 *2074|
@@ -99,7 +99,7 @@ No, this is not some made-up story.[l][er]
 Right now, there are strange people infiltrating the school.[l][er]
 Yamagishi-san and Kishida... even the teachers have been[r]attacked.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v841|
 [fc]
@@ -122,7 +122,7 @@ Please come with me. Hurry![pcms]
 [ChrSetParts layer=1 chface="risa_c_a_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v842|
 [fc]
@@ -139,12 +139,12 @@ I dragged Shindou-sensei and left the science preparation[r]room.[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//[02104]ã¸
+;//[02104]‚Ö
 [jump target=*02104_TOP storage="02104.ks"]
 

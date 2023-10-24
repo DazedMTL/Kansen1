@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05050ã€ç³ã¨äºŒéšæ•™å®¤ã€
-;//BG:äºŒéšæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯ï¼ç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05050w“µ‚Æ“ñŠK‹³ºx
+;//BG:“ñŠK‹³º˜L‰ºF–éFÁ“”^“_“”
+;//“oêl•¨GålŒöE“µ
 
 *05050_TOP
-;[debug_win]ãªã†ã€€05050[debug_win_end]
-;*SceneSet|ã€ç³ã¨äºŒéšæ•™å®¤ã€
+;[debug_win]‚È‚¤@05050[debug_win_end]
+;*SceneSet|w“µ‚Æ“ñŠK‹³ºx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05050 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05050 = 1"]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;	/*
 ;	[bgm001]
 ;	*/
@@ -64,7 +64,7 @@ As I frowned and looked around, I could hear Saeki giggling[r]from next to me.[p
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2029|
 [fc]
@@ -78,7 +78,7 @@ You were making fun of me, but aren't you scared too?[pcms]
 Don't say stupid things. It's just creepy, that's all.[l][er]
 This kind of thing doesn't scare me at all.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2030|
 [fc]
@@ -106,7 +106,7 @@ Ah, I'm sorry...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2031|
 [fc]
@@ -129,7 +129,7 @@ Let's move on to the next one![pcms]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2032|
 [fc]
@@ -149,10 +149,10 @@ Saeki probably tried to cover up her embarrassment by saying[r]the same thing as
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 ;//blackout
 
-;//[05060]ã¸
+;//[05060]‚Ö
 [jump target=*05060_TOP storage="05060.ks"]

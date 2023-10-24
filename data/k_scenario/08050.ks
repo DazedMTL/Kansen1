@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08050ã€åˆä½“é¨“ã®æ„Ÿæƒ³ã€
-;//BG;æ¸¡ã‚Šå»Šä¸‹ï¼šå¤œ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç«¹å†…
+;//¡ËƒuƒƒbƒN08050w‰‘ÌŒ±‚ÌŠ´‘zx
+;//BG;“n‚è˜L‰ºF–é
+;//“oêl•¨GålŒöE’|“à
 
 *08050_TOP
-;[debug_win]ãªã†ã€€08050[debug_win_end]
-;*SceneSet|ã€åˆä½“é¨“ã®æ„Ÿæƒ³ã€
+;[debug_win]‚È‚¤@08050[debug_win_end]
+;*SceneSet|w‰‘ÌŒ±‚ÌŠ´‘zx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08050 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08050 = 1"]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 
 [bgm001]
 
@@ -18,7 +18,7 @@
 [bg storage="bg09e"]
 [trans_c cross time=500]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 
@@ -40,7 +40,7 @@ Hey!! Hurry up already!![pcms]
 [ChrSetParts layer=1 chface="take_a_b_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std514|
 [fc]
 [ns]Takeuchi[nse]
@@ -49,7 +49,7 @@ It can't be helped... *panting* *panting* And besides, even[r]if I go now, it's 
 *9001|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *9002|
 [fc]
@@ -66,7 +66,7 @@ Certainly... The surroundings are already pitch black...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std515|
 [fc]
 [ns]Takeuchi[nse]
@@ -83,7 +83,7 @@ Not to mention, everyone seems angry...[pcms]
 I'm scared... I'm so scared...[l][er]
 Maybe I should just go home like this...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std516|
 [fc]
 [ns]Takeuchi[nse]
@@ -97,7 +97,7 @@ Shinya's voice is trembling. I wonder if he's thinking the[r]same thing...[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std517|
 [fc]
 [ns]Takeuchi[nse]
@@ -119,7 +119,7 @@ I don't think this is the time to be saying that.[pcms]
 What's with you, acting so nonchalant...[pcms]
 It certainly felt amazing, to the point of being[r]surprising, but[l][er]
 
-;ç«‹ã¡
+;—§‚¿
 *std518|
 [fc]
 [ns]Takeuchi[nse]
@@ -140,7 +140,7 @@ But still, like Shinya said, it was on a completely[r]different level compared t
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std519|
 [fc]
 [ns]Takeuchi[nse]
@@ -157,7 +157,7 @@ Eventually, I'll be able to do it too...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std520|
 [fc]
 [ns]Takeuchi[nse]
@@ -180,7 +180,7 @@ He's such a grudge holder... I'm getting tired of dealing[r]with him...[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*08060_TOP storage="08060.ks"]
 
 

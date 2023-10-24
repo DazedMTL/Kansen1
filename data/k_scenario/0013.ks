@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0013ã€ãƒã‚¹åœï¼šå…¨å“¡é›†åˆã€
-;//BGï¼šãƒã‚¹åœï¼šå¤•æ–¹
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//;//¡ËƒuƒƒbƒN0013wƒoƒX’âF‘SˆõW‡x
+;//BGFƒoƒX’âF—[•û
 
-;//;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;//;//“oêl•¨GålŒöE—DE“µE•ü”üE’|“àE“c’†
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *0013_TOP
-;[debug_win]ãªã†ã€€0013[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0013 = 1"]
+;[debug_win]‚È‚¤@0013[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0013 = 1"]
 
-;*SceneSet|ã€ãƒã‚¹åœã€
+;*SceneSet|wƒoƒX’âx
 
-;//â™ªï¼šBGM001ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM001ƒtƒF[ƒhƒCƒ“
 [bgm001]
 
 [bg storage="bg19"]
@@ -25,7 +25,7 @@
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v98|
 [fc]
@@ -37,7 +37,7 @@
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v99|
 [fc]
@@ -55,7 +55,7 @@ Huh? Oh, Saeki. When did you arrive?[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v100|
 [fc]
@@ -78,7 +78,7 @@ I took out my wallet from the pocket of my pants and without[r]counting, I rando
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v101|
 [fc]
@@ -111,7 +111,7 @@ So...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v102|
 [fc]
@@ -124,7 +124,7 @@ Um, Kato-san, this is too much...[pcms]
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v103|
 [fc]
@@ -136,7 +136,7 @@ Hitomi-san, while you two were in your own little world,[r]let's eat the ice cre
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v104|
 [fc]
@@ -148,7 +148,7 @@ Eh, no, I...[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std63|
 [fc]
 [ns]Takeuchi[nse]
@@ -161,7 +161,7 @@ I don't think you need to do that.[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std64|
 [fc]
 [ns]Tanaka[nse]
@@ -174,7 +174,7 @@ Like Tomomin.[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v105|
 [fc]
@@ -187,7 +187,7 @@ Ngh...!![pcms]
 [ChrSetParts layer=1 chface="tomo_c_c_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v106|
 [fc]
@@ -200,7 +200,7 @@ Hey, hey, stop it, Uutan!![pcms]
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std65|
 [fc]
 [ns]Takeuchi[nse]
@@ -211,7 +211,7 @@ Yamagishi-san, your breasts are really big after all...[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std66|
 [fc]
 [ns]Tanaka[nse]
@@ -222,7 +222,7 @@ Ahh! I want to show you! But I won't show you![pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v107|
 [fc]
@@ -235,7 +235,7 @@ M-mo... it's embarrassing...[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std67|
 [fc]
 [ns]Tanaka[nse]
@@ -247,7 +247,7 @@ Hmm, I'm torn...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v108|
 [fc]
@@ -281,7 +281,7 @@ If you do, the regular students won't be able to understand,[r]you know?[pcms]
 [ChrSetParts layer=1 chface="sae_c_c_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v109|
 [fc]
@@ -311,7 +311,7 @@ Saeki suddenly became silent. She averted her gaze and[r]seemed to be embarrasse
 [fc]
 ... If it's so embarrassing, then you shouldn't be shouting[r]so loudly in the middle of the street...[pcms]
 
-;//;//SE:ãƒã‚¹ã®åœæ­¢éŸ³
+;//;//SE:ƒoƒX‚Ì’â~‰¹
 [se0 storage="se011"]
 
 [ChrSetEx layer=1 chbase="tanaka_a_a_01"]
@@ -319,7 +319,7 @@ Saeki suddenly became silent. She averted her gaze and[r]seemed to be embarrasse
 [ChrSetParts layer=1 chface="tanaka_a_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std68|
 [fc]
 [ns]Tanaka[nse]
@@ -334,7 +334,7 @@ Geez, barking like a dog...[pcms]
 [fc]
 While saying that, Saeki slapped my hand, which was reaching[r]out to take the ice cream from the convenience store bag[r]that Yamagishi-san was holding, with a sharpness that could[r]be heard as the sound of cutting through the air.[pcms]
 
-;//;//SE:å¹³æ‰‹
+;//;//SE:•½è
 [se0 storage="se048"]
 
 *317|
@@ -347,7 +347,7 @@ Ouch![pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v110|
 [fc]
@@ -364,7 +364,7 @@ What is she so angry about...?[pcms]
 [fc]
 I was rubbing my sore hand while looking at Saeki, who had a[r]slightly sulky expression on her face, unable to understand[r]what she was thinking.[pcms]
 
-;//;//SE:ãƒã‚¹ã®ç™ºè»ŠéŸ³
+;//;//SE:ƒoƒX‚Ì”­Ô‰¹
 [se0 storage="se012"]
 
 ;//blackout
@@ -378,6 +378,6 @@ I was rubbing my sore hand while looking at Saeki, who had a[r]slightly sulky ex
 
 ;;;[sysbt_meswin]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*0014_TOP storage="0014.ks"]
 

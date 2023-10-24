@@ -1,19 +1,19 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04038ã€ä¸»äººå…¬ä¹±å¿ƒ3ã€
-;//BG:ä¸‰éšæ•™å®¤ï¼šå¤œ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µãƒ»å„ª
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04038wålŒö—S3x
+;//BG:OŠK‹³ºF–é
+;//“oêl•¨GålŒöEƒŠƒTE—D
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04038_H_TOP
-;[debug_win]ãªã†ã€€04038_H[debug_win_end]
+;[debug_win]‚È‚¤@04038_H[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04038 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04038 = 1"]
 
-;*SceneSet|ã€ä¸»äººå…¬ä¹±å¿ƒï¼“ã€
+;*SceneSet|wålŒö—S‚Rx
 
 ;//H_CG
 
@@ -26,7 +26,7 @@
 
 ;;;[sysbt_meswin]
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 [bgm008]
 
@@ -41,7 +41,7 @@ The girl pulled the other girl's legs apart, and her[r]beautiful pink pussy was 
 H-here... this is... a p-pussy...[l][er]
 you can take a good, close look at it...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 
 [se0 storage="se059"]
 
@@ -102,7 +102,7 @@ I obediently followed the woman's instructions and took her[r]clitoris into my m
 [ns]Yamagishi[nse]
 No... no... Kato-kun... stop...![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se1 storage="se059" loop=true]
 
@@ -154,7 +154,7 @@ the hole where a penis goes in...[pcms]
 [fc]
 I brought my face closer to that hole, from which an even[r]stronger scent was emanating, and wrinkled my nose.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
@@ -212,7 +212,7 @@ it's not okay!! Don't do it![pcms]
 [fc]
 While feeling her resistance to being penetrated, I[r]forcefully thrust my penis into the girl's pussy.[pcms]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 
 [se0 storage="se058"]
 
@@ -231,7 +231,7 @@ While feeling her resistance to being penetrated, I[r]forcefully thrust my penis
 [ns]Yamagishi[nse]
 Uwaa!? I-it's s-so tight!!![pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [se1 storage="se060" loop=true]
 
@@ -419,7 +419,7 @@ Do you... like me...?[pcms]
 *4435|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4436|
 [fc]
@@ -554,11 +554,11 @@ Ohh!! Geho, geho!! Uvehh, geehh!![pcms]
 [fc]
 I let the surging semen flow out and poured it into her[r]pussy.[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se1]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [overflow_se storage="se062"]
 
@@ -645,7 +645,7 @@ The woman, after being filled with cum, seemed to lose[r]consciousness for some 
 [ns]Kato[nse]
 Haa... s-so tight, inside... I can't hold it anymore...[pcms]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 
 [se0 storage="se021"]
 
@@ -686,7 +686,7 @@ Or rather...[pcms]
 [ns]Kato[nse]
 Wh-where... am I...?[pcms]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 
 [se0 storage="se021"]
 
@@ -698,9 +698,9 @@ Wh-where... am I...?[pcms]
 
 ;//blackout
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
@@ -709,21 +709,21 @@ Wh-where... am I...?[pcms]
 
 
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn22 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn22 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;//â€»ã‚²ãƒ¼ãƒ ã‚ªãƒ¼ãƒãƒ¼
+;//¦ƒQ[ƒ€ƒI[ƒo[
 
 ;;;[sysbt_meswin clear]
 

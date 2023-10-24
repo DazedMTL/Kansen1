@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02101ã€å²¸ç”°ã€
-;//BG:è¦–è´è¦šå®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…ãƒ»å²¸ç”°
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02101wŠİ“cx
+;//BG:‹’®ŠoºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DE’|“àEŠİ“c
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02101_TOP
-;[debug_win]ãªã†ã€€02101[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02101 = 1"]
+;[debug_win]‚È‚¤@02101[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02101 = 1"]
 
-;*SceneSet|ã€å²¸ç”°ã€
+;*SceneSet|wŠİ“cx
 
 ;//[02101]
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 ;//[bgm003]
 ;//BG:bg015c
 [bg storage="bg15d"]
@@ -29,7 +29,7 @@
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v833|
 [fc]
@@ -52,7 +52,7 @@ What about Shinya?[pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std225|
 [fc]
 [ns]Takeuchi[nse]
@@ -72,7 +72,7 @@ His eyes weren't normal... Maybe he's on some dangerous[r]drugs.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v834|
 [fc]
@@ -109,7 +109,7 @@ For now, we should report to Teacher Shindou and have the[r]police come as well.
 [fc]
 Just as we were about to suggest that, suddenly, the door[r]opened.[pcms]
 
-;//SE:æ‰‰ã‚’é–‹ã
+;//SE:”à‚ğŠJ‚­
 [se0 storage="se008"]
 
 [ChrSetEx layer=1 chbase="yuu_c_e_13"]
@@ -117,7 +117,7 @@ Just as we were about to suggest that, suddenly, the door[r]opened.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_e_14"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v835|
 [fc]
@@ -134,7 +134,7 @@ Yamagishi-san stood in front of me and as I turned my gaze[r]towards the door, t
 [ChrSetParts layer=1 chface="kisi_b_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std226|
 [fc]
 [ns]Kishida[nse]
@@ -154,7 +154,7 @@ Kishida seems to have been injured somewhere, as his face is[r]contorted in pain
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v836|
 [fc]
@@ -167,7 +167,7 @@ W-What's wrong with that...?[pcms]
 [ChrSetParts layer=1 chface="kisi_b_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std227|
 [fc]
 [ns]Kishida[nse]
@@ -179,7 +179,7 @@ Without his usual loud voice, Kishida weakly and painfully[r]uttered those words
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [se0 storage="se021"]
 
 [quake_bg xy m]
@@ -199,7 +199,7 @@ Feeling a sense of unease from those words, I approached[r]Kishida, who was brea
 Those guys, didn't they have strange eyes?[l][er]
 Like they lacked vitality...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std228|
 [fc]
 [ns]Kishida[nse]
@@ -226,7 +226,7 @@ If they come in large numbers, Shinya and I won't be able to[r]protect Yamagishi
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v837|
 [fc]
@@ -244,7 +244,7 @@ I'll go inform Shindou-sensei and ask her to call the[r]police.[pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std229|
 [fc]
 [ns]Takeuchi[nse]
@@ -262,7 +262,7 @@ Before that happens, we should either escape together or[r]report to the police.
 [ChrSetParts layer=1 chface="take_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std230|
 [fc]
 [ns]Takeuchi[nse]
@@ -295,12 +295,12 @@ Without waiting for Shinya's response, I dashed out of the[r]audiovisual room an
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//[02102]ã¸
+;//[02102]‚Ö
 [jump target=*02102_TOP storage="02102.ks"]
 

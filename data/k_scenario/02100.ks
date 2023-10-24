@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02100ã€ææ€–ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02100w‹°•|x
+;//BG:“Áê‹³º˜L‰ºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DE’|“à
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02100_TOP
-;[debug_win]ãªã†ã€€02100[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02100 = 1"]
+;[debug_win]‚È‚¤@02100[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02100 = 1"]
 
-;*SceneSet|ã€ææ€–ã€
+;*SceneSet|w‹°•|x
 
 ;//[02100]
 
-;//â™ªï¼šBGM003
+;//ôFBGM003
 ;//[bgm003]
 ;//BG:bg003a
 ;//[bg storage="bg03a"]
@@ -38,7 +38,7 @@ I was at a loss for words and took a few steps back, when I[r]noticed that Yamag
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v830|
 [fc]
@@ -46,7 +46,7 @@ I was at a loss for words and took a few steps back, when I[r]noticed that Yamag
 [ns]Yamagishi[nse]
 Shall we run away...?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v831|
 [fc]
@@ -69,7 +69,7 @@ When I turned around to check the distance between me and[r]the man, I saw Shiny
 Shinya! What are you doing, get up![l][er]
 We need to run!! Quickly!![pcms]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 *2025|
@@ -80,7 +80,7 @@ I hurried towards the audiovisual room, confirming that[r]Shinya, staggering and
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v832|
 [fc]
@@ -98,12 +98,12 @@ What the hell!? What's with that guy!![pcms]
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//[02101]ã¸
+;//[02101]‚Ö
 [jump target=*02101_TOP storage="02101.ks"]
 

@@ -1,44 +1,44 @@
 
-;//ã€†ãƒ–ãƒ­ãƒƒã‚¯No.08240ã€08253ã€œ08259ã¾ã§æ¬ ç•ª
+;//YƒuƒƒbƒNNo.08240A08253`08259‚Ü‚ÅŒ‡”Ô
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08260ã€åˆæµã€
-;//BG:äºŒéšå»Šä¸‹ï¼šæœï¼ˆãƒ—ãƒ­ãƒƒãƒˆå¤‰æ›´ï¼‰
-;//BG:äºŒéšæ•™å®¤ï¼šæœï¼ˆè¦–è´è¦šå®¤ã‹ã‚‰å¤‰æ›´ï¼‰
-;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»ç«¹å†…ãƒ»å„ªãƒ»ç³ãƒ»ãƒªã‚µãƒ»æœ‹ç¾ãƒ»ç”°ä¸­
+;//¡ËƒuƒƒbƒN08260w‡—¬x
+;//BG:“ñŠK˜L‰ºF’©iƒvƒƒbƒg•ÏXj
+;//BG:“ñŠK‹³ºF’©i‹’®Šoº‚©‚ç•ÏXj
+;//“oêl•¨FålŒöE’|“àE—DE“µEƒŠƒTE•ü”üE“c’†
 
 
 
-;mm ã“ã®ãƒ•ã‚¡ã‚¤ãƒ«ã ã‘TOP_Hã«ãªã£ã¦ãŸã®ã§ä»–ã¨åˆã‚ã›ã‚‹ã€‚ã“ã“ã¸ã®ã‚¸ãƒ£ãƒ³ãƒ—å‘½ä»¤ã‚‚ä¿®æ­£æ¸ˆã¿
+;mm ‚±‚Ìƒtƒ@ƒCƒ‹‚¾‚¯TOP_H‚É‚È‚Á‚Ä‚½‚Ì‚Å‘¼‚Æ‡‚í‚¹‚éB‚±‚±‚Ö‚ÌƒWƒƒƒ“ƒv–½—ß‚àC³Ï‚İ
 *08260_H_TOP
-;[debug_win]ãªã†ã€€08260_H[debug_win_end]
+;[debug_win]‚È‚¤@08260_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [eval exp="sf.SRP46 = 1"][if exp="tf.scene_mode == 0"][jump target=*08260][endif]
 ;;[winset]
 [bgm007]
 [jump target=*scene_start]
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
 [bgm007]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *08260
 
-;*SceneSet|ã€åˆæµã€
+;*SceneSet|w‡—¬x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08260 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08260 = 1"]
 
-;//flag:ä¸»äººå…¬æ„ŸæŸ“ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼”ã€€è¡¨ç¤º
-;//â™ªï¼šBGM007
+;//flag:ålŒöŠ´õƒ‹[ƒgƒtƒ[@‚S@•\¦
+;//ôFBGM007
 ;//[bgm007]
-;//;//BG:bgç„¡ã—
+;//;//BG:bg–³‚µ
 
 
 
@@ -82,11 +82,11 @@ right now... Tell them to make it disappear...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std690|
 [fc]
 [ns]Takeuchi[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *10392|
 [fc]
@@ -98,7 +98,7 @@ But still, it's so bright... and hot...[pcms]
 [fc]
 It's hot... It's bright... It's hot...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std691|
 [fc]
 [ns]Takeuchi[nse]
@@ -125,7 +125,7 @@ and take a look...[pcms]
 
 ;//blackout
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 ;//;//BG:bg10a
@@ -138,7 +138,7 @@ and take a look...[pcms]
 [ChrSetParts layer=1 chface="risa_a_a_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3771|
 [fc]
@@ -153,7 +153,7 @@ It was quite shocking.[pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3772|
 [fc]
@@ -165,7 +165,7 @@ Hey~... U-tan... How about we do something naughty soon?[pcms]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std692|
 [fc]
 [ns]Tanaka[nse]
@@ -189,7 +189,7 @@ He is talking towards the wall...[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3773|
 [fc]
@@ -204,7 +204,7 @@ Oh my, you guys are late... That's not good...[pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3774|
 [fc]
@@ -222,7 +222,7 @@ Those are the kids I brought earlier...[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std693|
 [fc]
 [ns]Takeuchi[nse]
@@ -234,7 +234,7 @@ so... I brought them along...[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std694|
 [fc]
 [ns]Tanaka[nse]
@@ -250,7 +250,7 @@ Who were they talking to... And their face, it's irritating[r]somehow...[pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3775|
 [fc]
@@ -263,7 +263,7 @@ Alright, let's do it!![pcms]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std695|
 [fc]
 [ns]Tanaka[nse]
@@ -273,7 +273,7 @@ Yeah, I understand...[pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3776|
 [fc]
@@ -303,7 +303,7 @@ That's right... There's no doubt about it...[pcms]
 [ChrSetParts layer=1 chface="risa_a_a_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3777|
 [fc]
@@ -322,7 +322,7 @@ Should I release it?[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std696|
 [fc]
 [ns]Takeuchi[nse]
@@ -339,7 +339,7 @@ right?[pcms]
 [ChrSetParts layer=1 chface="risa_a_c_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3778|
 [fc]
@@ -352,7 +352,7 @@ Hehe... That's not it...[pcms]
 [ns]Kato[nse]
 So, what are we going to do?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3779|
 [fc]
@@ -478,7 +478,7 @@ Oh, I see... Well then, I'll try to hold back...[pcms]
 [ns]Kato[nse]
 It's about time to start... I'll show you this short-haired[r]girl over here.[pcms]
 
-;//SE:ãƒ™ãƒ«ãƒˆã‚’ã¯ãšã™
+;//SE:ƒxƒ‹ƒg‚ğ‚Í‚¸‚·
 
 [se0 storage="se066"]
 
@@ -553,7 +553,7 @@ Come on... Start masturbating, okay?[pcms]
 [ns]Kato[nse]
 Understood...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
@@ -675,15 +675,15 @@ something flew at me! It's disgusting!![pcms]
 [ns]Kato & Takeuchi[nse]
 Ah, it's coming out...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -787,7 +787,7 @@ Yaaahhhhhhh!![pcms]
 
 *10436|
 [fc]
-â€¦â€¦â€¦â€¦ã€‚ â€¦â€¦â€¦ã€‚[pcms]
+ccccB cccB[pcms]
 
 *10437|
 [fc]
@@ -820,32 +820,32 @@ Let's go back to sleep again.[pcms]
 
 ;//blackout
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn47 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn47 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;//â€»æ¡ä»¶åˆ†å²
-;//ãƒ»flag:å„ªã€€ãŒON;//[08270]ã¸
-;//ãƒ»flag:ç³ã€€ãŒON;//[08300]ã¸
+;//¦ğŒ•ªŠò
+;//Eflag:—D@‚ªON;//[08270]‚Ö
+;//Eflag:“µ@‚ªON;//[08300]‚Ö
 
-;BGMåœæ­¢
+;BGM’â~
 [fadeoutbgm time=500]
 
 [if exp="f.YUU_F==1"]

@@ -1,16 +1,16 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05010ã€ç³ã«è¿½ã„ã¤ãã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šç‚¹ç¯ï¼šå¤œ
-;//ï¼ˆå„ªãƒ«ãƒ¼ãƒˆã®ç‰¹æ®Šæ•™å®¤å»Šä¸‹ã¨ã¯åˆåˆ¥ã®å»Šä¸‹ã‚’ç”¨æ„ã—ã¦æœ‰ã‚Šã¾ã™ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05010w“µ‚É’Ç‚¢‚Â‚­x
+;//BG:“Áê‹³º˜L‰ºF“_“”F–é
+;//i—Dƒ‹[ƒg‚Ì“Áê‹³º˜L‰º‚Æ‚Í–”•Ê‚Ì˜L‰º‚ğ—pˆÓ‚µ‚Ä—L‚è‚Ü‚·j
+;//“oêl•¨GålŒöE“µ
 
 *05010_TOP
-;[debug_win]ãªã†ã€€05010[debug_win_end]
-;*SceneSet|ã€ç³ã«è¿½ã„ã¤ãã€
+;[debug_win]‚È‚¤@05010[debug_win_end]
+;*SceneSet|w“µ‚É’Ç‚¢‚Â‚­x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05010 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05010 = 1"]
 
-;//â™ªï¼šBGM005
+;//ôFBGM005
 
 [bgm005]
 
@@ -29,7 +29,7 @@ I quickly left the audiovisual room and caught up with[r]Saeki, who was walking 
 [bg storage="bg05c"]
 [trans_c cross time=500]
 
-;//SE:å»Šä¸‹ã‚’æ­©ã
+;//SE:˜L‰º‚ğ•à‚­
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -39,7 +39,7 @@ I quickly left the audiovisual room and caught up with[r]Saeki, who was walking 
 
 ;;;[sysbt_meswin]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1999|
 [fc]
@@ -50,7 +50,7 @@ Ugh...[pcms]
 *4625|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4626|
 [fc]
@@ -66,7 +66,7 @@ Forgetting my initial intention of accompanying the scared[r]Saeki, I decided to
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2000|
 [fc]
@@ -79,7 +79,7 @@ I absolutely refuse to acknowledge such unscientific[r]things...[pcms]
 *4628|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4629|
 [fc]
@@ -94,7 +94,7 @@ Saeki, as if trying to convince herself, muttered to herself[r]that she shouldn'
 How much of a scaredy-cat are you...?[l][er]
 Could it be that Saeki, when you're home alone, you talk to[r]your stuffed animals...?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2001|
 [fc]
@@ -124,34 +124,34 @@ I desperately covered my mouth to hold it in.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//â€»é¸æŠè‚¢
-;//ãƒ»ãã¬ã…â€¦â€¦è€ãˆã‚â€¦â€¦è€ãˆã‚‹ã‚“ã â€¦â€¦;//[05011]ã¸
-;//ãƒ»ç¬‘ã†ãªï¼ã€€ã“ã‚‰ãˆã‚ï¼ã€€ã¯ã‚“ã«ã‚ƒãƒ¼ã¯ãƒ¼ã‚‰ãƒ¼â€¦â€¦;//[05012]ã¸
+;//¦‘I‘ğˆ
+;//E‚®‚Ê‚£cc‘Ï‚¦‚ëcc‘Ï‚¦‚é‚ñ‚¾cc;//[05011]‚Ö
+;//EÎ‚¤‚ÈI@‚±‚ç‚¦‚ëI@‚Í‚ñ‚É‚á[‚Í[‚ç[cc;//[05012]‚Ö
 
 ;;;;[sysbt_meswin clear]
 
 *SEL_05010
 
 
-*SEL01|ãã¬ã…â€¦â€¦è€ãˆã‚â€¦â€¦è€ãˆã‚‹ã‚“ã ï¼ç¬‘ã†ãªï¼ã€€ã“ã‚‰ãˆã‚ï¼ã€€ã¯ã‚“ã«ã‚ƒãƒ¼ã¯ãƒ¼ã‚‰ãƒ¼
+*SEL01|‚®‚Ê‚£cc‘Ï‚¦‚ëcc‘Ï‚¦‚é‚ñ‚¾^Î‚¤‚ÈI@‚±‚ç‚¦‚ëI@‚Í‚ñ‚É‚á[‚Í[‚ç[
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'ãã¬ã…â€¦â€¦è€ãˆã‚â€¦â€¦è€ãˆã‚‹ã‚“ã â€¦â€¦'"]
-[eval exp="f.seltext04 = 'ç¬‘ã†ãªï¼ã€€ã“ã‚‰ãˆã‚ï¼ã€€ã¯ã‚“ã«ã‚ƒãƒ¼ã¯ãƒ¼ã‚‰ãƒ¼â€¦â€¦'"]
+[eval exp="f.seltext02 = '‚®‚Ê‚£cc‘Ï‚¦‚ëcc‘Ï‚¦‚é‚ñ‚¾cc'"]
+[eval exp="f.seltext04 = 'Î‚¤‚ÈI@‚±‚ç‚¦‚ëI@‚Í‚ñ‚É‚á[‚Í[‚ç[cc'"]
 
-[if exp="tf.sys_sub == 0 || tf.é¸æŠè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
-	;é¸æŠè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
+[if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
+	;‘I‘ğˆ“à—e‚ğƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[å±¥æ­´å‡ºåŠ›å¾©å¸°]
+[—š—ğo—Í•œ‹A]
 
-;é¸æŠè‚¢ãƒ™ãƒ¼ã‚¹
+;‘I‘ğˆƒx[ƒX
 [selbase]
-;æ–‡å­—ã®å·¦ãƒãƒ¼ã‚¸ãƒ³
+;•¶š‚Ì¶ƒ}[ƒWƒ“
 [eval exp="sf.seltext_x = 200"]
 
 [sel02 target=*SEL_TAERU]

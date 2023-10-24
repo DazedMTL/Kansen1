@@ -1,11 +1,11 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05500ã€ç‹‚ä¹±æ•™å®¤ï¼’ã€
-;//;//BG:æ•™å®¤ï¼šå¤•æ–¹ï¼›æ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»æ„ŸæŸ“ç”°ä¸­ãƒ»æ„ŸæŸ“æœ‹ç¾ãƒ»æ„ŸæŸ“å²¸ç”°
-;//ãƒ»ãƒªã‚µãƒ»æ„ŸæŸ“å„ª
+;//¡ËƒuƒƒbƒN05500w‹¶—‹³º‚Qx
+;//;//BG:‹³ºF—[•ûGÁ“”
+;//“oêl•¨GålŒöE“µEŠ´õ“c’†EŠ´õ•ü”üEŠ´õŠİ“c
+;//EƒŠƒTEŠ´õ—D
 
 *05500_H_TOP
-;[debug_win]ãªã†ã€€05500_H[debug_win_end]
+;[debug_win]‚È‚¤@05500_H[debug_win_end]
 
 [eval exp="sf.SRP26 = 1"][if exp="tf.scene_mode == 0"][jump target=*05500_H][endif]
 ;;[winset]
@@ -13,9 +13,9 @@
 
 *05500_H
 
-;*SceneSet|ã€ç‹‚ä¹±æ•™å®¤ï¼’ã€
+;*SceneSet|w‹¶—‹³º‚Qx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05500 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05500 = 1"]
 
 
 
@@ -25,17 +25,17 @@
 
 *scene_start
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 [bgm008]
 
 ;//H_CG
 [evcg storage="HEV_103_a"]
 [trans_c cross time=500]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 [se0 storage="se059" loop=true]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 [se1 storage="se061" loop=true]
 
 
@@ -87,13 +87,13 @@ higuu!! ... Don't pinch them, please...[pcms]
 *5574|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *v2306|
 [fc]
 [vo_sa s="sae0524"]
 [ns]Saeki[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *5575|
 [fc]
@@ -167,10 +167,10 @@ Don't bite my nipples...!![pcms]
 Ahh...? Just now... you put it in my pussy...[l][er]
 and then... you're asking me to thank you...?[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 [stop_se1]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
 [se1 storage="se060" loop=true]
 
 ;;;[sysbt_meswin clear]
@@ -360,12 +360,12 @@ Look, Saeki-san...!! Look at the moment when Sensei cums!![pcms]
 [fc]
 [vo_sa s="sae0526"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@’x‚¢@’â~
 [stop_se1]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 [se0 storage="se061" loop=true]
 
 *5597|
@@ -398,7 +398,7 @@ I-it, hiiii!! Hiaaa, aaaah!! Naaaah, higuuuu!![pcms]
 [fc]
 [vo_ya s="yama0831"]
 [ns]Yamagishi[nse]
-Nn, jyuu... hea, hamu... nnn~[pcms]
+Nn, jyuu... hea, hamu...  nnn~[pcms]
 
 *5600|
 [fc]
@@ -454,13 +454,13 @@ Ku, ahh...[pcms]
 [ns]Shindou[nse]
 Hiaahh!![pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 [stop_se1]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 [stop_se0]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 [se0 storage="se062"]
 
 ;;;[sysbt_meswin clear]
@@ -496,7 +496,7 @@ Yuuji pulled out from the teacher's pussy just before[r]climax, and his cock con
 [fc]
 Kishida held Igarashi-san's head down, inserted his own[r]thing into her mouth all the way to the base, and shook his[r]hips a few times.[pcms]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -547,7 +547,7 @@ Shindou-sensei, on the other hand, had her face and body[r]covered in semen and 
 Ahaha... It looks delicious...[pcms]
 
 
-; å›æƒ³ãƒ¢ãƒ¼ãƒ‰ä¸­ãªã‚‰ã€å›æƒ³ãƒ¢ãƒ¼ãƒ‰ç”»é¢ã«æˆ»ã‚‹
+; ‰ñ‘zƒ‚[ƒh’†‚È‚çA‰ñ‘zƒ‚[ƒh‰æ–Ê‚É–ß‚é
 [if exp="tf.scene_mode==true"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
@@ -594,7 +594,7 @@ I suddenly felt a sense of fear and my body froze, unable to[r]move, as I wonder
 *5615|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *v2340|
 [fc]
@@ -616,5 +616,5 @@ I suddenly felt a sense of fear and my body froze, unable to[r]move, as I wonder
 
 
 
-;//[05510]ã¸
+;//[05510]‚Ö
 [jump target=*05510_H_TOP storage="05510_H.ks"]

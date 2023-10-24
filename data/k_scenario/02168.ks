@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02168ã€è„±å‡ºã€
-;//BG:ç©ºï¼šæœ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»æ•‘åŠ©éƒ¨éšŠéšŠå“¡
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02168w’Eox
+;//BG:‹óF’©
+;//“oêl•¨GålŒöE—DE‹~••”‘à‘àˆõ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02168_TOP
-;[debug_win]ãªã†ã€€02168[debug_win_end]
+;[debug_win]‚È‚¤@02168[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02168 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02168 = 1"]
 
-;*SceneSet|ã€è„±å‡ºã€
+;*SceneSet|w’Eox
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 
 [fadeoutbgm time=500]
 
@@ -23,7 +23,7 @@
 [bg storage="bg20a"]
 [trans_c cross time=500]
 
-;//SE:ãƒ˜ãƒªã‚³ãƒ—ã‚¿ãƒ¼ã®ä¸­
+;//SE:ƒwƒŠƒRƒvƒ^[‚Ì’†
 
 [se0 storage="se035a" loop=true]
 
@@ -45,7 +45,7 @@ I wonder if I'm riding in a car or something...[pcms]
 [fc]
 I felt the sensation of my left hand being held, so I turned[r]my face towards it, and there was Yamagishi-san's crying[r]face.[pcms]
 
-;//â€»çµµç„¡ã—
+;//¦ŠG–³‚µ
 
 *v1177|
 [fc]
@@ -58,7 +58,7 @@ Kato-kun...![pcms]
 [ns]Kato[nse]
 Yamagishi-san...[pcms]
 
-;//â€»çµµç„¡ã—
+;//¦ŠG–³‚µ
 
 *v1178|
 [fc]
@@ -71,7 +71,7 @@ Thank goodness we're safe...[pcms]
 [ns]Kato[nse]
 Thank goodness...[pcms]
 
-;//â€»çµµç„¡ã—
+;//¦ŠG–³‚µ
 
 *v1179|
 [fc]
@@ -82,7 +82,7 @@ Yeah, we're saved... We can go home together...[pcms]
 *3048|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *3049|
 [fc]
@@ -92,9 +92,9 @@ I feel relieved, and suddenly I'm getting sleepy...[pcms]
 *3050|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
-;//â€»çµµç„¡ã—
+;//¦ŠG–³‚µ
 
 *v1180|
 [fc]
@@ -106,7 +106,7 @@ Wake up! Kato-kun!![pcms]
 *3051|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 ;[fadeoutbgm time=500]
 
@@ -119,7 +119,7 @@ Wake up! Kato-kun!![pcms]
 ;;;[sysbt_meswin]
 
 ;//blackout
-;SEãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ ã“ã‚Œä½¿ç”¨ã—ãŸå¾Œã®pcmsã®å¾Œã‚ã§stopseã—ã¦ãã ã•ã„ã€‚ãƒ­ãƒ¼ãƒ‰ã™ã‚‹ã¨æ­¢ã‚ãŸã®ã«ã¾ãŸé³´ã£ã¦ã‚‹ã‹ã‚‰ã€‚
+;SEƒtƒF[ƒhƒAƒEƒg ‚±‚êg—p‚µ‚½Œã‚Ìpcms‚ÌŒã‚ë‚Åstopse‚µ‚Ä‚­‚¾‚³‚¢Bƒ[ƒh‚·‚é‚Æ~‚ß‚½‚Ì‚É‚Ü‚½–Â‚Á‚Ä‚é‚©‚çB
 [fadeoutse buf=0 time=1000]
 
 *v1181|
@@ -128,7 +128,7 @@ Wake up! Kato-kun!![pcms]
 [ns]Yamagishi[nse]
 Yaaaaaaaah!! Kato-kun!![pcms]
 
-;ã‚·ã‚¹ãƒ†ãƒ ãƒœã‚¿ãƒ³ï¼†ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;ƒVƒXƒeƒ€ƒ{ƒ^ƒ“•ƒEƒBƒ“ƒhƒEÁ‹
 [sysbt_meswin clear]
 
 [wait_c time=1500]
@@ -137,5 +137,5 @@ Yaaaaaaaah!! Kato-kun!![pcms]
 ;;;[sysbt_meswin clear]
 
 
-;//[02169]ã¸
+;//[02169]‚Ö
 [jump target=*02169_TOP storage="02169.ks"]

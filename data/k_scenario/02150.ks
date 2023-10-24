@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02150ã€ä¸‰éšå°é–ã€
-;//BG:ä¸‰éšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰ï¼šå¤•æ–¹
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02150wOŠK••½x
+;//BG:OŠK˜L‰ºFƒoƒŠƒP[ƒhF—[•û
+;//“oêl•¨GålŒöE—DEƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02150_TOP
-;[debug_win]ãªã†ã€€02150[debug_win_end]
+;[debug_win]‚È‚¤@02150[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02150 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02150 = 1"]
 
-;*SceneSet|ã€ä¸‰éšå°é–ã€
+;*SceneSet|wOŠK••½x
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 [bgm007]
 
@@ -60,7 +60,7 @@ I shook my head to drive away my foolish delusions.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1050|
 [fc]
@@ -74,7 +74,7 @@ Kato-kun, are you okay? Feeling unwell?[pcms]
 Ah, no... What about Yamagishi-san?[l][er]
 Did she get hurt or something?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1051|
 [fc]
@@ -86,7 +86,7 @@ Yeah, I'm fine...[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1052|
 [fc]
@@ -106,7 +106,7 @@ Because of what I saw earlier, neither Yamagishi-san nor I[r]could look at Shind
 [fc]
 Shindou-sensei seemed to feel the same way, as she kept her[r]head down and spoke.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1053|
 [fc]
@@ -139,7 +139,7 @@ Shindou-sensei silently took out a key from her skirt pocket[r]and handed it to 
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1054|
 [fc]
@@ -151,7 +151,7 @@ I'll be right back. After that, we'll take care of[r]monitoring the fire doors a
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1055|
 [fc]
@@ -166,7 +166,7 @@ Shindou-sensei, looking tired, said that and immediately[r]entered the nearby cl
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -174,5 +174,5 @@ Shindou-sensei, looking tired, said that and immediately[r]entered the nearby cl
 
 ;//blackout
 
-;//[02151]ã¸
+;//[02151]‚Ö
 [jump target=*02151_TOP storage="02151.ks"]

@@ -1,23 +1,23 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07380ã€æ•‘å‡ºã€
-;//BG:å±‹ä¸Šï¼šå¤•æ–¹ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN07380w‹~ox
+;//BG:‰®ãF—[•ûFÁ“”
+;//“oêl•¨GålŒöE“µ
 
 *07380_TOP
-;[debug_win]ãªã†ã€€07380[debug_win_end]
-;*SceneSet|ã€æ•‘å‡ºã€
+;[debug_win]‚È‚¤@07380[debug_win_end]
+;*SceneSet|w‹~ox
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07380 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07380 = 1"]
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 
 [bgm009]
 
-;//SE;ã‚µã‚¤ãƒ¬ãƒ³ã€€ãƒ«ãƒ¼ãƒ—
+;//SE;ƒTƒCƒŒƒ“@ƒ‹[ƒv
 [se1 storage="se051" loop=true]
 
 
-;//;//BG:bgç„¡ã—
+;//;//BG:bg–³‚µ
 
 *8505|
 [fc]
@@ -58,7 +58,7 @@ Is this the influence of the riots they were talking about[r]on the radio...!?[p
 [ChrSetParts layer=1 chface="sae_c_d_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3339|
 [fc]
@@ -73,7 +73,7 @@ Maybe... it's because of the riots they were talking about[r]on the radio...[l][
 our town was set on fire... damn it!![l][er]
 Is my house okay!?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3340|
 [fc]
@@ -103,13 +103,13 @@ Shit!! Please be safe...[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3341|
 [fc]
 [vo_sa s="sae1137"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *8513|
 [fc]
@@ -117,7 +117,7 @@ Shit!! Please be safe...[pcms]
 What's wrong!? Don't be so down...[l][er]
 I'm here with you... We'll definitely make it back home[r]safely together!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3342|
 [fc]
@@ -143,7 +143,7 @@ Are you okay!?[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3343|
 [fc]
@@ -152,7 +152,7 @@ Are you okay!?[pcms]
 No... nothing happened to me. But, I was scratched by the[r]teacher's nails...[l][er]
 and there was blood... That's all...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3344|
 [fc]
@@ -170,7 +170,7 @@ When I looked down at Saeki's feet, her stockings were torn[r]and there was a li
 Thank goodness, it's hard to say...[l][er]
 but with just a graze like this, it doesn't seem like it[r]would hinder us from running.[pcms]
 
-;//SE:ãƒ˜ãƒªã‚³ãƒ—ã‚¿ãƒ¼ã®éŸ³ã€€é ã„
+;//SE:ƒwƒŠƒRƒvƒ^[‚Ì‰¹@‰“‚¢
 [se0 storage="se033"]
 
 *8518|
@@ -183,7 +183,7 @@ Could this be... perhaps...?[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3345|
 [fc]
@@ -206,7 +206,7 @@ It's getting closer to us. Could it be that they came to[r]rescue us...?[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3346|
 [fc]
@@ -222,7 +222,7 @@ We're saved, we're saved!! Hahaha![l][er]
 Saeki!! We can escape from here!![l][er]
 Hahaha![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3347|
 [fc]
@@ -231,7 +231,7 @@ Hahaha![pcms]
 Eh! It's getting closer and closer to us!![l][er]
 We're saved... we'll be saved!![pcms]
 
-;//SE:ãƒ˜ãƒªã‚³ãƒ—ã‚¿ãƒ¼ã®éŸ³ã€€è¿‘ã„
+;//SE:ƒwƒŠƒRƒvƒ^[‚Ì‰¹@‹ß‚¢
 [se0 storage="se034"]
 
 *8522|
@@ -256,7 +256,7 @@ Saeki... What are they saying?[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3348|
 [fc]
@@ -275,7 +275,7 @@ What? Non-infected...?[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3349|
 [fc]
@@ -291,7 +291,7 @@ I'm not sure... but I think raising our hands would make it[r]easier for them to
 That's right!! Let's make ourselves even more noticeable,[r]maybe by jumping!![l][er]
 Hahaha! Hey!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3350|
 [fc]
@@ -308,7 +308,7 @@ The sound of the helicopter's propellers spinning is getting[r]closer and closer
 [fc]
 The helicopter, possibly having found us, came closer and[r]hovered in the air.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3351|
 [fc]
@@ -357,25 +357,25 @@ We're saved!![pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[07390]ã¸
+;//[07390]‚Ö
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07380ã€è¿·å®®ã€
-;//;//BG:ç©ºï¼šå¤•æ–¹
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»ãƒ˜ãƒªã®ãƒ‘ã‚¤ãƒ­ãƒƒãƒˆ
+;//¡ËƒuƒƒbƒN07380w–À‹{x
+;//;//BG:‹óF—[•û
+;//“oêl•¨GålŒöE“µEƒwƒŠ‚ÌƒpƒCƒƒbƒg
 
 ;//[07390]
-;*SceneSet|ã€è¿·å®®ã€
+;*SceneSet|w–À‹{x
 
-;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€badendï¼–ï¼ˆbadï¼–ï¼‰ã€€è¡¨ç¤º
+;//flag:“µƒ‹[ƒgƒtƒ[@badend‚Uibad‚Uj@•\¦
 
-;//â™ªï¼šBGM011
+;//ôFBGM011
 
 [bgm011]
 
-;//SE:ãƒ˜ãƒªã‚³ãƒ—ã‚¿ãƒ¼ã®ä¸­
+;//SE:ƒwƒŠƒRƒvƒ^[‚Ì’†
 [se1 storage="se035" loop=true]
 
-;//;//BG:ç©º
+;//;//BG:‹ó
 
 [bg storage="bg20b"]
 [trans_c cross time=500]
@@ -486,7 +486,7 @@ Leaving behind Yamagishi-san and the others, only us...[pcms]
 *8557|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *8558|
 [fc]
@@ -534,7 +534,7 @@ I couldn't help but call out to Saeki, wanting to show her[r]this beautiful even
 [fc]
 ... That's when I first noticed Saeki's change.[pcms]
 
-;//â™ªï¼šBGM011ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM011ƒtƒF[ƒhƒAƒEƒg
 [fadeoutbgm time=500]
 
 ;;;[sysbt_meswin clear]
@@ -606,7 +606,7 @@ Saeki interrupts my words and screams.[pcms]
 
 
 
-;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM008ƒtƒF[ƒhƒCƒ“
 [bgm008]
 
 [evcg storage="EV_104_b"]
@@ -722,7 +722,7 @@ W-What the hell... Don't point your gun at me...[pcms]
 *8592|
 [fc]
 [ns]Soldier[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *8593|
 [fc]
@@ -737,7 +737,7 @@ This girl... she's just teasing us...[pcms]
 *8595|
 [fc]
 [ns]Soldier[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *8596|
 [fc]
@@ -774,7 +774,7 @@ Why are you pointing your gun at us...!?[pcms]
 Hahahaha!! P-Please, come closer to me![l][er]
 Ahahaha!! Uwaaaah!! Hahahaha![pcms]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 *8600|
@@ -814,7 +814,7 @@ Saeki, laughing loudly.[pcms]
 [fc]
 The soldier remains expressionless, not even flinching as he[r]watches Saeki jump at him.[pcms]
 
-;//SE:éŠƒå£°ï¼ˆæ‹³éŠƒï¼‰
+;//SE:eºiŒej
 [se0 storage="se039"]
 [flash_wh]
 
@@ -831,7 +831,7 @@ ahahahaha!! Hahahaha... hahahahaha...[l][er]
 hehehehehehe...!![pcms]
 Hahahahaha, ah[l][er]
 
-;//SE:éŠƒå£°ï¼ˆæ‹³éŠƒï¼‰
+;//SE:eºiŒej
 [se0 storage="se039"]
 [flash_wh]
 
@@ -859,7 +859,7 @@ Saeki's laughter came to a sudden stop, perfectly in sync[r]with the second guns
 [fc]
 Saeki's beautiful face disappeared somewhere, along with the[r]second gunshot.[pcms]
 
-;//SE:éŠƒå£°ï¼ˆæ‹³éŠƒï¼‰
+;//SE:eºiŒej
 [se0 storage="se039"]
 [flash_wh]
 
@@ -937,7 +937,7 @@ Saeki... Saeki...!! Saeki----!![pcms]
 
 
 
-;//â™ªï¼šBGM008åœæ­¢
+;//ôFBGM008’â~
 [fadeoutbgm time=500]
 [stop_se0]
 [stop_se1]
@@ -946,7 +946,7 @@ Saeki... Saeki...!! Saeki----!![pcms]
 [evcg storage="EV_104_d"]
 [trans_c cross time=500]
 
-;//SE:éŠƒå£°ï¼ˆæ‹³éŠƒï¼‰
+;//SE:eºiŒej
 [se0 storage="se039"]
 [flash_wh]
 
@@ -954,8 +954,8 @@ Saeki... Saeki...!! Saeki----!![pcms]
 [trans_c cross time=150]
 [quake_bg y m]
 
-;//BG:bgç„¡ã—
-;//â€»ã‚²ãƒ¼ãƒ ã‚ªãƒ¼ãƒãƒ¼
+;//BG:bg–³‚µ
+;//¦ƒQ[ƒ€ƒI[ƒo[
 
 [bg storage="effect_white"][trans_c cross time=1001]
 
@@ -968,10 +968,10 @@ Saeki... Saeki...!! Saeki----!![pcms]
 	[jump target=*SEL00_TITLE]
 [endif]
 
-;//ãƒ ãƒ¼ãƒ“ãƒ¼å†ç”Ÿ
+;//ƒ€[ƒr[Ä¶
 [call storage="movie_sub.ks" target=*hitomi_zap_open]
 
-;//flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢
+;//flag:“µƒ‹[ƒgƒNƒŠƒA
 [eval exp="sf.g_hitomi_clear = 1"]
 
 ;-------------------------------------------------

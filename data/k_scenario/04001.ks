@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04001ã€ç”°ä¸­ã®æ€§ç™–ã€
-;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04001w“c’†‚Ì«•Èx
+;//BG:“n‚è˜L‰ºF–éFÁ“”
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04001_TOP
-;[debug_win]ãªã†ã€€04001[debug_win_end]
+;[debug_win]‚È‚¤@04001[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04001 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04001 = 1"]
 
-;*SceneSet|ã€ç”°ä¸­ã®æ€§ç™–ã€
+;*SceneSet|w“c’†‚Ì«•Èx
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 
 ;//[bgm001]
 
@@ -27,7 +27,7 @@
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1468|
 [fc]
@@ -67,7 +67,7 @@ Ah, well, you see, I wanted to be alone with you, so I chose[r]a place where no 
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1469|
 [fc]
@@ -97,7 +97,7 @@ So, could it be that you mentioned the 'gym storage room'?[pcms]
 [ChrSetParts layer=1 chface="yuu_c_c_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1470|
 [fc]
@@ -122,7 +122,7 @@ I entered the gymnasium with Yamagishi-san, who nodded in[r]agreement.[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -130,5 +130,5 @@ I entered the gymnasium with Yamagishi-san, who nodded in[r]agreement.[pcms]
 
 ;//blackout
 
-;//[04002]ã¸
+;//[04002]‚Ö
 [jump target=*04002_TOP storage="04002.ks"]

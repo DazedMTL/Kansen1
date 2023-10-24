@@ -1,26 +1,26 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02077ã€è¦–è´è¦šå®¤ï¼šç«¹å†…ãŒã„ã‚‹ã€
-;//BG:è¦–è´è¦šå®¤ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»ç«¹å†…
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02077w‹’®ŠoºF’|“à‚ª‚¢‚éx
+;//BG:‹’®ŠoºF–éF“_“”
+;//“oêl•¨GålŒöE—DEƒŠƒTE’|“à
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02077_TOP
-;[debug_win]ãªã†ã€€02077[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02077 = 1"]
+;[debug_win]‚È‚¤@02077[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02077 = 1"]
 
-;*SceneSet|ã€è¦–è´è¦šå®¤ã€
+;*SceneSet|w‹’®Šoºx
 
 ;//[02077]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg015c
 [bg storage="bg15c"]
 [trans_c cross time=500]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 [se0 storage="se008"]
 
 *1646|
@@ -36,7 +36,7 @@ We returned to the audiovisual room and were greeted by[r]Shinya, who was sittin
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std197|
 [fc]
 [ns]Takeuchi[nse]
@@ -48,7 +48,7 @@ Huh? Where did everyone go?[pcms]
 Where the hell did you guys go?![l][er]
 We've been searching for you all this time!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std198|
 [fc]
 [ns]Takeuchi[nse]
@@ -59,7 +59,7 @@ I just went to the bathroom. It's me.[pcms]
 [ns]Kato[nse]
 And besides, isn't it taking too long?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std199|
 [fc]
 [ns]Takeuchi[nse]
@@ -94,7 +94,7 @@ Does that mean he was using the restroom upstairs?[pcms]
 [ns]Kato[nse]
 Shinya, where were you in the bathroom?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std200|
 [fc]
 [ns]Takeuchi[nse]
@@ -124,7 +124,7 @@ Shinya briefly averted his gaze and smirked, twisting his[r]mouth as if mocking,
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std201|
 [fc]
 [ns]Takeuchi[nse]
@@ -148,7 +148,7 @@ I couldn't help but feel a chill at Takeuchi's laughter,[r]which seemed to be fi
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v694|
 [fc]
@@ -161,7 +161,7 @@ Have you spotted them anywhere?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std202|
 [fc]
 [ns]Takeuchi[nse]
@@ -175,7 +175,7 @@ Upon hearing Shinya's words, Teacher Shindou placed a hand[r]on her forehead and
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v695|
 [fc]
@@ -189,7 +189,7 @@ Perhaps we should contact the police...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std203|
 [fc]
 [ns]Takeuchi[nse]
@@ -204,7 +204,7 @@ Well, since Shinya has already returned, won't the other two[r]come back soon to
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v696|
 [fc]
@@ -212,6 +212,6 @@ Well, since Shinya has already returned, won't the other two[r]come back soon to
 [ns]Shindou[nse]
 I hope so...[pcms]
 
-;//[02078]ã¸
+;//[02078]‚Ö
 [jump target=*02078_TOP storage="02078.ks"]
 

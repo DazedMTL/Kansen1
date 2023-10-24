@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02095ã€ç«¹å†…ã®è¨€ã†ã¨ãŠã‚Šã€
-;//BG:è¦–è´è¦šå®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02095w’|“à‚ÌŒ¾‚¤‚Æ‚¨‚èx
+;//BG:‹’®ŠoºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DE’|“à
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02095_TOP
-;[debug_win]ãªã†ã€€02095[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02095 = 1"]
+;[debug_win]‚È‚¤@02095[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02095 = 1"]
 
-;*SceneSet|ã€ç«¹å†…ã®è¨€ã†ã¨ãŠã‚Šã€
+;*SceneSet|w’|“à‚ÌŒ¾‚¤‚Æ‚¨‚èx
 
 ;//[02095]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg015a
 ;//[bg storage="bg15a"]
@@ -44,7 +44,7 @@ As I watched Shinya sleeping in exasperation, Yamagishi-san[r]approached me with
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v803|
 [fc]
@@ -57,7 +57,7 @@ Hey, Kato-kun...[pcms]
 [ns]Kato[nse]
 Hm?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v804|
 [fc]
@@ -72,7 +72,7 @@ Maybe they're not feeling well or got injured, I have a[r]feeling that they're i
 Hmm... I understand how you feel, but I don't think there's[r]a need to worry that much.[l][er]
 If something happened at school, they could just let[r]Shindou-sensei or us know.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v805|
 [fc]
@@ -80,7 +80,7 @@ If something happened at school, they could just let[r]Shindou-sensei or us know
 [ns]Yamagishi[nse]
 But, maybe both of them are involved in some kind of[r]incident...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v806|
 [fc]
@@ -88,7 +88,7 @@ But, maybe both of them are involved in some kind of[r]incident...[pcms]
 [ns]Yamagishi[nse]
 And also... Hitomi-san... I wonder why she went home without[r]saying anything...[pcms]
 
-;//SE:ã‚¬ã‚¿ãƒƒ
+;//SE:ƒKƒ^ƒb
 [se0 storage="se023"]
 
 *1934|
@@ -101,7 +101,7 @@ It seemed like he kicked the desk while he was dozing off,[r]experiencing that t
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v807|
 [fc]
@@ -119,7 +119,7 @@ Seriously...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v808|
 [fc]
@@ -137,7 +137,7 @@ Well, he is the king of laughter at Suzugaoka High School,[r]after all.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v809|
 [fc]
@@ -163,7 +163,7 @@ She's usually such a reliable person...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v810|
 [fc]
@@ -183,7 +183,7 @@ Come to think of it, I can't hear the sound of the whistle[r]that I often hear d
 [fc]
 Certainly, it seems like yesterday only our film research[r]club was supposed to use the school, but we haven't been[r]informed if it's the same today.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v811|
 [fc]
@@ -205,12 +205,12 @@ Yamagishi-san continued to look outside the window with a[r]face that seemed unc
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//[02096]ã¸
+;//[02096]‚Ö
 [jump target=*02096_TOP storage="02096.ks"]
 

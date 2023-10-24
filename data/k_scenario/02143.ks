@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02143ã€å„ªã®æ°—ã«ãªã‚‹ç›¸æ‰‹ã¨ã¯ã€
-;//BG:å±‹ä¸Šï¼šå¤•æ–¹
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02143w—D‚Ì‹C‚É‚È‚é‘Šè‚Æ‚Íx
+;//BG:‰®ãF—[•û
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02143_TOP
-;[debug_win]ãªã†ã€€02143[debug_win_end]
+;[debug_win]‚È‚¤@02143[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02143 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02143 = 1"]
 
-;*SceneSet|ã€å„ªã®æ°—ã«ãªã‚‹ç›¸æ‰‹ã¨ã¯ã€
+;*SceneSet|w—D‚Ì‹C‚É‚È‚é‘Šè‚Æ‚Íx
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 
 [fadeoutbgm time=500]
 
@@ -22,7 +22,7 @@
 ;[bg storage="bg22e"]
 ;[trans_c cross time=500]
 
-;//SE:è™«ã®éŸ³ãƒ«ãƒ¼ãƒ—
+;//SE:’‚Ì‰¹ƒ‹[ƒv
 
 [se0 storage="se018"]
 
@@ -52,7 +52,7 @@ Yamagishi-san looked at me with a startled expression on her[r]face in response 
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1014|
 [fc]
@@ -80,7 +80,7 @@ I couldn't tell if she was angry because of me secretly[r]watching or not, as he
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1015|
 [fc]
@@ -107,7 +107,7 @@ I was watching from afar, and since it was just the two of[r]us on the rooftop, 
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1016|
 [fc]
@@ -123,7 +123,7 @@ Yamagishi-san remained silent, still looking down.[pcms]
 
 ;[stop_se0]
 
-;//[02145]ã¸
+;//[02145]‚Ö
 [jump target=*02145_TOP storage="02145.ks"]
 
 

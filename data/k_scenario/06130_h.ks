@@ -1,17 +1,17 @@
 
-;//â‡’ãƒ–ãƒ­ãƒƒã‚¯06130ã€å§«ã®ç‹¬ç™½ã€
-;//BG;ä½“è‚²æ•™å®˜å®¤ï¼šå¤œï¼šç‚¹ç¯
-;//BG;ç„¡ã—
-;//ç™»å ´äººç‰©ï¼›ãƒªã‚µãƒ»å„ª
-;//è¦–ç‚¹ï¼šãƒªã‚µ
+;//ËƒuƒƒbƒN06130w•P‚Ì“Æ”’x
+;//BG;‘Ìˆç‹³Š¯ºF–éF“_“”
+;//BG;–³‚µ
+;//“oêl•¨GƒŠƒTE—D
+;//‹“_FƒŠƒT
 
 *06130_H_TOP
-;[debug_win]ãªã†ã€€06130_H[debug_win_end]
-;*SceneSet|ã€å§«ã®ç‹¬ç™½ã€
+;[debug_win]‚È‚¤@06130_H[debug_win_end]
+;*SceneSet|w•P‚Ì“Æ”’x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_06130 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_06130 = 1"]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 [bgm007]
 
@@ -28,13 +28,13 @@
 
 ;;;[sysbt_meswin]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2718|
 [fc]
 [vo_ya s="yama0926"]
 [ns]Yamagishi[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *6706|
 [fc]
@@ -57,7 +57,7 @@ What should I say...?[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2719|
 [fc]
@@ -69,14 +69,14 @@ Sensei...[pcms]
 [fc]
 [vo_ri s="risa0611"]
 [ns]Shindou[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2721|
 [fc]
@@ -107,7 +107,7 @@ anyone at all...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2723|
 [fc]
@@ -117,7 +117,7 @@ Sensei... Sensei! *sob*... Ugh...[l][er]
 Please don't tell anyone...! Anyone!![l][er]
 Ugh...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2724|
 [fc]
@@ -138,7 +138,7 @@ Even if I were to say 'calm down'...[l][er]
 it's not something that can be achieved immediately...[l][er]
 But the only words I can say to Yamagishi-san are these...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2726|
 [fc]
@@ -154,7 +154,7 @@ Please... ugh... don't look at me...[pcms]
 [ns]Shindou[nse]
 No... I won't do anything...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2728|
 [fc]
@@ -191,7 +191,7 @@ Is that so...?[pcms]
 [ns]Shindou[nse]
 B-but... for now, let's go back to my place...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2730|
 [fc]
@@ -203,7 +203,7 @@ I don't want to... see... anyone...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [se0 storage="se021"]
 [quake_bg xy m]
 
@@ -249,7 +249,7 @@ For now, please rest...[pcms]
 [fc]
 I gave some comforting words and left the infirmary.[pcms]
 
-;//SE:æ‰‰ã‚’é–‰ã‚ã‚‹
+;//SE:”à‚ğ•Â‚ß‚é
 
 [se0 storage="se010"]
 
@@ -275,32 +275,32 @@ A training camp... We shouldn't have done it...[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 ;[if exp="tf.scene_mode == 1"]
 ;	
 ;	[jump storage="b_scene.ks" target=*back_from_SR]
 ;	[s]
 ;[endif]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn33 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn33 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 ;[black_toplayer][trans_c random][hide_chara_int]
 [zapfade]
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;//[05231]ã¸
+;//[05231]‚Ö
 
 [fadeoutbgm time=500]
 

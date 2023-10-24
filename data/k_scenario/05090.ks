@@ -1,20 +1,20 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05090ã€æ¥å¹´ã®æ•™å®¤ã€
-;//BG:ä¸‰éšå»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯ï¼ç‚¹ç¯
-;//BG:ä¸‰éšæ•™å®¤ï¼šå¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05090w—ˆ”N‚Ì‹³ºx
+;//BG:OŠK˜L‰ºF–éFÁ“”^“_“”
+;//BG:OŠK‹³ºF–éFÁ“”
+;//“oêl•¨GålŒöE“µ
 
 *05090_TOP
-;[debug_win]ãªã†ã€€05090[debug_win_end]
-;*SceneSet|ã€æ¥å¹´ã®æ•™å®¤ã€
+;[debug_win]‚È‚¤@05090[debug_win_end]
+;*SceneSet|w—ˆ”N‚Ì‹³ºx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05090 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05090 = 1"]
 
-;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼‘ã€€è¡¨ç¤º
+;//flag:“µƒ‹[ƒgƒtƒ[@‚P@•\¦
 
 
 ;	/*
-;	;//â™ªï¼šBGM001
+;	;//ôFBGM001
 ;	[bgm001]
 ;	
 ;	;//BG:bg006c
@@ -32,13 +32,13 @@ We've never been separated even once.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2058|
 [fc]
 [vo_sa s="sae0352"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4815|
 [fc]
@@ -50,7 +50,7 @@ And he hasn't changed at all. He'll probably stay the same[r]forever.[pcms]
 [fc]
 Saeki looked back at me with cold eyes as I laughed and said[r]that.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2059|
 [fc]
@@ -62,7 +62,7 @@ It's unpleasant.[pcms]
 *4817|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4818|
 [fc]
@@ -76,13 +76,13 @@ Certainly, Shinya isn't the type to be popular with girls,[r]but Saeki's way of 
 [fc]
 It's unfortunate, Shinya... Well, he's the type to casually[r]open up erotic books in front of girls, but still...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2060|
 [fc]
 [vo_sa s="sae0354"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4821|
 [fc]
@@ -100,7 +100,7 @@ If only I could be in the same class as Yamagishi-san too...[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2061|
 [fc]
@@ -118,7 +118,7 @@ What's wrong? Why are you angry?[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2062|
 [fc]
@@ -132,7 +132,7 @@ Saeki averted her gaze from me and her expression became[r]thoughtful, as if she
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:æˆ¦é—˜æ©ŸãŒé£›ã‚“ã§ã„ãéŸ³
+;//SE:í“¬‹@‚ª”ò‚ñ‚Å‚¢‚­‰¹
 [se0 storage="se017"]
 
 *4825|
@@ -154,7 +154,7 @@ Being a soldier isn't easy, huh...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2063|
 [fc]
@@ -173,7 +173,7 @@ The night training thing.[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2064|
 [fc]
@@ -194,17 +194,17 @@ After all, us ordinary citizens wouldn't really know the[r]truth anyway.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2065|
 [fc]
 [vo_sa s="sae0359"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
-;//â€»æ¡ä»¶åˆ†å²
-;//ãƒ»flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒOFF;//[05100]ã¸
-;//ãƒ»flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒON;//[06000]ã¸
+;//¦ğŒ•ªŠò
+;//Eflag:“µƒ‹[ƒgƒNƒŠƒA@‚ªOFF;//[05100]‚Ö
+;//Eflag:“µƒ‹[ƒgƒNƒŠƒA@‚ªON;//[06000]‚Ö
 
 [if exp="sf.g_hitomi_clear==1"]
 	;[jump target=*SEL00_05090_END]

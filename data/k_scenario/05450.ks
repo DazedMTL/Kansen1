@@ -1,19 +1,19 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05450ã€è¦–è´è¦šå®¤åˆ°ç€ã€
-;//;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤•æ–¹ï¼›æ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN05450w‹’®Šoº“’…x
+;//;//BG:“Áê‹³º˜L‰ºF—[•ûGÁ“”
+;//“oêl•¨GålŒöE“µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *05450_TOP
-;[debug_win]ãªã†ã€€05450[debug_win_end]
-;*SceneSet|ã€è¦–è´è¦šå®¤åˆ°ç€ã€
+;[debug_win]‚È‚¤@05450[debug_win_end]
+;*SceneSet|w‹’®Šoº“’…x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05450 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05450 = 1"]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 [bgm007]
 
@@ -45,7 +45,7 @@ Walking slowly, being cautious of our surroundings.[pcms]
 [fc]
 Due to the prolonged state of tension, I had somehow become[r]accustomed to this situation.[pcms]
 
-;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM007ƒtƒF[ƒhƒAƒEƒg
 [fadeoutbgm time=500]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
@@ -53,7 +53,7 @@ Due to the prolonged state of tension, I had somehow become[r]accustomed to this
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2285|
 [fc]
@@ -74,5 +74,5 @@ However, it seemed tough for Saeki, as she appeared slightly[r]worn out, perhaps
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05460]ã¸
+;//[05460]‚Ö
 [jump target=*05460_TOP storage="05460.ks"]

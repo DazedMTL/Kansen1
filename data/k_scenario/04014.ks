@@ -1,22 +1,22 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04014ã€å„ªã¨å…±ã«ã™ãŒã™ãŒã—ã„æœã‚’ã€
-;//BG:è¦–è´è¦šå®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»åŠ è—¤
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04014w—D‚Æ‹¤‚É‚·‚ª‚·‚ª‚µ‚¢’©‚ğx
+;//BG:‹’®ŠoºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DE‰Á“¡
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04014_TOP
-;[debug_win]ãªã†ã€€04014[debug_win_end]
+;[debug_win]‚È‚¤@04014[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04014 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04014 = 1"]
 
-;*SceneSet|ã€å„ªã¨å…±ã«ã™ãŒã™ãŒã—ã„æœã‚’ã€
+;*SceneSet|w—D‚Æ‹¤‚É‚·‚ª‚·‚ª‚µ‚¢’©‚ğx
 
-;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼—ã€€è¡¨ç¤º
+;//flag:—Dƒ‹[ƒgƒtƒ[@‚V@•\¦
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 
 ;//[bgm001]
 
@@ -38,7 +38,7 @@ It might be good to go and breathe in the mountain air to[r]refresh myself and w
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1605|
 [fc]
@@ -65,7 +65,7 @@ Hey, wake up Shinya. Let's go.[pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std316|
 [fc]
 [ns]Takeuchi[nse]
@@ -76,7 +76,7 @@ Huh...?[pcms]
 [ns]Kato[nse]
 Huh? No way, you're coming too.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std317|
 [fc]
 [ns]Takeuchi[nse]
@@ -95,7 +95,7 @@ I grabbed Shinya by the back of his neck and pulled him,[r]dragging him out of t
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std318|
 [fc]
 [ns]Takeuchi[nse]
@@ -110,7 +110,7 @@ Apologize to all the cats in the country later, you[l][er]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1606|
 [fc]
@@ -121,7 +121,7 @@ Apologize to all the cats in the country later, you[l][er]
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -129,7 +129,7 @@ Apologize to all the cats in the country later, you[l][er]
 
 ;//blackout
 
-;//[04015]ã¸
+;//[04015]‚Ö
 
 [jump target=*04015_TOP storage="04015.ks"]
 

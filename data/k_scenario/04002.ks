@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04002ã€äºˆæƒ³é€šã‚Šã€
-;//BG:ç„¡ã—
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04002w—\‘z’Ê‚èx
+;//BG:–³‚µ
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04002_TOP
-;[debug_win]ãªã†ã€€04002[debug_win_end]
+;[debug_win]‚È‚¤@04002[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04002 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04002 = 1"]
 
-;*SceneSet|ã€äºˆæƒ³é€šã‚Šã€
+;*SceneSet|w—\‘z’Ê‚èx
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 
 ;//[bgm001]
 
@@ -38,7 +38,7 @@ I saw light leaking from a corner of the gymnasium and[r]realized that there was
 [ns]Kato[nse]
 Just to be sure, let's take a look inside.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *3737|
 [fc]
@@ -46,12 +46,12 @@ I brought Yamagishi-san, who had a awkward expression on her[r]face, and walked 
 Then, I opened the door.[pcms]
 [l][er]
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 ;//blackout
 
-;//[04003]ã¸
+;//[04003]‚Ö
 [jump target=*04003_H_TOP storage="04003_H.ks"]
 
 

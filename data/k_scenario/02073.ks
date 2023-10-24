@@ -1,21 +1,21 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02073ã€ä¿å¥å®¤å‰ã®ãƒªã‚µã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02073w•ÛŒ’º‘O‚ÌƒŠƒTx
+;//BG:“Áê‹³º˜L‰ºF–éFÁ“”
+;//“oêl•¨GålŒöE—DEƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02073_TOP
-;[debug_win]ãªã†ã€€02073[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02073 = 1"]
+;[debug_win]‚È‚¤@02073[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02073 = 1"]
 
-;*SceneSet|ã€ä¿å¥å®¤å‰ã®ãƒªã‚µã€
+;*SceneSet|w•ÛŒ’º‘O‚ÌƒŠƒTx
 
 ;//[02073]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 [bgm001]
 ;//BG:bg004d
 [bg storage="bg04d"]
@@ -30,7 +30,7 @@ We headed towards the direction where we heard the sound,[r]and what we found wa
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v658|
 [fc]
@@ -43,7 +43,7 @@ Shindou-sensei!?[pcms]
 [ChrSetParts layer=1 chface="risa_c_a_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v659|
 [fc]
@@ -61,9 +61,9 @@ Unable to hide her agitation, she looked back and forth[r]between me and Yamagis
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;//ï¼ æ‰æ¸•ï¼šç«¹å†…ã•ã‚“â†’ç«¹å†…å›
+;//—™ŸºF’|“à‚³‚ñ¨’|“àŒN
 
-;ç«‹ã¡
+;—§‚¿
 
 *v660|
 [fc]
@@ -75,7 +75,7 @@ While we were in the middle of watching a movie, um, Tanaka-[r]san and Igarashi-
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v661|
 [fc]
@@ -88,7 +88,7 @@ They disappeared?[pcms]
 [ns]Kato[nse]
 Right now, Yamagishi-san, Saeki, and I were searching for[r]the ones who disappeared, but we couldn't find them...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v662|
 [fc]
@@ -101,7 +101,7 @@ This is troublesome... They disappeared without saying[r]anything?[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v663|
 [fc]
@@ -114,7 +114,7 @@ Until then, we didn't notice at all...[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v664|
 [fc]
@@ -133,7 +133,7 @@ Shindou-sensei turned her face towards me, who was in charge[r]of operating the 
 No... While we were in the middle of watching the third[r]movie, something different suddenly appeared on the screen.[l][er]
 So, we stopped it for a moment...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v665|
 [fc]
@@ -160,7 +160,7 @@ Eventually, the teacher slowly averted her gaze from me and[r]furrowed her eyebr
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v666|
 [fc]
@@ -177,7 +177,7 @@ Shindou-sensei, who eventually opened her eyes, muttered[r]with a bitter express
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v667|
 [fc]
@@ -194,7 +194,7 @@ Eh... Do you have any idea who did it?[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v668|
 [fc]
@@ -216,7 +216,7 @@ Could it be that the culprit is Sensei's boyfriend...?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v669|
 [fc]
@@ -229,7 +229,7 @@ Ah, I see! It was Sensei's boyfriend who played a prank.[pcms]
 [ChrSetParts layer=1 chface="risa_c_a_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v670|
 [fc]
@@ -255,7 +255,7 @@ Sensei's boyfriend seems mischievous, doesn't he?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v671|
 [fc]
@@ -274,7 +274,7 @@ Don't you have any pictures in your wallet or something?[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v672|
 [fc]
@@ -291,7 +291,7 @@ Shindou-sensei, who was usually calm and composed, raised[r]her voice in an unus
 [ChrSetParts layer=1 chface="risa_c_a_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v673|
 [fc]
@@ -309,7 +309,7 @@ Yes, I'm sorry...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v674|
 [fc]
@@ -325,7 +325,7 @@ When I glanced at Yamagishi-san, she was also looking at me[r]out of the corner 
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v675|
 [fc]
@@ -348,6 +348,6 @@ I couldn't help but wonder if Shindou-sensei, who said it[r]with a serious face,
 [fc]
 I wonder if just being a good woman isn't enough for love to[r]go well...[pcms]
 
-;//[02074]ã¸
+;//[02074]‚Ö
 [jump target=*02074_TOP storage="02074.ks"]
 

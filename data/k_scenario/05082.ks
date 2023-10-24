@@ -1,17 +1,17 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05082ã€æ¥å¹´ï¼’ã€
-;//â€»05083ã‹ã‚‰05089ã¾ã§æ¬ ç•ª
-;//BG:ä¸‰éšå»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯ï¼ç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05082w—ˆ”N‚Qx
+;//¦05083‚©‚ç05089‚Ü‚ÅŒ‡”Ô
+;//BG:OŠK˜L‰ºF–éFÁ“”^“_“”
+;//“oêl•¨GålŒöE“µ
 
 *05082_TOP
-;[debug_win]ãªã†ã€€05082[debug_win_end]
-;*SceneSet|ã€æ¥å¹´ï¼’ã€
+;[debug_win]‚È‚¤@05082[debug_win_end]
+;*SceneSet|w—ˆ”N‚Qx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05082 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05082 = 1"]
 
 ;	/*
-;	;//â™ªï¼šBGM001
+;	;//ôFBGM001
 ;	[bgm001]
 ;	
 ;	;//BG:bg006c
@@ -36,7 +36,7 @@ It seems like it would be fun every day...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2052|
 [fc]
@@ -54,7 +54,7 @@ Huh? Ah, sorry... What was it again?[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2053|
 [fc]
@@ -71,7 +71,7 @@ Huh? Was I smirking? That's not good...[pcms]
 [fc]
 Saeki frowned at me as I hurriedly covered my mouth.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2054|
 [fc]
@@ -84,7 +84,7 @@ You were probably thinking of something vulgar again,[r]weren't you?[pcms]
 [ns]Kato[nse]
 No, no, I was just thinking about changing classes.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2055|
 [fc]
@@ -107,7 +107,7 @@ Saeki took a deep breath at my middle school-level delusion[r]and shouted angril
 [ChrSetParts layer=1 chface="sae_c_c_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2056|
 [fc]
@@ -124,13 +124,13 @@ What's the big deal? There's no need to get so angry.[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2057|
 [fc]
 [vo_sa s="sae0351"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
@@ -143,5 +143,5 @@ Saeki, with an angry expression still on her face, turned[r]around forcefully an
 He's such a guy who doesn't understand jokes...[l][er]
 If only he had a better sense of humor, he could be even[r]cuter...[pcms]
 
-;//[05090]ã¸
+;//[05090]‚Ö
 [jump target=*05090_TOP storage="05090.ks"]

@@ -1,19 +1,19 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05440ã€é™ã‹ãªå­¦åœ’å†…ã€
-;//;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤•æ–¹ï¼›æ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN05440wÃ‚©‚ÈŠw‰€“àx
+;//;//BG:“Áê‹³º˜L‰ºF—[•ûGÁ“”
+;//“oêl•¨GålŒöE“µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *05440_TOP
-;[debug_win]ãªã†ã€€05440[debug_win_end]
-;*SceneSet|ã€é™ã‹ãªå­¦åœ’å†…ã€
+;[debug_win]‚È‚¤@05440[debug_win_end]
+;*SceneSet|wÃ‚©‚ÈŠw‰€“àx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05440 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05440 = 1"]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 [bgm007]
 
@@ -41,7 +41,7 @@ It's quite quiet though...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2281|
 [fc]
@@ -63,7 +63,7 @@ In horror movies, something suddenly jumps out at you at[r]times like this, righ
 [fc]
 Saeki looked worried at my joke and hid behind me, gripping[r]the hem of my shirt.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2282|
 [fc]
@@ -80,7 +80,7 @@ As soon as we started walking, Saeki let out a loud scream[r]and jumped back fro
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2283|
 [fc]
@@ -108,7 +108,7 @@ It's gonna startle me![pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2284|
 [fc]
@@ -144,5 +144,5 @@ I walked quickly, following behind Saeki towards the[r]audiovisual room.[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05450]ã¸
+;//[05450]‚Ö
 [jump target=*05450_TOP storage="05450.ks"]

@@ -1,25 +1,25 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04019ã€ç©æ¥µçš„ãªå„ªã€
-;//BG:ä¿å¥å®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04019wÏ‹É“I‚È—Dx
+;//BG:•ÛŒ’ºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—D
 
-;//â˜…ï¼¨EVENT_024
+;//š‚gEVENT_024
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04019_H_TOP
-;[debug_win]ãªã†ã€€04019_H[debug_win_end]
+;[debug_win]‚È‚¤@04019_H[debug_win_end]
 [eval exp="sf.SRP18 = 1"][if exp="tf.scene_mode == 0"][jump target=*04019_H][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 *04019_H
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04019 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04019 = 1"]
 
-;*SceneSet|ã€ç©æ¥µçš„ãªå„ªã€
+;*SceneSet|wÏ‹É“I‚È—Dx
 
 
 
@@ -27,7 +27,7 @@
 
 *scene_start
 
-;//â™ªï¼šBGM006
+;//ôFBGM006
 [bgm006]
 
 ;//H_CG
@@ -124,7 +124,7 @@ But our social classes are different, and I couldn't confess[r]my feelings until
 *4022|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *4023|
 [fc]
@@ -139,7 +139,7 @@ Kato-kun...?[pcms]
 *4024|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *v1632|
 [fc]
@@ -223,7 +223,7 @@ No, I don't mind... I also want to be with Yamagishi-san...[pcms]
 [ns]Yamagishi[nse]
 Hehe...[pcms]
 
-;//SE:ãƒ™ãƒ«ãƒˆã‚’ã¯ãšã™
+;//SE:ƒxƒ‹ƒg‚ğ‚Í‚¸‚·
 
 [se0 storage="se066"]
 
@@ -242,7 +242,7 @@ Hehe...[pcms]
 Yamagishi-san let go of my thing and discarded all of her[r]clothes, exposing her beautiful white skin.[l][er]
 Then, she proceeded to open and pull down the front of my[r]pants.[pcms]
 
-;//[04020]ã¸
+;//[04020]‚Ö
 [jump target=*04020_H_TOP storage="04020_H.ks"]
 
 

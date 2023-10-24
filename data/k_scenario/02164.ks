@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02164ã€è¦ªå‹ã¨ã®å†ä¼šã€
-;//BG:å±‹ä¸Šï¼šæœ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…ãƒ»ç³ãƒ»ç”°ä¸­ãƒ»æœ‹ç¾ãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02164we—F‚Æ‚ÌÄ‰ïx
+;//BG:‰®ãF’©
+;//“oêl•¨GålŒöE—DE’|“àE“µE“c’†E•ü”üEƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02164_TOP
-;[debug_win]ãªã†ã€€02164[debug_win_end]
+;[debug_win]‚È‚¤@02164[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02164 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02164 = 1"]
 
-;*SceneSet|ã€è¦ªå‹ã¨ã®å†ä¼šã€
+;*SceneSet|we—F‚Æ‚ÌÄ‰ïx
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 
 ;//[bgm001]
 
@@ -23,7 +23,7 @@
 ;[bg storage="bg22d"]
 ;[trans_c cross time=500]
 
-;//SE:è…¹ãŒé³´ã‚‹éŸ³ã€€å°ã•ã„
+;//SE:• ‚ª–Â‚é‰¹@¬‚³‚¢
 
 [se0 storage="se036"]
 
@@ -32,14 +32,14 @@
 [ns]Kato[nse]
 Huh? That just now...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;//SE:è…¹ãŒé³´ã‚‹éŸ³ã€€å¤§ãã„
+;//SE:• ‚ª–Â‚é‰¹@‘å‚«‚¢
 
 [se0 storage="se037"]
 
@@ -48,7 +48,7 @@ Huh? That just now...[pcms]
 [ns]Kato[nse]
 Ugh, me too.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *2960|
 [fc]
@@ -59,7 +59,7 @@ We suddenly started feeling hungry, perhaps because we were[r]relieved to know t
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1153|
 [fc]
@@ -81,24 +81,24 @@ But just by laughing together with Yamagishi-san, I quickly[r]forgot about such 
 [fc]
 However, that happy feeling was shattered by a familiar[r]face.[pcms]
 
-;//â™ªï¼šBGM001ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM001ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
-;//SE:é‡‘ç¶²ã‚’ã‚†ã™ã‚‹éŸ³
+;//SE:‹à–Ô‚ğ‚ä‚·‚é‰¹
 
 [se0 storage="se032"]
 
-;//SE:å»Šä¸‹ã‚’æ­©ãéŸ³
+;//SE:˜L‰º‚ğ•à‚­‰¹
 
 [se0 storage="se067"]
 
-;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM008ƒtƒF[ƒhƒCƒ“
 
 [bgm008]
 
-;ç«‹ã¡
-;ãƒªã‚µ
+;—§‚¿
+;ƒŠƒT
 
 [ChrSetEx layer=1 chbase="risa_a_e_01"]
 [ChrSetXY layer=1 x=180 y=0]
@@ -110,32 +110,32 @@ However, that happy feeling was shattered by a familiar[r]face.[pcms]
 [ns]Kato[nse]
 Shindou-sensei...[pcms]
 
-;ç«‹ã¡
-;ç«¹å†…
+;—§‚¿
+;’|“à
 
 [ChrSetEx layer=1 chbase="take_c_a_06"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 [wait_c time=500]
 
-;ç«‹ã¡
-;ç”°ä¸­
+;—§‚¿
+;“c’†
 
 [ChrSetEx layer=1 chbase="tanaka_b_a_10"]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 [wait_c time=500]
 
-;ç«‹ã¡
-;æœ‹ç¾
+;—§‚¿
+;•ü”ü
 
 [ChrSetEx layer=1 chbase="tomo_b_d_04"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 [wait_c time=500]
 
-;ç«‹ã¡
-;ç³
+;—§‚¿
+;“µ
 
 [ChrSetEx layer=1 chbase="sae_d_d_12"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -158,7 +158,7 @@ It was easy to imagine what had happened while they were out[r]of sight.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1154|
 [fc]
@@ -176,32 +176,32 @@ The five of them appeared and simultaneously pushed the[r]fence-like gate, causi
 [trans_c cross time=150]
 [wait_c time=500]
 
-;ç«‹ã¡
-;ç«¹å†…
+;—§‚¿
+;’|“à
 
 [ChrSetEx layer=1 chbase="take_c_a_06"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 [wait_c time=500]
 
-;ç«‹ã¡
-;ç”°ä¸­
+;—§‚¿
+;“c’†
 
 [ChrSetEx layer=1 chbase="tanaka_b_a_10"]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 [wait_c time=500]
 
-;ç«‹ã¡
-;æœ‹ç¾
+;—§‚¿
+;•ü”ü
 
 [ChrSetEx layer=1 chbase="tomo_b_d_04"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 [wait_c time=500]
 
-;ç«‹ã¡
-;ç³
+;—§‚¿
+;“µ
 
 [ChrSetEx layer=1 chbase="sae_d_d_12"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -260,5 +260,5 @@ No matter who the opponent is, no matter how many there[r]are...[pcms]
 [fc]
 ... I will definitely protect her!![pcms]
 
-;//[02165]ã¸
+;//[02165]‚Ö
 [jump target=*02165_TOP storage="02165.ks"]

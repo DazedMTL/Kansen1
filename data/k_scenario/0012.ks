@@ -1,22 +1,22 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0012ã€å›æƒ³çµ‚äº†ãƒ»æ°—ãŒä»˜ãã¨å„ªã¨äºŒäººãã‚Šã€
-;//BGï¼šãƒã‚¹åœï¼šå¤•æ–¹
-;//;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//;//¡ËƒuƒƒbƒN0012w‰ñ‘zI—¹E‹C‚ª•t‚­‚Æ—D‚Æ“ñl‚«‚èx
+;//BGFƒoƒX’âF—[•û
+;//;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 ;//[jump target=*0012_TOP storage="0012.ks"]
 
 *0012_TOP
-;[debug_win]ãªã†ã€€0012[debug_win_end]
+;[debug_win]‚È‚¤@0012[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0012 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0012 = 1"]
 
-;*SceneSet|ã€æ°—ãŒä»˜ãã¨å„ªã¨äºŒäººãã‚Šã€
+;*SceneSet|w‹C‚ª•t‚­‚Æ—D‚Æ“ñl‚«‚èx
 
-;//â™ªï¼šBGM001ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM001ƒtƒF[ƒhƒCƒ“
 [bgm001]
 ;//;//BG:bg019
 [bg storage="bg19"]
@@ -26,7 +26,7 @@
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v88|
 [fc]
@@ -48,7 +48,7 @@ Huh? Ah, s-sorry, I wasn't listening...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v89|
 [fc]
@@ -85,7 +85,7 @@ When I looked around, thinking that, there was no one there[r]except for me and 
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v90|
 [fc]
@@ -104,7 +104,7 @@ I see. So, Shinya and Yuuji are accompanying her, right?[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v91|
 [fc]
@@ -125,7 +125,7 @@ Yuuji sure is being pampered by Shiri...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v92|
 [fc]
@@ -133,7 +133,7 @@ Yuuji sure is being pampered by Shiri...[pcms]
 [ns]Yamagishi[nse]
 Hehehe...[pcms]
 
-;//â™ªï¼šBGM001ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM001ƒtƒF[ƒhƒAƒEƒg
 [fadeoutbgm time=500]
 
 *279|
@@ -148,7 +148,7 @@ This is a chance. To shorten the distance between us, as[r]much as possible.[pcm
 [fc]
 I want to talk to her more, about anything and everything.[pcms]
 
-;//;//SE:é¢¨ã®éŸ³
+;//;//SE:•—‚Ì‰¹
 [se0 storage="se019"]
 
 *282|
@@ -160,14 +160,14 @@ The cool evening breeze blows through the space between me,[r]who is scratching 
 Yamagishi-san, with her hair swaying in the wind and her[r]eyes narrowed in a pleasant manner, looked just like a scene[r]from a movie.[l][er]
 I was captivated by her appearance and couldn't come up with[r]any topics to talk about.[pcms]
 
-;//â™ªï¼šBGM010ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM010ƒtƒF[ƒhƒCƒ“
 [bgm010]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v93|
 [fc]
@@ -192,7 +192,7 @@ I opened my mouth wide in surprise and was caught staring,[r]so in order to hide
 Ah, right! Ah, I watched that![l][er]
 It was a detective movie...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v94|
 [fc]
@@ -217,7 +217,7 @@ In order to continue talking with Yamagishi-san for even[r]just a second longer.
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v95|
 [fc]
@@ -237,7 +237,7 @@ I might like that one too.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v96|
 [fc]
@@ -273,7 +273,7 @@ When I asked that, Yamagishi-san averted her gaze from me[r]and for some reason 
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v97|
 [fc]
@@ -298,7 +298,7 @@ So, Yamagishi-san likes those kinds of movies...[pcms]
 [fc]
 It was frustrating not knowing why she had a lonely[r]expression on her face.[pcms]
 
-;//â™ªï¼šBGM010ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM010ƒtƒF[ƒhƒAƒEƒg
 [fadeoutbgm time=500]
 
 [backlay_c][chara_int][trans_c cross time=150]

@@ -1,27 +1,27 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02174ã€ã‚¨ãƒ³ãƒ‡ã‚£ãƒ³ã‚°ã€
-;//BG:é»’ç”»é¢
-;//BG:å¤•ç©º
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02174wƒGƒ“ƒfƒBƒ“ƒOx
+;//BG:•‰æ–Ê
+;//BG:—[‹ó
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02174_H_TOP
-;[debug_win]ãªã†ã€€02174_H[debug_win_end]
+;[debug_win]‚È‚¤@02174_H[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02174 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02174 = 1"]
 
-;*SceneSet|ã€ã‚¨ãƒ³ãƒ‡ã‚£ãƒ³ã‚°ã€
+;*SceneSet|wƒGƒ“ƒfƒBƒ“ƒOx
 
-;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€happyã€€è¡¨ç¤º
+;//flag:—Dƒ‹[ƒgƒtƒ[@happy@•\¦
 
-;//â™ªï¼šBGM011
+;//ôFBGM011
 
 ;//[bgm011]
 
-;//BG:æ•‘è­·æ–½è¨­ã®å€‹å®¤
+;//BG:‹~Œì{İ‚ÌŒÂº
 
 *3213|
 [fc]
@@ -31,12 +31,12 @@ Perhaps exhausted from experiencing something for the first[r]time, Yuu fell asl
 [fc]
 I laid Yuu down on the bed, lightly kissed her forehead, and[r]then left the room.[pcms]
 
-;//BG:ç©ºï¼ˆå¤•æ–¹ï¼‰
+;//BG:‹ói—[•ûj
 
 [bg storage="bg20b"]
 [trans_c cross time=500]
 
-;//SE:æˆ¦é—˜æ©ŸãŒé£›ã‚“ã§ã„ãéŸ³
+;//SE:í“¬‹@‚ª”ò‚ñ‚Å‚¢‚­‰¹
 
 [se0 storage="se017"]
 
@@ -89,9 +89,9 @@ Yuu's father apparently only said one word, I'm sorry, and[r]that was the end of
 
 *3225|
 [fc]
-â€¦â€¦â€¦â€¦ã€‚ â€¦â€¦â€¦ã€‚ â€¦â€¦ã€‚[pcms]
+ccccB cccB ccB[pcms]
 
-;//SE:æˆ¦é—˜æ©ŸãŒé£›ã‚“ã§ã„ãéŸ³
+;//SE:í“¬‹@‚ª”ò‚ñ‚Å‚¢‚­‰¹
 [se0 storage="se017"]
 
 *3226|
@@ -101,7 +101,7 @@ As if to indicate that the chaos is still ongoing, several[r]fighter jets flew a
 *3227|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *3228|
 [fc]
@@ -122,53 +122,53 @@ Because I made that promise with Yuu.[pcms]
 
 ;;;[sysbt_meswin clear]
 
-;mm ãƒ›ãƒ¯ã‚¤ãƒˆã‚¢ã‚¦ãƒˆã«ã—ã¦ãŠã
+;mm ƒzƒƒCƒgƒAƒEƒg‚É‚µ‚Ä‚¨‚­
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;SEãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ ã“ã‚Œä½¿ç”¨ã—ãŸå¾Œã®pcmsã®å¾Œã‚ã§stopseã—ã¦ãã ã•ã„ã€‚ãƒ­ãƒ¼ãƒ‰ã™ã‚‹ã¨æ­¢ã‚ãŸã®ã«ã¾ãŸé³´ã£ã¦ã‚‹ã‹ã‚‰ã€‚
+;SEƒtƒF[ƒhƒAƒEƒg ‚±‚êg—p‚µ‚½Œã‚Ìpcms‚ÌŒã‚ë‚Åstopse‚µ‚Ä‚­‚¾‚³‚¢Bƒ[ƒh‚·‚é‚Æ~‚ß‚½‚Ì‚É‚Ü‚½–Â‚Á‚Ä‚é‚©‚çB
 [fadeoutse buf=0 time=1000]
-;BGMåœæ­¢
+;BGM’â~
 [fadeoutbgm time=1000][wb]
 
 [wait_c time=1000]
 
 ;//blackout
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
 
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn10 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn10 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;//â€»ã‚¹ã‚¿ãƒƒãƒ•ãƒ­ãƒ¼ãƒ«ã¸
+;//¦ƒXƒ^ƒbƒtƒ[ƒ‹‚Ö
 
 [stopse_all]
 
 
-;//ãƒ ãƒ¼ãƒ“ãƒ¼å†ç”Ÿ
-;ã‚¹ã‚­ãƒƒãƒ—ã—ã¦ãŸã‚‰ã¨ã‚“ã˜ã‚ƒã†ã‹ã‚‰ã‚¹ã‚­ãƒƒãƒ—ã®è§£é™¤
+;//ƒ€[ƒr[Ä¶
+;ƒXƒLƒbƒv‚µ‚Ä‚½‚ç‚Æ‚ñ‚¶‚á‚¤‚©‚çƒXƒLƒbƒv‚Ì‰ğœ
 [cancelskip]
 [video visible=true left=0 top=0 width=800 height=600]
 [openvideo storage="yuu_ed.mpg"]
 [playvideo]
-;ãƒ ãƒ¼ãƒ“ãƒ¼ã®éŸ³é‡å¤‰æ›´
+;ƒ€[ƒr[‚Ì‰¹—Ê•ÏX
 [if exp="sf.bgmplay == 1"]
 	;[video volume="&kag.bgm.currentBuffer.volume2"]
 	;[video volume=60]
-	;ã“ã‚Œã§bgmã¨åŒã˜ã«ãªã‚‹ã‹ãªï¼Ÿ
-	;ãã®ã¾ã¾ã ã¨ã¡ã‚‡ã£ã¨å¤§ãã„ã‹ã‚‰ã¡ã‚‡ã£ã¨ä¸‹ã’ã‚‹
+	;‚±‚ê‚Åbgm‚Æ“¯‚¶‚É‚È‚é‚©‚ÈH
+	;‚»‚Ì‚Ü‚Ü‚¾‚Æ‚¿‚å‚Á‚Æ‘å‚«‚¢‚©‚ç‚¿‚å‚Á‚Æ‰º‚°‚é
 	[eval exp="tf.movie_vol = (sf.dummy_bgmopt/1000)-5"]
 	[video volume="&tf.movie_vol"]
 [elsif exp="sf.bgmplay == 0"]
@@ -178,12 +178,12 @@ Because I made that promise with Yuu.[pcms]
 
 
 
-;//flag:å„ªãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ on
+;//flag:—Dƒ‹[ƒgƒNƒŠƒA on
 [if exp="sf.g_yuu_clear==1"]
 	[jump target=*SEL00_TITLE]
 [endif]
 
-;//ãƒ ãƒ¼ãƒ“ãƒ¼å†ç”Ÿ
+;//ƒ€[ƒr[Ä¶
 [call storage="movie_sub.ks" target=*yuu_zap_open]
 
 [eval exp="sf.g_yuu_clear = 1"]
@@ -208,7 +208,7 @@ Because I made that promise with Yuu.[pcms]
 
 [wait_c time=1000]
 [eval exp="sf.g_infection = 1"]
-;//ãƒ ãƒ¼ãƒ“ãƒ¼å†ç”Ÿ
+;//ƒ€[ƒr[Ä¶
 [call storage="movie_sub.ks" target=*InfectionRoute_open]
 
 
@@ -221,9 +221,9 @@ Because I made that promise with Yuu.[pcms]
 
 ;	[black_toplayer][trans_c cross time=1000][hide_chara_int]
 
-;	;SEãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ ã“ã‚Œä½¿ç”¨ã—ãŸå¾Œã®pcmsã®å¾Œã‚ã§stopseã—ã¦ãã ã•ã„ã€‚ãƒ­ãƒ¼ãƒ‰ã™ã‚‹ã¨æ­¢ã‚ãŸã®ã«ã¾ãŸé³´ã£ã¦ã‚‹ã‹ã‚‰ã€‚
+;	;SEƒtƒF[ƒhƒAƒEƒg ‚±‚êg—p‚µ‚½Œã‚Ìpcms‚ÌŒã‚ë‚Åstopse‚µ‚Ä‚­‚¾‚³‚¢Bƒ[ƒh‚·‚é‚Æ~‚ß‚½‚Ì‚É‚Ü‚½–Â‚Á‚Ä‚é‚©‚çB
 ;	[fadeoutse buf=1 time=2000]
-;	;BGMåœæ­¢
+;	;BGM’â~
 ;	[fadeoutbgm time=2000][wb canskip=false]
 ;	[stopse_all]
 ;	[wait_c time=1500]

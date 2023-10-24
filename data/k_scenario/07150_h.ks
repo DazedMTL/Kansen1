@@ -1,19 +1,19 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07150ã€å½·å¾¨ï¼’ã€
-;//;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼›æ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼šæ„ŸæŸ“ç³ãƒ»æ„ŸæŸ“æœ‹ç¾
-;//ï¼šç³è¦–ç‚¹
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN07150wœfœr‚Qx
+;//;//BG:“Áê‹³º˜L‰ºF–éGÁ“”
+;//“oêl•¨FŠ´õ“µEŠ´õ•ü”ü
+;//F“µ‹“_
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *07150_H_TOP
-;[debug_win]ãªã†ã€€07150_H[debug_win_end]
+;[debug_win]‚È‚¤@07150_H[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07150 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07150 = 1"]
 
-;//â™ªï¼šBGM004
+;//ôFBGM004
 
 [bgm004]
 
@@ -29,9 +29,9 @@
 [fc]
 A woman approached me as I wandered around, searching for[r]that person.[pcms]
 
-;//ï¼ æ‰æ¸•ï¼šä¸‹è¨˜ï¼³ï¼¥ãŒè¡¨ã«ãªã„ãŸã‚ã«ç¾åœ¨éŸ³ã‚’å¼µã£ã¦ã„ã¾ã›ã‚“ã€‚
+;//—™ŸºF‰º‹L‚r‚d‚ª•\‚É‚È‚¢‚½‚ß‚ÉŒ»İ‰¹‚ğ’£‚Á‚Ä‚¢‚Ü‚¹‚ñB
 
-;//SE:å»Šä¸‹ã‚’æ­©ã
+;//SE:˜L‰º‚ğ•à‚­
 
 [se0 storage="se067"]
 
@@ -43,7 +43,7 @@ I experienced a sensation that felt like my nerves were[r]being rubbed the wrong
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2935|
 [fc]
@@ -78,7 +78,7 @@ So, this woman... was involved with that person...?[pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2937|
 [fc]
@@ -103,7 +103,7 @@ However, I appreciated the part where she provided[r]information about the secon
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2938|
 [fc]
@@ -117,9 +117,9 @@ I'm looking for another penis...[pcms]
 [fc]
 [vo_sa s="sae0817"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2940|
 [fc]
@@ -136,7 +136,7 @@ I felt my patience reach its limit with the woman who[r]persistently clung to me
 [ChrSetParts layer=1 chface="tomo_e_d_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2941|
 [fc]
@@ -151,14 +151,14 @@ I was wondering if there are also girls here...[pcms]
 [ns]Saeki[nse]
 Move aside.[pcms]
 
-;//SE:äººã¨ã¶ã¤ã‹ã‚‹
+;//SE:l‚Æ‚Ô‚Â‚©‚é
 [se0 storage="se025"]
 
 [ChrSetEx layer=1 chbase="tomo_e_b_01"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2943|
 [fc]
@@ -171,7 +171,7 @@ Ah...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [se0 storage="se021"]
 
 *7286|
@@ -198,7 +198,7 @@ After glancing at the woman who looked like a frog that had[r]been run over by a
 ;[trans_c random time=501]
 ;[zapfade]
 
-;//[07160]ã¸
+;//[07160]‚Ö
 [jump target=*07160_H_TOP storage="07160_H.ks"]
 
 

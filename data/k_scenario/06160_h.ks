@@ -1,11 +1,11 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯06160ã€å§«ã¨ã€å®¶æ¥ã€
-;//;//BG:ä¿å¥å®¤ï¼šæœï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ç«¹å†…ãƒ»å„ªãƒ»ç”°ä¸­ãƒ»æœ‹ç¾
-;//è¦–ç‚¹ï¼›ç«¹å†…
+;//¡ËƒuƒƒbƒN06160w•P‚ÆA‰Æ—ˆx
+;//;//BG:•ÛŒ’ºF’©FÁ“”
+;//“oêl•¨G’|“àE—DE“c’†E•ü”ü
+;//‹“_G’|“à
 
 *06160_H_TOP
-;[debug_win]ãªã†ã€€06160_H[debug_win_end]
+;[debug_win]‚È‚¤@06160_H[debug_win_end]
 
 [eval exp="sf.SRP33 = 1"][if exp="tf.scene_mode == 0"][jump target=*06160_H][endif]
 ;;[winset]
@@ -13,9 +13,9 @@
 [jump target=*scene_start]
 
 *06160_H
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_06160 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_06160 = 1"]
 
-;//â™ªï¼šBGM006
+;//ôFBGM006
 
 [bgm006]
 
@@ -23,7 +23,7 @@
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2739|
 [fc]
@@ -55,7 +55,7 @@ I should have asked Yuuji for advice...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2740|
 [fc]
@@ -95,14 +95,14 @@ Something feels off... You seem to have a fever, don't you?[pcms]
 [ChrSetParts layer=1 chface="yuu_c_d_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2741|
 [fc]
 [vo_ya s="yama0942"]
 [ns]Yamagishi[nse]
 Ahaha... It's okay... trust me, okay?[l][er]
-Leave it to me... Mmm...  *kiss*[pcms]
+Leave it to me... Mmm...   *kiss*[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
@@ -115,7 +115,7 @@ Leave it to me... Mmm...  *kiss*[pcms]
 [fc]
 Suddenly, Yuu-chan's tongue was forced into my mouth, and it[r]felt like electricity ran through my body, causing me to[r]become unable to move.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2742|
 [fc]
@@ -129,7 +129,7 @@ Stick out your tongue... Nn...[pcms]
 As instructed by Yuu-chan, I stuck out my tongue.[l][er]
 Somehow, I couldn't resist what Yuu-chan was saying.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std402|
 [fc]
 [vo_ya s="yama0943"]
@@ -156,7 +156,7 @@ Is this what kissing is like...?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2743|
 [fc]
@@ -174,7 +174,7 @@ Uwaa...[pcms]
 Yuu-chan pushed me down onto the bed.[l][er]
 Shouldn't I be the one doing this instead?[pcms]
 
-;//SE;æ‰‰ã‚’é–‹ã
+;//SE;”à‚ğŠJ‚­
 [se0 storage="se008"]
 
 *6778|
@@ -187,7 +187,7 @@ Shouldn't I be the one doing this instead?[pcms]
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2744|
 [fc]
@@ -201,7 +201,7 @@ here...[pcms]
 [ChrSetParts layer=1 chface="tanaka_b_a_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std403|
 [fc]
 [ns]Tanaka[nse]
@@ -233,7 +233,7 @@ What happened!?[pcms]
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 *std404|
 [fc]
 [ns]Tanaka[nse]
@@ -245,7 +245,7 @@ Yari te e...[pcms]
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2745|
 [fc]
@@ -258,7 +258,7 @@ I-I'm, going, to, touch, you, intimately...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_d_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2746|
 [fc]
@@ -290,7 +290,7 @@ D-Don't come this way!! Don't come over here!![pcms]
 [ChrSetParts layer=1 chface="tomo_d_d_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2747|
 [fc]
@@ -304,7 +304,7 @@ And you're just standing there...[pcms]
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 *std405|
 [fc]
 [ns]Tanaka[nse]
@@ -316,7 +316,7 @@ with me...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_d_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2748|
 [fc]
@@ -330,7 +330,7 @@ Ahaha![pcms]
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2749|
 [fc]
@@ -340,7 +340,7 @@ Ehehe~... Then, I, I'll, touch, you, too...[l][er]
 here...[pcms]
 
 ;	/*
-;	;//SE:æœã®ç ´ã‚Œã‚‹éŸ³
+;	;//SE:•‚Ì”j‚ê‚é‰¹
 ;	[se0 storage="se006"]
 ;	*/
 
@@ -362,7 +362,7 @@ What's wrong? What's happening!?[pcms]
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2750|
 [fc]
@@ -387,11 +387,11 @@ Uwaaaahhhh![pcms]
 
 ;;;[sysbt_meswin]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
 
 [se1 storage="se060" loop=true]
 
@@ -457,10 +457,10 @@ Can't you stop...?[pcms]
 Ahh... Ahh... Yes! It just won't stop...[l][er]
 Ahh! Nngh![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 [stop_se0]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@’x‚¢@’â~
 [stop_se1]
 
 ;;;[sysbt_meswin clear]
@@ -514,7 +514,7 @@ Can we... take it slow...?[pcms]
 [ns]Takeuchi[nse]
 U-uhh... then... uwahh...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
@@ -582,10 +582,10 @@ I can't hold on anymore...[pcms]
 
 ;;;[sysbt_meswin]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 [stop_se0]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 [se0 storage="se061" loop=true]
 
 *6812|
@@ -607,11 +607,11 @@ aahhhhhh![pcms]
 [ns]Tanaka[nse]
 Ugh... I'm... going~...[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se0]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -702,7 +702,7 @@ it feels good, *kiss*, *suck*, *mhm*...[l][er]
 [ns]Takeuchi[nse]
 Uaaaah! It's coming out...! Ah![pcms]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -787,7 +787,7 @@ What happened to Yuu-chan and the others...?[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
@@ -814,7 +814,7 @@ Maybe I've caught a cold again...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2766|
 [fc]
@@ -831,7 +831,7 @@ Y-Yeah, it was beyond words...[pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2767|
 [fc]
@@ -843,7 +843,7 @@ I-I... came... It felt... so good...[pcms]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std406|
 [fc]
 [ns]Tanaka[nse]
@@ -855,7 +855,7 @@ that...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2768|
 [fc]
@@ -885,7 +885,7 @@ I don't understand what's going on...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2769|
 [fc]
@@ -897,7 +897,7 @@ Well then, shall we go...?[pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2770|
 [fc]
@@ -909,7 +909,7 @@ Yes...[pcms]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std407|
 [fc]
 [ns]Tanaka[nse]
@@ -924,7 +924,7 @@ It's as if they were a princess and her obedient servants.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2771|
 [fc]
@@ -938,7 +938,7 @@ I'll go with Shinya-kun to look for them...[pcms]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std408|
 [fc]
 [ns]Tanaka[nse]
@@ -950,7 +950,7 @@ do?[pcms]
 [ChrSetParts layer=1 chface="tomo_d_d_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2772|
 [fc]
@@ -979,29 +979,29 @@ I have to go too...[pcms]
 ;//blackout
 
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn34 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn34 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
-;BGMåœæ­¢
+;BGM’â~
 [fadeoutbgm time=500]
 ;[black_toplayer][trans_c random][hide_chara_int]
 [zapfade]
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;//[05310]ã¸
+;//[05310]‚Ö
 
 [jump target=*05310_TOP storage="05310.ks"]
 

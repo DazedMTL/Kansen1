@@ -1,13 +1,13 @@
 
-;//ã€æ„ŸæŸ“ï¼ˆä»®é¡Œï¼‰âˆ’å„ªãƒ»ãƒ¡ã‚¤ãƒ³ãƒ«ãƒ¼ãƒˆãƒ†ã‚­ã‚¹ãƒˆã€
+;//wŠ´õi‰¼‘èj|—DEƒƒCƒ“ƒ‹[ƒgƒeƒLƒXƒgx
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02000ã€äºŒäººãã‚Šã«ãªã‚Œã‚‹ãƒãƒ£ãƒ³ã‚¹ã€
-;//BG:è¦–è´è¦šå®¤ï¼šå¤œ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬
+;//¡ËƒuƒƒbƒN02000w“ñl‚«‚è‚É‚È‚ê‚éƒ`ƒƒƒ“ƒXx
+;//BG:‹’®ŠoºF–é
+;//“oêl•¨GålŒö
 
 *02000_TOP
-;[debug_win]ãªã†ã€€02000[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02000 = 1"]
+;[debug_win]‚È‚¤@02000[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02000 = 1"]
 
 [eval exp="f.prologue_route = 0"]
 [eval exp="f.yuu_route1 = 1"]
@@ -20,20 +20,20 @@
 [eval exp="f.hitomi_route4 = 0"]
 [eval exp="f.infection_route = 0"]
 
-;*SceneSet|ã€äºŒäººãã‚Šã«ãªã‚Œã‚‹ãƒãƒ£ãƒ³ã‚¹ã€
+;*SceneSet|w“ñl‚«‚è‚É‚È‚ê‚éƒ`ƒƒƒ“ƒXx
 
 ;//[02000]
 
-;//flag:ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ãƒ•ãƒ­ãƒ¼ã€€ï¼¡ã€€è¡¨ç¤º
-;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ç”»é¢ã€€è¡¨ç¤º
-;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€Startã€€è¡¨ç¤º
+;//flag:ƒvƒƒ[ƒOƒtƒ[@‚`@•\¦
+;//flag:—Dƒ‹[ƒgƒtƒ[‰æ–Ê@•\¦
+;//flag:—Dƒ‹[ƒgƒtƒ[@Start@•\¦
 
 ;//BG:bg015d
 
 [bg storage="bg05c"]
 [trans_c cross time=500]
 
-;//â™ªï¼šBGMç„¡éŸ³
+;//ôFBGM–³‰¹
 [fadeoutbgm time=500]
 
 *1292|
@@ -65,6 +65,6 @@ Alright...[pcms]
 [fc]
 I chased after Yamagishi-san and ran.[pcms]
 
-;//[02010]ã¸
+;//[02010]‚Ö
 [jump target=*02010_TOP storage="02010.ks"]
 

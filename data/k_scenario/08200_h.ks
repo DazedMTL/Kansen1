@@ -1,10 +1,10 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08200ã€ä¿å¥å®¤å¼·å§¦ã€
-;//BG:ä¿å¥å®¤ï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»æœ‹ç¾ãƒ»å„ª
+;//¡ËƒuƒƒbƒN08200w•ÛŒ’º‹­Š­x
+;//BG:•ÛŒ’ºF“_“”
+;//“oêl•¨FålŒöE•ü”üE—D
 
 *08200_H_TOP
-;[debug_win]ãªã†ã€€08200_H[debug_win_end]
+;[debug_win]‚È‚¤@08200_H[debug_win_end]
 
 [eval exp="sf.SRP44 = 1"][if exp="tf.scene_mode == 0"][jump target=*08200_H][endif]
 ;;[winset]
@@ -13,11 +13,11 @@
 
 *08200_H
 
-;*SceneSet|ã€ä¿å¥å®¤ã€
+;*SceneSet|w•ÛŒ’ºx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08200 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08200 = 1"]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 
 ;//[bgm001]
 
@@ -31,7 +31,7 @@
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3625|
 [fc]
@@ -43,13 +43,13 @@ Tomo-chan... Stay still...[pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3626|
 [fc]
 [vo_to s="tomo0441"]
 [ns]Igarashi[nse]
-Bye-keenâ™ª Bye-kinâ™ª Take that~!![pcms]
+Bye-keenô Bye-kinô Take that~!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
@@ -74,7 +74,7 @@ Bwahahaha!![pcms]
 [fc]
 Yamagishi-san, after finishing Igarashi-san's knee[r]treatment, approached me and asked a question in a low[r]voice.[pcms]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 [bgm007]
 
@@ -83,7 +83,7 @@ Yamagishi-san, after finishing Igarashi-san's knee[r]treatment, approached me an
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3627|
 [fc]
@@ -108,7 +108,7 @@ Igarashi-san continues, supplementing my words.[pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3628|
 [fc]
@@ -126,7 +126,7 @@ That's right~! From both of them~ I had a penis inserted[r]into my genitals and 
 Yamagishi-san's face quickly turns pale.[l][er]
 Are we saying something strange?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3629|
 [fc]
@@ -149,7 +149,7 @@ We were planning to play with Yamagishi-san!![pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3630|
 [fc]
@@ -179,7 +179,7 @@ That's not fair! Include me too![pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3631|
 [fc]
@@ -188,7 +188,7 @@ That's not fair! Include me too![pcms]
 Eh? Eh? W-What? B-Both of you, stop!![l][er]
 Stop it!![pcms]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 
 [se0 storage="se021"]
 
@@ -297,7 +297,7 @@ Huh? Yamagishi-san's face is all sticky.[pcms]
 [fc]
 I wonder if Yamagishi-san is overflowing with the semen that[r]Shinya released...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 [se0 storage="se059" loop=true]
 
 *v3638|
@@ -527,7 +527,7 @@ I'm going to pee...[pcms]
 Stop!! Please!! Both of you, stop!![l][er]
 Nnnn! Ubuhh!![pcms]
 
-;//SE:æ”¾å°¿
+;//SE:•ú”A
 [se0 storage="se064"]
 
 ;;;[sysbt_meswin clear]
@@ -620,7 +620,7 @@ Ready, set! Go![pcms]
 
 [flash_re]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 [se0 storage="se058"]
 
 [evcg storage="HEV_206_f"]
@@ -649,7 +649,7 @@ Is it... Is it really this tight?[pcms]
 [fc]
 I have to move for now... It's not satisfying to just stay[r]still...[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
 
 [se1 storage="se060" loop=true]
 
@@ -672,7 +672,7 @@ Ahh...[pcms]
 [fc]
 [vo_to s="tomo0452"]
 [ns]Igarashi[nse]
-Ahaha... That's nice... Yuu-chan...  It's good that your[r]first partner is someone you likeâ™ª[pcms]
+Ahaha... That's nice... Yuu-chan...   It's good that your[r]first partner is someone you likeô[pcms]
 
 *9917|
 [fc]
@@ -682,7 +682,7 @@ I like you... What... is that...?[pcms]
 [fc]
 The words I like you... Somehow, the excitement is[r]increasing?[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [se1 storage="se061"]
 
@@ -731,15 +731,15 @@ I can't take it anymore! My dick is going to explode![pcms]
 [ns]Kato[nse]
 Uwaa!! N-No, it's no good! I'm gonna cum!![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se1]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -773,7 +773,7 @@ Uwaa!! N-No, it's no good! I'm gonna cum!![pcms]
 Nooo!! Uwaaaahh!! Kato-kun's...[l][er]
 It's hot inside me!? Aahh! Nooo![pcms]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -880,11 +880,11 @@ semen is overflowing...[pcms]
 That's the one I released earlier...[l][er]
 It feels slimy... My hips are moving on their own...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [se1 storage="se061" loop=true]
 
@@ -935,15 +935,15 @@ You idiot! Stop it![pcms]
 Ah... It's tightening... It's worth mentioning...[l][er]
 Ah... It's coming out again...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@’x‚¢@’â~
 
 [stop_se1]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -1072,5 +1072,5 @@ Yamagishi-san... Clean me up nicely, please...[pcms]
 [ns]Yamagishi[nse]
 Huh... Wha, what are you...[pcms]
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*08210_H_TOP storage="08210_H.ks"]

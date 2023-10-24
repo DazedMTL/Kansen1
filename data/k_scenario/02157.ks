@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02157ã€å‘Šç™½ã€
-;//BG:å±‹ä¸Šï¼šå¤œ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02157w”’x
+;//BG:‰®ãF–é
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02157_TOP
-;[debug_win]ãªã†ã€€02157[debug_win_end]
+;[debug_win]‚È‚¤@02157[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02157 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02157 = 1"]
 
-;*SceneSet|ã€å‘Šç™½ã€
+;*SceneSet|w”’x
 
-;//â™ªï¼šBGM010
+;//ôFBGM010
 
 ;//[bgm010]
 
@@ -23,18 +23,18 @@
 ;//[bg storage="bg22f"]
 ;//[trans_c cross time=500]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1105|
 [fc]
 [vo_ya s="yama0393"]
 [ns]Yamagishi[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *2860|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *2861|
 [fc]
@@ -45,7 +45,7 @@ After a brief moment of staring at each other, Yamagishi-san[r]averted her gaze 
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1106|
 [fc]
@@ -58,7 +58,7 @@ It's... quiet, isn't it...[pcms]
 [ns]Kato[nse]
 Yeah...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1107|
 [fc]
@@ -66,7 +66,7 @@ Yeah...[pcms]
 [ns]Yamagishi[nse]
 I feel uneasy if we don't talk about something...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1108|
 [fc]
@@ -77,14 +77,14 @@ Everyone has gone crazy...[pcms]
 *2863|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *2864|
 [fc]
 [ns]Kato[nse]
 Are we the only ones who are sane...?[pcms]
 
-;//SE:é¢¨ã®éŸ³
+;//SE:•—‚Ì‰¹
 
 [se0 storage="se019"]
 
@@ -93,7 +93,7 @@ Are we the only ones who are sane...?[pcms]
 A cool breeze blows down from the mountain.[l][er]
 Yamagishi-san's hair flutters in the wind.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1109|
 [fc]
@@ -106,7 +106,7 @@ Yamagishi-san's hair flutters in the wind.[pcms]
 [ns]Kato[nse]
 ... Yeah...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1110|
 [fc]
@@ -118,15 +118,15 @@ Yamagishi-san's hair flutters in the wind.[pcms]
 [fc]
 Yamagishi-san looked up at the sky with a slightly sad[r]expression on her face.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1111|
 [fc]
 [vo_ya s="yama0399"]
 [ns]Yamagishi[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1112|
 [fc]
@@ -134,7 +134,7 @@ Yamagishi-san looked up at the sky with a slightly sad[r]expression on her face.
 [ns]Yamagishi[nse]
 I've always been alone...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1113|
 [fc]
@@ -151,7 +151,7 @@ Her eyes, as she looked up, were illuminated by the[r]moonlight and swayed with 
 [ns]Kato[nse]
 Yamagishi-san...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1114|
 [fc]
@@ -159,7 +159,7 @@ Yamagishi-san...[pcms]
 [ns]Yamagishi[nse]
 The boys who approach me are always people who don't[r]understand my feelings...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1115|
 [fc]
@@ -169,7 +169,7 @@ Girls... they... the girls who I thought were my friends...[l][er]
 behind my back... they would say things like Your mom is an[r]actress, so even you, her daughter, get all the attention[r]from guys.[l][er]
 I'm so jealous...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1116|
 [fc]
@@ -178,7 +178,7 @@ I'm so jealous...[pcms]
 There were many people around me, but in reality, I was all[r]alone...[l][er]
 No one truly saw the real me...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1117|
 [fc]
@@ -186,7 +186,7 @@ No one truly saw the real me...[pcms]
 [ns]Yamagishi[nse]
 Even when I go home, I'm mostly alone...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1118|
 [fc]
@@ -203,7 +203,7 @@ Yamagishi-san blushed and chuckled shyly as I spoke all at[r]once, then she turn
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1119|
 [fc]
@@ -232,20 +232,20 @@ What should I say to Yamagishi-san?[pcms]
 [fc]
 Once again, silence fell between the two of them.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1120|
 [fc]
 [vo_ya s="yama0408"]
 [ns]Yamagishi[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1121|
 [fc]
@@ -257,9 +257,9 @@ with you...[pcms]
 *2874|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1122|
 [fc]
@@ -272,7 +272,7 @@ Hey, Kato-kun...[pcms]
 [ns]Kato[nse]
 What?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1123|
 [fc]
@@ -290,7 +290,7 @@ A slightly bitter memory from last summer...[pcms]
 [ns]Kato[nse]
 ... Yeah.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1124|
 [fc]
@@ -303,7 +303,7 @@ Back then, I... I was confessed to by that person.[pcms]
 [ns]Kato[nse]
 Yeah...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1125|
 [fc]
@@ -321,15 +321,15 @@ Is that so...[pcms]
 Up until that point, it was a story that I knew.[l][er]
 After all, I saw it with my own eyes and heard it with my[r]own ears.[pcms]
 
-;//â™ªï¼šBGM010åœæ­¢
+;//ôFBGM010’â~
 
 [fadeoutbgm time=500]
 
-;//SE:é¢¨ã®éŸ³
+;//SE:•—‚Ì‰¹
 
 [se0 storage="se019"]
 
-;//SE:è™«ã®éŸ³ãƒ«ãƒ¼ãƒ—
+;//SE:’‚Ì‰¹ƒ‹[ƒv
 
 [se0 storage="se018" loop=true]
 
@@ -338,7 +338,7 @@ After all, I saw it with my own eyes and heard it with my[r]own ears.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1126|
 [fc]
@@ -364,7 +364,7 @@ A slight strength is put into Yamagishi-san's hand, which is[r]overlapped with m
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1127|
 [fc]
@@ -385,7 +385,7 @@ A cool breeze blows through the space between Yamagishi-san[r]and me, coming dow
 [fc]
 Yamagishi-san nodded at me with a serious expression, as I[r]showed a dumbfounded look at the sudden turn of events.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1128|
 [fc]
@@ -408,7 +408,7 @@ This is not the time to be spacing out.[l][er]
 Yamagishi-san is waiting for my response.[l][er]
 I have to respond to her serious feelings...![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1129|
 [fc]
@@ -417,7 +417,7 @@ I have to respond to her serious feelings...![pcms]
 Kato-kun, unlike other people, always notices the little[r]details...[l][er]
 like today, with your tie...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1130|
 [fc]
@@ -426,18 +426,18 @@ like today, with your tie...[pcms]
 And, even during club activities, you go along with my[r]conversations even when it's difficult for you...[l][er]
 right?[pcms]
 
-;//â™ªï¼šBGM010ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM010ƒtƒF[ƒhƒCƒ“
 
 [bgm010]
 
-;//SE:è™«ã®éŸ³ã€€åœæ­¢
+;//SE:’‚Ì‰¹@’â~
 
 [stop_se0]
 
 *2890|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *2891|
 [fc]
@@ -448,7 +448,7 @@ It seems that Yamagishi-san was fully aware of the fact that[r]my knowledge of m
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1131|
 [fc]
@@ -484,7 +484,7 @@ I returned the gesture and firmly held Yamagishi-san's hand,[r]which had been he
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1132|
 [fc]
@@ -505,7 +505,7 @@ I felt pathetic as a man for not saying anything out of fear[r]of being rejected
 [fc]
 However, that feeling quickly disappeared when I realized[r]the happy fact that the girl I admired also had feelings for[r]me.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1133|
 [fc]
@@ -518,7 +518,7 @@ That's right...[pcms]
 [ns]Kato[nse]
 ...?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1134|
 [fc]
@@ -549,7 +549,7 @@ Yamagishi-san shook her head when I said it with a smile.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1135|
 [fc]
@@ -566,7 +566,7 @@ Huh... Why?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1136|
 [fc]
@@ -574,7 +574,7 @@ Huh... Why?[pcms]
 [ns]Yamagishi[nse]
 My mom's friend is a movie director, and when that person[r]came to our house, they watched me act.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1137|
 [fc]
@@ -597,7 +597,7 @@ She shook her head at my words and smiled brightly.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1138|
 [fc]
@@ -615,7 +615,7 @@ I see...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1139|
 [fc]
@@ -643,7 +643,7 @@ Yamagishi-san smiled happily and looked up at the night sky.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1140|
 [fc]
@@ -656,7 +656,7 @@ If it were true, it would have been a more wonderful[r]night...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1141|
 [fc]
@@ -672,31 +672,31 @@ As Yamagishi-san said, if it weren't for this situation, it[r]would have been a 
 [fc]
 So, if we can safely get out of this situation and it's no[r]longer like this, I thought I would go somewhere with her,[r]go to various places together.[pcms]
 
-;//â€»é¸æŠè‚¢
-;//ãƒ»ã©ã“ã«è¡ŒããŸã„ã‹èã„ã¦ã¿ã‚ˆã†ã‹;//[02158]ã¸
-;//ãƒ»ä»Šã¯æƒ³ã„ãŒé€šã˜ãŸå¹¸ã›ã«æµ¸ã£ã¦ãŠã“ã†;//[02159]ã¸
+;//¦‘I‘ğˆ
+;//E‚Ç‚±‚És‚«‚½‚¢‚©•·‚¢‚Ä‚İ‚æ‚¤‚©;//[02158]‚Ö
+;//E¡‚Í‘z‚¢‚ª’Ê‚¶‚½K‚¹‚ÉZ‚Á‚Ä‚¨‚±‚¤;//[02159]‚Ö
 
 
-*SEL01|ã©ã“ã«è¡ŒããŸã„ã‹èã„ã¦ã¿ã‚ˆã†ã‹ï¼ä»Šã¯æƒ³ã„ãŒé€šã˜ãŸå¹¸ã›ã«æµ¸ã£ã¦ãŠã“ã†
+*SEL01|‚Ç‚±‚És‚«‚½‚¢‚©•·‚¢‚Ä‚İ‚æ‚¤‚©^¡‚Í‘z‚¢‚ª’Ê‚¶‚½K‚¹‚ÉZ‚Á‚Ä‚¨‚±‚¤
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'ã©ã“ã«è¡ŒããŸã„ã‹èã„ã¦ã¿ã‚ˆã†ã‹'"]
-[eval exp="f.seltext04 = 'ä»Šã¯æƒ³ã„ãŒé€šã˜ãŸå¹¸ã›ã«æµ¸ã£ã¦ãŠã“ã†'"]
+[eval exp="f.seltext02 = '‚Ç‚±‚És‚«‚½‚¢‚©•·‚¢‚Ä‚İ‚æ‚¤‚©'"]
+[eval exp="f.seltext04 = '¡‚Í‘z‚¢‚ª’Ê‚¶‚½K‚¹‚ÉZ‚Á‚Ä‚¨‚±‚¤'"]
 
 
-[if exp="tf.sys_sub == 0 || tf.é¸æŠè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
-	;é¸æŠè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
+[if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
+	;‘I‘ğˆ“à—e‚ğƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[å±¥æ­´å‡ºåŠ›å¾©å¸°]
+[—š—ğo—Í•œ‹A]
 
-;é¸æŠè‚¢ãƒ™ãƒ¼ã‚¹
+;‘I‘ğˆƒx[ƒX
 [selbase]
-;æ–‡å­—ã®å·¦ãƒãƒ¼ã‚¸ãƒ³
+;•¶š‚Ì¶ƒ}[ƒWƒ“
 [eval exp="sf.seltext_x = 200"]
 
 [sel02 target=*SEL00_HEAR]

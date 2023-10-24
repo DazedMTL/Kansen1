@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02165ã€æ•‘åŠ©éƒ¨éšŠã€
-;//BG:å±‹ä¸Šï¼šæœ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…ãƒ»ç³ãƒ»ç”°ä¸­ãƒ»æœ‹ç¾ãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02165w‹~••”‘àx
+;//BG:‰®ãF’©
+;//“oêl•¨GålŒöE—DE’|“àE“µE“c’†E•ü”üEƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02165_TOP
-;[debug_win]ãªã†ã€€02165[debug_win_end]
+;[debug_win]‚È‚¤@02165[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02165 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02165 = 1"]
 
-;*SceneSet|ã€æ•‘åŠ©éƒ¨éšŠã€
+;*SceneSet|w‹~••”‘àx
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 ;//[bgm008]
 
@@ -33,7 +33,7 @@ Yamagishi-san, run to the roof on the opposite side of the[r]entrance![pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1156|
 [fc]
@@ -52,7 +52,7 @@ Got it?[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1157|
 [fc]
@@ -78,7 +78,7 @@ Besides, we promised to go home together, didn't we?[pcms]
 [fc]
 Yamagishi-san, who listened to my words, showed a complex[r]smile mixed with anxiety and replied firmly.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1158|
 [fc]
@@ -92,5 +92,5 @@ Yamagishi-san hesitated for a moment, took a few steps back,[r]and then started 
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//[02166]ã¸
+;//[02166]‚Ö
 [jump target=*02166_TOP storage="02166.ks"]

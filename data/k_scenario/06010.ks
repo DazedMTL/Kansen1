@@ -1,18 +1,18 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯06010ã€ä¸æ©Ÿå«Œå²¸ç”°â€¦ç«¹å†…ç™ºè¦‹ã€
-;//BG:æ˜‡é™å£å‰å»Šä¸‹ï¼å¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›å²¸ç”°ãƒ»ç«¹å†…
-;//è¦–ç‚¹ï¼šå²¸ç”°
+;//¡ËƒuƒƒbƒN06010w•s‹@Œ™Šİ“cc’|“à”­Œ©x
+;//BG:¸~Œû‘O˜L‰º^–éFÁ“”
+;//“oêl•¨GŠİ“cE’|“à
+;//‹“_FŠİ“c
 
 *06010_TOP
-;[debug_win]ãªã†ã€€06010[debug_win_end]
-;*SceneSet|ã€ä¸æ©Ÿå«Œå²¸ç”°â€¦ç«¹å†…ç™ºè¦‹ã€
+;[debug_win]‚È‚¤@06010[debug_win_end]
+;*SceneSet|w•s‹@Œ™Šİ“cc’|“à”­Œ©x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_06010 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_06010 = 1"]
 
-;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€zapï¼‘ã€€è¡¨ç¤º
+;//flag:“µƒ‹[ƒgƒtƒ[@zap‚P@•\¦
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 [bgm007]
 
@@ -74,7 +74,7 @@ Well, they're obedient to me, so...[l][er]
 If they're not waiting, then...[l][er]
 hehehe.[pcms]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 *6405|
@@ -92,7 +92,7 @@ They're really enthusiastic. Are movies something you stay[r]overnight to watch?
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std385|
 [fc]
 [ns]Takeuchi[nse]
@@ -106,7 +106,7 @@ I'm coughing again...[pcms]
 
 [wait_c time=1000]
 
-;//â€»ç«‹ã¡ã‚­ãƒ£ãƒ©æ¶ˆå»
+;//¦—§‚¿ƒLƒƒƒ‰Á‹
 [backlay_c][chara_int][trans_c cross time=150]
 
 *6407|
@@ -138,7 +138,7 @@ I'm starting to get irritated...[pcms]
 Woahhhh!! Shit![pcms]
 
 ;	/*
-;	;//SE:å£ã‚’æ®´ã‚‹
+;	;//SE:•Ç‚ğ‰£‚é
 ;	[se0 storage="se028"]
 ;	*/
 
@@ -169,5 +169,5 @@ I'll make him regret irritating me...[pcms]
 
 
 
-;//[06020]ã¸
+;//[06020]‚Ö
 [jump target=*06020_TOP storage="06020.ks"]

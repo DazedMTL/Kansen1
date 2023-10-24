@@ -1,41 +1,41 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08270ã€ã‚‰ã‚“ã“ã†ã€
-;//;//BG:æ•™å®¤ï¼šå¤•æ–¹
+;//¡ËƒuƒƒbƒN08270w‚ç‚ñ‚±‚¤x
+;//;//BG:‹³ºF—[•û
 [ns]Tanaka[nse]
 
 
-;mm ãƒ©ãƒ™ãƒ«ã«_HãŒãªã‹ã£ãŸã®ã§ä»–ã¨åˆã‚ã›
+;mm ƒ‰ƒxƒ‹‚É_H‚ª‚È‚©‚Á‚½‚Ì‚Å‘¼‚Æ‡‚í‚¹
 *08270_H_TOP
-;[debug_win]ãªã†ã€€08270_H[debug_win_end]
+;[debug_win]‚È‚¤@08270_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [eval exp="sf.SRP47 = 1"][if exp="tf.scene_mode == 0"][jump target=*08270][endif]
 ;;[winset]
 [bgm001]
 [jump target=*scene_start]
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *08270
 
-;*SceneSet|ã€ã‚‰ã‚“ã“ã†ã€
+;*SceneSet|w‚ç‚ñ‚±‚¤x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08270 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08270 = 1"]
 
-;//flag:ä¸»äººå…¬æ„ŸæŸ“ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼•ã€€è¡¨ç¤º
+;//flag:ålŒöŠ´õƒ‹[ƒgƒtƒ[@‚T@•\¦
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 [bgm001]
 
-;//;//BG:bgç„¡ã—
+;//;//BG:bg–³‚µ
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
@@ -73,7 +73,7 @@ There are women around me... Who is it...?[pcms]
 
 ;;;[sysbt_meswin]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
@@ -216,7 +216,7 @@ I'll go in the girl with long hair.[pcms]
 [ns]Kato[nse]
 Y-You... it's fine... I'll go inside you...[pcms]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 
 [se0 storage="se058"]
 
@@ -257,7 +257,7 @@ But still, it's amazing... Kato-kun's goes in and out of[r]Hitomi-san's...[pcms]
 Kato? Is it me...? It's about me...[l][er]
 But, never mind... I want to feel even better...[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [se1 storage="se061" loop=true]
 
@@ -287,7 +287,7 @@ is... giving out... And... it's overflowing like I'm...[l][er]
 wetting myself... with love juices...[l][er]
 It won't stop... Nghh... Chuuhh![pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se1]
 
@@ -358,7 +358,7 @@ The woman with long hair seductively smiles and invites me.[pcms]
 [ns]Kato[nse]
 I understand... I should do it more forcefully, right...?[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [se0 storage="se061" loop=true]
 
@@ -468,11 +468,11 @@ Did both of them come together...?[pcms]
 [ns]Kato[nse]
 Ah...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se1]
 
@@ -497,7 +497,7 @@ Ah...[pcms]
 
 ;;;[sysbt_meswin]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -529,30 +529,30 @@ And once again, my eyelids grew heavy...[pcms]
 ;//blackout
 
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn48 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn48 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;BGMåœæ­¢
+;BGM’â~
 [fadeoutbgm time=500]
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*08280_TOP storage="08280.ks"]
 

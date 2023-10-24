@@ -1,32 +1,32 @@
-;//â–³â–½â–²;//â–¼;//â–³;//â–½â–²;//â–¼;//â–³;//â–½â–²;//â–¼;//â–³;//â–½â–²;//â–¼;//â–³;//â–½â–²;//â–¼;//â–³;//â–½â–²;//â–¼;//â–³;//â–½â–²;//â–¼;//â–³;//â–½â–²;//â–¼
-;//â– ãƒ–ãƒ­ãƒƒã‚¯0003ï¼šã€æ˜ ç”»ç ”ç©¶éƒ¨ã®éƒ¨å“¡ï¼šå„ªã€
-;//BG:å­¦åœ’å†…ï¼šå»Šä¸‹ï¼šæ˜¼
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»ç«¹å†…
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼
+;//¢¤£;//¥;//¢;//¤£;//¥;//¢;//¤£;//¥;//¢;//¤£;//¥;//¢;//¤£;//¥;//¢;//¤£;//¥;//¢;//¤£;//¥;//¢;//¤£;//¥
+;//¡ƒuƒƒbƒN0003Fw‰f‰æŒ¤‹†•”‚Ì•”ˆõF—Dx
+;//BG:Šw‰€“àF˜L‰ºF’‹
+;//“oêl•¨GålŒöE—DE“µE’|“à
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥
 
 *0003_TOP
-;[debug_win]ãªã†ã€€0003[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0003 = 1"]
+;[debug_win]‚È‚¤@0003[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0003 = 1"]
 
-;*SceneSet|ã€æ˜ ç”»ç ”ç©¶éƒ¨ã®éƒ¨å“¡ã€
+;*SceneSet|w‰f‰æŒ¤‹†•”‚Ì•”ˆõx
 
-;//â™ªï¼šBGM01
+;//ôFBGM01
 ;//[bgm001]
 ;//BG:bg006a
 
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [bg storage="bg06a"]
 [trans_c cross time=500]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
-;//â€»å±±å²¸
+;—§‚¿
+;//¦RŠİ
 *v21|
 [fc]
 [vo_ya s="yama0013"]
@@ -46,7 +46,7 @@ She is one of the most attractive girls in our grade, and[r]the person I admire.
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v22|
 [fc]
@@ -91,7 +91,7 @@ And along with that, I am reminded of the phrase 'the guy[r]I'm interested in'.[
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v23|
 [fc]
@@ -99,13 +99,13 @@ And along with that, I am reminded of the phrase 'the guy[r]I'm interested in'.[
 [ns]Yamagishi[nse]
 Ah, Hitomi-san! Hitomi-san, let's go together too.[pcms]
 
-;//æ¸…æ°´ï¼ ä½ä¼¯ã•ã‚“â†’ç³ã•ã‚“
+;//´…—²”Œ‚³‚ñ¨“µ‚³‚ñ
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v24|
 [fc]
@@ -122,7 +122,7 @@ Saeki, who caught up later, responded to Yamagishi-san's[r]greeting with a curt 
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v25|
 [fc]
@@ -135,7 +135,7 @@ But, if possible, let's all go together...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v26|
 [fc]
@@ -153,7 +153,7 @@ No, this is...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v27|
 [fc]
@@ -166,7 +166,7 @@ Well, if I'm with Yamagishi-san, the model student who is[r]favored by the teach
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v28|
 [fc]
@@ -188,7 +188,7 @@ Saeki abruptly turned away without listening to my words[r]until the end, and st
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v29|
 [fc]
@@ -200,7 +200,7 @@ Ah, Hitomi-san...[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std14|
 [fc]
 [ns]Takeuchi[nse]
@@ -227,7 +227,7 @@ Until Saeki's figure disappeared from sight, Shinya and I[r]stood there, perplex
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v30|
 [fc]
@@ -240,5 +240,5 @@ Until Saeki's figure disappeared from sight, Shinya and I[r]stood there, perplex
 [ns]Kato[nse]
 U-um, yeah, that's right, let's go.[pcms]
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*0004_TOP storage="0004.ks"]

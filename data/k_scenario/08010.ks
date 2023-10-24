@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08010ã€ã‚´ãƒŸæ¨ã¦ã€
-;//BG:å­¦åœ’å†…å­¦é£Ÿï¼šå¤•æ–¹
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­
+;//¡ËƒuƒƒbƒN08010wƒSƒ~Ì‚Äx
+;//BG:Šw‰€“àŠwHF—[•û
+;//“oêl•¨GålŒöE—DE“µE•ü”üE’|“àE“c’†
 
 *08010_TOP
-;[debug_win]ãªã†ã€€08010[debug_win_end]
-;*SceneSet|ã€ã‚´ãƒŸæ¨ã¦ã€
+;[debug_win]‚È‚¤@08010[debug_win_end]
+;*SceneSet|wƒSƒ~Ì‚Äx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08010 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08010 = 1"]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 
 ;//[bgm001]
 
@@ -21,7 +21,7 @@
 [bg storage="bg14b"]
 [trans_c cross time=500]
 
-;//SE:é£Ÿå™¨ã‚’æ´—ã†éŸ³
+;//SE:HŠí‚ğô‚¤‰¹
 [se0 storage="se052"]
 
 
@@ -42,7 +42,7 @@ As expected, Yuuji followed her, hugging her as he went[r]along.[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3373|
 [fc]
@@ -55,7 +55,7 @@ Um... Yamagishi-san, could you teach me how to cook next[r]time?[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3374|
 [fc]
@@ -89,7 +89,7 @@ Shinya... What should we do...?[pcms]
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std469|
 [fc]
 [ns]Takeuchi[nse]
@@ -110,7 +110,7 @@ Ah... What should I do...?[pcms]
 [ChrSetParts layer=1 chface="sae_c_c_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3375|
 [fc]
@@ -132,7 +132,7 @@ Right before falling asleep...[pcms]
 [ChrSetParts layer=1 chface="sae_c_c_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3376|
 [fc]
@@ -155,7 +155,7 @@ Why can this person casually say such terrible things...?[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3377|
 [fc]
@@ -175,7 +175,7 @@ Come on, let's go.[pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std470|
 [fc]
 [ns]Takeuchi[nse]
@@ -194,7 +194,7 @@ Shinya, for some reason, had a puzzled look on his face as[r]he peered into the 
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std471|
 [fc]
 [ns]Takeuchi[nse]
@@ -205,7 +205,7 @@ Huh... What's this...? There are still plenty of vegetables[r]in the trash that 
 [ChrSetParts layer=1 chface="sae_c_c_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3378|
 [fc]
@@ -218,7 +218,7 @@ Huh... What's this...? There are still plenty of vegetables[r]in the trash that 
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std472|
 [fc]
 [ns]Takeuchi[nse]
@@ -246,7 +246,7 @@ but when she looked up, she saw Saeki taking a deep breath,[r]as if she was abou
 [ChrSetParts layer=1 chface="sae_c_c_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3379|
 [fc]
@@ -254,5 +254,5 @@ but when she looked up, she saw Saeki taking a deep breath,[r]as if she was abou
 [ns]Saeki[nse]
 Carry out the given role promptly!![pcms]
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*08020_H_TOP storage="08020_H.ks"]

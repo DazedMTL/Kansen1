@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07350ã€çµ¶æ„›ã€
-;//BG:å±‹ä¸Šï¼šå¤•æ–¹ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN07350wâˆ¤x
+;//BG:‰®ãF—[•ûFÁ“”
+;//“oêl•¨GålŒöE“µ
 
 *07350_TOP
-;[debug_win]ãªã†ã€€07350[debug_win_end]
-;*SceneSet|ã€çµ¶æ„›ã€
+;[debug_win]‚È‚¤@07350[debug_win_end]
+;*SceneSet|wâˆ¤x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07350 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07350 = 1"]
 
-;//â™ªï¼šBGM010
+;//ôFBGM010
 [bgm010]
 
 ;//;//BG:bg22e
@@ -38,7 +38,7 @@ And I can't help but be strangely aware of Saeki.[pcms]
 [fc]
 Unlike just a moment ago... as a 'woman'...[pcms]
 
-;//SE:å¿ƒæ‹éŸ³
+;//SE:S”‰¹
 [se0 storage="se003"]
 
 *8375|
@@ -51,7 +51,7 @@ Ugh...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3322|
 [fc]
@@ -59,7 +59,7 @@ Ugh...[pcms]
 [ns]Saeki[nse]
 How... are you feeling? Is the pain still there?[pcms]
 
-;//SE:å¿ƒæ‹éŸ³
+;//SE:S”‰¹
 
 [se0 storage="se003"]
 
@@ -76,7 +76,7 @@ There was no pain.[pcms]
 [fc]
 My whole body was burning with heat, to the point where I[r]wanted to take off my clothes right away, more than feeling[r]any pain.[pcms]
 
-;//SE:å¿ƒæ‹éŸ³
+;//SE:S”‰¹
 [se0 storage="se003"]
 
 *8379|
@@ -101,7 +101,7 @@ Saeki, who should have been the only one, appears to have[r]multiplied into thre
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3323|
 [fc]
@@ -193,11 +193,11 @@ Saeki's hair, illuminated by the setting sun, fluttered in[r]the wind and turned
 [fc]
 From Saeki's eyes, burning with a golden glow, a stream of[r]golden tears flows down while she smiles.[pcms]
 
-;//â™ªï¼šBGM011
+;//ôFBGM011
 
 [bgm011]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3324|
 [fc]
@@ -221,7 +221,7 @@ Haha... the same... it's... you...[pcms]
 [ns]Kato[nse]
 Oh, same... it's... you...[pcms]
 
-;//SE;ã‚µã‚¤ãƒ¬ãƒ³ã€€ãƒ«ãƒ¼ãƒ—
+;//SE;ƒTƒCƒŒƒ“@ƒ‹[ƒv
 [se1 storage="se051" loop=true]
 
 *8404|
@@ -268,7 +268,7 @@ I'm going crazy...[pcms]
 [ns]Kato[nse]
 Ah...[pcms]
 
-;//SE:ãƒ˜ãƒªã‚³ãƒ—ã‚¿ãƒ¼ã®éŸ³ã€€é ã„
+;//SE:ƒwƒŠƒRƒvƒ^[‚Ì‰¹@‰“‚¢
 [se0 storage="se033"]
 
 *8413|
@@ -284,7 +284,7 @@ It seems like they are giving instructions to us repeatedly.[pcms]
 [fc]
 After the voice sounded for the umpteenth time, gunshots[r]rang out.[pcms]
 
-;//SE:éŠƒå£°ï¼ˆãƒ©ã‚¤ãƒ•ãƒ«ï¼‰
+;//SE:eºiƒ‰ƒCƒtƒ‹j
 [se0 storage="se038"]
 
 *8416|
@@ -340,7 +340,7 @@ but not anymore...[pcms]
 we... we were the strange ones...[l][er]
 right... haha, hahaha...[pcms]
 
-;//SE:éŠƒå£°ï¼ˆãƒ©ã‚¤ãƒ•ãƒ«ï¼‰
+;//SE:eºiƒ‰ƒCƒtƒ‹j
 [se0 storage="se038"]
 
 *8426|
@@ -356,7 +356,7 @@ Saeki finally opened her mouth in response to the sound of[r]gunshots.[pcms]
 [ChrSetParts layer=1 chface="sae_c_d_13"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3325|
 [fc]
@@ -379,7 +379,7 @@ I also smile back in the same way.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:éŠƒå£°ï¼ˆãƒ©ã‚¤ãƒ•ãƒ«ï¼‰
+;//SE:eºiƒ‰ƒCƒtƒ‹j
 [se0 storage="se038"]
 
 *8431|
@@ -418,7 +418,7 @@ Saeki, who continued to smile, reached out her hand to me as[r]I chuckled and re
 [ChrSetParts layer=1 chface="sae_c_d_13"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3326|
 [fc]
@@ -455,10 +455,10 @@ I, too, should realize it soon, but...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:ãƒ˜ãƒªã‚³ãƒ—ã‚¿ãƒ¼ã®éŸ³ã€€è¿‘ã„
+;//SE:ƒwƒŠƒRƒvƒ^[‚Ì‰¹@‹ß‚¢
 [se0 storage="se034"]
 
-;//SE:éŠƒå£°ï¼ˆãƒ©ã‚¤ãƒ•ãƒ«ï¼‰
+;//SE:eºiƒ‰ƒCƒtƒ‹j
 [se0 storage="se038"]
 
 *8444|
@@ -473,7 +473,7 @@ The source of the gunshot is coming very close.[pcms]
 [fc]
 Saeki's face gradually lost its smile and became serious.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3327|
 [fc]
@@ -486,7 +486,7 @@ We will meet again, won't we?[pcms]
 [ns]Kato[nse]
 It's okay, I'm naive... so I won't let go of you until the[r]end.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3328|
 [fc]
@@ -516,7 +516,7 @@ Aren't you scared?[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3329|
 [fc]
@@ -534,7 +534,7 @@ Saeki, who used to be so scared, now...[pcms]
 [ns]Kato[nse]
 Haha... Is Saeki the only one who's scared?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3330|
 [fc]
@@ -547,7 +547,7 @@ Because I'm with you, there's nothing to be afraid of[r]anymore...[pcms]
 [ns]Kato[nse]
 Haha...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3331|
 [fc]
@@ -570,7 +570,7 @@ Well then, let's meet again.[pcms]
 [ChrSetParts layer=1 chface="sae_c_d_13"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3332|
 [fc]
@@ -579,9 +579,9 @@ Well then, let's meet again.[pcms]
 Promise.[pcms]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
-;//SE:éŠƒå£°ï¼ˆãƒ©ã‚¤ãƒ•ãƒ«ï¼‰
+;//SE:eºiƒ‰ƒCƒtƒ‹j
 [se0 storage="se038"]
-[ç™½ãƒ•ãƒ© time=500]
+[”’ƒtƒ‰ time=500]
 
 ;[bg storage="effect_white"][se0 storage="se038"]
 ;[trans_c cross time=150]
@@ -613,9 +613,9 @@ Red water overflows from Saeki's chest.[pcms]
 [trans_c cross time=1000]
 [wait_c time=500]
 
-;//SE:éŠƒå£°ï¼ˆãƒ©ã‚¤ãƒ•ãƒ«ï¼‰
+;//SE:eºiƒ‰ƒCƒtƒ‹j
 [se0 storage="se038"]
-[ç™½ãƒ•ãƒ© time=500]
+[”’ƒtƒ‰ time=500]
 
 ;;;[sysbt_meswin clear]
 
@@ -626,5 +626,5 @@ Red water overflows from Saeki's chest.[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[07360]ã¸
+;//[07360]‚Ö
 [jump target=*07360_TOP storage="07360.ks"]

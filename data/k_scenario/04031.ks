@@ -1,27 +1,27 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04031ã€ãŸã„ã¾ã¤3ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//BG:å­¦åœ’å…¥ã‚Šå£ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04031w‚½‚¢‚Ü‚Â3x
+;//BG:“Áê‹³º˜L‰ºF’‹i’©Œ“—pj
+;//BG:Šw‰€“ü‚èŒûF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöEƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04031_TOP
-;[debug_win]ãªã†ã€€04031[debug_win_end]
+;[debug_win]‚È‚¤@04031[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04031 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04031 = 1"]
 
-;*SceneSet|ã€ãŸã„ã¾ã¤ï¼“ã€
+;*SceneSet|w‚½‚¢‚Ü‚Â‚Rx
 
-;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€badï¼”ã€€è¡¨ç¤º
+;//flag:—Dƒ‹[ƒgƒtƒ[@bad‚S@•\¦
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 
 ;//[bgm009]
 
-;//bg008a+zombie_003ã€€ä¸€ä½“
+;//bg008a+zombie_003@ˆê‘Ì
 
 ;	[ChrSetEx layer=1 chbase="zom_01_a"]
 ;	[ChrSetXY layer=1 x=200 y=0]
@@ -32,12 +32,12 @@
 
 *4251|
 [fc]
-;mm 02135ã¨åˆã‚ã›ã¦ã€ã“ã„ã¤ã€ã«ã—ã¦ãŠã
+;mm 02135‚Æ‡‚í‚¹‚Äw‚±‚¢‚Âx‚É‚µ‚Ä‚¨‚­
 With this, we can easily drive them away.[l][er]
 With this, we can easily drive these guys away.[l][er]
 If we give Yamagishi-san and Shinya one too, everyone will[r]be safe from here on out.[pcms]
 [l][er]
-é€ƒã’å‡ºã›ã‚‹ç­ˆã ã€‚
+“¦‚°o‚¹‚é”¤‚¾B
 [pcms]
 
 *4252|
@@ -51,7 +51,7 @@ I think it's better to have more weapons.[pcms]
 [ChrSetParts layer=1 chface="risa_f_f_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1766|
 [fc]
@@ -62,7 +62,7 @@ Yes... Let's bring enough for the two of them too.[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -74,7 +74,7 @@ Yes... Let's bring enough for the two of them too.[pcms]
 [fc]
 Sensei and I easily obtained torches for Yamagishi-san and[r]Shinya, and we ran to the safe zone on the second floor.[pcms]
 
-;//[04032]ã¸
+;//[04032]‚Ö
 [jump target=*04032_H_TOP storage="04032_H.ks"]
 
 

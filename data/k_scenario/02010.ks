@@ -1,28 +1,28 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02010ã€æ¢ç´¢é–‹å§‹ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šç‚¹ç¯ï¼šå¤œ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02010w’TõŠJnx
+;//BG:“Áê‹³º˜L‰ºF“_“”F–é
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02010_TOP
-;[debug_win]ãªã†ã€€02010[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02010 = 1"]
+;[debug_win]‚È‚¤@02010[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02010 = 1"]
 
-;*SceneSet|ã€æ¢ç´¢é–‹å§‹ã€
+;*SceneSet|w’TõŠJnx
 
 ;//[02010]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 [bgm001]
 ;//BG:bg008c
 
 [bg storage="bg08b"]
 [trans_c cross time=500]
 
-;//SE:æ­©ã
+;//SE:•à‚­
 
 *1299|
 [fc]
@@ -43,7 +43,7 @@ Yamagishi-san[l][er]
 [ChrSetParts layer=1 chface="yuu_c_e_14"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v565|
 [fc]
@@ -60,7 +60,7 @@ Ah, s-sorry, um...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v566|
 [fc]
@@ -75,7 +75,7 @@ What's wrong?[pcms]
 U-um, maybe I should go search together with Yamagishi-[r]san...[l][er]
 or something...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v567|
 [fc]
@@ -103,7 +103,7 @@ Maybe she thinks I'm following her around and dislikes me...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v568|
 [fc]
@@ -111,7 +111,7 @@ Maybe she thinks I'm following her around and dislikes me...[pcms]
 [ns]Yamagishi[nse]
 ... But, maybe it was a little helpful.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std196|
 [fc]
 [ns]Takeuchi[nse]
@@ -121,7 +121,7 @@ Eh...?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v569|
 [fc]
@@ -139,7 +139,7 @@ Ah, I-I see. Well, then, that's fortunate.[pcms]
 [fc]
 Thank goodness... I thought she would reject me when I said,[r]Let's split up and search together.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v570|
 [fc]
@@ -152,7 +152,7 @@ But, it would have been better if we had gone together with[r]the three of us fr
 [ns]Kato[nse]
 Eh, w-why?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v571|
 [fc]
@@ -185,7 +185,7 @@ There's nothing here... In the first place, if you're[r]suddenly yelled at with 
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v572|
 [fc]
@@ -201,6 +201,6 @@ Let's do that. I hope she's not crying because she's[r]scared...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//[02020]ã¸
+;//[02020]‚Ö
 [jump target=*02020_TOP storage="02020.ks"]
 

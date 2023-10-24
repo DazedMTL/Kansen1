@@ -1,37 +1,37 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07290ã€å¿˜å´ã€
-;//BG;åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN07290w–Y‹px
+;//BG;’n‰ººFÁ“”
+;//“oêl•¨FålŒöE“µ
 
 *07290_H_TOP
-;[debug_win]ãªã†ã€€07290_H[debug_win_end]
+;[debug_win]‚È‚¤@07290_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [eval exp="sf.SRP39 = 1"][if exp="tf.scene_mode == 0"][jump target=*07290][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *07290
 
-;*SceneSet|ã€å¿˜å´ã€
+;*SceneSet|w–Y‹px
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07290 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07290 = 1"]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 [bgm007]
 
-;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€badï¼“ã€€è¡¨ç¤º
+;//flag:“µƒ‹[ƒgƒtƒ[@bad‚R@•\¦
 
 *7865|
 [fc]
@@ -96,7 +96,7 @@ It seems interesting to violate a sleeping woman...[pcms]
 
 *scene_start
 
-;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM008ƒtƒF[ƒhƒCƒ“
 [bgm008]
 
 [evcg storage="HEV_132_a"]
@@ -122,7 +122,7 @@ Does this person have blood on their crotch?[l][er]
 Come to think of it, earlier...[l][er]
 Did I...?[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
@@ -197,11 +197,11 @@ Ugh... Yes, go... in... slowly...[pcms]
 [ns]Saeki[nse]
 Haaah...[pcms]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 
 [se0 storage="se058"]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
@@ -234,11 +234,11 @@ This is also exciting...[pcms]
 [ns]Kato[nse]
 Ah... It feels... so good...[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
 
 [se0 storage="se060" loop=true]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se1 storage="se059" loop=true]
 
@@ -324,7 +324,7 @@ This woman's voice... And this scent...[pcms]
 When I try to remember, my head...[l][er]
 My head starts to... It's shaking violently inside my head!![pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [se0 storage="se061" loop=true]
 
@@ -453,11 +453,11 @@ The thing that the woman is talking about, moving on its[r]own, is repeatedly lo
 [fc]
 Curious about it, I became interested in how we were[r]connected and decided to take out my thing a little bit to[r]observe.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se1]
 
@@ -479,7 +479,7 @@ I found that small thing cute and wanted to touch it.[l][er]
 That thing, slightly whiter than the surroundings...[l][er]
 I want to confirm the sensation of that thing bouncing and[r]dancing rhythmically...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
@@ -542,13 +542,13 @@ like that! Th-that... no, stop!![pcms]
 Nooo!! St-stop... th-that... no, please...[l][er]
 ughhhh... nooo...!![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//ï¼ æ‰æ¸•ï¼šä¸‹è¨˜ï¼³ï¼¥ãŒè¡¨ã«ãªã„ãŸã‚ã«ç¾åœ¨éŸ³ã‚’å¼µã£ã¦ã„ã¾ã›ã‚“ã€‚
+;//—™ŸºF‰º‹L‚r‚d‚ª•\‚É‚È‚¢‚½‚ß‚ÉŒ»İ‰¹‚ğ’£‚Á‚Ä‚¢‚Ü‚¹‚ñB
 
-;//SE:æ”¾å°¿ï¼ˆçŸ­ãã€å‹¢ã„ã‚ˆãï¼‰
+;//SE:•ú”Ai’Z‚­A¨‚¢‚æ‚­j
 
 ;//[se0 storage="se064"]
 
@@ -593,7 +593,7 @@ I, I'm going to... come...[pcms]
 H-hurry, i-insert it... inside me...[l][er]
 please... thrust... deeply![pcms]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 
 [se0 storage="se058"]
 
@@ -602,11 +602,11 @@ please... thrust... deeply![pcms]
 As I was urged by the woman, I forcefully thrust myself[r]inside her again.[l][er]
 Her insides were much hotter and softer than before...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [se1 storage="se061" loop=true]
 
@@ -673,15 +673,15 @@ Just by thinking that I wanted to release myself inside this[r]woman like this, 
 [ns]Kato[nse]
 Ughhh...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se1]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -738,7 +738,7 @@ Again... my [penis] has gotten bigger...[l][er]
 I want to release it inside her again...[l][er]
 Just like this, inside her... one more time...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 
 [se0 storage="se059"]
 
@@ -756,7 +756,7 @@ The semen that I ejaculated inside is being squeezed out by[r]my thing, foaming 
 [fc]
 That white liquid entangled with my thing, and an[r]indescribable pleasure ran through my spine.[pcms]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 
 [se0 storage="se058"]
 
@@ -769,11 +769,11 @@ That white liquid entangled with my thing, and an[r]indescribable pleasure ran t
 
 ;;;[sysbt_meswin]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [se1 storage="se061" loop=true]
 
@@ -820,15 +820,15 @@ Just as this woman said, my sensitive member reached its[r]limit again in no tim
 [fc]
 I feel like I could ejaculate as many times as I want if[r]it's with this person, so without any restraint, I[r]ejaculated again.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se1]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -872,7 +872,7 @@ The woman gazed at me with a enraptured expression, as if[r]she was caressing he
 
 
 
-;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM008ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
@@ -895,7 +895,7 @@ Y-You... are... amazing... the feeling is too intense...[pcms]
 [ChrSetParts layer=1 chface="sae_c_d_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3173|
 [fc]
@@ -905,9 +905,9 @@ Hehehe... you... too... are...[l][er]
 so... skilled... it feels... good...[l][er]
 but...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
-;//â™ªï¼šBGM004
+;//ôFBGM004
 
 [bgm004]
 
@@ -928,18 +928,18 @@ me, that... makes you...[pcms]
 ;	[ChrSetParts layer=1 chface="sae_c_a_02"]
 ;	[trans_c cross time=150]
 ;	*/
-;ç«‹ã¡
+;—§‚¿
 
 *v3174|
 [fc]
 [vo_sa s="sae1032"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *7944a|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 ;	/*
 ;	[ChrSetEx layer=1 chbase="sae_c_a_01"]
@@ -948,18 +948,18 @@ me, that... makes you...[pcms]
 ;	[trans_c cross time=150]
 ;	*/
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3175|
 [fc]
 [vo_sa s="sae1033"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *7949|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *7950|
 [fc]
@@ -973,7 +973,7 @@ I wonder what's wrong...[pcms]
 ;	[trans_c cross time=150]
 ;	*/
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3176|
 [fc]
@@ -988,7 +988,7 @@ You...[pcms]
 ;	[trans_c cross time=150]
 ;	*/
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3177|
 [fc]
@@ -1008,9 +1008,9 @@ are... you?[pcms]
 
 
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
@@ -1022,21 +1022,21 @@ are... you?[pcms]
 
 
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn40 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn40 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;//â€»ã‚²ãƒ¼ãƒ ã‚ªãƒ¼ãƒãƒ¼
+;//¦ƒQ[ƒ€ƒI[ƒo[
 
 ;;;[sysbt_meswin clear]
 

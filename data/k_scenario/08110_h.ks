@@ -1,40 +1,40 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08110ã€ä½“è‚²æ•™å®˜å®¤ã€
-;//BG;ç„¡ã—
-;//BG:ä½“è‚²æ•™å®˜å®¤ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»ç«¹å†…ãƒ»ãƒªã‚µãƒ»å²¸ç”°
+;//¡ËƒuƒƒbƒN08110w‘Ìˆç‹³Š¯ºx
+;//BG;–³‚µ
+;//BG:‘Ìˆç‹³Š¯ºF–éF“_“”
+;//“oêl•¨FålŒöE’|“àEƒŠƒTEŠİ“c
 
 *08110_H_TOP
-;[debug_win]ãªã†ã€€08110_H[debug_win_end]
+;[debug_win]‚È‚¤@08110_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [eval exp="sf.SRP42 = 1"][if exp="tf.scene_mode == 0"][jump target=*08110][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
 [bgm001]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *08110
 
-;*SceneSet|ã€ä½“è‚²æ•™å®˜å®¤ã€
+;*SceneSet|w‘Ìˆç‹³Š¯ºx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08110 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08110 = 1"]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 
-;//;//BG:bgç„¡ã—
-;//SE:ã‚¬ãƒ©ã‚¬ãƒ©
-;//;//BG:bgç„¡ã—
+;//;//BG:bg–³‚µ
+;//SE:ƒKƒ‰ƒKƒ‰
+;//;//BG:bg–³‚µ
 
 ;//blackout
 ;g[backlay_c][chara_int][trans_c cross time=150]
@@ -59,7 +59,7 @@ Ouch! Who left a bat lying around in a place like this![pcms]
 ;	[trans_c cross time=150]
 ;	*/
 
-;ç«‹ã¡
+;—§‚¿
 
 *9225|
 [fc]
@@ -97,7 +97,7 @@ Hehehe...[pcms]
 ;	[trans_c cross time=150]
 ;	*/
 
-;ç«‹ã¡
+;—§‚¿
 
 *9233|
 [fc]
@@ -141,7 +141,7 @@ I got excited being watched by everyone, right!?[l][er]
 Zuhahahahahaha!![pcms]
 
 ;//*|
-;mm ã“ã‚Œãªã‚“ã ã‚ç½®æ›ãƒªã‚¹ãƒˆã§ãƒ©ãƒ™ãƒ«å…¥ã£ã¦ãªã‹ã£ãŸã—ãƒœã‚¤ã‚¹ãƒ•ã‚¡ã‚¤ãƒ«ã‚‚ãªã„
+;mm ‚±‚ê‚È‚ñ‚¾‚ë’uŠ·ƒŠƒXƒg‚Åƒ‰ƒxƒ‹“ü‚Á‚Ä‚È‚©‚Á‚½‚µƒ{ƒCƒXƒtƒ@ƒCƒ‹‚à‚È‚¢
 *9240a|
 [fc]
 ;[vo_ri s="risa0000"]
@@ -159,7 +159,7 @@ Zuhahahahahaha!![pcms]
 ;	[trans_c cross time=150]
 ;	*/
 
-;ç«‹ã¡
+;—§‚¿
 
 *9242|
 [fc]
@@ -183,7 +183,7 @@ As if beckoning me, I cautiously peered inside through the[r]slightly ajar door 
 
 *scene_start
 
-;//â™ªï¼šBGM003
+;//ôFBGM003
 [bgm003]
 
 ;//H_CG:ON
@@ -617,7 +617,7 @@ Vo?! What, what is it?! ... Ughh!![pcms]
 ;;;[sysbt_meswin clear]
 
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
 [quake_bg xy m]
 
@@ -631,7 +631,7 @@ Vo?! What, what is it?! ... Ughh!![pcms]
 
 ;//redflash
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [se0 storage="se021"]
 [quake_bg xy m]
 
@@ -678,7 +678,7 @@ Ah, you guys... What are you doing...[pcms]
 Oh, that's right, I forgot about Shindou-sensei.[l][er]
 I have to creampie her.[pcms]
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*08120_H_TOP storage="08120_H.ks"]
 
 

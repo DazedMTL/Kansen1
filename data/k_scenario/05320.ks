@@ -1,16 +1,16 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05320ã€æ ¡å†…æ”¾é€ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæœï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»æ„ŸæŸ“ç”°ä¸­ãƒ»æ„ŸæŸ“æœ‹ç¾ãƒ»ã‚¾ãƒ³ãƒ“ï¼“
-;//äºº
+;//¡ËƒuƒƒbƒN05320wZ“à•ú‘—x
+;//BG:“Áê‹³º˜L‰ºF’©FÁ“”
+;//“oêl•¨GålŒöE“µEŠ´õ“c’†EŠ´õ•ü”üEƒ]ƒ“ƒr‚R
+;//l
 
 *05320_TOP
-;[debug_win]ãªã†ã€€05320[debug_win_end]
-;*SceneSet|ã€æ ¡å†…æ”¾é€ã€
+;[debug_win]‚È‚¤@05320[debug_win_end]
+;*SceneSet|wZ“à•ú‘—x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05320 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05320 = 1"]
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 [bgm008]
 
@@ -44,7 +44,7 @@ As soon as I opened the door and stuck my head out, I saw[r]Igarashi-san, whose 
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2196|
 [fc]
@@ -64,7 +64,7 @@ Run, Saeki!![pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2197|
 [fc]
@@ -78,10 +78,10 @@ I grabbed Saeki's arm and pulled her as we rushed out of the[r]infirmary and ran
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2198|
 [fc]
@@ -94,7 +94,7 @@ What on earth is going on!? Those people!![pcms]
 [ns]Kato[nse]
 I want to know!![pcms]
 
-;//SE:æ ¡å†…æ”¾é€ãƒãƒ£ã‚¤ãƒ 
+;//SE:Z“à•ú‘—ƒ`ƒƒƒCƒ€
 [se0 storage="se004"]
 
 *5299|
@@ -146,5 +146,5 @@ I nodded and pulled Saeki's arm, and we ran towards the[r]staff room.[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05330]ã¸
+;//[05330]‚Ö
 [jump target=*05330_TOP storage="05330.ks"]

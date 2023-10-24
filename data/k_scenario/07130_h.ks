@@ -1,29 +1,29 @@
 
-;△▽▲▼△▽▲▼△▽▲▼△▽▲▼△▽▲▼△▽▲▼△
-;//▽;//▲;//▼;//△;//▽;//▲;//▼
-;//■⇒ブロック07130『個室２』
-;//;//BG:無し（EVENT背景のみ）
-;//登場人物：瞳・感染田中・半端感染ゾンビ×３
-;//：瞳視点
-;△▽▲▼△▽▲▼△▽▲▼△▽▲▼△▽▲▼△▽▲▼△
-;//▽;//▲;//▼;//△;//▽;//▲;//▼
+;��������������������������������������������������
+;//��;//��;//��;//��;//��;//��;//��
+;//���˃u���b�N07130�w���Q�x
+;//;//BG:�����iEVENT�w�i�̂݁j
+;//�o��l���F���E�����c���E���[�����]���r�~�R
+;//�F�����_
+;��������������������������������������������������
+;//��;//��;//��;//��;//��;//��;//��
 
 *07130_H_TOP
-;[debug_win]なう　07130_H[debug_win_end]
+;[debug_win]�Ȃ��@07130_H[debug_win_end]
 
-;使ってない[eval exp="sf.g_07130 = 1"]
+;�g���ĂȂ�[eval exp="sf.g_07130 = 1"]
 
-;//♪：BGM004
+;//��FBGM004
 [bgm004]
 
-;//;//BG:bg無し
+;//;//BG:bg����
 ;	/*
 ;	[ChrSetEx layer=1 chbase="sae_c_a_01"]
 ;	[ChrSetXY layer=1 x=200 y=0]
 ;	[ChrSetParts layer=1 chface="sae_c_a_02"]
 ;	[trans_c cross time=150]
 ;	*/
-;立ち
+;����
 
 *v2912|
 [fc]
@@ -92,7 +92,7 @@ But compared to the sensation I felt next, that was still[r]something cute.[pcms
 [fc]
 Tanaka positioned his exposed penis against my anus.[pcms]
 
-;//SE:エロ効果音（湿った音）
+;//SE:�G�����ʉ��i���������j
 
 [se0 storage="se059"]
 
@@ -106,7 +106,7 @@ Ah...! No...!![pcms]
 [fc]
 Tanaka looked at me, unable to make a proper sound due to[r]fear, and his vulgar laughter became even more grotesque.[pcms]
 
-;//SE:挿入
+;//SE:�}��
 [se0 storage="se058"]
 
 ;//redflash
@@ -149,7 +149,7 @@ It feels amazing~...[pcms]
 [ns]Male Student Y[nse]
 W-What the... Why are you teasing me again...[pcms]
 
-;//SE:ピストン　早い　ループ
+;//SE:�s�X�g���@�����@���[�v
 [se0 storage="se061" loop=true]
 
 *7219|
@@ -206,107 +206,103 @@ Help me... Kato-san...!![pcms]
 *7228|
 [fc]
 [ns]Tanaka[nse]
-も、えるぅ〜……」[pcms]
+Mm, Eruu~...[pcms]
 
 *v2920|
 [fc]
 [vo_sa s="sae0801"]
-[ns]佐伯[nse]
-「ん゛っ、う゛ぐぅっ！！　あ゛、う゛あ゛ぁっ！！」[pcms]
+[ns]Saeki[nse]
+Nghh, ughh!! Ahh, ughh...[pcms]
 
 *7229|
 [fc]
-田中に乱暴にされ、お腹の中を掻き回されるような感覚[r]
-に、意に反して声が出てしまう。[pcms]
+I was violated roughly by Tanaka, and against my will, a[r]voice escaped me as if my insides were being stirred up.[pcms]
 
 *7230|
 [fc]
-決して快感からではないその声も、周りの男達にとって[r]
-は、興奮材料になるようだった。[pcms]
+That voice, which was definitely not from pleasure, seemed[r]to be an exciting material for the men around.[pcms]
 
 *v2921|
 [fc]
 [vo_sa s="sae0802"]
-[ns]佐伯[nse]
-「ん゛ん゛っ！！　う゛あ゛っ、はう゛ぅっ！！　あ゛[r]
-お゛ぉ……っ！！」[pcms]
+[ns]Saeki[nse]
+Nghh, ughh!! Ahh, ughh... geeehh...[pcms]
 
 *7231|
 [fc]
-[ns]男子生徒Ｙ[nse]
-「ふへへ、へ、へ……こい、つ、けつ、お、かされ、て[r]
-……かん、じ、てる、ぜ……」[pcms]
+[ns]Male Student Y[nse]
+Fufufu, h-heh... I-I'm being...[l][er]
+t-touched, in my... a-ass... I can feel it...[pcms]
 
 *7232|
 [fc]
-[ns]男子生徒Ｚ[nse]
-「よだ、れ、まで、た、らして……よ、ろこん、で、る[r]
-ぜ……こ、のおん、なぁ……」[pcms]
+[ns]Male Student Z[nse]
+Yo... da... re... ma... de... ta...[l][er]
+ra... shi... te... yo... ro...[l][er]
+kon... de... ru... ze... ko...[l][er]
+no... on... naa...[pcms]
 
 *v2922|
 [fc]
 [vo_sa s="sae0803"]
-[ns]佐伯[nse]
-「い゛っ、ひぐう゛ぅっ！！　ぐぅ、う゛ぐぅっ！！」[pcms]
+[ns]Saeki[nse]
+I-it, hiiii!! Guu, ughhh!![pcms]
 
 *7233|
 [fc]
-[ns]男子生徒Ｗ[nse]
-「いいこ、え、だ、すなぁ……こえ、だ、けで、よん、[r]
-かい、いけ、るよぉ……」[pcms]
+[ns]Male Student W[nse]
+Good girl, your voice alone can make me come four times.[pcms]
 
 *7234|
 [fc]
-[ns]田中[nse]
-「あぁ〜〜……い、いぜぇ〜〜……こ、の、けつ、さい[r]
-こ、うだぁ〜〜〜……」[pcms]
+[ns]Tanaka[nse]
+Ahh... I-I'm... sooo... th-this...[l][er]
+ass... feels amazinggg...[pcms]
 
 *v2923|
 [fc]
 [vo_sa s="sae0804"]
-[ns]佐伯[nse]
-「ひぃっ！！　ぎい゛い゛ぃっ！！　い゛っ、ぐぅ……[r]
-お゛あ゛ぁっ！！　はぐう゛ぅっ！！」[pcms]
+[ns]Saeki[nse]
+Hii!! Gii... ii!! I... guu... ohh...[l][er]
+ahh!! Hagu... uu!![pcms]
 
 *7235|
 [fc]
-田中の呼吸が荒くなり、それに連れて、にわかにペニス[r]
-の動きが速くなってくる。田中が一体、自分に何をする[r]
-つもりなのかを、私は直感的に理解した。[pcms]
+Tanaka's breathing became rough, and with that, the movement[r]of his penis suddenly became faster.[l][er]
+Intuitively, I understood what Tanaka was planning to do to[r]me.[pcms]
 
 *7236|
 [fc]
-この人……射精するつもりだわ……。[r]
-お尻の中に……。[r]
-嫌……嫌よ、そんなの……。[pcms]
+This person... intends to ejaculate...[l][er]
+inside my ass... No... I don't want that...[l][er]
+I don't want something like that...[pcms]
 
 *v2924|
 [fc]
 [vo_sa s="sae0805"]
-[ns]佐伯[nse]
-「う゛ぇっ！！　ぐえ゛ぇ……お゛あ゛っ！！　ぐう゛[r]
-う゛ぅっ……」[pcms]
+[ns]Saeki[nse]
+Ughh!! Guuehh... Ooahh!! Guuuguhh...[pcms]
 
 *7237|
 [fc]
-しかし、まともに言葉を発せない私に、田中の行動を拒[r]
-否することができる筈がなかった。[pcms]
+However, as someone who couldn't even speak properly, I had[r]no choice but to refuse Tanaka's actions.[pcms]
 
 *7238|
 [fc]
-[ns]田中[nse]
-「あぁ〜〜……いく、ぅ〜〜……けつ、の、な、かに、[r]
-だす、ぞぉ……う゛あ゛ぁ〜〜〜……」[pcms]
+[ns]Tanaka[nse]
+Ahhh... I'm... cumming... in...[l][er]
+your... a-ass... I'm gonna... release it...[l][er]
+ughh... ahhh...[pcms]
 
-;//SE:エロ効果音（湿った音）停止
+;//SE:�G�����ʉ��i���������j��~
 
 [stop_se0]
 
-;//SE:ピストン　早い　停止
+;//SE:�s�X�g���@�����@��~
 
 [stop_se1]
 
-;//SE:射精
+;//SE:�ː�
 
 [se0 storage="se062"]
 
@@ -336,70 +332,64 @@ Help me... Kato-san...!![pcms]
 *v2925|
 [fc]
 [vo_sa s="sae0806"]
-[ns]佐伯[nse]
-「い゛ひい゛い゛い゛ぃぃぃっ！！！！」[pcms]
+[ns]Saeki[nse]
+I-iiiiiiiiiiii!!![pcms]
 
 *7239|
 [fc]
-抵抗もできず、田中にいいように蹂躙され、挙げ句、直[r]
-腸に射精されてしまった。[pcms]
+I couldn't resist and was thoroughly violated by Tanaka, and[r]to make matters worse, he ejaculated inside my rectum.[pcms]
 
 *7240|
 [fc]
-田中の薄汚い精液が、お腹の中に溜まっていく感覚を覚[r]
-えて、私はまた、吐き気を催した。[pcms]
+I felt the sensation of Tanaka's filthy semen accumulating[r]inside my stomach, and once again, I felt nauseous.[pcms]
 
 *v2926|
 [fc]
 [vo_sa s="sae0807"]
-[ns]佐伯[nse]
-「げほっ！　げぇほっ！　う゛え゛ぇっ……」[pcms]
+[ns]Saeki[nse]
+Geho! Geeho! Uvee...[pcms]
 
 *7241|
 [fc]
-[ns]田中[nse]
-「は、あぁ〜〜〜……」[pcms]
+[ns]Tanaka[nse]
+Ah, ahhhhh...[pcms]
 
 *7242|
 [fc]
-満足そうに息をついて、田中がアヌスからペニスを引き[r]
-抜くと、それと共にスペルマが掻き出され、漏れ出てき[r]
-た。[pcms]
+Tanaka let out a satisfied breath as he pulled his penis out[r]from my anus, and along with it, the sperm was scraped out[r]and leaked out.[pcms]
 
 *7243|
 [fc]
-アヌスから田中のスペルマが漏れ出ていくその感覚は、[r]
-寒気がする程、不快なものだった。[pcms]
+The sensation of Tanaka's sperm leaking out from my anus was[r]so unpleasant that it sent chills down my spine.[pcms]
 
 *7244|
 [fc]
-[ns]男子生徒Ｗ[nse]
-「あぁ〜……けつあ、な、から……ざーめん、もれ、て[r]
-き、たぁ……」[pcms]
+[ns]Male Student W[nse]
+Ahh... My ass, it's... so sensitive...[l][er]
+I-I'm sorry, it's leaking... I can't hold it anymore...[pcms]
 
 *7245|
 [fc]
-[ns]男子生徒Ｚ[nse]
-「うわぁ〜〜……す、げぇ、えろぉ、い……」[pcms]
+[ns]Male Student Z[nse]
+Uwaa~... So, erotic... Ah...[pcms]
 
 
 *7246|
 [fc]
-[ns]男子生徒Ｙ[nse]
-「な、にこ、れ……ぜんぜ、ん、ぬけ、る〜……」[pcms]
+[ns]Male Student Y[nse]
+Wh-what is this... It's, completely, slipping out~...[pcms]
 
 *7247|
 [fc]
-周りの男達は、田中のスペルマが私のアヌスから漏れる[r]
-のを見て、酷く興奮を煽られた様子で、自分のペニスを[r]
-激しく擦り、呼吸を荒くしていた。[pcms]
+The men around me, upon seeing Tanaka's sperm leaking from[r]my anus, were greatly excited.[l][er]
+They vigorously rubbed their own penises and breathed[r]heavily in an aroused state.[pcms]
 
 *7248|
 [fc]
-[ns]男子生徒Ｙ[nse]
-「うは、ぁ〜〜〜……」[pcms]
+[ns]Male Student Y[nse]
+Uhaa, ahhhhh...[pcms]
 
-;//SE:射精
+;//SE:�ː�
 
 [se0 storage="se062"]
 
@@ -418,10 +408,10 @@ Help me... Kato-san...!![pcms]
 
 *7249|
 [fc]
-[ns]男子生徒Ｗ[nse]
-「ぐ、うぅ……」[pcms]
+[ns]Male Student W[nse]
+Guh, ughhh...[pcms]
 
-;//SE:射精
+;//SE:�ː�
 
 [se0 storage="se062"]
 
@@ -440,10 +430,10 @@ Help me... Kato-san...!![pcms]
 
 *7250|
 [fc]
-[ns]男子生徒Ｚ[nse]
-「あ〜〜……で、るで、る、でるで、る……」[pcms]
+[ns]Male Student Z[nse]
+Ahhh... it's coming, it's coming, it's coming, it's[r]coming...[pcms]
 
-;//SE:射精
+;//SE:�ː�
 
 [se0 storage="se062"]
 
@@ -462,14 +452,13 @@ Help me... Kato-san...!![pcms]
 
 *7251|
 [fc]
-三人分のスペルマがお尻にかけられる感触を最後に、私[r]
-の意識は途絶えた。[pcms]
+My consciousness faded away after feeling the sensation of[r]three loads of sperm being poured onto my butt.[pcms]
 
 *v2927|
 [fc]
 [vo_sa s="sae0808"]
-[ns]佐伯[nse]
-「ぅ……ぐ……」[pcms]
+[ns]Saeki[nse]
+Ugh... guh...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -483,28 +472,27 @@ Help me... Kato-san...!![pcms]
 
 *7252|
 [fc]
-[ns]男子生徒Ｙ[nse]
-「な、に、ねてん、だよ、こいつ……つ、まん、ねぇの[r]
-……もっと、おか、し、て……ひめ、い、ききた、かっ[r]
-たの、によぉ……」[pcms]
+[ns]Male Student Y[nse]
+W-What the hell is this...? T-This pussy...[l][er]
+I wanted to see more... I wanted to hear your sweet voice...[pcms]
 
 *7253|
 [fc]
-[ns]男子生徒Ｗ[nse]
-「もう、い、いや……こ、え、でな、い、なら……れい[r]
-ぷし、ても、しら、け、る、から、な……」[pcms]
+[ns]Male Student W[nse]
+No, please... If my voice... leaks out...[l][er]
+you'll know... so...[pcms]
 
 *7254|
 [fc]
-[ns]男子生徒Ｚ[nse]
-「つぎ、の、おん、なの、けつ、は……お、れが、い、[r]
-ちばん、の、りだぁ……」[pcms]
+[ns]Male Student Z[nse]
+Next, it's my turn to enter your ass...[l][er]
+I'm the one who will give you the most pleasure...[pcms]
 
 
-; 回想モード中なら、回想モード画面に戻る
+; ��z���[�h���Ȃ�A��z���[�h��ʂɖ߂�
 [if exp="tf.scene_mode"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
-;//[07140]へ
+;//[07140]��
 [jump target=*07140_H_TOP storage="07140_H.ks"]

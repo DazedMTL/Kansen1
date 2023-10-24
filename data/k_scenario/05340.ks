@@ -1,19 +1,19 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05340ã€å†ã³ä¿å¥å®¤ã¸ã€
-;//;//BG:æ˜‡é™å£å‰å»Šä¸‹ï¼šæœï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN05340wÄ‚Ñ•ÛŒ’º‚Öx
+;//;//BG:¸~Œû‘O˜L‰ºF’©FÁ“”
+;//“oêl•¨GålŒöE“µEƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *05340_TOP
-;[debug_win]ãªã†ã€€05340[debug_win_end]
-;*SceneSet|ã€å†ã³ä¿å¥å®¤ã¸ã€
+;[debug_win]‚È‚¤@05340[debug_win_end]
+;*SceneSet|wÄ‚Ñ•ÛŒ’º‚Öx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05340 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05340 = 1"]
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 
 [bgm009]
 
@@ -41,7 +41,7 @@ Did they say anything on the radio?[pcms]
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2234|
 [fc]
@@ -61,7 +61,7 @@ Is that so...[pcms]
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2235|
 [fc]
@@ -74,7 +74,7 @@ Moreover, I doubt there is a true causal relationship[r]between becoming involve
 [ns]Kato[nse]
 ...? What do you mean?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2236|
 [fc]
@@ -87,7 +87,7 @@ There is also a possibility that they are doing it of their[r]own will.[pcms]
 [ns]Kato[nse]
 Are you saying that they might not have been caught up in[r]the riot?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2237|
 [fc]
@@ -99,7 +99,7 @@ They don't seem receptive to persuasion in their current[r]state...[pcms]
 *5359|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
@@ -119,7 +119,7 @@ The worst case scenario is if Yuuji and Igarashi-san are[r]taking dangerous drug
 [fc]
 When I think about the possibility that it might be true, I[r]can't help but feel a sense of darkness when imagining Yuuji[r]and the others' future.[pcms]
 
-;//â€»è¦éŸ³å£°åŠ å·¥ï¼šé ãã‹ã‚‰
+;//¦—v‰¹º‰ÁHF‰“‚­‚©‚ç
 
 *v2238|
 [fc]
@@ -153,7 +153,7 @@ I'll go check on them![pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2239|
 [fc]
@@ -170,7 +170,7 @@ Saeki grabbed my wrist and stopped me as I was about to run[r]towards the regula
 [ns]Kato[nse]
 Why?! Igarashi-san might be there right now, being violated[r]by a group of people![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2240|
 [fc]
@@ -188,7 +188,7 @@ But...!![pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2241|
 [fc]
@@ -200,7 +200,7 @@ As Saeki-san said, it wouldn't be wise to go help her[r]without any preparation.
 *5371|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5372|
 [fc]
@@ -211,7 +211,7 @@ I couldn't move from that spot, unable to comprehend Saeki[r]and Shindou-sensei'
 [ChrSetParts layer=1 chface="sae_c_b_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2242|
 [fc]
@@ -243,7 +243,7 @@ Igarashi-san, I'm sorry...[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05350]ã¸
+;//[05350]‚Ö
 [jump target=*05350_H_TOP storage="05350_H.ks"]
 
 

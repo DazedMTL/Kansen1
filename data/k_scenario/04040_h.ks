@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04040ã€ãƒ©ã‚¸ã‚ªå›å2ã€
-;//BG:ä¸‰éšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰ï¼šæœ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04040wƒ‰ƒWƒI‰ñû2x
+;//BG:OŠK˜L‰ºFƒoƒŠƒP[ƒhF’©
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04040_H_TOP
-;[debug_win]ãªã†ã€€04040_H[debug_win_end]
+;[debug_win]‚È‚¤@04040_H[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04040 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04040 = 1"]
 
-;*SceneSet|ã€ãƒ©ã‚¸ã‚ªå›åï¼’ã€
+;*SceneSet|wƒ‰ƒWƒI‰ñû‚Qx
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 
 [bgm009]
 
@@ -41,7 +41,7 @@ Or, could it have been someone else...?[pcms]
 If there are weird people inside and they start coming[r]towards us, let's quickly escape to the rooftop.[l][er]
 Got it?[pcms]
 
-;//SE:ã‚¬ã‚¿ãƒƒ
+;//SE:ƒKƒ^ƒb
 
 [se0 storage="se023"]
 
@@ -58,7 +58,7 @@ What... what was that sound...?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1906|
 [fc]
@@ -75,7 +75,7 @@ Yamagishi-san also noticed the sound and let out a scream.[pcms]
 Shit... at a time like this!! What was that sound...![l][er]
 Are they nearby...?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1907|
 [fc]
@@ -89,7 +89,7 @@ It's dangerous![pcms]
 [ns]Kato[nse]
 B-But... since then, I haven't heard any more sounds...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1908|
 [fc]
@@ -109,7 +109,7 @@ then we'll take the radio...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1909|
 [fc]
@@ -125,7 +125,7 @@ I confirmed Yamagishi-san's nod and entered the classroom[r]where the radio was 
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -133,7 +133,7 @@ I confirmed Yamagishi-san's nod and entered the classroom[r]where the radio was 
 
 ;//blackout
 
-;//[04041]ã¸
+;//[04041]‚Ö
 [jump target=*04041_H_TOP storage="04041_H.ks"]
 
 

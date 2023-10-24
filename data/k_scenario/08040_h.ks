@@ -1,21 +1,21 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08040ã€ãƒ¤ãƒªãƒãƒ³ï¼’ã€
-;//BG;ãªã—
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç«¹å†…ãƒ»ç«¶æ³³æ°´ç€ã®å¥³
+;//¡ËƒuƒƒbƒN08040wƒ„ƒŠƒ}ƒ“‚Qx
+;//BG;‚È‚µ
+;//“oêl•¨GålŒöE’|“àE‹£‰j…’…‚Ì—
 
 *08040_H_TOP
-;[debug_win]ãªã†ã€€08040_H[debug_win_end]
-;*SceneSet|ã€ã‚·ãƒ£ãƒ¯ãƒ¼å®¤ã®å¥³ï¼’ã€
+;[debug_win]‚È‚¤@08040_H[debug_win_end]
+;*SceneSet|wƒVƒƒƒ[º‚Ì—‚Qx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08040 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08040 = 1"]
 
-;//â™ªï¼šBGM006
+;//ôFBGM006
 
 ;//[bgm006]
 [stop_se1]
 
 ;	/*
-;	;//H_CG:ç«¶æ³³æ°´ç€ã®å¥³ãŒã‚ªãƒŠãƒ‹ãƒ¼ã‚’ã—ã¦ã„ã‚‹
+;	;//H_CG:‹£‰j…’…‚Ì—‚ªƒIƒiƒj[‚ğ‚µ‚Ä‚¢‚é
 ;	
 ;	;;;[sysbt_meswin clear]
 ;	
@@ -53,7 +53,7 @@ If it seems like there's nothing, then...[pcms]
 [ns]Kato[nse]
 Hey... Are you really okay with this?[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 [se0 storage="se059" loop=true]
 
 *v3403|
@@ -94,11 +94,11 @@ Release it in my mouth...[pcms]
 [ns]Takeuchi[nse]
 R-Really? Y-Yay!! Then, please![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 [stop_se0]
 [stop_overflow_se]
 
-;//H_CG:ç«¶æ³³æ°´ç€ã¨ï¼“ï¼°
+;//H_CG:‹£‰j…’…‚Æ‚R‚o
 
 [sysbt_meswin clear]
 
@@ -144,7 +144,7 @@ Is it okay here...[pcms]
 I grabbed the girl's white and round butt, pressing my penis[r]against her crotch.[l][er]
 It felt slippery, and after a slightly firm sensation, the[r]girl's body temperature enveloped my entire penis.[pcms]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 
 [se0 storage="se058"]
 
@@ -182,10 +182,10 @@ so hot... It's going deep inside...[pcms]
 [ns]Kato[nse]
 Uuu...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 [se0 storage="se059" loop=true]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 [se1 storage="se061" loop=true]
 
 *8923|
@@ -408,19 +408,19 @@ Our things immediately burst at the slightly trembling[r]mysterious voice of the
 [ns]Kato & Takeuchi[nse]
 Uaaaahhh!![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se1]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -480,7 +480,7 @@ It's like after swimming... And I ejaculated so much that I[r]feel like my balls
 [fc]
 Our semen is covering every part of the girl's body.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 
 [se0 storage="se059"]
 
@@ -519,7 +519,7 @@ I managed to calm down somehow...[pcms]
 
 ;;;[sysbt_meswin clear]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
@@ -545,7 +545,7 @@ E-eeeeh!! C-Can't I... Can't I go inside!?[pcms]
 [ns]???[nse]
 Well then... Since we both came once, it's fine, right?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std508|
 [fc]
 [ns]Takeuchi[nse]
@@ -611,7 +611,7 @@ Hey, Shinya, there's blood coming out of your dick...[pcms]
 [fc]
 Shinya seemed surprised by my words and lowered his gaze.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std509|
 [fc]
 [ns]Takeuchi[nse]
@@ -628,7 +628,7 @@ What a shame. If you still want to finish, why don't you[r]just masturbate there
 [fc]
 Shinya glares at me with a face that seems to say, You're[r]the only one who gets to have a good time![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std510|
 [fc]
 [ns]Takeuchi[nse]
@@ -698,7 +698,7 @@ Suddenly, Saeki's face came to mind.[pcms]
 
 
 
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [bg storage="bg08c"]
 [trans_c cross time=150]
 
@@ -720,7 +720,7 @@ When did I fall asleep...?[pcms]
 However, Saeki... Even getting angry in my dreams...[l][er]
 Well... Now is not the time to be thinking about that!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std511|
 [fc]
 [ns]Takeuchi[nse]
@@ -737,7 +737,7 @@ But now, Saeki's face that came to mind was like that of a[r]demon...[pcms]
 Hey... It's been quite a while, but...[l][er]
 we...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std512|
 [fc]
 [ns]Takeuchi[nse]
@@ -760,7 +760,7 @@ I'll be scolded by the Empress again...[pcms]
 [ns]Kato[nse]
 Shinya, hurry! It's bad! Put on your clothes quickly![pcms]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 
 [se0 storage="se005"]
 
@@ -769,13 +769,13 @@ Shinya, hurry! It's bad! Put on your clothes quickly![pcms]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std513|
 [fc]
 [ns]Takeuchi[nse]
 Wait, wait!![pcms]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 [backlay_c][chara_int][trans_c cross time=150]
@@ -802,7 +802,7 @@ Cough, cough!![pcms]
 ;//
 ;//
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
 
 
@@ -810,25 +810,25 @@ Cough, cough!![pcms]
 
 
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn42 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn42 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
-;BGMåœæ­¢
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;BGM’â~
 [fadeoutbgm time=500]
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 [wait_c time=1000]
 
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*08050_TOP storage="08050.ks"]
 

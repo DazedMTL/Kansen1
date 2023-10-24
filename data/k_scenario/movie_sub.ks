@@ -1,21 +1,21 @@
 ;movie_sub
-;ã‚µãƒ–ãƒ«ãƒ¼ãƒãƒ³ã§å‘¼ã³å‡ºã™
+;ƒTƒuƒ‹[ƒ`ƒ“‚ÅŒÄ‚Ño‚·
 
 
 ;===========================================================
 *Prologue_zap_open
 
-;ã‚¹ã‚­ãƒƒãƒ—ã—ã¦ãŸã‚‰ã¨ã‚“ã˜ã‚ƒã†ã‹ã‚‰ã‚¹ã‚­ãƒƒãƒ—ã®è§£é™¤
+;ƒXƒLƒbƒv‚µ‚Ä‚½‚ç‚Æ‚ñ‚¶‚á‚¤‚©‚çƒXƒLƒbƒv‚Ì‰ğœ
 [cancelskip]
 [video visible=true left=0 top=0 width=800 height=600]
 [openvideo storage="Prologue_zap_open.mpg"]
 [playvideo]
-;ãƒ ãƒ¼ãƒ“ãƒ¼ã®éŸ³é‡å¤‰æ›´
+;ƒ€[ƒr[‚Ì‰¹—Ê•ÏX
 [if exp="sf.bgmplay == 1"]
 	;[video volume="&kag.bgm.currentBuffer.volume2"]
 	;[video volume=60]
-	;ã“ã‚Œã§bgmã¨åŒã˜ã«ãªã‚‹ã‹ãªï¼Ÿ
-	;ãã®ã¾ã¾ã ã¨ã¡ã‚‡ã£ã¨å¤§ãã„ã‹ã‚‰ã¡ã‚‡ã£ã¨ä¸‹ã’ã‚‹
+	;‚±‚ê‚Åbgm‚Æ“¯‚¶‚É‚È‚é‚©‚ÈH
+	;‚»‚Ì‚Ü‚Ü‚¾‚Æ‚¿‚å‚Á‚Æ‘å‚«‚¢‚©‚ç‚¿‚å‚Á‚Æ‰º‚°‚é
 	[eval exp="tf.movie_vol = (sf.dummy_bgmopt/1000)-5"]
 	[video volume="&tf.movie_vol"]
 [elsif exp="sf.bgmplay == 0"]
@@ -29,17 +29,17 @@
 ;===========================================================
 *badend_open
 
-;ã‚¹ã‚­ãƒƒãƒ—ã—ã¦ãŸã‚‰ã¨ã‚“ã˜ã‚ƒã†ã‹ã‚‰ã‚¹ã‚­ãƒƒãƒ—ã®è§£é™¤
+;ƒXƒLƒbƒv‚µ‚Ä‚½‚ç‚Æ‚ñ‚¶‚á‚¤‚©‚çƒXƒLƒbƒv‚Ì‰ğœ
 [cancelskip]
 [video visible=true left=0 top=0 width=800 height=600]
 [openvideo storage="badend_open.mpg"]
 [playvideo]
-;ãƒ ãƒ¼ãƒ“ãƒ¼ã®éŸ³é‡å¤‰æ›´
+;ƒ€[ƒr[‚Ì‰¹—Ê•ÏX
 [if exp="sf.bgmplay == 1"]
 	;[video volume="&kag.bgm.currentBuffer.volume2"]
 	;[video volume=60]
-	;ã“ã‚Œã§bgmã¨åŒã˜ã«ãªã‚‹ã‹ãªï¼Ÿ
-	;ãã®ã¾ã¾ã ã¨ã¡ã‚‡ã£ã¨å¤§ãã„ã‹ã‚‰ã¡ã‚‡ã£ã¨ä¸‹ã’ã‚‹
+	;‚±‚ê‚Åbgm‚Æ“¯‚¶‚É‚È‚é‚©‚ÈH
+	;‚»‚Ì‚Ü‚Ü‚¾‚Æ‚¿‚å‚Á‚Æ‘å‚«‚¢‚©‚ç‚¿‚å‚Á‚Æ‰º‚°‚é
 	[eval exp="tf.movie_vol = (sf.dummy_bgmopt/1000)-5"]
 	[video volume="&tf.movie_vol"]
 [elsif exp="sf.bgmplay == 0"]
@@ -52,17 +52,17 @@
 ;===========================================================
 *yuu_zap_open
 
-;ã‚¹ã‚­ãƒƒãƒ—ã—ã¦ãŸã‚‰ã¨ã‚“ã˜ã‚ƒã†ã‹ã‚‰ã‚¹ã‚­ãƒƒãƒ—ã®è§£é™¤
+;ƒXƒLƒbƒv‚µ‚Ä‚½‚ç‚Æ‚ñ‚¶‚á‚¤‚©‚çƒXƒLƒbƒv‚Ì‰ğœ
 [cancelskip]
 [video visible=true left=0 top=0 width=800 height=600]
 [openvideo storage="yuu_zap_open.mpg"]
 [playvideo]
-;ãƒ ãƒ¼ãƒ“ãƒ¼ã®éŸ³é‡å¤‰æ›´
+;ƒ€[ƒr[‚Ì‰¹—Ê•ÏX
 [if exp="sf.bgmplay == 1"]
 	;[video volume="&kag.bgm.currentBuffer.volume2"]
 	;[video volume=60]
-	;ã“ã‚Œã§bgmã¨åŒã˜ã«ãªã‚‹ã‹ãªï¼Ÿ
-	;ãã®ã¾ã¾ã ã¨ã¡ã‚‡ã£ã¨å¤§ãã„ã‹ã‚‰ã¡ã‚‡ã£ã¨ä¸‹ã’ã‚‹
+	;‚±‚ê‚Åbgm‚Æ“¯‚¶‚É‚È‚é‚©‚ÈH
+	;‚»‚Ì‚Ü‚Ü‚¾‚Æ‚¿‚å‚Á‚Æ‘å‚«‚¢‚©‚ç‚¿‚å‚Á‚Æ‰º‚°‚é
 	[eval exp="tf.movie_vol = (sf.dummy_bgmopt/1000)-5"]
 	[video volume="&tf.movie_vol"]
 [elsif exp="sf.bgmplay == 0"]
@@ -76,17 +76,17 @@
 ;===========================================================
 *hitomi_zap_open
 
-;ã‚¹ã‚­ãƒƒãƒ—ã—ã¦ãŸã‚‰ã¨ã‚“ã˜ã‚ƒã†ã‹ã‚‰ã‚¹ã‚­ãƒƒãƒ—ã®è§£é™¤
+;ƒXƒLƒbƒv‚µ‚Ä‚½‚ç‚Æ‚ñ‚¶‚á‚¤‚©‚çƒXƒLƒbƒv‚Ì‰ğœ
 [cancelskip]
 [video visible=true left=0 top=0 width=800 height=600]
 [openvideo storage="hitomi_zap_open.mpg"]
 [playvideo]
-;ãƒ ãƒ¼ãƒ“ãƒ¼ã®éŸ³é‡å¤‰æ›´
+;ƒ€[ƒr[‚Ì‰¹—Ê•ÏX
 [if exp="sf.bgmplay == 1"]
 	;[video volume="&kag.bgm.currentBuffer.volume2"]
 	;[video volume=60]
-	;ã“ã‚Œã§bgmã¨åŒã˜ã«ãªã‚‹ã‹ãªï¼Ÿ
-	;ãã®ã¾ã¾ã ã¨ã¡ã‚‡ã£ã¨å¤§ãã„ã‹ã‚‰ã¡ã‚‡ã£ã¨ä¸‹ã’ã‚‹
+	;‚±‚ê‚Åbgm‚Æ“¯‚¶‚É‚È‚é‚©‚ÈH
+	;‚»‚Ì‚Ü‚Ü‚¾‚Æ‚¿‚å‚Á‚Æ‘å‚«‚¢‚©‚ç‚¿‚å‚Á‚Æ‰º‚°‚é
 	[eval exp="tf.movie_vol = (sf.dummy_bgmopt/1000)-5"]
 	[video volume="&tf.movie_vol"]
 [elsif exp="sf.bgmplay == 0"]
@@ -99,17 +99,17 @@
 ;===========================================================
 *InfectionRoute_open
 
-;ã‚¹ã‚­ãƒƒãƒ—ã—ã¦ãŸã‚‰ã¨ã‚“ã˜ã‚ƒã†ã‹ã‚‰ã‚¹ã‚­ãƒƒãƒ—ã®è§£é™¤
+;ƒXƒLƒbƒv‚µ‚Ä‚½‚ç‚Æ‚ñ‚¶‚á‚¤‚©‚çƒXƒLƒbƒv‚Ì‰ğœ
 [cancelskip]
 [video visible=true left=0 top=0 width=800 height=600]
 [openvideo storage="InfectionRoute_open.mpg"]
 [playvideo]
-;ãƒ ãƒ¼ãƒ“ãƒ¼ã®éŸ³é‡å¤‰æ›´
+;ƒ€[ƒr[‚Ì‰¹—Ê•ÏX
 [if exp="sf.bgmplay == 1"]
 	;[video volume="&kag.bgm.currentBuffer.volume2"]
 	;[video volume=60]
-	;ã“ã‚Œã§bgmã¨åŒã˜ã«ãªã‚‹ã‹ãªï¼Ÿ
-	;ãã®ã¾ã¾ã ã¨ã¡ã‚‡ã£ã¨å¤§ãã„ã‹ã‚‰ã¡ã‚‡ã£ã¨ä¸‹ã’ã‚‹
+	;‚±‚ê‚Åbgm‚Æ“¯‚¶‚É‚È‚é‚©‚ÈH
+	;‚»‚Ì‚Ü‚Ü‚¾‚Æ‚¿‚å‚Á‚Æ‘å‚«‚¢‚©‚ç‚¿‚å‚Á‚Æ‰º‚°‚é
 	[eval exp="tf.movie_vol = (sf.dummy_bgmopt/1000)-5"]
 	[video volume="&tf.movie_vol"]
 [elsif exp="sf.bgmplay == 0"]
@@ -123,16 +123,16 @@
 ;===========================================================
 ;	*zap
 ;
-;	;è¦–ç‚¹å¤‰æ›´ã®å…¥ã‚Šã¨çµ‚ã‚ã‚Šç”¨
+;	;‹“_•ÏX‚Ì“ü‚è‚ÆI‚í‚è—p
 ;
-;	;ã‚¹ã‚­ãƒƒãƒ—ã—ã¦ãŸã‚‰ã¨ã‚“ã˜ã‚ƒã†ã‹ã‚‰ã‚¹ã‚­ãƒƒãƒ—ã®è§£é™¤
+;	;ƒXƒLƒbƒv‚µ‚Ä‚½‚ç‚Æ‚ñ‚¶‚á‚¤‚©‚çƒXƒLƒbƒv‚Ì‰ğœ
 ;	[cancelskip]
 ;	[video visible=true left=0 top=0 width=800 height=600]
 ;	[openvideo storage="zap.mpg"]
 ;	[playvideo]
-;	;ãƒ ãƒ¼ãƒ“ãƒ¼ã®éŸ³é‡å¤‰æ›´
+;	;ƒ€[ƒr[‚Ì‰¹—Ê•ÏX
 ;	[if exp="sf.bgmplay == 1"]
-;		;ãã®ã¾ã¾ã ã¨ã¡ã‚‡ã£ã¨å¤§ãã„ã‹ã‚‰ã¡ã‚‡ã£ã¨ä¸‹ã’ã‚‹
+;		;‚»‚Ì‚Ü‚Ü‚¾‚Æ‚¿‚å‚Á‚Æ‘å‚«‚¢‚©‚ç‚¿‚å‚Á‚Æ‰º‚°‚é
 ;		[eval exp="tf.movie_vol = (sf.dummy_bgmopt/1000)-5"]
 ;		[video volume="&tf.movie_vol"]
 ;	[elsif exp="sf.bgmplay == 0"]

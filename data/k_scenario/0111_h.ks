@@ -1,23 +1,23 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0111ã€è¨˜æ†¶ã€
-;//BG:è·å“¡å®¤
-;//BGä½“è‚²æ•™å“¡å®¤
-;//ç™»å ´äººç‰©ï¼›å²¸ç”°ãƒ»ãƒªã‚µ
-;//è¦–ç‚¹ï¼šãƒªã‚µ
-;//ã€†å›æƒ³ã‚·ãƒ¼ãƒ³
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN0111w‹L‰¯x
+;//BG:Eˆõº
+;//BG‘Ìˆç‹³ˆõº
+;//“oêl•¨GŠİ“cEƒŠƒT
+;//‹“_FƒŠƒT
+;//Y‰ñ‘zƒV[ƒ“
 
-;//â˜…ï¼¨EVENT_007ã€€ã€ãƒ¬ã‚¤ãƒ—ã€
-;//ä½“ä½ï¼šäº‹å‹™æœºã«å…¨è£¸ã§ã‚¨ãƒ“å‰ƒã‚Šã®æ ¼å¥½ã§ç¸›ã‚Šä»˜ã‘ã‚‰ã‚Œã¦ã„ã‚‹ãƒªã‚µã€‚
-;//ã€€ã€€ã€€å£ã«ã¯ãƒã‚¤ãƒˆã‚®ãƒ£ã‚°ãƒ»è‚¡é–“ãƒŠãƒ¡ã®ã‚«ãƒ¡ãƒ©ã‚¢ãƒ³ã‚°ãƒ«
-;//å·®åˆ†ï¼šè¡¨æƒ…ãŠã³ãˆãƒ»è‹¦ç—›ãƒ»å¤±ç¥ãƒ»è¡€ãƒ»ç²¾æ¶²ãƒ»å²¸ç”°ã®ä½“ï¼ˆã‚·ãƒ«ã‚¨ãƒƒãƒˆå‡¦ç†ï¼‰
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;//š‚gEVENT_007@wƒŒƒCƒvx
+;//‘ÌˆÊF––±Š÷‚É‘S—‡‚ÅƒGƒr’ä‚è‚ÌŠiD‚Å”›‚è•t‚¯‚ç‚ê‚Ä‚¢‚éƒŠƒTB
+;//@@@Œû‚É‚ÍƒoƒCƒgƒMƒƒƒOEŒÒŠÔƒiƒ‚ÌƒJƒƒ‰ƒAƒ“ƒOƒ‹
+;//·•ªF•\î‚¨‚Ñ‚¦E‹ê’ÉE¸_EŒŒE¸‰tEŠİ“c‚Ì‘ÌiƒVƒ‹ƒGƒbƒgˆ—j
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 ;//[0111]
 
 *0111_H_TOP
-;[debug_win]ãªã†ã€€0111_H[debug_win_end]
+;[debug_win]‚È‚¤@0111_H[debug_win_end]
 
 [eval exp="sf.SRP05 = 1"][if exp="tf.scene_mode == 0"][jump target=*0111_H][endif]
 ;;[winset]
@@ -26,18 +26,18 @@
 
 
 *0111_H
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0111 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0111 = 1"]
 
-;*SceneSet|ã€è¨˜æ†¶ã€
+;*SceneSet|w‹L‰¯x
 
 
 ;;;[sysbt_meswin clear]
 
 *scene_start
 
-;//â™ªï¼šBGM002
+;//ôFBGM002
 [bgm002]
-;//H_CG:ãƒªã‚µãŒãƒ¬ã‚¤ãƒ—ã•ã‚Œã‚‹
+;//H_CG:ƒŠƒT‚ªƒŒƒCƒv‚³‚ê‚é
 
 [evcg storage="HEV_007_a"]
 [trans_c cross time=500]
@@ -112,7 +112,7 @@ Isn't that right, Oi![pcms]
 [ns]Shindou[nse]
 Huh...![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 [se1 storage="se059" loop=true]
 
 *1148|
@@ -182,7 +182,7 @@ My head isn't functioning properly due to excessive[r]excitement.[pcms]
 [fc]
 With a strange expression that could only be described as[r]such, Kishida forcefully thrust his genitals into my dry[r]genitals.[pcms]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 [se0 storage="se058"]
 
 ;;;[sysbt_meswin clear]
@@ -208,8 +208,8 @@ Eeek!![pcms]
 [fc]
 The heat of my burnt iron-like genitals and the pain of my[r]body being torn apart caused my vision to be completely[r]white and scorched.[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
-;mm ãƒ«ãƒ¼ãƒ—ã«ãªã£ã¦ãªã‹ã£ãŸã®ã§ä¿®æ­£
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
+;mm ƒ‹[ƒv‚É‚È‚Á‚Ä‚È‚©‚Á‚½‚Ì‚ÅC³
 [se1 storage="se061" loop=true]
 
 *1161|
@@ -484,7 +484,7 @@ Alright, come here! Yeah, come on![l][er]
 I'm gonna fuck you hard! I'm gonna impregnate you, you sow![l][er]
 Hey![pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 [stop_se1]
 
 *v510|
@@ -498,7 +498,7 @@ Ohh... Ahh...[pcms]
 [ns]Kishida[nse]
 Nuffuuu!![pcms]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 [overflow_se storage="se062"]
 
 ;//redflash
@@ -625,7 +625,7 @@ Ahh... Ahh... I'm... going to cum...[pcms]
 
 ;;;[sysbt_meswin clear]
 
-;BGMåœæ­¢
+;BGM’â~
 [fadeoutbgm time=500]
 [stop_se0]
 [stop_se1]
@@ -635,7 +635,7 @@ Ahh... Ahh... I'm... going to cum...[pcms]
 
 ;;;[sysbt_meswin]
 
-;//â™ªï¼šBGM004ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM004ƒtƒF[ƒhƒCƒ“
 [bgm004]
 
 ;//[black_toplayer][trans_c cross time=1001][hide_chara_int]
@@ -669,6 +669,6 @@ This training camp was also organized by me, based on the[r]order of I want to h
 [fc]
 In the first place, the Film Research Club itself was[r]created for the reason of 'wanting new cameras and video[r]cameras' by that man.[pcms]
 
-;//[0112]ã¸
+;//[0112]‚Ö
 [jump target=*0112_H_TOP storage="0112_H.ks"]
 

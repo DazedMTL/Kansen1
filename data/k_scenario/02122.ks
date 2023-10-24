@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02122ã€ãƒ©ã‚¸ã‚ªï¼“ã€
-;//BG:äºŒéšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»å²¸ç”°ãƒ»ç«¹å†…
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02122wƒ‰ƒWƒI‚Rx
+;//BG:“ñŠK˜L‰ºFƒoƒŠƒP[ƒhF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DEƒŠƒTEŠİ“cE’|“à
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02122_TOP
-;[debug_win]ãªã†ã€€02122[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02122 = 1"]
+;[debug_win]‚È‚¤@02122[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02122 = 1"]
 
-;*SceneSet|ã€ãƒ©ã‚¸ã‚ªï¼“ã€
+;*SceneSet|wƒ‰ƒWƒI‚Rx
 
 ;//[02122]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 [bgm007]
 ;//BG:bg007a
 ;//[bg storage="bg07a"]
@@ -24,7 +24,7 @@
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v931|
 [fc]
@@ -89,19 +89,19 @@ And the victims join them?[pcms]
 ;	[ChrSetXY layer=1 x=180 y=0]
 ;	[trans_c cross time=150]
 ;
-;	;ç«‹ã¡
+;	;—§‚¿
 ;	*2364|
 ;	*|
 ;	[vo_ri s="risa0291"]
 [ns]Shindou[nse]
 Trying to sexually assault...?[l][er]
 Men targeting women...[pcms]
-;	ã‘ã§ã¯ãªã„ã®ã‹ã—ã‚‰â€¦â€¦ã€
+;	‚¯‚Å‚Í‚È‚¢‚Ì‚©‚µ‚çccv
 ;[l][er]
 ;
 ;	*|
 [ns]Kato[nse]
-;	ã€Œè¢«å®³ã«é­ã£ãŸäººé–“ã¯æš´å¾’ã«åˆæµã™ã‚‹â€¦â€¦ã€
+;	u”íŠQ‚É‘˜‚Á‚½lŠÔ‚Í–\“k‚É‡—¬‚·‚éccv
 ;[l][er]
 ;*/
 
@@ -123,7 +123,7 @@ Yuuji and the others... Could it be...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v937|
 [fc]
@@ -145,6 +145,6 @@ I watched Shinya, the person who was attacked, as he looked[r]at his injured han
 ;	[trans_c cross time=150]
 ;	*/
 
-;//[02123]ã¸
+;//[02123]‚Ö
 [jump target=*02123_TOP storage="02123.ks"]
 

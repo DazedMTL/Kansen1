@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02106ã€Žä¿å¥å®¤ã€
-;//BG:ä¿å¥å®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02106w•ÛŒ’Žºx
+;//BG:•ÛŒ’ŽºF’‹i’©Œ“—pj
+;//“oêl•¨GŽålŒö
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02106_TOP
-;[debug_win]ãªã†ã€€02106[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02106 = 1"]
+;[debug_win]‚È‚¤@02106[debug_win_end]
+;Žg‚Á‚Ä‚È‚¢[eval exp="sf.g_02106 = 1"]
 
-;*SceneSet|ã€Žä¿å¥å®¤ã€
+;*SceneSet|w•ÛŒ’Žºx
 
 ;//[02106]
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 ;//[bgm009]
 ;//BG:bg013a
 [bg storage="bg13a"]
@@ -40,32 +40,32 @@ With this, it should be fine. But I wonder if I can perform[r]first aid with jus
 I feel like these tools alone won't be enough to provide[r]first aid for Kishida's injury.[l][er]
 I should bring something else as well...[pcms]
 
-;//â€»é¸æŠžè‚¢
-;//ãƒ»æ¹¿å¸ƒãŒã‚ã‚‹ã¨ã„ã„ã‚“ã ã‘ã©â€¦â€¦;//[02107]ã¸
-;//ãƒ»ç—›ã¿æ­¢ã‚ã¯ã‚ã£ãŸæ–¹ãŒã„ã„ã‚ˆãª;//[02108]ã¸
+;//¦‘I‘ðŽˆ
+;//EŽ¼•z‚ª‚ ‚é‚Æ‚¢‚¢‚ñ‚¾‚¯‚Çcc;//[02107]‚Ö
+;//E’É‚ÝŽ~‚ß‚Í‚ ‚Á‚½•û‚ª‚¢‚¢‚æ‚È;//[02108]‚Ö
 
 
 
-*SEL01|æ¹¿å¸ƒãŒã‚ã‚‹ã¨ã„ã„ã‚“ã ã‘ã©â€¦â€¦ï¼ç—›ã¿æ­¢ã‚ã¯ã‚ã£ãŸæ–¹ãŒã„ã„ã‚ˆãª
+*SEL01|Ž¼•z‚ª‚ ‚é‚Æ‚¢‚¢‚ñ‚¾‚¯‚Çcc^’É‚ÝŽ~‚ß‚Í‚ ‚Á‚½•û‚ª‚¢‚¢‚æ‚È
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'æ¹¿å¸ƒãŒã‚ã‚‹ã¨ã„ã„ã‚“ã ã‘ã©â€¦â€¦'"]
-[eval exp="f.seltext04 = 'ç—›ã¿æ­¢ã‚ã¯ã‚ã£ãŸæ–¹ãŒã„ã„ã‚ˆãª'"]
+[eval exp="f.seltext02 = 'Ž¼•z‚ª‚ ‚é‚Æ‚¢‚¢‚ñ‚¾‚¯‚Çcc'"]
+[eval exp="f.seltext04 = '’É‚ÝŽ~‚ß‚Í‚ ‚Á‚½•û‚ª‚¢‚¢‚æ‚È'"]
 
 
-[if exp="tf.sys_sub == 0 || tf.é¸æŠžè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
-	;é¸æŠžè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
+[if exp="tf.sys_sub == 0 || tf.‘I‘ðŽˆƒƒO•\Ž¦‚µ‚Ä‚Ë == 1"]
+	;‘I‘ðŽˆ“à—e‚ðƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[å±¥æ­´å‡ºåŠ›å¾©å¸°]
+[—š—ðo—Í•œ‹A]
 
-;é¸æŠžè‚¢ãƒ™ãƒ¼ã‚¹
+;‘I‘ðŽˆƒx[ƒX
 [selbase]
-;æ–‡å­—ã®å·¦ãƒžãƒ¼ã‚¸ãƒ³
+;•¶Žš‚Ì¶ƒ}[ƒWƒ“
 [eval exp="sf.seltext_x = 220"]
 
 [sel02 target=*sel00_shippu]

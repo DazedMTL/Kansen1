@@ -1,22 +1,22 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02119ã€å°é–ã€
-;//BG:äºŒéšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//BG:ä¸‰éšå»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//BG:ä¸‰éšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»å²¸ç”°ãƒ»ç«¹å†…
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02119w••½x
+;//BG:“ñŠK˜L‰ºFƒoƒŠƒP[ƒhF’‹i’©Œ“—pj
+;//BG:OŠK˜L‰ºF’‹i’©Œ“—pj
+;//BG:OŠK˜L‰ºFƒoƒŠƒP[ƒhF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DEƒŠƒTEŠİ“cE’|“à
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02119_TOP
-;[debug_win]ãªã†ã€€02119[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02119 = 1"]
+;[debug_win]‚È‚¤@02119[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02119 = 1"]
 
-;*SceneSet|ã€å°é–ã€
+;*SceneSet|w••½x
 
 ;//[02119]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 [bgm007]
 
 ;//BG:bg007a
@@ -41,7 +41,7 @@ Shindou-sensei, who was checking on Kishida's condition,[r]glanced briefly at th
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v918|
 [fc]
@@ -58,7 +58,7 @@ Kishida closed his eyes again as if he were sleeping,[r]quietly breathing.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v919|
 [fc]
@@ -87,7 +87,7 @@ She might be thinking that way.[pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std261|
 [fc]
 [ns]Takeuchi[nse]
@@ -99,7 +99,7 @@ I wonder if Igarashi-san and Yuuji are okay...[pcms]
 I wonder... If we had just left them alone, who knows what[r]they would have done.[l][er]
 Those guys who attacked Igarashi-san, there was something[r]off about their eyes.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std262|
 [fc]
 [ns]Takeuchi[nse]
@@ -114,7 +114,7 @@ Yeah. They had eyes that seemed like they could easily kill[r]someone.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v920|
 [fc]
@@ -144,7 +144,7 @@ After seeing them go through such a terrible experience, I[r]can't just ignore i
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std263|
 [fc]
 [ns]Takeuchi[nse]
@@ -158,7 +158,7 @@ As we exchanged glances and nodded at each other, Shindou-[r]sensei stood up and
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v921|
 [fc]
@@ -170,7 +170,7 @@ Both of you calm down. You should understand better than[r]anyone else how dange
 [fc]
 Shinya looked down at the injury he sustained on his hand[r]when he escaped, and frowned.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v922|
 [fc]
@@ -190,7 +190,7 @@ Well then, what should we do...[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v923|
 [fc]
@@ -203,7 +203,7 @@ Besides, it's possible that different people might be[r]targeted next...[pcms]
 [fc]
 Saying that, Shindou-sensei took out a key from the pocket[r]of her skirt and handed it to me.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v924|
 [fc]
@@ -226,7 +226,7 @@ I nodded in agreement with Shindou-sensei's instructions and[r]headed towards th
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -236,7 +236,7 @@ I nodded in agreement with Shindou-sensei's instructions and[r]headed towards th
 [fc]
 I cautiously used the key given to me by Shindou-sensei and[r]opened the door to the emergency staircase on the third[r]floor.[pcms]
 
-;//SE:ã‚­ã‚£â€¦â€¦
+;//SE:ƒLƒBcc
 [se0 storage="se045"]
 
 ;//BG:bg006a
@@ -248,7 +248,7 @@ I cautiously used the key given to me by Shindou-sensei and[r]opened the door to
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std264|
 [fc]
 [ns]Takeuchi[nse]
@@ -259,7 +259,7 @@ It looks like no one is here...[pcms]
 [ns]Kato[nse]
 They came out in droves from the classroom earlier, so don't[r]let your guard down.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std265|
 [fc]
 [ns]Takeuchi[nse]
@@ -270,7 +270,7 @@ Okay...[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -293,7 +293,7 @@ If they hear our footsteps and come attacking in large[r]numbers, it will be tro
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std266|
 [fc]
 [ns]Takeuchi[nse]
@@ -304,7 +304,7 @@ Looks like nobody's here after all.[pcms]
 [ns]Kato[nse]
 Alright, let's quickly make barricades.[pcms]
 
-;//SE:ã‚¬ãƒ¤ã€€â€»å†ç”Ÿç›´å¾Œãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//SE:ƒKƒ„@¦Ä¶’¼ŒãƒtƒF[ƒhƒAƒEƒg
 [se0 storage="se001"]
 [wait_c time=1000]
 [stop_se0]
@@ -323,7 +323,7 @@ I looked down from the handrail of the staircase, but there[r]was no sign of any
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std267|
 [fc]
 [ns]Takeuchi[nse]
@@ -335,7 +335,7 @@ I wonder what that sound was just now...[pcms]
 They might be trying to come up here...[l][er]
 Let's hurry![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std268|
 [fc]
 [ns]Takeuchi[nse]
@@ -345,7 +345,7 @@ Yeah![pcms]
 [fc]
 We hurriedly built barricades on the inside of the fire door[r]and returned to the second floor.[pcms]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 ;//blackout
@@ -353,11 +353,11 @@ We hurriedly built barricades on the inside of the fire door[r]and returned to t
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//[02120]ã¸
+;//[02120]‚Ö
 [jump target=*02120_TOP storage="02120.ks"]

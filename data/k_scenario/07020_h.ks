@@ -1,16 +1,16 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07020ã€ä½“è‚²ç€ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼›æ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»æ„ŸæŸ“æœ‹ç¾
+;//¡ËƒuƒƒbƒN07020w‘Ìˆç’…x
+;//BG:“Áê‹³º˜L‰ºF–éGÁ“”
+;//“oêl•¨GålŒöEŠ´õ•ü”ü
 
 *07020_H_TOP
-;[debug_win]ãªã†ã€€07020_H[debug_win_end]
+;[debug_win]‚È‚¤@07020_H[debug_win_end]
 
-;*SceneSet|ã€ä½“è‚²ç€ã€
+;*SceneSet|w‘Ìˆç’…x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07020 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07020 = 1"]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 ;//[bgm007]
 
@@ -19,7 +19,7 @@
 [bg storage="bg08c"]
 [trans_c cross time=500]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 
 [se0 storage="se005"]
 
@@ -41,7 +41,7 @@ Igarashi-san![pcms]
 [ChrSetParts layer=1 chface="tomo_e_a_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2816|
 [fc]
@@ -58,7 +58,7 @@ Igarashi-san had a sleepy expression on her face, and she[r]spoke with an even s
 [ns]Kato[nse]
 I found it! It's not 'see', everyone was looking for it, you[r]know?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2817|
 [fc]
@@ -104,7 +104,7 @@ Shindou-sensei was also worried.[pcms]
 [ChrSetParts layer=1 chface="tomo_e_a_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2818|
 [fc]
@@ -125,7 +125,7 @@ I didn't understand the meaning and stood there dumbfounded,[r]but Igarashi-san 
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2819|
 [fc]
@@ -136,7 +136,7 @@ Hey... Shall we go to the classroom...?[pcms]
 *6998|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *6999|
 [fc]
@@ -157,9 +157,9 @@ I decided to follow Igarashi-san with that in mind.[pcms]
 
 [if exp="tf.scene_mode == 1"][jump target=*SCENE_ONLY][endif]
 
-;//â€»æ¡ä»¶åˆ†å²
-;//ãƒ»flag:å¥³ç‹é™¥è½ã€€ãŒon;//[07100]ã¸
-;//ãƒ»flag:å¥³ç‹é™¥è½ã€€ãŒoff;//[07030]ã¸
+;//¦ğŒ•ªŠò
+;//Eflag:—‰¤Š×—@‚ªon;//[07100]‚Ö
+;//Eflag:—‰¤Š×—@‚ªoff;//[07030]‚Ö
 
 [if exp="sf.g_queen==1"]
 	;[jump target=*SEL00_QUEEN]

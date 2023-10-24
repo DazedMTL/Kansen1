@@ -1,21 +1,21 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02093ã€å¸°å®…ï¼é¸æŠã€
-;//BG:è¦–è´è¦šå®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02093w‹A‘î^‘I‘ğx
+;//BG:‹’®ŠoºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DE’|“à
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02093_TOP
-;[debug_win]ãªã†ã€€02093[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02093 = 1"]
+;[debug_win]‚È‚¤@02093[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02093 = 1"]
 
-;*SceneSet|ã€å¸°å®…ã€
+;*SceneSet|w‹A‘îx
 
 ;//[02093]
 
-;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼–ã€€è¡¨ç¤º
-;//â™ªï¼šBGM001
+;//flag:—Dƒ‹[ƒgƒtƒ[@‚U@•\¦
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg015c
 [bg storage="bg15c"]
@@ -48,7 +48,7 @@ What did you say...?[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std205|
 [fc]
 [ns]Takeuchi[nse]
@@ -63,7 +63,7 @@ Well... for now, shall we go to the bus stop?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v795|
 [fc]
@@ -84,7 +84,7 @@ As expected of Yuu-chan, you're well-prepared and[r]thoughtful...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v796|
 [fc]
@@ -101,7 +101,7 @@ Yamagishi-san laughed off Shinya's heartfelt words and[r]alternated between look
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v797|
 [fc]
@@ -122,7 +122,7 @@ While I was thinking of topics to talk about, wanting to[r]have a conversation w
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v798|
 [fc]
@@ -140,7 +140,7 @@ As soon as Shinya heard her suggestion, he rejected it.[pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std206|
 [fc]
 [ns]Takeuchi[nse]
@@ -155,7 +155,7 @@ I was taken aback by Shinya's words, Go together just the[r]two of you.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v799|
 [fc]
@@ -174,7 +174,7 @@ Shinya-kun, let's go too~[l][er]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std207|
 [fc]
 [ns]Takeuchi[nse]
@@ -190,7 +190,7 @@ But, outside... It must be fucking hot already...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:ã‚«ãƒ¼ãƒ†ãƒ³ã‚’é–‹ã
+;//SE:ƒJ[ƒeƒ“‚ğŠJ‚­
 [se0 storage="se046"]
 
 ;//whiteflash
@@ -223,35 +223,35 @@ Yamagishi-san, after seeing Shinya's gesture, took a small[r]breath and looked a
 [ns]Kato[nse]
 Yeah, I guess...[pcms]
 
-;//â€»é¸æŠè‚¢
-;//ãƒ»æ•£æ­©ã€è¡Œã£ã¦ã¿ã‚ˆã†ã‹ãª
-;//flag:ç†ç§‘å®¤å‰ã§å„ªã¨ä¼šè©±ã€€ãŒon ã®æ™‚;//[02094]ã¸
-;//flag:ç†ç§‘å®¤å‰ã§å„ªã¨ä¼šè©±ã€€ãŒOFFã®æ™‚;//[04014]ã¸
-;//[02094]ã¸
+;//¦‘I‘ğˆ
+;//EU•àAs‚Á‚Ä‚İ‚æ‚¤‚©‚È
+;//flag:—‰Èº‘O‚Å—D‚Æ‰ï˜b@‚ªon ‚Ì;//[02094]‚Ö
+;//flag:—‰Èº‘O‚Å—D‚Æ‰ï˜b@‚ªOFF‚Ì;//[04014]‚Ö
+;//[02094]‚Ö
 
-;//ãƒ»çœŸä¹Ÿã«ä¸€ç¥¨;//[02095]ã¸
+;//E^–ç‚Éˆê•[;//[02095]‚Ö
 
 
-*SEL01|æ•£æ­©ã€è¡Œã£ã¦ã¿ã‚ˆã†ã‹ãªï¼çœŸä¹Ÿã«ä¸€ç¥¨
+*SEL01|U•àAs‚Á‚Ä‚İ‚æ‚¤‚©‚È^^–ç‚Éˆê•[
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'æ•£æ­©ã€è¡Œã£ã¦ã¿ã‚ˆã†ã‹ãª'"]
-[eval exp="f.seltext04 = 'çœŸä¹Ÿã«ä¸€ç¥¨'"]
+[eval exp="f.seltext02 = 'U•àAs‚Á‚Ä‚İ‚æ‚¤‚©‚È'"]
+[eval exp="f.seltext04 = '^–ç‚Éˆê•['"]
 
 
-[if exp="tf.sys_sub == 0 || tf.é¸æŠè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
-	;é¸æŠè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
+[if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
+	;‘I‘ğˆ“à—e‚ğƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[å±¥æ­´å‡ºåŠ›å¾©å¸°]
+[—š—ğo—Í•œ‹A]
 
-;é¸æŠè‚¢ãƒ™ãƒ¼ã‚¹
+;‘I‘ğˆƒx[ƒX
 [selbase]
-;æ–‡å­—ã®å·¦ãƒãƒ¼ã‚¸ãƒ³
+;•¶š‚Ì¶ƒ}[ƒWƒ“
 [eval exp="sf.seltext_x = 250"]
 
 [sel02 target=*sel00_sanpo]
@@ -267,7 +267,7 @@ Yeah, I guess...[pcms]
 
 ;;;[sysbt_meswin]
 
-;mm çµ¶å¯¾é€šã‚‹2050ã§ã‚ªãƒ³ã«ãªã‚‹ã‹ã‚‰04014.ksã«ã¯ã“ã“ã‹ã‚‰çµ¶å¯¾è¡Œã‘ãªã„ã‚“ã˜ã‚ƒï¼Ÿ
+;mm â‘Î’Ê‚é2050‚ÅƒIƒ“‚É‚È‚é‚©‚ç04014.ks‚É‚Í‚±‚±‚©‚çâ‘Îs‚¯‚È‚¢‚ñ‚¶‚áH
 [if exp="f.yuu_talk_on==0"]
 	;[jump target=*yuu_talk_off]
 	[jump target=*04014_TOP storage="04014.ks"]

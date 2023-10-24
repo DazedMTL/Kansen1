@@ -1,24 +1,24 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04012ã€ç•°äºº/å‡¶è¡Œã€
-;//BG:ä½“è‚²ç”¨å…·å®¤ï¼šå¤œï¼ç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»æœ‹ç¾ãƒ»ã‚¾ãƒ³ãƒ“æ•°å
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04012wˆÙl/‹¥sx
+;//BG:‘Ìˆç—p‹ïºF–é^“_“”
+;//“oêl•¨GålŒöE—DE•ü”üEƒ]ƒ“ƒr”–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04012_H_TOP
-;[debug_win]ãªã†ã€€04012_H[debug_win_end]
+;[debug_win]‚È‚¤@04012_H[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04012 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04012 = 1"]
 
-;*SceneSet|ã€ç•°äººï¼å‡¶è¡Œã€
+;*SceneSet|wˆÙl^‹¥sx
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 [bgm008]
 
-;//BG:bgç„¡ã—
+;//BG:bg–³‚µ
 
 ;;;[sysbt_meswin clear]
 
@@ -28,7 +28,7 @@
 
 ;;;[sysbt_meswin]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 
 [se0 storage="se008"]
 
@@ -59,7 +59,7 @@ On the other side, Tomo-chan is lying on the mat, weakly[r]breathing.[pcms]
 [fc]
 And right next to Tomo-chan, the two boys who had just[r]violated her were standing, staring at me with a disgusting[r]look.[pcms]
 
-;//H_CG:ã‚¾ãƒ³ãƒ“ãƒ¼ã‚º
+;//H_CG:ƒ]ƒ“ƒr[ƒY
 
 [ChrSetEx layer=3 chbase="zom_04_b"]
 [ChrSetXY layer=3 x=400 y=0]
@@ -92,7 +92,7 @@ With a chilling smile on their faces, they slowly approached[r]me while looking 
 [ns]Yamagishi[nse]
 N-No... Don't come... Don't come!![pcms]
 
-;//SE:äººã«ã¶ã¤ã‹ã‚‹
+;//SE:l‚É‚Ô‚Â‚©‚é
 [se0 storage="se025"]
 
 [quake_bg x m]
@@ -197,6 +197,6 @@ Wake up!! Waaake uuuup!![pcms]
 [ns]Yamagishi[nse]
 Noooo!!![pcms]
 
-;//[04013]ã¸
+;//[04013]‚Ö
 [jump target=*04013_H_TOP storage="04013_H.ks"]
 

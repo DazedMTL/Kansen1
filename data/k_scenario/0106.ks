@@ -1,27 +1,27 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0106ã€ä½“è‚²ç”¨å…·å®¤ã€
-;//BG:ä½“è‚²ç”¨å…·å®¤ï¼šå¤œï¼æ¶ˆç¯ï¼æœˆæ˜ã‹ã‚Š
-;//ç™»å ´äººç‰©ï¼›ç”°ä¸­ãƒ»æœ‹ç¾
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN0106w‘Ìˆç—p‹ïºx
+;//BG:‘Ìˆç—p‹ïºF–é^Á“”^Œ–¾‚©‚è
+;//“oêl•¨G“c’†E•ü”ü
 [ns]Tanaka[nse]
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *0106_TOP
-;[debug_win]ãªã†ã€€0106[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0106 = 1"]
+;[debug_win]‚È‚¤@0106[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0106 = 1"]
 
-;*SceneSet|ã€ä½“è‚²ç”¨å…·å®¤ã€
+;*SceneSet|w‘Ìˆç—p‹ïºx
 
 ;//[0106]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 
 ;//BG:bg016d
 
-;//SE:èµ°ã‚‹éŸ³
+;//SE:‘–‚é‰¹
 [se0 storage="se005"]
 
 *985|
@@ -29,7 +29,7 @@
 [ns]Tanaka[nse]
 Hurry up, hurry up![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v397|
 [fc]
@@ -54,7 +54,7 @@ I couldn't help but rush her to take off her uniform because[r]I wanted to see T
 [ChrSetParts layer=1 chface="tomo_e_a1_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v398|
 [fc]
@@ -67,7 +67,7 @@ Okay, I took it off.[pcms]
 [ns]Tanaka[nse]
 Huh! Ah, maybe bloomers are better than swimsuits after all![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v399|
 [fc]
@@ -102,7 +102,7 @@ Tomomin, you're sexy...[pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v400|
 [fc]
@@ -133,7 +133,7 @@ Tomomin!![pcms]
 [ChrSetParts layer=1 chface="tomo_e_a1_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v401|
 [fc]
@@ -143,12 +143,12 @@ Kyaaan![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [se0 storage="se021"]
 
 [quake_bg xy m]
 
-;//[0107]ã¸
+;//[0107]‚Ö
 [jump target=*0107_H_TOP storage="0107_H.ks"]
 
 

@@ -1,16 +1,16 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05300ã€ç”°ä¸­ãƒ»æœ‹ç¾ã¨å†ä¼šã€
-;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šæœ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»æ„ŸæŸ“ç”°ä¸­ãƒ»æ„ŸæŸ“æœ‹ç¾ãƒ»ã‚¾ãƒ³ãƒ“ï¼“äºº
+;//¡ËƒuƒƒbƒN05300w“c’†E•ü”ü‚ÆÄ‰ïx
+;//BG:“n‚è˜L‰ºF’©
+;//“oêl•¨GålŒöE“µEŠ´õ“c’†EŠ´õ•ü”üEƒ]ƒ“ƒr‚Rl
 
 *05300_TOP
-;[debug_win]ãªã†ã€€05300[debug_win_end]
-;*SceneSet|ã€ç”°ä¸­ãƒ»æœ‹ç¾ã¨å†ä¼šã€
+;[debug_win]‚È‚¤@05300[debug_win_end]
+;*SceneSet|w“c’†E•ü”ü‚ÆÄ‰ïx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05300 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05300 = 1"]
 
-;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼•ã€€è¡¨ç¤º
-;//â™ªï¼šBGM001
+;//flag:“µƒ‹[ƒgƒtƒ[@‚T@•\¦
+;//ôFBGM001
 
 [bgm001]
 
@@ -19,7 +19,7 @@
 [bg storage="bg09a"]
 [trans_c cross time=500]
 
-;ç«‹ã¡
+;—§‚¿
 
 [ChrSetEx layer=1 chbase="tomo_d_d_04"]
 [ChrSetXY layer=1 x=40 y=0]
@@ -58,7 +58,7 @@ And, a vacant gaze that doesn't seem to focus...[pcms]
 ... What are those people behind me...?[l][er]
 Are they Yuuji's friends...? But, they seem strange too...[pcms]
 
-;//â™ªï¼šBGM001ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM001ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
@@ -79,7 +79,7 @@ Even so, when Saeki saw that the two people I had been[r]searching for were foun
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//â™ªï¼šBGM003ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM003ƒtƒF[ƒhƒCƒ“
 [bgm003]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
@@ -87,7 +87,7 @@ Even so, when Saeki saw that the two people I had been[r]searching for were foun
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2184|
 [fc]
@@ -118,7 +118,7 @@ Where have you been all this time, Yuuji?[pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2185|
 [fc]
@@ -162,7 +162,7 @@ Could it be... these guys... are they doing drugs...?[pcms]
 [ChrSetParts layer=1 chface="tanaka_b_a_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std358|
 [fc]
 [ns]Tanaka[nse]
@@ -193,7 +193,7 @@ Yuuji and the others, as if they had read my thoughts about[r]trying to escape w
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2186|
 [fc]
@@ -206,7 +206,7 @@ Kato-san!![pcms]
 [ns]Kato[nse]
 Run away! Saeki...[pcms]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [se0 storage="se021"]
 
 [quake_bg xy m]
@@ -225,7 +225,7 @@ Igarashi-san, alone, was laughing and rolling around as if[r]tripping was funny.
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2187|
 [fc]
@@ -243,7 +243,7 @@ Ahaha... ahaha, hahaha... ahaha, hahaha...[pcms]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2188|
 [fc]
@@ -261,7 +261,7 @@ As I tried to run past Yuuji and the others, who were still[r]in a pile on the f
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2189|
 [fc]
@@ -287,7 +287,7 @@ The guys who were writhing on the floor all jumped at it.[pcms]
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 *std359|
 [fc]
 [ns]Male Student A[nse]
@@ -298,7 +298,7 @@ Ah... I'm eating, mmm...[pcms]
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 *std360|
 [fc]
 [ns]Tanaka[nse]
@@ -308,7 +308,7 @@ O-ren-da-zo-ko-re... yo-ko-se-yo...[pcms]
 [ChrSetXY layer=1 x=280 y=0]
 [trans_c cross time=150]
 ;//
-;ç«‹ã¡
+;—§‚¿
 *std361|
 [fc]
 [ns]Male Student D[nse]
@@ -318,7 +318,7 @@ O-ren-da-zo-ko-re... yo-ko-se-yo...[pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2191|
 [fc]
@@ -338,7 +338,7 @@ Amidst the low moans and inappropriate laughter, they[r]remained in a pile like 
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2192|
 [fc]
@@ -367,12 +367,12 @@ No, before that, it would be better to wake up Yamagishi-san[r]and Shinya and ta
 
 ;//blackout
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//â€»æ¡ä»¶åˆ†å²
-;//ãƒ»flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒoff;//[05310]ã¸
-;//ãƒ»flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒon;//[06140]ã¸
+;//¦ğŒ•ªŠò
+;//Eflag:“µƒ‹[ƒgƒNƒŠƒA@‚ªoff;//[05310]‚Ö
+;//Eflag:“µƒ‹[ƒgƒNƒŠƒA@‚ªon;//[06140]‚Ö
 
 [if exp="sf.g_hitomi_clear==1"]
 	;[jump target=*SEL00_05300_CLEAR_F]

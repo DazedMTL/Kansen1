@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02078ã€ç³ãŒæˆ»ã£ã¦ãã‚‹ã€
-;//BG:è¦–è´è¦šå®¤ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»ç«¹å†…ãƒ»ç³
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02078w“µ‚ª–ß‚Á‚Ä‚­‚éx
+;//BG:‹’®ŠoºF–éF“_“”
+;//“oêl•¨GålŒöE—DEƒŠƒTE’|“àE“µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02078_TOP
-;[debug_win]ãªã†ã€€02078[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02078 = 1"]
+;[debug_win]‚È‚¤@02078[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02078 = 1"]
 
-;*SceneSet|ã€ç³ãŒæˆ»ã£ã¦ãã‚‹ã€
+;*SceneSet|w“µ‚ª–ß‚Á‚Ä‚­‚éx
 
 ;//[02078]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg015c
 ;//[bg storage="bg15c"]
@@ -30,7 +30,7 @@ Yamagishi-san approached the window with an anxious[r]expression and looked outs
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v697|
 [fc]
@@ -52,7 +52,7 @@ I wonder what it's like to fool around outside...[pcms]
 *1668|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *1669|
 [fc]
@@ -64,7 +64,7 @@ The place would be a park or something along the way home...[l][er]
 I would embrace Yamagishi-san, who sat on the bench with her[r]body trembling slightly, and pull her closer...[l][er]
 And then, my hand would go inside her skirt...[pcms]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 [se0 storage="se008"]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
@@ -79,7 +79,7 @@ My worthless delusion was drowned out by the sound of the[r]door to the audiovis
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v698|
 [fc]
@@ -100,13 +100,13 @@ I braced myself, thinking that Saeki would unleash her usual[r]angry outburst at
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v699|
 [fc]
 [vo_sa s="sae0082"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *1674|
 [fc]
@@ -119,6 +119,6 @@ Did you exhaust all your energy enduring the fear of the[r]school at night?[pcms
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//[02079]ã¸
+;//[02079]‚Ö
 [jump target=*02079_TOP storage="02079.ks"]
 

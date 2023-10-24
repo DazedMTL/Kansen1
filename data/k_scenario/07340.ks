@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07340ã€å‚·å£ã€
-;//BG:å±‹ä¸Šï¼šå¤•æ–¹ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN07340wŒûx
+;//BG:‰®ãF—[•ûFÁ“”
+;//“oêl•¨GålŒöE“µ
 
 *07340_TOP
-;[debug_win]ãªã†ã€€07340[debug_win_end]
-;*SceneSet|ã€å‚·å£ã€
+;[debug_win]‚È‚¤@07340[debug_win_end]
+;*SceneSet|wŒûx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07340 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07340 = 1"]
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 
 ;//;//BG:bg22b
 
@@ -18,7 +18,7 @@
 
 [bgm004]
 
-;//SE:é¢¨ã®ãµãéŸ³
+;//SE:•—‚Ì‚Ó‚­‰¹
 [se0 storage="se019"]
 
 
@@ -68,7 +68,7 @@ It's getting even more painful...[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3315|
 [fc]
@@ -108,7 +108,7 @@ we would have become close much sooner...[pcms]
 [fc]
 ... Haha... I wonder if it's just a convenient thought...[pcms]
 
-;//â™ªï¼šBGM010ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM010ƒtƒF[ƒhƒCƒ“
 [bgm010]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
@@ -116,7 +116,7 @@ we would have become close much sooner...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3316|
 [fc]
@@ -133,7 +133,7 @@ I can't just leave it alone...[pcms]
 Saeki said that while getting closer to my wound...[l][er]
 she started licking my wound...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3317|
 [fc]
@@ -146,7 +146,7 @@ Mmm... *kiss*... Ahh...[pcms]
 [ns]Kato[nse]
 H-Hey... stop it... it's dirty...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3318|
 [fc]
@@ -229,7 +229,7 @@ I can't bear to watch...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3319|
 [fc]
@@ -280,7 +280,7 @@ Saeki stops me as I try to get up and stands up herself.[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3320|
 [fc]
@@ -298,7 +298,7 @@ Are you okay? That thing is quite heavy...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3321|
 [fc]
@@ -332,7 +332,7 @@ Those words make my heart ache again.[pcms]
 [fc]
 Just being by my side... that's all I need...[pcms]
 
-;//SE:ã‚¬ãƒ©ã‚¬ãƒ©
+;//SE:ƒKƒ‰ƒKƒ‰
 [se0 storage="se024"]
 
 *8365|
@@ -364,5 +364,5 @@ I'll just keep watching Saeki like this...[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[07350]ã¸
+;//[07350]‚Ö
 [jump target=*07350_TOP storage="07350.ks"]

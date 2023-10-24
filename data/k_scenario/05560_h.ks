@@ -1,13 +1,13 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05560ã€åœ°ä¸‹ï¼‘ã€
-;//BG:åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
-;//BG:åœ°ä¸‹å®¤ï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05560w’n‰º‚Px
+;//BG:’n‰ººFÁ“”
+;//BG:’n‰ººF“_“”
+;//“oêl•¨GålŒöE“µ
 
 *05560_H_TOP
-;[debug_win]ãªã†ã€€05560_H[debug_win_end]
+;[debug_win]‚È‚¤@05560_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 ;[if exp="tf.scene_mode == 0"][jump target=*05560][endif]
 ;[winset]
 
@@ -15,29 +15,29 @@
 
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *05560
 
-;*SceneSet|ã€åœ°ä¸‹ï¼‘ã€
+;*SceneSet|w’n‰º‚Px
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05560 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05560 = 1"]
 
-;//â™ªï¼šBGM004
+;//ôFBGM004
 [bgm004]
 
 ;//;//BG:bg23b
 [bg storage="bg23b"]
 [trans_c cross time=500]
 
-;//ï¼ æ‰æ¸•ï¼šä¸‹è¨˜ï¼³ï¼¥ãŒè¡¨ã«ãªã„ãŸã‚ã«ç¾åœ¨éŸ³ã‚’å¼µã£ã¦ã„ã¾ã›ã‚“ã€‚
-;//SE:æ‰‰ã‚’é–‹ãï¼ˆé‡ã„ï¼‰
+;//—™ŸºF‰º‹L‚r‚d‚ª•\‚É‚È‚¢‚½‚ß‚ÉŒ»İ‰¹‚ğ’£‚Á‚Ä‚¢‚Ü‚¹‚ñB
+;//SE:”à‚ğŠJ‚­id‚¢j
 ;//[se0 storage="se008"]
 
 
@@ -68,7 +68,7 @@ Let's stay here until tomorrow, just to be safe.[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2384|
 [fc]
@@ -85,7 +85,7 @@ Saeki let out a sigh and buried her face in her knees,[r]answering in a murmurin
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2385|
 [fc]
@@ -105,7 +105,7 @@ I wonder what that means... There's no way to go back to[r]normal either...[pcms
 [fc]
 As I let out a sigh in response to her words, Saeki suddenly[r]started crying.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2386|
 [fc]
@@ -123,7 +123,7 @@ H-Hey, what's wrong...?[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2387|
 [fc]
@@ -144,7 +144,7 @@ I tried to cheer her up with a bright voice, but Saeki[r]continued to cry, buryi
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2388|
 [fc]
@@ -156,7 +156,7 @@ Ugh... uhh... sniff... sob...[pcms]
 [fc]
 I couldn't find the right words to say, so all I could do[r]was listen to Saeki's crying voice echoing in the basement.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2389|
 [fc]
@@ -167,7 +167,7 @@ Ugh... uhh... sniff... sob...[pcms]
 *5704|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5705|
 [fc]
@@ -179,11 +179,11 @@ Eventually, Saeki lifted her face that was buried in her[r]knees and this time, 
 H-Hey...[pcms]
 
 ;	/*
-;	;//â™ªï¼šBGM004ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;	;//ôFBGM004ƒtƒF[ƒhƒAƒEƒg
 ;	[fadeoutbgm time=500]
 ;	*/
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2390|
 [fc]
@@ -194,7 +194,7 @@ Ugh... uhh... sniff...[pcms]
 *5710|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5711|
 [fc]
@@ -202,6 +202,6 @@ I strongly felt the desire to protect Saeki when I saw her[r]sobbing like a smal
 I want to protect Saeki with my own hands.[l][er]
 I must protect her.[pcms]
 
-;//[05570]ã¸
+;//[05570]‚Ö
 [jump target=*05570_H_TOP storage="05570_H.ks"]
 

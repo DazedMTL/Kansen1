@@ -1,21 +1,21 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02087ã€è¦–è´è¦šå®¤ï¼šå„ªã¨äºŒäººã®ä¼šè©±ã€
-;//BG:è¦–è´è¦šå®¤ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02087w‹’®ŠoºF—D‚Æ“ñl‚Ì‰ï˜bx
+;//BG:‹’®ŠoºF–éF“_“”
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02087_TOP
-;[debug_win]ãªã†ã€€02087[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02087 = 1"]
+;[debug_win]‚È‚¤@02087[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02087 = 1"]
 
-;*SceneSet|ã€è¦–è´è¦šå®¤ï¼šå„ªã¨äºŒäººã®ä¼šè©±ã€
+;*SceneSet|w‹’®ŠoºF—D‚Æ“ñl‚Ì‰ï˜bx
 
 ;//[02087]
 
-;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼“è¡¨ç¤º
-;//â™ªï¼šBGM001
+;//flag:—Dƒ‹[ƒgƒtƒ[@‚R•\¦
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg015c
 ;//[bg storage="bg15c"]
@@ -30,7 +30,7 @@ The third one was a bit harsh, you know.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v729|
 [fc]
@@ -53,7 +53,7 @@ However, in my case as a man, just like the original movie,[r]I also feel unsati
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v730|
 [fc]
@@ -71,7 +71,7 @@ Huh...?[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v731|
 [fc]
@@ -83,7 +83,7 @@ You know, it's a movie I watched when I was a child, and[r]it's still my favorit
 [fc]
 Yamagishi-san smiled sadly and looked into the distance,[r]raising her eyes to the sky.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v732|
 [fc]
@@ -102,7 +102,7 @@ The one where the family becomes one in the end and everyone[r]becomes happy...[
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v733|
 [fc]
@@ -119,7 +119,7 @@ Haha, well...[pcms]
 [fc]
 In truth, I should have emphasized more on the things I[r]remembered, but I hesitated to do so when I saw her smile,[r]which still carried a sense of loneliness.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v734|
 [fc]
@@ -138,7 +138,7 @@ Well then, maybe I'll rent it on my way home too.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v735|
 [fc]
@@ -155,7 +155,7 @@ She just smiled softly...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v736|
 [fc]
@@ -189,7 +189,7 @@ Well, it's not so much a recommendation, but there's one[r]that I want to watch.
 It was originally a manga, and now they're making it into a[r]movie.[l][er]
 Have you heard of it? It's set in old Japan.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v737|
 [fc]
@@ -208,7 +208,7 @@ That seems good, right? I've actually read quite a bit of[r]the manga, so I'm in
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v738|
 [fc]
@@ -249,7 +249,7 @@ I personally like it, but Yamagishi-san, why do you like it?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v739|
 [fc]
@@ -263,7 +263,7 @@ I feel healed by those kinds of stories.[pcms]
 [ns]Kato[nse]
 I see. Well then, among those stories, which one is your[r]favorite?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v740|
 [fc]
@@ -280,7 +280,7 @@ And there, she once again put on the lonely smile that had[r]disappeared until t
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v741|
 [fc]
@@ -310,7 +310,7 @@ It's already three o'clock.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v742|
 [fc]
@@ -327,15 +327,15 @@ Yamagishi-san collapsed onto the desk as is, and I arranged[r]the chairs and lay
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//â€»æ¡ä»¶åˆ†å²
-;//ãƒ»flag:å„ªãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒOFF;//[02076]ã¸
-;//ãƒ»flag:å„ªãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒON;//[03023]ã¸
+;//¦ğŒ•ªŠò
+;//Eflag:—Dƒ‹[ƒgƒNƒŠƒA@‚ªOFF;//[02076]‚Ö
+;//Eflag:—Dƒ‹[ƒgƒNƒŠƒA@‚ªON;//[03023]‚Ö
 
 [if exp="sf.g_yuu_clear==0"]
 	[jump target=*02088_H_TOP storage="02088_H.ks"]

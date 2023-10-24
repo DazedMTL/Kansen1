@@ -1,16 +1,16 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05860ã€ã‚¿ã‚¤ãƒ ãƒªãƒŸãƒƒãƒˆã€
-;//BG:ä¸‰éšå»Šä¸‹ï¼šå¤•æ–¹
-;//BG:ä¸‰éšæ•™å®¤ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05860wƒ^ƒCƒ€ƒŠƒ~ƒbƒgx
+;//BG:OŠK˜L‰ºF—[•û
+;//BG:OŠK‹³ºF—[•ûFÁ“”
+;//“oêl•¨GålŒöE“µ
 
 *05860_TOP
-;[debug_win]ãªã†ã€€05860[debug_win_end]
-;*SceneSet|ã€ã‚¿ã‚¤ãƒ ãƒªãƒŸãƒƒãƒˆã€
+;[debug_win]‚È‚¤@05860[debug_win_end]
+;*SceneSet|wƒ^ƒCƒ€ƒŠƒ~ƒbƒgx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05860 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05860 = 1"]
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 
 [bgm009]
 
@@ -19,7 +19,7 @@
 [bg storage="bg06b"]
 [trans_c cross time=500]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 
 [se0 storage="se005"]
 
@@ -32,7 +32,7 @@
 
 ;;;[sysbt_meswin]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2584|
 [fc]
@@ -70,7 +70,7 @@ There's nowhere to hide inside the school either...!![pcms]
 Damn it...!![pcms]
 
 ;	/*
-;	;//SE:å£ã‚’æ®´ã‚‹
+;	;//SE:•Ç‚ğ‰£‚é
 ;	[se0 storage="se028"]
 ;	[quake_bg x m]
 ;	*/
@@ -90,7 +90,7 @@ Even if it's just me, is there a way to protect Saeki!![pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2585|
 [fc]
@@ -102,7 +102,7 @@ Ah![pcms]
 [fc]
 Saeki raised her voice and looked at me with a face that[r]seemed to have come up with something.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2586|
 [fc]
@@ -120,7 +120,7 @@ I see... Was there a basement there...[pcms]
 Shit... Why couldn't I remember sooner...[l][er]
 That I could be the one to save Saeki, who I should be[r]protecting...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2587|
 [fc]
@@ -146,5 +146,5 @@ I shook off the feeling of my own incompetence and switched[r]gears, and togethe
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05870]ã¸
+;//[05870]‚Ö
 [jump target=*05870_TOP storage="05870.ks"]

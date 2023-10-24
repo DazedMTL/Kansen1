@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02151ã€æ—¥ãŒæš®ã‚Œã‚‹ã€
-;//BG:å±‹ä¸Šï¼šå¤œ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02151w“ú‚ª•é‚ê‚éx
+;//BG:‰®ãF–é
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02151_TOP
-;[debug_win]ãªã†ã€€02151[debug_win_end]
+;[debug_win]‚È‚¤@02151[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02151 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02151 = 1"]
 
-;*SceneSet|ã€æ—¥ãŒæš®ã‚Œã‚‹ã€
+;*SceneSet|w“ú‚ª•é‚ê‚éx
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 ;//[bgm007]
 
@@ -32,18 +32,18 @@ When I arrived on the rooftop, the sun was already setting,[r]and apart from the
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1056|
 [fc]
 [vo_ya s="yama0353"]
 [ns]Yamagishi[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *2749|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *2750|
 [fc]
@@ -62,7 +62,7 @@ If only one of us had seen that, we could have pretended it[r]didn't happen...[p
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1057|
 [fc]
@@ -86,7 +86,7 @@ Even if it turned out like that, there's no helping it...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1058|
 [fc]
@@ -130,11 +130,11 @@ If some kind of bacteria enters through the wound and that[r]becomes the cause o
 [fc]
 Yamagishi-san was looking at me with a worried expression as[r]I frowned at my absurd and unfounded imagination.[pcms]
 
-;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM007ƒtƒF[ƒhƒAƒEƒg
 
 ;//[fadeoutbgm time=500]
 
-;//â™ªï¼šBGM010ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM010ƒtƒF[ƒhƒCƒ“
 
 ;//[bgm010]
 
@@ -142,7 +142,7 @@ Yamagishi-san was looking at me with a worried expression as[r]I frowned at my a
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1059|
 [fc]
@@ -174,7 +174,7 @@ The damage seems to be even greater than we thought, and the[r]red light envelop
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1060|
 [fc]
@@ -191,7 +191,7 @@ I wonder... Maybe everyone has already evacuated.[pcms]
 [fc]
 Yamagishi-san looked worried and grabbed the hem of my shirt[r]when I responded like that.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1061|
 [fc]
@@ -200,7 +200,7 @@ Yamagishi-san looked worried and grabbed the hem of my shirt[r]when I responded 
 They will come to help us here too, right...?[l][er]
 We haven't been forgotten, right...?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1062|
 [fc]
@@ -224,7 +224,7 @@ Yamagishi-san smiled and nodded after giving me a[r]momentarily surprised look i
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1063|
 [fc]
@@ -244,7 +244,7 @@ I nodded strongly, without saying a word.[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -252,5 +252,5 @@ I nodded strongly, without saying a word.[pcms]
 
 ;//blackout
 
-;//[02152]ã¸
+;//[02152]‚Ö
 [jump target=*02152_H_TOP storage="02152_H.ks"]

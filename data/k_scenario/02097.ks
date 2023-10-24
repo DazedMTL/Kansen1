@@ -1,27 +1,27 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02097ã€æ˜¼ã®ç•°äººã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02097w’‹‚ÌˆÙlx
+;//BG:“Áê‹³º˜L‰ºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DE’|“à
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02097_TOP
-;[debug_win]ãªã†ã€€02097[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02097 = 1"]
+;[debug_win]‚È‚¤@02097[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02097 = 1"]
 
-;*SceneSet|ã€æ˜¼ã®ç•°äººã€
+;*SceneSet|w’‹‚ÌˆÙlx
 
 ;//[02097]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 
-;//CG:å„ªãŒå»Šä¸‹ã‚’é§†ã‘ã¦ã„ã‚‹
+;//CG:—D‚ª˜L‰º‚ğ‹ì‚¯‚Ä‚¢‚é
 [evcg storage="EV_001"]
 [trans_c cross time=500]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 *v814|
@@ -80,7 +80,7 @@ Even though it may not look like it, I'm giving it my all![pcms]
 [ns]Yamagishi[nse]
 Ahaha! I'm leaving you behind~!![pcms]
 
-;//SEï¼šäººã¨ã¶ã¤ã‹ã‚‹éŸ³
+;//SEFl‚Æ‚Ô‚Â‚©‚é‰¹
 
 [se0 storage="se025"]
 
@@ -103,10 +103,10 @@ Oh no!![pcms]
 [ns]male student[nse]
 Guhh...!![pcms]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [se0 storage="se021"]
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 [fadeoutbgm time=500]
 ;//BG:bg003a
 [bg storage="bg03a"]
@@ -123,7 +123,7 @@ As I ran through the hallway and tried to make a right turn[r]towards the adjace
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v817|
 [fc]
@@ -159,13 +159,13 @@ The boy who had fallen down slowly got up and looked around[r]at our faces as he
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std214|
 [fc]
 [ns]Takeuchi[nse]
 Ah, there's blood coming from your head![pcms]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 ;[bgm007]
 
 *1975|
@@ -186,7 +186,7 @@ Uwaa... um, I'm really sorry...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v818|
 [fc]
@@ -202,13 +202,13 @@ He stared silently at the flustered Yamagishi-san, wearing a[r]creepy smile on h
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std215|
 [fc]
 [ns]male student[nse]
 Yama... gishi... La... ki~...[pcms]
 
-;//â€»EV_004ã€€ä¸­å¤®ã‚­ãƒ£ãƒ©
+;//¦EV_004@’†‰›ƒLƒƒƒ‰
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -219,7 +219,7 @@ Yama... gishi... La... ki~...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v819|
 [fc]
@@ -241,7 +241,7 @@ The person slowly approached us with a suspicious look on[r]their face.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v820|
 [fc]
@@ -258,12 +258,12 @@ H-Hey, wait a minute...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std216|
 [fc]
 [ns]male student[nse]
 Gufu, fu... u, he...[pcms]
 
-;//[02098]ã¸
+;//[02098]‚Ö
 [jump target=*02098_TOP storage="02098.ks"]
 

@@ -1,34 +1,34 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯06030ã€Huntingã€€Timeã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
-;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›å²¸ç”°ãƒ»å„ª
-;//è¦–ç‚¹ï¼šå²¸ç”°
+;//¡ËƒuƒƒbƒN06030wHunting@Timex
+;//BG:“Áê‹³º˜L‰ºF–éFÁ“”
+;//BG:“n‚è˜L‰ºF–éF“_“”
+;//“oêl•¨GŠİ“cE—D
+;//‹“_FŠİ“c
 
 *06030_H_TOP
-;[debug_win]ãªã†ã€€06030_H[debug_win_end]
+;[debug_win]‚È‚¤@06030_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 ;[if exp="tf.scene_mode == 0"][jump target=*06030][endif]
 ;[winset]
 
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *06030
 
-;*SceneSet|ã€ï¼¨ï¼µï¼®ï¼´ï¼©ï¼®ï¼§ã€€ï¼´ï¼©ï¼­ï¼¥ã€
+;*SceneSet|w‚g‚t‚m‚s‚h‚m‚f@‚s‚h‚l‚dx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_06030 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_06030 = 1"]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 [bgm007]
 
@@ -67,7 +67,7 @@ Ah, I left her waiting in the infirmary for so long...[l][er]
 It was quite a long neglect play![l][er]
 Zaa hahaha![pcms]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹ï¼ˆå‹¢ã„ã‚ˆãï¼‰
+;//SE:”à‚ğŠJ‚¯‚éi¨‚¢‚æ‚­j
 
 [se0 storage="se009"]
 
@@ -105,14 +105,14 @@ There's no other choice... Let's go back to the Castle.[pcms]
 [bg storage="bg09e"]
 [trans_c cross time=500]
 
-;//ï¼ æ‰æ¸•ï¼šä¸‹è¨˜ï¼³ï¼¥ãŒè¡¨ã«ãªã„ãŸã‚ã«ç¾åœ¨éŸ³ã‚’å¼µã£ã¦ã„ã¾ã›ã‚“ã€‚
+;//—™ŸºF‰º‹L‚r‚d‚ª•\‚É‚È‚¢‚½‚ß‚ÉŒ»İ‰¹‚ğ’£‚Á‚Ä‚¢‚Ü‚¹‚ñB
 
-;//SE:å»Šä¸‹ã‚’æ­©ã
+;//SE:˜L‰º‚ğ•à‚­
 
 [se0 storage="se005"]
 
-;ç«‹ã¡
-;//å¥³ã®å­ã€€â€»
+;—§‚¿
+;//—‚Ìq@¦
 
 
 
@@ -133,7 +133,7 @@ Hm? Is there someone else again?[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2606|
 [fc]
@@ -164,7 +164,7 @@ Oh, Yamagishi!! What's wrong? Are you alone?[pcms]
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2607|
 [fc]
@@ -186,7 +186,7 @@ Nevertheless, the face of a frightened woman is always good[r]to see.[pcms]
 What... Why is everyone wandering around like this?[l][er]
 Where did you all go for the viewing party!?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2608|
 [fc]
@@ -199,7 +199,7 @@ K-Kishida-sensei...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2609|
 [fc]
@@ -213,7 +213,7 @@ Um, did you happen to see Tanaka-san and Igarashi-san?[pcms]
 Tanaka? I saw him going into the restroom a while ago...[l][er]
 Did something happen?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2610|
 [fc]
@@ -222,7 +222,7 @@ Did something happen?[pcms]
 Y-Yes, we were watching movies together at the film club's[r]training camp...[l][er]
 but, before I knew it, Tanaka-san, Igarashi-san, and[r]Takeuchi-kun were gone...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2611|
 [fc]
@@ -250,7 +250,7 @@ So the others... I saw Takeuchi, but that's it.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2612|
 [fc]
@@ -274,7 +274,7 @@ He was in his own classroom. He might have already returned[r]to the audiovisual
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2613|
 [fc]
@@ -287,7 +287,7 @@ Is that so...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2614|
 [fc]
@@ -311,7 +311,7 @@ Yamagishi! Wait!! I'll go search with you too![pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2615|
 [fc]
@@ -325,20 +325,20 @@ Eh...? I-I'll be fine on my own...[pcms]
 Well, wait... If you wander around the school on your own,[r]it'll cause trouble for us.[l][er]
 If something happens, it'll be our responsibility, you[r]know...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2616|
 [fc]
 [vo_ya s="yama0859"]
 [ns]Yamagishi[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2617|
 [fc]
@@ -373,7 +373,7 @@ I have something to discuss.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2618|
 [fc]
@@ -387,7 +387,7 @@ Eh?[pcms]
 Well, anyway, let's go, okay? I won't offer you tea![l][er]
 Zahaha![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2619|
 [fc]
@@ -404,6 +404,6 @@ Ah... T-Teacher...[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[06040]ã¸
+;//[06040]‚Ö
 [jump target=*06040_H_TOP storage="06040_H.ks"]
 

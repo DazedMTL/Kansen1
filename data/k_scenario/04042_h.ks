@@ -1,25 +1,25 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04042ã€æŠ±æ“ã€
-;//BG:ä¸‰éšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰ï¼šæœ
-;//BG:å±‹ä¸Šï¼šæœ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04042w•ø—ix
+;//BG:OŠK˜L‰ºFƒoƒŠƒP[ƒhF’©
+;//BG:‰®ãF’©
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04042_H_TOP
-;[debug_win]ãªã†ã€€04042_H[debug_win_end]
+;[debug_win]‚È‚¤@04042_H[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04042 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04042 = 1"]
 
-;*SceneSet|ã€æŠ±æ“ã€
+;*SceneSet|w•ø—ix
 
-;//flag:å„ªãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ on
+;//flag:—Dƒ‹[ƒgƒNƒŠƒA on
 
-;//<Mov g_yuu_clearã‚«ãƒ³ãƒ1>
+;//<Mov g_yuu_clearƒJƒ“ƒ}1>
 
-;//â™ªï¼šBGM011
+;//ôFBGM011
 
 [bgm011]
 
@@ -28,7 +28,7 @@
 [bg storage="bg22d"]
 [trans_c cross time=500]
 
-;//SE:ãƒ˜ãƒªã‚³ãƒ—ã‚¿ãƒ¼ã€€é ã„
+;//SE:ƒwƒŠƒRƒvƒ^[@‰“‚¢
 
 [se0 storage="se033"]
 
@@ -37,7 +37,7 @@
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1914|
 [fc]
@@ -54,7 +54,7 @@ When I followed Yamagishi-san's pointing finger, I saw a[r]helicopter flying tow
 [ns]Kato[nse]
 It's true... Hey!! Over here!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1915|
 [fc]
@@ -75,7 +75,7 @@ Haha! We did it! We did it, Yamagishi-san![pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1916|
 [fc]
@@ -88,7 +88,7 @@ Yeah![pcms]
 [ns]Kato[nse]
 Yes! We're saved!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1917|
 [fc]
@@ -107,7 +107,7 @@ I held onto Yamagishi-san, who jumped into my arms, and spun[r]around in circles
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1918|
 [fc]
@@ -120,7 +120,7 @@ Kyaa~! Ahaha![pcms]
 [ns]Kato[nse]
 Hahaha! ... We made it!![pcms]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 
 [se0 storage="se021"]
 
@@ -159,7 +159,7 @@ Yes... From today, you've become mine alone...[pcms]
 *4505|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4506|
 [fc]
@@ -213,7 +213,7 @@ I was unknowingly drawn to her lips, which moved so clearly.[pcms]
 [fc]
 [vo_ya s="yama0801"]
 [ns]Yamagishi[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 ;;;[sysbt_meswin clear]
 
@@ -292,7 +292,7 @@ However, our relief was forcibly cut short by the sound of[r]the entrance being 
 [fc]
 We were so caught up in the hope of being saved that we[r]forgot to barricade the entrance, and because of that, those[r]crazy people managed to come in.[pcms]
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 [bgm008]
 
@@ -343,7 +343,7 @@ But if I move in a hurry now, I might end up getting hit...[pcms]
 [fc]
 Just a little longer, like this...[pcms]
 
-;//SE:éŠƒå£°ï¼ˆãƒ©ã‚¤ãƒ•ãƒ«ï¼‰
+;//SE:eºiƒ‰ƒCƒtƒ‹j
 
 [se0 storage="se038"]
 
@@ -394,13 +394,13 @@ Why... Why are they targeting me!?[pcms]
 [ns]Kato[nse]
 Hey!! Stop...[pcms]
 
-;//SE:éŠƒå£°ï¼ˆãƒ©ã‚¤ãƒ•ãƒ«ï¼‰
+;//SE:eºiƒ‰ƒCƒtƒ‹j
 
 [se0 storage="se038"]
 
 [fadeoutbgm time=500]
 
-;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM008ƒtƒF[ƒhƒAƒEƒg
 
 ;;;[sysbt_meswin clear]
 
@@ -415,11 +415,11 @@ Hey!! Stop...[pcms]
 
 ;//blackout
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 
 [fadeoutbgm time=500]
 
-;//SE:ãƒ˜ãƒªã‚³ãƒ—ã‚¿ãƒ¼ã®éŸ³ï¼ˆè¿‘ã„ï¼‰
+;//SE:ƒwƒŠƒRƒvƒ^[‚Ì‰¹i‹ß‚¢j
 
 [se0 storage="se034"]
 
@@ -463,7 +463,7 @@ bukkake all over it... hehe, hehe...[pcms]
 [ns]Yamagishi[nse]
 Noooohhhh!!![pcms]
 
-;//SE:éŠƒå£°ï¼ˆãƒ©ã‚¤ãƒ•ãƒ«ï¼‰
+;//SE:eºiƒ‰ƒCƒtƒ‹j
 
 [se0 storage="se038"]
 
@@ -479,37 +479,37 @@ Noooohhhh!!![pcms]
 
 [if exp="sf.g_yuu_clear==1"][jump target=*SEL00_TITLE][endif]
 
-;//ãƒ ãƒ¼ãƒ“ãƒ¼å†ç”Ÿ
+;//ƒ€[ƒr[Ä¶
 [call storage="movie_sub.ks" target=*yuu_zap_open]
 
 [eval exp="sf.g_yuu_clear = 1"]
 
 *SEL00_TITLE
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 ;[if exp="tf.scene_mode == 1"]
 ;	
 ;	[jump storage="b_scene.ks" target=*back_from_SR]
 ;	[s]
 ;[endif]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn23 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn23 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;//â€»ã‚²ãƒ¼ãƒ ã‚ªãƒ¼ãƒãƒ¼
+;//¦ƒQ[ƒ€ƒI[ƒo[
 
 ;;;[sysbt_meswin clear]
 

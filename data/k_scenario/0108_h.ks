@@ -1,31 +1,31 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0108ã€ãƒ–ãƒ«ãƒã®èª˜æƒ‘ï¼’ã€
-;//BG:ä½“è‚²ç”¨å…·å®¤ï¼šå¤œï¼æ¶ˆç¯ï¼æœˆæ˜ã‹ã‚Š
-;//EVENT;//BG:ä½“è‚²ç”¨å…·å®¤/ãƒãƒƒãƒˆã®ä¸Š
-;//ç™»å ´äººç‰©ï¼›æœ‹ç¾ãƒ»ç”°ä¸­
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN0108wƒuƒ‹ƒ}‚Ì—U˜f‚Qx
+;//BG:‘Ìˆç—p‹ïºF–é^Á“”^Œ–¾‚©‚è
+;//EVENT;//BG:‘Ìˆç—p‹ïº/ƒ}ƒbƒg‚Ìã
+;//“oêl•¨G•ü”üE“c’†
 [ns]Tanaka[nse]
 
-;//â˜…ï¼¨EVENT_006ã€€ã€ãƒ–ãƒ«ãƒã®èª˜æƒ‘ï¼’ã€
-;//ä½“ä½ï¼šæœ‹ç¾ã¯ç”°ä¸­ã®ä¸Šã«ä¹—ã‚‹ã€‚é¨ä¹—ä½ã€‚ç”°ä¸­ã¯æœ‹ç¾ã®ãƒ–ãƒ«ãƒã‚’ãšã‚‰ã—ã€æŒ¿å…¥ã—ã¦ã„ã‚‹ã€‚
-;//ã€€ã€€ã€€ä¸Šç€ã¯ã¾ãã‚Šä¸Šã’ã€æœ‹ç¾ã®å£ã«ãã‚ãˆã•ã›ã¦ã‚ã‚‹ã€‚ä¸¡æ–¹ã®èƒ¸ã¯ä¸¸è¦‹ãˆã€‚
-;//ã€€ã€€ã€€ç”°ä¸­ã¯ç‰‡æ‰‹ã§æœ‹ç¾ã®ä¸‹ä¹³ã®ã‚ãŸã‚Šã‚’æ”¯ãˆã¦ã„ã‚‹ã€‚ã‚‚ã†ç‰‡æ‰‹ã§èƒ¸ã‚’å„ªã—ãã‚‚ã‚“ã§ã„ã‚‹ã€‚
-;//ã€€ã€€ã€€ç”°ä¸­è¦–ç‚¹ã§ã€æœ‹ç¾ã‚’ã‚„ã‚„ã‚ãŠã‚‹ã‚«ãƒ¡ãƒ©ã‚¢ãƒ³ã‚°ãƒ«ã€‚
-;//å·®åˆ†ï¼šè¡¨æƒ…å¿«æ„Ÿãƒ»è¡¨æƒ…å›°æƒ‘ãƒ»å¤–ã ã—ç”·æ€§å™¨ãƒ»å¤–ã ã—å°„ç²¾å·®åˆ†
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;//š‚gEVENT_006@wƒuƒ‹ƒ}‚Ì—U˜f‚Qx
+;//‘ÌˆÊF•ü”ü‚Í“c’†‚Ìã‚Éæ‚éB‹RæˆÊB“c’†‚Í•ü”ü‚Ìƒuƒ‹ƒ}‚ğ‚¸‚ç‚µA‘}“ü‚µ‚Ä‚¢‚éB
+;//@@@ã’…‚Í‚Ü‚­‚èã‚°A•ü”ü‚ÌŒû‚É‚­‚í‚¦‚³‚¹‚Ä‚ ‚éB—¼•û‚Ì‹¹‚ÍŠÛŒ©‚¦B
+;//@@@“c’†‚Í•Ğè‚Å•ü”ü‚Ì‰º“û‚Ì‚ ‚½‚è‚ğx‚¦‚Ä‚¢‚éB‚à‚¤•Ğè‚Å‹¹‚ğ—D‚µ‚­‚à‚ñ‚Å‚¢‚éB
+;//@@@“c’†‹“_‚ÅA•ü”ü‚ğ‚â‚â‚ ‚¨‚éƒJƒƒ‰ƒAƒ“ƒOƒ‹B
+;//·•ªF•\î‰õŠ´E•\î¢˜fEŠO‚¾‚µ’j«ŠíEŠO‚¾‚µË¸·•ª
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *0108_H_TOP
-;[debug_win]ãªã†ã€€0108_H[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0108 = 1"]
+;[debug_win]‚È‚¤@0108_H[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0108 = 1"]
 
-;*SceneSet|ã€ãƒ–ãƒ«ãƒã®èª˜æƒ‘ï¼’ã€
+;*SceneSet|wƒuƒ‹ƒ}‚Ì—U˜f‚Qx
 
 ;//[0108]
 
-;//â™ªï¼šBGM006
+;//ôFBGM006
 ;//[bgm006]
-;//H_CG:ãƒ–ãƒ«ãƒæœ‹ç¾ã®ã‚»ãƒƒã‚¯ã‚¹
+;//H_CG:ƒuƒ‹ƒ}•ü”ü‚ÌƒZƒbƒNƒX
 
 [sysbt_meswin clear]
 
@@ -36,7 +36,7 @@
 
 ;;;[sysbt_meswin]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 [se1 storage="se059"]
 
 *v438|
@@ -70,7 +70,7 @@ Her big, round breasts, which were fully exposed when her[r]gym clothes were lif
 *1052|
 [fc]
 [ns]Tanaka[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *v440|
 [fc]
@@ -184,7 +184,7 @@ Ah, you're blaming me for this?[pcms]
 [fc]
 I extend the hand that was caressing her body towards[r]Tomomin's thighs, and this time, I gently stroke her clit[r]that is still becoming stiff with my fingers.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 [se1 storage="se059"]
 
 *v449|
@@ -256,7 +256,7 @@ Tomomin, can you put it in...?[pcms]
 [ns]Igarashi[nse]
 Yes...[pcms]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 [se0 storage="se058"]
 
 ;;;[sysbt_meswin clear]
@@ -301,7 +301,7 @@ The overwhelming pleasure was so intense that it felt like[r]my thing would melt
 [ns]Tanaka[nse]
 Ahh... Inside Tomomin... Feels so damn good...[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
 [overflow_se storage="se060" loop=true]
 
 *v455|
@@ -371,7 +371,7 @@ ugh... unh![pcms]
 [ns]Tanaka[nse]
 It's okay, let it out... Let me hear Tomomin's cute voice[r]even more...[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 [overflow_se storage="se061" loop=true]
 
 *v461|
@@ -425,7 +425,7 @@ The stimulation from her twisted nipples causes Tomomin to[r]arch her body.[pcms
 [ns]Igarashi[nse]
 Uaaah! Fuah, aahh![pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
 [overflow_se storage="se060" loop=true]
 
 *1089|
@@ -456,7 +456,7 @@ Haaah... so weak...[pcms]
 [fc]
 Tomomin pouts and sulks with a slightly wrinkled face, and[r]that cute gesture of hers instantly shifts up the gear of my[r]pleasure.[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 [overflow_se storage="se061" loop=true]
 
 *v467|
@@ -532,7 +532,7 @@ Nngh...![pcms]
 [fc]
 At the moment I felt Tomomin's place tighten around my[r]thing, I exploded vigorously.[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 [stop_overflow_se]
 
 ;//whiteflash
@@ -632,7 +632,7 @@ I lightly kissed Tomomin, who smiled sweetly.[pcms]
 [ns]Igarashi[nse]
 Nn... Ehehe... I love you, Uutan...[pcms]
 
-;//â™ªï¼šBGM006ã€€ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM006@ƒtƒF[ƒhƒAƒEƒg
 [fadeoutbgm time=500]
 
 ;//blackout
@@ -657,24 +657,24 @@ I lay down on the mat, still holding Tomomin, who was making[r]peaceful sleeping
 
 
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn04 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn04 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
@@ -684,9 +684,9 @@ I lay down on the mat, still holding Tomomin, who was making[r]peaceful sleeping
 
 ;;;[sysbt_meswin]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;//[0132]ï¼ˆãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ãƒ»æœ¬ãƒ«ãƒ¼ãƒˆï¼‰ã¸
+;//[0132]iƒvƒƒ[ƒOE–{ƒ‹[ƒgj‚Ö
 
 [bg storage="bg15c"]
 [trans_c cross time=1000]

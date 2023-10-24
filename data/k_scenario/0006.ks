@@ -1,27 +1,27 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//;//â– ãƒ–ãƒ­ãƒƒã‚¯0006ã€å«Œã‚ã‚Œè€…æ•™å¸«ãƒ»å²¸ç”°ç™»å ´ã€
-;//BGï¼šç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼
-;//;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­ãƒ»å²¸ç”°
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//;//¡ƒuƒƒbƒN0006wŒ™‚í‚êÒ‹³tEŠİ“c“oêx
+;//BGF“Áê‹³º˜L‰ºF’‹
+;//;//“oêl•¨GålŒöE—DE“µE•ü”üE’|“àE“c’†EŠİ“c
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *0006_TOP
-;[debug_win]ãªã†ã€€0006[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0006 = 1"]
+;[debug_win]‚È‚¤@0006[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0006 = 1"]
 
-;*SceneSet|ã€å«Œã‚ã‚Œè€…æ•™å¸«ã€
+;*SceneSet|wŒ™‚í‚êÒ‹³tx
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 ;//;//BG:bg003a
 
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [bg storage="bg03a"]
 [trans_c cross time=500]
 
-;//;//SE:ã‚¬ãƒ¤
+;//;//SE:ƒKƒ„
 [se0 storage="se001" loop=true]
 
 *162|
@@ -66,14 +66,14 @@ Speaking of Kishida, he is the most disliked male teacher[r]among the students a
 That man wants to use the school in the middle of the[r]night...?[l][er]
 At night...[pcms]
 
-;//â™ªï¼šBGM001ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM001ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
-;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM007ƒtƒF[ƒhƒCƒ“
 [bgm007]
 
-;//;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//;//SE:”à‚ğŠJ‚¯‚é
 [se0 storage="se008"]
 
 [ChrSetEx layer=1 chbase="kisi_a_a_01"]
@@ -93,7 +93,6 @@ Well then, Principal, if you'll excuse me!![pcms]
 
 *172|
 [fc]
-Kishida, with a loud voice and in high spirits, emerged from[r]the staff room with a smile on his face.[l][er]
 Kishida, with a loud voice and in high spirits, emerged from[r]the staff room with a smile on his face.[pcms]
 [l][er]
 
@@ -121,7 +120,7 @@ That's also one of the reasons why Kishida is disliked by[r]everyone.[pcms]
 [fc]
 Kishida approached us, ignoring my plea to leave us alone.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std29|
 [fc]
 [ns]Kishida[nse]
@@ -161,7 +160,7 @@ I saw Yamagishi-san and Saeki walking with us, and Kishida's[r]stern expression 
 [ChrSetXY layer=1 x=80 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std30|
 [fc]
 [ns]Kishida[nse]
@@ -171,7 +170,7 @@ Hey, Yamagishi and Saeki! If it's just you two, would you[r]like me to give you 
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v54|
 [fc]
@@ -184,7 +183,7 @@ No, thank you.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v55|
 [fc]
@@ -196,7 +195,7 @@ Ah, I'll go home with everyone too...[pcms]
 [ChrSetXY layer=1 x=80 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std31|
 [fc]
 [ns]Kishida[nse]
@@ -216,8 +215,8 @@ Kishida left, leaving behind an annoying loud laughter.[pcms]
 [ns]Kato[nse]
 That scumbag...[pcms]
 
-;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
-;//â™ªï¼šBGM001ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM007ƒtƒF[ƒhƒAƒEƒg
+;//ôFBGM001ƒtƒF[ƒhƒCƒ“
 
 [bgm001]
 
@@ -233,7 +232,7 @@ I can't believe that's the way a teacher looks at students.[pcms]
 [fc]
 When I think about how Yamagishi-san is constantly subjected[r]to that gaze, I feel a stronger sense of disgust and even a[r]significant amount of anger towards Kishida.[pcms]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*0007_TOP storage="0007.ks"]
 
 

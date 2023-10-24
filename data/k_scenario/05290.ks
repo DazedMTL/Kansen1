@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05290ã€åœ°ä¸‹è²¯è”µå®¤ã€
-;//;//BG:åœ°ä¸‹è²¯è”µå®¤ï¼šæ¶ˆç¯
-;//;//BG:åœ°ä¸‹è²¯è”µå®¤ï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN05290w’n‰º’™‘ ºx
+;//;//BG:’n‰º’™‘ ºFÁ“”
+;//;//BG:’n‰º’™‘ ºF“_“”
+;//“oêl•¨GålŒöE“µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *05290_TOP
-;[debug_win]ãªã†ã€€05290[debug_win_end]
-;*SceneSet|ã€åœ°ä¸‹è²¯è”µå®¤ã€
+;[debug_win]‚È‚¤@05290[debug_win_end]
+;*SceneSet|w’n‰º’™‘ ºx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05290 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05290 = 1"]
 
-;//â™ªï¼šBGM005
+;//ôFBGM005
 
 [bgm005]
 
@@ -32,7 +32,7 @@
 
 ;;;[sysbt_meswin]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2171|
 [fc]
@@ -63,7 +63,7 @@ It was spacious enough to accommodate four classes of[r]students and still have 
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2172|
 [fc]
@@ -75,7 +75,7 @@ I have read old documents about this school in the student[r]council room before
 [fc]
 Saeki began speaking while looking around the inside of the[r]basement.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2173|
 [fc]
@@ -83,7 +83,7 @@ Saeki began speaking while looking around the inside of the[r]basement.[pcms]
 [ns]Saeki[nse]
 It seems that this school was established before the war,[r]and it was a place where daughters of wealthy families, so-[r]called ojou-sama, attended.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2174|
 [fc]
@@ -96,7 +96,7 @@ Could it be that this basement is not like a shelter created[r]by the school to 
 [ns]Kato[nse]
 Hmm... So, you're saying they made this basement to protect[r]the daughters of wealthy families, like a safety measure in[r]case something happened to them?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2175|
 [fc]
@@ -115,7 +115,7 @@ It can't be used as an evacuation spot under the kitchen,[r]right?[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2176|
 [fc]
@@ -148,7 +148,7 @@ Does the student council have that much free time?[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2177|
 [fc]
@@ -156,7 +156,7 @@ Does the student council have that much free time?[pcms]
 [ns]Saeki[nse]
 How rude! I read them when I had free time![pcms]
 
-;//SE:å†·è”µåº«ã®ãƒ¢ãƒ¼ã‚¿ãƒ¼éŸ³
+;//SE:—â‘ ŒÉ‚Ìƒ‚[ƒ^[‰¹
 
 [se0 storage="se044"]
 
@@ -169,7 +169,7 @@ As soon as Saeki raised her voice, an even louder sound[r]began to emanate from 
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2178|
 [fc]
@@ -186,13 +186,13 @@ Saeki, startled by the loud noise that sounded like the[r]motor of the refrigera
 [ns]Kato[nse]
 Saeki is right, it seems like this refrigerator shelf is[r]working properly.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2179|
 [fc]
 [vo_sa s="sae0446"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5236|
 [fc]
@@ -204,7 +204,7 @@ Saeki...?[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2180|
 [fc]
@@ -220,25 +220,25 @@ Saeki, flustered and blushing, quickly moved away from me,[r]avoiding eye contac
 [fc]
 I couldn't help but feel self-conscious because of Saeki's[r]embarrassment.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2181|
 [fc]
 [vo_sa s="sae0448"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5239|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5240|
 [fc]
 For a while, we both remained silent, looking down.[l][er]
 But eventually, Saeki spoke up.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2182|
 [fc]
@@ -261,8 +261,8 @@ I nodded in agreement with Saeki's suggestion and climbed up[r]the stairs to the
 
 ;//blackout
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05291]ã¸
+;//[05291]‚Ö
 [jump target=*05291_TOP storage="05291.ks"]

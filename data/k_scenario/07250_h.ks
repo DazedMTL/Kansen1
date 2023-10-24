@@ -1,12 +1,12 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07250ã€æ¥å»ã€
-;//BG;åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN07250wÚ•«x
+;//BG;’n‰ººFÁ“”
+;//“oêl•¨GålŒöE“µ
 
 *07250_H_TOP
-;[debug_win]ãªã†ã€€07250_H[debug_win_end]
+;[debug_win]‚È‚¤@07250_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 ;[if exp="tf.scene_mode == 0"][jump target=*07250][endif]
 ;[winset]
 
@@ -15,9 +15,9 @@
 
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
 [bgm010]
@@ -28,17 +28,17 @@
 
 ;;;[sysbt_meswin]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *07250
 
-;*SceneSet|ã€æ¥å»ã€
+;*SceneSet|wÚ•«x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07250 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07250 = 1"]
 
 ;	/*
-;	;//â™ªï¼šBGM010
+;	;//ôFBGM010
 ;	[bgm010]
 ;	
 ;	;//;//BG:bg23b
@@ -58,7 +58,7 @@ Even though it's summer, we were embracing each other for a[r]long time in the c
 [fc]
 Without saying anything... and without even making eye[r]contact...[pcms]
 
-;//SE:å†·è”µåº«ã®ãƒ¢ãƒ¼ã‚¿ãƒ¼ã®éŸ³
+;//SE:—â‘ ŒÉ‚Ìƒ‚[ƒ^[‚Ì‰¹
 [se0 storage="se044"]
 
 *7696|
@@ -70,7 +70,7 @@ As if the sudden sound of the refrigerator motor ringing out[r]was a signal, Sae
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3065|
 [fc]
@@ -88,7 +88,7 @@ Hmm...?[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3066|
 [fc]
@@ -116,7 +116,7 @@ Just as I was about to ask her to repeat, words burst out[r]forcefully from Saek
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3067|
 [fc]
@@ -134,7 +134,7 @@ W-What are you suddenly...!?[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3068|
 [fc]
@@ -149,7 +149,7 @@ Kato-san!![pcms]
 Saeki closed her eyes and forcefully pressed her lips[r]against mine, and her tongue was inserted forcefully.[l][er]
 Just like what happened with Yamagishi-san, I was suddenly[r]kissed once again.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3069|
 [fc]
@@ -181,7 +181,7 @@ Actually, I like Saeki more than Yamagishi-san.[pcms]
 [fc]
 I'm sure, that's how it was.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3070|
 [fc]
@@ -199,7 +199,7 @@ I don't feel bad at all.[pcms]
 Rather... I want to keep pressing my lips against Saeki's[r]until I suffocate.[l][er]
 Forever... just like this...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3071|
 [fc]
@@ -212,7 +212,7 @@ Nngh... fuaaaa...[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3072|
 [fc]
@@ -236,7 +236,7 @@ I wanted to feel more of Saeki, so with that single-minded[r]desire, I pulled Sa
 Both Saeki and I, as if we had forgotten about the sudden[r]kiss, yearned for each other.[l][er]
 Our bodies were hot, as if they were on fire.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3073|
 [fc]
@@ -255,7 +255,7 @@ My hand, excited by Saeki's lips and sweet breath, moved as[r]if being sucked in
 ;	[trans_c cross time=150]
 ;	*/
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3074|
 [fc]
@@ -263,7 +263,7 @@ My hand, excited by Saeki's lips and sweet breath, moved as[r]if being sucked in
 [ns]Saeki[nse]
 Fuaa... Kato-san...[pcms]
 
-;//SE:å¿ƒæ‹éŸ³
+;//SE:S”‰¹
 [se0 storage="se003"]
 
 *7717|
@@ -302,7 +302,7 @@ Saeki...[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3075|
 [fc]
@@ -322,7 +322,7 @@ Ah, ah... Then, like this...[pcms]
 [fc]
 Saeki's words ignited something within me, causing me to[r]hastily unbutton her school uniform.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3076|
 [fc]
@@ -347,7 +347,7 @@ But she quickly put on a gentle expression and stayed still[r]without showing an
 [fc]
 Saeki, who was blushing, looked so charming that I couldn't[r]help but stop my hands from undressing her school uniform[r]and became captivated by her.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3077|
 [fc]
@@ -366,7 +366,7 @@ I let my momentum take over and ended up pushing Saeki down[r]onto the bed.[pcms
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 
 [se0 storage="se021"]
 
@@ -379,7 +379,7 @@ I let my momentum take over and ended up pushing Saeki down[r]onto the bed.[pcms
 ;	[trans_c cross time=150]
 ;	*/
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3078|
 [fc]
@@ -411,7 +411,7 @@ I understand that it's an abnormal thought.[pcms]
 [fc]
 However, before I knew it, I had started to desire Saeki's[r]body.[pcms]
 
-;//[07260]ã¸
+;//[07260]‚Ö
 [jump target=*07260_H_TOP storage="07260_H.ks"]
 
 

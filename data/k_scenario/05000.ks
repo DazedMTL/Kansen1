@@ -1,18 +1,18 @@
 
 
-;//ã€æ„ŸæŸ“ï¼ˆä»®é¡Œï¼‰âˆ’ç³ãƒ»ãƒ¡ã‚¤ãƒ³ãƒ«ãƒ¼ãƒˆãƒ†ã‚­ã‚¹ãƒˆã€
+;//wŠ´õi‰¼‘èj|“µEƒƒCƒ“ƒ‹[ƒgƒeƒLƒXƒgx
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05000ã€æ€–ãŒã‚Šç³ã€
-;//BG:è¦–è´è¦šå®¤ï¼šå¤œ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬
+;//¡ËƒuƒƒbƒN05000w•|‚ª‚è“µx
+;//BG:‹’®ŠoºF–é
+;//“oêl•¨GålŒö
 
 *05000_TOP
-;[debug_win]ãªã†ã€€05000[debug_win_end]
-;*SceneSet|ã€æ€–ãŒã‚Šç³ã€
+;[debug_win]‚È‚¤@05000[debug_win_end]
+;*SceneSet|w•|‚ª‚è“µx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05000 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05000 = 1"]
 
-;mm ãªã‚“ã§ã“ã“ã§ãƒ•ãƒ©ã‚°ã“ã‚“ãªã«ï¼Ÿãªã„ã¨ãƒã‚°ã‚‹ã®ã‹ã—ã‚‰
+;mm ‚È‚ñ‚Å‚±‚±‚Åƒtƒ‰ƒO‚±‚ñ‚È‚ÉH‚È‚¢‚ÆƒoƒO‚é‚Ì‚©‚µ‚ç
 [eval exp="f.prologue_route = 0"]
 [eval exp="f.yuu_route1 = 0"]
 [eval exp="f.yuu_route2 = 0"]
@@ -24,11 +24,11 @@
 [eval exp="f.hitomi_route4 = 0"]
 [eval exp="f.infection_route = 0"]
 
-;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ç”»é¢ã€€è¡¨ç¤º
+;//flag:“µƒ‹[ƒgƒtƒ[@‰æ–Ê@•\¦
 
-;//flag:ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ãƒ•ãƒ­ãƒ¼ã€€ï¼¢ã€€è¡¨ç¤º
+;//flag:ƒvƒƒ[ƒOƒtƒ[@‚a@•\¦
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 
 [fadeoutbgm time=500]
 
@@ -84,11 +84,11 @@ A boyfriend, huh... Come to think of it, I wonder if Saeki[r]has someone she lik
 
 [stop_se1]
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 ;//blackout
-;//[05010]ã¸
+;//[05010]‚Ö
 [jump target=*05010_TOP storage="05010.ks"]
 
 

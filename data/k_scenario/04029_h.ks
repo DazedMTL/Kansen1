@@ -1,38 +1,38 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04029ã€ãƒªã‚µã®æœ€å¾Œã€
-;//BG:å­¦åœ’å…¥ã‚Šå£ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µãƒ»ã‚¾ãƒ³ãƒ“
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04029wƒŠƒT‚ÌÅŒãx
+;//BG:Šw‰€“ü‚èŒûF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöEƒŠƒTEƒ]ƒ“ƒr
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04029_H_TOP
-;[debug_win]ãªã†ã€€04029_H[debug_win_end]
+;[debug_win]‚È‚¤@04029_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 ;[if exp="tf.scene_mode == 0"][jump target=*04029][endif]
 ;[winset]
 
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *04029
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04029 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04029 = 1"]
 
-;*SceneSet|ã€ãƒªã‚µã®æœ€å¾Œã€
+;*SceneSet|wƒŠƒT‚ÌÅŒãx
 
-;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€badï¼“ã€€è¡¨ç¤º
+;//flag:—Dƒ‹[ƒgƒtƒ[@bad‚R@•\¦
 
-;//â™ªï¼šBGM003
+;//ôFBGM003
 
 [bgm003]
 
@@ -92,7 +92,7 @@ The ones grabbing my legs and arms were all wearing our[r]uniforms and had a loo
 [ChrSetParts layer=1 chface="risa_c_a_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1736|
 [fc]
@@ -117,7 +117,7 @@ Sensei!! Don't come out!![pcms]
 [fc]
 When I shouted, Shindou-sensei had already gone outside, and[r]the man who was hiding approached her.[pcms]
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 [bgm008]
 
@@ -126,7 +126,7 @@ When I shouted, Shindou-sensei had already gone outside, and[r]the man who was h
 [ChrSetParts layer=1 chface="risa_c_a_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1737|
 [fc]
@@ -134,7 +134,7 @@ When I shouted, Shindou-sensei had already gone outside, and[r]the man who was h
 [ns]Shindou[nse]
 Kyaa! Wha-what!?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std330|
 [fc]
 [ns]Male Student U[nse]
@@ -155,7 +155,7 @@ Ah... Ahhh...! N-No...![pcms]
 [fc]
 While in a state of panic, Shindou-sensei was completely[r]surrounded and captured by the newly appeared men.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std331|
 [fc]
 [ns]Male Student V[nse]
@@ -166,7 +166,7 @@ Finally... pussy, has come...[pcms]
 [ChrSetParts layer=1 chface="risa_c_a_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1739|
 [fc]
@@ -185,7 +185,7 @@ Shindou-sensei is dragged to the ground by the approaching[r]men.[pcms]
 I struggled to try to go and help, but I couldn't shake off[r]the arms that grabbed my body, and I was dragged down to the[r]ground as well.[pcms]
 [l][er]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 
 [se0 storage="se021"]
 
@@ -196,7 +196,7 @@ I struggled to try to go and help, but I couldn't shake off[r]the arms that grab
 [ns]Kato[nse]
 Kuh...!! Sensei!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1740|
 [fc]
@@ -204,7 +204,7 @@ Kuh...!! Sensei!![pcms]
 [ns]Shindou[nse]
 Noooo!![pcms]
 
-;//[04030]ã¸
+;//[04030]‚Ö
 [jump target=*04030_H_TOP storage="04030_H.ks"]
 
 

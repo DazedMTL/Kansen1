@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02115ã€ãƒ©ã‚¸ã‚ªï¼’ã€
-;//BG:è·å“¡å®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»å²¸ç”°ãƒ»ç«¹å†…
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02115wƒ‰ƒWƒI‚Qx
+;//BG:EˆõºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DEƒŠƒTEŠİ“cE’|“à
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02115_TOP
-;[debug_win]ãªã†ã€€02115[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02115 = 1"]
+;[debug_win]‚È‚¤@02115[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02115 = 1"]
 
-;*SceneSet|ã€ãƒ©ã‚¸ã‚ªï¼’ã€
+;*SceneSet|wƒ‰ƒWƒI‚Qx
 
 ;//[02115]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 [bgm007]
 ;//BG:bg012a
 ;//[bg storage="bg12a"]
@@ -78,7 +78,7 @@ At this time, the only one at home is my mom...[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v878|
 [fc]
@@ -90,7 +90,7 @@ Kato-kun and Takeuchi-kun, can I talk to you for a moment?[pcms]
 [fc]
 Shindou-sensei, who had been continuing with Kishida's first[r]aid treatment, stopped and called out to me and Shinya.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v879|
 [fc]
@@ -104,7 +104,7 @@ I just want you to confirm where and how many people are[r]inside the school.[pc
 [ns]Kato[nse]
 Just a confirmation, huh...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v880|
 [fc]
@@ -123,7 +123,7 @@ Understood. Let's go, Shinya.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v881|
 [fc]
@@ -145,11 +145,11 @@ Without saying anything, Shinya, who followed me with a[r]gloomy expression, and
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//[02116]ã¸
+;//[02116]‚Ö
 [jump target=*02116_TOP storage="02116.ks"]

@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02094ã€ã‚„ã¯ã‚Šå¤–ã«å‡ºã‚‹ã®ã¯ãŠã£ãã†ã ã€
-;//BG:è¦–è´è¦šå®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02094w‚â‚Í‚èŠO‚Éo‚é‚Ì‚Í‚¨‚Á‚­‚¤‚¾x
+;//BG:‹’®ŠoºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DE’|“à
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02094_TOP
-;[debug_win]ãªã†ã€€02094[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02094 = 1"]
+;[debug_win]‚È‚¤@02094[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02094 = 1"]
 
-;*SceneSet|ã€ã‚„ã¯ã‚Šå¤–ã«å‡ºã‚‹ã®ã¯ãŠã£ãã†ã ã€
+;*SceneSet|w‚â‚Í‚èŠO‚Éo‚é‚Ì‚Í‚¨‚Á‚­‚¤‚¾x
 
 ;//[02094]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg015a
 ;//[bg storage="bg15a"]
@@ -43,7 +43,7 @@ It was so intense that it made my eyes hurt, causing me to[r]stop mid-sentence.[
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v800|
 [fc]
@@ -65,7 +65,7 @@ I canceled her suggestion while feeling guilty about it, as[r]Yamagishi-san aske
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v801|
 [fc]
@@ -97,7 +97,7 @@ They say UV rays are bad for the skin, so it's better to[r]wait here until the a
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v802|
 [fc]
@@ -105,7 +105,7 @@ They say UV rays are bad for the skin, so it's better to[r]wait here until the a
 [ns]Yamagishi[nse]
 ... It's not healthy, so both of you...[pcms]
 
-;//[02095]ã¸
+;//[02095]‚Ö
 [jump target=*02095_TOP storage="02095.ks"]
 
 

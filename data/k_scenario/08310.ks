@@ -1,29 +1,29 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08310ã€åæŸã€
-;//BGï¼šé’ç©º
+;//¡ËƒuƒƒbƒN08310wû‘©x
+;//BGFÂ‹ó
 
-;//ç™»å ´äººç‰©ï¼šç„¡ã—
+;//“oêl•¨F–³‚µ
 
 *08310_TOP
-;[debug_win]ãªã†ã€€08310[debug_win_end]
+;[debug_win]‚È‚¤@08310[debug_win_end]
 
-;*SceneSet|ã€åæŸã€
+;*SceneSet|wû‘©x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08310 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08310 = 1"]
 
-;//flag:ä¸»äººå…¬æ„ŸæŸ“ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ã‚¨ãƒ³ãƒ‡ã‚£ãƒ³ã‚°ã€€è¡¨ç¤º
+;//flag:ålŒöŠ´õƒ‹[ƒgƒtƒ[@ƒGƒ“ƒfƒBƒ“ƒO@•\¦
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 
 ;	/*
-;	;//SE:ã‚µã‚¤ãƒ¬ãƒ³ãƒ«ãƒ¼ãƒ—
+;	;//SE:ƒTƒCƒŒƒ“ƒ‹[ƒv
 ;	[se1 storage="se051"]
 ;	*/
 
 ;;;[sysbt_meswin clear]
 
 
-;//SE:æˆ¦é—˜æ©Ÿã®éŸ³
+;//SE:í“¬‹@‚Ì‰¹
 [se1 storage="se017"]
 
 [bg storage="bg20b"]
@@ -72,7 +72,7 @@ The voice of a man screaming.[pcms]
 [fc]
 A sorrowful... scream.[pcms]
 
-;//SE:ãƒ©ã‚¸ã‚ªã®ãƒãƒ¥ãƒ¼ãƒ‹ãƒ³ã‚°éŸ³
+;//SE:ƒ‰ƒWƒI‚Ìƒ`ƒ…[ƒjƒ“ƒO‰¹
 [se1 storage="se041" loop=true]
 
 *10790|
@@ -126,8 +126,8 @@ In accordance with the emergency manual, the headquarters[r]will begin managing 
 
 [wait_c time=2000]
 
-;//ä¸»äººå…¬æ„ŸæŸ“ãƒ«ãƒ¼ãƒˆã€€ã“ã“ã¾ã§
-;//â€»ã‚¹ã‚¿ãƒƒãƒ•ãƒ­ãƒ¼ãƒ«ã¸
+;//ålŒöŠ´õƒ‹[ƒg@‚±‚±‚Ü‚Å
+;//¦ƒXƒ^ƒbƒtƒ[ƒ‹‚Ö
 
 [fadeoutbgm time=500]
 [fadeoutbgm time=500]
@@ -137,18 +137,18 @@ In accordance with the emergency manual, the headquarters[r]will begin managing 
 [stopse_all]
 [wait_c time=1000]
 
-;ã‚¹ã‚­ãƒƒãƒ—ã—ã¦ãŸã‚‰ã¨ã‚“ã˜ã‚ƒã†ã‹ã‚‰ã‚¹ã‚­ãƒƒãƒ—ã®è§£é™¤
+;ƒXƒLƒbƒv‚µ‚Ä‚½‚ç‚Æ‚ñ‚¶‚á‚¤‚©‚çƒXƒLƒbƒv‚Ì‰ğœ
 [cancelskip]
 [video visible=true left=0 top=0 width=800 height=600]
 [openvideo storage="kansen_ed.mpg"]
 [playvideo]
 [black_toplayer][trans_c cross time=0][hide_chara_int]
-;ãƒ ãƒ¼ãƒ“ãƒ¼ã®éŸ³é‡å¤‰æ›´
+;ƒ€[ƒr[‚Ì‰¹—Ê•ÏX
 [if exp="sf.bgmplay == 1"]
 	;[video volume="&kag.bgm.currentBuffer.volume2"]
 	;[video volume=60]
-	;ã“ã‚Œã§bgmã¨åŒã˜ã«ãªã‚‹ã‹ãªï¼Ÿ
-	;ãã®ã¾ã¾ã ã¨ã¡ã‚‡ã£ã¨å¤§ãã„ã‹ã‚‰ã¡ã‚‡ã£ã¨ä¸‹ã’ã‚‹
+	;‚±‚ê‚Åbgm‚Æ“¯‚¶‚É‚È‚é‚©‚ÈH
+	;‚»‚Ì‚Ü‚Ü‚¾‚Æ‚¿‚å‚Á‚Æ‘å‚«‚¢‚©‚ç‚¿‚å‚Á‚Æ‰º‚°‚é
 	[eval exp="tf.movie_vol = (sf.dummy_bgmopt/1000)-5"]
 	[video volume="&tf.movie_vol"]
 [elsif exp="sf.bgmplay == 0"]

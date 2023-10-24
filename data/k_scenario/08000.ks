@@ -1,14 +1,14 @@
 
-;//ã€æ„ŸæŸ“ï¼ˆä»®é¡Œï¼‰âˆ’ä¸»äººå…¬æ„ŸæŸ“ãƒ«ãƒ¼ãƒˆãƒ†ã‚­ã‚¹ãƒˆã€
+;//wŠ´õi‰¼‘èj|ålŒöŠ´õƒ‹[ƒgƒeƒLƒXƒgx
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08000ã€ç”°ä¸­ãŒãã“ã¾ã§è¨€ã†ãªã‚‰é£Ÿã¹ã¦ã¿ã‚ˆã†ã€‚ç¾å‘³ã—ãã†ã ã—ã€
-;//BG:å­¦åœ’å†…å­¦é£Ÿï¼šå¤•æ–¹
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­
+;//¡ËƒuƒƒbƒN08000w“c’†‚ª‚»‚±‚Ü‚ÅŒ¾‚¤‚È‚çH‚×‚Ä‚İ‚æ‚¤B”ü–¡‚µ‚»‚¤‚¾‚µx
+;//BG:Šw‰€“àŠwHF—[•û
+;//“oêl•¨GålŒöE—DE“µE•ü”üE’|“àE“c’†
 
 *08000_TOP
-;[debug_win]ãªã†ã€€08000[debug_win_end]
+;[debug_win]‚È‚¤@08000[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08000 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08000 = 1"]
 
 [eval exp="f.prologue_route = 0"]
 [eval exp="f.yuu_route1 = 0"]
@@ -21,17 +21,17 @@
 [eval exp="f.hitomi_route4 = 0"]
 [eval exp="f.infection_route = 1"]
 
-;*SceneSet|ã€ç”°ä¸­ã®å‹§ã‚ã€
+;*SceneSet|w“c’†‚ÌŠ©‚ßx
 
-;//flag:ä¸»äººå…¬æ„ŸæŸ“ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ç”»é¢ è¡¨ç¤º
-;//flag:ä¸»äººå…¬æ„ŸæŸ“ãƒ«ãƒ¼ãƒˆã€€Startã€€è¡¨ç¤º
+;//flag:ålŒöŠ´õƒ‹[ƒgƒtƒ[@‰æ–Ê •\¦
+;//flag:ålŒöŠ´õƒ‹[ƒg@Start@•\¦
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 [bgm001]
 
 ;//;//BG:bg14b
 
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [bg storage="bg14b"]
 [trans_c cross time=500]
 
@@ -119,7 +119,7 @@ What should I... What on earth should I do![pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3358|
 [fc]
@@ -136,7 +136,7 @@ Eh...?[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std455|
 [fc]
 [ns]Takeuchi[nse]
@@ -148,7 +148,7 @@ Hurry up and eat.[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3359|
 [fc]
@@ -166,7 +166,7 @@ It's a familiar scene...[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std456|
 [fc]
 [ns]Tanaka[nse]
@@ -186,7 +186,7 @@ I was hesitating and agonizing over which one to eat, and[r]then Yuuji forcefull
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3360|
 [fc]
@@ -223,7 +223,7 @@ This fried chicken is delicious...[pcms]
 [ChrSetParts layer=1 chface="tomo_c_a_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3361|
 [fc]
@@ -236,7 +236,7 @@ Are you okay, Yasuyuki-kun?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3362|
 [fc]
@@ -248,7 +248,7 @@ Tanaka-senpai... Didn't your parents tell you not to play[r]with your food?[pcms
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std457|
 [fc]
 [ns]Tanaka[nse]
@@ -293,7 +293,7 @@ Yuuji, instead of forgiving you, can I have a taste of[r]Igarashi-san's cooking?
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std458|
 [fc]
 [ns]Tanaka[nse]
@@ -309,7 +309,7 @@ Uhahaha! Well then, I'll eat it!![pcms]
 [ChrSetParts layer=1 chface="tomo_c_a_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3363|
 [fc]
@@ -355,7 +355,7 @@ Uwo...[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std459|
 [fc]
 [ns]Tanaka[nse]
@@ -364,7 +364,7 @@ Hm? What's wrong?[pcms]
 *8658|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *8659|
 [fc]
@@ -376,7 +376,7 @@ Should I eat Tanaka's portion too...?[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std460|
 [fc]
 [ns]Tanaka[nse]
@@ -394,7 +394,7 @@ Jama shinaide kure!![pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std461|
 [fc]
 [ns]Tanaka[nse]
@@ -406,7 +406,7 @@ Just as I thought! Haha![pcms]
 [ns]Kato[nse]
 ... I'm not praising you! I'm praising Igarashi-san's[r]cooking![pcms]
 
-;//SE:é£Ÿäº‹ã®ã‚«ãƒãƒ£ã‚«ãƒãƒ£éŸ³
+;//SE:H–‚ÌƒJƒ`ƒƒƒJƒ`ƒƒ‰¹
 [se0 storage="se014"]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
@@ -414,7 +414,7 @@ Just as I thought! Haha![pcms]
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3364|
 [fc]
@@ -432,7 +432,7 @@ Ah, thank you... Muku...[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std462|
 [fc]
 [ns]Tanaka[nse]
@@ -442,7 +442,7 @@ Tomomin, you really have a good sense, huh?[pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3365|
 [fc]
@@ -455,7 +455,7 @@ Ehehe~. Would you like some too, Utan?[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std463|
 [fc]
 [ns]Tanaka[nse]
@@ -480,7 +480,7 @@ It's perfect, isn't it...[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std464|
 [fc]
 [ns]Takeuchi[nse]
@@ -491,7 +491,7 @@ Hey, Hitomi, could you serve me some fried rice?[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3366|
 [fc]
@@ -504,7 +504,7 @@ I am not your guardian!! Can't you serve it yourself?![pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3367|
 [fc]
@@ -517,7 +517,7 @@ Ahahaha!! Everyone is so funny!![pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std465|
 [fc]
 [ns]Tanaka[nse]
@@ -528,7 +528,7 @@ I'll have the spaghetti!![pcms]
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3368|
 [fc]
@@ -541,7 +541,7 @@ Yuu-chan, how do you make this sauce?[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3369|
 [fc]
@@ -570,7 +570,7 @@ Everyone is enjoying their cooking in their own way.[pcms]
 But seriously, Yuuji... were you hogging all this delicious[r]food for yourself...?[l][er]
 Unforgivable...[pcms]
 
-;//SE:ãƒãƒ³ã€€æœºã‚’å©ã
+;//SE:ƒoƒ“@Š÷‚ğ’@‚­
 [se0 storage="se015"]
 
 *8670|
@@ -583,7 +583,7 @@ Yuuji!! You...!![pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std466|
 [fc]
 [ns]Tanaka[nse]
@@ -605,7 +605,7 @@ But, it's delicious enough to say that.[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std467|
 [fc]
 [ns]Tanaka[nse]
@@ -622,7 +622,7 @@ Absolutely!![pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std468|
 [fc]
 [ns]Tanaka[nse]
@@ -632,7 +632,7 @@ Ahh, I got it, I got it. Next time, next time...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3370|
 [fc]
@@ -645,7 +645,7 @@ Hehe, can I join in too?[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3371|
 [fc]
@@ -657,7 +657,7 @@ Umm, may I join in as well...?[pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3372|
 [fc]
@@ -676,6 +676,6 @@ Yeah, let's suggest it to Shindou-sensei next time.[pcms]
 
 
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
 [jump target=*08010_TOP storage="08010.ks"]

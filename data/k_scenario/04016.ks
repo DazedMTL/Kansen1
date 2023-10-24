@@ -1,22 +1,22 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04016ã€çªç„¶ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…ãƒ»ã‚¾ãƒ³ãƒ“
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04016w“Ë‘Rx
+;//BG:“Áê‹³º˜L‰ºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DE’|“àEƒ]ƒ“ƒr
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04016_TOP
-;[debug_win]ãªã†ã€€04016[debug_win_end]
+;[debug_win]‚È‚¤@04016[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04016 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04016 = 1"]
 
-;*SceneSet|ã€çªç„¶ã€
+;*SceneSet|w“Ë‘Rx
 
-;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼˜ã€€è¡¨ç¤º
+;//flag:—Dƒ‹[ƒgƒtƒ[@‚W@•\¦
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 
 ;//[bgm001]
 
@@ -34,11 +34,11 @@ As I approached the boy, he noticed me and looked us three[r]over as if looking 
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std321|
 [fc]
 [ns]male student[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *3951|
 [fc]
@@ -48,7 +48,7 @@ What? This guy...[pcms]
 [fc]
 As I found it suspicious, I passed by the strange-looking[r]guy, and in that moment, a scream came from right behind me.[pcms]
 
-;//â™ªï¼šBGM001ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM001ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
@@ -57,7 +57,7 @@ As I found it suspicious, I passed by the strange-looking[r]guy, and in that mom
 [ChrSetParts layer=1 chface="yuu_c_e_14"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1608|
 [fc]
@@ -70,7 +70,7 @@ Kyaaahh!![pcms]
 [ns]Kato[nse]
 !?[pcms]
 
-;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM008ƒtƒF[ƒhƒCƒ“
 
 [bgm008]
 
@@ -78,7 +78,7 @@ Kyaaahh!![pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *3954|
 [fc]
@@ -90,7 +90,7 @@ When I turned around in surprise, that male student was[r]lunging at Yamagishi-s
 [ns]Yamagishi[nse]
 N-No... Let go...!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std323|
 [fc]
 [ns]male student[nse]
@@ -106,7 +106,7 @@ Worried about the unusual behavior of that person, I[r]hurriedly ran towards Yam
 [ns]Kato[nse]
 H-Hey!! What are you doing?![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std324|
 [fc]
 [ns]male student[nse]
@@ -117,7 +117,7 @@ G-gu... hehe... wh-what kind of things are you doing to her[r]pussy...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_e_14"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1610|
 [fc]
@@ -130,11 +130,11 @@ N-No...![pcms]
 [ns]Kato[nse]
 Let go, you bastard!! She's clearly resisting!![pcms]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 
 [se0 storage="se026"]
 
-;//ã€†ç”»é¢æºã‚Œ
+;//Y‰æ–Ê—h‚ê
 
 [quake_bg xy m]
 
@@ -151,7 +151,7 @@ Ugh... guh...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1611|
 [fc]
@@ -163,7 +163,7 @@ Kato-kun!?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std325|
 [fc]
 [ns]male student[nse]
@@ -210,9 +210,9 @@ Yamagishi-san's screams for help, gradually grew distant and[r]eventually became
 
 ;//blackout
 
-;//â€»æ¡ä»¶åˆ†å²
-;//ãƒ»flag:ä¸»äººå…¬æš´èµ°ã€€ãŒOFF;//[04017]ã¸
-;//ãƒ»flag:ä¸»äººå…¬æš´èµ°ã€€ãŒON;//[04023]ã¸
+;//¦ğŒ•ªŠò
+;//Eflag:ålŒö–\‘–@‚ªOFF;//[04017]‚Ö
+;//Eflag:ålŒö–\‘–@‚ªON;//[04023]‚Ö
 
 ;Android[if exp="sf.run_away==1"]
 [if exp="sf.g_run_away==1"]

@@ -1,16 +1,16 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07370ã€ç³ãƒ»æ„ŸæŸ“ã€
-;//BG:äºŒéšå»Šä¸‹ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»æ„ŸæŸ“ãƒªã‚µ
+;//¡ËƒuƒƒbƒN07370w“µEŠ´õx
+;//BG:“ñŠK˜L‰ºF—[•ûFÁ“”
+;//“oêl•¨GålŒöE“µEŠ´õƒŠƒT
 
 *07370_TOP
-;[debug_win]ãªã†ã€€07370[debug_win_end]
-;*SceneSet|ã€ç³ãƒ»æ„ŸæŸ“ã€
+;[debug_win]‚È‚¤@07370[debug_win_end]
+;*SceneSet|w“µEŠ´õx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07370 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07370 = 1"]
 ;	/*
-;	;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼‘ï¼”ã€€è¡¨ç¤º
-;	;//â™ªï¼šBGM009
+;	;//flag:“µƒ‹[ƒgƒtƒ[@‚P‚S@•\¦
+;	;//ôFBGM009
 ;	[bgm009]
 ;	*/
 ;//;//BG:bg06b
@@ -35,7 +35,7 @@ It's better to leave her alone and run away...[pcms]
 [ChrSetParts layer=1 chface="sae_c_c_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3333|
 [fc]
@@ -50,7 +50,7 @@ If we're going to help the teacher, we need to do it[r]quickly!![pcms]
 [fc]
 While lost in thought, Saeki started running towards Sensei[r]Shindou.[pcms]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 *8494|
@@ -68,7 +68,7 @@ Saeki was already standing right next to the teacher.[pcms]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3334|
 [fc]
@@ -84,7 +84,7 @@ Sensei!![pcms]
 Saeki!! Get away quickly! Sensei Shindou has also gone[r]crazy!![l][er]
 Get away...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3335|
 [fc]
@@ -110,7 +110,7 @@ It might be better to do so...!?[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:ã†ãªã‚Šå£°
+;//SE:‚¤‚È‚èº
 [se0 storage="se050"]
 
 *8500|
@@ -134,7 +134,7 @@ Saeki!! For now, leave the teacher as she is and let's[r]escape!![l][er]
 They're chasing us!! Meet me on the rooftop!![l][er]
 Hurry!![pcms]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
@@ -142,7 +142,7 @@ Hurry!![pcms]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3336|
 [fc]
@@ -159,7 +159,7 @@ Understood!![pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//SE:æœãŒç ´ã‚Œã‚‹
+;//SE:•‚ª”j‚ê‚é
 
 [se0 storage="se006"]
 
@@ -179,5 +179,5 @@ Ugh... w-wait...[pcms]
 [ns]Saeki[nse]
 Ah!?[pcms]
 
-;//[07380]ã¸
+;//[07380]‚Ö
 [jump target=*07380_TOP storage="07380.ks"]

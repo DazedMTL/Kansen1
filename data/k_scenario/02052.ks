@@ -1,21 +1,21 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02052ã€æ¸¡ã‚Šå»Šä¸‹ã€
-;//BG:ç‰¹æ®Šæ•™å®¤ï¼šå»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
-;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02052w“n‚è˜L‰ºx
+;//BG:“Áê‹³ºF˜L‰ºF–éFÁ“”
+;//BG:“n‚è˜L‰ºF–éFÁ“”
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02052_TOP
-;[debug_win]ãªã†ã€€02052[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02052 = 1"]
+;[debug_win]‚È‚¤@02052[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02052 = 1"]
 
-;*SceneSet|ã€æ¸¡ã‚Šå»Šä¸‹ã€
+;*SceneSet|w“n‚è˜L‰ºx
 
 ;//[02052]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 [bgm001]
 ;//BG:bg004d
 [bg storage="bg04d"]
@@ -25,7 +25,7 @@
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v590|
 [fc]
@@ -39,7 +39,7 @@ Um...[pcms]
 [ns]Kato[nse]
 Ah, no...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v591|
 [fc]
@@ -70,7 +70,7 @@ Sorry, it's nothing. Should we continue?[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v592|
 [fc]
@@ -84,7 +84,7 @@ But when I watch movies alone at home, I tend to choose ones[r]that have warm fa
 [ns]Kato[nse]
 Warm, family...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v593|
 [fc]
@@ -108,7 +108,7 @@ Yamagishi-san says it with a smile, but to me, it only[r]looked like she was for
 [fc]
 Seeing her sad smile like that made me feel uneasy, so in[r]order to change her mood even just a little, I shifted the[r]conversation to talk about myself.[pcms]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 
 ;//BG:bg009e
@@ -126,7 +126,7 @@ The moment when the protagonist made up his mind and his[r]eyes changed color, i
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v594|
 [fc]
@@ -143,7 +143,7 @@ Huh, really...? Wait, did we talk about this?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v595|
 [fc]
@@ -161,7 +161,7 @@ Uh-oh, I wonder if the principal's illness is contagious...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v596|
 [fc]
@@ -183,7 +183,7 @@ As I explained the principal's condition that Shinya had[r]talked about, while Y
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v597|
 [fc]
@@ -227,7 +227,7 @@ Hey, Yuuji! Come out![pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v598|
 [fc]
@@ -264,7 +264,7 @@ Shh![pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v599|
 [fc]
@@ -283,7 +283,7 @@ It's possible that Kishida is one of the people inside.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v600|
 [fc]
@@ -324,6 +324,6 @@ Alright...[pcms]
 [fc]
 We held our breath in order to call out to the person who[r]should be inside once again.[pcms]
 
-;//[02070]ã¸
+;//[02070]‚Ö
 [jump target=*02070_TOP storage="02070.ks"]
 

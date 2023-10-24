@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05291ã€é£Ÿãƒ‘ãƒ³ã€
-;//â€»05292ã‹ã‚‰05299ã¾ã§æ¬ ç•ª
-;//;//BG:å­¦é£Ÿï¼šæœ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN05291wHƒpƒ“x
+;//¦05292‚©‚ç05299‚Ü‚ÅŒ‡”Ô
+;//;//BG:ŠwHF’©
+;//“oêl•¨GålŒöE“µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *05291_TOP
-;[debug_win]ãªã†ã€€05291[debug_win_end]
-;*SceneSet|ã€é£Ÿãƒ‘ãƒ³ã€
+;[debug_win]‚È‚¤@05291[debug_win_end]
+;*SceneSet|wHƒpƒ“x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05291 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05291 = 1"]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 
 [bgm001]
 
@@ -44,7 +44,7 @@ We have water and if we can bring food, it seems like we can[r]survive in here f
 [fc]
 Saeki frowned disapprovingly at my words about survival.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2183|
 [fc]
@@ -68,8 +68,8 @@ We closed the door to the floor leading underground and left[r]the school cafete
 
 ;//blackout
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05300]ã¸
+;//[05300]‚Ö
 [jump target=*05300_TOP storage="05300.ks"]

@@ -1,15 +1,15 @@
-;//â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ä½“é¨“ç‰ˆç”¨ãƒ–ãƒ­ãƒƒã‚¯0014ã€å­¦åœ’åˆ°ç€ã€
-;//BGï¼šå­¦åœ’ï¼šè·å“¡ç”¨ç„é–¢å¤–ï¼šå¤•æ–¹
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­
-;//â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼
+;//¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥
+;//¡Ë‘ÌŒ±”Å—pƒuƒƒbƒN0014wŠw‰€“’…x
+;//BGFŠw‰€FEˆõ—pŒºŠÖŠOF—[•û
+;//“oêl•¨GålŒöE—DE“µE•ü”üE’|“àE“c’†
+;//¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥
 
 *0014_TOP
-;[debug_win]ãªã†ã€€0014[debug_win_end]
+;[debug_win]‚È‚¤@0014[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0014 = 1"]
-;*SceneSet|ã€å­¦åœ’åˆ°ç€ã€
-;//â™ªï¼šBGM001
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0014 = 1"]
+;*SceneSet|wŠw‰€“’…x
+;//ôFBGM001
 
 ;//[bgm001]
 
@@ -36,7 +36,7 @@ Um, where should we go first?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v111|
 [fc]
@@ -54,13 +54,13 @@ Ah, I'm counting on you.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v112|
 [fc]
 [vo_sa s="sae0039"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *324|
 [fc]
@@ -76,7 +76,7 @@ What's wrong?[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v113|
 [fc]
@@ -93,7 +93,7 @@ She started walking briskly with determination.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v114|
 [fc]
@@ -101,7 +101,7 @@ She started walking briskly with determination.[pcms]
 [ns]Yamagishi[nse]
 Ah, wait Hitomi-san! I'm coming too![pcms]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 [backlay_c][chara_int][trans_c cross time=150]
@@ -121,7 +121,7 @@ I wonder if something happened...[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std71|
 [fc]
 [ns]Tanaka[nse]
@@ -132,7 +132,7 @@ Oh, Tomomin. Did you bring that thing?[pcms]
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v115|
 [fc]
@@ -145,18 +145,18 @@ Huh...? Ah, yeah, I brought it.[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std72|
 [fc]
 [ns]Tanaka[nse]
 Seriously!?[pcms]
-Show me, show meâ™ª[l][er]
+Show me, show meô[l][er]
 
 [ChrSetEx layer=1 chbase="tomo_c_c_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std73|
 [fc]
 [vo_to s="tomo0019"]
@@ -168,7 +168,7 @@ Eh, now!? N-no way, if everyone sees it...[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std74|
 [fc]
 [ns]Tanaka[nse]
@@ -180,7 +180,7 @@ Okay?[pcms]
 [ChrSetParts layer=1 chface="tomo_c_c_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v117|
 [fc]
@@ -197,7 +197,7 @@ Igarashi-san, who was whispering with Tanaka, started[r]rummaging through her ba
 [ChrSetParts layer=1 chface="tomo_c_a_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std75|
 [fc]
 [vo_to s="tomo0021"]
@@ -209,7 +209,7 @@ Ahh!![pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std76|
 [fc]
 [ns]Tanaka[nse]
@@ -220,7 +220,7 @@ W-What? What happened?[pcms]
 [ChrSetParts layer=1 chface="tomo_c_c_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std77|
 [fc]
 [vo_to s="tomo0022"]
@@ -236,7 +236,7 @@ Igarashi-san heard that and this time Yuuji shouted loudly.[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std78|
 [fc]
 [ns]Tanaka[nse]
@@ -252,7 +252,7 @@ Did you forget something?[pcms]
 [ChrSetParts layer=1 chface="tomo_c_a1_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v120|
 [fc]
@@ -270,17 +270,17 @@ Yuuji, who was holding his head and crouching down,[r]brightened up at Igarashi-
 [ChrSetParts layer=1 chface="tanaka_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std79|
 [fc]
 [ns]Tanaka[nse]
-Really!? Yay!  I love Tomominâ™ª[pcms]
+Really!? Yay!   I love Tomominô[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std80|
 [fc]
 [vo_to s="tomo0024"]
@@ -296,7 +296,7 @@ Igarashi-san starts making a phone call at the public[r]telephone located next t
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std81|
 [fc]
 [ns]Takeuchi[nse]
@@ -307,7 +307,7 @@ Yuuji, what did you ask Igarashi-san for?[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std82|
 [fc]
 [ns]Tanaka[nse]
@@ -321,7 +321,7 @@ Yuuji, who smirked, noticed the change in Shinya's[r]expression and suddenly low
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std83|
 [fc]
 [ns]Takeuchi[nse]
@@ -332,7 +332,7 @@ Eh... Could it be, adult toys...?[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std84|
 [fc]
 [ns]Tanaka[nse]
@@ -347,7 +347,7 @@ It has begun... Yuuji's memory exposure show of love with[r]Igarashi-san...[pcms
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std85|
 [fc]
 [ns]Takeuchi[nse]
@@ -367,7 +367,7 @@ This guy... he's imagining things...[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std86|
 [fc]
 [ns]Tanaka[nse]
@@ -403,7 +403,7 @@ I'm usually the type who gets absorbed in Yuuji's stories,[r]but I think I'll re
 [ChrSetParts layer=1 chface="tanaka_a_a_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std87|
 [fc]
 [ns]Tanaka[nse]
@@ -415,7 +415,7 @@ huh? You're quick, Tomomin.[pcms]
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v122|
 [fc]
@@ -429,7 +429,7 @@ I wonder if they went somewhere.[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std88|
 [fc]
 [ns]Tanaka[nse]
@@ -440,7 +440,7 @@ Eh, then... nothing...?[pcms]
 [ChrSetParts layer=1 chface="tomo_c_a1_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v123|
 [fc]
@@ -453,7 +453,7 @@ Yeah. Sorry, U-tan. Maybe next time.[pcms]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std89|
 [fc]
 [ns]Tanaka[nse]
@@ -474,7 +474,7 @@ Saeki, who had gone to report her arrival to the teacher,[r]and Yamagishi-san re
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std90|
 [fc]
 [vo_sa s="sae0041"]
@@ -487,7 +487,7 @@ Everyone, we have been instructed to move to the audiovisual[r]room, put our bel
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer winon][trans_c cross time=500][hide_chara_int]
 
 

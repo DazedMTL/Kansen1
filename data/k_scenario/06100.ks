@@ -1,42 +1,42 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯06100ã€å±ˆè¾±å§«ã€
-;//BGï¼šç„¡ã—
-;//â˜…SYSTEMï¼šã‚¶ãƒƒãƒ”ãƒ³ã‚°é¸æŠç”»é¢ï¼ˆzap_00â—)
+;//¡ËƒuƒƒbƒN06100w‹üJ•Px
+;//BGF–³‚µ
+;//šSYSTEMFƒUƒbƒsƒ“ƒO‘I‘ğ‰æ–Êizap_00œ)
 
 *06100_TOP
-;[debug_win]ãªã†ã€€06100[debug_win_end]
-;*SceneSet|ã€å±ˆè¾±å§«ã€
+;[debug_win]‚È‚¤@06100[debug_win_end]
+;*SceneSet|w‹üJ•Px
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_06100 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_06100 = 1"]
 
-;//â€»ã‚¶ãƒƒãƒ”ãƒ³ã‚°é¸æŠè¡¨ç¤ºãƒ–ãƒ­ãƒƒã‚¯
+;//¦ƒUƒbƒsƒ“ƒO‘I‘ğ•\¦ƒuƒƒbƒN
 
-;//ãƒ»è¦‹ãªã„;//[05231]ã¸
-;//ãƒ»è¦‹ã‚‹ï¼ˆãƒªã‚µè¦–ç‚¹ï¼‰;//[06100]ã¸
+;//EŒ©‚È‚¢;//[05231]‚Ö
+;//EŒ©‚éiƒŠƒT‹“_j;//[06100]‚Ö
 
 ;//<SltDel ALL>
-;//<SltAdd 0ã‚«ãƒ³ãƒSEL00_06100_NOã‚«ãƒ³ãƒè¦‹ãªã„>
-;//<SltAdd 1ã‚«ãƒ³ãƒSEL00_06100_YESã‚«ãƒ³ãƒè¦‹ã‚‹ï¼ˆãƒªã‚µè¦–ç‚¹ï¼‰>
+;//<SltAdd 0ƒJƒ“ƒ}SEL00_06100_NOƒJƒ“ƒ}Œ©‚È‚¢>
+;//<SltAdd 1ƒJƒ“ƒ}SEL00_06100_YESƒJƒ“ƒ}Œ©‚éiƒŠƒT‹“_j>
 ;//<SltRun>
 
-;BGMåœæ­¢
+;BGM’â~
 [fadeoutbgm time=500]
 [stopse_all]
-;mm ã‚¶ãƒƒãƒ”ãƒ³ã‚°å‰ã«é»’è¿½åŠ 
+;mm ƒUƒbƒsƒ“ƒO‘O‚É•’Ç‰Á
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
-*ZAP14|ã‚¶ãƒƒãƒ”ãƒ³ã‚°é¸æŠè‚¢ã€€æ–°é“
+*ZAP14|ƒUƒbƒsƒ“ƒO‘I‘ğˆ@V“¹
 
-;ãƒãƒƒã‚¯ãƒ­ã‚°ã‚­ãƒ£ãƒ©æŒ‡å®š
-[eval exp="f.zap_sel_chara01 = 'ã€€æ–°é“'"]
-[eval exp="f.zap_sel_chara02 = 'ã€€ã‚­ãƒ£ãƒ³ã‚»ãƒ«'"]
+;ƒoƒbƒNƒƒOƒLƒƒƒ‰w’è
+[eval exp="f.zap_sel_chara01 = '@V“¹'"]
+[eval exp="f.zap_sel_chara02 = '@ƒLƒƒƒ“ƒZƒ‹'"]
 
 [zap_set1]
 
 [eval exp="f.zap_bt01_x = 200"][eval exp="f.zap_bt01_y = 200"]
 [eval exp="f.zap_bt99_x = 320"][eval exp="f.zap_bt99_y = 540"]
 
-;ãƒœã‚¿ãƒ³
+;ƒ{ƒ^ƒ“
 [locate x="&f.zap_bt01_x" y="&f.zap_bt01_y"][button graphic="zap_risa_"   target=*SEL00_risa   recthit=true]
 [locate x="&f.zap_bt99_x" y="&f.zap_bt99_y"][button graphic="zap_cancel" target=*SEL00_cancel recthit=true]
 
@@ -46,7 +46,7 @@
 
 ;-------------------------------------------------
 *SEL00_risa
-[zap_hisout txt="ã‚¶ãƒƒãƒ”ãƒ³ã‚°"][zap_hisout txt="&f.zap_sel_chara01 "][zap_hisout txt="ã€€é¸æŠ"][hr][hr]
+[zap_hisout txt="ƒUƒbƒsƒ“ƒO"][zap_hisout txt="&f.zap_sel_chara01 "][zap_hisout txt="@‘I‘ğ"][hr][hr]
 [zap_clear]
 [image storage="zap_risa"   layer=1 left="&f.zap_bt01_x" top="&f.zap_bt01_y" page=fore visible=true opacity=255]
 [image storage="zap_cancel" layer=2 left="&f.zap_bt99_x" top="&f.zap_bt99_y" page=fore visible=true opacity=255 clipleft=0 cliptop=0 clipwidth=160 clipheight=40]
@@ -57,7 +57,7 @@
 
 ;-------------------------------------------------
 *SEL00_cancel
-[zap_hisout txt="ã‚¶ãƒƒãƒ”ãƒ³ã‚°"][zap_hisout txt="&f.zap_sel_chara02 "][zap_hisout txt="ã€€é¸æŠ"][hr][hr]
+[zap_hisout txt="ƒUƒbƒsƒ“ƒO"][zap_hisout txt="&f.zap_sel_chara02 "][zap_hisout txt="@‘I‘ğ"][hr][hr]
 [zap_clear]
 [image storage="zap_risa_" layer=1 left="&f.zap_bt01_x" top="&f.zap_bt01_y" page=fore visible=true opacity=255 clipleft=0 cliptop=0 clipwidth=400 clipheight=120]
 [black_toplayer][trans_c random time=1000][hide_chara_int]

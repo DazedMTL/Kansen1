@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02132ã€ãŸã„ã¾ã¤ã€
-;//BG:å­¦åœ’å…¥ã‚Šå£ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02132w‚½‚¢‚Ü‚Âx
+;//BG:Šw‰€“ü‚èŒûF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöEƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02132_TOP
-;[debug_win]ãªã†ã€€02132[debug_win_end]
+;[debug_win]‚È‚¤@02132[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02132 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02132 = 1"]
 
-;*SceneSet|ã€ãŸã„ã¾ã¤ã€
+;*SceneSet|w‚½‚¢‚Ü‚Âx
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 
 ;//[bgm009]
 
@@ -31,7 +31,7 @@ I took out two torches and handed one of them to Shindou-[r]sensei.[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v971|
 [fc]
@@ -55,7 +55,7 @@ Shindou-sensei transferred the fire from her torch to mine[r]and returned to the
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -63,5 +63,5 @@ Shindou-sensei transferred the fire from her torch to mine[r]and returned to the
 
 ;//blackout
 
-;//[02133]ã¸
+;//[02133]‚Ö
 [jump target=*02133_TOP storage="02133.ks"]

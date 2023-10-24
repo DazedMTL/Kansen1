@@ -1,21 +1,21 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02155ã€ä¸€æ—¥ã®çµ‚ã‚ã‚Šã«ã€
-;//BG:ä¸‰éšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰ï¼›å¤œ
-;//BG:å±‹ä¸Šï¼šå¤œ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02155wˆê“ú‚ÌI‚í‚è‚Éx
+;//BG:OŠK˜L‰ºFƒoƒŠƒP[ƒhG–é
+;//BG:‰®ãF–é
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02155_TOP
-;[debug_win]ãªã†ã€€02155[debug_win_end]
+;[debug_win]‚È‚¤@02155[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02155 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02155 = 1"]
 
-;*SceneSet|ã€ä¸€æ—¥ã®çµ‚ã‚ã‚Šã«ã€
+;*SceneSet|wˆê“ú‚ÌI‚í‚è‚Éx
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 
 [bgm009]
 
@@ -29,7 +29,7 @@
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1075|
 [fc]
@@ -53,7 +53,7 @@ And there's nowhere else to run.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1076|
 [fc]
@@ -70,7 +70,7 @@ Until the rescue team arrives, we have no choice but to[r]endure here...[pcms]
 [fc]
 I saw someone coming up the emergency staircase beyond[r]Yamagishi-san, who had an anxious look on her face, and I[r]started running towards them.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1077|
 [fc]
@@ -85,7 +85,7 @@ Yamagishi-san is over there!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:é‡‘ç¶²ã‚’æºã™ã‚‹éŸ³ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:‹à–Ô‚ğ—h‚·‚é‰¹@ƒ‹[ƒv
 
 [se0 storage="se032"]
 
@@ -113,7 +113,7 @@ Shindou-sensei, who appeared beyond the fence, had[r]completely changed expressi
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1079|
 [fc]
@@ -163,7 +163,7 @@ Shindou-sensei leaned in close to me, who was holding down[r]the door with my en
 Hey, ugh... Kato, ngh... Sensei's...[l][er]
 pussy... It feels much better than that girl's...[pcms]
 
-;//SE:é‡‘ç¶²ã‚’æºã™ã‚‹éŸ³ã€€åœæ­¢
+;//SE:‹à–Ô‚ğ—h‚·‚é‰¹@’â~
 
 [stop_se0]
 
@@ -183,7 +183,7 @@ Shindou-sensei, for a while, tried to seduce me with a cat-[r]like voice and sho
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1082|
 [fc]
@@ -213,5 +213,5 @@ Compared to fire shutters and such, it's not very reliable[r]as a barricade, but
 [fc]
 I sat down on the bench that we turned into a barricade and[r]let out a deep sigh.[pcms]
 
-;//[02156]ã¸
+;//[02156]‚Ö
 [jump target=*02156_TOP storage="02156.ks"]

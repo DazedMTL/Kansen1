@@ -1,24 +1,24 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02050ã€ç†ç§‘å®¤ã€
-;//BG:ç‰¹æ®Šæ•™å®¤ï¼šå»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02050w—‰Èºx
+;//BG:“Áê‹³ºF˜L‰ºF–éFÁ“”
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02050_TOP
-;[debug_win]ãªã†ã€€02050[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02050 = 1"]
+;[debug_win]‚È‚¤@02050[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02050 = 1"]
 
-;*SceneSet|ã€ç†ç§‘å®¤ã€
+;*SceneSet|w—‰Èºx
 
 ;//[02050]
 
-;//flag:ç†ç§‘å®¤å‰ã§å„ªã¨ä¼šè©±
+;//flag:—‰Èº‘O‚Å—D‚Æ‰ï˜b
 
 [eval exp="f.yuu_talk_on = 1"]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg005d
 
@@ -41,7 +41,7 @@ While looking at the ceiling where the fluorescent lights[r]were not turned on, 
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v578|
 [fc]
@@ -72,10 +72,10 @@ Usually, when Shindou-sensei is in the preparation room, the[r]lights in the sci
 [ns]Kato[nse]
 I wonder if the teacher has already finished their work...[pcms]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 [se0 storage="se008"]
 
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [bg storage="bg18d"]
 [trans_c cross time=500]
 
@@ -102,7 +102,7 @@ We couldn't hear any sound either.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v579|
 [fc]
@@ -121,7 +121,7 @@ I wonder if they went to the other side.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v580|
 [fc]
@@ -155,9 +155,9 @@ I cautiously glanced at Yamagishi-san out of the corner of[r]my eye.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;//ï¼ æ‰æ¸•ï¼šç«¹å†…ã•ã‚“â†’ç«¹å†…å›
+;//—™ŸºF’|“à‚³‚ñ¨’|“àŒN
 
-;ç«‹ã¡
+;—§‚¿
 
 *v581|
 [fc]
@@ -172,7 +172,7 @@ hahaha! Why, oh why~ Ahaha! Takeuchi-kun, do you have a weak[r]stomach?[pcms]
 Ah, um, yeah, well, you see...[l][er]
 I think that's why we didn't make it in time.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v582|
 [fc]
@@ -192,9 +192,9 @@ Yamagishi-san, you surprisingly find those silly dirty jokes[r]funny, huh...[pcm
 
 ;;;[sysbt_meswin clear]
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[02051]ã¸
+;//[02051]‚Ö
 [jump target=*02051_TOP storage="02051.ks"]
 

@@ -1,18 +1,18 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05220ã€ä¼‘æ¯ã€
-;//BG:è¦–è´è¦šå®¤ï¼šå¤œï¼›ç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»ãƒªã‚µãƒ»åŠ è—¤
+;//¡ËƒuƒƒbƒN05220w‹x‘§x
+;//BG:‹’®ŠoºF–éG“_“”
+;//“oêl•¨GålŒöE“µEƒŠƒTE‰Á“¡
 
 *05220_TOP
-;[debug_win]ãªã†ã€€05220[debug_win_end]
-;*SceneSet|ã€ä¼‘æ¯ã€
+;[debug_win]‚È‚¤@05220[debug_win_end]
+;*SceneSet|w‹x‘§x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05220 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05220 = 1"]
 
-;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼“ã€€è¡¨ç¤º
+;//flag:“µƒ‹[ƒgƒtƒ[@‚R@•\¦
 
 ;	/*
-;	;//â™ªï¼šBGM001
+;	;//ôFBGM001
 ;	[bgm001]
 ;	*/
 
@@ -20,7 +20,7 @@
 [bg storage="bg15c"]
 [trans_c cross time=500]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 [se0 storage="se008"]
 
 
@@ -40,7 +40,7 @@ Are you going to sleep?[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2119|
 [fc]
@@ -69,7 +69,7 @@ Saeki's feelings... Her feelings that she likes me...[pcms]
 *5073|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5074|
 [fc]
@@ -86,7 +86,7 @@ What is it about me that she likes so much...[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std343|
 [fc]
 [ns]Takeuchi[nse]
@@ -102,7 +102,7 @@ When I turned around, Shinya was peering into my face with a[r]lewd smile on his
 [ChrSetParts layer=1 chface="take_a_d_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std344|
 [fc]
 [ns]Takeuchi[nse]
@@ -121,7 +121,7 @@ I can give you a discount now, you know?[pcms]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std345|
 [fc]
 [ns]Takeuchi[nse]
@@ -133,33 +133,33 @@ Kida!? I'm not joking! That alien-like girl!![pcms]
 It's fine, you know. Just let him have a taste of your Space[r]Gun.[l][er]
 Hahaha.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std346|
 [fc]
 [ns]Takeuchi[nse]
 Stop it! You'll start imagining things, you know![pcms]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 [se0 storage="se008"]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2120|
 [fc]
 [vo_ri s="risa0527"]
 [ns]Shindou[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std347|
 [fc]
 [ns]Takeuchi[nse]
@@ -189,7 +189,7 @@ Eventually, Shindou-sensei averted her gaze from Shinya and[r]spoke up.[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2121|
 [fc]
@@ -209,7 +209,7 @@ Yes...[pcms]
 [fc]
 I approached Shindou-sensei, who was standing in front of[r]the door, and listened closely to our conversation.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2122|
 [fc]
@@ -231,7 +231,7 @@ Shinya, who had been eavesdropping, reacted to the teacher's[r]conversation and 
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std348|
 [fc]
 [ns]Takeuchi[nse]
@@ -242,7 +242,7 @@ Did Kishida kidnap her? He's a pervert, that old man.[pcms]
 [ChrSetParts layer=1 chface="risa_c_a_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2123|
 [fc]
@@ -264,7 +264,7 @@ Instead of saying pointless things, why don't you go to[r]sleep already?[pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std349|
 [fc]
 [ns]Takeuchi[nse]
@@ -286,7 +286,7 @@ But, we didn't meet in the regular classroom building where[r]we were searching,
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2124|
 [fc]
@@ -303,7 +303,7 @@ I found it strange that Shindou-sensei was about to leave[r]just after saying th
 [ns]Kato[nse]
 Um, did something happen to Yamagishi-san?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2125|
 [fc]
@@ -321,7 +321,7 @@ But...[pcms]
 [ChrSetParts layer=1 chface="risa_c_a_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2126|
 [fc]
@@ -342,7 +342,7 @@ I'll go with you too.[pcms]
 But, I can handle it on my own.[l][er]
 If you were to disappear as well, it would only trouble[r]me...[pcms]
 
-;//SE:æ‰‰ã‚’é–‰ã‚ã‚‹
+;//SE:”à‚ğ•Â‚ß‚é
 [se0 storage="se008"]
 
 [backlay_c][chara_int][trans_c cross time=150]
@@ -350,7 +350,7 @@ If you were to disappear as well, it would only trouble[r]me...[pcms]
 *5095|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5096|
 [fc]
@@ -384,7 +384,7 @@ Even if not, I'll come back here when I get sleepy.[pcms]
 [fc]
 Surely, that's right...[pcms]
 
-;//SE:ã‚¬ã‚¿ãƒƒ
+;//SE:ƒKƒ^ƒb
 [se0 storage="se023"]
 
 *5103|
@@ -414,7 +414,7 @@ Where are you going? Don't tell me you're planning to go[r]home?[pcms]
 [ChrSetParts layer=5 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2128|
 [fc]
@@ -436,7 +436,7 @@ Saeki seemed to be in a hurry or anxious, as she tried to[r]pass by me.[pcms]
 [ChrSetParts layer=5 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2129|
 [fc]
@@ -449,33 +449,33 @@ Saeki seemed to be in a hurry or anxious, as she tried to[r]pass by me.[pcms]
 Saeki looked embarrassed as if I hit the nail on the head.[l][er]
 But still, I wonder if Saeki will be okay by herself...[pcms]
 
-;//â€»é¸æŠè‚¢
-;//ãƒ»ã—ã¤ã“ãèãã¨ã€ã¾ãŸæ€’ã‚Šã ã—ãã†ã ãªâ€¦â€¦;//[05230]ã¸
-;//ãƒ»è¨€ã„å‡ºã›ãªã„ã ã‘ã ã‚ã†ã€‚ã¤ã„ã¦ã„ã£ã¦ã‚„ã‚‹ã‹;//[07000]ã¸
+;//¦‘I‘ğˆ
+;//E‚µ‚Â‚±‚­•·‚­‚ÆA‚Ü‚½“{‚è‚¾‚µ‚»‚¤‚¾‚Ècc;//[05230]‚Ö
+;//EŒ¾‚¢o‚¹‚È‚¢‚¾‚¯‚¾‚ë‚¤B‚Â‚¢‚Ä‚¢‚Á‚Ä‚â‚é‚©;//[07000]‚Ö
 
 
 *SEL_05220
 
 
-*SEL01|ã—ã¤ã“ãèãã¨ã€ã¾ãŸæ€’ã‚Šã ã—ãã†ã ãªï¼è¨€ã„å‡ºã›ãªã„ã ã‘ã ã‚ã†
+*SEL01|‚µ‚Â‚±‚­•·‚­‚ÆA‚Ü‚½“{‚è‚¾‚µ‚»‚¤‚¾‚È^Œ¾‚¢o‚¹‚È‚¢‚¾‚¯‚¾‚ë‚¤
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'ã—ã¤ã“ãèãã¨ã€ã¾ãŸæ€’ã‚Šã ã—ãã†ã ãªâ€¦â€¦'"]
-[eval exp="f.seltext04 = 'è¨€ã„å‡ºã›ãªã„ã ã‘ã ã‚ã†ã€‚ã¤ã„ã¦ã„ã£ã¦ã‚„ã‚‹ã‹ã€‚'"]
+[eval exp="f.seltext02 = '‚µ‚Â‚±‚­•·‚­‚ÆA‚Ü‚½“{‚è‚¾‚µ‚»‚¤‚¾‚Ècc'"]
+[eval exp="f.seltext04 = 'Œ¾‚¢o‚¹‚È‚¢‚¾‚¯‚¾‚ë‚¤B‚Â‚¢‚Ä‚¢‚Á‚Ä‚â‚é‚©B'"]
 
-[if exp="tf.sys_sub == 0 || tf.é¸æŠè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
-	;é¸æŠè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
+[if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
+	;‘I‘ğˆ“à—e‚ğƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[å±¥æ­´å‡ºåŠ›å¾©å¸°]
+[—š—ğo—Í•œ‹A]
 
-;é¸æŠè‚¢ãƒ™ãƒ¼ã‚¹
+;‘I‘ğˆƒx[ƒX
 [selbase]
-;æ–‡å­—ã®å·¦ãƒãƒ¼ã‚¸ãƒ³
+;•¶š‚Ì¶ƒ}[ƒWƒ“
 [eval exp="sf.seltext_x = 150"]
 
 [sel02 target=*SEL_ANGRY]

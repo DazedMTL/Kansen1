@@ -1,21 +1,21 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯03025ã€Žå˜”åã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›çž³ãƒ»åŠ è—¤
-;//ã€†ç«¹å†…è¦–ç‚¹
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN03025wšq“fx
+;//BG:“ÁŽê‹³Žº˜L‰ºF–éFÁ“”
+;//“oêl•¨G“µE‰Á“¡
+;//Y’|“àŽ‹“_
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *03025_H_TOP
-;[debug_win]ãªã†ã€€03025_H[debug_win_end]
+;[debug_win]‚È‚¤@03025_H[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_03025 = 1"]
+;Žg‚Á‚Ä‚È‚¢[eval exp="sf.g_03025 = 1"]
 
-;*SceneSet|ã€Žå˜”åã€
+;*SceneSet|wšq“fx
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 [bgm007]
 
@@ -67,7 +67,7 @@ She's not moving forward easily...[pcms]
 [fc]
 I have to hurry...[pcms]
 
-;//[03026]ã¸
+;//[03026]‚Ö
 [jump target=*03026_H_TOP storage="03026_H.ks"]
 
 

@@ -1,15 +1,15 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05240ã€äº‹ä»¶ã®å§‹ã¾ã‚Šã€
-;//;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæœï¼›æ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»ç«¹å†…ãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN05240w–Œ‚Ìn‚Ü‚èx
+;//;//BG:“Áê‹³º˜L‰ºF’©GÁ“”
+;//“oêl•¨GålŒöE“µE’|“àEƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *05240_TOP
-;[debug_win]ãªã†ã€€05240[debug_win_end]
-;*SceneSet|ã€äº‹ä»¶ã®å§‹ã¾ã‚Šã€
+;[debug_win]‚È‚¤@05240[debug_win_end]
+;*SceneSet|w–Œ‚Ìn‚Ü‚èx
 
 [eval exp="f.prologue_route = 0"]
 [eval exp="f.yuu_route1 = 0"]
@@ -22,10 +22,10 @@
 [eval exp="f.hitomi_route4 = 0"]
 [eval exp="f.infection_route = 0"]
 
-;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼‘æ—¥ç›®ã€€ç”»é¢è¡¨ç¤º
-;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€Nextã€€è¡¨ç¤º
+;//flag:“µƒ‹[ƒgƒtƒ[@‚P“ú–Ú@‰æ–Ê•\¦
+;//flag:“µƒ‹[ƒgƒtƒ[@Next@•\¦
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 
 [bgm001]
 
@@ -34,11 +34,11 @@
 [bg storage="bg15a"]
 [trans_c cross time=1000]
 
-;//SE:é³¥ã®ã•ãˆãšã‚Š
+;//SE:’¹‚Ì‚³‚¦‚¸‚è
 
 [se0 storage="se047"]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05240 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05240 = 1"]
 
 
 
@@ -85,7 +85,7 @@ I felt pathetic about not being able to take a clear stance[r]even in my dream.[
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2139|
 [fc]
@@ -114,7 +114,7 @@ Yuuji and Igarashi-san are also not here...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2140|
 [fc]
@@ -133,15 +133,15 @@ As for Yamagishi-san...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2141|
 [fc]
 [vo_sa s="sae0417"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
-;//SE:æ‰‰ã‚’é–‹ã
+;//SE:”à‚ğŠJ‚­
 
 [se0 storage="se008"]
 
@@ -150,7 +150,7 @@ As for Yamagishi-san...[pcms]
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2142|
 [fc]
@@ -163,7 +163,7 @@ Good morning...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2143|
 [fc]
@@ -185,7 +185,7 @@ Did something happen? When Shindou-sensei entered the[r]audiovisual room, she ha
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2144|
 [fc]
@@ -198,7 +198,7 @@ I found Yamagishi-san. I found her collapsed early in the[r]morning.[pcms]
 [ns]Kato[nse]
 She collapsed...?[pcms]
 
-;//â™ªï¼šBGM001ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM001ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
@@ -222,7 +222,7 @@ Where is Yamagishi-san right now!?[pcms]
 [ChrSetParts layer=1 chface="risa_c_a_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2145|
 [fc]
@@ -240,8 +240,8 @@ Without listening to Shindou-sensei's words until the end, I[r]dashed out of the
 
 ;//blackout
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05250]ã¸
+;//[05250]‚Ö
 [jump target=*05250_TOP storage="05250.ks"]

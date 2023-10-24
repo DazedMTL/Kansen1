@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05740ã€è„±å‡ºï¼’ã€
-;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05740w’Eo‚Qx
+;//BG:“n‚è˜L‰ºF—[•ûFÁ“”
+;//“oêl•¨GålŒöE“µ
 
 *05740_TOP
-;[debug_win]ãªã†ã€€05740[debug_win_end]
-;*SceneSet|ã€è„±å‡ºï¼’ã€
+;[debug_win]‚È‚¤@05740[debug_win_end]
+;*SceneSet|w’Eo‚Qx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05740 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05740 = 1"]
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 
 [bgm009]
 
@@ -46,5 +46,5 @@ Taking Saeki's hand without hesitation in response to her[r]rough plan, I dashed
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05750]ã¸
+;//[05750]‚Ö
 [jump target=*05750_TOP storage="05750.ks"]

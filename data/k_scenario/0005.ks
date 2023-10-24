@@ -1,26 +1,26 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//;//â– ãƒ–ãƒ­ãƒƒã‚¯0005ã€æ˜ ç ”éƒ¨ã®é¡§å•ï¼šãƒªã‚µç™»å ´ã€
-;//BGï¼šç†ç§‘æº–å‚™å®¤ï¼šæ˜¼
-;//;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­ãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//;//¡ƒuƒƒbƒN0005w‰fŒ¤•”‚ÌŒÚ–âFƒŠƒT“oêx
+;//BGF—‰È€”õºF’‹
+;//;//“oêl•¨GålŒöE—DE“µE•ü”üE’|“àE“c’†EƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *0005_TOP
-;[debug_win]ãªã†ã€€0005[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0005 = 1"]
+;[debug_win]‚È‚¤@0005[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0005 = 1"]
 
-;*SceneSet|ã€æ˜ ç ”éƒ¨ã®é¡§å•ã€
+;*SceneSet|w‰fŒ¤•”‚ÌŒÚ–âx
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 ;//;//BG:bg018a
 
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [bg storage="bg18a"]
 [trans_c cross time=500]
 ;/*
-;	;//;//SE:ç´™ã‚’ã‚ãã‚‹
+;	;//;//SE:†‚ğ‚ß‚­‚é
 ;	[se0 storage="se006"]
 ;*/
 
@@ -37,7 +37,7 @@ The printout handed to me by advisor Shindou-sensei was[r]printed with simple, u
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v40|
 [fc]
@@ -49,14 +49,14 @@ Yes. It's the activity of our Film Research Club during[r]summer vacation.[pcms]
 [fc]
 The activity during summer vacation is to gather at school[r]at the beginning of August and hold a movie viewing party[r]for one night and two days with meals included (although we[r]have to cook ourselves).[pcms]
 
-;//;//SE:ã‚¬ã‚¿ãƒƒ
+;//;//SE:ƒKƒ^ƒb
 [se0 storage="se023"]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v41|
 [fc]
@@ -64,7 +64,7 @@ The activity during summer vacation is to gather at school[r]at the beginning of
 [ns]Saeki[nse]
 Um... Sensei...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v42|
 [fc]
@@ -88,7 +88,7 @@ However, Saeki also has quite a feminine side.[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v43|
 [fc]
@@ -128,7 +128,7 @@ He must be a man who gives off a mature vibe...[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v44|
 [fc]
@@ -142,7 +142,7 @@ How about all of you prepare together as a way to deepen the[r]bond between club
 [ChrSetParts layer=1 chface="tanaka_a_a_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std27|
 [fc]
 [ns]Tanaka[nse]
@@ -154,7 +154,7 @@ I can't cook.[pcms]
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v45|
 [fc]
@@ -167,7 +167,7 @@ Don't worry, I'll make it for you.[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std28|
 [fc]
 [ns]Tanaka[nse]
@@ -178,20 +178,20 @@ I'm so happy, I could cry... Ugh...[pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v46|
 [fc]
 [vo_to s="tomo0007"]
 [ns]Igarashi[nse]
-No way, alreadyâ™ª[l][er]
+No way, alreadyô[l][er]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v47|
 [fc]
@@ -211,7 +211,7 @@ Everyone must be tired of the pink atmosphere surrounding[r]not only Saeki, but 
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v48|
 [fc]
@@ -223,7 +223,7 @@ The movie title isn't written, so what kind of movie are we[r]going to watch?[pc
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v49|
 [fc]
@@ -236,7 +236,7 @@ It was a sudden decision...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v50|
 [fc]
@@ -248,7 +248,7 @@ It was a sudden decision...[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v51|
 [fc]
@@ -270,7 +270,7 @@ And yet, why was permission suddenly granted...?[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v52|
 [fc]
@@ -287,7 +287,7 @@ As we each shook our heads, Shindou-sensei nodded lightly[r]and gave us final in
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v53|
 [fc]
@@ -296,6 +296,6 @@ As we each shook our heads, Shindou-sensei nodded lightly[r]and gave us final in
 Whether you are participating or not, please directly inform[r]me or call the number written on the printout to let me know[r]by one week from today.[l][er]
 That's all.[pcms]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*0006_TOP storage="0006.ks"]
 

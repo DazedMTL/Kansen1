@@ -1,24 +1,24 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02158ã€ãƒ‡ãƒ¼ãƒˆã®ç”³ã—è¾¼ã¿ã€
-;//BG:å±‹ä¸Šï¼šå¤œ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02158wƒf[ƒg‚Ì\‚µ‚İx
+;//BG:‰®ãF–é
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02158_TOP
-;[debug_win]ãªã†ã€€02158[debug_win_end]
+;[debug_win]‚È‚¤@02158[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02158 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02158 = 1"]
 
-;*SceneSet|ã€ãƒ‡ãƒ¼ãƒˆã®ç”³ã—è¾¼ã¿ã€
+;*SceneSet|wƒf[ƒg‚Ì\‚µ‚İx
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 
 [fadeoutbgm time=500]
 
-;//SE:è™«ã®éŸ³ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:’‚Ì‰¹@ƒ‹[ƒv
 
 [se0 storage="se018" loop=true]
 
@@ -51,7 +51,7 @@ Yamagishi-san, where would you like to go?[pcms]
 [fc]
 [vo_ya s="yama0430"]
 [ns]Yamagishi[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *2917|
 [fc]
@@ -62,7 +62,7 @@ Yamagishi-san, where would you like to go?[pcms]
 [fc]
 [vo_ya s="yama0431"]
 [ns]Yamagishi[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *2918|
 [fc]
@@ -77,7 +77,7 @@ I peered into Yamagishi-san's face and she had fallen[r]asleep.[pcms]
 [fc]
 I wonder if the tension thread has been cut after the big[r]event of confessing...[pcms]
 
-;//[02160]ã¸
+;//[02160]‚Ö
 [jump target=*02160_TOP storage="02160.ks"]
 
 

@@ -1,38 +1,38 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05520ã€é€ƒèµ°ã€
-;//;//BG:äºŒéšå»Šä¸‹ï¼šå¤•æ–¹ï¼›æ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»ã‚¾ãƒ³ãƒ“Ã—ï¼“ï¼ˆå¥³ï¼’äººç”·ï¼‘äººï¼‰
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN05520w“¦‘–x
+;//;//BG:“ñŠK˜L‰ºF—[•ûGÁ“”
+;//“oêl•¨GålŒöE“µEƒ]ƒ“ƒr~‚Ri—‚Ql’j‚Plj
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *05520_H_TOP
-;[debug_win]ãªã†ã€€05520_H[debug_win_end]
+;[debug_win]‚È‚¤@05520_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [eval exp="sf.SRP27 = 1"][if exp="tf.scene_mode == 0"][jump target=*05520][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *05520
 
-;*SceneSet|ã€é€ƒèµ°ã€
+;*SceneSet|w“¦‘–x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05520 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05520 = 1"]
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 
 [bgm009]
 
@@ -41,7 +41,7 @@
 [bg storage="bg06b"]
 [trans_c cross time=500]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 
 [se0 storage="se005"]
 
@@ -54,7 +54,7 @@
 
 ;;;[sysbt_meswin]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2350|
 [fc]
@@ -85,7 +85,7 @@ Up, let's go to the rooftop![pcms]
 
 ;//blackout
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -106,7 +106,7 @@ There, an orgy between unfamiliar students was taking place.[pcms]
 
 *scene_start
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 [bgm008]
 
 ;//H_CG
@@ -116,7 +116,7 @@ There, an orgy between unfamiliar students was taking place.[pcms]
 ;;;[sysbt_meswin]
 
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
@@ -124,7 +124,7 @@ There, an orgy between unfamiliar students was taking place.[pcms]
 [fc]
 [vo_mob s="other030001"]
 [ns]Female Student Alpha[nse]
-Heh... ahh... mmm~[pcms]
+Heh... ahh...  mmm~[pcms]
 
 *5638|
 [fc]
@@ -359,10 +359,10 @@ He had a face that looked like he was about to cry, and with[r]a weak voice, he 
 [ns]Male Student M[nse]
 I... ah... ughhhhhh!!!!![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 [stop_se0]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 [se0 storage="se062"]
 
 ;;;[sysbt_meswin clear]
@@ -473,35 +473,35 @@ Instead, we hurriedly ran down the stairs.[pcms]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn28 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn28 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;BGMåœæ­¢
+;BGM’â~
 [fadeoutbgm time=500]
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 [wait_c time=1000]
 
 
-;//[05530]ã¸
+;//[05530]‚Ö
 [jump target=*05530_TOP storage="05530.ks"]
 

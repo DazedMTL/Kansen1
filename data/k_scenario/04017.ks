@@ -1,22 +1,22 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04017ã€ç›®è¦šã‚ã€
-;//BG:ä¿å¥å®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04017w–ÚŠo‚ßx
+;//BG:•ÛŒ’ºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DEƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04017_TOP
-;[debug_win]ãªã†ã€€04017[debug_win_end]
+;[debug_win]‚È‚¤@04017[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04017 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04017 = 1"]
 
-;*SceneSet|ã€ç›®è¦šã‚ã€
+;*SceneSet|w–ÚŠo‚ßx
 
-;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼™ã€€è¡¨ç¤º
+;//flag:—Dƒ‹[ƒgƒtƒ[@‚X@•\¦
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 
 [fadeoutbgm time=500]
 
@@ -56,7 +56,7 @@ He attacked Yamagishi-san... I can't believe it...[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1613|
 [fc]
@@ -80,7 +80,7 @@ Ms. Shindou, who appeared after opening the curtains, sat on[r]the chair next to
 [ns]Kato[nse]
 Um, what about Yamagishi-san...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1614|
 [fc]
@@ -101,7 +101,7 @@ I hope Yamagishi-san is safe...[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1615|
 [fc]
@@ -118,7 +118,7 @@ Eh...?[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1616|
 [fc]
@@ -127,7 +127,7 @@ Eh...?[pcms]
 Yamagishi-san. She was assaulted.[l][er]
 Sexually, you know.[pcms]
 
-;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM007ƒtƒF[ƒhƒCƒ“
 
 ;[bgm007]
 
@@ -136,7 +136,7 @@ Sexually, you know.[pcms]
 [ns]Kato[nse]
 S-Sexual?![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1617|
 [fc]
@@ -171,7 +171,7 @@ He must be here, just out of sight behind the curtains.[pcms]
 [ns]Kato[nse]
 Takeuchi, are you here? Please ask him too.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1618|
 [fc]
@@ -185,7 +185,7 @@ He's not here. Besides you and Yamagishi-san, no one else[r]saw anything.[pcms]
 Eh...? Didn't you and that guy bring us to the infirmary?[l][er]
 It was Takeuchi who informed the teacher that Yamagishi-san[r]was being attacked, right?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1619|
 [fc]
@@ -211,7 +211,7 @@ If Shindou-sensei didn't go to call for Shindou-sensei, then[r]where on earth di
 [fc]
 Could it be, did that person run away...?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1620|
 [fc]
@@ -227,9 +227,9 @@ Yes...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//â€»æ¡ä»¶åˆ†å²
-;//ãƒ»flag:ä¸»äººå…¬æš´èµ°ã€€ãŒOFF;//[04018]ã¸
-;//ãƒ»flag:ä¸»äººå…¬æš´èµ°ã€€ãŒON;//[04026]ã¸
+;//¦ğŒ•ªŠò
+;//Eflag:ålŒö–\‘–@‚ªOFF;//[04018]‚Ö
+;//Eflag:ålŒö–\‘–@‚ªON;//[04026]‚Ö
 
 ;Android[if exp="sf.run_away==1"]
 [if exp="sf.g_run_away==1"]

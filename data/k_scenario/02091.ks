@@ -1,10 +1,10 @@
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02091ã€çµ¶æœ›ã®å¤œæ˜ã‘ã€
-;//BG:è¦–è´è¦šå®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…
+;//¡ËƒuƒƒbƒN02091wâ–]‚Ì–é–¾‚¯x
+;//BG:‹’®ŠoºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DE’|“à
 
 *02091_TOP
-;[debug_win]ãªã†ã€€02091[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02091 = 1"]
+;[debug_win]‚È‚¤@02091[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02091 = 1"]
 
 [eval exp="f.prologue_route = 0"]
 [eval exp="f.yuu_route1 = 0"]
@@ -17,20 +17,20 @@
 [eval exp="f.hitomi_route4 = 0"]
 [eval exp="f.infection_route = 0"]
 
-;*SceneSet|ã€çµ¶æœ›ã®å¤œæ˜ã‘ã€
+;*SceneSet|wâ–]‚Ì–é–¾‚¯x
 
 ;//[02091]
 
-;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ï¼‘ã€€ç”»é¢ã€€è¡¨ç¤º
-;//flag:å„ªãƒ«ãƒ¼ãƒˆã€€Nextï¼‘ã€€è¡¨ç¤º
-;//â™ªï¼šBGM001
+;//flag:—Dƒ‹[ƒgƒtƒ[‚P@‰æ–Ê@•\¦
+;//flag:—Dƒ‹[ƒg@Next‚P@•\¦
+;//ôFBGM001
 [bgm001]
 
 ;//BG:bg015C
 [bg storage="bg15c"]
 [trans_c cross time=1000]
 
-;//SE:é³¥ã®ã•ãˆãšã‚Š
+;//SE:’¹‚Ì‚³‚¦‚¸‚è
 [se0 storage="se047"]
 
 
@@ -109,7 +109,7 @@ When I look at her childlike, white and soft cheeks, I[r]somehow feel the urge t
 *1865|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *1866|
 [fc]
@@ -129,33 +129,33 @@ Huh...? Saeki is not here...[pcms]
 [fc]
 Saeki, who was sleeping at the desk by the window, was[r]nowhere to be found in the audiovisual room.[pcms]
 
-;//â€»é¸æŠè‚¢
-;//ãƒ»ä¾¿æ‰€ã«ã§ã‚‚è¡Œã£ã¦ã‚“ã®ã‹ãªâ€¦â€¦;//[02200]ã¸
-;//ãƒ»ãªã‚“ã‹æ³£ã„ã¦ãŸãªâ€¦â€¦ã€€;//[02210]ã¸
+;//¦‘I‘ğˆ
+;//E•ÖŠ‚É‚Å‚às‚Á‚Ä‚ñ‚Ì‚©‚Ècc;//[02200]‚Ö
+;//E‚È‚ñ‚©‹ƒ‚¢‚Ä‚½‚Ècc@;//[02210]‚Ö
 
 ;;;;[sysbt_meswin clear]
 
 
-*SEL01|ä¾¿æ‰€ã«ã§ã‚‚è¡Œã£ã¦ã‚“ã®ã‹ãªï¼ãªã‚“ã‹æ³£ã„ã¦ãŸãª
+*SEL01|•ÖŠ‚É‚Å‚às‚Á‚Ä‚ñ‚Ì‚©‚È^‚È‚ñ‚©‹ƒ‚¢‚Ä‚½‚È
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'ä¾¿æ‰€ã«ã§ã‚‚è¡Œã£ã¦ã‚“ã®ã‹ãªâ€¦â€¦'"]
-[eval exp="f.seltext04 = 'ãªã‚“ã‹æ³£ã„ã¦ãŸãªâ€¦â€¦'"]
+[eval exp="f.seltext02 = '•ÖŠ‚É‚Å‚às‚Á‚Ä‚ñ‚Ì‚©‚Ècc'"]
+[eval exp="f.seltext04 = '‚È‚ñ‚©‹ƒ‚¢‚Ä‚½‚Ècc'"]
 
 
-[if exp="tf.sys_sub == 0 || tf.é¸æŠè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
-	;é¸æŠè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
+[if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
+	;‘I‘ğˆ“à—e‚ğƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[å±¥æ­´å‡ºåŠ›å¾©å¸°]
+[—š—ğo—Í•œ‹A]
 
-;é¸æŠè‚¢ãƒ™ãƒ¼ã‚¹
+;‘I‘ğˆƒx[ƒX
 [selbase]
-;æ–‡å­—ã®å·¦ãƒãƒ¼ã‚¸ãƒ³
+;•¶š‚Ì¶ƒ}[ƒWƒ“
 [eval exp="sf.seltext_x = 250"]
 
 [sel02 target=*sel00_toilet]

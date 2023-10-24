@@ -1,24 +1,24 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02144ã€ä»Šã¯ãã‚Œã‚ˆã‚Šã‚‚ã€
-;//BG:å±‹ä¸Šï¼šå¤•æ–¹
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02144w¡‚Í‚»‚ê‚æ‚è‚àx
+;//BG:‰®ãF—[•û
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02144_TOP
-;[debug_win]ãªã†ã€€02144[debug_win_end]
+;[debug_win]‚È‚¤@02144[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02144 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02144 = 1"]
 
-;*SceneSet|ã€ä»Šã¯ãã‚Œã‚ˆã‚Šã‚‚ã€
+;*SceneSet|w¡‚Í‚»‚ê‚æ‚è‚àx
 
-;//flag:å„ªã«è´ã‹ãªã‹ã£ãŸã€‚
+;//flag:—D‚É’®‚©‚È‚©‚Á‚½B
 
 [eval exp="f.YUU_KIKANAI = 1"]
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 
 [fadeoutbgm time=500]
 
@@ -27,7 +27,7 @@
 [bg storage="bg22e"]
 [trans_c cross time=500]
 
-;//SE:è™«ã®éŸ³ãƒ«ãƒ¼ãƒ—
+;//SE:’‚Ì‰¹ƒ‹[ƒv
 
 [se0 storage="se018" loop=true]
 
@@ -52,7 +52,7 @@ I'm sure Yamagishi-san wouldn't think highly of me...[pcms]
 *2618|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *2619|
 [fc]
@@ -101,14 +101,14 @@ Yamagishi-san's face was hidden by her hair, so I couldn't[r]see her expression.
 [fc]
 [vo_ya s="yama0393"]
 [ns]Yamagishi[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1019|
 [fc]
@@ -142,7 +142,7 @@ It might be someone other than me...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1020|
 [fc]
@@ -164,6 +164,6 @@ after we're safely out of danger.[pcms]
 
 ;[stop_se0]
 
-;//[02145]ã¸
+;//[02145]‚Ö
 [jump target=*02145_TOP storage="02145.ks"]
 

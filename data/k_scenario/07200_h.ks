@@ -1,48 +1,48 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07200ã€ç”°ä¸­ã¨æœ‹ç¾ã€
-;//;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šæœ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»æ„ŸæŸ“ç”°ä¸­ãƒ»æ„ŸæŸ“æœ‹ç¾
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN07200w“c’†‚Æ•ü”üx
+;//;//BG:“n‚è˜L‰ºF’©
+;//“oêl•¨GålŒöE“µEŠ´õ“c’†EŠ´õ•ü”ü
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *07200_H_TOP
-;[debug_win]ãªã†ã€€07200_H[debug_win_end]
+;[debug_win]‚È‚¤@07200_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 ;[if exp="tf.scene_mode == 0"][jump target=*07200][endif]
 ;[winset]
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *07200
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07200 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07200 = 1"]
 
-;//â™ªï¼šBGM010
+;//ôFBGM010
 ;[bgm010]
 
 ;//;//BG:bg09a
 [bg storage="bg09a"]
 [trans_c cross time=500]
 
-;//ï¼ æ‰æ¸•ï¼šä¸‹è¨˜ï¼³ï¼¥ãŒè¡¨ã«ãªã„ãŸã‚ã«ç¾åœ¨éŸ³ã‚’å¼µã£ã¦ã„ã¾ã›ã‚“ã€‚
-;//SE:å»Šä¸‹ã‚’æ­©ã
+;//—™ŸºF‰º‹L‚r‚d‚ª•\‚É‚È‚¢‚½‚ß‚ÉŒ»İ‰¹‚ğ’£‚Á‚Ä‚¢‚Ü‚¹‚ñB
+;//SE:˜L‰º‚ğ•à‚­
 ;//[se0 storage="se005"]
 
 *7425|
 [fc]
 The two of them walk hand in hand.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
@@ -64,13 +64,13 @@ Hey... We need to hurry...[pcms]
 ;	[trans_c cross time=150]
 ;	*/
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2989|
 [fc]
 [vo_sa s="sae0864"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *7430|
 [fc]
@@ -84,7 +84,7 @@ What's wrong... Saeki...[pcms]
 ;	[trans_c cross time=150]
 ;	*/
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2990|
 [fc]
@@ -104,7 +104,7 @@ Huh?[pcms]
 ;	[trans_c cross time=150]
 ;	*/
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2991|
 [fc]
@@ -135,20 +135,20 @@ I'm sorry...[pcms]
 ;	[trans_c cross time=150]
 ;	*/
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2992|
 [fc]
 [vo_sa s="sae0867"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2993|
 [fc]
@@ -164,20 +164,20 @@ I also grip back silently.[pcms]
 *7442|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2994|
 [fc]
 [vo_sa s="sae0869"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *7443|
 [fc]
@@ -209,7 +209,7 @@ Saeki slowly opened her mouth as if she couldn't bear the[r]silence anymore, whi
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2995|
 [fc]
@@ -228,7 +228,7 @@ Hm?[pcms]
 ;	[ChrSetParts layer=1 chface="sae_c_a_02"]
 ;	[trans_c cross time=150]
 ;	*/
-;ç«‹ã¡
+;—§‚¿
 
 *v2996|
 [fc]
@@ -271,7 +271,7 @@ Saeki, who was walking while holding hands, suddenly felt a[r]fear that she migh
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2997|
 [fc]
@@ -298,7 +298,7 @@ If that's the case, I won't be able to recover from the[r]shock...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2998|
 [fc]
@@ -325,7 +325,7 @@ Did I say something unnecessary again...?[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2999|
 [fc]
@@ -346,7 +346,7 @@ So, what about the sigh earlier?[pcms]
 ;	[ChrSetParts layer=1 chface="sae_c_b_06"]
 ;	[trans_c cross time=150]
 ;	
-;	;ç«‹ã¡
+;	;—§‚¿
 ;	*std423|
 ;	[fc]
 ;	*|
@@ -355,7 +355,7 @@ So, what about the sigh earlier?[pcms]
 [ns]Saeki[nse]
 *sighs*... It feels like something is stuck...[l][er]
 and...[pcms]
-;	ç§â€¦â€¦ä¸‹â€¦â€¦ä»˜ã‘ã¦ãªã„â€¦â€¦ã€
+;	„cc‰ºcc•t‚¯‚Ä‚È‚¢ccv
 ;[l][er]
 ;	*/
 
@@ -381,7 +381,7 @@ even after taking a shower...[pcms]
 But I wonder if she brought a change of clothes...[l][er]
 I can't really ask... What should I do...[pcms]
 
-;//SE:ã‚¬ã‚¿ãƒƒ
+;//SE:ƒKƒ^ƒb
 
 [se0 storage="se023"]
 
@@ -394,7 +394,7 @@ Hm? Did I hear something?[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3000|
 [fc]
@@ -413,7 +413,7 @@ Behind me...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3001|
 [fc]
@@ -437,11 +437,11 @@ I haven't heard anything since that noise earlier...[l][er]
 Could they be lurking around? If that's the case, it's[r]dangerous here too.[l][er]
 I hope I'm just imagining things...[pcms]
 
-;//â™ªï¼šBGM010ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM010ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
-;//SE:æ‰‰ã‚’é–‹ã
+;//SE:”à‚ğŠJ‚­
 
 [se0 storage="se008"]
 
@@ -450,7 +450,7 @@ I hope I'm just imagining things...[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3002|
 [fc]
@@ -463,7 +463,7 @@ I hope I'm just imagining things...[pcms]
 Suddenly, someone opens the door and starts coming towards[r]us.[l][er]
 It's pitch black, so I can't see who it is, but two figures[r]are walking towards us while holding hands.[pcms]
 
-;//â™ªï¼šBGM003
+;//ôFBGM003
 
 [bgm003]
 
@@ -472,7 +472,7 @@ It's pitch black, so I can't see who it is, but two figures[r]are walking toward
 [ChrSetParts layer=1 chface="tomo_d_d_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3003|
 [fc]
@@ -484,7 +484,7 @@ Ahh... Yasu, Yukiku, mmm...[pcms]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std424|
 [fc]
 [ns]Tanaka[nse]
@@ -495,7 +495,7 @@ M-ma, ta, bi, n, to, at-ta... ore, tsu, ite-n na~...[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3004|
 [fc]
@@ -533,13 +533,13 @@ Please stop!! Are you still teasing us like always?![pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3005|
 [fc]
 [vo_sa s="sae0880"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *7482|
 [fc]
@@ -551,24 +551,24 @@ Yuuji!! Stop it!! Please stop with the jokes already!![pcms]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std425|
 [fc]
 [ns]Tanaka[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 [ChrSetEx layer=1 chbase="tomo_d_d_04"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_d_d_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3006|
 [fc]
 [vo_to s="tomo0348"]
 [ns]Igarashi[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *7483|
 [fc]
@@ -610,7 +610,7 @@ And Igarashi-san, you're quite mischievous too...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3007|
 [fc]
@@ -649,16 +649,16 @@ Yuuji...!?[pcms]
 [ChrSetParts layer=1 chface="tanaka_b_a_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std426|
 [fc]
 [ns]Tanaka[nse]
 Hey, you're crying...[pcms]
 
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [se0 storage="se026"]
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [flash_re]
 
 [bg storage="bg09a"]
@@ -669,8 +669,8 @@ Hey, you're crying...[pcms]
 
 [quake_bg xy m]
 
-;//SE;æ®´ã‚‹
-;//ç”»é¢æºã‚‰ã—
+;//SE;‰£‚é
+;//‰æ–Ê—h‚ç‚µ
 
 *7494|
 [fc]
@@ -685,12 +685,12 @@ I was punched by Yuuji! Why? Why?[pcms]
 [fc]
 Uhh...[pcms]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [se0 storage="se021"]
 [quake_bg xy m]
 
 ;//blackout
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer winon][trans_c cross time=500][hide_chara_int]
 
 *v3008|
@@ -699,7 +699,7 @@ Uhh...[pcms]
 [ns]Saeki[nse]
 ...! Kato-san!? Noooo!![pcms]
 
-;//[07210]ã¸
+;//[07210]‚Ö
 [jump target=*07210_H_TOP storage="07210_H.ks"]
 
 

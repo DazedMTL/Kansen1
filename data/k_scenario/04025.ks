@@ -1,21 +1,21 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04025ã€ç³ã®å¾©è®3ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ç«¹å†…ãƒ»ç³ãƒ»ã‚¾ãƒ³ãƒ“
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04025w“µ‚Ì•œQ3x
+;//BG:“Áê‹³º˜L‰ºF’‹i’©Œ“—pj
+;//“oêl•¨G’|“àE“µEƒ]ƒ“ƒr
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04025_TOP
-;[debug_win]ãªã†ã€€04025[debug_win_end]
+;[debug_win]‚È‚¤@04025[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04025 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04025 = 1"]
 
-;*SceneSet|ã€ç³ã®å¾©è®ï¼“ã€
+;*SceneSet|w“µ‚Ì•œQ‚Rx
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 ;//[bgm008]
 
@@ -29,7 +29,7 @@
 [ns]Takeuchi[nse]
 D-Don't come! Ugh...! Why won't it open!![pcms]
 
-;//SE:ãŒã¡ã‚ƒãŒã¡ã‚ƒ
+;//SE:‚ª‚¿‚á‚ª‚¿‚á
 
 
 *4111|
@@ -53,7 +53,7 @@ I tried to escape towards the science preparation room where[r]Shindou-sensei wa
 [ns]Takeuchi[nse]
 Uwah...[pcms]
 
-;//SE:äººã«ã¶ã¤ã‹ã‚‹
+;//SE:l‚É‚Ô‚Â‚©‚é
 
 [se0 storage="se025"]
 [quake_bg xy m]
@@ -72,7 +72,7 @@ As I turned around, I collided with Hitomi who was right[r]beside me and ended u
 [fc]
 The person I collided with... Hitomi approached me as if[r]nothing had happened.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1692|
 [fc]
@@ -84,7 +84,7 @@ I wish you would just die...[pcms]
 
 ;//redflash
 
-[èµ¤ãƒ•ãƒ©]
+[Ôƒtƒ‰]
 
 ;g[bg storage="bg08a"]
 ;g[trans_c cross time=500]
@@ -133,7 +133,7 @@ H-ha... haah...!![pcms]
 [fc]
 [vo_sa s="sae0266"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4123|
 [fc]
@@ -190,7 +190,7 @@ Hehehe... hehehehe... ahahahaha...[pcms]
 
 ;;;[sysbt_meswin clear]
 
-;ã‚·ã‚¹ãƒ†ãƒ ãƒœã‚¿ãƒ³ï¼†ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;ƒVƒXƒeƒ€ƒ{ƒ^ƒ“•ƒEƒBƒ“ƒhƒEÁ‹
 [sysbt_meswin clear]
 
 [evcg storage="EV_006_b"]
@@ -208,9 +208,9 @@ Hehehe... hehehehe... ahahahaha...[pcms]
 
 ;//blackout
 
-;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM008ƒtƒF[ƒhƒAƒEƒg
 
-;//[04017]ã¸
+;//[04017]‚Ö
 [jump target=*04017_TOP storage="04017.ks"]
 
 

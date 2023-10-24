@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02145ã€ç¡é­”ã€
-;//BG:å±‹ä¸Šï¼šå¤•æ–¹
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02145w‡–‚x
+;//BG:‰®ãF—[•û
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02145_TOP
-;[debug_win]ãªã†ã€€02145[debug_win_end]
+;[debug_win]‚È‚¤@02145[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02145 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02145 = 1"]
 
-;*SceneSet|ã€ç¡é­”ã€
+;*SceneSet|w‡–‚x
 
-;//â™ªï¼šBGM0ç„¡ã—
+;//ôFBGM0–³‚µ
 
 [fadeoutbgm time=500]
 
@@ -23,11 +23,11 @@
 ;[bg storage="bg22e"]
 ;[trans_c cross time=500]
 
-;//SE:è™«ã®éŸ³ãƒ«ãƒ¼ãƒ—
+;//SE:’‚Ì‰¹ƒ‹[ƒv
 
 ;[se0 storage="se018" loop=true]
 
-;//SE:é¢¨ã®éŸ³
+;//SE:•—‚Ì‰¹
 
 [se1 storage="se019"]
 
@@ -45,7 +45,7 @@ But there was also a sense of relief knowing that rescue[r]would be coming soon.
 [fc]
 As the sun set and the cool breeze began to feel pleasant, I[r]started to doze off.[pcms]
 
-;//SE:è™«ã®éŸ³ã€€åœæ­¢
+;//SE:’‚Ì‰¹@’â~
 
 
 ;;;[sysbt_meswin clear]
@@ -64,5 +64,5 @@ As the sun set and the cool breeze began to feel pleasant, I[r]started to doze o
 
 ;//blackout
 
-;//[02146]ã¸
+;//[02146]‚Ö
 [jump target=*02146_TOP storage="02146.ks"]

@@ -1,21 +1,21 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02070ã€ç•°å¤‰ã€
-;//BG:ä½“è‚²ç”¨å…·å®¤ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02070wˆÙ•Ïx
+;//BG:‘Ìˆç—p‹ïºF–éF“_“”
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02070_TOP
-;[debug_win]ãªã†ã€€02070[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02070 = 1"]
+;[debug_win]‚È‚¤@02070[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02070 = 1"]
 
-;*SceneSet|ã€ç•°å¤‰ã€
+;*SceneSet|wˆÙ•Ïx
 
 ;//[02070]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg009e
 ;g[bg storage="bg09e"]
@@ -30,7 +30,7 @@ Hey! Yuuji![pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v624|
 [fc]
@@ -41,15 +41,15 @@ Tomochan~![pcms]
 *1479|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v625|
 [fc]
 [vo_ya s="yama0149"]
 [ns]Yamagishi[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *1480|
 [fc]
@@ -68,7 +68,7 @@ I don't think the lights would turn on by themselves, so[r]either someone came h
 [ns]Kato[nse]
 I'm going to take a look inside.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v626|
 [fc]
@@ -87,7 +87,7 @@ Ah, wait, I'm going too.[pcms]
 
 ;;;[sysbt_meswin]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 [bgm007]
 
 *1484|
@@ -99,7 +99,7 @@ We cautiously approached the door of the sports equipment[r]storage room, taking
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v627|
 [fc]
@@ -123,7 +123,7 @@ Huh...?[pcms]
 I opened the door a little more and peeked inside through[r]the gap, but there was no one there.[pcms]
 [l][er]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 [se0 storage="se008"]
 
 
@@ -132,7 +132,7 @@ I opened the door a little more and peeked inside through[r]the gap, but there w
 [fc]
 Feeling disappointed, I fully opened the door and stepped[r]inside.[pcms]
 
-;//BG:bgä½“è‚²ç”¨å…·å®¤ã€€ãƒãƒƒãƒˆã®ä¸Šã«ç²¾æ¶²
+;//BG:bg‘Ìˆç—p‹ïº@ƒ}ƒbƒg‚Ìã‚É¸‰t
 
 [bg storage="bg70"]
 [trans_c cross time=500]
@@ -142,7 +142,7 @@ Feeling disappointed, I fully opened the door and stepped[r]inside.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v628|
 [fc]
@@ -216,7 +216,7 @@ Beside me, with a frown on my face and my head tilted,[r]Yamagishi-san also had 
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v629|
 [fc]
@@ -238,7 +238,7 @@ Really...? Have you really smelled it before?[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v630|
 [fc]
@@ -262,7 +262,7 @@ No, it's not necessarily on the bed...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v631|
 [fc]
@@ -294,7 +294,7 @@ Shall we leave already...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v632|
 [fc]
@@ -327,7 +327,7 @@ What do you think, Yamagishi-san?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v633|
 [fc]
@@ -355,6 +355,6 @@ We turned off the lights in the gym storage room and left[r]the gymnasium.[pcms]
 
 ;;;[sysbt_meswin]
 
-;//[02071]ã¸
+;//[02071]‚Ö
 [jump target=*02071_TOP storage="02071.ks"]
 

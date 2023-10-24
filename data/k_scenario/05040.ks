@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05040ã€ä¸€éšæ•™å®¤ã€
-;//BG:ç„¡ã—
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05040wˆêŠK‹³ºx
+;//BG:–³‚µ
+;//“oêl•¨GålŒöE“µ
 
 *05040_TOP
-;[debug_win]ãªã†ã€€05040[debug_win_end]
-;*SceneSet|ã€ä¸€éšæ•™å®¤ã€
+;[debug_win]‚È‚¤@05040[debug_win_end]
+;*SceneSet|wˆêŠK‹³ºx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05040 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05040 = 1"]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 
 [bgm001]
 
@@ -51,7 +51,7 @@ The staircase remained pitch black, unchanged.[pcms]
 [ns]Kato[nse]
 Well, it's fine... It's not that far anyway, so let's just[r]keep going like this.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2026|
 [fc]
@@ -77,7 +77,7 @@ As soon as we started climbing the stairs, I felt someone[r]grab the waist of my
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2027|
 [fc]
@@ -109,7 +109,7 @@ I, who thought she would get angry, became flustered by the[r]unexpected sensati
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2028|
 [fc]
@@ -129,10 +129,10 @@ I didn't feel bad at all, in fact, I felt happy when Saeki,[r]who usually lectur
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 ;//blackout
 
-;//[05050]ã¸
+;//[05050]‚Ö
 [jump target=*05050_TOP storage="05050.ks"]

@@ -1,21 +1,21 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02173ã€å€‹å®¤ã§å„ªã¨ï¼”ã€
-;//BG:ç—…å®¤ï¼šå¤•æ–¹
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02173wŒÂº‚Å—D‚Æ‚Sx
+;//BG:•aºF—[•û
+;//“oêl•¨GålŒöE—D
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02173_H_TOP
-;[debug_win]ãªã†ã€€02173_H[debug_win_end]
+;[debug_win]‚È‚¤@02173_H[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02173 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02173 = 1"]
 
-;*SceneSet|ã€å€‹å®¤ã§å„ªã¨ï¼”ã€
+;*SceneSet|wŒÂº‚Å—D‚Æ‚Sx
 
-;//â™ªï¼šBGM011
+;//ôFBGM011
 
 ;//[bgm011]
 
@@ -71,7 +71,7 @@ Maybe I'm excited because I can become one with Yuu...[pcms]
 [fc]
 After our eyes met and our lips touched, Yuu guided my thing[r]inside her.[pcms]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 
 [se0 storage="se058"]
 
@@ -116,7 +116,7 @@ happy...[pcms]
 [fc]
 It seems that Yuu is not the type of girl who experiences[r]pain and is unable to continue until the end when she does[r]it for the first time, as I read in the book that Shinya[r]had.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 
 ;//[se0 storage="se059"]
 
@@ -188,7 +188,7 @@ Are you okay? It still hurts, doesn't it...?[pcms]
 [ns]Yamagishi[nse]
 Ugh... I'm... fine... probably...[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
 
 ;//[se0 storage="se060" loop=true]
 
@@ -268,7 +268,7 @@ My body began to heat up, and that heat was transmitted to[r]the hands that held
 At the same time, a sweet scent began to emanate from Yuu's[r]body.[l][er]
 I trailed my nose along her neck and inhaled that fragrance.[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@’x‚¢@’â~
 
 [stop_se0]
 
@@ -301,7 +301,7 @@ Muzumuzu, suru... ha, u...![pcms]
 [ns]Kato[nse]
 Yuu's chest is also starting to pound...[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
 
 ;//[se0 storage="se060"]
 
@@ -448,11 +448,11 @@ nghh! ... Aishi, teru...![pcms]
 [ns]Kato[nse]
 Yuu...!![pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@’x‚¢@’â~
 
 [stop_se0]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 ;//[se0 storage="se062"]
 
@@ -588,7 +588,7 @@ We stayed connected for a while, embracing each other,[r]feeling the warmth and 
 ;;;[sysbt_meswin clear]
 
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
@@ -599,7 +599,7 @@ We stayed connected for a while, embracing each other,[r]feeling the warmth and 
 
 ;//blackout
 
-;//[02174]ã¸
+;//[02174]‚Ö
 [jump target=*02174_H_TOP storage="02174_H.ks"]
 
 

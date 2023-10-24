@@ -1,21 +1,21 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02172ã€å€‹å®¤ã§å„ªã¨ï¼“ã€
-;//BG:ç—…å®¤ï¼šå¤•æ–¹
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02172wŒÂº‚Å—D‚Æ‚Rx
+;//BG:•aºF—[•û
+;//“oêl•¨GålŒöE—D
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02172_H_TOP
-;[debug_win]ãªã†ã€€02172_H[debug_win_end]
+;[debug_win]‚È‚¤@02172_H[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02172 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02172 = 1"]
 
-;*SceneSet|ã€å€‹å®¤ã§å„ªã¨ï¼“ã€
+;*SceneSet|wŒÂº‚Å—D‚Æ‚Rx
 
-;//â™ªï¼šBGM011
+;//ôFBGM011
 
 ;//[bgm011]
 
@@ -167,7 +167,7 @@ Yuu seemed to be ticklish with a delicate touch, so maybe a[r]slightly stronger 
 [fc]
 I thought so, as I trailed my lips from Yuu's neck down to[r]her chest, I reached out my hand towards Yuu's crotch.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 
 [se0 storage="se059"]
 
@@ -190,7 +190,7 @@ Could this be... the clitoris?[pcms]
 [fc]
 I stimulated that hard, swollen part with my finger, being[r]careful not to cause any pain.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 
 [se0 storage="se059"]
 
@@ -285,6 +285,6 @@ When I tried to move on top of Yuu, she pressed down on my[r]body and made me li
 Your legs must be hurting, right?[l][er]
 I'll get on top...[pcms]
 
-;//[02173]ã¸
+;//[02173]‚Ö
 [jump target=*02173_H_TOP storage="02173_H.ks"]
 

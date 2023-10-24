@@ -1,16 +1,16 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07330ã€ãƒªã‚µã‚’æ”¾ç½®ã€
-;//BG:äºŒå›å»Šä¸‹ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»æ„ŸæŸ“ãƒªã‚µ
+;//¡ËƒuƒƒbƒN07330wƒŠƒT‚ğ•ú’ux
+;//BG:“ñ‰ñ˜L‰ºF—[•ûFÁ“”
+;//“oêl•¨GålŒöE“µEŠ´õƒŠƒT
 
 *07330_TOP
-;[debug_win]ãªã†ã€€07330[debug_win_end]
-;*SceneSet|ã€ãƒªã‚µã‚’æ”¾ç½®ã€
+;[debug_win]‚È‚¤@07330[debug_win_end]
+;*SceneSet|wƒŠƒT‚ğ•ú’ux
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07330 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07330 = 1"]
 ;	/*
-;	;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼‘ï¼–ã€€è¡¨ç¤º
-;	;//â™ªï¼šBGM009
+;	;//flag:“µƒ‹[ƒgƒtƒ[@‚P‚U@•\¦
+;	;//ôFBGM009
 ;	[bgm009]
 ;	*/
 ;//;//BG:bg06b
@@ -26,7 +26,7 @@
 
 ;;;[sysbt_meswin]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3293|
 [fc]
@@ -53,7 +53,7 @@ Maybe, the teacher might have just been mentally shocked and[r]was just panickin
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3294|
 [fc]
@@ -61,7 +61,7 @@ Maybe, the teacher might have just been mentally shocked and[r]was just panickin
 [ns]Saeki[nse]
 Kato-san!! What's wrong!? If you're going to help Shindou-[r]sensei, do it quickly![pcms]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 *8213|
@@ -85,7 +85,7 @@ I have a bad feeling about something!![pcms]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3295|
 [fc]
@@ -97,7 +97,7 @@ Eh!?[pcms]
 [fc]
 Saeki grabbed my arm and tried to head towards the opposite[r]direction of where the teacher was, towards the rooftop.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3296|
 [fc]
@@ -110,7 +110,7 @@ Kato-san, what about Shindou-sensei!?[pcms]
 [ns]Kato[nse]
 Leave it and let's run!! I have a bad feeling about[r]something!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3297|
 [fc]
@@ -128,13 +128,13 @@ I'm the only one who knows that the teacher has become[r]strange.[pcms]
 [ns]Kato[nse]
 ...!![pcms]
 
-;ç«‹ã¡
-;ãƒªã‚µ
+;—§‚¿
+;ƒŠƒT
 [ChrSetEx layer=1 chbase="risa_e_e_01"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3298|
 [fc]
@@ -155,7 +155,7 @@ Shindou-sensei, who had quietly stood up without us[r]noticing, stared at us wit
 [ChrSetParts layer=1 chface="risa_e_e_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3299|
 [fc]
@@ -171,7 +171,7 @@ your dicks...[pcms]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3300|
 [fc]
@@ -241,16 +241,16 @@ I made sure not to look back at the teacher and shouted[r]loudly.[pcms]
 
 
 
-;//[07330]ã¸
+;//[07330]‚Ö
 ;//[jump target=*07330_TOP storage="07330.ks"]
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07330ã€å±‹ä¸Šã§ã€
-;//BG:å±‹ä¸Šï¼šå¤•æ–¹ï¼šæ¶ˆç¯
+;//¡ËƒuƒƒbƒN07330w‰®ã‚Åx
+;//BG:‰®ãF—[•ûFÁ“”
 [ns]Tanaka[nse]
 
 ;//[07330]
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 
 [bgm009]
 
@@ -266,14 +266,14 @@ I made sure not to look back at the teacher and shouted[r]loudly.[pcms]
 *8234|
 [fc]
 [ns]Kato[nse]
-Haa... haa... *[pcms]
+Haa... haa...  *[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3301|
 [fc]
@@ -292,7 +292,7 @@ Ah...[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3302|
 [fc]
@@ -300,7 +300,7 @@ Ah...[pcms]
 [ns]Saeki[nse]
 ...!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3303|
 [fc]
@@ -327,7 +327,7 @@ With that situation... my house too...[pcms]
 [ns]Kato[nse]
 Shit! What the hell... is that!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3304|
 [fc]
@@ -345,7 +345,7 @@ Both Saeki and I could do nothing but watch as the town[r]burned, feeling helple
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3305|
 [fc]
@@ -356,9 +356,9 @@ Kato-san...[pcms]
 *8241|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3306|
 [fc]
@@ -369,7 +369,7 @@ What should we do from now on...?[pcms]
 *8242|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
@@ -387,11 +387,11 @@ with the situation like that...[pcms]
 [fc]
 In a situation like this, what should I even say...[pcms]
 
-;//â™ªï¼šBGM0098ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM0098ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
-;//SE:æ‰‰ã‚’é–‹ã
+;//SE:”à‚ğŠJ‚­
 
 [se0 storage="se024"]
 
@@ -400,7 +400,7 @@ In a situation like this, what should I even say...[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3307|
 [fc]
@@ -436,7 +436,7 @@ I recognize those two...[pcms]
 [fc]
 It was Shinya and Yuuji, completely transformed...[pcms]
 
-;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM008ƒtƒF[ƒhƒCƒ“
 
 [bgm008]
 
@@ -445,7 +445,7 @@ It was Shinya and Yuuji, completely transformed...[pcms]
 [ChrSetParts layer=1 chface="tanaka_b_a_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std431|
 [fc]
 [ns]Tanaka[nse]
@@ -455,7 +455,7 @@ Haha, h-huh... There's someone here...[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std432|
 [fc]
 [ns]Takeuchi[nse]
@@ -469,7 +469,7 @@ it... let me lick that pussy...[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3308|
 [fc]
@@ -501,7 +501,7 @@ Saeki will absolutely not let those guys lay a finger on[r]her!![pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std433|
 [fc]
 [ns]Takeuchi[nse]
@@ -513,7 +513,7 @@ you...[pcms]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std434|
 [fc]
 [ns]Tanaka[nse]
@@ -524,14 +524,14 @@ come on, show her to me...[pcms]
 *8256|
 [fc]
 [ns]Takeuchi[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 [ChrSetEx layer=1 chbase="tanaka_b_a_10"]
 [ChrSetXY layer=1 x=160 y=0]
 [ChrSetParts layer=1 chface="tanaka_b_a_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std435|
 [fc]
 [ns]Tanaka[nse]
@@ -542,7 +542,7 @@ what the hell are you, you...[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std436|
 [fc]
 [ns]Takeuchi[nse]
@@ -559,7 +559,7 @@ Who do you think I am?! Have you all forgotten about me?![pcms]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std437|
 [fc]
 [ns]Tanaka[nse]
@@ -570,7 +570,7 @@ now...[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std438|
 [fc]
 [ns]Takeuchi[nse]
@@ -592,7 +592,7 @@ My two best friends, who have been my closest friends since[r]we were little, ar
 [ns]Kato[nse]
 Shinya! Yuuji! Damn it![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std439|
 [fc]
 [ns]Takeuchi[nse]
@@ -604,7 +604,7 @@ show it to me...[pcms]
 [ChrSetParts layer=1 chface="tanaka_b_a_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std440|
 [fc]
 [ns]Tanaka[nse]
@@ -620,7 +620,7 @@ The movements of those who were my best friends became just[r]a little faster, a
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3309|
 [fc]
@@ -630,7 +630,7 @@ Kyaaaah![pcms]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;mm ç«¹å†…ãŒæ˜ ã£ã¦ãªã„ã‹ã‚‰è²¼ã‚‹
+;mm ’|“à‚ª‰f‚Á‚Ä‚È‚¢‚©‚ç“\‚é
 [ChrSetEx layer=1 chbase="take_c_d_06"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
@@ -640,25 +640,25 @@ Kyaaaah![pcms]
 [ns]Kato[nse]
 Damn it! Shinya... I won't forgive you![pcms]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
 ;[flash_re]
 ;[bg storage="bg22b"]
 ;[trans_c cross time=150]
-[èµ¤ãƒ•ãƒ©]
+[Ôƒtƒ‰]
 
 [eval exp="f.chara_x = 100,f.chara_y = 0"]
 [quake_chara layer=1 lo xy m]
 
 ;//redflash
 
-;ç«‹ã¡
+;—§‚¿
 *std441|
 [fc]
 [ns]Takeuchi[nse]
 Ugh...[pcms]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [se0 storage="se021"]
 
 
@@ -675,7 +675,7 @@ Ugh...[pcms]
 [backlay_c][chara_int][trans_c cross time=150]
 
 
-;ç«‹ã¡
+;—§‚¿
 *std442|
 [fc]
 [ns]Tanaka[nse]
@@ -702,7 +702,7 @@ The two of them faced each other, glaring at each other, and[r]began to argue.[p
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std443|
 [fc]
 [ns]Tanaka[nse]
@@ -714,7 +714,7 @@ Isn't that right? You... fatty...[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std444|
 [fc]
 [ns]Takeuchi[nse]
@@ -723,9 +723,9 @@ sound... it's only... for me...[l][er]
 It's... you... who should go somewhere else...[l][er]
 Ughh...![pcms]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [flash_re]
 
 [bg storage="bg22b"]
@@ -738,15 +738,15 @@ Ughh...![pcms]
 [eval exp="f.chara_x = 160,f.chara_y = 0"]
 [quake_chara layer=1 lo x l]
 
-;ç«‹ã¡
+;—§‚¿
 *std445|
 [fc]
 [ns]Tanaka[nse]
 Guh... Kuh, so...[pcms]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [flash_re]
 
 [bg storage="bg22b"]
@@ -772,7 +772,7 @@ I've seen them argue before, but this is the first time I've[r]seen them actuall
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std446|
 [fc]
 [ns]Takeuchi[nse]
@@ -780,9 +780,9 @@ Ugh, ah... It's... only... for...[l][er]
 me... That... sound... It's...[l][er]
 you... who should go somewhere else...[pcms]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [flash_re]
 
 [bg storage="bg22b"]
@@ -800,15 +800,15 @@ you... who should go somewhere else...[pcms]
 [ChrSetParts layer=1 chface="tanaka_b_a_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std447|
 [fc]
 [ns]Tanaka[nse]
 Ugh...[pcms]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [flash_re]
 
 [bg storage="bg22b"]
@@ -851,7 +851,7 @@ You guys... stop... what are you doing...[pcms]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3310|
 [fc]
@@ -861,9 +861,9 @@ Nooo!! What are you doing?![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [flash_re]
 
 [bg storage="bg22b"]
@@ -885,7 +885,7 @@ It seems like Yuuji spits out words as if it were a signal.[pcms]
 [ChrSetParts layer=1 chface="tanaka_b_a_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std448|
 [fc]
 [ns]Tanaka[nse]
@@ -896,7 +896,7 @@ E... Kuso... De-bu ga yo...[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std449|
 [fc]
 [ns]Takeuchi[nse]
@@ -908,7 +908,7 @@ mo, u, do, koka, ike, yo...[pcms]
 [ChrSetParts layer=1 chface="tanaka_b_a_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std450|
 [fc]
 [ns]Tanaka[nse]
@@ -921,8 +921,8 @@ E... Kuso... De-bu ga yo...[pcms]
 [fc]
 Yuuji, who had been approaching Saeki so aggressively,[r]seemed tired from his fight with Shinya and returned to the[r]school building.[pcms]
 
-;//ï¼ æ‰æ¸•ï¼šä¸‹è¨˜ï¼³ï¼¥ãŒè¡¨ã«ãªã„ãŸã‚ã«ç¾åœ¨éŸ³ã‚’å¼µã£ã¦ã„ã¾ã›ã‚“ã€‚
-;//SE:ã‚¬ãƒ©ã‚¬ãƒ©
+;//—™ŸºF‰º‹L‚r‚d‚ª•\‚É‚È‚¢‚½‚ß‚ÉŒ»İ‰¹‚ğ’£‚Á‚Ä‚¢‚Ü‚¹‚ñB
+;//SE:ƒKƒ‰ƒKƒ‰
 [se0 storage="se024"]
 [quake_bg xy m]
 
@@ -939,7 +939,7 @@ And then, Shinya, who was left behind, had a creepy[r]expression similar to thos
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std451|
 [fc]
 [ns]Takeuchi[nse]
@@ -1006,7 +1006,7 @@ Unable to see the one who was once my best friend properly,[r]I quickly tried to
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3311|
 [fc]
@@ -1022,9 +1022,9 @@ Kato-san!![pcms]
 Uaaaahhh!! Get out!! Get out of here!![l][er]
 Damn it!![pcms]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [flash_re]
 
 [bg storage="bg22b"]
@@ -1038,16 +1038,16 @@ Damn it!![pcms]
 ;//redflash
 
 
-;ç«‹ã¡
+;—§‚¿
 *std452|
 [fc]
 [ns]Takeuchi[nse]
 O... Ah, ah, ah... W-what... s-stop...[l][er]
 it...[pcms]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [flash_re]
 [bg storage="bg22b"]
 [trans_c cross time=150]
@@ -1070,14 +1070,14 @@ I struck it over and over again with all my might, finally[r]driving it away to 
 I can drive Shinya away from here with just one more step.[l][er]
 I put all my strength into my body and prepared to deliver[r]the final blow.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std453|
 [fc]
 [ns]Takeuchi[nse]
 Guh... Kuh, so... on, na... yo, kose...[l][er]
 , so, ko, doke...[pcms]
 
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [flash_re]
 
 [bg storage="bg22b"]
@@ -1106,15 +1106,15 @@ an animal![pcms]
 [ns]Kato[nse]
 Dammit!! Shit!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std454|
 [fc]
 [ns]Takeuchi[nse]
 S-stop... ah... uh...[pcms]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [flash_re]
 
 [bg storage="bg22b"]
@@ -1129,7 +1129,7 @@ S-stop... ah... uh...[pcms]
 With anger stemming from the pain and a single-minded desire[r]to protect Saeki, I delivered a punch with an unexpectedly[r]strong force.[l][er]
 Shinya staggered and went outside.[pcms]
 
-;//SE:æ‰‰ã‚’é–‰ã‚ã‚‹ï¼ˆå‹¢ã„ã‚ˆãï¼‰
+;//SE:”à‚ğ•Â‚ß‚éi¨‚¢‚æ‚­j
 [se0 storage="se010"]
 
 *8300|
@@ -1137,7 +1137,7 @@ Shinya staggered and went outside.[pcms]
 [ns]Kato[nse]
 Finally... outside...[pcms]
 
-;//SE:æ‰‰ã‚’å©ãéŸ³ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:”à‚ğ’@‚­‰¹@ƒ‹[ƒv
 [se0 storage="se027" loop=true]
 
 *8301|
@@ -1198,7 +1198,7 @@ I might not be able to endure it anymore...[pcms]
 [ChrSetParts layer=1 chface="sae_c_d_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3312|
 [fc]
@@ -1240,7 +1240,7 @@ This is not the place for you to come![pcms]
 [ChrSetParts layer=1 chface="sae_c_d_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3313|
 [fc]
@@ -1257,10 +1257,10 @@ Ugh... w-what... what the hell...[l][er]
 being left alone like this... damn...[l][er]
 damn it... shi-it...[pcms]
 
-;//SE:æ‰‰ã‚’å©ãéŸ³ã€€åœæ­¢
+;//SE:”à‚ğ’@‚­‰¹@’â~
 [stop_se0]
 
-;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM008ƒtƒF[ƒhƒAƒEƒg
 [fadeoutbgm time=500]
 
 *8318|
@@ -1271,7 +1271,7 @@ Ku... so... ku, s-so...[pcms]
 *8319|
 [fc]
 [ns]Takeuchi[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *8320|
 [fc]
@@ -1286,5 +1286,5 @@ Shinya continued to hurl insults at us for a while, but his[r]voice gradually fa
 
 
 
-;//[07340]ã¸
+;//[07340]‚Ö
 [jump target=*07340_TOP storage="07340.ks"]

@@ -1,27 +1,27 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04005ã€ç™ºç—‡ã€
-;//BG:ä½“è‚²ç”¨å…·å®¤ï¼šæœï¼ç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»æœ‹ç¾ãƒ»ã‚¾ãƒ³ãƒ“æ•°å
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04005w”­Çx
+;//BG:‘Ìˆç—p‹ïºF’©^“_“”
+;//“oêl•¨GålŒöE—DE•ü”üEƒ]ƒ“ƒr”–¼
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04005_H_TOP
-;[debug_win]ãªã†ã€€04005_H[debug_win_end]
+;[debug_win]‚È‚¤@04005_H[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04005 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04005 = 1"]
 
-;*SceneSet|ã€ç™ºç—‡ã€
+;*SceneSet|w”­Çx
 
-;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€badï¼‘ã€€è¡¨ç¤º
+;//flag:—Dƒ‹[ƒgƒtƒ[@bad‚P@•\¦
 
-;//flag:å®´ã‚’è¦‹ã‚‹ã€€on
+;//flag:‰ƒ‚ğŒ©‚é@on
 
 [eval exp="sf.g_banqest = 1"]
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 [bgm004]
 
@@ -52,7 +52,7 @@ However, I don't feel any pain at all, and I can move it[r]normally.[pcms]
 I don't care about my arm... I just want to do it...[l][er]
 Until the two of them tell me to stop, I'll keep going[r]inside.[pcms]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 
 [se0 storage="se026"]
 
@@ -81,7 +81,7 @@ H-huff... I'm exhausted... aah~...[pcms]
 [ns]Male Student L[nse]
 M-mo... more... more women...[pcms]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 
 [se0 storage="se008"]
 
@@ -109,7 +109,7 @@ Hehe... I'll keep going inside until I'm satisfied...[pcms]
 
 ;;;[sysbt_meswin]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
@@ -138,7 +138,7 @@ it's too much for me... please, let's not do this...[pcms]
 [fc]
 I thrust my own thing into Yamagishi-san's place, who was[r]underneath the girls who were inviting me eagerly.[pcms]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 
 [overflow_se storage="se058"]
 
@@ -301,11 +301,11 @@ ngh... Kato-kun... it's because of you...[l][er]
 I feel so much... ah, ughhh...[l][er]
 I want more...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [overflow_se storage="se062"]
 
@@ -361,7 +361,7 @@ let it... out... feels so gooood...![pcms]
 [fc]
 I thrust my hips forward, pushing the object until I felt[r]the wall with its tip, and then I ejaculated my semen.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 
 [se0 storage="se059"]
 
@@ -389,7 +389,7 @@ I couldn't hold back anymore, and I poured everything that[r]had built up inside
 [ns]Kato[nse]
 Ugh, ah...[pcms]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -477,7 +477,7 @@ Fuh, heh...[pcms]
 Both the woman underneath and this woman are such perverts.[l][er]
 They're so hungry for a man that they would seduce a[r]complete stranger like me and beg for my cock.[pcms]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 
 [se0 storage="se058"]
 
@@ -522,11 +522,11 @@ When I inserted it into the woman earlier, I came before[r]even thrusting my coc
 [fc]
 This time, I pounded the woman's pussy relentlessly until it[r]broke.[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [se0 storage="se061" loop=true]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se1 storage="se059" loop=true]
 
@@ -561,7 +561,7 @@ The mixture of another man's semen and this woman's love[r]juices, which were sc
 [fc]
 The sight of such obscene scene, the sensation on my cock,[r]and the scent of female arousal emanating from her pussy[r]with each thrust, only heightened my excitement and[r]intensified the movement of my hips.[pcms]
 
-;//ï¼ æ‰æ¸•ï¼šã‹ã¨ã†â†’ã‚„ã™ã‚†ã
+;//—™ŸºF‚©‚Æ‚¤¨‚â‚·‚ä‚«
 
 *v1546|
 [fc]
@@ -616,15 +616,15 @@ I couldn't hold back and ejaculated, releasing my semen deep[r]inside the woman'
 [ns]Kato[nse]
 Ah, gu...![pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se0]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se1]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [overflow_se storage="se062"]
 
@@ -728,32 +728,32 @@ Ahh... I'm... hungry...[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;BGMåœæ­¢
+;BGM’â~
 [fadeoutbgm time=500]
 
 ;//blackout
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn16 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn16 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
-;//â€»ã‚²ãƒ¼ãƒ ã‚ªãƒ¼ãƒãƒ¼
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//¦ƒQ[ƒ€ƒI[ƒo[
 
 ;;;[sysbt_meswin clear]
 
@@ -766,7 +766,7 @@ Ahh... I'm... hungry...[pcms]
 	[jump target=*BADEND]
 [endif]
 
-;ã“ã“ã¯sf.banqestè¸ã‚€ã‹ã‚‰ã‚ã£ã¦ã‚‹
+;‚±‚±‚Ísf.banqest“¥‚Ş‚©‚ç‚ ‚Á‚Ä‚é
 [call storage="movie_sub.ks" target=*badend_open]
 
 [eval exp="sf.g_badend3 = 1"]

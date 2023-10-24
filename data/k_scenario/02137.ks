@@ -1,19 +1,19 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02137ã€çŠ¶æ³èª¬æ˜ã€
-;//BG:äºŒéšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰å‰ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µãƒ»å„ªãƒ»åŠ è—¤
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02137wó‹µà–¾x
+;//BG:“ñŠK˜L‰ºFƒoƒŠƒP[ƒh‘OF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöEƒŠƒTE—DE‰Á“¡
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02137_TOP
-;[debug_win]ãªã†ã€€02137[debug_win_end]
+;[debug_win]‚È‚¤@02137[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02137 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02137 = 1"]
 
-;*SceneSet|ã€çŠ¶æ³èª¬æ˜ã€
+;*SceneSet|wó‹µà–¾x
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 [bgm007]
 
@@ -36,7 +36,7 @@ Are you okay? Are you injured?[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v977|
 [fc]
@@ -58,7 +58,7 @@ Her hand, belonging to Yamagishi-san, was trembling[r]slightly.[pcms]
 [ns]Kato[nse]
 Why did you open the door! Did you think it was Yamagishi-[r]san!?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v978|
 [fc]
@@ -88,7 +88,7 @@ I was glad that Yamagishi-san was worried about me, but I[r]felt complicated bec
 [ChrSetXY layer=1 x=130 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v979|
 [fc]
@@ -103,7 +103,7 @@ What you heard was the sound from that moment.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v980|
 [fc]
@@ -115,7 +115,7 @@ The car...? So, leaving the school...[pcms]
 [ChrSetXY layer=1 x=130 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v981|
 [fc]
@@ -129,7 +129,7 @@ But thanks to that, we have learned that the people who are[r]trying to attack u
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v982|
 [fc]
@@ -155,7 +155,7 @@ What's wrong? Are you also afraid of fire?[pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std277|
 [fc]
 [ns]Takeuchi[nse]
@@ -175,7 +175,7 @@ I approached Shinya while spinning the torch I had in my[r]hand.[pcms]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std278|
 [fc]
 [ns]Takeuchi[nse]
@@ -199,7 +199,7 @@ Huh, it went out...[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v983|
 [fc]
@@ -211,7 +211,7 @@ It seems like the cloth wrapped around this torch hasn't[r]been soaked in oil ye
 [fc]
 When I looked at Shindou-sensei, the fire of her torch had[r]also mysteriously gone out.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v984|
 [fc]
@@ -229,5 +229,5 @@ With this, the power balance between us and the ones we had[r]just managed to tu
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//[02138]ã¸
+;//[02138]‚Ö
 [jump target=*02138_TOP storage="02138.ks"]

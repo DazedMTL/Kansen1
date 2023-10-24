@@ -1,42 +1,42 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08180ã€å„ªã¨éŠã¶ã€
-;//;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»ç«¹å†…ãƒ»ãƒªã‚µãƒ»ç”°ä¸­ãƒ»æœ‹ç¾
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN08180w—D‚Æ—V‚Ôx
+;//;//BG:“n‚è˜L‰ºF–éFÁ“”
+;//“oêl•¨FålŒöE’|“àEƒŠƒTE“c’†E•ü”ü
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *08180_H_TOP
-;[debug_win]ãªã†ã€€08180_H[debug_win_end]
+;[debug_win]‚È‚¤@08180_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 ;[if exp="tf.scene_mode == 0"][jump target=*08180][endif]
 ;[winset]
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
 [bgm001]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *08180
 
-;*SceneSet|ã€å„ªã¨éŠã¶ã€
+;*SceneSet|w—D‚Æ—V‚Ôx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08180 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08180 = 1"]
 
-;//flag:ä¸»äººå…¬æ„ŸæŸ“ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼’ã€€è¡¨ç¤º
-;//flag:å„ªã€€on
+;//flag:ålŒöŠ´õƒ‹[ƒgƒtƒ[@‚Q@•\¦
+;//flag:—D@on
 
 [eval exp="f.YUU_F = 1"]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 
 ;//[bgm001]
 
@@ -70,7 +70,7 @@ Once we find them, let's have sex and have some fun![pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3603|
 [fc]
@@ -87,7 +87,7 @@ Igarashi-san! Let's go search together!![pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std664|
 [fc]
 [ns]Takeuchi[nse]
@@ -98,9 +98,9 @@ Let's meet up later at the entrance.[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;//æ‰æ¸•ï¼šç«¹å†…ã•ã‚“â†’ç«¹å†…å›
+;//™ŸºF’|“à‚³‚ñ¨’|“àŒN
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3604|
 [fc]
@@ -114,7 +114,7 @@ I'll be with Takeuchi-kun.[pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std665|
 [fc]
 [ns]Takeuchi[nse]
@@ -131,7 +131,7 @@ Huh? Is that wrong too? Where was it again...[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3605|
 [fc]
@@ -149,7 +149,7 @@ I wonder what it is... What's wrong with me?[pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3606|
 [fc]
@@ -172,7 +172,7 @@ Alright, let's go!![pcms]
 I'm starting to feel excited for some reason!![l][er]
 Let's go quickly and search for Yamagishi-san!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3607|
 [fc]
@@ -182,7 +182,7 @@ Ah! Wait up!![pcms]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*08190_H_TOP storage="08190_H.ks"]
 
 

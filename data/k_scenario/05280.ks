@@ -1,17 +1,17 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05280ã€å­¦é£Ÿã€
-;//;//BG:å­¦é£Ÿï¼šæœ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN05280wŠwHx
+;//;//BG:ŠwHF’©
+;//“oêl•¨GålŒöE“µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *05280_TOP
-;[debug_win]ãªã†ã€€05280[debug_win_end]
-;*SceneSet|ã€å­¦é£Ÿã€
+;[debug_win]‚È‚¤@05280[debug_win_end]
+;*SceneSet|wŠwHx
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 
 [bgm001]
 
@@ -20,7 +20,7 @@
 [bg storage="bg14a"]
 [trans_c cross time=500]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05280 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05280 = 1"]
 
 
 
@@ -44,7 +44,7 @@ Was there anything that we can eat right away?[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2164|
 [fc]
@@ -63,7 +63,7 @@ So, how about bread and milk?[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2165|
 [fc]
@@ -81,7 +81,7 @@ Well, it is morning. Or should Saeki make something?[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2166|
 [fc]
@@ -98,7 +98,7 @@ In fact, it's so delicious that I would even say it's[r]amazing.[pcms]
 [fc]
 I was curious about what kind of breakfast Saeki would make,[r]and if she could make something other than fried rice.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2167|
 [fc]
@@ -113,7 +113,7 @@ would you eat it?[pcms]
 Of course. I'll eat everything without leaving a single[r]bite.[l][er]
 So, what are you going to make today?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2168|
 [fc]
@@ -128,13 +128,13 @@ It's not like I want to make something for you or anything[r]like that![pcms]
 What, you're not going to make anything?[l][er]
 I had high hopes because the fried rice I ate yesterday was[r]delicious.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2169|
 [fc]
 [vo_sa s="sae0436"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
@@ -145,7 +145,7 @@ Hitomi blushed and headed towards the refrigerator in the[r]back of the kitchen 
 *5209|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5210|
 [fc]
@@ -169,7 +169,7 @@ Yesterday, I entered this place to wash the dishes, but I[r]didn't thoroughly lo
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2170|
 [fc]
@@ -202,9 +202,9 @@ I noticed that there was something like a door on the floor[r]in the corner of t
 I wonder if it leads to places like the sewer or boiler[r]room...[l][er]
 But if that's the case, it's not locked...[pcms]
 
-;//ï¼ æ‰æ¸•ï¼šä¸‹è¨˜ï¼³ï¼¥ãŒè¡¨ã«ãªã„ãŸã‚ã«ç¾åœ¨éŸ³ã‚’å¼µã£ã¦ã„ã¾ã›ã‚“ã€‚
+;//—™ŸºF‰º‹L‚r‚d‚ª•\‚É‚È‚¢‚½‚ß‚ÉŒ»İ‰¹‚ğ’£‚Á‚Ä‚¢‚Ü‚¹‚ñB
 
-;//SE:ãƒãƒ³
+;//SE:ƒoƒ“
 
 ;//[se0 storage="se045"]
 
@@ -236,5 +236,5 @@ Hey! Saeki! Come over here for a moment!![pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05290]ã¸
+;//[05290]‚Ö
 [jump target=*05290_TOP storage="05290.ks"]

@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02081ã€ãã£ã¨ã—ã¦ãŠãã€
-;//BG:è¦–è´è¦šå®¤ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»ç«¹å†…ãƒ»ç³
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02081w‚»‚Á‚Æ‚µ‚Ä‚¨‚­x
+;//BG:‹’®ŠoºF–éF“_“”
+;//“oêl•¨GålŒöE—DEƒŠƒTE’|“àE“µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02081_TOP
-;[debug_win]ãªã†ã€€02081[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02081 = 1"]
+;[debug_win]‚È‚¤@02081[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02081 = 1"]
 
-;*SceneSet|ã€ãã£ã¨ã—ã¦ãŠãã€
+;*SceneSet|w‚»‚Á‚Æ‚µ‚Ä‚¨‚­x
 
 ;//[02081]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg015c
 ;//[bg storage="bg15c"]
@@ -30,7 +30,7 @@ Did something happen?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v705|
 [fc]
@@ -51,6 +51,6 @@ Saeki seems really worn out, and I'm starting to feel sorry[r]for her.[pcms]
 [fc]
 If it's like this, instead of dividing the tasks among the[r]three of us, it would have been better if we all searched[r]together...[pcms]
 
-;//[02082]ã¸
+;//[02082]‚Ö
 [jump target=*02082_TOP storage="02082.ks"]
 

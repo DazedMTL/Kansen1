@@ -1,55 +1,55 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0100ã€å²¸ç”°ã®æ€§å¥´éš·ãƒ»ãƒªã‚µã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹
-;//EVENT;//BG:å­¦åœ’è£ãƒ»å£æ²¿ã„ãƒ»èŒ‚ã¿ã®ä¸­ï¼šå¤•æ–¹/å¤œã«ãªã‚Šã‹ã‘
-;//ç™»å ´äººç‰©ï¼›ãƒªã‚µãƒ»å²¸ç”°ãƒ»ç«¹å†…
-;//è¦–ç‚¹ï¼šãƒªã‚µ
-;//â˜…ï¼¨EVENT_003ã€€ã€æ€§å¥´éš·/ç›—æ’®ã€ä½“ä½ï¼šç«‹ã¡ãƒãƒƒã‚¯
-;//è‚¡é–“ã«ã¯ãƒ”ãƒ³ã‚¯ãƒ­ãƒ¼ã‚¿ãƒ¼ã€å²¸ç”°ã¯ã‚¢ãƒŠãƒ«ã«æŒ¿å…¥
-;//ç”»è§’ï¼šå£ã«åŸ‹ã‚è¾¼ã¾ã‚ŒãŸã¨ä»®å®šã—ãŸã‚«ãƒ¡ãƒ©ã‹ã‚‰ã®ã‚¢ãƒ³ã‚°ãƒ«æ‰‹å‰ã«å·®åˆ†ã¨ã—ã¦ã€èŒ‚ã¿ã‚’è¡¨ç¾ã€‚
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN0100wŠİ“c‚Ì«“z—êEƒŠƒTx
+;//BG:“Áê‹³º˜L‰º
+;//EVENT;//BG:Šw‰€— E•Ç‰ˆ‚¢E–Î‚İ‚Ì’†F—[•û/–é‚É‚È‚è‚©‚¯
+;//“oêl•¨GƒŠƒTEŠİ“cE’|“à
+;//‹“_FƒŠƒT
+;//š‚gEVENT_003@w«“z—ê/“Bx‘ÌˆÊF—§‚¿ƒoƒbƒN
+;//ŒÒŠÔ‚É‚Íƒsƒ“ƒNƒ[ƒ^[AŠİ“c‚ÍƒAƒiƒ‹‚É‘}“ü
+;//‰æŠpF•Ç‚É–„‚ß‚Ü‚ê‚½‚Æ‰¼’è‚µ‚½ƒJƒƒ‰‚©‚ç‚ÌƒAƒ“ƒOƒ‹è‘O‚É·•ª‚Æ‚µ‚ÄA–Î‚İ‚ğ•\Œ»B
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *0100_H_TOP
-;[debug_win]ãªã†ã€€0100_H[debug_win_end]
+;[debug_win]‚È‚¤@0100_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [eval exp="sf.SRP02 = 1"][if exp="tf.scene_mode == 0"][jump target=*0100][endif]
 ;;[winset]
-;mm ã‚¤ãƒ™ãƒ³ãƒˆã‹ã‚‰ã«ã™ã‚‹
+;mm ƒCƒxƒ“ƒg‚©‚ç‚É‚·‚é
 [jump target=*scene_start]
 
 
 
 ;;;[sysbt_meswin]
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *0100
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0100 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0100 = 1"]
 
-;*SceneSet|ã€å²¸ç”°ã®æ€§å¥´éš·ãƒ»ãƒªã‚µã€
+;*SceneSet|wŠİ“c‚Ì«“z—êEƒŠƒTx
 
 [bgm007]
 
-;//flag:ãƒªã‚µã¨å²¸ç”°ã®ã‚¢ã‚ªã‚«ãƒ³ã€€on
+;//flag:ƒŠƒT‚ÆŠİ“c‚ÌƒAƒIƒJƒ“@on
 
 [eval exp="f.AOKAN = 1"]
 
-;//flag:ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ãƒ•ãƒ­ãƒ¼ã€€zapï¼‘ã€€è¡¨ç¤º
+;//flag:ƒvƒƒ[ƒOƒtƒ[@zap‚P@•\¦
 ;//BG:bg004b
 [bg storage="bg04b"]
 [trans_c cross time=500]
 
-;//â€»æºœæ¯
+;//¦—­‘§
 
 *v293|
 [fc]
@@ -67,7 +67,7 @@ I was heading towards the location specified by Kishida,[r]while feeling a heavy
 
 ;	;;;[sysbt_meswin clear]
 ;
-;mm æš—è»¢ã‚¤ã‚­ã«
+;mm ˆÃ“]ƒCƒL‚É
 	[black_toplayer][trans_c cross time=1001][hide_chara_int]
 ;
 ;
@@ -76,7 +76,7 @@ I was heading towards the location specified by Kishida,[r]while feeling a heavy
 ;
 ;	*/
 
-;//BG:bgç†ç§‘æº–å‚™å®¤ã€€ã‚»ãƒ”ã‚¢
+;//BG:bg—‰È€”õº@ƒZƒsƒA
 
 
 [bg storage="bg18a_s"]
@@ -86,7 +86,7 @@ I was heading towards the location specified by Kishida,[r]while feeling a heavy
 [ChrSetXY layer=1 x=140 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *767|
 [fc]
@@ -108,7 +108,7 @@ Yes...[pcms]
 [ChrSetXY layer=1 x=80 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std151|
 [fc]
 [ns]Kishida[nse]
@@ -144,7 +144,7 @@ However, Kishida's current target is none other than the[r]students.[pcms]
 [ChrSetXY layer=1 x=80 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std152|
 [fc]
 [ns]Kishida[nse]
@@ -171,7 +171,7 @@ I beg you.[pcms]
 [ChrSetParts layer=1 chface="spi_kisi_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std153|
 [fc]
 [ns]Kishida[nse]
@@ -199,7 +199,7 @@ Normal human common sense doesn't apply to this beast.[pcms]
 [ChrSetXY layer=1 x=140 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std154|
 [fc]
 [ns]Kishida[nse]
@@ -210,7 +210,7 @@ Today, I'll give you a good dose of ass![pcms]
 [fc]
 Kishida stood up with a vulgar laugh, and he came around[r]behind me, pressing his hardened genitals against me while[r]playing with my breasts, whispering in my ear.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std155|
 [fc]
 [ns]Kishida[nse]
@@ -234,7 +234,7 @@ I turned my face away, feeling sick in my chest from[r]Kishida's foul breath blo
 [ChrSetParts layer=1 chface="spi_kisi_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std156|
 [fc]
 [ns]Kishida[nse]
@@ -296,7 +296,7 @@ as a masochist, I haven't rejected him.[pcms]
 On the contrary, deep in my heart, I accept him.[l][er]
 Just like Kishida, I am also like a beast...[pcms]
 
-;//BG:bgã€€EVENTèƒŒæ™¯åŠ å·¥ã€€ï¼ï¼ï¼”
+;//BG:bg@EVENT”wŒi‰ÁH@‚O‚O‚S
 
 [bg storage="bg60"]
 [trans_c cross time=500]
@@ -317,7 +317,7 @@ I don't like Kishida's face. However, my feelings are[r]growing stronger for the
 [fc]
 I don't want Kishida to realize that if possible.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std157|
 [fc]
 [ns]Kishida[nse]
@@ -334,7 +334,7 @@ I'm sorry...[pcms]
 [ChrSetParts layer=1 chface="spi_kisi_a_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std158|
 [fc]
 [ns]Kishida[nse]
@@ -351,7 +351,7 @@ I'm sorry...[pcms]
 [ChrSetParts layer=1 chface="spi_kisi_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std159|
 [fc]
 [ns]Kishida[nse]
@@ -368,7 +368,7 @@ Yes, Kishida-sama...[pcms]
 [ChrSetXY layer=1 x=140 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std160|
 [fc]
 [ns]Kishida[nse]
@@ -396,7 +396,7 @@ Is this... alright?[pcms]
 [ChrSetXY layer=1 x=140 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std161|
 [fc]
 [ns]Kishida[nse]
@@ -408,7 +408,7 @@ Nufu... Next, open the front of your shirt![pcms]
 [ns]Shindou[nse]
 Yes...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std162|
 [fc]
 [ns]Kishida[nse]
@@ -450,7 +450,7 @@ Even more so, the fact that my abnormal sexual preferences[r]do not reject it is
 [ChrSetXY layer=1 x=140 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std163|
 [fc]
 [ns]Kishida[nse]
@@ -465,7 +465,7 @@ As Kishida, with an excited expression, brought his face[r]closer and I felt his
 [ChrSetParts layer=1 chface="spi_kisi_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std164|
 [fc]
 [ns]Kishida[nse]
@@ -485,7 +485,7 @@ Ah...[pcms]
 [ChrSetXY layer=1 x=140 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std165|
 [fc]
 [ns]Kishida[nse]
@@ -497,7 +497,7 @@ Yeah, that's right![pcms]
 Kishida seemed even more excited by my embarrassed[r]expression as I frowned and averted my face from exposing my[r]skin outdoors.[l][er]
 His crotch was already stiff, bulging and straining against[r]his sweatpants.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std166|
 [fc]
 [ns]Kishida[nse]
@@ -510,7 +510,7 @@ Alright, put your hands on the wall and stick your butt out![pcms]
 Yes...[pcms]
 
 
-;//H_CGè¡¨ç¤º
+;//H_CG•\¦
 
 ;;;[sysbt_meswin clear]
 
@@ -541,7 +541,7 @@ I-I'm sorry...[pcms]
 You're shaking that ass and tempting the male students,[r]aren't you?![l][er]
 Hey! You female pig![pcms]
 
-;//SE:å¹³æ‰‹
+;//SE:•½è
 [se0 storage="se048"]
 
 ;//redflash
@@ -576,7 +576,7 @@ Ugh... Ha...[pcms]
 [fc]
 As I tried to speak, Kishida hit my butt even harder.[pcms]
 
-;//SE:å¹³æ‰‹
+;//SE:•½è
 [se0 storage="se048"]
 
 ;//redflash
@@ -617,7 +617,7 @@ Ngh! ... I'm sorry... Please forgive me...[pcms]
 [ns]Kishida[nse]
 Hmm? I can't hear you![pcms]
 
-;//SE:å¹³æ‰‹
+;//SE:•½è
 [se0 storage="se048"]
 
 ;//redflash
@@ -627,7 +627,7 @@ Hmm? I can't hear you![pcms]
 [evcg storage="HEV_003_c"]
 [trans_c cross time=500]
 
-;//SE:å¹³æ‰‹
+;//SE:•½è
 [se0 storage="se048"]
 
 ;//redflash
@@ -734,7 +734,7 @@ Kishida inserted two vibrators deep into my genitals, then[r]stood up and leaned
 [ns]Kishida[nse]
 Nuffu... Do your best, okay? Hey![pcms]
 
-;//SE:ãƒ­ãƒ¼ã‚¿ãƒ¼ã®éŸ³
+;//SE:ƒ[ƒ^[‚Ì‰¹
 [overflow_se storage="se063" loop=true]
 
 *v316|
@@ -981,7 +981,7 @@ S-Stop...![pcms]
 Hey! If you make a loud noise, the judo club guys will come[r]running![l][er]
 Are you okay with being seen?![pcms]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 [se1 storage="se058"]
 
 ;//whiteflash
@@ -1084,7 +1084,7 @@ it hurts...[pcms]
 [ns]Kishida[nse]
 Nnffu![pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
 [se1 storage="se060" loop=true]
 
 *862|
@@ -1154,7 +1154,7 @@ Ahh... Ah, ha... Ku-a, hau, n...![pcms]
 [fc]
 The discomfort of something crawling and the dull numbness[r]gradually merge and become a lukewarm numbness.[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 [se1 storage="se061" loop=true]
 
 *v344|
@@ -1262,15 +1262,15 @@ N-No... if you ask me... I-I...[l][er]
 hii![pcms]
 
 
-;mm ãƒ­ãƒ¼ã‚¿ãƒ¼æ­¢ã¾ã‚‹ãŒä»•æ–¹ãªã„
-;//SE:ã‚¬ã‚µã‚¬ã‚µ
+;mm ƒ[ƒ^[~‚Ü‚é‚ªd•û‚È‚¢
+;//SE:ƒKƒTƒKƒT
 [se0 storage="se020"]
 
 *878|
 [fc]
 ...?[pcms]
 
-;//SE:å¿ƒæ‹éŸ³
+;//SE:S”‰¹
 [se0 storage="se003"]
 
 *879|
@@ -1360,7 +1360,7 @@ Nuaaahh!![pcms]
 [stop_overflow_se]
 [stop_se1]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 [se0 storage="se062"]
 
 ;;;[sysbt_meswin clear]
@@ -1437,7 +1437,7 @@ Along with that, the ejaculated semen inside my intestines[r]leaks out from my a
 [fc]
 [vo_ri s="risa0089"]
 [ns]Shindou[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *893|
 [fc]
@@ -1524,7 +1524,7 @@ Kishida walked away, laughing vulgarly as if mocking me for[r]falling for it.[pc
 [fc]
 [vo_ri s="risa0095"]
 [ns]Shindou[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *902|
 [fc]
@@ -1540,7 +1540,7 @@ And above all, I was frustrated with myself for surrendering[r]to pleasure...[l]
 Being tormented by that man and accepting that pleasure, I[r]was angry at myself...[pcms]
 
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
@@ -1557,25 +1557,25 @@ Being tormented by that man and accepting that pleasure, I[r]was angry at myself
 
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
 
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn02 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn02 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;//[0027]ï¼ˆãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ãƒ»æœ¬ãƒ«ãƒ¼ãƒˆï¼‰ã¸
+;//[0027]iƒvƒƒ[ƒOE–{ƒ‹[ƒgj‚Ö
 
 ;[black_toplayer][trans_c random][hide_chara_int]
 [zapfade]

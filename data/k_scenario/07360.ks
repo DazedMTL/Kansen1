@@ -1,24 +1,24 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07360ã€è‡ªæ®ºã€
-;//BG:å±‹ä¸Šï¼šå¤•æ–¹ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN07360w©Ex
+;//BG:‰®ãF—[•ûFÁ“”
+;//“oêl•¨GålŒöE“µ
 
 *07360_TOP
-;[debug_win]ãªã†ã€€07360[debug_win_end]
-;*SceneSet|ã€è‡ªæ®ºã€
+;[debug_win]‚È‚¤@07360[debug_win_end]
+;*SceneSet|w©Ex
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07360 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07360 = 1"]
 
 ;	/*
-;	;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€badendï¼•ï¼ˆbadï¼•ï¼‰è¡¨ç¤ºã€€
-;	;//SE:ã‚µã‚¤ãƒ¬ãƒ³ã€€ãƒ«ãƒ¼ãƒ—
+;	;//flag:“µƒ‹[ƒgƒtƒ[@badend‚Tibad‚Tj•\¦@
+;	;//SE:ƒTƒCƒŒƒ“@ƒ‹[ƒv
 ;	[se1 storage="se051" loop=true]
 ;	*/
 
-;//SE:ãƒ˜ãƒªã‚³ãƒ—ã‚¿ãƒ¼ã®éŸ³ã€€è¿‘ã„
+;//SE:ƒwƒŠƒRƒvƒ^[‚Ì‰¹@‹ß‚¢
 [se0 storage="se034"]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [overflow_se storage="se021"]
 [quake_bg xy m]
 
@@ -56,7 +56,7 @@ The barricade must have been broken, as a bunch of strange[r]guys are approachin
 Ah...[pcms]
 O, n, na[l][er]
 
-;//SE:éŠƒå£°ï¼ˆãƒ©ã‚¤ãƒ•ãƒ«ï¼‰
+;//SE:eºiƒ‰ƒCƒtƒ‹j
 [se0 storage="se038"]
 
 [evcg storage="EV_140_d"]
@@ -85,7 +85,7 @@ Saeki will forever be my girlfriend.[pcms]
 [ns]Male Student P[nse]
 What... just happened...[pcms]
 
-;//SE:éŠƒå£°ï¼ˆãƒ©ã‚¤ãƒ•ãƒ«ï¼‰
+;//SE:eºiƒ‰ƒCƒtƒ‹j
 [se0 storage="se038"]
 
 [evcg storage="EV_140_e"]
@@ -106,10 +106,10 @@ Saeki's hand, which was tightly clenched, gradually[r]loosened...[pcms]
 
 *8473|
 [fc]
-[ns]Male Student Î©[nse]
+[ns]Male Student ƒ¶[nse]
 C-Can you see it...?[pcms]
 
-;//SE:éŠƒå£°ï¼ˆãƒ©ã‚¤ãƒ•ãƒ«ï¼‰
+;//SE:eºiƒ‰ƒCƒtƒ‹j
 [se0 storage="se038"]
 
 [evcg storage="EV_140_f"]
@@ -195,13 +195,13 @@ Shi, se, nna, on, na, datto, tano, ni, mottai nee...[pcms]
 
 
 
-;//SE:éŠƒå£°ï¼ˆãƒ©ã‚¤ãƒ•ãƒ«ï¼‰
+;//SE:eºiƒ‰ƒCƒtƒ‹j
 [se0 storage="se038"]
 [wait_c time=1000]
 
-;//â€»ã‚²ãƒ¼ãƒ ã‚ªãƒ¼ãƒãƒ¼
+;//¦ƒQ[ƒ€ƒI[ƒo[
 
-;//é»’ç”»é¢
+;//•‰æ–Ê
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 [badend]
@@ -213,10 +213,10 @@ Shi, se, nna, on, na, datto, tano, ni, mottai nee...[pcms]
 	[jump target=*SEL00_TITLE]
 [endif]
 
-;//ãƒ ãƒ¼ãƒ“ãƒ¼å†ç”Ÿ
+;//ƒ€[ƒr[Ä¶
 [call storage="movie_sub.ks" target=*hitomi_zap_open]
 
-;//flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢
+;//flag:“µƒ‹[ƒgƒNƒŠƒA
 [eval exp="sf.g_hitomi_clear = 1"]
 
 ;-------------------------------------------------

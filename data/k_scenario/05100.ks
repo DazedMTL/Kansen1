@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05100ã€ç³ã®èª˜ã„ã€
-;//BG:ä¸‰éšå»Šä¸‹ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05100w“µ‚Ì—U‚¢x
+;//BG:OŠK˜L‰ºF–éF“_“”
+;//“oêl•¨GålŒöE“µ
 
 *05100_TOP
-;[debug_win]ãªã†ã€€05100[debug_win_end]
-;*SceneSet|ã€ç³ã®èª˜ã„ã€
+;[debug_win]‚È‚¤@05100[debug_win_end]
+;*SceneSet|w“µ‚Ì—U‚¢x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05100 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05100 = 1"]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 
 [bgm001]
 
@@ -42,26 +42,26 @@ Having a large school has its pros and cons.[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2066|
 [fc]
 [vo_sa s="sae0360"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4834|
 [fc]
 [ns]Kato[nse]
 Hey, do you have any idea where they might be?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2067|
 [fc]
 [vo_sa s="sae0361"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4835|
 [fc]
@@ -94,7 +94,7 @@ I thought another angry voice was coming, so I tried to[r]cover my ears...[pcms]
 [fc]
 But Saeki's voice wasn't filled with anger.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2068|
 [fc]
@@ -121,7 +121,7 @@ Yeah, let's go check it out. There might be someone there.[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2069|
 [fc]
@@ -143,7 +143,7 @@ Saeki nodded with a troubled expression for some reason, and[r]walked towards th
 ;;;[sysbt_meswin clear]
 
 
-;//â™ªï¼šBGM001ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM001ƒtƒF[ƒhƒAƒEƒg
 [fadeoutbgm time=500]
 
 [backlay_c][chara_int][trans_c cross time=150]
@@ -151,5 +151,5 @@ Saeki nodded with a troubled expression for some reason, and[r]walked towards th
 
 ;//blackout
 
-;//[05110]ã¸
+;//[05110]‚Ö
 [jump target=*05110_TOP storage="05110.ks"]

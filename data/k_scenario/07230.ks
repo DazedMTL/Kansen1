@@ -1,16 +1,16 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07230ã€åŒ…å›²ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤•æ–¹
-;//BG:æ˜‡é™å£å‰å»Šä¸‹ï¼šå¤•æ–¹
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»ã‚¾ãƒ³ãƒ“å¤šæ•°
+;//¡ËƒuƒƒbƒN07230w•ïˆÍx
+;//BG:“Áê‹³º˜L‰ºF—[•û
+;//BG:¸~Œû‘O˜L‰ºF—[•û
+;//“oêl•¨GålŒöE“µEƒ]ƒ“ƒr‘½”
 
 *07230_TOP
-;[debug_win]ãªã†ã€€07230[debug_win_end]
-;*SceneSet|ã€åŒ…å›²ã€
+;[debug_win]‚È‚¤@07230[debug_win_end]
+;*SceneSet|w•ïˆÍx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07230 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07230 = 1"]
 ;	/*
-;	;//â™ªï¼šBGM009
+;	;//ôFBGM009
 ;	[bgm009]
 ;	*/
 ;//;//BG:bg06b
@@ -32,7 +32,7 @@ Haa... haa... They didn't come chasing after me, haa...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3044|
 [fc]
@@ -46,7 +46,7 @@ But what's with that child...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3045|
 [fc]
@@ -57,7 +57,7 @@ But what's with that child...[pcms]
 *7620|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *7621|
 [fc]
@@ -89,7 +89,7 @@ Did everyone suddenly go crazy!?[pcms]
 [ChrSetParts layer=1 chface="sae_c_d_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3046|
 [fc]
@@ -111,15 +111,15 @@ What's wro... Uwah![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 [bgm008]
 
 ;//H_CG:
 
-;mm ãƒ¬ã‚¤ãƒ¤ãŠã‹ã—ã„ã‹ã‚‰ç›´ã™
+;mm ƒŒƒCƒ„‚¨‚©‚µ‚¢‚©‚ç’¼‚·
 
-;èµ¤æ¯›
+;Ô–Ñ
 [ChrSetEx layer=5 chbase="zom_01_b"]
 [ChrSetXY layer=5 x=200 y=0]
 [trans_c cross time=150]
@@ -129,7 +129,7 @@ What's wro... Uwah![pcms]
 [ns]Male Student A[nse]
 H-He... he... on, na... da. Bi, jin, ga, iru, zo...[pcms]
 
-;é‡‘çŸ­é«ª
+;‹à’Z”¯
 [ChrSetEx layer=1 chbase="zom_03_b"]
 [ChrSetXY layer=1 x=0 y=0]
 [trans_c cross time=150]
@@ -139,17 +139,17 @@ H-He... he... on, na... da. Bi, jin, ga, iru, zo...[pcms]
 [ns]Male Student B[nse]
 Ahh... ka-i... cho-u... da...[pcms]
 
-;ãƒ•ãƒ„ãƒ¡ãƒ³
+;ƒtƒcƒƒ“
 [ChrSetEx layer=3 chbase="zom_04_b"]
 [ChrSetXY layer=3 x=400 y=0]
 [trans_c cross time=150]
 
-;å¥³
+;—
 [ChrSetEx layer=4 chbase="zom_05_b"]
 [ChrSetXY layer=4 x=0 y=0]
 [trans_c cross time=150]
 
-;ãƒ‡ãƒ–
+;ƒfƒu
 [ChrSetEx layer=2 chbase="zom_02_b"]
 [ChrSetXY layer=2 x=520 y=0]
 [trans_c cross time=150]
@@ -178,16 +178,16 @@ Saeki took my hand and we started running towards the[r]staircase.[pcms]
 
 
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 ;//;//BG:bg03b
 
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [bg storage="bg03b"]
 [trans_c cross time=500]
 
-;//SE:ãƒ‰ã‚¢ã‚’å©ã
+;//SE:ƒhƒA‚ğ’@‚­
 [se0 storage="se027"]
 
 
@@ -207,7 +207,7 @@ There... on the window of the entrance to the staircase[r]where we were trying t
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3047|
 [fc]
@@ -229,7 +229,7 @@ Trying to escape from here would be like committing suicide.[pcms]
 [fc]
 But... where on earth should we run to?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3048|
 [fc]
@@ -267,7 +267,7 @@ and hide, the most suitable place for it.[pcms]
 [ChrSetParts layer=1 chface="sae_c_d_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3049|
 [fc]
@@ -282,7 +282,7 @@ Yes, yes![pcms]
 [se0 storage="se005"]
 
 ;//;//BG:bg04b
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [bg storage="bg04b"]
 [trans_c cross time=500]
 
@@ -318,7 +318,7 @@ Don't scream or get scared, got it!?[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3050|
 [fc]
@@ -342,5 +342,5 @@ In Saeki's eyes, I could see a renewed sense of[r]determination.[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[07240]ã¸
+;//[07240]‚Ö
 [jump target=*07240_TOP storage="07240.ks"]

@@ -1,10 +1,10 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05600ã€ç³ã¨ã‚»ãƒƒã‚¯ã‚¹ï¼’ã€
-;//;//BG:åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05600w“µ‚ÆƒZƒbƒNƒX‚Qx
+;//;//BG:’n‰ººFÁ“”
+;//“oêl•¨GålŒöE“µ
 
 *05600_H_TOP
-;[debug_win]ãªã†ã€€05600_H[debug_win_end]
+;[debug_win]‚È‚¤@05600_H[debug_win_end]
 
 [eval exp="sf.SRP28 = 1"][if exp="tf.scene_mode == 0"][jump target=*05600_H][endif]
 ;;[winset]
@@ -12,11 +12,11 @@
 [jump target=*scene_start]
 
 *05600_H
-;*SceneSet|ã€ç³ã¨ã‚»ãƒƒã‚¯ã‚¹ï¼’ã€
+;*SceneSet|w“µ‚ÆƒZƒbƒNƒX‚Qx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05600 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05600 = 1"]
 
-;//â™ªï¼šBGM010
+;//ôFBGM010
 
 ;//[bgm010]
 
@@ -80,7 +80,7 @@ Sensing it, Saeki's body tensed up slightly.[pcms]
 I, who was impatient, immediately reached out my hand[r]towards Saeki's genitals.[l][er]
 As I touched her soft pubic hair, just like her body, I[r]aimed for even deeper inside.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 
 [se0 storage="se059"]
 
@@ -116,7 +116,7 @@ Mmm... nfu...[pcms]
 [fc]
 I continued to alternate between separating and pressing our[r]lips together, while reaching out my hand towards Saeki's[r]crotch and gently stroking it.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 [se0 storage="se059"]
 
 ;	/*
@@ -240,7 +240,7 @@ Saeki moistened her eyes as if she were crying, nodded[r]slightly, and answered 
 ;;;[sysbt_meswin]
 
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 
 [se0 storage="se058"]
 
@@ -299,7 +299,7 @@ Make me yours, Kato-san...[pcms]
 I nodded and started pushing myself into Saeki's depths once[r]again.[l][er]
 Slowly, little by little, my member buried itself inside[r]Saeki.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 
 [se0 storage="se059"]
 
@@ -408,7 +408,7 @@ If it hurts, don't hesitate to tell me.[pcms]
 [ns]Saeki[nse]
 No... I'm... okay...[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
 
 [se0 storage="se059"]
 
@@ -602,11 +602,11 @@ Sae... ki!![pcms]
 [fc]
 I exploded inside Saeki.[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@’x‚¢@’â~
 
 [se0 storage="se060"]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -739,32 +739,32 @@ Our feelings for each other seeped into each other's bodies.[pcms]
 ;//blackout
 
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn29 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn29 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 [wait_c time=1000]
 
-;//[05610]ã¸
+;//[05610]‚Ö
 [jump target=*05610_H_TOP storage="05610_H.ks"]
 

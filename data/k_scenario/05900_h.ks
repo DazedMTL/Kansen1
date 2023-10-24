@@ -1,18 +1,18 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05900ã€çµ‚æ¼”ã€
-;//BG:åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05900wI‰‰x
+;//BG:’n‰ººFÁ“”
+;//“oêl•¨GålŒöE“µ
 
 *05900_H_TOP
-;[debug_win]ãªã†ã€€05900_H[debug_win_end]
+;[debug_win]‚È‚¤@05900_H[debug_win_end]
 
 *05900
 
-;*SceneSet|ã€çµ‚æ¼”ã€
+;*SceneSet|wI‰‰x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05900 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05900 = 1"]
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 
 
 
@@ -45,7 +45,7 @@ Saeki...[pcms]
 [ns]Kato[nse]
 Saeki...[pcms]
 
-;//â™ªï¼šBGM011ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM011ƒtƒF[ƒhƒCƒ“
 
 [bgm011]
 
@@ -68,7 +68,7 @@ Saeki...?[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2598|
 [fc]
@@ -92,7 +92,7 @@ I'm sorry for worrying you.[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2599|
 [fc]
@@ -115,7 +115,7 @@ I tried touching her head, face, and body with the hand that[r]was free, but the
 [ns]Kato[nse]
 How long was I unconscious?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2600|
 [fc]
@@ -142,5 +142,5 @@ I felt like I could move, but I decided to wait until Saeki[r]stopped crying bef
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05910]ã¸
+;//[05910]‚Ö
 [jump target=*05910_H_TOP storage="05910_H.ks"]

@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04041ã€ãƒ©ã‚¸ã‚ªï¼–ã€
-;//BG:æ•™å®¤ï¼šæœ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04041wƒ‰ƒWƒI‚Ux
+;//BG:‹³ºF’©
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04041_H_TOP
-;[debug_win]ãªã†ã€€04041_H[debug_win_end]
+;[debug_win]‚È‚¤@04041_H[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04041 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04041 = 1"]
 
-;*SceneSet|ã€ãƒ©ã‚¸ã‚ªï¼–ã€
+;*SceneSet|wƒ‰ƒWƒI‚Ux
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 
 [bgm009]
 
@@ -23,7 +23,7 @@
 [bg storage="bg11a"]
 [trans_c cross time=500]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 
 [se0 storage="se008"]
 
@@ -37,7 +37,7 @@
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1910|
 [fc]
@@ -61,11 +61,11 @@ I approached the radio that had been left on the desk and,[r]hoping to hear news
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//â™ªï¼šBGM009ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM009ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
-;//ï¼ æ‰æ¸•ï¼šéˆ´ãƒ¶é™µâ†’æ¶¼ãƒ¶é™µ
+;//—™ŸºF—éƒ–—Ë¨—Áƒ–—Ë
 
 *v1911|
 [fc]
@@ -87,7 +87,7 @@ If we wait quietly on the rooftop, the rescue team should[r]find us soon.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1912|
 [fc]
@@ -101,7 +101,7 @@ Kato-kun...[pcms]
 They might come searching for us soon.[l][er]
 Let's go back to the rooftop.[pcms]
 
-;//â™ªï¼šBGM011ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM011ƒtƒF[ƒhƒCƒ“
 
 [bgm011]
 
@@ -113,7 +113,7 @@ Yamagishi-san had a smile on her face, as if she had been[r]reassured by the inf
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1913|
 [fc]
@@ -123,7 +123,7 @@ Yes![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 
 [se0 storage="se005"]
 
@@ -141,7 +141,7 @@ We held hands and ran back along the path we came.[pcms]
 
 ;//blackout
 
-;//[04042]ã¸
+;//[04042]‚Ö
 [jump target=*04042_H_TOP storage="04042_H.ks"]
 
 

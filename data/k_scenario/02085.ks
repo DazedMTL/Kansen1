@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02085ã€äºŒäººã§å±‹ä¸Šã¨ã‹ã§æ¶¼ã‚“ã§ã„ã‚‹ã®ã ã‚ã†ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02085w“ñl‚Å‰®ã‚Æ‚©‚Å—Á‚ñ‚Å‚¢‚é‚Ì‚¾‚ë‚¤x
+;//BG:“Áê‹³º˜L‰ºF–éF“_“”
+;//“oêl•¨GålŒöEƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02085_TOP
-;[debug_win]ãªã†ã€€02085[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02085 = 1"]
+;[debug_win]‚È‚¤@02085[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02085 = 1"]
 
-;*SceneSet|ã€äºŒäººã§å±‹ä¸Šã¨ã‹ã§æ¶¼ã‚“ã§ã„ã‚‹ã®ã ã‚ã†ã€
+;*SceneSet|w“ñl‚Å‰®ã‚Æ‚©‚Å—Á‚ñ‚Å‚¢‚é‚Ì‚¾‚ë‚¤x
 
 ;//[02085]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg005c
 ;//[bg storage="bg05c"]
@@ -24,7 +24,7 @@
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v716|
 [fc]
@@ -79,7 +79,7 @@ That's what I think, you know.[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v717|
 [fc]
@@ -98,7 +98,7 @@ Even checking the bathrooms and classrooms, I'm suspicious[r]if he really looked
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v718|
 [fc]
@@ -117,7 +117,7 @@ Saying that, Shindou-sensei let out a small sigh and showed[r]a lonely expressio
 [ChrSetParts layer=1 chface="risa_c_d_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v719|
 [fc]
@@ -135,7 +135,7 @@ I couldn't help but suspect, seeing the teacher's words and[r]lonely expression,
 I want to ask for more details, but when Yamagishi-san and I[r]teased the teacher about his boyfriend, we got scolded[r]pretty badly.[l][er]
 It's probably best to not ask anything here.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v720|
 [fc]
@@ -164,6 +164,6 @@ I felt strangely happy, as if I had witnessed something that[r]I would never nor
 
 ;;;[sysbt_meswin]
 
-;//[02086]ã¸
+;//[02086]‚Ö
 [jump target=*02086_TOP storage="02086.ks"]
 

@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08190ã€æ¢ç´¢ï¼šå„ªã€
-;//;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»æœ‹ç¾ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN08190w’TõF—Dx
+;//;//BG:“Áê‹³º˜L‰ºF–éF“_“”
+;//“oêl•¨FålŒöE•ü”üE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *08190_H_TOP
-;[debug_win]ãªã†ã€€08190_H[debug_win_end]
+;[debug_win]‚È‚¤@08190_H[debug_win_end]
 
-;*SceneSet|ã€æ¢ç´¢ï¼šå„ªã€
+;*SceneSet|w’TõF—Dx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08190 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08190 = 1"]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 
 ;//[bgm001]
 
@@ -39,20 +39,20 @@ On the contrary, I'm overflowing with motivation.[pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3608|
 [fc]
 [vo_to s="tomo0433"]
 [ns]Igarashi[nse]
-Hmm~â™ª Hehehe~â™ª Eheheh!! It's so much fun, isn't it![pcms]
+Hmm~ô Hehehe~ô Eheheh!! It's so much fun, isn't it![pcms]
 
 *9827|
 [fc]
 [ns]Kato[nse]
 Yeah, that's right~! I've been feeling so happy and excited[r]all this time![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3609|
 [fc]
@@ -90,7 +90,7 @@ Wow~! I wish I had known earlier![pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3610|
 [fc]
@@ -105,7 +105,7 @@ Thank goodness, Taiyuki-kun!![pcms]
 Yeah! I'm happy... Wait, why am I happy?[l][er]
 What was it again... Is it because we can have sex?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3611|
 [fc]
@@ -120,7 +120,7 @@ Huh? Someone is coming from over there?[pcms]
 Igarashi-san pointed in the direction with her finger, and[r]there was definitely someone there.[l][er]
 It's a girl... I see...[pcms]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 
 [se0 storage="se005"]
 
@@ -133,7 +133,7 @@ The figure was Yamagishi-san. She looked at us with a[r]worried expression and r
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3612|
 [fc]
@@ -153,7 +153,7 @@ Has it really been that long...?[pcms]
 [ns]Kato[nse]
 Sorry! I was hanging out with Shinya...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3613|
 [fc]
@@ -166,7 +166,7 @@ what...?[pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3614|
 [fc]
@@ -179,7 +179,7 @@ Ah, this? Well... I kinda got groped by various people...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3615|
 [fc]
@@ -201,7 +201,7 @@ When I remembered, laughter welled up again...[pcms]
 Hehehe... Bwahahaha!! Come to think of it, there was blood![l][er]
 Hahahaha!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3616|
 [fc]
@@ -215,7 +215,7 @@ Hahahaha!![pcms]
 N-No, hahaha! What is it! I don't know, but it's funny!![l][er]
 Hahaha![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3617|
 [fc]
@@ -234,7 +234,7 @@ Bacteria!![pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3618|
 [fc]
@@ -247,7 +247,7 @@ Bacteria!! Ehehe~!! It's dangerous!![pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3619|
 [fc]
@@ -267,7 +267,7 @@ If we're going to treat it, wouldn't it be better to do it[r]inside the infirmar
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3620|
 [fc]
@@ -281,7 +281,7 @@ If we're going to treat it, wouldn't it be better to do it[r]inside the infirmar
 If it's not open, we can just break the door and go in!![l][er]
 Ready, set, go!! Boom!![pcms]
 
-;//SE:æ‰‰ã‚’å©ãéŸ³
+;//SE:”à‚ğ’@‚­‰¹
 
 [se0 storage="se027"]
 
@@ -289,7 +289,7 @@ Ready, set, go!! Boom!![pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3621|
 [fc]
@@ -299,7 +299,7 @@ Boom~!! Ehehehe~![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:æ‰‰ã‚’é–‹ã
+;//SE:”à‚ğŠJ‚­
 
 [se0 storage="se008"]
 
@@ -333,7 +333,7 @@ It's open! Hahaha!! The door wasn't locked![pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3623|
 [fc]
@@ -347,7 +347,7 @@ Hurry up and defeat the bacteria~!![pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3624|
 [fc]
@@ -381,7 +381,7 @@ I was the only one left in the hallway...[l][er]
 Are you two planning to have fun without me?[l][er]
 I won't let that happen!![pcms]
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*08200_H_TOP storage="08200_H.ks"]
 
 

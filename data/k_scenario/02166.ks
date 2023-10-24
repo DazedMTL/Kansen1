@@ -1,22 +1,22 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02166ã€çµ¶æœ›ï¼šæ¡ä»¶åˆ†å²ã€
-;//BG:å±‹ä¸Šï¼šæœ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…ãƒ»ç³ãƒ»ç”°ä¸­ãƒ»æœ‹ç¾ãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02166wâ–]FğŒ•ªŠòx
+;//BG:‰®ãF’©
+;//“oêl•¨GålŒöE—DE’|“àE“µE“c’†E•ü”üEƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02166_TOP
-;[debug_win]ãªã†ã€€02166[debug_win_end]
+;[debug_win]‚È‚¤@02166[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02166 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02166 = 1"]
 
-;*SceneSet|ã€çµ¶æœ›ã€
+;*SceneSet|wâ–]x
 
-;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼‘ï¼•ã€€è¡¨ç¤º
+;//flag:—Dƒ‹[ƒgƒtƒ[@‚P‚T@•\¦
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 ;//[bgm008]
 
@@ -29,7 +29,7 @@
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std300|
 [fc]
 [ns]Takeuchi[nse]
@@ -41,7 +41,7 @@ Shabu, te yo, o...[pcms]
 [ChrSetParts layer=1 chface="risa_a_e_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1159|
 [fc]
@@ -71,7 +71,7 @@ The rescue helicopter is still flying around the sky above[r]the town and there 
 [fc]
 Yamagishi-san, who climbed onto the roof of the opposite[r]entrance, is looking at me with a worried expression.[pcms]
 
-;//â€»çµµç„¡ã—
+;//¦ŠG–³‚µ
 
 *v1160|
 [fc]
@@ -92,7 +92,7 @@ I felt my shirt being grabbed around the chest area at the[r]same time Yamagishi
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1161|
 [fc]
@@ -108,7 +108,7 @@ Igarashi-san... I'm sorry!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 
 [se0 storage="se026"]
 
@@ -130,7 +130,7 @@ I slapped Igarashi-san's arm away and kicked her in the[r]stomach.[pcms]
 [ChrSetParts layer=1 chface="tanaka_b_a_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std301|
 [fc]
 [ns]Tanaka[nse]
@@ -144,7 +144,7 @@ This...![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 
 [se0 storage="se026"]
 
@@ -161,7 +161,7 @@ This...![pcms]
 [fc]
 This time, I tackled Yuuji who was trying to pass by me and[r]sent him flying.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 [ChrSetEx layer=1 chbase="tanaka_b_a_10"]
 [ChrSetXY layer=1 x=160 y=0]
 [ChrSetParts layer=1 chface="tanaka_b_a_11"]
@@ -171,7 +171,7 @@ This time, I tackled Yuuji who was trying to pass by me and[r]sent him flying.[p
 [fc]
 However, even though he fell to the floor, Yuuji quickly got[r]up and started walking again.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 [ChrSetEx layer=1 chbase="tomo_b_d_04"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
@@ -220,7 +220,7 @@ In other words, if I can get to the roof first, I won't have[r]to deal with all 
 [ns]Kato[nse]
 There![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 [ChrSetEx layer=1 chbase="sae_d_d_12"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
@@ -229,7 +229,7 @@ There![pcms]
 [fc]
 I jumped onto the ladder and climbed a few steps, but before[r]I knew it, Saeki had gotten so close and grabbed onto my[r]leg.[pcms]
 
-;//â€»çµµç„¡ã—
+;//¦ŠG–³‚µ
 
 *v1162|
 [fc]
@@ -242,7 +242,7 @@ Kato-kun!![pcms]
 [ns]Kato[nse]
 Ugh...![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1163|
 [fc]
@@ -267,7 +267,7 @@ I kicked Saeki's hand that was grabbing onto my leg and[r]managed to shake her o
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std306|
 [fc]
 [ns]Takeuchi[nse]
@@ -277,7 +277,7 @@ My, my heart... it's pounding, Yuu-chan...[pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1164|
 [fc]
@@ -291,7 +291,7 @@ let me, let me put it in your mouth...[pcms]
 [ChrSetParts layer=1 chface="risa_a_e_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1165|
 [fc]
@@ -311,7 +311,7 @@ Stop it! Let go!![pcms]
 [fc]
 I kicked away the hands of the people who were approaching[r]one after another, the close friends and the person I[r]admired, and I was busy trying to shake them off, unable to[r]climb even a single step of the ladder.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *3013|
 [fc]
@@ -330,7 +330,7 @@ Hurry up and come up here!![pcms]
 [ns]Kato[nse]
 !![pcms]
 
-;//SE:ãƒ˜ãƒªã‚³ãƒ—ã‚¿ãƒ¼ã®éŸ³ã€€è¿‘ã„
+;//SE:ƒwƒŠƒRƒvƒ^[‚Ì‰¹@‹ß‚¢
 [se0 storage="se034"]
 
 *3015|
@@ -360,7 +360,7 @@ The soldier on the helicopter, which had turned its side[r]towards us, leaned ou
 [ns]Kato[nse]
 Hurry... do something!![pcms]
 
-;//SE:éŠƒå£°ï¼ˆãƒ©ã‚¤ãƒ•ãƒ«ï¼‰
+;//SE:eºiƒ‰ƒCƒtƒ‹j
 [se0 storage="se038"]
 
 [bg storage="effect_red"][trans_c cross time=100]
@@ -374,9 +374,9 @@ At the moment when a dry bursting sound echoed, I felt an[r]impact on my leg and
 [ns]Kato[nse]
 Guuaaaahhhhhhhhhhhh!!!!!![pcms]
 
-;//â€»æ¡ä»¶åˆ†å²
-;//ãƒ»flag:ãƒ‡ãƒ¼ãƒˆã®ç´„æŸã‚’ã—ã¦ã„ãªã„ã€‚ã€€ãŒON;//[02167]ã¸
-;//ãƒ»flag:ãƒ‡ãƒ¼ãƒˆã®ç´„æŸã‚’ã—ã¦ã„ãªã„ã€‚ã€€ãŒOFF;//[04043]ã¸
+;//¦ğŒ•ªŠò
+;//Eflag:ƒf[ƒg‚Ì–ñ‘©‚ğ‚µ‚Ä‚¢‚È‚¢B@‚ªON;//[02167]‚Ö
+;//Eflag:ƒf[ƒg‚Ì–ñ‘©‚ğ‚µ‚Ä‚¢‚È‚¢B@‚ªOFF;//[04043]‚Ö
 
 [if exp="f.NO_DATE==0"]
 	;[jump target=*SEL00_2166_NO_DATE]

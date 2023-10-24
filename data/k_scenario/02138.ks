@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02138ã€ãƒ©ã‚¸ã‚ªï¼•ã€
-;//BG:äºŒéšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰å‰ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µãƒ»å„ªãƒ»åŠ è—¤
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02138wƒ‰ƒWƒI‚Tx
+;//BG:“ñŠK˜L‰ºFƒoƒŠƒP[ƒh‘OF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöEƒŠƒTE—DE‰Á“¡
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02138_TOP
-;[debug_win]ãªã†ã€€02138[debug_win_end]
+;[debug_win]‚È‚¤@02138[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02138 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02138 = 1"]
 
-;*SceneSet|ã€ãƒ©ã‚¸ã‚ªï¼•ã€
+;*SceneSet|wƒ‰ƒWƒI‚Tx
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 ;//[bgm007]
 
@@ -29,7 +29,7 @@ What should we do from now on?[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v985|
 [fc]
@@ -79,7 +79,7 @@ If that's the case, it shouldn't take too long for the[r]rescue team to arrive i
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v988|
 [fc]
@@ -93,5 +93,5 @@ Shindou-sensei's thoughts were the same as what I had been[r]thinking.[l][er]
 It seemed that Yamagishi-san and Shinya felt the same way[r]too, and all of us nodded in agreement with the teacher's[r]words.[pcms]
 [l][er]
 
-;//[02139]ã¸
+;//[02139]‚Ö
 [jump target=*02139_TOP storage="02139.ks"]

@@ -1,24 +1,24 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02084ã€ç”°ä¸­ãŒé£Ÿã„éãã§è…¹ã‚’ã“ã‚ã—ã¦ã„ãŸã‹ã‚‰ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02084w“c’†‚ªH‚¢‰ß‚¬‚Å• ‚ğ‚±‚í‚µ‚Ä‚¢‚½‚©‚çx
+;//BG:“Áê‹³º˜L‰ºF–éF“_“”
+;//“oêl•¨GålŒöEƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02084_TOP
-;[debug_win]ãªã†ã€€02084[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02084 = 1"]
+;[debug_win]‚È‚¤@02084[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02084 = 1"]
 
-;*SceneSet|ã€ç”°ä¸­ãŒé£Ÿã„éãã§è…¹ã‚’ã“ã‚ã—ã¦ã„ãŸã‹ã‚‰ã€
+;*SceneSet|w“c’†‚ªH‚¢‰ß‚¬‚Å• ‚ğ‚±‚í‚µ‚Ä‚¢‚½‚©‚çx
 
 ;//[02084]
 
-;//flag:ãƒªã‚µã®æœ€å¾Œã«çµ¡ã‚€ãƒ•ãƒ©ã‚°
+;//flag:ƒŠƒT‚ÌÅŒã‚É—‚Şƒtƒ‰ƒO
 
 [eval exp="f.RISA_FINAL = 1"]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg005c
 ;//[bg storage="bg05c"]
@@ -28,7 +28,7 @@
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v711|
 [fc]
@@ -50,7 +50,7 @@ So, I think during the middle of the viewing party, I[r]started feeling sick aga
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v712|
 [fc]
@@ -64,7 +64,7 @@ But if that's true, it's strange.[pcms]
 [ns]Kato[nse]
 ? What is it?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v713|
 [fc]
@@ -87,7 +87,7 @@ So, she probably wiped her tears and made her eyes red.[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v714|
 [fc]
@@ -106,7 +106,7 @@ Saying that, Shindou-sensei took a small breath and showed a[r]gentle smile that
 [ChrSetParts layer=1 chface="risa_c_d_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v715|
 [fc]
@@ -141,5 +141,5 @@ Seeing such a different side of the teacher, which was[r]completely opposite to 
 
 ;;;[sysbt_meswin]
 
-;//[02086]ã¸
+;//[02086]‚Ö
 [jump target=*02086_TOP storage="02086.ks"]

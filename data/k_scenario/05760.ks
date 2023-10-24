@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05760ã€ã†ãªã‚Šå£°ã€
-;//;//BG:æ˜‡é™å£å‰å»Šä¸‹ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05760w‚¤‚È‚èºx
+;//;//BG:¸~Œû‘O˜L‰ºF—[•ûFÁ“”
+;//“oêl•¨GålŒöE“µ
 
 *05760_TOP
-;[debug_win]ãªã†ã€€05760[debug_win_end]
-;*SceneSet|ã€ã†ãªã‚Šå£°ã€
+;[debug_win]‚È‚¤@05760[debug_win_end]
+;*SceneSet|w‚¤‚È‚èºx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05760 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05760 = 1"]
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 [bgm009]
 
 ;//;//BG:bg03b
@@ -58,7 +58,7 @@ When I reached the corner in the middle of the hallway with[r]Saeki, I felt like
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2560|
 [fc]
@@ -83,7 +83,7 @@ Other than going through this hallway, there's no other way[r]to get to the cafe
 But now, from just around the corner, I can hear something.[pcms]
 
 ;	/*
-;	;//â™ªï¼šBGM005
+;	;//ôFBGM005
 ;	[bgm005]
 ;	*/
 
@@ -104,7 +104,7 @@ Those guys... Damn it... If they're there, we can't go to[r]the cafeteria...[pcm
 [ns]Kato[nse]
 ... This way, Saeki![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *6178|
 [fc]
@@ -119,5 +119,5 @@ I took Saeki's hand and ran straight ahead without turning[r]the corner, heading
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05770]ã¸
+;//[05770]‚Ö
 [jump target=*05770_TOP storage="05770.ks"]

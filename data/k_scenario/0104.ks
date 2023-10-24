@@ -1,28 +1,28 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0104ã€ã‚³ã‚¹ãƒãƒ¥ãƒ¼ãƒ ãƒ»ãƒ—ãƒ¬ã‚¤ã€
-;//â˜…ã‚¶ãƒƒãƒ”ãƒ³ã‚°é¸æŠç™ºç”Ÿ
-;//â‡’ç”°ä¸­è¦–ç‚¹ã¸
-;//â‡’ãƒ–ãƒ­ãƒƒã‚¯0104ã€ã‚³ã‚¹ãƒãƒ¥ãƒ¼ãƒ ãƒ»ãƒ—ãƒ¬ã‚¤ã€ã‹ã‚‰
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN0104wƒRƒXƒ`ƒ…[ƒ€EƒvƒŒƒCx
+;//šƒUƒbƒsƒ“ƒO‘I‘ğ”­¶
+;//Ë“c’†‹“_‚Ö
+;//ËƒuƒƒbƒN0104wƒRƒXƒ`ƒ…[ƒ€EƒvƒŒƒCx‚©‚ç
 
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œ
-;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šå¤œ
-;//ç™»å ´äººç‰©ï¼›ç”°ä¸­ãƒ»æœ‹ç¾
+;//BG:“Áê‹³º˜L‰ºF–é
+;//BG:“n‚è˜L‰ºF–é
+;//“oêl•¨G“c’†E•ü”ü
 [ns]Tanaka[nse]
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *0104_TOP
-;[debug_win]ãªã†ã€€0104[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0104 = 1"]
+;[debug_win]‚È‚¤@0104[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0104 = 1"]
 
-;*SceneSet|ã€ã‚³ã‚¹ãƒãƒ¥ãƒ¼ãƒ ãƒ»ãƒ—ãƒ¬ã‚¤ã€
+;*SceneSet|wƒRƒXƒ`ƒ…[ƒ€EƒvƒŒƒCx
 
 ;//[0104]
 
-;//flag:ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ãƒ•ãƒ­ãƒ¼ã€€zapï¼“ã€€è¡¨ç¤º
-;//â™ªï¼šBGM001
+;//flag:ƒvƒƒ[ƒOƒtƒ[@zap‚R@•\¦
+;//ôFBGM001
 [bgm001]
 ;//BG:bg004c
 [bg storage="bg04c"]
@@ -43,7 +43,7 @@ After confirming that the others were engrossed in the[r]movie, I sneaked out of
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v381|
 [fc]
@@ -62,7 +62,7 @@ Taiyuki was especially engrossed in it.[pcms]
 [ChrSetParts layer=1 chface="tomo_c_a1_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v382|
 [fc]
@@ -87,7 +87,7 @@ Huh? Didn't we come here for that purpose today?[pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v383|
 [fc]
@@ -118,7 +118,7 @@ Come on, let's go?[pcms]
 [ChrSetParts layer=1 chface="tomo_c_c_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v384|
 [fc]
@@ -141,7 +141,7 @@ Let's go, let's go![pcms]
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v385|
 [fc]
@@ -163,7 +163,7 @@ Tomomin in her gym clothes is nice, but I really wanted to[r]see Tomomin in a sc
 [ChrSetParts layer=1 chface="tomo_c_a1_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v386|
 [fc]
@@ -192,7 +192,7 @@ This girl sometimes gets really horny, huh...[pcms]
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v387|
 [fc]
@@ -210,7 +210,7 @@ It would be nice if Kishida's dumbass went home.[pcms]
 [ChrSetParts layer=1 chface="tomo_c_a_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v388|
 [fc]
@@ -228,7 +228,7 @@ Ah, no way, no way. On top of being sweaty and smelly, ugly[r]guys are...[pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v389|
 [fc]
@@ -276,7 +276,7 @@ Like the key to the PE storage room or something.[pcms]
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v390|
 [fc]
@@ -288,7 +288,7 @@ Can I borrow the key? How about that?[pcms]
 *968|
 [fc]
 [ns]Tanaka[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *969|
 [fc]
@@ -317,7 +317,7 @@ The lights were off in the PE instructor's office, and from[r]the outside, it se
 [fc]
 If the door isn't locked with this...[pcms]
 
-;//[0105]ã¸
+;//[0105]‚Ö
 [jump target=*0105_TOP storage="0105.ks"]
 
 

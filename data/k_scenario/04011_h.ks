@@ -1,29 +1,29 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04011ã€å„ªã«è¿«ã‚‹å±æ©Ÿã€
-;//BG:ç„¡ã—
-;//ç™»å ´äººç‰©ï¼›å„ªãƒ»ã‚¾ãƒ³ãƒ“æ•°å
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04011w—D‚É”—‚éŠë‹@x
+;//BG:–³‚µ
+;//“oêl•¨G—DEƒ]ƒ“ƒr”–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04011_TOP
-;[debug_win]ãªã†ã€€04011_H[debug_win_end]
+;[debug_win]‚È‚¤@04011_H[debug_win_end]
 
 *04011_H_TOP
-;[debug_win]ãªã†ã€€04011_H[debug_win_end]
+;[debug_win]‚È‚¤@04011_H[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04011 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04011 = 1"]
 
-;*SceneSet|ã€å„ªã«è¿«ã‚‹å±æ©Ÿã€
+;*SceneSet|w—D‚É”—‚éŠë‹@x
 
-;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€zapï¼”ã€€è¡¨ç¤º
+;//flag:—Dƒ‹[ƒgƒtƒ[@zap‚S@•\¦
 
-;//â™ªï¼šBGM002
+;//ôFBGM002
 
 [bgm002]
 
-;//BG:bgç„¡ã—
+;//BG:bg–³‚µ
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
@@ -71,7 +71,7 @@ I desperately ran towards the science room to ask Shindou-[r]sensei to help Tomo
 [fc]
 I passed through the corridor and when I turned the corner,[r]I saw a boy standing there.[pcms]
 
-;//SE:å¿ƒæ‹éŸ³
+;//SE:S”‰¹
 
 [se0 storage="se003"]
 
@@ -86,13 +86,13 @@ I wonder who it is... Shinya-kun?[pcms]
 I stopped running and walked slowly, while observing the[r]boy's behavior.[l][er]
 He noticed my presence and turned around.[pcms]
 
-;//H_CG:ã‚¾ãƒ³ãƒ“ãƒ¼ã‚º
+;//H_CG:ƒ]ƒ“ƒr[ƒY
 
 ;//EV_010.BMP = EV_002_a.BMP
 [evcg storage="EV_002_a"]
 [trans_c cross time=500]
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 [bgm008]
 
@@ -159,6 +159,6 @@ Katou-kun!![pcms]
 
 ;//blackout
 
-;//[04012]ã¸
+;//[04012]‚Ö
 [jump target=*04012_H_TOP storage="04012_H.ks"]
 

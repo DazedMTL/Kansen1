@@ -1,30 +1,30 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04033ã€å„ªã®æ‚²é³´3ã€
-;//BG:äºŒéšå»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µãƒ»å„ªãƒ»ç«¹å†…ãƒ»å²¸ç”°
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04033w—D‚Ì”ß–Â3x
+;//BG:“ñŠK˜L‰ºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöEƒŠƒTE—DE’|“àEŠİ“c
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04033_H_TOP
-;[debug_win]ãªã†ã€€04033_H[debug_win_end]
+;[debug_win]‚È‚¤@04033_H[debug_win_end]
 [eval exp="sf.SRP21 = 1"][if exp="tf.scene_mode == 0"][jump target=*04033_H][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 *04033_H
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04033 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04033 = 1"]
 
-;*SceneSet|ã€å„ªã®æ‚²é³´ï¼“ã€
+;*SceneSet|w—D‚Ì”ß–Â‚Rx
 
 ;;;[sysbt_meswin clear]
 
 *scene_start
 
-;//â™ªï¼šBGM002
+;//ôFBGM002
 [bgm002]
 
 ;//H_CG
@@ -34,7 +34,7 @@
 
 ;;;[sysbt_meswin]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
 
 [se1 storage="se060" loop=true]
 
@@ -47,7 +47,7 @@ Ahhhhh!!![pcms]
 *4265|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4266|
 [fc]
@@ -235,7 +235,7 @@ dick... feels so... good...[pcms]
 Ugh... I, uhh... that's right, I...[l][er]
 Yuu-chan...[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [se1 storage="se061" loop=true]
 
@@ -302,15 +302,15 @@ Ahhhh... I... I'm so happy... that I can be with you, Yuu-[r]chan...[pcms]
 [ns]Yamagishi[nse]
 Guh... uh...[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se1]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -380,7 +380,7 @@ Kishida and Shinya's semen, which was ejaculated inside[r]Yamagishi-san, dripped
 [ns]Kato[nse]
 Yamagishi-san...[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
 
 [se1 storage="se060" loop=true]
 
@@ -438,28 +438,28 @@ Yamagi...[pcms]
 
 ;//blackout
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn21 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn21 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;//â€»ã‚²ãƒ¼ãƒ ã‚ªãƒ¼ãƒãƒ¼
+;//¦ƒQ[ƒ€ƒI[ƒo[
 
 ;;;[sysbt_meswin clear]
 

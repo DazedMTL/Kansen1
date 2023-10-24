@@ -1,19 +1,19 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05360ã€ãƒˆã‚¤ãƒ¬ã€
-;//;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæœï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN05360wƒgƒCƒŒx
+;//;//BG:“Áê‹³º˜L‰ºF’©FÁ“”
+;//“oêl•¨GålŒöE“µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *05360_H_TOP
-;[debug_win]ãªã†ã€€05360_H[debug_win_end]
-;*SceneSet|ã€ãƒˆã‚¤ãƒ¬ã€
+;[debug_win]‚È‚¤@05360_H[debug_win_end]
+;*SceneSet|wƒgƒCƒŒx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05360 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05360 = 1"]
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 
 [bgm009]
 
@@ -31,13 +31,13 @@
 
 ;;;[sysbt_meswin]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2249|
 [fc]
 [vo_sa s="sae0475"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5389|
 [fc]
@@ -58,7 +58,7 @@ Even if you're not as timid as Saeki, it's tough to go to[r]the restroom alone..
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2250|
 [fc]
@@ -71,7 +71,7 @@ I'm sorry... for asking you something strange...[pcms]
 [ns]Kato[nse]
 Don't worry about it. Just finish it as quickly as possible.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2251|
 [fc]
@@ -89,7 +89,7 @@ She looked embarrassed and muttered softly while looking[r]down.[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2252|
 [fc]
@@ -103,7 +103,7 @@ Please don't go back before me, okay...[pcms]
 [ns]Kato[nse]
 Don't worry, I'll wait for you properly.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2253|
 [fc]
@@ -116,7 +116,7 @@ I'm absolutely sure...[pcms]
 [ns]Kato[nse]
 Alright, hurry up and go.[pcms]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 [backlay_c][chara_int][trans_c cross time=150]
@@ -125,6 +125,6 @@ Alright, hurry up and go.[pcms]
 [fc]
 Saeki nodded at my words and hurriedly ran into the[r]restroom.[pcms]
 
-;//[05370]ã¸
+;//[05370]‚Ö
 [jump target=*05370_H_TOP storage="05370_H.ks"]
 

@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05770ã€æ•™å®¤å´ã¸ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05770w‹³º‘¤‚Öx
+;//BG:“Áê‹³º˜L‰ºF—[•ûFÁ“”
+;//“oêl•¨GålŒöE“µ
 
 *05770_TOP
-;[debug_win]ãªã†ã€€05770[debug_win_end]
-;*SceneSet|ã€æ•™å®¤å´ã¸ã€
+;[debug_win]‚È‚¤@05770[debug_win_end]
+;*SceneSet|w‹³º‘¤‚Öx
 
 
 ;	/*
-;	;//â™ªï¼šBGM005
+;	;//ôFBGM005
 ;	[bgm009]
 ;	*/
 
@@ -18,9 +18,9 @@
 [bg storage="bg08a"]
 [trans_c cross time=500]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05770 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05770 = 1"]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 
@@ -37,7 +37,7 @@ I wonder if there's a place in the regular classroom on the[r]first floor where 
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2561|
 [fc]
@@ -62,14 +62,14 @@ Alright... the rooftop![pcms]
 
 
 
-;ç«‹ã¡
+;—§‚¿
 
 ;//blackout
 ;g[backlay_c][chara_int][trans_c cross time=150]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05780]ã¸
+;//[05780]‚Ö
 [jump target=*05780_TOP storage="05780.ks"]
 
 

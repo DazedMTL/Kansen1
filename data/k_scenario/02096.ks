@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02096ã€ãƒã‚¹æ™‚åˆ»ã€
-;//BG:è¦–è´è¦šå®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02096wƒoƒXx
+;//BG:‹’®ŠoºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DE’|“à
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02096_TOP
-;[debug_win]ãªã†ã€€02096[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02096 = 1"]
+;[debug_win]‚È‚¤@02096[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02096 = 1"]
 
-;*SceneSet|ã€ãƒã‚¹æ™‚åˆ»ã€
+;*SceneSet|wƒoƒXx
 
 ;//[02096]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg015a
 [bg storage="bg15a"]
@@ -29,7 +29,7 @@ Hey Shinya, let's go.[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std208|
 [fc]
 [ns]Takeuchi[nse]
@@ -44,7 +44,7 @@ As ordered, I called out to Shinya ten minutes before the[r]bus arrived, and unl
 [ns]Kato[nse]
 What's this, you're in quite a good mood after waking up[r]this time.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std209|
 [fc]
 [ns]Takeuchi[nse]
@@ -59,7 +59,7 @@ Shinya, while twisting his neck repeatedly, looked around[r]his body as if he ha
 [ns]Kato[nse]
 Are you feeling unwell?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std210|
 [fc]
 [ns]Takeuchi[nse]
@@ -70,7 +70,7 @@ No, it's not that...[pcms]
 [ns]Kato[nse]
 But, what's wrong?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std211|
 [fc]
 [ns]Takeuchi[nse]
@@ -81,7 +81,7 @@ Somehow... somehow, my body feels good.[pcms]
 [ns]Kato[nse]
 ... Is there something troubling you?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std212|
 [fc]
 [ns]Takeuchi[nse]
@@ -104,7 +104,7 @@ Yamagishi-san beckoned to us from the door of the[r]audiovisual room, where we w
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v812|
 [fc]
@@ -125,7 +125,7 @@ Let's run![pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v813|
 [fc]
@@ -142,7 +142,7 @@ or rather, you're like a male friend...[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std213|
 [fc]
 [ns]Takeuchi[nse]
@@ -153,12 +153,12 @@ Well then, let's go...[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//[02097]ã¸
+;//[02097]‚Ö
 [jump target=*02097_TOP storage="02097.ks"]
 

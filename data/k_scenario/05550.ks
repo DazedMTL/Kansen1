@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05550ã€éš éã€
-;//BG:å­¦é£Ÿï¼šå¤œï¼›æ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05550w‰B“Ùx
+;//BG:ŠwHF–éGÁ“”
+;//“oêl•¨GålŒöE“µ
 
 *05550_TOP
-;[debug_win]ãªã†ã€€05550[debug_win_end]
-;*SceneSet|ã€éš éã€
+;[debug_win]‚È‚¤@05550[debug_win_end]
+;*SceneSet|w‰B“Ùx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05550 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05550 = 1"]
 
-;//â™ªï¼šBGM004
+;//ôFBGM004
 [bgm004]
 
 ;//BG:bg14b
@@ -29,7 +29,7 @@ However, within the school cafeteria, illuminated by the[r]still dazzling sunset
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2382|
 [fc]
@@ -42,7 +42,7 @@ Thank goodness... It seems like no one has come here yet...[pcms]
 [ns]Kato[nse]
 Let's evacuate quickly before they see us hiding in the[r]basement.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2383|
 [fc]
@@ -63,5 +63,5 @@ We made our way to the door on the floor of the kitchen,[r]avoiding the dazzling
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05560]ã¸
+;//[05560]‚Ö
 [jump target=*05560_H_TOP storage="05560_H.ks"]

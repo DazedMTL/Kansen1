@@ -1,20 +1,20 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05110ã€ç³ã®å‘Šç™½ã€
-;//BG:å­¦åœ’å±‹ä¸Šï¼šå¤œ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05110w“µ‚Ì”’x
+;//BG:Šw‰€‰®ãF–é
+;//“oêl•¨GålŒöE“µ
 
 *05110_TOP
-;[debug_win]ãªã†ã€€05110[debug_win_end]
-;*SceneSet|ã€ç³ã®å‘Šç™½ã€
+;[debug_win]‚È‚¤@05110[debug_win_end]
+;*SceneSet|w“µ‚Ì”’x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05110 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05110 = 1"]
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 [fadeoutbgm time=500]
 
-;//SE:è™«ã®éŸ³
+;//SE:’‚Ì‰¹
 [se0 storage="se018" loop=true]
-;//SE:é¢¨ã®éŸ³
+;//SE:•—‚Ì‰¹
 [se1 storage="se019" loop=true]
 
 
@@ -42,7 +42,7 @@ Saeki, leaning against the fence, her white skin illuminated[r]by the moonlight,
 *4849|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *4850|
 [fc]
@@ -83,7 +83,7 @@ I like you.[pcms]
 *4854|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4855|
 [fc]
@@ -107,12 +107,12 @@ Saeki said that with a serious expression, as if she had[r]understood my doubts.
 [fc]
 [vo_sa s="sae0368"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4858|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4859|
 [fc]
@@ -162,7 +162,7 @@ After saying just that, Saeki walked past me quickly without[r]even looking at m
 *4863|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4864|
 [fc]
@@ -193,7 +193,7 @@ I... I...[pcms]
 [bg storage="bg21c"]
 [trans_c cross time=500]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 [overflow_se storage="se008"]
 
 
@@ -202,20 +202,20 @@ I... I...[pcms]
 *4869|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4870|
 [fc]
 Startled by the sound of the door closing at the entrance, I[r]snapped back to reality.[l][er]
 Without being able to give an answer, I chased after Saeki[r]for the time being.[pcms]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 ;;;[sysbt_meswin clear]
 
 
-;//â™ªï¼šBGM010ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM010ƒtƒF[ƒhƒAƒEƒg
 [fadeoutbgm time=500]
 [stop_se0]
 [stop_se1]
@@ -225,5 +225,5 @@ Without being able to give an answer, I chased after Saeki[r]for the time being.
 
 ;//blackout
 
-;//[05120]ã¸
+;//[05120]‚Ö
 [jump target=*05120_TOP storage="05120.ks"]

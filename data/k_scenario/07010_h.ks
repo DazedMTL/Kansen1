@@ -1,12 +1,12 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07010ã€æœ‹ç¾ã‚’ç™ºè¦‹ã™ã‚‹ã€
-;//;//BG:æ˜‡é™å£å‰å»Šä¸‹ï¼šå¤œï¼›æ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»æ„ŸæŸ“æœ‹ç¾
+;//¡ËƒuƒƒbƒN07010w•ü”ü‚ğ”­Œ©‚·‚éx
+;//;//BG:¸~Œû‘O˜L‰ºF–éGÁ“”
+;//“oêl•¨GålŒöE“µEŠ´õ•ü”ü
 
 *07010_H_TOP
-;[debug_win]ãªã†ã€€07010_H[debug_win_end]
+;[debug_win]‚È‚¤@07010_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 ;[if exp="tf.scene_mode == 0"][jump target=*07010][endif]
 ;[winset]
 
@@ -14,24 +14,24 @@
 
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 [bgm001]
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *07010
 
-;*SceneSet|ã€æœ‹ç¾ã‚’ç™ºè¦‹ã™ã‚‹ã€
+;*SceneSet|w•ü”ü‚ğ”­Œ©‚·‚éx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07010 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07010 = 1"]
 ;	/*
-;	;//â™ªï¼šBGM001
+;	;//ôFBGM001
 ;	[bgm001]
 ;	*/
 ;//;//BG:bg05d
@@ -57,13 +57,13 @@ O-Oh...[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2809|
 [fc]
 [vo_sa s="sae0719"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *6959|
 [fc]
@@ -97,7 +97,7 @@ If that's the case... Well, Saeki wouldn't say something[r]like that...[pcms]
 
 ;;;[sysbt_meswin]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2810|
 [fc]
@@ -117,15 +117,15 @@ Hurry up before I leak.[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2811|
 [fc]
 [vo_sa s="sae0721"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 [backlay_c][chara_int][trans_c cross time=150]
@@ -199,7 +199,7 @@ Just like a child, honestly...[pcms]
 [fc]
 When I think that this is the woman who was called the[r]Empress, I couldn't help but laugh, going beyond being[r]amazed.[pcms]
 
-;//â™ªï¼šBGM001ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM001ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
@@ -213,7 +213,7 @@ If she showed this side of herself more often, she would[r]become a student coun
 As I imagine Saeki, who spreads smiles as the beloved[r]student council president, a black shadow appeared at the[r]corner of my vision.[pcms]
 [l][er]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 [bgm007]
 
 *6975|
@@ -233,7 +233,7 @@ I timidly turned my gaze towards that direction, and there[r]was a small figure 
 [fc]
 When I focused my eyes, I recognized the figure's posture.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *6979|
 [fc]
@@ -260,7 +260,7 @@ I felt sorry for Saeki, but I chose to pursue Igarashi-san.[pcms]
 Saeki! I found Igarashi-san, so I'm going to go and call[r]her![l][er]
 Sorry, but I'll leave the way back to you![pcms]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 *v2815|
@@ -282,6 +282,6 @@ While listening to Saeki's desperate cry from behind, I ran[r]towards Igarashi-s
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[07020]ã¸
+;//[07020]‚Ö
 [jump target=*07020_H_TOP storage="07020_H.ks"]
 

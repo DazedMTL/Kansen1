@@ -1,12 +1,12 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05630ã€JUDGMENTã€€DAYã€
-;//BG:åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05630wJUDGMENT@DAYx
+;//BG:’n‰ººFÁ“”
+;//“oêl•¨GålŒöE“µ
 
 *05630_TOP
-;[debug_win]ãªã†ã€€05630[debug_win_end]
+;[debug_win]‚È‚¤@05630[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05630 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05630 = 1"]
 
 [eval exp="f.prologue_route = 0"]
 [eval exp="f.yuu_route1 = 0"]
@@ -19,12 +19,12 @@
 [eval exp="f.hitomi_route4 = 1"]
 [eval exp="f.infection_route = 0"]
 
-;*SceneSet|ã€ï¼ªï¼µï¼¤ï¼§ï¼­ï¼¥ï¼®ï¼´ã€€ï¼¤ï¼¡ï¼¹ã€
+;*SceneSet|w‚i‚t‚c‚f‚l‚d‚m‚s@‚c‚`‚xx
 
-;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼’ï¼¢ã€€ç”»é¢ã€€è¡¨ç¤º
-;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€Startã€€è¡¨ç¤º
+;//flag:“µƒ‹[ƒgƒtƒ[@‚Q‚a@‰æ–Ê@•\¦
+;//flag:“µƒ‹[ƒgƒtƒ[@Start@•\¦
 
-;//â™ªï¼šBGM010
+;//ôFBGM010
 
 [bgm010]
 
@@ -33,7 +33,7 @@
 [bg storage="bg23b"]
 [trans_c cross time=1000]
 
-;//SE:å†·è”µåº«ã®ãƒ¢ãƒ¼ã‚¿ãƒ¼éŸ³
+;//SE:—â‘ ŒÉ‚Ìƒ‚[ƒ^[‰¹
 [se0 storage="se044"]
 
 ;;;[sysbt_meswin]
@@ -109,7 +109,7 @@ I never even dreamed that I would fall in love with Saeki[r]and go as far as hav
 *5933|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5934|
 [fc]
@@ -135,7 +135,7 @@ However, the touch of my hand caressing Saeki's cheek[r]clearly conveys the sens
 [fc]
 It's not a dream... Saeki is right here, next to me...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2471|
 [fc]
@@ -157,7 +157,7 @@ Saeki smiled and gently shook her head as she placed her[r]hand on top of mine, 
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2472|
 [fc]
@@ -165,7 +165,7 @@ Saeki smiled and gently shook her head as she placed her[r]hand on top of mine, 
 [ns]Saeki[nse]
 Good morning...[pcms]
 
-;//â™ªï¼šBGM010ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM010ƒtƒF[ƒhƒAƒEƒg
 [fadeoutbgm time=500]
 
 *5940|
@@ -179,7 +179,7 @@ Ah, good morning.[pcms]
 [fc]
 When I smiled at Saeki, we heard a noise coming from[r]outside.[pcms]
 
-;//â™ªï¼šBGM003ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM003ƒtƒF[ƒhƒCƒ“
 [bgm003]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
@@ -191,7 +191,7 @@ When I smiled at Saeki, we heard a noise coming from[r]outside.[pcms]
 [fc]
 I sat up and focused on the sound, realizing that several[r]people seemed to be walking above the door, dragging their[r]feet.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2473|
 [fc]
@@ -202,7 +202,7 @@ Kato-san...[pcms]
 *5943|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5944|
 [fc]
@@ -222,7 +222,7 @@ It's okay. The door is locked too.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
-;ç«‹ã¡
+;—§‚¿
 
 *v2474|
 [fc]
@@ -243,5 +243,5 @@ I smiled and nodded at Saeki, who was looking at me with an[r]anxious expression
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05640]ã¸
+;//[05640]‚Ö
 [jump target=*05640_TOP storage="05640.ks"]

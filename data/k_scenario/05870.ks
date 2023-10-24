@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05870ã€ä¸æ³¨æ„ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤•æ–¹
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»æ„ŸæŸ“ãƒªã‚µãƒ»ã‚¾ãƒ³ãƒ“
+;//¡ËƒuƒƒbƒN05870w•s’ˆÓx
+;//BG:“Áê‹³º˜L‰ºF—[•û
+;//“oêl•¨GålŒöE“µEŠ´õƒŠƒTEƒ]ƒ“ƒr
 
 *05870_TOP
-;[debug_win]ãªã†ã€€05870[debug_win_end]
-;*SceneSet|ã€ä¸æ³¨æ„ã€
+;[debug_win]‚È‚¤@05870[debug_win_end]
+;*SceneSet|w•s’ˆÓx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05870 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05870 = 1"]
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 
 [bgm009]
 
@@ -18,7 +18,7 @@
 [bg storage="bg04b"]
 [trans_c cross time=500]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 
 [se0 storage="se005"]
 
@@ -44,7 +44,7 @@ I'm cutting through, Saeki!![pcms]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2588|
 [fc]
@@ -59,7 +59,7 @@ Yes![pcms]
 As to not be touched by them, we slip through at full speed.[l][er]
 At that moment, when I looked back to confirm that they[r]weren't following us...[pcms]
 
-;//SE:äººã«ã¶ã¤ã‹ã‚‹
+;//SE:l‚É‚Ô‚Â‚©‚é
 [se0 storage="se025"]
 [quake_bg xy m]
 
@@ -82,7 +82,7 @@ Ouch...[pcms]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2589|
 [fc]
@@ -100,7 +100,7 @@ There, I saw the figure of Shindou-sensei, struggling to[r]stand up.[pcms]
 [ns]Kato[nse]
 Sensei Shindou...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 [ChrSetEx layer=1 chbase="risa_e_e_01"]
 [ChrSetXY layer=1 x=180 y=0]
 [ChrSetParts layer=1 chface="risa_e_e_02"]
@@ -140,7 +140,7 @@ As Shindou-sensei slowly approached with a faint smile, I[r]was suddenly pulled 
 [ChrSetParts layer=1 chface="sae_c_c_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2590|
 [fc]
@@ -152,10 +152,10 @@ I absolutely won't allow such a thing!![pcms]
 *6324|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
-;ç«‹ã¡
-;æ–°é“
+;—§‚¿
+;V“¹
 [ChrSetEx layer=1 chbase="risa_e_e_01"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
@@ -176,5 +176,5 @@ Sensei Shindou...[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05880]ã¸
+;//[05880]‚Ö
 [jump target=*05880_TOP storage="05880.ks"]

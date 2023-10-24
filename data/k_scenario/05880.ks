@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05880ã€æœ€å¾Œã®åˆ¥ã‚Œã€
-;//BG:å­¦é£Ÿï¼šå¤•æ–¹ï¼šæ¶ˆç¯
+;//¡ËƒuƒƒbƒN05880wÅŒã‚Ì•Ê‚êx
+;//BG:ŠwHF—[•ûFÁ“”
 [ns]Kato[nse]
 
 *05880_TOP
-;[debug_win]ãªã†ã€€05880[debug_win_end]
-;*SceneSet|ã€æœ€å¾Œã®åˆ¥ã‚Œã€
+;[debug_win]‚È‚¤@05880[debug_win_end]
+;*SceneSet|wÅŒã‚Ì•Ê‚êx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05880 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05880 = 1"]
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 
 [bgm009]
 
@@ -18,7 +18,7 @@
 [bg storage="bg14b"]
 [trans_c cross time=500]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 
 [se0 storage="se005"]
 
@@ -53,7 +53,7 @@ Yamagishi-san, who made eye contact with me, gave me the[r]same gentle smile as 
 [fc]
 I had started to feel hesitant about abandoning her, seeing[r]Yamagishi-san's smile that didn't seem like it had changed,[r]even after being infected by something incomprehensible.[pcms]
 
-;//â™ªï¼šBGM009ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM009ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
@@ -70,11 +70,11 @@ If the person in front of me was Yamagishi-san, completely[r]strange like when I
 [fc]
 But the current Yamagishi-san looks somewhat lonely, dulling[r]my judgment.[pcms]
 
-;//â™ªï¼šBGM004ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM004ƒtƒF[ƒhƒCƒ“
 
 [bgm004]
 
-;ç«‹ã¡
+;—§‚¿
 [ChrSetEx layer=1 chbase="take_c_a_06"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
@@ -91,13 +91,13 @@ please let me cum... I can't help it...[pcms]
 [ChrSetParts layer=1 chface="sae_c_d_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2591|
 [fc]
 [vo_sa s="sae0702"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *6335|
 [fc]
@@ -109,7 +109,7 @@ Saeki quickly moved towards him and forcefully pushed him[r]away with all her mi
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;//SE:ãƒ‰ã‚µãƒ¥
+;//SE:ƒhƒTƒ…
 [se0 storage="se021"]
 
 [eval exp="f.chara_x = 100,f.chara_y = 0"]
@@ -117,7 +117,7 @@ Saeki quickly moved towards him and forcefully pushed him[r]away with all her mi
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std383|
 [fc]
 [ns]Takeuchi[nse]
@@ -151,7 +151,7 @@ Damn it![pcms]
 [ChrSetParts layer=1 chface="sae_c_d_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2592|
 [fc]
@@ -172,7 +172,7 @@ With a lingering feeling, I slipped past Yamagishi-san's[r]side and descended a 
 [ChrSetParts layer=1 chface="yuu_d_d_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2593|
 [fc]
@@ -192,7 +192,7 @@ Goodbye... Yamagishi-san...[pcms]
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2594|
 [fc]
@@ -208,13 +208,13 @@ When I turned around and said my final words, she continued[r]to smile gently.[p
 
 
 
-;ç«‹ã¡
+;—§‚¿
 
 ;//blackout
 ;g[backlay_c][chara_int][trans_c cross time=150]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05890]ã¸
+;//[05890]‚Ö
 [jump target=*05890_TOP storage="05890.ks"]
 \

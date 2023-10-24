@@ -1,28 +1,28 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05420ã€æ ¡èˆã¸ã€
-;//;//BG:ç„¡ã—
-;//;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN05420wZÉ‚Öx
+;//;//BG:–³‚µ
+;//;//BG:“n‚è˜L‰ºF—[•ûFÁ“”
+;//“oêl•¨GålŒöE“µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *05420_TOP
-;[debug_win]ãªã†ã€€05420[debug_win_end]
-;*SceneSet|ã€æ ¡èˆã¸ã€
+;[debug_win]‚È‚¤@05420[debug_win_end]
+;*SceneSet|wZÉ‚Öx
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 
 [fadeoutbgm time=500]
 
-;//;//BG:bgç„¡ã—
+;//;//BG:bg–³‚µ
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05420 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05420 = 1"]
 
-;//SE:ã‚·ãƒ£ãƒ¯ãƒ¼ã®éŸ³ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒVƒƒƒ[‚Ì‰¹@ƒ‹[ƒv
 
-;//ï¼ SEæ¸ˆã¿
+;//—SEÏ‚İ
 
 
 
@@ -84,7 +84,7 @@ Let's go, Saeki![pcms]
 [bg storage="bg09a"]
 [trans_c cross time=500]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 
 [se0 storage="se005"]
 
@@ -107,7 +107,7 @@ What's wrong? Hurry up, Shindou-sensei is waiting.[pcms]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2273|
 [fc]
@@ -130,7 +130,7 @@ Eh? What?[pcms]
 [ChrSetParts layer=1 chface="sae_c_c_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2274|
 [fc]
@@ -143,7 +143,7 @@ I can't run because I'm not wearing any underwear!![pcms]
 [ns]Kato[nse]
 Eh...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2275|
 [fc]
@@ -163,7 +163,7 @@ Please consider my feelings a little bit too!![pcms]
 ;	[black_toplayer][trans_c cross time=1001][hide_chara_int]
 ;	*/
 
-;//[05430]ã¸
+;//[05430]‚Ö
 [jump target=*05430_TOP storage="05430.ks"]
 
 

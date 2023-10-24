@@ -1,16 +1,16 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– ãƒ–ãƒ­ãƒƒã‚¯0021ã€ç³ã¨ç«¹å†…ã‚’è«­ã™ã€
-;//BG:å­¦åœ’å†…å­¦é£Ÿï¼šå¤•æ–¹
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ƒuƒƒbƒN0021w“µ‚Æ’|“à‚ğ—@‚·x
+;//BG:Šw‰€“àŠwHF—[•û
+;//“oêl•¨GålŒöE—DE“µE•ü”üE’|“àE“c’†
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *0021_TOP
-;[debug_win]ãªã†ã€€0021[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0021 = 1"]
+;[debug_win]‚È‚¤@0021[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0021 = 1"]
 
-;*SceneSet|ã€ç³ã¨ç«¹å†…ã‚’è«­ã™ã€
+;*SceneSet|w“µ‚Æ’|“à‚ğ—@‚·x
 
 ;//[0021]
 ;//flag:
@@ -37,7 +37,7 @@ Enough already, both of you. If you fight while we're[r]eating, the food will ta
 [ChrSetParts layer=1 chface="take_a_d_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std120|
 [fc]
 [ns]Takeuchi[nse]
@@ -48,7 +48,7 @@ It's not my fault! Isn't it bad that they're falsely[r]accusing me?![pcms]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v216|
 [fc]
@@ -66,7 +66,7 @@ I was honestly amazed by Saeki's exaggerated reaction,[r]saying that to us with 
 [ChrSetParts layer=1 chface="take_a_d_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std121|
 [fc]
 [ns]Takeuchi[nse]
@@ -89,7 +89,7 @@ When I poured more oolong tea into the two of their cups,[r]Yuuji served Shinya 
 [ChrSetParts layer=1 chface="tanaka_a_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std122|
 [fc]
 [ns]Tanaka[nse]
@@ -100,7 +100,7 @@ Hey Shinya, cheer up. I'll do this, okay?[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v217|
 [fc]
@@ -113,7 +113,7 @@ Ah, I want to eat Tomo-chan's fried chicken too![pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std123|
 [fc]
 [ns]Tanaka[nse]
@@ -123,7 +123,7 @@ Here, here, Yuu-chan, please have some too.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v218|
 [fc]
@@ -136,20 +136,20 @@ Wow, it looks delicious![pcms]
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v219|
 [fc]
 [vo_to s="tomo0033"]
 [ns]Igarashi[nse]
-Oh, it's true! Hitomi-san's fried rice is delicious~!  Yuu-[r]chan, here, aah~[pcms]
+Oh, it's true! Hitomi-san's fried rice is delicious~!   Yuu-[r]chan, here, aah~[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_a_a_01"]
 [ChrSetXY layer=1 x=160 y=0]
 [ChrSetParts layer=1 chface="tanaka_a_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std124|
 [fc]
 [ns]Tanaka[nse]
@@ -166,6 +166,6 @@ Shinya in particular, for a while, was muttering something -[r]probably complain
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;//[0024]ã¸
+;//[0024]‚Ö
 [jump target=*0024_TOP storage="0024.ks"]
 

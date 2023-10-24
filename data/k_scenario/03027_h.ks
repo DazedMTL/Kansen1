@@ -1,16 +1,16 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯03027ã€æ‚ªå¤¢ã€
-;//BG:å¥³å­ãƒˆã‚¤ãƒ¬ï¼šå¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ç³ãƒ»ç«¹å†…
-;//ã€†ç«¹å†…è¦–ç‚¹
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN03027wˆ«–²x
+;//BG:—qƒgƒCƒŒF–éFÁ“”
+;//“oêl•¨G“µE’|“à
+;//Y’|“à‹“_
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *03027_H_TOP
-;[debug_win]ãªã†ã€€03027_H[debug_win_end]
+;[debug_win]‚È‚¤@03027_H[debug_win_end]
 
 [eval exp="sf.SRP13 = 1"][if exp="tf.scene_mode == 0"][jump target=*03027_H][endif]
 ;;[winset]
@@ -18,11 +18,11 @@
 [jump target=*scene_start]
 
 *03027_H
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_03027 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_03027 = 1"]
 
-;*SceneSet|ã€æ‚ªå¤¢ã€
+;*SceneSet|wˆ«–²x
 
-;//â™ªï¼šBGM003
+;//ôFBGM003
 *scene_start
 
 ;//H_CG
@@ -36,7 +36,7 @@
 *3501|
 [fc]
 [ns]Takeuchi[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *3502|
 [fc]
@@ -111,7 +111,7 @@ Kuh... This...![pcms]
 [ns]Saeki[nse]
 Mmm... Nngh...[pcms]
 
-;//SE:æœã®ç ´ã‚Œã‚‹éŸ³
+;//SE:•‚Ì”j‚ê‚é‰¹
 
 [se0 storage="se006"]
 
@@ -181,7 +181,7 @@ Mmm... Ahh![pcms]
 [fc]
 It's almost time... Soon, I'll be able to taste the pleasure[r]of your pussy again![pcms]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 
 [se0 storage="se058"]
 
@@ -202,7 +202,7 @@ It's almost time... Soon, I'll be able to taste the pleasure[r]of your pussy aga
 [fc]
 Unlike before, since I knew where to put it, this time I was[r]able to smoothly insert my penis.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 
 [se0 storage="se059"]
 
@@ -245,7 +245,7 @@ N-No... It's no good... It's because you...[l][er]
 It's because you're being naughty...[l][er]
 Just behave yourself... It's because you're being naughty...[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [se0 storage="se061" loop=true]
 
@@ -395,11 +395,11 @@ Ahh... I'm... going to cum...[pcms]
 [ns]Saeki[nse]
 Nguuhh!![pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se0]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -476,7 +476,7 @@ She is sitting on the toilet, with my semen dripping from[r]her pussy.[pcms]
 *3548|
 [fc]
 [ns]Takeuchi[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *3549|
 [fc]
@@ -517,9 +517,9 @@ After saying just that, I left Hitomi in the toilet and ran[r]away to the audiov
 
 ;//blackout
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
@@ -528,28 +528,28 @@ After saying just that, I left Hitomi in the toilet and ran[r]away to the audiov
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn13 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn13 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
 ;[black_toplayer][trans_c random][hide_chara_int]
 [zapfade]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;//â€»æ¡ä»¶åˆ†å²
-;//ãƒ»flag:ç³ã‚’å¿ƒé…ã™ã‚‹ ãŒOFF;//[02091]ã¸
-;//ãƒ»flag:ç³ã‚’å¿ƒé…ã™ã‚‹ ãŒON;//[03028]ã¸
+;//¦ğŒ•ªŠò
+;//Eflag:“µ‚ğS”z‚·‚é ‚ªOFF;//[02091]‚Ö
+;//Eflag:“µ‚ğS”z‚·‚é ‚ªON;//[03028]‚Ö
 
-;//<If SEL00_ANXIETYã‚«ãƒ³ãƒ(g_anxiety==1)>
+;//<If SEL00_ANXIETYƒJƒ“ƒ}(g_anxiety==1)>
 
 ;//[jump target=*02091_TOP storage="02091.ks"]
 

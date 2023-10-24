@@ -1,27 +1,27 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04030ã€å¤±æ„ã€
-;//BG:å­¦åœ’å…¥ã‚Šå£ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µãƒ»ã‚¾ãƒ³ãƒ“
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04030w¸ˆÓx
+;//BG:Šw‰€“ü‚èŒûF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöEƒŠƒTEƒ]ƒ“ƒr
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04030_H_TOP
-;[debug_win]ãªã†ã€€04030_H[debug_win_end]
+;[debug_win]‚È‚¤@04030_H[debug_win_end]
 [eval exp="sf.SRP20 = 1"][if exp="tf.scene_mode == 0"][jump target=*04030_H][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 *04030_H
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04030 = 1"]
-;*SceneSet|ã€å¤±æ„ã€
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04030 = 1"]
+;*SceneSet|w¸ˆÓx
 
 ;;;[sysbt_meswin clear]
 
 *scene_start
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 [bgm008]
 
 ;//H_CG
@@ -58,7 +58,7 @@ Ahh... pussy~...[pcms]
 [ns]Shindou[nse]
 No... stop...!![pcms]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 
 ;//[se0 storage="se058"]
 
@@ -76,29 +76,29 @@ One of them forcefully latched onto the teacher's crotch.[pcms]
 [ns]Shindou[nse]
 Higuu!![pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
 
 ;//[se1 storage="se060" loop=true]
 
-;//ãƒ¢ãƒã‚’å…¨éƒ¨æŒ¿ã—è¾¼ã‚“ã ç”·ã¯ã€æ—©é€Ÿã€è…°ã‚’å‹•ã‹ã—å§‹ã‚ãŸã€‚
+;//ƒ‚ƒm‚ğ‘S•”‘}‚µ‚ñ‚¾’j‚ÍA‘‘¬A˜‚ğ“®‚©‚µn‚ß‚½B
 ;//[l][er]
 
 ;//*|
 ;	[fc]
 ;	[vo_ri s="risa0416"]
 [ns]Shindou[nse]
-;//ã€Œã†ãâ€¦â€¦ã‚â€¦â€¦æŠœã„ã¦â€¦â€¦é§„ç›®ã‚ˆâ€¦â€¦ï¼ã€
+;//u‚¤‚Ÿcc‚ cc”²‚¢‚Äcc‘Ê–Ú‚æccIv
 ;//[l][er]
 
 [ns]Male Student U[nse]
-;//ã€Œã†ã¸ã€ã¸ã‡â€¦â€¦ã€
+;//u‚¤‚ÖA‚Ö‚¥ccv
 ;//[l][er]
 
 ;//*|
 ;	[fc]
 ;	[vo_ri s="risa0417"]
 [ns]Shindou[nse]
-;//ã€Œã²ã£ã€ãã£â€¦â€¦ã„ã€ã‚„ãã£ï¼ã€€æŠœã„ã€ã¦ã‡ã£ï¼ï¼ã€
+;//u‚Ğ‚ÁA‚®‚Ácc‚¢A‚â‚Ÿ‚ÁI@”²‚¢A‚Ä‚¥‚ÁIIv
 ;//[l][er]
 
 *4211|
@@ -113,7 +113,7 @@ O-oh...[pcms]
 [ns]Shindou[nse]
 N-mo~!![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
@@ -241,8 +241,8 @@ The movements of the man thrusting into Shindou-sensei's[r]mouth gradually becom
 Nguh! Nbuo! Ngu, guu...![pcms]
 
 [ns]Male Student U[nse]
-;//ã€Œã†ã€ã¯ãâ€¦â€¦ã¾ã€ãŸâ€¦â€¦ã¾ã€ã‚“ã“ã€ã—ã€ã¾ã£ã¦ã€ãã€
-;//ãŸãâ€¦â€¦ã€
+;//u‚¤A‚Í‚Ÿcc‚ÜA‚½cc‚ÜA‚ñ‚±A‚µA‚Ü‚Á‚ÄA‚«A
+;//‚½‚Ÿccv
 ;//[l][er]
 
 *4225|
@@ -272,13 +272,13 @@ However, when the man pressed down on her head with both[r]hands, the teacher's 
 I'm gonna... release it... slowly...[l][er]
 inside... your... womb...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
 [stop_se1]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -339,8 +339,8 @@ Ugh...!! Uwaa...! Geho! Uwaaa...[pcms]
 [fc]
 The man who was licking her genitals seemed to be excited by[r]the teacher who was struggling to spit out the semen, and[r]his movements suddenly became more intense.[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
-;//æ¹¿ã£ãŸéŸ³ã«å¤‰æ›´ã€‚
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
+;//¼‚Á‚½‰¹‚É•ÏXB
 
 [se1 storage="se059"]
 
@@ -360,7 +360,7 @@ please...[pcms]
 [fc]
 [ns]Male Student U[nse]
 Fufufu, hehe... you don't like it, huh...[l][er]
-moaning... like this, huhn...  fuuun~[pcms]
+moaning... like this, huhn...   fuuun~[pcms]
 
 *v1759|
 [fc]
@@ -380,11 +380,11 @@ The man, with a lewd smile on his face, intensified his[r]movements as he watche
 Ahhh... it's coming out... uhhhh...[l][er]
 uaaaahhh...[pcms]
 ;
-;	;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;	;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 ;
 ;	[stop_se1]
 ;
-;	;//SE:å°„ç²¾
+;	;//SE:Ë¸
 ;
 ;	[se0 storage="se062"]
 ;
@@ -424,8 +424,8 @@ Nooooooo!![pcms]
 [ns]Shindou[nse]
 Uwaaa...! No... like this... thing...![pcms]
 
-;//ç”·ã¯å‘»ãå£°ã¨åŒæ™‚ã«ã€ãªã‚‹ã¹ãå¥¥ã«å°„ç²¾ã—ã‚ˆã†ã¨ã§ã‚‚ã—
-;//ã¦ã„ã‚‹ã®ã‹ã€ä½•åº¦ã‹å¼·ãè…°ã‚’çªãå‡ºã—ãŸã€‚
+;//’j‚Í™ï‚«º‚Æ“¯‚ÉA‚È‚é‚×‚­‰œ‚ÉË¸‚µ‚æ‚¤‚Æ‚Å‚à‚µ
+;//‚Ä‚¢‚é‚Ì‚©A‰½“x‚©‹­‚­˜‚ğ“Ë‚«o‚µ‚½B
 ;//[l][er]
 
 *4241|
@@ -436,8 +436,8 @@ Ugh, fuu~...[pcms]
 ;//*|
 ;	[vo_ri s="risa0436"]
 [ns]Shindou[nse]
-;//ã€Œã‚ã£â€¦â€¦ã‚ã‚›ã£â€¦â€¦ã‚ã‚›ãã€œã€œã€œâ€¦â€¦ã²ã£ã€ãâ€¦â€¦ã„
-;//ã‚„ã€ãâ€¦â€¦å…¥ã£ã§ã€ãã‚‹ã‚›ã…â€¦â€¦ã€
+;//u‚ ‚Ácc‚ J‚Ácc‚ J‚Ÿ```cc‚Ğ‚ÁA‚Ÿcc‚¢
+;//‚âA‚Ÿcc“ü‚Á‚ÅA‚­‚éJ‚£ccv
 ;//[l][er]
 
 *v1764|
@@ -488,11 +488,11 @@ What?! What have they done to me?![pcms]
 [fc]
 At the moment I tried to swing my leg back...[pcms]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 
 [se0 storage="se026"]
 
-;//ã€†ç”»é¢æºã‚Œ
+;//Y‰æ–Ê—h‚ê
 
 [quake_bg xy m]
 
@@ -514,27 +514,27 @@ Gah...!![pcms]
 
 [red_toplayer][trans_c cross time=500][hide_chara_int_r]
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn20 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn20 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
-;//â€»ã‚²ãƒ¼ãƒ ã‚ªãƒ¼ãƒãƒ¼
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//¦ƒQ[ƒ€ƒI[ƒo[
 
 ;;;[sysbt_meswin clear]
 

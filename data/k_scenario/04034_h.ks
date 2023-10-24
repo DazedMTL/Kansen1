@@ -1,26 +1,26 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04034ã€ãƒªã‚µã®å£ã€
-;//BG:ä¸‰éšæ•™å®¤ï¼šå¤œ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04034wƒŠƒT‚ÌŒûx
+;//BG:OŠK‹³ºF–é
+;//“oêl•¨GålŒöEƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04034_H_TOP
-;[debug_win]ãªã†ã€€04034_H[debug_win_end]
+;[debug_win]‚È‚¤@04034_H[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04034 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04034 = 1"]
 
-;*SceneSet|ã€ãƒªã‚µã®å£ã€
+;*SceneSet|wƒŠƒT‚ÌŒûx
 
-;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€badï¼•ã€€è¡¨ç¤º
+;//flag:—Dƒ‹[ƒgƒtƒ[@bad‚T@•\¦
 
-;//â™ªï¼šBGM006
+;//ôFBGM006
 
 [bgm006]
 
-;//H_CG:ãƒªã‚µãŒãƒ‘ã‚¤ã‚ºãƒª
+;//H_CG:ƒŠƒT‚ªƒpƒCƒYƒŠ
 
 ;[evcg storage="HEV_036_a"]
 ;[trans_c cross time=500]
@@ -61,7 +61,7 @@ Or is it just that my secret desires have manifested as a[r]dream...[pcms]
 Ahh... mmm, *sucking sound*, mmm...[l][er]
 *kissing sound*, *sucking sound*, *licking sound*, *sigh*...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
@@ -175,11 +175,11 @@ chuppu, chubuu...[pcms]
 [ns]Kato[nse]
 Ugh... ah...![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -276,7 +276,7 @@ You still look so tense... Sensei will take care of all your[r]stiffness...[pcms
 [fc]
 I, who was shaken and unable to regain my composure,[r]couldn't avoid Shindou-sensei who was coming to cover me.[pcms]
 
-;//[04035]ã¸
+;//[04035]‚Ö
 [jump target=*04035_H_TOP storage="04035_H.ks"]
 
 

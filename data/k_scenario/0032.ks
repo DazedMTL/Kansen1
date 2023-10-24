@@ -1,28 +1,28 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0032ã€æ²ˆé»™ã€ãã®å¾Œãƒ»æ¢ç´¢é–‹å§‹ï¼šãƒ«ãƒ¼ãƒˆåˆ†å²ã€
-;//BG:è¦–è´è¦šå®¤ï¼šå¤œ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN0032w’¾–ÙA‚»‚ÌŒãE’TõŠJnFƒ‹[ƒg•ªŠòx
+;//BG:‹’®ŠoºF–é
+;//“oêl•¨GålŒöE—DE“µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *0032_TOP
-;[debug_win]ãªã†ã€€0032[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0032 = 1"]
+;[debug_win]‚È‚¤@0032[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0032 = 1"]
 
-;*SceneSet|ã€æ²ˆé»™ã€ãã®å¾Œãƒ»æ¢ç´¢é–‹å§‹ã€
+;*SceneSet|w’¾–ÙA‚»‚ÌŒãE’TõŠJnx
 
 ;//[0032]
 
-;//flag:ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ã‚¶ãƒƒãƒ”ãƒ³ã‚°ãƒ‘ãƒ¼ãƒˆã€€é–‹æ”¾ã€€on
+;//flag:ƒvƒƒ[ƒOƒUƒbƒsƒ“ƒOƒp[ƒg@ŠJ•ú@on
 
-;//flag:ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ãƒ•ãƒ­ãƒ¼ã€€ç”»é¢ã€€è¡¨ç¤ºã€€on
-;//flag:ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ãƒ•ãƒ­ãƒ¼ã€€ï¼‘ï¼ï¼’ï¼ï¼“ï¼ï¼”ã€€è¡¨ç¤ºã€€on
+;//flag:ƒvƒƒ[ƒOƒtƒ[@‰æ–Ê@•\¦@on
+;//flag:ƒvƒƒ[ƒOƒtƒ[@‚PD‚QD‚RD‚S@•\¦@on
 
 ;//BG:bg015d
 ;g[bg storage="bg15c"]
 ;g[trans_c cross time=500]
-;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM007ƒtƒF[ƒhƒCƒ“
 [bgm007]
 
 *754|
@@ -73,7 +73,7 @@ If we find anyone else, let's bring them back to the[r]audiovisual room and wait
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v291|
 [fc]
@@ -85,7 +85,7 @@ Understood.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v292|
 [fc]
@@ -100,7 +100,7 @@ Alright, let's go then.[pcms]
 
 ;//BG:bgbg005c
 
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [bg storage="bg05c"]
 [trans_c cross time=500]
 
@@ -121,35 +121,35 @@ Although I suggested that we split up and search, I had my[r]own intentions.[pcm
 [fc]
 There were hidden intentions that I couldn't express in that[r]situation.[pcms]
 
-;//A:ã“ã“ã§å±±å²¸ã•ã‚“ã‚’è¿½ã„ã‹ã‘ã‚Œã°ã€äºŒäººãã‚Šã«ãªã‚Œã‚‹â€¦â€¦ã€‚;//[02000]ï¼ˆå„ªãƒ«ãƒ¼ãƒˆï¼‰ã¸
-;//B:æãŒã‚Šã®ä½ä¼¯ã«ã€å¤œä¸­ã®å­¦æ ¡ã‚’ä¸€äººã§æ­©ã‹ã›ã‚‹ã®ã¯ã‹ã‚ã„ãã†ã ;//[05000]ï¼ˆç³ãƒ«ãƒ¼ãƒˆï¼‰ã¸
+;//A:‚±‚±‚ÅRŠİ‚³‚ñ‚ğ’Ç‚¢‚©‚¯‚ê‚ÎA“ñl‚«‚è‚É‚È‚ê‚éccB;//[02000]i—Dƒ‹[ƒgj‚Ö
+;//B:‹°‚ª‚è‚Ì²”Œ‚ÉA–é’†‚ÌŠwZ‚ğˆêl‚Å•à‚©‚¹‚é‚Ì‚Í‚©‚í‚¢‚»‚¤‚¾;//[05000]i“µƒ‹[ƒgj‚Ö
 
 *SEL00_0017
 
-*SEL01|ã“ã“ã§å±±å²¸ã•ã‚“ã‚’è¿½ã„ã‹ã‘ã‚Œã°ï¼æãŒã‚Šã®ä½ä¼¯ã«ã€å¤œä¸­ã®å­¦æ ¡ã‚’ä¸€äººã§
+*SEL01|‚±‚±‚ÅRŠİ‚³‚ñ‚ğ’Ç‚¢‚©‚¯‚ê‚Î^‹°‚ª‚è‚Ì²”Œ‚ÉA–é’†‚ÌŠwZ‚ğˆêl‚Å
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'ã“ã“ã§å±±å²¸ã•ã‚“ã‚’è¿½ã„ã‹ã‘ã‚Œã°ã€äºŒäººãã‚Šã«ãªã‚Œã‚‹â€¦â€¦'"]
-[eval exp="f.seltext04 = 'æãŒã‚Šã®ä½ä¼¯ã«ã€å¤œä¸­ã®å­¦æ ¡ã‚’ä¸€äººã§æ­©ã‹ã›ã‚‹ã®ã¯ã‹ã‚ã„ãã†ã '"]
+[eval exp="f.seltext02 = '‚±‚±‚ÅRŠİ‚³‚ñ‚ğ’Ç‚¢‚©‚¯‚ê‚ÎA“ñl‚«‚è‚É‚È‚ê‚écc'"]
+[eval exp="f.seltext04 = '‹°‚ª‚è‚Ì²”Œ‚ÉA–é’†‚ÌŠwZ‚ğˆêl‚Å•à‚©‚¹‚é‚Ì‚Í‚©‚í‚¢‚»‚¤‚¾'"]
 
 
-[if exp="tf.sys_sub == 0 || tf.é¸æŠè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
-	;é¸æŠè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
+[if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
+	;‘I‘ğˆ“à—e‚ğƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[å±¥æ­´å‡ºåŠ›å¾©å¸°]
+[—š—ğo—Í•œ‹A]
 
-;é¸æŠè‚¢æ–‡å­—å…¥ã‚Šãã‚‰ãªã„ã‹ã‚‰å¼·å¼•ã«èª¿æ•´
+;‘I‘ğˆ•¶š“ü‚è‚«‚ç‚È‚¢‚©‚ç‹­ˆø‚É’²®
 [eval exp="sf.seltext_size = 24"]
 [eval exp="sf.sel_text_mt = 8"]
 
-;é¸æŠè‚¢ãƒ™ãƒ¼ã‚¹
+;‘I‘ğˆƒx[ƒX
 [selbase]
-;æ–‡å­—ã®å·¦ãƒãƒ¼ã‚¸ãƒ³
+;•¶š‚Ì¶ƒ}[ƒWƒ“
 [eval exp="sf.seltext_x = 80"]
 
 [sel02 target=*SEL00_0032_yuu]
@@ -161,17 +161,17 @@ There were hidden intentions that I couldn't express in that[r]situation.[pcms]
 [sel_hisout txt="&f.seltext02"][hr]
 [fc]
 [selbt_clear]
-;é¸æŠè‚¢æ–‡å­—ã‚µã‚¤ã‚ºã¨ã‹åˆæœŸå€¤ã«æˆ»ã—
+;‘I‘ğˆ•¶šƒTƒCƒY‚Æ‚©‰Šú’l‚É–ß‚µ
 [eval exp="sf.seltext_size = 28"]
 [eval exp="sf.sel_text_mt = 6"]
 
 
-;mm ã“ã“ã®ãƒ ãƒ¼ãƒ“ãƒ¼è¦‹ã¦ãŸã‚‰å†ç”Ÿã—ãªã„ãŸã‚ã‹
+;mm ‚±‚±‚Ìƒ€[ƒr[Œ©‚Ä‚½‚çÄ¶‚µ‚È‚¢‚½‚ß‚©
 [if exp="sf.g_prologue_clear==1"]
 	[jump target=*SEL00_ZAP]
 [endif]
 
-;//ãƒ ãƒ¼ãƒ“ãƒ¼å†ç”Ÿ
+;//ƒ€[ƒr[Ä¶
 [call storage="movie_sub.ks" target=*Prologue_zap_open]
 
 [eval exp="sf.g_prologue_clear = 1"]
@@ -187,7 +187,7 @@ There were hidden intentions that I couldn't express in that[r]situation.[pcms]
 [sel_hisout txt="&f.seltext04"][hr]
 [fc]
 [selbt_clear]
-;é¸æŠè‚¢æ–‡å­—ã‚µã‚¤ã‚ºã¨ã‹åˆæœŸå€¤ã«æˆ»ã—
+;‘I‘ğˆ•¶šƒTƒCƒY‚Æ‚©‰Šú’l‚É–ß‚µ
 [eval exp="sf.seltext_size = 28"]
 [eval exp="sf.sel_text_mt = 6"]
 
@@ -195,7 +195,7 @@ There were hidden intentions that I couldn't express in that[r]situation.[pcms]
 	[jump target=*SEL01_ZAP]
 [endif]
 
-;//ãƒ ãƒ¼ãƒ“ãƒ¼å†ç”Ÿ
+;//ƒ€[ƒr[Ä¶
 [call storage="movie_sub.ks" target=*Prologue_zap_open]
 
 [eval exp="sf.g_prologue_clear = 1"]

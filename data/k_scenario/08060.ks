@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08060ã€å¤‰èª¿ã€
-;//BG;ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç«¹å†…
+;//¡ËƒuƒƒbƒN08060w•Ï’²x
+;//BG;“Áê‹³º˜L‰ºF–éFÁ“”
+;//“oêl•¨GålŒöE’|“à
 
 *08060_TOP
-;[debug_win]ãªã†ã€€08060[debug_win_end]
-;*SceneSet|ã€å¤‰èª¿ã€
+;[debug_win]‚È‚¤@08060[debug_win_end]
+;*SceneSet|w•Ï’²x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08060 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08060 = 1"]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 
 ;//;//BG:bg04d
@@ -27,7 +27,7 @@
 
 [stop_se0]
 
-;ç«‹ã¡
+;—§‚¿
 *std521|
 [fc]
 [ns]Takeuchi[nse]
@@ -59,7 +59,7 @@ It would have been better... It's a little disappointing.[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std522|
 [fc]
 [ns]Takeuchi[nse]
@@ -72,13 +72,13 @@ Yeah, that's true.[pcms]
 
 [fadeoutbgm time=500]
 
-;ç«‹ã¡
+;—§‚¿
 *std523|
 [fc]
 [ns]Takeuchi[nse]
 So that means Yuu-chan and Hitomi are in the same room too,[r]huh.[pcms]
 
-;//SE:å¿ƒæ‹éŸ³
+;//SE:S”‰¹
 [se0 storage="se003" loop=true]
 
 *9018|
@@ -86,7 +86,7 @@ So that means Yuu-chan and Hitomi are in the same room too,[r]huh.[pcms]
 [ns]Kato[nse]
 ...! That's right.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std524|
 [fc]
 [ns]Takeuchi[nse]
@@ -114,7 +114,7 @@ No, no, that's not right.[pcms]
 [ChrSetParts layer=1 chface="take_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std525|
 [fc]
 [ns]Takeuchi[nse]
@@ -127,7 +127,7 @@ No, no, that's not right.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std526|
 [fc]
 [ns]Kato & Takeuchi[nse]
@@ -157,7 +157,7 @@ Speaking of which...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std527|
 [fc]
 [ns]Takeuchi[nse]
@@ -176,7 +176,7 @@ You, are you really that messed up that even medicine[r]doesn't work on you...[p
 [ChrSetParts layer=1 chface="take_a_d_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std528|
 [fc]
 [ns]Takeuchi[nse]
@@ -193,7 +193,7 @@ Haha!! Those who catch a summer cold...[l][er]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std529|
 [fc]
 [ns]Takeuchi[nse]
@@ -222,7 +222,7 @@ Cough![pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std530|
 [fc]
 [ns]Takeuchi[nse]
@@ -232,5 +232,5 @@ Ah, alright, I got it. Quiet down, we're already in the[r]audiovisual room...[pc
 
 
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*08070_TOP storage="08070.ks"]

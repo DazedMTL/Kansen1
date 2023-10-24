@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02140ã€çœ‹è­·ã€
-;//BG:æ•™å®¤ï¼šå¤•æ–¹
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µãƒ»å„ªãƒ»ç«¹å†…ãƒ»å²¸ç”°
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02140wŠÅŒìx
+;//BG:‹³ºF—[•û
+;//“oêl•¨GålŒöEƒŠƒTE—DE’|“àEŠİ“c
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02140_TOP
-;[debug_win]ãªã†ã€€02140[debug_win_end]
+;[debug_win]‚È‚¤@02140[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02140 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02140 = 1"]
 
-;*SceneSet|ã€çœ‹è­·ã€
+;*SceneSet|wŠÅŒìx
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 [bgm007]
 
@@ -32,7 +32,7 @@ Are you okay?[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std280|
 [fc]
 [ns]Takeuchi[nse]
@@ -51,7 +51,7 @@ Isn't it a life full of ups and downs, befitting the king of[r]laughter at Suzug
 *2539|
 [fc]
 [ns]Takeuchi[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
@@ -70,7 +70,7 @@ Are you okay? This guy...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v990|
 [fc]
@@ -90,7 +90,7 @@ I felt a little anxious about Shinya's condition and became[r]concerned if the r
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 [wait_c time=500]
@@ -114,7 +114,7 @@ I want to see if the rescue team has come nearby yet.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v991|
 [fc]
@@ -130,7 +130,7 @@ While taking out a key from the pocket of her skirt, Teacher[r]Shindou warned us
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v992|
 [fc]
@@ -153,7 +153,7 @@ Accompanied by Yamagishi-san nodding, I headed towards the[r]emergency staircase
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -161,5 +161,5 @@ Accompanied by Yamagishi-san nodding, I headed towards the[r]emergency staircase
 
 ;//blackout
 
-;//[02141]ã¸
+;//[02141]‚Ö
 [jump target=*02141_TOP storage="02141.ks"]

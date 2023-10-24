@@ -1,17 +1,17 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05641ã€å®‰å¿ƒã—ã¦ã€
-;//;//BG:åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05641wˆÀS‚µ‚Äx
+;//;//BG:’n‰ººFÁ“”
+;//“oêl•¨GålŒöE“µ
 
-;//â€»05643ã‹ã‚‰05649ã¾ã§æ¬ ç•ª
+;//¦05643‚©‚ç05649‚Ü‚ÅŒ‡”Ô
 
 *05641_TOP
-;[debug_win]ãªã†ã€€05641[debug_win_end]
-;*SceneSet|ã€å®‰å¿ƒã—ã¦ã€
+;[debug_win]‚È‚¤@05641[debug_win_end]
+;*SceneSet|wˆÀS‚µ‚Äx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05641 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05641 = 1"]
 ;	/*
-;	;//â™ªï¼šBGM007
+;	;//ôFBGM007
 ;	[bgm007]
 ;	;	
 ;	;//;//BG:bg23b
@@ -51,13 +51,13 @@ With that in mind, even though it might seem cold-hearted, I[r]told Saeki to sta
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2479|
 [fc]
 [vo_sa s="sae0638"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5976|
 [fc]
@@ -77,5 +77,5 @@ I smiled at Saeki and climbed the stairs to the door.[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05650]ã¸
+;//[05650]‚Ö
 [jump target=*05650_H_TOP storage="05650_H.ks"]

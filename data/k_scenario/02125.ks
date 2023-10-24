@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02125ã€ãƒ©ã‚¸ã‚ªï¼”ã€â™‚â™‚
-;//BG:äºŒéšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»å²¸ç”°ãƒ»åŠ è—¤
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02125wƒ‰ƒWƒI‚Sx‰‰
+;//BG:“ñŠK˜L‰ºFƒoƒŠƒP[ƒhF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DEƒŠƒTEŠİ“cE‰Á“¡
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02125_TOP
-;[debug_win]ãªã†ã€€02125[debug_win_end]
+;[debug_win]‚È‚¤@02125[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02125 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02125 = 1"]
 
-;*SceneSet|ã€ãƒ©ã‚¸ã‚ªï¼”ã€
+;*SceneSet|wƒ‰ƒWƒI‚Sx
 
-;//â™ªï¼šBGM003
+;//ôFBGM003
 
 ;//[bgm003]
 
@@ -50,7 +50,7 @@ Somehow, there seem to be more of them now, coming out from[l][er]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v953|
 [fc]
@@ -73,7 +73,7 @@ Shindou-sensei had a blank expression on her face when I[r]made my suggestion.[p
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v954|
 [fc]
@@ -90,7 +90,7 @@ Shindou-sensei changed her blank expression into a stern one[r]and stood up.[pcm
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v955|
 [fc]
@@ -104,6 +104,6 @@ Kato-kun, come with me.[pcms]
 [ns]Kato[nse]
 Understood.[pcms]
 
-;//[02126]ã¸
+;//[02126]‚Ö
 
 [jump target=*02126_TOP storage="02126.ks"]

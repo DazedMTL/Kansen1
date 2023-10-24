@@ -1,37 +1,37 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04027ã€å¥³ç‹ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ãƒªã‚µãƒ»ç³ãƒ»ã‚¾ãƒ³ãƒ“
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04027w—‰¤x
+;//BG:“Áê‹³º˜L‰ºF’‹i’©Œ“—pj
+;//“oêl•¨GƒŠƒTE“µEƒ]ƒ“ƒr
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04027_H_TOP
-;[debug_win]ãªã†ã€€04027_H[debug_win_end]
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;[debug_win]‚È‚¤@04027_H[debug_win_end]
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 ;[if exp="tf.scene_mode == 0"][jump target=*04027][endif]
 ;[winset]
 
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *04027
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04027 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04027 = 1"]
 
-;*SceneSet|ã€å¥³ç‹ã€
+;*SceneSet|w—‰¤x
 
-;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€zapï¼•ã€€è¡¨ç¤º
+;//flag:—Dƒ‹[ƒgƒtƒ[@zap‚T@•\¦
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 [bgm007]
 
@@ -47,7 +47,7 @@
 [fc]
 [vo_ri s="risa0373"]
 [ns]Shindou[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4133|
 [fc]
@@ -81,7 +81,7 @@ Right now, we need to focus on Yamagishi-san's condition...[pcms]
 [ns]Shindou[nse]
 Oh, that is...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1700|
 [fc]
@@ -93,13 +93,13 @@ Saeki-san! Where did you go? Everyone was worried about you![pcms]
 [ChrSetXY layer=5 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1701|
 [fc]
 [vo_sa s="sae0269"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *v1702|
 [fc]
@@ -116,9 +116,9 @@ Ngh... Why is my clothes...? What on earth...?[pcms]
 And... with eyes that seemed dead...[l][er]
 just staring at me...[pcms]
 
-;ç«‹ã¡
-;ç«‹ã¡
-;èƒŒå¾Œã«ã‚¾ãƒ³ãƒ“ãƒ¼ã‚º
+;—§‚¿
+;—§‚¿
+;”wŒã‚Éƒ]ƒ“ƒr[ƒY
 
 
 [ChrSetEx layer=5 chbase="sae_d_d_12"]
@@ -148,13 +148,13 @@ No way...!?[pcms]
 [ChrSetXY layer=5 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1703|
 [fc]
 [vo_sa s="sae0269"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4141|
 [fc]
@@ -198,10 +198,10 @@ What...[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[04028]ã¸
+;//[04028]‚Ö
 [jump target=*04028_H_TOP storage="04028_H.ks"]
 
 

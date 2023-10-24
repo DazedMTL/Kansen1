@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05190ã€èª¬å¾—ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼›å¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05190wà“¾x
+;//BG:“Áê‹³º˜L‰ºG–éF“_“”
+;//“oêl•¨GålŒöE“µ
 
 *05190_TOP
-;[debug_win]ãªã†ã€€05190[debug_win_end]
-;*SceneSet|ã€èª¬å¾—ã€
+;[debug_win]‚È‚¤@05190[debug_win_end]
+;*SceneSet|wà“¾x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05190 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05190 = 1"]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 [bgm001]
 
 ;//BG:bg004c
@@ -36,13 +36,13 @@ The fact that she's trying to leave without doing that means[r]she must be reall
 [ns]Kato[nse]
 Saeki! Wait![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2104|
 [fc]
 [vo_sa s="sae0393"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5005|
 [fc]
@@ -73,7 +73,7 @@ Saeki turned around after her arm was grabbed and yelled at[r]me in anger.[pcms]
 [ChrSetParts layer=1 chface="sae_c_c_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2105|
 [fc]
@@ -90,7 +90,7 @@ What the hell?![pcms]
 [fc]
 Saeki, who was yelling at me, heated up even more as she[r]unleashed her anger on me for no reason.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2106|
 [fc]
@@ -104,7 +104,7 @@ And without even knowing that I was worried, you were[r]engaging in filthy acts 
 [ChrSetParts layer=1 chface="sae_c_c_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2107|
 [fc]
@@ -117,7 +117,7 @@ I've had enough of this!![pcms]
 [fc]
 Saeki shook off my hand that was grabbing her arm, took a[r]deep breath through her shoulders, and yelled again.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2108|
 [fc]
@@ -134,7 +134,7 @@ I'm going...!?[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2109|
 [fc]
@@ -167,10 +167,10 @@ My head was filled with worry about Saeki, who seemed on the[r]verge of losing c
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 ;//blackout
 
-;//[05200]ã¸
+;//[05200]‚Ö
 [jump target=*05200_TOP storage="05200.ks"]

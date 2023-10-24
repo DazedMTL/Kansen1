@@ -1,25 +1,25 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05710ã€å¤¢ï¼’ã€
-;//;//BG:ç„¡ã—
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05710w–²‚Qx
+;//;//BG:–³‚µ
+;//“oêl•¨GålŒöE“µ
 
 *05710_TOP
-;[debug_win]ãªã†ã€€05710[debug_win_end]
-;*SceneSet|ã€å¤¢ï¼’ã€
+;[debug_win]‚È‚¤@05710[debug_win_end]
+;*SceneSet|w–²‚Qx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05710 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05710 = 1"]
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 
 [fadeoutbgm time=500]
 
-;ã‚·ã‚¹ãƒ†ãƒ ãƒœã‚¿ãƒ³ï¼†ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;ƒVƒXƒeƒ€ƒ{ƒ^ƒ“•ƒEƒBƒ“ƒhƒEÁ‹
 [sysbt_meswin clear]
 
-;//;//BG:bgç„¡ã—
+;//;//BG:bg–³‚µ
 [bg storage="effect_white"][trans_c cross time=1000]
 
-;//â€»ç³ã®ç«‹ã¡è¡¨ç¤º
+;//¦“µ‚Ì—§‚¿•\¦
 [ChrSetEx layer=1 chbase="sae_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_a_a_02"]
@@ -40,12 +40,12 @@ Why are you in front of me...?[l][er]
 You should be sitting next to me...[l][er]
 And why are you naked...?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std371|
 [fc]
 [vo_sa s="sae0665"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *6118|
 [fc]
@@ -62,12 +62,12 @@ Eh...? What did you just...?[pcms]
 [ChrSetParts layer=1 chface="sae_a_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std372|
 [fc]
 [vo_sa s="sae0666"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *6120|
 [fc]
@@ -116,5 +116,5 @@ Saeki!![pcms]
 
 
 
-;//[05720]ã¸
+;//[05720]‚Ö
 [jump target=*05720_TOP storage="05720.ks"]

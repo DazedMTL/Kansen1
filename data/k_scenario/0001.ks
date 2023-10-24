@@ -1,17 +1,17 @@
 
-;//ã€æ„ŸæŸ“ï¼ˆä»®é¡Œï¼‰ï¼ã‚ªãƒ¼ãƒ—ãƒ‹ãƒ³ã‚°éƒ¨åˆ†ãƒ†ã‚­ã‚¹ãƒˆã€
-;//â€»ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãƒœãƒƒã‚¯ã‚¹ã®ç¯„å›²ã‚’ã€æ¨ªÃ—ï¼’ï¼•æ–‡å­—ãƒ»ç¸¦Ã—ï¼“è¡Œã¨ä»®å®šã—ã¦ä½œæˆ
-;//â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼
+;//wŠ´õi‰¼‘èjƒI[ƒvƒjƒ“ƒO•”•ªƒeƒLƒXƒgx
+;//¦ƒƒbƒZ[ƒWƒ{ƒbƒNƒX‚Ì”ÍˆÍ‚ğA‰¡~‚Q‚T•¶šEc~‚Rs‚Æ‰¼’è‚µ‚Äì¬
+;//¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥
 
-;//â– ãƒ–ãƒ­ãƒƒã‚¯0001ï¼šã€çµ‚æ¥­å¼ã€
-;//BG:å­¦åœ’å†…ï¼šå»Šä¸‹ï¼šæ˜¼
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç«¹å†…
-;//â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼
-;//partâ—â”¯â”â”â”â”â”¯â”â”â”â”â”¯â”â”â”â”â”¯â”â”â”24â”“
+;//¡ƒuƒƒbƒN0001FwI‹Æ®x
+;//BG:Šw‰€“àF˜L‰ºF’‹
+;//“oêl•¨GålŒöE’|“à
+;//¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥
+;//partœ„¶„ª„ª„ª„ª„¶„ª„ª„ª„ª„¶„ª„ª„ª„ª„¶„ª„ª„ª24„­
 
 *0001_TOP
-;[debug_win]ãªã†ã€€0001[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0001 = 1"]
+;[debug_win]‚È‚¤@0001[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0001 = 1"]
 
 [eval exp="f.prologue_route = 1"]
 [eval exp="f.yuu_route1 = 0"]
@@ -24,15 +24,15 @@
 [eval exp="f.hitomi_route4 = 0"]
 [eval exp="f.infection_route = 0"]
 
-;*SceneSet|ã€çµ‚æ¥­å¼ã€
+;*SceneSet|wI‹Æ®x
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[å­¦åœ’ï¼šçµ‚æ¥­å¼]
-;//â™ªï¼šBGM01
+;//[Šw‰€FI‹Æ®]
+;//ôFBGM01
 [bgm001]
-;//BGï¼šbg004a
-;//SE:ã‚¬ãƒ¤
+;//BGFbg004a
+;//SE:ƒKƒ„
 [se0 storage="se001" loop=true]
 
 [bg storage="bg04a"]
@@ -43,7 +43,7 @@
 ;;;[sysbt_meswin]
 
 
-*1|çµ‚æ¥­å¼
+*1|I‹Æ®
 [fc]
 [ns]Kato[nse]
 It's been a while... They must have been holding it in for a[r]long time, huh?[pcms]
@@ -126,14 +126,14 @@ Since it was summer, I wanted to believe that the sweat[r]didn't look unnatural.
 My heart was pounding violently, as if I had just finished a[r]short sprint.[l][er]
 Have I ever been so nervous before?[pcms]
 
-;//BG:æ•™å®¤ï¼šã‚»ãƒ”ã‚¢
-;//â™ªï¼šBGM010
+;//BG:‹³ºFƒZƒsƒA
+;//ôFBGM010
 [bgm010]
-;//SE:å­¦æ ¡ã®ãƒãƒ£ã‚¤ãƒ 
+;//SE:ŠwZ‚Ìƒ`ƒƒƒCƒ€
 [se1 storage="se002"]
 
-;//ã‚»ãƒ”ã‚¢
-;â†“ã®ç”»åƒã‚’ã‚»ãƒ”ã‚¢ã§ç”¨æ„
+;//ƒZƒsƒA
+;«‚Ì‰æ‘œ‚ğƒZƒsƒA‚Å—pˆÓ
 [bg storage="bg10b_s"]
 [trans_c cross time=500]
 
@@ -141,7 +141,7 @@ Have I ever been so nervous before?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1|
 [fc]
@@ -158,7 +158,7 @@ With that, Yamagishi-san began to prepare to go home.[pcms]
 If I'm going to say it, now is the only chance.[l][er]
 With a dry mouth from nervousness, I mustered up all my[r]courage and opened my mouth.[pcms]
 
-;//SE:å¿ƒæ‹éŸ³
+;//SE:S”‰¹
 [overflow_se storage="se003" loop=true]
 
 *19|
@@ -176,7 +176,7 @@ Due to my nervousness, my lines were cut off at strange[r]places and the ends of
 [ChrSetParts layer=1 chface="spi_yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2|
 [fc]
@@ -192,7 +192,7 @@ Yamagishi-san was taken aback by my unexpected words and[r]seemed lost in though
 [fc]
 Of course. It's only natural for anyone to be taken aback[r]and lost in thought when suddenly asked such a question by a[r]guy they've never really talked to before.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3|
 [fc]
@@ -214,7 +214,7 @@ I had intended to ask as a preliminary step before[r]confessing, and I had even 
 [ChrSetParts layer=1 chface="spi_yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v4|
 [fc]
@@ -247,7 +247,7 @@ Yamagishi-san continued speaking with a slightly embarrassed[r]expression.[pcms]
 [ChrSetParts layer=1 chface="spi_yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v5|
 [fc]
@@ -255,7 +255,7 @@ Yamagishi-san continued speaking with a slightly embarrassed[r]expression.[pcms]
 [ns]Yamagishi[nse]
 You know...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v6|
 [fc]
@@ -263,7 +263,7 @@ You know...[pcms]
 [ns]Yamagishi[nse]
 This is... a secret from everyone else, okay?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v7|
 [fc]
@@ -277,7 +277,7 @@ Specifically, a movie actress.[pcms]
 [ChrSetParts layer=1 chface="spi_yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v8|
 [fc]
@@ -285,7 +285,7 @@ Specifically, a movie actress.[pcms]
 [ns]Yamagishi[nse]
 That's why, right now I'm watching a lot of movies and[r]studying to become an actress.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v9|
 [fc]
@@ -299,7 +299,7 @@ But I couldn't bring myself to give up.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v10|
 [fc]
@@ -378,7 +378,7 @@ Yamagishi-san, without hesitation, opened her mouth as if to[r]further shake my 
 [ChrSetParts layer=1 chface="spi_yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v11|
 [fc]
@@ -394,7 +394,7 @@ Yes! Yamagishi-san rejected his confession![pcms]
 [fc]
 However, Yamagishi-san's words continue...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v12|
 [fc]
@@ -460,14 +460,14 @@ Maybe it's just not meant to be...[pcms]
 [bg storage="bg04a"]
 [trans_c cross time=500]
 
-;//SE:ã‚¬ãƒ¤
+;//SE:ƒKƒ„
 [se0 storage="se001" loop=true]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std1|
 [fc]
 [ns]male student[nse]
@@ -486,7 +486,7 @@ My childhood friend and best friend since elementary school,[r]Takeuchi Shinya.[
 [ns]Kato[nse]
 No, it's nothing.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std2|
 [fc]
 [ns]Takeuchi[nse]
@@ -501,7 +501,7 @@ While wiping his wet hands on the side of his pants, Shinya,[r]on his way back t
 [ChrSetParts layer=1 chface="take_a_d_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std3|
 [fc]
 [ns]Takeuchi[nse]
@@ -513,7 +513,7 @@ It's completely unrelated! Is the principal crazy or[r]something!?[pcms]
 [fc]
 It seems like Takeuchi didn't like the principal's speeches[r]that seemed to get longer every time they talked.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std4|
 [fc]
 [ns]Takeuchi[nse]
@@ -543,7 +543,7 @@ It seems like he has now directed his anger towards me as[r]his target.[pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std5|
 [fc]
 [ns]Takeuchi[nse]
@@ -563,7 +563,7 @@ It's okay to laugh. It was funny, after all.[pcms]
 
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 *std6|
 [fc]
 [ns]Takeuchi[nse]
@@ -575,7 +575,7 @@ I swiftly shook off Shinya, who was chasing after me with[r]thunderous footsteps
 
 [stop_se0]
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*0002_TOP storage="0002.ks"]
 
 

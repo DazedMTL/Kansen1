@@ -1,27 +1,27 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07210ã€ã‚¹ãƒ¯ãƒƒãƒ—ã€
-;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šæœ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»æ„ŸæŸ“ç”°ä¸­ãƒ»æ„ŸæŸ“æœ‹ç¾
+;//¡ËƒuƒƒbƒN07210wƒXƒƒbƒvx
+;//BG:“n‚è˜L‰ºF’©
+;//“oêl•¨GålŒöE“µEŠ´õ“c’†EŠ´õ•ü”ü
 
 *07210_H_TOP
-;[debug_win]ãªã†ã€€07210_H[debug_win_end]
+;[debug_win]‚È‚¤@07210_H[debug_win_end]
 
 [eval exp="sf.SRP37 = 1"][if exp="tf.scene_mode == 0"][jump target=*07210_H][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 *07210_H
-;*SceneSet|ã€ã‚¹ãƒ¯ãƒƒãƒ—ã€
+;*SceneSet|wƒXƒƒbƒvx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07210 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07210 = 1"]
 
-;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€badï¼’ã€€è¡¨ç¤º
+;//flag:“µƒ‹[ƒgƒtƒ[@bad‚Q@•\¦
 
-;//â™ªï¼šBGM003
+;//ôFBGM003
 
 ;[bgm003]
 
-;//;//BG:bgç„¡ã—
+;//;//BG:bg–³‚µ
 
 *7498|
 [fc]
@@ -53,13 +53,13 @@ Ahhhh![pcms]
 
 ;;;[sysbt_meswin]
 
-;//â™ªï¼šBGM002
+;//ôFBGM002
 [bgm002]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 [se0 storage="se060" loop=true]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 [se1 storage="se059" loop=true]
 
 *v3010|
@@ -205,12 +205,12 @@ nooo!![pcms]
 [ns]Kato[nse]
 Saeki!! Help me... guahh![pcms]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [overflow_se storage="se026"]
 
 ;//redflash
 
-;//ã€†ç”»é¢æºã‚‰ã—
+;//Y‰æ–Ê—h‚ç‚µ
 [quake_bg xy m]
 
 *7520|
@@ -272,8 +272,8 @@ it turned into... something like this...[pcms]
 [fc]
 [vo_sa s="sae0887"]
 [ns]Saeki[nse]
-Ahh... n-no... stop... gghh... yaaahhh[pcms]
-ç—›ã„â€¦â€¦ç—›ã„ãƒâ€¦â€¦ã€åŠ è—¤ã•ã‚“â€¦â€¦åŠ©ã‘ã¦â€¦â€¦åŠ©ã‘ã¦ãƒƒï¼ï¼
+Ahh... n-no... stop... gghh...  yaaahhh[pcms]
+’É‚¢cc’É‚¢‚¡ccA‰Á“¡‚³‚ñcc•‚¯‚Äcc•‚¯‚ÄƒbII
 Ahh... gghh!![pcms]
 
 *7528|
@@ -469,7 +469,7 @@ uaaah...[pcms]
 *7552|
 [fc]
 [ns]Tanaka[nse]
-I'm... coming... I'm... coming...  ohhh[pcms]
+I'm... coming... I'm... coming...   ohhh[pcms]
 
 *v3028|
 [fc]
@@ -483,15 +483,15 @@ is... inside me... uwaaahh... A-a-aahhh...[pcms]
 [ns]Tanaka[nse]
 Ah... I... can't... hold it in...[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se0]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se1]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -580,11 +580,11 @@ My lower body went numb, and I couldn't move my body at all.[pcms]
 [fc]
 This... is too cruel...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [se1 storage="se061" loop=true]
 
@@ -619,15 +619,15 @@ Igarashi-san bounced vigorously on top of me, tightening[r]around my thing even 
 [ns]Kato[nse]
 Ah...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se1]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -670,7 +670,7 @@ I want to do it like Yuuji did...[pcms]
 [fc]
 I ejaculated... inside someone else's girlfriend...[pcms]
 
-;//â™ªï¼šBGM002ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM002ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
@@ -725,22 +725,22 @@ or even run away...[pcms]
 
 ;;;[sysbt_meswin clear]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 
 [se0 storage="se008"]
 ;	/*
-;	;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;	;//ôFBGM008ƒtƒF[ƒhƒCƒ“
 ;	[bgm008]
 ;	*/
 
@@ -803,24 +803,24 @@ I'm sorry...[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn38 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn38 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;//â€»ã‚²ãƒ¼ãƒ ã‚ªãƒ¼ãƒãƒ¼
+;//¦ƒQ[ƒ€ƒI[ƒo[
 
 ;;;[sysbt_meswin clear]
 

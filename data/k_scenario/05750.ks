@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05750ã€è„±å‡ºï¼“ã€
-;//BG:å­¦åœ’å…¥ã‚Šå£ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05750w’Eo‚Rx
+;//BG:Šw‰€“ü‚èŒûF—[•ûFÁ“”
+;//“oêl•¨GålŒöE“µ
 
 *05750_TOP
-;[debug_win]ãªã†ã€€05750[debug_win_end]
-;*SceneSet|ã€è„±å‡ºï¼“ã€
+;[debug_win]‚È‚¤@05750[debug_win_end]
+;*SceneSet|w’Eo‚Rx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05750 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05750 = 1"]
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 
 [bgm009]
 
@@ -42,7 +42,7 @@ If it's safe, I'll call you.[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2557|
 [fc]
@@ -72,7 +72,7 @@ In response to my call, Saeki seemed to start running for a[r]moment, but quickl
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2558|
 [fc]
@@ -93,7 +93,7 @@ I couldn't help but turn around as Saeki instructed, and I[r]couldn't believe wh
 [fc]
 I had confirmed that there was definitely no one there, but[r]a large group of those strange people had appeared.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 [ChrSetEx layer=5 chbase="zom_01_b"][ChrSetXY layer=5 x=200 y=0]
 [ChrSetEx layer=3 chbase="zom_05_b"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=4 chbase="zom_04_b"][ChrSetXY layer=4 x=400 y=0]
@@ -109,11 +109,11 @@ Where did these people come from...?[pcms]
 *6158|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2559|
 [fc]
@@ -133,8 +133,8 @@ In response to the voice calling my name, I regained my[r]composure from the cha
 
 ;//blackout
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05760]ã¸
+;//[05760]‚Ö
 [jump target=*05760_TOP storage="05760.ks"]

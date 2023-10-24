@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05830ã€ãƒ©ã‚¸ã‚ªï¼“ã€
-;//;//BG:è·å“¡å®¤ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05830wƒ‰ƒWƒI‚Rx
+;//;//BG:EˆõºF—[•ûFÁ“”
+;//“oêl•¨GålŒöE“µ
 
 *05830_TOP
-;[debug_win]ãªã†ã€€05830[debug_win_end]
-;*SceneSet|ã€ãƒ©ã‚¸ã‚ªï¼“ã€
+;[debug_win]‚È‚¤@05830[debug_win_end]
+;*SceneSet|wƒ‰ƒWƒI‚Rx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05830 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05830 = 1"]
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 [bgm008]
 
@@ -18,7 +18,7 @@
 [bg storage="bg12b"]
 [trans_c cross time=500]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹ï¼ˆå‹¢ã„ã‚ˆãï¼‰
+;//SE:”à‚ğŠJ‚¯‚éi¨‚¢‚æ‚­j
 
 [se0 storage="se009"]
 
@@ -35,7 +35,7 @@ There was no one in the staff room, and the source of the[r]voices and music was
 [ns]Kato[nse]
 Since I listened to it back then, it has remained the[r]same...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
@@ -45,19 +45,19 @@ Since I listened to it back then, it has remained the[r]same...[pcms]
 [fc]
 I listened intently to the voice of the radio announcer that[r]was flowing endlessly.[pcms]
 
-;//<SndPlay voice01ã‚«ãƒ³ãƒradio0000"]
+;//<SndPlay voice01ƒJƒ“ƒ}radio0000"]
 *6225a|
 [fc]
 [ns]Radio Announcer[nse]
 ... Currently, a Self-Defense Force unit is heading towards[r]the direction of Mount Suzukaryou with the purpose of[r]conducting a situation assessment and rescuing non-infected[r]individuals in the Shika Peninsula area.[pcms]
 
-;//<SndPlay voice01ã‚«ãƒ³ãƒradio0000"]
+;//<SndPlay voice01ƒJƒ“ƒ}radio0000"]
 *6225b|
 [fc]
 [ns]Radio Announcer[nse]
 For those who are listening to this broadcast and are able[r]to move, please relocate to easily visible locations such as[r]high ground with a good view, where rescue teams can easily[r]find you.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2569|
 [fc]
@@ -78,20 +78,20 @@ The same words that Saeki spoke were stuck in my head.[pcms]
 Non-infected individuals... infection...[l][er]
 Does that mean it's not because of some dangerous drug...?[pcms]
 
-;//<SndPlay voice01ã‚«ãƒ³ãƒradio0000"]
+;//<SndPlay voice01ƒJƒ“ƒ}radio0000"]
 *6228a|
 [fc]
 [ns]Radio Announcer[nse]
 ... This is an update. The number of rioters that suddenly[r]appeared two days ago continues to increase.[l][er]
 If you see a suspicious group, please be careful not to[r]approach them.[pcms]
 
-;//<SndPlay voice01ã‚«ãƒ³ãƒradio0000"]
+;//<SndPlay voice01ƒJƒ“ƒ}radio0000"]
 *6228b|
 [fc]
 [ns]Radio Announcer[nse]
 Regarding this, the government has suggested the possibility[r]that the rioters are infected with bacteria or a virus, and[r]has made an announcement to avoid contact.[pcms]
 
-;//<SndPlay voice01ã‚«ãƒ³ãƒradio0000"]
+;//<SndPlay voice01ƒJƒ“ƒ}radio0000"]
 *6228c|
 [fc]
 [ns]Radio Announcer[nse]
@@ -110,7 +110,7 @@ But, when and where exactly...?[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2570|
 [fc]
@@ -129,7 +129,7 @@ Maybe... I want to help them somehow, but it seems dangerous[r]to touch or be to
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2571|
 [fc]
@@ -165,5 +165,5 @@ We left the staff room behind.[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05840]ã¸
+;//[05840]‚Ö
 [jump target=*05840_TOP storage="05840.ks"]

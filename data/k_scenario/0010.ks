@@ -1,22 +1,22 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0010ã€Žæ˜ ç”»ç ”ç©¶éƒ¨ï¼šå„ªã¨ä¸»äººå…¬ã®å‡ºä¼šã„ï¼šå›žæƒ³ã€
-;//BGï¼šæ•™å®¤ï¼šã‚»ãƒ”ã‚¢
-;//;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç«¹å†…
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//;//¡ËƒuƒƒbƒN0010w‰f‰æŒ¤‹†•”F—D‚ÆŽålŒö‚Ìo‰ï‚¢F‰ñ‘zx
+;//BGF‹³ŽºFƒZƒsƒA
+;//;//“oêl•¨GŽålŒöE’|“à
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *0010_TOP
-;[debug_win]ãªã†ã€€0010[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0010 = 1"]
+;[debug_win]‚È‚¤@0010[debug_win_end]
+;Žg‚Á‚Ä‚È‚¢[eval exp="sf.g_0010 = 1"]
 
-;*SceneSet|ã€Žæ˜ ç”»ç ”ç©¶éƒ¨ã€
+;*SceneSet|w‰f‰æŒ¤‹†•”x
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
-;//;//BG:bgæ•™å®¤ã€€ã‚»ãƒ”ã‚¢
-;//;â†“ã®ç”»åƒã‚’ã‚»ãƒ”ã‚¢ã§ç”¨æ„
+;//;//BG:bg‹³Žº@ƒZƒsƒA
+;//;«‚Ì‰æ‘œ‚ðƒZƒsƒA‚Å—pˆÓ
 
 [bg storage="bg10b_s"]
 [trans_c wave time=500]

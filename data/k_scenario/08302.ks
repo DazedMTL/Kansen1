@@ -1,30 +1,30 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08302ã€ãã‚‰ã€â€»ãƒ–ãƒ­ãƒƒã‚¯è¿½åŠ 
-;//BGï¼šæ•™å®¤ï¼šæœ
-;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»ç«¹å†…ãƒ»å„ªãƒ»ç³
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN08302w‚»‚çx¦ƒuƒƒbƒN’Ç‰Á
+;//BGF‹³ºF’©
+;//“oêl•¨FålŒöE’|“àE—DE“µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *08302_TOP
-;[debug_win]ãªã†ã€€08302[debug_win_end]
+;[debug_win]‚È‚¤@08302[debug_win_end]
 
-;*SceneSet|ã€ãã‚‰ã€
+;*SceneSet|w‚»‚çx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08302 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08302 = 1"]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 
 ;//[bgm001]
 
-;//;//BG:bgç„¡ã—
+;//;//BG:bg–³‚µ
 
 ;//[ChrSetEx layer=1 chbase="take_a_d_01"]
 ;//[ChrSetXY layer=1 x=100 y=0]
 ;//[trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std699|
 [fc]
 [ns]Takeuchi[nse]
@@ -35,7 +35,7 @@ N-No... I-I'm not... gonna do it...[pcms]
 ;//[ChrSetParts layer=1 chface="sae_a_a_03"]
 ;//[trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3989|
 [fc]
@@ -45,7 +45,7 @@ Is there something you don't like...?[pcms]
 
 ;//;//BG:bg10a
 
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [bg storage="bg10b"]
 [trans_c cross time=500]
 
@@ -85,7 +85,7 @@ It's troublesome.[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std700|
 [fc]
 [ns]Takeuchi[nse]
@@ -96,7 +96,7 @@ I-I won't... say... such things...[pcms]
 [ChrSetParts layer=1 chface="sae_a_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3990|
 [fc]
@@ -104,7 +104,7 @@ I-I won't... say... such things...[pcms]
 [ns]Saeki[nse]
 No, I told you! What are you...[pcms]
 
-;//â™ªï¼šBGM001ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM001ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
@@ -112,7 +112,7 @@ No, I told you! What are you...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3991|
 [fc]
@@ -125,7 +125,7 @@ Eh...? It doesn't matter who the other person is...[pcms]
 [ChrSetParts layer=1 chface="sae_a_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3992|
 [fc]
@@ -135,7 +135,7 @@ But... this person...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:ã‚µã‚¤ãƒ¬ãƒ³ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒTƒCƒŒƒ“@ƒ‹[ƒv
 
 [se1 storage="se051" loop=true]
 
@@ -155,7 +155,7 @@ You're noisy.[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std701|
 [fc]
 [ns]Takeuchi[nse]
@@ -184,7 +184,7 @@ You're noisy...[pcms]
 [ChrSetParts layer=1 chface="sae_a_c_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3993|
 [fc]
@@ -192,10 +192,10 @@ You're noisy...[pcms]
 [ns]Saeki[nse]
 You're persistent... enough already![pcms]
 
-;//SE:ã‚¬ãƒ³ãƒƒ
+;//SE:ƒKƒ“ƒb
 [se0 storage="se023"]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 
 [se0 storage="se021"]
 
@@ -206,7 +206,7 @@ You're persistent... enough already![pcms]
 [ChrSetParts layer=1 chface="yuu_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3994|
 [fc]
@@ -218,7 +218,7 @@ Ah...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3995|
 [fc]
@@ -236,7 +236,7 @@ Ah... ah... ah... ah... ugh...[pcms]
 [ChrSetParts layer=1 chface="yuu_a_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3996|
 [fc]
@@ -254,7 +254,7 @@ Ngh! Nghh!! Gah... Ngha![pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3997|
 [fc]
@@ -292,7 +292,7 @@ Let's go outside...[pcms]
 [bg storage="bg06b"]
 [trans_c cross time=500]
 
-;//SE:ã‚µã‚¤ãƒ¬ãƒ³ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒTƒCƒŒƒ“@ƒ‹[ƒv
 
 *10751|
 [fc]
@@ -388,15 +388,15 @@ Huh... Something just flew by...[pcms]
 [fc]
 Dark specks?[pcms]
 
-;//SE:ã‚µã‚¤ãƒ¬ãƒ³ã€€åœæ­¢
+;//SE:ƒTƒCƒŒƒ“@’â~
 
 [stop_se1]
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 
 [fadeoutbgm time=500]
 
-;//SE:æˆ¦é—˜æ©Ÿï¼‹çˆ†å¼¾
+;//SE:í“¬‹@{”š’e
 
 [se0 storage="se054"]
 
@@ -424,5 +424,5 @@ Pure white.[pcms]
 [fc]
 Closing my eyes... it's such a hassle...[pcms]
 
-;//08310ã¸
+;//08310‚Ö
 [jump target=*08310_TOP storage="08310.ks"]

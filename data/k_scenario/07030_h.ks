@@ -1,38 +1,38 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07030ã€ãŠå§‰ã•ã‚“ã€
-;//BG:äºŒéšå»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
-;//BG:æ•™å®¤ï¼šå¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»æ„ŸæŸ“æœ‹ç¾
+;//¡ËƒuƒƒbƒN07030w‚¨o‚³‚ñx
+;//BG:“ñŠK˜L‰ºF–éFÁ“”
+;//BG:‹³ºF–éFÁ“”
+;//“oêl•¨GålŒöEŠ´õ•ü”ü
 
 *07030_H_TOP
-;[debug_win]ãªã†ã€€07030_H[debug_win_end]
+;[debug_win]‚È‚¤@07030_H[debug_win_end]
 ;;[winset]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [eval exp="sf.SRP35 = 1"][if exp="tf.scene_mode == 0"][jump target=*07030][endif]
 
-;//å›æƒ³ãƒ¢ãƒ¼ãƒ‰ãªã®ã§ãŠç´„æŸã®å‡¦ç†ã‚’ä»•è¾¼ã‚€
+;//‰ñ‘zƒ‚[ƒh‚È‚Ì‚Å‚¨–ñ‘©‚Ìˆ—‚ğd‚Ş
 
 [fadeoutbgm time=500]
 
 [jump target=*scene_start]
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *07030
 
-;*SceneSet|ã€ãŠå§‰ã•ã‚“ã€
+;*SceneSet|w‚¨o‚³‚ñx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07030 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07030 = 1"]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 ;//[bgm007]
 
 ;//BG:bg06d
@@ -48,7 +48,7 @@
 
 ;;;[sysbt_meswin]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2820|
 [fc]
@@ -60,7 +60,7 @@ Hmm... I think this place is good enough...[pcms]
 
 
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 [se0 storage="se008"]
 
 ;//;//BG:bg10d
@@ -79,7 +79,7 @@ I followed Igarashi-san's lead and made my way to the second[r]floor, to my own 
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2821|
 [fc]
@@ -107,7 +107,7 @@ W-Wait, Igarashi-san!?[pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2822|
 [fc]
@@ -115,7 +115,7 @@ W-Wait, Igarashi-san!?[pcms]
 [ns]Igarashi[nse]
 Hey... If you move, it'll be hard to take it off, you[r]know...[pcms]
 
-;//SE:ãƒ™ãƒ«ãƒˆã‚’ã¯ãšã™
+;//SE:ƒxƒ‹ƒg‚ğ‚Í‚¸‚·
 [se0 storage="se066"]
 
 *7006|
@@ -130,14 +130,14 @@ As a result, I fell to the floor backwards along with[r]Igarashi-san.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *7008|
 [fc]
 [ns]Kato[nse]
 Ohh!![pcms]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [se0 storage="se021"]
 
 [quake_bg xy m]
@@ -151,7 +151,7 @@ Igarashi-san, who fell down together with me, acted as if[r]nothing had happened
 
 *scene_start
 
-;//â™ªï¼šBGM006
+;//ôFBGM006
 [bgm006]
 
 ;//H_CG
@@ -206,7 +206,7 @@ Igarashi-san... please... stop...[pcms]
 Ahh... The sauce is coming out...[l][er]
 Ehehe...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
@@ -463,11 +463,11 @@ Ah... I'm... cumming...!![pcms]
 [ns]Igarashi[nse]
 Puhah...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -510,7 +510,7 @@ Ugh... Ah... Kuah...[pcms]
 Ah, haa... amazing... so much...[l][er]
 if you release this much, I'll drown...[pcms]
 
-;//â™ªï¼šBGM006ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM006ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
@@ -544,5 +544,5 @@ how boring, penis...[pcms]
 
 
 
-;//[07040]ã¸
+;//[07040]‚Ö
 [jump target=*07040_H_TOP storage="07040_H.ks"]

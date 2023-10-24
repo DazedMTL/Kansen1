@@ -1,17 +1,17 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05590ã€ç³ã¨ã‚»ãƒƒã‚¯ã‚¹ã€
-;//;//BG:åœ°ä¸‹å®¤ï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05590w“µ‚ÆƒZƒbƒNƒXx
+;//;//BG:’n‰ººF“_“”
+;//“oêl•¨GålŒöE“µ
 
 
 *05590_H_TOP
-;[debug_win]ãªã†ã€€05590_H[debug_win_end]
-;*SceneSet|ã€ç³ã¨ã‚»ãƒƒã‚¯ã‚¹ã€
+;[debug_win]‚È‚¤@05590_H[debug_win_end]
+;*SceneSet|w“µ‚ÆƒZƒbƒNƒXx
 
-;//â™ªï¼šBGM010
+;//ôFBGM010
 ;//[bgm010]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05590 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05590 = 1"]
 
 ;//H_CG
 ;	/*
@@ -31,7 +31,7 @@
 [fc]
 [vo_sa s="sae0579"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5813|
 [fc]
@@ -95,10 +95,10 @@ I hurriedly ran to the light switch and turned off the[r]lights.[pcms]
 
 ;//blackout
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05600]ã¸
+;//[05600]‚Ö
 [jump target=*05600_H_TOP storage="05600_H.ks"]
 
 

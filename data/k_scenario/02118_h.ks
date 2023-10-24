@@ -1,36 +1,36 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02118ã€äºŒéšã¸ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»å²¸ç”°ãƒ»ç«¹å†…ãƒ»ç”°ä¸­ãƒ»æœ‹ç¾ãƒ»åŠç«¯æ„ŸæŸ“ã‚¾ãƒ³ãƒ“
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02118w“ñŠK‚Öx
+;//BG:“Áê‹³º˜L‰ºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DEƒŠƒTEŠİ“cE’|“àE“c’†E•ü”üE”¼’[Š´õƒ]ƒ“ƒr
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02118_H_TOP
-;[debug_win]ãªã†ã€€02118_H[debug_win_end]
+;[debug_win]‚È‚¤@02118_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [eval exp="sf.SRP07 = 1"][if exp="tf.scene_mode == 0"][jump target=*02118][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *02118
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02118 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02118 = 1"]
 
-;*SceneSet|ã€äºŒéšã¸ã€
+;*SceneSet|w“ñŠK‚Öx
 
-;//BG:bgç„¡ã—
+;//BG:bg–³‚µ
 [bg storage="effect_black"][trans_c cross time=301]
 
 *2253|
@@ -41,13 +41,13 @@ As we started walking towards the janitor's office, a[r]strange scene jumped int
 [fc]
 More shocking than the third appearance of the man, was the[r]scene that unfolded before us.[pcms]
 
-;//H_CG:æœ‹ç¾ãŒå»Šä¸‹ã§ä¹±äº¤
+;//H_CG:•ü”ü‚ª˜L‰º‚Å—Œğ
 
 ;;;[sysbt_meswin clear]
 
 *scene_start
 
-;//â™ªï¼šBGM002
+;//ôFBGM002
 [bgm002]
 
 [evcg storage="HEV_012_a"]
@@ -57,10 +57,10 @@ More shocking than the third appearance of the man, was the[r]scene that unfolde
 ;;;[sysbt_meswin]
 
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 [se1 storage="se059"]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 ;//[overflow_se storage="se061"]
 
 *v891|
@@ -231,13 +231,13 @@ more...[pcms]
 [fc]
 [vo_ri s="risa0276"]
 [ns]Shindou[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *v904|
 [fc]
 [vo_ya s="yama0286"]
 [ns]Yamagishi[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *2271|
 [fc]
@@ -395,7 +395,7 @@ Do it... Ahh... a lot, do it...[pcms]
 [vo_to s="tomo0154"]
 [ns]Igarashi[nse]
 Dick... dick... more... more...[l][er]
-ah... happy...  so happy~[pcms]
+ah... happy...   so happy~[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -470,24 +470,24 @@ Ugh...![pcms]
 [fc]
 While being drawn in by the voice of Igarashi-san that I[r]could hear, I dragged Kishida and ran down the hallway.[pcms]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn07 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn07 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
 ;//H_CG:OFF
 
@@ -512,7 +512,7 @@ give me something to drink...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v917|
 [fc]
@@ -529,7 +529,7 @@ Shinya!![pcms]
 [fc]
 When I turned around at the sound of a scream, Shinya was[r]struggling as he was grabbed by the arm by a man who was[r]chasing after us.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std257|
 [fc]
 [ns]Takeuchi[nse]
@@ -537,7 +537,7 @@ This...![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
 
 ;//redflash
@@ -557,7 +557,7 @@ Shinya freed his arm from the hand that was grabbing him and[r]threw a punch tow
 [fc]
 The man who was punched in the face by Shinya stumbled back[r]and fell, tripping over his own feet and hitting his head[r]directly on the floor.[pcms]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [se0 storage="se021"]
 
 [quake_bg xy m]
@@ -566,7 +566,7 @@ The man who was punched in the face by Shinya stumbled back[r]and fell, tripping
 [ChrSetXY layer=1 x=250 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std258|
 [fc]
 [ns]Male Student H[nse]
@@ -577,7 +577,7 @@ Ugh, guh...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std259|
 [fc]
 [ns]Takeuchi[nse]
@@ -592,7 +592,7 @@ Hey, are you okay...!? Your hand![pcms]
 [fc]
 I ran up to Shinya and when I saw his hand shaking in pain,[r]I noticed that the area around the base of his fingers was[r]scraped.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std260|
 [fc]
 [ns]Takeuchi[nse]
@@ -618,7 +618,7 @@ I pulled Shinya's arm and ran towards the waiting Shindou-[r]sensei and the othe
 
 ;;;[sysbt_meswin]
 
-;//[02119]ã¸
+;//[02119]‚Ö
 [jump target=*02119_TOP storage="02119.ks"]
 
 

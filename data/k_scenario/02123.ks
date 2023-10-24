@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02123ã€è€ƒå¯Ÿã€â™‚â™‚
-;//BG:äºŒéšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»å²¸ç”°ãƒ»ç«¹å†…
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02123wl@x‰‰
+;//BG:“ñŠK˜L‰ºFƒoƒŠƒP[ƒhF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DEƒŠƒTEŠİ“cE’|“à
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02123_TOP
-;[debug_win]ãªã†ã€€02123[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02123 = 1"]
+;[debug_win]‚È‚¤@02123[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02123 = 1"]
 
-;*SceneSet|ã€è€ƒå¯Ÿã€
+;*SceneSet|wl@x
 
 ;//[02123]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 ;//[bgm007]
 ;//BG:bg007a
 ;//[bg storage="bg07a"]
@@ -25,7 +25,7 @@
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v938|
 [fc]
@@ -38,7 +38,7 @@ Hey, Katou-kun... Do you think what they're saying on the[r]radio is true?[pcms]
 [ns]Kato[nse]
 ... Yamagishi-san, do you think it's a lie?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v939|
 [fc]
@@ -75,7 +75,7 @@ I had started to think that way.[pcms]
 [ChrSetParts layer=1 chface="take_a_d_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std271|
 [fc]
 [ns]Takeuchi[nse]
@@ -89,7 +89,7 @@ Without realizing it, Takeuchi had moved away from the fire[r]door and was offer
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v940|
 [fc]
@@ -97,7 +97,7 @@ Without realizing it, Takeuchi had moved away from the fire[r]door and was offer
 [ns]Shindou[nse]
 ... What's wrong? This...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std272|
 [fc]
 [ns]Takeuchi[nse]
@@ -108,7 +108,7 @@ At that time, my hand hit his...[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v941|
 [fc]
@@ -129,7 +129,7 @@ Did he have such a hobby...?[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std273|
 [fc]
 [ns]Takeuchi[nse]
@@ -148,7 +148,7 @@ Seriously, at a time like this...[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v942|
 [fc]
@@ -166,7 +166,7 @@ Shinya, after being scolded by Shindou-sensei, looked at me[r]with a bewildered 
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std274|
 [fc]
 [ns]Takeuchi[nse]
@@ -181,7 +181,7 @@ Honestly, I'm amazed at how thick-skinned you are...[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v943|
 [fc]
@@ -198,7 +198,7 @@ Yamagishi-san approached Shindou-sensei, who had a serious[r]expression after fi
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v944|
 [fc]
@@ -211,7 +211,7 @@ Is that not allowed...?[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v945|
 [fc]
@@ -228,7 +228,7 @@ After Shinya's foolish remark, it's no wonder if it's[r]perceived as lacking ten
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v946|
 [fc]
@@ -253,7 +253,7 @@ Shindou-sensei let out a sigh mixed with frustration at my[r]words, and took out
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v947|
 [fc]
@@ -279,11 +279,11 @@ I received the keys from Shindou-sensei and went up to the[r]rooftop with Yamagi
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//[02124]ã¸
+;//[02124]‚Ö
 [jump target=*02124_TOP storage="02124.ks"]

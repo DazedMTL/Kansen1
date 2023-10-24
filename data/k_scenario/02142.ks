@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02142ã€ŽåŽ»å¹´ã®æƒ³ã„ï¼šé¸æŠžã€
-;//BG:å±‹ä¸Šï¼šå¤•æ–¹
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02142w‹Ž”N‚Ì‘z‚¢F‘I‘ðx
+;//BG:‰®ãF—[•û
+;//“oêl•¨GŽålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02142_TOP
-;[debug_win]ãªã†ã€€02142[debug_win_end]
+;[debug_win]‚È‚¤@02142[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02142 = 1"]
+;Žg‚Á‚Ä‚È‚¢[eval exp="sf.g_02142 = 1"]
 
-;*SceneSet|ã€ŽåŽ»å¹´ã®æƒ³ã„ã€
+;*SceneSet|w‹Ž”N‚Ì‘z‚¢x
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 
 ;[fadeoutbgm time=500]
 
@@ -23,7 +23,7 @@
 [bg storage="bg22e"]
 [trans_c cross time=1000]
 
-;//SE:è™«ã®éŸ³ãƒ«ãƒ¼ãƒ—
+;//SE:’Ž‚Ì‰¹ƒ‹[ƒv
 
 [se0 storage="se018" loop=true]
 
@@ -53,31 +53,31 @@ I think now is a chance to ask Yamagishi-san while we're[r]alone, but it doesn't
 
 [stop_se0]
 
-;//â€»é¸æŠžè‚¢
-;//ãƒ»ãƒ€ãƒ¡ã‚‚ã¨ã§èžã„ã¦ã¿ã‚ˆã†;//[02143]ã¸
-;//ãƒ»ã‚„ã£ã±ã‚Šã‚„ã‚ã¦ãŠã“ã†;//[02144]ã¸
+;//¦‘I‘ðŽˆ
+;//Eƒ_ƒ‚à‚Æ‚Å•·‚¢‚Ä‚Ý‚æ‚¤;//[02143]‚Ö
+;//E‚â‚Á‚Ï‚è‚â‚ß‚Ä‚¨‚±‚¤;//[02144]‚Ö
 
 
-*SEL01|ãƒ€ãƒ¡ã‚‚ã¨ã§ï¼ã‚„ã£ã±ã‚Šã‚„ã‚ã¦ãŠã“ã†
+*SEL01|ƒ_ƒ‚à‚Æ‚Å^‚â‚Á‚Ï‚è‚â‚ß‚Ä‚¨‚±‚¤
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'ãƒ€ãƒ¡ã‚‚ã¨ã§èžã„ã¦ã¿ã‚ˆã†'"]
-[eval exp="f.seltext04 = 'ã‚„ã£ã±ã‚Šã‚„ã‚ã¦ãŠã“ã†'"]
+[eval exp="f.seltext02 = 'ƒ_ƒ‚à‚Æ‚Å•·‚¢‚Ä‚Ý‚æ‚¤'"]
+[eval exp="f.seltext04 = '‚â‚Á‚Ï‚è‚â‚ß‚Ä‚¨‚±‚¤'"]
 
 
-[if exp="tf.sys_sub == 0 || tf.é¸æŠžè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
-	;é¸æŠžè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
+[if exp="tf.sys_sub == 0 || tf.‘I‘ðŽˆƒƒO•\Ž¦‚µ‚Ä‚Ë == 1"]
+	;‘I‘ðŽˆ“à—e‚ðƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[å±¥æ­´å‡ºåŠ›å¾©å¸°]
+[—š—ðo—Í•œ‹A]
 
-;é¸æŠžè‚¢ãƒ™ãƒ¼ã‚¹
+;‘I‘ðŽˆƒx[ƒX
 [selbase]
-;æ–‡å­—ã®å·¦ãƒžãƒ¼ã‚¸ãƒ³
+;•¶Žš‚Ì¶ƒ}[ƒWƒ“
 [eval exp="sf.seltext_x = 250"]
 
 [sel02 target=*SEL00_02142_DAME]

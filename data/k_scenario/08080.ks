@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08080ã€æˆäººæ˜ ç”»ã€
-;//BG;è¦–è´è¦šå®¤ï¼šå¤œï¼šä¸Šæ˜ ä¸­
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­ãƒ»ãƒªã‚µ
+;//¡ËƒuƒƒbƒN08080w¬l‰f‰æx
+;//BG;‹’®ŠoºF–éFã‰f’†
+;//“oêl•¨GålŒöE—DE“µE•ü”üE’|“àE“c’†EƒŠƒT
 
 *08080_TOP
-;[debug_win]ãªã†ã€€08080[debug_win_end]
-;*SceneSet|ã€æˆäººæ˜ ç”»ã€
+;[debug_win]‚È‚¤@08080[debug_win_end]
+;*SceneSet|w¬l‰f‰æx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08080 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08080 = 1"]
 
-;//â™ªï¼šBGM005
+;//ôFBGM005
 [bgm005]
 
 ;//;//BG:bg15e
@@ -38,7 +38,7 @@ As soon as the title was projected onto the screen, Shinya[r]suddenly let out a 
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std549|
 [fc]
 [ns]Takeuchi[nse]
@@ -47,7 +47,7 @@ I was deceived by the artwork on the package and rented[r]it...[l][er]
 but when I watched it, it was really interesting!![pcms]
 [l][er]
 
-;ç«‹ã¡
+;—§‚¿
 *std550|
 [fc]
 [ns]Takeuchi[nse]
@@ -60,7 +60,7 @@ And the director of this movie, they became a hot topic[r]recently...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3445|
 [fc]
@@ -94,7 +94,7 @@ The beginning seems promising, yeah.[pcms]
 
 *9086|
 [fc]
-â€¦â€¦â€¦â€¦ã€‚ â€¦â€¦â€¦ã€‚ â€¦â€¦ã€‚[pcms]
+ccccB cccB ccB[pcms]
 
 *9087|
 [fc]
@@ -160,7 +160,7 @@ If that's the case, Sensei is even more unusual than I[r]thought...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std551|
 [fc]
 [ns]Takeuchi[nse]
@@ -171,7 +171,7 @@ Ah!![pcms]
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std552|
 [fc]
 [ns]Takeuchi[nse]
@@ -195,7 +195,7 @@ this guy...[pcms]
 However, I can't blame Shinya for getting excited.[l][er]
 That priest certainly is cool.[pcms]
 
-;//â™ªï¼šBGM005ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM005ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
@@ -211,7 +211,7 @@ Because at that moment, suddenly noise ran across the screen[r]and a different i
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3446|
 [fc]
@@ -221,7 +221,7 @@ What is this...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//â™ªï¼šBGM002
+;//ôFBGM002
 [bgm002]
 
 *9105|
@@ -374,7 +374,7 @@ The other person... Kishida!? And...[l][er]
 leaking?? What? And using honorifics...[l][er]
 What is this... I don't understand...[pcms]
 
-;//â™ªï¼šBGM002ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM002ƒtƒF[ƒhƒAƒEƒg
 [fadeoutbgm time=500]
 
 [ChrSetEx layer=1 chbase="yuu_c_c_09"]
@@ -382,17 +382,17 @@ What is this... I don't understand...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_c_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3452|
 [fc]
 [vo_ya s="yama0999"]
 [ns]Yamagishi[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3453|
 [fc]
@@ -400,10 +400,10 @@ What is this... I don't understand...[pcms]
 [ns]Shindou[nse]
 No...![pcms]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹ï¼ˆå‹¢ã„ã‚ˆãï¼‰
+;//SE:”à‚ğŠJ‚¯‚éi¨‚¢‚æ‚­j
 [se0 storage="se009"]
 
 *9125|
@@ -418,7 +418,7 @@ Shindou-sensei, with her face covered, rushed out of the[r]audiovisual room...[p
 [fc]
 Saeki is frozen, not moving. Yamagishi-san also has her[r]mouth open, stunned.[pcms]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 [bgm007]
 
@@ -439,7 +439,7 @@ I wonder if watching a woman I know have sex is really this[r]exciting...[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std553|
 [fc]
 [ns]Takeuchi[nse]
@@ -450,7 +450,7 @@ Taishi... Let's go after Sensei...[pcms]
 [ns]Kato[nse]
 Huh? Why...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std554|
 [fc]
 [ns]Takeuchi[nse]
@@ -465,7 +465,7 @@ Shinya stands up and pulls my shoulder forcefully.[pcms]
 [ns]Kato[nse]
 Stop it already...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std555|
 [fc]
 [ns]Takeuchi[nse]
@@ -495,7 +495,7 @@ Shinya... What are you going for...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std556|
 [fc]
 [ns]Takeuchi[nse]
@@ -521,7 +521,7 @@ I see...[pcms]
 It seems interesting somehow...[l][er]
 Haha!! Indeed, it does seem interesting!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std557|
 [fc]
 [ns]Takeuchi[nse]
@@ -542,7 +542,7 @@ When we tried to leave the audiovisual room, the idiot[r]couple also stood up an
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3454|
 [fc]
@@ -555,7 +555,7 @@ U-tan... I...[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std558|
 [fc]
 [ns]Tanaka[nse]
@@ -567,5 +567,5 @@ Shall we go outside...[pcms]
 
 
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*08090_TOP storage="08090.ks"]

@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05890ã€çˆ†æ’ƒã€
-;//BG:åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05890w”šŒ‚x
+;//BG:’n‰ººFÁ“”
+;//“oêl•¨GålŒöE“µ
 
 *05890_TOP
-;[debug_win]ãªã†ã€€05890[debug_win_end]
-;*SceneSet|ã€çˆ†æ’ƒã€
+;[debug_win]‚È‚¤@05890[debug_win_end]
+;*SceneSet|w”šŒ‚x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05890 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05890 = 1"]
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 ;//[bgm009]
 
 ;//BG:bg23b
@@ -17,7 +17,7 @@
 [bg storage="bg23a"]
 [trans_c cross time=500]
 
-;//SE:æˆ¦é—˜æ©ŸãŒé£›ã‚“ã§ã„ãéŸ³
+;//SE:í“¬‹@‚ª”ò‚ñ‚Å‚¢‚­‰¹
 [se0 storage="se017"]
 
 
@@ -35,7 +35,7 @@ What...[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;//SE:çˆ†ç™ºéŸ³ã€€é ãã‹ã‚‰é€£ç¶š
+;//SE:”š”­‰¹@‰“‚­‚©‚ç˜A‘±
 [se0 storage="se055"]
 
 [bg storage="bg23b"][trans_c cross time=301]
@@ -74,7 +74,7 @@ Ohhh!!![pcms]
 ;	[trans_c cross time=150]
 ;	*/
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2595|
 [fc]
@@ -101,12 +101,12 @@ Kyaaaahhhhhh!!!!!![pcms]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [se0 storage="se021"]
 
 ;[quake_bg xy m]
 
-;//â™ªï¼šBGM009ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM009ƒtƒF[ƒhƒAƒEƒg
 [fadeoutbgm time=500]
 
 [white_toplayer winon][trans_c cross time=100][hide_chara_int_w]
@@ -131,5 +131,5 @@ Gu... uh...[pcms]
 
 [wait_c time=1500]
 
-;//[05900]ã¸
+;//[05900]‚Ö
 [jump target=*05900_H_TOP storage="05900_H.ks"]

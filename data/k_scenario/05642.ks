@@ -1,21 +1,21 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05642ã€ç‰©éŸ³ã€
-;//;//BG:åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05642w•¨‰¹x
+;//;//BG:’n‰ººFÁ“”
+;//“oêl•¨GålŒöE“µ
 
-;//â€»05643ã‹ã‚‰05649ã¾ã§æ¬ ç•ª
+;//¦05643‚©‚ç05649‚Ü‚ÅŒ‡”Ô
 
 *05642_TOP
-;[debug_win]ãªã†ã€€05642[debug_win_end]
-;*SceneSet|ã€ç‰©éŸ³ã€
+;[debug_win]‚È‚¤@05642[debug_win_end]
+;*SceneSet|w•¨‰¹x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05642 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05642 = 1"]
 
-;//flag:ç³ã¨ä¸€ç·’ã«é£Ÿæ–™ã‚’
+;//flag:“µ‚Æˆê‚ÉH—¿‚ğ
 
 [eval exp="f.TOGETHER = 1"]
 ;	/*
-;	;//â™ªï¼šBGM007
+;	;//ôFBGM007
 ;	[bgm007]
 ;	
 ;	;//;//BG:bg23b
@@ -35,7 +35,7 @@ I nodded at Saeki, who was looking at me with an uneasy[r]expression.[pcms]
 Saeki smiled happily and nodded, but at that moment, there[r]was a sound as if something had fallen on top of my head.[pcms]
 [l][er]
 
-;//SE:ã‚«ã‚¿ãƒƒï¼ˆå£ã®å‘ã“ã†ã‹ã‚‰ï¼‰
+;//SE:ƒJƒ^ƒbi•Ç‚ÌŒü‚±‚¤‚©‚çj
 [se0 storage="se049"]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
@@ -43,7 +43,7 @@ Saeki smiled happily and nodded, but at that moment, there[r]was a sound as if s
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2480|
 [fc]
@@ -54,7 +54,7 @@ Saeki smiled happily and nodded, but at that moment, there[r]was a sound as if s
 *5983|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5984|
 [fc]
@@ -76,7 +76,7 @@ Saeki looked uneasy again, approached me, and stared into my[r]eyes.[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2481|
 [fc]
@@ -102,5 +102,5 @@ I smiled at Saeki and climbed the stairs to the door.[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05650]ã¸
+;//[05650]‚Ö
 [jump target=*05650_H_TOP storage="05650_H.ks"]

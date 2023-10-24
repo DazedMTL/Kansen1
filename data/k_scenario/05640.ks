@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05640ã€æ±ºæ„ã€
-;//BG:åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05640wŒˆˆÓx
+;//BG:’n‰ººFÁ“”
+;//“oêl•¨GålŒöE“µ
 
 *05640_TOP
-;[debug_win]ãªã†ã€€05640[debug_win_end]
-;*SceneSet|ã€æ±ºæ„ã€
+;[debug_win]‚È‚¤@05640[debug_win_end]
+;*SceneSet|wŒˆˆÓx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05640 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05640 = 1"]
 ;	/*
-;	;//â™ªï¼šBGM003
+;	;//ôFBGM003
 ;	[bgm003]
 ;	*/
 
@@ -46,7 +46,7 @@ Let's wait a little longer and see how things go...[pcms]
 [fc]
 I couldn't tell how much time had passed since we started[r]holding our breath, but the sounds around the door gradually[r]disappeared, and I took a breath and opened my mouth.[pcms]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 [bgm007]
 
@@ -64,15 +64,15 @@ Saeki also seemed somewhat relieved, and the tension in her[r]body, which had be
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2475|
 [fc]
 [vo_sa s="sae0634"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
-;//SE:è…¹ã®éŸ³ã€€å°ã•ã„
+;//SE:• ‚Ì‰¹@¬‚³‚¢
 [se0 storage="se036"]
 
 *5957|
@@ -83,14 +83,14 @@ From Saeki's stomach, a cute sound could be heard.[pcms]
 *5958|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2476|
 [fc]
@@ -113,7 +113,7 @@ Pfft... Hahaha![pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2477|
 [fc]
@@ -146,7 +146,7 @@ As I said that and put my arms through the shirt, Saeki[r]stood up in a flustere
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2478|
 [fc]
@@ -159,7 +159,7 @@ I'll go with you too! I don't want to be separated from you,[r]Kato-san...[pcms]
 *5965|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5966|
 [fc]
@@ -176,36 +176,36 @@ Even now, just because we don't hear any footsteps, they[r]might be gathered in 
 
 
 
-;//â€»é¸æŠè‚¢
-;//ãƒ»ã“ã“ã«æ®‹ã—ãŸæ–¹ãŒå®‰å…¨ã ã‚ã†â€¦â€¦ã€‚;//[05641]ã¸
-;//ãƒ»ä¸€ç·’ã«ã„ãŸæ–¹ãŒä¸å®‰ã«ã•ã›ãªãã¦æ¸ˆã‚€ã ã‚ã†â€¦â€¦;//[05642]ã¸
+;//¦‘I‘ğˆ
+;//E‚±‚±‚Éc‚µ‚½•û‚ªˆÀ‘S‚¾‚ë‚¤ccB;//[05641]‚Ö
+;//Eˆê‚É‚¢‚½•û‚ª•sˆÀ‚É‚³‚¹‚È‚­‚ÄÏ‚Ş‚¾‚ë‚¤cc;//[05642]‚Ö
 
 ;//<SltDel ALL>
-;//<SltAdd 0ã‚«ãƒ³ãƒSEL00_05640_SAFETYã‚«ãƒ³ãƒã“ã“ã«æ®‹ã—ãŸæ–¹ãŒå®‰å…¨ã ã‚ã†â€¦â€¦ã€‚>
-;//<SltAdd 1ã‚«ãƒ³ãƒSEL00_05640_UNRESTã‚«ãƒ³ãƒä¸€ç·’ã«ã„ãŸæ–¹ãŒä¸å®‰ã«ã•ã›ãªãã¦æ¸ˆã‚€ã ã‚ã†â€¦â€¦ã€‚>
+;//<SltAdd 0ƒJƒ“ƒ}SEL00_05640_SAFETYƒJƒ“ƒ}‚±‚±‚Éc‚µ‚½•û‚ªˆÀ‘S‚¾‚ë‚¤ccB>
+;//<SltAdd 1ƒJƒ“ƒ}SEL00_05640_UNRESTƒJƒ“ƒ}ˆê‚É‚¢‚½•û‚ª•sˆÀ‚É‚³‚¹‚È‚­‚ÄÏ‚Ş‚¾‚ë‚¤ccB>
 ;//<SltRun>
 
 
-*SEL01|ã“ã“ã«æ®‹ã—ãŸæ–¹ãŒå®‰å…¨ã ã‚ã†ï¼ä¸€ç·’ã«ã„ãŸæ–¹ãŒä¸å®‰ã«ã•ã›ãªãã¦æ¸ˆã‚€ã ã‚ã†
+*SEL01|‚±‚±‚Éc‚µ‚½•û‚ªˆÀ‘S‚¾‚ë‚¤^ˆê‚É‚¢‚½•û‚ª•sˆÀ‚É‚³‚¹‚È‚­‚ÄÏ‚Ş‚¾‚ë‚¤
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'ã“ã“ã«æ®‹ã—ãŸæ–¹ãŒå®‰å…¨ã ã‚ã†â€¦â€¦'"]
-[eval exp="f.seltext04 = 'ä¸€ç·’ã«ã„ãŸæ–¹ãŒä¸å®‰ã«ã•ã›ãªãã¦æ¸ˆã‚€ã ã‚ã†â€¦â€¦'"]
+[eval exp="f.seltext02 = '‚±‚±‚Éc‚µ‚½•û‚ªˆÀ‘S‚¾‚ë‚¤cc'"]
+[eval exp="f.seltext04 = 'ˆê‚É‚¢‚½•û‚ª•sˆÀ‚É‚³‚¹‚È‚­‚ÄÏ‚Ş‚¾‚ë‚¤cc'"]
 
 
-[if exp="tf.sys_sub == 0 || tf.é¸æŠè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
-	;é¸æŠè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
+[if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
+	;‘I‘ğˆ“à—e‚ğƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[å±¥æ­´å‡ºåŠ›å¾©å¸°]
+[—š—ğo—Í•œ‹A]
 
-;é¸æŠè‚¢ãƒ™ãƒ¼ã‚¹
+;‘I‘ğˆƒx[ƒX
 [selbase]
-;æ–‡å­—ã®å·¦ãƒãƒ¼ã‚¸ãƒ³
+;•¶š‚Ì¶ƒ}[ƒWƒ“
 [eval exp="sf.seltext_x = 150"]
 
 [sel02 target=*SEL00_koko]

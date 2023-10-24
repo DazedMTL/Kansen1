@@ -1,25 +1,25 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04045ã€ã™ã°ã‚‰ã—ã„ä¸–ç•Œã€
-;//BG:å±‹ä¸Šï¼šæœ
-;//BG:é’ç©º
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»æœ‹ç¾ãƒ»ãƒªã‚µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04045w‚·‚Î‚ç‚µ‚¢¢ŠEx
+;//BG:‰®ãF’©
+;//BG:Â‹ó
+;//“oêl•¨GålŒöE“µE•ü”üEƒŠƒT
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04045_H_TOP
-;[debug_win]ãªã†ã€€04045_H[debug_win_end]
+;[debug_win]‚È‚¤@04045_H[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04045 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04045 = 1"]
 
-;*SceneSet|ã€ã™ã°ã‚‰ã—ã„ä¸–ç•Œã€
+;*SceneSet|w‚·‚Î‚ç‚µ‚¢¢ŠEx
 
-;//flag:å„ªãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€
+;//flag:—Dƒ‹[ƒgƒNƒŠƒA@
 
-;//<Mov g_yuu_clearã‚«ãƒ³ãƒ1>
+;//<Mov g_yuu_clearƒJƒ“ƒ}1>
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 ;//[bgm004]
 
@@ -34,7 +34,7 @@
 
 ;;;[sysbt_meswin]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 
 [se0 storage="se058"]
 
@@ -44,7 +44,7 @@
 [ns]Saeki[nse]
 Ah... Ka... to... u... sa... no...[l][er]
 pe... ni... su... ga... wa... ta...[l][er]
-ku... shi... no... na... ka... ni~ Uhaa~[pcms]
+ku... shi... no... na... ka...  ni~ Uhaa~[pcms]
 
 *4579|
 [fc]
@@ -61,7 +61,7 @@ Ah, fah! Hah, u, ku...!![pcms]
 [ns]Kato[nse]
 Ah... ku...![pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [se1 storage="se060" loop=true]
 
@@ -88,7 +88,7 @@ I want you to lick my pussy...[pcms]
 [fc]
 My tongue was drawn towards Shindou-sensei's genitals as I[r]was captivated by the arousing scent emanating from her.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
@@ -108,7 +108,7 @@ ngh, kuhh![pcms]
 *4583|
 [fc]
 [ns]Kato[nse]
-Haa... n, ngu... chu~[pcms]
+Haa... n, ngu...  chu~[pcms]
 
 *v1972|
 [fc]
@@ -304,15 +304,15 @@ me, please... go...!![pcms]
 [ns]Kato[nse]
 Ugh, ahh...!![pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se1]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -446,11 +446,11 @@ To protect Yamagishi-san until the end, I'm really[r]thankful...[pcms]
 *4607|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4608|
 [fc]
-â€¦â€¦â€¦â€¦ã€‚ â€¦â€¦â€¦ã€‚ â€¦â€¦ã€‚[pcms]
+ccccB cccB ccB[pcms]
 
 *4609|
 [fc]
@@ -477,7 +477,7 @@ Who is it...?[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;BGMåœæ­¢
+;BGM’â~
 [fadeoutbgm time=500][wb]
 [stopse_all]
 
@@ -487,35 +487,35 @@ Who is it...?[pcms]
 
 [if exp="sf.g_yuu_clear==1"][jump target=*SEL00_TITLE][endif]
 
-;//ãƒ ãƒ¼ãƒ“ãƒ¼å†ç”Ÿ
+;//ƒ€[ƒr[Ä¶
 [call storage="movie_sub.ks" target=*yuu_zap_open]
 
 [eval exp="sf.g_yuu_clear = 1"]
 
 *SEL00_TITLE
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn24 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn24 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;//â€»ã‚²ãƒ¼ãƒ ã‚ªãƒ¼ãƒãƒ¼
+;//¦ƒQ[ƒ€ƒI[ƒo[
 
 ;;;[sysbt_meswin clear]
 

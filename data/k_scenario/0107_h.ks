@@ -1,52 +1,52 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0107ã€ãƒ–ãƒ«ãƒã®èª˜æƒ‘ã€
-;//BG:ä½“è‚²ç”¨å…·å®¤ï¼šå¤œï¼æ¶ˆç¯ï¼æœˆæ˜ã‹ã‚Š
-;//EVENT;//BG:ä½“è‚²ç”¨å…·å®¤/ãƒãƒƒãƒˆã®ä¸Š
-;//ç™»å ´äººç‰©ï¼›æœ‹ç¾ãƒ»ç”°ä¸­
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN0107wƒuƒ‹ƒ}‚Ì—U˜fx
+;//BG:‘Ìˆç—p‹ïºF–é^Á“”^Œ–¾‚©‚è
+;//EVENT;//BG:‘Ìˆç—p‹ïº/ƒ}ƒbƒg‚Ìã
+;//“oêl•¨G•ü”üE“c’†
 [ns]Tanaka[nse]
-;//â˜…ï¼¨EVENT_005ã€€ã€ãƒ–ãƒ«ãƒã®èª˜æƒ‘ã€
-;//ä½“ä½ï¼šæœ‹ç¾ã¯ãƒãƒƒãƒˆã«æ‰‹è¶³ã‚’ä»˜ãå››ã¤ã‚“é€™ã„ã§ã“ã¡ã‚‰ã«å°»ã‚’è¦‹ã›ã¦ã„ã‚‹
-;//å·®åˆ†ï¼šæœ‹ç¾ã®æ€§å™¨ã‚’å¼„ã‚‹ç”°ä¸­ã®æ‰‹ãƒ»æ„›æ¶²ã®ã«ã˜ã‚“ã ãƒ–ãƒ«ãƒãƒ»ãƒ–ãƒ«ãƒã«ã™ã‚Šã¤ã‘ã‚‹ç”°ä¸­ã®ç”·æ€§å™¨ãƒ»
-;//ã€€ã€€ã€€å°„ç²¾å·®åˆ†ãƒ»æœ‹ç¾æ¥ã˜ã‚‰ã„è¡¨æƒ…å·®åˆ†ãƒ»å¿«æ¥½è¡¨æƒ…
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;//š‚gEVENT_005@wƒuƒ‹ƒ}‚Ì—U˜fx
+;//‘ÌˆÊF•ü”ü‚Íƒ}ƒbƒg‚Éè‘«‚ğ•t‚«l‚Â‚ñ”‡‚¢‚Å‚±‚¿‚ç‚ÉK‚ğŒ©‚¹‚Ä‚¢‚é
+;//·•ªF•ü”ü‚Ì«Ší‚ğ˜M‚é“c’†‚ÌèEˆ¤‰t‚Ì‚É‚¶‚ñ‚¾ƒuƒ‹ƒ}Eƒuƒ‹ƒ}‚É‚·‚è‚Â‚¯‚é“c’†‚Ì’j«ŠíE
+;//@@@Ë¸·•ªE•ü”ü’p‚¶‚ç‚¢•\î·•ªE‰õŠy•\î
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *0107_H_TOP
-;[debug_win]ãªã†ã€€0107_H[debug_win_end]
+;[debug_win]‚È‚¤@0107_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [eval exp="sf.SRP04 = 1"][if exp="tf.scene_mode == 0"][jump target=*0107][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;[bgm008]
 
-;mm BGMåœæ­¢ã˜ã‚ƒãªã„ã®ï¼Ÿ
+;mm BGM’â~‚¶‚á‚È‚¢‚ÌH
 [fadeoutbgm time=500]
 [wait_c time=500]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *0107
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0107 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0107 = 1"]
 
-;*SceneSet|ã€ãƒ–ãƒ«ãƒã®èª˜æƒ‘ã€
+;*SceneSet|wƒuƒ‹ƒ}‚Ì—U˜fx
 
 ;;;[sysbt_meswin clear]
 
 *scene_start
 
-;//â™ªï¼šBGM006
+;//ôFBGM006
 [bgm006]
 
-;//H_CG:ãƒ–ãƒ«ãƒã®èª˜æƒ‘
+;//H_CG:ƒuƒ‹ƒ}‚Ì—U˜f
 [evcg storage="HEV_005_a"]
 [trans_c cross time=500]
 
@@ -124,7 +124,7 @@ Ugh, Tan... Ko, Yuuji... Do you hate me...?[pcms]
 *1006|
 [fc]
 [ns]Tanaka[nse]
-Mmm, I love youâ™ª[l][er]
+Mmm, I love youô[l][er]
 
 ;;;[sysbt_meswin clear]
 
@@ -202,7 +202,7 @@ good, you know...[pcms]
 
 ;;;[sysbt_meswin]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 [se1 storage="se059" loop=true]
 
 *1012|
@@ -250,7 +250,7 @@ nfu...[pcms]
 *1016|
 [fc]
 [ns]Tanaka[nse]
-Should I also play with your butt hole~â™ª[l][er]
+Should I also play with your butt hole~ô[l][er]
 
 *v415|
 [fc]
@@ -295,7 +295,7 @@ Ah, ha, aahh! Hiaahh![pcms]
 Tomomin looks like she's about to collapse onto the mat any[r]moment now.[l][er]
 Breathing heavily through her shoulders, her tense arms[r]tremble slightly.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 [stop_se1]
 
 *v419|
@@ -348,7 +348,7 @@ Tomomin... Can you make me feel good this time...?[pcms]
 [ns]Igarashi[nse]
 Fuahh...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 [se1 storage="se059" loop=true]
 
 *1026|
@@ -494,7 +494,7 @@ Tomo, Min... I... too...![pcms]
 [ns]Igarashi[nse]
 Haa... You can release it, Uutan...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 [stop_se1]
 
 *1041|
@@ -502,7 +502,7 @@ Haa... You can release it, Uutan...[pcms]
 [ns]Tanaka[nse]
 Ku... ugh...![pcms]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 [overflow_se storage="se062"]
 
 ;//whiteflash
@@ -583,7 +583,7 @@ Yeah... I also want to... enter...[pcms]
 [ns]Igarashi[nse]
 It's fine... Uutan's penis, please...[pcms]
 
-;//[0108]ã¸
+;//[0108]‚Ö
 
 [jump target=*0108_H_TOP storage="0108_H.ks"]
 

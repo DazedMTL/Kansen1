@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05140ã€å£è«–ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05140wŒû˜_x
+;//BG:“Áê‹³º˜L‰ºF–éF“_“”
+;//“oêl•¨GålŒöE“µ
 
 *05140_TOP
-;[debug_win]ãªã†ã€€05140[debug_win_end]
-;*SceneSet|ã€å£è«–ã€
+;[debug_win]‚È‚¤@05140[debug_win_end]
+;*SceneSet|wŒû˜_x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05140 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05140 = 1"]
 
-;//â™ªï¼šBGM001ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM001ƒtƒF[ƒhƒAƒEƒg
 [fadeoutbgm time=500]
 
 ;	/*
@@ -36,7 +36,7 @@ A verbal fight, perhaps?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2083|
 [fc]
@@ -50,15 +50,15 @@ Is something wrong?[pcms]
 Can you hear something? It sounds like people talking...[l][er]
 Look, this sound...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2084|
 [fc]
 [vo_sa s="sae0378"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
-;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM007ƒtƒF[ƒhƒCƒ“
 [bgm007]
 
 *4910|
@@ -69,7 +69,7 @@ Saeki, with an uneasy expression on her face, looked around[r]and hid herself be
 [fc]
 Saeki, who was hiding behind me in a completely normal way,[r]looked strangely adorable, and I couldn't help but laugh.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2085|
 [fc]
@@ -95,13 +95,13 @@ Originally, I followed Saeki because she is easily scared,[r]but there was also 
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2086|
 [fc]
 [vo_sa s="sae0380"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
@@ -114,5 +114,5 @@ I firmly grasped Saeki's hand, which was timidly reaching[r]out, and I continued
 
 [se0 storage="se067"]
 
-;//[05150]ã¸
+;//[05150]‚Ö
 [jump target=*05150_TOP storage="05150.ks"]

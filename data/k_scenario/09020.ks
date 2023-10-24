@@ -1,23 +1,23 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯09020ã€ç³ã®æ±ºæ„ã€
-;//BGï¼šãƒã‚¹åœ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//;//¡ËƒuƒƒbƒN09020w“µ‚ÌŒˆˆÓx
+;//BGFƒoƒX’â
 
-;//;//ç™»å ´äººç‰©ï¼šç³
-;//ã“ã®ãƒ–ãƒ­ãƒƒã‚¯ã®ãƒœã‚¤ã‚¹ãƒ•ã‚¡ã‚¤ãƒ«ã¯ã€€â€»ãƒãƒ¼ã‚¯ã®å¾Œã‚ã®No
-;//.ã‚’ä½¿ç”¨ã—ã¦ä¸‹ã•ã„ã€‚
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;//;//“oêl•¨F“µ
+;//‚±‚ÌƒuƒƒbƒN‚Ìƒ{ƒCƒXƒtƒ@ƒCƒ‹‚Í@¦ƒ}[ƒN‚ÌŒã‚ë‚ÌNo
+;//.‚ğg—p‚µ‚Ä‰º‚³‚¢B
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *09020_TOP
-;[debug_win]ãªã†ã€€09020[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_09020 = 1"]
+;[debug_win]‚È‚¤@09020[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_09020 = 1"]
 
-;*SceneSet|ã€ç³ã®æ±ºæ„ã€
+;*SceneSet|w“µ‚ÌŒˆˆÓx
 
 ;//;//[09000]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 [bgm001]
 ;//;//BG:bg19
 [bg storage="bg19"]
@@ -46,7 +46,7 @@ But, because that person is there...[pcms]
 [ns]Saeki[nse]
 Hehe...[pcms]
 
-;//â€»sae1335.wav
+;//¦sae1335.wav
 
 *10817|
 [fc]
@@ -74,9 +74,9 @@ If only I had been more honest...[pcms]
 [fc]
 [vo_sa s="sae1336"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
-;//â€»sae1336.wav
+;//¦sae1336.wav
 
 *10822|
 [fc]
@@ -93,7 +93,7 @@ Or will they be rejected...[pcms]
 [ns]Saeki[nse]
 ... Hehe... I'm so selfish...[pcms]
 
-;//â€»sae1337.wav
+;//¦sae1337.wav
 
 *10824|
 [fc]
@@ -115,7 +115,7 @@ I can say it...[pcms]
 [ns]Saeki[nse]
 Yes, if only there was some kind of trigger...[pcms]
 
-;//â€»sae1338.wav
+;//¦sae1338.wav
 
 *10827|
 [fc]
@@ -153,5 +153,5 @@ With that decision in my heart, I head towards the meeting[r]place and start run
 
 ;;;[sysbt_meswin]
 
-;//;//[0013]ã¸
+;//;//[0013]‚Ö
 [jump target=*0013_TOP storage="0013.ks"]

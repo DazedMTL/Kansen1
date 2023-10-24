@@ -1,34 +1,34 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02075ã€è·å“¡å®¤ã€
-;//BG:è·å“¡å®¤ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02075wEˆõºx
+;//BG:EˆõºF–éF“_“”
+;//“oêl•¨GålŒöE—DEƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02075_TOP
-;[debug_win]ãªã†ã€€02075[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02075 = 1"]
+;[debug_win]‚È‚¤@02075[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02075 = 1"]
 
-;*SceneSet|ã€è·å“¡å®¤ã€
+;*SceneSet|wEˆõºx
 
 ;//[02075]
 
-;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼’ã€€è¡¨ç¤º
-;//â™ªï¼šBGM001
+;//flag:—Dƒ‹[ƒgƒtƒ[@‚Q@•\¦
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg012d
 [bg storage="bg12d"]
 [trans_c cross time=500]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 [se0 storage="se008"]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v687|
 [fc]
@@ -57,10 +57,10 @@ So this is the staff room...[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 ;[black_toplayer][trans_c cross time=500][hide_chara_int]
 
-;mm é»’ã¨åŒæ™‚ã«é€éã«ã—ã¦ãŠã
+;mm •‚Æ“¯‚É“§‰ß‚É‚µ‚Ä‚¨‚­
 [bg storage="effect_black"]
 [ChrSetEx layer=1 chbase="sae_c_a_01" opacity=204]
 [ChrSetXY layer=1 x=0 y=0]
@@ -95,7 +95,7 @@ It seems that Shinya had seen Saeki coming to the staff room[r]while he was bein
 [fc]
 It seems that even though they are regulars in the same[r]staff room, the reasons for that are quite different, almost[r]too easy to understand...[pcms]
 
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [bg storage="bg12c"]
 [trans_c cross time=500]
 
@@ -109,7 +109,7 @@ Yamagishi-san, who was looking around the room with great[r]interest, suddenly r
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v688|
 [fc]
@@ -130,7 +130,7 @@ Wow, that's amazing... So when the teacher calls someone[r]out, they do it from 
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v689|
 [fc]
@@ -148,7 +148,7 @@ Shindou-sensei laughs as if she wants to say that.[pcms]
 [fc]
 I see, so Shinya became a regular...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v690|
 [fc]
@@ -162,7 +162,7 @@ Now, let's go. There's no point in staying here any longer.[pcms]
 Oh, sensei. What if we use that microphone to call someone[r]out?[l][er]
 I think it would be faster than walking around searching for[r]them.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v691|
 [fc]
@@ -175,7 +175,7 @@ I see... But it's midnight, and even though we're in the[r]mountains, I hesitate
 [ns]Kato[nse]
 Is that so...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v692|
 [fc]
@@ -200,30 +200,30 @@ Nodding in agreement with the teacher's words, we left the[r]staff room and head
 
 ;;;[sysbt_meswin]
 
-;//â€»æ¡ä»¶åˆ†å²
-;//ãƒ»flag:å„ªãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒOFF;//[02076]ã¸
-;//ãƒ»flag:å„ªãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒON;//[03020]ã¸
+;//¦ğŒ•ªŠò
+;//Eflag:—Dƒ‹[ƒgƒNƒŠƒA@‚ªOFF;//[02076]‚Ö
+;//Eflag:—Dƒ‹[ƒgƒNƒŠƒA@‚ªON;//[03020]‚Ö
 
 [if exp="sf.g_yuu_clear==0"]
 	[jump target=*02076_TOP storage="02076.ks"]
 [endif]
 
-;BGMåœæ­¢
+;BGM’â~
 [fadeoutbgm time=500]
 
 
-*ZAP04|ã‚¶ãƒƒãƒ”ãƒ³ã‚°é¸æŠè‚¢ã€€ç«¹å†…
+*ZAP04|ƒUƒbƒsƒ“ƒO‘I‘ğˆ@’|“à
 
-;ãƒãƒƒã‚¯ãƒ­ã‚°ã‚­ãƒ£ãƒ©æŒ‡å®š
-[eval exp="f.zap_sel_chara01 = 'ã€€ç«¹å†…'"]
-[eval exp="f.zap_sel_chara02 = 'ã€€ã‚­ãƒ£ãƒ³ã‚»ãƒ«'"]
+;ƒoƒbƒNƒƒOƒLƒƒƒ‰w’è
+[eval exp="f.zap_sel_chara01 = '@’|“à'"]
+[eval exp="f.zap_sel_chara02 = '@ƒLƒƒƒ“ƒZƒ‹'"]
 
 [zap_set1]
 
 [eval exp="f.zap_bt01_x = 200"][eval exp="f.zap_bt01_y = 200"]
 [eval exp="f.zap_bt99_x = 320"][eval exp="f.zap_bt99_y = 540"]
 
-;ãƒœã‚¿ãƒ³
+;ƒ{ƒ^ƒ“
 [locate x="&f.zap_bt01_x" y="&f.zap_bt01_y"][button graphic="zap_take_"   target=*SEL00_take   recthit=true]
 [locate x="&f.zap_bt99_x" y="&f.zap_bt99_y"][button graphic="zap_cancel" target=*SEL00_cancel recthit=true]
 
@@ -232,7 +232,7 @@ Nodding in agreement with the teacher's words, we left the[r]staff room and head
 [s]
 ;-------------------------------------------------
 *SEL00_take
-[zap_hisout txt="ã‚¶ãƒƒãƒ”ãƒ³ã‚°"][zap_hisout txt="&f.zap_sel_chara01 "][zap_hisout txt="ã€€é¸æŠ"][hr][hr]
+[zap_hisout txt="ƒUƒbƒsƒ“ƒO"][zap_hisout txt="&f.zap_sel_chara01 "][zap_hisout txt="@‘I‘ğ"][hr][hr]
 [zap_clear]
 [image storage="zap_take"  layer=1 left="&f.zap_bt01_x" top="&f.zap_bt01_y" page=fore visible=true opacity=255]
 [image storage="zap_cancel" layer=2 left="&f.zap_bt99_x" top="&f.zap_bt99_y" page=fore visible=true opacity=255 clipleft=0 cliptop=0 clipwidth=160 clipheight=40]
@@ -243,7 +243,7 @@ Nodding in agreement with the teacher's words, we left the[r]staff room and head
 
 ;-------------------------------------------------
 *SEL00_cancel
-[zap_hisout txt="ã‚¶ãƒƒãƒ”ãƒ³ã‚°"][zap_hisout txt="&f.zap_sel_chara02 "][zap_hisout txt="ã€€é¸æŠ"][hr][hr]
+[zap_hisout txt="ƒUƒbƒsƒ“ƒO"][zap_hisout txt="&f.zap_sel_chara02 "][zap_hisout txt="@‘I‘ğ"][hr][hr]
 [zap_clear]
 [image storage="zap_take_" layer=1 left="&f.zap_bt01_x" top="&f.zap_bt01_y" page=fore visible=true opacity=255 clipleft=0 cliptop=0 clipwidth=400 clipheight=120]
 [black_toplayer][trans_c random time=1000][hide_chara_int]

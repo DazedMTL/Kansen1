@@ -1,30 +1,30 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0112ã€æ˜ ç”»ç ”ç©¶éƒ¨è¨­ç«‹ãƒ»å‹•æ©Ÿã€
-;//BG:ç†ç§‘æ•™å“¡å®¤ï¼å¤•æ–¹
-;//EVENT;//BG:ç†ç§‘æ•™å“¡å®¤ãƒ»ãƒªã‚µã®äº‹å‹™æœºå‰
-;//ç™»å ´äººç‰©ï¼›ãƒªã‚µãƒ»å²¸ç”°
-;//è¦–ç‚¹ï¼šãƒªã‚µ
-;//ã€†å›æƒ³ã‚·ãƒ¼ãƒ³
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN0112w‰f‰æŒ¤‹†•”İ—§E“®‹@x
+;//BG:—‰È‹³ˆõº^—[•û
+;//EVENT;//BG:—‰È‹³ˆõºEƒŠƒT‚Ì––±Š÷‘O
+;//“oêl•¨GƒŠƒTEŠİ“c
+;//‹“_FƒŠƒT
+;//Y‰ñ‘zƒV[ƒ“
 
-;//â˜…ï¼¨EVENT_008ã€€ã€æ˜ ç”»ç ”ç©¶éƒ¨è¨­ç«‹ãƒ»å‹•æ©Ÿã€
-;//ä½“ä½ï¼šå…¨è£¸ã§æ‰‹é¦–ã‚’æ‹˜æŸã•ã‚ŒãŸã¾ã¾ã€åºŠã«æ¨ªã«ãªã£ãŸå²¸ç”°ã«èƒŒé¢é¨ä¹—ä½ï¼ˆå²¸ç”°ã®é¡”ã¯ç”»é¢ã«ã¯å…¥ã‚‰ãšï¼‰
-;//ã€€ã€€ã€€æ‹˜æŸã•ã‚ŒãŸæ‰‹ã¯ã€å²¸ç”°ã®ç”·æ€§å™¨ã‚’æ¡ã£ã¦ã„ã‚‹ã€‚
-;//å·®åˆ†ï¼šç›®ã‚’é–‰ã˜ã¦å±ˆè¾±ã«è€ãˆã¦ã„ã‚‹ãƒ»ç›®ã‚’è¦‹é–‹ãã€ã‚·ãƒ§ãƒƒã‚¯ã‚’å—ã‘ã¦ã„ã‚‹ãƒ»
-;//ã€€ã€€ã€€è©¦é¨“ç®¡ãƒ»ã‚´ãƒ ãƒãƒ¥ãƒ¼ãƒ–ãƒ»å²¸ç”°ã®ä¸‹åŠèº«ãƒ»å°„ç²¾å·®åˆ†
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;//š‚gEVENT_008@w‰f‰æŒ¤‹†•”İ—§E“®‹@x
+;//‘ÌˆÊF‘S—‡‚Åèñ‚ğS‘©‚³‚ê‚½‚Ü‚ÜA°‚É‰¡‚É‚È‚Á‚½Šİ“c‚É”w–Ê‹RæˆÊiŠİ“c‚ÌŠç‚Í‰æ–Ê‚É‚Í“ü‚ç‚¸j
+;//@@@S‘©‚³‚ê‚½è‚ÍAŠİ“c‚Ì’j«Ší‚ğˆ¬‚Á‚Ä‚¢‚éB
+;//·•ªF–Ú‚ğ•Â‚¶‚Ä‹üJ‚É‘Ï‚¦‚Ä‚¢‚éE–Ú‚ğŒ©ŠJ‚«AƒVƒ‡ƒbƒN‚ğó‚¯‚Ä‚¢‚éE
+;//@@@Œ±ŠÇEƒSƒ€ƒ`ƒ…[ƒuEŠİ“c‚Ì‰º”¼gEË¸·•ª
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *0112_H_TOP
-;[debug_win]ãªã†ã€€0112_H[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0112 = 1"]
+;[debug_win]‚È‚¤@0112_H[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0112 = 1"]
 
-;*SceneSet|ã€æ˜ ç”»ç ”ç©¶éƒ¨è¨­ç«‹ãƒ»å‹•æ©Ÿã€
+;*SceneSet|w‰f‰æŒ¤‹†•”İ—§E“®‹@x
 
 ;//[0112]
 
-;//â™ªï¼šBGM004
+;//ôFBGM004
 ;//[bgm004]
 
 ;//BG:bg017d
@@ -45,12 +45,12 @@ That day, which became the starting point for creating the[r]Film Research Club,
 
 ;;;[sysbt_meswin]
 
-;//BG:bgç†ç§‘æº–å‚™å®¤ã€€ã‚»ãƒ”ã‚¢
+;//BG:bg—‰È€”õº@ƒZƒsƒA
 
 [bg storage="bg18a_s"]
 [trans_c cross time=500]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 [se0 storage="se008"]
 
 [ChrSetEx layer=1 chbase="spi_kisi_a_a_01"]
@@ -58,7 +58,7 @@ That day, which became the starting point for creating the[r]Film Research Club,
 [ChrSetParts layer=1 chface="spi_kisi_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std172|
 [fc]
 [ns]Kishida[nse]
@@ -83,7 +83,7 @@ Kishida, sensei...[pcms]
 [ChrSetParts layer=1 chface="spi_kisi_a_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std173|
 [fc]
 [ns]Kishida[nse]
@@ -95,7 +95,7 @@ Hey! Didn't I tell you to call me Kishida-sama when there's[r]no one else around
 [ns]Shindou[nse]
 I-I'm sorry, Kishida-sama...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std174|
 [fc]
 [ns]Kishida[nse]
@@ -109,7 +109,7 @@ While saying that, Kishida, who was looking around the room,[r]noticed the steel
 [ChrSetXY layer=1 x=140 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std175|
 [fc]
 [ns]Kishida[nse]
@@ -126,7 +126,7 @@ Kishida, who had opened the door and was looking at the[r]chemicals on the shelf
 [ns]Shindou[nse]
 That is something recently purchased for the science club's[r]experiments...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std176|
 [fc]
 [ns]Kishida[nse]
@@ -137,7 +137,7 @@ And if there's something to put in, that would be great.[pcms]
 Kishida paid no attention to my words and approached the[r]shelf where the experimental equipment was placed.[l][er]
 After searching for a while, he picked up a large pipette.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std177|
 [fc]
 [ns]Kishida[nse]
@@ -150,7 +150,7 @@ Hey![pcms]
 [ns]Shindou[nse]
 Um, what are you planning to do with that...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std178|
 [fc]
 [ns]Kishida[nse]
@@ -167,7 +167,7 @@ Y-Yes...[pcms]
 [fc]
 As I obediently took off all of my clothes as instructed,[r]Kishida gave me the next command.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std179|
 [fc]
 [ns]Kishida[nse]
@@ -192,7 +192,7 @@ Kishida intended to give me an enema using glycerin.[pcms]
 [ChrSetParts layer=1 chface="spi_kisi_a_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std180|
 [fc]
 [ns]Kishida[nse]
@@ -216,7 +216,7 @@ A mixture of embarrassment, fear of being violated even in[r]my anal opening, re
 [ChrSetXY layer=1 x=80 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std181|
 [fc]
 [ns]Kishida[nse]
@@ -237,7 +237,7 @@ U-ah...![pcms]
 [fc]
 I couldn't help but let out a voice at the cold sensation,[r]and when I turned around to see Kishida's expression, he was[r]licking his lips with a lewd smile.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std182|
 [fc]
 [ns]Kishida[nse]
@@ -260,7 +260,7 @@ Kishida's hand pushed me forward, and glycerin flowed into[r]my intestines from 
 [ns]Shindou[nse]
 Nn! Uuhh...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std183|
 [fc]
 [ns]Kishida[nse]
@@ -277,7 +277,7 @@ Ugh...[pcms]
 [ChrSetParts layer=1 chface="spi_kisi_a_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std184|
 [fc]
 [ns]Kishida[nse]
@@ -294,7 +294,7 @@ Haa, y-yes, it's delicious, suu...[pcms]
 [ChrSetXY layer=1 x=140 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std185|
 [fc]
 [ns]Kishida[nse]
@@ -312,7 +312,7 @@ Th-thank you...[pcms]
 [fc]
 I felt glycerin being injected into my intestines several[r]times after that, and gradually, I felt my lower abdomen[r]swelling.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std186|
 [fc]
 [ns]Kishida[nse]
@@ -328,7 +328,7 @@ After Kishida said that and pulled out the pipette, a dull[r]pain began to appea
 [ns]Shindou[nse]
 Nn, uuhh...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std187|
 [fc]
 [ns]Kishida[nse]
@@ -343,7 +343,7 @@ Kishida, with a blissful expression on his face, sniffed the[r]tip of the pipett
 [ChrSetParts layer=1 chface="spi_kisi_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std188|
 [fc]
 [ns]Kishida[nse]
@@ -359,7 +359,7 @@ Ah, ku... s-so, like that...[pcms]
 [ChrSetXY layer=1 x=140 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std189|
 [fc]
 [ns]Kishida[nse]
@@ -380,7 +380,7 @@ As the numbness spread, the dull pain in my abdomen[r]intensified rapidly to the
 [ns]Shindou[nse]
 Uuhh...![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std190|
 [fc]
 [ns]Kishida[nse]
@@ -398,7 +398,7 @@ ngh... please let me...[pcms]
 [fc]
 Kishida looked down at me with a lewd smile as I weakly said[r]those words while clutching my abdomen.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std191|
 [fc]
 [ns]Kishida[nse]
@@ -415,7 +415,7 @@ Ah, i...[pcms]
 [ChrSetParts layer=1 chface="spi_kisi_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std192|
 [fc]
 [ns]Kishida[nse]
@@ -437,7 +437,7 @@ Kishida looked down at me, who was gasping for breath and[r]pleading, with an ev
 [ChrSetXY layer=1 x=140 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std193|
 [fc]
 [ns]Kishida[nse]
@@ -455,7 +455,7 @@ N-No... that...[pcms]
 [ChrSetParts layer=1 chface="spi_kisi_a_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std194|
 [fc]
 [ns]Kishida[nse]
@@ -483,7 +483,7 @@ Struggling through the pain in my abdomen and the numbness[r]deep within my body
 [ChrSetParts layer=1 chface="spi_kisi_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std195|
 [fc]
 [ns]Kishida[nse]
@@ -503,7 +503,7 @@ Kishida grabbed the trembling genitals in front of him with[r]one hand, then he 
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;//H_CG:ãƒªã‚µã¨å²¸ç”°ã®ï¼³ï¼­ãƒ—ãƒ¬ã‚¤
+;//H_CG:ƒŠƒT‚ÆŠİ“c‚Ì‚r‚lƒvƒŒƒC
 
 ;;;[sysbt_meswin clear]
 
@@ -532,7 +532,7 @@ And then, this is a bonus.[pcms]
 [ns]Shindou[nse]
 E... Ahh![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 [se1 storage="se059" loop=true]
 
 ;//redflash
@@ -574,7 +574,7 @@ Now, start![pcms]
 [ns]Shindou[nse]
 Ah...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 [se1 storage="se059" loop=true]
 
 *1246|
@@ -692,7 +692,7 @@ The female pig is getting carried away![pcms]
 [fc]
 Saying that, Kishida grabbed the test tube that was inserted[r]into my genitals and started moving it.[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 [overflow_se storage="se061"]
 
 ;//whiteflash
@@ -805,7 +805,7 @@ Kishida didn't miss the surprised me.[pcms]
 Hey! Are you so obsessed with holding it in that you've lost[r]your mind?![l][er]
 Or are you getting excited?[pcms]
 
-;//æ¸…æ°´ï¼ ãƒ•ã‚¡ã‚¤ãƒ«ç„¡ã„ã®ã§ç¾åœ¨éŸ³å£°ãªã—ã§
+;//´…—ƒtƒ@ƒCƒ‹–³‚¢‚Ì‚ÅŒ»İ‰¹º‚È‚µ‚Å
 ;//*|
 
 *1268a|
@@ -864,12 +864,12 @@ Nuu... You female pig...!![pcms]
 [ns]Shindou[nse]
 Hah... ah, auu...!![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 [stop_se1]
 [stop_overflow_se]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 [overflow_se storage="se062"]
 
 ;//whiteflash
@@ -1023,24 +1023,24 @@ Strictly speaking, it is an act filled with sadistic desires[r]that satisfies my
 
 
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn05 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn05 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
@@ -1050,9 +1050,9 @@ Strictly speaking, it is an act filled with sadistic desires[r]that satisfies my
 
 ;;;[sysbt_meswin]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;//[0032]ï¼ˆãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ãƒ»æœ¬ãƒ«ãƒ¼ãƒˆï¼‰ã¸
+;//[0032]iƒvƒƒ[ƒOE–{ƒ‹[ƒgj‚Ö
 
 [bg storage="bg15c"]
 [trans_c cross time=1000]

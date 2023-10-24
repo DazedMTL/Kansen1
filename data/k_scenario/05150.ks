@@ -1,16 +1,16 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05150ã€ä¿å¥å®¤ã§ã®å£è«–ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05150w•ÛŒ’º‚Å‚ÌŒû˜_x
+;//BG:“Áê‹³º˜L‰ºF–éF“_“”
+;//“oêl•¨GålŒöE“µ
 
 *05150_TOP
-;[debug_win]ãªã†ã€€05150[debug_win_end]
-;*SceneSet|ã€ä¿å¥å®¤ã§ã®å£è«–ã€
+;[debug_win]‚È‚¤@05150[debug_win_end]
+;*SceneSet|w•ÛŒ’º‚Å‚ÌŒû˜_x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05150 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05150 = 1"]
 
 ;	/*
-;	;//â™ªï¼šBGM007
+;	;//ôFBGM007
 ;	[bgm007]
 ;	*/
 
@@ -74,16 +74,16 @@ Shinya and... Sensei Shindou...?[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std335|
 [fc]
 ;[vo_sa s="sae0000"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 [bgm001]
 
 *4929|
@@ -113,12 +113,12 @@ There shouldn't be any problem with going in.[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 [se0 storage="se008"]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 ;//blackout
 
-;//[05160]ã¸
+;//[05160]‚Ö
 [jump target=*05160_TOP storage="05160.ks"]

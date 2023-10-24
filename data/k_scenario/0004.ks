@@ -1,24 +1,24 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
-;//;//â– ãƒ–ãƒ­ãƒƒã‚¯0004ã€æ˜ ç ”éƒ¨å“¡å…¨å“¡é›†åˆï¼šç”°ä¸­ã€æœ‹ç¾ã¨åˆæµã€
-;//;//BG:å­¦åœ’å†…ï¼šç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼
-;//;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;//;//¡ƒuƒƒbƒN0004w‰fŒ¤•”ˆõ‘SˆõW‡F“c’†A•ü”ü‚Æ‡—¬x
+;//;//BG:Šw‰€“àF“Áê‹³º˜L‰ºF’‹
+;//;//“oêl•¨GålŒöE—DE•ü”üE’|“àE“c’†
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *0004_TOP
-;[debug_win]ãªã†ã€€0004[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0004 = 1"]
+;[debug_win]‚È‚¤@0004[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0004 = 1"]
 
-;*SceneSet|ã€æ˜ ç ”éƒ¨å“¡å…¨å“¡é›†åˆã€
+;*SceneSet|w‰fŒ¤•”ˆõ‘SˆõW‡x
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 
 ;//;//BG:bg005a
 
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [bg storage="bg05a"]
 [trans_c cross time=500]
 
@@ -26,7 +26,7 @@
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std15|
 [fc]
 [ns]Takeuchi[nse]
@@ -36,7 +36,7 @@ Hey, hey, Yuu-chan, are you going somewhere for summer[r]vacation?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v31|
 [fc]
@@ -48,7 +48,7 @@ Yeah, I made plans with my friends to go to the beach.[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std16|
 [fc]
 [ns]Takeuchi[nse]
@@ -58,7 +58,7 @@ The beach, huh? Sounds great! Can I join as the[r]photographer?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v32|
 [fc]
@@ -71,7 +71,7 @@ I'm sorry.[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std17|
 [fc]
 [ns]Takeuchi[nse]
@@ -81,7 +81,7 @@ Aww, that's too bad. I really wanted to capture Yuu-chan's[r]smiling face as she
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v33|
 [fc]
@@ -140,7 +140,7 @@ Yuuji is one year older, but he's still our best friend to[r]me and Shinya.[pcms
 [ChrSetParts layer=1 chface="take_a_d_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std18|
 [fc]
 [ns]Takeuchi[nse]
@@ -151,7 +151,7 @@ Stop it, Yuuji~![pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std19|
 [fc]
 [ns]Tanaka[nse]
@@ -167,7 +167,7 @@ Yuuji, while teasing Shinya about the time he saw him during[r]the closing cerem
 [ChrSetParts layer=1 chface="tanaka_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std20|
 [fc]
 [ns]Tanaka[nse]
@@ -179,13 +179,13 @@ Ouch, my stomach hurts! Geez, are you trying to make me[r]laugh to death?![pcms]
 [ChrSetParts layer=1 chface="tomo_c_a_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v34|
 [fc]
 [vo_to s="tomo0001"]
 [ns]Female senior[nse]
-;//â€»äº”ååµ
+;//¦ŒÜ\—’
 Hey, Shinya-kun looks so pitiful, doesn't he?[pcms]
 
 *124|
@@ -209,7 +209,7 @@ Especially with Yamagishi-san, we were very close, and from[r]an outsider's pers
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std21|
 [fc]
 [ns]Takeuchi[nse]
@@ -219,7 +219,7 @@ Ugh... Igarashi-san is the only one on my side...[pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v35|
 [fc]
@@ -232,7 +232,7 @@ H-Hey... hey, Takeuchi-kun...[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std22|
 [fc]
 [ns]Tanaka[nse]
@@ -247,7 +247,7 @@ Yuuji grabbed Shinya's neck as if to cling to Igarashi-san,[r]and then he playfu
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std23|
 [fc]
 [ns]Takeuchi[nse]
@@ -258,7 +258,7 @@ Ubu~![pcms]
 [ChrSetParts layer=1 chface="tomo_c_a_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v36|
 [fc]
@@ -289,7 +289,7 @@ It's officially recognized by everyone, including their[r]parents and those arou
 [ChrSetParts layer=1 chface="tanaka_a_a_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std24|
 [fc]
 [ns]Tanaka[nse]
@@ -300,37 +300,37 @@ Alright, excuse me.[pcms]
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v37|
 [fc]
 [vo_to s="tomo0004"]
 [ns]Igarashi[nse]
-Good boy, Uutanâ™ª[l][er]
+Good boy, Uutanô[l][er]
 
 [ChrSetEx layer=1 chbase="tanaka_a_a_01"]
 [ChrSetXY layer=1 x=160 y=0]
 [ChrSetParts layer=1 chface="tanaka_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std25|
 [fc]
 [ns]Tanaka[nse]
-Eheheâ™ª[l][er]
+Eheheô[l][er]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v38|
 [fc]
 [vo_to s="tomo0005"]
 [ns]Igarashi[nse]
-Eheheâ™ª[l][er]
+Eheheô[l][er]
 
 *133|
 [fc]
@@ -345,7 +345,7 @@ I still can't believe that the guy who seems genuinely happy[r]when Yamagishi-sa
 [ChrSetParts layer=1 chface="tanaka_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std26|
 [fc]
 [ns]Tanaka[nse]
@@ -363,7 +363,7 @@ I also want to be like that with Yamagishi-san...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v39|
 [fc]
@@ -401,6 +401,6 @@ I might just naturally have a low level of manliness if I[r]can't come up with a
 
 ;;;[sysbt_meswin]
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*0005_TOP storage="0005.ks"]
 

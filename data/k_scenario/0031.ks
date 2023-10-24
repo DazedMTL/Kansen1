@@ -1,23 +1,23 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0031ã€æ”¾é€äº‹æ•…ãƒ»ãã®å¾Œã€
-;//BG:è¦–è´è¦šå®¤ï¼šå¤œ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN0031w•ú‘—–ŒÌE‚»‚ÌŒãx
+;//BG:‹’®ŠoºF–é
+;//“oêl•¨GålŒöE—DE“µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *0031_TOP
-;[debug_win]ãªã†ã€€0031[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0031 = 1"]
+;[debug_win]‚È‚¤@0031[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0031 = 1"]
 
-;*SceneSet|ã€æ”¾é€äº‹æ•…ã€
+;*SceneSet|w•ú‘—–ŒÌx
 
 ;//[0031]
 
 ;//BG:bg015d
 ;//[bg storage="bg15d"]
 ;//[trans_c cross time=500]
-;//â™ªï¼šBGM007
+;//ôFBGM007
 ;//[bgm007]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
@@ -70,7 +70,7 @@ Hey...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v283|
 [fc]
@@ -88,7 +88,7 @@ Ah, huh? What is it?[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v284|
 [fc]
@@ -110,7 +110,7 @@ In reality, I actually borrow them from Shinya and watch[r]them quite often, but
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v285|
 [fc]
@@ -127,7 +127,7 @@ Well, there are some people who like them, but there are[r]also some who aren't 
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v286|
 [fc]
@@ -140,7 +140,7 @@ Hmm, I see...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v287|
 [fc]
@@ -149,7 +149,7 @@ Hmm, I see...[pcms]
 What are you guys talking about?[l][er]
 How about saving that kind of conversation for when we get[r]home?[pcms]
 
-;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM007ƒtƒF[ƒhƒAƒEƒg
 [fadeoutbgm time=500]
 
 *745|
@@ -162,38 +162,38 @@ Saeki, still not recovered from the shock of the previous[r]video, directed a so
 [fc]
 With that as a trigger, another period of silence began[r]where no one spoke.[pcms]
 
-;//SE:è™«ã®éŸ³ãƒ«ãƒ¼ãƒ—
+;//SE:’‚Ì‰¹ƒ‹[ƒv
 [se0 storage="se018"]
 
 *747|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v288|
 [fc]
 [vo_ya s="yama0087"]
 [ns]Yamagishi[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v289|
 [fc]
 [vo_sa s="sae0079"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
@@ -218,7 +218,7 @@ Um...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v290|
 [fc]
@@ -240,9 +240,9 @@ Saeki's suggestion was unanimously adopted.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//â€»æ¡ä»¶åˆ†å²
-;//ãƒ»flag:ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ã‚¶ãƒƒãƒ”ãƒ³ã‚°ãƒ‘ãƒ¼ãƒˆã€€é–‹æ”¾ã€€ãŒOFFã®ã¨ã[0032]ã¸
-;//ãƒ»flag:ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ã‚¶ãƒƒãƒ”ãƒ³ã‚°ãƒ‘ãƒ¼ãƒˆã€€é–‹æ”¾ã€€onã®ã¨ã[0103]ã¸
+;//¦ğŒ•ªŠò
+;//Eflag:ƒvƒƒ[ƒOƒUƒbƒsƒ“ƒOƒp[ƒg@ŠJ•ú@‚ªOFF‚Ì‚Æ‚«[0032]‚Ö
+;//Eflag:ƒvƒƒ[ƒOƒUƒbƒsƒ“ƒOƒp[ƒg@ŠJ•ú@on‚Ì‚Æ‚«[0103]‚Ö
 
 [if exp="sf.g_prologue_clear==1"]
 	[jump target=*0103_TOP storage="0103.ks"]

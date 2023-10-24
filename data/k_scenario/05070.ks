@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05070ã€éšæ®µã€
-;//BG:ç„¡ã—
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05070wŠK’ix
+;//BG:–³‚µ
+;//“oêl•¨GålŒöE“µ
 
 *05070_TOP
-;[debug_win]ãªã†ã€€05070[debug_win_end]
-;*SceneSet|ã€éšæ®µã€
+;[debug_win]‚È‚¤@05070[debug_win_end]
+;*SceneSet|wŠK’ix
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05070 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05070 = 1"]
 ;	/*
-;	;//â™ªï¼šBGM001
+;	;//ôFBGM001
 ;	[bgm001]
 ;	*/
 ;//BG:bg006d
@@ -31,7 +31,7 @@ I came to the third floor, but as expected, both the hallway[r]and the classroom
 ;	
 ;	
 ;	;//BG:bg006c
-;	;//ç…§æ˜ã¯æ¶ˆãˆã¦ã„ã‚‹ã®ã§06d
+;	;//Æ–¾‚ÍÁ‚¦‚Ä‚¢‚é‚Ì‚Å06d
 ;	
 ;	[bg storage="bg06d"]
 ;	[trans_c cross time=500]
@@ -50,7 +50,7 @@ Since Yuuji and Igarashi-san have their classes here, if[r]they are here, I thin
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2037|
 [fc]
@@ -80,7 +80,7 @@ I desperately racked my brain, trying to come up with a way[r]to divert the conv
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2038|
 [fc]
@@ -98,7 +98,7 @@ I desperately racked my brain, trying to come up with a way[r]to divert the conv
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2039|
 [fc]
@@ -111,7 +111,7 @@ Test of courage...?[pcms]
 [ns]Kato[nse]
 There's a rumor that the ghost of a female student who jumps[r]out of the window multiple times appears in Class H on the[r]third floor.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2040|
 [fc]
@@ -126,7 +126,7 @@ It seems like she had exam anxiety.[l][er]
 During class, she suddenly said, The carp streamers are[r]flying away![l][er]
 and jumped out of the window.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2041|
 [fc]
@@ -154,13 +154,13 @@ Saeki lowered her gaze and fell silent, as if trying to hide[r]herself, she slow
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2042|
 [fc]
 [vo_sa s="sae0336"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4754|
 [fc]
@@ -173,7 +173,7 @@ Saeki, who usually gives off the impression of being cold[r]and beautiful, now l
 *4756|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4757|
 [fc]
@@ -194,6 +194,6 @@ Could it be because we held hands earlier...?[pcms]
 ;	;//blackout
 ;	*/
 ;	
-;//[05080]ã¸
+;//[05080]‚Ö
 [jump target=*05080_TOP storage="05080.ks"]
 

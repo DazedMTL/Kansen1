@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02099ã€æ ¼é—˜ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02099wŠi“¬x
+;//BG:“Áê‹³º˜L‰ºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DE’|“à
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02099_TOP
-;[debug_win]ãªã†ã€€02099[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02099 = 1"]
+;[debug_win]‚È‚¤@02099[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02099 = 1"]
 
-;*SceneSet|ã€æ ¼é—˜ã€
+;*SceneSet|wŠi“¬x
 
 ;//[02099]
 
-;//â™ªï¼šBGM003
+;//ôFBGM003
 ;//[bgm003]
 ;//BG:bg003a
 ;//[bg storage="bg03a"]
@@ -46,7 +46,7 @@ The man who had gotten up smoothly, still fixed his gaze on[r]Yamagishi-san and 
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std223|
 [fc]
 [ns]male student[nse]
@@ -57,7 +57,7 @@ Chin, po, please suck it for me...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v825|
 [fc]
@@ -88,7 +88,7 @@ I tried to grab her arm and make Yamagishi-san stand up, but[r]she was trembling
 [fc]
 Meanwhile, the man gradually closed the distance.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v826|
 [fc]
@@ -122,10 +122,10 @@ I tightly clenched my fist and leaped towards the man.[pcms]
 [ns]Kato[nse]
 Raaaaahhhhhh!!!!!![pcms]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [se0 storage="se021"]
 
 
@@ -142,7 +142,7 @@ Staggering, the man fell down near Shinya.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v827|
 [fc]
@@ -159,7 +159,7 @@ I confirmed that he had stopped moving, and hurriedly ran[r]towards Yamagishi-sa
 [ns]Kato[nse]
 Are you okay? Here, stand up...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v828|
 [fc]
@@ -172,7 +172,7 @@ Ah...[pcms]
 [ns]Kato[nse]
 Huh?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v829|
 [fc]
@@ -188,12 +188,12 @@ When Yamagishi-san, with a frightened expression on her[r]face, looked in the di
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std224|
 [fc]
 [ns]male student[nse]
 Ueh, heh...[pcms]
 
-;//[02100]ã¸
+;//[02100]‚Ö
 [jump target=*02100_TOP storage="02100.ks"]
 

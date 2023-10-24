@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05400ã€æ¸¡ã‚Šå»Šä¸‹ãƒ»å¼·è¥²ã€
-;//;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šæœï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»ã‚¾ãƒ³ãƒ“Ã—ï¼“
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN05400w“n‚è˜L‰ºE‹­Px
+;//;//BG:“n‚è˜L‰ºF’©FÁ“”
+;//“oêl•¨GålŒöE“µEƒ]ƒ“ƒr~‚R
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *05400_TOP
-;[debug_win]ãªã†ã€€05400[debug_win_end]
-;*SceneSet|ã€æ¸¡ã‚Šå»Šä¸‹ãƒ»å¼·è¥²ã€
+;[debug_win]‚È‚¤@05400[debug_win_end]
+;*SceneSet|w“n‚è˜L‰ºE‹­Px
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05400 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05400 = 1"]
 
-;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼–ã€€è¡¨ç¤º
-;//â™ªï¼šBGM007
+;//flag:“µƒ‹[ƒgƒtƒ[@‚U@•\¦
+;//ôFBGM007
 
 [bgm007]
 
@@ -23,9 +23,9 @@
 [bg storage="bg08a"]
 [trans_c cross time=500]
 
-;//ï¼ æ‰æ¸•ï¼šä¸‹è¨˜ï¼³ï¼¥ãŒè¡¨ã«ãªã„ãŸã‚ã«ç¾åœ¨éŸ³ã‚’å¼µã£ã¦ã„ã¾ã›ã‚“ã€‚
+;//—™ŸºF‰º‹L‚r‚d‚ª•\‚É‚È‚¢‚½‚ß‚ÉŒ»İ‰¹‚ğ’£‚Á‚Ä‚¢‚Ü‚¹‚ñB
 
-;//SE:å»Šä¸‹ã‚’æ­©ã
+;//SE:˜L‰º‚ğ•à‚­
 
 ;//[se0 storage="se005"]
 
@@ -38,13 +38,13 @@
 
 ;;;[sysbt_meswin]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2265|
 [fc]
 [vo_sa s="sae0491"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5442|
 [fc]
@@ -54,7 +54,7 @@ It seems that Saeki is heading towards the shower room that[r]the sports club us
 *5443|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5444|
 [fc]
@@ -62,7 +62,7 @@ I still couldn't find the words to say to Saeki, so I walked[r]along, being pull
 
 ;//;//BG:bg09a
 
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [bg storage="bg09a"]
 [trans_c cross time=500]
 
@@ -71,7 +71,7 @@ I still couldn't find the words to say to Saeki, so I walked[r]along, being pull
 [ns]Kato[nse]
 Hm...?[pcms]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 
 [se0 storage="se008"]
 
@@ -84,14 +84,14 @@ I felt like I heard someone's voice as I passed through the[r]school building an
 [ns]Kato[nse]
 !![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std362|
 [fc]
 [ns]Male Student C[nse]
 Hm...? What's up with this place...[l][er]
 it feels kinda weird...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std363|
 [fc]
 [ns]Male Student B[nse]
@@ -108,20 +108,20 @@ They were saying disrespectful things about Saeki.[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2266|
 [fc]
 [vo_sa s="sae0492"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5449|
 [fc]
 [ns]Kato[nse]
 Damn...[pcms]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 
 [se0 storage="se005"]
 
@@ -140,14 +140,14 @@ Run, Saeki!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std364|
 [fc]
 [ns]Male Student C[nse]
 W-Wait, hey... I'm gonna lick your pussy...[l][er]
 and make you feel good... so...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std365|
 [fc]
 [ns]Male Student D[nse]
@@ -158,9 +158,9 @@ please...[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//â€»æ¡ä»¶åˆ†å²
-;//ãƒ»flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒoff;//[05410]ã¸
-;//ãƒ»flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒon;//[06170]ã¸
+;//¦ğŒ•ªŠò
+;//Eflag:“µƒ‹[ƒgƒNƒŠƒA@‚ªoff;//[05410]‚Ö
+;//Eflag:“µƒ‹[ƒgƒNƒŠƒA@‚ªon;//[06170]‚Ö
 
 [if exp="sf.g_hitomi_clear==1"]
 	;[jump target=*SEL00_05400_CLEAR]

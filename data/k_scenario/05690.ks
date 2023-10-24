@@ -24,27 +24,24 @@
 
 *6064|
 [fc]
-[ns]加藤[nse]
-「ふぅ……」[pcms]
+[ns]Kato[nse]
+*sigh*...[pcms]
 
 *6065|
 [fc]
-全然足りない……。[r]
-食パン一枚じゃ、当たり前だよな……。[pcms]
+It's not enough at all... Just one slice of bread, that's[r]obvious, right...[pcms]
 
 *6066|
 [fc]
-買い出し担当の佐伯が、ゴッソリと買ってきた筈の食材[r]
-は、冷蔵庫の中にはなかった。[pcms]
+Saeki, who was in charge of shopping, couldn't find the[r]ingredients that she should have bought and brought back in[r]the refrigerator.[pcms]
 
 *6067|
 [fc]
-一昨日、晩メシの後に冷蔵庫を見た時は、まだかなり食[r]
-いモンがあった筈なんだけどな……。[pcms]
+The day before yesterday, when I looked in the refrigerator[r]after dinner, there should have been quite a bit of food[r]left to eat...[pcms]
 
 *6068|
 [fc]
-晩メシの材料に、ほとんど使っちまったのかな……。[pcms]
+I wonder if she used up most of the ingredients for[r]dinner...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -55,20 +52,19 @@
 *v2505|
 [fc]
 [vo_sa s="sae0647"]
-[ns]佐伯[nse]
-「どうぞ」[pcms]
+[ns]Saeki[nse]
+Here you go.[pcms]
 
 *6069|
 [fc]
-声をかけられて顔をむけると、佐伯が半分残した食パン[r]
-を、俺に差し出していた。俺、そんなに物足りなさそう[r]
-な顔してたのかな……。[pcms]
+When I turned my face in response to her voice, Saeki was[r]holding out half-eaten bread to me.[l][er]
+Did I really have such a dissatisfied expression on my[r]face...?[pcms]
 
 *6070|
 [fc]
-[ns]加藤[nse]
-「いや、いいよ……腹減ってるんだろ？　佐伯が全部食[r]
-べろよ」[pcms]
+[ns]Kato[nse]
+No, it's fine... You're hungry, right?[l][er]
+Saeki, go ahead and eat it all.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -77,19 +73,18 @@
 
 *6071|
 [fc]
-佐伯は無言で首を横に振り、さらに俺に向かってパンを[r]
-押し出してくる。佐伯が相手では、いらない、あげる、[r]
-とのやり取りが永遠に続くだけだろう。[pcms]
+Saeki silently shook her head and pushed the bread towards[r]me.[l][er]
+With Saeki as the other party, it would just be an endless[r]exchange of I don't need it and I'll give it to you.[pcms]
 
 *6072|
 [fc]
-ありがたく貰っておこうと考え直して、俺は佐伯の手か[r]
-らパンを受け取った。[pcms]
+I reconsidered and decided to gratefully accept it, so I[r]took the bread from Saeki's hand.[pcms]
+[l][er]
 
 *6073|
 [fc]
-[ns]加藤[nse]
-「悪いな……」[pcms]
+[ns]Kato[nse]
+I'm sorry...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -98,21 +93,20 @@
 
 *6074|
 [fc]
-少しずつ、味わうように食パンを食べている間、佐伯は[r]
-ずっと、俺の様子を見つめていた。[pcms]
+While I was slowly savoring the bread, Saeki had been[r]watching me the whole time.[pcms]
 
 *6075|
 [fc]
-[ns]加藤[nse]
-「……？　どうした？」[pcms]
+[ns]Kato[nse]
+...? What's wrong?[pcms]
 
 ;立ち
 
 *v2506|
 [fc]
 [vo_sa s="sae0648"]
-[ns]佐伯[nse]
-「……昔の事を、思い出していました」[pcms]
+[ns]Saeki[nse]
+... I was just reminiscing about the past.[pcms]
 
 ;//♪：BGM007フェードアウト
 
@@ -120,21 +114,20 @@
 
 *6076|
 [fc]
-佐伯は俺から視線を外し、微笑んで、遠くを見るような[r]
-目になった。[pcms]
+Saeki averted her gaze from me, smiled, and her eyes took on[r]a distant look as if she was looking into the distance.[pcms]
 
 *6077|
 [fc]
-[ns]加藤[nse]
-「昔のこと……？」[pcms]
+[ns]Kato[nse]
+The past...?[pcms]
 
 ;立ち
 
 *v2507|
 [fc]
 [vo_sa s="sae0649"]
-[ns]佐伯[nse]
-「ええ。あなたを初めて意識した時の事を……」[pcms]
+[ns]Saeki[nse]
+Yes. I was just thinking about the first time I became aware[r]of you...[pcms]
 
 [sysbt_meswin clear]
 
@@ -156,74 +149,69 @@
 
 *6078|
 [fc]
-去年の体育祭、私は実行委員として、上級生に混じって[r]
-進行を行っていました。[pcms]
+Last year's sports festival, I was participating as a member[r]of the organizing committee and helping with the event[r]alongside the upperclassmen.[pcms]
 
 *6079|
 [fc]
-ですが、その上級生、特に女子の上級生達はまともに仕[r]
-事をせず、怠けていたのです。私はそれが許せず、彼女[r]
-達に注意をしました。[pcms]
+However, those upperclassmen, especially the female[r]upperclassmen, were not doing their work properly and were[r]slacking off.[l][er]
+I couldn't tolerate that, so I reprimanded them.[pcms]
 
 *v2508|
 [fc]
 [vo_sa s="sae0650"]
-[ns]佐伯[nse]
-「あなた達、それでも実行委員なのですか！？　少しは[r]
-自分の仕事をしたら如何ですか！！」[pcms]
+[ns]Saeki[nse]
+Are you still members of the organizing committee!?[l][er]
+How about doing your own work for once![pcms]
 
 *v2509|
 [fc]
 [vo_mob s="other010001"]
-[ns]女子生徒Ⅰ[nse]
-「ハァ……？　何？　コイツ……」[pcms]
+[ns]Female Student I[nse]
+Haa...? What? This person...[pcms]
 
 *v2510|
 [fc]
 [vo_sa s="sae0651"]
-[ns]佐伯[nse]
-「あなた達と同じ、体育祭の実行委員です！　あなた達[r]
-が怠けているせいで、他の実行委員が迷惑しているので[r]
-すよ！？　少しは他の人間のことも考えなさい！」[pcms]
+[ns]Saeki[nse]
+You're all members of the same sports festival organizing[r]committee![l][er]
+Because you're slacking off, it's causing trouble for the[r]other committee members, you know?[l][er]
+Please think about others a little![pcms]
 
 *v2511|
 [fc]
 [vo_mob s="other010002"]
-[ns]女子生徒Ⅰ[nse]
-「コイツ……イッコ下じゃん！　上の人間に向かってナ[r]
-マイキなこと言ってんじゃねーよ！」[pcms]
+[ns]Female Student I[nse]
+This person... she's so disrespectful![l][er]
+She's talking back to her seniors without any manners![pcms]
 
 *v2512|
 [fc]
 [vo_mob s="other020001"]
-[ns]女子生徒Ⅱ[nse]
-「ホントー、ナマイキー！」[pcms]
+[ns]Female Student II[nse]
+Seriously, so disrespectful![pcms]
 
 *v2513|
 [fc]
 [vo_sa s="sae0652"]
-[ns]佐伯[nse]
-「上級生だと偉ぶるなら、下級生の手本となる様、割り[r]
-当てられた仕事ぐらい責任をもって遂行なさいッ！！」[pcms]
+[ns]Saeki[nse]
+If you're going to act all high and mighty as upperclassmen,[r]then at least fulfill your assigned tasks responsibly and[r]set an example for the underclassmen!![pcms]
 
 *v2514|
 [fc]
 [vo_mob s="other010003"]
-[ns]女子生徒Ⅰ[nse]
-「コイツ、ムカつかねー？　ちょっとマジメにやってた[r]
-ぐらいでさー」[pcms]
+[ns]Female Student I[nse]
+Isn't she annoying? Just because she was being a little[r]serious.[pcms]
 
 *v2515|
 [fc]
 [vo_mob s="other020002"]
-[ns]女子生徒Ⅱ[nse]
-「ねー！　こっちだって、ちゃんとやってんじゃん！　[r]
-見てから言いなよー！」[pcms]
+[ns]Female Student II[nse]
+Hey! We're doing our work properly too, you know![l][er]
+Look before you speak![pcms]
 
 *6080|
 [fc]
-騒ぎを聞きつけた先生が来て、その場はそれで収まった[r]
-のですが……。[pcms]
+The teacher, who heard the commotion, came and that settled[r]the situation...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -240,105 +228,97 @@
 
 *6081|
 [fc]
-校庭のトイレに入ったのを見られていたのか、出てきた[r]
-ところを彼女達に囲まれたのです。[pcms]
+It seems like they saw me entering the restroom in the[r]schoolyard, and when I came out, I was surrounded by them.[pcms]
 
 *v2516|
 [fc]
 [vo_sa s="sae0653"]
-[ns]佐伯[nse]
-「……数に頼って、他人から見えない場所で、[r]
-たった一人を攻撃ですか？　さすが上級生ですね」[pcms]
+[ns]Saeki[nse]
+... Relying on numbers and attacking someone in a place[r]where no one can see?[l][er]
+Truly befitting of upperclassmen.[pcms]
 
 *v2517|
 [fc]
 [vo_mob s="other010004"]
-[ns]女子生徒Ⅰ[nse]
-「ウルセーよ！　お前が騒いだせいで怒られたじゃねー[r]
-かよ！」[pcms]
+[ns]Female Student I[nse]
+You're so annoying! Because of you making a fuss, we got[r]scolded, you know![pcms]
 
 *v2518|
 [fc]
 [vo_mob s="other020003"]
-[ns]女子生徒Ⅱ[nse]
-「そうだよー！　アンタのせいで、男子にチクられたん[r]
-だからね！！」[pcms]
+[ns]Female Student II[nse]
+Yeah, that's right! It's because of you that the guys found[r]out and snitched on us!![pcms]
 
 *v2519|
 [fc]
 [vo_sa s="sae0654"]
-[ns]佐伯[nse]
-「あなた達が真面目に仕事をしないからでしょう？[r]
-私を恨むのは筋違いもいいところです」[pcms]
+[ns]Saeki[nse]
+It's because you all don't take your work seriously, isn't[r]it?[l][er]
+It's completely unfair for you to blame me.[pcms]
 
 *v2520|
 [fc]
 [vo_mob s="other010005"]
-[ns]女子生徒Ⅰ[nse]
-「ワタクシぃ！？　スカシてんじゃねーよテメェ！[r]
-アタシらにあやまれよ！！」[pcms]
+[ns]Female Student I[nse]
+Me!? Don't you dare blame me, you bastard![l][er]
+You should be apologizing to us!![pcms]
 
 *v2521|
 [fc]
 [vo_sa s="sae0655"]
-[ns]佐伯[nse]
-「あなた達に対して謝らなければならない理由は、[r]
-私に一切ありません」[pcms]
+[ns]Saeki[nse]
+I have absolutely no reason to apologize to any of you.[pcms]
 
 *v2522|
 [fc]
 [vo_mob s="other010006"]
-[ns]女子生徒Ⅰ[nse]
-「……もうさァ、メンドくさいから、このガキやっちゃ[r]
-わねー？」[pcms]
+[ns]Female Student I[nse]
+... Ugh, I'm so tired of this.[l][er]
+Shouldn't we just deal with this brat?[pcms]
 
 *v2523|
 [fc]
 [vo_mob s="other020004"]
-[ns]女子生徒Ⅱ[nse]
-「そうそう、やっちゃお！」[pcms]
+[ns]Female Student II[nse]
+Yeah, let's do it![pcms]
 
 *v2524|
 [fc]
 [vo_mob s="other010007"]
-[ns]女子生徒Ⅰ[nse]
-「二度とこんなエラそーなこと言わないように、裸にし[r]
-て写メ撮ってやろーか」[pcms]
+[ns]Female Student I[nse]
+Should we strip her naked and take a picture so she never[r]says something so arrogant again?[pcms]
 
 *v2525|
 [fc]
 [vo_mob s="other020005"]
-[ns]女子生徒Ⅱ[nse]
-「あ、じゃぁさー、タカちゃんとワカッチ呼んでこない？[r]
-んで、このブス、レイプしてもらうの」[pcms]
+[ns]Female Student II[nse]
+Oh, then how about we call Taka-chan and Wakacchi?[l][er]
+And have them rape this ugly bitch.[pcms]
 
 *v2526|
 [fc]
 [vo_mob s="other010008"]
-[ns]女子生徒Ⅰ[nse]
-「あ、だったらさー、その写メも撮って、こいつ、みん[r]
-なのサイフにようよ」[pcms]
+[ns]Female Student I[nse]
+Oh, in that case, let's take a picture and share it with[r]everyone's wallets.[pcms]
 
 *v2527|
 [fc]
 [vo_mob s="other020006"]
-[ns]女子生徒Ⅱ[nse]
-「それさんせ～い！　いくら入ってるかな～、[r]
-このおサイフ～♪」[pcms]
+[ns]Female Student II[nse]
+Let's see~ How much is in here, I wonder~ this wallet~♪[l][er]
 
 *v2528|
 [fc]
 [vo_sa s="sae0656"]
-[ns]佐伯[nse]
-「どこまで下劣なの……人間として恥ずかしくないので[r]
-すか！？」[pcms]
+[ns]Saeki[nse]
+How low can you go... Aren't you ashamed of yourself as a[r]human being!?[pcms]
 
 *v2529|
 [fc]
 [vo_mob s="other010009"]
-[ns]女子生徒Ⅰ[nse]
-「なに？　レイプされるって聞いてビビッってんのォ？[r]
-さっきまでの元気はどーしたんだよ、コラァ！」[pcms]
+[ns]Female Student I[nse]
+What? Are you scared because you heard you're going to be[r]raped?[l][er]
+What happened to your confidence from earlier, huh?![pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -361,214 +341,207 @@
 *v2530|
 [fc]
 [vo_sa s="sae0657"]
-[ns]佐伯[nse]
-「うぐ……っ！！」[pcms]
+[ns]Saeki[nse]
+Ugh...![pcms]
 
 *6082|
 [fc]
-私は下腹部を蹴られて、壁に叩きつけられました。お腹[r]
-ではなく、下腹部です。悪意を以て狙ったように、私に[r]
-は思えました。[pcms]
+I was kicked in the lower abdomen and slammed against the[r]wall.[l][er]
+It wasn't my stomach, but my lower abdomen.[l][er]
+It felt like it was intentionally aimed with malice towards[r]me.[pcms]
 
 *6083|
 [fc]
-思ってもみなかった暴力に、私は急に恐怖で一杯になっ[r]
-てしまって、動くことも、声を出すこともできなくなっ[r]
-たのです。[pcms]
+I was suddenly filled with fear from the violence that I[r]never expected, and I became unable to move or even speak.[pcms]
 
 *v2531|
 [fc]
 [vo_sa s="sae0658"]
-[ns]佐伯[nse]
-「……」[pcms]
+[ns]Saeki[nse]
+……[l][er]
 
 *v2532|
 [fc]
 [vo_mob s="other020007"]
-[ns]女子生徒Ⅱ[nse]
-「キモ～！　泣いてるよコイツぅ～っ！[r]
-キャハハハハッ！！」[pcms]
+[ns]Female Student II[nse]
+Eww~! This guy is crying~! Kyahaha!![pcms]
 
 *v2533|
 [fc]
 [vo_mob s="other010010"]
-[ns]女子生徒Ⅰ[nse]
-「おーおー、目にナミダためちゃってよー！　そうやっ[r]
-ておねだりして、オトコだましてんじゃねェのォ？」[pcms]
+[ns]Female Student I[nse]
+Oh, oh, you're crying now! Begging like that, trying to[r]deceive us, aren't you a man?[pcms]
 
 *v2534|
 [fc]
 [vo_mob s="other020008"]
-[ns]女子生徒Ⅱ[nse]
-「あぁ～、だから男子がセンセーにチクッたんだぁ～！[r]
-もしかしてウチのガッコの男子、ほとんどコイツに食[r]
-われてんじゃないのぉ？」[pcms]
+[ns]Female Student II[nse]
+Ahh, so that's why the boys snitched on him to the teacher![l][er]
+I wonder if most of the boys at our school are being[r]devoured by this guy?[pcms]
 
 *v2535|
 [fc]
 [vo_mob s="other010011"]
-[ns]女子生徒Ⅰ[nse]
-「ゲェー、ヤリマンかよー！[r]
-どうりで公衆便所クサイと思った♪」[pcms]
+[ns]Female Student I[nse]
+Eww, you're such a slut![pcms]
+No wonder the public restroom smells bad♪[l][er]
 
 *v2536|
 [fc]
 [vo_mob s="other020009"]
-[ns]女子生徒Ⅱ[nse]
-「キャハッ！　キャハハハハハッ！！　マジウケるんで[r]
-すけどぉ～！！」[pcms]
+[ns]Female Student II[nse]
+Kyahaha! Kyahahahaha! I can't believe it, seriously~!![pcms]
 
 *6084|
 [fc]
-あの時、本当に泣いてしまいそうでした。あんな低俗な[r]
-人間にいいように言われ、足蹴にされて、それでも反撃[r]
-もできない自分が悔しくて……。[pcms]
+At that time, I really felt like crying.[l][er]
+Being spoken to so vulgarly by such a person, being kicked[r]in the legs, and not being able to fight back, I felt so[r]frustrated...[pcms]
 
 *6085|
 [fc]
-そして、心が折れそうになった時、あなたが……加藤さ[r]
-んが現れたのです。[pcms]
+And then, when my heart was about to break, you...[l][er]
+Kato-san appeared.[pcms]
 
 *6086|
 [fc]
-[ns]加藤[nse]
-「お～いお～い不良ども～」[pcms]
+[ns]Kato[nse]
+Hey, hey you delinquents~[l][er]
 
 *v2537|
 [fc]
 [vo_mob s="other020010"]
-[ns]女子生徒Ⅱ[nse]
-「何だよ、お前よ！」[pcms]
+[ns]Female Student II[nse]
+What's your problem, huh?[pcms]
 
 *6087|
 [fc]
-[ns]加藤[nse]
-「宇宙の果てからやってきた、ドロタボー星人です。[r]
-取りあえず、田んぼ返してくれる？」[pcms]
+[ns]Kato[nse]
+I am a Dorotabo alien who came from the edge of the[r]universe.[l][er]
+For now, can you return the rice field?[pcms]
 
 *v2538|
 [fc]
 [vo_mob s="other010012"]
-[ns]女子生徒Ⅰ[nse]
-「ハァ……？　何だコイツ。このブスのオトコぉ？」[pcms]
+[ns]Female Student I[nse]
+Haa...? What's with this guy? This ugly man?[pcms]
 
 *6088|
 [fc]
-[ns]加藤[nse]
-「ハァ？　どこの星のエイリアンが、こんなかわいい子[r]
-をブス呼ばわりしてんだよ。お前らのライバル……なん[r]
-て言ったっけ？　プレジターだっけ？　呼ぶぞ？」[pcms]
+[ns]Kato[nse]
+Huh? Which alien from what planet is calling this cute girl[r]ugly?[l][er]
+What was it you guys called yourselves...[l][er]
+rivals, right? Preziters, was it?[l][er]
+I'll call you out![pcms]
 
 *v2539|
 [fc]
 [vo_mob s="other010013"]
-[ns]女子生徒Ⅰ[nse]
-「エイリ……！？」[pcms]
+[ns]Female Student I[nse]
+Eiri...!?[pcms]
 
 *v2540|
 [fc]
 [vo_mob s="other020011"]
-[ns]女子生徒Ⅱ[nse]
-「おい！　お前、タカちゃんとワカッチ知らねーのかよ！[r]
-アタシたち、あの二人とすごい仲イイんだからな！！」[pcms]
+[ns]Female Student II[nse]
+Hey! Don't you know about Taka-chan and Wakacchi?![l][er]
+We're really close with those two, you know!![pcms]
 
 *6089|
 [fc]
-[ns]加藤[nse]
-「タカちゃん……？　ワカッチ……？　何か聞いたこと[r]
-あるな……」[pcms]
+[ns]Kato[nse]
+Taka-chan...? Wakacchi...? I feel like I've heard those[r]names before...[pcms]
 
 *v2541|
 [fc]
 [vo_mob s="other010014"]
-[ns]女子生徒Ⅲ[nse]
-「ウチのガッコで一番つえーんだよ！　あの二人に言っ[r]
-て、お前ボコしてもらうからな！！」[pcms]
+[ns]Female Student III[nse]
+I'm the toughest one in our school![l][er]
+I'll tell those two, and they'll beat you up for me!![pcms]
 
 *6090|
 [fc]
-[ns]加藤[nse]
-「……あー、思い出した！　そいつらあれだろ？　この[r]
-前、祐二に全身縛られて、しかもケツの穴にバイブ突っ[r]
-込まれて、駅前に放り出されたって奴ら！　違う？」[pcms]
+[ns]Kato[nse]
+Ah, I remember now! Are you talking about those guys?[l][er]
+The ones who were tied up by Yuuji, had a vibrator shoved up[r]their ass, and then were dumped in front of the station![l][er]
+Is that not them?[pcms]
 
 *v2542|
 [fc]
 [vo_mob s="other020012"]
-[ns]女子生徒Ⅱ[nse]
-「ゆうじ、って……もしかして、田中祐二……？」[pcms]
+[ns]Female Student II[nse]
+Yuuji... Could it be, Tanaka Yuuji...?[pcms]
 
 *6091|
 [fc]
-[ns]加藤[nse]
-「そうだよ、俺の幼なじみ。あいつ、面白そうってだけ[r]
-でムチャクチャするからなー。頭いいんだけど、ネジが[r]
-何本か緩んでるんだろうな」[pcms]
+[ns]Kato[nse]
+That's right, my childhood friend.[l][er]
+He's the type to do crazy things just because they seem[r]interesting.[l][er]
+He's smart, but I guess he's got a few screws loose in his[r]head.[pcms]
+[l][er]
 
 *v2543|
 [fc]
 [vo_mob s="other020013"]
-[ns]女子生徒Ⅱ[nse]
-「ねぇ、田中の知り合いだって……。関わらない方がよ[r]
-くない？」[pcms]
+[ns]Female Student II[nse]
+Hey, aren't you acquainted with Tanaka...?[l][er]
+Wouldn't it be better not to get involved?[pcms]
 
 *v2544|
 [fc]
 [vo_mob s="other010015"]
-[ns]女子生徒Ⅰ[nse]
-「だよね……何されるかわかんないもんね……」[pcms]
+[ns]Female Student I[nse]
+Yeah... you never know what might happen...[pcms]
 
 *v2545|
 [fc]
 [vo_mob s="other020014"]
-[ns]女子生徒Ⅱ[nse]
-「……」[pcms]
+[ns]Female Student II[nse]
+……[l][er]
 
 *6092|
 [fc]
-[ns]加藤[nse]
-「祐二ってさぁ、同じ学年はもちろん、違う学校にも友[r]
-達多いんだろ？　仲いい先生も多いし……。明日から大[r]
-変なことにならなきゃいいけどなー」[pcms]
+[ns]Kato[nse]
+Yuuji, you know, he has a lot of friends not only in the[r]same grade but also in different schools.[l][er]
+He's close with many teachers too...[l][er]
+I hope nothing troublesome happens starting from tomorrow[r]though.[pcms]
 
 *v2546|
 [fc]
 [vo_mob s="other010016"]
-[ns]女子生徒Ⅰ[nse]
-「……チッ！　なんかシラけちった。もう行こ！」[pcms]
+[ns]Female Student I[nse]
+... Tch! It's getting awkward.[l][er]
+Let's go already![pcms]
 
 *v2547|
 [fc]
 [vo_mob s="other020015"]
-[ns]女子生徒Ⅱ[nse]
-「行こ行こ！」[pcms]
+[ns]Female Student II[nse]
+Let's go, let's go![pcms]
 
 *6093|
 [fc]
-言っていることは、まるでわからなかったけれど……。[r]
-でも、あなたはあの上級生達を退けてくれた。私を、窮[r]
-地から救ってくれたのです。[pcms]
+I couldn't understand what you were saying at all...[l][er]
+But you were the one who defeated those upperclassmen.[l][er]
+You saved me from a difficult situation.[pcms]
 
 *6094|
 [fc]
-[ns]加藤[nse]
-「ハァ～……良かった、祐二と幼なじみで……」[pcms]
+[ns]Kato[nse]
+Phew... Thank goodness, Yuuji and I are childhood friends...[pcms]
 
 *v2548|
 [fc]
 [vo_sa s="sae0659"]
-[ns]佐伯[nse]
-「あ、あの……」[pcms]
+[ns]Saeki[nse]
+U-um...[pcms]
 
 *6095|
 [fc]
-お礼を言おうと思って呼び止めたけれど、あなたは振り[r]
-向きもしないで手を振って、立ち去ってしまった。[pcms]
+I wanted to thank you, so I called out to you, but you[r]didn't even turn around and just waved your hand before[r]walking away.[pcms]
 
 *6096|
 [fc]
-それもあってか、自分を助けてくれた貴男が、私の心に[r]
-強く印象に残ったのです。[pcms]
+That's why, the person who helped me, you, left a strong[r]impression in my heart.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -599,63 +572,60 @@
 *v2549|
 [fc]
 [vo_sa s="sae0660"]
-[ns]佐伯[nse]
-「その日から、私の心の中に、常にあなたの存在があり[r]
-ました。これを、一目惚れ、というのでしょうね……」[pcms]
+[ns]Saeki[nse]
+From that day on, your presence has always been in my heart.[l][er]
+I guess you could call it love at first sight...[pcms]
 
 *6097|
 [fc]
-[ns]加藤[nse]
-「……」[pcms]
+[ns]Kato[nse]
+……[l][er]
 
 ;立ち
 
 *v2550|
 [fc]
 [vo_sa s="sae0661"]
-[ns]佐伯[nse]
-「でも、自分の気持ちに素直になれずにいて、[r]
-結局、昨日まであなたに言い出せなかったのです」[pcms]
+[ns]Saeki[nse]
+But, I couldn't be honest with my feelings and in the end, I[r]couldn't bring myself to tell you until yesterday.[pcms]
 
 *6098|
 [fc]
-佐伯はそこで言葉を止めて、うつむいていた顔を俺の方[r]
-へ向けた。[pcms]
+Saeki stopped speaking there and turned her face, which was[r]looking down, towards me.[pcms]
 
 ;立ち
 
 *v2551|
 [fc]
 [vo_sa s="sae0662"]
-[ns]佐伯[nse]
-「加藤さんは……今がこんな状況だから、私の気持ちを[r]
-受け入れてくれたのですか？」[pcms]
+[ns]Saeki[nse]
+Kato-san... Is it because of the current situation that you[r]accepted my feelings?[pcms]
 
 *6099|
 [fc]
-不安そうに聞く佐伯に、どう答えていいのか迷ったけど、[r]
-俺は自分の正直な気持ちを伝えることにした。[pcms]
+I was unsure of how to respond to Saeki, who asked with an[r]anxious expression, but I decided to convey my honest[r]feelings.[pcms]
 
 *6100|
 [fc]
-[ns]加藤[nse]
-「……確かに、それもあるかもしれない。だけど、こん[r]
-なに佐伯のことが好きになれるなら、もっと早く告白さ[r]
-れたら良かったなって、今は思ってるよ」[pcms]
+[ns]Kato[nse]
+... Indeed, that might be true.[l][er]
+But if I could have fallen in love with Saeki like this, I[r]wish she had confessed to me earlier.[l][er]
+That's what I'm thinking now.[pcms]
 
 *6101|
 [fc]
-そう答えたあと、急に恥ずかしくなってきた俺は、照れ[r]
-隠しで笑って、佐伯の肩に手を置いた。[pcms]
+After answering like that, I suddenly felt embarrassed.[l][er]
+Trying to hide my embarrassment, I laughed and placed my[r]hand on Saeki's shoulder.[pcms]
+[l][er]
 
 *6102|
 [fc]
-[ns]加藤[nse]
-「だから、絶対、無事に帰ろうな！」[pcms]
+[ns]Kato[nse]
+That's why, let's definitely return safely![pcms]
 
 *6103|
 [fc]
-佐伯は微笑んでうなずき、俺を見つめて言った。[pcms]
+Saeki smiled and nodded, looking at me.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -667,28 +637,25 @@
 *v2552|
 [fc]
 [vo_sa s="sae0663"]
-[ns]佐伯[nse]
-「ありがとう……」[pcms]
+[ns]Saeki[nse]
+Thank you...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *6104|
 [fc]
-自分が持っていた想いを口にしたことで、佐伯も気恥ず[r]
-かしくなったのか、それっきり黙ってしまった。[pcms]
+Saeki became embarrassed after expressing her own feelings,[r]and then fell silent.[pcms]
 
 *6105|
 [fc]
-そのまましばらくの間、お互い何も喋らずにいたが、時[r]
-間のあるうちに体を休めておいた方がいいと俺は考え、[r]
-佐伯にそれを提案した。[pcms]
+We stayed silent for a while, without saying anything to[r]each other.[l][er]
+I thought it would be best to rest our bodies while we had[r]the time, so I suggested it to Saeki.[pcms]
 
 *6106|
 [fc]
-[ns]加藤[nse]
-「ここを出る時のために、今のうち休んどいて、体力回[r]
-復させとこうぜ。おかしな奴らから逃げるのに、走りっ[r]
-ぱなしになるかもしれないからな」[pcms]
+[ns]Kato[nse]
+Let's rest now to recover our strength for when we leave[r]here.[l][er]
+We might have to run nonstop to escape from those weirdos,[r]after all.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -700,13 +667,12 @@
 *v2553|
 [fc]
 [vo_sa s="sae0664"]
-[ns]佐伯[nse]
-「はい……」[pcms]
+[ns]Saeki[nse]
+Yes...[pcms]
 
 *6107|
 [fc]
-佐伯の返事にうなずいて返し、俺は壁にもたれて、目を[r]
-閉じた。[pcms]
+I nodded in response to Saeki's answer and leaned against[r]the wall, closing my eyes.[pcms]
 
 ;;;[sysbt_meswin clear]
 

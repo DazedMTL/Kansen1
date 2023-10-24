@@ -1,24 +1,24 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02152ã€ä¸‰éšæ•™å®¤ã¸ã€
-;//BG:ä¸‰éšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰ï¼šå¤œ
-;//BG:ä¸‰éšæ•™å®¤ï¼šå¤œ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02152wOŠK‹³º‚Öx
+;//BG:OŠK˜L‰ºFƒoƒŠƒP[ƒhF–é
+;//BG:OŠK‹³ºF–é
+;//“oêl•¨GålŒöE—DEƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02152_H_TOP
-;[debug_win]ãªã†ã€€02152_H[debug_win_end]
+;[debug_win]‚È‚¤@02152_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 ;[if exp="tf.scene_mode == 0"][jump target=*02152][endif]
 ;[winset]
 
 ;	;;;[sysbt_meswin]
 ;
-;	;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;	;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 ;
-;	;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;	;//BGMEƒ‹[ƒvÄ¶
 ;	[bgm003]
 ;
 ;	[bg storage="bg11d"]
@@ -31,16 +31,16 @@
 ;
 ;	[if exp="tf.scene_mode == 1"][jump target=*02152_1][endif]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *02152
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02152 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02152 = 1"]
 
-;*SceneSet|ã€ä¸‰éšæ•™å®¤ã¸ã€
+;*SceneSet|wOŠK‹³º‚Öx
 
-;//â™ªï¼šBGM003
+;//ôFBGM003
 
 [bgm003]
 
@@ -60,7 +60,7 @@ It seems like Teacher Shindou is listening to information[r]from the radio, and 
 *2775|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *2776|
 [fc]
@@ -80,7 +80,7 @@ She reached out her hand to the door and whispered softly.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1064|
 [fc]
@@ -88,7 +88,7 @@ She reached out her hand to the door and whispered softly.[pcms]
 [ns]Yamagishi[nse]
 I'll keep an eye on the situation.[pcms]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 
 [se0 storage="se008"]
 
@@ -105,7 +105,7 @@ I stood behind Yamagishi-san, feeling pathetic, and waited[r]quietly.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1065|
 [fc]
@@ -127,7 +127,7 @@ I silently nodded in agreement to Yamagishi-san's suggestion[r]and stealthily en
 [fc]
 [vo_ri s="risa0344"]
 [ns]Shindou[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *2782|
 [fc]
@@ -136,7 +136,7 @@ At the seat near the wall facing the hallway, Teacher[r]Shindou was lying face d
 *2783|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *2784|
 [fc]
@@ -165,7 +165,7 @@ Since I had dozed off halfway on the rooftop, I was[r]immediately overcome by dr
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -173,5 +173,5 @@ Since I had dozed off halfway on the rooftop, I was[r]immediately overcome by dr
 
 ;//blackout
 
-;//[02153]ã¸
+;//[02153]‚Ö
 [jump target=*02153_H_TOP storage="02153_H.ks"]

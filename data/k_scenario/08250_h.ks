@@ -1,21 +1,21 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08250ã€ä¸€éšæ¢ç´¢ã€
-;//;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹:å¤œï¼šæ¶ˆç¯
-;//BG;æ˜‡é™å£å‰å»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»ç«¹å†…ãƒ»ç³
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN08250wˆêŠK’Tõx
+;//;//BG:“Áê‹³º˜L‰º:–éFÁ“”
+;//BG;¸~Œû‘O˜L‰ºF–éFÁ“”
+;//“oêl•¨FålŒöE’|“àE“µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *08250_H_TOP
-;[debug_win]ãªã†ã€€08250_H[debug_win_end]
+;[debug_win]‚È‚¤@08250_H[debug_win_end]
 
-;*SceneSet|ã€ä¸€éšæ¢ç´¢ã€
+;*SceneSet|wˆêŠK’Tõx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08250 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08250 = 1"]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 
 ;//[bgm001]
 
@@ -40,7 +40,7 @@ Taishi! Wake up! Are you ready to go?[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *10055|
 [fc]
@@ -63,7 +63,7 @@ I'm disappointed...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std676|
 [fc]
 [ns]Takeuchi[nse]
@@ -76,7 +76,7 @@ Yeah... Alright, let's go![pcms]
 
 ;//;//BG:bg04d
 
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [bg storage="bg04d"]
 [trans_c cross time=500]
 
@@ -84,7 +84,7 @@ Yeah... Alright, let's go![pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std677|
 [fc]
 [ns]Takeuchi[nse]
@@ -105,7 +105,7 @@ Seriously, if I call, they should come flying over!![pcms]
 [ChrSetParts layer=1 chface="take_a_d_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std678|
 [fc]
 [ns]Takeuchi[nse]
@@ -117,7 +117,7 @@ Huh? The lights are on in the corridor over there...[pcms]
 Oh, really... Is someone over there?[l][er]
 Could it be Saeki?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std679|
 [fc]
 [ns]Takeuchi[nse]
@@ -130,7 +130,7 @@ Yeah, you're right...[pcms]
 
 ;//;//BG:bg08b
 
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [bg storage="bg08b"]
 [trans_c cross time=500]
 
@@ -139,7 +139,7 @@ Yeah, you're right...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std680|
 [fc]
 [ns]Takeuchi[nse]
@@ -152,7 +152,7 @@ I wonder what it is? Are they walking while leaving the[r]lights on?[pcms]
 
 ;//;//BG:bg03c
 
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [bg storage="bg03c"]
 [trans_c cross time=500]
 
@@ -161,7 +161,7 @@ I wonder what it is? Are they walking while leaving the[r]lights on?[pcms]
 [ChrSetParts layer=1 chface="sae_c_d_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *10064|
 [fc]
@@ -178,7 +178,7 @@ What are you saying?[pcms]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std682|
 [fc]
 [ns]Takeuchi[nse]
@@ -204,7 +204,7 @@ Even though there's no one around...[pcms]
 [fc]
 Could it be... she's a woman who can talk to ghosts...?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3695|
 [fc]
@@ -218,7 +218,7 @@ Namu namu namu...[pcms]
 [fc]
 Huh? Plasma?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3696|
 [fc]
@@ -233,7 +233,7 @@ That's right, do your best, Hitomi...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std683|
 [fc]
 [ns]Takeuchi[nse]
@@ -272,7 +272,7 @@ They're too entertaining!![pcms]
 [ChrSetParts layer=1 chface="take_a_d_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std684|
 [fc]
 [ns]Takeuchi[nse]
@@ -284,7 +284,7 @@ Bwahaha... Hey, you know... I just came up with a great[r]idea...[pcms]
 What is it? Hurry up and tell me...[l][er]
 It's difficult to hold back my laughter, you know...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std685|
 [fc]
 [ns]Takeuchi[nse]
@@ -309,7 +309,7 @@ Isn't she going to end up wetting herself?[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3697|
 [fc]
@@ -338,7 +338,7 @@ Sh-Shinya... *giggle* L-Let's go...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std686|
 [fc]
 [ns]Takeuchi[nse]
@@ -351,10 +351,10 @@ Quietly, I approached the bathroom...[pcms]
 
 ;//blackout
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*08251_H_TOP storage="08251_H.ks"]
 
 

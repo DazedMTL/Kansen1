@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02109ã€é©šç•°æ¥è¥²ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç«¹å†…
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02109w‹ÁˆÙ—ˆPx
+;//BG:“Áê‹³º˜L‰ºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE’|“à
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02109_TOP
-;[debug_win]ãªã†ã€€02109[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02109 = 1"]
+;[debug_win]‚È‚¤@02109[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02109 = 1"]
 
-;*SceneSet|ã€é©šç•°æ¥è¥²ã€
+;*SceneSet|w‹ÁˆÙ—ˆPx
 
 ;//[02109]
 
-;//â™ªï¼šBGM003
+;//ôFBGM003
 [bgm003]
 ;//BG:bg005a
 [bg storage="bg05a"]
@@ -42,7 +42,7 @@ Shinya![pcms]
 [fc]
 As soon as I started running towards the staff entrance,[r]Shinya, with a terrified expression on his face, came[r]running from the opposite side.[pcms]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
@@ -50,7 +50,7 @@ As soon as I started running towards the staff entrance,[r]Shinya, with a terrif
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std233|
 [fc]
 [ns]Takeuchi[nse]
@@ -65,7 +65,7 @@ What's wrong! What happened?[pcms]
 [fc]
 Clinging onto me, Shinya began to speak, gasping for breath.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std234|
 [fc]
 [ns]Takeuchi[nse]
@@ -84,7 +84,7 @@ gathered at the school gate?[pcms]
 [ns]Kato[nse]
 ... So, what happened to you?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std235|
 [fc]
 [ns]Takeuchi[nse]
@@ -98,7 +98,7 @@ I'm sorry...[pcms]
 Well, given the situation, there's nothing we can do.[l][er]
 For now, let's go back to the audiovisual room.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std236|
 [fc]
 [ns]Takeuchi[nse]
@@ -113,13 +113,13 @@ I ran to the audiovisual room with Shinya, who still seemed[r]unsettled.[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;BGMåœæ­¢
+;BGM’â~
 [fadeoutbgm time=500][wb]
 ;;;[sysbt_meswin]
 
-;//[02109]ã¸
+;//[02109]‚Ö
 [jump target=*02110_TOP storage="02110.ks"]
 

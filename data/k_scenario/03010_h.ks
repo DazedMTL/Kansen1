@@ -1,46 +1,46 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯03010ã€äººæ°—è€…ï¼›æœ‹ç¾ã€â™‚â™‚
-;//BG:ä½“è‚²ç”¨å…·å®¤ï¼šå¤œï¼ç‚¹ç¯
-;//EVENT;//BG:ä½“è‚²ç”¨å…·å®¤/ãƒãƒƒãƒˆã®ä¸Š
-;//ç™»å ´äººç‰©ï¼›æœ‹ç¾ãƒ»ç”°ä¸­ãƒ»åŠç«¯æ„ŸæŸ“ã‚¾ãƒ³ãƒ“å¤šæ•°ï¼ˆç”»é¢å†…ã¯ï¼’ä½“ï¼‰
-;//è¦–ç‚¹ï¼šç”°ä¸­
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN03010wl‹CÒG•ü”üx‰‰
+;//BG:‘Ìˆç—p‹ïºF–é^“_“”
+;//EVENT;//BG:‘Ìˆç—p‹ïº/ƒ}ƒbƒg‚Ìã
+;//“oêl•¨G•ü”üE“c’†E”¼’[Š´õƒ]ƒ“ƒr‘½”i‰æ–Ê“à‚Í‚Q‘Ìj
+;//‹“_F“c’†
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *03010_H_TOP
-;[debug_win]ãªã†ã€€03010_H[debug_win_end]
+;[debug_win]‚È‚¤@03010_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [eval exp="sf.SRP11 = 1"][if exp="tf.scene_mode == 0"][jump target=*03010][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *03010
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_03010 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_03010 = 1"]
 
-;*SceneSet|ã€äººæ°—è€…ï¼›æœ‹ç¾ã€
+;*SceneSet|wl‹CÒG•ü”üx
 
-;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€zapï¼‘ã€€è¡¨ç¤º
+;//flag:—Dƒ‹[ƒgƒtƒ[@zap‚P@•\¦
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 
 [fadeoutbgm time=500]
 
-;//BG:bgç„¡ã—
+;//BG:bg–³‚µ
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
@@ -64,7 +64,7 @@ Did someone come in...?[pcms]
 [fc]
 I feel like someone is moving...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se058" loop=true]
 
@@ -83,7 +83,7 @@ Tomomin...? Is it Tomomin who's moving...?[pcms]
 
 *scene_start
 
-;//â™ªï¼šBGM002
+;//ôFBGM002
 [bgm002]
 
 ;//H_CG
@@ -94,7 +94,7 @@ Tomomin...? Is it Tomomin who's moving...?[pcms]
 ;;;[sysbt_meswin]
 
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [se1 storage="se061" loop=true]
 
@@ -134,7 +134,7 @@ Nbuuhh!![pcms]
 *3249|
 [fc]
 [ns]Tanaka[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *3250|
 [fc]
@@ -577,11 +577,11 @@ Nguh guu, obuu!! Chugu, buchuu, nbuu guu!![pcms]
 [fc]
 With a smirk on his face, he pulled out his penis and jerked[r]off in front of Tomomin's face.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [overflow_se storage="se062"]
 
@@ -683,11 +683,11 @@ I'll make you feel good...[pcms]
 [ns]Igarashi[nse]
 ...! Noooo!![pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se1]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -751,7 +751,7 @@ I was creampied...!!! Noooo!![pcms]
 Uaa... No... It's going in... Uutan![l][er]
 What should I do...!! Uutan!![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 
 [se0 storage="se058"]
 
@@ -817,33 +817,33 @@ Tomo, look...[pcms]
 
 ;//blackout
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn11 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn11 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
 ;[black_toplayer][trans_c random][hide_chara_int]
 [zapfade]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;//[02040]ã¸
+;//[02040]‚Ö
 
 [bg storage="bg08c"]
 [trans_c cross time=1000]

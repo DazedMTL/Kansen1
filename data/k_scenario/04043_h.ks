@@ -1,37 +1,37 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04043ã€è«¦ã‚ã€
-;//BG:å±‹ä¸Šï¼šæœ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…ãƒ»ç³ãƒ»ç”°ä¸­ãƒ»æœ‹ç¾ãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04043w’ú‚ßx
+;//BG:‰®ãF’©
+;//“oêl•¨GålŒöE—DE’|“àE“µE“c’†E•ü”üEƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04043_H_TOP
-;[debug_win]ãªã†ã€€04043_H[debug_win_end]
+;[debug_win]‚È‚¤@04043_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 ;[if exp="tf.scene_mode == 0"][jump target=*04043][endif]
 ;[winset]
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *04043
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04043 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04043 = 1"]
 
-;*SceneSet|ã€è«¦ã‚ã€
+;*SceneSet|w’ú‚ßx
 
-;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€badendï¼ˆbadï¼—ï¼‰ã€€è¡¨ç¤º
+;//flag:—Dƒ‹[ƒgƒtƒ[@badendibad‚Vj@•\¦
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 ;//[bgm008]
 
@@ -40,7 +40,7 @@
 [bg storage="bg22d"]
 [trans_c cross time=500]
 
-;//SE:ãƒ˜ãƒªã‚³ãƒ—ã‚¿ãƒ¼ã®éŸ³ï¼ˆè¿‘ã„ï¼‰
+;//SE:ƒwƒŠƒRƒvƒ^[‚Ì‰¹i‹ß‚¢j
 [se0 storage="se034"]
 
 *v1932|
@@ -91,7 +91,7 @@ Please... hurry...! Come quickly!![pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *4541|
 [fc]
@@ -146,7 +146,7 @@ While Saeki pulled me by one leg, I forcefully pulled my[r]body up using my rema
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1937|
 [fc]
@@ -172,7 +172,7 @@ I looked up at Yamagishi-san's voice, and she was clinging[r]to the rope ladder 
 [fc]
 Thank goodness... With this, at least she will be saved from[r]the worst...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *4550|
 [fc]
@@ -204,7 +204,7 @@ Yamagishi-san also seemed to have noticed that, and she was[r]leaning out from t
 [ns]Yamagishi[nse]
 Wait!! Kato-kun is still...!![pcms]
 
-;//SE:ãƒ˜ãƒªã‚³ãƒ—ã‚¿ãƒ¼ã®éŸ³ï¼ˆè¿‘ã„ï¼‰
+;//SE:ƒwƒŠƒRƒvƒ^[‚Ì‰¹i‹ß‚¢j
 
 [se0 storage="se034"]
 
@@ -225,7 +225,7 @@ Kato-kun!![pcms]
 [ns]Yamagishi[nse]
 Kato-kun!! Uwaaaaaaahhhhh!![pcms]
 
-;//SE:ãƒ˜ãƒªã‚³ãƒ—ã‚¿ãƒ¼ã®éŸ³ã€€é ã„
+;//SE:ƒwƒŠƒRƒvƒ^[‚Ì‰¹@‰“‚¢
 
 [se0 storage="se033"]
 
@@ -240,7 +240,7 @@ While being touched all over my body by Saeki and the[r]others, I watched in ast
 
 ;//blackout
 
-;//[04044]ã¸
+;//[04044]‚Ö
 [jump target=*04044_H_TOP storage="04044_H.ks"]
 
 

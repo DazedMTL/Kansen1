@@ -1,10 +1,10 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08030ã€ãƒ¤ãƒªãƒãƒ³ã€
-;//BG;ãªã—
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç«¹å†…ãƒ»ç«¶æ³³æ°´ç€ã®å¥³
+;//¡ËƒuƒƒbƒN08030wƒ„ƒŠƒ}ƒ“x
+;//BG;‚È‚µ
+;//“oêl•¨GålŒöE’|“àE‹£‰j…’…‚Ì—
 
 *08030_H_TOP
-;[debug_win]ãªã†ã€€08030_H[debug_win_end]
+;[debug_win]‚È‚¤@08030_H[debug_win_end]
 
 [eval exp="sf.SRP41 = 1"][if exp="tf.scene_mode == 0"][jump target=*08030_H][endif]
 ;;[winset]
@@ -13,17 +13,17 @@
 
 
 *08030_H
-;*SceneSet|ã€ã‚·ãƒ£ãƒ¯ãƒ¼å®¤ã®å¥³ã€
+;*SceneSet|wƒVƒƒƒ[º‚Ì—x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08030 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08030 = 1"]
 
-;//â™ªï¼šBGM006
+;//ôFBGM006
 [bgm006]
 
-;//;//BG:bgç„¡ã—
+;//;//BG:bg–³‚µ
 
-;//SE:ã‚·ãƒ£ãƒ¯ãƒ¼ã®éŸ³ã€€ãƒ«ãƒ¼ãƒ—
-;//å†ç”Ÿæ¸ˆã¿
+;//SE:ƒVƒƒƒ[‚Ì‰¹@ƒ‹[ƒv
+;//Ä¶Ï‚İ
 
 *8783|
 [fc]
@@ -33,7 +33,7 @@ Because I'm walking quietly, I can't seem to make it to the[r]shower room.[pcms]
 [fc]
 While we were dawdling, the sound of a woman's voice[r]continues.[pcms]
 
-;//ï¼ˆå¥³ã®å£°ï¼‰
+;//i—‚Ìºj
 *v3384|
 [fc]
 [vo_mob s="syaw0002"]
@@ -60,7 +60,7 @@ I wonder... Who is doing what?[pcms]
 ;	[trans_c cross time=150]
 ;	*/
 
-;ç«‹ã¡
+;—§‚¿
 
 *8787a|
 [fc]
@@ -72,7 +72,7 @@ I wonder... what could it be...[pcms]
 [ns]Kato[nse]
 Let's sneak a peek and see what's going on...[pcms]
 
-;//H_CG:ç«¶æ³³æ°´ç€ã®å¥³ãŒã‚ªãƒŠãƒ‹ãƒ¼ã‚’ã—ã¦ã„ã‚‹
+;//H_CG:‹£‰j…’…‚Ì—‚ªƒIƒiƒj[‚ğ‚µ‚Ä‚¢‚é
 
 ;;;[sysbt_meswin clear]
 
@@ -88,7 +88,7 @@ Let's sneak a peek and see what's going on...[pcms]
 [fc]
 Both of them peeked their faces out from the entrance of the[r]shower room and were greeted with a scene that made them[r]doubt their own eyes.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 [se0 storage="se059" loop=true]
 
 *v3385|
@@ -271,7 +271,7 @@ W-Wait...[pcms]
 [fc]
 Shinya continued running without even looking back.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 [stop_se1]
@@ -599,7 +599,7 @@ When did you come back?[pcms]
 [fc]
 I was surprised and overwhelmed with anxiety, so I[r]unintentionally jumped back from the girl.[pcms]
 
-;//H_CG:ç«¶æ³³æ°´ç€ã®å¥³ãŒã‚ªãƒŠãƒ‹ãƒ¼ã‚’ã—ã¦ã„ã‚‹
+;//H_CG:‹£‰j…’…‚Ì—‚ªƒIƒiƒj[‚ğ‚µ‚Ä‚¢‚é
 
 ;;;[sysbt_meswin clear]
 
@@ -630,7 +630,7 @@ What kind of group are we talking about?[pcms]
 
 *8878|
 [fc]
-â€¦â€¦â€¦â€¦ã€‚[pcms]
+ccccB[pcms]
 
 *8879|
 [fc]
@@ -715,7 +715,7 @@ Ah...![pcms]
 Shinya, like a wild boar, pounced on her![l][er]
 He beat me to it!![pcms]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [se0 storage="se021"]
 
 [quake_bg xy m]
@@ -761,5 +761,5 @@ Sorry, Shinya. I'll be the first...[l][er]
 the first to lose my virginity![pcms]
 
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*08040_H_TOP storage="08040_H.ks"]

@@ -1,23 +1,23 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05260ã€çœ ã‚Šå§«ã€
-;//;//BG:ä¿å¥å®¤ï¼šæœï¼›æ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»ç«¹å†…ãƒ»ãƒªã‚µãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN05260w–°‚è•Px
+;//;//BG:•ÛŒ’ºF’©GÁ“”
+;//“oêl•¨GålŒöE“µE’|“àEƒŠƒTE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *05260_TOP
-;[debug_win]ãªã†ã€€05260[debug_win_end]
-;*SceneSet|ã€çœ ã‚Šå§«ã€
+;[debug_win]‚È‚¤@05260[debug_win_end]
+;*SceneSet|w–°‚è•Px
 
 
 
 ;;;[sysbt_meswin]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05260 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05260 = 1"]
 
-;//â™ªï¼šBGM003
+;//ôFBGM003
 
 [bgm003]
 
@@ -26,7 +26,7 @@
 [bg storage="bg13a"]
 [trans_c cross time=500]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹ï¼ˆå‹¢ã„ã‚ˆãï¼‰
+;//SE:”à‚ğŠJ‚¯‚éi¨‚¢‚æ‚­j
 
 [se0 storage="se009"]
 
@@ -48,7 +48,7 @@ From what I could see, it didn't seem like she had any major[r]injuries, so I fe
 [ns]Kato[nse]
 Thank goodness...[pcms]
 
-;//SE:æ‰‰ã‚’é–‹ã
+;//SE:”à‚ğŠJ‚­
 
 [se0 storage="se008"]
 
@@ -57,13 +57,13 @@ Thank goodness...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2147|
 [fc]
 [vo_sa s="sae0420"]
 [ns]Saeki[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 ;	/*
 ;	[ChrSetEx layer=1 chbase="risa_c_a_08"]
@@ -71,14 +71,14 @@ Thank goodness...[pcms]
 ;	[ChrSetParts layer=1 chface="risa_c_a_12"]
 ;	[trans_c cross time=150]
 ;	
-;	;ç«‹ã¡
+;	;—§‚¿
 ;	*std351|
 ;	[fc]
 ;	*|
 ;	[fc]
 ;	[vo_ri s="risa0538"]
 [ns]Shindou[nse]
-;	ã€Œãƒã‚¡â€¦â€¦ãƒã‚¡â€¦â€¦ï¼ï¼ã€€ä½•ï¼ï¼Ÿã€€ä½•ãªã®ï¼ï¼Ÿã€
+;	uƒnƒ@ccƒnƒ@ccII@‰½IH@‰½‚È‚ÌIHv
 ;[l][er]
 ;	*/
 
@@ -102,7 +102,7 @@ Why did she collapse?[pcms]
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2148|
 [fc]
@@ -124,22 +124,22 @@ I'm sorry...[pcms]
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2149|
 [fc]
 [vo_sa s="sae0421"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
-;//ï¼ æ‰æ¸•ï¼šç›´ä¸‹ã€åŠ è—¤ã®å°è©ã«ãªã£ã¦ã¾ã—ãŸãŒç«¹å†…ã«å¤‰ãˆã¾ã—ãŸã€‚
+;//—™ŸºF’¼‰ºA‰Á“¡‚Ì‘äŒ‚É‚È‚Á‚Ä‚Ü‚µ‚½‚ª’|“à‚É•Ï‚¦‚Ü‚µ‚½B
 
 [ChrSetEx layer=1 chbase="take_a_a_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std352|
 [fc]
 [ns]Takeuchi[nse]
@@ -158,7 +158,7 @@ Instead, she asked Shindou-sensei a question.[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2150|
 [fc]
@@ -175,7 +175,7 @@ Shindou-sensei took a breath and instead of answering[r]Saeki's question, he tur
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2151|
 [fc]
@@ -197,7 +197,7 @@ Saeki shook her head, while Shinya tilted his head,[r]indicating that they didn'
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2152|
 [fc]
@@ -215,7 +215,7 @@ No one spoke afterwards, and the silence continued for a[r]while until it was in
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 *std353|
 [fc]
 [ns]Takeuchi[nse]
@@ -236,7 +236,7 @@ I became irritated by his foolish and nonchalant lines, and[r]my voice unintenti
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2153|
 [fc]
@@ -247,7 +247,7 @@ Don't raise your voice... It's certainly not the time to be[r]saying such things
 *5173|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5174|
 [fc]
@@ -259,7 +259,7 @@ And perhaps because I had confirmed Yamagishi-san's safety[r]and felt relieved, 
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2154|
 [fc]
@@ -273,7 +273,7 @@ Let's go get them. Shindou-sensei, you can eat too, right?[pcms]
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2155|
 [fc]
@@ -286,7 +286,7 @@ No, I'm fine. I have some remaining tasks that I need to[r]take care of.[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2156|
 [fc]
@@ -299,7 +299,7 @@ Is that so...[pcms]
 [ChrSetParts layer=1 chface="risa_c_d_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2157|
 [fc]
@@ -317,7 +317,7 @@ After saying that, Shindou-sensei left the infirmary, and[r]Shinya let out a big
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std354|
 [fc]
 [ns]Takeuchi[nse]
@@ -330,7 +330,7 @@ can go...[pcms]
 Hey, are you going to sleep again?[pcms]
 You[l][er]
 
-;ç«‹ã¡
+;—§‚¿
 *std355|
 [fc]
 [ns]Takeuchi[nse]
@@ -353,7 +353,7 @@ Upon seeing that, Saeki took a deep breath, but seeing that[r]Yamagishi-san was 
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2158|
 [fc]
@@ -383,7 +383,7 @@ Shinya looked at me with a resentful gaze and directed a[r]teasing smile towards
 ;	[trans_c cross time=150]
 ;	*/
 
-;ç«‹ã¡
+;—§‚¿
 
 *5182|
 [fc]
@@ -399,16 +399,16 @@ Hurry up and go after her. She's worried about you, you[r]know.[pcms]
 
 
 
-;//â™ªï¼šBGM003ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM003ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
 ;//blackout
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05270]ã¸
+;//[05270]‚Ö
 [jump target=*05270_TOP storage="05270.ks"]
 
 

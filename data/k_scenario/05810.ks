@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05810ã€æ„ŸæŸ“è€…ã€
-;//;//BG:ä¸€éšå»Šä¸‹ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»ã‚¾ãƒ³ãƒ“æ•°ä½“
+;//¡ËƒuƒƒbƒN05810wŠ´õÒx
+;//;//BG:ˆêŠK˜L‰ºF—[•ûFÁ“”
+;//“oêl•¨GålŒöE“µEƒ]ƒ“ƒr”‘Ì
 
 *05810_TOP
-;[debug_win]ãªã†ã€€05810[debug_win_end]
-;*SceneSet|ã€æ„ŸæŸ“è€…ã€
+;[debug_win]‚È‚¤@05810[debug_win_end]
+;*SceneSet|wŠ´õÒx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05810 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05810 = 1"]
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 [bgm008]
 
@@ -18,7 +18,7 @@
 [bg storage="bg08a"]
 [trans_c cross time=500]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 
 [se0 storage="se005"]
 
@@ -41,7 +41,7 @@ Saeki calmly reassures me, who is lamenting my own inability[r]to think, with a 
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2565|
 [fc]
@@ -62,7 +62,7 @@ It's dangerous to stay here. Anyway, let's evacuate to a[r]classroom somewhere.[
 Saeki urged me, and as we started walking towards a suitable[r]classroom, suddenly, those strange guys appeared in front of[r]us again.[pcms]
 [l][er]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2566|
 [fc]
@@ -107,5 +107,5 @@ With a resentful glare at those guys and Shindou-sensei, I[r]grabbed Saeki's arm
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05820]ã¸
+;//[05820]‚Ö
 [jump target=*05820_TOP storage="05820.ks"]

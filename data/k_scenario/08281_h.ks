@@ -1,32 +1,32 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08281ã€ãŠãã˜ã‚‡ã†ã€â€»ãƒ–ãƒ­ãƒƒã‚¯è¿½åŠ 
-;//BG:äºŒéšå»Šä¸‹ï¼šæœ
-;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»å„ªãƒ»æœ‹ç¾ãƒ»ãƒªã‚µ
+;//¡ËƒuƒƒbƒN08281w‚¨‚­‚¶‚å‚¤x¦ƒuƒƒbƒN’Ç‰Á
+;//BG:“ñŠK˜L‰ºF’©
+;//“oêl•¨FålŒöE—DE•ü”üEƒŠƒT
 
 *08281_H_TOP
-;[debug_win]ãªã†ã€€08281_H[debug_win_end]
+;[debug_win]‚È‚¤@08281_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 ;[if exp="tf.scene_mode == 0"][jump target=*08281][endif]
 ;[winset]
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
 [bgm008]
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *08281
 
-;*SceneSet|ã€ãŠãã˜ã‚‡ã†ã€
+;*SceneSet|w‚¨‚­‚¶‚å‚¤x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08281 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08281 = 1"]
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 ;//[bgm008]
 
@@ -52,7 +52,7 @@ Ma... bu... shi... i...[pcms]
 [ChrSetParts layer=1 chface="yuu_a_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3832|
 [fc]
@@ -70,7 +70,7 @@ O... ku... jo... u...?[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3833|
 [fc]
@@ -82,11 +82,11 @@ it feels liberating... It might be nice...[pcms]
 [ChrSetEx layer=1 chbase="tomo_a_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 ;[ChrSetParts layer=0 chface="tomo_a_a_01"]
-;mm â†‘è©²å½“ãƒ•ã‚¡ã‚¤ãƒ«ç„¡ã—
+;mm ªŠY“–ƒtƒ@ƒCƒ‹–³‚µ
 [ChrSetParts layer=1 chface="tomo_a_a1_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3834|
 [fc]
@@ -118,7 +118,7 @@ It's dazzling... I can't... open my eyes...[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*08282_H_TOP storage="08282_H.ks"]
 
 

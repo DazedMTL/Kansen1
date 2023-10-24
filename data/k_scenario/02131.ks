@@ -1,24 +1,24 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02131ã€çªç ´å£ã€
-;//BG:å­¦åœ’å…¥ã‚Šå£ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02131w“Ë”jŒûx
+;//BG:Šw‰€“ü‚èŒûF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöEƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02131_TOP
-;[debug_win]ãªã†ã€€02131[debug_win_end]
+;[debug_win]‚È‚¤@02131[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02131 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02131 = 1"]
 
-;*SceneSet|ã€çªç ´å£ã€
+;*SceneSet|w“Ë”jŒûx
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 
 [bgm009]
 
-;//SE:ç‡ƒãˆã‚‹éŸ³
+;//SE:”R‚¦‚é‰¹
 
 [se0 storage="se030"]
 
@@ -40,7 +40,7 @@ The expressionless, but unusual eyes of that man gave the[r]impression that he w
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v967|
 [fc]
@@ -61,7 +61,7 @@ Shindou-sensei looked at me with a face that seemed to[r]remember something in r
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v968|
 [fc]
@@ -78,7 +78,7 @@ Torches? Why do we have something like that...[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v969|
 [fc]
@@ -92,7 +92,7 @@ Those are the things that will be used there.[pcms]
 Come to think of it, I feel like I heard that kind of talk[r]during the closing ceremony.[l][er]
 I also feel like I received a handout, but I wonder where it[r]went...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v970|
 [fc]
@@ -108,7 +108,7 @@ I nodded and ran towards the staff entrance.[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -116,5 +116,5 @@ I nodded and ran towards the staff entrance.[pcms]
 
 ;//blackout
 
-;//[02132]ã¸
+;//[02132]‚Ö
 [jump target=*02132_TOP storage="02132.ks"]

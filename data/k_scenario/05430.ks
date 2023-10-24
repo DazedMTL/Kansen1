@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05430ã€èª°ã‚‚ã„ãªã„ã€
-;//;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤•æ–¹ï¼›æ¶ˆç¯
-;//;//BG:ä¿å¥å®¤ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN05430w’N‚à‚¢‚È‚¢x
+;//;//BG:“Áê‹³º˜L‰ºF—[•ûGÁ“”
+;//;//BG:•ÛŒ’ºF—[•ûFÁ“”
+;//“oêl•¨GålŒöE“µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *05430_TOP
-;[debug_win]ãªã†ã€€05430[debug_win_end]
-;*SceneSet|ã€èª°ã‚‚ã„ãªã„ã€
+;[debug_win]‚È‚¤@05430[debug_win_end]
+;*SceneSet|w’N‚à‚¢‚È‚¢x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05430 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05430 = 1"]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 [bgm007]
 
@@ -38,7 +38,7 @@ Saeki, who showed her vulnerability in the shower room, has[r]returned to her us
 [ChrSetParts layer=1 chface="sae_c_c_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2276|
 [fc]
@@ -55,7 +55,7 @@ It's because you suddenly brought it up![l][er]
 And besides, in a situation like this...[l][er]
 On top of that, I never said anything about being able to[r]use the shower room![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2277|
 [fc]
@@ -70,7 +70,7 @@ Even if you say that...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:æ‰‰ã‚’é–‹ã
+;//SE:”à‚ğŠJ‚­
 [se0 storage="se008"]
 
 ;//;//BG:bg013a
@@ -92,7 +92,7 @@ I couldn't find Shindou-sensei, who should have been waiting[r]for us, anywhere 
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2278|
 [fc]
@@ -107,13 +107,13 @@ It's my fault for being slow...[pcms]
 It's not Saeki's fault, it's Kishida's fault.[l][er]
 Don't worry about it.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2279|
 [fc]
 [vo_sa s="sae0505"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5485|
 [fc]
@@ -123,7 +123,7 @@ Saeki, who had a downcast expression, quickly regained her[r]composure and turne
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2280|
 [fc]
@@ -147,5 +147,5 @@ Yeah... Let's hurry![pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05440]ã¸
+;//[05440]‚Ö
 [jump target=*05440_TOP storage="05440.ks"]

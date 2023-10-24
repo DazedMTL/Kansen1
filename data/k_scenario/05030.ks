@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05030ã€å¤œã®å»Šä¸‹ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šç‚¹ç¯ï¼šå¤œ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05030w–é‚Ì˜L‰ºx
+;//BG:“Áê‹³º˜L‰ºF“_“”F–é
+;//“oêl•¨GålŒöE“µ
 
 *05030_TOP
-;[debug_win]ãªã†ã€€05030[debug_win_end]
-;*SceneSet|ã€å¤œã®å»Šä¸‹ã€
+;[debug_win]‚È‚¤@05030[debug_win_end]
+;*SceneSet|w–é‚Ì˜L‰ºx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05030 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05030 = 1"]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 
 [bgm001]
 
@@ -34,13 +34,13 @@ You're always so lively and energetic, but you suddenly[r]became all timid and s
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2017|
 [fc]
 [vo_sa s="sae0311"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4671|
 [fc]
@@ -53,7 +53,7 @@ hahaha![pcms]
 [fc]
 Saeki, who was walking in front of me, stopped and turned[r]back to me with a frown on her face.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2018|
 [fc]
@@ -72,7 +72,7 @@ It's obvious just by looking at you that you're a woman.[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2019|
 [fc]
@@ -90,7 +90,7 @@ No, it's not like that...[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2020|
 [fc]
@@ -121,7 +121,7 @@ What about Saeki?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2021|
 [fc]
@@ -140,13 +140,13 @@ You[l][er]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2022|
 [fc]
 [vo_sa s="sae0316"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4680|
 [fc]
@@ -162,7 +162,7 @@ Before she could take a deep breath, I quickly apologized[r]and managed to avoid
 [fc]
 Saeki let out a sigh of exasperation and looked around the[r]hallway.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2023|
 [fc]
@@ -175,13 +175,13 @@ It would have been better if it were in a different place...[pcms]
 [ns]Kato[nse]
 Well, even if you say that... When it comes to a place where[r]everyone can gather and the equipment is available, there's[r]really no other place besides here.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2024|
 [fc]
 [vo_sa s="sae0318"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4684|
 [fc]
@@ -193,7 +193,7 @@ Well, even if you say that... When it comes to a place where[r]everyone can gath
 [ChrSetParts layer=1 chface="sae_c_b_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2025|
 [fc]
@@ -210,10 +210,10 @@ Saeki![pcms]
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 ;//blackout
 
-;//[05040]ã¸
+;//[05040]‚Ö
 [jump target=*05040_TOP storage="05040.ks"]

@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0030ã€æ”¾é€äº‹æ•…ã€
-;//BG:è¦–è´è¦šå®¤ï¼šå¤œ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN0030w•ú‘—–ŒÌx
+;//BG:‹’®ŠoºF–é
 [ns]Tanaka[nse]
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *0030_TOP
-;[debug_win]ãªã†ã€€0030[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0030 = 1"]
+;[debug_win]‚È‚¤@0030[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0030 = 1"]
 
-;*SceneSet|ã€æ”¾é€äº‹æ•…ã€
+;*SceneSet|w•ú‘—–ŒÌx
 
 ;//[0030]
 
-;//â™ªï¼šBGM005
+;//ôFBGM005
 [bgm005]
 ;//BG:bg015c
 [bg storage="bg15d"]
@@ -24,7 +24,7 @@
 [fc]
 As the third movie started and a sleeping woman was[r]projected onto the screen, Shinya suddenly let out a loud[r]voice.[pcms]
 
-;//SE:ã‚¬ã‚¿ãƒƒ
+;//SE:ƒKƒ^ƒb
 [se0 storage="se023"]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
@@ -32,7 +32,7 @@ As the third movie started and a sleeping woman was[r]projected onto the screen,
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std148|
 [fc]
 [ns]Takeuchi[nse]
@@ -42,7 +42,7 @@ Ah, is this it?[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std149|
 [fc]
 [ns]Takeuchi[nse]
@@ -59,7 +59,7 @@ Hitomi's cold voice pierces through Shinya, who started[r]explaining the movie f
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v273|
 [fc]
@@ -111,7 +111,7 @@ A group of people resembling American biker gangs came[r]rushing towards the pro
 [fc]
 Because at that moment, suddenly noise ran across the screen[r]and a different image was projected.[pcms]
 
-;//â™ªï¼šBGM005ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM005ƒtƒF[ƒhƒAƒEƒg
 [fadeoutbgm time=500]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
@@ -119,7 +119,7 @@ Because at that moment, suddenly noise ran across the screen[r]and a different i
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v274|
 [fc]
@@ -133,11 +133,11 @@ It was a scene that closely resembled the one in the movie,[r]where a large numb
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;//H_CG:æ¯è¦ªãŒãƒ¬ã‚¤ãƒ—ã•ã‚Œã¦ã„ã‚‹ï¼ˆåŠ å·¥ï¼‰
-;ã‚·ã‚¹ãƒ†ãƒ ãƒœã‚¿ãƒ³ï¼†ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//H_CG:•êe‚ªƒŒƒCƒv‚³‚ê‚Ä‚¢‚éi‰ÁHj
+;ƒVƒXƒeƒ€ƒ{ƒ^ƒ“•ƒEƒBƒ“ƒhƒEÁ‹
 [sysbt_meswin clear]
 
-;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM007ƒtƒF[ƒhƒCƒ“
 [bgm007]
 
 
@@ -223,7 +223,7 @@ Ah... ah... ugh...[pcms]
 [fc]
 The woman who had been ejaculated inside her body convulsed[r]a few times while moaning, and then collapsed to the floor[r]as if she had lost consciousness.[pcms]
 
-;ã‚·ã‚¹ãƒ†ãƒ ãƒœã‚¿ãƒ³ï¼†ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;ƒVƒXƒeƒ€ƒ{ƒ^ƒ“•ƒEƒBƒ“ƒhƒEÁ‹
 [sysbt_meswin clear]
 
 [evcg storage="HEV_001_e"]
@@ -239,13 +239,13 @@ The woman who had been ejaculated inside her body convulsed[r]a few times while 
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v281|
 [fc]
 [vo_ya s="yama0082"]
 [ns]Yamagishi[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *729|
 [fc]
@@ -256,7 +256,7 @@ Saeki, whether she had finally regained her sanity after[r]being overwhelmed by 
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v282|
 [fc]
@@ -269,7 +269,7 @@ Hurry, Kato-san!![pcms]
 [fc]
 I, who was taken aback by the situation, regained my[r]composure at Saeki's voice and hurriedly rushed to the deck[r]to stop the playback.[pcms]
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*0031_TOP storage="0031.ks"]
 
 

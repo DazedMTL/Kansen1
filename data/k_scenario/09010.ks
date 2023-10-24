@@ -1,25 +1,25 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯09010ã€å„ªã®æƒ³ã„ã€
-;//BGï¼šãƒã‚¹åœ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//;//¡ËƒuƒƒbƒN09010w—D‚Ì‘z‚¢x
+;//BGFƒoƒX’â
 
-;//;//ç™»å ´äººç‰©ï¼šå„ª
+;//;//“oêl•¨F—D
 
-;//ã“ã®ãƒ–ãƒ­ãƒƒã‚¯ã®ãƒœã‚¤ã‚¹ãƒ•ã‚¡ã‚¤ãƒ«ã¯ã€€â€»ãƒãƒ¼ã‚¯ã®å¾Œã‚ã®No
-;//.ã‚’ä½¿ç”¨ã—ã¦ä¸‹ã•ã„ã€‚
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;//‚±‚ÌƒuƒƒbƒN‚Ìƒ{ƒCƒXƒtƒ@ƒCƒ‹‚Í@¦ƒ}[ƒN‚ÌŒã‚ë‚ÌNo
+;//.‚ğg—p‚µ‚Ä‰º‚³‚¢B
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *09010_TOP
-;[debug_win]ãªã†ã€€09010[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_09010 = 1"]
+;[debug_win]‚È‚¤@09010[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_09010 = 1"]
 
-;*SceneSet|ã€å„ªã®æƒ³ã„ã€
+;*SceneSet|w—D‚Ì‘z‚¢x
 
 ;//;//[09010]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 [bgm001]
 ;//;//BG:bg19
 [bg storage="bg19"]
@@ -60,7 +60,7 @@ We'll also watch a movie together with everyone.[pcms]
 [ns]Yamagishi[nse]
 It'll be lively and fun, won't it~[l][er]
 
-;//â€»yama1141.wav
+;//¦yama1141.wav
 
 *10802|
 [fc]
@@ -72,7 +72,7 @@ Being together with everyone is much better.[pcms]
 [ns]Yamagishi[nse]
 ... Everyone together... huh...[pcms]
 
-;//â€»yama1142.wav
+;//¦yama1142.wav
 
 *10803|
 [fc]
@@ -89,7 +89,7 @@ I wonder what he thinks of me.[pcms]
 
 *10806|
 [fc]
-... Last year, 'he' asked me. 'Do you have a favorite boy? '[pcms]
+... Last year, 'he' asked me. 'Do you have a favorite boy?[r]'[pcms]
 
 *10807|
 [fc]
@@ -105,7 +105,7 @@ But, now...[pcms]
 [ns]Yamagishi[nse]
 Ahaha...[pcms]
 
-;//â€»yama1143.wav
+;//¦yama1143.wav
 
 *10809|
 [fc]
@@ -122,7 +122,7 @@ I want you to always be by my side...[pcms]
 [ns]Yamagishi[nse]
 Kato-kun...[pcms]
 
-;//â€»yama1144.wav
+;//¦yama1144.wav
 
 *10811|
 [fc]
@@ -143,5 +143,5 @@ I have to hurry...[pcms]
 
 ;;;[sysbt_meswin]
 
-;//;//[0009]ã¸
+;//;//[0009]‚Ö
 [jump target=*0009_TOP storage="0009.ks"]

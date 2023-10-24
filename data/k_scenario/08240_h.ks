@@ -1,38 +1,38 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08240ã€ç³ã¨éŠã¶ã€
-;//;//BG:ä½“è‚²ç”¨å…·å®¤ï¼šå¤œï¼šæ¶ˆç¯
-;//;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
+;//¡ËƒuƒƒbƒN08240w“µ‚Æ—V‚Ôx
+;//;//BG:‘Ìˆç—p‹ïºF–éFÁ“”
+;//;//BG:“n‚è˜L‰ºF–éFÁ“”
 
 *08240_H_TOP
-;[debug_win]ãªã†ã€€08240_H[debug_win_end]
+;[debug_win]‚È‚¤@08240_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 ;[if exp="tf.scene_mode == 0"][jump target=*08240][endif]
 ;[winset]
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
 [bgm001]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *08240
 
-;*SceneSet|ã€ç³ã¨éŠã¶ã€
+;*SceneSet|w“µ‚Æ—V‚Ôx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08240 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08240 = 1"]
 
-;//flag:ä¸»äººå…¬æ„ŸæŸ“ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼“ã€€è¡¨ç¤º
-;//flag:ç³ã€€on
+;//flag:ålŒöŠ´õƒ‹[ƒgƒtƒ[@‚R@•\¦
+;//flag:“µ@on
 
 [eval exp="f.HITOMI_F = 1"]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 ;//;//BG:bg09e
 
@@ -62,7 +62,7 @@ Let's find them and have some fun teasing them![pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std671|
 [fc]
 [ns]Takeuchi[nse]
@@ -73,7 +73,7 @@ I wonder where Hitomi is~[l][er]
 [ns]Kato[nse]
 Shinya!! Let's go together![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std672|
 [fc]
 [ns]Takeuchi[nse]
@@ -84,7 +84,7 @@ Alright, let's go together!! Teacher, let's meet up later at[r]the entrance.[pcm
 [ChrSetParts layer=1 chface="risa_a_c_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3691|
 [fc]
@@ -102,7 +102,7 @@ It's the Physical Education Instructor's office, you know?[pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3692|
 [fc]
@@ -115,7 +115,7 @@ It's the entrance~...[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3693|
 [fc]
@@ -128,7 +128,7 @@ Then, Igarashi-san, shall we go and search for Yamagishi-[r]san?[pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3694|
 [fc]
@@ -151,7 +151,7 @@ The two of them walked hand in hand towards the special[r]classroom.[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std673|
 [fc]
 [ns]Takeuchi[nse]
@@ -162,7 +162,7 @@ That's right...[pcms]
 [ns]Kato[nse]
 Shall we go too...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std674|
 [fc]
 [ns]Takeuchi[nse]
@@ -202,7 +202,7 @@ What should I do...[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*08250_H_TOP storage="08250_H.ks"]
 
 

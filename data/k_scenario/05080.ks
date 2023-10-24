@@ -1,21 +1,21 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05080ã€å¤œã®ä¸‰éšå»Šä¸‹ã€
-;//BG:ç„¡ã—
-;//BG:ä¸‰éšå»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯ï¼ç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05080w–é‚ÌOŠK˜L‰ºx
+;//BG:–³‚µ
+;//BG:OŠK˜L‰ºF–éFÁ“”^“_“”
+;//“oêl•¨GålŒöE“µ
 
 *05080_TOP
-;[debug_win]ãªã†ã€€05080[debug_win_end]
-;*SceneSet|ã€å¤œã®ä¸‰éšå»Šä¸‹ã€
+;[debug_win]‚È‚¤@05080[debug_win_end]
+;*SceneSet|w–é‚ÌOŠK˜L‰ºx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05080 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05080 = 1"]
 
 ;	/*
-;	;//â™ªï¼šBGM001
+;	;//ôFBGM001
 ;	[bgm001]
 ;	
 ;	;//BG:bg006c
-;	;//ç…§æ˜ã¯è½ã¡ã¦ã„ã‚‹ã®ã§06d
+;	;//Æ–¾‚Í—‚¿‚Ä‚¢‚é‚Ì‚Å06d
 ;	
 ;	[bg storage="bg06d"]
 ;	[trans_c cross time=500]
@@ -34,15 +34,15 @@ For now, let me take a look.[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2043|
 [fc]
 [vo_sa s="sae0337"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 [se0 storage="se008"]
 
 *4767|
@@ -66,7 +66,7 @@ I opened the door halfway and stuck my head into Class H.[pcms]
 *4768|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4769|
 [fc]
@@ -82,7 +82,7 @@ I confirmed that there were no living humans, and I pulled[r]my head out from th
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:æ‰‰ã‚’é–‰ã‚ã‚‹
+;//SE:”à‚ğ•Â‚ß‚é
 [se0 storage="se008"]
 
 ;//BG:bg006c
@@ -107,7 +107,7 @@ Saeki took a deep breath at my words and returned her face[r]to its usual expres
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2044|
 [fc]
@@ -166,7 +166,7 @@ We're at the very top![pcms]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2045|
 [fc]
@@ -197,7 +197,7 @@ If possible, I wanted to keep it as my own secret, that's[r]what I thought.[pcms
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2046|
 [fc]
@@ -209,7 +209,7 @@ maybe it's the gymnasium...[pcms]
 *4782|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
@@ -231,34 +231,34 @@ That means there is a low possibility of other men knowing[r]about Saeki's smile
 [fc]
 On the other hand, it means that I'll remain in a different[r]class from Yamagishi-san...[pcms]
 
-;//â€»é¸æŠè‚¢
-;//ãƒ»ã§ã‚‚ã€ä»Šã®ã‚¯ãƒ©ã‚¹ã®æ–¹ãŒå±…å¿ƒåœ°ã„ã„ã—ãª;//[05081]ã¸
-;//ãƒ»ä¿ºã ã‘ã®å°‚é–€ã‚¯ãƒ©ã‚¹ã¨ã‹ã§ããªã„ã‹ãªâ€¦â€¦;//[05082]ã¸
+;//¦‘I‘ğˆ
+;//E‚Å‚àA¡‚ÌƒNƒ‰ƒX‚Ì•û‚ª‹S’n‚¢‚¢‚µ‚È;//[05081]‚Ö
+;//E‰´‚¾‚¯‚Ìê–åƒNƒ‰ƒX‚Æ‚©‚Å‚«‚È‚¢‚©‚Ècc;//[05082]‚Ö
 
 
 *SEL_05080
 
 
-*SEL01|ã§ã‚‚ã€ä»Šã®ã‚¯ãƒ©ã‚¹ã®æ–¹ãŒå±…å¿ƒåœ°ã„ã„ã—ãªï¼ä¿ºã ã‘ã®å°‚é–€ã‚¯ãƒ©ã‚¹ã¨ã‹ã§ããªã„ã‹ãª
+*SEL01|‚Å‚àA¡‚ÌƒNƒ‰ƒX‚Ì•û‚ª‹S’n‚¢‚¢‚µ‚È^‰´‚¾‚¯‚Ìê–åƒNƒ‰ƒX‚Æ‚©‚Å‚«‚È‚¢‚©‚È
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'ã§ã‚‚ã€ä»Šã®ã‚¯ãƒ©ã‚¹ã®æ–¹ãŒå±…å¿ƒåœ°ã„ã„ã—ãª'"]
-[eval exp="f.seltext04 = 'ä¿ºã ã‘ã®å°‚é–€ã‚¯ãƒ©ã‚¹ã¨ã‹ã§ããªã„ã‹ãªâ€¦â€¦'"]
+[eval exp="f.seltext02 = '‚Å‚àA¡‚ÌƒNƒ‰ƒX‚Ì•û‚ª‹S’n‚¢‚¢‚µ‚È'"]
+[eval exp="f.seltext04 = '‰´‚¾‚¯‚Ìê–åƒNƒ‰ƒX‚Æ‚©‚Å‚«‚È‚¢‚©‚Ècc'"]
 
 
-[if exp="tf.sys_sub == 0 || tf.é¸æŠè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
-	;é¸æŠè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
+[if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
+	;‘I‘ğˆ“à—e‚ğƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[å±¥æ­´å‡ºåŠ›å¾©å¸°]
+[—š—ğo—Í•œ‹A]
 
-;é¸æŠè‚¢ãƒ™ãƒ¼ã‚¹
+;‘I‘ğˆƒx[ƒX
 [selbase]
-;æ–‡å­—ã®å·¦ãƒãƒ¼ã‚¸ãƒ³
+;•¶š‚Ì¶ƒ}[ƒWƒ“
 [eval exp="sf.seltext_x = 200"]
 
 [sel02 target=*SEL_IMA]

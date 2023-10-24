@@ -1,36 +1,36 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯06180ã€ãƒã‚¾ãƒ’ã‚¹ãƒˆã€
-;//BG;ä¿å¥å®¤ï¼šæœï¼šæ¶ˆç¯
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæœï¼›æ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ãƒªã‚µãƒ»å²¸ç”°ãƒ»ã‚¾ãƒ³ãƒ“Ã—ï¼”
-;//è¦–ç‚¹ï¼›ãƒªã‚µ
+;//¡ËƒuƒƒbƒN06180wƒ}ƒ]ƒqƒXƒgx
+;//BG;•ÛŒ’ºF’©FÁ“”
+;//BG:“Áê‹³º˜L‰ºF’©GÁ“”
+;//“oêl•¨GƒŠƒTEŠİ“cEƒ]ƒ“ƒr~‚S
+;//‹“_GƒŠƒT
 
 *06180_H_TOP
-;[debug_win]ãªã†ã€€06180_H[debug_win_end]
+;[debug_win]‚È‚¤@06180_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [eval exp="sf.SRP34 = 1"][if exp="tf.scene_mode == 0"][jump target=*06180][endif]
 ;;[winset]
 [bgm007]
 [jump target=*scene_start]
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *06180
 
-;*SceneSet|ã€ãƒã‚¾ãƒ’ã‚¹ãƒˆã€
+;*SceneSet|wƒ}ƒ]ƒqƒXƒgx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_06180 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_06180 = 1"]
 
-;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€zapï¼–ã€€è¡¨ç¤º
-;//â™ªï¼šBGM007
+;//flag:“µƒ‹[ƒgƒtƒ[@zap‚U@•\¦
+;//ôFBGM007
 [bgm007]
 
 ;//;//BG:bg13a
@@ -166,7 +166,7 @@ That's right... If we have that car, we can all escape[r]together...[pcms]
 I'll go get it while Kato-kun and the others are in the[r]bathroom...[l][er]
 I need to hurry.[pcms]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 
 [se0 storage="se005"]
 
@@ -206,7 +206,7 @@ Are you okay!?[pcms]
 [ChrSetParts layer=1 chface="kisi_c_b_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *6858a|
 [fc]
@@ -227,7 +227,7 @@ what on earth happened...[pcms]
 ;	[trans_c cross time=150]
 ;	*/
 
-;ç«‹ã¡
+;—§‚¿
 
 
 *6858b|
@@ -246,7 +246,7 @@ Nufu, fufu, hahaha...[pcms]
 [ChrSetParts layer=1 chface="kisi_b_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *6858c|
 [fc]
@@ -254,7 +254,7 @@ Nufu, fufu, hahaha...[pcms]
 I-I-I came... Is it... okay...[l][er]
 with you...?[pcms]
 
-;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM007ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
@@ -279,11 +279,11 @@ I felt a different kind of fear towards Kishida and[r]instinctively took a step 
 [ns]Shindou[nse]
 S-Such... Kishida... sama... Ah...!?[pcms]
 
-;//SE:äººã«ã¶ã¤ã‹ã‚‹
+;//SE:l‚É‚Ô‚Â‚©‚é
 [se0 storage="se025"]
 [quake_bg xy m]
 
-;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM008ƒtƒF[ƒhƒCƒ“
 [bgm008]
 
 *6864|
@@ -296,7 +296,7 @@ After stepping back, there was a wall for some reason.[pcms]
 What on earth...[pcms]
 
 ;//H_CG:
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [ChrSetEx layer=5 chbase="zom_01_b"][ChrSetXY layer=5 x=200 y=0]
 [ChrSetEx layer=1 chbase="zom_04_b"][ChrSetXY layer=1 x=400 y=0]
 [ChrSetEx layer=2 chbase="zom_03_b"][ChrSetXY layer=2 x=0 y=0]
@@ -342,7 +342,7 @@ What are you saying!? Don't come any closer...[pcms]
 [ns]Kishida[nse]
 R-Ra... Sa... , Guhe, Hehehe...[pcms]
 
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [ChrSetEx layer=5 chbase="zom_01_b"][ChrSetXY layer=5 x=200 y=0]
 [ChrSetEx layer=1 chbase="zom_04_b"][ChrSetXY layer=1 x=400 y=0]
 [ChrSetEx layer=2 chbase="zom_03_b"][ChrSetXY layer=2 x=0 y=0]
@@ -395,7 +395,7 @@ Ah...[pcms]
 *6875|
 [fc]
 [ns]Male Student B[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *6876|
 [fc]
@@ -469,7 +469,7 @@ Ah... aah~... I-I... I'll... undress...[pcms]
 *6886|
 [fc]
 [ns]Male Student D[nse]
-Oh yeah! I've been waiting for this!!  Uhahaha[pcms]
+Oh yeah! I've been waiting for this!!   Uhahaha[pcms]
 
 *6887|
 [fc]
@@ -500,7 +500,7 @@ Have I also... become strange?[pcms]
 Noooo!! Haa... haa... Aaahh...[l][er]
 Aaahhh!![pcms]
 
-;//SE;æœãŒç ´ã‘ã‚‹
+;//SE;•‚ª”j‚¯‚é
 
 ;//HEV_:ON
 
@@ -608,7 +608,7 @@ Uru, see... On, na, da... Na, ko, itsu, wo, kuwa, e, te,[r]ro...[pcms]
 [ns]Shindou[nse]
 Ah! Nbuu!! Uaa... puhah... nnn...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
@@ -713,7 +713,7 @@ omae no kuchi ii zo...[pcms]
 [vo_ri s="risa0641"]
 [ns]Shindou[nse]
 Ahh... ngh... pudyu... guchu...[l][er]
-jyubunhaa... Kishida... sama... jyubu[pcms]
+jyubunhaa... Kishida... sama...  jyubu[pcms]
 
 *6924|
 [fc]
@@ -846,7 +846,7 @@ Uwoah... Drink, drink... Drink, so, raa...[pcms]
 
 [stop_se0]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -885,7 +885,7 @@ buchuu!! Haaaahhh!![pcms]
 [ns]Male Student D[nse]
 Ugh![pcms]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -907,7 +907,7 @@ Ugh![pcms]
 [ns]Male Student B[nse]
 Ah...[pcms]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -944,7 +944,7 @@ haaaahhhh! Naaaaahhhh!! Uwaaaahhh!![pcms]
 
 ;;;[sysbt_meswin]
 
-;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM008ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
@@ -960,7 +960,7 @@ No, noooo!! I'm cumming! Uaaaahhh!![pcms]
 
 [bg storage="effect_white"][trans_c cross time=500]
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 
 *6942|
 [fc]
@@ -970,23 +970,23 @@ I... I wonder if I'm dead... It feels like my body is[r]floating in mid-air...[p
 
 
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn35 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn35 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
-;BGMåœæ­¢
+;BGM’â~
 [fadeoutbgm time=500]
 ;[black_toplayer][trans_c random][hide_chara_int]
 [zapfade]
@@ -995,12 +995,12 @@ I... I wonder if I'm dead... It feels like my body is[r]floating in mid-air...[p
 
 
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;//[05410]ã¸
+;//[05410]‚Ö
 [jump target=*05410_H_TOP storage="05410_H.ks"]
 

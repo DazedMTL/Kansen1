@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02086ã€è¦–è´è¦šå®¤ï¼šä¼‘æ¯:åˆæµã€
-;//BG:è¦–è´è¦šå®¤ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»ç«¹å†…
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02086w‹’®ŠoºF‹x‘§:‡—¬x
+;//BG:‹’®ŠoºF–éF“_“”
+;//“oêl•¨GålŒöE—DE“µE’|“à
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02086_TOP
-;[debug_win]ãªã†ã€€02086[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02086 = 1"]
+;[debug_win]‚È‚¤@02086[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02086 = 1"]
 
-;*SceneSet|ã€è¦–è´è¦šå®¤ï¼šä¼‘æ¯ã€
+;*SceneSet|w‹’®ŠoºF‹x‘§x
 
 ;//[02086]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg015c
 [bg storage="bg15c"]
@@ -25,7 +25,7 @@
 [ns]Kato[nse]
 Hey everyone, the teacher said to rest already.[pcms]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 *1738|
@@ -37,7 +37,7 @@ Yamagishi-san ran up to me and whispered in a low voice,[r]Let's go back to the 
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v721|
 [fc]
@@ -54,9 +54,9 @@ W-What? What's wrong?[pcms]
 [fc]
 Yamagishi-san looked around the room and continued with a[r]wry smile.[pcms]
 
-;//ï¼ æ‰æ¸•ï¼šç«¹å†…ã•ã‚“â†’ç«¹å†…å›ã€‚
+;//—™ŸºF’|“à‚³‚ñ¨’|“àŒNB
 
-;ç«‹ã¡
+;—§‚¿
 
 *v722|
 [fc]
@@ -77,7 +77,7 @@ Yamagishi-san continued, perhaps because she was bored with[r]no one to talk to.
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v723|
 [fc]
@@ -94,7 +94,7 @@ Ah, well, I was just telling them where Tanaka and Igarashi-[r]san might be so t
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v724|
 [fc]
@@ -107,7 +107,7 @@ Ohhh, I see. I was wondering if you were asking about the[r]teacher's boyfriend 
 [ns]Kato[nse]
 If you ask about that, I'll get scolded again.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v725|
 [fc]
@@ -126,7 +126,7 @@ Rather than judging by appearance, I think she chooses a[r]reliable man.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v726|
 [fc]
@@ -144,7 +144,7 @@ You know, at school, I feel like I come off as cold and[r]rigid, but in front of
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v727|
 [fc]
@@ -180,7 +180,7 @@ When I turned my gaze back to Yamagishi-san, thinking of[r]using Saeki's sleepin
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v728|
 [fc]
@@ -188,7 +188,7 @@ When I turned my gaze back to Yamagishi-san, thinking of[r]using Saeki's sleepin
 [ns]Yamagishi[nse]
 I wanted to watch the whole movie at the screening until the[r]end.[pcms]
 
-;//[02087]ã¸
+;//[02087]‚Ö
 [jump target=*02087_TOP storage="02087.ks"]
 
 

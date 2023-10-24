@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04024ã€ç³ã®å¾©è®ï¼’ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ç«¹å†…ãƒ»ç³
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04024w“µ‚Ì•œQ‚Qx
+;//BG:“Áê‹³º˜L‰ºF’‹i’©Œ“—pj
+;//“oêl•¨G’|“àE“µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04024_TOP
-;[debug_win]ãªã†ã€€04024[debug_win_end]
+;[debug_win]‚È‚¤@04024[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04024 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04024 = 1"]
 
-;*SceneSet|ã€ç³ã®å¾©è®ï¼’ã€
+;*SceneSet|w“µ‚Ì•œQ‚Qx
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 [bgm008]
 
@@ -23,7 +23,7 @@
 [bg storage="bg03a"]
 [trans_c cross time=500]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 
 [se0 storage="se005"]
 
@@ -42,7 +42,7 @@ This is really bad![pcms]
 [fc]
 What... what the hell is this?![pcms]
 
-;//SE:æ‰‰ã‚’é–‹ã
+;//SE:”à‚ğŠJ‚­
 
 [se0 storage="se008"]
 
@@ -50,18 +50,18 @@ What... what the hell is this?![pcms]
 [fc]
 A person...? Could it be, one of the guys from earlier...?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 [ChrSetEx layer=1 chbase="sae_d_d_12"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1688|
 [fc]
 [vo_sa s="sae0261"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4102|
 [fc]
@@ -79,13 +79,13 @@ Their clothes are all torn up, I wonder if they fell[r]somewhere...[pcms]
 What happened to your clothes?[l][er]
 Did you come to get changed or something?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1689|
 [fc]
 [vo_sa s="sae0262"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4105|
 [fc]
@@ -94,13 +94,13 @@ W-What the hell, it wasn't me who did that to your clothes.[l][er]
 But I did break your hymen though![l][er]
 Mufufu![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1690|
 [fc]
 [vo_sa s="sae0263"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4106|
 [fc]
@@ -108,13 +108,13 @@ Mufufu![pcms]
 What the hell... Don't come near me![l][er]
 I'll violate you again!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1691|
 [fc]
 [vo_sa s="sae0264"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4107|
 [fc]
@@ -125,6 +125,6 @@ I'll violate you again!![pcms]
 What's wrong with those creepy, orgasmic eyes...?[l][er]
 What happened to this person...?[pcms]
 
-;//[04025]ã¸
+;//[04025]‚Ö
 [jump target=*04025_TOP storage="04025.ks"]
 

@@ -1,34 +1,34 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02147ã€å°ã•ãªä¸å®‰ã€
-;//BG:å±‹ä¸Šï¼šå¤•æ–¹
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02147w¬‚³‚È•sˆÀx
+;//BG:‰®ãF—[•û
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02147_H_TOP
-;[debug_win]ãªã†ã€€02147_H[debug_win_end]
+;[debug_win]‚È‚¤@02147_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 ;[if exp="tf.scene_mode == 0"][jump target=*02147][endif]
 ;[winset]
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 [bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *02147
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02147 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02147 = 1"]
 
-;*SceneSet|ã€å°ã•ãªä¸å®‰ã€
+;*SceneSet|w¬‚³‚È•sˆÀx
 
-;//â™ªï¼šBGM010
+;//ôFBGM010
 
 [bgm010]
 
@@ -46,7 +46,7 @@ I woke up to the sensation of being shaken by someone.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1021|
 [fc]
@@ -60,13 +60,13 @@ Are you okay? You were having a really intense dream...[pcms]
 Yeah... I'm fine...[pcms]
 
 ;	/*
-;	;ç«‹ã¡
+;	;—§‚¿
 ;	*std281|
 ;	*|
 ;	[vo_ya s="yama0338"]
 [ns]Yamagishi[nse]
 Shouldn't we go back soon? It feels like we've been here for[r]a long time, Sensei.[pcms]
-;	ã«è¨€ã‚ã‚Œã¦ã‚‹ã—â€¦â€¦ã€
+;	‚ÉŒ¾‚í‚ê‚Ä‚é‚µccv
 ;[l][er]
 ;	*/
 
@@ -85,10 +85,10 @@ Should we go back soon...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;//SE:æˆ¦é—˜æ©ŸãŒé£›ã‚“ã§ã„ãéŸ³
+;//SE:í“¬‹@‚ª”ò‚ñ‚Å‚¢‚­‰¹
 [se0 storage="se017"]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1022|
 [fc]
@@ -111,7 +111,7 @@ Just a little longer, what?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1023|
 [fc]
@@ -128,16 +128,16 @@ Yeah...[pcms]
 [fc]
 While shaking my head to clear my still hazy mind,[r]Yamagishi-san and I returned to the second floor.[pcms]
 
-;//â™ªï¼šBGM010ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM010ƒtƒF[ƒhƒAƒEƒg
 
 
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;SEãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ ã“ã‚Œä½¿ç”¨ã—ãŸå¾Œã®pcmsã®å¾Œã‚ã§stopseã—ã¦ãã ã•ã„ã€‚ãƒ­ãƒ¼ãƒ‰ã™ã‚‹ã¨æ­¢ã‚ãŸã®ã«ã¾ãŸé³´ã£ã¦ã‚‹ã‹ã‚‰ã€‚
+;SEƒtƒF[ƒhƒAƒEƒg ‚±‚êg—p‚µ‚½Œã‚Ìpcms‚ÌŒã‚ë‚Åstopse‚µ‚Ä‚­‚¾‚³‚¢Bƒ[ƒh‚·‚é‚Æ~‚ß‚½‚Ì‚É‚Ü‚½–Â‚Á‚Ä‚é‚©‚çB
 [fadeoutse buf=0 time=1000]
 [fadeoutbgm time=500]
 [wait_c time=1000]
@@ -147,7 +147,7 @@ While shaking my head to clear my still hazy mind,[r]Yamagishi-san and I returne
 
 ;//blackout
 
-;//[02148]ã¸
+;//[02148]‚Ö
 [jump target=*02148_H_TOP storage="02148_H.ks"]
 
 

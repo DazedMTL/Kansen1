@@ -1,18 +1,18 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//;//â– ãƒ–ãƒ­ãƒƒã‚¯0009ã€å­¦åœ’è¡Œããƒã‚¹åœï¼šå¾…ã¡åˆã‚ã›ã€
-;//BGï¼šãƒã‚¹åœï¼šå¤•æ–¹
-;//;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//;//¡ƒuƒƒbƒN0009wŠw‰€s‚«ƒoƒX’âF‘Ò‚¿‡‚í‚¹x
+;//BGFƒoƒX’âF—[•û
+;//;//“oêl•¨GålŒöE—DE•ü”üE’|“àE“c’†
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *0009_TOP
-;[debug_win]ãªã†ã€€0009[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0009 = 1"]
+;[debug_win]‚È‚¤@0009[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0009 = 1"]
 
-;*SceneSet|ã€å­¦åœ’è¡Œããƒã‚¹åœã€
+;*SceneSet|wŠw‰€s‚«ƒoƒX’âx
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 [bgm001]
 ;//;//BG:bg019
 [bg storage="bg19"]
@@ -42,7 +42,7 @@ but everyone, including myself, opposed it, so we ended up[r]taking the usual bu
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std44|
 [fc]
 [ns]Tanaka[nse]
@@ -52,7 +52,7 @@ Geez, why do we have to wear our uniforms to go to school[r]during summer vacati
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std45|
 [fc]
 [ns]Takeuchi[nse]
@@ -76,7 +76,7 @@ That you catch a summer cold...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std46|
 [fc]
 [ns]Takeuchi[nse]
@@ -88,7 +88,7 @@ You don't have to say it all, I get it!![pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std47|
 [fc]
 [ns]Tanaka[nse]
@@ -101,14 +101,14 @@ Ahaha.[pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std48|
 [fc]
 [ns]Takeuchi[nse]
 Shut up! I'm just a fool after all!![l][er]
 *cough* But it's a shame. I wanted to take pictures of the[r]girls' casual clothes...[pcms]
 
-;//;//SE:æˆ¦é—˜æ©ŸãŒé£›ã‚“ã§ã„ãéŸ³
+;//;//SE:í“¬‹@‚ª”ò‚ñ‚Å‚¢‚­‰¹
 [se0 storage="se017"]
 
 [ChrSetEx layer=1 chbase="tanaka_a_a_01"]
@@ -116,7 +116,7 @@ Shut up! I'm just a fool after all!![l][er]
 [ChrSetParts layer=1 chface="tanaka_a_a_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std49|
 [fc]
 [ns]Tanaka[nse]
@@ -135,7 +135,7 @@ I occasionally see a single aircraft flying, but when they[r]fly around like thi
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std50|
 [fc]
 [ns]Takeuchi[nse]
@@ -147,7 +147,7 @@ There's a Self-Defense Force base in the neighboring town,[r]after all.[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std51|
 [fc]
 [ns]Tanaka[nse]
@@ -162,7 +162,7 @@ We, who were all looking up at the sky together, lowered our[r]faces at Igarashi
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v78|
 [fc]
@@ -182,7 +182,7 @@ I said something like, If I leave it to you guys, you'll buy[r]weird stuff.[pcms
 [ChrSetParts layer=1 chface="tomo_c_a1_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v79|
 [fc]
@@ -195,7 +195,7 @@ Hmm...[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std52|
 [fc]
 [ns]Tanaka[nse]
@@ -212,7 +212,7 @@ That's why I asked Shinya to do it.[pcms]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std53|
 [fc]
 [ns]Takeuchi[nse]
@@ -228,7 +228,7 @@ Your coughing is annoying.[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std54|
 [fc]
 [ns]Tanaka[nse]
@@ -239,14 +239,14 @@ Especially not me, I probably won't catch it.[pcms]
 [fc]
 The exchange between Shinya, who was complaining about being[r]assigned miscellaneous tasks as usual, and me and Yuuji, who[r]were trying to calm him down, came to a sudden halt as we[r]saw a smiling face approaching us quickly.[pcms]
 
-;//;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v80|
 [fc]
@@ -263,7 +263,7 @@ Yuu-san... You're really... cute, aren't you...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std55|
 [fc]
 [ns]Takeuchi[nse]
@@ -274,7 +274,7 @@ It's been a while, I missed you~[l][er]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v81|
 [fc]
@@ -287,7 +287,7 @@ Eh, summer vacation just started, it's only been a little[r]over a week, you kno
 [ChrSetParts layer=1 chface="tanaka_a_a_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std56|
 [fc]
 [ns]Tanaka[nse]
@@ -298,9 +298,9 @@ You, you said the same thing to my Tomomin too, didn't you?[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;//ï¼ æ‰æ¸•ï¼šç«¹å†…ã•ã‚“ã‚’ç«¹å†…å›ã«å¤‰æ›´ã€‚
+;//—™ŸºF’|“à‚³‚ñ‚ğ’|“àŒN‚É•ÏXB
 
-;ç«‹ã¡
+;—§‚¿
 
 *v82|
 [fc]
@@ -313,7 +313,7 @@ I see, so Takeuchi-kun doesn't really care who the girl is.[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std57|
 [fc]
 [ns]Tanaka[nse]
@@ -324,7 +324,7 @@ No way, Shinya-kun, you're so noisy![pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v83|
 [fc]
@@ -337,7 +337,7 @@ Hey there![pcms]
 [ChrSetParts layer=1 chface="tomo_c_a_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v84|
 [fc]
@@ -350,7 +350,7 @@ Sorry to keep you waiting!![pcms]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std58|
 [fc]
 [ns]Takeuchi[nse]
@@ -366,7 +366,7 @@ W-What's the matter?! I was just happy to see my friend,[r]that's all![pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std59|
 [fc]
 [ns]Tanaka[nse]
@@ -378,7 +378,7 @@ You looked like Kishida. Ugh, gross![pcms]
 [ChrSetParts layer=1 chface="take_a_d_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std60|
 [fc]
 [ns]Takeuchi[nse]
@@ -394,7 +394,7 @@ You're such an idiot for catching a cold in the summer.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v85|
 [fc]

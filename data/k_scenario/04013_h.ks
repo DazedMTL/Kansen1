@@ -1,12 +1,12 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04013ã€å¼•ãè£‚ã‹ã‚ŒãŸå„ªã®æ€ã„ã€
-;//BG:ä½“è‚²ç”¨å…·å®¤ï¼šå¤œï¼ç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›å„ªãƒ»ã‚¾ãƒ³ãƒ“æ•°å
+;//¡ËƒuƒƒbƒN04013wˆø‚«—ô‚©‚ê‚½—D‚Ìv‚¢x
+;//BG:‘Ìˆç—p‹ïºF–é^“_“”
+;//“oêl•¨G—DEƒ]ƒ“ƒr”–¼
 
 *04013_H_TOP
-;[debug_win]ãªã†ã€€04013_H[debug_win_end]
+;[debug_win]‚È‚¤@04013_H[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04013 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04013 = 1"]
 
 [eval exp="sf.SRP16 = 1"][if exp="tf.scene_mode == 0"][jump target=*04013][endif]
 ;;[winset]
@@ -15,13 +15,13 @@
 
 *04013
 
-;*SceneSet|ã€å¼•ãè£‚ã‹ã‚ŒãŸå„ªã®æ€ã„ã€
+;*SceneSet|wˆø‚«—ô‚©‚ê‚½—D‚Ìv‚¢x
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 ;//[bgm008]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 
 [se0 storage="se021"]
 
@@ -193,7 +193,7 @@ Nooo!! Please! Stop it!![pcms]
 [ns]Male Student G[nse]
 U-uh, wow... hehe, hehe...[pcms]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 
 [se0 storage="se058"]
 
@@ -216,7 +216,7 @@ U-uh, wow... hehe, hehe...[pcms]
 [ns]Yamagishi[nse]
 Eeek! G-gooooooddddd!![pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [se0 storage="se061"]
 
@@ -296,7 +296,7 @@ and being forced... it's impossible...[pcms]
 Hii! Guu... Ugh, ah... Ii! Hiuhh!!![l][er]
 Please... please stop!! Stop it!![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se1 storage="se059" loop=true]
 
@@ -435,15 +435,15 @@ I-I'm... gonna... gonna... cum...[pcms]
 Uwaaaah! S-Stop! Please! Please...[l][er]
 not inside... Not inside me!! Uaaaahhh...![pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 
 [stop_se0]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se1]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -518,7 +518,7 @@ Just as I felt something entering inside my body, everything[r]in front of me tu
 [fc]
 Did I... die?[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 
 [se0 storage="se059"]
 
@@ -526,10 +526,10 @@ Did I... die?[pcms]
 [fc]
 [vo_ya s="yama0645"]
 [ns]Yamagishi[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
@@ -538,7 +538,7 @@ Did I... die?[pcms]
 [bg storage="bg16c"]
 [trans_c cross time=500]
 
-;//BG:bg016c+ã‚¾ãƒ³ãƒ“ãƒ¼ã‚º
+;//BG:bg016c+ƒ]ƒ“ƒr[ƒY
 
 [ChrSetEx layer=4 chbase="zom_01_b"]
 [ChrSetXY layer=4 x=200 y=0]
@@ -568,7 +568,7 @@ To my horror, I saw a slimy, white slug-like creature[r]crawling all over me.[pc
 [ns]Yamagishi[nse]
 Huh...?[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 
 [se0 storage="se059"]
 
@@ -622,22 +622,22 @@ Hey... touch me... Please touch me?[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 [stopse_all]
-;BGMåœæ­¢
+;BGM’â~
 [fadeoutbgm time=500][wb]
 
 ;//blackout
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn17 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn17 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
@@ -647,13 +647,13 @@ Hey... touch me... Please touch me?[pcms]
 
 ;;;[sysbt_meswin]
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;//[04004]ã¸
+;//[04004]‚Ö
 
 [jump target=*04004_H_TOP storage="04004_H.ks"]
 

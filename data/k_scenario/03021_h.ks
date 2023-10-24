@@ -1,22 +1,22 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯03021ã€ç›®æ’ƒã€â™‚â™‚
-;//â‡’ç«¹å†…è¦–ç‚¹
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN03021w–ÚŒ‚x‰‰
+;//Ë’|“à‹“_
 
-;//BG:æ•™å®¤ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ç«¹å†…ãƒ»ç³
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;//BG:‹³ºF–éF“_“”
+;//“oêl•¨G’|“àE“µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *03021_H_TOP
-;[debug_win]ãªã†ã€€03021_H[debug_win_end]
+;[debug_win]‚È‚¤@03021_H[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_03021 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_03021 = 1"]
 
-;*SceneSet|ã€ç›®æ’ƒã€
+;*SceneSet|w–ÚŒ‚x
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 ;//[bgm007]
 
@@ -59,7 +59,7 @@ I should really do it to the real Hitomi, but I'll spare her[r]today and do it o
 [ns]Takeuchi[nse]
 Haaah, haa...[pcms]
 
-;//SE:æ‰‰ã‚’é–‹ã
+;//SE:”à‚ğŠJ‚­
 
 [se0 storage="se008"]
 
@@ -69,7 +69,7 @@ Haaah, haa...[pcms]
 
 *3354|
 [fc]
-â€¦â€¦â€¦â€¦ã€‚[pcms]
+ccccB[pcms]
 
 *3355|
 [fc]
@@ -85,18 +85,18 @@ When I quietly turned around, Hitomi was standing near the[r]door of the classro
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1306|
 [fc]
 [vo_sa s="sae0091"]
 [ns]Saeki[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *3357|
 [fc]
 [ns]Takeuchi[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *3358|
 [fc]
@@ -111,7 +111,7 @@ What should I do, what should I do, what should I do, what[r]should I do, what s
 [ChrSetParts layer=1 chface="sae_c_b_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1307|
 [fc]
@@ -129,7 +129,7 @@ Huh? Oh, I was just taking a walk...[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1308|
 [fc]
@@ -159,7 +159,7 @@ As expected, my penis is surprisingly big, huh...[pcms]
 [ChrSetParts layer=1 chface="sae_c_c_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1309|
 [fc]
@@ -181,7 +181,7 @@ I tried to hurriedly put away my penis, but because it was[r]still erect and big
 [ChrSetParts layer=1 chface="sae_c_c_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1310|
 [fc]
@@ -195,7 +195,7 @@ Instead of doing that... in front of my desk...[pcms]
 [ns]Takeuchi[nse]
 N-No, that's not it... I mean, my penis suddenly started[r]hurting, so I was just taking a look...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1311|
 [fc]
@@ -216,7 +216,7 @@ What should I do... Hitomi found out that I was secretly[r]taking pictures...[pc
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1312|
 [fc]
@@ -234,7 +234,7 @@ N-No, that's not it... I mean, I took pictures of an erotic[r]book with my digit
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1313|
 [fc]
@@ -253,7 +253,7 @@ I-I really just took photos of a book, I swear![pcms]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1314|
 [fc]
@@ -271,7 +271,7 @@ That's just an excuse![pcms]
 [ChrSetParts layer=1 chface="sae_c_c_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1315|
 [fc]
@@ -293,7 +293,7 @@ My dick is still rock hard, and even though I bent forward[r]and tried to hide i
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1316|
 [fc]
@@ -313,7 +313,7 @@ M-My body has nothing to do with it...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1317|
 [fc]
@@ -342,7 +342,7 @@ Ah...[pcms]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1318|
 [fc]
@@ -351,7 +351,7 @@ Ah...[pcms]
 What is this... What is this...[l][er]
 What is this?![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1319|
 [fc]
@@ -382,7 +382,7 @@ It might break...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1320|
 [fc]
@@ -395,7 +395,7 @@ Unbelievable...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1321|
 [fc]
@@ -410,7 +410,7 @@ Hey!! Stop it!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:ãƒ‡ã‚¸ã‚«ãƒ¡ã‚’åºŠã«å©ãã¤ã‘ã‚‹éŸ³
+;//SE:ƒfƒWƒJƒ‚ğ°‚É’@‚«‚Â‚¯‚é‰¹
 
 [se0 storage="se040"]
 
@@ -445,7 +445,7 @@ What's with this guy... What is he doing...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1322|
 [fc]
@@ -464,7 +464,7 @@ You've been mocking me so much...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1323|
 [fc]
@@ -476,7 +476,7 @@ obscene thing is treasure? You're saying such foolish[r]things![pcms]
 *3390|
 [fc]
 [ns]Takeuchi[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *3391|
 [fc]
@@ -495,7 +495,7 @@ Because he's weak-willed, he can't do anything...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1324|
 [fc]
@@ -511,7 +511,7 @@ Always, always, you're making a fool out of me...[l][er]
 You just want to get close to Taiji, right...?[l][er]
 You're just using me as a stepping stone...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1325|
 [fc]
@@ -527,7 +527,7 @@ Aaahhhhhh!!!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1326|
 [fc]
@@ -535,13 +535,13 @@ Aaahhhhhh!!!![pcms]
 [ns]Saeki[nse]
 Kyaaaahhh!![pcms]
 
-;//SE:ã‚¬ã‚¿ã‚¬ã‚¿
+;//SE:ƒKƒ^ƒKƒ^
 
 [se0 storage="se024"]
 
 [quake_bg xy m]
 
-;//[03022]ã¸
+;//[03022]‚Ö
 [jump target=*03022_H_TOP storage="03022_H.ks"]
 
 

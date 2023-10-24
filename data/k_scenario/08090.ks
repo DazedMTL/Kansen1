@@ -1,18 +1,18 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08090ã€ç•°å¸¸è¡Œå‹•ã€
-;//BG;ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
-;//BG:æ˜‡é™å£å‰å»Šä¸‹ï¼šå¤œï¼›æ¶ˆç¯
-;//BG;ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
-;//BG:ç†ç§‘è·å“¡å®¤ï¼šå¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»ç«¹å†…
+;//¡ËƒuƒƒbƒN08090wˆÙís“®x
+;//BG;“Áê‹³º˜L‰ºF–éFÁ“”
+;//BG:¸~Œû‘O˜L‰ºF–éGÁ“”
+;//BG;“Áê‹³º˜L‰ºF–éFÁ“”
+;//BG:—‰ÈEˆõºF–éFÁ“”
+;//“oêl•¨FålŒöE’|“à
 
 *08090_TOP
-;[debug_win]ãªã†ã€€08090[debug_win_end]
-;*SceneSet|ã€ç•°å¸¸è¡Œå‹•ã€
+;[debug_win]‚È‚¤@08090[debug_win_end]
+;*SceneSet|wˆÙís“®x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08090 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08090 = 1"]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 [bgm001]
 
 ;//;//BG:bg05d
@@ -23,13 +23,13 @@
 
 ;;;[sysbt_meswin]
 
-;//SE:å»Šä¸‹ã‚’æ­©ã
+;//SE:˜L‰º‚ğ•à‚­
 
 [ChrSetEx layer=1 chbase="take_a_a_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std559|
 [fc]
 [ns]Takeuchi[nse]
@@ -42,7 +42,7 @@ Such a strict teacher, but she's like that!![pcms]
 I'm not so sure... but if that's Shindou-sensei...[l][er]
 She may seem sadistic, but with that, she's actually a[r]masochist!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std560|
 [fc]
 [ns]Takeuchi[nse]
@@ -64,7 +64,7 @@ You seem interested in scat play too, don't you!![pcms]
 [ChrSetParts layer=1 chface="take_a_b_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std561|
 [fc]
 [ns]Takeuchi[nse]
@@ -82,7 +82,7 @@ I see... I thought someone as much of a pervert as you would[r]have gone that fa
 Even though you're a virgin, you have such a wealth of[r]strange knowledge![l][er]
 Haha!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std562|
 [fc]
 [ns]Takeuchi[nse]
@@ -98,7 +98,7 @@ Sorry, sorry!! I'll leave the next one to you!![pcms]
 [ChrSetParts layer=1 chface="take_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std563|
 [fc]
 [ns]Takeuchi[nse]
@@ -133,7 +133,7 @@ Haha!! I'm messed up too!![pcms]
 [ChrSetParts layer=1 chface="take_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std564|
 [fc]
 [ns]Takeuchi[nse]
@@ -164,7 +164,7 @@ He suddenly shouted as if he remembered something.[pcms]
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std565|
 [fc]
 [ns]Takeuchi[nse]
@@ -214,7 +214,7 @@ Isn't it kind of fun?[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std566|
 [fc]
 [ns]Takeuchi[nse]
@@ -226,7 +226,7 @@ It's like laughter is welling up inside me, or rather, it's[r]really fun!![pcms]
 [ns]Kato[nse]
 You too! Could it be... because you think you can have sex[r]with Shindou-sensei!?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std567|
 [fc]
 [ns]Takeuchi[nse]
@@ -249,7 +249,7 @@ Well, whatever!! Maybe it's because I just had sex with a[r]real woman earlier!!
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std568|
 [fc]
 [ns]Takeuchi[nse]
@@ -286,7 +286,7 @@ If I can feel this way and have fun, I want to do it over[r]and over again!![pcm
 
 ;;;[sysbt_meswin]
 
-;ç«‹ã¡
+;—§‚¿
 *std569|
 [fc]
 [ns]Takeuchi[nse]
@@ -302,7 +302,7 @@ What's with the sudden loud voice...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std570|
 [fc]
 [ns]Takeuchi[nse]
@@ -318,7 +318,7 @@ Haha!! That was a loud voice just like Saeki's, huh!?[pcms]
 [ChrSetParts layer=1 chface="take_a_d_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std571|
 [fc]
 [ns]Takeuchi[nse]
@@ -349,7 +349,7 @@ I wonder if the teacher isn't here?[pcms]
 [ChrSetParts layer=1 chface="take_a_d_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std572|
 [fc]
 [ns]Takeuchi[nse]
@@ -369,7 +369,7 @@ But hey, let's go inside!![pcms]
 
 [se0 storage="se008"]
 
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [bg storage="bg18d"]
 [trans_c cross time=500]
 
@@ -401,7 +401,7 @@ Sensei!! Are you not here?![pcms]
 [ChrSetParts layer=1 chface="take_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std573|
 [fc]
 [ns]Takeuchi[nse]
@@ -413,7 +413,7 @@ You don't have to shout so loudly in such a small room...[pcms]
 But you know, they might be hiding, right?[l][er]
 In a place like that, where everyone can see, they might be[r]hiding while crying, you know?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std574|
 [fc]
 [ns]Takeuchi[nse]
@@ -430,7 +430,7 @@ Indeed, there's no one here. And with someone as big as[r]Shindou-sensei, there'
 There's no other choice! Let's search elsewhere...[l][er]
 Huh? What are you doing?[pcms]
 
-;//SE:ã‚¬ã‚¿ã‚¬ã‚¿
+;//SE:ƒKƒ^ƒKƒ^
 [se0 storage="se024"]
 
 *9185|
@@ -443,7 +443,7 @@ I wonder if there's something interesting there...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std575|
 [fc]
 [ns]Takeuchi[nse]
@@ -486,13 +486,13 @@ Aaaaaah!! Thinking is such a pain!![pcms]
 It's fine, it's okay, you can take it with you!![l][er]
 Yeah, that's right, there's no doubt about it!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std576|
 [fc]
 [ns]Takeuchi[nse]
 Yes!! I wanted this!! Just when I thought my old digital[r]camera was gone, a new one came back![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std577|
 [fc]
 [ns]Takeuchi[nse]
@@ -512,7 +512,7 @@ Ah, I got it, I got it... Let's hurry up and go!![pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*08100_TOP storage="08100.ks"]
 
 

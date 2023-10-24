@@ -1,21 +1,21 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0105ã€ä½“è‚²ç”¨å…·å®¤ã®éµå…¥æ‰‹ã€
-;//BG:ä½“è‚²æ•™å“¡å®¤ï¼šå¤œï¼æ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ç”°ä¸­ãƒ»æœ‹ç¾
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN0105w‘Ìˆç—p‹ïº‚ÌŒ®“üèx
+;//BG:‘Ìˆç‹³ˆõºF–é^Á“”
+;//“oêl•¨G“c’†E•ü”ü
 [ns]Tanaka[nse]
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *0105_TOP
-;[debug_win]ãªã†ã€€0105[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0105 = 1"]
+;[debug_win]‚È‚¤@0105[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0105 = 1"]
 
-;*SceneSet|ã€ä½“è‚²ç”¨å…·å®¤ã®éµå…¥æ‰‹ã€
+;*SceneSet|w‘Ìˆç—p‹ïº‚ÌŒ®“üèx
 
 ;//[0105]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 
 ;//[bgm001]
 
@@ -24,7 +24,7 @@
 [bg storage="bg17d"]
 [trans_c cross time=500]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 [se0 storage="se008"]
 
 *974|
@@ -38,7 +38,7 @@ I'm glad Kishida is an idiot.[pcms]
 [ChrSetParts layer=1 chface="tomo_c_a1_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v391|
 [fc]
@@ -57,7 +57,7 @@ Usually, they're idiots. That's why idiots can't close[r]things.[pcms]
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v392|
 [fc]
@@ -74,7 +74,7 @@ By the way, we better find the key quickly and get out of[r]here.[pcms]
 [fc]
 I know where the key is. We were forced to search this room[r]for two hours, after all.[pcms]
 
-;//SE:ã‚«ã‚¿ãƒƒ
+;//SE:ƒJƒ^ƒb
 [se0 storage="se022"]
 
 *978|
@@ -87,7 +87,7 @@ Ah, here it is. Kishida's lecturing actually comes in handy[r]sometimes.[pcms]
 [ChrSetParts layer=1 chface="tomo_c_a1_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v393|
 [fc]
@@ -105,7 +105,7 @@ A-And it was one-on-one too.[pcms]
 [ChrSetParts layer=1 chface="tomo_c_a_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v394|
 [fc]
@@ -125,7 +125,7 @@ Seriously, he can go die for all I care.[pcms]
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v395|
 [fc]
@@ -151,7 +151,7 @@ Tomomin... comfort me more...?[pcms]
 [ChrSetParts layer=1 chface="tomo_c_a1_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v396|
 [fc]
@@ -174,6 +174,6 @@ I took Tomomin's hand and headed towards the gym storage[r]room.[pcms]
 
 ;;;[sysbt_meswin]
 
-;//[0106]ã¸
+;//[0106]‚Ö
 [jump target=*0106_TOP storage="0106.ks"]
 

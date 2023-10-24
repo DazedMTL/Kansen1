@@ -1,16 +1,16 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08100ã€è¨˜æ†¶ã€
-;//BG;ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
-;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»ç«¹å†…
+;//¡ËƒuƒƒbƒN08100w‹L‰¯x
+;//BG;“Áê‹³º˜L‰ºF–éFÁ“”
+;//BG:“n‚è˜L‰ºF–éFÁ“”
+;//“oêl•¨FålŒöE’|“à
 
 *08100_TOP
-;[debug_win]ãªã†ã€€08100[debug_win_end]
-;*SceneSet|ã€è¨˜æ†¶ã€
+;[debug_win]‚È‚¤@08100[debug_win_end]
+;*SceneSet|w‹L‰¯x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08100 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08100 = 1"]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 
 ;//[bgm001]
 
@@ -29,14 +29,14 @@ Shinya's hobby stories are so long...[l][er]
 We could keep talking until the sun rises.[l][er]
 I want to find the teacher quickly...[pcms]
 
-;//SE:å»Šä¸‹ã‚’æ­©ã
+;//SE:˜L‰º‚ğ•à‚­
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std578|
 [fc]
 [ns]Takeuchi[nse]
@@ -52,7 +52,7 @@ Hahaha, my bad!! But more importantly, I wonder where[r]Shindou-sensei went...[p
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std579|
 [fc]
 [ns]Takeuchi[nse]
@@ -75,7 +75,7 @@ But... If she were to come back, I'll have sex with her once[r]again![pcms]
 [ChrSetParts layer=1 chface="take_a_d_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std580|
 [fc]
 [ns]Takeuchi[nse]
@@ -89,7 +89,7 @@ Ah, I'm looking forward to it!![l][er]
 Make sure to capture it properly!![l][er]
 Photographer!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std581|
 [fc]
 [ns]Takeuchi[nse]
@@ -106,7 +106,7 @@ Alright, let's run!! It's a dash!![pcms]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std582|
 [fc]
 [ns]Takeuchi[nse]
@@ -137,7 +137,7 @@ Starting tomorrow, don't eat any meals!![pcms]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std583|
 [fc]
 [ns]Takeuchi[nse]
@@ -178,7 +178,7 @@ Hahaha!! Somehow, my body feels incredibly light![pcms]
 [ChrSetParts layer=1 chface="take_a_d_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std584|
 [fc]
 [ns]Takeuchi[nse]
@@ -218,7 +218,7 @@ I want to have sex already!! I can't hold back!![pcms]
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std585|
 [fc]
 [ns]Takeuchi[nse]
@@ -231,7 +231,7 @@ I hope she's there!![pcms]
 [ns]Kato[nse]
 That's right!! Let's hurry!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std586|
 [fc]
 [ns]Takeuchi[nse]
@@ -249,7 +249,7 @@ Alright!! Let's gooo!![pcms]
 ;	
 ;	[black_toplayer][trans_c cross time=1001][hide_chara_int]
 ;	
-;	;//;//BG:bgç„¡ã—
+;	;//;//BG:bg–³‚µ
 ;	
 ;	[ChrSetEx layer=1 chbase="take_a_d_01"]
 ;	[ChrSetXY layer=1 x=100 y=0]
@@ -261,7 +261,7 @@ Alright!! Let's gooo!![pcms]
 ;	;;;[sysbt_meswin]
 ;	*/
 
-;ç«‹ã¡
+;—§‚¿
 
 *9213|
 [fc]
@@ -285,7 +285,7 @@ Nobody is here... or so it seems...[pcms]
 [ChrSetParts layer=1 chface="take_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std588|
 [fc]
 [ns]Takeuchi[nse]
@@ -302,7 +302,7 @@ The lights are on in the gym instructor's office...[l][er]
 Is Kishida there, I wonder... That's right!![l][er]
 Let's try intimidating Kishida too!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std589|
 [fc]
 [ns]Takeuchi[nse]
@@ -329,7 +329,7 @@ Anything will do!! Let's go! Come on!![pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std590|
 [fc]
 [ns]Takeuchi[nse]
@@ -341,5 +341,5 @@ You're being forceful...[pcms]
 
 
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*08110_H_TOP storage="08110_H.ks"]

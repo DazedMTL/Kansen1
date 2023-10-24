@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02079ã€ç³ã®æ¶™ã€
-;//BG:è¦–è´è¦šå®¤ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»ç«¹å†…ãƒ»ç³
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02079w“µ‚Ì—Üx
+;//BG:‹’®ŠoºF–éF“_“”
+;//“oêl•¨GålŒöE—DEƒŠƒTE’|“àE“µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02079_TOP
-;[debug_win]ãªã†ã€€02079[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02079 = 1"]
+;[debug_win]‚È‚¤@02079[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02079 = 1"]
 
-;*SceneSet|ã€ç³ã®æ¶™ã€
+;*SceneSet|w“µ‚Ì—Üx
 
 ;//[02079]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg015c
 ;//[bg storage="bg15c"]
@@ -31,7 +31,7 @@ Were you scared of the night school to the point of[r]exhaustion?[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v700|
 [fc]
@@ -83,7 +83,7 @@ She glared at me with her usual cold eyes.[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v702|
 [fc]
@@ -91,33 +91,33 @@ She glared at me with her usual cold eyes.[pcms]
 [ns]Saeki[nse]
 Isn't it rude to whisper while looking at someone's face!?[pcms]
 
-;//â€»é¸æŠè‚¢
-;//ãƒ»ãŠã€å¥³å¸å¾©æ´»ã‹ï¼Ÿ;//[02080]ã¸
-;//ãƒ»ã‚´ãƒ¡ãƒ³ã‚´ãƒ¡ãƒ³ã€æ‚ªæ°—ã¯ãªã„ã‚“ã ;//[02081]ã¸
+;//¦‘I‘ğˆ
+;//E‚¨A—’é•œŠˆ‚©H;//[02080]‚Ö
+;//EƒSƒƒ“ƒSƒƒ“Aˆ«‹C‚Í‚È‚¢‚ñ‚¾;//[02081]‚Ö
 
 *sel00
 
 
-*SEL01|å¥³å¸å¾©æ´»ã‹ï¼Ÿï¼ã‚´ãƒ¡ãƒ³ã‚´ãƒ¡ãƒ³
+*SEL01|—’é•œŠˆ‚©H^ƒSƒƒ“ƒSƒƒ“
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'ãŠã€å¥³å¸å¾©æ´»ã‹ï¼Ÿ'"]
-[eval exp="f.seltext04 = 'ã‚´ãƒ¡ãƒ³ã‚´ãƒ¡ãƒ³ã€æ‚ªæ°—ã¯ãªã„ã‚“ã '"]
+[eval exp="f.seltext02 = '‚¨A—’é•œŠˆ‚©H'"]
+[eval exp="f.seltext04 = 'ƒSƒƒ“ƒSƒƒ“Aˆ«‹C‚Í‚È‚¢‚ñ‚¾'"]
 
 
-[if exp="tf.sys_sub == 0 || tf.é¸æŠè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
-	;é¸æŠè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
+[if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
+	;‘I‘ğˆ“à—e‚ğƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[å±¥æ­´å‡ºåŠ›å¾©å¸°]
+[—š—ğo—Í•œ‹A]
 
-;é¸æŠè‚¢ãƒ™ãƒ¼ã‚¹
+;‘I‘ğˆƒx[ƒX
 [selbase]
-;æ–‡å­—ã®å·¦ãƒãƒ¼ã‚¸ãƒ³
+;•¶š‚Ì¶ƒ}[ƒWƒ“
 [eval exp="sf.seltext_x = 250"]
 
 [sel02 target=*sel00_jotei]

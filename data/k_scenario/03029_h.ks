@@ -1,40 +1,40 @@
 
 
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯03029ã€å¥³ç‹è¦šé†’ã€â™‚â™‚
-;//BG:å¥³å­ãƒˆã‚¤ãƒ¬ï¼šå¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ç³ãƒ»åŠç«¯æ„ŸæŸ“ã‚¾ãƒ³ãƒ“Ã—ï¼“
-;//ã€†ç³è¦–ç‚¹
+;//¡ËƒuƒƒbƒN03029w—‰¤ŠoÁx‰‰
+;//BG:—qƒgƒCƒŒF–éFÁ“”
+;//“oêl•¨G“µE”¼’[Š´õƒ]ƒ“ƒr~‚R
+;//Y“µ‹“_
 
 *03029_H_TOP
-;[debug_win]ãªã†ã€€03029_H[debug_win_end]
+;[debug_win]‚È‚¤@03029_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [eval exp="sf.SRP14 = 1"][if exp="tf.scene_mode == 0"][jump target=*03029][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *03029
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_03029 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_03029 = 1"]
 
-;*SceneSet|ã€å¥³ç‹è¦šé†’ã€
+;*SceneSet|w—‰¤ŠoÁx
 
-;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€zapï¼“ï¼ï¼“ã€€è¡¨ç¤º
+;//flag:—Dƒ‹[ƒgƒtƒ[@zap‚RD‚R@•\¦
 
 *scene_start
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 [bgm007]
 
 ;//H_CG:
@@ -93,7 +93,7 @@ I can't help but want to avert my eyes.[pcms]
 But... I can't just leave it like this...[l][er]
 I have to take it out...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
@@ -135,7 +135,7 @@ If not... I might get pregnant...[pcms]
 Ngh... Ahh... Haa... Haa... Come out...[l][er]
 quickly... Haa...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
@@ -193,7 +193,7 @@ are torn... My penis is throbbing so much~...[pcms]
 [ns]Saeki[nse]
 Hii...!![pcms]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 
 [se0 storage="se021"]
 
@@ -210,7 +210,7 @@ Hii...!![pcms]
 
 ;;;[sysbt_meswin]
 
-;//â™ªï¼šBGM002
+;//ôFBGM002
 
 [bgm002]
 
@@ -261,7 +261,7 @@ D-Don't... say... anything... about this...[pcms]
 [ns]Saeki[nse]
 Hah, hah, hiku, hah...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 
 [se0 storage="se059"]
 
@@ -279,7 +279,7 @@ The slimy and repulsive sensation made me want to scream,[r]but my voice wouldn'
 I... I want to... try... your butt...[l][er]
 can I...?[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 
 [se0 storage="se059"]
 
@@ -308,7 +308,7 @@ H-huh, guuuh!! Uwaaahh!![pcms]
 [fc]
 No... not my butt... please stop...!![pcms]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 
 [se0 storage="se058"]
 
@@ -342,7 +342,7 @@ chigauu... kitanaii!! Socchi wa, chigauu!![pcms]
 [fc]
 The sensation of an unfamiliar boy's penis going back and[r]forth inside my stomach, along with an indescribable feeling[r]of discomfort, and the intense pain of my anus tearing,[r]caused my body to stiffen and tense up.[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [se1 storage="se061" loop=true]
 
@@ -434,7 +434,7 @@ it'll break...!! It'll break!![pcms]
 [ns]Male Student D[nse]
 Ahaha, wh-what... will... break...?[pcms]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 
 [overflow_se storage="se058"]
 
@@ -445,7 +445,7 @@ Ahaha, wh-what... will... break...?[pcms]
 
 ;//redflash
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
@@ -819,10 +819,10 @@ right, right... release it... mmm~...[pcms]
 Ahh!! I-I, me!! Please inside me!![l][er]
 Give me a lot, a lot of it!![pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 [stop_se1]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 [overflow_se storage="se062"]
 
 ;;;[sysbt_meswin clear]
@@ -886,11 +886,11 @@ I'm gonna... cum... ah, ah~...[pcms]
 [ns]Saeki[nse]
 Ugh... guh...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -952,7 +952,7 @@ Ahahaha![pcms]
 [ns]Male Student F[nse]
 Ohh, ahhh~...[pcms]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -1091,35 +1091,35 @@ Ahahahahahahahahahahahaha!![pcms]
 
 
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn14 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn14 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
 ;[black_toplayer][trans_c random][hide_chara_int]
 [zapfade]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;//â€»é¸æŠè‚¢ï¼ˆï¼Ÿï¼‰
-;//ãƒ»;//[02091]ã¸
-;//ãƒ»;//[03031]ã¸
+;//¦‘I‘ğˆiHj
+;//E;//[02091]‚Ö
+;//E;//[03031]‚Ö
 
 [jump target=*02091_TOP storage="02091.ks"]
 

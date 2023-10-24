@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02124ã€å±‹ä¸Šã‹ã‚‰è¦‹ãˆã‚‹è¡—ã€
-;//BG:äºŒéšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//BG:å±‹ä¸Šï¼šæ˜¼
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02124w‰®ã‚©‚çŒ©‚¦‚éŠXx
+;//BG:“ñŠK˜L‰ºFƒoƒŠƒP[ƒhF’‹i’©Œ“—pj
+;//BG:‰®ãF’‹
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02124_TOP
-;[debug_win]ãªã†ã€€02124[debug_win_end]
+;[debug_win]‚È‚¤@02124[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02124 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02124 = 1"]
 
-;*SceneSet|ã€å±‹ä¸Šã‹ã‚‰è¦‹ãˆã‚‹è¡—ã€
+;*SceneSet|w‰®ã‚©‚çŒ©‚¦‚éŠXx
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 
 [fadeoutbgm time=500]
 
@@ -23,7 +23,7 @@
 [bg storage="bg22a"]
 [trans_c cross time=500]
 
-;//SE:é¢¨ã®éŸ³
+;//SE:•—‚Ì‰¹
 
 [se0 storage="se019"]
 
@@ -31,7 +31,7 @@
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v948|
 [fc]
@@ -55,7 +55,7 @@ Ah!?[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//â™ªï¼šBGM003
+;//ôFBGM003
 [bgm003]
 
 *2400|
@@ -67,7 +67,7 @@ I approached the fence and looked towards the city, and I[r]could see smoke risi
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v949|
 [fc]
@@ -85,7 +85,7 @@ Are the people causing the riots setting fires[r]indiscriminately...?[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v950|
 [fc]
@@ -119,7 +119,7 @@ We decided to propose that idea to Shindou-sensei, and[r]Yamagishi-san and I lef
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -127,5 +127,5 @@ We decided to propose that idea to Shindou-sensei, and[r]Yamagishi-san and I lef
 
 ;//blackout
 
-;//[02125]ã¸
+;//[02125]‚Ö
 [jump target=*02125_TOP storage="02125.ks"]

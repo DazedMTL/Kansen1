@@ -1,49 +1,49 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02088ã€çµ¶æœ›ã®å§‹ã¾ã‚Šã€â™‚â™‚ã‚µãƒ–ã‚¿ã‚¤å¤‰æ›´
-;//BG:ç„¡ã—
-;//ç™»å ´äººç‰©ï¼šç„¡ã—
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02088wâ–]‚Ìn‚Ü‚èx‰‰ƒTƒuƒ^ƒC•ÏX
+;//BG:–³‚µ
+;//“oêl•¨F–³‚µ
 
-;//â˜…ï¼¨EVENT_009ã€€ã€çµ¶æœ›ã®å§‹ã¾ã‚Šã€
-;//ä½“ä½ï¼šå¥³æ€§ãƒªãƒãƒ¼ã‚¿ãƒ¼ãŒæŠ±ãˆä¸Šã’ã‚‰ã‚Œã¦ã€ï¼’ç©´æŒ¿å…¥
-;//ã€€ã€€ã€€ã‚¾ãƒ³ãƒ“ã®ä¸€äººãŒå¥³æ€§ãƒªãƒãƒ¼ã‚¿ãƒ¼ã‚’èƒŒå¾Œã‹ã‚‰ï¼­å­—é–‹è„šã§æŒã¡ä¸Šã’ã¦ã„ã‚‹ã€‚
-;//ã€€ã€€ã€€ã‚‚ã†ä¸€äººã¯ã€å¥³æ€§ãƒªãƒãƒ¼ã‚¿ãƒ¼ã®æ­£é¢ã‹ã‚‰å¥³æ€§å™¨ã«æŒ¿å…¥
-;//ã€€ã€€ã€€å¥³æ€§ã¯ã€æ³£ã„ã¦ã„ã‚‹ã€‚
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;//š‚gEVENT_009@wâ–]‚Ìn‚Ü‚èx
+;//‘ÌˆÊF—«ƒŠƒ|[ƒ^[‚ª•ø‚¦ã‚°‚ç‚ê‚ÄA‚QŒŠ‘}“ü
+;//@@@ƒ]ƒ“ƒr‚Ìˆêl‚ª—«ƒŠƒ|[ƒ^[‚ğ”wŒã‚©‚ç‚lšŠJ‹r‚Å‚¿ã‚°‚Ä‚¢‚éB
+;//@@@‚à‚¤ˆêl‚ÍA—«ƒŠƒ|[ƒ^[‚Ì³–Ê‚©‚ç—«Ší‚É‘}“ü
+;//@@@—«‚ÍA‹ƒ‚¢‚Ä‚¢‚éB
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02088_H_TOP
-;[debug_win]ãªã†ã€€02088_H[debug_win_end]
+;[debug_win]‚È‚¤@02088_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [eval exp="sf.SRP06 = 1"][if exp="tf.scene_mode == 0"][jump target=*02088][endif]
 ;;[winset]
-;mm ã‚¤ãƒ™ãƒ³ãƒˆã‹ã‚‰ã«ã™ã‚‹
+;mm ƒCƒxƒ“ƒg‚©‚ç‚É‚·‚é
 [jump target=*scene_start]
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
 [bg storage="bg50a"]
 [trans_c cross time=500]
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *02088
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02088 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02088 = 1"]
 
-;*SceneSet|ã€çµ¶æœ›ã®å§‹ã¾ã‚Šã€
+;*SceneSet|wâ–]‚Ìn‚Ü‚èx
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 [bgm009]
-;//BG:è¦ç™ºæ³¨ã€€æ–°å®¿
+;//BG:—v”­’@Vh
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"][jump target=*02088_1][endif]
 
 ;[zapfade]
@@ -86,7 +86,7 @@ The female reporter and her group slowly moved forward,[r]surveying the desolate
 It seems that the rioters who have been witnessed so far[r]include elderly people, young people, and both men and[r]women.[l][er]
 What on earth is happening in this town right now?[pcms]
 
-;//SE:çˆ†éŸ³
+;//SE:”š‰¹
 [se0 storage="se056"]
 
 [bg storage="bg50b"]
@@ -122,7 +122,7 @@ They were the men of the rioters, who were the subjects of[r]their coverage.[pcm
 [ns]Female Reporter[nse]
 Ah...![pcms]
 
-;//SE:ã‚¬ã‚¿ã‚¬ã‚¿
+;//SE:ƒKƒ^ƒKƒ^
 [se0 storage="se024"]
 
 *1788|
@@ -134,7 +134,7 @@ Ah...![pcms]
 [fc]
 Multiple rioters appeared and in an instant, they tore apart[r]the director's body, devouring his flesh, veins, and bones.[pcms]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [se0 storage="se021"]
 
 [flash_re]
@@ -161,7 +161,7 @@ Muku... It's... it's a bother...[pcms]
 The rioter, savoring the torn flesh, slowly chewed with a[r]loud sound and swallowed.[l][er]
 They then once again approached the director and began to[r]tear apart another part of his body.[pcms]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [se0 storage="se021"]
 
 [flash_re]
@@ -223,7 +223,7 @@ C-Could it be... this is...[pcms]
 The woman, who dropped the microphone, stepped back.[l][er]
 However, after taking a few steps forward, her escape route[r]was blocked.[pcms]
 
-;//SE:äººã«ã¶ã¤ã‹ã‚‹
+;//SE:l‚É‚Ô‚Â‚©‚é
 [se0 storage="se025"]
 
 [quake_bg xy m]
@@ -264,13 +264,13 @@ They quickly seized her and tore off her clothes.[pcms]
 [ns]Female Reporter[nse]
 Kyaaa!! Someone! Someone help meee!![pcms]
 
-;//H_CGè¡¨ç¤º
+;//H_CG•\¦
 
 ;;;[sysbt_meswin clear]
 
 *scene_start
 
-;//â™ªï¼šBGM002
+;//ôFBGM002
 [bgm002]
 
 [evcg storage="HEV_009_a"]
@@ -309,7 +309,7 @@ except for the viewers watching on TV...!![pcms]
 [fc]
 The meat rod of the thug, who lifted her up, is being thrust[r]into her unprepared anus.[pcms]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 [se0 storage="se058"]
 
 ;//redflash
@@ -350,7 +350,7 @@ Ouch... it hurts!! Stop... take it out!!![pcms]
 [fc]
 The man, completely ignoring the woman's pleas, had a[r]blissful smile on his face as he forcefully thrust in and[r]out of her anus.[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 [overflow_se storage="se061" loop=true]
 
 *v757|
@@ -411,7 +411,7 @@ The thrusting meat rod was forcefully pushed into the still[r]dry female genital
 
 ;;;[sysbt_meswin]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 [se1 storage="se058"]
 
 ;//redflash
@@ -619,10 +619,10 @@ Ahh... I'm coming... ahh...[pcms]
 I'm... gonna... ahh, gonna... cum...[l][er]
 uhh...[pcms]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 [overflow_se storage="se062"]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 [se1 storage="se062"]
 
 ;//whiteflash
@@ -653,9 +653,9 @@ Ugh, ah, guh... hnnn!![pcms]
 [fc]
 The men, who had reached their limit, with vacant eyes, made[r]their cocks explode deep inside the woman.[pcms]
 
-;//æ¸…æ°´ï¼ ãƒªãƒãƒ¼ã‚¿ãƒ¼â†’ãƒ¬ãƒãƒ¼ã‚¿ãƒ¼
-;//ã—ã‹ã‚‚éŸ³å£°ãªã„ï¼Ÿ
-;//å¥³æ€§ãƒªãƒãƒ¼ã‚¿ãƒ¼
+;//´…—ƒŠƒ|[ƒ^[¨ƒŒƒ|[ƒ^[
+;//‚µ‚©‚à‰¹º‚È‚¢H
+;//—«ƒŠƒ|[ƒ^[
 
 *v776|
 [fc]
@@ -683,7 +683,7 @@ Ugh... ahh...[pcms]
 [fc]
 A tremendous amount of semen, to the point where it seems[r]like their bodies are breaking down, is being poured into[r]the woman's intestines and vagina.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 [se1 storage="se059"]
 
 *v778|
@@ -751,28 +751,28 @@ The live broadcast of the tragedy was interrupted.[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 ;[if exp="tf.scene_mode == 1"][jump target=*02088_2][endif]
 
 
 *02088_2
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn06 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn06 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
@@ -781,9 +781,9 @@ The live broadcast of the tragedy was interrupted.[pcms]
 ;[black_toplayer][trans_c cross time=501][hide_chara_int]
 [zapfade]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;//[02090]ã¸
+;//[02090]‚Ö
 
 [jump target=*02090_TOP storage="02090.ks"]
 

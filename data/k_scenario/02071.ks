@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02071ã€è¦–è´è¦šå®¤ã¸æˆ»ã‚‹äºŒäººã€
-;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02071w‹’®Šoº‚Ö–ß‚é“ñlx
+;//BG:“n‚è˜L‰ºF–éFÁ“”
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02071_TOP
-;[debug_win]ãªã†ã€€02071[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02071 = 1"]
+;[debug_win]‚È‚¤@02071[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02071 = 1"]
 
-;*SceneSet|ã€è¦–è´è¦šå®¤ã¸æˆ»ã‚‹äºŒäººã€
+;*SceneSet|w‹’®Šoº‚Ö–ß‚é“ñlx
 
 ;//[02071]
 
-;//â™ªï¼šBGM004
+;//ôFBGM004
 [bgm005]
 
 ;//BG:bg009e
@@ -26,7 +26,7 @@
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v634|
 [fc]
@@ -56,7 +56,7 @@ Someone might have returned.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v635|
 [fc]
@@ -75,7 +75,7 @@ Yamagishi-san yawned sleepily and looked at her watch.[pcms]
 
 [fadeoutbgm time=500]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v636|
 [fc]
@@ -84,8 +84,8 @@ Yamagishi-san yawned sleepily and looked at her watch.[pcms]
 Wow, it's already this late...[pcms]
 Usually, it's time for me to be sleeping~[l][er]
 
-;//â™ªï¼šBGM004ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
-;//â™ªï¼šBGM010ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM004ƒtƒF[ƒhƒAƒEƒg
+;//ôFBGM010ƒtƒF[ƒhƒCƒ“
 [bgm010]
 
 *1523|
@@ -104,7 +104,7 @@ And they're sexy black ones...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v637|
 [fc]
@@ -117,7 +117,7 @@ Kato-kun, why are you grinning like that?[pcms]
 [ns]Kato[nse]
 Huh? Ah, no, it's nothing.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v638|
 [fc]
@@ -144,7 +144,7 @@ Tch, no! It's just...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v639|
 [fc]
@@ -171,7 +171,7 @@ He's in my class. We made a promise that I'll ride on his[r]bike next time, so I
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v640|
 [fc]
@@ -209,12 +209,12 @@ It's a situation where I can say it if I want to![pcms]
 No, am I going to say it!? Now!?[l][er]
 Eeeeeh!!![pcms]
 
-;//SE:å¿ƒæ‹éŸ³
+;//SE:S”‰¹
 [se0 storage="se003"]
 
 *1538|
 [fc]
-â€¦â€¦â€¦â€¦ã€‚[pcms]
+ccccB[pcms]
 
 *1539|
 [fc]
@@ -226,7 +226,7 @@ Eeeeeh!!![pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v641|
 [fc]
@@ -234,7 +234,7 @@ Eeeeeh!!![pcms]
 [ns]Yamagishi[nse]
 Eh...?[pcms]
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 [fadeoutbgm time=500]
 
 *1540|
@@ -246,7 +246,7 @@ Eh...?[pcms]
 [fc]
 I said that much, and due to the breathlessness caused by[r]the pounding of my heart, as well as the overwhelming[r]smallness of that heart, I collapsed onto both knees.[pcms]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [se0 storage="se021"]
 
 [quake_bg xy m]
@@ -256,7 +256,7 @@ I said that much, and due to the breathlessness caused by[r]the pounding of my h
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v642|
 [fc]
@@ -269,6 +269,6 @@ Kato-kun... Are you okay!?[pcms]
 [wait_c time=500]
 
 
-;//[02072]ã¸
+;//[02072]‚Ö
 [jump target=*02072_TOP storage="02072.ks"]
 

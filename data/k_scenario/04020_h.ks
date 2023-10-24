@@ -1,28 +1,28 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04020ã€Žç™ºç—‡ã—ãŸå„ªã¨ã®åˆä½“é¨“ï¼æ„ŸæŸ“ã€
-;//BG:ä¿å¥å®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04020w”­Ç‚µ‚½—D‚Æ‚Ì‰‘ÌŒ±^Š´õx
+;//BG:•ÛŒ’ŽºF’‹i’©Œ“—pj
+;//“oêl•¨GŽålŒöE—D
 
-;//â˜…ï¼¨EVENT_025
-;//ä½“ä½ï¼šä¸»äººå…¬ã®ä¸Šã«ã‚ã„ã£ã±ã„é–‹è„šã—ãŸå„ªãŒä¹—ã£ã¦ã„ã‚‹
-;//ã€é–‹è„šé¨Žä¹—ä½ã€‚
-;//ã€€ã€€ã€€ä¸ŠåŠèº«ã¯ã‚„ã‚„ä¸»äººå…¬å´ã«å‚¾ã‘ã€ä¸»äººå…¬ã®é¡”ã‚’ä¸¡æ‰‹
-;//ã§æŠ¼ã•ãˆã‚‹ã‚ˆã†ã«ã—ã¦ã„ã‚‹ã€‚
-;//ã€€ã€€ã€€å„ªã®ä¸‹ã«ãªã£ã¦ã„ã‚‹ä¸»äººå…¬ã®è¦–ç‚¹ã€‚
-;//ã€€ã€€ã€€å„ªã®è‚¡é–“ã®ã‚ãŸã‚Šã‚’è¦³ã¦ã„ã‚‹ã€‚
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;//š‚gEVENT_025
+;//‘ÌˆÊFŽålŒö‚Ìã‚É‚ß‚¢‚Á‚Ï‚¢ŠJ‹r‚µ‚½—D‚ªæ‚Á‚Ä‚¢‚é
+;//AŠJ‹r‹RæˆÊB
+;//@@@ã”¼g‚Í‚â‚âŽålŒö‘¤‚ÉŒX‚¯AŽålŒö‚ÌŠç‚ð—¼Žè
+;//‚Å‰Ÿ‚³‚¦‚é‚æ‚¤‚É‚µ‚Ä‚¢‚éB
+;//@@@—D‚Ì‰º‚É‚È‚Á‚Ä‚¢‚éŽålŒö‚ÌŽ‹“_B
+;//@@@—D‚ÌŒÒŠÔ‚Ì‚ ‚½‚è‚ðŠÏ‚Ä‚¢‚éB
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04020_H_TOP
-;[debug_win]ãªã†ã€€04020_H[debug_win_end]
+;[debug_win]‚È‚¤@04020_H[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04020 = 1"]
+;Žg‚Á‚Ä‚È‚¢[eval exp="sf.g_04020 = 1"]
 
-;*SceneSet|ã€Žç™ºç—‡ã—ãŸå„ªã¨ã®åˆä½“é¨“ï¼æ„ŸæŸ“ã€
+;*SceneSet|w”­Ç‚µ‚½—D‚Æ‚Ì‰‘ÌŒ±^Š´õx
 
-;//â™ªï¼šBGM006
+;//ôFBGM006
 
 ;//[bgm006]
 
@@ -37,7 +37,7 @@
 
 ;;;[sysbt_meswin]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 
 [overflow_se storage="se058"]
 
@@ -72,11 +72,11 @@ A long time ago, I read in an erotic book that the vagina of[r]a woman with litt
 [fc]
 Does the fact that I felt it was soft mean that Yamagishi-[r]san is experienced...?[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æžœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹iŽ¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [se1 storage="se061" loop=true]
 
@@ -282,15 +282,15 @@ Release it... a lot![pcms]
 [fc]
 I thrust my hips forward and inserted my penis deep into the[r]woman's pussy, releasing the built-up semen inside.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æžœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹iŽ¼‚Á‚½‰¹j’âŽ~
 
 [stop_se0]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’âŽ~
 
 [stop_se1]
 
-;//SE:å°„ç²¾
+;//SE:ŽË¸
 
 [se0 storage="se062"]
 
@@ -407,6 +407,6 @@ ko, kute, oishi~...[pcms]
 
 [wait_c time=1000]
 
-;//[04022]ã¸
+;//[04022]‚Ö
 [jump target=*04022_H_TOP storage="04022_H.ks"]
 

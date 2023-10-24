@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05020ã€æ€’ã‚‹ç³ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šç‚¹ç¯ï¼šå¤œ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05020w“{‚é“µx
+;//BG:“Áê‹³º˜L‰ºF“_“”F–é
+;//“oêl•¨GålŒöE“µ
 
 *05020_TOP
-;[debug_win]ãªã†ã€€05020[debug_win_end]
-;*SceneSet|ã€æ€’ã‚‹ç³ã€
+;[debug_win]‚È‚¤@05020[debug_win_end]
+;*SceneSet|w“{‚é“µx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05020 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05020 = 1"]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 
 [bgm001]
 
@@ -29,7 +29,7 @@
 ;	;;;[sysbt_meswin]
 ;	*/
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2005|
 [fc]
@@ -42,13 +42,13 @@
 [ns]Kato[nse]
 Hahaha!! Hahahaha!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2006|
 [fc]
 [vo_sa s="sae0300"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4651|
 [fc]
@@ -74,7 +74,7 @@ Her face quickly turned red and stern, and she took a deep[r]breath.[pcms]
 [ChrSetParts layer=1 chface="sae_c_c_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2007|
 [fc]
@@ -83,7 +83,7 @@ Her face quickly turned red and stern, and she took a deep[r]breath.[pcms]
 What on earth are you doing?! Instead of searching for club[r]members, you're acting like a child!![l][er]
 Did you seriously suggest splitting up to search for this?![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2008|
 [fc]
@@ -98,7 +98,7 @@ Are you making fun of me?![pcms]
 [ChrSetParts layer=1 chface="sae_c_c_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2009|
 [fc]
@@ -111,7 +111,7 @@ Couldn't you be a little more considerate?![pcms]
 [fc]
 I couldn't help but laugh again as Saeki's scolding about my[r]mischief gradually turned into grumbling.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2010|
 [fc]
@@ -134,7 +134,7 @@ Saeki, feeling like she had said something unnecessary in[r]response to my words
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2011|
 [fc]
@@ -147,13 +147,13 @@ W-Well, I didn't mean it like that...[pcms]
 [ns]Kato[nse]
 Well, what do you intend to do?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2012|
 [fc]
 [vo_sa s="sae0306"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4659|
 [fc]
@@ -177,7 +177,7 @@ Well, never mind. Then, Saeki, see you later.[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2013|
 [fc]
@@ -200,7 +200,7 @@ Saeki hurriedly stopped me as I tried to walk away while[r]emphasizing the last 
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2014|
 [fc]
@@ -213,7 +213,7 @@ W-Wait! If I leave you alone, you'll definitely start[r]playing around instead o
 [ns]Kato[nse]
 It's okay, I'll search properly.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2015|
 [fc]
@@ -235,7 +235,7 @@ Because it was obvious that I wanted her to come with me[r]because I was scared,
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2016|
 [fc]
@@ -251,10 +251,10 @@ No, it's not like that.[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 ;//blackout
 
-;//[05030]ã¸
+;//[05030]‚Ö
 [jump target=*05030_TOP storage="05030.ks"]

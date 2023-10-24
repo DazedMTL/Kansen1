@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02113ã€è·å“¡å®¤ã¸ã€
-;//BG:è·å“¡å®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»å²¸ç”°ãƒ»ç«¹å†…
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02113wEˆõº‚Öx
+;//BG:EˆõºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DEƒŠƒTEŠİ“cE’|“à
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02113_TOP
-;[debug_win]ãªã†ã€€02113[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02113 = 1"]
+;[debug_win]‚È‚¤@02113[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02113 = 1"]
 
-;*SceneSet|ã€è·å“¡å®¤ã¸ã€
+;*SceneSet|wEˆõº‚Öx
 
 ;//[02113]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 ;//[bgm007]
 ;//BG:bg005a
 [bg storage="bg05a"]
@@ -30,7 +30,7 @@ As we exited, I could see Shindou-sensei and Yamagishi-san[r]standing at the end
 [ChrSetParts layer=1 chface="risa_c_a_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v867|
 [fc]
@@ -47,7 +47,7 @@ Along the way, I glanced back once, but there was no sign of[r]the man who had a
 [bg storage="bg03a"]
 [trans_c cross time=500]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v868|
 [fc]
@@ -65,12 +65,12 @@ Shindou-sensei took out a key from her pocket and led us to[r]the staff room.[pc
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//[02114]ã¸
+;//[02114]‚Ö
 [jump target=*02114_TOP storage="02114.ks"]
 

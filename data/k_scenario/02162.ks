@@ -1,12 +1,12 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02162ã€å¸Œæœ›ã®å¤œæ˜ã‘ã€
-;//BG:å±‹ä¸Šï¼šæœ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;//¡ËƒuƒƒbƒN02162wŠó–]‚Ì–é–¾‚¯x
+;//BG:‰®ãF’©
+;//“oêl•¨GålŒöE—D
 
 *02162_TOP
-;[debug_win]ãªã†ã€€02162[debug_win_end]
+;[debug_win]‚È‚¤@02162[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02162 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02162 = 1"]
 
 [eval exp="f.prologue_route = 0"]
 [eval exp="f.yuu_route1 = 0"]
@@ -19,11 +19,11 @@
 [eval exp="f.hitomi_route4 = 0"]
 [eval exp="f.infection_route = 0"]
 
-;*SceneSet|ã€å¸Œæœ›ã®å¤œæ˜ã‘ã€
+;*SceneSet|wŠó–]‚Ì–é–¾‚¯x
 
-;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€PARTï¼“ã€€è¡¨ç¤º
+;//flag:—Dƒ‹[ƒgƒtƒ[@PART‚R@•\¦
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 
 [bgm001]
 
@@ -32,7 +32,7 @@
 [bg storage="bg22d"]
 [trans_c cross time=1000]
 
-;//SE:é³¥ã®ã•ãˆãšã‚Š
+;//SE:’¹‚Ì‚³‚¦‚¸‚è
 
 [se0 storage="se047"]
 
@@ -54,7 +54,7 @@ I felt like yesterday's events might have all been a dream,[r]so I quickly turne
 [fc]
 [vo_ya s="yama0433"]
 [ns]Yamagishi[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *2935|
 [fc]
@@ -97,7 +97,7 @@ Ah... sorry, did I wake you up?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1147|
 [fc]
@@ -114,7 +114,7 @@ I fell in love with her again when I heard Yamagishi-san's[r]good morning that s
 [ns]Kato[nse]
 Good morning. Yamagishi-san, are you perhaps not a morning[r]person?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1148|
 [fc]
@@ -142,7 +142,7 @@ Could it be that the rescue team that arrived is[r]extinguishing the fires...?[p
 [ns]Kato[nse]
 Ah...[pcms]
 
-;//SE:ãƒ˜ãƒªã‚³ãƒ—ã‚¿ãƒ¼ã®éŸ³ã€€é ã„
+;//SE:ƒwƒŠƒRƒvƒ^[‚Ì‰¹@‰“‚¢
 
 [se0 storage="se033"]
 
@@ -159,7 +159,7 @@ Yamagishi-san... Yamagishi-san![pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1149|
 [fc]
@@ -177,7 +177,7 @@ It's the rescue team! The rescue team has arrived in the[r]town!![pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1150|
 [fc]
@@ -194,7 +194,7 @@ Yamagishi-san, who ran up to me, completely woke up when she[r]saw the helicopte
 [ns]Kato[nse]
 They'll be here soon. We're saved, all of us![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1151|
 [fc]
@@ -212,7 +212,7 @@ Ah, let's go home together![pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1152|
 [fc]
@@ -229,5 +229,5 @@ Hahaha![pcms]
 [fc]
 We embraced each other, jumping for joy, celebrating the[r]fact that help had arrived.[pcms]
 
-;//[02163]ã¸
+;//[02163]‚Ö
 [jump target=*02163_TOP storage="02163.ks"]

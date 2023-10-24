@@ -1,16 +1,16 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05210ã€å†å£è«–ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼›ç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»ãƒªã‚µãƒ»åŠ è—¤
+;//¡ËƒuƒƒbƒN05210wÄŒû˜_x
+;//BG:“Áê‹³º˜L‰ºF–éG“_“”
+;//“oêl•¨GålŒöE“µEƒŠƒTE‰Á“¡
 
 *05210_TOP
-;[debug_win]ãªã†ã€€05210[debug_win_end]
-;*SceneSet|ã€å†å£è«–ã€
+;[debug_win]‚È‚¤@05210[debug_win_end]
+;*SceneSet|wÄŒû˜_x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05210 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05210 = 1"]
 
 ;	/*
-;	;//â™ªï¼šBGM001
+;	;//ôFBGM001
 ;	[bgm001]
 ;	*/
 
@@ -18,23 +18,23 @@
 [bg storage="bg05c"]
 [trans_c cross time=500]
 
-;//SE:å»Šä¸‹ã‚’æ­©ã
+;//SE:˜L‰º‚ğ•à‚­
 
 
 ;;;[sysbt_meswin]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2116|
 [fc]
 [vo_sa s="sae0405"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5052|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5053|
 [fc]
@@ -70,7 +70,7 @@ You're doing it again...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2118|
 [fc]
@@ -91,7 +91,7 @@ Eventually, it seemed like they noticed us walking ahead,[r]and the voices of th
 *5060|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5061|
 [fc]
@@ -107,10 +107,10 @@ Saeki seemed to think the same way, and without saying[r]anything, she walked al
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 ;//blackout
 
-;//[05220]ã¸
+;//[05220]‚Ö
 [jump target=*05220_TOP storage="05220.ks"]

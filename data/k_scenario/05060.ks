@@ -1,17 +1,17 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05060ã€æ•™å®¤ã€
-;//BG:äºŒéšæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šï¼ç‚¹ç¯
-;//BG:æ•™å®¤ï¼šå¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05060w‹³ºx
+;//BG:“ñŠK‹³º˜L‰ºF–éF^“_“”
+;//BG:‹³ºF–éFÁ“”
+;//“oêl•¨GålŒöE“µ
 
 *05060_TOP
-;[debug_win]ãªã†ã€€05060[debug_win_end]
-;*SceneSet|ã€æ•™å®¤ã€
+;[debug_win]‚È‚¤@05060[debug_win_end]
+;*SceneSet|w‹³ºx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05060 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05060 = 1"]
 
 ;	/*
-;	;//â™ªï¼šBGM001
+;	;//ôFBGM001
 ;	[bgm001]
 ;	*/
 
@@ -49,7 +49,7 @@ I went around and checked each classroom from Class A to[r]Class H, but there wa
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2033|
 [fc]
@@ -98,7 +98,7 @@ When I entered Yamagishi-san's class, I was so moved that I[r]thought, Is this r
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2034|
 [fc]
@@ -126,7 +126,7 @@ Hey, what's wrong with you? Since we met downstairs, you've[r]been saying strang
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2035|
 [fc]
@@ -147,7 +147,7 @@ Saeki's sulking profile somehow looks strangely cute.[pcms]
 Maybe it's because we were holding hands until just now...[l][er]
 I feel conscious of something...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2036|
 [fc]
@@ -172,5 +172,5 @@ Ah, yeah, that's right.[pcms]
 
 ;//blackout
 
-;//[05070]ã¸
+;//[05070]‚Ö
 [jump target=*05070_TOP storage="05070.ks"]

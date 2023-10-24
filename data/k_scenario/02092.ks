@@ -1,34 +1,34 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02092ã€å‘¼ã³å‡ºã—ã€
-;//BG:è¦–è´è¦šå®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…ãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02092wŒÄ‚Ño‚µx
+;//BG:‹’®ŠoºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DE’|“àEƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02092_TOP
-;[debug_win]ãªã†ã€€02092[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02092 = 1"]
+;[debug_win]‚È‚¤@02092[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02092 = 1"]
 
-;*SceneSet|ã€å‘¼ã³å‡ºã—ã€
+;*SceneSet|wŒÄ‚Ño‚µx
 
 ;//[02092]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg015c
 ;//[bg storage="bg15c"]
 ;//[trans_c cross time=500]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 [se0 storage="se008"]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v782|
 [fc]
@@ -53,7 +53,7 @@ Shindou-sensei, who was looking around the room, let out a[r]sigh with a trouble
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v783|
 [fc]
@@ -79,7 +79,7 @@ But Shindou-sensei, unlike me who was optimistic, responded[r]calmly with a ster
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v784|
 [fc]
@@ -123,7 +123,7 @@ Good morning, Yamagishi-san.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v786|
 [fc]
@@ -139,7 +139,7 @@ It's heartwarming to see Yamagishi-san, still half-asleep,[r]unable to speak pro
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v787|
 [fc]
@@ -147,7 +147,7 @@ It's heartwarming to see Yamagishi-san, still half-asleep,[r]unable to speak pro
 [ns]Shindou[nse]
 Takeuchi-kun, it's about time to wake up![pcms]
 
-;//SE:ã‚¬ã‚¿ãƒƒ
+;//SE:ƒKƒ^ƒb
 [se0 storage="se023"]
 
 *1882|
@@ -159,7 +159,7 @@ Startled by Shindou-sensei's loud voice, Shinya, who had[r]just woken up, is now
 [ns]Kato[nse]
 Hehe... Idiot...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v788|
 [fc]
@@ -172,7 +172,7 @@ Has anyone among you seen them?[pcms]
 [fc]
 The two who were asked by Shindou-sensei's question nodded[r]absentmindedly.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v789|
 [fc]
@@ -193,7 +193,7 @@ Yamagishi-san looked around the room and opened her mouth in[r]response to my wo
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v790|
 [fc]
@@ -214,7 +214,7 @@ It's true... Then, did she walk home?[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v791|
 [fc]
@@ -224,7 +224,7 @@ No, she might have gone home on the earliest morning bus...[l][er]
 I can't imagine her walking home no matter what.[l][er]
 But still...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v792|
 [fc]
@@ -247,7 +247,7 @@ Shindou-sensei glanced at the clock and looked around at our[r]faces.[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v793|
 [fc]
@@ -270,7 +270,7 @@ I can't sympathize with those two this time.[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v794|
 [fc]
@@ -305,12 +305,12 @@ While we were preparing to leave, Shindou-sensei wrote that[r]on the blackboard 
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//[02093]ã¸
+;//[02093]‚Ö
 [jump target=*02093_TOP storage="02093.ks"]
 

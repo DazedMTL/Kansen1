@@ -1,33 +1,33 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05650ã€é£Ÿæ–™ã€
-;//BG:åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
-;//BG:å­¦é£Ÿï¼šæœï¼›æ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬
+;//¡ËƒuƒƒbƒN05650wH—¿x
+;//BG:’n‰ººFÁ“”
+;//BG:ŠwHF’©GÁ“”
+;//“oêl•¨GålŒö
 
 *05650_H_TOP
-;[debug_win]ãªã†ã€€05650_H[debug_win_end]
+;[debug_win]‚È‚¤@05650_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 ;[if exp="tf.scene_mode == 0"][jump target=*05650][endif]
 ;[winset]
 
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *05650
 
-;*SceneSet|ã€é£Ÿæ–™ã€
+;*SceneSet|wH—¿x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05650 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05650 = 1"]
 ;	/*
-;	;//â™ªï¼šBGM007
+;	;//ôFBGM007
 ;	[bgm007]
 ;	;	
 ;	;//;//BG:bg23b
@@ -81,7 +81,7 @@ There was a bag with only two slices of bread left.[pcms]
 [ns]Kato[nse]
 I wish there was some jam or something...[pcms]
 
-;//SE:ã‚¬ã‚¿ãƒƒ
+;//SE:ƒKƒ^ƒb
 
 [se0 storage="se023"]
 
@@ -92,18 +92,18 @@ As I reached out to grab the bag and tried to return to the[r]basement, in that 
 *6001|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *6002|
 [fc]
 They're here again... Those guys...[l][er]
 Damn it... If I move now, they'll notice...[pcms]
 
-;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM007ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
-;//[05660]ã¸
+;//[05660]‚Ö
 [jump target=*05660_H_TOP storage="05660_H.ks"]
 
 

@@ -1,26 +1,26 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02104ã€å§‹ã¾ã‚Šã€
-;//BG:è¦–è´è¦šå®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…ãƒ»å²¸ç”°ãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02104wn‚Ü‚èx
+;//BG:‹’®ŠoºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DE’|“àEŠİ“cEƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02104_TOP
-;[debug_win]ãªã†ã€€02104[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02104 = 1"]
+;[debug_win]‚È‚¤@02104[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02104 = 1"]
 
-;*SceneSet|ã€å§‹ã¾ã‚Šã€
+;*SceneSet|wn‚Ü‚èx
 
 ;//[02104]
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 ;//[bgm009]
 ;//BG:bg015a
 [bg storage="bg15a"]
 [trans_c cross time=500]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
@@ -28,7 +28,7 @@
 [ChrSetParts layer=1 chface="risa_c_a_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v843|
 [fc]
@@ -48,7 +48,7 @@ Kishida is just repeating rough breaths without saying[r]anything, whether she's
 [fc]
 Shindou-sensei knelt beside Kishida and began touching her[r]body.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v844|
 [fc]
@@ -71,7 +71,7 @@ When Kishida let out a muffled moan as Shindou-sensei's hand[r]reached her chest
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v845|
 [fc]
@@ -84,7 +84,7 @@ This... might be a broken rib.[pcms]
 [ns]Kato[nse]
 Is it serious?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v846|
 [fc]
@@ -96,7 +96,7 @@ If we leave her alone like this without doing anything, she[r]will have difficul
 [fc]
 When Shindou-sensei said, She will die, Yamagishi-san, who[r]was nearby, took a deep breath.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v847|
 [fc]
@@ -111,7 +111,7 @@ Kato-kun, please bring hydrogen peroxide, gauze, and a[r]triangular bandage from
 What about the key? Is it open?[l][er]
 The infirmary.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v848|
 [fc]
@@ -129,7 +129,7 @@ Understood. Hey, Shinya, come with me too.[pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std231|
 [fc]
 [ns]Takeuchi[nse]
@@ -144,12 +144,12 @@ I ran to the infirmary with Shinya.[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//[02105]ã¸
+;//[02105]‚Ö
 [jump target=*02105_TOP storage="02105.ks"]
 

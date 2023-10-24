@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02167ã€ä¼ãˆã‚‰ã‚Œç„¡ã‹ã£ãŸè¨€è‘‰ã€
-;//BG:å±‹ä¸Šï¼šæœ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…ãƒ»ç³ãƒ»ç”°ä¸­ãƒ»æœ‹ç¾ãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02167w“`‚¦‚ç‚ê–³‚©‚Á‚½Œ¾—tx
+;//BG:‰®ãF’©
+;//“oêl•¨GålŒöE—DE’|“àE“µE“c’†E•ü”üEƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02167_TOP
-;[debug_win]ãªã†ã€€02167[debug_win_end]
+;[debug_win]‚È‚¤@02167[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02167 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02167 = 1"]
 
-;*SceneSet|ã€ä¼ãˆã‚‰ã‚Œç„¡ã‹ã£ãŸè¨€è‘‰ã€
+;*SceneSet|w“`‚¦‚ç‚ê–³‚©‚Á‚½Œ¾—tx
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 ;//[bgm008]
 
@@ -23,9 +23,9 @@
 [bg storage="bg22d"]
 [trans_c cross time=500]
 
-;//SE:ãƒ˜ãƒªã‚³ãƒ—ã‚¿ãƒ¼ï¼ˆãƒ›ãƒãƒªãƒ³ã‚°ï¼‰
+;//SE:ƒwƒŠƒRƒvƒ^[iƒzƒoƒŠƒ“ƒOj
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1168|
 [fc]
@@ -73,7 +73,7 @@ But I can't move my legs...[pcms]
 [ns]Yamagishi[nse]
 Please... quickly...![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 [ChrSetEx layer=1 chbase="sae_d_d_12"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
@@ -132,7 +132,7 @@ Let go... of me...!![pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1174|
 [fc]
@@ -156,7 +156,7 @@ Let go!! Yuu is waiting!! ... Damn it![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 
 [se0 storage="se026"]
 
@@ -173,7 +173,7 @@ Let go!! Yuu is waiting!! ... Damn it![pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1175|
 [fc]
@@ -205,7 +205,7 @@ Shit...! It's hard to climb...[l][er]
 Who the hell decided to use a ladder...?[l][er]
 They should have made it stairs, idiots...[pcms]
 
-;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM008ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
@@ -219,5 +219,5 @@ They should have made it stairs, idiots...[pcms]
 
 ;//blackout
 
-;//[02168]ã¸
+;//[02168]‚Ö
 [jump target=*02168_TOP storage="02168.ks"]

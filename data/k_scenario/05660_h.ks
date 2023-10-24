@@ -1,19 +1,19 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05660ã€ç‹‚æ°—å§«ã€
-;//;//BG:å­¦é£Ÿï¼šæœï¼›æ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»æ„ŸæŸ“å„ª
+;//¡ËƒuƒƒbƒN05660w‹¶‹C•Px
+;//;//BG:ŠwHF’©GÁ“”
+;//“oêl•¨GålŒöEŠ´õ—D
 
 *05660_H_TOP
-;[debug_win]ãªã†ã€€05660_H[debug_win_end]
+;[debug_win]‚È‚¤@05660_H[debug_win_end]
 
 *05660
 
-;*SceneSet|ã€ç‹‚æ°—å§«ã€
+;*SceneSet|w‹¶‹C•Px
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05660 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05660 = 1"]
 
-;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼‘ï¼‘ã€€è¡¨ç¤º
-;//â™ªï¼šBGMç„¡ã—
+;//flag:“µƒ‹[ƒgƒtƒ[@‚P‚P@•\¦
+;//ôFBGM–³‚µ
 [fadeoutbgm time=500]
 
 ;//BG:bg14a
@@ -35,7 +35,7 @@ Who... is it? Is someone... here~...[pcms]
 [fc]
 Yamagishi-san...? Is it Yamagishi-san...?[pcms]
 
-;//â™ªï¼šBGM004ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM004ƒtƒF[ƒhƒCƒ“
 
 [bgm004]
 ;	/*
@@ -44,7 +44,7 @@ Yamagishi-san...? Is it Yamagishi-san...?[pcms]
 ;	[ChrSetParts layer=1 chface="yuu_c_a_02"]
 ;	[trans_c cross time=150]
 ;	*/
-;ç«‹ã¡
+;—§‚¿
 
 *v2483|
 [fc]
@@ -80,7 +80,7 @@ It's Igarashi-san... The way Igarashi-san spoke when I saw[r]her in the corridor
 ;	[ChrSetParts layer=1 chface="yuu_c_a_02"]
 ;	[trans_c cross time=150]
 ;	*/
-;ç«‹ã¡
+;—§‚¿
 
 *v2484|
 [fc]
@@ -95,7 +95,7 @@ Everyone, let's go back to the house and have some fun~...[pcms]
 *6014|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *6015|
 [fc]
@@ -125,37 +125,37 @@ Yamagishi-san...[pcms]
 
 [if exp="tf.scene_mode == 1"][jump target=*SEL00_YES][endif]
 
-;//â€»é¸æŠè‚¢
-;//ãƒ»ã„ã‚„â€¦â€¦ã“ã®ã¾ã¾ã‚„ã‚Šéã”ãã†;//[05670]ã¸
-;//ãƒ»å£°ã‚’ã‹ã‘ã¦ã€ç¢ºèªã—ã¦ã¿ã‚ˆã†â€¦â€¦;//[07300]ã¸
+;//¦‘I‘ğˆ
+;//E‚¢‚âcc‚±‚Ì‚Ü‚Ü‚â‚è‰ß‚²‚»‚¤;//[05670]‚Ö
+;//Eº‚ğ‚©‚¯‚ÄAŠm”F‚µ‚Ä‚İ‚æ‚¤cc;//[07300]‚Ö
 
 ;//<SltDel ALL>
-;//<SltAdd 0ã‚«ãƒ³ãƒSEL00_05660_NOã‚«ãƒ³ãƒã„ã‚„â€¦â€¦ã“ã®ã¾ã¾ã‚„ã‚Šéã”ãã†>
-;//<SltAdd 1ã‚«ãƒ³ãƒSEL00_05660_YESã‚«ãƒ³ãƒå£°ã‚’ã‹ã‘ã¦ã€ç¢ºèªã—ã¦ã¿ã‚ˆã†â€¦â€¦>
+;//<SltAdd 0ƒJƒ“ƒ}SEL00_05660_NOƒJƒ“ƒ}‚¢‚âcc‚±‚Ì‚Ü‚Ü‚â‚è‰ß‚²‚»‚¤>
+;//<SltAdd 1ƒJƒ“ƒ}SEL00_05660_YESƒJƒ“ƒ}º‚ğ‚©‚¯‚ÄAŠm”F‚µ‚Ä‚İ‚æ‚¤cc>
 ;//<SltRun>
 
 
 
-*SEL01|ã„ã‚„â€¦â€¦ã“ã®ã¾ã¾ã‚„ã‚Šéã”ãã†ï¼å£°ã‚’ã‹ã‘ã¦ã€ç¢ºèªã—ã¦ã¿ã‚ˆã†
+*SEL01|‚¢‚âcc‚±‚Ì‚Ü‚Ü‚â‚è‰ß‚²‚»‚¤^º‚ğ‚©‚¯‚ÄAŠm”F‚µ‚Ä‚İ‚æ‚¤
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'ã„ã‚„â€¦â€¦ã“ã®ã¾ã¾ã‚„ã‚Šéã”ãã†'"]
-[eval exp="f.seltext04 = 'å£°ã‚’ã‹ã‘ã¦ã€ç¢ºèªã—ã¦ã¿ã‚ˆã†â€¦â€¦'"]
+[eval exp="f.seltext02 = '‚¢‚âcc‚±‚Ì‚Ü‚Ü‚â‚è‰ß‚²‚»‚¤'"]
+[eval exp="f.seltext04 = 'º‚ğ‚©‚¯‚ÄAŠm”F‚µ‚Ä‚İ‚æ‚¤cc'"]
 
 
-[if exp="tf.sys_sub == 0 || tf.é¸æŠè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
-	;é¸æŠè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
+[if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
+	;‘I‘ğˆ“à—e‚ğƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[å±¥æ­´å‡ºåŠ›å¾©å¸°]
+[—š—ğo—Í•œ‹A]
 
-;é¸æŠè‚¢ãƒ™ãƒ¼ã‚¹
+;‘I‘ğˆƒx[ƒX
 [selbase]
-;æ–‡å­—ã®å·¦ãƒãƒ¼ã‚¸ãƒ³
+;•¶š‚Ì¶ƒ}[ƒWƒ“
 [eval exp="sf.seltext_x = 200"]
 
 [sel02 target=*SEL00_iya]

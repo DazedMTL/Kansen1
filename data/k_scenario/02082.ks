@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02082ã€é‘‘è³ä¼šã®çµ‚ã‚ã‚Šã€
-;//BG:è¦–è´è¦šå®¤ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»ç«¹å†…ãƒ»ç³
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02082wŠÓÜ‰ï‚ÌI‚í‚èx
+;//BG:‹’®ŠoºF–éF“_“”
+;//“oêl•¨GålŒöE—DEƒŠƒTE’|“àE“µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02082_TOP
-;[debug_win]ãªã†ã€€02082[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02082 = 1"]
+;[debug_win]‚È‚¤@02082[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02082 = 1"]
 
-;*SceneSet|ã€é‘‘è³ä¼šã®çµ‚ã‚ã‚Šã€
+;*SceneSet|wŠÓÜ‰ï‚ÌI‚í‚èx
 
 ;//[02082]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg015c
 ;//[bg storage="bg15c"]
@@ -24,7 +24,7 @@
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v706|
 [fc]
@@ -60,7 +60,7 @@ As I hesitated on whether or not to talk about Yuuji and the[r]others, Shindou-s
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v707|
 [fc]
@@ -69,14 +69,14 @@ As I hesitated on whether or not to talk about Yuuji and the[r]others, Shindou-s
 I'll take a look around the school for a bit.[l][er]
 You all stay here for a while.[pcms]
 
-;//SE:ã‹ãŸã£
+;//SE:‚©‚½‚Á
 [se0 storage="se022"]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v708|
 [fc]
@@ -93,7 +93,7 @@ Saeki was about to say something to Shindou-sensei as she[r]tried to leave the a
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v709|
 [fc]
@@ -105,7 +105,7 @@ Hey, Takeuchi-kun, you really didn't see Tomo-chan and the[r]others?[pcms]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std204|
 [fc]
 [ns]Takeuchi[nse]
@@ -130,6 +130,6 @@ If we're going to report about Yuuji and the others to the[r]teacher, it should 
 [fc]
 I left the audiovisual room and followed Shindou-sensei.[pcms]
 
-;//[02083]ã¸
+;//[02083]‚Ö
 [jump target=*02083_TOP storage="02083.ks"]
 

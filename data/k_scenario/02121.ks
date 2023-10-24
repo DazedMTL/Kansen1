@@ -1,26 +1,26 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02121ã€å®‰å¿ƒã€
-;//BG:äºŒéšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»å²¸ç”°ãƒ»ç«¹å†…
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02121wˆÀSx
+;//BG:“ñŠK˜L‰ºFƒoƒŠƒP[ƒhF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DEƒŠƒTEŠİ“cE’|“à
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02121_TOP
-;[debug_win]ãªã†ã€€02121[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02121 = 1"]
+;[debug_win]‚È‚¤@02121[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02121 = 1"]
 
-;*SceneSet|ã€å®‰å¿ƒã€
+;*SceneSet|wˆÀSx
 
 ;//[02121]
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 [fadeoutbgm time=500]
 ;//BG:bg007a
 ;g[bg storage="bg07a"]
 ;g[trans_c cross time=500]
 
-;//SE:æ‰‰ã‚’å©ãéŸ³ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:”à‚ğ’@‚­‰¹@ƒ‹[ƒv
 [overflow_se storage="se027" loop=true]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
@@ -28,7 +28,7 @@
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std269|
 [fc]
 [ns]Takeuchi[nse]
@@ -38,20 +38,20 @@ Uwah![pcms]
 [fc]
 Shinya takes a few steps back at the sound of the fire door[r]being forcefully knocked.[pcms]
 
-;//â™ªï¼šBGM009ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM009ƒtƒF[ƒhƒCƒ“
 [bgm009]
 
 [ChrSetEx layer=1 chbase="yuu_c_c_09"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v930|
 [fc]
 [vo_ya s="yama0292"]
 [ns]Yamagishi[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *2353|
 [fc]
@@ -72,7 +72,7 @@ Yamagishi-san was hiding behind my back, staring at the fire[r]door.[pcms]
 [fc]
 Despite saying that in the heat of the moment, it seemed[r]that Yamagishi-san, who was trembling in fear, didn't seem[r]to hear it.[pcms]
 
-;//SE:æ‰‰ã‚’å©ãéŸ³ã€€åœæ­¢
+;//SE:”à‚ğ’@‚­‰¹@’â~
 
 [stop_overflow_se]
 
@@ -85,9 +85,9 @@ Did they disappear...?[pcms]
 [fc]
 It seemed like the person who was behind the fire door had[r]disappeared without opening it.[pcms]
 
-;//â™ªï¼šBGM009ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM009ƒtƒF[ƒhƒAƒEƒg
 [fadeoutbgm time=500]
 [wait_c time=500]
 
-;//[02122]ã¸
+;//[02122]‚Ö
 [jump target=*02122_TOP storage="02122.ks"]

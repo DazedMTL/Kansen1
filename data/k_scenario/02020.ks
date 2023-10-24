@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02020ã€ç§»å‹•ã€
-;//BG:ç‰¹æ®Šæ•™å®¤ï¼šå»Šä¸‹ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02020wˆÚ“®x
+;//BG:“Áê‹³ºF˜L‰ºF–éF“_“”
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02020_TOP
-;[debug_win]ãªã†ã€€02020[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02020 = 1"]
+;[debug_win]‚È‚¤@02020[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02020 = 1"]
 
-;*SceneSet|ã€ç§»å‹•ã€
+;*SceneSet|wˆÚ“®x
 
 ;//[02020]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg008c
 [bg storage="bg08c"]
@@ -32,7 +32,7 @@ Let's leave the upper part to Saeki and figure out where we[r]should search...[p
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v573|
 [fc]
@@ -63,8 +63,8 @@ Why? Because I think those two are probably having sex[r]somewhere in the school
 [fc]
 Just a little while ago, Yuuji was bragging to me and[r]Shinya, saying 'The other day, I did it with Tomomi on top[r]of the rooftop water tower'...[pcms]
 
-;//[02030]ã¸
+;//[02030]‚Ö
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*02030_TOP storage="02030.ks"]
 

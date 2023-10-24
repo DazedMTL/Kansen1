@@ -1,16 +1,16 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05230ã€å¤¢ã€
-;//BG:è¦–è´è¦šå®¤ï¼šå¤œï¼›ç‚¹ç¯
-;//BG:è¦–è´è¦šå®¤ï¼šå¤œï¼›æ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»åŠ è—¤
+;//¡ËƒuƒƒbƒN05230w–²x
+;//BG:‹’®ŠoºF–éG“_“”
+;//BG:‹’®ŠoºF–éGÁ“”
+;//“oêl•¨GålŒöE“µE‰Á“¡
 
 *05230_TOP
-;[debug_win]ãªã†ã€€05230[debug_win_end]
-;*SceneSet|ã€å¤¢ã€
+;[debug_win]‚È‚¤@05230[debug_win_end]
+;*SceneSet|w–²x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05230 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05230 = 1"]
 ;	/*
-;	;//â™ªï¼šBGM001
+;	;//ôFBGM001
 ;	[bgm001]
 ;	
 ;	;//BG:bg15c
@@ -36,7 +36,7 @@ I see, do your best...[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2130|
 [fc]
@@ -53,8 +53,8 @@ I see, do your best...[pcms]
 [bg storage="bg15d"]
 [trans_c cross time=500]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
-;//éŸ³ï¼ˆé ã–ã‹ã‚‹ï¼‰
+;//SE:˜L‰º‚ğ‘–‚é
+;//‰¹i‰“‚´‚©‚éj
 [se0 storage="se005"]
 
 
@@ -82,12 +82,12 @@ I sat on a nearby chair, closed my eyes, and thought that[r]when I woke up, I wo
 
 *5119|
 [fc]
-â€¦â€¦â€¦â€¦ã€‚ â€¦â€¦â€¦ã€‚[pcms]
+ccccB cccB[pcms]
 
 [fadeoutbgm time=500]
 
 ;//blackout
-;//â€»é•·ã‚ã«ã€‚
+;//¦’·‚ß‚ÉB
 
 ;;;[sysbt_meswin clear]
 
@@ -104,7 +104,7 @@ I sat on a nearby chair, closed my eyes, and thought that[r]when I woke up, I wo
 
 ;;;[sysbt_meswin]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2131|
 [fc]
@@ -117,7 +117,7 @@ Kato-kun...[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=300]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2132|
 [fc]
@@ -134,7 +134,7 @@ Whose voice is this...? Yamagishi-san and Saeki...?[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=300]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2133|
 [fc]
@@ -147,7 +147,7 @@ Answer me...[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=300]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2134|
 [fc]
@@ -164,7 +164,7 @@ Answer me...? What...?[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=300]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2135|
 [fc]
@@ -177,7 +177,7 @@ Hitomi-san and I...[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=300]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2136|
 [fc]
@@ -190,7 +190,7 @@ Yamagishi-san and I...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=300]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2137|
 [fc]
@@ -203,7 +203,7 @@ Which one do you like...?[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=300]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2138|
 [fc]
@@ -226,9 +226,9 @@ Yamagishi-san, who I just happen to like...[pcms]
 [fc]
 I... I...[pcms]
 
-;//â€»æ¡ä»¶åˆ†å²
-;//ãƒ»flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒoff;//[05231]ã¸
-;//ãƒ»flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒon;//[06100]ã¸
+;//¦ğŒ•ªŠò
+;//Eflag:“µƒ‹[ƒgƒNƒŠƒA@‚ªoff;//[05231]‚Ö
+;//Eflag:“µƒ‹[ƒgƒNƒŠƒA@‚ªon;//[06100]‚Ö
 
 [if exp="sf.g_hitomi_clear==1"]
 	;[jump target=*SEL00_05230_END]

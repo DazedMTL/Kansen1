@@ -1,16 +1,16 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08252ã€åç©«2ã€
-;//BG:æ˜‡é™å£å‰å»Šä¸‹ï¼šæœ
-;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»ç«¹å†…ãƒ»å„ªãƒ»ç³
+;//¡ËƒuƒƒbƒN08252wûŠn2x
+;//BG:¸~Œû‘O˜L‰ºF’©
+;//“oêl•¨FålŒöE’|“àE—DE“µ
 
 *08252_TOP
-;[debug_win]ãªã†ã€€08252[debug_win_end]
+;[debug_win]‚È‚¤@08252[debug_win_end]
 
-;*SceneSet|ã€åç©«ï¼’ã€
+;*SceneSet|wûŠn‚Qx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08252 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08252 = 1"]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 [bgm007]
 
@@ -48,7 +48,7 @@ Why is she naked?[pcms]
 [ChrSetParts layer=1 chface="yuu_a_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3767|
 [fc]
@@ -62,7 +62,7 @@ Why is she naked?[pcms]
 [fc]
 Did the girl just say that and then collapse...?[pcms]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [se0 storage="se021"]
 [quake_bg xy m]
 
@@ -171,7 +171,7 @@ Uhh...[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [se0 storage="se021"]
 [quake_bg xy m]
 
@@ -226,7 +226,7 @@ Let's follow them...[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[08260ã¸]
+;//[08260‚Ö]
 [jump target=*08260_H_TOP storage="08260_H.ks"]
 
 

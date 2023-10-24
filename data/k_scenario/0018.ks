@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0018ã€èª°ã®ä½œã£ãŸæ–™ç†ãŒä¸€ç•ªç¾å‘³ã—ã„ã‹ï¼Ÿã€€å„ªï¼†ç³ã®happyã€€endingã‚’è¿ãˆã¦ã„ã‚‹ã‹ã€>
-;//â˜…flag å„ªãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒã©ã¡ã‚‰ã‚‚O
-;//Nã€€ã®æ™‚ã«ã®ã¿open
-;//BG:å­¦åœ’å†…å­¦é£Ÿï¼šå¤•æ–¹
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN0018w’N‚Ìì‚Á‚½—¿—‚ªˆê”Ô”ü–¡‚µ‚¢‚©H@—D•“µ‚Ìhappy@ending‚ğŒ}‚¦‚Ä‚¢‚é‚©x>
+;//šflag —Dƒ‹[ƒgƒNƒŠƒA@“µƒ‹[ƒgƒNƒŠƒA@‚ª‚Ç‚¿‚ç‚àO
+;//N@‚Ì‚É‚Ì‚İopen
+;//BG:Šw‰€“àŠwHF—[•û
+;//“oêl•¨GålŒöE—DE“µE•ü”üE’|“àE“c’†
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *0018_TOP
-;[debug_win]ãªã†ã€€0018[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0018 = 1"]
+;[debug_win]‚È‚¤@0018[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0018 = 1"]
 
-;*SceneSet|ã€èª°ã®ä½œã£ãŸæ–™ç†ãŒä¸€ç•ªç¾å‘³ã—ã„ã‹ï¼Ÿã€
+;*SceneSet|w’N‚Ìì‚Á‚½—¿—‚ªˆê”Ô”ü–¡‚µ‚¢‚©Hx
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 [bgm001]
 ;//BG:bg014a
 [bg storage="bg14b"]
@@ -25,7 +25,7 @@
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v198|
 [fc]
@@ -76,7 +76,7 @@ It's such a waste not to eat such delicious-looking food...[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std101|
 [fc]
 [ns]Tanaka[nse]
@@ -97,7 +97,7 @@ What's with that expression?[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std102|
 [fc]
 [ns]Tanaka[nse]
@@ -113,7 +113,7 @@ The appetizing smell wafting from the Karaage made my mouth[r]water, and I swall
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v199|
 [fc]
@@ -129,7 +129,7 @@ Saeki's angry voice caught Shinya's attention, and he was[r]about to bring the d
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std103|
 [fc]
 [ns]Takeuchi[nse]
@@ -140,7 +140,7 @@ Ah...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v200|
 [fc]
@@ -159,7 +159,7 @@ Yamagishi-san chuckled softly as she looked at Shinya, who[r]was pouting after b
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v201|
 [fc]
@@ -172,7 +172,7 @@ Hehe... pouting like a little child who got scolded by their[r]mother.[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std104|
 [fc]
 [ns]Tanaka[nse]
@@ -182,7 +182,7 @@ Shinya, the only thing you have going for you is your[r]appearance.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v202|
 [fc]
@@ -195,7 +195,7 @@ Tanaka-senpai, it's mealtime, you know...?[pcms]
 [ChrSetParts layer=1 chface="tanaka_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std105|
 [fc]
 [ns]Tanaka[nse]
@@ -210,7 +210,7 @@ Yuuji straightened his posture, shrugging his shoulders at[r]Saeki's icy gaze.[p
 [ChrSetParts layer=1 chface="tanaka_a_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std106|
 [fc]
 [ns]Tanaka[nse]
@@ -219,58 +219,58 @@ Itadakimasu![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//å±±å²¸ãƒ»ä½ä¼¯ãƒ»äº”ååµéŸ³å£°ã‚¢ãƒª
+;//RŠİE²”ŒEŒÜ\—’‰¹ºƒAƒŠ
 ;*|
 ;[vo_ya s="yama0055"]
 ;*|
 ;[vo_sa s="sae0049"]
 ;*|
 ;[vo_to s="tomo0032"]
-;mm åˆã‚ã›ãƒœã‚¤ã‚¹ã‚ã¨ã§1ãƒ•ã‚¡ã‚¤ãƒ«ã«
+;mm ‡‚í‚¹ƒ{ƒCƒX‚ ‚Æ‚Å1ƒtƒ@ƒCƒ‹‚É
 *v203|
 [fc]
 [vo_mob s="mix0002"]
-;[vo_to s="tomo0032"]â€»Grepç”¨ãƒ€ãƒŸãƒ¼
+;[vo_to s="tomo0032"]¦Grep—pƒ_ƒ~[
 [ns]Everyone[nse]
 Itadakimasu![pcms]
 
-;//SE:é£Ÿäº‹ã®ã‚«ãƒãƒ£ã‚«ãƒãƒ£éŸ³
+;//SE:H–‚ÌƒJƒ`ƒƒƒJƒ`ƒƒ‰¹
 [se0 storage="se014"]
 
 *490|
 [fc]
 Now then... which one should I start with?[pcms]
 
-;//[é¸æŠè‚¢]
-;//A:ã‚‚ã¡ã‚ã‚“å±±å²¸ã•ã‚“ãŒä½œã£ãŸæ–™ç†ã ;//[0020]
-;//B:ä½ä¼¯ã®æ–™ç†ã¯ã€è¦‹ã¦ãã‚Œã¯æ‚ªã„ã‘ã©ã‚¦ãƒãã†ã ãª;//[0023]
-;//C:ç¥äºŒãŒå‹§ã‚ã‚‹ã‹ã‚‰ã€äº”ååµã‚µãƒ³ã®ã‚’é£Ÿã¹ã¦ã¿ã‚ˆã†;//[08000]
+;//[‘I‘ğˆ]
+;//A:‚à‚¿‚ë‚ñRŠİ‚³‚ñ‚ªì‚Á‚½—¿—‚¾;//[0020]
+;//B:²”Œ‚Ì—¿—‚ÍAŒ©‚Ä‚­‚ê‚Íˆ«‚¢‚¯‚ÇƒEƒ}‚»‚¤‚¾‚È;//[0023]
+;//C:—S“ñ‚ªŠ©‚ß‚é‚©‚çAŒÜ\—’ƒTƒ“‚Ì‚ğH‚×‚Ä‚İ‚æ‚¤;//[08000]
 
 *SEL00_0018
 
 
 
-*SEL01|ã‚‚ã¡ã‚ã‚“å±±å²¸ã•ã‚“â€¦â€¦ï¼ä½ä¼¯ã®æ–™ç†ã¯â€¦â€¦ï¼ç¥äºŒãŒå‹§ã‚ã‚‹ã‹ã‚‰â€¦â€¦
+*SEL01|‚à‚¿‚ë‚ñRŠİ‚³‚ñcc^²”Œ‚Ì—¿—‚Ícc^—S“ñ‚ªŠ©‚ß‚é‚©‚çcc
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext01 = 'ã‚‚ã¡ã‚ã‚“å±±å²¸ã•ã‚“ãŒä½œã£ãŸæ–™ç†ã '"]
-[eval exp="f.seltext03 = 'ä½ä¼¯ã®æ–™ç†ã¯ã€è¦‹ã¦ãã‚Œã¯æ‚ªã„ã‘ã©ã‚¦ãƒãã†ã ãª'"]
-[eval exp="f.seltext05 = 'ç¥äºŒãŒå‹§ã‚ã‚‹ã‹ã‚‰ã€äº”ååµã‚µãƒ³ã®ã‚’é£Ÿã¹ã¦ã¿ã‚ˆã†'"]
+[eval exp="f.seltext01 = '‚à‚¿‚ë‚ñRŠİ‚³‚ñ‚ªì‚Á‚½—¿—‚¾'"]
+[eval exp="f.seltext03 = '²”Œ‚Ì—¿—‚ÍAŒ©‚Ä‚­‚ê‚Íˆ«‚¢‚¯‚ÇƒEƒ}‚»‚¤‚¾‚È'"]
+[eval exp="f.seltext05 = '—S“ñ‚ªŠ©‚ß‚é‚©‚çAŒÜ\—’ƒTƒ“‚Ì‚ğH‚×‚Ä‚İ‚æ‚¤'"]
 
-[if exp="tf.sys_sub == 0 || tf.é¸æŠè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
-	;é¸æŠè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
+[if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
+	;‘I‘ğˆ“à—e‚ğƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
 	[sel_hisout txt="&f.seltext01"][hr]
 	[sel_hisout txt="&f.seltext03"][hr]
 	[sel_hisout txt="&f.seltext05"][hr]
 [endif]
 [hr]
 
-[å±¥æ­´å‡ºåŠ›å¾©å¸°]
+[—š—ğo—Í•œ‹A]
 
-;é¸æŠè‚¢ãƒ™ãƒ¼ã‚¹
+;‘I‘ğˆƒx[ƒX
 [selbase]
-;æ–‡å­—ã®å·¦ãƒãƒ¼ã‚¸ãƒ³
+;•¶š‚Ì¶ƒ}[ƒWƒ“
 [eval exp="sf.seltext_x = 150"]
 
 [sel01 target=*SEL00_yuu]

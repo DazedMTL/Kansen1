@@ -1,16 +1,16 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08230ã€åç©«ã€
-;//BG:æ˜‡é™å£å‰å»Šä¸‹ï¼šæœ
-;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»ç«¹å†…ãƒ»å„ªãƒ»ç³
+;//¡ËƒuƒƒbƒN08230wûŠnx
+;//BG:¸~Œû‘O˜L‰ºF’©
+;//“oêl•¨FålŒöE’|“àE—DE“µ
 
 *08230_TOP
-;[debug_win]ãªã†ã€€08230[debug_win_end]
+;[debug_win]‚È‚¤@08230[debug_win_end]
 
-;*SceneSet|ã€åç©«ã€
+;*SceneSet|wûŠnx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08230 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08230 = 1"]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 ;//[bgm007]
 
@@ -34,7 +34,7 @@ but surprisingly, they're heavy...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std666|
 [fc]
 [ns]Takeuchi[nse]
@@ -44,7 +44,7 @@ Ah, right at the perfect timing...[pcms]
 [fc]
 ...? Who is this? I feel like I've seen this person[r]before...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std667|
 [fc]
 [ns]Takeuchi[nse]
@@ -60,7 +60,7 @@ Rikiya...? That's not it either...[pcms]
 [ns]Kato[nse]
 Ah... That, that... Sh-Shinya...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std668|
 [fc]
 [ns]Takeuchi[nse]
@@ -73,7 +73,7 @@ What are you doing?[pcms]
 [ns]Kato[nse]
 No... Did someone say something about gathering...?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std669|
 [fc]
 [ns]Takeuchi[nse]
@@ -84,7 +84,7 @@ but, what was it again...[pcms]
 [fc]
 What was it again...? Why are we gathering again??[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std670|
 [fc]
 [ns]Takeuchi[nse]
@@ -101,11 +101,11 @@ But who was she again...?[pcms]
 ;	[trans_c cross time=150]
 ;	*/
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [se0 storage="se021"]
 [quake_bg xy m]
 
-;//H:CGã€€ON
+;//H:CG@ON
 
 ;;;[sysbt_meswin clear]
 
@@ -143,7 +143,7 @@ Sh-Shinya... When he roughly threw away the girl he brought,[r]she fell on top o
 ;;;[sysbt_meswin clear]
 
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [se0 storage="se021"]
 [quake_bg xy m]
 
@@ -289,5 +289,5 @@ Let's go together...[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[08260ã¸]
+;//[08260‚Ö]
 [jump target=*08260_H_TOP storage="08260_H.ks"]

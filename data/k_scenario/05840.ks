@@ -1,16 +1,16 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05840ã€å±‹ä¸Šã¸ã€
-;//BG:è·å“¡å®¤ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼›å¤•æ–¹ï¼›æ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»ã‚¾ãƒ³ãƒ“
+;//¡ËƒuƒƒbƒN05840w‰®ã‚Öx
+;//BG:EˆõºF—[•ûFÁ“”
+;//BG:“Áê‹³º˜L‰ºG—[•ûGÁ“”
+;//“oêl•¨GålŒöE“µEƒ]ƒ“ƒr
 
 *05840_TOP
-;[debug_win]ãªã†ã€€05840[debug_win_end]
-;*SceneSet|ã€å±‹ä¸Šã¸ã€
+;[debug_win]‚È‚¤@05840[debug_win_end]
+;*SceneSet|w‰®ã‚Öx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05840 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05840 = 1"]
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 [bgm008]
 
@@ -27,7 +27,7 @@
 [fc]
 After waiting for Saeki, who went to get the radio thinking[r]it might be useful for something, I ran to the stairs of the[r]regular classroom building.[pcms]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 
 [se0 storage="se005"]
 
@@ -40,7 +40,7 @@ After waiting for Saeki, who went to get the radio thinking[r]it might be useful
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std379|
 [fc]
 [ns]Male Student H[nse]
@@ -56,7 +56,7 @@ P-pussy~...[pcms]
 [ChrSetParts layer=1 chface="sae_c_d_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2572|
 [fc]
@@ -66,7 +66,7 @@ Kyaaahhh!!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [quake_bg xy m]
 [se0 storage="se021"]
 
@@ -79,7 +79,7 @@ Suddenly, Saeki was startled by a man who appeared from[r]around the corner and 
 [ns]Kato[nse]
 Saeki!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 [ChrSetEx layer=5 chbase="zom_01_b"][ChrSetXY layer=5 x=200 y=0]
 [ChrSetEx layer=3 chbase="zom_05_b"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=4 chbase="zom_04_b"][ChrSetXY layer=4 x=400 y=0]
@@ -118,7 +118,7 @@ I-hi, hi, hii... pussy~...[pcms]
 ;	[trans_c cross time=150]
 ;	*/
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2573|
 [fc]
@@ -174,7 +174,7 @@ Make sure you don't bump into them.[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2574|
 [fc]
@@ -187,7 +187,7 @@ E-Even so...[pcms]
 [ns]Kato[nse]
 Don't worry, trust me. Okay?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2575|
 [fc]
@@ -206,7 +206,7 @@ Let's go... Run, Saeki!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 
 [se0 storage="se005"]
 
@@ -233,5 +233,5 @@ Saeki and I exchanged glances, shared a smile, and I[r]sprinted up the stairs to
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05850]ã¸
+;//[05850]‚Ö
 [jump target=*05850_TOP storage="05850.ks"]

@@ -1,31 +1,31 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02171ã€å€‹å®¤ã§å„ªã¨ï¼’ã€
-;//BG:ç—…å®¤ï¼šå¤•æ–¹
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02171wŒÂº‚Å—D‚Æ‚Qx
+;//BG:•aºF—[•û
+;//“oêl•¨GålŒöE—D
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02171_H_TOP
-;[debug_win]ãªã†ã€€02171_H[debug_win_end]
+;[debug_win]‚È‚¤@02171_H[debug_win_end]
 
 [eval exp="sf.SRP10 = 1"][if exp="tf.scene_mode == 0"][jump target=*02171_H][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 *02171_H
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02171 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02171 = 1"]
 
-;*SceneSet|ã€å€‹å®¤ã§å„ªã¨ï¼’ã€
+;*SceneSet|wŒÂº‚Å—D‚Æ‚Qx
 
 
 ;;;[sysbt_meswin clear]
 
 *scene_start
 
-;//â™ªï¼šBGM011
+;//ôFBGM011
 [bgm011]
 
 ;//H_CG:
@@ -38,15 +38,15 @@
 *3092|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1202|
 [fc]
 [vo_ya s="yama0483"]
 [ns]Yamagishi[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *3093|
 [fc]
@@ -134,7 +134,7 @@ Of course...[pcms]
 [fc]
 [vo_ya s="yama0489"]
 [ns]Yamagishi[nse]
-Hehe... Taishi...  kun[pcms]
+Hehe... Taishi...   kun[pcms]
 
 *3101|
 [fc]
@@ -306,7 +306,7 @@ Taishi-kun... Make me... all yours, Taishi-kun...[pcms]
 [fc]
 Yuu said that and took off all the clothes she was wearing.[pcms]
 
-;//[02172]ã¸
+;//[02172]‚Ö
 [jump target=*02172_H_TOP storage="02172_H.ks"]
 
 

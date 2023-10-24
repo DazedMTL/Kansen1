@@ -1,16 +1,16 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05170ã€ä½“è‚²é¤¨ã¸ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05170w‘ÌˆçŠÙ‚Öx
+;//BG:“Áê‹³º˜L‰ºF–éF“_“”
+;//“oêl•¨GålŒöE“µ
 
 *05170_TOP
-;[debug_win]ãªã†ã€€05170[debug_win_end]
-;*SceneSet|ã€ä½“è‚²é¤¨ã¸ã€
+;[debug_win]‚È‚¤@05170[debug_win_end]
+;*SceneSet|w‘ÌˆçŠÙ‚Öx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05170 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05170 = 1"]
 
 ;	/*
-;	;//â™ªï¼šBGM001
+;	;//ôFBGM001
 ;	[bgm001]
 ;	
 ;	;//BG:bg004c
@@ -45,7 +45,7 @@ What are you so angry about? That guy...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2094|
 [fc]
@@ -63,7 +63,7 @@ Is that so...? I don't think he's as bad as Saeki says he[r]is.[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2095|
 [fc]
@@ -110,7 +110,7 @@ Surprisingly, it seems that Yamagishi-san has already found[r]them, and the thre
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2096|
 [fc]
@@ -132,10 +132,10 @@ Saeki, who was still sulking with an unhappy expression,[r]accompanied me as we 
 
 [se1 storage="se067"]
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 ;//blackout
 
-;//[05180]ã¸
+;//[05180]‚Ö
 [jump target=*05180_TOP storage="05180.ks"]

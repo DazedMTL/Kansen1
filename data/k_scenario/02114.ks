@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02114ã€é›»è©±ã€
-;//BG:è·å“¡å®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»å²¸ç”°ãƒ»ç«¹å†…
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02114w“d˜bx
+;//BG:EˆõºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—DEƒŠƒTEŠİ“cE’|“à
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02114_TOP
-;[debug_win]ãªã†ã€€02114[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02114 = 1"]
+;[debug_win]‚È‚¤@02114[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02114 = 1"]
 
-;*SceneSet|ã€é›»è©±ã€
+;*SceneSet|w“d˜bx
 
 ;//[02114]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 ;//[bgm007]
 ;//BG:bg012a
 [bg storage="bg12a"]
@@ -33,7 +33,7 @@ I called out to Shindou-sensei, who was watching Kishida's[r]condition.[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v869|
 [fc]
@@ -47,7 +47,7 @@ I wonder if we can call the police or an ambulance for[r]Yamagishi-san.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v870|
 [fc]
@@ -59,7 +59,7 @@ Yes...[pcms]
 [fc]
 Yamagishi-san, who still seemed to be in shock, picked up[r]the receiver of the nearby telephone.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v871|
 [fc]
@@ -73,7 +73,7 @@ Ah, that... that...?[pcms]
 [fc]
 Yamagishi-san, who had been cutting and dialing in front of[r]the phone for a while, took her ear off the receiver halfway[r]through.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v872|
 [fc]
@@ -86,7 +86,7 @@ What... is this...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v873|
 [fc]
@@ -98,7 +98,7 @@ What... is this...[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v874|
 [fc]
@@ -118,7 +118,7 @@ Yamagishi-san nodded and put the receiver back to her ear.[pcms]
 [ns]Kato[nse]
 !![pcms]
 
-;//SE:æ‰‰ã‚’å©ãéŸ³ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:”à‚ğ’@‚­‰¹@ƒ‹[ƒv
 [overflow_se storage="se027" loop=true]
 
 *2193|
@@ -147,9 +147,9 @@ If that was just a radio program, considering the time that[r]has passed, it sho
 To confirm whether my thoughts were correct or not, I picked[r]up the radio and turned it on.[pcms]
 [l][er]
 
-;//SE:æ‰‰ã‚’å©ãéŸ³ã€€ãƒ«ãƒ¼ãƒ—ã€€åœæ­¢
+;//SE:”à‚ğ’@‚­‰¹@ƒ‹[ƒv@’â~
 
 [stop_overflow_se]
 
-;//[02115]ã¸
+;//[02115]‚Ö
 [jump target=*02115_TOP storage="02115.ks"]

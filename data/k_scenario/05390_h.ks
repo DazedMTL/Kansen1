@@ -1,14 +1,14 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05390ã€å¤±ç¦ã€
-;//;//BG:ç„¡ã—
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»æ„ŸæŸ“å²¸ç”°
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN05390w¸‹Öx
+;//;//BG:–³‚µ
+;//“oêl•¨GålŒöE“µEŠ´õŠİ“c
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *05390_H_TOP
-;[debug_win]ãªã†ã€€05390_H[debug_win_end]
+;[debug_win]‚È‚¤@05390_H[debug_win_end]
 
 [eval exp="sf.SRP24 = 1"][if exp="tf.scene_mode == 0"][jump target=*05390_H][endif]
 ;;[winset]
@@ -16,11 +16,11 @@
 [jump target=*scene_start]
 
 *05390_H
-;*SceneSet|ã€å¤±ç¦ã€
+;*SceneSet|w¸‹Öx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05390 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05390 = 1"]
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 [bgm008]
 
@@ -101,7 +101,7 @@ You...!![pcms]
 [fc]
 I quickly grabbed the toilet brush that was leaning against[r]the wall and struck Kishida's head with full force.[pcms]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
 
 ;//redflash
@@ -123,7 +123,7 @@ Ugh... ugh, ughh... ohh...[pcms]
 [ns]Kato[nse]
 Ugh!! You!! You bastard!! Die!![pcms]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
 
 ;//redflash
@@ -140,7 +140,7 @@ Ugh!! You!! You bastard!! Die!![pcms]
 [ns]Kishida[nse]
 Ugh...[pcms]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
 
 ;//redflash
@@ -152,7 +152,7 @@ Ugh...[pcms]
 
 [quake_bg xy m]
 
-;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM008ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
@@ -169,7 +169,7 @@ Haa...! Haa...! You bastard...!![pcms]
 [fc]
 I threw the toilet brush onto the floor and crouched down[r]next to Saeki.[pcms]
 
-;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM007ƒtƒF[ƒhƒCƒ“
 [bgm007]
 
 *5426|
@@ -181,7 +181,7 @@ Are you okay...?[pcms]
 [fc]
 [vo_sa s="sae0485"]
 [ns]Saeki[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *5427|
 [fc]
@@ -268,7 +268,7 @@ Before I could finish speaking, Saeki grabbed my arm and[r]started walking.[pcms
 
 ;//blackout
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -284,7 +284,7 @@ Hey, Saeki! Where are you going?![pcms]
 [fc]
 [vo_sa s="sae0490"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5440|
 [fc]
@@ -298,35 +298,35 @@ I was dragged out of the bathroom by Saeki, who continued[r]walking without list
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn25 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn25 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>[freeimage layer=0 page=fore][freeimage layer=0 page=back]
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;BGMåœæ­¢
+;BGM’â~
 [fadeoutbgm time=500]
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 [wait_c time=1000]
 
-;//[05400]ã¸
+;//[05400]‚Ö
 [jump target=*05400_TOP storage="05400.ks"]
 

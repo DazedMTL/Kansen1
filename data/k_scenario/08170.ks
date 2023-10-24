@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08170ã€éŠã³ã€
-;//;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»ç«¹å†…ãƒ»ãƒªã‚µãƒ»æœ‹ç¾
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN08170w—V‚Ñx
+;//;//BG:“n‚è˜L‰ºF–éFÁ“”
+;//“oêl•¨FålŒöE’|“àEƒŠƒTE•ü”ü
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *08170_TOP
-;[debug_win]ãªã†ã€€08170[debug_win_end]
+;[debug_win]‚È‚¤@08170[debug_win_end]
 
-;*SceneSet|ã€éŠã³ã€
+;*SceneSet|w—V‚Ñx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08170 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08170 = 1"]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 
 ;//[bgm001]
 
@@ -44,13 +44,13 @@ Hey... We were supposed to go look for Yamagishi-san and the[r]others, right?[pc
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3601|
 [fc]
 [vo_to s="tomo0428"]
 [ns]Igarashi[nse]
-Ah! That's right!! ... Let's meet up with Yuu-chan and the[r]others...  and let's play together~[pcms]
+Ah! That's right!! ... Let's meet up with Yuu-chan and the[r]others...   and let's play together~[pcms]
 
 *9811|
 [fc]
@@ -62,7 +62,7 @@ What are we going to play...? Yuu-chan?[pcms]
 Well, I guess it's fine... Let's go play...[l][er]
 Play... play...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3602|
 [fc]
@@ -74,7 +74,7 @@ I'm going to look for Yuu-chan~[l][er]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std663|
 [fc]
 [ns]Takeuchi[nse]
@@ -86,32 +86,32 @@ Hmm, what should I do...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//â€»é¸æŠè‚¢
-;//ãƒ»äº”ååµã‚µãƒ³ã¨ã€å±±å²¸ã•ã‚“ã‚’æœã—ã«è¡Œã“ã†;//[08180]ã¸
-;//ãƒ»çœŸä¹Ÿã«ä»˜ã„ã¦è¡Œã“ã†;//[08230]ã¸
+;//¦‘I‘ğˆ
+;//EŒÜ\—’ƒTƒ“‚ÆARŠİ‚³‚ñ‚ğ‘{‚µ‚És‚±‚¤;//[08180]‚Ö
+;//E^–ç‚É•t‚¢‚Äs‚±‚¤;//[08230]‚Ö
 
 
 
-*SEL01|äº”ååµã‚µãƒ³ã¨ã€å±±å²¸ã•ã‚“ã‚’æœã—ã«è¡Œã“ã†ï¼çœŸä¹Ÿã«ä»˜ã„ã¦è¡Œã“ã†
+*SEL01|ŒÜ\—’ƒTƒ“‚ÆARŠİ‚³‚ñ‚ğ‘{‚µ‚És‚±‚¤^^–ç‚É•t‚¢‚Äs‚±‚¤
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'äº”ååµã‚µãƒ³ã¨ã€å±±å²¸ã•ã‚“ã‚’æœã—ã«è¡Œã“ã†'"]
-[eval exp="f.seltext04 = 'çœŸä¹Ÿã«ä»˜ã„ã¦è¡Œã“ã†'"]
+[eval exp="f.seltext02 = 'ŒÜ\—’ƒTƒ“‚ÆARŠİ‚³‚ñ‚ğ‘{‚µ‚És‚±‚¤'"]
+[eval exp="f.seltext04 = '^–ç‚É•t‚¢‚Äs‚±‚¤'"]
 
 
-[if exp="tf.sys_sub == 0 || tf.é¸æŠè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
-	;é¸æŠè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
+[if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
+	;‘I‘ğˆ“à—e‚ğƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[å±¥æ­´å‡ºåŠ›å¾©å¸°]
+[—š—ğo—Í•œ‹A]
 
-;é¸æŠè‚¢ãƒ™ãƒ¼ã‚¹
+;‘I‘ğˆƒx[ƒX
 [selbase]
-;æ–‡å­—ã®å·¦ãƒãƒ¼ã‚¸ãƒ³
+;•¶š‚Ì¶ƒ}[ƒWƒ“
 [eval exp="sf.seltext_x = 200"]
 
 [sel02 target=*SEL00_yuu]

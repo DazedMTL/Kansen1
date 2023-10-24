@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02053ã€ä¸€éšãƒˆã‚¤ãƒ¬ã‹ã‚‰å…ˆã«ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02053wˆêŠKƒgƒCƒŒ‚©‚çæ‚Éx
+;//BG:“Áê‹³º˜L‰ºF–éFÁ“”
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02053_TOP
-;[debug_win]ãªã†ã€€02053[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02053 = 1"]
+;[debug_win]‚È‚¤@02053[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02053 = 1"]
 
-;*SceneSet|ã€ä¸€éšãƒˆã‚¤ãƒ¬ã‹ã‚‰å…ˆã«ã€
+;*SceneSet|wˆêŠKƒgƒCƒŒ‚©‚çæ‚Éx
 
 ;//[02053]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg008c
 ;g[bg storage="bg08c"]
@@ -45,7 +45,7 @@ She must not have checked the student restroom.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v601|
 [fc]
@@ -86,7 +86,7 @@ Considering that, I couldn't bring myself to say it until[r]the end.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v602|
 [fc]
@@ -113,7 +113,7 @@ U-um, then, I'll leave the girls' restroom to you, okay?[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v603|
 [fc]
@@ -121,7 +121,7 @@ U-um, then, I'll leave the girls' restroom to you, okay?[pcms]
 [ns]Yamagishi[nse]
 Yeah...[pcms]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 ;//blackout
@@ -129,7 +129,7 @@ Yeah...[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -145,7 +145,7 @@ Eventually, Yamagishi-san and I met outside the restroom and[r]we reported the s
 When I entered, the lights were off and it was pitch black.[l][er]
 There was no one in the stalls or the cleaning supplies[r]room.[pcms]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg008c
 [bg storage="bg08c"]
@@ -155,7 +155,7 @@ There was no one in the stalls or the cleaning supplies[r]room.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v604|
 [fc]
@@ -174,6 +174,6 @@ I nodded back at Yamagishi-san who nodded, and we headed[r]towards the gymnasium
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;//[02054]ã¸
+;//[02054]‚Ö
 [jump target=*02054_TOP storage="02054.ks"]
 

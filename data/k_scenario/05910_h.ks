@@ -1,23 +1,23 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05910ã€çµ¶æœ›ã¨ã€å¸Œæœ›ã€
-;//BG:ç„¡ã—
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
-;//æ™‚é–“å¸¯ï¼šå¤•æ–¹
+;//¡ËƒuƒƒbƒN05910wâ–]‚ÆAŠó–]x
+;//BG:–³‚µ
+;//“oêl•¨GålŒöE“µ
+;//ŠÔ‘ÑF—[•û
 
 *05910_H_TOP
-;[debug_win]ãªã†ã€€05910_H[debug_win_end]
+;[debug_win]‚È‚¤@05910_H[debug_win_end]
 
-;*SceneSet|ã€çµ¶æœ›ã¨ã€å¸Œæœ›ã€
+;*SceneSet|wâ–]‚ÆAŠó–]x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05910 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05910 = 1"]
 
-;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€happyã€€è¡¨ç¤º
+;//flag:“µƒ‹[ƒgƒtƒ[@happy@•\¦
 
-;//â™ªï¼šBGM011
+;//ôFBGM011
 
 ;[bgm011]
 
-;//BG:bgç„¡ã—
+;//BG:bg–³‚µ
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=500]
 
@@ -104,7 +104,7 @@ This is incredible... Oh shit![pcms]
 [ns]Kato[nse]
 Ugh...[pcms]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [se0 storage="se021"]
 [quake_bg xy m]
 
@@ -112,7 +112,7 @@ Ugh...[pcms]
 [fc]
 [vo_sa s="sae0710"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *6383|
 [fc]
@@ -180,7 +180,7 @@ In Saeki's eyes, illuminated by the setting sun, the streaks[r]of water had turn
 If.[pcms]
 
 [fadeoutbgm time=1000]
-;//SE:ãƒ˜ãƒªã‚³ãƒ—ã‚¿ãƒ¼ã®éŸ³ã€€é ã„
+;//SE:ƒwƒŠƒRƒvƒ^[‚Ì‰¹@‰“‚¢
 ;[se0 storage="se033"]
 [fadeinse buf=0 storage="se033" time=1000 loop=true]
 
@@ -207,14 +207,14 @@ Together, just the two of us, forever and ever...[pcms]
 
 [bg storage="effect_white"][trans_c cross time=1000]
 
-;//SE:ãƒ˜ãƒªã‚³ãƒ—ã‚¿ãƒ¼ã®éŸ³ã€€é ã„
+;//SE:ƒwƒŠƒRƒvƒ^[‚Ì‰¹@‰“‚¢
 ;[se0 storage="se033"]
-;SEãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ ã“ã‚Œä½¿ç”¨ã—ãŸå¾Œã®pcmsã®å¾Œã‚ã§stopseã—ã¦ãã ã•ã„ã€‚ãƒ­ãƒ¼ãƒ‰ã™ã‚‹ã¨æ­¢ã‚ãŸã®ã«ã¾ãŸé³´ã£ã¦ã‚‹ã‹ã‚‰ã€‚
+;SEƒtƒF[ƒhƒAƒEƒg ‚±‚êg—p‚µ‚½Œã‚Ìpcms‚ÌŒã‚ë‚Åstopse‚µ‚Ä‚­‚¾‚³‚¢Bƒ[ƒh‚·‚é‚Æ~‚ß‚½‚Ì‚É‚Ü‚½–Â‚Á‚Ä‚é‚©‚çB
 [fadeoutse buf=0 time=1000]
 [wait_c time=2000]
 ;[stop_se0]
 
-;//â€»ã‚¹ã‚¿ãƒƒãƒ•ãƒ­ãƒ¼ãƒ«ã¸
+;//¦ƒXƒ^ƒbƒtƒ[ƒ‹‚Ö
 
 [fadeoutbgm time=500]
 [stop_se0]
@@ -222,20 +222,20 @@ Together, just the two of us, forever and ever...[pcms]
 [stop_overflow_se]
 [stopse_all]
 
-;//ãƒ ãƒ¼ãƒ“ãƒ¼å†ç”Ÿ
-;ã‚¹ã‚­ãƒƒãƒ—ã—ã¦ãŸã‚‰ã¨ã‚“ã˜ã‚ƒã†ã‹ã‚‰ã‚¹ã‚­ãƒƒãƒ—ã®è§£é™¤
+;//ƒ€[ƒr[Ä¶
+;ƒXƒLƒbƒv‚µ‚Ä‚½‚ç‚Æ‚ñ‚¶‚á‚¤‚©‚çƒXƒLƒbƒv‚Ì‰ğœ
 [cancelskip]
 [video visible=true left=0 top=0 width=800 height=600]
 [openvideo storage="hitomi_ed.mpg"]
 [playvideo]
 [bg storage="effect_black"][trans_c cross time=0]
 
-;ãƒ ãƒ¼ãƒ“ãƒ¼ã®éŸ³é‡å¤‰æ›´
+;ƒ€[ƒr[‚Ì‰¹—Ê•ÏX
 [if exp="sf.bgmplay == 1"]
 	;[video volume="&kag.bgm.currentBuffer.volume2"]
 	;[video volume=60]
-	;ã“ã‚Œã§bgmã¨åŒã˜ã«ãªã‚‹ã‹ãªï¼Ÿ
-	;ãã®ã¾ã¾ã ã¨ã¡ã‚‡ã£ã¨å¤§ãã„ã‹ã‚‰ã¡ã‚‡ã£ã¨ä¸‹ã’ã‚‹
+	;‚±‚ê‚Åbgm‚Æ“¯‚¶‚É‚È‚é‚©‚ÈH
+	;‚»‚Ì‚Ü‚Ü‚¾‚Æ‚¿‚å‚Á‚Æ‘å‚«‚¢‚©‚ç‚¿‚å‚Á‚Æ‰º‚°‚é
 	[eval exp="tf.movie_vol = (sf.dummy_bgmopt/1000)-5"]
 	[video volume="&tf.movie_vol"]
 [elsif exp="sf.bgmplay == 0"]
@@ -243,12 +243,12 @@ Together, just the two of us, forever and ever...[pcms]
 [endif]
 [wv canskip=true]
 
-;//flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€on
+;//flag:“µƒ‹[ƒgƒNƒŠƒA@on
 [if exp="sf.g_hitomi_clear==1"]
 	[jump target=*SEL00_TITLE]
 [endif]
 
-;//ãƒ ãƒ¼ãƒ“ãƒ¼å†ç”Ÿ
+;//ƒ€[ƒr[Ä¶
 [call storage="movie_sub.ks" target=*hitomi_zap_open]
 
 [eval exp="sf.g_hitomi_clear = 1"]
@@ -271,7 +271,7 @@ Together, just the two of us, forever and ever...[pcms]
 
 [wait_c time=1000]
 [eval exp="sf.g_infection = 1"]
-;//ãƒ ãƒ¼ãƒ“ãƒ¼å†ç”Ÿ
+;//ƒ€[ƒr[Ä¶
 [call storage="movie_sub.ks" target=*InfectionRoute_open]
 
 
@@ -283,5 +283,5 @@ Together, just the two of us, forever and ever...[pcms]
 
 [returntitle]
 
-;//â€»ç³ãƒ»ãƒ¡ã‚¤ãƒ³ãƒ«ãƒ¼ãƒˆãƒ»ã“ã“ã¾ã§
-;//ã€æ„ŸæŸ“ï¼ˆä»®é¡Œï¼‰âˆ’ç³ãƒ»ã‚¶ãƒƒãƒ”ãƒ³ã‚°ãƒ«ãƒ¼ãƒˆãƒ†ã‚­ã‚¹ãƒˆã€
+;//¦“µEƒƒCƒ“ƒ‹[ƒgE‚±‚±‚Ü‚Å
+;//wŠ´õi‰¼‘èj|“µEƒUƒbƒsƒ“ƒOƒ‹[ƒgƒeƒLƒXƒgx

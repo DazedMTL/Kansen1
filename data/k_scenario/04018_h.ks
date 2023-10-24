@@ -1,38 +1,38 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04018ã€å„ªã®ç™ºç—‡ã€
-;//BG:ä¿å¥å®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN04018w—D‚Ì”­Çx
+;//BG:•ÛŒ’ºF’‹i’©Œ“—pj
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *04018_H_TOP
-;[debug_win]ãªã†ã€€04018_H[debug_win_end]
+;[debug_win]‚È‚¤@04018_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 ;[if exp="tf.scene_mode == 0"][jump target=*04018][endif]
 ;[winset]
 
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
 ;g[bgm007]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *04018
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04018 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04018 = 1"]
 
-;*SceneSet|ã€å„ªã®ç™ºç—‡ã€
+;*SceneSet|w—D‚Ì”­Çx
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 ;//[bgm007]
 
@@ -44,7 +44,7 @@
 *3990|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *3991|
 [fc]
@@ -75,7 +75,7 @@ I held my head in my hands, and as I hung my head in[r]frustration, I could hear
 I wonder if Yamagishi-san is having a nightmare...[l][er]
 about the time she was violated...[pcms]
 
-;//SE:ã‚«ãƒ¼ãƒ†ãƒ³ã‚’é–‹ã
+;//SE:ƒJ[ƒeƒ“‚ğŠJ‚­
 
 [se0 storage="se046"]
 
@@ -87,7 +87,7 @@ I couldn't bear it any longer, so I pulled back the curtains[r]surrounding Yamag
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1622|
 [fc]
@@ -104,7 +104,7 @@ Yamagishi-san, who I thought was sleeping, was sitting[r]cross-legged on the bed
 [ns]Kato[nse]
 Um, uh... Are you okay?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1623|
 [fc]
@@ -126,7 +126,7 @@ Yamagishi-san got off the bed and suddenly hugged me as I[r]hung my head down.[p
 [ns]Kato[nse]
 Y-Yamagishi-san!?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1624|
 [fc]
@@ -145,9 +145,9 @@ At that time, I regretted once again that instead of trying[r]to separate them, 
 *4004|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1625|
 [fc]
@@ -168,7 +168,7 @@ Come to think of it, her way of speaking is also strangely[r]slow and odd.[pcms]
 [ns]Kato[nse]
 Hey, Yamagishi-sa... Uwaah![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 [backlay_c][chara_int][trans_c cross time=150]
 
 *4008|
@@ -180,6 +180,6 @@ The moment I felt the strength in Yamagishi-san's arms[r]wrapped around my body,
 [ns]Kato[nse]
 W-Wait, wait a minute, Yamagishi-san!?[pcms]
 
-;//[04019]ã¸
+;//[04019]‚Ö
 [jump target=*04019_H_TOP storage="04019_H.ks"]
 

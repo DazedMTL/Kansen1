@@ -1,23 +1,23 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04028ã€ç•°äººé›†å›£ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
-;//ç™»å ´äººç‰©ï¼›ãƒªã‚µãƒ»ç³ãƒ»ã‚¾ãƒ³ãƒ“
+;//¡ËƒuƒƒbƒN04028wˆÙlW’cx
+;//BG:“Áê‹³º˜L‰ºF’‹i’©Œ“—pj
+;//“oêl•¨GƒŠƒTE“µEƒ]ƒ“ƒr
 
 
 *04028_H_TOP
-;[debug_win]ãªã†ã€€04028_H[debug_win_end]
+;[debug_win]‚È‚¤@04028_H[debug_win_end]
 [eval exp="sf.SRP19 = 1"][if exp="tf.scene_mode == 0"][jump target=*04028_H][endif]
 ;;[winset]
 [bgm008]
 [jump target=*scene_start]
 
 *04028_H
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04028 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04028 = 1"]
 
-;*SceneSet|ã€ç•°äººé›†å›£ã€
+;*SceneSet|wˆÙlW’cx
 
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 [bgm008]
 
 ;//BG:bg004a
@@ -129,7 +129,7 @@ Nngh! Nn, mmmph! *sucking sound*, *wet sound*...[pcms]
 [ns]Male Student Q[nse]
 Fu-to-mo, mo... ya, ra-ke, e~...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
@@ -217,7 +217,7 @@ njuu, chappu, buchuu~...[pcms]
 [fc]
 [vo_sa s="sae0270"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *4168|
 [fc]
@@ -459,19 +459,19 @@ Ugh, ah...[pcms]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn19 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn19 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
@@ -482,15 +482,15 @@ Ugh, ah...[pcms]
 
 ;;;[sysbt_meswin]
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;//â€»é¸æŠè‚¢ï¼ˆï¼Ÿï¼‰â†é¸æŠè‚¢ã«ã™ã‚‹ã‹ã©ã†ã‹ä¿ç•™
-;//ãƒ»;//[04018]ã¸
-;//ãƒ»;//[04022]ã¸
+;//¦‘I‘ğˆiHj©‘I‘ğˆ‚É‚·‚é‚©‚Ç‚¤‚©•Û—¯
+;//E;//[04018]‚Ö
+;//E;//[04022]‚Ö
 
 [bgm007]
 [bg storage="bg13a"]

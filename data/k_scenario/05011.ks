@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05011ã€ã‚±ãƒ„ã¤ã­ã‚Šã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šç‚¹ç¯ï¼šå¤œ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05011wƒPƒc‚Â‚Ë‚èx
+;//BG:“Áê‹³º˜L‰ºF“_“”F–é
+;//“oêl•¨GålŒöE“µ
 
 *05011_TOP
-;[debug_win]ãªã†ã€€05011[debug_win_end]
-;*SceneSet|ã€ã‚±ãƒ„ã¤ã­ã‚Šã€
+;[debug_win]‚È‚¤@05011[debug_win_end]
+;*SceneSet|wƒPƒc‚Â‚Ë‚èx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05011 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05011 = 1"]
 
-;//â™ªï¼šBGM005
+;//ôFBGM005
 
 [bgm005]
 
@@ -31,7 +31,7 @@ I pinched my own butt as hard as I could, forcibly[r]suppressing a laugh through
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2002|
 [fc]
@@ -65,7 +65,7 @@ Buh...!![pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2003|
 [fc]
@@ -78,5 +78,5 @@ Huh!![pcms]
 [ns]Kato[nse]
 Bwahahahaha!![pcms]
 
-;//[05020]ã¸
+;//[05020]‚Ö
 [jump target=*05020_TOP storage="05020.ks"]

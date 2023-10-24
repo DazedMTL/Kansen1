@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0026ã€é£Ÿå™¨è’ã„çµ‚äº†ï¼šè¦–è´è¦šå®¤ã¸ã€
-;//BG:å­¦åœ’å†…å­¦é£Ÿï¼šå¤•æ–¹
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN0026wHŠír‚¢I—¹F‹’®Šoº‚Öx
+;//BG:Šw‰€“àŠwHF—[•û
+;//“oêl•¨GålŒöE—DE“µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *0026_TOP
-;[debug_win]ãªã†ã€€0026[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0026 = 1"]
+;[debug_win]‚È‚¤@0026[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0026 = 1"]
 
-;*SceneSet|ã€é£Ÿå™¨æ´—ã„çµ‚äº†ã€
+;*SceneSet|wHŠíô‚¢I—¹x
 
 ;//[0026]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg014b
 
@@ -23,7 +23,7 @@
 [bg storage="bg14c"]
 [trans_c cross time=500]
 
-;//SE:å»Šä¸‹ã‚’æ­©ã
+;//SE:˜L‰º‚ğ•à‚­
 
 [se0 storage="se067"]
 
@@ -31,7 +31,7 @@
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v237|
 [fc]
@@ -53,7 +53,7 @@ Ah, it's a sure thing.[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v238|
 [fc]
@@ -72,7 +72,7 @@ Do you want to drink some oolong tea too?[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v239|
 [fc]
@@ -84,14 +84,14 @@ A-Ah, I-I'm sorry...[pcms]
 [fc]
 Saeki poured some oolong tea for herself, and just as she[r]was doing so, Yamagishi-san came running in.[pcms]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v240|
 [fc]
@@ -109,7 +109,7 @@ They still haven't come back. It's been quite a while since[r]we left here.[pcms
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v241|
 [fc]
@@ -131,7 +131,7 @@ Saeki, who sat down next to me, pouring oolong tea for her,[r]unexpectedly react
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v242|
 [fc]
@@ -154,7 +154,7 @@ You're always lecturing him and all.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v243|
 [fc]
@@ -177,7 +177,7 @@ Yamagishi-san, don't you think so too?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v244|
 [fc]
@@ -211,7 +211,7 @@ His appearance may be a bit off, but he's interesting and a[r]good guy, you know
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v245|
 [fc]
@@ -224,7 +224,7 @@ Ah, w-well, it's not like I hate him or anything...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v246|
 [fc]
@@ -241,7 +241,7 @@ Saeki, with her usual cool expression, casually says[r]something cruel.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v247|
 [fc]
@@ -259,7 +259,7 @@ Saeki stood up and interrupted Yamagishi, who was becoming[r]increasingly fluste
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v248|
 [fc]
@@ -277,7 +277,7 @@ Yeah...[pcms]
 [fc]
 Saeki's words made me stand up, and we headed towards the AV[r]room.[pcms]
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*0027_TOP storage="0027.ks"]
 
 

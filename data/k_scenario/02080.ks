@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02080ã€ç³ã«é‚ªé™ºã«ã•ã‚Œã‚‹ã€
-;//BG:è¦–è´è¦šå®¤ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»ç«¹å†…ãƒ»ç³
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02080w“µ‚É×Œ¯‚É‚³‚ê‚éx
+;//BG:‹’®ŠoºF–éF“_“”
+;//“oêl•¨GålŒöE—DEƒŠƒTE’|“àE“µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02080_TOP
-;[debug_win]ãªã†ã€€02080[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02080 = 1"]
+;[debug_win]‚È‚¤@02080[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02080 = 1"]
 
-;*SceneSet|ã€ç³ã«é‚ªé™ºã«ã•ã‚Œã‚‹ã€
+;*SceneSet|w“µ‚É×Œ¯‚É‚³‚ê‚éx
 
 ;//[02080]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg015c
 ;g[bg storage="bg15c"]
@@ -28,7 +28,7 @@ Saeki forcefully brushed away my hand that was tapping her[r]shoulder while sayi
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v703|
 [fc]
@@ -46,7 +46,7 @@ W-What's the matter? You don't have to get so angry...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v704|
 [fc]
@@ -78,5 +78,5 @@ Shinya quickly averted his gaze and turned away, faced with[r]eyes filled with a
 [fc]
 I was just bewildered, unable to understand Shinya's gaze[r]and Saeki's attitude.[pcms]
 
-;//[02082]ã¸
+;//[02082]‚Ö
 [jump target=*02082_TOP storage="02082.ks"]

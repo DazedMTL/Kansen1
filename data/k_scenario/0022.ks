@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– ãƒ–ãƒ­ãƒƒã‚¯0022ã€ã„ã¤ã‚‚ã®äº‹ã ã€æ”¾ã£ã¦ãŠã“ã†ã€
-;//BG:å­¦åœ’å†…å­¦é£Ÿï¼šå¤•æ–¹
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ƒuƒƒbƒN0022w‚¢‚Â‚à‚Ì–‚¾A•ú‚Á‚Ä‚¨‚±‚¤x
+;//BG:Šw‰€“àŠwHF—[•û
+;//“oêl•¨GålŒöE—DE“µE•ü”üE’|“àE“c’†
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *0022_TOP
-;[debug_win]ãªã†ã€€0022[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0022 = 1"]
+;[debug_win]‚È‚¤@0022[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0022 = 1"]
 
-;*SceneSet|ã€ã„ã¤ã‚‚ã®äº‹ã ã€æ”¾ã£ã¦ãŠã“ã†ã€
+;*SceneSet|w‚¢‚Â‚à‚Ì–‚¾A•ú‚Á‚Ä‚¨‚±‚¤x
 
 ;//[0022]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg014b
 ;//[bg storage="bg14b"]
@@ -39,7 +39,7 @@ Yamagishi-san whispered to me in a low voice.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v220|
 [fc]
@@ -58,7 +58,7 @@ It will settle down eventually.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v221|
 [fc]
@@ -91,7 +91,7 @@ I felt sorry for ignoring Yamagishi-san's feelings, so I[r]swallowed everything 
 [ns]Kato[nse]
 Hey, you...[pcms]
 
-;//SE:æœºã‚’ãŸãŸã
+;//SE:Š÷‚ğ‚½‚½‚­
 [se0 storage="se015"]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
@@ -99,7 +99,7 @@ Hey, you...[pcms]
 [ChrSetParts layer=1 chface="tomo_c_a_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v222|
 [fc]
@@ -111,7 +111,7 @@ We're all having a good time eating together, so let's not[r]fight![pcms]
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=0 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
-;mm äºŒäººåŒæ™‚ã ã¨æ€ã†ã‘ã©åŒã˜ãƒ¬ã‚¤ãƒ¤ã«ãªã£ã¦ãŸ
+;mm “ñl“¯‚¾‚Æv‚¤‚¯‚Ç“¯‚¶ƒŒƒCƒ„‚É‚È‚Á‚Ä‚½
 [ChrSetEx layer=2 chbase="take_a_d_01"]
 [ChrSetXY layer=2 x=100 y=0]
 [ChrSetParts layer=2 chface="take_a_d_03"]
@@ -131,7 +131,7 @@ After that, he didn't let go of his displeased expression[r]until the end.[pcms]
 ;;;[sysbt_meswin clear]
 
 
-;//[0024]ã¸
+;//[0024]‚Ö
 [jump target=*0024_TOP storage="0024.ks"]
 
 

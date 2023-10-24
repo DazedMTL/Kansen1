@@ -1,19 +1,19 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05270ã€é£Ÿå ‚ã¸ã€
-;//;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šæœ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN05270wH“°‚Öx
+;//;//BG:“n‚è˜L‰ºF’©
+;//“oêl•¨GålŒöE“µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *05270_TOP
-;[debug_win]ãªã†ã€€05270[debug_win_end]
-;*SceneSet|ã€é£Ÿå ‚ã¸ã€
+;[debug_win]‚È‚¤@05270[debug_win_end]
+;*SceneSet|wH“°‚Öx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05270 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05270 = 1"]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 
 [bgm001]
 
@@ -51,7 +51,7 @@ I was honestly amazed at the complaints about Shinya from[r]Saeki, who kept comi
 Wow, they keep coming out one after another...[l][er]
 Saeki really hates Shinya, huh...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2160|
 [fc]
@@ -63,7 +63,7 @@ Being with such a vulgar and despicable person will only[r]lower your dignity![p
 *5190|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5191|
 [fc]
@@ -84,7 +84,7 @@ Hey, Saeki...[pcms]
 [ChrSetParts layer=1 chface="sae_c_c_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2161|
 [fc]
@@ -106,7 +106,7 @@ It's like looking at the picture of a criminal that appears[r]in the news.[pcms]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2162|
 [fc]
@@ -125,13 +125,13 @@ It's such a waste for a beautiful girl like you.[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2163|
 [fc]
 [vo_sa s="sae0430"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5196|
 [fc]
@@ -149,8 +149,8 @@ As I looked at Saeki's profile as she looked down, that's[r]what I thought.[pcms
 
 ;//blackout
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05280]ã¸
+;//[05280]‚Ö
 [jump target=*05280_TOP storage="05280.ks"]

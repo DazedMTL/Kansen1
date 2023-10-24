@@ -1,23 +1,23 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0011ã€æ˜ ç”»ç ”ç©¶éƒ¨ï¼šå„ªã¨ä¸»äººå…¬ã®å‡ºä¼šã„ï¼šå›æƒ³2ã€
-;//BGï¼šç†ç§‘æº–å‚™å®¤ï¼šã‚»ãƒ”ã‚¢
-;//;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//;//¡ËƒuƒƒbƒN0011w‰f‰æŒ¤‹†•”F—D‚ÆålŒö‚Ìo‰ï‚¢F‰ñ‘z2x
+;//BGF—‰È€”õºFƒZƒsƒA
+;//;//“oêl•¨GålŒöE—DE’|“à
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *0011_TOP
-;[debug_win]ãªã†ã€€0011[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0011 = 1"]
+;[debug_win]‚È‚¤@0011[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0011 = 1"]
 
-;*SceneSet|ã€æ˜ ç”»ç ”ç©¶éƒ¨ã€
+;*SceneSet|w‰f‰æŒ¤‹†•”x
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 [fadeoutbgm time=500]
-;//;//BG:bgç†ç§‘æº–å‚™å®¤ã€€ã‚»ãƒ”ã‚¢
+;//;//BG:bg—‰È€”õº@ƒZƒsƒA
 
-;â†“ã®ç”»åƒã‚’ã‚»ãƒ”ã‚¢ã§ç”¨æ„
+;«‚Ì‰æ‘œ‚ğƒZƒsƒA‚Å—pˆÓ
 
 [bg storage="bg18a_s"]
 [trans_c cross time=500]
@@ -26,7 +26,7 @@
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v86|
 [fc]
@@ -87,18 +87,18 @@ Even if I can't confirm that, I'll have more chances to talk[r]with Yamagishi-sa
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std61|
 [fc]
 [ns]Takeuchi[nse]
 Eh? Um, this person is different...[pcms]
 
-;//;//SE:å¿ƒæ‹éŸ³
+;//;//SE:S”‰¹
 [se1 storage="se003"]
 
 *266|
 [fc]
-â€¦â€¦â€¦â€¦ã€‚ â€¦â€¦ã€‚[pcms]
+ccccB ccB[pcms]
 
 *267|
 [fc]
@@ -110,7 +110,7 @@ Eh? Um, this person is different...[pcms]
 [ChrSetParts layer=1 chface="spi_take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std62|
 [fc]
 [ns]Takeuchi[nse]
@@ -121,7 +121,7 @@ Eh!?[pcms]
 [ChrSetParts layer=1 chface="spi_yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v87|
 [fc]

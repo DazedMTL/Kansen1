@@ -1,30 +1,30 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02153ã€Žèª˜æƒ‘ã€
-;//BG:ä¸‰éšŽæ•™å®¤ï¼šå¤œ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02153w—U˜fx
+;//BG:ŽOŠK‹³ŽºF–é
+;//“oêl•¨GŽålŒöEƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02153_H_TOP
-;[debug_win]ãªã†ã€€02153_H[debug_win_end]
+;[debug_win]‚È‚¤@02153_H[debug_win_end]
 
 [eval exp="sf.SRP09 = 1"][if exp="tf.scene_mode == 0"][jump target=*02153_H][endif]
 ;;[winset]
-;mm ã‚¤ãƒ™ãƒ³ãƒˆã‹ã‚‰ã«ã™ã‚‹
+;mm ƒCƒxƒ“ƒg‚©‚ç‚É‚·‚é
 [jump target=*scene_start]
 
 
 *02153_H
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02153 = 1"]
+;Žg‚Á‚Ä‚È‚¢[eval exp="sf.g_02153 = 1"]
 
-;*SceneSet|ã€Žèª˜æƒ‘ã€
+;*SceneSet|w—U˜fx
 
-;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼‘ï¼“ã€€è¡¨ç¤º
+;//flag:—Dƒ‹[ƒgƒtƒ[@‚P‚R@•\Ž¦
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 
 [fadeoutbgm time=500]
 
@@ -66,13 +66,13 @@ In my hazy and blurred vision, I could see the smiling face[r]of Shindou-sensei 
 Huh...?[pcms]
 
 
-;//H_CG:ãƒªã‚µãŒãƒ‘ã‚¤ã‚ºãƒª
+;//H_CG:ƒŠƒT‚ªƒpƒCƒYƒŠ
 
 ;;;[sysbt_meswin clear]
 
 *scene_start
 
-;//â™ªï¼šBGM006
+;//ôFBGM006
 [bgm006]
 
 [evcg storage="HEV_036_a"]
@@ -136,35 +136,35 @@ It feels ticklish...[pcms]
 [fc]
 I feel breath on me, it tickles...?[pcms]
 
-;//å›žæƒ³ãªã‚‰ã‚¸ãƒ£ãƒ³ãƒ—ã€‚å¼·åˆ¶é¸æŠžã€‚
+;//‰ñ‘z‚È‚çƒWƒƒƒ“ƒvB‹­§‘I‘ðB
 
 [if exp="tf.scene_mode == 1"][jump target=*SEL00_END][endif]
 
-;//â€»é¸æŠžè‚¢
-;//ãƒ»å¤¢ã«ã—ã¦ã¯ã€ãšã„ã¶ã‚“ãƒªã‚¢ãƒ«ãªæ„Ÿè§¦ã ãªâ€¦â€¦;//[02154]ã¸
-;//ãƒ»ãªã‚“ã ã‚ã†â€¦â€¦ã“ã‚Œã€æ­£å¤¢ã«ãªã‚‹ã®ã‹ãªâ€¦â€¦;//[04034]ã¸
+;//¦‘I‘ðŽˆ
+;//E–²‚É‚µ‚Ä‚ÍA‚¸‚¢‚Ô‚ñƒŠƒAƒ‹‚ÈŠ´G‚¾‚Ècc;//[02154]‚Ö
+;//E‚È‚ñ‚¾‚ë‚¤cc‚±‚êA³–²‚É‚È‚é‚Ì‚©‚Ècc;//[04034]‚Ö
 
 
-*SEL01|å¤¢ã«ã—ã¦ã¯ã€ãšã„ã¶ã‚“ãƒªã‚¢ãƒ«ãªæ„Ÿè§¦ã ãªï¼ãªã‚“ã ã‚ã†â€¦â€¦ã“ã‚Œã€æ­£å¤¢ã«ãªã‚‹ã®ã‹ãª
+*SEL01|–²‚É‚µ‚Ä‚ÍA‚¸‚¢‚Ô‚ñƒŠƒAƒ‹‚ÈŠ´G‚¾‚È^‚È‚ñ‚¾‚ë‚¤cc‚±‚êA³–²‚É‚È‚é‚Ì‚©‚È
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'å¤¢ã«ã—ã¦ã¯ã€ãšã„ã¶ã‚“ãƒªã‚¢ãƒ«ãªæ„Ÿè§¦ã ãªâ€¦â€¦'"]
-[eval exp="f.seltext04 = 'ãªã‚“ã ã‚ã†â€¦â€¦ã“ã‚Œã€æ­£å¤¢ã«ãªã‚‹ã®ã‹ãªâ€¦â€¦'"]
+[eval exp="f.seltext02 = '–²‚É‚µ‚Ä‚ÍA‚¸‚¢‚Ô‚ñƒŠƒAƒ‹‚ÈŠ´G‚¾‚Ècc'"]
+[eval exp="f.seltext04 = '‚È‚ñ‚¾‚ë‚¤cc‚±‚êA³–²‚É‚È‚é‚Ì‚©‚Ècc'"]
 
 
-[if exp="tf.sys_sub == 0 || tf.é¸æŠžè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
-	;é¸æŠžè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
+[if exp="tf.sys_sub == 0 || tf.‘I‘ðŽˆƒƒO•\Ž¦‚µ‚Ä‚Ë == 1"]
+	;‘I‘ðŽˆ“à—e‚ðƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[å±¥æ­´å‡ºåŠ›å¾©å¸°]
+[—š—ðo—Í•œ‹A]
 
-;é¸æŠžè‚¢ãƒ™ãƒ¼ã‚¹
+;‘I‘ðŽˆƒx[ƒX
 [selbase]
-;æ–‡å­—ã®å·¦ãƒžãƒ¼ã‚¸ãƒ³
+;•¶Žš‚Ì¶ƒ}[ƒWƒ“
 [eval exp="sf.seltext_x = 150"]
 
 [sel02 target=*SEL00_02153_DREAM]

@@ -1,13 +1,13 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05460ã€ç€æ›¿ãˆã€
-;//BG:è¦–è´è¦šå®¤ï¼šå¤•æ–¹ï¼›æ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05460w’…‘Ö‚¦x
+;//BG:‹’®ŠoºF—[•ûGÁ“”
+;//“oêl•¨GålŒöE“µ
 
 *05460_TOP
-;[debug_win]ãªã†ã€€05460[debug_win_end]
-;*SceneSet|ã€ç€æ›¿ãˆã€
+;[debug_win]‚È‚¤@05460[debug_win_end]
+;*SceneSet|w’…‘Ö‚¦x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05460 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05460 = 1"]
 
 [eval exp="f.prologue_route = 0"]
 [eval exp="f.yuu_route1 = 0"]
@@ -20,10 +20,10 @@
 [eval exp="f.hitomi_route4 = 0"]
 [eval exp="f.infection_route = 0"]
 
-;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼’ï¼¡ã€€ç”»é¢è¡¨ç¤º
-;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€PARTï¼’ã€€è¡¨ç¤º
+;//flag:“µƒ‹[ƒgƒtƒ[@‚Q‚`@‰æ–Ê•\¦
+;//flag:“µƒ‹[ƒgƒtƒ[@PART‚Q@•\¦
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 
 [fadeoutbgm time=500]
 
@@ -32,7 +32,7 @@
 [bg storage="bg15a"]
 [trans_c cross time=500]
 
-;//SE:æ‰‰ã‚’é–‹ã
+;//SE:”à‚ğŠJ‚­
 
 [se0 storage="se008"]
 
@@ -49,7 +49,7 @@ When we arrived at the audiovisual room, Saeki immediately[r]rummaged through he
 Saeki noticed me standing in the corner of the room, doing[r]nothing and staring blankly.[l][er]
 She quickly hid the underwear and stockings she had with her[r]behind her back.[pcms]
 
-;//â™ªï¼šBGM006
+;//ôFBGM006
 [bgm006]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
@@ -57,7 +57,7 @@ She quickly hid the underwear and stockings she had with her[r]behind her back.[
 [ChrSetParts layer=1 chface="sae_c_c_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2286|
 [fc]
@@ -92,7 +92,7 @@ that's way too fast, even for you...[pcms]
 Saeki is changing behind me right now...[l][er]
 There's Saeki, not wearing anything under her skirt...[pcms]
 
-;//SE:è¡£æ“¦ã‚Œ
+;//SE:ˆßC‚ê
 
 [se0 storage="se057"]
 
@@ -115,7 +115,7 @@ When I glanced back for a moment, Saeki had just lifted her[r]underwear up to he
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2288|
 [fc]
@@ -138,7 +138,7 @@ Saeki made eye contact with me and took out a partially[r]filled water bottle fr
 
 
 
-;//SE:ã‚³ãƒ³
+;//SE:ƒRƒ“
 [se0 storage="se022"]
 
 [flash_wh]
@@ -161,7 +161,7 @@ Ouch!![pcms]
 [ChrSetParts layer=1 chface="sae_c_c_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2289|
 [fc]
@@ -176,10 +176,10 @@ I'm sorry, I'm sorry!! I'm already leaving!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//â™ªï¼šBGM006ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM006ƒtƒF[ƒhƒAƒEƒg
 [fadeoutbgm time=500]
 
-;//SE:æ‰‰ã‚’é–‹ã
+;//SE:”à‚ğŠJ‚­
 [se0 storage="se008"]
 
 *5520|
@@ -191,5 +191,5 @@ Before I could be hit with something again, I hurriedly ran[r]out into the hallw
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05470]ã¸
+;//[05470]‚Ö
 [jump target=*05470_TOP storage="05470.ks"]

@@ -1,35 +1,35 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05350ã€èª°ã‚‚ã„ãªã„ä¿å¥å®¤ã€
-;//;//BG:ä¿å¥å®¤ï¼šæœï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN05350w’N‚à‚¢‚È‚¢•ÛŒ’ºx
+;//;//BG:•ÛŒ’ºF’©FÁ“”
+;//“oêl•¨GålŒöE“µEƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *05350_H_TOP
-;[debug_win]ãªã†ã€€05350_H[debug_win_end]
+;[debug_win]‚È‚¤@05350_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 ;[if exp="tf.scene_mode == 0"][jump target=*05350][endif]
 ;[winset]
 
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *05350
 
-;*SceneSet|ã€èª°ã‚‚ã„ãªã„ä¿å¥å®¤ã€
+;*SceneSet|w’N‚à‚¢‚È‚¢•ÛŒ’ºx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05350 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05350 = 1"]
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 
 [bgm009]
 
@@ -38,7 +38,7 @@
 [bg storage="bg13a"]
 [trans_c cross time=500]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 
 [se0 storage="se008"]
 
@@ -60,7 +60,7 @@ The infirmary was just as Saeki and I saw it earlier, but[r]there was no sign of
 [ChrSetParts layer=1 chface="risa_c_a_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2243|
 [fc]
@@ -77,7 +77,7 @@ But those strange guys are wandering around the school[r]building, isn't it dang
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2244|
 [fc]
@@ -110,7 +110,7 @@ When I turned back in response to the sensation of my back[r]being pulled, Saeki
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2245|
 [fc]
@@ -123,13 +123,13 @@ Um... the restroom...[pcms]
 [ns]Kato[nse]
 The restroom?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2246|
 [fc]
 [vo_sa s="sae0473"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5383|
 [fc]
@@ -148,7 +148,7 @@ When I looked at Shindou-sensei, seeking his opinion, he[r]nodded with a resigne
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2247|
 [fc]
@@ -166,13 +166,13 @@ Understood. Let's go then.[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2248|
 [fc]
 [vo_sa s="sae0474"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5387|
 [fc]
@@ -184,10 +184,10 @@ I took blushing and silent Saeki with me and headed to the[r]staff restroom, whi
 
 ;//blackout
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05360]ã¸
+;//[05360]‚Ö
 [jump target=*05360_H_TOP storage="05360_H.ks"]
 
 

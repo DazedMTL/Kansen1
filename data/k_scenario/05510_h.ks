@@ -1,16 +1,16 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05510ã€ç‹‚ä¹±æ•™å®¤ï¼“ã€
-;//;//BG:æ•™å®¤ï¼šå¤•æ–¹ï¼›æ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»æ„ŸæŸ“ç”°ä¸­ãƒ»æ„ŸæŸ“æœ‹ç¾ãƒ»æ„ŸæŸ“å²¸ç”°ãƒ»ãƒªã‚µãƒ»æ„ŸæŸ“å„ª
+;//¡ËƒuƒƒbƒN05510w‹¶—‹³º‚Rx
+;//;//BG:‹³ºF—[•ûGÁ“”
+;//“oêl•¨GålŒöE“µEŠ´õ“c’†EŠ´õ•ü”üEŠ´õŠİ“cEƒŠƒTEŠ´õ—D
 
 *05510_H_TOP
-;[debug_win]ãªã†ã€€05510_H[debug_win_end]
+;[debug_win]‚È‚¤@05510_H[debug_win_end]
 
-;*SceneSet|ã€ç‹‚ä¹±æ•™å®¤ï¼“ã€
+;*SceneSet|w‹¶—‹³º‚Rx
 
-;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼™ã€€è¡¨ç¤º
+;//flag:“µƒ‹[ƒgƒtƒ[@‚X@•\¦
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 ;//[bgm008]
 
@@ -19,7 +19,7 @@
 [bg storage="bg10b"]
 [trans_c cross time=500]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05510 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05510 = 1"]
 
 
 
@@ -37,14 +37,14 @@ I was staring at Shindou-sensei with the same orgasmic eyes[r]as those weirdos, 
 *5619|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2342|
 [fc]
@@ -61,7 +61,7 @@ Desperately pulling my arm, Saeki's voice echoed as people[r]other than Shindou-
 [ChrSetParts layer=1 chface="tanaka_b_a_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std367|
 [fc]
 [ns]Tanaka[nse]
@@ -74,7 +74,7 @@ sexy...[pcms]
 [ChrSetParts layer=1 chface="kisi_c_b_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std368|
 [fc]
 [ns]Kishida[nse]
@@ -86,7 +86,7 @@ me... Nufu, hehe, haha...[pcms]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2343|
 [fc]
@@ -106,7 +106,7 @@ Yamagishi-san and Igarashi-san, who were beside me, also[r]stood up, and these t
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2344|
 [fc]
@@ -129,7 +129,7 @@ In my mind, I could only think of the five people crawling[r]towards me in that 
 [ChrSetParts layer=1 chface="yuu_c_d_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2345|
 [fc]
@@ -142,7 +142,7 @@ It's... Kato-kun's turn now...[pcms]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2346|
 [fc]
@@ -156,7 +156,7 @@ Hurry and run away!![pcms]
 [ChrSetParts layer=1 chface="yuu_c_d_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2347|
 [fc]
@@ -173,7 +173,7 @@ As the four of them gradually approached, Shinya, who had[r]been lying on the fl
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 *std369|
 [fc]
 [ns]Takeuchi[nse]
@@ -184,7 +184,7 @@ Fuh, hihi, hi... Ahh~... man, coo~...[pcms]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2348|
 [fc]
@@ -201,7 +201,7 @@ The five of them approached me closely, and Saeki, in a[r]panicked state, shook 
 [ChrSetParts layer=1 chface="sae_c_c_10"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2349|
 [fc]
@@ -213,14 +213,14 @@ Weren't you supposed to protect me?![pcms]
 *5627|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5628|
 [fc]
 That's right... This is not the time to be frozen like[r]this...[l][er]
 I need to get Saeki to a safe place...!![pcms]
 
-;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM008ƒtƒF[ƒhƒAƒEƒg
 [fadeoutbgm time=500]
 
 *5629|
@@ -230,7 +230,7 @@ Let's go...!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
 
 *5630|
@@ -244,32 +244,32 @@ I finally regained my sanity and took Saeki's hand, running[r]towards the classr
 
 ;//blackout
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn27 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn27 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 
-;//â€»æ¡ä»¶åˆ†å²
-;//ãƒ»flag_009ãŒoff;//[07220]ã¸
-;//ãƒ»flag_009ãŒon;//[05520]ã¸
+;//¦ğŒ•ªŠò
+;//Eflag_009‚ªoff;//[07220]‚Ö
+;//Eflag_009‚ªon;//[05520]‚Ö
 
 [if exp="f.NEXT_YEAR==0"]
 	;[jump target=*SEL00_FLAG_009]

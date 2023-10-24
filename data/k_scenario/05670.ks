@@ -1,19 +1,19 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05670ã€ç½ ã€
-;//;//BG:å­¦é£Ÿï¼šæœï¼›æ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»æ„ŸæŸ“å„ªãƒ»æ„ŸæŸ“æœ‹ç¾ãƒ»æ„ŸæŸ“ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN05670wã©x
+;//;//BG:ŠwHF’©GÁ“”
+;//“oêl•¨GålŒöEŠ´õ—DEŠ´õ•ü”üEŠ´õƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *05670_TOP
-;[debug_win]ãªã†ã€€05670[debug_win_end]
-;*SceneSet|ã€ç½ ã€
+;[debug_win]‚È‚¤@05670[debug_win_end]
+;*SceneSet|wã©x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05670 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05670 = 1"]
 ;	/*
-;	;//â™ªï¼šBGM004
+;	;//ôFBGM004
 ;	[bgm004]
 ;	*/
 ;//BG:bg14a
@@ -36,7 +36,7 @@ I decided to stay in place and observe until Yamagishi-san[r]leaves the cafeteri
 *6023|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *6024|
 [fc]
@@ -47,7 +47,7 @@ Yamagishi-san was wandering around the cafeteria, giggling[r]as if she were drun
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2486|
 [fc]
@@ -65,7 +65,7 @@ As soon as I finished speaking, Yamagishi-san suddenly[r]started laughing.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_d_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2487|
 [fc]
@@ -74,27 +74,27 @@ As soon as I finished speaking, Yamagishi-san suddenly[r]started laughing.[pcms]
 ... Ahaha... Ahahaha! Ahahahaha![l][er]
 Hehe... Ufufu... Kusukusu... Ahaha![pcms]
 
-;//SE:ã‚¬ãƒ³
+;//SE:ƒKƒ“
 [se0 storage="se053"]
 
 *6026|
 [fc]
 Furthermore, Yamagishi-san started skipping and while[r]bumping into various tables, she began singing a tune.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2488|
 [fc]
 [vo_ya s="yama0841"]
 [ns]Yamagishi[nse]
-Hm hm hm hm hoo~nâ™ª Hm hoo~nâ™ª Hm hm hm hoo~nâ™ª Hm, hm, hm, hm,[r]hoo~nâ™ª[l][er]
+Hm hm hm hm hoo~nô Hm hoo~nô Hm hm hm hoo~nô Hm, hm, hm, hm,[r]hoo~nô[l][er]
 
-;//SE:ã‚¬ãƒ©ã‚¬ãƒ©
+;//SE:ƒKƒ‰ƒKƒ‰
 [se0 storage="se024"]
 
 [wait_c time=1000]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [se0 storage="se021"]
 [quake_bg xy m]
 
@@ -122,7 +122,7 @@ As I stood there dumbfounded, unable to comprehend[r]Yamagishi-san's behavior, I
 [ChrSetParts layer=1 chface="risa_e_e_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2489|
 [fc]
@@ -135,7 +135,7 @@ I-i-no-i... sei, e, ki-no... i-yara-shii, ni-o-i...[pcms]
 [ChrSetParts layer=1 chface="tomo_d_d_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2490|
 [fc]
@@ -157,7 +157,7 @@ If that happens, we won't be able to go back underground...[pcms]
 [ChrSetParts layer=1 chface="risa_e_e_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2491|
 [fc]
@@ -167,10 +167,10 @@ W-Where...? I-I want to put my...[l][er]
 d-dick... in your... p-pussy...[l][er]
 quickly...[pcms]
 
-;//SE:äººã«ã¶ã¤ã‹ã‚‹
+;//SE:l‚É‚Ô‚Â‚©‚é
 [se0 storage="se025"]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2492|
 [fc]
@@ -179,7 +179,7 @@ quickly...[pcms]
 Ugu...[pcms]
 *[l][er]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 
 [quake_bg xy m]
 
@@ -192,7 +192,7 @@ Shindou-sensei continued walking towards me without trying[r]to avoid me, and he
 [ChrSetParts layer=1 chface="yuu_c_d_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2493|
 [fc]
@@ -204,7 +204,7 @@ Ahaha! Haha, ahaha! Ahahahaha!![pcms]
 [fc]
 Igarashi-san was sent flying by Shindou-sensei and fell to[r]the floor, and upon seeing that, Yamagishi-san burst into[r]loud laughter.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2494|
 [fc]
@@ -216,7 +216,7 @@ Ahahaha! Ahaha, hahaha! Ahaha![pcms]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2495|
 [fc]
@@ -233,7 +233,7 @@ Igarashi-san, who had collapsed in the corridor, pointed[r]towards the direction
 [ChrSetParts layer=1 chface="risa_e_e_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2496|
 [fc]
@@ -255,7 +255,7 @@ Yamagishi-san remained alone in the cafeteria, straightening[r]her back and stan
 [ChrSetParts layer=1 chface="yuu_c_d_12"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2497|
 [fc]
@@ -266,7 +266,7 @@ Ahaha, ahahahaha, ahahaha, ahahahaha, ahahahahahahaha![pcms]
 *6038|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *6039|
 [fc]
@@ -277,13 +277,13 @@ It looks like her, but could it be a completely different[r]person on the inside
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2498|
 [fc]
 [vo_ya s="yama0845"]
 [ns]Yamagishi[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
@@ -291,13 +291,13 @@ It looks like her, but could it be a completely different[r]person on the inside
 [fc]
 Suddenly, Yamagishi-san abruptly stopped laughing and left[r]the cafeteria, heading towards the direction where Igarashi-[r]san and Shindou-sensei had walked.[pcms]
 
-;//â™ªï¼šBGM004ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM004ƒtƒF[ƒhƒAƒEƒg
 [fadeoutbgm time=500]
 
 *6041|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *6042|
 [fc]
@@ -329,6 +329,6 @@ I finally noticed that due to the fear, my hand had clenched[r]the bread so tigh
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05680]ã¸
+;//[05680]‚Ö
 [jump target=*05680_TOP storage="05680.ks"]
 

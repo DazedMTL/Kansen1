@@ -1,22 +1,22 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07260ã€æŠ±æ“ã€
-;//BG;åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN07260w•ø—ix
+;//BG;’n‰ººFÁ“”
+;//“oêl•¨FålŒöE“µ
 
 *07260_H_TOP
-;[debug_win]ãªã†ã€€07260_H[debug_win_end]
+;[debug_win]‚È‚¤@07260_H[debug_win_end]
 
 [eval exp="sf.SRP38 = 1"][if exp="tf.scene_mode == 0"][jump target=*07260_H][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 *07260_H
-;*SceneSet|ã€æŠ±æ“ã€
+;*SceneSet|w•ø—ix
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07260 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07260 = 1"]
 
 ;	/*
-;	;//â™ªï¼šBGM010
+;	;//ôFBGM010
 ;	[bgm010]
 ;	
 ;	;//BG:bg23b
@@ -61,7 +61,7 @@ These stockings are getting in the way.[pcms]
 Eh... K-Kato-san, what are you suddenly...[l][er]
 Ahh![pcms]
 
-;//SE:æœã®ç ´ã‚Œã‚‹éŸ³
+;//SE:•‚Ì”j‚ê‚é‰¹
 [se0 storage="se006"]
 
 *7750|
@@ -73,7 +73,7 @@ I forcefully tore apart the stockings.[pcms]
 
 *scene_start
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 [bgm008]
 
 ;//HCG:ON
@@ -93,7 +93,7 @@ Beautiful... You're beautiful, Saeki...[pcms]
 [fc]
 I was completely excited and unable to hold back, so I was[r]sucked in and attached myself to Saeki's pink pussy.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
@@ -170,7 +170,7 @@ As I sharpened the tip of my tongue and thrust it into[r]Saeki's insides, tracin
 [fc]
 The taste was a little salty, and it entangled with my[r]tongue, shaking my mind even more.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 [stop_se0]
 
 *7760|
@@ -219,7 +219,7 @@ Uaaaah... Don't say that...[pcms]
 [fc]
 Relying on the stories from Yuuji and the knowledge I[r]learned from Shinya's collection of erotic books, I try[r]rolling my tongue over her clitoris.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 [se0 storage="se059"]
 
 *v3086|
@@ -239,7 +239,7 @@ It's interesting. That she reacts like this.[l][er]
 It's interesting and somehow makes me happy.[l][er]
 Let's tease her more.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
@@ -286,7 +286,7 @@ Saeki, gasping for breath.[pcms]
 [fc]
 However, despite that, she raises her hips and presses[r]herself against me as if silently asking me to suck more.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [se0 storage="se059"]
 
@@ -302,7 +302,7 @@ Haha...[pcms]
 [fc]
 I wanted to see another reaction, so this time I suck[r]harder.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 [se0 storage="se059" loop=true]
 
 *v3090|
@@ -372,13 +372,13 @@ Yaa, uwaahh!! Aaahhh!! What!? Something...[l][er]
 is coming out... Nooo!! Aaaaahhh!![l][er]
 Noooo!![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//ï¼ æ‰æ¸•ï¼šä¸‹è¨˜ï¼³ï¼¥ãŒè¡¨ã«ãªã„ãŸã‚ã«ç¾åœ¨éŸ³ã‚’å¼µã£ã¦ã„ã¾ã›ã‚“ã€‚
+;//—™ŸºF‰º‹L‚r‚d‚ª•\‚É‚È‚¢‚½‚ß‚ÉŒ»İ‰¹‚ğ’£‚Á‚Ä‚¢‚Ü‚¹‚ñB
 
-;//SE:æ”¾å°¿ï¼ˆå‹¢ã„ã‚ˆãã€çŸ­ãï¼‰
+;//SE:•ú”Ai¨‚¢‚æ‚­A’Z‚­j
 
 ;//[se0 storage="se064"]
 
@@ -462,5 +462,5 @@ Saeki!! Next, it's my turn!![pcms]
 [ns]Saeki[nse]
 Ahh!![pcms]
 
-;//[07270]ã¸
+;//[07270]‚Ö
 [jump target=*07270_H_TOP storage="07270_H.ks"]

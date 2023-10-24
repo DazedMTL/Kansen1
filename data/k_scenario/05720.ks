@@ -1,15 +1,15 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05720ã€è„±å‡ºè¨ˆç”»ã€
-;//;//BG:åœ°ä¸‹å®¤ï¼›æ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05720w’EoŒv‰æx
+;//;//BG:’n‰ººGÁ“”
+;//“oêl•¨GålŒöE“µ
 
 *05720_TOP
-;[debug_win]ãªã†ã€€05720[debug_win_end]
-;*SceneSet|ã€è„±å‡ºè¨ˆç”»ã€
+;[debug_win]‚È‚¤@05720[debug_win_end]
+;*SceneSet|w’EoŒv‰æx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05720 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05720 = 1"]
 
-;//â™ªï¼šBGM010
+;//ôFBGM010
 
 [bgm010]
 
@@ -18,7 +18,7 @@
 [bg storage="bg23a"]
 [trans_c cross time=500]
 
-;//SE:å†·è”µåº«ã®ãƒ¢ãƒ¼ã‚¿ãƒ¼éŸ³
+;//SE:—â‘ ŒÉ‚Ìƒ‚[ƒ^[‰¹
 
 [se0 storage="se044"]
 
@@ -58,7 +58,7 @@ I was filled with unease by the dream I had seen, so I[r]hurriedly shook Saeki's
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2554|
 [fc]
@@ -76,7 +76,7 @@ Sorry, I woke you up.[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2555|
 [fc]
@@ -95,7 +95,7 @@ That's why I'm thinking of leaving school right away.[pcms]
 [fc]
 Saeki responded with a serious expression to the suggestion[r]that came from a vague sense of unease.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2556|
 [fc]
@@ -119,5 +119,5 @@ I nodded in response to Saeki's strong words and headed[r]towards the door leadi
 
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05730]ã¸
+;//[05730]‚Ö
 [jump target=*05730_TOP storage="05730.ks"]

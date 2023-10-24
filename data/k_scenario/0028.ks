@@ -1,21 +1,21 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0028ã€é‘‘è³ä¼šé–‹å§‹ã€
-;//BG:è¦–è´è¦šå®¤ï¼šå¤œ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­ãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN0028wŠÓÜ‰ïŠJnx
+;//BG:‹’®ŠoºF–é
+;//“oêl•¨GålŒöE—DE“µE•ü”üE’|“àE“c’†EƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *0028_TOP
-;[debug_win]ãªã†ã€€0028[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0028 = 1"]
+;[debug_win]‚È‚¤@0028[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0028 = 1"]
 
-;*SceneSet|ã€é‘‘è³ä¼šé–‹å§‹ã€
+;*SceneSet|wŠÓÜ‰ïŠJnx
 
 ;//[0028]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg015c
 ;[bg storage="bg15c"]
@@ -25,7 +25,7 @@
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v254|
 [fc]
@@ -41,7 +41,7 @@ The teacher, who spoke in a strange manner that seemed to[r]choke him, cleared h
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v255|
 [fc]
@@ -58,7 +58,7 @@ The teacher, in the middle of his speech, repeatedly took[r]deep breaths, as if 
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v256|
 [fc]
@@ -80,7 +80,7 @@ After clearing his throat with a pained expression, the[r]teacher began speaking
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v257|
 [fc]
@@ -98,7 +98,7 @@ I was unsure whether or not to approach the clearly strange[r]teacher.[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v258|
 [fc]
@@ -121,7 +121,7 @@ Could it be that you caught a cold and have a fever?[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v259|
 [fc]
@@ -139,7 +139,7 @@ Is that true? If you're not feeling well, we can handle[r]things like operating 
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v260|
 [fc]
@@ -164,7 +164,7 @@ After a short while, the teacher who had been silent opened[r]his eyes and spoke
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v261|
 [fc]
@@ -187,7 +187,7 @@ I wonder if he's really okay...[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v262|
 [fc]
@@ -202,7 +202,7 @@ I'll come back once the third period is over.[pcms]
 [fc]
 The teacher, who had been acting strange until the end, said[r]that and left the audiovisual room.[pcms]
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*0029_TOP storage="0029.ks"]
 
 

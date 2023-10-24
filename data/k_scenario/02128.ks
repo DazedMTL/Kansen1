@@ -1,30 +1,30 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02128ã€Žæ¡ä»¶åˆ†å²ã€
-;//BG:ç„¡ã—
-;//BG:ç„¡ã—
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02128wðŒ•ªŠòx
+;//BG:–³‚µ
+;//BG:–³‚µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02128_TOP
-;[debug_win]ãªã†ã€€02128[debug_win_end]
+;[debug_win]‚È‚¤@02128[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02128 = 1"]
+;Žg‚Á‚Ä‚È‚¢[eval exp="sf.g_02128 = 1"]
 
-;*SceneSet|ã€Žæ¡ä»¶åˆ†å²ã€
+;*SceneSet|wðŒ•ªŠòx
 
-;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼’ï¼¡ç”»é¢è¡¨ç¤º
-;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼’ï¼¢Startè¡¨ç¤ºï¼Žï¼‘ï¼è¡¨ç¤ºã€€
+;//flag:—Dƒ‹[ƒgƒtƒ[@‚Q‚`‰æ–Ê•\Ž¦
+;//flag:—Dƒ‹[ƒgƒtƒ[@‚Q‚aStart•\Ž¦D‚P‚O•\Ž¦@
 
-;//â€»æ¡ä»¶åˆ¤æ–­ãƒ–ãƒ­ãƒƒã‚¯
-;//ãƒ»flag:ãƒªã‚µã®æœ€å¾Œã«çµ¡ã‚€ãƒ•ãƒ©ã‚°ã€€ã¨flag:ç—›ã¿æ­¢ã‚å…¥æ‰‹
-;//ã€€ã®ã©ã¡ã‚‰ã‚‚OFF;//[04029]ã¸
-;//ãƒ»flag:ãƒªã‚µã®æœ€å¾Œã«çµ¡ã‚€ãƒ•ãƒ©ã‚°ã€€ã¨flag:ç—›ã¿æ­¢ã‚å…¥æ‰‹
-;//ã€€ã®ã„ãšã‚Œã‹ãŒON;//[02129]ã¸
+;//¦ðŒ”»’fƒuƒƒbƒN
+;//Eflag:ƒŠƒT‚ÌÅŒã‚É—‚Þƒtƒ‰ƒO@‚Æflag:’É‚ÝŽ~‚ß“üŽè
+;//@‚Ì‚Ç‚¿‚ç‚àOFF;//[04029]‚Ö
+;//Eflag:ƒŠƒT‚ÌÅŒã‚É—‚Þƒtƒ‰ƒO@‚Æflag:’É‚ÝŽ~‚ß“üŽè
+;//@‚Ì‚¢‚¸‚ê‚©‚ªON;//[02129]‚Ö
 
 
-;mm ã“ã‚Œã©ã£ã¡ã‹ã‚ªãƒ³ãªã‚‰2129è¡Œã£ã¡ã‚ƒã†ã‘ã©ã„ã„ã®ã‹ãª
+;mm ‚±‚ê‚Ç‚Á‚¿‚©ƒIƒ“‚È‚ç2129s‚Á‚¿‚á‚¤‚¯‚Ç‚¢‚¢‚Ì‚©‚È
 [if  exp="f.PAIN == 0 && f.RISA_FINAL == 0"]
 	[jump target=*04029_H_TOP storage="04029_H.ks"]
 [endif]

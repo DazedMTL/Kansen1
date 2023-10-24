@@ -1,17 +1,17 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08120ã€ãƒã‚¾å¥´éš·ã€
-;//BG;ç„¡ã—
-;//BG:ä½“è‚²æ•™å®˜å®¤ï¼šå¤œï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»ç«¹å†…ãƒ»ãƒªã‚µ
+;//¡ËƒuƒƒbƒN08120wƒ}ƒ]“z—êx
+;//BG;–³‚µ
+;//BG:‘Ìˆç‹³Š¯ºF–éF“_“”
+;//“oêl•¨FålŒöE’|“àEƒŠƒT
 
 *08120_H_TOP
-;[debug_win]ãªã†ã€€08120_H[debug_win_end]
+;[debug_win]‚È‚¤@08120_H[debug_win_end]
 
-;*SceneSet|ã€ãƒã‚¾å¥´éš·ã€
+;*SceneSet|wƒ}ƒ]“z—êx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08120 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08120 = 1"]
 
-;//â™ªï¼šBGM003
+;//ôFBGM003
 
 ;//[bgm003]
 
@@ -93,7 +93,7 @@ Stop!! Ahhhhh!![pcms]
 [sysbt_meswin clear]
 
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 [se0 storage="se021"]
 [quake_bg xy m]
 
@@ -244,7 +244,7 @@ Move aside, Shinya!! I'm going first!![pcms]
 ;;;[sysbt_meswin clear]
 
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
 
 ;//redflash
@@ -416,7 +416,7 @@ Sensei!![pcms]
 I couldn't help but jump on her, but what should I do...?[l][er]
 If I push myself onto her like this, will it easily go[r]in...?[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 [se0 storage="se059" loop=true]
 
 *v3482|
@@ -452,7 +452,7 @@ Noo... Ahhh...[pcms]
 [fc]
 The cock that had been rubbing against it repeatedly, unable[r]to enter easily, was suddenly sucked in as Sensei pulled[r]back her hips.[pcms]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 [se0 storage="se058"]
 
 *v3484|
@@ -471,7 +471,7 @@ It feels... good!![pcms]
 And, with love juice overflowing like pee, sticking thickly[r]to the cock...[l][er]
 The piston movement becomes easy...[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 
 [se1 storage="se061" loop=true]
 
@@ -690,13 +690,13 @@ I can't take it anymore!![pcms]
 [ns]Kato[nse]
 Ah![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 [stop_se0]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 [stop_se1]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 [se0 storage="se062"]
 
 ;;;[sysbt_meswin clear]
@@ -747,7 +747,7 @@ Amazing! So amazing!![pcms]
 Uwaaa!! It won't stop!! My sperm won't stop![l][er]
 It feels like the teacher's pussy is drinking up my semen![pcms]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -774,7 +774,7 @@ It feels like the teacher's pussy is drinking up my semen![pcms]
 
 ;//whiteflash
 
-;//æ‰æ¸•ï¼šå°„ç²¾ã‚’æ­¢ã‚ãªã•ã„ï¼šéŸ³å£°ãŒãªã„ãŸã‚ã«ã‚«ãƒƒãƒˆã€‚
+;//™ŸºFË¸‚ğ~‚ß‚È‚³‚¢F‰¹º‚ª‚È‚¢‚½‚ß‚ÉƒJƒbƒgB
 
 *v3494|
 [fc]
@@ -784,7 +784,7 @@ Noooo!! Stop!! Having a baby?![l][er]
 Getting pregnant... I'm going to get pregnant!![l][er]
 Ahhhh!![pcms]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -836,7 +836,7 @@ The teacher's pussy, which is breathing heavily, tightens up[r]again, making me 
 [ns]Kato[nse]
 Uwaaaahhh!![pcms]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -916,7 +916,7 @@ He must have really wanted to do it...[pcms]
 ... Aah, th-that, that's no good![l][er]
 Absolutely not!![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 [se0 storage="se059" loop=true]
 
 ;;;[sysbt_meswin clear]
@@ -965,7 +965,7 @@ It's the teacher's, the teacher's fault!![pcms]
 Shinya slowly coated his penis with a mixture of my[r]ejaculated semen and the teacher's love juices, then he[r]applied it to her anus.[l][er]
 Finally, he forcefully pressed himself onto the teacher.[pcms]
 
-;//SE:æŒ¿å…¥
+;//SE:‘}“ü
 
 [se0 storage="se058"]
 
@@ -1004,7 +1004,7 @@ uwahh...!![pcms]
 It's different from a pussy...[l][er]
 Maybe I should try it next time...[pcms]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
 
 [se1 storage="se060" loop=true]
 
@@ -1103,10 +1103,10 @@ Shinya, don't move!![pcms]
 [ns]Takeuchi[nse]
 Huh? Why!? I told you to move, Teacher...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 [stop_se0]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@’x‚¢@’â~
 [stop_se1]
 
 *9438|
@@ -1140,7 +1140,7 @@ You want to cum, don't you?[pcms]
 [fc]
 [vo_ri s="risa0729"]
 [ns]Shindou[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *9442|
 [fc]
@@ -1202,7 +1202,7 @@ It seemed like Shinya understood what I wanted to say, and[r]he nodded slightly.
 [ns]Takeuchi[nse]
 Yeah, you're right. Let's just cum already...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 [se0 storage="se059"]
 
 *v3509|
@@ -1285,10 +1285,10 @@ Hahahaha!! Shinya!! Go for it!![pcms]
 I've been waiting for this!! Well then, here I go...[l][er]
 Sensei!![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 [se0 storage="se059" loop=true]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
 [se1 storage="se061" loop=true]
 
 *9461|
@@ -1316,7 +1316,7 @@ Sensei!! Don't tighten so intensely like that!![pcms]
 [ns]Shindou[nse]
 Kuu, haaan... aaauu... dame yo...[l][er]
 hageshii...[pcms]
-ãã—ã¦ã‡ã£ï¼ã€€ã‚‚ã£ã¨ã€æ·±ãã€å¥¥ã¾ã§ï¼ï¼ã€€çŠ¯ã—ã¦ã£ï¼ï¼
+‚­‚µ‚Ä‚¥‚ÁI@‚à‚Á‚ÆA[‚­A‰œ‚Ü‚ÅII@”Æ‚µ‚Ä‚ÁII
 Uaaa!![pcms]
 
 *9463|
@@ -1347,13 +1347,13 @@ I'm cumminggg!![pcms]
 I can't hold on anymore!! Ugh!![l][er]
 I'm coming![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 [stop_se0]
 
-;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
+;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
 [stop_se1]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 [se0 storage="se062"]
 
 ;;;[sysbt_meswin clear]
@@ -1420,7 +1420,7 @@ It's lewd...[pcms]
 
 ;;;[sysbt_meswin clear]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
@@ -1429,7 +1429,7 @@ It's lewd...[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 [bgm007]
 
@@ -1437,7 +1437,7 @@ It's lewd...[pcms]
 
 ;;;[sysbt_meswin]
 
-;ç«‹ã¡
+;—§‚¿
 *std594|
 [fc]
 [ns]Takeuchi[nse]
@@ -1466,7 +1466,7 @@ She's starting to feel sleepy...[pcms]
 [ns]Kato[nse]
 I'm starting to feel sleepy...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std595|
 [fc]
 [ns]Takeuchi[nse]
@@ -1483,7 +1483,7 @@ Well then, let's take a little break...[pcms]
 
 *9475|
 [fc]
-â€¦â€¦â€¦â€¦ã€‚ â€¦â€¦ã€‚[pcms]
+ccccB ccB[pcms]
 
 
 ;//blackout
@@ -1494,10 +1494,10 @@ Well then, let's take a little break...[pcms]
 
 
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn43 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn43 = 1"]
 
-;//â™ªï¼šBGM008
+;//ôFBGM008
 
 [bgm008]
 
@@ -1616,7 +1616,7 @@ Huh?[pcms]
 [ns]Kato[nse]
 What are you saying? You guys...[pcms]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
 [quake_bg y m]
 
@@ -1643,11 +1643,11 @@ What are you sleeping for? You!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
 [quake_bg y m]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
 [quake_bg x m]
 
@@ -1681,7 +1681,7 @@ Hahaha!![pcms]
 Bwahahaha! What are these guys doing?![l][er]
 They're a mess!! Bwahahaha!![pcms]
 
-;//SE:ã‚¬ãƒ³ï¼ˆãƒ­ãƒƒã‚«ãƒ¼ã«ã¶ã¤ã‹ã‚‹ï¼‰
+;//SE:ƒKƒ“iƒƒbƒJ[‚É‚Ô‚Â‚©‚éj
 [se0 storage="se053"]
 
 [ChrSetEx layer=1 chbase="zom_04_a"]
@@ -1752,7 +1752,7 @@ do it... Look... Ahh, my stomach, heh, hurts...[pcms]
 ;	[trans_c cross time=150]
 ;	*/
 
-;ç«‹ã¡
+;—§‚¿
 
 *9510|
 [fc]
@@ -1800,7 +1800,7 @@ As we were about to go outside, Shinya came running with a[r]panicked expression
 ;	[trans_c cross time=150]
 ;	*/
 
-;ç«‹ã¡
+;—§‚¿
 
 *9518|
 [fc]
@@ -1816,12 +1816,12 @@ I just told you not to make so much noise...[pcms]
 ;//
 ;//
 
-;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM008ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
 ;//blackout
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer winon][trans_c cross time=500][hide_chara_int]
 
 *9522|
@@ -1830,17 +1830,17 @@ I just told you not to make so much noise...[pcms]
 Ugh...! What, who are you guys!![l][er]
 Uvooa!?[pcms]
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*08130_TOP storage="08130.ks"]
 

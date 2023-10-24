@@ -1,18 +1,18 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08210ã€ä¿å¥å®¤å¼·å§¦ï¼’ã€
-;//BG:ä¿å¥å®¤ï¼šç‚¹ç¯
-;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»æœ‹ç¾ãƒ»å„ª
+;//¡ËƒuƒƒbƒN08210w•ÛŒ’º‹­Š­‚Qx
+;//BG:•ÛŒ’ºF“_“”
+;//“oêl•¨FålŒöE•ü”üE—D
 
 *08210_H_TOP
-;[debug_win]ãªã†ã€€08210_H[debug_win_end]
+;[debug_win]‚È‚¤@08210_H[debug_win_end]
 
 *08210
 
-;*SceneSet|ã€ä¿å¥å®¤ï¼’ã€
+;*SceneSet|w•ÛŒ’º‚Qx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08210 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08210 = 1"]
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 ;//[bgm007]
 
@@ -128,7 +128,7 @@ Please clean it up nicely...[pcms]
 Yamagishi-san's mouth... Inside her mouth...[l][er]
 It's warm... It's softer compared to her pussy...[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
 
 [se0 storage="se059" loop=true]
 
@@ -246,11 +246,11 @@ Every time my dick throbs, semen splashes onto Yamagishi-[r]san's breasts.[pcms]
 Uaaa!! My breasts are hot!! Ah![l][er]
 Ah![pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -342,30 +342,30 @@ Kato-kun... I loved you...[pcms]
 [fc]
 ...? Who is Kato-kun?[pcms]
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn45 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn45 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;BGMåœæ­¢
+;BGM’â~
 ;[fadeoutbgm time=500]
 
-;mm ã“ã®ã‚ã¨BGMå†é–‹ã•ã‚Œã¦ãªã„ã‹ã‚‰æ­¢ã‚ãªã„
+;mm ‚±‚Ì‚ ‚ÆBGMÄŠJ‚³‚ê‚Ä‚È‚¢‚©‚ç~‚ß‚È‚¢
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*08220_TOP storage="08220.ks"]
 

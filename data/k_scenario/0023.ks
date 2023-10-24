@@ -1,25 +1,25 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0023ã€èª°ã‚‚é£Ÿã¹ãªã•ãã†ã§ã‹ã‚ã„ãã†ã ã‹ã‚‰ç³ã®æ–™ç†ã‚’é£Ÿã¹ã¦ã¿ã‚‹
-;//BG:å­¦åœ’å†…å­¦é£Ÿï¼šå¤•æ–¹
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­
-;//â‡’ãƒ–ãƒ­ãƒƒã‚¯0023ã€èª°ã‚‚é£Ÿã¹ãªã•ãã†ã§ã‹ã‚ã„ãã†ã ã‹ã‚‰ç³ã®æ–™ç†ã‚’é£Ÿã¹ã¦ã¿ã‚‹ã€
-;//â‡’ãƒ–ãƒ­ãƒƒã‚¯0023ã€ç³ã®æ–™ç†ã¯è¦‹ã¦ãã‚ŒãŒæ‚ªã„ãŒç¾å‘³ãã†ã ã€
-;//â˜…ãƒ–ãƒ­ãƒƒã‚¯0018ã®é¸æŠã‹ã‚‰ã‚‚åŒæ§˜ã«ãƒ–ãƒ­ãƒƒã‚¯0023ã¸åˆæµ
-;//BG:å­¦åœ’å†…å­¦é£Ÿï¼šå¤œ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN0023w’N‚àH‚×‚È‚³‚»‚¤‚Å‚©‚í‚¢‚»‚¤‚¾‚©‚ç“µ‚Ì—¿—‚ğH‚×‚Ä‚İ‚é
+;//BG:Šw‰€“àŠwHF—[•û
+;//“oêl•¨GålŒöE—DE“µE•ü”üE’|“àE“c’†
+;//ËƒuƒƒbƒN0023w’N‚àH‚×‚È‚³‚»‚¤‚Å‚©‚í‚¢‚»‚¤‚¾‚©‚ç“µ‚Ì—¿—‚ğH‚×‚Ä‚İ‚éx
+;//ËƒuƒƒbƒN0023w“µ‚Ì—¿—‚ÍŒ©‚Ä‚­‚ê‚ªˆ«‚¢‚ª”ü–¡‚»‚¤‚¾x
+;//šƒuƒƒbƒN0018‚Ì‘I‘ğ‚©‚ç‚à“¯—l‚ÉƒuƒƒbƒN0023‚Ö‡—¬
+;//BG:Šw‰€“àŠwHF–é
+;//“oêl•¨GålŒöE—DE“µE•ü”üE’|“àE“c’†
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *0023_TOP
-;[debug_win]ãªã†ã€€0023[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0023 = 1"]
+;[debug_win]‚È‚¤@0023[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0023 = 1"]
 
-;*SceneSet|ã€èª°ã‚‚é£Ÿã¹ãªã•ãã†ã§ã‹ã‚ã„ãã†ã ã‹ã‚‰ç³ã®æ–™ç†ã‚’é£Ÿã¹ã¦ã¿ã‚‹ã€
+;*SceneSet|w’N‚àH‚×‚È‚³‚»‚¤‚Å‚©‚í‚¢‚»‚¤‚¾‚©‚ç“µ‚Ì—¿—‚ğH‚×‚Ä‚İ‚éx
 
 ;//[0023]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg014b
 ;//[bg storage="bg14b"]
@@ -46,7 +46,7 @@ The only option left for me was the fried rice made by[r]Saeki, which looked a l
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std125|
 [fc]
 [ns]Takeuchi[nse]
@@ -57,7 +57,7 @@ Wow, this is so delicious! Yuu-chan will make a great wife.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v223|
 [fc]
@@ -137,7 +137,7 @@ It's one of my favorites.[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v224|
 [fc]
@@ -160,7 +160,7 @@ Don't be shy, don't be shy.[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v225|
 [fc]
@@ -182,7 +182,7 @@ The fried rice was slightly burnt in some places, and the[r]distribution of the 
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v226|
 [fc]
@@ -196,7 +196,7 @@ It's probably not very delicious...[pcms]
 [ns]Kato[nse]
 No, no, you won't know until you try it.[pcms]
 
-;//SE:é£Ÿäº‹ã®ã‚«ãƒãƒ£ã‚«ãƒãƒ£éŸ³
+;//SE:H–‚ÌƒJƒ`ƒƒƒJƒ`ƒƒ‰¹
 [se0 storage="se014"]
 
 *563|
@@ -213,13 +213,13 @@ Mmm... Muku...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v227|
 [fc]
 [vo_sa s="sae0059"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *565|
 [fc]
@@ -231,7 +231,7 @@ It's delicious...[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v228|
 [fc]
@@ -256,7 +256,7 @@ It may not look great, but...[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v229|
 [fc]
@@ -305,6 +305,6 @@ Just being able to see Saeki's expression like this, I feel[r]like it was worth 
 ;;;[sysbt_meswin clear]
 
 
-;//[0024]ã¸
+;//[0024]‚Ö
 [jump target=*0024_TOP storage="0024.ks"]
 

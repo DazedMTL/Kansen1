@@ -1,20 +1,20 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0024ã€å¾Œã‹ãŸã¥ã‘é–‹å§‹ï¼šåˆæµã€
-;//BG:å­¦åœ’å†…å­¦é£Ÿï¼šå¤•æ–¹
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN0024wŒã‚©‚½‚Ã‚¯ŠJnF‡—¬x
+;//BG:Šw‰€“àŠwHF—[•û
+;//“oêl•¨GålŒöE—DE“µE•ü”üE’|“àE“c’†
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *0024_TOP
-;[debug_win]ãªã†ã€€0024[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0024 = 1"]
+;[debug_win]‚È‚¤@0024[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0024 = 1"]
 
-;*SceneSet|ã€å¾Œã‹ãŸã¥ã‘é–‹å§‹ã€
+;*SceneSet|wŒã‚©‚½‚Ã‚¯ŠJnx
 
 ;//[0024]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 ;//BG:bg014b
 
@@ -23,7 +23,7 @@
 [bg storage="bg14b"]
 [trans_c cross time=500]
 
-;//SE:é£Ÿå™¨ã‚’æ´—ã†éŸ³
+;//SE:HŠí‚ğô‚¤‰¹
 [se0 storage="se052"]
 
 
@@ -38,7 +38,7 @@ We, who had eaten all the food, began cleaning up.[pcms]
 The guy in charge of miscellaneous tasks, I brought the[r]dishes to the sink.[l][er]
 Yuuji washed them, while Shinya took out the trash and we[r]divided the work to proceed with the cleanup.[pcms]
 
-;//SE:é£Ÿå™¨ã‚’é‹ã¶éŸ³
+;//SE:HŠí‚ğ‰^‚Ô‰¹
 
 *577|
 [fc]
@@ -50,7 +50,7 @@ Yo... Yuuji, please take care of this too.[pcms]
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v230|
 [fc]
@@ -68,7 +68,7 @@ Huh!? Yamagishi-san, what are you doing!?[pcms]
 [ChrSetParts layer=1 chface="tomo_c_a1_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v231|
 [fc]
@@ -113,7 +113,7 @@ Damn...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v232|
 [fc]
@@ -129,7 +129,7 @@ Saeki said that and entered the sink, then Yamagishi-san[r]also entered the sink
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v233|
 [fc]
@@ -158,7 +158,7 @@ I'm sorry for making you do the cleanup too...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v234|
 [fc]
@@ -191,7 +191,7 @@ After we started washing the dishes, a little while later,[r]Yamagishi-san sudde
 [ChrSetParts layer=1 chface="tomo_c_a1_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v235|
 [fc]
@@ -204,7 +204,7 @@ It seems that Yuuji is feeling sick...[pcms]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std126|
 [fc]
 [ns]Tanaka[nse]
@@ -230,7 +230,7 @@ Yuuji, without the energy to retort, covered his mouth and[r]staggered towards t
 [ChrSetParts layer=1 chface="tomo_c_a1_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v236|
 [fc]
@@ -271,9 +271,9 @@ Could it be...[pcms]
 I wonder if he's not really feeling sick?[l][er]
 I hope he's not planning something...[pcms]
 
-;//â€»æ¡ä»¶åˆ†å²
-;//ãƒ»flag:ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ã‚¶ãƒƒãƒ”ãƒ³ã‚°ãƒ‘ãƒ¼ãƒˆã€€é–‹æ”¾ã€€onã®ã¨ã[0025]ã¸
-;//ãƒ»flag:ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ã‚¶ãƒƒãƒ”ãƒ³ã‚°ãƒ‘ãƒ¼ãƒˆã€€é–‹æ”¾ã€€ãŒOFFã®ã¨ã[0026]ã¸
+;//¦ğŒ•ªŠò
+;//Eflag:ƒvƒƒ[ƒOƒUƒbƒsƒ“ƒOƒp[ƒg@ŠJ•ú@on‚Ì‚Æ‚«[0025]‚Ö
+;//Eflag:ƒvƒƒ[ƒOƒUƒbƒsƒ“ƒOƒp[ƒg@ŠJ•ú@‚ªOFF‚Ì‚Æ‚«[0026]‚Ö
 
 [if exp="sf.g_prologue_clear==1"]
 	[jump target=*0025_TOP storage="0025.ks"]

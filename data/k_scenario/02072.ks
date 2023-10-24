@@ -1,22 +1,22 @@
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02072ã€å„ªã¨äºŒäººãã‚Šï¼šå­¦åœ’å†…ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02072w—D‚Æ“ñl‚«‚èFŠw‰€“àx
+;//BG:“Áê‹³º˜L‰ºF–éFÁ“”
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02072_TOP
-;[debug_win]ãªã†ã€€02072[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02072 = 1"]
+;[debug_win]‚È‚¤@02072[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02072 = 1"]
 
-;*SceneSet|ã€å„ªã¨äºŒäººãã‚Šã€
+;*SceneSet|w—D‚Æ“ñl‚«‚èx
 
 ;//[02072]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
-;mm BGMé³´ã£ã¦ãªã„ã‘ã©ã‚³ãƒ¡ãƒ³ãƒˆã‚¢ã‚¦ãƒˆã•ã‚Œã¦ã‚‹ã‹ã‚‰ãã®ã¾ã¾ã«ã—ã¦ãŠã
+;mm BGM–Â‚Á‚Ä‚È‚¢‚¯‚ÇƒRƒƒ“ƒgƒAƒEƒg‚³‚ê‚Ä‚é‚©‚ç‚»‚Ì‚Ü‚Ü‚É‚µ‚Ä‚¨‚­
 
 ;//BG:bg004d
 [bg storage="bg04d"]
@@ -27,7 +27,7 @@
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v643|
 [fc]
@@ -51,7 +51,7 @@ Yamagishi-san is still peering at me with a worried[r]expression as I sit down o
 No, it's really not that big of a deal.[l][er]
 Don't worry about it.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v644|
 [fc]
@@ -63,7 +63,7 @@ Yeah...[pcms]
 [fc]
 Yamagishi-san sat down next to me, hugging her knees.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v645|
 [fc]
@@ -80,7 +80,7 @@ I hope Saeki will find her...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v646|
 [fc]
@@ -93,13 +93,13 @@ It's true, I'm envious. Whenever I see Tomo-chan and Tanaka-[r]san together, I a
 [ns]Kato[nse]
 Is that so? Because those two are said to be an incredibly[r]stupid couple in history.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v647|
 [fc]
 [vo_ya s="yama0171"]
 [ns]Yamagishi[nse]
-Ahaha. But isn't it common to have parental approval?  I[r]heard they've already been introduced to each other's[r]parents, it's amazing, right~[pcms]
+Ahaha. But isn't it common to have parental approval?   I[r]heard they've already been introduced to each other's[r]parents, it's amazing, right~[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
@@ -145,7 +145,7 @@ If Yamagishi-san thinks of me as a guy who casually talks[r]about dirty jokes in
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v648|
 [fc]
@@ -163,7 +163,7 @@ Hmm... Is that how it is?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v649|
 [fc]
@@ -176,7 +176,7 @@ That's right~! I actually have quite a few friends who were[r]forced to break up
 [ns]Kato[nse]
 That's impressive in its own way...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v650|
 [fc]
@@ -190,7 +190,7 @@ And you know, they've never even had a fight, those two.[pcms]
 [ns]Kato[nse]
 Ah... They're so close that it makes me feel a bit awkward.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v651|
 [fc]
@@ -209,8 +209,8 @@ Hmm...[pcms]
 [fc]
 Yamagishi-san, who had been speaking with a sullen[r]expression, lifted her head and gazed into the empty space[r]with a lonely look.[pcms]
 
-;//â™ªï¼šBGM001ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
-;//â™ªï¼šBGM010ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM001ƒtƒF[ƒhƒAƒEƒg
+;//ôFBGM010ƒtƒF[ƒhƒCƒ“
 [bgm010]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
@@ -218,7 +218,7 @@ Yamagishi-san, who had been speaking with a sullen[r]expression, lifted her head
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v652|
 [fc]
@@ -232,7 +232,7 @@ Even if I were gone for 2-3 days, they would probably just[r]think I went somewh
 [ns]Kato[nse]
 That's not true. If their daughter didn't come home, any[r]parent would worry, right?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v653|
 [fc]
@@ -246,7 +246,7 @@ I don't think they would even notice if I were gone or if[r]they did, they would
 [ns]Kato[nse]
 Is that so...?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v654|
 [fc]
@@ -272,7 +272,7 @@ Suddenly, Yamagishi-san opens her mouth.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v655|
 [fc]
@@ -301,11 +301,11 @@ No good... Why can't I seize this opportunity?![pcms]
 Ah, Yamagishi-san fell silent again...[l][er]
 I should say something... Huh?[pcms]
 
-;//â™ªï¼šBGM010ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM010ƒtƒF[ƒhƒAƒEƒg
+;//ôFBGM–³‚µ
 [fadeoutbgm time=500]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
+;//SE:”à‚ğŠJ‚¯‚é
 [se0 storage="se008"]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
@@ -313,7 +313,7 @@ I should say something... Huh?[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v656|
 [fc]
@@ -335,7 +335,7 @@ Did you hear that? What just happened?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v657|
 [fc]
@@ -348,8 +348,8 @@ Hmm... I wonder if there's someone here...[pcms]
 [ns]Kato[nse]
 Let's go and check it out.[pcms]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 [se0 storage="se005"]
-;//[02073]ã¸
+;//[02073]‚Ö
 [jump target=*02073_TOP storage="02073.ks"]
 

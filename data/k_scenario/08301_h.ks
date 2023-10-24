@@ -1,41 +1,41 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08301ã€ãŠã¨ã€â€»ãƒ–ãƒ­ãƒƒã‚¯è¿½åŠ 
-;//BGï¼šæ•™å®¤ï¼šæœ
-;//BG:äºŒéšå»Šä¸‹
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹
-;//BG:æ˜‡é™å£ã€€
-;//BG:è·å“¡å®¤
-;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»ç«¹å†…ãƒ»å„ªãƒ»ç³
+;//¡ËƒuƒƒbƒN08301w‚¨‚Æx¦ƒuƒƒbƒN’Ç‰Á
+;//BGF‹³ºF’©
+;//BG:“ñŠK˜L‰º
+;//BG:“Áê‹³º˜L‰º
+;//BG:¸~Œû@
+;//BG:Eˆõº
+;//“oêl•¨FålŒöE’|“àE—DE“µ
 
 *08301_H_TOP
-;[debug_win]ãªã†ã€€08301_H[debug_win_end]
+;[debug_win]‚È‚¤@08301_H[debug_win_end]
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [eval exp="sf.SRP50 = 1"][if exp="tf.scene_mode == 0"][jump target=*08301][endif]
 ;;[winset]
 [jump target=*scene_start]
 
-;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
+;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
 
-;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
+;//BGMEƒ‹[ƒvÄ¶
 ;//[bgm008]
 
-;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
-;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
+;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
+;//‚±‚±‚æ‚è–{•Ò
 
 *08301
 
-;*SceneSet|ã€ãŠã¨ã€
+;*SceneSet|w‚¨‚Æx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08301 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08301 = 1"]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 
 [bgm001]
 
-;//;//BG:bgç„¡ã—
+;//;//BG:bg–³‚µ
 
-;//SE:æ‰‰ã‚’é–‹ã
+;//SE:”à‚ğŠJ‚­
 
 [se0 storage="se008"]
 
@@ -51,7 +51,7 @@ Ah... I'm going to check the bus schedule![pcms]
 [ns]Saeki[nse]
 Well then, I will go to the rooftop.[pcms]
 
-;//SE:æ‰‰ã‚’é–‰ã‚ã‚‹
+;//SE:”à‚ğ•Â‚ß‚é
 
 ;//[se0 storage="se010"]
 
@@ -99,7 +99,7 @@ There are no girls around.[pcms]
 [ns]Kato[nse]
 Let's go somewhere...[pcms]
 
-;//BG;äºŒéšå»Šä¸‹
+;//BG;“ñŠK˜L‰º
 
 [bg storage="bg06a"]
 [trans_c cross time=500]
@@ -113,7 +113,7 @@ It's bright...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3928|
 [fc]
@@ -126,7 +126,7 @@ Kato-kun, the bus is coming! We need to hurry...[pcms]
 [ChrSetParts layer=1 chface="sae_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3929|
 [fc]
@@ -153,7 +153,7 @@ I... can't go anywhere...[pcms]
 [ChrSetParts layer=1 chface="yuu_a_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3930|
 [fc]
@@ -166,7 +166,7 @@ Is that so? Ahaha... Well, I guess there's no helping it[r]then![pcms]
 [ChrSetParts layer=1 chface="sae_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3931|
 [fc]
@@ -180,7 +180,7 @@ Well then, I'll go to the rooftop alone...[pcms]
 [ns]Kato[nse]
 I guess there's no helping it.[pcms]
 
-;//SE:ã‚¬ãƒ³ãƒƒ
+;//SE:ƒKƒ“ƒb
 [se0 storage="se023"]
 
 [backlay_c][chara_int][trans_c cross time=150]
@@ -194,7 +194,7 @@ I keep bumping into walls.[pcms]
 [fc]
 But, it doesn't hurt.[pcms]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 
 [se0 storage="se021"]
 
@@ -210,7 +210,7 @@ Ah, huh?[pcms]
 [ChrSetParts layer=1 chface="yuu_a_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3932|
 [fc]
@@ -223,7 +223,7 @@ Ahaha! Kato-kun fell down! Ahahahaha![pcms]
 [ChrSetParts layer=1 chface="sae_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3933|
 [fc]
@@ -242,7 +242,7 @@ My legs got tangled. My right leg and left leg collided.[pcms]
 [ns]Kato[nse]
 Yo... Ah, huh?[pcms]
 
-;//SE:ãƒ‰ã‚µãƒƒ
+;//SE:ƒhƒTƒb
 
 [se0 storage="se021"]
 
@@ -257,7 +257,7 @@ Ah, huh? What, why?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3934|
 [fc]
@@ -270,7 +270,7 @@ Hey... Pull yourself together...[pcms]
 [ChrSetParts layer=1 chface="sae_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3935|
 [fc]
@@ -294,7 +294,7 @@ Haha, hahaha... I'm happy.[pcms]
 [ChrSetParts layer=1 chface="sae_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3936|
 [fc]
@@ -307,7 +307,7 @@ Hehehe... I also feel somehow happy...[pcms]
 [ChrSetParts layer=1 chface="yuu_a_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3937|
 [fc]
@@ -328,7 +328,7 @@ Maybe it's because I'm happy.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3938|
 [fc]
@@ -340,7 +340,7 @@ Hey... Kato-kun, where were you trying to go?[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3939|
 [fc]
@@ -358,7 +358,7 @@ It's... dark... so... bright...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3940|
 [fc]
@@ -370,7 +370,7 @@ Today, the weather is nice, isn't it~...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3941|
 [fc]
@@ -382,7 +382,7 @@ Yes, that's right... As Kato-san said, it's bright, isn't[r]it...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3942|
 [fc]
@@ -401,7 +401,7 @@ It's bright, and besides, there's the sun in the sky, it's[r]hot.[pcms]
 Outside... hot... bright... blinding...[l][er]
 no, no.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3943|
 [fc]
@@ -415,7 +415,7 @@ And yeah, it's definitely unpleasant to be blinded by the[r]brightness too...[pc
 [ChrSetParts layer=1 chface="sae_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3944|
 [fc]
@@ -438,7 +438,7 @@ Well then, um, there... I'll go.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3945|
 [fc]
@@ -452,7 +452,7 @@ Right?[pcms]
 [ChrSetParts layer=1 chface="sae_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3946|
 [fc]
@@ -482,7 +482,7 @@ Dragging, dragging... Even if I don't move my legs, I can[r]still move forward.[
 [ChrSetParts layer=1 chface="yuu_a_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3947|
 [fc]
@@ -495,7 +495,7 @@ Uwaa~... It's cool here, isn't it?[pcms]
 [ChrSetParts layer=1 chface="sae_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3948|
 [fc]
@@ -508,7 +508,7 @@ That's right... There are no windows here...[pcms]
 [ChrSetParts layer=1 chface="yuu_a_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3949|
 [fc]
@@ -531,7 +531,7 @@ Se-, kusu[l][er]
 [ChrSetParts layer=1 chface="sae_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3950|
 [fc]
@@ -549,7 +549,7 @@ I-I'll do it.[pcms]
 [ChrSetParts layer=1 chface="yuu_a_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3951|
 [fc]
@@ -563,7 +563,7 @@ Ahahaha!! Alright, let's do it![l][er]
 [ChrSetParts layer=1 chface="sae_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3952|
 [fc]
@@ -582,7 +582,7 @@ I'm looking forward to it...[pcms]
 
 *scene_start
 
-;//â™ªï¼šBGM006
+;//ôFBGM006
 [bgm006]
 
 ;//HCG:ON
@@ -593,7 +593,7 @@ I'm looking forward to it...[pcms]
 ;;;[sysbt_meswin]
 
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
 
 [se0 storage="se059"]
 
@@ -877,11 +877,11 @@ give it to me...[pcms]
 [fc]
 It's annoying to hold back. Since the girls are saying they[r]want it, I'll give them a bukkake.[pcms]
 
-;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
 
 [stop_se0]
 
-;//SE:å°„ç²¾
+;//SE:Ë¸
 
 [se0 storage="se062"]
 
@@ -1001,12 +1001,12 @@ The girls are also satisfied. I'm happy.[pcms]
 
 
 
-;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
+;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 
 [bgm001]
 
@@ -1127,19 +1127,19 @@ I should sleep too.[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//ã“ã“ã¾ã§æœ¬ç·¨
+;//‚±‚±‚Ü‚Å–{•Ò
 
-;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
-;ä¸è¦[eval exp="="sf.g_scn51 = 1"]
+;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
+;•s—v[eval exp="="sf.g_scn51 = 1"]
 
-;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
+;//ƒEƒBƒ“ƒhƒEÁ‹
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
+;//•‚ÉƒtƒF[ƒh
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*08302_TOP storage="08302.ks"]

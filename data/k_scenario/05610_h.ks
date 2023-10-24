@@ -1,37 +1,37 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05610ã€å¿ƒåœ°ã‚ˆã„è„±åŠ›ã€
-;//;//BG:åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN05610wS’n‚æ‚¢’E—Íx
+;//;//BG:’n‰ººFÁ“”
+;//“oêl•¨GålŒöE“µ
 
 *05610_H_TOP
-;[debug_win]ãªã†ã€€05610_H[debug_win_end]
-;*SceneSet|ã€å¿ƒåœ°ã‚ˆã„è„±åŠ›ã€
+;[debug_win]‚È‚¤@05610_H[debug_win_end]
+;*SceneSet|wS’n‚æ‚¢’E—Íx
 
-;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€Nextã€€è¡¨ç¤º
+;//flag:“µƒ‹[ƒgƒtƒ[@Next@•\¦
 ;//;//BG:bg23b
 
 [bg storage="bg23b"]
 [trans_c cross time=500]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05610 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05610 = 1"]
 
 [ChrSetEx layer=1 chbase="sae_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2461|
 [fc]
 [vo_sa s="sae0620"]
 [ns]Saeki[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *5902|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *5903|
 [fc]
@@ -51,7 +51,7 @@ I was vaguely imagining what was happening outside.[pcms]
 ;	[ChrSetParts layer=1 chface="sae_c_a_02"]
 ;	[trans_c cross time=150]
 ;	*/
-;ç«‹ã¡
+;—§‚¿
 
 *v2462|
 [fc]
@@ -73,7 +73,7 @@ Hm...?[pcms]
 [ChrSetParts layer=1 chface="sae_a_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2463|
 [fc]
@@ -92,7 +92,7 @@ While gently stroking Saeki's flushed cheek, I also looked[r]straight back into 
 [ns]Kato[nse]
 And, what?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2464|
 [fc]
@@ -124,7 +124,7 @@ I'm the first for Saeki too...[pcms]
 ;	[ChrSetParts layer=1 chface="sae_c_a_02"]
 ;	[trans_c cross time=150]
 ;	*/
-;ç«‹ã¡
+;—§‚¿
 
 *v2465|
 [fc]
@@ -142,7 +142,7 @@ It made me feel at ease, and my eyelids began to feel heavy.[pcms]
 [ChrSetParts layer=1 chface="sae_a_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2466|
 [fc]
@@ -160,7 +160,7 @@ As my eyelids naturally closed and my consciousness began to[r]fade, I heard Sae
 [ChrSetParts layer=1 chface="sae_a_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2467|
 [fc]
@@ -178,5 +178,5 @@ Hehe... Goodnight...[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05620]ã¸
+;//[05620]‚Ö
 [jump target=*05620_TOP storage="05620.ks"]

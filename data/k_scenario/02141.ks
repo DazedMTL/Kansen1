@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02141ã€å±‹ä¸Šã€â™‚â™‚
-;//BG:å±‹ä¸Šï¼šå¤•æ–¹
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02141w‰®ãx‰‰
+;//BG:‰®ãF—[•û
+;//“oêl•¨GålŒöE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02141_TOP
-;[debug_win]ãªã†ã€€02141[debug_win_end]
+;[debug_win]‚È‚¤@02141[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02141 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02141 = 1"]
 
-;*SceneSet|ã€å±‹ä¸Šã€
+;*SceneSet|w‰®ãx
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 ;//[bgm007]
 
@@ -23,7 +23,7 @@
 [bg storage="bg22e"]
 [trans_c cross time=500]
 
-;//SE:ã‚¬ãƒ©ã‚¬ãƒ©
+;//SE:ƒKƒ‰ƒKƒ‰
 
 *2549|
 [fc]
@@ -43,7 +43,7 @@ I thought that they were using the stairs inside the school[r]building to move a
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v993|
 [fc]
@@ -60,7 +60,7 @@ No... We ran out of weapons that would work against them, so[r]this is the only 
 [fc]
 Yamagishi-san looked at the city beyond the fence, where[r]smoke was rising from everywhere, and her face became filled[r]with unease.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v994|
 [fc]
@@ -79,7 +79,7 @@ The Self-Defense Force base isn't that far away.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v995|
 [fc]
@@ -92,11 +92,11 @@ And besides, Kato-kun will keep his promise, right?[pcms]
 [ns]Kato[nse]
 Promise...?[pcms]
 
-;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//ôFBGM007ƒtƒF[ƒhƒAƒEƒg
 
 [fadeoutbgm time=500]
 
-;//â™ªï¼šBGM010ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
+;//ôFBGM010ƒtƒF[ƒhƒCƒ“
 
 [bgm010]
 
@@ -118,7 +118,7 @@ I shouldn't speak impulsively like that...[pcms]
 [ns]Kato[nse]
 Ah, yes, of course! I will definitely keep my promise.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v996|
 [fc]
@@ -141,7 +141,7 @@ When I saw her powerless smile, I couldn't help but think[r]that way.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v997|
 [fc]
@@ -158,7 +158,7 @@ Yamagishi-san, who was gazing at the city where white and[r]black smoke drifted,
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v998|
 [fc]
@@ -166,7 +166,7 @@ Yamagishi-san, who was gazing at the city where white and[r]black smoke drifted,
 [ns]Yamagishi[nse]
 Home, huh...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v999|
 [fc]
@@ -188,7 +188,7 @@ It's okay. She'll be fine... She's already taken refuge in[r]the shelter.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1000|
 [fc]
@@ -210,18 +210,18 @@ Yamagishi-san fell silent after that.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1001|
 [fc]
 [vo_ya s="yama0321"]
 [ns]Yamagishi[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *2567|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦â€¦â€¦[l][er]
+cccc[l][er]
 
 *2568|
 [fc]
@@ -251,7 +251,7 @@ Yamagishi-san, after a moment of contemplation, began[r]speaking with a slightly
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1002|
 [fc]
@@ -264,7 +264,7 @@ Yamagishi-san, after a moment of contemplation, began[r]speaking with a slightly
 [ns]Kato[nse]
 Rebellion... against what?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1003|
 [fc]
@@ -281,7 +281,7 @@ Yamagishi-san leaned against the fence and looked down.[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1004|
 [fc]
@@ -303,7 +303,7 @@ Yamagishi-san smiled, but it felt painfully forced, and I[r]couldn't say anythin
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1005|
 [fc]
@@ -329,7 +329,7 @@ Does Yamagishi-san hate her parents?[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1006|
 [fc]
@@ -345,7 +345,7 @@ Yamagishi-san, who had been looking down, lifted her face[r]and weakly smiled.[p
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1007|
 [fc]
@@ -356,7 +356,7 @@ Besides, they just have expectations for me and leave me[r]alone...[pcms]
 *2581|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *2582|
 [fc]
@@ -371,7 +371,7 @@ Yamagishi-san looked at me and forced a smile.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1008|
 [fc]
@@ -393,7 +393,7 @@ I feel sorry for what I did...[pcms]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1009|
 [fc]
@@ -401,7 +401,7 @@ I feel sorry for what I did...[pcms]
 [ns]Yamagishi[nse]
 But you know...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1010|
 [fc]
@@ -426,7 +426,7 @@ I became flustered by Yamagishi-san's words and couldn't[r]find the right words 
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1011|
 [fc]
@@ -434,7 +434,7 @@ I became flustered by Yamagishi-san's words and couldn't[r]find the right words 
 [ns]Yamagishi[nse]
 ... I'm happy...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1012|
 [fc]
@@ -452,7 +452,7 @@ Y-Yes!![pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1013|
 [fc]
@@ -486,7 +486,7 @@ I feel like I missed hearing something incredibly important[r]due to my nervousn
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 [fadeoutbgm time=500][wb]
@@ -498,5 +498,5 @@ I feel like I missed hearing something incredibly important[r]due to my nervousn
 
 ;//blackout
 
-;//[02142]ã¸
+;//[02142]‚Ö
 [jump target=*02142_TOP storage="02142.ks"]

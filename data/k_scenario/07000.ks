@@ -1,18 +1,18 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07000ã€ãƒˆã‚¤ãƒ¬ã¸ä»˜ã„ã¦ã‚†ãã€
-;//BG:è¦–è´è¦šå®¤ï¼šå¤œï¼›ç‚¹ç¯
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//¡ËƒuƒƒbƒN07000wƒgƒCƒŒ‚Ö•t‚¢‚Ä‚ä‚­x
+;//BG:‹’®ŠoºF–éG“_“”
+;//BG:“Áê‹³º˜L‰ºF–éFÁ“”
+;//“oêl•¨GålŒöE“µ
 
 *07000_TOP
-;[debug_win]ãªã†ã€€07000[debug_win_end]
-;*SceneSet|ã€ãƒˆã‚¤ãƒ¬ã¸ä»˜ã„ã¦ã‚†ãã€
+;[debug_win]‚È‚¤@07000[debug_win_end]
+;*SceneSet|wƒgƒCƒŒ‚Ö•t‚¢‚Ä‚ä‚­x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07000 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07000 = 1"]
 
-;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼”ã€€è¡¨ç¤º
+;//flag:“µƒ‹[ƒgƒtƒ[@‚S@•\¦
 ;	/*
-;	;//â™ªï¼šBGM001
+;	;//ôFBGM001
 ;	[bgm001]
 ;	*/
 ;//;//BG:bg15d
@@ -35,7 +35,7 @@ Ah...[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2804|
 [fc]
@@ -54,15 +54,15 @@ It's perfect timing, Saeki. Let's go together.[pcms]
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2805|
 [fc]
 [vo_sa s="sae0715"]
 [ns]Saeki[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
-;//SE:æ‰‰ã‚’é–‹ã
+;//SE:”à‚ğŠJ‚­
 
 [se0 storage="se008"]
 
@@ -76,7 +76,7 @@ Hurry up or I'll leave you behind.[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2806|
 [fc]
@@ -84,7 +84,7 @@ Hurry up or I'll leave you behind.[pcms]
 [ns]Saeki[nse]
 Ah, w-wait, please![pcms]
 
-;//SE:æ‰‰ã‚’é–‹ã
+;//SE:”à‚ğŠJ‚­
 
 [se0 storage="se008"]
 
@@ -103,7 +103,7 @@ Ah, w-wait, please![pcms]
 [ChrSetParts layer=1 chface="sae_c_b_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2807|
 [fc]
@@ -142,7 +142,7 @@ I'm feeling sleepy...[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2808|
 [fc]
@@ -159,5 +159,5 @@ I'll handle it...[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[07010]ã¸
+;//[07010]‚Ö
 [jump target=*07010_H_TOP storage="07010_H.ks"]

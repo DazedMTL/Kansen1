@@ -1,17 +1,17 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯06020ã€ä¸æ©Ÿå«Œå²¸ç”°â€¦ç«¹å†…ã®ã‚«ãƒ¡ãƒ©æ²¡åã€
-;//BG:äºŒéšå»Šä¸‹ï¼å¤œï¼šæ¶ˆç¯
-;//BG:äºŒéšæ•™å®¤ï¼å¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›å²¸ç”°ãƒ»ç«¹å†…
-;//è¦–ç‚¹ï¼šå²¸ç”°
+;//¡ËƒuƒƒbƒN06020w•s‹@Œ™Šİ“cc’|“à‚ÌƒJƒƒ‰–vûx
+;//BG:“ñŠK˜L‰º^–éFÁ“”
+;//BG:“ñŠK‹³º^–éFÁ“”
+;//“oêl•¨GŠİ“cE’|“à
+;//‹“_FŠİ“c
 
 *06020_TOP
-;[debug_win]ãªã†ã€€06020[debug_win_end]
-;*SceneSet|ã€ä¸æ©Ÿå«Œå²¸ç”°â€¦ç«¹å†…ã®ã‚«ãƒ¡ãƒ©æ²¡åã€
+;[debug_win]‚È‚¤@06020[debug_win_end]
+;*SceneSet|w•s‹@Œ™Šİ“cc’|“à‚ÌƒJƒƒ‰–vûx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_06020 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_06020 = 1"]
 
-;//â™ªï¼šBGM07
+;//ôFBGM07
 
 [bgm007]
 
@@ -29,17 +29,17 @@
 
 ;;;[sysbt_meswin]
 
-;ç«‹ã¡
+;—§‚¿
 *std386|
 [fc]
 [ns]Takeuchi[nse]
 Haa... No one is here... A chance...[l][er]
 Bwahaha.[pcms]
 
-;//â€»ç«‹ã¡ã‚­ãƒ£ãƒ©æ¶ˆå»
+;//¦—§‚¿ƒLƒƒƒ‰Á‹
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹ï¼ˆå‹¢ã„ã‚ˆãï¼‰
+;//SE:”à‚ğŠJ‚¯‚éi¨‚¢‚æ‚­j
 
 [se0 storage="se009"]
 
@@ -63,7 +63,7 @@ Maybe I'll take a peek.[pcms]
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 *std387|
 [fc]
 [ns]Takeuchi[nse]
@@ -77,7 +77,7 @@ What's up with that guy, smirking while holding a digital[r]camera?[pcms]
 [fc]
 ... He's got quite a nice camera, doesn't he?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std388|
 [fc]
 [ns]Takeuchi[nse]
@@ -95,7 +95,7 @@ If that's the case... it's a successful prank![l][er]
 I wanted to see the shocked faces of the club members!![l][er]
 Oh well... But more importantly, what is he trying to do?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std389|
 [fc]
 [ns]Takeuchi[nse]
@@ -112,7 +112,7 @@ What the hell are you thinking!?[pcms]
 ... Damn it!! Is he planning to take pictures?![l][er]
 I wouldn't want to see anything like that, especially from a[r]guy like him![pcms]
 
-;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹ï¼ˆå‹¢ã„ã‚ˆãï¼‰
+;//SE:”à‚ğŠJ‚¯‚éi¨‚¢‚æ‚­j
 
 [se0 storage="se009"]
 
@@ -132,7 +132,7 @@ This idiot...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std390|
 [fc]
 [ns]Takeuchi[nse]
@@ -143,7 +143,7 @@ This idiot...[pcms]
 [ns]Kishida[nse]
 Are you out of your mind? Don't you dare try to take[r]pictures in a place like this...[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std391|
 [fc]
 [ns]Takeuchi[nse]
@@ -167,7 +167,7 @@ This is a place for studying, not your personal jerk-off[r]spot!![pcms]
 ;	[trans_c cross time=150]
 ;	*/
 
-;ç«‹ã¡
+;—§‚¿
 *std392|
 [fc]
 [ns]Takeuchi[nse]
@@ -194,7 +194,7 @@ He's just unpleasant in every way possible!![pcms]
 Stop trembling! You're so sloppy...[l][er]
 And pull up your pants! It's indecent![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std393|
 [fc]
 [ns]Takeuchi[nse]
@@ -205,11 +205,11 @@ Y-Yes! Uh, um... uh...[pcms]
 What are you dawdling for...!![l][er]
 I won't tolerate it anymore![pcms]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
 
 ;//redflash
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [flash_re]
 
 [bg storage="bg10d"]
@@ -268,7 +268,7 @@ Cut it out with your nonsense...[pcms]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std394|
 [fc]
 [ns]Takeuchi[nse]
@@ -280,7 +280,7 @@ U-uh... n-no... it's not... it's not like that...[pcms]
 That's not true!! We're clearly visible in it![l][er]
 I'm confiscating this digital camera!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std395|
 [fc]
 [ns]Takeuchi[nse]
@@ -299,7 +299,7 @@ Takeuchi is begging pitifully.[pcms]
 [ChrSetParts layer=1 chface="take_a_d_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std396|
 [fc]
 [ns]Takeuchi[nse]
@@ -311,11 +311,11 @@ My treasure... Give it back![pcms]
 [ns]Kishida[nse]
 You're annoying!![pcms]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
 
 ;//redflash
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [flash_re]
 
 [bg storage="bg10d"]
@@ -339,7 +339,7 @@ If you understand, then quietly go back to the training[r]camp!![pcms]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std397|
 [fc]
 [ns]Takeuchi[nse]
@@ -357,7 +357,7 @@ And if you keep being so persistent, I'll expose you as the[r]classroom masturba
 I'll even contact your parents...[l][er]
 Is that okay?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std398|
 [fc]
 [ns]Takeuchi[nse]
@@ -380,7 +380,7 @@ Zuhahaha![pcms]
 [ChrSetParts layer=1 chface="take_a_d_05"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std399|
 [fc]
 [ns]Takeuchi[nse]
@@ -391,11 +391,11 @@ Ugh...[pcms]
 [ns]Kishida[nse]
 What's with that look in your eyes?![pcms]
 
-;//SE:æ®´ã‚‹
+;//SE:‰£‚é
 [se0 storage="se026"]
 
 ;//redflash
-;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
+;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
 [flash_re]
 
 [bg storage="bg10d"]
@@ -408,7 +408,7 @@ What's with that look in your eyes?![pcms]
 [ChrSetParts layer=1 chface="take_a_b_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std400|
 [fc]
 [ns]Takeuchi[nse]
@@ -426,7 +426,7 @@ When I punched that guy, I felt a little refreshed.[l][er]
 Now, this camera seems like it'll be fun to play with...[l][er]
 Nuffuuu![pcms]
 
-;//SE:æ‰‰ã‚’é–‰ã‚ã‚‹ï¼ˆå‹¢ã„ã‚ˆãï¼‰
+;//SE:”à‚ğ•Â‚ß‚éi¨‚¢‚æ‚­j
 [se0 storage="se010"]
 
 ;//blackout
@@ -444,5 +444,5 @@ I won't tell anyone...[pcms]
 
 
 
-;//[06030]ã¸
+;//[06030]‚Ö
 [jump target=*06030_H_TOP storage="06030_H.ks"]

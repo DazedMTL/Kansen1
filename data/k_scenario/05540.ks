@@ -1,19 +1,19 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05540ã€é€ƒèµ°ï¼“ã€
-;//;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šå¤œï¼›æ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN05540w“¦‘–‚Rx
+;//;//BG:“n‚è˜L‰ºF–éGÁ“”
+;//“oêl•¨GålŒöE“µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *05540_TOP
-;[debug_win]ãªã†ã€€05540[debug_win_end]
-;*SceneSet|ã€é€ƒèµ°ï¼“ã€
+;[debug_win]‚È‚¤@05540[debug_win_end]
+;*SceneSet|w“¦‘–‚Rx
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05540 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05540 = 1"]
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 
 [bgm009]
 
@@ -22,7 +22,7 @@
 [bg storage="bg04b"]
 [trans_c cross time=500]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 
 [se0 storage="se005"]
 
@@ -61,7 +61,7 @@ If it's there...![pcms]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2379|
 [fc]
@@ -77,7 +77,7 @@ We need to quickly hide somewhere...[pcms]
 Look, there was a basement beneath the cafeteria kitchen,[r]right?[l][er]
 Let's hide there.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2380|
 [fc]
@@ -100,7 +100,7 @@ Saeki looked uneasy at my suggestion, but quickly regained[r]her composure and n
 [trans_c cross time=150]
 ;//
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2381|
 [fc]
@@ -117,5 +117,5 @@ I nodded back at Saeki and ran towards the school cafeteria.[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05550]ã¸
+;//[05550]‚Ö
 [jump target=*05550_TOP storage="05550.ks"]

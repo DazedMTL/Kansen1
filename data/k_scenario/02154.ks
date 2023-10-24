@@ -1,24 +1,24 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02154ã€ãƒªã‚µç™ºç—‡ã€
-;//BG:ä¸‰éšæ•™å®¤ï¼šå¤œ
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µãƒ»å„ª
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02154wƒŠƒT”­Çx
+;//BG:OŠK‹³ºF–é
+;//“oêl•¨GålŒöEƒŠƒTE—D
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02154_TOP
-;[debug_win]ãªã†ã€€02154[debug_win_end]
+;[debug_win]‚È‚¤@02154[debug_win_end]
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02154 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02154 = 1"]
 
-;*SceneSet|ã€ãƒªã‚µç™ºç—‡ã€
+;*SceneSet|wƒŠƒT”­Çx
 
-;//â™ªï¼šBGM006
+;//ôFBGM006
 
 ;//[bgm006]
 
-;//H_CG:ãƒªã‚µãŒãƒ‘ã‚¤ã‚ºãƒª
+;//H_CG:ƒŠƒT‚ªƒpƒCƒYƒŠ
 
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
@@ -69,7 +69,7 @@ Don't touch it...[pcms]
 [fc]
 Shindou-sensei, who crawled towards me, had the same eyes as[r]the ones who attacked us and violated Sensei Kishida.[pcms]
 
-;//â™ªï¼šBGM009
+;//ôFBGM009
 
 [bgm009]
 
@@ -97,7 +97,7 @@ Yamagishi-san! Wake up!![pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1071|
 [fc]
@@ -116,7 +116,7 @@ was approaching me.[pcms]
 [ChrSetParts layer=1 chface="risa_a_e_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1072|
 [fc]
@@ -130,7 +130,7 @@ me...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1073|
 [fc]
@@ -144,7 +144,7 @@ Eh...? Se... Sensei...!?[pcms]
 Shindou-sensei has gone crazy![l][er]
 Let's run upstairs!![pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v1074|
 [fc]
@@ -156,14 +156,14 @@ Y-Yeah![pcms]
 [fc]
 I grabbed Yamagishi-san's hand and rushed out of the[r]classroom.[pcms]
 
-;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//SE:˜L‰º‚ğ‘–‚é
 
 [se0 storage="se005"]
 
 ;;;[sysbt_meswin clear]
 
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -171,7 +171,7 @@ I grabbed Yamagishi-san's hand and rushed out of the[r]classroom.[pcms]
 
 ;//blackout
 
-;//[02155]ã¸
+;//[02155]‚Ö
 [jump target=*02155_TOP storage="02155.ks"]
 
 

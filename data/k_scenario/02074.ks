@@ -1,21 +1,21 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02074ã€è·å“¡å®¤ãªã©ã‚’å›ã‚‹ã€
-;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µ
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;â–½â–²â–¼â–³â–½â–²â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
+;//¡ËƒuƒƒbƒN02074wEˆõº‚È‚Ç‚ğ‰ñ‚éx
+;//BG:“Áê‹³º˜L‰ºF–éFÁ“”
+;//“oêl•¨GålŒöE—DEƒŠƒT
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;¤£¥¢¤£¥
 
 *02074_TOP
-;[debug_win]ãªã†ã€€02074[debug_win_end]
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02074 = 1"]
+;[debug_win]‚È‚¤@02074[debug_win_end]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02074 = 1"]
 
-;*SceneSet|ã€è·å“¡å®¤ãªã©ã‚’å›ã‚‹ã€
+;*SceneSet|wEˆõº‚È‚Ç‚ğ‰ñ‚éx
 
 ;//[02074]
 
-;//â™ªï¼šBGM001
+;//ôFBGM001
 ;//[bgm001]
 
 ;//BG:bg009e
@@ -26,7 +26,7 @@
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v676|
 [fc]
@@ -46,7 +46,7 @@ And we also went to the gymnasium.[pcms]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v677|
 [fc]
@@ -58,7 +58,7 @@ It seems Saeki-san is searching on the upper floor.[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v678|
 [fc]
@@ -71,7 +71,7 @@ I see... Did you go to the staff room?[pcms]
 [ns]Kato[nse]
 No... I didn't think there was anyone who disappeared and[r]would have a reason to be in the staff room.[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v679|
 [fc]
@@ -90,7 +90,7 @@ Yamagishi-san sternly refutes Shindou-sensei's statement[r]with a serious expres
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v680|
 [fc]
@@ -103,7 +103,7 @@ I don't think it's good to jump to conclusions like that![pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v681|
 [fc]
@@ -116,7 +116,7 @@ Ah...[pcms]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v682|
 [fc]
@@ -133,7 +133,7 @@ Yamagishi-san, who casually said something harsh, made[r]Shindou-sensei close hi
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v683|
 [fc]
@@ -151,7 +151,7 @@ After being apologized to by Shindou-sensei, it seemed like[r]the blood rushed t
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v684|
 [fc]
@@ -163,7 +163,7 @@ Um, um, I'm sorry, I...[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v685|
 [fc]
@@ -209,7 +209,7 @@ So, does that mean they haven't come here either...?[pcms]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v686|
 [fc]
@@ -221,6 +221,6 @@ I don't think anyone is here, but let's check inside just in[r]case.[pcms]
 [fc]
 When Yamagishi-san and I nodded, Shindou-sensei took out a[r]key from his pocket and opened the door to the staff room.[pcms]
 
-;//[02075]ã¸
+;//[02075]‚Ö
 [jump target=*02075_TOP storage="02075.ks"]
 

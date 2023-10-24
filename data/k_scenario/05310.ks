@@ -1,20 +1,20 @@
 
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05310ã€è¿½æ’ƒã€
-;//;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæœï¼šæ¶ˆç¯
-;//;//BG:ä¿å¥å®¤ï¼šæœï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
-;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
-;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
+;//¡ËƒuƒƒbƒN05310w’ÇŒ‚x
+;//;//BG:“Áê‹³º˜L‰ºF’©FÁ“”
+;//;//BG:•ÛŒ’ºF’©FÁ“”
+;//“oêl•¨GålŒöE“µ
+;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;//¤;//£;//¥;//¢;//¤;//£;//¥
 
 *05310_TOP
-;[debug_win]ãªã†ã€€05310[debug_win_end]
-;*SceneSet|ã€è¿½æ’ƒã€
+;[debug_win]‚È‚¤@05310[debug_win_end]
+;*SceneSet|w’ÇŒ‚x
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05310 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05310 = 1"]
 
-;//â™ªï¼šBGM003
+;//ôFBGM003
 
 [bgm003]
 
@@ -23,7 +23,7 @@
 [bg storage="bg13a"]
 [trans_c cross time=500]
 
-;//SE:æ‰‰ã‚’é–‹ãï¼ˆå‹¢ã„ã‚ˆãï¼‰
+;//SE:”à‚ğŠJ‚­i¨‚¢‚æ‚­j
 
 [se0 storage="se009"]
 
@@ -53,7 +53,7 @@ Saeki covered her mouth and frowned at the smell.[pcms]
 [ChrSetParts layer=1 chface="sae_c_b_07"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2193|
 [fc]
@@ -64,7 +64,7 @@ I wonder what smell this is...[pcms]
 *5284|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5285|
 [fc]
@@ -96,7 +96,7 @@ Where did he go~?[pcms]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v2195|
 [fc]
@@ -107,7 +107,7 @@ Kato-san...[pcms]
 *5289|
 [fc]
 [ns]Kato[nse]
-â€¦â€¦[l][er]
+cc[l][er]
 
 *5290|
 [fc]
@@ -128,8 +128,8 @@ Before leaving the infirmary, I stood in front of Saeki and[r]quietly opened the
 
 ;//blackout
 
-;blã¨[backlay_c][chara_int][trans_c cross time=150]
+;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05320]ã¸
+;//[05320]‚Ö
 [jump target=*05320_TOP storage="05320.ks"]

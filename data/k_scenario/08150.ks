@@ -1,22 +1,22 @@
 
-;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08150ã€ä¼‘æ†©ã€
-;//BG:ä½“è‚²ç”¨å…·å®¤ï¼šå¤œï¼šæ¶ˆç¯
-;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»ç«¹å†…ãƒ»ãƒªã‚µãƒ»ç”°ä¸­ãƒ»æœ‹ç¾
+;//¡ËƒuƒƒbƒN08150w‹xŒex
+;//BG:‘Ìˆç—p‹ïºF–éFÁ“”
+;//“oêl•¨FålŒöE’|“àEƒŠƒTE“c’†E•ü”ü
 
 *08150_TOP
-;[debug_win]ãªã†ã€€08150[debug_win_end]
-;*SceneSet|ã€ä¼‘æ†©ã€
+;[debug_win]‚È‚¤@08150[debug_win_end]
+;*SceneSet|w‹xŒex
 
-;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08150 = 1"]
+;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08150 = 1"]
 
-;//â™ªï¼šBGMç„¡ã—
+;//ôFBGM–³‚µ
 
-;//;//BG:ç„¡ã—
+;//;//BG:–³‚µ
 
 [fadeoutbgm time=500]
 
 ;	/*
-;	;//SE:è™«ã®éŸ³
+;	;//SE:’‚Ì‰¹
 ;	[se0 storage="se018"]
 ;	*/
 
@@ -45,7 +45,7 @@ I wish I could join in too...[pcms]
 ;//
 ;//
 
-;//â™ªï¼šBGM007
+;//ôFBGM007
 
 [bgm007]
 
@@ -63,7 +63,7 @@ I wish I could join in too...[pcms]
 
 ;;;[sysbt_meswin]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3564|
 [fc]
@@ -76,7 +76,7 @@ Oh, you're already awake? You're up early.[pcms]
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std626|
 [fc]
 [ns]Takeuchi[nse]
@@ -89,7 +89,7 @@ It hasn't been that long, right?[pcms]
 No, I heard some voices that sounded like they were having[r]fun...[l][er]
 What were you talking about?[pcms]
 
-;ç«‹ã¡
+;—§‚¿
 *std627|
 [fc]
 [ns]Takeuchi[nse]
@@ -102,7 +102,7 @@ He seemed to faint at the end though.[pcms]
 [ChrSetParts layer=1 chface="risa_a_a_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3565|
 [fc]
@@ -134,7 +134,7 @@ As I watched Yuuji and the others sleeping, I started to[r]feel sleepy again...[
 [ChrSetParts layer=1 chface="risa_a_a_09"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 
 *v3566|
 [fc]
@@ -147,13 +147,13 @@ Kato-kun... Should I give it a try with you too?[pcms]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;ç«‹ã¡
+;—§‚¿
 *std628|
 [fc]
 [ns]Takeuchi[nse]
 Huh? You won't do it with me?[pcms]
 
-;mm è¿½åŠ 
+;mm ’Ç‰Á
 [backlay_c][chara_int][trans_c cross time=150]
 
 
@@ -177,5 +177,5 @@ Has something changed in my body...?[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//[Ÿ‚ÌƒV[ƒ“‚Ö]
 [jump target=*08160_TOP storage="08160.ks"]
