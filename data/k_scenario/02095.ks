@@ -1,20 +1,20 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02095w’|“à‚ÌŒ¾‚¤‚Æ‚¨‚èx
-;//BG:‹’®ŠoºF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöE—DE’|“à
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02095ã€ç«¹å†…ã®è¨€ã†ã¨ãŠã‚Šã€
+;//BG:è¦–è´è¦šå®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02095_TOP
-;[debug_win]‚È‚¤@02095[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02095 = 1"]
+;[debug_win]ãªã†ã€€02095[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02095 = 1"]
 
-;*SceneSet|w’|“à‚ÌŒ¾‚¤‚Æ‚¨‚èx
+;*SceneSet|ã€ç«¹å†…ã®è¨€ã†ã¨ãŠã‚Šã€
 
 ;//[02095]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//BG:bg015a
 ;//[bg storage="bg15a"]
@@ -24,208 +24,193 @@
 
 *1928|
 [fc]
-Œ‹‹ÇA‰´’B‚Í‹’®Šoº‚ÅƒoƒX‚ª—ˆ‚éŠÔ‚Ü‚Å‘Ò‚Â‚±‚Æ‚É[r]
-‚µ‚½B[pcms]
+In the end, we decided to wait in the audiovisual room until[r]the bus arrived.[pcms]
 
 *1929|
 [fc]
-^–ç‚Í\•ª‘O‚É‹N‚±‚µ‚Ä‚ÆA‚Ü‚½Š÷‚Ìã‚É“Ë‚Á•š‚µ‚½B[pcms]
+Shinya woke up ten minutes earlier and then collapsed on the[r]desk again.[pcms]
 
 *1930|
 [fc]
-[ns]‰Á“¡[nse]
-u‚æ‚­Q‚é‚È[A‚ ‚¢‚Âccv[pcms]
+[ns]Kato[nse]
+He sleeps so well, that guy...[pcms]
 
 *1931|
 [fc]
-•ğ‚ê‚Ä^–ç‚Ì–°‚Á‚Ä‚¢‚ép‚ğŒ©‚Ä‚¢‚é‚ÆARŠİ‚³‚ñ‚ª•s[r]
-ˆÀ‚»‚¤‚ÈŠç‚Åº‚ğ‚©‚¯‚Ä‚«‚½B[pcms]
+As I watched Shinya sleeping in exasperation, Yamagishi-san[r]approached me with a worried expression on her face.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v803|
 [fc]
 [vo_ya s="yama0237"]
-[ns]RŠİ[nse]
-u‚Ë‚¦A‰Á“¡ŒNccv[pcms]
+[ns]Yamagishi[nse]
+Hey, Kato-kun...[pcms]
 
 *1932|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ñHv[pcms]
+[ns]Kato[nse]
+Hm?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v804|
 [fc]
 [vo_ya s="yama0238"]
-[ns]RŠİ[nse]
-uƒgƒ‚‚¿‚á‚ñ’BA‰½‚©‚ ‚Á‚½‚ñ‚¶‚á‚È‚¢‚©‚ÈccB‘Ì’²[r]
-‚ªˆ«‚­‚È‚Á‚½‚Æ‚©A‰ö‰ä‚µ‚½‚Æ‚©‚ÅA‚Ç‚±‚©‚Å¢‚Á‚Ä‚é[r]
-‹C‚ª‚·‚é‚Ìccv[pcms]
+[ns]Yamagishi[nse]
+Tomochan, I wonder if something happened...[l][er]
+Maybe they're not feeling well or got injured, I have a[r]feeling that they're in trouble somewhere...[pcms]
 
 *1933|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤[‚ñcc‹C‚¿‚Í‚í‚©‚é‚¯‚ÇA‚»‚ñ‚È‚ÉS”z‚·‚é‚±[r]
-‚Æ‚È‚¢‚Æv‚¤‚æBŠwZ‚Ì’†‚Å‰½‚©‚ ‚Á‚½‚ñ‚È‚çAV“¹æ[r]
-¶‚Æ‚©‰´’B‚É•ñ‚¹‚ê‚Î‚¢‚¢‚ñ‚¾‚µv[pcms]
+[ns]Kato[nse]
+Hmm... I understand how you feel, but I don't think there's[r]a need to worry that much.[l][er]
+If something happened at school, they could just let[r]Shindou-sensei or us know.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v805|
 [fc]
 [vo_ya s="yama0239"]
-[ns]RŠİ[nse]
-u‚Å‚àA‚à‚µ‚©‚µ‚½‚ç“ñl‚Æ‚àA‰½‚©‚Ì–Œ‚ÉŠª‚«‚Ü[r]
-‚ê‚Ä‚é‚©‚à‚µ‚ê‚È‚¢‚æccv[pcms]
+[ns]Yamagishi[nse]
+But, maybe both of them are involved in some kind of[r]incident...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v806|
 [fc]
 [vo_ya s="yama0240"]
-[ns]RŠİ[nse]
-u‚»‚ê‚Écc“µ‚³‚ñcc‚È‚ñ‚Å‰½‚àŒ¾‚í‚È‚¢‚Å‹A‚Á‚¿‚á[r]
-‚Á‚½‚ñ‚¾‚ë‚¤ccv[pcms]
+[ns]Yamagishi[nse]
+And also... Hitomi-san... I wonder why she went home without[r]saying anything...[pcms]
 
-;//SE:ƒKƒ^ƒb
+;//SE:ã‚¬ã‚¿ãƒƒ
 [se0 storage="se023"]
 
 *1934|
 [fc]
-RŠİ‚³‚ñ‚Ì˜b‚ªI‚í‚é‚©‚Ç‚¤‚©‚ÌuŠÔA^–ç‚Ì‘Ì‚ªƒrƒN[r]
-ƒ“‚Æ“®‚¢‚ÄA‘å‚«‚È‰¹‚ğ‚½‚Ä‚½B‚¤‚½‚½Q‚ğ‚µ‚Ä‚¢‚é[r]
-‚É‚æ‚­‚È‚éƒAƒŒ‚ÅAŠ÷‚ğR‚è”ò‚Î‚µ‚½‚æ‚¤‚¾‚Á‚½B[pcms]
+At the moment when Yamagishi-san's story was about to end,[r]Shinya's body twitched and made a loud noise.[l][er]
+It seemed like he kicked the desk while he was dozing off,[r]experiencing that thing that often happens.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v807|
 [fc]
 [vo_ya s="yama0241"]
-[ns]RŠİ[nse]
-u‚Ñ‚Á‚­‚è‚µ‚½ccv[pcms]
+[ns]Yamagishi[nse]
+I was surprised...[pcms]
 
 *1935|
 [fc]
-[ns]‰Á“¡[nse]
-uQ‚Ä‚é‚®‚ç‚¢Ã‚©‚É‚µ‚ë‚æA‚Ü‚Á‚½‚­ccv[pcms]
+[ns]Kato[nse]
+Can't you be quiet while you're sleeping?[l][er]
+Seriously...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v808|
 [fc]
 [vo_ya s="yama0242"]
-[ns]RŠİ[nse]
-u‚ ‚Í‚ÍA’|“àŒN‚ÄQ‚Ä‚Ä‚à–Ê”’‚¢l‚È‚ñ‚¾‚Ëv[pcms]
+[ns]Yamagishi[nse]
+Ahaha, even when Shinya-kun is sleeping, he's still an[r]interesting person.[pcms]
 
 *1936|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ÜA—Áƒ–—Ë‚Ì”šÎ‰¤‚¾‚©‚ç‚Ëv[pcms]
+[ns]Kato[nse]
+Well, he is the king of laughter at Suzugaoka High School,[r]after all.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v809|
 [fc]
 [vo_ya s="yama0243"]
-[ns]RŠİ[nse]
-u‚ ‚Í‚Í‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Ahaha![pcms]
 
 *1937|
 [fc]
-ƒEƒ`‚Ì”šÎ‰¤‚ÍA•sˆÀ‚Å‚¢‚Á‚Ï‚¢‚¾‚Á‚½RŠİ‚³‚ñ‚ğAÎ[r]
-Šç‚É‚³‚¹‚é‚¾‚¯‚Ì—Í‚Í‚Á‚Ä‚¢‚éA‚Á‚Ä‚±‚Æ‚©B[pcms]
+So you're saying that our king of laughter has the power to[r]make Yamagishi-san, who was full of worry, smile again.[pcms]
 
 *1938|
 [fc]
-‚ ‚éˆÓ–¡A^–ç‚ª‘A‚Ü‚µ‚¢ccB[pcms]
+In a way, I envy Shinya...[pcms]
 
 *1939|
 [fc]
-‚»‚ê‚É‚µ‚Ä‚àARŠİ‚³‚ñ‚ÌŒ¾‚¤‚Æ‚¨‚èA²”Œ‚ª‰´’B‚É‰½[r]
-‚àŒ¾‚í‚È‚¢‚Å‹A‚é‚Á‚Ä‚Ì‚ÍA‰½‚©ˆø‚Á‚©‚©‚é‚ÈccB‚ [r]
-‚ñ‚È‚ÉƒLƒbƒ`ƒŠ‚µ‚½ƒ„ƒc‚È‚Ì‚ÉccB[pcms]
+Nevertheless, as Yamagishi-san said, it bothers me that[r]Saeki went home without saying anything to us...[l][er]
+She's usually such a reliable person...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v810|
 [fc]
 [vo_ya s="yama0244"]
-[ns]RŠİ[nse]
-u‚È‚ñ‚©¡“úAÃ‚©‚¾‚ËB‚Ü‚¾‚Ç‚±‚Ì•”Šˆ‚à—ˆ‚Ä‚È‚¢‚İ[r]
-‚½‚¢v[pcms]
+[ns]Yamagishi[nse]
+It's quiet today. It seems like no club activities have[r]started yet.[pcms]
 
 *1940|
 [fc]
-‘‹‚ÌŠO‚ğŒ©‚È‚ª‚çARŠİ‚³‚ñ‚ª‚Û‚Â‚è‚Æ‚»‚¤Œ¾‚Á‚½B[pcms]
+While looking outside the window, Yamagishi-san muttered[r]those words.[pcms]
 
 *1941|
 [fc]
-Œ¾‚í‚ê‚Ä‚İ‚ê‚ÎAƒTƒbƒJ[•”‚Ì—ûK‚Å‚æ‚­•·‚­ƒzƒCƒbƒX[r]
-ƒ‹‚Ì‰¹‚âA–ì‹…•”‚ÌƒoƒbƒeƒBƒ“ƒO—ûK‚Ì‰¹‚ª•·‚±‚¦‚Ä‚±[r]
-‚È‚¢B[pcms]
+Come to think of it, I can't hear the sound of the whistle[r]that I often hear during soccer club practice, or the sound[r]of batting practice from the baseball club.[pcms]
 
 *1942|
 [fc]
-Šm‚©‚Éğ“ú‚Í‰´’BA‰f‰æŒ¤‹†•”‚¾‚¯‚ªŠwZ‚ğg‚¤‚±‚Æ‚É[r]
-‚È‚Á‚Ä‚¢‚½‚æ‚¤‚¾‚¯‚ÇA¡“ú‚à‚»‚¤‚¾‚Æ‚Í•·‚©‚³‚ê‚Ä‚¢[r]
-‚È‚¢B[pcms]
+Certainly, it seems like yesterday only our film research[r]club was supposed to use the school, but we haven't been[r]informed if it's the same today.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v811|
 [fc]
 [vo_ya s="yama0245"]
-[ns]RŠİ[nse]
-u‚Ç‚Ì•”Šˆ‚àA¡“ú‚Í‚¨‹x‚İ‚È‚Ì‚©‚È‚Ÿv[pcms]
+[ns]Yamagishi[nse]
+I wonder if all the clubs are taking a break today.[pcms]
 
 *1943|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¶‚á‚È‚«‚áA‚Ç‚±‚à—ûK‡‚â‚È‚ñ‚©‚ÅA‘¼‚Ì‚Æ‚±‚É[r]
-s‚Á‚Ä‚é‚©A‚¾‚Ëv[pcms]
+[ns]Kato[nse]
+Otherwise, they might be having practice matches or[r]something and going to other places, I guess.[pcms]
 
 *1944|
 [fc]
-RŠİ‚³‚ñ‚ÍAäD‚É—‚¿‚È‚¢A‚Æ‚¢‚¤Šç‚Å‘‹‚ÌŠO‚ğŒ©‘±‚¯[r]
-‚Ä‚¢‚½B[pcms]
+Yamagishi-san continued to look outside the window with a[r]face that seemed unconvinced.[pcms]
 
 ;//blackout
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//[02096]‚Ö
+;//[02096]ã¸
 [jump target=*02096_TOP storage="02096.ks"]
 

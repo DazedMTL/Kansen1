@@ -1,20 +1,20 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02165w‹~••”‘àx
-;//BG:‰®ãF’©
-;//“oêl•¨GålŒöE—DE’|“àE“µE“c’†E•ü”üEƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02165ã€æ•‘åŠ©éƒ¨éšŠã€
+;//BG:å±‹ä¸Šï¼šæœ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…ãƒ»ç³ãƒ»ç”°ä¸­ãƒ»æœ‹ç¾ãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02165_TOP
-;[debug_win]‚È‚¤@02165[debug_win_end]
+;[debug_win]ãªã†ã€€02165[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02165 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02165 = 1"]
 
-;*SceneSet|w‹~••”‘àx
+;*SceneSet|ã€æ•‘åŠ©éƒ¨éšŠã€
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 
 ;//[bgm008]
 
@@ -25,74 +25,72 @@
 
 *2979|
 [fc]
-[ns]‰Á“¡[nse]
-uRŠİ‚³‚ñA”½‘Î‘¤‚Ìo“ü‚èŒû‚ÌA‰®ª‚Ìã‚É“¦‚°‚ÄIv[pcms]
+[ns]Kato[nse]
+Yamagishi-san, run to the roof on the opposite side of the[r]entrance![pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1156|
 [fc]
 [vo_ya s="yama0444"]
-[ns]RŠİ[nse]
-u‚¦A‚ÅA‚Å‚àccv[pcms]
+[ns]Yamagishi[nse]
+E-Excuse me, but...[pcms]
 
 *2980|
 [fc]
-[ns]‰Á“¡[nse]
-uƒwƒŠ‚ª‚±‚±‚Ü‚Å”ò‚ñ‚Å‚«‚½‚çAè‚ğU‚Á‚Ä‘åº‚ğo‚µ[r]
-‚ÄA‰´’B‚ª‚¢‚é‚±‚Æ‚ğ•ñ‚¹‚é‚ñ‚¾B‚¢‚¢Hv[pcms]
+[ns]Kato[nse]
+When the helicopter flies over here, wave your hand and[r]shout loudly to let them know we're here.[l][er]
+Got it?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1157|
 [fc]
 [vo_ya s="yama0445"]
-[ns]RŠİ[nse]
-u‚Å‚àA‰Á“¡ŒN‚ÍccHv[pcms]
+[ns]Yamagishi[nse]
+But, what about Kato-kun...?[pcms]
 
 *2981|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚Æ‚©‚çs‚­‚©‚çAS”z‚µ‚È‚¢‚Å‚à‘åä•vIv[pcms]
+[ns]Kato[nse]
+I'll go later, so don't worry, it'll be fine![pcms]
 
 *2982|
 [fc]
-‰´‚ÍRŠİ‚³‚ñ‚ÌŒ¨‚Éè‚ğ’u‚«AÎ‚¢‚©‚¯‚½B[pcms]
+I placed my hand on Yamagishi-san's shoulder and smiled.[pcms]
 
 *2983|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚ê‚ÉAˆê‚É‹A‚é‚Á‚Ä–ñ‘©‚µ‚½‚¾‚ëHv[pcms]
+[ns]Kato[nse]
+Besides, we promised to go home together, didn't we?[pcms]
 
 *2984|
 [fc]
-‰´‚ÌŒ¾—t‚ğ•·‚¢‚½RŠİ‚³‚ñ‚ÍA•sˆÀ¬‚¶‚è‚Ì•¡G‚ÈÎŠç[r]
-‚ğŒ©‚¹‚ÄA—Í‹­‚­•Ô–‚ğ•Ô‚µ‚½B[pcms]
+Yamagishi-san, who listened to my words, showed a complex[r]smile mixed with anxiety and replied firmly.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1158|
 [fc]
 [vo_ya s="yama0446"]
-[ns]RŠİ[nse]
-uâ‘Î‚¾‚æccâ‘ÎA–ñ‘©ç‚Á‚Ä‚ËIv[pcms]
+[ns]Yamagishi[nse]
+Absolutely... absolutely, please keep your promise![pcms]
 
 *2985|
 [fc]
-s‚­‚Ì‚ğçSçO‚·‚é‚æ‚¤‚ÉA”•àŒã‚¸‚³‚Á‚Ä‚©‚çARŠİ‚³[r]
-‚ñ‚Í”½‘Î‘¤‚Ìo“ü‚èŒû‚ÉŒü‚©‚Á‚Ä‘–‚èo‚µ‚½B[pcms]
+Yamagishi-san hesitated for a moment, took a few steps back,[r]and then started running towards the opposite side of the[r]entrance.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//[02166]‚Ö
+;//[02166]ã¸
 [jump target=*02166_TOP storage="02166.ks"]

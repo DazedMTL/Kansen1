@@ -1,16 +1,16 @@
 
-;//¡ËƒuƒƒbƒN05320wZ“à•ú‘—x
-;//BG:“Áê‹³º˜L‰ºF’©FÁ“”
-;//“oêl•¨GålŒöE“µEŠ´õ“c’†EŠ´õ•ü”üEƒ]ƒ“ƒr‚R
-;//l
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05320ã€æ ¡å†…æ”¾é€ã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæœï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»æ„ŸæŸ“ç”°ä¸­ãƒ»æ„ŸæŸ“æœ‹ç¾ãƒ»ã‚¾ãƒ³ãƒ“ï¼“
+;//äºº
 
 *05320_TOP
-;[debug_win]‚È‚¤@05320[debug_win_end]
-;*SceneSet|wZ“à•ú‘—x
+;[debug_win]ãªã†ã€€05320[debug_win_end]
+;*SceneSet|ã€æ ¡å†…æ”¾é€ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05320 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05320 = 1"]
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 
 [bgm008]
 
@@ -31,115 +31,110 @@
 
 *5294|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤‚í‚Ÿ‚ÁIIv[pcms]
+[ns]Kato[nse]
+Uwaaah!![pcms]
 
 *5295|
 [fc]
-ƒhƒA‚ğŠJ‚¯AŠç‚ğo‚µ‚½“r’[A§•‚ªƒ{ƒƒ{ƒ‚É‚È‚Á‚½[r]
-ŒÜ\—’ƒTƒ“‚ÆA‚³‚Á‚«—S“ñ’B‚ÌŒã‚ë‚É‚¢‚½’jq¶“k‚ªA[r]
-‰¡‚©‚çp‚ğŒ»‚µ‚½B[pcms]
+As soon as I opened the door and stuck my head out, I saw[r]Igarashi-san, whose uniform was all torn up, and the male[r]student who was standing behind Yuuji earlier, appearing[r]from the side.[pcms]
+[l][er]
 
 [ChrSetEx layer=4 chbase="tomo_d_b_01"]
 [ChrSetXY layer=4 x=240 y=0]
 [trans_c cross time=150]
 ;//
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2196|
 [fc]
 [vo_to s="tomo0255"]
-[ns]ŒÜ\—’[nse]
-u‚ ‚Í‚Ácc‚İ‚ÂA‚¯A‚½‚Ÿ`cc‚Ó‚ÓA‚ ‚Í‚Íccv[pcms]
+[ns]Igarashi[nse]
+Ahaha... I, I found you~ Hehe, ahaha...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *5296|
 [fc]
-[ns]‰Á“¡[nse]
-u‘–‚êA²”Œ‚ÁIIv[pcms]
+[ns]Kato[nse]
+Run, Saeki!![pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2197|
 [fc]
 [vo_sa s="sae0458"]
-[ns]²”Œ[nse]
-u‚«‚á‚ ‚Ÿ‚ÁIv[pcms]
+[ns]Saeki[nse]
+Kyaaa![pcms]
 
 *5297|
 [fc]
-‰´‚Í˜r‚ğˆø‚Á’£‚èA²”Œ‚ğˆø‚«‚¸‚é‚æ‚¤‚É‚µ‚Ä[r]
-•ÛŒ’º‚ğ”ò‚Ño‚µA‘–‚Á‚½B[pcms]
+I grabbed Saeki's arm and pulled her as we rushed out of the[r]infirmary and ran.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 [se0 storage="se005"]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2198|
 [fc]
 [vo_sa s="sae0459"]
-[ns]²”Œ[nse]
-uˆê‘Ì‰½‚È‚ÌIH@‚ ‚Ìl’BIIv[pcms]
+[ns]Saeki[nse]
+What on earth is going on!? Those people!![pcms]
 
 *5298|
 [fc]
-[ns]‰Á“¡[nse]
-u‰´‚ª•·‚«‚½‚¢‚æ‚ÁIIv[pcms]
+[ns]Kato[nse]
+I want to know!![pcms]
 
-;//SE:Z“à•ú‘—ƒ`ƒƒƒCƒ€
+;//SE:æ ¡å†…æ”¾é€ãƒãƒ£ã‚¤ãƒ 
 [se0 storage="se004"]
 
 *5299|
 [fc]
-‚í‚¯‚à•ª‚©‚ç‚¸AˆÅ‰_‚É˜L‰º‚ğ‘–‚é‰´’B‚Ì“ª‚Ìã‚©‚çA[r]
-“Ë‘RAV“¹æ¶‚Ìº‚ª‹¿‚«“n‚Á‚½B[pcms]
+Without understanding what was going on, we ran through the[r]hallway in a frenzy.[l][er]
+Suddenly, Shindou-sensei's voice echoed from above our[r]heads.[pcms]
 
 *v2199|
 [fc]
 [vo_ri s="risa0544"]
-[ns]V“¹[nse]
-u‰Á“¡A’|“àA“c’†AŒÜ\—’ARŠİA²”Œ‚Ì˜Z–¼I[r]
-‚±‚Ì•ú‘—‚ª•·‚±‚¦‚½‚çA¡‚·‚®Eˆõº‚ÉW‡‚µ‚È‚³‚¢Iv[pcms]
+[ns]Shindou[nse]
+Kato, Takeuchi, Tanaka, Igarashi, Yamagishi, Saeki.[l][er]
+The six of you! If you hear this announcement, gather in the[r]staff room immediately![pcms]
 
 *5300|
 [fc]
-Å‚Á‚Ä‚¢‚é‚Ì‚©AV“¹æ¶‚Í‘Œû‚Å‹©‚Ô‚æ‚¤‚ÉŒ¾‚¢A[r]
-•ú‘—‚ğI—¹‚µ‚½B[pcms]
+Shindou-sensei, seeming anxious, quickly shouted and ended[r]the announcement.[pcms]
 
 *v2200|
 [fc]
 [vo_to s="tomo0256"]
-[ns]ŒÜ\—’[nse]
-u‚¾‚ŸA‚ê‚¥`cc‚ A‚½‚µA‚æ‚ñA‚¾‚Ì‚§ccv[pcms]
+[ns]Igarashi[nse]
+Whoo... Ah, it's me, number four...[pcms]
 
 *5301|
 [fc]
-Œã‚ë‚ğU‚è•Ô‚é‚ÆA¡‚ÌV“¹æ¶‚Ì•ú‘—‚ğ•·‚«AŒÜ\—’[r]
-ƒTƒ“‚ª“Vˆä‚ÉŒü‚©‚Á‚Ä•Ô–‚ğ‚µ‚Ä‚¢‚½B[pcms]
+When I turned around, I heard Shindou-sensei's announcement[r]just now, and Igarashi-san was responding towards the[r]ceiling.[pcms]
 
 *5302|
 [fc]
-–T‚É‚¢‚½’j‚àAˆê‚É‚È‚Á‚Ä“Vˆä‚ğŒ©‰ñ‚µ‚Ä‚¢‚ÄA[r]
-‰´’B‚©‚çŠ®‘S‚É’ˆÓ‚ªˆí‚ê‚Ä‚¢‚½B[pcms]
+The man who was next to us was also looking around the[r]ceiling with us, completely distracted from our attention.[pcms]
 
 *5303|
 [fc]
-[ns]‰Á“¡[nse]
-u¡‚Ì‚¤‚¿‚¾ccs‚­‚¼Iv[pcms]
+[ns]Kato[nse]
+Now's our chance... Let's go![pcms]
 
 *5304|
 [fc]
-‚¤‚È‚¸‚­²”Œ‚Ì˜r‚ğˆø‚«A‰´‚ÍEˆõº‚Ö‚Æ‘–‚Á‚½B[pcms]
+I nodded and pulled Saeki's arm, and we ran towards the[r]staff room.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -151,5 +146,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05330]‚Ö
+;//[05330]ã¸
 [jump target=*05330_TOP storage="05330.ks"]

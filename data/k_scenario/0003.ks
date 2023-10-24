@@ -1,259 +1,244 @@
-;//¢¤£;//¥;//¢;//¤£;//¥;//¢;//¤£;//¥;//¢;//¤£;//¥;//¢;//¤£;//¥;//¢;//¤£;//¥;//¢;//¤£;//¥;//¢;//¤£;//¥
-;//¡ƒuƒƒbƒN0003Fw‰f‰æŒ¤‹†•”‚Ì•”ˆõF—Dx
-;//BG:Šw‰€“àF˜L‰ºF’‹
-;//“oêl•¨GålŒöE—DE“µE’|“à
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥
+;//â–³â–½â–²;//â–¼;//â–³;//â–½â–²;//â–¼;//â–³;//â–½â–²;//â–¼;//â–³;//â–½â–²;//â–¼;//â–³;//â–½â–²;//â–¼;//â–³;//â–½â–²;//â–¼;//â–³;//â–½â–²;//â–¼;//â–³;//â–½â–²;//â–¼
+;//â– ãƒ–ãƒ­ãƒƒã‚¯0003ï¼šã€æ˜ ç”»ç ”ç©¶éƒ¨ã®éƒ¨å“¡ï¼šå„ªã€
+;//BG:å­¦åœ’å†…ï¼šå»Šä¸‹ï¼šæ˜¼
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»ç«¹å†…
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼
 
 *0003_TOP
-;[debug_win]‚È‚¤@0003[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0003 = 1"]
+;[debug_win]ãªã†ã€€0003[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0003 = 1"]
 
-;*SceneSet|w‰f‰æŒ¤‹†•”‚Ì•”ˆõx
+;*SceneSet|ã€æ˜ ç”»ç ”ç©¶éƒ¨ã®éƒ¨å“¡ã€
 
-;//ôFBGM01
+;//â™ªï¼šBGM01
 ;//[bgm001]
 ;//BG:bg006a
 
-;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
+;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
 [bg storage="bg06a"]
 [trans_c cross time=500]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 [se0 storage="se005"]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
-;//¦RŠİ
+;ç«‹ã¡
+;//â€»å±±å²¸
 *v21|
 [fc]
 [vo_ya s="yama0013"]
-[ns]—‚Ì‚±[nse]
-u‚ A‰Á“¡ŒN‚ÁIv[pcms]
+[ns]Girl[nse]
+Ah, Kato-kun![pcms]
 
 *98|
 [fc]
-è‚ğU‚è‚È‚ª‚çŒü‚±‚¤‚©‚ç‹ì‚¯‚Ä‚«‚½‚Ì‚ÍA‰´‚Æ“¯‚¶[r]
-‰f‰æŒ¤‹†•”A—ª‚µ‚Ä‰fŒ¤‚Ì•”ˆõARŠİ‚³‚ñ‚¾‚Á‚½B[pcms]
+The person who came running towards me while waving their[r]hand was Yamagishi-san, a member of the Film Research Club,[r]or Eiken for short, just like me.[pcms]
 
 *99|
 [fc]
-“¯Šw”N‚Ì—q‚Ì’†‚Å‚àˆêC“ñ‚ğ‘ˆ‚¤ƒ‹ƒbƒNƒX‚Ìq‚ÅA[r]
-‰´‚Ì“²‚ê‚ÌlccB[pcms]
+She is one of the most attractive girls in our grade, and[r]the person I admire...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v22|
 [fc]
 [vo_ya s="yama0014"]
-[ns]RŠİ[nse]
-u‚¿‚å‚¤‚Ç—Ç‚©‚Á‚½A‚¢‚Ü‰Á“¡ŒN‚ÌƒNƒ‰ƒX‚É[r]
-s‚±‚¤‚Æ‚µ‚Ä‚½‚ÌB‚İ‚ñ‚È‚Åˆê‚És‚±‚¤‚Æv‚Á‚Äv[pcms]
+[ns]Yamagishi[nse]
+Perfect timing, I was just about to go to Kato-kun's class.[l][er]
+I was thinking of going together with everyone.[pcms]
 
 *100|
 [fc]
-RŠİ‚³‚ñ‚Í–¾‚é‚­‚ÄAŒ³‹C‚ÅA’N‚É‘Î‚µ‚Ä‚à‹C‚³‚­‚ÅA[r]
-‰´‚ª‚¢‚¢‚È‚Æv‚Á‚½‚Ì‚àA[r]
-”Ş—‚Ì‚»‚¤‚¢‚¤‚Æ‚±‚ë‚ÉG‚ê‚½‚©‚ç‚¾B[pcms]
+Yamagishi-san is bright, energetic, and friendly towards[r]everyone.[l][er]
+The reason I like her is because I was able to experience[r]those qualities firsthand.[pcms]
 
 *101|
 [fc]
-‚»‚µ‚Ä‰´‚Í‚Æ‚¢‚¦‚ÎA‚±‚¤‚â‚Á‚Ä”Ş—‚É[r]
-˜b‚µ‚©‚¯‚ç‚ê‚Ä‚àA“®—h‚µ‚Ä‚µ‚Ü‚Á‚ÄccB[pcms]
+And as for me, even when she talks to me like this, I get[r]flustered...[pcms]
 
 *102|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚¤‚ñB‚»‚¤A‚»‚¤‚µ‚æ‚¤A‚¤‚ñv[pcms]
+[ns]Kato[nse]
+Ah, yeah. Yeah, let's do that, yeah.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *103|
 [fc]
-‚±‚ñ‚È‚Ç‚¤‚µ‚æ‚¤‚à‚È‚¢”½‰‚µ‚©•Ô‚¹‚È‚¢A[r]
-á‚¦‚È‚¢’j‚¾B[pcms]
+I'm just a dull guy who can only respond with such hopeless[r]reactions.[pcms]
 
 *104|
 [fc]
-‚—ä‚Ì‰ÔccB[pcms]
+Unattainable beauty...[pcms]
 
 *105|
 [fc]
-”Ş—‚Æ©•ª‚ğ”ä‚×‚é“x‚ÉA‚»‚ÌŒ¾—t‚ª“ª‚É•‚‚©‚ñ‚ÅA[r]
-‰´‚ÍŒ»À‚ğv‚¢’m‚ç‚³‚ê‚éB[pcms]
+Every time I compare myself to her, those words come to mind[r]and I am reminded of the harsh reality.[pcms]
 
 *106|
 [fc]
-‚»‚ê‚Æˆê‚ÉAw‹C‚É‚È‚é’jqx[r]
-‚ ‚ÌŒ¾—t‚ğv‚¢o‚µ‚Ä‚µ‚Ü‚¤B[pcms]
+And along with that, I am reminded of the phrase 'the guy[r]I'm interested in'.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v23|
 [fc]
 [vo_ya s="yama0015"]
-[ns]RŠİ[nse]
-u‚ A“µ‚³‚ñI@“µ‚³‚ñ‚àˆê‚És‚±‚Áv[pcms]
+[ns]Yamagishi[nse]
+Ah, Hitomi-san! Hitomi-san, let's go together too.[pcms]
 
-;//´…—²”Œ‚³‚ñ¨“µ‚³‚ñ
+;//æ¸…æ°´ï¼ ä½ä¼¯ã•ã‚“â†’ç³ã•ã‚“
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v24|
 [fc]
 [vo_sa s="sae0009"]
-[ns]²”Œ[nse]
-uŒ‹\‚æv[pcms]
+[ns]Saeki[nse]
+I'm fine.[pcms]
 
 *107|
 [fc]
-Œã‚©‚ç’Ç‚¢‚Â‚¢‚Ä‚«‚½²”Œ‚ÍARŠİ‚³‚ñ‚É‚»‚¤º‚ğ[r]
-‚©‚¯‚ç‚ê‚Ä‚àA–³ˆ¤‘z‚É‚»‚¤•Ô‚µ‚½‚¾‚¯‚¾‚Á‚½B[pcms]
+Saeki, who caught up later, responded to Yamagishi-san's[r]greeting with a curt reply.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v25|
 [fc]
 [vo_ya s="yama0016"]
-[ns]RŠİ[nse]
-u‚Å‚àA‚Ç‚¤‚¹‚È‚ç‚İ‚ñ‚È‚Åccv[pcms]
+[ns]Yamagishi[nse]
+But, if possible, let's all go together...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v26|
 [fc]
 [vo_sa s="sae0010"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñBW‡‚É’x‚ê‚½‚çA[r]
-V“¹æ¶‚É“{‚ç‚ê‚é‚Ì‚Å‚Í‚È‚©‚Á‚½‚Ì‚Å‚·‚©Hv[pcms]
+[ns]Saeki[nse]
+Kato-san. Weren't you afraid of getting scolded by Shindou-[r]sensei if you were late for the gathering?[pcms]
 
 *108|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¢‚âA‚±‚ê‚Íccv[pcms]
+[ns]Kato[nse]
+No, this is...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v27|
 [fc]
 [vo_sa s="sae0011"]
-[ns]²”Œ[nse]
-u‚Ü‚ŸAæ¶‚É‹C‚É“ü‚ç‚ê‚Ä‚¢‚éA—D“™¶‚Ì[r]
-RŠİ‚³‚ñ‚Æˆê‚Å‚ ‚ê‚ÎA–³‘Ê˜b‚ğ‚µ‚Ä’x‚ê‚Ä‚àA[r]
-“{‚ç‚ê‚È‚¢‚Ì‚©‚à‚µ‚ê‚Ü‚¹‚ñ‚¯‚Çv[pcms]
+[ns]Saeki[nse]
+Well, if I'm with Yamagishi-san, the model student who is[r]favored by the teacher, maybe I won't get scolded even if we[r]chat and arrive late.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v28|
 [fc]
 [vo_ya s="yama0017"]
-[ns]RŠİ[nse]
-u‚¦ccHv[pcms]
+[ns]Yamagishi[nse]
+Eh...?[pcms]
 
 *109|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨‚¢AŒ¾‚¢‰ß‚¬‚¾‚¼²”Œv[pcms]
+[ns]Kato[nse]
+Hey, that's going too far, Saeki.[pcms]
 
 *110|
 [fc]
-‰´‚ÌŒ¾—t‚ğÅŒã‚Ü‚Å•·‚©‚¸A²”Œ‚Í¨‚¢‚æ‚­[r]
-‚»‚Á‚Û‚ğŒü‚¢‚ÄA‚Ğ‚Æ‚è‚Åæ‚Ö•à‚«n‚ß‚½B[pcms]
+Saeki abruptly turned away without listening to my words[r]until the end, and started walking ahead alone.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v29|
 [fc]
 [vo_ya s="yama0018"]
-[ns]RŠİ[nse]
-u‚ ‚ÁA“µ‚³‚ñccv[pcms]
+[ns]Yamagishi[nse]
+Ah, Hitomi-san...[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std14|
 [fc]
-[ns]’|“à[nse]
-u“µA‚È‚ÉƒJƒŠƒJƒŠ‚µ‚Ä‚ñ‚ÌHv[pcms]
+[ns]Takeuchi[nse]
+Hitomi, what are you so worried about?[pcms]
 
 *111|
 [fc]
-[ns]‰Á“¡[nse]
-u‚³‚Ÿccv[pcms]
+[ns]Kato[nse]
+Well...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *112|
 [fc]
-²”Œ‚Í‚à‚Ì¦‚¢ƒXƒs[ƒh‚Å•à‚«‹‚èA‚ ‚Á‚Æ‚¢‚¤ŠÔ‚É˜L[r]
-‰º‚ÌŠp‚ğ‹È‚ª‚Á‚Ä‚»‚Ìp‚ªŒ©‚¦‚È‚­‚È‚Á‚Ä‚µ‚Ü‚Á‚½B[pcms]
+Saeki walked away at an incredible speed and quickly turned[r]the corner of the hallway, disappearing from sight in an[r]instant.[pcms]
+[l][er]
 
 *113|
 [fc]
-²”Œ‚Ìp‚ªŒ©‚¦‚È‚­‚È‚é‚Ü‚ÅA‰´‚Æ^–ç‚Íñ‚ğ‚©‚µ‚°‚½[r]
-‚Ü‚ÜARŠİ‚³‚ñ‚Í•sˆÀ‚°‚ÈŠç‚ğ‚µ‚½‚Ü‚Ü‚ÅA‚»‚Ìê‚É—§[r]
-‚¿‚·‚­‚ñ‚Å‚¢‚½B[pcms]
+Until Saeki's figure disappeared from sight, Shinya and I[r]stood there, perplexed, while Yamagishi-san had an anxious[r]expression on her face, frozen in place.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v30|
 [fc]
 [vo_ya s="yama0019"]
-[ns]RŠİ[nse]
-ucc„’B‚às‚±‚¤H@–{“–‚ÉV“¹æ¶‚É“{‚ç‚ê‚¿‚á‚¤[r]
-‚©‚àv[pcms]
+[ns]Yamagishi[nse]
+... Should we go too? We might really get scolded by[r]Shindou-sensei.[pcms]
 
 *114|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤A‚¤‚ñA‚»‚¤‚¾As‚±‚¤v[pcms]
+[ns]Kato[nse]
+U-um, yeah, that's right, let's go.[pcms]
 
-;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 [jump target=*0004_TOP storage="0004.ks"]

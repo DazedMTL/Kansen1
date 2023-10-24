@@ -1,20 +1,20 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02113wEˆõº‚Öx
-;//BG:EˆõºF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöE—DEƒŠƒTEŠİ“cE’|“à
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02113ã€è·å“¡å®¤ã¸ã€
+;//BG:è·å“¡å®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»å²¸ç”°ãƒ»ç«¹å†…
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02113_TOP
-;[debug_win]‚È‚¤@02113[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02113 = 1"]
+;[debug_win]ãªã†ã€€02113[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02113 = 1"]
 
-;*SceneSet|wEˆõº‚Öx
+;*SceneSet|ã€è·å“¡å®¤ã¸ã€
 
 ;//[02113]
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 ;//[bgm007]
 ;//BG:bg005a
 [bg storage="bg05a"]
@@ -22,58 +22,55 @@
 
 *2184|
 [fc]
-^–ç‚Æ“ñl‚Å•Ğ•û‚¸‚Â˜r‚ğ‚Á‚ÄAŠİ“c‚ğˆø‚«‚¸‚è‚È‚ª[r]
-‚ç‹’®Šoº‚ğo‚é‚ÆA˜L‰º‚Ìæ‚ÉV“¹æ¶‚ÆRŠİ‚³‚ñ‚ª[r]
-—§‚Á‚Ä‚¢‚é‚Ì‚ªŒ©‚¦‚½B[pcms]
+Shinya and I each held one of Kishida's arms and dragged him[r]out of the audiovisual room.[l][er]
+As we exited, I could see Shindou-sensei and Yamagishi-san[r]standing at the end of the hallway.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [ChrSetParts layer=1 chface="risa_c_a_10"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v867|
 [fc]
 [vo_ri s="risa0262"]
-[ns]V“¹[nse]
-u“ñl‹¤A‚±‚Á‚¿‚æI@‹}‚¢‚ÅIv[pcms]
+[ns]Shindou[nse]
+Both of you, this way! Hurry![pcms]
 
 *2185|
 [fc]
-èµ‚«‚·‚éV“¹æ¶‚ğ–Úw‚µ‚ÄA‰´’B‚Í‘–‚Á‚½B‚»‚Ì“r[r]
-’†Aˆê“x‚¾‚¯Œã‚ë‚ğU‚è•Ô‚Á‚½‚ªAP‚Á‚Ä‚«‚½’j‚ª’Ç‚¢[r]
-‚©‚¯‚Ä‚­‚é—lq‚Í‚È‚©‚Á‚½B[pcms]
+We ran towards Shindou-sensei, who was beckoning us.[l][er]
+Along the way, I glanced back once, but there was no sign of[r]the man who had attacked us chasing after us.[pcms]
 
 ;//BG:bg003a
 [bg storage="bg03a"]
 [trans_c cross time=500]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v868|
 [fc]
 [vo_ri s="risa0263"]
-[ns]V“¹[nse]
-uEˆõº‚É”ğ“ï‚µ‚Ü‚µ‚å‚¤B‚ ‚»‚±‚È‚ç“d˜b‚à‚ ‚é‚µA[r]
-Œx@‚â‹~‹}Ô‚ğŒÄ‚Ô‚±‚Æ‚à‚Å‚«‚é‚ív[pcms]
+[ns]Shindou[nse]
+Let's take refuge in the staff room.[l][er]
+There's a phone there, so we can call the police and an[r]ambulance if needed.[pcms]
 
 *2186|
 [fc]
-V“¹æ¶‚Íƒ|ƒPƒbƒg‚©‚çŒ®‚ğæ‚èo‚µAEˆõº‚É‰´’B‚ğ[r]
-“±‚¢‚½B[pcms]
+Shindou-sensei took out a key from her pocket and led us to[r]the staff room.[pcms]
 
 ;//blackout
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//[02114]‚Ö
+;//[02114]ã¸
 [jump target=*02114_TOP storage="02114.ks"]
 

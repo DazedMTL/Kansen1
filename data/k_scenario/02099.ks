@@ -1,20 +1,20 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02099wŠi“¬x
-;//BG:“Áê‹³º˜L‰ºF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöE—DE’|“à
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02099ã€æ ¼é—˜ã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02099_TOP
-;[debug_win]‚È‚¤@02099[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02099 = 1"]
+;[debug_win]ãªã†ã€€02099[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02099 = 1"]
 
-;*SceneSet|wŠi“¬x
+;*SceneSet|ã€æ ¼é—˜ã€
 
 ;//[02099]
 
-;//ôFBGM003
+;//â™ªï¼šBGM003
 ;//[bgm003]
 ;//BG:bg003a
 ;//[bg storage="bg03a"]
@@ -22,100 +22,96 @@
 
 *1999|
 [fc]
-[ns]‰Á“¡[nse]
-u^–ç‚ÁIIv[pcms]
+[ns]Kato[nse]
+Shinya!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *2000|
 [fc]
-^–ç‚ª‰£‚è”ò‚Î‚³‚ê‚½‚Ì‚ğŒ©‚ÄA“ª‚ÉŒŒ‚ªã‚Á‚½‰´‚ÍA[r]
-’j‚ğ—Í”C‚¹‚É°‚Ö“Š‚°“|‚µ‚½B[pcms]
+I saw Shinya being knocked down, and my blood boiled in my[r]head.[l][er]
+I forcefully threw the man to the floor.[pcms]
 
 *2001|
 [fc]
-[ns]‰Á“¡[nse]
-uŠÖŒW‚È‚¢“z‚ğ‰£‚é‚±‚Æ‚È‚¢‚¾‚ë‚¤I@ƒAƒ“ƒ^‚ÉƒPƒK‚ğ[r]
-‚³‚¹‚½‚Ì‚Í‰´‚¾B‰£‚é‚È‚ç‰´‚ğ‰£‚ê‚æIv[pcms]
+[ns]Kato[nse]
+You shouldn't be hitting unrelated people![l][er]
+I'm the one who hurt you. If you're going to hit someone,[r]hit me instead![pcms]
 
 *2002|
 [fc]
-‚Ì‚»‚è‚Æ‹N‚«‚ ‚ª‚Á‚½’j‚ÍA‘Š•Ï‚í‚ç‚¸‹ü‚ğRŠİ‚³‚ñ[r]
-‚ÉŒÅ’è‚µ‚ÄAÎŠç‚ğ•‚‚©‚×‚½‚Ü‚ÜARŠİ‚³‚ñ‚ğ–Úw‚µ‚Ä[r]
-‹l‚ßŠñ‚Á‚Ä‚­‚éB[pcms]
+The man who had gotten up smoothly, still fixed his gaze on[r]Yamagishi-san and approached her with a smile, heading[r]towards her.[pcms]
 
 [ChrSetEx layer=1 chbase="zom_01_a"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std223|
 [fc]
-[ns]’jq¶“k[nse]
-u‚¤‚ÖA‚Ö‚¥cc‚âA‚Ü‚¬A‚µ‚¡`cc‚¿‚ñA‚ÛA‚µ‚á[r]
-‚Ô‚Á‚Ä‚­A‚ê‚æ‚§ccv[pcms]
+[ns]male student[nse]
+Uhe, hee... Ya, magi, shii~...[l][er]
+Chin, po, please suck it for me...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_c_09"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v825|
 [fc]
 [vo_ya s="yama0258"]
-[ns]RŠİ[nse]
-u‚Ğ‚Áccv[pcms]
+[ns]Yamagishi[nse]
+Huh...[pcms]
+*[l][er]
 
 *2003|
 [fc]
-[ns]‰Á“¡[nse]
-uRŠİ‚³‚ñ‚ÁIIv[pcms]
+[ns]Kato[nse]
+Yamagishi-san!![pcms]
 
 *2004|
 [fc]
-’j‚Ì‚ ‚Ü‚è‚ÌˆÙ—l‚³‚É˜‚ª”²‚¯‚Ä‚µ‚Ü‚Á‚½‚Ì‚©ARŠİ‚³[r]
-‚ñ‚Í°‚É‚Ö‚½‚è‚ñ‚Å‚µ‚Ü‚Á‚Ä‚¢‚½B[pcms]
+Yamagishi-san had collapsed to the floor, seemingly unable[r]to stand due to the man's overwhelming strangeness.[pcms]
 
 *2005|
 [fc]
-[ns]‰Á“¡[nse]
-u‚µ‚Á‚©‚è‚µ‚ëI@‘‚­“¦‚°‚é‚ñ‚¾IIv[pcms]
+[ns]Kato[nse]
+Pull yourself together! Hurry up and run away!![pcms]
 
 *2006|
 [fc]
-˜r‚ğ’Í‚ñ‚ÅRŠİ‚³‚ñ‚ğ—§‚½‚¹‚æ‚¤‚Æ‚·‚é‚ªA”Ş—‚Í’j‚ğ[r]
-‹Ã‹‚µ‚Äk‚¦‚½‚Ü‚ÜA—§‚Â‚±‚Æ‚ª‚Å‚«‚È‚©‚Á‚½B[pcms]
+I tried to grab her arm and make Yamagishi-san stand up, but[r]she was trembling and unable to stand, still fixated on the[r]man.[pcms]
 
 *2007|
 [fc]
-‚»‚¤‚µ‚Ä‚¢‚éŠÔ‚É‚àA’j‚ÍŸ‘æ‚É‹——£‚ğ‹l‚ß‚Ä‚­‚éB[pcms]
+Meanwhile, the man gradually closed the distance.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v826|
 [fc]
 [vo_ya s="yama0259"]
-[ns]RŠİ[nse]
-u‰½H@‰½‚È‚Ìcc‚¢A‚¢‚âccv[pcms]
+[ns]Yamagishi[nse]
+What? What is it... n-no...[pcms]
 
 *2008|
 [fc]
-[ns]‰Á“¡[nse]
-u‚­‚»‚ÁccIIv[pcms]
+[ns]Kato[nse]
+Damn it...!![pcms]
 
 *2009|
 [fc]
-‰£‚è‚½‚­‚Í‚È‚¢‚¯‚ÇA‚»‚¤‚Å‚à‚µ‚È‚¯‚ê‚ÎAƒRƒCƒc‚ğ~[r]
-‚ß‚é‚±‚Æ‚Í‚Å‚«‚»‚¤‚à‚È‚¢B[pcms]
+I don't want to resort to violence, but if I don't, it seems[r]like I won't be able to stop this guy.[pcms]
 
 *2010|
 [fc]
-RŠİ‚³‚ñ‚ğç‚é‚½‚ß‚¾ccB[pcms]
+To protect Yamagishi-san...[pcms]
 
 *2011|
 [fc]
-‰´‚ÍŒ‚ğd‚­ˆ¬‚Á‚ÄA’j‚É”ò‚Ñ‚©‚©‚Á‚½B[pcms]
+I tightly clenched my fist and leaped towards the man.[pcms]
 
 [ChrSetEx layer=1 chbase="zom_01_a"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -123,13 +119,13 @@
 
 *2012|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ç‚ ‚ ‚ ‚Ÿ‚Ÿ‚Ÿ‚ÁIIIIv[pcms]
+[ns]Kato[nse]
+Raaaaahhhhhh!!!!!![pcms]
 
-;//SE:‰£‚é
+;//SE:æ®´ã‚‹
 [se0 storage="se026"]
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 [se0 storage="se021"]
 
 
@@ -138,69 +134,66 @@
 
 *2013|
 [fc]
-‰´‚Í‹C–¡‚Ìˆ«‚¢ÎŠç‚ğAv‚¢Ø‚è‰£‚è‚Â‚¯‚½B[r]
-‚æ‚ë‚ß‚¢‚ÄA^–ç‚Ì‹ß‚­‚É’j‚Í“|‚ê‚ñ‚¾B[pcms]
+I swung my fist with all my might at his creepy smile.[l][er]
+Staggering, the man fell down near Shinya.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v827|
 [fc]
 [vo_ya s="yama0260"]
-[ns]RŠİ[nse]
-u‚«‚á‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Kyaa![pcms]
 
 *2014|
 [fc]
-“®‚«‚ª~‚Ü‚Á‚½‚Ì‚ğŠm”F‚µ‚ÄA‰´‚Í‹}‚¢‚ÅRŠİ‚³‚ñ‚É‹ì[r]
-‚¯Šñ‚Á‚½B[pcms]
+I confirmed that he had stopped moving, and hurriedly ran[r]towards Yamagishi-san.[pcms]
 
 *2015|
 [fc]
-[ns]‰Á“¡[nse]
-u‘åä•vH@ƒzƒ‰A—§‚Á‚Äccv[pcms]
+[ns]Kato[nse]
+Are you okay? Here, stand up...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v828|
 [fc]
 [vo_ya s="yama0261"]
-[ns]RŠİ[nse]
-u‚ ccv[pcms]
+[ns]Yamagishi[nse]
+Ah...[pcms]
 
 *2016|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦Hv[pcms]
+[ns]Kato[nse]
+Huh?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v829|
 [fc]
 [vo_ya s="yama0262"]
-[ns]RŠİ[nse]
-u‚ ‚êccv[pcms]
+[ns]Yamagishi[nse]
+Huh...[pcms]
 
 *2017|
 [fc]
-‹¯‚¦‚½Šç‚ÌRŠİ‚³‚ñ‚ªw‚³‚·•û‚ğŒ©‚é‚ÆA’j‚ÍŠù‚É—§‚¿[r]
-ã‚ª‚Á‚Ä‚¢‚ÄARŠİ‚³‚ñ‚É‹C–¡‚Ìˆ«‚¢ÎŠç‚ÅÎ‚¢‚©‚¯‚Ä[r]
-‚¢‚½B[pcms]
+When Yamagishi-san, with a frightened expression on her[r]face, looked in the direction she was pointing, the man had[r]already stood up and was giving her a creepy smile.[pcms]
 
 [ChrSetEx layer=1 chbase="zom_01_a"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std224|
 [fc]
-[ns]’jq¶“k[nse]
-u‚¤‚¥‚ÖA‚Öccv[pcms]
+[ns]male student[nse]
+Ueh, heh...[pcms]
 
-;//[02100]‚Ö
+;//[02100]ã¸
 [jump target=*02100_TOP storage="02100.ks"]
 

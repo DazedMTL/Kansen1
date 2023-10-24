@@ -1,17 +1,17 @@
 
-;//¡ËƒuƒƒbƒN05060w‹³ºx
-;//BG:“ñŠK‹³º˜L‰ºF–éF^“_“”
-;//BG:‹³ºF–éFÁ“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05060ã€æ•™å®¤ã€
+;//BG:äºŒéšæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šï¼ç‚¹ç¯
+;//BG:æ•™å®¤ï¼šå¤œï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05060_TOP
-;[debug_win]‚È‚¤@05060[debug_win_end]
-;*SceneSet|w‹³ºx
+;[debug_win]ãªã†ã€€05060[debug_win_end]
+;*SceneSet|ã€æ•™å®¤ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05060 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05060 = 1"]
 
 ;	/*
-;	;//ôFBGM001
+;	;//â™ªï¼šBGM001
 ;	[bgm001]
 ;	*/
 
@@ -28,8 +28,8 @@
 
 *4722|
 [fc]
-[ns]‰Á“¡[nse]
-u‚±‚±‚àˆÙí‚È‚µA‚©ccv[pcms]
+[ns]Kato[nse]
+No abnormalities here either, huh...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -42,26 +42,25 @@
 
 *4723|
 [fc]
-‚`‘g‚©‚ç‚g‘g‚Ü‚Å‚ ‚é‹³º‚ğA’[‚©‚ç‡”Ô‚ÉŒ©‚Ä‰ñ‚Á‚Ä[r]
-‚Í‚İ‚½‚ªA‚Ç‚Ì‹³º‚à‰½‚à‚È‚­A’N‚à‚¢‚È‚©‚Á‚½B[pcms]
+I went around and checked each classroom from Class A to[r]Class H, but there was nothing in any of the classrooms and[r]no one was there.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2033|
 [fc]
 [vo_sa s="sae0327"]
-[ns]²”Œ[nse]
-u“ñŠK‚É‚à‚¢‚È‚¢—l‚Å‚·‚Ëccv[pcms]
+[ns]Saeki[nse]
+It seems like they're not on the second floor either...[pcms]
 
 *4724|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ ccv[pcms]
+[ns]Kato[nse]
+Ah...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -79,93 +78,87 @@
 
 *4725|
 [fc]
-‰´‚Í‚à‚¤ˆê“xA‹³º‚Ì’†‚ğŒ©‰ñ‚µ‚Ä‚İ‚éB[pcms]
+I'll take another look around inside the classrooms.[pcms]
 
 *4726|
 [fc]
-‘¢‚è‚Í“¯‚¶”¤‚¾‚ªA‘¼ƒNƒ‰ƒX‚Ì‹³º‚Ì•µˆÍ‹C‚ÍA©•ª‚Ì[r]
-ƒNƒ‰ƒX‚Æ‚Íˆá‚Á‚ÄŒ©‚¦‚éB[pcms]
+Although they should be built the same, the atmosphere in[r]the classrooms of other classes looks different from my own[r]class.[pcms]
 
 *4727|
 [fc]
-[ns]‰Á“¡[nse]
-u‚È‚ñ‚Å‚±‚¤A‘¼‚ÌƒNƒ‰ƒX‚Ì‹³º‚Á‚Ä‚Ì‚ÍA©•ª‚ÌŠ‚Æ[r]
-ˆá‚Á‚ÄŒ©‚¦‚é‚ñ‚¾‚ë‚¤‚È[v[pcms]
+[ns]Kato[nse]
+I wonder why the classrooms in other classes look different[r]from ours.[pcms]
 
 *4728|
 [fc]
-RŠİ‚³‚ñ‚ÌƒNƒ‰ƒX‚É“ü‚Á‚½‚É‚ÍA‚±‚±‚ª•’iA”Ş—‚ª[r]
-‚¢‚éƒNƒ‰ƒX‚È‚Ì‚©‚ÆAŠ´“®‚µ‚Ä‚µ‚Ü‚Á‚½’ö‚¾B[pcms]
+When I entered Yamagishi-san's class, I was so moved that I[r]thought, Is this really the class where she usually is?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2034|
 [fc]
 [vo_sa s="sae0328"]
-[ns]²”Œ[nse]
-uƒƒ}ƒ“ƒeƒBƒbƒN‚ÈêŠ‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚©‚ç‚Ëv[pcms]
+[ns]Saeki[nse]
+This isn't a romantic place, you know.[pcms]
 
 *4729|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ÍccHv[pcms]
+[ns]Kato[nse]
+Huh...?[pcms]
 
 *4730|
 [fc]
-‘S‘RŠÖŒW‚Ì‚È‚¢ó‚¯“š‚¦‚ÉA‰´‚Í‚ ‚Á‚¯‚É‚Æ‚ç‚ê‚ÄAv[r]
-‚í‚¸²”Œ‚ÌŠç‚ğ”`‚«‚ñ‚¾B[pcms]
+I was taken aback by Saeki's completely unrelated response,[r]and without thinking, I peered into her face.[pcms]
+[l][er]
 
 *4731|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨‘OA‚Ç‚¤‚µ‚½‚ñ‚¾H@‰º‚Åˆê‚É‚È‚Á‚½‚©‚çA‰½[r]
-‚©•Ï‚È‚±‚ÆŒ¾‚Á‚Ä‚é‚¯‚Çv[pcms]
+[ns]Kato[nse]
+Hey, what's wrong with you? Since we met downstairs, you've[r]been saying strange things.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2035|
 [fc]
 [vo_sa s="sae0329"]
-[ns]²”Œ[nse]
-u‚µA¸—ç‚ÈI@‚¨‚©‚µ‚È‚±‚Æ‚È‚ÇŒ¾‚Á‚Ä‚Ü‚¹‚ñIv[pcms]
+[ns]Saeki[nse]
+H-How rude! I haven't been saying anything strange![pcms]
 
 *4732|
 [fc]
-²”Œ‚ÍŠç‚ğÔ‚­‚µ‚ÄA‰´‚©‚çŠç‚ğ”w‚¯‚½B[pcms]
+Saeki blushed and turned her face away from me.[pcms]
 
 *4733|
 [fc]
-X‚Ë‚½‚æ‚¤‚È²”Œ‚Ì‰¡Šç‚ªA‚È‚º‚¾‚©A–­‚É‚©‚í‚¢‚­v[r]
-‚¦‚éB[pcms]
+Saeki's sulking profile somehow looks strangely cute.[pcms]
 
 *4734|
 [fc]
-‚³‚Á‚«‚Ü‚Åè‚ğŒq‚¢‚Å‚¢‚½‚¹‚¢‚©‚ÈccB‚È‚ñ‚©AˆÓ¯[r]
-‚µ‚¿‚Ü‚¤ccB[pcms]
+Maybe it's because we were holding hands until just now...[l][er]
+I feel conscious of something...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2036|
 [fc]
 [vo_sa s="sae0330"]
-[ns]²”Œ[nse]
-u“ñŠK‚É‚à‚¢‚È‚¢‚±‚Æ‚Í‚í‚©‚Á‚½‚Ì‚Å‚·‚©‚çA‚à‚¤Ÿ‚É[r]
-s‚«‚Ü‚·‚æIv[pcms]
+[ns]Saeki[nse]
+Since we know she's not on the second floor, let's move on[r]to the next one![pcms]
 
 *4735|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚ ‚ A‚»‚¤‚¾‚Èv[pcms]
+[ns]Kato[nse]
+Ah, yeah, that's right.[pcms]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
@@ -179,5 +172,5 @@
 
 ;//blackout
 
-;//[05070]‚Ö
+;//[05070]ã¸
 [jump target=*05070_TOP storage="05070.ks"]

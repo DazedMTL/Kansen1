@@ -1,22 +1,22 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN04014w—D‚Æ‹¤‚É‚·‚ª‚·‚ª‚µ‚¢’©‚ğx
-;//BG:‹’®ŠoºF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöE—DE‰Á“¡
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04014ã€å„ªã¨å…±ã«ã™ãŒã™ãŒã—ã„æœã‚’ã€
+;//BG:è¦–è´è¦šå®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»åŠ è—¤
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *04014_TOP
-;[debug_win]‚È‚¤@04014[debug_win_end]
+;[debug_win]ãªã†ã€€04014[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04014 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04014 = 1"]
 
-;*SceneSet|w—D‚Æ‹¤‚É‚·‚ª‚·‚ª‚µ‚¢’©‚ğx
+;*SceneSet|ã€å„ªã¨å…±ã«ã™ãŒã™ãŒã—ã„æœã‚’ã€
 
-;//flag:—Dƒ‹[ƒgƒtƒ[@‚V@•\¦
+;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼—ã€€è¡¨ç¤º
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 
 ;//[bgm001]
 
@@ -27,105 +27,101 @@
 
 *3936|
 [fc]
-‹N‚«‚Ä‚·‚®‚Ì‚¹‚¢‚©A“ª‚Ì’†‚à‘Ì‚Ì’†‚àA‘÷‚Á‚Ä‚¢‚Äd[r]
-‚¢Š´‚¶‚ª‚·‚éB[pcms]
+I feel heavy and cloudy in my head and body, maybe because[r]it's right after waking up.[pcms]
 
 *3937|
 [fc]
-‚»‚ê‚ğƒXƒbƒLƒŠô‚¢—¬‚·‚Ì‚ÉAR‚Ì‹ó‹C‚ğ‹z‚¢‚És‚­‚Æ[r]
-‚¢‚¤‚Ì‚Í‚¢‚¢‚©‚à‚µ‚ê‚È‚¢B[pcms]
+It might be good to go and breathe in the mountain air to[r]refresh myself and wash away that feeling.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1605|
 [fc]
 [vo_ya s="yama0651"]
-[ns]RŠİ[nse]
-u‚»‚¤‚¾‚æ`As‚±s‚±Iv[pcms]
+[ns]Yamagishi[nse]
+That's right~ Let's go, let's go![pcms]
 
 *3938|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¶‚á‚ Aƒvƒ`X—Ñ—‚Å‚à‚µ‚Ä‚±‚æ‚¤‚©v[pcms]
+[ns]Kato[nse]
+Well then, shall we go for a little forest bathing?[pcms]
 
 *3939|
 [fc]
-Š÷‚Ìã‚ÅƒOƒbƒ^ƒŠ‚µ‚Ä‚¢‚é^–ç‚É‹ß‚Ã‚¢‚ÄA‰´‚Íƒ„ƒc‚Ì[r]
-“ª‚ğƒmƒbƒN‚µ‚½B[pcms]
+I approached Shinya, who was slumped over on the desk, and[r]knocked on his head.[pcms]
 
 *3940|
 [fc]
-[ns]‰Á“¡[nse]
-uƒIƒCA‹N‚«‚ë^–çBs‚­‚¼v[pcms]
+[ns]Kato[nse]
+Hey, wake up Shinya. Let's go.[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std316|
 [fc]
-[ns]’|“à[nse]
-u‚ÍccHv[pcms]
+[ns]Takeuchi[nse]
+Huh...?[pcms]
 
 *3941|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ÍH@‚¶‚á‚Ë[‚æA‚¨‘O‚às‚­‚ñ‚¾‚æv[pcms]
+[ns]Kato[nse]
+Huh? No way, you're coming too.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std317|
 [fc]
-[ns]’|“à[nse]
-u‚â‚¾B“ñl‚Ås‚Á‚Ä‚æv[pcms]
+[ns]Takeuchi[nse]
+No way. Just the two of you go.[pcms]
 
 *3942|
 [fc]
-[ns]‰Á“¡[nse]
-uƒzƒ‰A‘‚­Iv[pcms]
+[ns]Kato[nse]
+Hey, hurry up![pcms]
 
 *3943|
 [fc]
-‰´‚Í^–ç‚Ìñ‚ÌŒã‚ë‚ğ’Í‚ñ‚Åˆø‚Á’£‚Á‚ÄA‹’®Šoº‚©‚ç[r]
-ˆø‚«‚¸‚èo‚µ‚½B[pcms]
+I grabbed Shinya by the back of his neck and pulled him,[r]dragging him out of the audiovisual room.[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std318|
 [fc]
-[ns]’|“à[nse]
-u‚â‚ß‚ë‚æ‚§I@ƒ{ƒN‚Í”L‚¶‚á‚È‚¢‚¼Iv[pcms]
+[ns]Takeuchi[nse]
+Stop it! I'm not a cat, you know![pcms]
 
 *3944|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚Æ‚Å‘S‘‚ÌƒlƒR‚ÉÓ‚Á‚Æ‚¯‚æA‚¨‘Ov[pcms]
+[ns]Kato[nse]
+Apologize to all the cats in the country later, you[l][er]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1606|
 [fc]
 [vo_ya s="yama0652"]
-[ns]RŠİ[nse]
-u‚Õ‚ÁccB‚ ‚Í‚Í‚Í‚Í‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+*giggles* Ahahaha![pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -133,7 +129,7 @@
 
 ;//blackout
 
-;//[04015]‚Ö
+;//[04015]ã¸
 
 [jump target=*04015_TOP storage="04015.ks"]
 

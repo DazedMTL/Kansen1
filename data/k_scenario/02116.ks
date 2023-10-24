@@ -1,27 +1,27 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02116wŠw‰€’Tõx
-;//BG:“Áê‹³º˜L‰ºF’‹i’©Œ“—pj
-;//BG:‹³º˜L‰ºF’‹i’©Œ“—pj
-;//BG:‹³ºF’‹i’©Œ“—pj
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02116ã€å­¦åœ’æ¢ç´¢ã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//BG:æ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//BG:æ•™å®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02116_TOP
-;[debug_win]‚È‚¤@02116[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02116 = 1"]
+;[debug_win]ãªã†ã€€02116[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02116 = 1"]
 
-;*SceneSet|wŠw‰€’Tõx
+;*SceneSet|ã€å­¦åœ’æ¢ç´¢ã€
 
 ;//[02116]
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 ;//[bgm007]
 ;//BG:bg003a
 [bg storage="bg03a"]
 [trans_c cross time=500]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 [se0 storage="se005"]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
@@ -29,45 +29,43 @@
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std249|
 [fc]
-[ns]’|“à[nse]
-u‚È‚ñ‚Åƒ{ƒN‚½‚¿‚ª‚±‚ñ‚È‚±‚Æccv[pcms]
+[ns]Takeuchi[nse]
+Why do we have to do something like this...[pcms]
 
 *2213|
 [fc]
-[ns]‰Á“¡[nse]
-uRŠİ‚³‚ñ‚âV“¹æ¶‚ÉAŠëŒ¯‚È‚±‚Æ‚â‚ç‚¹‚é‚í‚¯‚É‚¢[r]
-‚©‚È‚¢‚¾‚ëHv[pcms]
+[ns]Kato[nse]
+We can't let Yamagishi-san and Shindou-sensei do something[r]dangerous, right?[pcms]
 
 *2214|
 [fc]
-‚Æ‚Í‚¢‚¦ARŠİ‚³‚ñ‚ğP‚¨‚¤‚Æ‚µ‚½‚æ‚¤‚È“z‚ªAZÉ‚Ì[r]
-’†‚É‰½l‚¢‚é‚Ì‚©‚í‚©‚ç‚È‚¢¡A‰´‚à‹°•|S‚ğÁ‚·‚±‚Æ[r]
-‚Í‚Å‚«‚È‚©‚Á‚½B[pcms]
+However, with the uncertainty of how many people there are[r]in the school building who might have tried to attack[r]Yamagishi-san, I couldn't completely erase my sense of fear[r]either.[pcms]
+[l][er]
 
-;—§‚¿
+;ç«‹ã¡
 *std250|
 [fc]
-[ns]’|“à[nse]
-u‚³‚Á‚³‚ÆÏ‚Ü‚¹‚ÄA‚Í‚â‚­–ß‚ë‚¤Hv[pcms]
+[ns]Takeuchi[nse]
+Let's finish this quickly and go back, okay?[pcms]
 
 *2215|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤‚¾‚Èccv[pcms]
+[ns]Kato[nse]
+Yeah...[pcms]
 
 *2216|
 [fc]
-‰´’B‚Í˜L‰º‚ğ‘–‚éƒXƒs[ƒh‚ğã‚°‚½B[pcms]
+We increased our speed as we ran down the hallway.[pcms]
 
 ;//blackout
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 [wait_c time=500]
 
@@ -75,8 +73,8 @@
 
 *2217|
 [fc]
-‰´’B‚ğP‚Á‚½‚æ‚¤‚È“z‚ÍAˆêŠK‚É‚Í‚¢‚È‚¢‚æ‚¤‚¾‚Á‚½B[r]
-‚»‚ê‚ğŠm”F‚µ‚ÄA‰´’B‚Í“ñŠK‚Öã‚ª‚Á‚½B[pcms]
+It seemed like the person who attacked us wasn't on the[r]first floor.[l][er]
+After confirming that, we went up to the second floor.[pcms]
 
 ;//BG:bg006a
 [bg storage="bg06a"]
@@ -84,62 +82,59 @@
 
 *2218|
 [fc]
-©•ª‚Ìg‚ğç‚é‚½‚ß‚É‚àA¬‚³‚¢•¨‰¹‚Ü‚Å•·‚«“¦‚³‚È‚¢[r]
-‚æ‚¤‚É¨‚ğŸ‚Ü‚¹‚Ä‚İ‚é‚ªA“ñŠK‚Å‚Íl‚Ì‹C”z‚àŠ´‚¶‚È[r]
-‚©‚Á‚½B[pcms]
+I tried to listen carefully, not letting even the slightest[r]sound escape my ears, in order to protect myself.[l][er]
+However, I couldn't sense any presence of people on the[r]second floor.[pcms]
 
 *2219|
 [fc]
-[ns]‰Á“¡[nse]
-u‚±‚±‚É‚à‚¢‚È‚¢‚İ‚½‚¢‚¾‚Èccv[pcms]
+[ns]Kato[nse]
+It seems like they're not here either...[pcms]
 
 *2220|
 [fc]
-^–ç‚ğŒ©‚é‚ÆA‰½‚©‚ğŠ´‚¶‚Æ‚Á‚½‚Ì‚©AƒLƒ‡ƒƒLƒ‡ƒ‚Æ[r]
-•Ó‚è‚ğŒ©‰ñ‚µ‚Ä‚¢‚éB[pcms]
+When I looked at Shinya, it seemed like he sensed something,[r]as he looked around nervously.[pcms]
 
 *2221|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨‚¢cc‚à‚µ‚©‚µ‚ÄA‰½‚©‚¢‚é‚Ì‚©ccHv[pcms]
+[ns]Kato[nse]
+Hey... Could it be, is there something here...?[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std251|
 [fc]
-[ns]’|“à[nse]
-u‚¦‚ÁH@‚ A‚²‚ß‚ñA‚È‚ñ‚Å‚à‚È‚¢‚æB‚¿‚å‚Á‚ÆŒ©‚Ä[r]
-‚½‚¾‚¯v[pcms]
+[ns]Takeuchi[nse]
+Huh? Ah, sorry, it's nothing. I was just looking around.[pcms]
 
 *2222|
 [fc]
-[ns]‰Á“¡[nse]
-u‚È‚ñ‚¾‚æA‹º‚©‚·‚È‚æccv[pcms]
+[ns]Kato[nse]
+What's the matter? Don't scare me like that...[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std252|
 [fc]
-[ns]’|“à[nse]
-u‚²‚ß‚ñ‚²‚ß‚ñB‚¶‚áAOŠKs‚±‚¤‚©v[pcms]
+[ns]Takeuchi[nse]
+Sorry, sorry. Well, shall we go to the third floor then?[pcms]
 
 *2223|
 [fc]
-‰´’B‚Í—ˆ‚½“¹‚ğ–ß‚èAOŠK‚Ö‚Æ‘–‚Á‚½B[pcms]
+We turned back and ran to the third floor.[pcms]
 
 ;//blackout
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -151,56 +146,52 @@
 
 *2224|
 [fc]
-OŠK‚É—ˆ‚Ä‚Í‚İ‚½‚ªA‚±‚±‚É‚à’N‚à‚¢‚È‚¢‚æ‚¤‚¾‚Á‚½B[pcms]
+We arrived on the third floor, but it seemed like there was[r]no one here either.[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std253|
 [fc]
-[ns]’|“à[nse]
-u‚¶‚á‚ AŠİ“c‚ğP‚Á‚½‚â‚Â‚Æ‚©‚ÍA‚Ç‚±s‚Á‚½‚ñ‚¾‚ë[r]
-‚¤‚Ëv[pcms]
+[ns]Takeuchi[nse]
+Then, I wonder where the person who attacked Kishida went.[pcms]
 
 *2225|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ ccv[pcms]
+[ns]Kato[nse]
+Ah...[pcms]
 
 *2226|
 [fc]
-‚Ç‚±‚©‚Éö‚ñ‚Å‚¢‚é‚Ì‚©A‚»‚ê‚Æ‚àAZÉ‚ÌŠO‚Æ’†‚ğ©[r]
-—R‚Éo“ü‚è‚Å‚«‚é‚æ‚¤‚ÈêŠ‚Å‚à‚ ‚é‚Ì‚©ccB[pcms]
+Is the person hiding somewhere, or is there a place where[r]they can freely come in and out of the school building?[pcms]
 
 *2227|
 [fc]
-‚Å‚àAl‚¦‚½‚Æ‚±‚ë‚Å“š‚¦‚Ío‚È‚¢‚µA—§‚¿~‚Ü‚Á‚Ä‚¢[r]
-‚éŠÔ‚É‚ ‚Ì‚¨‚©‚µ‚È“z‚ç‚ªo‚Ä‚«‚ÄAP‚í‚ê‚Å‚à‚µ‚½‚ç[r]
-Š¬‚ç‚È‚¢B[pcms]
+But even if we think about it, we won't find the answer, and[r]if we stop here, those strange guys might come out and[r]attack us.[l][er]
+It would be unbearable.[pcms]
 
 *2228|
 [fc]
-[ns]‰Á“¡[nse]
-uŒ©‚½ŒÀ‚è‚¶‚á’N‚à‚¢‚È‚©‚Á‚½‚ñ‚¾‚µA‚à‚¤–ß‚ë‚¤‚ºv[pcms]
+[ns]Kato[nse]
+Since it seems like there's no one here, let's go back.[pcms]
 
 *2229|
 [fc]
-“Ë‘RP‚í‚ê‚È‚¢‚æ‚¤‚Éü‚è‚É’ˆÓ‚µ‚È‚ª‚çA‰´’B‚ÍEˆõ[r]
-º‚Ö‘–‚Á‚½B[pcms]
+We ran to the staff room, being careful not to be suddenly[r]attacked.[pcms]
 
 ;//blackout
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//[02117]‚Ö
+;//[02117]ã¸
 [jump target=*02117_TOP storage="02117.ks"]

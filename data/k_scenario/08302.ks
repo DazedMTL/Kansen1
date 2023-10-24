@@ -1,110 +1,110 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN08302w‚»‚çx¦ƒuƒƒbƒN’Ç‰Á
-;//BGF‹³ºF’©
-;//“oêl•¨FålŒöE’|“àE—DE“µ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08302ã€ãã‚‰ã€â€»ãƒ–ãƒ­ãƒƒã‚¯è¿½åŠ 
+;//BGï¼šæ•™å®¤ï¼šæœ
+;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»ç«¹å†…ãƒ»å„ªãƒ»ç³
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *08302_TOP
-;[debug_win]‚È‚¤@08302[debug_win_end]
+;[debug_win]ãªã†ã€€08302[debug_win_end]
 
-;*SceneSet|w‚»‚çx
+;*SceneSet|ã€ãã‚‰ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08302 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08302 = 1"]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 
 ;//[bgm001]
 
-;//;//BG:bg–³‚µ
+;//;//BG:bgç„¡ã—
 
 ;//[ChrSetEx layer=1 chbase="take_a_d_01"]
 ;//[ChrSetXY layer=1 x=100 y=0]
 ;//[trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std699|
 [fc]
-[ns]’|“à[nse]
-u‚¢A‚¢A‚¶‚ácc‚È‚¢ccB‚â‚ëA‚¤cc‚æv[pcms]
+[ns]Takeuchi[nse]
+N-No... I-I'm not... gonna do it...[pcms]
 
 ;//[ChrSetEx layer=1 chbase="sae_a_a_01"]
 ;//[ChrSetXY layer=1 x=200 y=0]
 ;//[ChrSetParts layer=1 chface="sae_a_a_03"]
 ;//[trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3989|
 [fc]
 [vo_sa s="sae1329"]
-[ns]²”Œ[nse]
-u‹M•û‚ÍA‰½‚©ƒCƒ„‚È‚ñ‚Å‚·ccv[pcms]
+[ns]Saeki[nse]
+Is there something you don't like...?[pcms]
 
 ;//;//BG:bg10a
 
-;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
+;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
 [bg storage="bg10b"]
 [trans_c cross time=500]
 
 *10729|
 [fc]
-‚È‚ñ‚¾B[pcms]
+What is it?[pcms]
 
 *10730|
 [fc]
-‚¤‚é‚³‚¢‚µcc‚Ü‚Ô‚µ‚¢B[pcms]
+It's noisy... and... bright.[pcms]
 
 *10731|
 [fc]
-‚È‚ñ‚¾‚æccB[pcms]
+What is it...?[pcms]
 
 *10732|
 [fc]
-‚ ‚êB[pcms]
+Huh?[pcms]
 
 *10733|
 [fc]
-‚à‚Á‚Æ‚Ğ‚Æ‚ª‚¢‚½‚æ‚¤‚È‚«‚ª‚µ‚½‚ñ‚¾‚¯‚ÇB[pcms]
+I felt like there was someone else.[pcms]
 
 *10734|
 [fc]
-‚·‚­‚È‚­‚È‚Á‚Ä‚éccB[pcms]
+It's getting less...[pcms]
 
 *10735|
 [fc]
-‚Ü‚ cc‚¢‚¢‚©ccB[pcms]
+Well... I guess it's fine...[pcms]
 
 *10736|
 [fc]
-‚ß‚ñ‚Ç‚­‚³‚¢‚µB[pcms]
+It's troublesome.[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std700|
 [fc]
-[ns]’|“à[nse]
-u‚»A‚ñ‚ÈA‚±‚Æcc‚¢‚íA‚È‚¢cc‚Åccv[pcms]
+[ns]Takeuchi[nse]
+I-I won't... say... such things...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_a_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3990|
 [fc]
 [vo_sa s="sae1330"]
-[ns]²”Œ[nse]
-u‘Ê–Ú‚Å‚·‚Á‚Ä‚ÎI@‹M•û‚Ícc‚È‚ñ‚¾‚©ccv[pcms]
+[ns]Saeki[nse]
+No, I told you! What are you...[pcms]
 
-;//ôFBGM001ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM001ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 
 [fadeoutbgm time=500]
 
@@ -112,89 +112,90 @@
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3991|
 [fc]
 [vo_ya s="yama1138"]
-[ns]RŠİ[nse]
-u‚¦[ccH@‘Šècc’N‚Å‚à‚¢‚¢‚¶‚á‚È‚¢ccv[pcms]
+[ns]Yamagishi[nse]
+Eh...? It doesn't matter who the other person is...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_a_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3992|
 [fc]
 [vo_sa s="sae1331"]
-[ns]²”Œ[nse]
-u‚Å‚àcc‚±‚Ìl‚Íccv[pcms]
+[ns]Saeki[nse]
+But... this person...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:ƒTƒCƒŒƒ“@ƒ‹[ƒv
+;//SE:ã‚µã‚¤ãƒ¬ãƒ³ã€€ãƒ«ãƒ¼ãƒ—
 
 [se1 storage="se051" loop=true]
 
 *10737|
 [fc]
-‚¤‚¤‚¤ccB[pcms]
+Uuu...[pcms]
 
 *10738|
 [fc]
-‚È‚ñ‚¾cc‚±‚Ìcc‚¨‚ÆB[pcms]
+What... is this... sound.[pcms]
 
 *10739|
 [fc]
-‚¤‚é‚³‚¢B[pcms]
+You're noisy.[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std701|
 [fc]
-[ns]’|“à[nse]
-u‚ÙA‚çccB‚È‚ñA‚©cc‚¨‚ÆA‚µ‚Äcc‚é‚æccB[r]
-‚âA‚â‚ëcc‚¤cc‚æccv[pcms]
+[ns]Takeuchi[nse]
+L-look... There's... some... sound...[l][er]
+coming from... somewhere... I-I'll...[l][er]
+do it...[pcms]
 
 *10740|
 [fc]
-‚¤‚é‚³‚¢B[pcms]
+You're noisy.[pcms]
 
 *10741|
 [fc]
-‚¤‚é‚³‚¢ccB[pcms]
+You're noisy...[pcms]
 
 *10742|
 [fc]
-‚È‚ñ‚¾cc‚±‚êccB[pcms]
+What... is this...?[pcms]
 
 *10743|
 [fc]
-‚¤‚é‚³‚¢ccB[pcms]
+You're noisy...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_a_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_a_c_09"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3993|
 [fc]
 [vo_sa s="sae1332"]
-[ns]²”Œ[nse]
-u‚µ‚Â‚±‚¢‚Å‚·‚æcc‚à‚¤‚ÁIv[pcms]
+[ns]Saeki[nse]
+You're persistent... enough already![pcms]
 
-;//SE:ƒKƒ“ƒb
+;//SE:ã‚¬ãƒ³ãƒƒ
 [se0 storage="se023"]
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 
 [se0 storage="se021"]
 
@@ -205,128 +206,129 @@
 [ChrSetParts layer=1 chface="yuu_a_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3994|
 [fc]
 [vo_ya s="yama1139"]
-[ns]RŠİ[nse]
-u‚ ccv[pcms]
+[ns]Yamagishi[nse]
+Ah...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3995|
 [fc]
 [vo_sa s="sae1333"]
-[ns]²”Œ[nse]
-ucc‚à‚¤ccv[pcms]
+[ns]Saeki[nse]
+... enough...[pcms]
 
 *10744|
 [fc]
-[ns]’|“à[nse]
-u‚ ccA‚ ccA‚ ccA‚ ccA‚¤‚ ccv[pcms]
+[ns]Takeuchi[nse]
+Ah... ah... ah... ah... ugh...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_a_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3996|
 [fc]
 [vo_ya s="yama1140"]
-[ns]RŠİ[nse]
-u‚ ‚êH@‚ ‚Í‚Í‚Í‚ÁI@‚È‚ñ‚©AŒû‚©‚ç–Ao‚Ä‚é‚æH[r]
-‚È‚É‚±‚êH@‚ ‚Í‚Í‚Í‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Huh? Ahahaha! Something's coming out of your mouth, like[r]bubbles?[l][er]
+What is this? Ahahaha![pcms]
 
 *10745|
 [fc]
-[ns]’|“à[nse]
-u‚ñ‚ªƒbI@‚ñ‚ª[ƒbII@ƒK[‚Áccƒ“ƒKƒbIv[pcms]
+[ns]Takeuchi[nse]
+Ngh! Nghh!! Gah... Ngha![pcms]
 
 [ChrSetEx layer=1 chbase="sae_a_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3997|
 [fc]
 [vo_sa s="sae1334"]
-[ns]²”Œ[nse]
-u‚ ‚çcc‚¢‚Ñ‚«‚È‚ñ‚©ccB‚Ü‚½Q‚Ä‚µ‚Ü‚Á‚½‚Ì‚©‚µ[r]
-‚çccH@‚»‚ê‚Écc”’–Ú”‚¢‚ÄccBã‚Ü‚Åo‚µ‚Äc[r]
-c‚İ‚Á‚Æ‚à‚È‚¢ccv[pcms]
+[ns]Saeki[nse]
+Oh... snoring, huh... Did you fall asleep again?[l][er]
+And... your eyes are rolled back...[l][er]
+with your tongue sticking out...[l][er]
+it's so embarrassing...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *10746|
 [fc]
-‚¢‚Ñ‚«‚©‚æccB[pcms]
+Snoring, huh...[pcms]
 
 *10747|
 [fc]
-‚¤‚é‚¹‚¥‚Á‚Ä‚¢‚Á‚Ä‚é‚Ì‚ÉccB[pcms]
+Even though I told you to be quiet...[pcms]
 
 *10748|
 [fc]
-‚¢‚¢‚©‚°‚ñ‚É‚µ‚Ä‚­‚êccB[pcms]
+Please stop already...[pcms]
 
 *10749|
 [fc]
-‚¤‚é‚³‚¢ccB[pcms]
+You're noisy...[pcms]
 
 *10750|
 [fc]
-‚»‚Æccs‚±‚¤ccB[pcms]
+Let's go outside...[pcms]
 
 ;//;//BG:bg06a
 
 [bg storage="bg06b"]
 [trans_c cross time=500]
 
-;//SE:ƒTƒCƒŒƒ“@ƒ‹[ƒv
+;//SE:ã‚µã‚¤ãƒ¬ãƒ³ã€€ãƒ«ãƒ¼ãƒ—
 
 *10751|
 [fc]
-‚¤‚é‚³‚¢ccB[pcms]
+You're noisy...[pcms]
 
 *10752|
 [fc]
-‚È‚ñ‚¾cc‚±‚Ì‚¨‚ÆccB[pcms]
+What... is this sound...?[pcms]
 
 *10753|
 [fc]
-‚ ‚½‚Ü‚ÉccB[pcms]
+In my head...[pcms]
 
 *10754|
 [fc]
-‚ ‚½‚Ü‚É‚Ğ‚Ñ‚­ccB[pcms]
+It's echoing in my head...[pcms]
 
 *10755|
 [fc]
-‚Æ‚ß‚Ä‚­‚êccB[pcms]
+Please stop...[pcms]
 
 *10756|
 [fc]
-‚Ç‚±‚©‚çccB[pcms]
+Where is it coming from...?[pcms]
 
 *10757|
 [fc]
-‚Ç‚±‚©‚çcc‚«‚±‚¦‚Ä‚­‚é‚ñ‚¾ccB[pcms]
+Where is it coming from...?[pcms]
 
 *10758|
 [fc]
-‚Æ‚ß‚È‚¢‚ÆccB[pcms]
+If you don't stop...[pcms]
 
 *10759|
 [fc]
-‚¤‚¦‚©‚ç‚©B[pcms]
+From above.[pcms]
 
 ;//;//BG:bg22a
 
@@ -335,23 +337,23 @@
 
 *10760|
 [fc]
-‚Ü‚¿B[pcms]
+Wait.[pcms]
 
 *10761|
 [fc]
-‚¯‚Ş‚èB[pcms]
+Smoke.[pcms]
 
 *10762|
 [fc]
-‚¤‚é‚³‚¢B[pcms]
+You're noisy.[pcms]
 
 *10763|
 [fc]
-‚ ‚ cc‚ß‚ñ‚Ç‚­‚³‚¢ccB[pcms]
+Ugh... how troublesome...[pcms]
 
 *10764|
 [fc]
-‚Ë‚æ‚¤ccB[pcms]
+Let's go to sleep...[pcms]
 
 ;//;//BG:bg20a
 
@@ -360,52 +362,51 @@
 
 *10765|
 [fc]
-‚È‚ñ‚¾ccB[pcms]
+What is it...?[pcms]
 
 *10766|
 [fc]
-‚Ü‚Ô‚µ‚¢‚ÈccB[pcms]
+It's so bright...[pcms]
 
 *10767|
 [fc]
-‚­‚»ccB[pcms]
+Damn...[pcms]
 
 *10768|
 [fc]
-‚Å‚àcc‚ß‚ñ‚Ç‚­‚³‚¢ccB[pcms]
+But... it's troublesome...[pcms]
 
 *10769|
 [fc]
-‚ß‚ğ‚Æ‚¶‚é‚Ì‚àcc‚ß‚ñ‚Ç‚­‚³‚¢ccB[pcms]
+Closing my eyes... it's such a hassle...[pcms]
 
 *10770|
 [fc]
-‚ ‚êccB[r]
-‚È‚ñ‚©‚Æ‚ñ‚Å‚«‚½ccB[pcms]
+Huh... Something just flew by...[pcms]
 
 *10771|
 [fc]
-‚­‚ë‚¢‚Â‚ÔH[pcms]
+Dark specks?[pcms]
 
-;//SE:ƒTƒCƒŒƒ“@’â~
+;//SE:ã‚µã‚¤ãƒ¬ãƒ³ã€€åœæ­¢
 
 [stop_se1]
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 
 [fadeoutbgm time=500]
 
-;//SE:í“¬‹@{”š’e
+;//SE:æˆ¦é—˜æ©Ÿï¼‹çˆ†å¼¾
 
 [se0 storage="se054"]
 
 *10772|
 [fc]
-‚È‚ñ‚¾‚ë‚¤cc‚ ‚êccB[pcms]
+I wonder what that is... Huh...[pcms]
 
 *10773|
 [fc]
-‚È‚ñ‚Å‚à‚¢‚¢‚âccB[pcms]
+Anything is fine...[pcms]
 
 ;//whiteout
 
@@ -413,16 +414,15 @@
 
 *10774|
 [fc]
-‚Ü‚Ô‚µ‚¢ccB[r]
-‚³‚Á‚«‚æ‚èA‚¸‚Á‚ÆccB[pcms]
+It's bright... Much brighter than before...[pcms]
 
 *10775|
 [fc]
-‚Ü‚Á‚µ‚ëB[pcms]
+Pure white.[pcms]
 
 *10776|
 [fc]
-‚ß‚ğ‚Æ‚¶‚é‚Ìcc‚ß‚ñ‚Ç‚­ccB[pcms]
+Closing my eyes... it's such a hassle...[pcms]
 
-;//08310‚Ö
+;//08310ã¸
 [jump target=*08310_TOP storage="08310.ks"]

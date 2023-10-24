@@ -1,19 +1,19 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02137wó‹µà–¾x
-;//BG:“ñŠK˜L‰ºFƒoƒŠƒP[ƒh‘OF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöEƒŠƒTE—DE‰Á“¡
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02137ã€çŠ¶æ³èª¬æ˜ã€
+;//BG:äºŒéšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰å‰ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µãƒ»å„ªãƒ»åŠ è—¤
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02137_TOP
-;[debug_win]‚È‚¤@02137[debug_win_end]
+;[debug_win]ãªã†ã€€02137[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02137 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02137 = 1"]
 
-;*SceneSet|wó‹µà–¾x
+;*SceneSet|ã€çŠ¶æ³èª¬æ˜ã€
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 
 [bgm007]
 
@@ -24,226 +24,210 @@
 
 *2504|
 [fc]
-V“¹æ¶‚ÌŒã‚É‚Â‚¢‚ÄA­‚µã‚°‚ç‚ê‚½”à‚ğ‚­‚®‚Á‚½‰´[r]
-‚ÍAŠ÷‚Ì–T‚Å—§‚¿‚·‚­‚ñ‚Å‚¢‚½RŠİ‚³‚ñ‚Éº‚ğ‚©‚¯‚½B[pcms]
+I called out to Yamagishi-san, who was standing frozen next[r]to the desk, after passing through the slightly raised door[r]behind Shindou-sensei.[pcms]
 
 *2505|
 [fc]
-[ns]‰Á“¡[nse]
-u•½‹CH@‰ö‰ä‚Í‚È‚¢Hv[pcms]
+[ns]Kato[nse]
+Are you okay? Are you injured?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v977|
 [fc]
 [vo_ya s="yama0307"]
-[ns]RŠİ[nse]
-u‚¤‚ñccv[pcms]
+[ns]Yamagishi[nse]
+Yeah...[pcms]
 
 *2506|
 [fc]
-‚Ü‚¾ƒVƒ‡ƒbƒN‚ª”²‚¯‚«‚ç‚¸A—§‚Á‚Ä‚¢‚é‚Ì‚àh‚¢‚Ì‚©A[r]
-RŠİ‚³‚ñ‚Í‰´‚ÌƒVƒƒƒc‚Ì‚ğ’Í‚ñ‚ÅA©•ª‚Ì‘Ì‚ğx‚¦‚Ä[r]
-‚¢‚é‚æ‚¤‚¾‚Á‚½B[pcms]
+Yamagishi-san, still unable to fully recover from the shock,[r]seemed to be having a hard time standing.[l][er]
+She grabbed onto the hem of my shirt, as if using it to[r]support herself.[pcms]
 
 *2507|
 [fc]
-‚»‚ÌRŠİ‚³‚ñ‚Ìè‚ÍA¬‚³‚­k‚¦‚Ä‚¢‚½B[pcms]
+Her hand, belonging to Yamagishi-san, was trembling[r]slightly.[pcms]
 
 *2508|
 [fc]
-[ns]‰Á“¡[nse]
-u‚È‚ñ‚Å”à‚ğŠJ‚¯‚½‚ÌI@ŒÜ\—’ƒTƒ“‚¾‚Æv‚Á‚½IHv[pcms]
+[ns]Kato[nse]
+Why did you open the door! Did you think it was Yamagishi-[r]san!?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v978|
 [fc]
 [vo_ya s="yama0308"]
-[ns]RŠİ[nse]
-u‚¤‚¤‚ñccŠO‚©‚ç¦‚¢‰¹‚ª•·‚±‚¦‚Ä‚«‚½‚©‚çA‰Á“¡ŒN[r]
-‚É‰½‚©‚ ‚Á‚½‚ñ‚¶‚á‚È‚¢‚©‚Á‚Äcc‚»‚ê‚ÅA—lq‚ğŒ©‚É[r]
-s‚±‚¤‚Æv‚Á‚ÄŠO‚Éo‚æ‚¤‚Æ‚µ‚½‚çccv[pcms]
+[ns]Yamagishi[nse]
+No... I heard a loud noise from outside, so I thought[r]something might have happened to Kato-kun...[l][er]
+That's why I tried to go outside to check the situation...[pcms]
 
 *2509|
 [fc]
-[ns]‰Á“¡[nse]
-u‚³‚Á‚«‚Ì“z‚ª‚¢‚½Hv[pcms]
+[ns]Kato[nse]
+Was that person from earlier here?[pcms]
 
 *2510|
 [fc]
-RŠİ‚³‚ñ‚Í‚¤‚Â‚Ş‚¢‚½‚Ü‚ÜA‰´‚ÌŒ¾—t‚É‚¤‚È‚¸‚¢‚½B[pcms]
+Yamagishi-san nodded in agreement to my words while still[r]looking down.[pcms]
 
 *2511|
 [fc]
-‚»‚ê‚É‚µ‚Ä‚àAŠëŒ¯‚È‚±‚Æ‚Í‚í‚©‚Á‚Ä‚é‚Í‚¸‚È‚Ì‚ÉA‰´[r]
-‚ğS”z‚µ‚ÄŠO‚Éo‚æ‚¤‚Æ‚·‚é‚È‚ñ‚ÄccB[pcms]
+Even so, she should know it's dangerous, yet she still tries[r]to go outside, worrying about me...[pcms]
 
 *2512|
 [fc]
-RŠİ‚³‚ñ‚ªS”z‚µ‚Ä‚­‚ê‚½‚Ì‚ÍŠğ‚µ‚©‚Á‚½‚ªA©•ª‚Ì‚¹[r]
-‚¢‚Å”Ş—‚ğŠëŒ¯‚ÉN‚µ‚Ä‚µ‚Ü‚Á‚½‚æ‚¤‚ÅA‰´‚Í•¡G‚È‹C[r]
-•ª‚¾‚Á‚½B[pcms]
+I was glad that Yamagishi-san was worried about me, but I[r]felt complicated because it seemed like I had exposed her to[r]danger because of my own actions.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_f_f_03"]
 [ChrSetXY layer=1 x=130 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v979|
 [fc]
 [vo_ri s="risa0316"]
-[ns]V“¹[nse]
-ucc“Ë‘RA¶“k‚ª”ò‚Ño‚µ‚Ä‚«‚½‚¹‚¢‚Å‰^“]‚ğŒë‚Á‚Ä[r]
-‚µ‚Ü‚Á‚ÄAÔ‚ğ‰¡“]‚³‚¹‚Ä‚µ‚Ü‚Á‚½‚Ì‚æB‚»‚ê‚ªŒ³‚ÅA[r]
-Ô‚ª”š”­‚µ‚½‚ÌB‹M—‚ª•·‚¢‚½‚Ì‚Í‚»‚Ì‚Ì‰¹‚æv[pcms]
+[ns]Shindou[nse]
+... Suddenly, a student jumped out and I made a mistake[r]while driving, causing the car to overturn.[l][er]
+And because of that, the car exploded.[l][er]
+What you heard was the sound from that moment.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v980|
 [fc]
 [vo_ya s="yama0309"]
-[ns]RŠİ[nse]
-uÔ‚ªccH@‚¶‚á‚ AŠwZ‚©‚ço‚é‚Ì‚Íccv[pcms]
+[ns]Yamagishi[nse]
+The car...? So, leaving the school...[pcms]
 
 [ChrSetEx layer=1 chbase="risa_f_f_03"]
 [ChrSetXY layer=1 x=130 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v981|
 [fc]
 [vo_ri s="risa0317"]
-[ns]V“¹[nse]
-u‚¦‚¦A‚Ü‚½“ï‚µ‚­‚È‚Á‚Ä‚µ‚Ü‚Á‚½‚í‚ËccB‚Å‚àA‚»[r]
-‚Ì‚¨‚©‚°‚ÅA„’B‚ğP‚¨‚¤‚Æ‚µ‚Ä‚¢‚é”y‚ª‰Î‚Éã‚¢‚Æ‚¢[r]
-‚¤‚±‚Æ‚ª‚í‚©‚Á‚½‚ív[pcms]
+[ns]Shindou[nse]
+Yes, it has become difficult again...[l][er]
+But thanks to that, we have learned that the people who are[r]trying to attack us are weak against fire.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v982|
 [fc]
 [vo_ya s="yama0310"]
-[ns]RŠİ[nse]
-u‰Î‚Éccã‚¢Hv[pcms]
+[ns]Yamagishi[nse]
+Weak against fire...?[pcms]
 
 *2513|
 [fc]
-V“¹æ¶‚ª‚Á‚Ä‚¢‚½¼–¾‚ğU‚Á‚ÄŒ©‚¹‚éB[pcms]
+Shindou-sensei swung the torch he had.[pcms]
 
 *2514|
 [fc]
-‚»‚ê‚É‹Á‚¢‚½‚Ì‚©A^–ç‚ªV“¹æ¶‚Ì¼–¾‚ğƒWƒb‚ÆŒ©‚Â[r]
-‚ß‚ÄAƒrƒNƒrƒN‚µ‚Ä‚¢‚é‚æ‚¤‚È‘fU‚è‚ğŒ©‚¹‚½B[pcms]
+Surprised by that, Shinya stared at Shindou-sensei's torch[r]and showed a nervous gesture, as if trembling.[pcms]
 
 *2515|
 [fc]
-[ns]‰Á“¡[nse]
-u‚È‚ñ‚¾H@‚¨‘O‚à‰Î‚ª•|‚¢‚Ì‚©Hv[pcms]
+[ns]Kato[nse]
+What's wrong? Are you also afraid of fire?[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std277|
 [fc]
-[ns]’|“à[nse]
-u‚×A‚×‚Â‚É‚±‚í‚­‚È‚¢‚æccv[pcms]
+[ns]Takeuchi[nse]
+I-It's not like I'm scared or anything...[pcms]
 
 *2516|
 [fc]
-[ns]‰Á“¡[nse]
-u–{“–‚©‚ŸH@ƒzƒŒƒzƒŒv[pcms]
+[ns]Kato[nse]
+Is that so? Oh, really?[pcms]
 
 *2517|
 [fc]
-‰´‚Í‚Á‚Ä‚¢‚½¼–¾‚ğ^–ç‚ÉŒü‚¯‚ÄAæ‚Ì•û‚ğƒNƒ‹ƒNƒ‹[r]
-‰ñ‚µ‚È‚ª‚ç‹ß‚Ã‚¢‚½B[pcms]
+I approached Shinya while spinning the torch I had in my[r]hand.[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std278|
 [fc]
-[ns]’|“à[nse]
-u‚â‚ÁA‚â‚ß‚ë‚æI@‚½‚¾‚Å‚³‚¦‚ ‚Â‚¢‚ñ‚¾‚©‚çA‚»‚ñ[r]
-‚È‚à‚Ì‚¿‚©‚Ã‚¯‚é‚È‚æIv[pcms]
+[ns]Takeuchi[nse]
+H-Hey, stop it! It's already hot enough, so don't get that[r]thing any closer![pcms]
 
 *2518|
 [fc]
-[ns]‰Á“¡[nse]
-uƒnƒnƒnƒnIv[pcms]
+[ns]Kato[nse]
+Hahaha![pcms]
 
 *2519|
 [fc]
-–Ê”’‚ª‚Á‚ÄU‚è‰ñ‚µ‚Ä‚¢‚é‚¤‚¿‚ÉA‰Î‚Í’iX¬‚³‚­‚È‚Á[r]
-‚Ä‚¢‚Á‚ÄA‚Â‚¢‚É‚ÍÁ‚¦‚Ä‚µ‚Ü‚Á‚½B[pcms]
+As I was amusing myself by swinging it around, the fire[r]gradually grew smaller and finally went out.[pcms]
 
 *2520|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚êAÁ‚¦‚¿‚Ü‚Á‚½ccv[pcms]
+[ns]Kato[nse]
+Huh, it went out...[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v983|
 [fc]
 [vo_ri s="risa0318"]
-[ns]V“¹[nse]
-u‚±‚Ì¼–¾AŠª‚¢‚Ä‚ ‚é•z‚É‚Ü‚¾–û‚ğõ‚İ‚Ü‚¹‚Ä‚¢‚È[r]
-‚©‚Á‚½‚æ‚¤‚Ëccv[pcms]
+[ns]Shindou[nse]
+It seems like the cloth wrapped around this torch hasn't[r]been soaked in oil yet...[pcms]
 
 *2521|
 [fc]
-V“¹æ¶‚ğŒ©‚é‚ÆAæ¶‚Ì¼–¾‚Ì‰Î‚àA‚¢‚Â‚ÌŠÔ‚É‚©Á[r]
-‚¦‚Ä‚µ‚Ü‚Á‚Ä‚¢‚½B[pcms]
+When I looked at Shindou-sensei, the fire of her torch had[r]also mysteriously gone out.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v984|
 [fc]
 [vo_ri s="risa0319"]
-[ns]V“¹[nse]
-u¸”s‚µ‚½‚íA‚à‚Á‚Æ‚Á‚Ä‚­‚é‚ñ‚¾‚Á‚½ccv[pcms]
+[ns]Shindou[nse]
+I failed, I should have brought more...[pcms]
 
 *2522|
 [fc]
-ˆêuA¡‚©‚çV‚µ‚¢¼–¾‚ğæ‚è‚És‚­‚±‚Æ‚ğl‚¦‚½‚ªA[r]
-ƒ‰ƒCƒ^[‚È‚Ç‚Ì‰Î‚ğ“_‚¯‚é“¹‹ï‚ğAˆêØ‚Á‚Ä‚¢‚È‚¢‚±[r]
-‚Æ‚É‰´‚Í‹C‚ª‚Â‚¢‚½B[pcms]
+For a moment, I considered going to get a new torch, but[r]then I realized that I didn't have any tools to light a[r]fire, like a lighter.[pcms]
 
 *2523|
 [fc]
-‚±‚ê‚ÅA‚¹‚Á‚©‚­‹t“]‚³‚¹‚½“z‚ç‚Æ‰´’B‚Æ‚Ì—ÍŠÖŒW‚ÍA[r]
-‚Ü‚½Œ³‚É–ß‚Á‚Ä‚µ‚Ü‚Á‚½B[pcms]
+With this, the power balance between us and the ones we had[r]just managed to turn the tables on has returned to its[r]original state.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//[02138]‚Ö
+;//[02138]ã¸
 [jump target=*02138_TOP storage="02138.ks"]

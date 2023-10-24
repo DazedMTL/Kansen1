@@ -1,20 +1,20 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02123wl@x‰‰
-;//BG:“ñŠK˜L‰ºFƒoƒŠƒP[ƒhF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöE—DEƒŠƒTEŠİ“cE’|“à
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02123ã€è€ƒå¯Ÿã€â™‚â™‚
+;//BG:äºŒéšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»å²¸ç”°ãƒ»ç«¹å†…
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02123_TOP
-;[debug_win]‚È‚¤@02123[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02123 = 1"]
+;[debug_win]ãªã†ã€€02123[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02123 = 1"]
 
-;*SceneSet|wl@x
+;*SceneSet|ã€è€ƒå¯Ÿã€
 
 ;//[02123]
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 ;//[bgm007]
 ;//BG:bg007a
 ;//[bg storage="bg07a"]
@@ -25,279 +25,265 @@
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v938|
 [fc]
 [vo_ya s="yama0294"]
-[ns]RŠİ[nse]
-u‚ËA‰Á“¡ŒNccƒ‰ƒWƒI‚ÅŒ¾‚Á‚Ä‚é‚±‚ÆA–{“–‚¾‚Æv‚Á[r]
-‚Ä‚éHv[pcms]
+[ns]Yamagishi[nse]
+Hey, Katou-kun... Do you think what they're saying on the[r]radio is true?[pcms]
 
 *2376|
 [fc]
-[ns]‰Á“¡[nse]
-uccRŠİ‚³‚ñ‚ÍA‰R‚¾‚Æv‚Á‚Ä‚é‚ÌHv[pcms]
+[ns]Kato[nse]
+... Yamagishi-san, do you think it's a lie?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v939|
 [fc]
 [vo_ya s="yama0295"]
-[ns]RŠİ[nse]
-u‚¾‚Á‚ÄA“ú–{‚Å–\“®‚È‚ñ‚Äccv[pcms]
+[ns]Yamagishi[nse]
+But, riots in Japan...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *2377|
 [fc]
-RŠİ‚³‚ñ‚Ì‹C‚¿‚à‚í‚©‚éB[r]
-ƒ‰ƒWƒI‚©‚ç—¬‚ê‚Ä‚­‚éî•ñ‚ÍA‰´’B‚É‚Æ‚Á‚ÄA‚ ‚Ü‚è‚É[r]
-‚àŒ»À‚©‚ç‚©‚¯—£‚ê‚Ä‚¢‚éB[pcms]
+I understand how Yamagishi-san feels.[l][er]
+The information coming from the radio is too far removed[r]from reality for us.[pcms]
 
 *2378|
 [fc]
-–\“®‚È‚ñ‚ÄAƒeƒŒƒr‚â‰f‰æAƒ}ƒ“ƒK‚Ì’†‚Å‚µ‚©Œ©‚½‚±‚Æ[r]
-‚ª‚È‚¢‚©‚ç‚¾B[pcms]
+I've only seen riots on TV, in movies, and in manga.[pcms]
 
 *2379|
 [fc]
-‚Å‚à‰´’B‚ÍAƒ‰ƒWƒI‚Å—¬‚ê‚½–\“k‚Ì“Á’¥‚»‚Ì‚Ü‚Ü‚Ì’j‚É[r]
-P‚í‚êA‚¨‚©‚µ‚È“z‚ç‚É‹­Š­‚³‚ê‚éŒÜ\—’ƒTƒ“‚âAˆê[r]
-‚É‚È‚Á‚Ä”Ş—‚ğ”Æ‚·—S“ñ‚ğŒ©‚Ä‚µ‚Ü‚Á‚½B[pcms]
+But we witnessed Igarashi-san, who was attacked by a man who[r]perfectly matched the description of the rioters mentioned[r]on the radio, being raped by those strange guys, and Yuuji,[r]who joined in and violated her.[pcms]
 
 *2380|
 [fc]
-ƒ‰ƒWƒI‚ª—¬‚µ‚Ä‚¢‚é‚æ‚¤‚Èó‹µ‚ªA‚±‚ÌŠwZ‚Ì’†‚ÅÀÛ[r]
-‚É‹N‚«‚Ä‚¢‚éˆÈãAŒ™‚Å‚à–À‚Æ‚µ‚Ä”F‚ß‚È‚¯‚ê‚ÎA[r]
-©•ª‚ªŸ‚Ì”íŠQÒ‚É‚È‚Á‚Ä‚µ‚Ü‚¤B[pcms]
+If the situation that the radio is broadcasting is actually[r]happening within this school, then I have no choice but to[r]acknowledge it as a fact.[l][er]
+If I don't, I might become the next victim.[pcms]
 
 *2381|
 [fc]
-‰´‚Í‚»‚¤v‚¢n‚ß‚Ä‚¢‚½B[pcms]
+I had started to think that way.[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_07"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std271|
 [fc]
-[ns]’|“à[nse]
-u‚¹‚ñ‚¹[Aƒ{ƒN‚Ì‚Ä‚à‚¿‚è‚å‚¤‚µ‚Ä‚­‚¾‚³‚¢‚æ[v[pcms]
+[ns]Takeuchi[nse]
+Sensei, please check my body too![pcms]
 
 *2382|
 [fc]
-‚¢‚Â‚ÌŠÔ‚É‚©–h‰Î”à‚ğ—£‚êA^–ç‚ª‰ö‰ä‚µ‚½è‚ğV“¹æ[r]
-¶‚É·‚µo‚µ‚Ä‚¢‚½B[pcms]
+Without realizing it, Takeuchi had moved away from the fire[r]door and was offering his injured hand to Shindou-sensei.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v940|
 [fc]
 [vo_ri s="risa0292"]
-[ns]V“¹[nse]
-ucc‚Ç‚¤‚µ‚½‚ÌH@‚±‚êv[pcms]
+[ns]Shindou[nse]
+... What's wrong? This...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std272|
 [fc]
-[ns]’|“à[nse]
-u‚±‚±‚É‚É‚°‚Ä‚­‚é‚Æ‚«‚ÉA‚Ö‚ñ‚È‚â‚Â‚É‚Â‚©‚Ü‚Á‚½‚©[r]
-‚çA‚Ô‚ñ‚È‚®‚Á‚Ä‚â‚Á‚½‚ñ‚Å‚·B‚»‚Ì‚Æ‚«A‚»‚¢‚Â‚Ì‚Í[r]
-‚É‚ ‚½‚Á‚Äccv[pcms]
+[ns]Takeuchi[nse]
+When I was running away here, I was grabbed by a strange[r]guy, so I fought back and hit him.[l][er]
+At that time, my hand hit his...[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v941|
 [fc]
 [vo_ri s="risa0293"]
-[ns]V“¹[nse]
-u­‚µ‚µ‚İ‚é‚í‚æv[pcms]
+[ns]Shindou[nse]
+It stings a little.[pcms]
 
 *2383|
 [fc]
-‰ö‰ä‚ğ‚µ‚½Š‚ÉÁ“Å‰t‚ğ‚©‚¯‚ç‚ê‚Ä‚àA^–ç‚ÍŠçFˆê‚Â[r]
-•Ï‚¦‚¸A‚Ş‚µ‚ëŠğ‚µ‚»‚¤‚Éƒjƒ„ƒŠ‚ÆÎ‚Á‚½B[pcms]
+Even when disinfectant was applied to the injured area,[r]Shinya didn't change his expression at all.[l][er]
+Instead, he smiled with a smirk, seeming rather pleased.[pcms]
 
 *2384|
 [fc]
-cc‚±‚¢‚ÂA‚»‚¤‚¢‚¤ï–¡‚¾‚Á‚½‚Á‚¯ccH[pcms]
+Did he have such a hobby...?[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std273|
 [fc]
-[ns]’|“à[nse]
-u‚¹‚ñ‚¹[‚Á‚ÄA‚³‚ŸA‚¨‚Á‚Ï‚¢A‚¨‚Á‚«‚¢‚æA‚Ëv[pcms]
+[ns]Takeuchi[nse]
+Sensei, you know, your breasts are big, right?[pcms]
 
 *2385|
 [fc]
-‰´‚àAV“¹æ¶‚àARŠİ‚³‚ñ‚àAƒLƒ‡ƒgƒ“‚Æ‚µ‚Ä^–ç‚Ì[r]
-Šç‚ğŒ©‚½B[pcms]
+All of us, including Shindou-sensei, Yamagishi-san, and I,[r]looked at Shinya's face with surprise.[pcms]
 
 *2386|
 [fc]
-‚±‚¢‚ÂAV“¹æ¶‚Ì‹¹Œ©‚Äƒjƒ„ƒjƒ„‚µ‚Ä‚â‚ª‚Á‚½‚Ì‚©B[r]
-‚Ü‚Á‚½‚­A‚±‚ñ‚È‚ÉccB[pcms]
+Did this guy just sneak a peek at Shindou-sensei's breasts[r]and smirk?[l][er]
+Seriously, at a time like this...[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v942|
 [fc]
 [vo_ri s="risa0294"]
-[ns]V“¹[nse]
-ucc’|“àŒNA‚à‚Á‚Æ‹Ù’£Š´‚ğ‚¿‚È‚³‚¢B¡‚Í‚»‚ñ‚È[r]
-–‚ğŒ¾‚Á‚Ä‚¢‚é‚Å‚Í‚È‚¢‚Å‚µ‚å‚¤Iv[pcms]
+[ns]Shindou[nse]
+... Takeuchi-kun, please have more sense of urgency.[l][er]
+This is not the time to be saying such things![pcms]
 
 *2387|
 [fc]
-V“¹æ¶‚É“{‚ç‚ê‚ÄA¡“x‚Í^–ç‚ªƒLƒ‡ƒgƒ“‚Æ‚µ‚½Šç‚ğ[r]
-‚µ‚ÄA‰´‚ğŒ©‚½B[pcms]
+Shinya, after being scolded by Shindou-sensei, looked at me[r]with a bewildered expression.[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std274|
 [fc]
-[ns]’|“à[nse]
-uccƒ{ƒNA‚¢‚Ü‚È‚ñ‚Ä‚¢‚Á‚½Hv[pcms]
+[ns]Takeuchi[nse]
+... What did I just say?[pcms]
 
 *2388|
 [fc]
-[ns]‰Á“¡[nse]
-u³’¼•ğ‚ê‚é‚æA‚¨‘O‚Ì_Œo‚Ì‘¾‚³‚É‚Íccv[pcms]
+[ns]Kato[nse]
+Honestly, I'm amazed at how thick-skinned you are...[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v943|
 [fc]
 [vo_ri s="risa0295"]
-[ns]V“¹[nse]
-u‚³‚ŸI‚í‚Á‚½‚í‚æB‚»‚Ì‚Ü‚ÜŠÄ‹‚É–ß‚è‚È‚³‚¢v[pcms]
+[ns]Shindou[nse]
+Alright, it's over. Go back to monitoring just like that.[pcms]
 
 *2389|
 [fc]
-^–ç‚Ì¡—Ã‚ğI‚¦‚½‚µ‚©‚ß‚Á–Ê‚ÌV“¹æ¶‚ÉA¡“x‚ÍR[r]
-Šİ‚³‚ñ‚ª‹ß‚Ã‚¢‚½B[pcms]
+Yamagishi-san approached Shindou-sensei, who had a serious[r]expression after finishing treating Shinya.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v944|
 [fc]
 [vo_ya s="yama0296"]
-[ns]RŠİ[nse]
-u‚ ‚ÌAæ¶cc‰®ã‚És‚Á‚ÄAŠX‚Ì•û‚ª‚Ç‚¤‚È‚Á‚Ä‚é[r]
-‚©Œ©‚Ä‚İ‚½‚¢‚ñ‚Å‚·‚¯‚ÇAƒ_ƒ‚Å‚·‚©ccHv[pcms]
+[ns]Yamagishi[nse]
+Um, Sensei... I was wondering if it's okay for me to go up[r]to the rooftop and see how the town is doing...[l][er]
+Is that not allowed...?[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v945|
 [fc]
 [vo_ri s="risa0296"]
-[ns]V“¹[nse]
-u‹M—‚Ü‚Å‚»‚ñ‚Èccv[pcms]
+[ns]Shindou[nse]
+Even you...[pcms]
 
 *2390|
 [fc]
-^–ç‚Ì‚Ó‚´‚¯‚½”­Œ¾‚Ì‚ ‚Æ‚¶‚áA‹Ù’£Š´‚ª‚È‚¢‚Æv‚í‚ê[r]
-‚Ä‚àd•û‚È‚¢‚æ‚ÈccB[pcms]
+After Shinya's foolish remark, it's no wonder if it's[r]perceived as lacking tension...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v946|
 [fc]
 [vo_ya s="yama0297"]
-[ns]RŠİ[nse]
-u‚Å‚àcc‚Å‚àccƒ‰ƒWƒI‚Ì•ú‘—‚¾‚¯‚¶‚áccv[pcms]
+[ns]Yamagishi[nse]
+But... but... with just the radio broadcast...[pcms]
 
 *2391|
 [fc]
-RŠİ‚³‚ñ‚àA¡‚Ì‚±‚Ìó‹µ‚ğó‚¯“ü‚ê‚È‚¯‚ê‚Î‚È‚ç‚È‚¢[r]
-‚ÆAS‚Ì’†‚Å‚ÍŠ´‚¶‚Ä‚¢‚é‚Ì‚©‚à‚µ‚ê‚È‚¢B[pcms]
+Yamagishi-san might also feel deep down that she has to[r]accept the current situation.[pcms]
 
 *2392|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‰´‚às‚Á‚Ä‚¢‚¢ƒX‚©H@ŠX‚Ì—lq‚É•Ï‰»‚ª‚ ‚é‚©[r]
-‚Ç‚¤‚©AŒ©‚Ä‚İ‚½‚¢‚ñ‚Åv[pcms]
+[ns]Kato[nse]
+Ah, can I go too? I want to see if there are any changes in[r]the town's condition.[pcms]
 
 *2393|
 [fc]
-‰´‚ÌŒ¾—t‚ÉAV“¹æ¶‚Í—­‘§¬‚¶‚è‚ÅA”ñíŠK’i‚Ì”à‚Ì[r]
-Œ®‚ÆA‰®ã‚Ì”à‚ÌŒ®‚ğæ‚èo‚µ‚½B[pcms]
+Shindou-sensei let out a sigh mixed with frustration at my[r]words, and took out the keys to the emergency staircase door[r]and the rooftop door.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v947|
 [fc]
 [vo_ri s="risa0297"]
-[ns]V“¹[nse]
-uŸè‚Ès“®‚ğæ‚ç‚È‚¢B’·ŠÔA‰®ã‚É‚¢‚È‚¢B‚±‚Ì[r]
-“ñ‚Â‚ğâ‘Î‚Éç‚é‚±‚ÆB‚¢‚¢‚í‚ËHv[pcms]
+[ns]Shindou[nse]
+Don't take any arbitrary actions.[l][er]
+Don't stay on the rooftop for a long time.[l][er]
+You must absolutely follow these two rules.[l][er]
+Got it?[pcms]
 
 *2394|
 [fc]
-[ns]‰Á“¡[nse]
-uŠX‚Ì—lq‚ğŠm”F‚µ‚½‚çA‚·‚®–ß‚Á‚Ä‚«‚Ü‚·B‚¶‚á‚ s[r]
-‚±‚Á‚©v[pcms]
+[ns]Kato[nse]
+I'll come back as soon as I check the condition of the town.[l][er]
+Alright, let's go.[pcms]
 
 *2395|
 [fc]
-‰´‚ÍV“¹æ¶‚©‚çŒ®‚ğó‚¯æ‚èARŠİ‚³‚ñ‚Æ˜A‚ê‚¾‚Á‚Ä[r]
-‰®ã‚ÖŒü‚©‚Á‚½B[pcms]
+I received the keys from Shindou-sensei and went up to the[r]rooftop with Yamagishi-san.[pcms]
 
 ;//blackout
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//[02124]‚Ö
+;//[02124]ã¸
 [jump target=*02124_TOP storage="02124.ks"]

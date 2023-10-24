@@ -1,18 +1,18 @@
 
-;//¡ËƒuƒƒbƒN08210w•ÛŒ’º‹­Š­‚Qx
-;//BG:•ÛŒ’ºF“_“”
-;//“oêl•¨FålŒöE•ü”üE—D
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08210ã€ä¿å¥å®¤å¼·å§¦ï¼’ã€
+;//BG:ä¿å¥å®¤ï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»æœ‹ç¾ãƒ»å„ª
 
 *08210_H_TOP
-;[debug_win]‚È‚¤@08210_H[debug_win_end]
+;[debug_win]ãªã†ã€€08210_H[debug_win_end]
 
 *08210
 
-;*SceneSet|w•ÛŒ’º‚Qx
+;*SceneSet|ã€ä¿å¥å®¤ï¼’ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08210 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08210 = 1"]
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 
 ;//[bgm007]
 
@@ -26,34 +26,34 @@
 
 *9952|
 [fc]
-RŠİ‚³‚ñ‚ÍA•Ç‚Ì•û‚É“¦‚°‚Ä‚¢‚­B[r]
-‚Ç‚¤‚µ‚½‚ñ‚¾‚ë‚¤A‹¯‚¦‚½Šç‚µ‚ÄccB[r]
-—H—ì‚Å‚àŒ©‚½‚Ì‚©‚ÈH[pcms]
+Yamagishi-san is running towards the wall.[l][er]
+I wonder what happened, she looks scared...[l][er]
+Did she see a ghost?[pcms]
 
 *9953|
 [fc]
-ŒÜ\—’ƒTƒ“‚ªARŠİ‚³‚ñ‚É‚É‚¶‚èŠñ‚Á‚Ä‚éB[r]
-RŠİ‚³‚ñ‚ÍAŒÜ\—’ƒTƒ“‚É‹¯‚¦‚Ä‚éH[pcms]
+Igarashi-san is creeping up to Yamagishi-san.[l][er]
+Is Yamagishi-san scared of Igarashi-san?[pcms]
 
 *9954|
 [fc]
-ŒÜ\—’ƒTƒ“‚Ì–‚ª•|‚¢‚Ì‚©‚ÈH[pcms]
+I wonder if Yamagishi-san is scared of Igarashi-san?[pcms]
 
 *9955|
 [fc]
-‚»‚¤‚¾ccB‚»‚ê‚æ‚èccB[pcms]
+That's right... But more importantly...[pcms]
 
 *9956|
 [fc]
-‰´‚Ìƒ`ƒ“ƒRAãY—í‚É‚µ‚Ä–á‚í‚È‚«‚áccB[pcms]
+I need to clean my dick...[pcms]
 
 *9957|
 [fc]
-Œû‚©‚ÈccBŒû‚Åär‚ß‚Ä–á‚¦‚ÎAãY—í‚É‚È‚é‚©‚ÈccB[pcms]
+I wonder... If I lick it with my mouth, will it become[r]clean...?[pcms]
 
 *9958|
 [fc]
-RŠİ‚³‚ñA‚®‚Á‚½‚è‚µ‚Ä‚é‚¯‚ÇA‰½‚Å‚¾‚ë‚¤ccB[pcms]
+Yamagishi-san looks exhausted, I wonder why...[pcms]
 
 ;//HCG:ON
 
@@ -69,51 +69,50 @@
 *v3671|
 [fc]
 [vo_ya s="yama1042"]
-[ns]RŠİ[nse]
-u‚ÓA“ñl‚Æ‚àcc‚¨Šè‚¢ccB³‹C‚Écc³‹C‚É–ß‚Á[r]
-‚Äccv[pcms]
+[ns]Yamagishi[nse]
+P-Please... both of you... come back to your senses...[l][er]
+come back to your senses...[pcms]
 
 *9959|
 [fc]
-[ns]‰Á“¡[nse]
-u³‹CH@‰´A‚¢‚Â‚à‚Æ•Ï‚í‚ç‚È‚¢‚¯‚ÇccB‚»‚ê‚ÉA[r]
-‚»‚ñ‚È‚É‹¯‚¦‚È‚­‚Ä‚à‚¢‚¢‚¶‚á‚È‚¢ccv[pcms]
+[ns]Kato[nse]
+Sane? I'm always the same... Besides, there's no need to be[r]so frightened...[pcms]
 
 *v3672|
 [fc]
 [vo_to s="tomo0454"]
-[ns]ŒÜ\—’[nse]
-u‚¦‚Ö‚Ö‚Ácc—D‚¿‚á‚ñ‚ÌƒIƒbƒpƒCA‚¨‚Á‚«‚­‚ÄA‚¨•ê[r]
-‚³‚ñ‚İ‚½‚¢ccB‹z‚Á‚½‚çA‚¨‚Á‚Ï‚¢‚Å‚é‚©‚È‚ŸH[r]
-‚¿‚ã‚ÁIv[pcms]
+[ns]Igarashi[nse]
+Ehehe... Yuu-chan's breasts are big, like a mother's...[l][er]
+I wonder if milk will come out if I suck them?[pcms]
+*kiss*[l][er]
 
 *9960|
 [fc]
-ŒÜ\—’ƒTƒ“ARŠİ‚³‚ñ‚ÌƒIƒbƒpƒC‚É‹z‚¢•t‚¢‚ÄccB[r]
-‰Âˆ¤‚¢‚È‚ŸccB[pcms]
+Igarashi-san, sucking on Yamagishi-san's breasts...[l][er]
+How cute...[pcms]
 
 *v3673|
 [fc]
 [vo_ya s="yama1043"]
-[ns]RŠİ[nse]
-u‚â‚Ÿ‚ ‚ cc‚à‚¤‚¢‚â‚ŸccB‚¨‚©‚µ‚¢‚æcc‚±‚ñ‚È[r]
-‚Ìcc‚¨‚©‚µ‚¢‚æccv[pcms]
+[ns]Yamagishi[nse]
+Yaaah... I've had enough... This is strange...[l][er]
+It's so wrong...[pcms]
 
 *9961|
 [fc]
-‚»‚¤‚¾ccãY—í‚É‚µ‚Ä–á‚í‚È‚¢‚ÆccB[pcms]
+That's right... I need to have it cleaned up nicely...[pcms]
 
 *9962|
 [fc]
-[ns]‰Á“¡[nse]
-uRŠİ‚³‚ñcc‰´‚Ìƒ`ƒ“ƒRA‚±‚ñ‚È‚É‰˜‚ê‚¿‚á‚Á‚½‚ñ‚¾[r]
-ccãY—í‚ÉA‚µ‚Ä‚æccv[pcms]
+[ns]Kato[nse]
+Yamagishi-san... My dick, it's gotten so dirty...[l][er]
+Please clean it up nicely...[pcms]
 
 *v3674|
 [fc]
 [vo_ya s="yama1044"]
-[ns]RŠİ[nse]
-ucc‚¦H@‚¤‚Ô‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+... Eh? Ubu![pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -126,33 +125,33 @@
 
 *9963|
 [fc]
-RŠİ‚³‚ñ‚ÌŒûccB[r]
-Œû‚Ì’†cc‰·‚©‚¢‚âccB[r]
-‚±‚Á‚¿‚ÍAƒIƒ}ƒ“ƒR‚Æˆá‚Á‚Ä_‚ç‚©‚¢‚ÈccB[pcms]
+Yamagishi-san's mouth... Inside her mouth...[l][er]
+It's warm... It's softer compared to her pussy...[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
 
 [se0 storage="se059" loop=true]
 
 *v3675|
 [fc]
 [vo_ya s="yama1045"]
-[ns]RŠİ[nse]
-u‚ñ‚Ô‚Á‚Ÿ‚ÁI@‚©A‰Á“¡ŒNccB‚â‚ß‚Äccv[pcms]
+[ns]Yamagishi[nse]
+Nbuah! K-Kato-kun... Stop...[pcms]
 
 *9964|
 [fc]
-[ns]‰Á“¡[nse]
-uo‚µ‚½‚ç‘Ê–Ú‚¾‚æccBär‚ß‚Ä‚æccv[pcms]
+[ns]Kato[nse]
+It's not good if you release it...[l][er]
+Lick it...[pcms]
 
 *9965|
 [fc]
-RŠİ‚³‚ñ‚ªƒ`ƒ“ƒR‚ğ“f‚«o‚»‚¤‚Æ‚µ‚Ä‚¢‚éccB[r]
-¢‚é‚ÈccBãY—í‚É‚µ‚Ä–á‚í‚È‚¢‚ÆccB[pcms]
+Yamagishi-san is about to spit out the dick...[l][er]
+This is troublesome... I need to have it cleaned up[r]nicely...[pcms]
 
 *9966|
 [fc]
-‚»‚¤‚¾A“ª‚ğ‰Ÿ‚³‚¦‚ÄA‰´‚ª“®‚¯‚Î‚¢‚¢‚Ì‚©ccB[pcms]
+I see, so if I hold your head down, I should be the one[r]moving...[pcms]
 
 ;	/*
 ;	;;;[sysbt_meswin clear]
@@ -168,92 +167,90 @@
 *v3676|
 [fc]
 [vo_ya s="yama1046"]
-[ns]RŠİ[nse]
-u‚Ô‚ ‚Ÿ‚ÁII@‚ñ‚ÁI@‚ñ‚ñ‚ñ‚ñ‚ÁII@‚¿‚ã‚ÁI@[r]
-‚¶‚ã‚Õ‚Á‚ñ‚ñ‚Ÿ‚ ‚ÁII@‚°‚Ù‚ÁI@‚­A‹ê‚µ‚¢cc[r]
-‚ñ‚Ÿ‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Buaah!! Nn! Nnnn!! Chu! Jupunnnaa!![l][er]
+Geho! Ku, it's hard... Naa![pcms]
 
 *9970|
 [fc]
-‚­AŒû‚àcc‹C‚¿‚¢‚¢‚ÁI[r]
-—‚Ìq‚Ìg‘Ì‚Á‚ÄA‘Sg‹C‚¿‚æ‚­‚³‚¹‚Ä‚­‚ê‚é‚ñ‚¾IH[r]
-’m‚ç‚È‚©‚Á‚½ccB’m‚ç‚È‚©‚Á‚½II[pcms]
+Ah, even the mouth... feels good![l][er]
+A girl's body can make you feel good all over!?[l][er]
+I didn't know... I didn't know!![pcms]
 
 *9971|
 [fc]
-[ns]‰Á“¡[nse]
-uŒû‚Ì’†‚Á‚ÄAƒIƒ}ƒ“ƒR‚Æˆá‚¤cc‚È‚ñ‚¾‚©A‚Ü‚Ç‚ë‚Á[r]
-‚±‚µ‚¢‚Á‚ÄŒ¾‚¤‚©cc‚Å‚àAã‚ª“®‚¢‚Äcc‚»‚ê‚àA‹C[r]
-‚¿‚¢‚¢ccv[pcms]
+[ns]Kato[nse]
+Inside the mouth... It's different from a pussy...[l][er]
+It feels kind of sluggish, I guess...[l][er]
+But the tongue is moving... And that feels good...[pcms]
 
 *v3677|
 [fc]
 [vo_to s="tomo0455"]
-[ns]ŒÜ\—’[nse]
-u‚ñ‚Ï‚ÁI@‚¨‚Á‚Ï‚¢Ao‚È‚¢‚È`cc‚à‚Á‚Æ‹­‚­‹z‚í[r]
-‚È‚¢‚ÆA‘Ê–Ú‚©‚È‚Ÿ`@‚ñ‚¿‚Á‚ã‚¤‚ÁIIv[pcms]
+[ns]Igarashi[nse]
+Npah! It's not coming out... Maybe I need to suck harder...[l][er]
+Nchuuu!![pcms]
 
 *v3678|
 [fc]
 [vo_ya s="yama1047"]
-[ns]RŠİ[nse]
-u‚ñ[‚ÁI@‚ñ‚ñ[‚ÁII@‚¶‚ã‚Õ‚ÁII@‚ñ‚ ‚Ÿ‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Mmm! Mmm!! *sucking sound* Ahh![pcms]
 
 *9972|
 [fc]
-‚¨‚Á‚Ï‚¢‚ğ‹z‚í‚ê‚é“xARŠİ‚³‚ñ‚Íñ‚ğU‚éB[r]
-‚»‚ñ‚È‚É‹­‚­U‚ç‚ê‚½‚çccƒ`ƒ“ƒR‚ªcc‹C‚¿‚¢‚¢I[pcms]
+Every time her breasts are sucked, Yamagishi-san shakes her[r]head.[l][er]
+If she shakes it so forcefully...[l][er]
+my dick... feels good![pcms]
 
 *9973|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ ‚ cc‹C‚¿‚¢‚¢cc‚Ü‚½Ao‚»‚¤‚¾ccv[pcms]
+[ns]Kato[nse]
+Ahhh... It feels good... I'm about to cum again...[pcms]
 
 *v3679|
 [fc]
 [vo_to s="tomo0456"]
-[ns]ŒÜ\—’[nse]
-u‚¿‚ã‚¤‚¤‚¤‚¤‚ÁccB‚ñ‚Í‚Ácc‘Ê–Ú‚¾‚Ÿcco‚È‚¢[r]
-‚æccB‚±‚ñ‚È‚É‚¨‚Á‚«‚¢‚Ì‚É‚È`cc‚¿‚ã‚¤‚¤‚Áv[pcms]
+[ns]Igarashi[nse]
+Chu... Nhaa... It's not coming out...[l][er]
+It's so big... Chu...[pcms]
 
 *v3680|
 [fc]
 [vo_ya s="yama1048"]
-[ns]RŠİ[nse]
-u‚ñ‚Ô‚ÁI@‚Õ‚Í‚Á@‚¤‚í‚ ‚ ‚ ‚ÁII@‚¨‚Á‚Ï‚¢‚ª‚Á[r]
-I@‚¨‚Á‚Ï‚¢A‚»‚ñ‚È‚É‹­‚­II@‹z‚Á‚¿‚á‚¾‚ß‚¥IIv[pcms]
+[ns]Yamagishi[nse]
+Nbu! Puhah! Uwaaa!! My breasts![l][er]
+Don't suck them so forcefully!![pcms]
 
 *9974|
 [fc]
-‚¤‚í‚ÁccB[r]
-ƒ`ƒ“ƒR‚ªã‚ÅA‰Ÿ‚µo‚³‚ê‚½‚ÁI[pcms]
+Uwah... My dick was pushed out by her tongue![pcms]
 
 *9975|
 [fc]
-ã‚ÆAO‚Ì‚Ê‚é‚Á‚Æ‚µ‚½hŒƒ‚ÅA‚Ü‚½‰´‚Ìƒ`ƒ“ƒR‚ª”š”­[r]
-‚µ‚»‚¤‚É‚È‚Á‚½B[pcms]
+With the wet stimulation of her tongue and lips, my dick[r]felt like it was about to explode again.[pcms]
 
 *9976|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ÿ‚ ‚ ‚ÁI@‚ÜA‚Ü‚½o‚é‚ÁIIv[pcms]
+[ns]Kato[nse]
+Aaah! I-It's coming out again!![pcms]
 
 *9977|
 [fc]
-ƒ`ƒ“ƒR‚ª–¬‘Å‚Â‚½‚ÑRŠİ‚³‚ñ‚Ì‹¹‚ÉA¸‰t‚ª~‚è‚©‚©‚éB[pcms]
+Every time my dick throbs, semen splashes onto Yamagishi-[r]san's breasts.[pcms]
 
 *v3681|
 [fc]
 [vo_ya s="yama1049"]
-[ns]RŠİ[nse]
-u‚¤‚ ‚ ‚ ‚ÁII@‚¨‚Á‚Ï‚¢‚ª”M‚¢‚ÁII[r]
-‚ ‚ÁI@‚ ‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Uaaa!! My breasts are hot!! Ah![l][er]
+Ah![pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
 
 [stop_se0]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 
 [se0 storage="se062"]
 
@@ -283,20 +280,20 @@
 *v3682|
 [fc]
 [vo_to s="tomo0457"]
-[ns]ŒÜ\—’[nse]
-u‚ ‚Í‚ `ccB‚¨‚Á‚Ï‚¢‚¶‚á‚È‚­‚ÄA‚¹[‚µ‚ª‚Å‚Ä‚«[r]
-‚½‚Ÿ‚ ‚Í‚Í‚ÁII@•Ï‚È‚Ì‚ÁIIv[pcms]
+[ns]Igarashi[nse]
+Ahaha~... It's not my breasts, but my genitals that came[r]out![l][er]
+How strange![pcms]
 
 *9978|
 [fc]
-RŠİ‚³‚ñ‚Ì‹¹‚ğA‰´‚Ìo‚µ‚½¸‰t‚ª—¬‚ê—‚¿‚éB[r]
-‚Ü‚é‚ÅAƒiƒƒNƒW‚ª”‡‚¤—l‚ÉA‚ä‚Á‚­‚è‚Æ—¬‚ê—‚¿‚é[pcms]
+Semen that I released flows down Yamagishi-san's breasts.[l][er]
+It slowly drips down, as if a slug is crawling.[pcms]
 
 *v3683|
 [fc]
 [vo_ya s="yama1050"]
-[ns]RŠİ[nse]
-u‚¤‚¤cc‚à‚¤ccA‚¢‚âccA‚±‚ñ‚È‚Ìccv[pcms]
+[ns]Yamagishi[nse]
+Ugh... no... this is...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -310,67 +307,65 @@
 
 *9979|
 [fc]
-RŠİ‚³‚ñ‚Í”æ‚ê‚Ä‚µ‚Ü‚Á‚½‚Ì‚©A‚ä‚Á‚­‚èA–Ú‚ğ•Â‚¶‚·[r]
-‚®‚ÉQ‘§‚ğ—§‚Än‚ß‚½B[pcms]
+Yamagishi-san must have been tired, as she slowly closed her[r]eyes and soon began to breathe softly, indicating that she[r]had fallen asleep.[pcms]
 
 *9980|
 [fc]
-Q‚¿‚á‚Á‚½ccB[pcms]
+She fell asleep...[pcms]
 
 *9981|
 [fc]
-QŠçA‰Âˆ¤‚¢‚ÈB[pcms]
+Her sleeping face is so cute.[pcms]
 
 *9982|
 [fc]
-‰´‚àAQ‚æ‚¤‚©‚ÈccB[pcms]
+Maybe I should go to sleep too...[pcms]
 
 *v3684|
 [fc]
 [vo_ya s="yama1051"]
-[ns]RŠİ[nse]
-u‚¤‚Ÿ‚Ÿccv[pcms]
+[ns]Yamagishi[nse]
+Ugh...[pcms]
 
 *9983|
 [fc]
-[ns]‰Á“¡[nse]
-uHHv[pcms]
+[ns]Kato[nse]
+??[pcms]
 
 *v3685|
 [fc]
 [vo_ya s="yama1052"]
-[ns]RŠİ[nse]
-u‚©‚Æ‚¤‚­‚ñccB‚·‚«‚¾‚Á‚½‚Ì‚Éccv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun... I loved you...[pcms]
 
 *9984|
 [fc]
-ccH[r]
-‰Á“¡ŒN‚Á‚ÄA’N‚¾H[pcms]
+...? Who is Kato-kun?[pcms]
 
-;//‚±‚±‚Ü‚Å–{•Ò
+;//ã“ã“ã¾ã§æœ¬ç·¨
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
-;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
-;•s—v[eval exp="="sf.g_scn45 = 1"]
+;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
+;ä¸è¦[eval exp="="sf.g_scn45 = 1"]
 
-;//ƒEƒBƒ“ƒhƒEÁ‹
+;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//•‚ÉƒtƒF[ƒh
+;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;BGM’â~
+;BGMåœæ­¢
 ;[fadeoutbgm time=500]
 
-;mm ‚±‚Ì‚ ‚ÆBGMÄŠJ‚³‚ê‚Ä‚È‚¢‚©‚ç~‚ß‚È‚¢
+;mm ã“ã®ã‚ã¨BGMå†é–‹ã•ã‚Œã¦ãªã„ã‹ã‚‰æ­¢ã‚ãªã„
 
-;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 [jump target=*08220_TOP storage="08220.ks"]
 

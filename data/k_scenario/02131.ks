@@ -1,120 +1,114 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02131w“Ë”jŒûx
-;//BG:Šw‰€“ü‚èŒûF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöEƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02131ã€çªç ´å£ã€
+;//BG:å­¦åœ’å…¥ã‚Šå£ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02131_TOP
-;[debug_win]‚È‚¤@02131[debug_win_end]
+;[debug_win]ãªã†ã€€02131[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02131 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02131 = 1"]
 
-;*SceneSet|w“Ë”jŒûx
+;*SceneSet|ã€çªç ´å£ã€
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 
 [bgm009]
 
-;//SE:”R‚¦‚é‰¹
+;//SE:ç‡ƒãˆã‚‹éŸ³
 
 [se0 storage="se030"]
 
 *2457|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚êH@‚ ‚¢‚Âccv[pcms]
+[ns]Kato[nse]
+Huh? That guy...[pcms]
 
 *2458|
 [fc]
-‰Š‚ğã‚°‚éÔ‚Ì‹ß‚­‚ÅAƒEƒ`‚Ì§•‚ğ’…‚½’jq‚ªƒEƒƒE[r]
-ƒ‚ÆA‰Š‚Ì”M‚ğ”ğ‚¯‚é‚æ‚¤‚Èd‘‚ğŒ©‚¹‚Ä‚¢‚½B[pcms]
+Near the car engulfed in flames, a male student wearing our[r]school uniform was wandering around, making gestures as if[r]trying to avoid the heat of the fire.[pcms]
+[l][er]
 
 *2459|
 [fc]
-–³•\îA‚Å‚à–Ú‚Í•’Ê‚¶‚á‚È‚¢‚»‚Ì’j‚Ìd‘‚ÍA‚Ü‚é‚Å[r]
-‰Î‚ğ•|‚ª‚Á‚Ä‚¢‚é‚æ‚¤‚Év‚¦‚½B[pcms]
+The expressionless, but unusual eyes of that man gave the[r]impression that he was afraid of the fire, as he made[r]gestures.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v967|
 [fc]
 [vo_ri s="risa0310"]
-[ns]V“¹[nse]
-u•ªŒ´n“I‚ËA‰Î‚ğ•|‚ª‚é‚È‚ñ‚Äv[pcms]
+[ns]Shindou[nse]
+How primitive, being afraid of fire.[pcms]
 
 *2460|
 [fc]
-[ns]‰Á“¡[nse]
-u‰Î‰Š•úËŠí‚Å‚à‚ ‚ê‚ÎAŠÈ’P‚É‚ ‚¢‚Â‚ç‚ğ’Ç‚¢•¥‚¦‚é[r]
-‚ñƒX‚¯‚Ç‚Ëv[pcms]
+[ns]Kato[nse]
+If only we had a flamethrower, we could easily drive them[r]away.[pcms]
 
 *2461|
 [fc]
-v‚í‚¸o‚½ç’k‚ÉAV“¹æ¶‚Í‰½‚©‚ğv‚¢o‚µ‚½‚æ‚¤‚È[r]
-Šç‚ğ‰´‚ÉŒü‚¯‚½B[pcms]
+Shindou-sensei looked at me with a face that seemed to[r]remember something in response to the joke that slipped out[r]unintentionally.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_b_03"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v968|
 [fc]
 [vo_ri s="risa0311"]
-[ns]V“¹[nse]
-ucc‰Î‰Š•úËŠí‚Í‚È‚¢‚¯‚ÇA¼–¾‚È‚ç‚ ‚é‚ív[pcms]
+[ns]Shindou[nse]
+... We don't have a flamethrower, but we do have torches.[pcms]
 
 *2462|
 [fc]
-[ns]‰Á“¡[nse]
-u‚½‚¢‚Ü‚ÂH@‚È‚ñ‚Å‚»‚ñ‚È•¨‚ªccv[pcms]
+[ns]Kato[nse]
+Torches? Why do we have something like that...[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v969|
 [fc]
 [vo_ri s="risa0312"]
-[ns]V“¹[nse]
-u–¾–¾Œã“ú‚É‘SZƒLƒƒƒ“ƒvƒtƒ@ƒCƒA[‚ªs‚í‚ê‚é–‚ÍA[r]
-’S”C‚Ìæ¶‚©‚ç•·‚¢‚Ä‚¢‚é‚Å‚µ‚å‚¤H@‚»‚±‚Åg‚í‚ê[r]
-‚é•¨‚æv[pcms]
+[ns]Shindou[nse]
+You must have heard from our homeroom teacher that the whole[r]school campfire will be held the day after tomorrow, right?[l][er]
+Those are the things that will be used there.[pcms]
 
 *2463|
 [fc]
-‚»‚¤‚¢‚¦‚ÎI‹Æ®‚Ì‚ÉA‚»‚ñ‚È˜b‚ğ•·‚¢‚½‚æ‚¤‚È‹C‚ª[r]
-‚·‚éBƒvƒŠƒ“ƒg‚à–á‚Á‚½‚æ‚¤‚È‹C‚ª‚·‚é‚¯‚ÇA‚Ç‚±‚â‚Á[r]
-‚½‚©‚ÈccB[pcms]
+Come to think of it, I feel like I heard that kind of talk[r]during the closing ceremony.[l][er]
+I also feel like I received a handout, but I wonder where it[r]went...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v970|
 [fc]
 [vo_ri s="risa0313"]
-[ns]V“¹[nse]
-uEˆõŒºŠÖ‚Ì‰¡‚ÉAƒLƒƒƒ“ƒvƒtƒ@ƒCƒA[‚Åg‚¤¼–¾‚ª’u[r]
-‚¢‚Ä‚ ‚é‚ÌB‚»‚±‚©‚ç¼–¾‚ğ‚Á‚Ä‚«‚Ä‚¿‚å‚¤‚¾‚¢BÂ[r]
-‚¢ƒrƒj[ƒ‹ƒV[ƒg‚Ì‰º‚æv[pcms]
+[ns]Shindou[nse]
+Next to the staff entrance, there are torches for the[r]campfire.[l][er]
+Please bring one from there. It's under the blue vinyl[r]sheet.[pcms]
 
 *2464|
 [fc]
-‰´‚Í‚¤‚È‚¸‚¢‚ÄAEˆõŒºŠÖ‚Ö‘–‚Á‚½B[pcms]
+I nodded and ran towards the staff entrance.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -122,5 +116,5 @@
 
 ;//blackout
 
-;//[02132]‚Ö
+;//[02132]ã¸
 [jump target=*02132_TOP storage="02132.ks"]

@@ -1,17 +1,17 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN05280wŠwHx
-;//;//BG:ŠwHF’©
-;//“oêl•¨GålŒöE“µ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05280ã€å­¦é£Ÿã€
+;//;//BG:å­¦é£Ÿï¼šæœ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *05280_TOP
-;[debug_win]‚È‚¤@05280[debug_win_end]
-;*SceneSet|wŠwHx
+;[debug_win]ãªã†ã€€05280[debug_win_end]
+;*SceneSet|ã€å­¦é£Ÿã€
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 
 [bgm001]
 
@@ -20,7 +20,7 @@
 [bg storage="bg14a"]
 [trans_c cross time=500]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05280 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05280 = 1"]
 
 
 
@@ -28,218 +28,203 @@
 
 *5199|
 [fc]
-‚¢‚Â‚à‚ÍA¶“k‚Ìp‚Æº‚Å‚¢‚Á‚Ï‚¢‚ÌŠwH‚àA[r]
-‰Ä‹x‚İ’†‚Ì¡‚Í’N‚Ìp‚àŒ©‚ ‚½‚ç‚¸A‰½‚Ì‰¹‚à‚µ‚È‚¢B[pcms]
+The school cafeteria, which is usually filled with the[r]presence and voices of students, is now empty during summer[r]vacation, with no one in sight and no sound.[pcms]
 
 *5200|
 [fc]
-•’iA‚ä‚Á‚­‚è‚ÆŒ©‚é‚±‚Æ‚Ì‚È‚¢H“°‚Ì’†‚ğ[r]
-Œ©‰ñ‚µ‚È‚ª‚çA‰´‚Í’²—ê‚Ö‚Æ•à‚¢‚½B[pcms]
+While looking around the cafeteria, which I usually don't[r]have the chance to see leisurely, I walked towards the[r]kitchen.[pcms]
 
 *5201|
 [fc]
-[ns]‰Á“¡[nse]
-u‚·‚®H‚¦‚éƒ‚ƒm‚Á‚Ä‚ ‚Á‚½‚Á‚¯Hv[pcms]
+[ns]Kato[nse]
+Was there anything that we can eat right away?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2164|
 [fc]
 [vo_sa s="sae0431"]
-[ns]²”Œ[nse]
-uˆê‰ccBHƒpƒ“‚¾‚¯cc‚Å‚·‚¯‚ê‚Çv[pcms]
+[ns]Saeki[nse]
+Well... There's bread... but that's about it.[pcms]
 
 *5202|
 [fc]
-[ns]‰Á“¡[nse]
-uŠm‚©‹“û‚ª“ü‚Á‚Ä‚½‚æ‚Ècc‚¶‚á‚ AHƒpƒ“‚Æ‹“û‚Å[r]
-‚¢‚¢‚©v[pcms]
+[ns]Kato[nse]
+I'm pretty sure there was milk...[l][er]
+So, how about bread and milk?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2165|
 [fc]
 [vo_sa s="sae0432"]
-[ns]²”Œ[nse]
-u—Ç‚¢‚Ì‚Å‚·‚©H@‚»‚ñ‚È‚à‚Ì‚Åccv[pcms]
+[ns]Saeki[nse]
+Is that okay? With just that...[pcms]
 
 *5203|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ü‚ ’©‚¾‚µ‚ÈB‚»‚ê‚Æ‚àA²”Œ‚ª‰½‚©ì‚é‚©Hv[pcms]
+[ns]Kato[nse]
+Well, it is morning. Or should Saeki make something?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2166|
 [fc]
 [vo_sa s="sae0433"]
-[ns]²”Œ[nse]
-u‚¢A‚¢‚¦A„‚Íccv[pcms]
+[ns]Saeki[nse]
+N-No, I...[pcms]
 
 *5204|
 [fc]
-²”Œ‚Ì—¿—‚ÍŒ©‚½–Ú‚Íc”O‚¾‚ªA–¡‚É‚Í‘S‘R–â‘è‚È‚¢B[r]
-‚Ş‚µ‚ëƒEƒ}ƒC‚ÆŠ´‚¶‚é‚®‚ç‚¢‚¾B[pcms]
+Saeki's cooking may not look great, but there's absolutely[r]no problem with the taste.[l][er]
+In fact, it's so delicious that I would even say it's[r]amazing.[pcms]
 
 *5205|
 [fc]
-‚»‚Ì²”Œ‚ªì‚é’©ƒƒV‚Í‚Ç‚ñ‚È‚à‚Ì‚©Aƒ`ƒƒ[ƒnƒ“ˆÈŠO[r]
-‚É‚à‰½‚©ì‚ê‚é‚Ì‚©A‰´‚Í‹»–¡‚ª‚ ‚Á‚½B[pcms]
+I was curious about what kind of breakfast Saeki would make,[r]and if she could make something other than fried rice.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2167|
 [fc]
 [vo_sa s="sae0434"]
-[ns]²”Œ[nse]
-u‚à‚µcc‰Á“¡‚³‚ñ‚Ìˆ×‚¾‚¯‚ÉAH–‚ğì‚Á‚½‚çcc[r]
-H‚×‚Ä’¸‚¯‚Ü‚·‚©Hv[pcms]
+[ns]Saeki[nse]
+If... I were to cook a meal just for Kato-san...[l][er]
+would you eat it?[pcms]
 
 *5206|
 [fc]
-[ns]‰Á“¡[nse]
-u‚à‚¿‚ë‚ñBc‚³‚¸‘S•”H‚×‚é‚æB‚»‚ê‚ÅA¡“ú‚Í‰½‚ğ[r]
-ì‚é‚ñ‚¾Hv[pcms]
+[ns]Kato[nse]
+Of course. I'll eat everything without leaving a single[r]bite.[l][er]
+So, what are you going to make today?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2168|
 [fc]
 [vo_sa s="sae0435"]
-[ns]²”Œ[nse]
-u‚àA‚à‚µA‚Å‚·‚æI@‰¼‚Ì˜b‚Å‚·I@•Ê‚Éì‚Á‚Ä‚ ‚°[r]
-‚½‚¢‚Æ‚©A‚»‚¤‚¢‚¤‚í‚¯‚Å‚Í‚ ‚è‚Ü‚¹‚ñIv[pcms]
+[ns]Saeki[nse]
+I-If... if I were to cook... it's just a hypothetical[r]situation![l][er]
+It's not like I want to make something for you or anything[r]like that![pcms]
 
 *5207|
 [fc]
-[ns]‰Á“¡[nse]
-u‚È‚ñ‚¾Aì‚ç‚È‚¢‚Ì‚©H@ğ“úH‚Á‚½ƒ`ƒƒ[ƒnƒ“‚ª[r]
-ƒEƒ}‚©‚Á‚½‚©‚çA–{‹C‚ÅŠú‘Ò‚µ‚½‚ñ‚¾‚¯‚Ç‚Èv[pcms]
+[ns]Kato[nse]
+What, you're not going to make anything?[l][er]
+I had high hopes because the fried rice I ate yesterday was[r]delicious.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2169|
 [fc]
 [vo_sa s="sae0436"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *5208|
 [fc]
-“µ‚ÍŠç‚ğ^‚ÁÔ‚É‚µ‚ÄA’²—ê‚Ì‰œ‚ÌA[r]
-‰´’B‚ª”ƒ‚Á‚½HŞ‚ğ“ü‚ê‚Ä‚ ‚é—â‘ ŒÉ‚ÖŒü‚©‚Á‚½B[pcms]
+Hitomi blushed and headed towards the refrigerator in the[r]back of the kitchen where we had put the ingredients we[r]bought.[pcms]
 
 *5209|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *5210|
 [fc]
-RŠİ‚³‚ñ‚Æ‚Í‚¤‚Ü‚­˜b‚¹‚È‚¢‚Ì‚ÉA[r]
-²”Œ‚¾‚Æ•’Ê‚É˜b‚¹‚é‚ñ‚¾‚æ‚È[ccB[pcms]
+Even though I can't talk well with Yamagishi-san, I can talk[r]to Saeki normally...[pcms]
 
 *5211|
 [fc]
-\‚¦‚é‚±‚Æ‚È‚­A©•ª‚Ì‚Ü‚Ü‚Å‚¢‚ç‚ê‚é‘ŠèB[r]
-‰´‚Í²”Œ‚Ì‚±‚Æ‚ğA‚»‚ñ‚È•—‚Év‚¢n‚ß‚Ä‚¢‚½B[pcms]
+I had started to think of Saeki as someone with whom I could[r]be myself without putting up a front.[pcms]
 
 *5212|
 [fc]
-[ns]‰Á“¡[nse]
-u‚±‚ñ‚È•—‚É‚È‚Á‚Ä‚é‚ñ‚¾‚È[A’²—ê‚Ì’†‚Á‚Äv[pcms]
+[ns]Kato[nse]
+So this is what it's like inside the kitchen, huh?[pcms]
 
 *5213|
 [fc]
-ğ“úAHŠí‚ğô‚¤‚Ì‚É‚±‚Ì’†‚É“ü‚Á‚½‚ªA‹÷X‚Ü‚ÅŒ©‚Ä[r]
-‰ñ‚Á‚½‚í‚¯‚Å‚Í‚È‚©‚Á‚½‚©‚çA‰´‚Í‹»–¡’ÃX‚Å’²—ê‚ğ[r]
-•à‚«‰ñ‚Á‚½B[pcms]
+Yesterday, I entered this place to wash the dishes, but I[r]didn't thoroughly look around every corner, so I walked[r]around the kitchen with great interest.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2170|
 [fc]
 [vo_sa s="sae0437"]
-[ns]²”Œ[nse]
-uè‚ª‹ó‚¢‚Ä‚¢‚é‚Ì‚È‚çA—V‚ñ‚Å‚¢‚È‚¢‚Å[r]
-è“`‚Á‚Ä’¸‚¯‚Ü‚¹‚ñ‚©Hv[pcms]
+[ns]Saeki[nse]
+If you have some free time, instead of playing around, could[r]you help me?[pcms]
 
 *5214|
 [fc]
-[ns]‰Á“¡[nse]
-uHŞ‘I‚Ñ‚Í²”ŒƒVƒFƒt‚É‚¨”C‚¹‚µ‚Ü[‚·v[pcms]
+[ns]Kato[nse]
+I'll leave the ingredient selection to Chef Saeki~[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *5215|
 [fc]
-•’iŒ©‚é‚±‚Æ‚Ìo—ˆ‚È‚¢A’²—ê‚Ì’†‚ğŒ©‚Ä‰ñ‚é‚Ì‚ª[r]
-–Ê”’‚­A‰´‚Í²”Œ‚Ìwè“`‚¦x‚Æ‚¢‚¤—v¿‚ğ[r]
-‰E‚©‚ç¶‚Ö—¬‚µ‚½B[pcms]
+I found it interesting to explore the inside of the kitchen,[r]which I normally don't get to see, and I casually brushed[r]off Saeki's request for help.[pcms]
 
 *5216|
 [fc]
-[ns]‰Á“¡[nse]
-uH@‰½‚¾‚±‚êccv[pcms]
+[ns]Kato[nse]
+? What's this...[pcms]
 
 *5217|
 [fc]
-’²—ê‚Ì‹÷‚Ì°‚ÉA”à‚ç‚µ‚«‚à‚Ì‚ª‚ ‚é‚Ì‚ÉA[r]
-‰´‚Í‹C‚ª‚Â‚¢‚½B[pcms]
+I noticed that there was something like a door on the floor[r]in the corner of the kitchen.[pcms]
 
 *5218|
 [fc]
-‰º…“¹‚Æ‚©ƒ{ƒCƒ‰[º‚Æ‚©A‚»‚¤‚¢‚¤‚Æ‚±‚É[r]
-Œq‚ª‚Á‚Ä‚ñ‚Ì‚©‚ÈccB[r]
-‚»‚ê‚É‚µ‚Ä‚ÍAŒ®‚ª‚©‚©‚Á‚Ä‚È‚¢‚µccB[pcms]
+I wonder if it leads to places like the sewer or boiler[r]room...[l][er]
+But if that's the case, it's not locked...[pcms]
 
-;//—™ŸºF‰º‹L‚r‚d‚ª•\‚É‚È‚¢‚½‚ß‚ÉŒ»İ‰¹‚ğ’£‚Á‚Ä‚¢‚Ü‚¹‚ñB
+;//ï¼ æ‰æ¸•ï¼šä¸‹è¨˜ï¼³ï¼¥ãŒè¡¨ã«ãªã„ãŸã‚ã«ç¾åœ¨éŸ³ã‚’å¼µã£ã¦ã„ã¾ã›ã‚“ã€‚
 
-;//SE:ƒoƒ“
+;//SE:ãƒãƒ³
 
 ;//[se0 storage="se045"]
 
 *5219|
 [fc]
-ˆø‚«ã‚°‚Ä‚İ‚é‚ÆA”à‚ÍŠÈ’P‚ÉŠJ‚¢‚ÄA[r]
-‰º‚Ö‘±‚¢‚Ä‚¢‚éŠK’i‚ªŒ»‚ê‚½B[pcms]
+When I tried to pull it up, the door easily opened,[r]revealing a staircase leading down.[pcms]
 
 *5220|
 [fc]
-[ns]‰Á“¡[nse]
-u‰½‚ª‚ ‚é‚ñ‚¾ccHv[pcms]
+[ns]Kato[nse]
+What's this...?[pcms]
 
 *5221|
 [fc]
-‚µ‚É‰º‚è‚Ä‚¢‚Á‚Ä‚İ‚é‚ÆA‚»‚±‚É‚ÍŠ„‚Æ‘å‚«‚È‹óŠÔ‚ª[r]
-L‚ª‚Á‚Ä‚¢‚½B[pcms]
+When I tried going down to see, there was a rather large[r]space spread out there.[pcms]
 
 *5222|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨[‚¢I@²”Œ[‚ÁI@‚¿‚å‚Á‚Æ—ˆ‚Ä‚İ‚ë‚æIIv[pcms]
+[ns]Kato[nse]
+Hey! Saeki! Come over here for a moment!![pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -251,5 +236,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05290]‚Ö
+;//[05290]ã¸
 [jump target=*05290_TOP storage="05290.ks"]

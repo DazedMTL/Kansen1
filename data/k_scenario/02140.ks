@@ -1,20 +1,20 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02140wŠÅŒìx
-;//BG:‹³ºF—[•û
-;//“oêl•¨GålŒöEƒŠƒTE—DE’|“àEŠİ“c
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02140ã€çœ‹è­·ã€
+;//BG:æ•™å®¤ï¼šå¤•æ–¹
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µãƒ»å„ªãƒ»ç«¹å†…ãƒ»å²¸ç”°
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02140_TOP
-;[debug_win]‚È‚¤@02140[debug_win_end]
+;[debug_win]ãªã†ã€€02140[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02140 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02140 = 1"]
 
-;*SceneSet|wŠÅŒìx
+;*SceneSet|ã€çœ‹è­·ã€
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 
 [bgm007]
 
@@ -25,76 +25,72 @@
 
 *2536|
 [fc]
-[ns]‰Á“¡[nse]
-u‘åä•v‚©Hv[pcms]
+[ns]Kato[nse]
+Are you okay?[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_e_06"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std280|
 [fc]
-[ns]’|“à[nse]
-u‚¤‚ñcc‚È‚ñ‚©A‚©‚º‚Ğ‚¢‚½‚èA‚Ğ‚Æ‚È‚®‚Á‚ÄA‚¬‚á[r]
-‚­‚É‚¯‚ª‚µ‚½‚ècc‚Â‚¢‚Ä‚È‚¢‚È‚Ÿv[pcms]
+[ns]Takeuchi[nse]
+Yeah... I caught a cold, bumped into someone, and[r]accidentally hurt myself...[l][er]
+It's been a string of bad luck.[pcms]
 
 *2537|
 [fc]
-Š÷‚àˆÖq‚à–³‚­‚È‚Á‚Ä‚µ‚Ü‚Á‚½‹³º‚Ì‹÷‚ÉA^–ç‚Í—Í–³[r]
-‚­‚µ‚á‚ª‚İ‚ñ‚¾B[pcms]
+Takeuchi weakly crouched down in the corner of the classroom[r]where the desk and chair had disappeared.[pcms]
 
 *2538|
 [fc]
-[ns]‰Á“¡[nse]
-u—Áƒ–—Ë‚Ì”šÎ‰¤‚É‚Ó‚³‚í‚µ‚¢A”gàp–œä‚Ìl¶‚¶‚á‚È[r]
-‚¢‚©v[pcms]
+[ns]Kato[nse]
+Isn't it a life full of ups and downs, befitting the king of[r]laughter at Suzugaoka?[pcms]
 
 *2539|
 [fc]
-[ns]’|“à[nse]
-uccv[pcms]
+[ns]Takeuchi[nse]
+â€¦â€¦[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *2540|
 [fc]
-‰´‚Ìç’k‚É• ‚ğ—§‚Ä‚ÄA–³‹‚µ‚Ä‚¢‚é‚Ì‚©‚Æv‚Á‚½‚ªA[r]
-‚à‚¤–°‚Á‚Ä‚µ‚Ü‚Á‚Ä‚¢‚½‚ç‚µ‚­A^–ç‚Í‚·‚®‚ÉƒCƒrƒL‚ğ[r]
-‚©‚«n‚ß‚½B[pcms]
+I thought you were angry at my joke and ignoring me, but it[r]seems like you had already fallen asleep, as Shinya[r]immediately started snoring.[pcms]
 
 *2541|
 [fc]
-[ns]‰Á“¡[nse]
-u‚æ‚Á‚Û‚Ç”æ‚ê‚Ä‚½‚ñ‚¾‚ÈccB‘åä•v‚©H@‚±‚¢‚Âv[pcms]
+[ns]Kato[nse]
+You must have been really tired...[l][er]
+Are you okay? This guy...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v990|
 [fc]
 [vo_ya s="yama0311"]
-[ns]RŠİ[nse]
-u‘‚­‹~•‚ª—ˆ‚é‚Æ‚¢‚¢‚Ëccv[pcms]
+[ns]Yamagishi[nse]
+I hope the rescue comes soon...[pcms]
 
 *2542|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ ccv[pcms]
+[ns]Kato[nse]
+Ah...[pcms]
 
 *2543|
 [fc]
-^–ç‚Ì—lq‚ÉA‰´‚Í­‚µÅ‚è‚ğŠ´‚¶‚ÄA‚·‚®‹ß‚­‚Ü‚Å‹~[r]
-••”‘à‚ª—ˆ‚Ä‚¢‚È‚¢‚©‚ª‹C‚É‚È‚Á‚½B[pcms]
+I felt a little anxious about Shinya's condition and became[r]concerned if the rescue team hadn't arrived nearby yet.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 [wait_c time=500]
@@ -109,55 +105,55 @@
 
 *2544|
 [fc]
-[ns]‰Á“¡[nse]
-uæ¶A‰®ãs‚Á‚Ä‚«‚Ä‚à‚¢‚¢ƒX‚©H@‹~••”‘à‚ª‹ß‚­[r]
-‚Ü‚Å—ˆ‚Ä‚È‚¢‚©AŒ©‚És‚«‚½‚¢‚ñ‚Å‚·v[pcms]
+[ns]Kato[nse]
+Sensei, is it okay if I go to the rooftop?[l][er]
+I want to see if the rescue team has come nearby yet.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v991|
 [fc]
 [vo_ya s="yama0312"]
-[ns]RŠİ[nse]
-u‚ ‚ÁA„‚às‚«‚Ü‚·Iv[pcms]
+[ns]Yamagishi[nse]
+Ah, I'll go too![pcms]
 
 *2545|
 [fc]
-ƒXƒJ[ƒg‚Ìƒ|ƒPƒbƒg‚©‚çŒ®‚ğæ‚èo‚µ‚È‚ª‚çAV“¹æ¶[r]
-‚Í‰´’B‚É’ˆÓ‚ğ‘£‚µ‚½B[pcms]
+While taking out a key from the pocket of her skirt, Teacher[r]Shindou warned us to be careful.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v992|
 [fc]
 [vo_ri s="risa0323"]
-[ns]V“¹[nse]
-u‘O‚É‚àŒ¾‚Á‚½‚¯‚ê‚ÇAŸè‚Ès“®‚ğ‚µ‚È‚¢‚±‚ÆB’·[r]
-ŠÔA‰®ã‚É‚¢‚È‚¢‚±‚ÆB‚±‚ê‚Í•K‚¸ç‚è‚È‚³‚¢B‚¢‚¢‚í[r]
-‚ËHv[pcms]
+[ns]Shindou[nse]
+I've said it before, but don't act on your own.[l][er]
+Don't stay on the rooftop for a long time.[l][er]
+Make sure to follow this rule.[l][er]
+Got it?[pcms]
 
 *2546|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Í‚¢B‚¶‚á‚ As‚±‚Á‚©v[pcms]
+[ns]Kato[nse]
+Yes. Well then, shall we go?[pcms]
 
 *2547|
 [fc]
-‚¤‚È‚¸‚­RŠİ‚³‚ñ‚ğ”º‚Á‚ÄA‰´‚Í”ñíŠK’i‚ÖŒü‚©‚Á‚½B[pcms]
+Accompanied by Yamagishi-san nodding, I headed towards the[r]emergency staircase.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -165,5 +161,5 @@
 
 ;//blackout
 
-;//[02141]‚Ö
+;//[02141]ã¸
 [jump target=*02141_TOP storage="02141.ks"]

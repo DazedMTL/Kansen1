@@ -1,17 +1,17 @@
 
-;//¡ËƒuƒƒbƒN05780wƒŠƒTx
-;//;//BG:“ñ‰ñ˜L‰ºF—[•ûFÁ“”
-;//“oêl•¨GålŒöE“µEŠ´õƒŠƒT
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05780ã€ãƒªã‚µã€
+;//;//BG:äºŒå›å»Šä¸‹ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»æ„ŸæŸ“ãƒªã‚µ
 
 *05780_TOP
-;[debug_win]‚È‚¤@05780[debug_win_end]
-;*SceneSet|wƒŠƒTx
+;[debug_win]ãªã†ã€€05780[debug_win_end]
+;*SceneSet|ã€ãƒªã‚µã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05780 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05780 = 1"]
 
-;//flag:“µƒ‹[ƒgƒtƒ[@‚P‚Q@•\¦
+;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼‘ï¼’ã€€è¡¨ç¤º
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 
 [bgm009]
 
@@ -20,7 +20,7 @@
 [bg storage="bg06b"]
 [trans_c cross time=500]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 
 [se0 storage="se005"]
 
@@ -30,56 +30,49 @@
 
 *6187|
 [fc]
-‰®ã‚ğ–Úw‚µAŠK’i‚ğã‚Á‚Ä‚¢‚½‰´’B‚ÍA“ñŠK‚Ö’…‚¢‚½[r]
-‚ÉA˜L‰º‚Él‚ª“|‚ê‚Ä‚¢‚é‚Ì‚ğ–Ú‚É‚µ‚½B“|‚ê‚Ä‚¢‚é[r]
-l‚Ì•‘•A”¯Œ^‚ÉA‰´‚ÍŒ©Šo‚¦‚ª‚ ‚Á‚½B[pcms]
+We were heading towards the rooftop and climbing the stairs[r]when we saw someone collapsed in the hallway as we reached[r]the second floor.[l][er]
+The person's clothing and hairstyle looked familiar to me.[pcms]
 
 *6188|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚êccV“¹æ¶‚©ccHv[pcms]
+[ns]Kato[nse]
+Huh... Is that Shindou-sensei...?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2562|
 [fc]
 [vo_sa s="sae0675"]
-[ns]²”Œ[nse]
-u‚»‚Ì—l‚Å‚·‚¯‚ê‚Çccv[pcms]
+[ns]Saeki[nse]
+It seems so, but...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *6189|
 [fc]
-‚Ç‚¤‚µ‚Ä‚±‚ñ‚È‚Æ‚±‚ÉccB[r]
-—S“ñ‚âŠİ“c‚É‚³‚ê‚Ä‚½‚İ‚½‚¢‚ÉA‚Ü‚½’N‚©‚ÉP‚í‚ê‚½‚Ì[r]
-‚©‚ÈccB[pcms]
+Why is she here...? Did someone attack her again, like what[r]happened with Yuuji and Kishida...?[pcms]
 
 *6190|
 [fc]
-”½Ë“I‚ÉA•‚¯‚È‚¯‚ê‚Î‚Æl‚¦‚ÄAV“¹æ¶‚É“ñAO•à[r]
-‹ß‚Ã‚¢‚½‚Æ‚±‚ë‚ÅA‰´‚Í‘«‚ğ~‚ß‚½B[pcms]
+Reflexively, I thought I should help and took a few steps[r]closer to Shindou-sensei, but then I stopped in my tracks.[pcms]
 
 *6191|
 [fc]
-ŠwH‚É—ˆ‚½RŠİ‚³‚ñ‚ÍA–¾‚ç‚©‚É•’Ê‚¶‚á‚È‚¢‚Æv‚¦‚é[r]
-‚®‚ç‚¢A‚¨‚©‚µ‚­‚È‚Á‚Ä‚µ‚Ü‚Á‚Ä‚¢‚½ccB[pcms]
+Yamagishi-san, who came to the school cafeteria, seemed[r]clearly abnormal to the point where it felt strange...[pcms]
 
 *6192|
 [fc]
-‚Å‚àV“¹æ¶‚Í‚ ‚ÌARŠİ‚³‚ñ‚İ‚½‚¢‚ÉA––ŠúÇó“I[r]
-‚Èó‘Ô‚¶‚á‚È‚©‚Á‚½ccB‚à‚µ‚©‚µ‚½‚çA‚Ü‚¾•‚¯‚ç‚ê[r]
-‚é‚©‚à‚µ‚ê‚È‚¢ccB[pcms]
+But Shindou-sensei wasn't in a terminal state like[r]Yamagishi-san at that time...[l][er]
+Maybe there's still a chance to help her...[pcms]
 
 *6193|
 [fc]
-‚Å‚àccB‚à‚µV“¹æ¶‚ªAè’x‚ê‚Á‚Ä‚Æ‚±‚ë‚Ü‚Å‚¨‚©[r]
-‚µ‚­‚È‚Á‚Ä‚½‚Æ‚µ‚½‚çccB[pcms]
+But... If Shindou-sensei had already reached a point where[r]it was too late...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -88,41 +81,41 @@
 
 *6194|
 [fc]
-²”Œ‚Í‚·‚®Œã‚ë‚É—§‚¿A‰´‚ÌƒVƒƒƒc‚Ì‚ğ’Í‚İA•sR‚È[r]
-Šç‚ÅA²”Œ‚Í“|‚ê‚Ä‚¢‚éV“¹æ¶‚ğŒ©‚Â‚ß‚Ä‚¢‚½B[pcms]
+Saeki stood right behind me, grabbing the hem of my shirt[r]and looking suspiciously.[l][er]
+Saeki was staring at the collapsed Shindou-sensei.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//¦‘I‘ğˆ
-;//E‚Æ‚è‚ ‚¦‚¸Aº‚¾‚¯‚©‚¯‚Ä‚İ‚æ‚¤cc;//[05790]‚Ö
-;//E–{“–‚Éè’x‚ê‚É‚È‚é‘O‚ÉA•‚¯‚È‚«‚ácc;//[07330]‚Ö
+;//â€»é¸æŠè‚¢
+;//ãƒ»ã¨ã‚Šã‚ãˆãšã€å£°ã ã‘ã‹ã‘ã¦ã¿ã‚ˆã†â€¦â€¦;//[05790]ã¸
+;//ãƒ»æœ¬å½“ã«æ‰‹é…ã‚Œã«ãªã‚‹å‰ã«ã€åŠ©ã‘ãªãã‚ƒâ€¦â€¦;//[07330]ã¸
 
 ;//<SltDel ALL>
-;//<SltAdd 0ƒJƒ“ƒ}SEL00_05780_VOICEƒJƒ“ƒ}‚Æ‚è‚ ‚¦‚¸Aº‚¾‚¯‚©‚¯‚Ä‚İ‚æ‚¤cc>
-;//<SltAdd 1ƒJƒ“ƒ}SEL00_05780_HELPƒJƒ“ƒ}–{“–‚Éè’x‚ê‚É‚È‚é‘O‚ÉA•‚¯‚È‚«‚ácc>
+;//<SltAdd 0ã‚«ãƒ³ãƒSEL00_05780_VOICEã‚«ãƒ³ãƒã¨ã‚Šã‚ãˆãšã€å£°ã ã‘ã‹ã‘ã¦ã¿ã‚ˆã†â€¦â€¦>
+;//<SltAdd 1ã‚«ãƒ³ãƒSEL00_05780_HELPã‚«ãƒ³ãƒæœ¬å½“ã«æ‰‹é…ã‚Œã«ãªã‚‹å‰ã«ã€åŠ©ã‘ãªãã‚ƒâ€¦â€¦>
 ;//<SltRun>
 
 
-*SEL01|‚Æ‚è‚ ‚¦‚¸Aº‚¾‚¯‚©‚¯‚Ä‚İ‚æ‚¤^–{“–‚Éè’x‚ê‚É‚È‚é‘O‚ÉA•‚¯‚È‚«‚á
+*SEL01|ã¨ã‚Šã‚ãˆãšã€å£°ã ã‘ã‹ã‘ã¦ã¿ã‚ˆã†ï¼æœ¬å½“ã«æ‰‹é…ã‚Œã«ãªã‚‹å‰ã«ã€åŠ©ã‘ãªãã‚ƒ
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '‚Æ‚è‚ ‚¦‚¸Aº‚¾‚¯‚©‚¯‚Ä‚İ‚æ‚¤cc'"]
-[eval exp="f.seltext04 = '–{“–‚Éè’x‚ê‚É‚È‚é‘O‚ÉA•‚¯‚È‚«‚ácc'"]
+[eval exp="f.seltext02 = 'ã¨ã‚Šã‚ãˆãšã€å£°ã ã‘ã‹ã‘ã¦ã¿ã‚ˆã†â€¦â€¦'"]
+[eval exp="f.seltext04 = 'æœ¬å½“ã«æ‰‹é…ã‚Œã«ãªã‚‹å‰ã«ã€åŠ©ã‘ãªãã‚ƒâ€¦â€¦'"]
 
 
-[if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
-	;‘I‘ğˆ“à—e‚ğƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
+[if exp="tf.sys_sub == 0 || tf.é¸æŠè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
+	;é¸æŠè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[—š—ğo—Í•œ‹A]
+[å±¥æ­´å‡ºåŠ›å¾©å¸°]
 
-;‘I‘ğˆƒx[ƒX
+;é¸æŠè‚¢ãƒ™ãƒ¼ã‚¹
 [selbase]
-;•¶š‚Ì¶ƒ}[ƒWƒ“
+;æ–‡å­—ã®å·¦ãƒãƒ¼ã‚¸ãƒ³
 [eval exp="sf.seltext_x = 200"]
 
 [sel02 target=*SEL00_tori]

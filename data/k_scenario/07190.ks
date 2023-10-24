@@ -1,22 +1,22 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN07190w—]‰Cx
-;//;//BG:–³‚µ
-;//“oêl•¨GålŒöE“µ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07190ã€ä½™éŸ»ã€
+;//;//BG:ç„¡ã—
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *07190_TOP
-;[debug_win]‚È‚¤@07190[debug_win_end]
+;[debug_win]ãªã†ã€€07190[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07190 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07190 = 1"]
 
-;//ôFBGM010
+;//â™ªï¼šBGM010
 
 [bgm010]
 
-;//;//BG:bg–³‚µ
+;//;//BG:bgç„¡ã—
 
 
 
@@ -24,14 +24,12 @@
 
 *7407|
 [fc]
-ccccB[r]
-cccB[pcms]
+â€¦â€¦â€¦â€¦ã€‚ â€¦â€¦â€¦ã€‚[pcms]
 
 *7408|
 [fc]
-‚¨Œİ‚¢–³Œ¾‚Ì‚Ü‚ÜccB[r]
-‚¨Œİ‚¢‚Ì‘Ì‰·‚ğŠ´‚¶‚ ‚¤’†‚ÅccB[r]
-•sˆÓ‚ÉA²”Œ‚ªŒû‚ğŠJ‚­B[pcms]
+In silence... as we feel each other's body heat...[l][er]
+suddenly, Saeki opens her mouth.[pcms]
 
 ;	/*
 ;	[ChrSetEx layer=1 chbase="sae_a_a_01"]
@@ -40,13 +38,13 @@
 ;	[trans_c cross time=150]
 ;	*/
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2986|
 [fc]
 [vo_sa s="sae0861"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñcc’g‚©‚¢ccv[pcms]
+[ns]Saeki[nse]
+Kato-san... you're warm...[pcms]
 
 ;	/*
 ;	[ChrSetEx layer=1 chbase="sae_a_a_01"]
@@ -55,51 +53,52 @@
 ;	[trans_c cross time=150]
 ;	*/
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2987|
 [fc]
 [vo_sa s="sae0862"]
-[ns]²”Œ[nse]
-u„‚©‚çA—£‚ê‚È‚¢‚Å‰º‚³‚¢ccv[pcms]
+[ns]Saeki[nse]
+Please don't leave me...[pcms]
 
 *7413|
 [fc]
-w„‚©‚ç—£‚ê‚È‚¢‚Åccx[pcms]
+Please don't leave me...[pcms]
 
 *7414|
 [fc]
-²”Œ‚Ì‘z‚¢‚ª‚ß‚ç‚ê‚½Œ¾—tB[pcms]
+Words filled with Saeki's feelings.[pcms]
 
 *7415|
 [fc]
-‰´‚ÍA‰½‚ª‚ ‚Á‚Ä‚àA²”Œ‚©‚ç—£‚ê‚È‚¢cc—£‚³‚È‚¢B[pcms]
+No matter what happens, I will never leave Saeki...[l][er]
+I won't let her go.[pcms]
 
 *7416|
 [fc]
-[ns]‰Á“¡[nse]
-u‘åä•vccBâ‘Î‚É—£‚³‚È‚¢v[pcms]
+[ns]Kato[nse]
+It's okay... I will never let go.[pcms]
 
 *7417|
 [fc]
-‚È‚ñ‚¾‚©AÆ‚ê‚écc’p‚¸‚©‚µ‚¢‚ÈccB[r]
-‚Å‚àA‚±‚Ì‚Ü‚Ü‚¸‚Á‚Æc‚±‚¤‚µ‚Ä‚¢‚½‚¢ccB[pcms]
+It's kind of embarrassing... I feel shy...[l][er]
+But, I want to stay like this...[l][er]
+forever...[pcms]
 
 *7418|
 [fc]
-ccccB[r]
-ccB[pcms]
+â€¦â€¦â€¦â€¦ã€‚ â€¦â€¦ã€‚[pcms]
 
 *7419|
 [fc]
-‚Ü‚½–³Œ¾‚Å•ø‚«‡‚Á‚Ä‚¢‚é‚¤‚¿‚ÉA‚ ‚é–‚ğv‚¢o‚µ‚½B[r]
-V“¹æ¶‚ğ–Y‚ê‚Ä‚¢‚½–‚ğB[pcms]
+While we were embracing each other in silence, I remembered[r]something.[l][er]
+I had forgotten about Shindou-sensei.[pcms]
 
 *7420|
 [fc]
-[ns]‰Á“¡[nse]
-u‚µ‚Ü‚Á‚½II@²”Œcc‘‚­’…‘Ö‚¦‚ëI@æ¶‚ğ‘Ò‚½[r]
-‚¹‚½‚Ü‚Ü‚¾Iv[pcms]
+[ns]Kato[nse]
+Oh no!! Saeki... hurry up and change your clothes![l][er]
+We're keeping the teacher waiting![pcms]
 
 ;	/*
 ;	[ChrSetEx layer=1 chbase="sae_a_b_03"]
@@ -108,19 +107,19 @@
 ;	[trans_c cross time=150]
 ;	*/
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2988|
 [fc]
 [vo_sa s="sae0863"]
-[ns]²”Œ[nse]
-u‚ ccv[pcms]
+[ns]Saeki[nse]
+Ah...[pcms]
 
 *7423|
 [fc]
-²”Œ‚ÍQ‚Ä‚Ä§•‚ğ’…‚½B[r]
-‰´‚ÍccA…Z‚µ‚¾ccB[pcms]
+Saeki hurriedly put on her school uniform.[l][er]
+As for me... I was soaked...[pcms]
 
-;//[07200]‚Ö
+;//[07200]ã¸
 [jump target=*07200_H_TOP storage="07200_H.ks"]
 

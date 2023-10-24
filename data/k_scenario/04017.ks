@@ -1,22 +1,22 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN04017w–ÚŠo‚ßx
-;//BG:•ÛŒ’ºF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöE—DEƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04017ã€ç›®è¦šã‚ã€
+;//BG:ä¿å¥å®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *04017_TOP
-;[debug_win]‚È‚¤@04017[debug_win_end]
+;[debug_win]ãªã†ã€€04017[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04017 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04017 = 1"]
 
-;*SceneSet|w–ÚŠo‚ßx
+;*SceneSet|ã€ç›®è¦šã‚ã€
 
-;//flag:—Dƒ‹[ƒgƒtƒ[@‚X@•\¦
+;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼™ã€€è¡¨ç¤º
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 
 [fadeoutbgm time=500]
 
@@ -30,216 +30,206 @@
 
 *3966|
 [fc]
-‚Ó‚Æ–Ú‚ğŠo‚Ü‚·‚ÆA‰´‚Í‚Ç‚±‚©‚Ì‹³º‚ÉA‹ÂŒü‚¯‚ÅQ‚©[r]
-‚³‚ê‚Ä‚¢‚é‚æ‚¤‚¾‚Á‚½B[pcms]
+I suddenly woke up and found myself lying on my back in some[r]classroom.[pcms]
 
 *3967|
 [fc]
-[ns]‰Á“¡[nse]
-uƒCAƒeƒFccv[pcms]
+[ns]Kato[nse]
+I, tehe...[pcms]
 
 *3968|
 [fc]
-‘Ì‚ğ‹N‚±‚µA’É‚İ‚Ìc‚Á‚Ä‚¢‚é“ª‚ğ“®‚©‚µ‚Äü‚è‚ğŒ©‚é[r]
-‚ÆA‰´‚Íƒxƒbƒh‚Ìã‚É‚¢‚ÄAü‚è‚ÍƒJ[ƒeƒ“‚ÅˆÍ‚í‚ê‚Ä[r]
-‚¢‚½B[pcms]
+I sat up and moved my head, which still hurt, to look[r]around.[l][er]
+I found myself on a bed, surrounded by curtains.[pcms]
 
 *3969|
 [fc]
-[ns]‰Á“¡[nse]
-u•ÛŒ’ºA‚©ccv[pcms]
+[ns]Kato[nse]
+The infirmary, huh...[pcms]
 
 *3970|
 [fc]
-‚¢‚Á‚½‚¢A‰½‚¾‚Á‚½‚ñ‚¾H@‚ ‚¢‚ÂccB[r]
-‰´‚Í‚Ü‚¾‚µ‚àARŠİ‚³‚ñ‚ğP‚¢‚â‚ª‚Á‚ÄccB[pcms]
+What on earth happened? That guy...[l][er]
+He attacked Yamagishi-san... I can't believe it...[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1613|
 [fc]
 [vo_ri s="risa0355"]
-[ns]V“¹[nse]
-u–Ú‚ªŠo‚ß‚½‚æ‚¤‚Ëv[pcms]
+[ns]Shindou[nse]
+Looks like you've woken up.[pcms]
 
 [bgm007]
 
 *3971|
 [fc]
-[ns]‰Á“¡[nse]
-uV“¹æ¶ccv[pcms]
+[ns]Kato[nse]
+Ms. Shindou...[pcms]
 
 *3972|
 [fc]
-ƒJ[ƒeƒ“‚ğŠJ‚¯‚ÄŒ»‚ê‚½V“¹æ¶‚ÍA‰´‚ÌQ‚Ä‚¢‚éƒxƒb[r]
-ƒh‚Ì–T‚ç‚É‚ ‚Á‚½ˆÖq‚É˜‚ğ‚©‚¯A‰´‚ğŒµ‚µ‚¢Šç‚ÅŒ©‚Â[r]
-‚ß‚Ä‚«‚½B[pcms]
+Ms. Shindou, who appeared after opening the curtains, sat on[r]the chair next to my bed where I was sleeping and stared at[r]me with a stern expression.[pcms]
 
 *3973|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ÌARŠİ‚³‚ñ‚Íccv[pcms]
+[ns]Kato[nse]
+Um, what about Yamagishi-san...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1614|
 [fc]
 [vo_ri s="risa0356"]
-[ns]V“¹[nse]
-u—×‚Ìƒxƒbƒh‚ÅQ‚Ä‚¢‚é‚í‚æv[pcms]
+[ns]Shindou[nse]
+You were sleeping in the bed next to me.[pcms]
 
 *3974|
 [fc]
-ƒxƒbƒh‰¡‚ÌƒJ[ƒeƒ“‚Éƒ`ƒ‰ƒb‚Æ–Ú‚ğ‚â‚Á‚ÄAV“¹æ¶‚Í[r]
-Œ¾‚Á‚½B[pcms]
+I glanced at the curtains next to the bed and Shindou-sensei[r]said.[pcms]
 
 *3975|
 [fc]
-‰´‚ª“|‚ê‚½‚ ‚ÆA‚Ç‚¤‚È‚Á‚½‚ñ‚¾‚ë‚¤ccB[r]
-RŠİ‚³‚ñA–³–‚¾‚Á‚½‚Ì‚©‚Ècc[pcms]
+I wonder what happened after I collapsed...[l][er]
+I hope Yamagishi-san is safe...[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_b_03"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1615|
 [fc]
 [vo_ri s="risa0357"]
-[ns]V“¹[nse]
-uccˆê‘ÌA‰½‚ª‚ ‚Á‚½‚ÌHv[pcms]
+[ns]Shindou[nse]
+... What on earth happened?[pcms]
 
 *3976|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦ccHv[pcms]
+[ns]Kato[nse]
+Eh...?[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1616|
 [fc]
 [vo_ri s="risa0358"]
-[ns]V“¹[nse]
-uRŠİ‚³‚ñ‚æB”Ş—A—–\‚³‚ê‚Ä‚¢‚½‚íB«“I‚ÈA‚Ëv[pcms]
+[ns]Shindou[nse]
+Yamagishi-san. She was assaulted.[l][er]
+Sexually, you know.[pcms]
 
-;//ôFBGM007ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 
 ;[bgm007]
 
 *3977|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¹A«“IIHv[pcms]
+[ns]Kato[nse]
+S-Sexual?![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1617|
 [fc]
 [vo_ri s="risa0359"]
-[ns]V“¹[nse]
-u—L‚è‘Ì‚ÉŒ¾‚¦‚ÎA‹­Š­‚ËB‰Á“¡ŒNA‹M’jA‰½‚©’m‚Á‚Ä[r]
-‚¢‚é‚Ì‚Å‚Í‚È‚¢‚ÌHv[pcms]
+[ns]Shindou[nse]
+To put it bluntly, it was rape.[l][er]
+Kato-kun, do you know anything about it?[pcms]
 
 *3978|
 [fc]
-‚»‚¤Œ¾‚Á‚ÄAV“¹æ¶‚Í—â‚½‚­A“Ë‚«h‚·‚æ‚¤‚È‹ü‚ğ[r]
-‰´‚ÉŒü‚¯‚½B[pcms]
+Saying that, Shindou-sensei looked at me with a cold,[r]piercing gaze.[pcms]
 
 *3979|
 [fc]
-‚Ü‚³‚©A‰´‚ğ‹^‚Á‚Ä‚é‚Ì‚©ccH[r]
-‚»‚ñ‚ÈƒoƒJ‚Ècc‚È‚ñ‚Å‰´‚ªRŠİ‚³‚ñ‚ğccB[pcms]
+No way, are you suspecting me...?[l][er]
+That's ridiculous... Why would I do something to Yamagishi-[r]san...?[pcms]
 
 *3980|
 [fc]
-[ns]‰Á“¡[nse]
-uRŠİ‚³‚ñ‚ğP‚Á‚½‚Ì‚ÍAƒEƒ`‚Ì§•’…‚½’j‚Å‚·Bâ‘Î[r]
-‚É‰´‚¶‚á‚ ‚è‚Ü‚¹‚ñI@‚»‚ê‚ÉA‰´‚à‚»‚¢‚Â‚É‰£‚ç‚ê‚½[r]
-‚ñ‚Å‚·‚æI@^–ç‚àcc’|“à‚à‚»‚¢‚Â‚ğŒ©‚Ä‚Ü‚·Iv[pcms]
+[ns]Kato[nse]
+The person who assaulted Yamagishi-san was a guy wearing our[r]school uniform.[l][er]
+It definitely wasn't me! Besides, I was also attacked by[r]that person![l][er]
+Shinya and Takeuchi saw him too![pcms]
 
 *3981|
 [fc]
-‚»‚Ì^–ç‚Ìp‚ÍA‰´‚©‚çŒ©‚¦‚éŠ‚É‚Í–³‚©‚Á‚½B[r]
-ƒJ[ƒeƒ“‚ÅŒ©‚¦‚È‚¢‚¾‚¯‚ÅA‚±‚Ì’†‚É‚Í‚¢‚é‚¾‚ë‚¤B[pcms]
+I couldn't see Shinya anywhere.[l][er]
+He must be here, just out of sight behind the curtains.[pcms]
 
 *3982|
 [fc]
-[ns]‰Á“¡[nse]
-u’|“àA‚±‚±‚É‚¢‚Ü‚·‚æ‚ËH@‚ ‚¢‚Â‚É‚à•·‚¢‚Ä‚İ‚Ä‚­[r]
-‚¾‚³‚¢v[pcms]
+[ns]Kato[nse]
+Takeuchi, are you here? Please ask him too.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1618|
 [fc]
 [vo_ri s="risa0360"]
-[ns]V“¹[nse]
-u‚¢‚È‚¢‚í‚æA‚±‚±‚É‚ÍB‹M’j‚ÆRŠİ‚³‚ñˆÈŠOA’N‚àŒ©[r]
-‚È‚©‚Á‚½‚¯‚ê‚Çv[pcms]
+[ns]Shindou[nse]
+He's not here. Besides you and Yamagishi-san, no one else[r]saw anything.[pcms]
 
 *3983|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦ccH@æ¶‚Æ‚ ‚¢‚Â‚ÅA‰´’B‚ğ•ÛŒ’º‚É‰^‚ñ‚¾‚ñ[r]
-‚¶‚á‚È‚¢‚ñ‚Å‚·‚©H@RŠİ‚³‚ñ‚ªP‚í‚ê‚Ä‚é‚Á‚Äæ¶‚É[r]
-•ñ‚¹‚½‚ÌA’|“à‚Å‚·‚æ‚ËHv[pcms]
+[ns]Kato[nse]
+Eh...? Didn't you and that guy bring us to the infirmary?[l][er]
+It was Takeuchi who informed the teacher that Yamagishi-san[r]was being attacked, right?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1619|
 [fc]
 [vo_ri s="risa0361"]
-[ns]V“¹[nse]
-u‚¢‚¢‚¦BEˆõº‚És‚­“r’†‚ÅA‹M•û’B‚ª“|‚ê‚Ä‚¢‚é‚Ì[r]
-‚ğŒ©‚©‚¯‚½‚Ì‚æB’|“àŒN‚Æ‚Í‰ï‚Á‚Ä‚È‚¢‚ív[pcms]
+[ns]Shindou[nse]
+No. On my way to the staff room, I saw you guys collapsed.[l][er]
+I haven't seen Takeuchi-kun.[pcms]
 
 *3984|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚ñ‚Èccv[pcms]
+[ns]Kato[nse]
+No way...[pcms]
 
 *3985|
 [fc]
-V“¹æ¶‚ğŒÄ‚Ñ‚És‚­‚ÆŒ¾‚Á‚ÄA^–ç‚ª‘–‚Á‚Ä‚¢‚Á‚½‚Ì[r]
-‚ÍŠo‚¦‚Ä‚¢‚éB[pcms]
+I remember that Shinya said he was going to call Shindou-[r]sensei and ran off.[pcms]
 
 *3986|
 [fc]
-V“¹æ¶‚ğŒÄ‚Ñ‚És‚Á‚Ä‚¢‚È‚¢‚Ì‚È‚çA^–ç‚Íˆê‘ÌA‚Ç[r]
-‚±‚Ös‚Á‚Ä‚µ‚Ü‚Á‚½‚ñ‚¾H[pcms]
+If Shindou-sensei didn't go to call for Shindou-sensei, then[r]where on earth did Shinya go?[pcms]
 
 *3987|
 [fc]
-‚Ü‚³‚©‚ ‚¢‚ÂA“¦‚°‚½‚Ì‚©ccH[pcms]
+Could it be, did that person run away...?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1620|
 [fc]
 [vo_ri s="risa0362"]
-[ns]V“¹[nse]
-uccæ‚è‚ ‚¦‚¸A„‚Í‹~‹}Ô‚ğŒÄ‚ñ‚Å‚«‚Ü‚·B‹M’j‚Í[r]
-‘ål‚µ‚­A‚±‚±‚Å‹x‚ñ‚Å‚¢‚È‚³‚¢v[pcms]
+[ns]Shindou[nse]
+... For now, I will call an ambulance.[l][er]
+You should stay quiet and rest here.[pcms]
 
 *3988|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Í‚¢ccv[pcms]
+[ns]Kato[nse]
+Yes...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//¦ğŒ•ªŠò
-;//Eflag:ålŒö–\‘–@‚ªOFF;//[04018]‚Ö
-;//Eflag:ålŒö–\‘–@‚ªON;//[04026]‚Ö
+;//â€»æ¡ä»¶åˆ†å²
+;//ãƒ»flag:ä¸»äººå…¬æš´èµ°ã€€ãŒOFF;//[04018]ã¸
+;//ãƒ»flag:ä¸»äººå…¬æš´èµ°ã€€ãŒON;//[04026]ã¸
 
 ;Android[if exp="sf.run_away==1"]
 [if exp="sf.g_run_away==1"]

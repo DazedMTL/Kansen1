@@ -1,20 +1,20 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN04015w˜L‰º‚ÌˆÙlx
-;//BG:“Áê‹³º˜L‰ºF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöE—DE‰Á“¡
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04015ã€å»Šä¸‹ã®ç•°äººã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»åŠ è—¤
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *04015_TOP
-;[debug_win]‚È‚¤@04015[debug_win_end]
+;[debug_win]ãªã†ã€€04015[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04015 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04015 = 1"]
 
-;*SceneSet|w˜L‰º‚ÌˆÙlx
+;*SceneSet|ã€å»Šä¸‹ã®ç•°äººã€
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 
 ;//[bgm001]
 
@@ -27,53 +27,50 @@
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std319|
 [fc]
-[ns]’|“à[nse]
-u‚à[A‚Ü‚¾–°‚¢‚Ì‚É‚¡ccBƒ{ƒNA‹‚¢‚ÌŒ™‚¢‚È‚ñ‚¾[r]
-‚æ‚È‚Ÿccv[pcms]
+[ns]Takeuchi[nse]
+Ugh, I'm still sleepy... I really hate the heat...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1607|
 [fc]
 [vo_ya s="yama0653"]
-[ns]RŠİ[nse]
-uR‚Ì’†‚¾‚©‚çA‚»‚ñ‚È‚É‹‚­‚È‚¢‚Á‚Ä‚Î`v[pcms]
+[ns]Yamagishi[nse]
+It's not that hot because we're in the mountains~[l][er]
 
 *3946|
 [fc]
-”¼•ª–°‚Á‚Ä‚¢‚é‚æ‚¤‚ÈŠç‚ğ‚µ‚ÄA^–ç‚Íƒtƒ‰ƒtƒ‰‚Æ‰´‚Æ[r]
-RŠİ‚³‚ñ‚Ì‚ ‚Æ‚ğ‚Â‚¢‚Ä‚­‚éB[pcms]
+Takeuchi, with a half-asleep expression on his face, follows[r]me and Yamagishi-san unsteadily.[pcms]
 
 *3947|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨‘O‚Ì‘Ì‚ğŒ©‚Ä‚éA‰´’B‚Ì•û‚ª‹‚¢‚Á‚Â[‚Ìv[pcms]
+[ns]Kato[nse]
+I'm looking at your body, so we're the ones who are hot.[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std320|
 [fc]
-[ns]’|“à[nse]
-uƒ`ƒFƒbcc‚â‚¾‚È‚ŸA‹‚¢‚Ìccv[pcms]
+[ns]Takeuchi[nse]
+Ugh... I hate this heat...[pcms]
 
 *3948|
 [fc]
-a‚è‘±‚¯‚é^–ç‚ğˆø‚«‚¸‚Á‚ÄAEˆõŒºŠÖ‚Ì‘O‚Ü‚Å‚â‚Á‚Ä[r]
-‚«‚½‰´’B‚ÍAƒEƒ`‚Ì§•‚ğ’…‚Ä‚»‚±‚É—§‚Á‚Ä‚¢‚½Aˆêl[r]
-‚Ì’jq‚É–Ú‚ğ—¯‚ß‚½B[pcms]
+We dragged the sulking Shinya and arrived in front of the[r]staff entrance.[l][er]
+There, we noticed a boy standing there wearing our school[r]uniform.[pcms]
 
-;//[04016]‚Ö
+;//[04016]ã¸
 [jump target=*04016_TOP storage="04016.ks"]
 
 

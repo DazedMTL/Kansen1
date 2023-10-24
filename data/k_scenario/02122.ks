@@ -1,20 +1,20 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02122wƒ‰ƒWƒI‚Rx
-;//BG:“ñŠK˜L‰ºFƒoƒŠƒP[ƒhF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöE—DEƒŠƒTEŠİ“cE’|“à
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02122ã€ãƒ©ã‚¸ã‚ªï¼“ã€
+;//BG:äºŒéšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»å²¸ç”°ãƒ»ç«¹å†…
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02122_TOP
-;[debug_win]‚È‚¤@02122[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02122 = 1"]
+;[debug_win]ãªã†ã€€02122[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02122 = 1"]
 
-;*SceneSet|wƒ‰ƒWƒI‚Rx
+;*SceneSet|ã€ãƒ©ã‚¸ã‚ªï¼“ã€
 
 ;//[02122]
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 [bgm007]
 ;//BG:bg007a
 ;//[bg storage="bg07a"]
@@ -24,130 +24,120 @@
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v931|
 [fc]
 [vo_ri s="risa0290"]
-[ns]V“¹[nse]
-ucc’|“àŒNAŠÄ‹‚Ì‘±‚«A‚¨Šè‚¢‚Ëv[pcms]
+[ns]Shindou[nse]
+... Shinya-kun, please continue the surveillance.[pcms]
 
 *2360|
 [fc]
-‹ß‚­‚Ü‚Å–ß‚Á‚Ä‚«‚Ä‚¢‚½^–ç‚Éw¦‚ğo‚µAV“¹æ¶‚Í[r]
-Eˆõº‚©‚ç‚¿o‚µ‚Ä‚¢‚½ƒ‰ƒWƒI‚ÌƒXƒCƒbƒ`‚ğ“ü‚ê‚½B[pcms]
+Shindou gave instructions to Shinya, who had returned[r]nearby, and Shindou-sensei turned on the switch of the radio[r]she had taken out from the staff room.[pcms]
+[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *2361|
 [fc]
-ƒ‰ƒWƒI‚©‚ç‚ÍA‘O‚É’®‚¢‚½‚æ‚è‚àÚ‚µ‚¢î•ñ‚ğ—¬‚µ‚Ä[r]
-‚¢‚½B[pcms]
+The radio was broadcasting more detailed information than[r]when I had listened to it before.[pcms]
 
 *v932|
 [fc]
 [vo_mob s="radio0005"]
-[ns]ƒ‰ƒWƒI‚ÌƒAƒiƒEƒ“ƒT[[nse]
-u“ú–{‘“à‘Sˆæ‚Å”­¶‚µ‚Ä‚¢‚éA“¯‘½”­–\“®‚ÌÅVî[r]
-•ñ‚ğ‚¨“`‚¦‚µ‚Ü‚·v[pcms]
+[ns]Radio Announcer[nse]
+We will now provide you with the latest information on the[r]simultaneous multiple riots occurring throughout Japan.[pcms]
 
 *v933|
 [fc]
 [vo_mob s="radio0006_1"]
-[ns]ƒ‰ƒWƒI‚ÌƒAƒiƒEƒ“ƒT[[nse]
-u‘O‰ñ‚É‚à‚¨“`‚¦‚µ‚½A–\“k‚É‚æ‚é–\ssˆ×‚Å‚·‚ªA–\[r]
-s‚³‚ê‚½”íŠQÒ‚ªA–\“k‚É“¯s‚µccv[pcms]
+[ns]Radio Announcer[nse]
+As we mentioned before, these are acts of violence committed[r]by rioters.[l][er]
+The victims who were assaulted are now accompanying the[r]rioters...[pcms]
 
 *v934|
 [fc]
 [vo_mob s="radio0006_2"]
-[ns]ƒ‰ƒWƒI‚ÌƒAƒiƒEƒ“ƒT[[nse]
-u–\“®A–\s‚É‹¦—Í‚µ‚Ä‚¢‚é‚Æ‚¢‚¤î•ñ‚ª“ü‚è‚Ü‚µ‚½v[pcms]
+[ns]Radio Announcer[nse]
+We have received information that there are individuals[r]cooperating with the riots and acts of violence.[pcms]
 
 *v935|
 [fc]
 [vo_mob s="radio0007"]
-[ns]ƒ‰ƒWƒI‚ÌƒAƒiƒEƒ“ƒT[[nse]
-u–ÚŒ‚Ò‚ÌØŒ¾‚Å‚ÍA”íŠQÒ‚Ì—«‚Í‰‚ß‚Í‚»‚Ìê‚©‚ç[r]
-“®‚©‚È‚©‚Á‚½‚ªA”•ªŒã‚É‹N‚«‚ ‚ª‚èA–\“k‚ÌW’c‚ğ’Ç[r]
-‚¢‚©‚¯A‚»‚ÌW’c‚É‰Á‚í‚Á‚½‚Æ‚¢‚¤‚±‚Æ‚Å‚·v[pcms]
+[ns]Radio Announcer[nse]
+According to eyewitness testimonies, the female victims[r]initially did not move from the scene, but a few minutes[r]later, they stood up and chased after the group of rioters,[r]eventually joining them.[pcms]
 
 *v936|
 [fc]
 [vo_mob s="radio0008"]
-[ns]ƒ‰ƒWƒI‚ÌƒAƒiƒEƒ“ƒT[[nse]
-uŒ»İ‚Ü‚Å‚É‚í‚©‚Á‚Ä‚¢‚éA–\“k‚ÉŠÖ‚·‚éî•ñ‚ğ‚¨“`‚¦[r]
-‚µ‚Ü‚·ccv[pcms]
+[ns]Radio Announcer[nse]
+We will now provide you with the information we have[r]gathered so far regarding the rioters...[pcms]
 
 *2362|
 [fc]
-ƒ‰ƒWƒI‚ÌƒAƒiƒEƒ“ƒT[‚ª“`‚¦‚é–\“k‚Ì“Á’¥‚ÉA‰´’B‚Í‘S[r]
-ˆõA‚»‚Ìî•ñ‚É•·‚«“ü‚Á‚½B[pcms]
+We all listened intently to the radio announcer's report on[r]the characteristics of the rioters.[pcms]
 
 *2363|
 [fc]
-[ns]‰Á“¡[nse]
-u–\ssˆ×ccH@–\s‚Á‚ÄAƒŒƒCƒvcc‚Á‚Ä–[r]
-‚¾‚æ‚ÈccB‚»‚ê‚ÉA”íŠQ‚É‚ ‚Á‚½lŠÔ‚ª‡—¬‚·‚éHv[pcms]
+[ns]Kato[nse]
+Acts of violence...? By acts of violence, do you mean[r]rape...?[l][er]
+And the victims join them?[pcms]
 
 ;/*
 ;	[ChrSetEx layer=1 chbase="risa_c_a_08"]
 ;	[ChrSetXY layer=1 x=180 y=0]
 ;	[trans_c cross time=150]
 ;
-;	;—§‚¿
+;	;ç«‹ã¡
 ;	*2364|
 ;	*|
 ;	[vo_ri s="risa0291"]
-;	[ns]V“¹[nse]
-;	uˆÙ«‚ğ–\s‚µ‚æ‚¤‚Æ‚·‚éccH@’j«‚ª—«‚ğ‘_‚¤‚¾[r]
-;	‚¯‚Å‚Í‚È‚¢‚Ì‚©‚µ‚çccv
-;	[pcms]
+[ns]Shindou[nse]
+Trying to sexually assault...?[l][er]
+Men targeting women...[pcms]
+;	ã‘ã§ã¯ãªã„ã®ã‹ã—ã‚‰â€¦â€¦ã€
+;[l][er]
 ;
 ;	*|
-;	[ns]‰Á“¡[nse]
-;	u”íŠQ‚É‘˜‚Á‚½lŠÔ‚Í–\“k‚É‡—¬‚·‚éccv
-;	[pcms]
+[ns]Kato[nse]
+;	ã€Œè¢«å®³ã«é­ã£ãŸäººé–“ã¯æš´å¾’ã«åˆæµã™ã‚‹â€¦â€¦ã€
+;[l][er]
 ;*/
 
 *2368|
 [fc]
-‚»‚Ì“Á’¥‚ğ’®‚¢‚ÄA‰´‚Í‚³‚Á‚«A‚¨‚©‚µ‚È’j’B‚É¬‚¶‚Á[r]
-‚ÄA—S“ñ‚ªŒÜ\—’ƒTƒ“‚ğ”Æ‚µ‚Ä‚¢‚½‚Ì‚ğv‚¢o‚µ‚½B[pcms]
+I remembered just now, listening to those characteristics,[r]that Yuuji was assaulting Igarashi-san while mixed in with[r]those strange men.[pcms]
 
 *2369|
 [fc]
-‚ ‚Ì‚¨‚©‚µ‚È“z‚ç‚Í–\“k‚ÅA—S“ñ‚ÆŒÜ\—’ƒTƒ“‚ÍŠª‚«[r]
-‚Ü‚ê‚½ccH[pcms]
+Are those strange guys the rioters, and Yuuji and Igarashi-[r]san got caught up in it...?[pcms]
 
 *2370|
 [fc]
-[ns]‰Á“¡[nse]
-u—S“ñ’Bcc‚à‚µ‚©‚µ‚Äccv[pcms]
+[ns]Kato[nse]
+Yuuji and the others... Could it be...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v937|
 [fc]
 [vo_ya s="yama0293"]
-[ns]RŠİ[nse]
-uƒgƒ‚‚¿‚á‚ñccv[pcms]
+[ns]Yamagishi[nse]
+Tomo-chan...[pcms]
 
 *2371|
 [fc]
-RŠİ‚³‚ñ‚¾‚¯‚¶‚á‚È‚­A^–ç‚Ü‚ÅP‚í‚ê‚½‚±‚Æ‚ğl‚¦‚é[r]
-‚ÆA–T‚É‚¢‚élŠÔ‚ğ’N”Ş\‚í‚¸P‚¤‚Æ‚¢‚¤ˆÓ–¡‚Å‚ÍAU[r]
-Œ‚“I‚¾‚Æ‚¢‚¦‚éB[pcms]
+Considering that not only Yamagishi-san, but even Shinya was[r]attacked, it can be said that they are aggressive in the[r]sense that they indiscriminately attack anyone around them.[pcms]
 
 *2372|
 [fc]
-P‚í‚ê‚½“––Ò‚Ì^–ç‚ğŒ©‚é‚ÆA“¦‚°‚é‚½‚ß‚É’j‚ğ‰£‚Á[r]
-‚½‚É•‰‚Á‚½è‚Ì‰ö‰ä‚ğA’É‚»‚¤‚É’­‚ß‚Ä‚¢‚½B[pcms]
+I watched Shinya, the person who was attacked, as he looked[r]at his injured hand that he hurt when he punched a man to[r]escape, with a pained expression.[pcms]
 
 
 ;	/*
@@ -155,6 +145,6 @@
 ;	[trans_c cross time=150]
 ;	*/
 
-;//[02123]‚Ö
+;//[02123]ã¸
 [jump target=*02123_TOP storage="02123.ks"]
 

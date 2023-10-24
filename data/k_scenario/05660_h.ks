@@ -1,19 +1,19 @@
 
-;//¡ËƒuƒƒbƒN05660w‹¶‹C•Px
-;//;//BG:ŠwHF’©GÁ“”
-;//“oêl•¨GålŒöEŠ´õ—D
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05660ã€ç‹‚æ°—å§«ã€
+;//;//BG:å­¦é£Ÿï¼šæœï¼›æ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»æ„ŸæŸ“å„ª
 
 *05660_H_TOP
-;[debug_win]‚È‚¤@05660_H[debug_win_end]
+;[debug_win]ãªã†ã€€05660_H[debug_win_end]
 
 *05660
 
-;*SceneSet|w‹¶‹C•Px
+;*SceneSet|ã€ç‹‚æ°—å§«ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05660 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05660 = 1"]
 
-;//flag:“µƒ‹[ƒgƒtƒ[@‚P‚P@•\¦
-;//ôFBGM–³‚µ
+;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼‘ï¼‘ã€€è¡¨ç¤º
+;//â™ªï¼šBGMç„¡ã—
 [fadeoutbgm time=500]
 
 ;//BG:bg14a
@@ -22,21 +22,20 @@
 
 *6004|
 [fc]
-p¨‚ğ‚³‚ç‚É’á‚­‚µ‚ÄAü‚è‚Ì‰¹‚É¨‚ğŸ‚Ü‚¹‚é‚ÆA[r]
-Ÿ‚É•·‚±‚¦‚Ä‚«‚½‚Ì‚ÍAŠo‚¦‚Ì‚ ‚éº‚¾‚Á‚½B[pcms]
+I lowered my posture even further and listened carefully to[r]the sounds around me.[l][er]
+The next thing I heard was a familiar voice.[pcms]
 
 *v2482|
 [fc]
 [vo_ya s="yama0835"]
-[ns]RŠİ[nse]
-u‚¾‚êA‚©cc‚¢‚ÈA‚¢‚Ì`ccv[pcms]
+[ns]Yamagishi[nse]
+Who... is it? Is someone... here~...[pcms]
 
 *6005|
 [fc]
-RŠİ‚³‚ñccH[r]
-RŠİ‚³‚ñ‚È‚Ì‚©ccH[pcms]
+Yamagishi-san...? Is it Yamagishi-san...?[pcms]
 
-;//ôFBGM004ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM004ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 
 [bgm004]
 ;	/*
@@ -45,34 +44,35 @@
 ;	[ChrSetParts layer=1 chface="yuu_c_a_02"]
 ;	[trans_c cross time=150]
 ;	*/
-;—§‚¿
+;ç«‹ã¡
 
 *v2483|
 [fc]
 [vo_ya s="yama0836"]
-[ns]RŠİ[nse]
-u‚©‚ÆA‚¤A‚­`‚ñcc‚½A‚·‚¯‚ªA‚«‚½A‚æ`cc‚İ[r]
-‚ñ‚ÈA‚ÅA‚¨‚¤A‚¿A‚©A‚¦‚ë`ccv[pcms]
+[ns]Yamagishi[nse]
+Kato, u, ku~n... Ta, Suke ga, kita, yo~...[l][er]
+Minna, de, ou, chi, ka, ero~...[l][er]
+Yamagishi: Kato, u, ku~n... Ta, Suke has come...[l][er]
+Everyone, let's go back to the house and have some fun~...[pcms]
+[l][er]
 
 *6008|
 [fc]
-Šm‚©‚ÉAº‚Í‰´‚Ì’m‚Á‚Ä‚¢‚éRŠİ‚³‚ñ‚Ì‚à‚ÌccB[r]
-‚µ‚©‚µcc’‚è•û‚Í‘S‘R•Ê•¨‚¾‚Á‚½B[pcms]
+Certainly, the voice was Yamagishi-san's that I know...[l][er]
+However... the way of speaking was completely different.[pcms]
 
 
 *6009|
 [fc]
-RŠİ‚³‚ñ‚ÍA‚±‚ñ‚È‚¨‚©‚µ‚È’‚è•û‚µ‚È‚¢B[pcms]
+Yamagishi-san doesn't speak in such a strange way.[pcms]
 
 *6010|
 [fc]
-‚Å‚àcc‰´‚É‚ÍA•Ê‚ÌlŠÔ‚Å“¯‚¶‚æ‚¤‚È’‚è•û‚ğ‚µ‚Ä‚¢[r]
-‚½l•¨‚ÉAS“–‚½‚è‚ª‚ ‚Á‚½B[pcms]
+But... I had a feeling of familiarity with someone who spoke[r]in a similar way but was a different person.[pcms]
 
 *6011|
 [fc]
-ŒÜ\—’ƒTƒ“‚¾ccB[r]
-“n‚è˜L‰º‚ÅŒ©‚½‚ÌAŒÜ\—’ƒTƒ“‚Ì’‚è•ûccB[pcms]
+It's Igarashi-san... The way Igarashi-san spoke when I saw[r]her in the corridor...[pcms]
 
 ;	/*
 ;	[ChrSetEx layer=1 chbase="yuu_c_a_01"]
@@ -80,81 +80,82 @@
 ;	[ChrSetParts layer=1 chface="yuu_c_a_02"]
 ;	[trans_c cross time=150]
 ;	*/
-;—§‚¿
+;ç«‹ã¡
 
 *v2484|
 [fc]
 [vo_ya s="yama0837"]
-[ns]RŠİ[nse]
-u‚©‚ÆA‚¤A‚­`‚ñcc‚½A‚·‚¯‚ªA‚«‚½A‚æ`cc‚İ[r]
-‚ñ‚ÈA‚ÅA‚¨‚¤A‚¿A‚©A‚¦‚ë`ccv[pcms]
+[ns]Yamagishi[nse]
+Ka-to, u, ku~n... Ta, Suke ga kita yo~...[l][er]
+Minna, de, ou, chi, ka, ero~...[l][er]
+Yamagishi: Kato, u, ku~n... Ta, Suke has come...[l][er]
+Everyone, let's go back to the house and have some fun~...[pcms]
+[l][er]
 
 *6014|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *6015|
 [fc]
-RŠİ‚³‚ñ‚Í—}—g‚Ì‚È‚¢’‚è•û‚ÅA‰ó‚ê‚½ƒIƒ‚ƒ`ƒƒ‚Ì‚æ‚¤[r]
-‚ÉA“¯‚¶‚±‚Æ‚ğŒJ‚è•Ô‚µ‚Ä‚¢‚éBV“¹æ¶‚ÍA‚¨‚©‚µ‚­[r]
-‚È‚Á‚½‚çŒ³‚É–ß‚·•û–@‚Í‚È‚¢‚Á‚ÄŒ¾‚Á‚Ä‚½ccB[pcms]
+Yamagishi-san speaks in a monotone voice, repeating the same[r]thing like a broken toy.[l][er]
+Shindou-sensei said there's no way to fix her if she becomes[r]strange...[pcms]
 
 *6016|
 [fc]
-‚Å‚àA‘‚¾‚Á‚ÄÚ‚µ‚¢‚±‚Æ‚Í‚í‚©‚Á‚Ä‚È‚¢‚ñ‚¾ccB[r]
-•ú‚Á‚Ä‚¨‚¢‚½‚çAŒ³‚É–ß‚é‚Ì‚©‚à‚µ‚ê‚È‚¢‚æ‚ÈccB[pcms]
+But even the country doesn't know the details...[l][er]
+If we leave her alone, she might return to normal...[pcms]
 
 *6017|
 [fc]
-‚à‚µ‚©‚µ‚½‚çRŠİ‚³‚ñ‚ÍA‚à‚¤Œ³‚É–ß‚Á‚Ä‚é‚Ì‚©‚à‚µ‚ê[r]
-‚È‚¢ccB[r]
-‚½‚¾A’‚è•û‚ª‚¨‚©‚µ‚¢‚¾‚¯‚ÅccB[pcms]
+Maybe Yamagishi-san has already returned to normal...[l][er]
+It's just her way of speaking that's strange...[pcms]
 
 *v2485|
 [fc]
 [vo_ya s="yama0838"]
-[ns]RŠİ[nse]
-u‚¾‚êA‚©cc‚¢‚ÈA‚¢‚Ì`ccv[pcms]
+[ns]Yamagishi[nse]
+Who... is... here~...[pcms]
 
 *6018|
 [fc]
-[ns]‰Á“¡[nse]
-uRŠİ‚³‚ñccv[pcms]
+[ns]Kato[nse]
+Yamagishi-san...[pcms]
 
 [if exp="tf.scene_mode == 1"][jump target=*SEL00_YES][endif]
 
-;//¦‘I‘ğˆ
-;//E‚¢‚âcc‚±‚Ì‚Ü‚Ü‚â‚è‰ß‚²‚»‚¤;//[05670]‚Ö
-;//Eº‚ğ‚©‚¯‚ÄAŠm”F‚µ‚Ä‚İ‚æ‚¤cc;//[07300]‚Ö
+;//â€»é¸æŠè‚¢
+;//ãƒ»ã„ã‚„â€¦â€¦ã“ã®ã¾ã¾ã‚„ã‚Šéã”ãã†;//[05670]ã¸
+;//ãƒ»å£°ã‚’ã‹ã‘ã¦ã€ç¢ºèªã—ã¦ã¿ã‚ˆã†â€¦â€¦;//[07300]ã¸
 
 ;//<SltDel ALL>
-;//<SltAdd 0ƒJƒ“ƒ}SEL00_05660_NOƒJƒ“ƒ}‚¢‚âcc‚±‚Ì‚Ü‚Ü‚â‚è‰ß‚²‚»‚¤>
-;//<SltAdd 1ƒJƒ“ƒ}SEL00_05660_YESƒJƒ“ƒ}º‚ğ‚©‚¯‚ÄAŠm”F‚µ‚Ä‚İ‚æ‚¤cc>
+;//<SltAdd 0ã‚«ãƒ³ãƒSEL00_05660_NOã‚«ãƒ³ãƒã„ã‚„â€¦â€¦ã“ã®ã¾ã¾ã‚„ã‚Šéã”ãã†>
+;//<SltAdd 1ã‚«ãƒ³ãƒSEL00_05660_YESã‚«ãƒ³ãƒå£°ã‚’ã‹ã‘ã¦ã€ç¢ºèªã—ã¦ã¿ã‚ˆã†â€¦â€¦>
 ;//<SltRun>
 
 
 
-*SEL01|‚¢‚âcc‚±‚Ì‚Ü‚Ü‚â‚è‰ß‚²‚»‚¤^º‚ğ‚©‚¯‚ÄAŠm”F‚µ‚Ä‚İ‚æ‚¤
+*SEL01|ã„ã‚„â€¦â€¦ã“ã®ã¾ã¾ã‚„ã‚Šéã”ãã†ï¼å£°ã‚’ã‹ã‘ã¦ã€ç¢ºèªã—ã¦ã¿ã‚ˆã†
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '‚¢‚âcc‚±‚Ì‚Ü‚Ü‚â‚è‰ß‚²‚»‚¤'"]
-[eval exp="f.seltext04 = 'º‚ğ‚©‚¯‚ÄAŠm”F‚µ‚Ä‚İ‚æ‚¤cc'"]
+[eval exp="f.seltext02 = 'ã„ã‚„â€¦â€¦ã“ã®ã¾ã¾ã‚„ã‚Šéã”ãã†'"]
+[eval exp="f.seltext04 = 'å£°ã‚’ã‹ã‘ã¦ã€ç¢ºèªã—ã¦ã¿ã‚ˆã†â€¦â€¦'"]
 
 
-[if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
-	;‘I‘ğˆ“à—e‚ğƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
+[if exp="tf.sys_sub == 0 || tf.é¸æŠè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
+	;é¸æŠè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[—š—ğo—Í•œ‹A]
+[å±¥æ­´å‡ºåŠ›å¾©å¸°]
 
-;‘I‘ğˆƒx[ƒX
+;é¸æŠè‚¢ãƒ™ãƒ¼ã‚¹
 [selbase]
-;•¶š‚Ì¶ƒ}[ƒWƒ“
+;æ–‡å­—ã®å·¦ãƒãƒ¼ã‚¸ãƒ³
 [eval exp="sf.seltext_x = 200"]
 
 [sel02 target=*SEL00_iya]

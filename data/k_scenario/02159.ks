@@ -1,27 +1,27 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02159wŒ¾‚í‚È‚¢x
-;//BG:‰®ãF–é
-;//“oêl•¨GålŒöE—D
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02159ã€è¨€ã‚ãªã„ã€
+;//BG:å±‹ä¸Šï¼šå¤œ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02159_TOP
-;[debug_win]‚È‚¤@02159[debug_win_end]
+;[debug_win]ãªã†ã€€02159[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02159 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02159 = 1"]
 
-;*SceneSet|wŒ¾‚í‚È‚¢x
+;*SceneSet|ã€è¨€ã‚ãªã„ã€
 
-;//flag:ƒf[ƒg‚Ì–ñ‘©‚ğ‚µ‚Ä‚¢‚È‚¢B
+;//flag:ãƒ‡ãƒ¼ãƒˆã®ç´„æŸã‚’ã—ã¦ã„ãªã„ã€‚
 
 [eval exp="f.NO_DATE = 1"]
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 
 [fadeoutbgm time=500]
 
-;//SE:’‚Ì‰¹@ƒ‹[ƒv
+;//SE:è™«ã®éŸ³ã€€ãƒ«ãƒ¼ãƒ—
 
 [se0 storage="se018" loop=true]
 
@@ -34,24 +34,22 @@
 
 *2921|
 [fc]
-Œ¨‚É“ª‚ğæ‚¹‚Ä‚«‚½‚Ì‚ğŠ´‚¶‚ÄARŠİ‚³‚ñ‚ğŒ©‚é‚ÆA”Ş[r]
-—‚Í–°‚Á‚Ä‚µ‚Ü‚Á‚Ä‚¢‚½B[pcms]
+I felt someone resting their head on my shoulder, and when I[r]looked at Yamagishi-san, she had fallen asleep.[pcms]
+[l][er]
 
 *v1144|
 [fc]
 [vo_ya s="yama0432"]
-[ns]RŠİ[nse]
-uccccv[pcms]
+[ns]Yamagishi[nse]
+â€¦â€¦â€¦â€¦[l][er]
 
 *2922|
 [fc]
-Å‰‚Ìƒf[ƒg‚É‚Ç‚±‚És‚«‚½‚¢‚©A”Ş—‚É•·‚¢‚Ä‚İ‚æ‚¤[r]
-‚ÆA‰´‚Íˆêul‚¦‚½B[pcms]
+I briefly thought about asking her where she would like to[r]go on our first date.[pcms]
 
 *2923|
 [fc]
-‚¾‚ª‚»‚ê‚æ‚è‚à¡‚ÍA‘z‚¢‚ª’Ê‚¶‡‚Á‚½K‚¹‚ÉA‘Sg‚Å[r]
-Z‚Á‚Ä‚¢‚½‚©‚Á‚½B[pcms]
+But more than that, right now, I wanted to fully immerse[r]myself in the happiness of our feelings being understood by[r]each other.[pcms]
 
-;//[02160]‚Ö
+;//[02160]ã¸
 [jump target=*02160_TOP storage="02160.ks"]

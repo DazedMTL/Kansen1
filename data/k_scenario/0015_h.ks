@@ -1,15 +1,15 @@
 
-;//¡ËƒuƒƒbƒN0015wŒÜ\—’‰Æ‚ÌSŒ€x
-;//‚g-EVENT001
-;//BG:•ü”ü‚Ì©‘îEƒŠƒrƒ“ƒO
-;//ŠÔF—[•û
-;//“oêƒLƒƒƒ‰ƒNƒ^[F•ü”ü‚Ì•êeE•ü”ü‚Ì–…E’j«ƒ]ƒ“ƒr
-;//‚S–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0015ã€äº”ååµå®¶ã®æƒ¨åŠ‡ã€
+;//ï¼¨-EVENT001
+;//BG:æœ‹ç¾ã®è‡ªå®…ãƒ»ãƒªãƒ“ãƒ³ã‚°
+;//æ™‚é–“ï¼šå¤•æ–¹
+;//ç™»å ´ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼ï¼šæœ‹ç¾ã®æ¯è¦ªãƒ»æœ‹ç¾ã®å¦¹ãƒ»ç”·æ€§ã‚¾ãƒ³ãƒ“
+;//ï¼”å
 
 *0015_H_TOP
-;[debug_win]‚È‚¤@0015_H[debug_win_end]
+;[debug_win]ãªã†ã€€0015_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [eval exp="sf.SRP01 = 1"][if exp="tf.scene_mode == 0"][jump target=*0015][endif]
 ;;[winset]
 [jump target=*scene_start]
@@ -17,13 +17,13 @@
 
 
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *0015
 
@@ -37,64 +37,62 @@
 
 *0015_PLAY
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0015 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0015 = 1"]
 
-;*SceneSet|wŒÜ\—’‰Æ‚ÌSŒ€x
+;*SceneSet|ã€äº”ååµå®¶ã®æƒ¨åŠ‡ã€
 
-;//flag:ƒvƒƒ[ƒOSKIP on
+;//flag:ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°SKIP on
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 [fadeoutbgm time=500]
 
-;//;//BG:bg–³‚µ
+;//;//BG:bgç„¡ã—
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//;//SE:“d˜b‚ÌƒR[ƒ‹‰¹
+;//;//SE:é›»è©±ã®ã‚³ãƒ¼ãƒ«éŸ³
 [se0 storage="se013" loop=true]
 
 *347|
 [fc]
-•ü”ü‚ª©‘î‚É“d˜b‚ğ‚µ‚½ÛA‰Æ‚É‚¢‚é‚Í‚¸‚Ì‰Æ‘°‚ª“d˜b[r]
-‚Éo‚È‚¢‚Ì‚É‚Í——R‚ª‚ ‚Á‚½B[pcms]
+There was a reason why Tomomi's family, who should have been[r]at home, didn't answer the phone when she called.[pcms]
 
 *348|
 [fc]
-“d˜b‚Éo‚ç‚ê‚È‚¢‚Ç‚±‚ë‚©A“®‚­‚±‚Æ‚·‚ç‹–‚³‚ê‚È‚©‚Á[r]
-‚½——R‚ªB[pcms]
+The reason why she couldn't answer the phone, let alone[r]move.[pcms]
 
-;//;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
+;//;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
 [se1 storage="se059" loop=true]
 
 *v125|
 [fc]
 [vo_mob s="imo_0001"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚¢‚â‚Ÿ‚ ‚ ‚ IIv[pcms]
+[ns]Tomomi's younger sister[nse]
+Nooo!![pcms]
 
 *v126|
 [fc]
 [vo_mob s="haha0001"]
-[ns]•ü”ü‚Ì•ê[nse]
-u‚ñ‚Í‚Ÿccv[pcms]
+[ns]Tomomi's mother[nse]
+Mmm...[pcms]
 
 *v127|
 [fc]
 [vo_mob s="imo_0002"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚¨•ê‚³‚ñcc•‚¯‚ÄƒFccIv[pcms]
+[ns]Tomomi's younger sister[nse]
+Mom... help me...![pcms]
 
 [stop_se0]
 
-;//H_CG:•ê‚ªƒ]ƒ“ƒr‚ÉƒŒƒCƒv‚³‚ê‚Ä‚¢‚é
+;//H_CG:æ¯ãŒã‚¾ãƒ³ãƒ“ã«ãƒ¬ã‚¤ãƒ—ã•ã‚Œã¦ã„ã‚‹
 
 
 *scene_start
 
-;//ôFBGM02
+;//â™ªï¼šBGM02
 [bgm002]
 
 [evcg storage="HEV_001_a"]
@@ -104,32 +102,31 @@
 ;;;[sysbt_meswin]
 
 
-;//;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
-;//Ä¶Ï‚İ
-;//;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
+;//;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//å†ç”Ÿæ¸ˆã¿
+;//;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
 [overflow_se storage="se060"]
 
 *v128|
 [fc]
 [vo_mob s="haha0002"]
-[ns]•ü”ü‚Ì•ê[nse]
-u‚¨‚Ô‚Áƒbc‚ñ‚Ô‚£‚Áccv[pcms]
+[ns]Tomomi's mother[nse]
+O-bu... n-buu...[pcms]
 
 *349|
 [fc]
-[ns]’j‚`[nse]
-u‚®‚ÓA‚Ócc‚¤A‚Öccv[pcms]
+[ns]Man A[nse]
+Ugh, fu... uh, heh...[pcms]
 
 *350|
 [fc]
-[ns]’j‚a[nse]
-u‚ `cc‚Ğcc‚Ğ‚´cc‚¤‚çcc‚·‚×‚·c‚×ccv[pcms]
+[ns]Male B[nse]
+Ah... hi... knee... back... smooth...[l][er]
+be...[pcms]
 
 *351|
 [fc]
-–º‚ª•‚¯‚ğ‹‚ß‚½•ê‚ÍA–º‚Æ“¯‚¶—l‚ÉAŒ©‚à’m‚ç‚ÊA‹•[r]
-‚ë‚È–Ú‚ğ‚µ‚½A³‹C‚ğ¸‚Á‚Ä‚µ‚Ü‚Á‚½‚©‚Ì‚æ‚¤‚È’j’B‚É[r]
-‚æ‚Á‚ÄAg‘Ì‚Ì‚ ‚ç‚ä‚é•”•ª‚ğ”Æ‚³‚ê‚Ä‚¢‚½B[pcms]
+The mother who sought help for her daughter, just like her[r]daughter, was violated in every part of her body by men with[r]vacant, unfamiliar eyes, as if they had lost their sanity.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -143,8 +140,7 @@
 
 *352|
 [fc]
-ŒûoA”é“´‚ÍÇ‚ª‚êA“û–[AãüA‘¾‘Ú‚È‚ÇAŠ‚éŠ‚É“÷[r]
-–e‚ğC‚è‚Â‚¯‚ç‚êAÏ‚¦‚½‰˜‰t‚ğ“f‚«‚©‚¯‚ç‚ê‚Ä‚¢‚éB[pcms]
+The mouth, secret hole, breasts, armpits, thighs, and every[r]part of the body were rubbed with flesh and covered in[r]boiling filthy liquid.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -159,61 +155,58 @@
 
 *353|
 [fc]
-“¦‚ê‚æ‚¤‚Ì‚È‚¢â–]‚Ì’†‚É‚ ‚Á‚ÄA‚»‚ê‚Å‚à–º‚ÍA[r]
-’N‚©‚É•‚¯‚ğ‹‚ß‚¸‚É‚Í‚¢‚ç‚ê‚È‚©‚Á‚½B[pcms]
+In the midst of an inescapable despair, the daughter[r]couldn't help but seek help from someone.[pcms]
 
 *v129|
 [fc]
 [vo_mob s="imo_0003"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚¨‚©cc‚³cc‚¤‚Ÿcc‚ ‚Ÿ`ccv[pcms]
+[ns]Tomomi's younger sister[nse]
+Oka... sa... uah... ahh~...[pcms]
 
 *354|
 [fc]
-[ns]’j‚`[nse]
-u‚ A‚Ü‚½cc‚ÅA‚Å‚écc‚¤‚¤‚¤ccv[pcms]
+[ns]Man A[nse]
+Ah, again... I'm... I'm going to...[l][er]
+ugh...[pcms]
 
 *v130|
 [fc]
 [vo_mob s="imo_0004"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚ ‚ŸAƒCƒ„‚ÁI@Œ™‚ ‚Ÿ‚ŸI[r]
-•‚¯‚Äcc•‚¯‚Ä‚¦‚ÁIIv[pcms]
+[ns]Tomomi's younger sister[nse]
+Ah, no! I don't want this! Help...[l][er]
+help me!![pcms]
 
 *355|
 [fc]
-‚±‚ê‚Å‰½“x–Ú‚¾‚ë‚¤‚©B[pcms]
+I wonder how many times it has been with this.[pcms]
 
 *356|
 [fc]
-”é“´‚Ì’†‚É‰˜‰t‚ª—¬‚µ‚Ü‚ê‚é‚Ì‚ğŠ´‚¶A[r]
-‚»‚Ì‚¨‚¼‚Ü‚µ‚­A‚»‚µ‚Ä”M‚¢Š´Šo‚ÉA•ê‚Íg‚ğk‚í‚¹‚½B[pcms]
+The mother trembled as she felt the filthy liquid being[r]poured into her secret hole, experiencing the repulsive and[r]scorching sensation.[pcms]
 
 *357|
 [fc]
-[ns]’j‚b[nse]
-u‚¨ccc‚¨‚êc‚Æ‚µc‚¤cc‚¦c‚ªcc[r]
-‚·c‚«‚È‚ñcc‚¾c‚æ‚§v[pcms]
+[ns]Male C[nse]
+I... I... love... you... so much...[pcms]
 
 *v131|
 [fc]
 [vo_mob s="haha0003"]
-[ns]•ü”ü‚Ì•ê[nse]
-u‚ñ‚Ácc‚ñ‚®A‚ñ‚Şcc‚Õ‚Íccv[pcms]
+[ns]Tomomi's mother[nse]
+Nn... ngu, nmu... pufa...[pcms]
 
 *358|
 [fc]
-[ns]’j‚a[nse]
-u‚Ğ‚´cc‚Ğc‚´ccv[pcms]
+[ns]Male B[nse]
+Knee... k... knee...[pcms]
 
 *359|
 [fc]
-–º‚Ì‹©‚Ñ‚ğ–³‹‚µ‚ÄAŒû“à‚É•ú‚½‚ê‚½‚à‚Ì‚ğˆù‚İŠ±‚µA[r]
-O‚Éc‚Á‚½‰˜‰t‚ğã‚Åär‚ßæ‚èA–ù‰x‚Ì•\î‚ğ•‚‚©‚×‚éB[pcms]
+Ignoring the daughter's screams, they swallowed what was[r]released into their mouth, licked the remaining filth on[r]their lips with their tongue, and wore an expression of[r]pleasure.[pcms]
 
 *360|
 [fc]
-‚»‚Ì•ê‚Ì“µ‚Í¨‚­A‚à‚Í‚âŒõ‚Í¸‚í‚ê‚Ä‚¢‚½B[pcms]
+Her mother's eyes were dim, and the light had already been[r]lost.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -227,134 +220,130 @@
 *v132|
 [fc]
 [vo_mob s="haha0004"]
-[ns]•ü”ü‚Ì•ê[nse]
-u‚Í‚Ÿcc‚Ğ‚³‚µ‚Ô‚è‚Ì¸‰tcc‚à‚Á‚ÆccA‚à‚Á‚Æ‚¿[r]
-‚å‚¤‚¾‚¢ccv[pcms]
+[ns]Tomomi's mother[nse]
+Haa... it's been a while since I've had semen...[l][er]
+more... give me more...[pcms]
 
 *361|
 [fc]
-[ns]’j‚`[nse]
-u‚âcc‚â‚í‚çcc‚¯‚¥cc‚±‚Ècc‚êc‚Ä‚ñcc‚Èc[r]
-‚¨‚Ü‚¦cc‚Ìcc‚ÜA‚Ü‚ñcc‚±ccv[pcms]
+[ns]Man A[nse]
+So... soft... it's coming... in...[l][er]
+your... pu... pussy...[pcms]
 
 *362|
 [fc]
-•ê‚Í”è‚Å’j’B‚Ìë“ƒ‚ğˆ¬‚èA‚µ‚²‚«‚ ‚°‚È‚ª‚çAë“ª[r]
-‚Éã‚ğ‰‚ß‚©‚µ‚­”‡‚¢‚¸‚ç‚¹‚éB[pcms]
+The mother grasped the men's erect shafts with both hands,[r]stroking them while sensually teasing the tips with her[r]tongue.[pcms]
 
 *363|
 [fc]
-[ns]’j‚b[nse]
-u‚Ü‚¾cc‚Å‚éA‚¼cc‚à‚Á‚ÆA‚¢‚â‚çcc‚µ‚­cc‚µ[r]
-‚½‚ğcc‚Â‚©cc‚Ácc‚Äccv[pcms]
+[ns]Male C[nse]
+Not yet... it's coming... more...[l][er]
+more obscenely... use your... hand...[pcms]
 
 *v133|
 [fc]
 [vo_mob s="haha0005"]
-[ns]•ü”ü‚Ì•ê[nse]
-u‚ñ‚Ácc‚ñ‚ñ‚Ácc‚ñ‚Í‚Ÿ‚ÁI@cc‚¿‚ñ‚Û‚§II@[r]
-‚±‚ñ‚È‚ÉA‚½‚­‚³‚ñccv[pcms]
+[ns]Tomomi's mother[nse]
+Nn... nn... nhaa! ... Dick!! So much of it...[pcms]
 
 *v134|
 [fc]
 [vo_mob s="imo_0005"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚¨•êcc‚³‚ñccHv[pcms]
+[ns]Tomomi's younger sister[nse]
+Mom...?[pcms]
 
 *v135|
 [fc]
 [vo_mob s="haha0006"]
-[ns]•ü”ü‚Ì•ê[nse]
-u‚È‚Éc‚ğcc‚¢‚â‚ª‚Á‚Ä‚é‚Ìcc‚à‚Á‚½‚¢‚È‚¢ccB[r]
-‚¢‚ç‚È‚¢‚È‚çA‚»‚Ìc‚¿‚ñ‚Û‚½‚¿A‚º‚ñ‚ÔA‚¨•ê‚³‚ñ‚É[r]
-cc‚¿‚å‚¤‚¾‚¢ccHv[pcms]
+[ns]Tomomi's mother[nse]
+What... are you... resisting...?[l][er]
+Such a waste... If you don't need it, then...[l][er]
+all of those... dicks, please give them to mommy...[l][er]
+okay...?[pcms]
 
 *364|
 [fc]
-•ê‚ÌAŒ©‚½‚±‚Æ‚à‚È‚¢‚æ‚¤‚È‚¢‚â‚ç‚µ‚¢Î‚İ‚ªM‚¶‚ç‚ê[r]
-‚¸A–º‚Í•‚¯‚ğŒÄ‚Ôº‚à¸‚Á‚Ä‚µ‚Ü‚Á‚½B[pcms]
+The daughter lost her voice to call for help, unable to[r]believe the mother's lewd smile that she had never seen[r]before.[pcms]
 
 *365|
 [fc]
-[ns]’j‚`[nse]
-u‚¨‚¨A‚¨A‚¨‚­cc‚ªcc‚ ‚½‚Ácc‚½ccv[pcms]
+[ns]Man A[nse]
+Oh, o, oku... ga... atat... ta...[pcms]
 
 *366|
 [fc]
-[ns]’j‚c[nse]
-u‚Å‚¯‚¥cc‚Ş‚Ëcc‚¾cc‚ÂA‚Â‚Â‚Ü‚êcc‚éccv[pcms]
+[ns]Male D[nse]
+It's big... my chest... is... being...[l][er]
+squeezed...[pcms]
 
 *v136|
 [fc]
 [vo_mob s="haha0007"]
-[ns]•ü”ü‚Ì•ê[nse]
-u‚­A‚Ÿcc‚ ‚Ÿ‚ÁccI@‚¨A‚¨‚Á‚Ï‚¢II@‚¨‚Á‚Ï[r]
-‚¢‚ÉA‚ ‚Â‚¢‚Ì‚ª‚Ÿ‚ ‚ÁII@‚à‚Á‚Æ‚§cc‚à‚Á‚ÆA‚¨[r]
-‚µ‚Â‚¯‚Ä‚¥IIv[pcms]
+[ns]Tomomi's mother[nse]
+Kuh, ah... aahh...! Bo... boobs!![l][er]
+Something hot is on my boobs!![l][er]
+More... more, press them harder!![pcms]
 
 *v137|
 [fc]
 [vo_mob s="imo_0006"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚¢‚â‚ ‚Ÿcc‚àcc‚â‚ß‚Ä‚¥ccv[pcms]
+[ns]Tomomi's younger sister[nse]
+No... sto... stop...[pcms]
 
 *367|
 [fc]
-‚Ü‚½ë“ƒ‚É‰Ÿ‚µ“ü‚ç‚êA•ê‚Í‰x‚Ñ‚Ìº‚ğA–º‚Íâ–]‚Ìº[r]
-‚ğ‚ ‚°‚½B[pcms]
+The mother let out a voice of pleasure as she was penetrated[r]by the erect shaft once again, while the daughter cried out[r]in despair.[pcms]
 
 *v138|
 [fc]
 [vo_mob s="haha0008"]
-[ns]•ü”ü‚Ì•ê[nse]
-u‚ ‚Ÿ‚ÁccI@‚¢‚¡‚ÁA‚¢‚¡‚Ì‚§I[r]
-‚ ‚Ğ‚Ácc‚à‚Á‚Æ‚©‚«‚Ü‚í‚µ‚Ä‚¥cc‚ÁII[r]
-‚¨‚©‚µ‚Ä‚¥‚ÁIIv[pcms]
+[ns]Tomomi's mother[nse]
+Ahh...! It feels good, it feels so good![l][er]
+Ahh... stir it more...!! I want to cum...!![pcms]
 
 *368|
 [fc]
-–º‚ÍA–Ú‚Ì‘O‚Å—‚ê‹¶‚¤“÷e‚É‹C‚ğæ‚ç‚êA[r]
-’j’B‚ª©•ª‚ğS‘©‚·‚é–‚ÉA‹C‚ª•t‚©‚È‚©‚Á‚½B[pcms]
+The daughter, captivated by the sight of her depraved[r]relative in front of her, didn't notice the men restraining[r]her.[pcms]
 
 *369|
 [fc]
-[ns]’j‚d[nse]
-u‚¨‚Ücc‚¨‚Ü‚¦cc‚¿‚á‚ñ‚ÆA‚ß‚µcc‚­‚Á‚Äcc‚ñ[r]
-‚Ìcc‚©ccB‚¿cc‚¿‚¢‚¿‚¥cc‚¦cc‚Èccv[pcms]
+[ns]Male E[nse]
+You... did you... eat your meal properly?[l][er]
+You... you're so... small...[pcms]
 
 *370|
 [fc]
-[ns]’j‚e[nse]
-u‚¨A‚¨‚êcc‚¢‚¿A‚¢‚¿‚Î‚ñcc‚Ì‚èccv[pcms]
+[ns]Male F[nse]
+I... I'm... the first... to...[pcms]
 
 [stop_overflow_se]
 
-;//ôFBGM002ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM002ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 [fadeoutbgm time=500]
 
-;//H_CG:•ü”ü‚Ì–…‚ªˆÍ‚Ü‚ê‚Ä‚¢‚é
+;//H_CG:æœ‹ç¾ã®å¦¹ãŒå›²ã¾ã‚Œã¦ã„ã‚‹
 
 [sysbt_meswin clear]
 
 
 [evcg storage="HEV_002_a"]
 [trans_c cross time=500]
-;CG‚©‚çCG‚¾‚Æ‘Ò‚¿“ü‚ç‚È‚¢‚©‚çè‘Å‚¿‚·‚é‚µ‚©‚È‚¢‚©‚Ÿ
+;CGã‹ã‚‰CGã ã¨å¾…ã¡å…¥ã‚‰ãªã„ã‹ã‚‰æ‰‹æ‰“ã¡ã™ã‚‹ã—ã‹ãªã„ã‹ã
 [wait_c time=500]
 
 ;;;[sysbt_meswin]
 
-;//ôFBGM003
+;//â™ªï¼šBGM003
 [bgm003]
 
-;//;//SE:‘}“ü
+;//;//SE:æŒ¿å…¥
 [se0 storage="se058"]
 
 *v139|
 [fc]
 [vo_mob s="imo_0007"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚¬‚¡‚ÁHIIIIIIv[pcms]
+[ns]Tomomi's younger sister[nse]
+Giiii?!?!!!!!![pcms]
 
 [flash_re]
 
@@ -365,63 +354,62 @@
 
 *371|
 [fc]
-‰½‚Ì‘OG‚ê‚à‚È‚­Aë“ƒ‚ªA‚Ü‚¾Œ˜‚­•Â‚¶‚½”à‚Ö‚ÆA‘Å[r]
-‚¿‚Ü‚ê‚éB[pcms]
+Without any warning, the tip is forcefully thrust into the[r]still tightly closed door.[pcms]
 
-;//;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
+;//;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
 [overflow_se storage="se061"]
 
 *v140|
 [fc]
 [vo_mob s="imo_0008"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚ cc‚¬‚¡‚¢‚ÁII@‚¢cc’É‚¢‚ÁIII@‚¢cc‚â[r]
-‚Ÿcc‚âA‚ßcc”²A‚¢‚ÄA‚¥ccv[pcms]
+[ns]Tomomi's younger sister[nse]
+Ah... giiii!! It... it hurts!![l][er]
+No... sto... stop, please... pull it out, ahh...[pcms]
 
 *372|
 [fc]
-[ns]’j‚e[nse]
-u‚¨‚¨`cc‚«cc‚«‚Âcc‚¢ccv[pcms]
+[ns]Male F[nse]
+Oh... it's... tight...[pcms]
 
 *373|
 [fc]
-[ns]’j‚d[nse]
-u‚¢cc‚¢‚¢cc‚È‚ cc‚¨A‚¨‚ê‚àcc‚¨‚êc‚Ìcc[r]
-‚àccv[pcms]
+[ns]Male E[nse]
+I... it's... good... I... mine...[l][er]
+too...[pcms]
 
 *v141|
 [fc]
 [vo_mob s="imo_0009"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚¢‚â‚ÁII@‚âA‚â‚ß‚ÄII@‚â‚ß‚Ä‚­‚¾‚³‚¢‚ÁII[r]
-‚¤‚¤‚ÁI@‚¢A‚¢‚â‚ŸccIIv[pcms]
+[ns]Tomomi's younger sister[nse]
+No!! S-Stop!! Please stop!! Ughh![l][er]
+N-No...!![pcms]
 
 *374|
 [fc]
-[ns]’j‚f[nse]
-u‚¤cc‚¤‚é‚¹‚¥cc‚¨A‚¨‚ñ‚Ècc‚¾ccv[pcms]
+[ns]Male G[nse]
+Ugh... Shut up... You're... a woman...[pcms]
 
 *375|
 [fc]
-[ns]’j‚g[nse]
-u‚Ó‚³‚¢A‚ÅA‚â‚éccv[pcms]
+[ns]Male H[nse]
+Hold on, let's do it...[pcms]
 
 *376|
 [fc]
-–º‚É‚àA•êe“¯—l‚ÉAb’B‚ªŒQ‚ª‚Á‚Ä‚­‚éB[pcms]
+The beasts flock to my daughter, just like they do to her[r]mother.[pcms]
 
 *v142|
 [fc]
 [vo_mob s="imo_0010"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚¤cc‚¢‚ÁA‚ ‚£‚ÁI@cc‚â‚ÁA‚â‚ŸccIIv[pcms]
+[ns]Tomomi's younger sister[nse]
+Ugh... ah, auu! ... Y-yaa...!![pcms]
 
 *v143|
 [fc]
 [vo_mob s="imo_0011"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚£‚®‚Ácc‚®‚¤‚£cc‚â‚Ÿcc”²‚¢‚Ä‚¥cc•‚¯‚ÄA[r]
-•‚¯‚ÄI@‚¨•ê‚³‚ñII@•‚¯‚Ä‚¥IIv[pcms]
+[ns]Tomomi's younger sister[nse]
+Ugh... guu... yaa... Pull it out...[l][er]
+Help me, help me! Mom!! Help me!![pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -434,34 +422,31 @@
 
 *377|
 [fc]
-•êe‚ÍA©•ª‚Ì–º‚É”—‚éŠë‹@‚ğA‚Ü‚é‚Å‹C‚É‚¹‚¸“÷—~‚É[r]
-‚¨‚Ú‚ê‚Ä‚¢‚éB[pcms]
+The mother, completely immersed in carnal desire, pays no[r]attention to the crisis approaching her own daughter.[pcms]
 
 *378|
 [fc]
-[ns]’j‚`[nse]
-u‚¨cc‚¨‚Ü‚¦cc‚¢A‚¢cc‚±‚µcc‚Ìcc‚Â‚©‚¢cc[r]
-‚©‚½cc‚·‚é‚¶‚ácc‚Ë‚¦cc‚©ccv[pcms]
+[ns]Man A[nse]
+Y-You... your... way of using...[l][er]
+your hips... isn't it... amazing?[pcms]
 
 *v144|
 [fc]
 [vo_mob s="haha0009"]
-[ns]•ü”ü‚Ì•ê[nse]
-u‚ ‚ÁA‚ `‚ÁI@‚ñ‚Ácc‚Í‚Ÿ‚ÁA‚Ğ‚ÁA‚ ‚Ÿ‚ÁI@[r]
-‚ `‚ÁI@‚­‚Ÿ‚Ácc‚±‚ê‚¥A‚±‚ê‚¢‚¡`ccB[r]
-‚©‚½‚¢‚Ì‚Å‚²‚è‚²‚è‚³‚ê‚Ä‚é‚£`ccv[pcms]
+[ns]Tomomi's mother[nse]
+Ah, ah~! Nn... haa, hi, aah! Ah~![l][er]
+Kuah... this, this feels so good~.[l][er]
+It's being rubbed so roughly because it's tight~...[pcms]
 
 *379|
 [fc]
-•”‰®‚Ì’†‚É‚Í‚Ş‚¹‚©‚¦‚é‚æ‚¤‚ÈA—N‚«o‚·ˆú`‚ÌŠÃ‚¢“õ[r]
-‚¢‚ÆA‰˜‰t‚Ì¶L‚¢L‚¢‚Ì¬‚¶‚Á‚½L‹C‚ª[‚¿–‚¿‚Ä‚¢[r]
-‚éB[pcms]
+The room is filled with a suffocating, sweet scent of[r]overflowing lewd juices, mixed with the foul odor of dirty[r]fluids.[pcms]
 
 *v145|
 [fc]
 [vo_mob s="haha0010"]
-[ns]•ü”ü‚Ì•ê[nse]
-u‚ ‚ÁA‚£‚ ‚Ácc‚¢‚¡`‚ÁI@‚ ‚Ÿ‚ÁIv[pcms]
+[ns]Tomomi's mother[nse]
+Ah, ugh... ii~! Aah![pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -475,8 +460,8 @@
 *v146|
 [fc]
 [vo_mob s="imo_0012"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚Ğcc‚­cc‚ ‚Áccv[pcms]
+[ns]Tomomi's younger sister[nse]
+Hii... ku... ah...[pcms]
 
 ;//redflash
 
@@ -487,41 +472,37 @@
 
 *380|
 [fc]
-–º‚ªšb‚¬AŠJ‚¯‚ç‚ê‚½Œûo‚ÉA‚ ‚Ô‚ê‚Ä‚¢‚½’j‚ªë“ƒ‚ğ[r]
-‚Ë‚¶‚ñ‚¾B[pcms]
+The daughter gasped, and the man who had been left out[r]forcefully thrust his tip into her open mouth.[pcms]
 
 *v147|
 [fc]
 [vo_mob s="imo_0013"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚ñ‚Ô‚£‚ÁII@‚¥‚¤‚Ácc‚ñ‚®cc‚¤‚Ô‚Áccv[pcms]
+[ns]Tomomi's younger sister[nse]
+Nbuu!! Euh... ngu... ubu...[pcms]
 
 *381|
 [fc]
-[ns]’j‚g[nse]
-u‚¨A‚¨‚¨A‚Êcc‚Ê‚é‚Êcc‚écc‚¾ccv[pcms]
+[ns]Male H[nse]
+O-Oh, nu... nuru... ru... da...[pcms]
 
 *382|
 [fc]
-[ns]’j‚f[nse]
-u‚¨cc‚¨‚êcc‚àcc‚­‚¿cc‚Éccv[pcms]
+[ns]Male G[nse]
+I... I also want... in my mouth...[pcms]
 
 *383|
 [fc]
-’j‚Í–º‚Ì“ª‚ğ—¼è‚Å’Í‚İA‚Ü‚é‚Å”é“´‚É“Ë‚«“ü‚ê‚Ä‚¢‚é[r]
-‚©‚Ì‚æ‚¤‚ÉA˜‚ğ‰•œ‚³‚¹‚éB[pcms]
+The man grabs the daughter's head with both hands and moves[r]his hips back and forth as if he were thrusting into her[r]secret hole.[pcms]
 
 *384|
 [fc]
-“ñ–{‚Ìë“ƒ‚ğˆê“x‚É‚Ë‚Ô‚è‚È‚ª‚çA‚»‚ê‚Å‚à‘«‚è‚È‚¢‚Æ[r]
-Š´‚¶‚Ä‚¢‚é‚Ì‚©AŒûo[‚­”Æ‚³‚ê‚Ä‚¢‚é–º‚ğA‘A‚Ü‚µ‚»[r]
-‚¤‚ÈŠá·‚µ‚ÅŒ©‚Â‚ß‚Ä‚¢‚éB[pcms]
+While licking two erect towers at once, and yet still[r]feeling unsatisfied, he gazes at his daughter who is being[r]violated deep in her oral cavity with an envious look.[pcms]
 
-;//H_CG:•ê‚ªƒŒƒCƒv‚³‚ê‚Ä‚¢‚é
+;//H_CG:æ¯ãŒãƒ¬ã‚¤ãƒ—ã•ã‚Œã¦ã„ã‚‹
 
 ;;;[sysbt_meswin clear]
 
-;//;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
+;//;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
 [overflow_se storage="se060"]
 
 [evcg storage="HEV_001_c"]
@@ -530,51 +511,52 @@
 
 ;;;[sysbt_meswin]
 
-;//;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
-;//Ä¶Ï‚İ
+;//;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//å†ç”Ÿæ¸ˆã¿
 
 *v148|
 [fc]
 [vo_mob s="haha0011"]
-[ns]•ü”ü‚Ì•ê[nse]
-u‚Ş‚¿‚ã‚Ácc‚¿‚ã‚ÕA‚¶‚ã‚é‚Ácc‚£‚ ‚ÁA‚ ‚Í‚ŸI[r]
-cc‚ñ‚Ş‚Ácc‚ ‚ÁA‚Í‚Ÿ‚ÁA‚ñ‚Ş‚£ccIv[pcms]
+[ns]Tomomi's mother[nse]
+Mchu... chuupu, juru... uahh, ahaha!...[l][er]
+Nmuh... ahh, haa... nmuu...![pcms]
 
 *385|
 [fc]
-—^‚¦‚ç‚ê‚é‰x‚Ñ‚Ì‘S‚Ä‚ğŠ´‚¶s‚­‚»‚¤‚ÆA”é“´‚ğ‘~‚«‰ñ[r]
-‚³‚ê‚é‚±‚Æ‚Å“`‚í‚Á‚Ä‚­‚éˆúŠ´‚ÉŒ‚¢‚µ‚ê‚È‚ª‚ç‚àA“÷[r]
-–e‚ğÓ‚ß—§‚ÄA–¡‚í‚¤‚±‚Æ‚à•ê‚Í–Y‚ê‚È‚©‚Á‚½B[pcms]
+The mother, while being intoxicated by the pleasure of[r]experiencing every aspect given to her, felt the sensation[r]of lewdness conveyed through the stirring of her secret[r]hole.[l][er]
+She did not forget to torment and savor the physical[r]appearance.[pcms]
 
 *386|
 [fc]
-[ns]’j‚a[nse]
-u‚¨cc‚Ü‚¦cc‚ÌA‚Ğ‚´cc‚¤‚çcc‚·A‚·‚×cc‚è[r]
-‚ªcc‚æ‚­cc‚È‚Á‚Äcc‚«‚½cc‚¼v[pcms]
+[ns]Male B[nse]
+Your... knee... back... sliding...[l][er]
+has... improved...[pcms]
 
 *387|
 [fc]
-[ns]’j‚`[nse]
-u‚¾‚ñ‚¾cc‚ñcc‚ ‚Â‚­cc‚È‚Á‚Äcc‚«‚½v[pcms]
+[ns]Man A[nse]
+Danda... n... atsuku... natte...[l][er]
+kita.[pcms]
+[l][er]
 
 *v149|
 [fc]
 [vo_mob s="haha0012"]
-[ns]•ü”ü‚Ì•ê[nse]
-u‚Í‚Ÿ‚ÁA‚ ‚ŸA‚¨‚¢‚µ‚¡cc‚ñ‚ÁA‚ñ‚Ş‚ÁA‚¿‚ã‚Õ‚Á[r]
-cc‚ŸA‚­‚ÁI@‚¤‚Ÿ‚ÁA‚ ‚ŸIIv[pcms]
+[ns]Tomomi's mother[nse]
+Ahh, ohh, it's delicious... ngh, mmm, slurp...[l][er]
+ah, ku! Ughh, ahh!![pcms]
 
 *v150|
 [fc]
 [vo_mob s="haha0013"]
-[ns]•ü”ü‚Ì•ê[nse]
-u‚¤‚Ÿ‚ ‚ cc‚ A‚ ‚È‚½‚Ìcc‚¨‚¢‚µ‚¢ccv[pcms]
+[ns]Tomomi's mother[nse]
+Uaaa... Ah, yours... it's delicious...[pcms]
 
 *388|
 [fc]
-[ns]’j‚b[nse]
-u‚·cc‚·‚°cc‚¥cc‚³‚«‚Ácc‚Ûcc‚·‚ícc‚êcc[r]
-‚Äcc‚éccv[pcms]
+[ns]Male C[nse]
+Wow... amazing... it's... so tight...[l][er]
+I'm... being... wrapped... up...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -588,33 +570,32 @@
 *v151|
 [fc]
 [vo_mob s="imo_0014"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚ñ[‚ÁI@‚£‚®‚Ácc‚ñ‚Ş‚ÁA‚Ş‚®‚£cc‚ÁIv[pcms]
+[ns]Tomomi's younger sister[nse]
+Mmm! Ugh... Nmuh, muguu...![pcms]
 
 *389|
 [fc]
-–º‚Í‰½‚Æ‚©“¦‚ê‚æ‚¤‚ÆAŒû“à‚ğ‰•œ‚·‚éë“ƒ‚É•‚ğ‚½‚Ä[r]
-‚é‚ªA’j‚Í‚¨‚©‚Ü‚¢‚È‚µ‚ÉAŒû“à[‚­“Ë‚«“ü‚ê‚éB[pcms]
+The daughter tries to escape by biting the erect towers that[r]are moving back and forth in her mouth, but the man pays no[r]attention and thrusts deep into her oral cavity.[pcms]
 
 *390|
 [fc]
-[ns]’j‚f[nse]
-u‚¨‚¨`cc‚µA‚µ‚°cc‚«cc‚ªcc‚Â‚æcc‚­cc[r]
-‚Èc‚Á‚Äccv[pcms]
+[ns]Male G[nse]
+Oh~... Shige... ki... has... become...[l][er]
+strong...[pcms]
 
 *v152|
 [fc]
 [vo_mob s="imo_0015"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚ñ‚§‚Ácc‚§‚¦‚Ácc‚£‚®A‚§‚Ô‚£ccv[pcms]
+[ns]Tomomi's younger sister[nse]
+Nghh... Ahh... Ugh, noo...[pcms]
 
 *391|
 [fc]
-[ns]’j‚g[nse]
-u‚¨‚êcc‚Ìcc‚ªcc‚©cc‚©‚½‚¢‚Ìcc‚Æcc‚â‚í[r]
-‚ç‚©cc‚¢cc‚Ì‚Écc‚ ‚½‚ÁA‚Ä‚éccv[pcms]
+[ns]Male H[nse]
+My... is... hard... and... soft...[l][er]
+yet... it's being touched...[pcms]
 
-;//;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
+;//;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
 [se0 storage="se061" loop=true]
 
 ;;;[sysbt_meswin clear]
@@ -628,25 +609,25 @@
 
 *392|
 [fc]
-• ‚Ì‰œ‚Ì¸‰x‚ª‹É‚Ü‚Á‚Ä‚«‚½‚Ì‚©A’j’B‚ÌŒÄ‹z‚Æ“®‚«‚ª[r]
-r‚­AŒƒ‚µ‚­‚È‚Á‚Ä‚­‚éB‚»‚ê‚É”º‚Á‚ÄA•ê‚Ì–ù‰x‚à”¼[r]
-‚Î‹­§“I‚É‚‚ß‚ç‚ê‚Ä‚¢‚­B[pcms]
+The pleasure deep in their stomachs reaches its peak,[r]causing the men's breathing and movements to become rough[r]and intense.[l][er]
+As a result, the mother's pleasure is also forcibly[r]heightened halfway.[pcms]
 
 *v153|
 [fc]
 [vo_mob s="haha0014"]
-[ns]•ü”ü‚Ì•ê[nse]
-u‚Í‚Ÿ‚Ácc‚ ‚Ÿ‚ÁI@‚ñ‚ ‚ÁA‚£A‚­‚£‚ñcc‚ºA‘S[r]
-g‚ªcc‚¨A‚¨‚Ü‚ñA‚±A‚É‚È‚Á‚¿‚á‚Á‚½‚İ‚½‚¢ccv[pcms]
+[ns]Tomomi's mother[nse]
+Haa... Ahh! Ngh, ugh, kun... My whole body...[l][er]
+It seems like it has turned into...[l][er]
+into a pussy...[pcms]
 
 *v154|
 [fc]
 [vo_mob s="haha0015"]
-[ns]•ü”ü‚Ì•ê[nse]
-u‘‚­‚£cc¸‰tA‚¿‚å‚¤‚¾‚Ÿ‚¢cc[r]
-‚½‚­‚³‚ñ‚©‚¯A‚Ä‚¥ccv[pcms]
+[ns]Tomomi's mother[nse]
+Hurry... give me your semen...[l][er]
+please give me a lot...[pcms]
 
-;//H_CG:–…‚ªƒŒƒCƒv‚³‚ê‚Ä‚¢‚é
+;//H_CG:å¦¹ãŒãƒ¬ã‚¤ãƒ—ã•ã‚Œã¦ã„ã‚‹
 
 ;;;[sysbt_meswin clear]
 
@@ -657,57 +638,53 @@
 
 ;;;[sysbt_meswin]
 
-;//;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
-;//Ä¶’†
-;//;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
-;//Ä¶’†
+;//;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
+;//å†ç”Ÿä¸­
+;//;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//å†ç”Ÿä¸­
 
 *v155|
 [fc]
 [vo_mob s="imo_0016"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚ñ[‚ÁI@‚ñ‚ñ‚ñ[‚ÁII@cc‚¡A‚Ğ‚¬‚¡‚Á‚ÁIv[pcms]
+[ns]Tomomi's younger sister[nse]
+Mmm! Nnnngh!! ... I-it, it's tight!![pcms]
 
 *393|
 [fc]
-’j’B‚Ì“®‚«‚ÉA‚ ‚Ì‚¨‚¼‚Ü‚µ‚¢Š´Šo‚ªP‚Á‚Ä‚­‚é‚±‚Æ‚ğ[r]
-Š´‚¶‚ÄA‚»‚ê‚ğ‹‘â‚µ‚½‚­‚ÄA–º‚Í·‚ñ‚Éñ‚ğ‰¡‚ÉU‚Á[r]
-‚Ä‚¢‚½B[pcms]
+The daughter, feeling the repulsive sensation of the men's[r]movements, desperately shook her head from side to side,[r]wanting to reject it.[pcms]
 
 *394|
 [fc]
-[ns]’j‚f[nse]
-u‚¨cc‚¨‚êA‚àcc‚¾cc‚ßv[pcms]
+[ns]Male G[nse]
+I... I can't... anymore...[pcms]
 
 *395|
 [fc]
-[ns]’j‚g[nse]
-u‚Åcc‚ÅA‚¿cc‚ÜA‚¤ccv[pcms]
+[ns]Male H[nse]
+D-don't... don't touch me...[pcms]
 
 *v156|
 [fc]
 [vo_mob s="imo_0017"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚ñ‚£[‚ÁI@‚ñ‚ñ‚ÁI@‚£A‚ñ‚Ô‚£‚ÁccA‚Ö‚Í‚ÁA[r]
-‚Ÿ‚Ô‚Ácc‚ñ‚Ş‚£Iv[pcms]
+[ns]Tomomi's younger sister[nse]
+Nghh... Ahh... Ugh, noo...[pcms]
 
 *396|
 [fc]
-‚¾‚ª–º‚Ì•K€‚Ì‹‘â‚à‹•‚µ‚­Ag‘Ì‚ÌŠ‚éŠ‚ÉA[r]
-’j’B‚ÌÏ‚¦‚½‚¬‚é‰˜‰t‚ÍA¨‚¢‚æ‚­“f‚«o‚³‚ê‚½B[pcms]
+However, the desperate rejection of the daughter was in[r]vain, as the men's boiling filth was forcefully expelled[r]from every part of her body.[pcms]
 
-;//;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
-;//;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
+;//;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
 [stop_se1]
 [stop_overflow_se]
 
-;//;//SE:Ë¸
+;//;//SE:å°„ç²¾
 [se1 storage="se062"]
 
-;//;//SE:Ë¸
+;//;//SE:å°„ç²¾
 [overflow_se storage="se062"]
 
-;//;//SE:Ë¸
+;//;//SE:å°„ç²¾
 [se1 storage="se062"]
 
 ;//;//whiteflash
@@ -740,13 +717,12 @@
 *v157|
 [fc]
 [vo_mob s="imo_0018"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚ñ‚ñ[[[[[[‚ÁIIIIv[pcms]
+[ns]Tomomi's younger sister[nse]
+Nnnnghhhhhhh!!![pcms]
 
 *397|
 [fc]
-[‚­‘§‚ğ“f‚«o‚µA‚Ğ‚Æ‚µ‚«‚è—]‰C‚ÉZ‚Á‚½’j’B‚ÍA[r]
-–¬“®‚ª¡‚Ü‚é‚Æë“ƒ‚ğˆø‚«”²‚¢‚½B[pcms]
+The men, after exhaling deeply and indulging in the[r]afterglow for a while, calmed their pulsations and pulled[r]out their erect members.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -761,22 +737,20 @@
 
 *398|
 [fc]
-‚»‚ê‚Æ“¯‚ÉAŒû“à‚ÉAäS“à‚ÉA’j’B‚ª•ú‚Á‚½‘½—Ê‚Ì‰˜[r]
-‰t‚ª°‚É‚‚ê—‚¿A—­‚Ü‚èAL‚ª‚Á‚Ä‚¢‚­B[pcms]
+At the same time, a large amount of filthy fluid released by[r]the men dripped, accumulated, and spread on the floor,[r]inside her mouth, and inside her vagina.[pcms]
 
 *v158|
 [fc]
 [vo_mob s="imo_0019"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚°‚¥‚Ù‚ÁI@cc‚¤‚¥‚ÁccƒSƒzƒbI@ƒSƒzƒSƒzƒbI[r]
-‚¤‚£‚Áccv[pcms]
+[ns]Tomomi's younger sister[nse]
+Geho! ... Ugh... Cough! Cough![l][er]
+Ugh...[pcms]
 
 *399|
 [fc]
-–º‚ª‚Ş‚¹‚Ä‰˜‰t‚ğ“f‚«o‚µ‚Ä‚¢‚é‰¡‚ÅA•ê‚ğÓ‚ßA[r]
-”Æ‚µ‚Ä‚¢‚½’j’B‚àA‹É‚İ‚É’B‚µ‚æ‚¤‚Æ‚µ‚Ä‚¢‚½B[pcms]
+The men who were blaming and violating the mother, while the[r]daughter was choking and spitting out filthy fluid, were[r]also reaching their climax.[pcms]
 
-;//H_CG:•ê‚ªƒŒƒCƒv‚³‚ê‚Ä‚¢‚é
+;//H_CG:æ¯ãŒãƒ¬ã‚¤ãƒ—ã•ã‚Œã¦ã„ã‚‹
 
 ;;;[sysbt_meswin clear]
 
@@ -787,47 +761,46 @@
 
 ;;;[sysbt_meswin]
 
-;//;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
+;//;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
 [se1 storage="se059" loop=true]
 
-;//;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
+;//;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
 [overflow_se storage="se061" loop=true]
 
 *400|
 [fc]
-[ns]’j‚c[nse]
-u‚¨‚Ácc‚Ï‚¢cc‚¿‚ñA‚±‚Écc‚¿‚­A‚Ñcc‚ªcc[r]
-‚ ‚½cc‚Ácc‚ÄA‚«A‚à‚¿cc‚¢‚¢ccv[pcms]
+[ns]Male D[nse]
+Oh... breasts... my... penis, rubbing against...[l][er]
+nipples... feels... so good...[pcms]
 
 *v159|
 [fc]
 [vo_mob s="haha0016"]
-[ns]•ü”ü‚Ì•ê[nse]
-u‚ ‚Ÿ`A‚¢‚­‚£A‚Ü‚½‚¢‚­‚£`I@‚£‚ ‚ÁI@‚ ‚ŸA[r]
-‚ J[‚ÁI@‚¤‚ ‚ ‚ŸJ[‚ÁIIv[pcms]
+[ns]Tomomi's mother[nse]
+Ah~ I'm cumming again! Ahh! Ahh, ahhhh!![pcms]
 
 *401|
 [fc]
-[ns]’j‚`[nse]
-u‚¢A‚¢‚­cc‚¼ccv[pcms]
+[ns]Man A[nse]
+I-I'm... going... to... cum...[pcms]
 
 *402|
 [fc]
-[ns]’j‚a[nse]
-u‚ ‚ `ccv[pcms]
+[ns]Male B[nse]
+Ahh~...[pcms]
 
-;//;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
-;//;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
+;//;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
 [stop_se1]
 [stop_overflow_se]
 
-;//;//SE:Ë¸
+;//;//SE:å°„ç²¾
 [se1 storage="se062"]
 
-;//;//SE:Ë¸
+;//;//SE:å°„ç²¾
 [overflow_se storage="se062"]
 
-;//;//SE:Ë¸
+;//;//SE:å°„ç²¾
 [se1 storage="se062"]
 
 ;//;//whiteflash
@@ -858,10 +831,11 @@
 *v160|
 [fc]
 [vo_mob s="haha0017"]
-[ns]•ü”ü‚Ì•ê[nse]
-u‚¢‚­‚ÁII@‚¢‚Á‚¿‚á‚¤II@‚ ‚ ‚Ÿ‚ÁA‚¨‚Ü‚ñ‚±A[r]
-‚ª‚Ÿ‚ÁI@ƒ`ƒ“ƒ|‚¢‚¢‚ÁI@‚¢‚¢‚Ì‚§I@‚ ‚Â‚¢‚¡‚¡A[r]
-g‘Ì‚ª”M‚¢‚¡I@‚ ‚£‚£‚¤‚¤ccIIv[pcms]
+[ns]Tomomi's mother[nse]
+I'm cumming!! I'm going to cum!![l][er]
+Ahhh, my pussy, ahhh! Your cock feels so good![l][er]
+It's amazing! It's so hot, my body is burning![l][er]
+Ahhhhh!![pcms]
 
 ;//;//whiteflash
 
@@ -878,8 +852,7 @@
 
 *403|
 [fc]
-Šç‚Æ”é“´‚É‰˜‰t‚ğ“f‚«‚©‚¯‚ç‚ê‚È‚ª‚çA‘Sg‚ğ‘–‚éˆú‰x[r]
-‚ÉA•ê‚Í‘å‚«‚­A‚»‚µ‚Ä‰½“x‚àg‘Ì‚ğk‚í‚¹‚½B[pcms]
+While having filthy fluid spat on her face and genitals, the[r]mother trembled all over her body with intense pleasure,[r]again and again.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -893,48 +866,43 @@
 *v161|
 [fc]
 [vo_mob s="haha0018"]
-[ns]•ü”ü‚Ì•ê[nse]
-u‚ ‚ÁA‚ ‚ ‚ÁA‚¤‚ ‚Ÿ`ccv[pcms]
+[ns]Tomomi's mother[nse]
+Ahh, aahh, uahh~...[pcms]
 
 *404|
 [fc]
-•ê‚Ìg‘Ì‚ªk‚¦‚é“x‚ÉŠ´‚¶‚éA”é“´‚Ì’÷‚ßã‚°‚ªS’n‚æ[r]
-‚¢‚Ì‚©A’j‚ª‚¾‚ç‚µ‚È‚¢Î‚İ‚ğ•‚‚©‚×‚éB[pcms]
+Every time the mother's body trembles, the man wears a[r]sloppy smile, enjoying the tight squeeze of her secret hole.[pcms]
 
 *405|
 [fc]
-è‚É‚æ‚Á‚Ä’B‚µ‚½’j’B‚à“¯‚¶—l‚ÈÎ‚İ‚ğ•‚‚©‚×‚ÄA‚‚ê[r]
-—‚¿‚é‰˜‰t‚ğär‚ßæ‚ç‚¹‚æ‚¤‚ÆA•ê‚ÌŒû‘O‚Éë“ƒ‚ğ“Ë‚«[r]
-o‚µ‚Ä‚¢‚éB[pcms]
+The men who reached their climax by their own hands also[r]wear the same kind of smile, sticking their erect towers in[r]front of the mother's mouth, trying to make her lick up the[r]dripping filth.[pcms]
 
 *406|
 [fc]
-[ns]’j‚`[nse]
-u‚ÜA‚Ü‚¾cc‚½cc‚½‚ècc‚È‚¢cc‚¼v[pcms]
+[ns]Man A[nse]
+N-Not... enough... yet...[pcms]
 
 *v162|
 [fc]
 [vo_mob s="haha0019"]
-[ns]•ü”ü‚Ì•ê[nse]
-u‚ñ‚Ó‚£cc‚ñ‚ÁA‚ñ‚¿‚ãA‚¿‚ã‚Õ‚Ácc‚ñ‚Í‚Ÿcc[r]
-‚Ç‚ë‚Á‚Æ‚µ‚Ä‚Ä‚¨‚¢‚µccv[pcms]
+[ns]Tomomi's mother[nse]
+Nfuu... Nn, nchu, chuppu... Nhaa...[l][er]
+It's thick and delicious...[pcms]
 
 *407|
 [fc]
-’ïR‚·‚é—Í‚à¸‚Á‚Ä‚µ‚Ü‚Á‚½‚Ì‚©A°‚É‚®‚Á‚½‚è‚Æ‰¡‚É[r]
-‚È‚Á‚Ä‚¢‚é–º‚Ì”wŒã‚ÉA’j‚Ìˆêl‚ª‹ß‚Ã‚¢‚Ä‚¢‚­B[pcms]
+The daughter, who had lost all strength to resist, lay limp[r]on the floor.[l][er]
+Behind her, a man approached.[pcms]
 
 *408|
 [fc]
-’j‚Í”’‚¢K‚ğ˜h’Í‚ñ‚Å‚¿ã‚°AŒ˜‚­•Â‚¶‚½‚à‚¤ˆê‚Â‚Ì[r]
-”é–å‚ğ˜I‚í‚É‚µA–¬“®‚·‚éë“ƒ‚ğ‚ ‚Ä‚ª‚Á‚½B[pcms]
+The man grabbed the white ass and lifted it up, exposing[r]another tightly closed secret entrance, and pressed his[r]pulsating tip against it.[pcms]
 
 *409|
 [fc]
-ë“ƒ‚ğ‰Ÿ‚µ“–‚Ä‚ç‚ê‚éêŠ‚ª¡‚Ü‚Å‚Æˆá‚¤‚±‚Æ‚ÅA[r]
-”w‹Ø‚Éˆ«Š¦‚ª‘–‚èA–º‚ÌˆÓ¯‚Í‹°•|‚ÅÄ‚ÑŠoÁ‚µ‚½B[pcms]
+The place where the pointed tower was pressed against was[r]different from before, sending a chill down her spine, and[r]her daughter's consciousness awakened once again in fear.[pcms]
 
-;//H_CG:–…‚ªƒŒƒCƒv‚³‚ê‚Ä‚¢‚é
+;//H_CG:å¦¹ãŒãƒ¬ã‚¤ãƒ—ã•ã‚Œã¦ã„ã‚‹
 
 ;;;[sysbt_meswin clear]
 
@@ -948,22 +916,21 @@
 
 *410|
 [fc]
-’N‚Å‚à‚¢‚¢‚©‚ç•‚¯‚ª—~‚µ‚¢‚ÆA–º‚Í‚ ‚ç‚ñŒÀ‚è‚Ìº‚ğ[r]
-U‚èi‚Á‚Ä‹©‚ñ‚¾B[pcms]
+The daughter screamed, squeezing out every last bit of her[r]voice, I want help from anyone, please![pcms]
 
 *411|
 [fc]
-[ns]’j‚h[nse]
-u‚µ‚ëA‚¢A‚µcc‚èccv[pcms]
+[ns]Male I[nse]
+White, i, shi... ri...[pcms]
 
 *v163|
 [fc]
 [vo_mob s="imo_0020"]
-[ns]•ü”ü‚Ì–…[nse]
-uƒCƒ„ƒ@ƒbII@’N‚©‚Ÿ‚ÁI@‚¨Šè‚¢II[r]
-’N‚©A’N‚©•‚¯‚Ä‚¥‚ÁIIIIv[pcms]
+[ns]Tomomi's younger sister[nse]
+Nooo!! Someone help me! Please!![l][er]
+Someone, someone save meeee!![pcms]
 
-;//;//SE:‘}“ü
+;//;//SE:æŒ¿å…¥
 [se0 storage="se058"]
 
 ;//redflash
@@ -975,60 +942,56 @@
 
 *412|
 [fc]
-–º‚Ì§Šè‚È‚ÇˆÓ‚É‰î‚¹‚¸A‚Ş‚µ‚ë‚»‚Ìâ‹©‚ÉŒ‚¢‚µ‚ê‚é[r]
-‚©‚Ì‚æ‚¤‚È•\î‚ğŒ©‚¹A’j‚Íë“ƒ‚ğ‹­ˆø‚É‚ß‚è‚Ü‚¹A[r]
-”é–å‚ğ‚±‚¶ŠJ‚¯‚Ä‚¢‚­B[pcms]
+Ignoring the daughter's plea, the man instead showed an[r]expression as if he was intoxicated by her screams.[l][er]
+He forcefully thrust his pointed tower inside, forcibly[r]opening her secret entrance.[pcms]
 
-;//;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
+;//;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
 [se1 storage="se059" loop=true]
 
-;//;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
+;//;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
 [overflow_se storage="se061" loop=true]
 
 *413|
 [fc]
-[ns]’j‚h[nse]
-u‚³‚¯cc‚ñcc‚Åcc‚écc‚àA‚à‚¦cc‚écc‚Èv[pcms]
+[ns]Male I[nse]
+Sa... ke... n... de... ru... mo, moe...[l][er]
+ru... na.[pcms]
 
 *v164|
 [fc]
 [vo_mob s="imo_0021"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚¢‚ÁI@’É‚Ÿ‚¢‚ÁII@‚â‚ß‚Ä‚¦‚¦‚¦‚¥‚¥IIIIv[pcms]
+[ns]Tomomi's younger sister[nse]
+Ouch! It hurts!! Stopppp!!![pcms]
 
 *414|
 [fc]
-ŒŒ‚ğ‚É‚¶‚Ü‚¹‚é”é–å‚Æ–º‚Ìâ‹©‚ÉA‚¢‚â‚ç‚µ‚­A‰º”Ú‚½[r]
-Î‚İ‚ğ‚¤‚©‚×‚È‚ª‚çA‚³‚ç‚É‰œ[‚­A’j‚Íë“ƒ‚Å”é–å‚ğ[r]
-‚±‚¶ŠJ‚¯‘±‚¯‚éB[pcms]
+The man, with a lewd and vulgar smile on his face, continued[r]to forcefully pry open the secret entrance with his pointed[r]tower, amidst the bleeding secret entrance and the[r]daughter's screams.[pcms]
 
 *v165|
 [fc]
 [vo_mob s="imo_0022"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚Ğ‚ÁII@‚ĞA‚¬‚¢‚¡cc‚ÁIIv[pcms]
+[ns]Tomomi's younger sister[nse]
+Hii!! Hi, gii...!![pcms]
 
 *415|
 [fc]
-ë“ƒ‚ª‘S‚Ä”é–å‚É–„‚ß‚Ü‚ê‚Ä‚àA’j‚Í–‘«‚·‚é‚±‚Æ‚È[r]
-‚­A”é–å‚Ì’†‚ğ‰•œ‚µn‚ß‚½B[pcms]
+The man, even after burying his pointed tower completely[r]inside the secret entrance, began to move back and forth[r]within the secret entrance without satisfaction.[pcms]
 
 *416|
 [fc]
-[ns]’j‚h[nse]
-u‚¤A‚Í‚Ácc‚µcc‚µ‚Ücc‚éccv[pcms]
+[ns]Male I[nse]
+Ugh, I... I'm... going... to...[pcms]
 
 *v166|
 [fc]
 [vo_mob s="imo_0023"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚ĞA‚¬‚¡‚ÁI@’É‚Ÿ‚¢II@‚¢‚ÁI@‚¬‚¢‚¢‚¡cc[r]
-‚³‚ÁA—ô‚¯‚é‚£II@‚¬‚á‚Ÿ‚ ‚ ‚ ‚ ‚Á‚ÁIIIv[pcms]
+[ns]Tomomi's younger sister[nse]
+Ah, it hurts!! Stop! Gii... It's tearing apart!![l][er]
+Gyaaaahhhh!!![pcms]
 
 *417|
 [fc]
-”é–å‚ğ‚Ş‚è‚â‚èë“ƒ‚ÉP‚ç‚êA’É‚İ‚Æ‹ê‚µ‚İ‚É‚¤‚ß‚­–º[r]
-‚ğA•ê‚Í”M‚Á‚Û‚¢A‘A–]‚ÌŠá·‚µ‚ÅŒ©‚Â‚ß‚Ä‚¢‚½B[pcms]
+The mother gazed at her daughter, who was moaning in pain[r]and suffering as her secret entrance was forcefully pierced[r]by the pointed tower, with a feverish and envious look in[r]her eyes.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -1042,44 +1005,42 @@
 *v167|
 [fc]
 [vo_mob s="haha0020"]
-[ns]•ü”ü‚Ì•ê[nse]
-u‚ ‚ŸA‚¸‚é‚£‚¢cc‚í‚½‚µ‚à‚§cc[r]
-‚í‚½‚µ‚à‚ ‚ê‚Ù‚µ‚¢‚¡`ccv[pcms]
+[ns]Tomomi's mother[nse]
+Ah, unfair... I want it too...[l][er]
+I want that too~...[pcms]
 
 *418|
 [fc]
-©•ª‚Ì”é–å‚É‚àë“ƒ‚ğµ‚«“ü‚ê‚æ‚¤‚ÆA•ê‚Í’j’B‚ÉŒü‚¯[r]
-‚Ä˜‚ğU‚èA—U‚¤B[pcms]
+The mother, shaking her hips towards the men, invited them[r]to bring their pointed towers into her own secret entrance.[pcms]
 
 *419|
 [fc]
-[ns]’j‚i[nse]
-u‚¨cc‚¨A‚êcc‚ªcc‚¢cc‚ê‚Äcc‚âcc‚év[pcms]
+[ns]Male J[nse]
+I... I... will... put it in...[pcms]
 
 *v168|
 [fc]
 [vo_mob s="haha0021"]
-[ns]•ü”ü‚Ì•ê[nse]
-u‚Ë‚¥A‚¿‚å‚¤‚¾‚¢cc‚í‚½‚µ‚Ì‚¨‚µ‚è‚É‚à‚§cc[r]
-‚¨‚µ‚èA‚¿‚ñ‚Û‚Å‚©‚«‚Ü‚í‚µ‚Ä‚¥ccv[pcms]
+[ns]Tomomi's mother[nse]
+Hey, please... on my butt too...[l][er]
+I want you to stir my butt with your penis...[pcms]
 
 *420|
 [fc]
-’j’B‚Í•ê‚ÉŒQ‚ª‚èA”é“´‚Æ”é–åA‚Ç‚¿‚ç‚É‚àë“ƒ‚ğ‘}‚µ[r]
-“ü‚êA‘~‚«‰ñ‚µ‚½B[pcms]
+The men swarmed around the mother, inserting their pointed[r]towers into both her secret entrance and secret passage,[r]stirring them vigorously.[pcms]
 
 [fadeoutbgm time=500]
 
 *v169|
 [fc]
 [vo_mob s="haha0022"]
-[ns]•ü”ü‚Ì•ê[nse]
-u‚Ğ‚ ‚Ÿ‚ÁI@‚ ‚ÁA‚ ‚£‚ÁI@‚·‚²cc‚Ğ‚Ñ‚­‚£`I[r]
-‚Í‚Ÿ‚ÁA‚ÓA‚ ‚ŸI@‚¨‚Ácc‚¨‚µ‚è‚Æcc[r]
-‚¨‚Ü‚ñ‚±‚§ccIIv[pcms]
+[ns]Tomomi's mother[nse]
+Hiaa! Ah, auu! Amazing... it's throbbing~![l][er]
+Haa, fu, aah! On... on my butt and...[l][er]
+pussy...!![pcms]
 
-;//ôFBGM003ƒtƒF[ƒhƒAƒEƒg
-;//ôFBGM004ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM003ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//â™ªï¼šBGM004ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 [bgm004]
 
 ;;;[sysbt_meswin clear]
@@ -1094,27 +1055,26 @@
 *v170|
 [fc]
 [vo_mob s="imo_0024"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚¤cc‚ñ‚Ô‚£cc‚ñ‚ÁA‚®ccv[pcms]
+[ns]Tomomi's younger sister[nse]
+Ugh... nbuu... ngh, gu...[pcms]
 
 *421|
 [fc]
-”é–å‚É‘±‚«AŒûo‚É‚àë“ƒ‚ğ‚Ë‚¶‚Ü‚ê‚½–º‚Ì“µ‚ÍA[r]
-™X‚É¨‚¢F‚ğ‘Ñ‚ÑA‚»‚Ì•ê‚Æ“¯‚¶‚æ‚¤‚ÉA[r]
-’m«‚ÌŒõ‚ğ‹}‘¬‚É¸‚¢‚Â‚Â‚ ‚Á‚½B[pcms]
+The daughter, Hitomi, who had a pointed tower thrust into[r]her secret entrance and now into her oral cavity, gradually[r]took on a dark hue and, like her mother, was rapidly losing[r]the light of her intellect.[pcms]
 
 *v171|
 [fc]
 [vo_mob s="haha0023"]
-[ns]•ü”ü‚Ì•ê[nse]
-u‚Í‚Ÿ‚ÁA‚ ‚Ÿ‚ÁI@‚à‚Á‚Æ‚§A‚à‚Á‚ÆA‚ñ‚Ÿ‚ÁI[r]
-‚²‚è‚²‚èA‚µ‚Ä‚¥I@‚ñ‚£cc‚­‚ÁA‚Í‚ ‚ŸIv[pcms]
+[ns]Tomomi's mother[nse]
+Haa, aah! More, more, nnah! Rougher, please![l][er]
+Nngh... kuh, haaah![pcms]
 
 *v172|
 [fc]
 [vo_mob s="imo_0025"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚¥‚ cc‚§‚®‚Ácc‚ñ‚Ô‚£cc‚®A‚ñ‚ÁA‚ñ‚Şccv[pcms]
+[ns]Tomomi's younger sister[nse]
+Ehh... Oguu... Nbuu... Gu, nnn...[l][er]
+Mmm...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -1127,8 +1087,7 @@
 
 *422|
 [fc]
-’j‚½‚¿‚Ì”’‘÷‚É”]‚ª–`‚³‚êA‹}Œƒ‚É©ŒÈ‚Ì”F¯‚ª•ö‰ó‚µ[r]
-‚ÄA‰õŠy‚ğ‚Ş‚³‚Ú‚éb‚É•Ï—e‚·‚é‚æ‚¤‚È•sv‹c‚ÈŠ´ŠoB[pcms]
+A strange sensation, as if their brains were being corrupted[r]by the men's turbid fluids, causing their self-awareness to[r]rapidly crumble and transforming them into ravenous beasts[r]that crave pleasure.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -1142,20 +1101,17 @@
 *v173|
 [fc]
 [vo_mob s="haha0024"]
-[ns]•ü”ü‚Ì•ê[nse]
-u‚ ‚ÁA‚ ‚Ÿ‚ÁA‚ÍA‚¤‚ ‚Ÿ`II@‚¾A‚ß‚¥cc@‚ A[r]
-‚¢‚ÁA‚­cc‚¢‚®‚¤‚£`IIv[pcms]
+[ns]Tomomi's mother[nse]
+Ah, aaah, ha, uaaah~!! D-don't...[l][er]
+ah, it's... coming... it's intense~!![pcms]
 
 *423|
 [fc]
-‚»‚ê‚ÍA‚±‚Ìb‚¶‚İ‚½—½J‚É‚æ‚é¸_“I‚ÈƒVƒ‡ƒbƒN‚È‚Ç[r]
-‚Å‚Í‚È‚­A–¾‚ç‚©‚É‚È‚É‚©‚Ì•¨—“I‚È—vˆö‚É‚æ‚éŒ€“I‚È[r]
-•Ï‰»‚¾‚Á‚½B[pcms]
+It was not a psychological shock caused by this beastly[r]humiliation, but clearly a dramatic change due to some[r]physical factor.[pcms]
 
 *424|
 [fc]
-‚¾‚ªA–º‚Ì‚Æ‚ë‚¯‚é”]‘‚ª‚»‚Ì‚±‚Æ‚ğ‹qŠÏ“I‚É”F¯‚·‚é[r]
-–‚Í‚È‚©‚Á‚½B[pcms]
+However, the daughter's melting brain did not objectively[r]recognize this fact.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -1168,37 +1124,35 @@
 
 *425|
 [fc]
-[ns]’j‚c[nse]
-u‚¿cc‚¿‚­cc‚Ñcc‚½A‚Á‚Äcc‚év[pcms]
+[ns]Male D[nse]
+T-t-ti... tow... er... it's... standing[pcms]
 
 *v174|
 [fc]
 [vo_mob s="imo_0026"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚ñA‚¿‚ã‚Õcc‚ñ‚¿‚ãA‚¶‚ã‚Õcc‚ê‚éccv[pcms]
+[ns]Tomomi's younger sister[nse]
+N, chupu... nchu, jupu... reru...[pcms]
 
 *426|
 [fc]
-‚Ù‚ñ‚Ì‚í‚¸‚©‚ÈŠÔ‚ÉA–º‚Ì“µ‚©‚ç‚ÍŠ®‘S‚ÉŒõ‚ª¸‚í‚êA[r]
-g‘Ì‚Éâ‚¦ŠÔ‚È‚­—^‚¦‚ç‚ê‚é‹ê’É‚ªA‰x‚Ñ‚Ö‚Æ•Ï‚í‚Á‚Ä[r]
-‚¢‚½B[pcms]
+In just a short moment, the light completely vanished from[r]Hitomi's daughter's eyes, and the pain that was constantly[r]inflicted upon her body had transformed into pleasure.[pcms]
 
 *v175|
 [fc]
 [vo_mob s="imo_0027"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚Õ‚¿‚ãcc‚ñ‚ŞA‚ñ‚ÁI@‚¿‚ãA‚¿‚ã‚Ô‚£ccB[r]
-‚Í‚Ÿccv[pcms]
+[ns]Tomomi's younger sister[nse]
+Puchu... nmu, ntsu! Chu, chubuu...[l][er]
+haa...[pcms]
 
 *427|
 [fc]
-[ns]’j‚g[nse]
-u‚±cc‚±A‚¢‚Âcc‚·‚Ácc‚Äcc‚«cc‚½ccv[pcms]
+[ns]Male H[nse]
+Wh... wh... when... did... you...[l][er]
+come...[pcms]
 
 *428|
 [fc]
-‚ ‚ê‚¾‚¯‹‘â‚µA•‚ğ—§‚Ä‚³‚¦‚µ‚½ë“ƒ‚ğ¡A–º‚Í©‚ç[r]
-ã‚ğ”‡‚í‚¹AO‚Å‚µ‚²‚«A–¡‚í‚Á‚Ä‚¢‚½B[pcms]
+The daughter, who had previously rejected and even resisted,[r]was now willingly running her tongue along the pointed[r]tower, stroking it with her lips, and savoring the taste.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -1211,29 +1165,28 @@
 
 *429|
 [fc]
-–º‚Ì‚»‚Ì’s‘Ô‚ğŒ©‚ÄA•ê‚à•‰‚¯‚¸‚É©•ª‚ÌŒû“à‚Éë“ƒ‚ğ[r]
-ŠÜ‚İAO‚Æã‚Æ‚ÅŠy‚µ‚İn‚ß‚éB[pcms]
+The mother, seeing her daughter's lewd behavior, also didn't[r]lose and began to enjoy herself by taking the pointed tower[r]into her own mouth, using her lips and tongue.[pcms]
 
 *v176|
 [fc]
 [vo_mob s="haha0025"]
-[ns]•ü”ü‚Ì•ê[nse]
-u‚Ö‚Ÿcc‚Í‚ŞA‚ñ‚ÁA‚¿‚ã‚écc‚¿‚ã‚Ï‚ŸA‚ ‚ÁI@[r]
-‚Í‚Ÿ‚ÁA‚ ‚Ÿ`‚ÁIv[pcms]
+[ns]Tomomi's mother[nse]
+Heh... hm, ngh, slurp... chupaah, ah![l][er]
+Haaah, aah~![pcms]
 
 *v177|
 [fc]
 [vo_mob s="imo_0028"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚Ğ‚£‚ÁI@‚ ‚ÁA‚£‚ ‚ÁI@cc‚Í‚ñA‚ŞA‚¿‚ã‚Ô‚£[r]
-cc‚ñ‚Ş‚£A‚¶‚ã‚éccv[pcms]
+[ns]Tomomi's younger sister[nse]
+Hii! Ah, u-ah! ... Haa, mu, chubuu...[l][er]
+nmuu, julu...[pcms]
 
 *v178|
 [fc]
 [vo_mob s="haha0026"]
-[ns]•ü”ü‚Ì•ê[nse]
-u‚ñ‚ÁA‚Õ‚¿‚ãA‚ñ‚Í‚Ÿcc‚ñ‚Ş‚ÁA‚ñ‚Ô‚£I@cc‚ñ[r]
-‚¶‚ã‚éA‚¿‚á‚Õ‚Áccv[pcms]
+[ns]Tomomi's mother[nse]
+Mmm, puchu, nhaa... nmuu, nbuu![l][er]
+... njuru, chapu...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -1247,47 +1200,45 @@
 *v179|
 [fc]
 [vo_mob s="imo_0029"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚¿‚ã‚Ô‚ÁA‚¿‚ãcc‚ñ‚¿‚ã‚£cc‚£‚ A‚Ğ‚ ‚Ÿ‚ÁIv[pcms]
+[ns]Tomomi's younger sister[nse]
+Chubu... chu... nchu... ah, hiaa![pcms]
 
 *430|
 [fc]
-•ê‚Æ–º‚É“Ë‚«“ü‚ê‚Ä‚¢‚é’j’B‚ÌAë“ƒ‚Ì‰•œ‚ªŸ‘æ‚É‘¬[r]
-‚­‚È‚Á‚Ä‚¢‚«Aˆú`‚É”G‚ê‚½“÷‚Æ“÷‚ª’e‚¯‚ ‚¤‰¹‚ªA[r]
-‚æ‚è‚¢‚Á‚»‚¤‘å‚«‚­‹¿‚«‚í‚½‚éB[pcms]
+The back and forth thrusting of the men into the mother and[r]daughter becomes faster and faster, and the sound of wet[r]flesh colliding with each other in a pool of lewd juices[r]echoes even louder.[pcms]
 
 *v180|
 [fc]
 [vo_mob s="haha0027"]
-[ns]•ü”ü‚Ì•ê[nse]
-u‚Ó‚Ÿ‚ÁA‚ ‚¤‚£‚ÁI@‚Í‚ÁA‚ñ‚®cc[r]
-‚Õ‚¿‚ã‚£A‚¿‚á‚Õ‚Ácc‚ñ‚ñ`‚ÁIv[pcms]
+[ns]Tomomi's mother[nse]
+Ah, auu! Haa, ngu... puchuu, chapu...[l][er]
+nnn~![pcms]
 
 *431|
 [fc]
-[ns]’j‚`[nse]
-u‚¾cc‚¾‚·cc‚¼ccv[pcms]
+[ns]Man A[nse]
+I... I'm going to...[pcms]
 
 *v181|
 [fc]
 [vo_mob s="imo_0030"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚ ‚ÁA‚ J‚Ÿ‚ÁA‚¤‚ J‚Ÿ‚ÁIv[pcms]
+[ns]Tomomi's younger sister[nse]
+Ah, aah, uah![pcms]
 
 *432|
 [fc]
-[ns]’j‚h[nse]
-u‚¨A‚¨‚êcc‚Åcc‚Å‚»cc‚¤cc‚¾v[pcms]
+[ns]Male I[nse]
+I... I'm... going...[pcms]
 
-;//;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
-;//;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
+;//;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
 [stop_se1]
 [stop_overflow_se]
 
-;//;//SE:Ë¸
+;//;//SE:å°„ç²¾
 [se1 storage="se062"]
 
-;//;//SE:Ë¸
+;//;//SE:å°„ç²¾
 [overflow_se storage="se062"]
 
 ;//whiteout
@@ -1296,14 +1247,13 @@
 
 *433|
 [fc]
-’j’B‚Í‹É‚İ‚É’B‚µA•ê‚Æ–º‚Ì‰œ[‚­‚ÉAŸX‚Æ‰˜‰t‚ğ—¬[r]
-‚µ‚ñ‚¾B[pcms]
+The men reached their climax and poured their dirty fluids[r]deep inside the mother and daughter, one after another.[pcms]
 
 *v182|
 [fc]
 [vo_mob s="haha0028"]
-[ns]•ü”ü‚Ì•ê[nse]
-u‚ñ‚£J`‚ÁIIv[pcms]
+[ns]Tomomi's mother[nse]
+Nnghhh~!![pcms]
 
 ;//whiteout
 
@@ -1313,30 +1263,26 @@
 *v183|
 [fc]
 [vo_mob s="imo_0031"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚ J‚Ÿ`IIv[pcms]
+[ns]Tomomi's younger sister[nse]
+Ahh~!![pcms]
 
 ;//whiteout
 
 *434|
 [fc]
-”é“´A‚»‚µ‚Ä”é–å‚É‰˜‰t‚ğ—¬‚µ‚Ä‚±‚Ü‚ê‚é‚±‚Æ‚ÅA[r]
-•ê‚Æ–ºA‚Ç‚¿‚ç‚Ì‘Sg‚É‚àˆú‰x‚ª‘–‚èA[r]
-“ñl‚Í‚»‚Ì‰x‚Ñ‚É‘Å‚¿k‚¦‚½B[pcms]
+By having their dirty fluids flow into their secret holes[r]and secret gates, both the mother and daughter were filled[r]with pleasure throughout their entire bodies, causing them[r]to tremble with delight.[pcms]
 
 *v184|
 [fc]
 [vo_mob s="haha0029"]
-[ns]•ü”ü‚Ì•ê[nse]
-u‚ñ‚Ş‚£``cc‚ñ‚ÁA‚ñ‚®A‚²‚­ccv[pcms]
+[ns]Tomomi's mother[nse]
+Mmm... Nn, ngu, goku...[pcms]
 
 ;//whiteout
 
 *435|
 [fc]
-ˆú‰x‚ª”]‘‚ğ—h‚ç‚µ‚Ä‚àA•ê‚ÍŒû“à‚ÉŠÜ‚ñ‚¾ë“ƒ‚ğ—£‚·[r]
-‚±‚Æ‚Í‚È‚­A“f‚«o‚³‚ê‚½‰˜‰t‚ğA‰x‚Ñ‚É—Z‚¯‚½•\î‚Å[r]
-‘S‚Äˆù‚İŠ±‚µ‚½B[pcms]
+Despite the pleasure shaking her very core, the mother never[r]let go of the erect tower in her mouth, and with a face[r]melted with delight, she swallowed every drop of the[r]expelled dirty fluid.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -1351,26 +1297,24 @@
 *v185|
 [fc]
 [vo_mob s="imo_0032"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚ ‚ŸA‚¤‚ ‚Ÿ``ccv[pcms]
+[ns]Tomomi's younger sister[nse]
+Ahh, uahhh~...[pcms]
 
 *436|
 [fc]
-”é–å‚Ì‰œ‚Ö“f‚«o‚³‚ê‚½–º‚ÍA‘Ì“à‚ğÄ‚­‚æ‚¤‚È‰˜‰t‚Ì[r]
-Ü”M‚ÉA“İ‚¢ˆú‰x‚ªL‚ª‚Á‚Ä‚¢‚­‚Ì‚ğA‘Sg‚Å–¡‚í‚¢A[r]
-Šy‚µ‚ñ‚Å‚¢‚½B[pcms]
+The daughter, who was expelled into the depths of her secret[r]gate, was experiencing a dull pleasure as the scorching heat[r]of the filthy fluid burned inside her body.[l][er]
+She savored and enjoyed it with her whole being.[pcms]
 
 *v186|
 [fc]
 [vo_mob s="imo_0033"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚¿‚ã‚Õcc‚ñ‚ÁA‚¿‚ãccv[pcms]
+[ns]Tomomi's younger sister[nse]
+*Sucking... mmm, slurp... *[pcms]
 
 *437|
 [fc]
-Šç‚É“f‚«o‚³‚ê‚½‰˜‰t‚ğw‚Å‚·‚­‚¢æ‚èA–º‚Í‚»‚ê‚ğ©[r]
-•ª‚ÌŒû‚Ö‚Æ‰^‚ñ‚¾B‚µ‚Î‚ç‚­‰ò‚ÌŠ´G‚ğŠy‚µ‚ñ‚Å‚©‚çA[r]
-A‚ğ–Â‚ç‚·B[pcms]
+The daughter scooped up the dirty fluid that was spat onto[r]her face with her fingers and brought it to her own mouth.[l][er]
+After enjoying the sensation of the clumps for a while, she[r]swallowed, making a sound in her throat.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -1384,23 +1328,22 @@
 *v187|
 [fc]
 [vo_mob s="imo_0034"]
-[ns]•ü”ü‚Ì–…[nse]
-u‚ ‚Í‚Ÿccv[pcms]
+[ns]Tomomi's younger sister[nse]
+Ahh...[pcms]
 
 *438|
 [fc]
-–º‚ÌS‚ÍŠ®‘S‚Éˆú‰x‚Éx”z‚³‚êAŠç‚Í‰x‚Ñ‚ÉŠÉ‚İA©‚ç[r]
-’j’B‚É‰õŠy‚ğ—^‚¦‚é‚æ‚¤‚É‹‚ßn‚ß‚½B[pcms]
+The daughter's heart was completely dominated by pleasure,[r]her face relaxed with delight, and she began to seek[r]pleasure from the men herself.[pcms]
 
 *v188|
 [fc]
 [vo_mob s="imo_0035"]
-[ns]•ü”ü‚Ì–…[nse]
-ucc‚Ë‚¥A‚à‚Á‚Æ‚§cc‚à‚Á‚Æ‚¿‚ñ‚Û‚ÅA‚²‚è‚²‚è‚µ[r]
-‚Ä‚¥cc‚¨‚Ü‚ñ‚±‚Ì‚È‚©A‚Ş‚¸‚Ş‚¸‚·‚é‚Ì‚§ccv[pcms]
+[ns]Tomomi's younger sister[nse]
+... Hey, more... I want you to rub it harder with your[r]dick...[l][er]
+It's getting all tingly inside my pussy...[pcms]
 
-;//ôFBGM004ƒtƒF[ƒhƒAƒEƒg
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGM004ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//â™ªï¼šBGMç„¡ã—
 [fadeoutbgm time=500]
 
 ;//blackout
@@ -1415,37 +1358,35 @@
 
 *439|
 [fc]
-©•ª’B‚ÌZ‚ŞŠX‚ªAŸ‘æ‚É“¾‘Ì‚Ì’m‚ê‚È‚¢‰e‚É•¢‚í‚ê‚Â[r]
-‚Â‚ ‚é‚±‚Æ‚àA©•ª’B‚ª‚»‚Ì‰e‚Ì‹¶‰ƒ‚Éˆù‚İ‚Ü‚ê‚æ‚¤[r]
-‚Æ‚µ‚Ä‚¢‚é‚±‚Æ‚àA‰Á“¡’B‚É‚Í’m‚é—R‚à‚È‚©‚Á‚½B[pcms]
+The fact that their own town was gradually being covered by[r]an unknown shadow, and that they themselves were about to be[r]swallowed up in the frenzy of that shadow, was something[r]that Katou and the others were completely unaware of.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
 [eval exp="sf.g_pl_skip = 1"]
-;mm ysys—pPƒXƒLƒbƒv’Ç‰Á
+;mm ysysç”¨Pã‚¹ã‚­ãƒƒãƒ—è¿½åŠ 
 [eval exp="sf.pskip = 1"]
 
-;//‚±‚±‚Ü‚Å–{•Ò
+;//ã“ã“ã¾ã§æœ¬ç·¨
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
-;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
-;•s—v[eval exp="="sf.g_scn01 = 1"]
+;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
+;ä¸è¦[eval exp="="sf.g_scn01 = 1"]
 ;[black_toplayer][trans_c random][hide_chara_int]
 [zapfade]
 
 
 ;;;[sysbt_meswin]
 
-;//•‚ÉƒtƒF[ƒh
+;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 [jump target=*0016_TOP storage="0016.ks"]
 
 

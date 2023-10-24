@@ -1,22 +1,22 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02149wŠİ“c‚ÌÅŒã^’|“à“¦‘–x
-;//BG:“ñŠK˜L‰ºFƒoƒŠƒP[ƒhF—[•û
-;//“oêl•¨GålŒöE—DEƒŠƒTEŠİ“cE‰Á“¡
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02149ã€å²¸ç”°ã®æœ€å¾Œï¼ç«¹å†…é€ƒèµ°ã€
+;//BG:äºŒéšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰ï¼šå¤•æ–¹
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»å²¸ç”°ãƒ»åŠ è—¤
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02149_H_TOP
-;[debug_win]‚È‚¤@02149_H[debug_win_end]
+;[debug_win]ãªã†ã€€02149_H[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02149 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02149 = 1"]
 
-;*SceneSet|wŠİ“c‚ÌÅŒã^’|“à“¦‘–x
+;*SceneSet|ã€å²¸ç”°ã®æœ€å¾Œï¼ç«¹å†…é€ƒèµ°ã€
 
-;//flag:—Dƒ‹[ƒgƒtƒ[@‚P‚Q•\¦
+;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼‘ï¼’è¡¨ç¤º
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 
 [bgm009]
 
@@ -30,54 +30,53 @@
 [ChrSetParts layer=1 chface="kisi_c_b_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std282|
 [fc]
-[ns]Šİ“c[nse]
-u‚¨A‚¡cc‚âA‚Ü‚¬A‚µ‚¡`cc‚¹A‚ñ‚¹‚¢A‚ÌA‚Æ[r]
-‚±A‚ë‚ÉA‚±‚¢cc‚½‚Á‚ÕA‚è‚ÆA‚µ‚ÇA‚¤‚µA‚Ä‚âA[r]
-‚é‚¼‚§ccv[pcms]
+[ns]Kishida[nse]
+Oh, i... ya, magi, shii~... sensei, no, toko, ro ni, koi...[l][er]
+tappuri to, shidou shite ya, ru zoo...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_c_09"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1042|
 [fc]
 [vo_ya s="yama0343"]
-[ns]RŠİ[nse]
-u‚¢A‚¢‚âccv[pcms]
+[ns]Yamagishi[nse]
+N-No...[pcms]
 
 *2695|
 [fc]
-‘Ì‚ğ‚·‚­‚Ü‚¹‚ÄA“®‚¯‚È‚¢‚Å‚¢‚éRŠİ‚³‚ñ‚ğ©•ª‚ÌŒã‚ë[r]
-‚É‰B‚µA‰´‚ÍŠİ“c‚ğáÉ‚İ‚Â‚¯‚½B[pcms]
+I crouched down and hid Yamagishi-san, who couldn't move,[r]behind me, and I glared at Kishida.[pcms]
 
 [ChrSetEx layer=1 chbase="kisi_c_b_01"]
 [ChrSetXY layer=1 x=80 y=0]
 [ChrSetParts layer=1 chface="kisi_c_b_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std283|
 [fc]
-[ns]Šİ“c[nse]
-u‚â‚Ü‚¬A‚µ‚¡`cc‚³‚ŸA‚±A‚¢‚¡`v[pcms]
+[ns]Kishida[nse]
+Yamagi, shii~...[pcms]
+Come on, ko, ii~[l][er]
 
 [ChrSetEx layer=1 chbase="yuu_c_c_09"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1043|
 [fc]
 [vo_ya s="yama0344"]
-[ns]RŠİ[nse]
-u‚¹ccæ¶cc‚â‚ß‚Äcc‚â‚ß‚ÄII@‚±‚Á‚¿—ˆ‚È‚¢[r]
-‚ÅI@‚¢‚â‚Ÿ‚ ‚ ‚ ‚ Iv[pcms]
+[ns]Yamagishi[nse]
+S-Sensei... stop... stop!! Don't come over here![l][er]
+Noooo![pcms]
 
 
 ;g
@@ -89,17 +88,16 @@
 
 *2696|
 [fc]
-RŠİ‚³‚ñ‚ÉŒü‚©‚Á‚Äè‚ğL‚Î‚µA‹ß‚Ã‚¢‚Ä‚­‚éŠİ“c‚ğA[r]
-‰´‚Í¡‚ ‚é—Í‚Ì‘S‚Ä‚ğU‚èi‚Á‚Ä“Ë‚«”ò‚Î‚µ‚½B[pcms]
+I reached out my hand towards Yamagishi-san and pushed[r]Kishida, who was approaching, with all the strength I had.[pcms]
 
 *2697|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ç‚ ‚ ‚ ‚Ÿ‚Ÿ‚Ÿ‚ÁIIIIv[pcms]
+[ns]Kato[nse]
+Raaaahhhhhh!!![pcms]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:‰£‚é
+;//SE:æ®´ã‚‹
 
 [se0 storage="se026"]
 
@@ -118,7 +116,7 @@
 [quake_chara layer=1 lo xy m]
 
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 
 [se0 storage="se021"]
 [backlay_c][chara_int][trans_c cross time=150]
@@ -126,252 +124,234 @@
 
 *2698|
 [fc]
-‘Ì“–‚½‚è‚É‹ß‚¢“Ë‚«”ò‚Î‚µ•û‚ÉAŠİ“c‚Ì‘Ì‚Í‚Í‚Ù‚ñ‚Ì­[r]
-‚µ’ˆ‚É•‚‚«A“ª‚©‚ç°‚É—‚¿‚ÄA“İ‚¢‰¹‚ğ‹¿‚©‚¹‚½B[pcms]
+Kishida's body, pushed with a force that was close to a body[r]blow, lifted slightly off the ground and fell to the floor[r]headfirst, making a dull sound.[pcms]
+[l][er]
 
 *2699|
 [fc]
-[ns]‰Á“¡[nse]
-uƒnƒ@ƒbAƒnƒ@ƒbccv[pcms]
+[ns]Kato[nse]
+Haa, haa...[pcms]
 
 *2700|
 [fc]
-“ª‚ğ‚Ü‚Æ‚à‚É‘Å‚Á‚½ÕŒ‚‚ÅA‘Ì‚ª“®‚©‚¹‚È‚¢‚Ì‚©AŠİ“c[r]
-‚Í¬‚³‚­™ï‚­‚¾‚¯‚ÅA‹N‚«‚ ‚ª‚ë‚¤‚Æ‚Í‚µ‚È‚©‚Á‚½B[pcms]
+The impact of hitting his head directly seemed to have[r]rendered Kishida unable to move, as he only let out a small[r]groan and made no attempt to get up.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1044|
 [fc]
 [vo_ya s="yama0345"]
-[ns]RŠİ[nse]
-u‚©cc‰Á“¡ŒNccIv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun...![pcms]
 
 *2701|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Æ‚¤‚Æ‚¤–{«‚ğŒ»‚µ‚â‚ª‚Á‚½‚Ècc‰\’Ê‚è‚ÌƒNƒ\–ì˜Y[r]
-‚¾‚ºv[pcms]
+[ns]Kato[nse]
+Finally showing your true colors, huh...[l][er]
+You really are a piece of shit, just as the rumors say.[pcms]
 
 *2702|
 [fc]
-Šİ“c‚©‚çV“¹æ¶‚Ì•û‚É‹ü‚ğˆÚ‚·‚ÆA°‚É~‚ë‚³‚ê‚½[r]
-‚æ‚¤‚ÅAæ¶‚Í˜L‰º‚ÉƒOƒbƒ^ƒŠ‚ÆQ‚»‚×‚Á‚Ä‚¢‚½B[pcms]
+When I shifted my gaze from Kishida to Shindou-sensei, it[r]seemed like he had been laid down on the floor, and he was[r]lying exhausted in the hallway.[pcms]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
-;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
-;•s—v[eval exp="="sf.g_scn08 = 1"]
+;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
+;ä¸è¦[eval exp="="sf.g_scn08 = 1"]
 
 *2703|
 [fc]
-‚»‚ÌV“¹æ¶‚ÉA‚Ü‚¾ƒ‚ƒm‚ğo‚µ‚½‚Ü‚Ü‚Ì^–ç‚ªA•¢‚¢[r]
-”í‚³‚ë‚¤‚Æ‚µ‚Ä‚¢‚éB[pcms]
+Shinya, who still had his thing out, was trying to cover[r]Shindou-sensei.[pcms]
 
 *2704|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨‚¢^–ç‚ÁII@‚¨‘OA‰½‚â‚Á‚Ä‚ñ‚¾IIv[pcms]
+[ns]Kato[nse]
+Hey Shinya!! What the hell are you doing?![pcms]
 
 *2705|
 [fc]
-‰´‚Ì“{–Â‚èº‚ÉA^–ç‚Í‹¯‚¦‚½‚æ‚¤‚ÈŠç‚ğ‚µ‚ÄA‚ä‚Á‚­[r]
-‚è‚±‚¿‚ç‚ğU‚è•Ô‚Á‚½B[pcms]
+Shinya, with a frightened expression on his face, slowly[r]turned around to face me in response to my angry shout.[pcms]
 
 [ChrSetEx layer=1 chbase="take_b_a_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_b_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std284|
 [fc]
-[ns]’|“à[nse]
-u‚ cc‚ÜA‚Ü‚Á‚Ä‚æA‚â‚·‚ä‚«cc‚±‚êcc‚±‚êA‚¿[r]
-‚ª‚¤‚ñ‚¾‚æccv[pcms]
+[ns]Takeuchi[nse]
+Ah... W-Wait, Yasuyuki... This...[l][er]
+This is different, you know...[pcms]
 
 *2706|
 [fc]
-[ns]‰Á“¡[nse]
-u‰´‚¾‚Á‚ÄM‚¶‚½‚­‚È‚¢‚æI@‚Å‚à‚ÈA‚±‚Ì–Ú‚ÅŒ©‚Ä‚é[r]
-‚ñ‚¾‚æI@‚¨‘O‚ª‰½‚ğ‚µ‚½‚©‚ğ‚Èv[pcms]
+[ns]Kato[nse]
+I don't want to believe it either![l][er]
+But, you know, I'm seeing it with my own eyes![l][er]
+What you did...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std285|
 [fc]
-[ns]’|“à[nse]
-u‚¿‚ª‚¤I@ƒ{ƒN‚¶‚á‚È‚¢I@ƒ{ƒN‚¶‚á‚È‚¢‚ñ‚¾Iv[pcms]
+[ns]Takeuchi[nse]
+No! It's not me! It's not me, I swear![pcms]
 
 *2707|
 [fc]
-^–ç‚ÍŒ¨‚Å‘§‚ğ‚µ‚È‚ª‚çAˆê•àA‚Ü‚½ˆê•à‚Æ‰´‚©‚ç‰“‚´[r]
-‚©‚Á‚Ä‚¢‚­B[pcms]
+Shinya, while breathing heavily, took a step back from me,[r]then another step, gradually distancing himself.[pcms]
 
 *2708|
 [fc]
-[ns]‰Á“¡[nse]
-uccwƒ{ƒN‚¶‚á‚È‚¢x‚¾‚Á‚ÄIH@©•ª‚Ì‚â‚Á‚½‚±‚ÆA[r]
-‚í‚©‚Á‚Ä‚ñ‚Ì‚©IHv[pcms]
+[ns]Kato[nse]
+... It wasn't me!? Do you even understand what you've done!?[pcms]
 
 *2709|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¢‚­‚ç‰½‚Å‚àA‚±‚ñ‚È–‚·‚éƒ„ƒc‚¾‚Æv‚í‚È‚©‚Á‚½I[r]
-cc‰ºè‚È‰R‚ğ•t‚­‚Ì‚à‚¢‚¢‰ÁŒ¸‚É‚µ‚ë‚ÁIv[pcms]
+[ns]Kato[nse]
+I never thought you would do something like this!...[l][er]
+Stop telling such a clumsy lie already![pcms]
 
 *2710|
 [fc]
-‰´‚ÍA^–ç‚ğƒuƒ“‰£‚è‚»‚¤‚É‚È‚Á‚Äk‚¦‚éè‚ğA•K€‚É[r]
-‰Ÿ‚³‚¦‚È‚ª‚çA–â‚¢‚Â‚ß‚éB[pcms]
+I desperately held back my trembling hand, which was about[r]to punch Shinya, and confronted him.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std286|
 [fc]
-[ns]’|“à[nse]
-u‚¿‚ª‚¤‚æccAƒ{ƒN‚¶‚á‚È‚¢‚ñ‚¾‚Á‚Ä‚Îccv[pcms]
+[ns]Takeuchi[nse]
+It's not true... It wasn't me, I swear...[pcms]
 
 *2711|
 [fc]
-[ns]‰Á“¡[nse]
-u‰½‚ªˆá‚¤‚ñ‚¾‚æ‚ÁII@‚¢‚¢‰ÁŒ¸‚É‚µ‚ë‚ÁIIv[pcms]
+[ns]Kato[nse]
+What's different?! Cut it out already![pcms]
 
 *2712|
 [fc]
-‚¶‚è‚¶‚èŒã‘Ş‚·‚é^–ç‚ÍA‹}‚É“®‚«‚ğ~‚ßA‰´‚ğáÉ‚İ•t[r]
-‚¯‚Ä‚­‚éB[pcms]
+Shinya, who was slowly backing away, suddenly stopped and[r]glared at me.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std287|
 [fc]
-[ns]’|“à[nse]
-ucc‚¾‚Ü‚ê‚æccv[pcms]
+[ns]Takeuchi[nse]
+... Shut up...[pcms]
 
 *2713|
 [fc]
-[ns]‰Á“¡[nse]
-u‰½Hv[pcms]
+[ns]Kato[nse]
+What?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std288|
 [fc]
-[ns]’|“à[nse]
-u‚¨‚Ü‚¦‚¾‚Á‚Äcc‚¨‚Ü‚¦‚¾‚Á‚ÄI@‚±‚Ì‚¨‚ñ‚È‚Æ‚â‚è[r]
-‚½‚¢‚Á‚Ä‚¢‚Á‚Ä‚½‚¶‚á‚È‚¢‚©‚æ‚¨‚¨‚§‚§‚ÁIIIIv[pcms]
+[ns]Takeuchi[nse]
+It was you too... It was you too![l][er]
+You said you wanted to do it with this girl, didn't you?![pcms]
 
 *2714|
 [fc]
-‰fŒ¤‚É“ü‚é‘OAV“¹æ¶‚Ì–£—Í‚ğŒê‚é^–ç‚ÌAwˆê‰ñ‚Å[r]
-‚¢‚¢‚©‚çƒ„ƒŠ‚½‚¢‚È‚Ÿx‚Æ‚¢‚¤Œ¾—t‚ÉA“¯ˆÓ‚µ‚½‚±‚Æ‚ª[r]
-‚ ‚Á‚½B^–ç‚Í‚»‚ê‚ğŒ¾‚Á‚Ä‚¢‚é‚Ì‚¾‚ë‚¤B[pcms]
+Before joining the Film Research Club, there was a time when[r]I agreed with Shinya's words, I want to do it with her at[r]least once, as he talked about the charm of Professor[r]Shindou.[l][er]
+Shinya must be referring to that.[pcms]
 
 *2715|
 [fc]
-‚¾‚ª‰´‚ÍA–{“–‚Éè‚ğo‚»‚¤‚È‚ñ‚Äl‚¦‚½‚±‚Æ‚Í‚È‚¢B[r]
-l‚¦‚é‚¾‚¯‚È‚Ì‚ÆAÀÛ‚Éè‚ğo‚µ‚Ä‚µ‚Ü‚¤‚Ì‚Å‚ÍA“V[r]
-‚Æ’n‚Ù‚Ç‚Ì·‚ª‚ ‚é‚Ì‚¾B[pcms]
+But I have never actually considered laying a hand on her.[l][er]
+There is a world of difference between just thinking about[r]it and actually doing it.[pcms]
 
 *2716|
 [fc]
-^–ç‚Ì‚â‚Á‚½‚±‚Æ‚Í”Æß‚¾B[r]
-‚¢‚­‚çe—F‚Å‚àAŒ©‰ß‚²‚¹‚é‚à‚Ì‚Å‚Í‚È‚¢B[pcms]
+What Shinya did is a crime. No matter how close of friends[r]we are, it's not something I can overlook.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std289|
 [fc]
-[ns]’|“à[nse]
-u‚Ş‚©‚Â‚­‚ñ‚¾‚æA‚¨‚Ü‚¦‚¥ccƒ{ƒN‚ğ‚Î‚©‚É‚µ‚ÄA‚¶[r]
-‚Ô‚ñ‚¾‚¯A‚ä‚¤‚¿‚á‚ñ‚â‚Ğ‚Æ‚İ‚É‚«‚É‚¢‚ç‚ê‚ÄII@‚È[r]
-‚©‚İ‚Íƒ{ƒN‚Æ‚¨‚È‚¶‚É‚­‚¹‚É‚³‚ ‚ ‚Ÿ‚ŸIIIIv[pcms]
+[ns]Takeuchi[nse]
+You make me sick... Making a fool out of me and being liked[r]by Yuu-chan and Hitomi only![l][er]
+Even though you're just like me on the inside, damn[r]itttt!!!!!![pcms]
 
 *2717|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¢‚¢‰ÁŒ¸‚É‚µ‚ëII@‰´‚ğˆ«‚­Œ¾‚Á‚Ä‚àA‚¨‘O‚Ì‚µ‚½[r]
-‚±‚Æ‚ªÁ‚¦‚é‚í‚¯‚¶‚á‚È‚¢‚ñ‚¾IIv[pcms]
+[ns]Kato[nse]
+Cut it out already!! Even if you badmouth me, it doesn't[r]erase what you've done!![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std290|
 [fc]
-[ns]’|“à[nse]
-uƒ{ƒN‚Í‚È‚ŸA‚¸‚Á‚Æcc‚¸‚Á‚Æ‚¨‚Ü‚¦‚Ì‚±‚Æ‚ª‚«‚ç‚¢[r]
-‚¾‚Á‚½‚ñ‚¾‚æ‚¨‚¨‚¨‚§‚§‚§IIIIv[pcms]
+[ns]Takeuchi[nse]
+I've always... always hated youuuuuuuuu!!!!!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 
 [se0 storage="se005"]
 
 *2718|
 [fc]
-[ns]‰Á“¡[nse]
-u‘Ò‚Ä‚ÁIIv[pcms]
+[ns]Kato[nse]
+Wait!![pcms]
 
 *2719|
 [fc]
-‰´‚É”w‚ğŒü‚¯‚Ä‘–‚èo‚µ‚½^–ç‚ÍA–h‰Î”à‚ğŠJ‚¯•ú‚¿A[r]
-ŠK’i‚ğ‰º‚è‚Ä‚¢‚Á‚½B[pcms]
+Shinya, who turned his back on me and started running,[r]opened the fire door and went down the stairs.[pcms]
 
 *2720|
 [fc]
-[ns]‰Á“¡[nse]
-u^–çccv[pcms]
+[ns]Kato[nse]
+Shinya...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_c_09"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1045|
 [fc]
 [vo_ya s="yama0346"]
-[ns]RŠİ[nse]
-u‚«‚á‚ ‚ ‚ ‚ ‚ ‚ÁI@‚©A‰Á“¡ŒNcc‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Yuu-chan... Kyaaaaa! K-Kato-kun...![pcms]
 
 *2721|
 [fc]
-RŠİ‚³‚ñ‚Ìº‚ÉU‚è•Ô‚é‚ÆAŠİ“c‚ª‹N‚«‚ ‚ª‚ë‚¤‚Æ‚µ‚Ä[r]
-‚¢‚é‚Æ‚±‚ë‚¾‚Á‚½B[pcms]
+When I turned to Yuu-chan's voice, Kishida was trying to get[r]up.[pcms]
 
 *2722|
 [fc]
-[ns]‰Á“¡[nse]
-u–Ú‚ğŠo‚Ü‚µ‚½‚©ccƒNƒ\ƒbIv[pcms]
+[ns]Kato[nse]
+Are you awake... you piece of shit![pcms]
 
 *2723|
 [fc]
-—§‚¿ã‚ª‚Á‚½Šİ“c‚ÍA“ª‚ğ‹­‚­‘Å‚Á‚½‚¹‚¢‚©A‘«‰º‚ª’è[r]
-‚Ü‚ç‚¸A‚Ó‚ç‚Â‚¢‚Ä‚¢‚éB[pcms]
+Kishida, who stood up, seemed to have hit his head hard, as[r]he couldn't steady himself and was staggering.[pcms]
 
 *2724|
 [fc]
-RŠİ‚³‚ñ‚ğ’T‚µ‚Ä‚¢‚é‚Ì‚©A‚æ‚ë‚ß‚«‚È‚ª‚ç•Ó‚è‚ğŒ©‰ñ[r]
-‚µ‚Ä‚¢‚½Šİ“c‚ÍA‚Æ‚¤‚Æ‚¤ƒoƒ‰ƒ“ƒX‚ğ•ö‚µ‚ÄA‘‹‚Ì•û‚Ö[r]
-“|‚ê‚ñ‚¾B[pcms]
+Kishida, who was looking around unsteadily as if searching[r]for Yamagishi-san, finally lost his balance and fell towards[r]the window.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_e_13"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_e_14"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1046|
 [fc]
 [vo_ya s="yama0347"]
-[ns]RŠİ[nse]
-u‚«‚á‚ ‚Ÿ‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Kyaaaah![pcms]
 
-;//SE:‘‹ƒKƒ‰ƒX‚ÌŠ„‚ê‚é‰¹
+;//SE:çª“ã‚¬ãƒ©ã‚¹ã®å‰²ã‚Œã‚‹éŸ³
 
 [se0 storage="se031"]
 
@@ -379,10 +359,9 @@
 
 *2725|
 [fc]
-“|‚ê‚ñ‚¾¨‚¢‚Ì‚Ü‚Ü‘‹ƒKƒ‰ƒX‚ğ“Ë‚«”j‚èA‚»‚ê‚Å‚à¨[r]
-‚¢‚Íã‚Ü‚ç‚¸AŠİ“c‚Í‘‹‚Ì‰º‚Ö‚Æ—‚¿‚Ä‚¢‚Á‚½B[pcms]
+With the momentum of his fall, Kishida crashed through the[r]window glass and continued to plummet without losing speed,[r]eventually falling down below the window.[pcms]
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 
 [se0 storage="se021"]
 
@@ -391,34 +370,32 @@
 *v1047|
 [fc]
 [vo_ri s="risa0340"]
-[ns]V“¹[nse]
-u‚¢‚â‚Ÿ‚ÁIv[pcms]
+[ns]Shindou[nse]
+Nooo![pcms]
 
 *2726|
 [fc]
-V“¹æ¶‚Ì”ß–Â‚É‚»‚¿‚ç‚ğŒ©‚é‚ÆA^–ç‚ªŠJ‚¯‚Ä‚¢‚Á‚½[r]
-–h‰Î”à‚©‚çA‘å¨‚ÌAƒEƒ`‚Ì§•‚ğ’…‚½’jq¶“k‚ª“ü‚è[r]
-‚ñ‚Å‚«‚Ä‚¢‚½B[pcms]
+When I looked towards Shindou-sensei's scream, I saw that[r]from the fire door that Shinya had opened, a large group of[r]male students wearing our school uniforms had entered.[pcms]
 
-;//SE:ƒKƒ„iÄ¶’¼ŒãƒtƒF[ƒhj
+;//SE:ã‚¬ãƒ¤ï¼ˆå†ç”Ÿç›´å¾Œãƒ•ã‚§ãƒ¼ãƒ‰ï¼‰
 
 [se0 storage="se001"]
 
-;—§‚¿
+;ç«‹ã¡
 *std291|
 [fc]
-[ns]’jq¶“k‚y[nse]
-u‚ `ccv[pcms]
+[ns]Male Student Z[nse]
+Ahh...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std292|
 [fc]
-[ns]’jq¶“k‚x[nse]
-u‚£‚ ccA‚¨‚ñA‚ÈA‚¾ccv[pcms]
+[ns]Male Student Y[nse]
+Ugh... oh, what... is this...[pcms]
 
 [stop_se0]
 
-;//¦;//BG:bg007b+zombie‚W‘Ì
+;//â€»;//BG:bg007b+zombieï¼˜ä½“
 
 [ChrSetEx layer=4 chbase="zom_03_a"][ChrSetXY layer=4 x=0 y=0]
 [ChrSetEx layer=2 chbase="zom_05_a"][ChrSetXY layer=2 x=0 y=0]
@@ -435,55 +412,55 @@
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1048|
 [fc]
 [vo_ya s="yama0348"]
-[ns]RŠİ[nse]
-u‚Ècc‚È‚ñ‚Åcc‚ ‚ñ‚È‚É‘òRcc‚¢‚â‚Ÿ‚ ‚ ‚ Iv[pcms]
+[ns]Yamagishi[nse]
+W-Why... why are there so many...[l][er]
+n-noooo![pcms]
 
 *2727|
 [fc]
-[ns]‰Á“¡[nse]
-uæ¶A‚±‚Á‚¿‚Å‚·I@‘‚­“¦‚°‚Ä‚­‚¾‚³‚¢‚ÁIIv[pcms]
+[ns]Kato[nse]
+Sensei, this way! Please escape quickly!![pcms]
 
 *2728|
 [fc]
-‰´‚Ìº‚ğ•·‚¢‚ÄAV“¹æ¶‚Í°‚ÉU—‚µ‚Ä‚¢‚½©•ª‚Ì•[r]
-‚ÆA’u‚©‚ê‚½‚Ü‚Ü‚É‚È‚Á‚Ä‚¢‚½ƒ‰ƒWƒI‚ğ’Í‚İA‚±‚¿‚ç‚Ö[r]
-‘–‚è‚¾‚µ‚½B[pcms]
+Hearing my voice, Shindou-sensei grabbed her scattered[r]clothes and the radio that had been left behind on the[r]floor, and ran towards me.[pcms]
 
 *2729|
 [fc]
-[ns]‰Á“¡[nse]
-uRŠİ‚³‚ñ‚àI@ƒzƒ‰‘–‚Á‚ÄI@“¦‚°‚é‚æIv[pcms]
+[ns]Kato[nse]
+Yamagishi-san too! Come on, run![l][er]
+Let's escape![pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1049|
 [fc]
 [vo_ya s="yama0349"]
-[ns]RŠİ[nse]
-u‚¤A‚¤‚ñIv[pcms]
+[ns]Yamagishi[nse]
+Y-Yes![pcms]
 
 *2730|
 [fc]
-‰´‚ÍRŠİ‚³‚ñ‚Ìè‚ğˆø‚«A”ñíŠK’i‚Ö‹}‚¢‚¾B[pcms]
+I took Yamagishi-san's hand and hurried towards the[r]emergency staircase.[pcms]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 
 [se0 storage="se005"]
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=501][hide_chara_int]
 
 
@@ -491,22 +468,22 @@
 
 ;//blackout
 
-;//‚±‚±‚Ü‚Å–{•Ò
+;//ã“ã“ã¾ã§æœ¬ç·¨
 
-;//ƒEƒBƒ“ƒhƒEÁ‹
+;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//•‚ÉƒtƒF[ƒh
+;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 
-;//¦ğŒ•ªŠò
-;//Eflag:—Dƒ‹[ƒgƒNƒŠƒA@‚ªOFF;//[02150]‚Ö
-;//Eflag:—Dƒ‹[ƒgƒNƒŠƒA ‚ªON;//[03030]‚Ö
+;//â€»æ¡ä»¶åˆ†å²
+;//ãƒ»flag:å„ªãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒOFF;//[02150]ã¸
+;//ãƒ»flag:å„ªãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ ãŒON;//[03030]ã¸
 
 [if exp="sf.g_yuu_clear==1"]
 	;[jump target=*SEL00_02149_END]

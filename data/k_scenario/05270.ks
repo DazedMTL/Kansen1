@@ -1,19 +1,19 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN05270wH“°‚Öx
-;//;//BG:“n‚è˜L‰ºF’©
-;//“oêl•¨GålŒöE“µ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05270ã€é£Ÿå ‚ã¸ã€
+;//;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šæœ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *05270_TOP
-;[debug_win]‚È‚¤@05270[debug_win_end]
-;*SceneSet|wH“°‚Öx
+;[debug_win]ãªã†ã€€05270[debug_win_end]
+;*SceneSet|ã€é£Ÿå ‚ã¸ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05270 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05270 = 1"]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 
 [bgm001]
 
@@ -34,117 +34,114 @@
 *v2159|
 [fc]
 [vo_sa s="sae0426"]
-[ns]²”Œ[nse]
-u“¯‚¶ŠwZ‚É‚ ‚Ì—l‚ÈlŠÔ‚ª‚¢‚é‚±‚Æ‚ğA„‚Í’p‚¸‚©‚µ[r]
-‚­v‚¢‚Ü‚·Iv[pcms]
+[ns]Saeki[nse]
+I feel ashamed that someone like that exists in the same[r]school as me![pcms]
 
 *5187|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤[‚ñccv[pcms]
+[ns]Kato[nse]
+Hmm...[pcms]
 
 *5188|
 [fc]
-Ÿ‚©‚çŸ‚Ö‚Æ—¬‚ê‚é‚æ‚¤‚Éo‚Ä‚­‚éA²”Œ‚Ì^–ç‚É‘Î‚·[r]
-‚éƒOƒ`‚ÉA‰´‚Í³’¼•ğ‚ê‚Ä‚¢‚½B[pcms]
+I was honestly amazed at the complaints about Shinya from[r]Saeki, who kept coming out one after another.[pcms]
 
 *5189|
 [fc]
-‚æ‚­‚Ü‚Ÿ‚±‚ê‚¾‚¯o‚Ä‚­‚é‚à‚ñ‚¾‚ÈccB–{“–‚É^–ç‚Ì[r]
-‚±‚Æ‚ªŒ™‚¢‚È‚ñ‚¾‚ÈA²”Œ‚Á‚ÄccB[pcms]
+Wow, they keep coming out one after another...[l][er]
+Saeki really hates Shinya, huh...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2160|
 [fc]
 [vo_sa s="sae0427"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñ‚àA•t‚«‡‚¢‚ğl‚¦‚½•û‚ª‚¢‚¢‚Ì‚Å‚Í‚ ‚è‚Ü[r]
-‚¹‚ñ‚©H@‚ ‚ñ‚È’á‘­‚Å‰º—ò‚ÈlŠÔ‚Æˆê‚É‚¢‚é‚ÆA[r]
-‚ ‚È‚½‚Ì•iŠi‚Ü‚Å‰º‚ª‚Á‚Ä‚µ‚Ü‚¢‚Ü‚·‚æIv[pcms]
+[ns]Saeki[nse]
+Kato-san, don't you think you should reconsider your[r]relationship?[l][er]
+Being with such a vulgar and despicable person will only[r]lower your dignity![pcms]
 
 *5190|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *5191|
 [fc]
-‚¢‚¢‚©‚°‚ñA²”Œ‚ÌƒOƒ`‚É‰´‚ÍƒEƒ“ƒUƒŠ‚µ‚Ä‚¢‚½B[r]
-²”Œ‚ª‚Ç‚ê‚¾‚¯Œ™‚Á‚Ä‚¢‚Ä‚àA^–ç‚Í‰´‚É‚Æ‚Á‚ÄA[r]
-q‹Ÿ‚Ì ‚©‚ç‚Ìe—F‚¾B[pcms]
+I had had enough of Saeki's complaints.[l][er]
+No matter how much Saeki hated him, Shinya was my childhood[r]friend.[pcms]
 
 *5192|
 [fc]
-‚»‚Ì^–ç‚Ìˆ«Œû‚ğA©•ª‚ğD‚«‚¾‚ÆŒ¾‚Á‚Ä‚­‚ê‚½—‚Ìq[r]
-‚ªŒ¾‚¤‚Æ‚¢‚¤‚Ì‚ªA‰´‚É‚Íh‚©‚Á‚½B[pcms]
+It was painful for me to hear a girl who said she liked me[r]speak ill of Shinya like that.[pcms]
 
 *5193|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨‚¢A²”Œccv[pcms]
+[ns]Kato[nse]
+Hey, Saeki...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_10"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2161|
 [fc]
 [vo_sa s="sae0428"]
-[ns]²”Œ[nse]
-u‚È‚ñ‚Å‚·‚©ƒbIv[pcms]
+[ns]Saeki[nse]
+What is it?![pcms]
 
 *5194|
 [fc]
-[ns]‰Á“¡[nse]
-u^–ç‚ğˆ«‚­Œ¾‚Á‚Ä‚é‚Ì‚¨‘OAƒqƒhƒCŠç‚µ‚Ä‚é‚¼H[r]
-ƒjƒ…[ƒX‚Åo‚Ä‚­‚é”ÆßÒ‚ÌÊ^‚İ‚½‚¢‚Èv[pcms]
+[ns]Kato[nse]
+When you're speaking ill of Shinya, your face looks[r]terrible, you know?[l][er]
+It's like looking at the picture of a criminal that appears[r]in the news.[l][er]
+Kato: When you badmouth Shinya, your expression is awful,[r]you know?[l][er]
+It's like looking at the picture of a criminal that appears[r]in the news.[pcms]
+[l][er]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2162|
 [fc]
 [vo_sa s="sae0429"]
-[ns]²”Œ[nse]
-u‚ÍA”ÆßÒIHv[pcms]
+[ns]Saeki[nse]
+A criminal?![pcms]
 
 *5195|
 [fc]
-[ns]‰Á“¡[nse]
-u‚í‚´‚í‚´©•ª‚©‚çAƒqƒhƒCŠç‚É‚È‚é‚æ‚¤‚±‚Æ‚µ‚È‚­‚Ä[r]
-‚à‚¢‚¢‚¾‚ëH@‚¹‚Á‚©‚­‚Ì”ül‚ª‘ä‚È‚µ‚¾‚ºv[pcms]
+[ns]Kato[nse]
+You don't have to go out of your way to make such an ugly[r]face, you know?[l][er]
+It's such a waste for a beautiful girl like you.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2163|
 [fc]
 [vo_sa s="sae0430"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *5196|
 [fc]
-ƒOƒ`‚ğŒ¾‚¤‚Ì‚ğ‚â‚ß‚½²”Œ‚ÍA[r]
-ƒwƒR‚ñ‚¾—lq‚Å‚¤‚Â‚Ş‚¢‚½B[pcms]
+Saeki, who had stopped complaining, looked down with a[r]dejected expression.[pcms]
 
 *5197|
 [fc]
-²”Œ‚É‚ÍA’N‚Ìˆ«Œû‚àŒ¾‚Á‚Ä—~‚µ‚­‚È‚¢B[r]
-‚Ç‚¤‚¹Œ©‚é‚È‚çAãY—í‚È²”Œ‚ğŒ©‚Ä‚¢‚½‚¢B[r]
-‚¤‚Â‚Ş‚­²”Œ‚Ì‰¡Šç‚ğ‚İ‚ÄA‰´‚Í‚»‚¤l‚¦‚½B[pcms]
+I don't want Saeki to speak ill of anyone.[l][er]
+If I have to look at her, I want to see the beautiful Saeki.[l][er]
+As I looked at Saeki's profile as she looked down, that's[r]what I thought.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -152,8 +149,8 @@
 
 ;//blackout
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05280]‚Ö
+;//[05280]ã¸
 [jump target=*05280_TOP storage="05280.ks"]

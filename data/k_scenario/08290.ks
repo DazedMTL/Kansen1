@@ -1,68 +1,68 @@
 
-;//YƒuƒƒbƒNNo.08283‚©‚ç08289‚Ü‚ÅŒ‡”Ô
-;//¡ËƒuƒƒbƒN08290w‚±‚ñ‚ç‚ñx
-;//BG:‰®ãF’©
-;//“oêl•¨FålŒöE—DE•ü”üEƒŠƒTE’|“à
+;//ã€†ãƒ–ãƒ­ãƒƒã‚¯No.08283ã‹ã‚‰08289ã¾ã§æ¬ ç•ª
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08290ã€ã“ã‚“ã‚‰ã‚“ã€
+;//BG:å±‹ä¸Šï¼šæœ
+;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»å„ªãƒ»æœ‹ç¾ãƒ»ãƒªã‚µãƒ»ç«¹å†…
 
 *08290_TOP
-;[debug_win]‚È‚¤@08290[debug_win_end]
+;[debug_win]ãªã†ã€€08290[debug_win_end]
 
-;*SceneSet|w‚±‚ñ‚ç‚ñx
+;*SceneSet|ã€ã“ã‚“ã‚‰ã‚“ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08290 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08290 = 1"]
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 
 ;//;//BG:bg22a
 
 [bg storage="bg22b"]
 [trans_c cross time=500]
 
-;//SE:ƒTƒCƒŒƒ“@ƒ‹[ƒv
+;//SE:ã‚µã‚¤ãƒ¬ãƒ³ã€€ãƒ«ãƒ¼ãƒ—
 
 *10572|
 [fc]
-cc‚ ‚Â‚¢ccB[pcms]
+... It's hot...[pcms]
 
 *10573|
 [fc]
-‚¤‚é‚³‚¢ccB[pcms]
+You're annoying...[pcms]
 
 *10574|
 [fc]
-‚ ‚½‚Ü‚ª‚ª‚ñ‚ª‚ñ‚·‚éccB[pcms]
+My head is pounding...[pcms]
 
 *10575|
 [fc]
-‚Ü‚½cc‚¾‚ê‚àcc‚¢‚È‚¢ccB[pcms]
+Again... no one... is here...[pcms]
 
 *10576|
 [fc]
-‚È‚ñ‚Åcc‚¨‚êcc‚Ğ‚Æ‚è‚É‚³‚ê‚é‚ñ‚¾ccB[pcms]
+Why... am I... being left alone...[pcms]
 
 *10577|
 [fc]
-‚Ç‚±‚É‚¢‚Á‚½‚ñ‚¾ccB[pcms]
+Where did they go...?[pcms]
 
 *10578|
 [fc]
-‚Ğ‚Æ‚è‚É‚µ‚È‚¢‚Å‚­‚êccB[pcms]
+Please don't leave me alone...[pcms]
 
 *10579|
 [fc]
-‚â‚ß‚Ä‚­‚ê‚æccB[pcms]
+Please stop...[pcms]
 
 *10580|
 [fc]
-‚Ü‚Ô‚µ‚¢ccB[pcms]
+It's bright...[pcms]
 
 *10581|
 [fc]
-‚¾‚ê‚àccB[pcms]
+No one...[pcms]
 
 *10582|
 [fc]
-‚¾‚ê‚àcc‚İ‚¦‚È‚¢ccB[pcms]
+No one... can be seen...[pcms]
 
 ;//;//BG:bg06a
 
@@ -74,66 +74,67 @@
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std697|
 [fc]
-[ns]’|“à[nse]
-u‚¨‚¢cc‚¨A‚Ü‚¦cc‚ÈA‚ÉA‚â‚Á‚Äcc‚é‚ñA‚¾B[r]
-‚¶‚ã‚¬‚åA‚¤cc‚Í‚¶cc‚ÜA‚é‚¼ccv[pcms]
+[ns]Takeuchi[nse]
+Hey... y-you... w-what are... you doing?[l][er]
+The c-class... is starting...[pcms]
 
 *10583|
 [fc]
-‚Ğ‚Æ‚¾ccB[pcms]
+Hitomi...[pcms]
 
 *10584|
 [fc]
-‚æ‚©‚Á‚½ccB[pcms]
+Thank goodness...[pcms]
 
 *10585|
 [fc]
-‚Ğ‚Æ‚è‚¶‚ácc‚È‚¢ccB[pcms]
+I'm not alone...[pcms]
 
 *10586|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¶‚ãcc‚¬‚å‚¤ccv[pcms]
+[ns]Kato[nse]
+Ju... gyou...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_a_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3872|
 [fc]
 [vo_ya s="yama1088"]
-[ns]RŠİ[nse]
-uö‹Æ‚©cc‚»‚¤‚¾‚Ëcc’x‚µ‚¿‚á‚¤‚ËccB‚ A„[r]
-ƒNƒ‰ƒXˆá‚¤cc‚æ‚ËHv[pcms]
+[ns]Yamagishi[nse]
+Class... yeah... I'm going to be late...[l][er]
+Ah, I'm in a different class...[l][er]
+right?[pcms]
 
 *10587|
 [fc]
-‚Ö‚â‚Ì‚È‚©‚ÅccB[r]
-‚©‚İ‚Ì‚È‚ª‚¢‚¨‚ñ‚È‚ªcc‚Ä‚Ü‚Ë‚«cc‚µ‚Ä‚éccB[pcms]
+Inside the room... a long-haired woman...[l][er]
+is beckoning...[pcms]
 
 *10588|
 [fc]
-‚ ‚Ì‚Ö‚âccB[r]
-‚ ‚Ì‚Ö‚â‚Åcc‚¶‚ã‚¬‚å‚¤ccB[pcms]
+That room... In that room... Class...[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std698|
 [fc]
-[ns]’|“à[nse]
-u‚ ccB‚È‚ñA‚©cc‚¨‚Ü‚¦cc‚«‚çA‚¢ccv[pcms]
+[ns]Takeuchi[nse]
+Ah... What... are you... doing?[l][er]
+I... dislike... you...[pcms]
 
-;//SE:l‚É‚Ô‚Â‚©‚é
+;//SE:äººã«ã¶ã¤ã‹ã‚‹
 [se0 storage="se025"]
 [quake_bg x m]
 
@@ -143,7 +144,7 @@
 ;;;[sysbt_meswin clear]
 
 
-;//SE:‘‹ƒKƒ‰ƒX‚ÌŠ„‚ê‚é‰¹
+;//SE:çª“ã‚¬ãƒ©ã‚¹ã®å‰²ã‚Œã‚‹éŸ³
 [se0 storage="se031"]
 
 [bg storage="bg20b"]
@@ -154,22 +155,21 @@
 
 *10589|
 [fc]
-[ns]‰Á“¡[nse]
-uHHv[pcms]
+[ns]Kato[nse]
+Huh?[pcms]
 
 *10590|
 [fc]
-‚ ‚êccH[r]
-‚¨‚êA‚»‚çcc‚Æ‚ñ‚Å‚éccB[pcms]
+Huh...? I... I'm flying...[pcms]
 
 *10591|
 [fc]
-‚È‚ñ‚¾‚±‚êccH[pcms]
+What is this...?[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 [se0 storage="se021"]
 [flash_re]
 
@@ -184,101 +184,100 @@
 *v3873|
 [fc]
 [vo_ya s="yama1089"]
-[ns]RŠİ[nse]
-u‚ ‚Í‚Í‚ÁI@‚È‚É‚ ‚êI@‚·‚²‚¢‚Ë‚¥cc”ò‚ñ‚¾‚æHv[pcms]
+[ns]Yamagishi[nse]
+Ahaha! What's that? It's amazing...[l][er]
+I flew, you know?[pcms]
 
 *v3874|
 [fc]
 [vo_sa s="sae1281"]
-[ns]²”Œ[nse]
-uˆê‘Ì‚È‚É‚ğ‘›‚¢‚Åcc‚ ‚çccH@‰Á“¡‚³‚ñA‚¢‚Â‚Ì[r]
-ŠÔ‚É‚»‚ñ‚ÈŠ‚ÅQ‚Ä‚¢‚½‚ñ‚Å‚·‚©Hv[pcms]
+[ns]Saeki[nse]
+What on earth are you making a fuss about...[l][er]
+Oh...? Kato-san, when did you fall asleep in a place like[r]this?[pcms]
 
 *v3875|
 [fc]
 [vo_ya s="yama1090"]
-[ns]RŠİ[nse]
-u‚ A’x‚µ‚¿‚á‚¤cc‚¶‚á‚ ‚Ëcc‚ ‚Í‚Í‚Í‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Ah, I'm going to be late... Well then...[l][er]
+ahahaha![pcms]
 
 *10592|
 [fc]
-‚Ícc‚Í‚Í‚Í‚ÁccB[r]
-‚»‚ç‚¾ccB[pcms]
+Ha... hahaha... It's the sky...[pcms]
 
 *10593|
 [fc]
-‚«‚ê‚¢‚¾ccB[pcms]
+It's beautiful...[pcms]
 
 *10594|
 [fc]
-‚Ü‚Ô‚µ‚¢ccB[pcms]
+It's dazzling...[pcms]
 
 *10595|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Í‚Í‚ÁccƒQƒzƒbI@‚ A‚êccH@‚¢A‚«‚ªccH[r]
-‚·cc‚¦‚È‚¢ccH@‚ ‚Í‚ÁIH@‚Í‚ÁI@‚Í‚ÁI@‚­[r]
-‚éA‚µ‚¢cc‚ÈHv[pcms]
+[ns]Kato[nse]
+Haha... Cough! Ah, what...? My, my head...?[l][er]
+I... can't... breathe...? Ahaha!?[l][er]
+Ha! Ha! It's... dizzying... isn't it?[pcms]
 
 *10596|
 [fc]
-‚ ‚ ccB[pcms]
+Ah...[pcms]
 
 *10597|
 [fc]
-‚¢‚«‚ª‚·‚¦‚È‚¢ccB[pcms]
+I can't breathe...[pcms]
 
 *10598|
 [fc]
-‚È‚ñ‚¾‚±‚êccB[pcms]
+What is this...?[pcms]
 
 *10599|
 [fc]
-‚Å‚àcc‚¨‚©‚µ‚¢‚âccB[pcms]
+But... this is strange...[pcms]
 
 *10600|
 [fc]
-‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚ÁI[pcms]
+Hahahahahahaha![pcms]
 
 *10601|
 [fc]
-‚Í‚ÁI@‚Í‚ÁI[pcms]
+Ha! Ha![pcms]
 
 *10602|
 [fc]
-‚¨‚©‚µ‚¢‚ÈccH[pcms]
+This is strange...[pcms]
 
 *10603|
 [fc]
-‚Í‚­‚±‚Æ‚Í‚Å‚«‚é‚Ì‚ÉH[r]
-‚·‚¢‚±‚ß‚È‚¢ccH[pcms]
+I can wear it, but I can't breathe...?[pcms]
 
 *10604|
 [fc]
-‚Ü‚Ô‚µ‚¢ccB[pcms]
+It's dazzling...[pcms]
 
 *10605|
 [fc]
-‚­‚é‚µ‚¢B[pcms]
+It's painful.[pcms]
 
 *10606|
 [fc]
-‚ ‚êccB[r]
-‚È‚ñ‚©‚Æ‚ñ‚Å‚«‚½ccB[pcms]
+Huh... Something just flew by...[pcms]
 
-;//SE:ƒTƒCƒŒƒ“@¦’â~
+;//SE:ã‚µã‚¤ãƒ¬ãƒ³ã€€â€»åœæ­¢
 [stop_se1]
 
-;//SE:í“¬‹@{”š’e
+;//SE:æˆ¦é—˜æ©Ÿï¼‹çˆ†å¼¾
 [se0 storage="se054"]
 
 *10607|
 [fc]
-‚­‚ë‚¢‚Â‚ÔH[pcms]
+Dark droplets?[pcms]
 
 *10608|
 [fc]
-‚È‚ñ‚¾‚ë‚¤cc‚ ‚êccB[pcms]
+I wonder what it is... that...[pcms]
 
 [quake_bg xy m]
 
@@ -286,16 +285,15 @@
 
 [bg storage="effect_white"][trans_c cross time=500]
 
-;//ô–³‰¹
+;//â™ªç„¡éŸ³
 
 *10609|
 [fc]
-‚Ü‚Ô‚µ‚¢ccB[pcms]
+It's dazzling...[pcms]
 
 *10610|
 [fc]
-‚ ccB[r]
-‚ ‚½‚Ü‚É‚È‚É‚©‚Ô‚Â‚©ccB[pcms]
+Ah... Something hit my head...[pcms]
 
-;//[08310‚Ö]
+;//[08310ã¸]
 [jump target=*08310_TOP storage="08310.ks"]

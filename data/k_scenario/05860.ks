@@ -1,16 +1,16 @@
 
-;//¡ËƒuƒƒbƒN05860wƒ^ƒCƒ€ƒŠƒ~ƒbƒgx
-;//BG:OŠK˜L‰ºF—[•û
-;//BG:OŠK‹³ºF—[•ûFÁ“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05860ã€ã‚¿ã‚¤ãƒ ãƒªãƒŸãƒƒãƒˆã€
+;//BG:ä¸‰éšå»Šä¸‹ï¼šå¤•æ–¹
+;//BG:ä¸‰éšæ•™å®¤ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05860_TOP
-;[debug_win]‚È‚¤@05860[debug_win_end]
-;*SceneSet|wƒ^ƒCƒ€ƒŠƒ~ƒbƒgx
+;[debug_win]ãªã†ã€€05860[debug_win_end]
+;*SceneSet|ã€ã‚¿ã‚¤ãƒ ãƒªãƒŸãƒƒãƒˆã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05860 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05860 = 1"]
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 
 [bgm009]
 
@@ -19,7 +19,7 @@
 [bg storage="bg06b"]
 [trans_c cross time=500]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 
 [se0 storage="se005"]
 
@@ -32,19 +32,18 @@
 
 ;;;[sysbt_meswin]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2584|
 [fc]
 [vo_sa s="sae0695"]
-[ns]²”Œ[nse]
-u”šŒ‚IHv[pcms]
+[ns]Saeki[nse]
+Bombing!?[pcms]
 
 *6292|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ B˜Z‚¿‚å‚¤‚Ç‚ÉA‚±‚Ì•Ó‘S•”‚ğ”š’e‚Åƒuƒb”ò‚Î[r]
-‚·‚ç‚µ‚¢v[pcms]
+[ns]Kato[nse]
+Ah, I heard that they're going to blow up this entire area[r]with a bomb exactly at 6 o'clock.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -53,96 +52,90 @@
 
 *6293|
 [fc]
-‰´‚ÍŠK’i‚©‚çˆê”Ô‹ß‚¢‹³º‚ÉAŒv‚ğŒ©‚é‚½‚ß‚É”ò‚Ñ[r]
-‚ñ‚¾B[pcms]
+I jumped into the classroom closest to the stairs to check[r]the time.[pcms]
 
 *6294|
 [fc]
-[ns]‰Á“¡[nse]
-uŒÜŒÜ\•ªIH@‚ ‚Æ\•ª‚µ‚©‚È‚¢‚Ì‚©‚æIIv[pcms]
+[ns]Kato[nse]
+50!? There's only ten minutes left!![pcms]
 
 *6295|
 [fc]
-–³—‚¾ccB[r]
-‚ ‚Æ\•ª‚¶‚áA‚Ç‚±‚É‚à“¦‚°‚ç‚ê‚È‚¢ccII[r]
-ŠwZ‚Ì’†‚É‰B‚ê‚é‚Æ‚±‚à‚È‚¢‚µccB[pcms]
+It's impossible... There's only ten minutes left, there's[r]nowhere to run...!![l][er]
+There's nowhere to hide inside the school either...!![pcms]
 
 *6296|
 [fc]
-[ns]‰Á“¡[nse]
-uƒNƒ\ƒHccƒbIIv[pcms]
+[ns]Kato[nse]
+Damn it...!![pcms]
 
 ;	/*
-;	;//SE:•Ç‚ğ‰£‚é
+;	;//SE:å£ã‚’æ®´ã‚‹
 ;	[se0 storage="se028"]
 ;	[quake_bg x m]
 ;	*/
 
 *6300|
 [fc]
-‰½‚Æ‚©”šŒ‚‚©‚çg‚ğç‚é•û–@‚Í‚È‚¢‚©‚ÆA“ª‚ğ•¨¦‚¢‘¬[r]
-“x‚Å‰ñ“]‚³‚¹‚Ä‚İ‚é‚ªA—LŒø‚¾‚Æv‚¦‚él‚¦‚ªo‚Ä‚±‚È[r]
-‚¢‚Ü‚ÜAŠÔ‚¾‚¯‚ª‰ß‚¬‚Ä‚¢‚­B[pcms]
+I try to spin my head at an incredible speed, desperately[r]searching for a way to protect myself from the bombing, but[r]no effective ideas come to mind.[l][er]
+Only time keeps passing by.[pcms]
 
 *6301|
 [fc]
-‰½‚©cc‰½‚©•û–@‚Í‚È‚¢‚Ì‚©IH[r]
-‰´‚Í‚Æ‚à‚©‚­A²”Œ‚¾‚¯‚Å‚àç‚Á‚Ä‚â‚ê‚é•û–@‚ÍII[pcms]
+Is there... Is there any way!?[l][er]
+Even if it's just me, is there a way to protect Saeki!![pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2585|
 [fc]
 [vo_sa s="sae0696"]
-[ns]²”Œ[nse]
-u‚ ‚ÁIv[pcms]
+[ns]Saeki[nse]
+Ah![pcms]
 
 *6302|
 [fc]
-²”Œ‚Íº‚ğã‚°A‰½‚©‚ğv‚¢‚Â‚¢‚½‚æ‚¤‚ÈŠç‚ğA‰´‚ÉŒü[r]
-‚¯‚½B[pcms]
+Saeki raised her voice and looked at me with a face that[r]seemed to have come up with something.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2586|
 [fc]
 [vo_sa s="sae0697"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñA’n‰ººI@ŠwH‚Ì’n‰ºº‚Å‚·IIv[pcms]
+[ns]Saeki[nse]
+Kato-san, the basement! The basement of the school[r]cafeteria!![pcms]
 
 *6303|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤‚©cc‚ ‚»‚±‚ª‚ ‚Á‚½‚Á‚¯ccv[pcms]
+[ns]Kato[nse]
+I see... Was there a basement there...[pcms]
 
 *6304|
 [fc]
-ƒNƒ\cc‰½‚Å‚à‚Á‚Æ‘‚­v‚¢o‚¹‚È‚©‚Á‚½‚ñ‚¾ccBç[r]
-‚ç‚È‚«‚á‚È‚ç‚È‚¢”¤‚Ì²”Œ‚ÉA‹t‚É‰´‚ª•‚¯‚ç‚ê‚é‚È‚ñ[r]
-‚ÄccB[pcms]
+Shit... Why couldn't I remember sooner...[l][er]
+That I could be the one to save Saeki, who I should be[r]protecting...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2587|
 [fc]
 [vo_sa s="sae0698"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñA‹}‚ª‚È‚¢‚Æccv[pcms]
+[ns]Saeki[nse]
+Kato-san, we need to hurry...[pcms]
 
 *6305|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚ ‚ Aˆ«‚¢ccv[pcms]
+[ns]Kato[nse]
+Ah, ah, I'm sorry...[pcms]
 
 *6306|
 [fc]
-©•ª‚Ì•sb”ã‚È‚³‚É’¾‚ñ‚¾‹C‚¿‚ğA“ª‚ğU‚Á‚Ä‚Ç‚¤‚É[r]
-‚©Ø‚è‘Ö‚¦A‰´‚Í²”Œ‚Æ‹¤‚É‹³º‚ğ”ò‚Ño‚µ‚½B[pcms]
+I shook off the feeling of my own incompetence and switched[r]gears, and together with Saeki, I rushed out of the[r]classroom.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -153,5 +146,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05870]‚Ö
+;//[05870]ã¸
 [jump target=*05870_TOP storage="05870.ks"]

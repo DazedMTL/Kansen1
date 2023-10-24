@@ -1,327 +1,316 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02092wŒÄ‚Ño‚µx
-;//BG:‹’®ŠoºF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöE—DE’|“àEƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02092ã€å‘¼ã³å‡ºã—ã€
+;//BG:è¦–è´è¦šå®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…ãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02092_TOP
-;[debug_win]‚È‚¤@02092[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02092 = 1"]
+;[debug_win]ãªã†ã€€02092[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02092 = 1"]
 
-;*SceneSet|wŒÄ‚Ño‚µx
+;*SceneSet|ã€å‘¼ã³å‡ºã—ã€
 
 ;//[02092]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//BG:bg015c
 ;//[bg storage="bg15c"]
 ;//[trans_c cross time=500]
 
-;//SE:”à‚ğŠJ‚¯‚é
+;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
 [se0 storage="se008"]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v782|
 [fc]
 [vo_ri s="risa0229"]
-[ns]V“¹[nse]
-u‚ ‚çA‹N‚«‚Ä‚¢‚½‚Ì‚Ëv[pcms]
+[ns]Shindou[nse]
+Oh, you're awake.[pcms]
 
 *1870|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚Í‚¢ccv[pcms]
+[ns]Kato[nse]
+Ah, yes...[pcms]
 
 *1871|
 [fc]
-Šë‚È‚©‚Á‚½cc—Ç‚©‚Á‚½ARŠİ‚³‚ñ‚Ì‚Ù‚Á‚Ø‚½‚ğG‚é‘O[r]
-‚ÅccB[pcms]
+Thank goodness, I woke up just before touching Yamagishi-[r]san's cheek...[pcms]
 
 *1872|
 [fc]
-‚Ù‚Á‚Æ‹¹‚ğ•‚Å‰º‚ë‚·‰´‚ğ‚æ‚»‚ÉA•”‰®‚Ì’†‚ğŒ©‰ñ‚µ‚Ä[r]
-‚¢‚½V“¹æ¶‚ÍA¢‚Á‚½‚Æ‚¢‚¤Šç‚Å—­‘§‚ğ‚Â‚¢‚½B[pcms]
+Shindou-sensei, who was looking around the room, let out a[r]sigh with a troubled expression, ignoring me who was[r]relieved.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_b_03"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v783|
 [fc]
 [vo_ri s="risa0230"]
-[ns]V“¹[nse]
-u“c’†ŒN‚ÆŒÜ\—’‚³‚ñA‚±‚±‚É‚Í–ß‚Á‚Ä‚±‚È‚©‚Á‚½‚æ‚¤[r]
-‚Ëccv[pcms]
+[ns]Shindou[nse]
+Tanaka-kun and Igarashi-san, it seems they haven't returned[r]here...[pcms]
 
 *1873|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ cc‚à‚µ‚©‚µ‚ÄA•à‚¢‚Ä‹A‚Á‚½‚ñ‚¶‚á‚È‚¢ƒX‚©H@[r]
-‚¿‚å‚Á‚Æ‹——£‚ ‚é‚¯‚ÇA‚¸‚Á‚Æ‰º‚è‚¾‚µA—‚Ìq‚Å‚à•à[r]
-‚¢‚Ä‹A‚ê‚é‚Æv‚¢‚Ü‚·‚æv[pcms]
+[ns]Kato[nse]
+Ah... Could it be that they walked home?[l][er]
+It's a bit of a distance, but since it's mostly downhill, I[r]think even girls can walk home.[pcms]
 
 *1874|
 [fc]
-‰Æ‚©‚ç‚±‚±‚Ü‚Å•à‚¢‚Ä—ˆ‚½ŒoŒ±‚©‚çA‰´‚Í—S“ñ‚Æ[r]
-ŒÜ\—’ƒTƒ“‚ª•à‚¢‚Ä‹A‚Á‚½‚Ì‚Å‚Í‚È‚¢‚©‚Æl‚¦‚½B[pcms]
+From my experience of walking from home to here, I thought[r]that Yuuji and Igarashi-san might have walked home.[pcms]
 
 *1875|
 [fc]
-‚Å‚àV“¹æ¶‚ÍA‰´‚Ì‚æ‚¤‚ÉŠyŠÏ“I‚É‚Í‚È‚ç‚¸A[r]
-Œµ‚µ‚¢Šç‚Å—âÃ‚É“š‚¦‚½B[pcms]
+But Shindou-sensei, unlike me who was optimistic, responded[r]calmly with a stern expression.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v784|
 [fc]
 [vo_ri s="risa0231"]
-[ns]V“¹[nse]
-uˆÀ”Û‚ÌŠm”F‚ªæ‚ê‚Ä‚¢‚È‚¢¡‚Ìó‹µ‚Å‚ÍA‚»‚ñ‚È•—‚É[r]
-ŠÈ’P‚Él‚¦‚é‚±‚Æ‚Í‚Å‚«‚È‚¢‚ív[pcms]
+[ns]Shindou[nse]
+Given the current situation where we haven't confirmed their[r]safety, we can't afford to think so lightly.[pcms]
 
 *1876|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Å‚·‚æ‚Ëccv[pcms]
+[ns]Kato[nse]
+That's right...[pcms]
 
 *1877|
 [fc]
-Œ¾‚í‚ê‚Ä‚İ‚ê‚ÎA•à‚«‚¾‚ë‚¤‚ª‰½‚¾‚ë‚¤‚ªA‰½‚àŒ¾‚í‚¸[r]
-‚É‹A‚é‚Ì‚Í–â‘è‚¾‚æ‚ÈB‚»‚à‚»‚àA‰½‚àŒ¾‚í‚¸‚É‚¢‚È‚­[r]
-‚È‚Á‚Ä‚é‚í‚¯‚¾‚µB[pcms]
+Now that you mention it, whether they walked or not, it's a[r]problem if they just went home without saying anything.[l][er]
+In the first place, the fact that they disappeared without[r]saying anything is concerning.[pcms]
 
 *1878|
 [fc]
-‚Å‚àA‚¢‚­‚ç‚ ‚Ì“ñl‚ªƒoƒJƒbƒvƒ‹‚Á‚ÄŒ¾‚Á‚½‚Á‚ÄA‚±[r]
-‚ñ‚ÈŸè‚È‚±‚Æ‚ğ‚µ‚½‚çA‚ ‚Æ‚ÅƒGƒ‰ƒCà‹³‚³‚ê‚é‚Á‚Ä[r]
-‚í‚©‚è‚»‚¤‚È‚à‚ñ‚¾‚¯‚Ç‚ÈccB[pcms]
+But even if those two are called a stupid couple, they[r]should know that if they do something so selfish, they'll[r]get a serious scolding later...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *v785|
 [fc]
 [vo_ya s="yama0225"]
-[ns]RŠİ[nse]
-u‚ñ‚£ccv[pcms]
+[ns]Yamagishi[nse]
+Mmm...[pcms]
 
 *1879|
 [fc]
-‰´‚ÆV“¹æ¶‚Ì˜b‚µº‚Å–Ú‚ğŠo‚Ü‚µ‚½‚Ì‚©ARŠİ‚³‚ñ‚ª[r]
-“ª‚ğ‚¿ã‚°‚ÄAü‚è‚ğƒLƒ‡ƒƒLƒ‡ƒ‚ÆŒ©‰ñ‚µ‚½B[pcms]
+Did Yamagishi-san wake up from the sound of my and Shindou-[r]sensei's conversation?[l][er]
+She lifted her head and looked around anxiously.[pcms]
 
 *1880|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨‚Í‚æ[ARŠİ‚³‚ñv[pcms]
+[ns]Kato[nse]
+Good morning, Yamagishi-san.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v786|
 [fc]
 [vo_ya s="yama0227"]
-[ns]RŠİ[nse]
-u‚ cc‚¨‚Ÿ‚æ`ccv[pcms]
+[ns]Yamagishi[nse]
+Ah... G-good morning~...[pcms]
 
 *1881|
 [fc]
-Q‹N‚«‚Å‚¿‚á‚ñ‚Æ’‚ê‚Ä‚¢‚È‚¢AQ‚Ú‚¯‚Ü‚È‚±‚ÌRŠİ‚³[r]
-‚ñ‚Ìp‚ª”÷Î‚Ü‚µ‚¢B[pcms]
+It's heartwarming to see Yamagishi-san, still half-asleep,[r]unable to speak properly.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v787|
 [fc]
 [vo_ri s="risa0232"]
-[ns]V“¹[nse]
-u’|“àŒNA‚»‚ë‚»‚ë‹N‚«‚È‚³‚¢Iv[pcms]
+[ns]Shindou[nse]
+Takeuchi-kun, it's about time to wake up![pcms]
 
-;//SE:ƒKƒ^ƒb
+;//SE:ã‚¬ã‚¿ãƒƒ
 [se0 storage="se023"]
 
 *1882|
 [fc]
-V“¹æ¶‚Ì‘å‚«‚Èº‚É”ò‚Ñ‹N‚«‚½^–ç‚ÍA¡‚ªö‹Æ’†‚¾[r]
-‚ÆŠ¨ˆá‚¢‚Å‚à‚µ‚Ä‚¢‚é‚Ì‚©A‹³‰È‘‚ğ’T‚·‚æ‚¤‚ÉŠ÷‚Ìã[r]
-‚ğŒ©‰ñ‚µ‚Ä‚¢‚éB[pcms]
+Startled by Shindou-sensei's loud voice, Shinya, who had[r]just woken up, is now looking around his desk as if he's[r]mistaken that it's still during class and searching for his[r]textbook.[pcms]
 
 *1883|
 [fc]
-[ns]‰Á“¡[nse]
-u‚­‚Á‚­ccƒoƒJccv[pcms]
+[ns]Kato[nse]
+Hehe... Idiot...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v788|
 [fc]
 [vo_ri s="risa0233"]
-[ns]V“¹[nse]
-u“c’†ŒN‚ÆŒÜ\—’‚³‚ñ‚ªA‚Ü‚¾–ß‚Á‚Ä‚«‚Ä‚¢‚Ü‚¹‚ñB‹M[r]
-•û’B‚Ì’†‚ÅA”Ş‚ç‚ğŒ©‚½l‚Í‚¢‚È‚¢Hv[pcms]
+[ns]Shindou[nse]
+Tanaka-kun and Igarashi-san haven't come back yet.[l][er]
+Has anyone among you seen them?[pcms]
 
 *1884|
 [fc]
-V“¹æ¶‚Ì¿–â‚ÉA•·‚©‚ê‚½“ñl‚Í‚Ú‚ñ‚â‚è‚Æèõ‚¢‚½B[pcms]
+The two who were asked by Shindou-sensei's question nodded[r]absentmindedly.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v789|
 [fc]
 [vo_ri s="risa0234"]
-[ns]V“¹[nse]
-u‚»‚¤ccv[pcms]
+[ns]Shindou[nse]
+I see...[pcms]
 
 *1885|
 [fc]
-[ns]‰Á“¡[nse]
-uæ¶A²”Œ‚à‚¢‚È‚­‚È‚Á‚Ä‚Ü‚·‚æv[pcms]
+[ns]Kato[nse]
+Sensei, Saeki is also gone.[pcms]
 
 *1886|
 [fc]
-‰´‚ÌŒ¾—t‚ÉARŠİ‚³‚ñ‚ªº“à‚ğŒ©‰ñ‚µ‚ÄAŒû‚ğŠJ‚¢‚½B[pcms]
+Yamagishi-san looked around the room and opened her mouth in[r]response to my words.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v790|
 [fc]
 [vo_ya s="yama0228"]
-[ns]RŠİ[nse]
-u‚ cc‰×•¨A‚È‚­‚È‚Á‚Ä‚£ccv[pcms]
+[ns]Yamagishi[nse]
+Ah... My bag, it's gone...[pcms]
 
 *1887|
 [fc]
-‘Š•Ï‚í‚ç‚¸‚¿‚á‚ñ‚Æ’‚ê‚Ä‚¢‚È‚¢RŠİ‚³‚ñ‚ÌŒ¾—t‚ÅA²[r]
-”Œ‚Ì‰×•¨‚ª‚È‚­‚È‚Á‚Ä‚¢‚é‚±‚Æ‚É‹C‚ª‚Â‚¢‚½B[pcms]
+I noticed that Saeki's belongings were missing, as[r]Yamagishi-san's words indicated that she still couldn't[r]speak properly.[pcms]
 
 *1888|
 [fc]
-[ns]‰Á“¡[nse]
-u–{“–‚¾ccB‚»‚ê‚¶‚á‚ ‚¢‚ÂA•à‚¢‚Ä‹A‚Á‚½‚Ì‚©‚Èv[pcms]
+[ns]Kato[nse]
+It's true... Then, did she walk home?[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v791|
 [fc]
 [vo_ri s="risa0235"]
-[ns]V“¹[nse]
-u‚¢‚âA’©‚Ìˆê”Ô‘‚¢ƒoƒX‚Å‹A‚Á‚½‚Ì‚©‚àccB‚¢‚­‚ç[r]
-‰½‚Å‚àA•à‚¢‚Ä‹A‚é‚Æ‚Ív‚¦‚È‚¢‚íB‚»‚ê‚É‚µ‚Ä‚àcv[pcms]
+[ns]Shindou[nse]
+No, she might have gone home on the earliest morning bus...[l][er]
+I can't imagine her walking home no matter what.[l][er]
+But still...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v792|
 [fc]
 [vo_ri s="risa0236"]
-[ns]V“¹[nse]
-ucc¢‚Á‚½¶“k‰ï’·‚ËB˜A—‚à‚È‚µ‚É‹A‚é‚È‚ñ‚Äv[pcms]
+[ns]Shindou[nse]
+... Troublesome student council president.[l][er]
+Going home without any notice.[pcms]
 
 *1889|
 [fc]
-‚»‚¤‚¢‚¦‚ÎA‚Æ‰´‚Ív‚¢—§‚Á‚ÄA—S“ñ‚ÆŒÜ\—’ƒTƒ“‚Ì‰×[r]
-•¨‚ğ’T‚µ‚Ä‚İ‚é‚ÆA“ñl‚Ì‰×•¨‚Í‚Ü‚¾c‚Á‚Ä‚¢‚½B[pcms]
+By the way, I suddenly thought of it and decided to look for[r]Tanaka and Igarashi-san's belongings.[l][er]
+When I searched, their belongings were still there.[pcms]
 
 *1890|
 [fc]
-‚Æ‚¢‚¤‚±‚Æ‚ÍA‚Ü‚¾ŠwZ‚Ì’†‚É‚¢‚é‚Á‚Ä‚±‚Æ‚©ccB[r]
-Œv‚É–Ú‚ğ‚â‚Á‚ÄAV“¹æ¶‚Í‰´’B‚ÌŠç‚ğŒ©“n‚µ‚½B[pcms]
+So that means she's still inside the school...[l][er]
+Shindou-sensei glanced at the clock and looked around at our[r]faces.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_b_03"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v793|
 [fc]
 [vo_ri s="risa0237"]
-[ns]V“¹[nse]
-u‚à‚¤ƒoƒX‚Ío‚Ä‚é‚í‚ËccB‹M•û’BA¡“ú‚Í‚à‚¤‹A‚è[r]
-‚È‚³‚¢B‚¢‚È‚¢l‚É‚ÍAŒã‚Å„‚ª˜A—‚ğæ‚Á‚ÄA‘Š‰‚Ì[r]
-ˆ—‚ğ‚µ‚Ü‚·v[pcms]
+[ns]Shindou[nse]
+The bus has already left... You all should go home for[r]today.[l][er]
+For those who are not here, I will contact them later and[r]handle the appropriate measures.[pcms]
 
 *1891|
 [fc]
-‘Š‰‚Ìˆ—cc‚ÇƒGƒ‰ƒCà‹³A‚Á‚Ä‚Æ‚±‚©B[pcms]
+Appropriate measures... I guess that means a serious[r]scolding.[pcms]
 
 *1892|
 [fc]
-Ÿè‚É‚¢‚È‚­‚È‚Á‚ÄA‰´’B‚ÉUX‘{‚³‚¹‚½‚ñ‚¾B‚»‚Ì‚®[r]
-‚ç‚¢‚Í“–‘R‚¾‚ë‚¤B¡‰ñ‚¾‚¯‚ÍA‚ ‚Ì“ñl‚É“¯î‚Å‚«‚È[r]
-‚¢‚ÈB[pcms]
+They disappeared without permission and made us search all[r]over the place.[l][er]
+It's only natural that they receive some reprimand for this.[l][er]
+I can't sympathize with those two this time.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v794|
 [fc]
 [vo_ri s="risa0238"]
-[ns]V“¹[nse]
-u‚»‚ê‚Å‚ÍA‹C‚ğ‚Â‚¯‚Ä‹A‚è‚È‚³‚¢Bcc‚¨”æ‚ê—lv[pcms]
+[ns]Shindou[nse]
+Well then, be careful on your way home...[l][er]
+Thank you for your hard work.[pcms]
 
 *1893|
 [fc]
-æ¶‚ÍA‚½‚ß‘§¬‚¶‚è‚É‰ğU‚Ìˆ¥A‚ğ‚µ‚½B[r]
-‚à‚¤A‚ ‚¢‚Â‚ç‚Í•ú‚Á‚Ä‚¨‚¢‚ÄA‰´’B‚à‹A‚ë‚¤cc[pcms]
+The teacher let out a sigh and gave a farewell address.[l][er]
+Well, let's leave those guys alone and go home ourselves...[l][er]
+The teacher let out a sigh and gave a farewell address.[l][er]
+Well, let's leave those guys alone and go home ourselves...[pcms]
+[l][er]
 
 *1894|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨”æ‚ê—l‚Å‚µ‚½v[pcms]
+[ns]Kato[nse]
+Thank you for your hard work.[pcms]
 
 *1895|
 [fc]
-“c’†AŒÜ\—’‚Ì—¼–¼‚ÍA[r]
-‹A‚é‘O‚É—‰È€”õº‚ÉŠñ‚è‚È‚³‚¢B[pcms]
+Tanaka and Igarashi, please stop by the science preparation[r]room before you go home.[pcms]
 
 *1896|
 [fc]
-‰´’B‚ª‹A‚é—pˆÓ‚ğ‚µ‚Ä‚¢‚éŠÔ‚ÉA•”Â‚É‚»‚¤‘‚¢‚ÄA[r]
-V“¹æ¶‚Í‹’®Šoº‚ğo‚Äs‚Á‚½B[pcms]
+While we were preparing to leave, Shindou-sensei wrote that[r]on the blackboard and left the AV room.[pcms]
 
 ;//blackout
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//[02093]‚Ö
+;//[02093]ã¸
 [jump target=*02093_TOP storage="02093.ks"]
 

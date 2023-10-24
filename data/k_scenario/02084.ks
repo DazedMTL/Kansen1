@@ -1,24 +1,24 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02084w“c’†‚ªH‚¢‰ß‚¬‚Å• ‚ğ‚±‚í‚µ‚Ä‚¢‚½‚©‚çx
-;//BG:“Áê‹³º˜L‰ºF–éF“_“”
-;//“oêl•¨GålŒöEƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02084ã€ç”°ä¸­ãŒé£Ÿã„éãã§è…¹ã‚’ã“ã‚ã—ã¦ã„ãŸã‹ã‚‰ã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02084_TOP
-;[debug_win]‚È‚¤@02084[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02084 = 1"]
+;[debug_win]ãªã†ã€€02084[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02084 = 1"]
 
-;*SceneSet|w“c’†‚ªH‚¢‰ß‚¬‚Å• ‚ğ‚±‚í‚µ‚Ä‚¢‚½‚©‚çx
+;*SceneSet|ã€ç”°ä¸­ãŒé£Ÿã„éãã§è…¹ã‚’ã“ã‚ã—ã¦ã„ãŸã‹ã‚‰ã€
 
 ;//[02084]
 
-;//flag:ƒŠƒT‚ÌÅŒã‚É—‚Şƒtƒ‰ƒO
+;//flag:ãƒªã‚µã®æœ€å¾Œã«çµ¡ã‚€ãƒ•ãƒ©ã‚°
 
 [eval exp="f.RISA_FINAL = 1"]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//BG:bg005c
 ;//[bg storage="bg05c"]
@@ -28,113 +28,106 @@
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v711|
 [fc]
 [vo_ri s="risa0219"]
-[ns]V“¹[nse]
-uH‚×‰ß‚¬‚ÅccHv[pcms]
+[ns]Shindou[nse]
+Did you eat too much...?[pcms]
 
 *1712|
 [fc]
-‰´‚Í”ÓƒƒV‚Ì•Ğ•t‚¯‚Ì‚Ì‚±‚Æ‚ğv‚¢o‚µ‚ÄA‚»‚ê‚Å‰½[r]
-‚Æ‚©‚²‚Ü‚©‚»‚¤‚Æl‚¦‚½B[pcms]
+I remembered what happened during dinner cleanup and tried[r]to come up with a way to cover it up.[pcms]
 
 *1713|
 [fc]
-[ns]‰Á“¡[nse]
-u”ÓƒƒV‚Ì•Ğ•t‚¯‚ÌA• ‚ª’É‚­‚È‚Á‚½‚Á‚ÄŒ¾‚Á‚ÄAŒÜ[r]
-\—’ƒTƒ“‚ÆƒgƒCƒŒ‚És‚Á‚½‚ñƒX‚æB‚¾‚©‚çAŠÓÜ‰ï‚Ì“r[r]
-’†‚Å‚Ü‚½’É‚­‚È‚Á‚ÄAo‚Äs‚Á‚½‚ñ‚¾‚Æv‚¤‚ñ‚Å‚·v[pcms]
+[ns]Kato[nse]
+During dinner cleanup, I said I had a stomachache and went[r]to the restroom with Igarashi-san.[l][er]
+So, I think during the middle of the viewing party, I[r]started feeling sick again and went out.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_b_03"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v712|
 [fc]
 [vo_ri s="risa0220"]
-[ns]V“¹[nse]
-u‚»‚¤ccB‚»‚ê‚È‚çA‚Ü‚¾‚Ç‚±‚©‚ÌƒgƒCƒŒ‚É‚¢‚é‚Ì‚©[r]
-‚µ‚çB‚Å‚àA‚¾‚Æ‚·‚é‚Æ‚¨‚©‚µ‚¢‚í‚Ëv[pcms]
+[ns]Shindou[nse]
+I see... If that's the case, maybe they're still in some[r]restroom.[l][er]
+But if that's true, it's strange.[pcms]
 
 *1714|
 [fc]
-[ns]‰Á“¡[nse]
-uH@‰½‚ª‚Å‚·‚©Hv[pcms]
+[ns]Kato[nse]
+? What is it?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v713|
 [fc]
 [vo_ri s="risa0221"]
-[ns]V“¹[nse]
-u‹M•û’BAƒgƒCƒŒ‚ÍŠm”F‚µ‚½‚Ì‚Å‚µ‚å‚¤H@‚È‚Ì‚ÉAŒ©[r]
-‚Â‚¯‚ç‚ê‚È‚©‚Á‚½‚ÌHv[pcms]
+[ns]Shindou[nse]
+Did you check the restroom? And yet, you couldn't find them?[pcms]
 
 *1715|
 [fc]
-[ns]‰Á“¡[nse]
-uˆêŠK‚Í‰´‚ÆRŠİ‚³‚ñ‚ÅŒ©‚Ü‚µ‚½‚¯‚ÇAã‚Ì•û‚Í²”Œ‚ª[r]
-s‚«‚Ü‚µ‚½‚©‚çccB‚ ‚¢‚Â‹°‚ª‚è‚¾‚©‚çA‚¿‚á‚ñ‚ÆŠm[r]
-”F‚µ‚È‚©‚Á‚½‚Ì‚©‚à‚µ‚ê‚È‚¢ƒX‚Ëv[pcms]
+[ns]Kato[nse]
+I watched the first floor with Yamagishi-san, but Saeki went[r]upstairs...[l][er]
+Since she's easily scared, maybe she didn't check properly.[pcms]
 
 *1716|
 [fc]
-“r’†‚Å•|‚³‚Ì‚ ‚Ü‚è‚ÉA‘{‚·‚Ì‚ğ’ú‚ß‚½‚Éˆá‚¢‚È‚¢B[r]
-‚»‚±‚Åƒxƒ\‚Å‚à‚©‚¢‚ÄA–Ú‚Ìü‚è‚ğÔ‚­‚µ‚½‚ñ‚¾‚ë‚¤B[pcms]
+She must have given up searching halfway because she was too[r]scared.[l][er]
+So, she probably wiped her tears and made her eyes red.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v714|
 [fc]
 [vo_ri s="risa0222"]
-[ns]V“¹[nse]
-uˆÄŠOA‚»‚ñ‚È‚Æ‚±‚ë‚©‚à‚µ‚ê‚È‚¢‚í‚ËccB‚í‚©‚è‚Ü[r]
-‚µ‚½B‹M•û‚Í–ß‚Á‚ÄA‚İ‚ñ‚È‚É‚à‚¤‹x‚Ş‚æ‚¤‚ÉŒ¾‚Á‚Ä‚¨[r]
-‚¢‚ÄB“ñl‚Í„‚ª‘{‚µ‚Ä‚¨‚­‚ív[pcms]
+[ns]Shindou[nse]
+Unexpectedly, that might be the case...[l][er]
+I understand. You go back and tell everyone to rest.[l][er]
+I'll search for the two of them.[pcms]
 
 *1717|
 [fc]
-‚»‚¤Œ¾‚Á‚ÄV“¹æ¶‚Í¬‚³‚­‘§‚ğ‚Â‚¢‚ÄA‚±‚ÌŠwZ‚Ì’N[r]
-‚à‚ªŒ©‚½‚±‚Æ‚Ì‚È‚¢‚æ‚¤‚ÈA—D‚µ‚¢ÎŠç‚ğŒ©‚¹‚½B[pcms]
+Saying that, Shindou-sensei took a small breath and showed a[r]gentle smile that no one in this school had ever seen[r]before.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_d_04"]
 [ChrSetXY layer=1 x=180 y=0]
 [ChrSetParts layer=1 chface="risa_c_d_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v715|
 [fc]
 [vo_ri s="risa0223"]
-[ns]V“¹[nse]
-uƒtƒtƒbccH‚×‰ß‚¬‚Ä‚¨• ‚ğ‰ó‚·q‚â‚çAˆÓ’n‚Á’£‚è[r]
-‚Ì‹°‚ª‚è‚³‚ñ‚â‚çA‚Ü‚é‚Å¬‚³‚¢q‚ÌW‚Ü‚è‚Ëv[pcms]
+[ns]Shindou[nse]
+Hehe... We have a child who eats too much and gets a[r]stomachache, a stubborn scaredy-cat, it's like a gathering[r]of little kids.[pcms]
 
 *1718|
 [fc]
-[ns]‰Á“¡[nse]
-uƒnƒnccv[pcms]
+[ns]Kato[nse]
+Haha...[pcms]
 
 *1719|
 [fc]
-ƒNƒXƒNƒX‚ÆÎ‚¤V“¹æ¶‚ÍA‚¢‚Â‚à‚Ì‚æ‚¤‚È•Ê‚Ì¢ŠE‚Ì[r]
-l‚Æ‚¢‚¤Š´‚¶‚ª‚µ‚È‚­‚ÄA—×‚ÉZ‚ñ‚Å‚é—D‚µ‚¢‚¨o‚³‚ñ[r]
-‚İ‚½‚¢‚Év‚¦‚½B[pcms]
+Shindou-sensei, who chuckled softly, didn't feel like the[r]usual person from a different world.[l][er]
+Instead, he seemed like a kind older sister living next[r]door.[pcms]
 
 *1720|
 [fc]
-•’i‚Æ‚Í³”½‘Î‚ÌAæ¶‚Ì‚»‚ñ‚Èp‚ğŒ©‚ç‚ê‚½‚±‚Æ‚ªA[r]
-‰´‚Í‚È‚ñ‚¾‚©Šğ‚µ‚©‚Á‚½B[pcms]
+Seeing such a different side of the teacher, which was[r]completely opposite to their usual self, made me feel[r]somehow happy.[pcms]
+[l][er]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
@@ -148,5 +141,5 @@
 
 ;;;[sysbt_meswin]
 
-;//[02086]‚Ö
+;//[02086]ã¸
 [jump target=*02086_TOP storage="02086.ks"]

@@ -1,20 +1,20 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN07160wÄ‰ïx
-;//;//BG:“ñŠK˜L‰ºF–éGÁ“”
-;//;//BG:“ñŠK‹³ºG–éFÁ“”
-;//“oêl•¨FålŒöEŠ´õ“µ
-;//F“µ‹“_
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07160ã€å†ä¼šã€
+;//;//BG:äºŒéšå»Šä¸‹ï¼šå¤œï¼›æ¶ˆç¯
+;//;//BG:äºŒéšæ•™å®¤ï¼›å¤œï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»æ„ŸæŸ“ç³
+;//ï¼šç³è¦–ç‚¹
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *07160_H_TOP
-;[debug_win]‚È‚¤@07160_H[debug_win_end]
+;[debug_win]ãªã†ã€€07160_H[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07160 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07160 = 1"]
 
-;//ôFBGM004
+;//â™ªï¼šBGM004
 
 [bgm004]
 
@@ -23,8 +23,7 @@
 
 *7288|
 [fc]
-v‚¤‚æ‚¤‚É“®‚©‚¹‚È‚¢‘«‚ğˆø‚«‚¸‚é‚æ‚¤‚É‚µ‚ÄA‚â‚Á‚Æ[r]
-‚Ìv‚¢‚ÅA„‚Í“ñŠK‚Öã‚ª‚Á‚Ä‚«‚½B[pcms]
+I dragged my legs, unable to move as I wanted, and finally[r]managed to make my way up to the second floor.[pcms]
 
 ;//;//BG:bg06d
 
@@ -33,71 +32,65 @@
 
 *7289|
 [fc]
-‚¨‚©‚µ‚ÈŠ´Šo‚ğŠ´‚¶‚½–‚ÆAŠÖŒW‚ª‚ ‚é‚Ì‚©B[r]
-ŠÔ‚ªŒo‚Â‚É˜A‚êA„‚Í‰½ŒÌ‚©A‘Ì‚ğãè‚­“®‚©‚¹‚È‚­[r]
-‚È‚Á‚Ä‚«‚Ä‚¢‚½B[pcms]
+I wonder if it's related to the strange sensation I felt.[l][er]
+As time passed, for some reason, I found myself unable to[r]move my body properly.[pcms]
 
 *7290|
 [fc]
-‚Í‚â‚­Aw‚ ‚Ì‚Ğ‚Æx‚ğ‚İ‚Â‚¯‚È‚¯‚ê‚ÎccB[r]
-‚©‚ç‚¾‚ªA‚¤‚²‚©‚¹‚é‚¤‚¿‚ÉccB[pcms]
+I have to find 'that person' quickly...[l][er]
+while I can still move my body...[pcms]
 
 *7291|
 [fc]
-‚Ó‚ç‚Â‚«‚È‚ª‚ç˜L‰º‚ğ•à‚¢‚Ä‚¢‚é‚ÆAˆêº‚¾‚¯A”à‚ªŠJ[r]
-‚¯‚ç‚ê‚Ä‚¢‚é‹³º‚ª‚ ‚é‚Ì‚ÉA„‚Í‹C‚ª‚Â‚¢‚½B[pcms]
+While stumbling down the hallway, I noticed that only one[r]classroom door was open.[pcms]
 
 *7292|
 [fc]
-”à‚ÌŠ‚Ü‚Ås‚Á‚Ä’†‚ğ”`‚«‚Ş‚ÆA•sv‹c‚È–‚ÉA‚»‚Ì[r]
-ŒiF‚ÉŒ©Šo‚¦‚ª‚ ‚é‚æ‚¤‚Év‚¦‚½B[pcms]
+When I reached the door and peeked inside, strangely enough,[r]the scenery seemed familiar to me.[pcms]
 
 *7293|
 [fc]
-‚Ç‚¤‚µ‚Ä‚©‚µ‚çccB[r]
-‚È‚Â‚©‚µ‚³‚·‚çA‚©‚ñ‚¶‚éccB[pcms]
+I wonder why... I can even feel a sense of nostalgia...[pcms]
 
 *v2945|
 [fc]
 [vo_sa s="sae0820"]
-[ns]²”Œ[nse]
-u‚ ccv[pcms]
+[ns]Saeki[nse]
+Ah...[pcms]
 
 *7294|
 [fc]
-’†‚Ö‘«‚ğ“¥‚İ“ü‚ê‚é‚ÆA‚»‚Ì‹³º‚Ì°‚É’j«‚ªˆêlA‰¡[r]
-‚½‚í‚Á‚Ä‚¢‚é‚Ì‚ªŒ©‚¦‚½B[pcms]
+When I stepped into the room, I could see a man lying on the[r]floor.[pcms]
 
 *7295|
 [fc]
-„‚Í‚»‚ê‚ªw‚ ‚Ìlx‚È‚Ì‚¾‚ÆAu‚ÉŒå‚Á‚½B[pcms]
+I instantly realized that it was 'that person'.[pcms]
 
 *7296|
 [fc]
-‰½ŒÌ‚È‚çA–¼‘O‚à’m‚ç‚È‚¢AŠç‚É‚àŠo‚¦‚ª‚È‚¢‚»‚Ì’j«[r]
-‚Ìp‚ğŒ©‚Ä‚¢‚é‚ÆA‰º• •”‚ª\\\q‹{‚ªáu‚­‚©‚ç‚¾B[pcms]
+Because when I looked at the figure of that man, whose name[r]I didn't even know and whose face I couldn't remember, my[r]lower abdomen...[l][er]
+my uterus... started to ache.[pcms]
 
 *v2946|
 [fc]
 [vo_sa s="sae0821"]
-[ns]²”Œ[nse]
-u‚Ó‚Óccv[pcms]
+[ns]Saeki[nse]
+Hehe...[pcms]
 
 *7297|
 [fc]
-‚©‚ç‚¾‚ªA‚à‚Æ‚ß‚Ä‚¢‚éccB[r]
-‚Í‚â‚­Aw‚ ‚Ì‚Ğ‚Æx‚ğ‚¤‚¯‚¢‚ê‚½‚¢‚Æcc[pcms]
+My body... is yearning for it.[l][er]
+I want to embrace 'that person' quickly...[pcms]
 
 *v2947|
 [fc]
 [vo_sa s="sae0822"]
-[ns]²”Œ[nse]
-u‚â‚Á‚ÆA‚İ‚Â‚¯‚½ccv[pcms]
+[ns]Saeki[nse]
+Finally, I found you...[pcms]
 
 *7298|
 [fc]
-‚Í‚â‚é‹C‚¿‚ğ—}‚¦‚Â‚ÂA„‚Íw‚ ‚Ìlx‚Ì–T‚ç‚É•à‚İ[r]
-Šñ‚Á‚½B[pcms]
+While suppressing my growing excitement, I approached the[r]side of 'that person'.[pcms]
 
 ;//blackout
 
@@ -106,30 +99,30 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//‚±‚±‚Ü‚Å–{•Ò
+;//ã“ã“ã¾ã§æœ¬ç·¨
 
-;;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 ;[if exp="tf.scene_mode == 1"]
 ;	[jump storage="b_scene.ks" target=*back_from_SR]
 ;[endif]
 
-;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
-;•s—v[eval exp="="sf.g_scn37 = 1"]
+;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
+;ä¸è¦[eval exp="="sf.g_scn37 = 1"]
 
-;//ƒEƒBƒ“ƒhƒEÁ‹
+;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 ;[black_toplayer][trans_c random][hide_chara_int]
 [zapfade]
 
-;//•‚ÉƒtƒF[ƒh
+;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//Ÿ‚ÌƒV[ƒ“‚Ö]
+;//;//æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 
-;//[07040]‚Ö
+;//[07040]ã¸
 
 [jump target=*07040_H_TOP storage="07040_H.ks"]
 

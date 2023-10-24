@@ -1,15 +1,15 @@
 
-;//¡ËƒuƒƒbƒN05190wà“¾x
-;//BG:“Áê‹³º˜L‰ºG–éF“_“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05190ã€èª¬å¾—ã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼›å¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05190_TOP
-;[debug_win]‚È‚¤@05190[debug_win_end]
-;*SceneSet|wà“¾x
+;[debug_win]ãªã†ã€€05190[debug_win_end]
+;*SceneSet|ã€èª¬å¾—ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05190 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05190 = 1"]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 [bgm001]
 
 ;//BG:bg004c
@@ -24,133 +24,123 @@
 
 *5002|
 [fc]
-²”Œ‚ğ’Ç‚Á‚Ä‰´‚ªZÉ‚É“ü‚Á‚½A‚ ‚¢‚Â‚ÍŠù‚ÉAV“¹[r]
-æ¶‚Ì‚¢‚é—‰Èº‚ğ’Ê‚è‰ß‚¬‚é‚Æ‚±‚ë‚¾‚Á‚½B[pcms]
+When I entered the school building chasing after Saeki, she[r]had already passed by the science room where Shindou-sensei[r]was.[pcms]
 
 *5003|
 [fc]
-“r’†‚Å‹A‚é‚É‚µ‚Ä‚àA•’i‚Ì²”Œ‚È‚çA•K‚¸V“¹æ¶‚É[r]
-ˆêŒ¾’f‚è‚És‚­”¤‚¾B‚»‚ê‚à‚¹‚¸‚É‹A‚ë‚¤‚Æ‚·‚é‚Ì‚ÍA[r]
-‘Š“–• ‚ğ—§‚Ä‚Ä‚¢‚é‚Æ‚¢‚¤‚±‚Æ‚¾‚ë‚¤B[pcms]
+Even if she's going home halfway, Saeki would usually make[r]sure to go to Shindou-sensei and say a word of apology.[l][er]
+The fact that she's trying to leave without doing that means[r]she must be really angry.[pcms]
 
 *5004|
 [fc]
-[ns]‰Á“¡[nse]
-u²”ŒI@‘Ò‚Ä‚Á‚ÄIv[pcms]
+[ns]Kato[nse]
+Saeki! Wait![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2104|
 [fc]
 [vo_sa s="sae0393"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *5005|
 [fc]
-‰´‚ÌŒÄ‚Ñ‚©‚¯‚ÉU‚èŒü‚«‚à‚¹‚¸A²”Œ‚Í•à‚«‘±‚¯‚éB[pcms]
+Without even turning around in response to my call, Saeki[r]continues walking.[pcms]
 
 *5006|
 [fc]
-l‚¦‚Ä‚ê‚ÎA‰´‚É• ‚ğ—§‚Ä‚é‚Ì‚ÍŠÔˆá‚Á‚Ä‚¢‚éB—S“ñ’B[r]
-‚ª‘Ìˆç‘qŒÉ‚Åƒ„ƒb‚Ä‚½‚Ì‚ÍA•Ê‚É‰´‚ª‚â‚ê‚ÆŒ¾‚Á‚½‚í‚¯[r]
-‚¶‚á‚È‚¢B[pcms]
+If she thinks about it, it's wrong for her to be angry at[r]me.[l][er]
+It's not like I told Yuuji and the others to fool around in[r]the PE storage room.[pcms]
 
 *5007|
 [fc]
-‚»‚¤v‚¤‚Æ­‚µ• ‚ª—§‚Á‚Ä‚«‚ÄA‰´‚Í–³‹‚µ‚Ä•à‚«‘±‚¯[r]
-‚é²”Œ‚Ì˜r‚ğ’Í‚ñ‚ÅAƒ€ƒŠƒ„ƒŠˆø‚«—¯‚ß‚½B[pcms]
+Thinking that way, I started to get a little angry, so I[r]grabbed Saeki's arm as she continued to ignore me and[r]forcibly stopped her.[pcms]
 
 [stop_se1]
 
 *5008|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨‚¢‘Ò‚Ä‚æI@—S“ñ’B‚Éƒ€ƒJ‚Â‚¢‚½‚©‚ç‚Á‚ÄAŠÖŒW‚È[r]
-‚¢‰´‚É“{‚Á‚½‚Á‚Ä‚µ‚å‚¤‚ª‚È‚¢‚¾‚ëIHv[pcms]
+[ns]Kato[nse]
+Hey, wait! It's not like I have anything to do with you[r]being angry at Yuuji and the others, right?![pcms]
 
 *5009|
 [fc]
-˜r‚ğ’Í‚Ü‚ê‚ÄU‚èŒü‚­‚È‚èA²”Œ‚Í‰´‚ÉŒü‚©‚Á‚Ä“{†‚ğ[r]
-‚Ô‚Â‚¯‚½B[pcms]
+Saeki turned around after her arm was grabbed and yelled at[r]me in anger.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_10"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2105|
 [fc]
 [vo_sa s="sae0394"]
-[ns]²”Œ[nse]
-uŠÖŒW‚ ‚è‚Ü‚·ƒbIIv[pcms]
+[ns]Saeki[nse]
+It does matter!![pcms]
 
 *5010|
 [fc]
-[ns]‰Á“¡[nse]
-u‰½‚ª‚¾‚æIIv[pcms]
+[ns]Kato[nse]
+What the hell?![pcms]
 
 *5011|
 [fc]
-——R‚Ì‚È‚¢“{‚è‚ğ‚Ô‚Â‚¯‚ç‚ê‚Ä”M‚­‚È‚é‰´‚ÉA²”Œ‚Í‚³[r]
-‚ç‚É‘åº‚Å‚Ü‚­‚µ—§‚Ä‚½B[pcms]
+Saeki, who was yelling at me, heated up even more as she[r]unleashed her anger on me for no reason.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2106|
 [fc]
 [vo_sa s="sae0395"]
-[ns]²”Œ[nse]
-uUX•|‚¢v‚¢‚ğ‚µ‚Ä‘{‚µ‚¾‚µ‚Ä‚İ‚ê‚ÎAŒûŒ–‰Ü‚ğ‚µ‚Ä[r]
-æ¶‚ğ¢‚ç‚¹‚Ä‚¢‚½‚èA‚±‚¿‚ç‚ªS”z‚µ‚Ä‚¢‚½‚Ì‚à’m‚ç[r]
-‚¸‚ÉAŠwZ‚Ì’†‚Å‰˜‚ç‚í‚µ‚¢sˆ×‚ğ‚µ‚½‚èIIv[pcms]
+[ns]Saeki[nse]
+After going through so much trouble to find you, you were[r]having arguments and causing trouble for the teacher.[l][er]
+And without even knowing that I was worried, you were[r]engaging in filthy acts within the school![pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_09"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2107|
 [fc]
 [vo_sa s="sae0396"]
-[ns]²”Œ[nse]
-u‹“‚°‹åA‚¢‚È‚­‚È‚Á‚½l‚ğ‘{‚µ‚És‚Á‚½‚Ü‚ÜA‰½ˆ‚É[r]
-s‚Á‚½‚Ì‚©•ª‚©‚ç‚È‚¢l‚Ü‚Åo‚Ä‚­‚én––‚Å‚·II@‚à[r]
-‚¤‚¢‚¢‚©‚°‚ñ‚É‚µ‚Ä—~‚µ‚¢‚íIIv[pcms]
+[ns]Saeki[nse]
+On top of that, not only did you go missing while we were[r]searching for you, but there were also people who didn't[r]know where you went!![l][er]
+I've had enough of this!![pcms]
 
 *5012|
 [fc]
-˜r‚ğ’Í‚ñ‚Å‚¢‚é‰´‚Ìè‚ğU‚è‚Ù‚Ç‚¢‚ÄAŒ¨‚Å‘§‚ğ‚µ‚È‚ª[r]
-‚çA²”Œ‚Í‚à‚¤ˆê“x‹©‚ñ‚¾B[pcms]
+Saeki shook off my hand that was grabbing her arm, took a[r]deep breath through her shoulders, and yelled again.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2108|
 [fc]
 [vo_sa s="sae0397"]
-[ns]²”Œ[nse]
-u‚È‚É‚æccA‚±‚ÌccˆÓ‹C’n–³‚µƒbIIv[pcms]
+[ns]Saeki[nse]
+What... you... coward!![pcms]
 
 *5013|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¢‚­ccIHv[pcms]
+[ns]Kato[nse]
+I'm going...!?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2109|
 [fc]
 [vo_sa s="sae0398"]
-[ns]²”Œ[nse]
-u‚İ‚ñ‚Ècc‚İ‚ñ‚È€‚Ë‚Î‚¢‚¢‚Ì‚ÉƒbIIv[pcms]
+[ns]Saeki[nse]
+I wish... I wish everyone would just die!![pcms]
 
 [se0 storage="se005"]
 
@@ -158,32 +148,29 @@
 
 *5014|
 [fc]
-‚³‚ç‚É‚»‚¤‹©‚ñ‚ÅA²”Œ‚Í”w‚ğŒü‚¯‚Ä‘–‚èo‚µ‚½B[pcms]
+Saeki yelled that again and turned her back, starting to[r]run.[pcms]
 
 *5015|
 [fc]
-‚µA€‚Ë‚Î‚¢‚¢‚Ì‚ÉccIH[r]
-‘åº‚Å“{‚é‚±‚Æ‚Í‚ ‚Á‚Ä‚àA‚ ‚ñ‚È•—‚É“{‚è‚ğ”š”­‚³‚¹[r]
-‚é‚Æ‚±A¡‚Ü‚ÅŒ©‚½‚±‚Æ‚È‚¢ccB[pcms]
+I-I wish you would just die...!?[l][er]
+I've seen her get angry before, but I've never seen her[r]explode with anger like that...[pcms]
 
 *5016|
 [fc]
-ˆÓ‹C’n–³‚µA‚Á‚Ä‚Ì‚à‚ÈccB[r]
-‚â‚Á‚Ï‚èA‰´‚ªƒnƒbƒLƒŠ‚Æ‚µ‚½“š‚¦‚ğo‚³‚È‚©‚Á‚½‚¹‚¢[r]
-‚©‚ÈccB[pcms]
+Maybe it's because I didn't give a clear answer...[l][er]
+being called a spineless coward...[pcms]
 
 *5017|
 [fc]
-ƒ„ƒP‚ğ‹N‚±‚µ‚»‚¤‚ÅS”z‚Æ‚¢‚¤‹C‚¿‚ÆA²”Œ‚É‘Î‚·‚é[r]
-\‚µ–ó‚È‚³‚ÅA‰´‚Ì“ª‚Ì’†‚Í‚¢‚Á‚Ï‚¢‚É‚È‚Á‚Ä‚¢‚½B[pcms]
+My head was filled with worry about Saeki, who seemed on the[r]verge of losing control, and a sense of guilt towards her.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 ;//blackout
 
-;//[05200]‚Ö
+;//[05200]ã¸
 [jump target=*05200_TOP storage="05200.ks"]

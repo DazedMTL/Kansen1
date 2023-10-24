@@ -1,16 +1,16 @@
 
-;//¡ËƒuƒƒbƒN08230wûŠnx
-;//BG:¸~Œû‘O˜L‰ºF’©
-;//“oêl•¨FålŒöE’|“àE—DE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08230ã€åç©«ã€
+;//BG:æ˜‡é™å£å‰å»Šä¸‹ï¼šæœ
+;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»ç«¹å†…ãƒ»å„ªãƒ»ç³
 
 *08230_TOP
-;[debug_win]‚È‚¤@08230[debug_win_end]
+;[debug_win]ãªã†ã€€08230[debug_win_end]
 
-;*SceneSet|wûŠnx
+;*SceneSet|ã€åç©«ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08230 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08230 = 1"]
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 
 ;//[bgm007]
 
@@ -21,93 +21,91 @@
 
 *9999|
 [fc]
-[ns]‰Á“¡[nse]
-uˆÈŠO‚Æd‚¢‚Ècc‚±‚Ìqccv[pcms]
+[ns]Kato[nse]
+Surprisingly heavy... this child...[pcms]
 
 *10000|
 [fc]
-—‚Ìq‚ÍŒy‚¢‚ÆM‚¶‚Ä‚¢‚½‚ñ‚¾‚¯‚ÇccB[r]
-ˆÈŠO‚Æd‚¢ƒ‚ƒ“‚¾‚ÈccB[pcms]
+I believed that girls were light...[l][er]
+but surprisingly, they're heavy...[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std666|
 [fc]
-[ns]’|“à[nse]
-u‚ A‚¿‚å‚¤‚Ç‚¢‚¢Š‚Éccv[pcms]
+[ns]Takeuchi[nse]
+Ah, right at the perfect timing...[pcms]
 
 *10001|
 [fc]
-ccHH[r]
-’N‚¾H@ƒRƒCƒcccH[r]
-Œ©Šo‚¦—L‚é‚ñ‚¾‚¯‚ÇccB[pcms]
+...? Who is this? I feel like I've seen this person[r]before...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std667|
 [fc]
-[ns]’|“à[nse]
-u‰½‚¾‚æccƒ{ƒN‚ÌŠçA‰½‚©•t‚¢‚Ä‚éHv[pcms]
+[ns]Takeuchi[nse]
+What's wrong... Is there something on my face?[pcms]
 
 *10002|
 [fc]
-‚»‚¤‚©Aƒ^ƒJƒ„ccH@‚¢‚âAˆá‚¤‚ÈccH[r]
-—Í–çccH@‚»‚ê‚àˆá‚¤ccB[pcms]
+I see, Takaya...? No, that's not it...?[l][er]
+Rikiya...? That's not it either...[pcms]
 
 *10003|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ [ccƒAƒŒ‚¾AƒAƒŒccB‚µA^–çcc‚¾ccv[pcms]
+[ns]Kato[nse]
+Ah... That, that... Sh-Shinya...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std668|
 [fc]
-[ns]’|“à[nse]
-u‚»‚¤‚¾‚æcc‰½Œ¾‚Á‚Ä‚é‚ñ‚¾‚æccƒ^ƒJƒ†ƒLccH@[r]
-‚ ‚êH@‚âA‘×”VccH@‰½‚â‚Á‚Ä‚é‚ñ‚¾Hv[pcms]
+[ns]Takeuchi[nse]
+That's right... What are you saying...[l][er]
+Takayuki...? Huh? Ya, Yasuyuki...?[l][er]
+What are you doing?[pcms]
 
 *10004|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¢‚âcc‰½‚©AW‚Ü‚é‚Á‚ÄŒ¾‚Á‚Ä‚½—l‚ÈccHv[pcms]
+[ns]Kato[nse]
+No... Did someone say something about gathering...?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std669|
 [fc]
-[ns]’|“à[nse]
-u‚»‚¤‚¢‚âAƒ{ƒN‚à‚»‚¤v‚Á‚Äcc‚Å‚àA‰½‚¾‚Á‚½‚©‚È[r]
-ccv[pcms]
+[ns]Takeuchi[nse]
+Come to think of it, I also thought the same...[l][er]
+but, what was it again...[pcms]
 
 *10005|
 [fc]
-‰½‚¾‚Á‚¯ccH[r]
-‰½‚ÅW‚Ü‚é‚ñ‚¾‚Á‚¯HH[pcms]
+What was it again...? Why are we gathering again??[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std670|
 [fc]
-[ns]’|“à[nse]
-u‚ ‚êH@‚¨‘OA‚»‚ÌqA‰½Hv[pcms]
+[ns]Takeuchi[nse]
+Huh? Hey, who is that girl?[pcms]
 
 *10006|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ñH@‚ ‚ ccB—×‚ÉQ‚Ä‚½‚©‚çA˜A‚ê‚Ä‚«‚½‚ñ‚¾‚¯[r]
-‚ÇccB’N‚¾‚Á‚¯‚È‚Ÿccv[pcms]
+[ns]Kato[nse]
+Huh? Ah... I brought her along because she was sleeping next[r]to me...[l][er]
+But who was she again...?[pcms]
 
 ;	/*
 ;	[backlay_c][chara_int][trans_c cross time=150]
 ;	[trans_c cross time=150]
 ;	*/
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 [se0 storage="se021"]
 [quake_bg xy m]
 
-;//H:CG@ON
+;//H:CGã€€ON
 
 ;;;[sysbt_meswin clear]
 
@@ -123,30 +121,29 @@
 *v3689|
 [fc]
 [vo_ya s="yama1053"]
-[ns]RŠİ[nse]
-u‚¤ccv[pcms]
+[ns]Yamagishi[nse]
+Uhh...[pcms]
 
 *10010|
 [fc]
-[ns]‰Á“¡[nse]
-u‚±‚ÌqA‰½‚¾‚©A‰´‚Ì—×‚ÅQ‚Ä‚½‚ñ‚¾‚æ‚ËccB’N‚¾[r]
-‚Á‚¯Hv[pcms]
+[ns]Kato[nse]
+This girl, somehow, was sleeping next to me...[l][er]
+Who was she again?[pcms]
 
 *10011|
 [fc]
-[ns]’|“à[nse]
-uƒ{ƒN‚àA‚±‚ÌqA’N‚¾‚©v‚¢o‚¹‚È‚¢‚ñ‚¾cc—×‚ÅQ[r]
-‚Ä‚½‚©‚çA‚à‚Á‚Ä‚«‚½‚ñ‚¾‚¯‚Çccv[pcms]
+[ns]Takeuchi[nse]
+I also can't remember who this girl is...[l][er]
+She was sleeping next to me, so I brought her along...[pcms]
 
 *10012|
 [fc]
-‚µ‚ñcc‚âA‚ªA˜A‚ê‚Ä‚«‚½—‚Ìq‚ğA—–\‚É“Š‚°Ì‚Ä[r]
-‚é‚ÆA‰´‚Ì˜A‚ê‚Ä‚«‚½—‚Ìq‚Ìã‚É—‚¿‚½B[pcms]
+Sh-Shinya... When he roughly threw away the girl he brought,[r]she fell on top of the girl I brought.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 [se0 storage="se021"]
 [quake_bg xy m]
 
@@ -159,137 +156,131 @@
 *v3690|
 [fc]
 [vo_sa s="sae1177"]
-[ns]²”Œ[nse]
-u‚ ‚¤ccv[pcms]
+[ns]Saeki[nse]
+Ahh...[pcms]
 
 *10013|
 [fc]
-[ns]’|“à[nse]
-u‚±‚ÌqA‚È‚ñ‚©‰Á“¡ŒN‚ªD‚«‚¾A‚Æ‚©Œ¾‚Á‚Ä‚½‚¯‚ÇA[r]
-‚â‚·cc‚ä‚«‚Ì–‚©‚ÈHv[pcms]
+[ns]Takeuchi[nse]
+Kato-kun said something about liking this girl, but I wonder[r]if he meant Yasu...[l][er]
+Yuki?[pcms]
 
 *10014|
 [fc]
-D‚«H[r]
-‚»‚¤Œ¾‚¦‚ÎA‰´‚àA‚±‚Á‚¿‚Ìq‚ÉAD‚«‚¾‚Á‚ÄŒ¾‚í‚ê‚Ä[r]
-‚½‚ÈccB[pcms]
+Like? Come to think of it, I was also told by this girl that[r]she likes me...[pcms]
 
 *10015|
 [fc]
-D‚«‚Á‚Ä‰½‚È‚ñ‚¾H[pcms]
+What does it mean to like someone?[pcms]
 
 *10016|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ A‚»‚¤‚È‚ñ‚¾ccB‚ÅAD‚«‚Á‚ÄA‰½‚¾Hv[pcms]
+[ns]Kato[nse]
+Ah, I see... So, what does it mean to like someone?[pcms]
 
 *10017|
 [fc]
-[ns]’|“à[nse]
-uD‚«ccB‚È‚ñ‚¾‚Á‚¯‚È‚ŸccH@D‚«cc‚©‚Ÿcc[r]
-‚»‚¤‚»‚¤A‚±‚Ì”¯‚Ì–Ñ‚Ì’·‚¢q‚¾‚¯‚Ç‚³ccv[pcms]
+[ns]Takeuchi[nse]
+Like... What was it again? Like...[l][er]
+Ah, right, that girl with long hair...[pcms]
 
 *10018|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ñHv[pcms]
+[ns]Kato[nse]
+Huh?[pcms]
 
 *10019|
 [fc]
-[ns]’|“à[nse]
-u‰½‚¾‚©‚³AƒgƒCƒŒ‚Ì’†‚ÅƒIƒVƒbƒR˜R‚ç‚µ‚Ä‚½‚æA‚±‚Ì[r]
-qB~‚Ü‚ç‚È‚¢A~‚Ü‚ç‚È‚¢‚Á‚ÄŒ¾‚¢‚È‚ª‚ç‚³cc[r]
-‹»•±‚µ‚½‚È‚Ÿccv[pcms]
+[ns]Takeuchi[nse]
+Somehow, this girl was peeing in the bathroom.[l][er]
+She kept saying It won't stop, it won't stop while...[l][er]
+getting excited.[pcms]
 
 *10020|
 [fc]
-[ns]‰Á“¡[nse]
-u‰´‚àA‚±‚Á‚¿‚Ìq‚ÉA‘¼‚Ì—‚Ìq‚ª‚Ì‚Á‚©‚Á‚ÄAƒVƒ‡[r]
-ƒ“ƒxƒ“‚©‚¯‚Ä‚½‚ÌŒ©‚Ä‚½‚¼ccv[pcms]
+[ns]Kato[nse]
+I also saw when another girl climbed on top of this girl and[r]peed on her...[pcms]
 
 *10021|
 [fc]
-[ns]’|“à[nse]
-u‚¨‚µ‚Á‚±‚Ü‚İ‚ê‚©‚æccv[pcms]
+[ns]Takeuchi[nse]
+Covered in pee...[pcms]
 
 *10022|
 [fc]
-‚ B[r]
-‘¼‚É‚àA’N‚©‚¢‚½‚Á‚¯‚ÈccB[pcms]
+Ah. Was there someone else...?[pcms]
 
 *10023|
 [fc]
-’N‚¾‚Á‚¯‚È‚ŸccB[r]
-’N‚¾‚Á‚¯ccH[pcms]
+Who was it again...? Who was it...?[pcms]
 
 *10024|
 [fc]
-’N‚Á‚Äcc‚È‚ñ‚¾H@‚ ‚êH@‚¤‚¤‚¤ccIH[pcms]
+Who... what? Huh? Ugh...!?[pcms]
 
 *10025|
 [fc]
-‚¤‚Ÿ‚ ‚ ‚ÁI@‰½‚¾H@‰½‚¾ƒRƒŒƒbH[r]
-‰´A’N‚¾‚Á‚¯H@ƒAƒŒ‚¥H@‚¤‚¤‚Ÿ‚ ‚ ‚Ÿ‚ÁIH[pcms]
+Uwaaa! What is it? What is this?[l][er]
+Who am I again? Huh? Uuaaaah!?[pcms]
 
 *10026|
 [fc]
-‰½‚¾cc‰½‚àccv‚¢o‚¹‚È‚¢ccH[r]
-v‚¢o‚·H@‰½‚¾H@‚ ‚ H@‚ ‚ê‚¥H[r]
-‰½‚©‚Ú‚ñ‚â‚è‚ÆccB[pcms]
+What... What... I can't remember anything...?[l][er]
+Remember? What is it? Ah? Huh?[l][er]
+Huh? Something feels hazy...[pcms]
 
 *10027|
 [fc]
-cc‘Ê–Ú‚¾II[pcms]
+... No, it's no good!![pcms]
 
 *10028|
 [fc]
-h‚¢cc‚±‚Ìsˆ×‚ªAh‚¢I@‰½‚¾H@‚£‚ ‚ ‚ÁI[r]
-‚½A•‚¯‚Ä‚­‚ê‚¥I[pcms]
+It's painful... This act, it's painful![l][er]
+What is it? Uaaah! S-Someone, please help me![pcms]
 
 *10029|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ÿ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ÁII@‚¤‚í‚ ‚ ‚ ‚ ‚ ‚ I@•[r]
-‚¯‚Ä‚­‚ê‚ÁII@‚¨‚¢A‚¨‘OA‰´‚ğ•‚¯‚ëII@‚ ‚ ‚ [r]
-‚ÁIv[pcms]
+[ns]Kato[nse]
+Aaaaaahhhhh!! Uwaaaaahhhh! Help me!![l][er]
+Hey, you, help me!! Aaaahhh![pcms]
 
 *10030|
 [fc]
-[ns]’|“à[nse]
-u‚ÈA‰½‚¾‚æ‹}‚Écc‚Ç‚¤‚µ‚½‚ñ‚¾‚æccHv[pcms]
+[ns]Takeuchi[nse]
+W-What's going on all of a sudden...?[l][er]
+What's the matter...?[pcms]
 
 *10031|
 [fc]
-[ns]‰Á“¡[nse]
-u‚½A•‚¯‚Ä‚­‚êcc‰´A‰´‚Á‚ÄA‰½‚¾H@‰½H@‰½‚ÅH[r]
-‚¨A‚¨‚ÜA‚¨‚Ü‚¦A’N’N’N‚¾‚êH@cc‚¤‚Ÿ‚ ‚ IHv[pcms]
+[ns]Kato[nse]
+H-Help me... Who am I? What? Why?[l][er]
+Y-You, who are you? Who, who, who are you?[l][er]
+... Uwaaaah!?[pcms]
 
 *10032|
 [fc]
-[ns]’|“à[nse]
-ucc‚Æ‚è‚ ‚¦‚¸‚³A‚ ‚Ì‚¢‚Â‚às‚Á‚Ä‚¢‚½cc‚ ‚êH[r]
-‚»‚¤‚¾‚Á‚½‚©‚Ècc‚¢‚âA‚¢‚¢‚©cc‚ ‚Ì•”‰®‚És‚±[r]
-‚¤ccv[pcms]
+[ns]Takeuchi[nse]
+... For now, let's go to that place we always went to...[l][er]
+Huh? Was it like that...? No, never mind...[l][er]
+Let's go to that room...[pcms]
 
 *10033|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ ‚ ‚ ‚ cc‚»‚¤‚¾cc‚È‚ñ‚¾‚©A‚ ‚Ì•”‰®‚És‚©[r]
-‚È‚¢‚Æ‘Ê–Ú‚¾‚Á‚½—l‚È‹C‚ª‚·‚écc‚·A‚·‚±‚µA—‚¿’…[r]
-‚¢‚½ccv[pcms]
+[ns]Kato[nse]
+Aaaaaahhhh... That's right... Somehow, I feel like we have[r]to go to that room...[l][er]
+I-I need to calm down a bit...[pcms]
 
 *10034|
 [fc]
-’j‚ª‚ä‚Á‚­‚è‚ÆAw‚ ‚Ì•”‰®x‚ÖŒü‚©‚¤B[pcms]
+The man slowly heads towards that room.[pcms]
 
 *10035|
 [fc]
-Šm‚©‚ÉA‰½‚¾‚©‚ ‚Ì•”‰®‚ÉŒü‚©‚í‚È‚¢‚Æs‚¯‚È‚¢‹C‚ª‚·[r]
-‚éB[pcms]
+Certainly, I feel like we have to head towards that room.[pcms]
 
 *10036|
 [fc]
-•t‚¢‚Äs‚±‚¤ccB[pcms]
+Let's go together...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -298,5 +289,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[08260‚Ö]
+;//[08260ã¸]
 [jump target=*08260_H_TOP storage="08260_H.ks"]

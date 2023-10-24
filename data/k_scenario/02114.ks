@@ -1,20 +1,20 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02114w“d˜bx
-;//BG:EˆõºF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöE—DEƒŠƒTEŠİ“cE’|“à
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02114ã€é›»è©±ã€
+;//BG:è·å“¡å®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»å²¸ç”°ãƒ»ç«¹å†…
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02114_TOP
-;[debug_win]‚È‚¤@02114[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02114 = 1"]
+;[debug_win]ãªã†ã€€02114[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02114 = 1"]
 
-;*SceneSet|w“d˜bx
+;*SceneSet|ã€é›»è©±ã€
 
 ;//[02114]
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 ;//[bgm007]
 ;//BG:bg012a
 [bg storage="bg12a"]
@@ -22,142 +22,134 @@
 
 *2187|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ç‚¤‚µ‚Ü‚·H@‚±‚ê‚©‚çccv[pcms]
+[ns]Kato[nse]
+What should we do? From now on...[pcms]
 
 *2188|
 [fc]
-Šİ“c‚Ì—e‘Ô‚ğŒ©‚Ä‚¢‚½V“¹æ¶‚ÉA‰´‚Íº‚ğ‚©‚¯‚½B[pcms]
+I called out to Shindou-sensei, who was watching Kishida's[r]condition.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v869|
 [fc]
 [vo_ri s="risa0264"]
-[ns]V“¹[nse]
-u‘å•Ï‚¾‚Á‚½‚Å‚µ‚å‚¤‚©‚çA‹M•û’B‚Í‹x‚ñ‚Å‚¢‚È‚³‚¢B[r]
-RŠİ‚³‚ñ‚ÍAŒx@‚©‹~‹}Ô‚ğŒÄ‚ñ‚Å‚à‚ç‚¦‚é‚©‚µ‚çv[pcms]
+[ns]Shindou[nse]
+It must have been tough, so you all should take a rest.[l][er]
+I wonder if we can call the police or an ambulance for[r]Yamagishi-san.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v870|
 [fc]
 [vo_ya s="yama0276"]
-[ns]RŠİ[nse]
-u‚Í‚¢ccv[pcms]
+[ns]Yamagishi[nse]
+Yes...[pcms]
 
 *2189|
 [fc]
-‚Ü‚¾ƒVƒ‡ƒbƒN‚ª”²‚¯‚«‚Á‚Ä‚¢‚È‚¢—lq‚ÌRŠİ‚³‚ñ‚ÍA–T[r]
-‚É‚ ‚é“d˜b‚Ìó˜bŠí‚ğæ‚Á‚½B[pcms]
+Yamagishi-san, who still seemed to be in shock, picked up[r]the receiver of the nearby telephone.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v871|
 [fc]
 [vo_ya s="yama0277"]
-[ns]RŠİ[nse]
-u‚ A‚ ‚êcc‚ ‚êccHv[pcms]
+[ns]Yamagishi[nse]
+Ah, that... that...?[pcms]
 
 [bgm004]
 
 *2190|
 [fc]
-‚µ‚Î‚ç‚­‚ÌŠÔA“d˜b‚Ì‘O‚ÅØ‚Á‚½‚è‚©‚¯‚½‚è‚ğ‘±‚¯‚Ä‚¢[r]
-‚½RŠİ‚³‚ñ‚ÍA“r’†‚Åó˜bŠí‚©‚ç¨‚ğ—£‚µ‚½B[pcms]
+Yamagishi-san, who had been cutting and dialing in front of[r]the phone for a while, took her ear off the receiver halfway[r]through.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v872|
 [fc]
 [vo_ya s="yama0278"]
-[ns]RŠİ[nse]
-u‚È‚Écc‚±‚êccv[pcms]
+[ns]Yamagishi[nse]
+What... is this...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v873|
 [fc]
 [vo_ya s="yama0279"]
-[ns]RŠİ[nse]
-uccæ¶A‚P‚P‚O”Ô‚à‚P‚P‚X”Ô‚àA‚¸‚Á‚Æ˜b‚µ’†‚ÅA[r]
-‘S‘RŒq‚ª‚è‚Ü‚¹‚ñccv[pcms]
+[ns]Yamagishi[nse]
+... Sensei, both 110 and 119 are constantly busy, I can't[r]get through at all...[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v874|
 [fc]
 [vo_ri s="risa0265"]
-[ns]V“¹[nse]
-u‚»‚Ì‚Ü‚ÜAŒq‚ª‚é‚Ü‚Å‚©‚¯‘±‚¯‚ÄBŠİ“cæ¶‚Ì—e‘Ô‚ª[r]
-ˆ«‚­‚È‚Á‚Ä‚«‚Ä‚¢‚é‚©‚çAŠÔ‚É‚ ‚Ü‚è—]—T‚ª‚È‚¢‚ív[pcms]
+[ns]Shindou[nse]
+Keep calling until you get through.[l][er]
+Kishida-sensei's condition is worsening, so we don't have[r]much time to spare.[pcms]
 
 *2191|
 [fc]
-RŠİ‚³‚ñ‚Í‚¤‚È‚¸‚¢‚ÄA‚Ü‚½ó˜bŠí‚ğ¨‚É“–‚Ä‚½B[pcms]
+Yamagishi-san nodded and put the receiver back to her ear.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *2192|
 [fc]
-[ns]‰Á“¡[nse]
-uIIv[pcms]
+[ns]Kato[nse]
+!![pcms]
 
-;//SE:”à‚ğ’@‚­‰¹@ƒ‹[ƒv
+;//SE:æ‰‰ã‚’å©ãéŸ³ã€€ãƒ«ãƒ¼ãƒ—
 [overflow_se storage="se027" loop=true]
 
 *2193|
 [fc]
-EˆõŒºŠÖ‚ÉW‚Ü‚Á‚Ä‚¢‚½“z‚ç‚¾‚ë‚¤‚©A•Â‚ß‚ç‚ê‚½ƒJ[[r]
-ƒeƒ“‚ÉAl‰e‚ª“ü‚ê‘Ö‚í‚è—§‚¿‘Ö‚í‚è‰½“x‚à‰f‚éB[pcms]
+It seems to be the people who gathered at the staff[r]entrance, their figures reflected repeatedly in the closed[r]curtains, changing and replacing each other.[pcms]
 
 *2194|
 [fc]
-¡AZÉ‚Ìü‚è‚É‚¢‚é“z‚ç‚ªA‘Sˆõ‚³‚Á‚«‚Ì’j‚Ì‚æ‚¤‚¾[r]
-‚Æ‚·‚é‚ÆA‚±‚±‚©‚ç“¦‚°‚é‚Ì‚ÉA•½‰¸–³–‚Æ‚¢‚¤‚í‚¯‚É[r]
-‚Í‚¢‚©‚È‚¢‚¾‚ë‚¤B[pcms]
+If all the people around the school building right now are[r]like that man from earlier, it won't be possible to escape[r]from here peacefully.[pcms]
 
 *2195|
 [fc]
-‚»‚ê‚ÉAV“¹æ¶‚Æ•·‚¢‚½ƒ‰ƒWƒI‚ÌŒ¾‚Á‚Ä‚¢‚é‚±‚Æ‚ª–{[r]
-“–‚¾‚Æ‚µ‚½‚çA“¦‚°‚½æ‚ÌŠX‚ªˆÀ‘S‚¾‚Æ‚ÍŒÀ‚ç‚È‚¢B[pcms]
+Moreover, if what Shindou-sensei heard on the radio is true,[r]it's not guaranteed that the city we escape to will be safe.[pcms]
 
 *2196|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤‚¾cc‚±‚±Aƒ‰ƒWƒI‚ ‚Á‚½‚æ‚Èv[pcms]
+[ns]Kato[nse]
+Oh right... There was a radio here, wasn't there?[pcms]
 
 *2197|
 [fc]
-‚à‚µA‚ ‚ê‚ªƒ‰ƒWƒI”Ô‘g‚ÌŠé‰æ‚¾‚Á‚½‚çAŠÔ‚àŒo‚Á‚Ä[r]
-‚¢‚é‚±‚Æ‚¾‚µA‚à‚¤I‚í‚Á‚Ä‚¢‚é‚Í‚¸‚¾B[pcms]
+If that was just a radio program, considering the time that[r]has passed, it should already be over.[pcms]
 
 *2198|
 [fc]
-©•ª‚Ìl‚¦‚ª³‚µ‚¢‚©‚Ç‚¤‚©‚ğŠm‚©‚ß‚é‚½‚ßA‰´‚Íƒ‰ƒW[r]
-ƒI‚ğè‚Éæ‚Á‚ÄAƒXƒCƒbƒ`‚ğ“ü‚ê‚½B[pcms]
+To confirm whether my thoughts were correct or not, I picked[r]up the radio and turned it on.[pcms]
+[l][er]
 
-;//SE:”à‚ğ’@‚­‰¹@ƒ‹[ƒv@’â~
+;//SE:æ‰‰ã‚’å©ãéŸ³ã€€ãƒ«ãƒ¼ãƒ—ã€€åœæ­¢
 
 [stop_overflow_se]
 
-;//[02115]‚Ö
+;//[02115]ã¸
 [jump target=*02115_TOP storage="02115.ks"]

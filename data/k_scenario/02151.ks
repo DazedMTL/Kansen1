@@ -1,20 +1,20 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02151w“ú‚ª•é‚ê‚éx
-;//BG:‰®ãF–é
-;//“oêl•¨GålŒöE—D
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02151ã€æ—¥ãŒæš®ã‚Œã‚‹ã€
+;//BG:å±‹ä¸Šï¼šå¤œ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02151_TOP
-;[debug_win]‚È‚¤@02151[debug_win_end]
+;[debug_win]ãªã†ã€€02151[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02151 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02151 = 1"]
 
-;*SceneSet|w“ú‚ª•é‚ê‚éx
+;*SceneSet|ã€æ—¥ãŒæš®ã‚Œã‚‹ã€
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 
 ;//[bgm007]
 
@@ -25,124 +25,116 @@
 
 *2748|
 [fc]
-‰®ã‚Ö—ˆ‚é‚ÆA—z‚Í‚à‚¤•é‚ê‚©‚©‚Á‚Ä‚¢‚ÄA”R‚¦‘±‚¯‚Ä[r]
-‚¢‚éŠX‚Ì•Ó‚èˆÈŠOA‹ó‚Ì‚Ù‚Æ‚ñ‚Ç‚ÍˆÃ‚­‚È‚Á‚Ä‚¢‚½B[pcms]
+When I arrived on the rooftop, the sun was already setting,[r]and apart from the area of the city that continued to burn,[r]most of the sky had become dark.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1056|
 [fc]
 [vo_ya s="yama0353"]
-[ns]RŠİ[nse]
-uccv[pcms]
+[ns]Yamagishi[nse]
+â€¦â€¦[l][er]
 
 *2749|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *2750|
 [fc]
-‚³‚Á‚«‚ÌƒVƒ‡ƒbƒN‚ª‚Ü‚¾c‚Á‚Ä‚¢‚ÄA‰´‚ÆRŠİ‚³‚ñ‚ÌŠÔ[r]
-‚ÉA‹C‚Ü‚¸‚¢‹ó‹C‚ª—¬‚ê‚éB[pcms]
+The shock from earlier still lingers, and an awkward[r]atmosphere hangs between me and Yamagishi-san.[pcms]
 
 *2751|
 [fc]
-ƒŒƒCƒv–Œ‚Ì“––Ò‚ªA‘S‚Ä©•ª‚Ì—Ç‚­’m‚Á‚Ä‚¢‚élŠÔ[r]
-‚¾‚Á‚½‚Æ‚¢‚¤‚Ì‚àA‹C‚Ü‚¸‚³‚ğ”{‘‚³‚¹‚Ä‚¢‚½B[pcms]
+The fact that all the people involved in the rape incident[r]were people I knew well only intensified the awkwardness.[pcms]
 
 *2752|
 [fc]
-‚ ‚ê‚ğŒ©‚½‚Ì‚ª‚Ç‚¿‚ç‚©ˆêl‚¾‚Á‚½‚È‚çAæ‚è‘U‚¤‚±‚Æ[r]
-‚à‚Å‚«‚½‚¾‚ë‚¤‚¯‚ÇccB[pcms]
+If only one of us had seen that, we could have pretended it[r]didn't happen...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1057|
 [fc]
 [vo_ya s="yama0354"]
-[ns]RŠİ[nse]
-uŠİ“cæ¶A€‚ñ‚¶‚á‚Á‚½‚Ì‚©‚Èccv[pcms]
+[ns]Yamagishi[nse]
+Kishida-sensei, I wonder if he's dead...[pcms]
 
 *2753|
 [fc]
-RŠİ‚³‚ñ‚àA‹C‚Ü‚¸‚¢‹ó‹C‚©‚ç“¦‚ê‚½‚©‚Á‚½‚Ì‚©A•Ê‚Ì[r]
-˜b‚Å‰ï˜b‚ÌƒLƒbƒJƒP‚ğì‚Á‚Ä‚­‚ê‚½B[pcms]
+Yamagishi-san, perhaps wanting to escape the awkward[r]atmosphere, provided an opportunity for conversation by[r]bringing up a different topic.[pcms]
 
 *2754|
 [fc]
-[ns]‰Á“¡[nse]
-ucc‚ ‚Ì‘‹‚Ì‰ºAƒRƒ“ƒNƒŠ[ƒg‚¾‚µccB‚Å‚àAV“¹[r]
-æ¶‚É‚ ‚ñ‚È‚±‚Æ‚µ‚½‚èARŠİ‚³‚ñ‚ğP‚¨‚¤‚Æ‚µ‚½‚è[r]
-ccB‚ ‚ ‚È‚Á‚Ä‚àAd•û‚È‚¢‚æccv[pcms]
+[ns]Kato[nse]
+... Under that window, it's concrete...[l][er]
+But to do such things to Shindou-sensei and try to assault[r]Yamagishi-san...[l][er]
+Even if it turned out like that, there's no helping it...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1058|
 [fc]
 [vo_ya s="yama0355"]
-[ns]RŠİ[nse]
-uŒ™‚¢‚Èæ¶‚¾‚Á‚½‚µAV“¹æ¶‚É‚µ‚½‚±‚Æ‚à‹–‚¹‚È‚¢[r]
-‚¯‚Çcc‚Å‚àA‚ ‚ê‚Á‚Ä–\“®‚ğ‹N‚±‚µ‚Ä‚él’B‚Ì‚¹‚¢‚Å[r]
-‚µ‚åH@‚¾‚©‚çA‚È‚ñ‚©‚©‚í‚¢‚»‚¤‚¾‚È‚Á‚Äccv[pcms]
+[ns]Yamagishi[nse]
+I hated that teacher, and I can't forgive what he did to[r]Shindou-sensei...[l][er]
+but... it's because of those people causing the riot, right?[l][er]
+So, I can't help but feel sorry for him...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *2755|
 [fc]
-RŠİ‚³‚ñ‚ÌŒ¾—t‚ÉA‰´‚Íƒ‰ƒWƒI‚Å•·‚¢‚½–\“k‚Ì“Á’¥‚ğv[r]
-‚¢o‚µ‚Ä‚¢‚½B[pcms]
+I recalled the characteristics of the rioters that I had[r]heard on the radio in Yamagishi-san's words.[pcms]
 
 *2756|
 [fc]
-w”íŠQ‚É‘˜‚Á‚½lŠÔ‚Í–\“k‚É‡—¬‚·‚éx[pcms]
+Those who have been victimized tend to join the rioters.[pcms]
 
 *2757|
 [fc]
-‚±‚Ì”íŠQ‚Æ‚¢‚¤‚Ì‚ªAƒŒƒCƒv‚¾‚¯‚Å‚Í‚È‚¢‚Æ‚µ‚½‚çH[pcms]
+If this damage is not just about rape, then what could it[r]be?[pcms]
 
 *2758|
 [fc]
-^–ç‚Í–\“k‚ÉP‚í‚êA‰ö‰ä‚ğ‚µ‚½B[r]
-Šİ“c‚àA‹°‚ç‚­–\“k‚ÉP‚í‚êA‰ö‰ä‚ğ‚µ‚Ä‚¢‚éB[r]
-‚»‚µ‚ÄA‚»‚Ì“ñl‚Í“¯‚¶s“®‚ğæ‚Á‚½ccB[pcms]
+Shinya was attacked by the rioters and got injured.[l][er]
+Kishida also, probably got attacked by the rioters and got[r]injured as well.[l][er]
+And those two took the same action...[pcms]
 
 *2759|
 [fc]
-‰´‚à^–ç‚Ì‚æ‚¤‚ÉA“z‚ç‚Ìˆêl‚ğ‰£‚Á‚½‚ªA‰ö‰ä‚Í‚µ‚È[r]
-‚©‚Á‚½B‚»‚µ‚Ä¡A^–ç‚Ì‚æ‚¤‚É‚Í‚È‚ç‚¸‚É‚¢‚éB[pcms]
+I also punched one of those guys like Shinya, but I didn't[r]get injured.[l][er]
+And now, I'm not becoming like Shinya.[pcms]
 
 *2760|
 [fc]
-‰ö‰ä‚ğ•‰‚¤‚Ì‚ª–â‘è‚È‚Ì‚©ccH[r]
-‚©‚ç‰½‚©‚Ì‹Û‚ª“ü‚Á‚ÄA‚»‚ê‚ªŒ´ˆö‚Å–\“k‚Æ“¯‚¶‚æ‚¤[r]
-‚É‚È‚Á‚Ä‚µ‚Ü‚¤‚Æ‚©ccB[pcms]
+Is it a problem to get injured...?[l][er]
+If some kind of bacteria enters through the wound and that[r]becomes the cause of becoming like the rioters...[pcms]
 
 *2761|
 [fc]
-“Ë”q‚à‚È‚¢‹ó‘z‚ÉŠç‚ğ‚µ‚©‚ß‚Ä‚¢‚é‰´‚ğARŠİ‚³‚ñ‚Í[r]
-S”z‚»‚¤‚ÉŒ©‚Â‚ß‚Ä‚¢‚½B[pcms]
+Yamagishi-san was looking at me with a worried expression as[r]I frowned at my absurd and unfounded imagination.[pcms]
 
-;//ôFBGM007ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 
 ;//[fadeoutbgm time=500]
 
-;//ôFBGM010ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM010ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 
 ;//[bgm010]
 
@@ -150,115 +142,109 @@
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1059|
 [fc]
 [vo_ya s="yama0356"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒN‚ÍA‚ ‚ñ‚È•—‚É‚È‚ç‚È‚¢‚Å‚Ëccv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun, please don't become like that...[pcms]
 
 *2762|
 [fc]
-[ns]‰Á“¡[nse]
-ucc‚à‚¿‚ë‚ñ‚¾‚æv[pcms]
+[ns]Kato[nse]
+... Of course.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *2763|
 [fc]
-RŠİ‚³‚ñ‚ªƒtƒFƒ“ƒX‚É‹ß‚Ã‚«AŠX‚Ì•û‚ğŒ©‚é‚Ì‚É‚ ‚í‚¹[r]
-‚ÄA‰´‚à‚»‚¿‚ç‚Ö‹ü‚ğˆÚ‚µ‚½B[pcms]
+Yamagishi-san approached the fence and as she looked towards[r]the town, I also shifted my gaze in that direction.[pcms]
 
 *2764|
 [fc]
-’‹ŠÔ‚Í‚æ‚­‚í‚©‚ç‚È‚©‚Á‚½‚ªA–é‚ª‹ß‚Ã‚«AˆÃ‚­‚È‚Á‚Ä[r]
-‚­‚é‚ÆAŠX‚ªƒ{ƒ“ƒ„ƒŠ‚Æ‚µ‚½Ô‚¢Œõ‚É•ï‚Ü‚ê‚Ä‚¢‚é‚Ì‚É[r]
-‹C‚Ã‚¢‚½B[pcms]
+During the day, I couldn't really tell, but as the night[r]approached and it got darker, I noticed that the town was[r]enveloped in a vague red light.[pcms]
 
 *2765|
 [fc]
-‰´’B‚ªv‚Á‚Ä‚¢‚éˆÈã‚É”íŠQ‚Í‘å‚«‚¢‚æ‚¤‚ÅAŠX‚ğ•ï‚Ş[r]
-Ô‚¢Œõ‚ÍAŠ‚éŠ‚Å‹N‚«‚Ä‚¢‚é‰Î–‚Ì‰Š‚ÌF‚¾‚Á‚½B[pcms]
+The damage seems to be even greater than we thought, and the[r]red light enveloping the town was the color of flames from[r]fires happening everywhere.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1060|
 [fc]
 [vo_ya s="yama0357"]
-[ns]RŠİ[nse]
-u‚Ü‚¾‚ ‚»‚±‚Éc‚Á‚Ä‚él‚Á‚ÄA‚¢‚é‚Ì‚©‚Èccv[pcms]
+[ns]Yamagishi[nse]
+I wonder if there are still people left over there...[pcms]
 
 *2766|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ç‚¤‚©‚Ècc‚à‚¤A‘Sˆõ”ğ“ï‚µ‚Ä‚é‚©‚à‚µ‚ê‚È‚¢‚Ëv[pcms]
+[ns]Kato[nse]
+I wonder... Maybe everyone has already evacuated.[pcms]
 
 *2767|
 [fc]
-‚»‚¤‰‚¦‚é‚ÆARŠİ‚³‚ñ‚Í•sˆÀ‚»‚¤‚ÈŠç‚É‚È‚Á‚ÄA‰´‚Ì[r]
-ƒVƒƒƒc‚Ì‚ğˆ¬‚Á‚½B[pcms]
+Yamagishi-san looked worried and grabbed the hem of my shirt[r]when I responded like that.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1061|
 [fc]
 [vo_ya s="yama0358"]
-[ns]RŠİ[nse]
-u‚±‚±‚É‚àA•‚¯‚É—ˆ‚é‚æ‚ËccH@„’BA–Y‚ê‚ç‚ê‚Ä[r]
-‚È‚¢‚æ‚ËccHv[pcms]
+[ns]Yamagishi[nse]
+They will come to help us here too, right...?[l][er]
+We haven't been forgotten, right...?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1062|
 [fc]
 [vo_ya s="yama0359"]
-[ns]RŠİ[nse]
-u„’Bcc•‚©‚é‚ñ‚¾‚æ‚ËccHv[pcms]
+[ns]Yamagishi[nse]
+We... will be saved, right...?[pcms]
 
 *2768|
 [fc]
-[ns]‰Á“¡[nse]
-u‘åä•vA‚¿‚á‚ñ‚Æ—ˆ‚é‚æB‚»‚ê‚ÉA‚à‚µ•‚¯‚ª—ˆ‚È‚­[r]
-‚Ä‚àA‚±‚±‚©‚ç–³–‚É“¦‚°o‚¹‚é‚Ü‚ÅccRŠİ‚³‚ñ‚Í‰´[r]
-‚ªç‚éBâ‘Î‚Ëv[pcms]
+[ns]Kato[nse]
+Don't worry, they will come for sure.[l][er]
+And even if help doesn't arrive, I will protect Yamagishi-[r]san until we can safely escape from here.[l][er]
+Absolutely.[pcms]
 
 *2769|
 [fc]
-‹­‚­‚»‚¤Œ¾‚¤‰´‚ÉAˆêu‹Á‚¢‚½‚æ‚¤‚ÈŠç‚ğ‚µ‚Ä‚©‚çAR[r]
-Šİ‚³‚ñ‚ÍÎ‚Á‚Ä‚¤‚È‚¸‚¢‚½B[pcms]
+Yamagishi-san smiled and nodded after giving me a[r]momentarily surprised look in response to my strong words.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1063|
 [fc]
 [vo_ya s="yama0360"]
-[ns]RŠİ[nse]
-uˆê‚É‹A‚ë‚¤‚ËI@â‘ÎA„‚ğˆêl‚É‚µ‚È‚¢‚ÅIIv[pcms]
+[ns]Yamagishi[nse]
+Let's go home together! Absolutely, don't leave me alone!![pcms]
 
 *2770|
 [fc]
-‰´‚ÍARŠİ‚³‚ñ‚É—Š‚è‚É‚³‚ê‚Ä‚¢‚é–‚ªŠğ‚µ‚­‚È‚Á‚½B[r]
-RŠİ‚³‚ñ‚ğAâ‘Î‚Éç‚Á‚Ä‚İ‚¹‚éB[pcms]
+I felt happy that Yamagishi-san relied on me.[l][er]
+I will definitely protect Yamagishi-san.[pcms]
 
 *2771|
 [fc]
-‰´‚ÍA–³Œ¾‚Ì‚Ü‚ÜA—Í‹­‚­‚¤‚È‚¸‚¢‚½B[pcms]
+I nodded strongly, without saying a word.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -266,5 +252,5 @@
 
 ;//blackout
 
-;//[02152]‚Ö
+;//[02152]ã¸
 [jump target=*02152_H_TOP storage="02152_H.ks"]

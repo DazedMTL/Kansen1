@@ -1,25 +1,25 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN0023w’N‚àH‚×‚È‚³‚»‚¤‚Å‚©‚í‚¢‚»‚¤‚¾‚©‚ç“µ‚Ì—¿—‚ğH‚×‚Ä‚İ‚é
-;//BG:Šw‰€“àŠwHF—[•û
-;//“oêl•¨GålŒöE—DE“µE•ü”üE’|“àE“c’†
-;//ËƒuƒƒbƒN0023w’N‚àH‚×‚È‚³‚»‚¤‚Å‚©‚í‚¢‚»‚¤‚¾‚©‚ç“µ‚Ì—¿—‚ğH‚×‚Ä‚İ‚éx
-;//ËƒuƒƒbƒN0023w“µ‚Ì—¿—‚ÍŒ©‚Ä‚­‚ê‚ªˆ«‚¢‚ª”ü–¡‚»‚¤‚¾x
-;//šƒuƒƒbƒN0018‚Ì‘I‘ğ‚©‚ç‚à“¯—l‚ÉƒuƒƒbƒN0023‚Ö‡—¬
-;//BG:Šw‰€“àŠwHF–é
-;//“oêl•¨GålŒöE—DE“µE•ü”üE’|“àE“c’†
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0023ã€èª°ã‚‚é£Ÿã¹ãªã•ãã†ã§ã‹ã‚ã„ãã†ã ã‹ã‚‰ç³ã®æ–™ç†ã‚’é£Ÿã¹ã¦ã¿ã‚‹
+;//BG:å­¦åœ’å†…å­¦é£Ÿï¼šå¤•æ–¹
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­
+;//â‡’ãƒ–ãƒ­ãƒƒã‚¯0023ã€èª°ã‚‚é£Ÿã¹ãªã•ãã†ã§ã‹ã‚ã„ãã†ã ã‹ã‚‰ç³ã®æ–™ç†ã‚’é£Ÿã¹ã¦ã¿ã‚‹ã€
+;//â‡’ãƒ–ãƒ­ãƒƒã‚¯0023ã€ç³ã®æ–™ç†ã¯è¦‹ã¦ãã‚ŒãŒæ‚ªã„ãŒç¾å‘³ãã†ã ã€
+;//â˜…ãƒ–ãƒ­ãƒƒã‚¯0018ã®é¸æŠã‹ã‚‰ã‚‚åŒæ§˜ã«ãƒ–ãƒ­ãƒƒã‚¯0023ã¸åˆæµ
+;//BG:å­¦åœ’å†…å­¦é£Ÿï¼šå¤œ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *0023_TOP
-;[debug_win]‚È‚¤@0023[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0023 = 1"]
+;[debug_win]ãªã†ã€€0023[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0023 = 1"]
 
-;*SceneSet|w’N‚àH‚×‚È‚³‚»‚¤‚Å‚©‚í‚¢‚»‚¤‚¾‚©‚ç“µ‚Ì—¿—‚ğH‚×‚Ä‚İ‚éx
+;*SceneSet|ã€èª°ã‚‚é£Ÿã¹ãªã•ãã†ã§ã‹ã‚ã„ãã†ã ã‹ã‚‰ç³ã®æ–™ç†ã‚’é£Ÿã¹ã¦ã¿ã‚‹ã€
 
 ;//[0023]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//BG:bg014b
 ;//[bg storage="bg14b"]
@@ -27,50 +27,43 @@
 
 *542|
 [fc]
-–{“–‚ÍRŠİ‚³‚ñ‚ªì‚Á‚½—¿—‚ğH‚×‚½‚¢‚ñ‚¾‚¯‚ÇAƒXƒp[r]
-ƒQƒbƒeƒB‚ª“ü‚Á‚½ƒ{ƒEƒ‹‚ÍA^–ç‚É‚æ‚Á‚Ä”¼•ªˆÈ‰º‚É‚Ü[r]
-‚ÅŒ¸‚Á‚Ä‚¢‚½B[pcms]
+I actually wanted to eat the dish made by Yamagishi-san, but[r]the bowl with spaghetti in it had been reduced to less than[r]half by Shinya.[pcms]
 
 *543|
 [fc]
-‹¶‚Á‚½‚æ‚¤‚ÉƒXƒpƒQƒbƒeƒB‚ğ‚©‚«‚ñ‚Å‚¢‚é^–ç‚ÉA[r]
-Œy‚¢¦‚İ‚ğ•ø‚«‚È‚ª‚çA‰´‚Íƒe[ƒuƒ‹‚ğŒ©‰ñ‚µ‚½B[pcms]
+While harboring a slight grudge towards Shinya, who was[r]devouring the spaghetti like a madman, I glanced around the[r]table.[pcms]
+[l][er]
 
 *544|
 [fc]
-ŒÜ\—’ƒTƒ“‚Ìì‚Á‚½—¿—‚ÍA—S“ñ‚ª“Æ‚è‚Å•ø‚¦‚ÄH‚×‚Ä[r]
-‚¢‚é‚µARŠİ‚³‚ñ‚Ì—¿—‚ÍA‚±‚¤‚µ‚Ä‚¢‚éŠÔ‚É‚à”ò‚Ô‚æ[r]
-‚¤‚É”„‚ê‚Ä‚¢‚­B[pcms]
+Yuuji is eating the dish made by Igarashi-san all by[r]himself, and while I'm here, Yamagishi-san's dish is selling[r]like hotcakes.[pcms]
 
 *545|
 [fc]
-‰´‚Éc‚³‚ê‚½‘I‘ğˆ‚ÍA²”Œ‚Ìì‚Á‚½AŒ©‚½–Ú‚ª‚¿‚å‚Á[r]
-‚Æc”O‚ÈA‚µ‚©‚à‚Ù‚Æ‚ñ‚ÇŠÛXc‚Á‚Ä‚¢‚éƒ`ƒƒ[ƒnƒ“ˆÈ[r]
-ŠO‚É–³‚©‚Á‚½B[pcms]
+The only option left for me was the fried rice made by[r]Saeki, which looked a little disappointing and was almost[r]completely untouched.[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std125|
 [fc]
-[ns]’|“à[nse]
-u‚¢‚â‚Ÿ`A‚Ù‚ñ‚Á‚Æ‚¨‚¢‚µ‚¢‚æ‚§I[r]
-—D‚¿‚á‚ñ‚Í‚¢‚¢‚¨‰Å‚³‚ñ‚É‚È‚é‚È‚Ÿ`v[pcms]
+[ns]Takeuchi[nse]
+Wow, this is so delicious! Yuu-chan will make a great wife.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v223|
 [fc]
 [vo_ya s="yama0067"]
-[ns]RŠİ[nse]
-u‚ ‚Í‚ÍA‚ ‚è‚ª‚Æccv[pcms]
+[ns]Yamagishi[nse]
+Ahaha, thank you...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
@@ -80,18 +73,16 @@
 
 *546|
 [fc]
-RŠİ‚³‚ñ‚Ì—¿—‚ğƒxƒ^–J‚ß‚µ‚È‚ª‚çA^–ç‚Í• ‚ğ‹ó‚©‚¹[r]
-‚½“®•¨‚Ì‚æ‚¤‚ÉA‘Š•Ï‚í‚ç‚¸•¨¦‚¢¨‚¢‚ÅƒXƒpƒQƒbƒeƒB[r]
-‚ğŒû‚É‹l‚ß‚ñ‚Å‚¢‚½B[pcms]
+While praising Yamagishi-san's cooking, Shinya continued to[r]devour the spaghetti like a famished animal, stuffing it[r]into his mouth with an incredible force as always.[pcms]
 
 *547|
 [fc]
-ƒNƒ\ccB[pcms]
+Shit...[pcms]
 
 *548|
 [fc]
-‰´‚¾‚Á‚ÄARŠİ‚³‚ñ‚Ìì‚Á‚½—¿—H‚×‚½‚©‚Á‚½‚Ì‚ÉI@[r]
-^–ç‚Ìƒ„ƒcA“Æ‚èè‚ß‚µ‚â‚ª‚Á‚ÄccB[pcms]
+I wanted to eat the dish made by Yamagishi-san too![l][er]
+But that Shinya guy had to hog it all for himself...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -99,193 +90,179 @@
 
 *549|
 [fc]
-^–ç‚ğ‹êX‚µ‚­v‚Á‚Ä‚¢‚½‰´‚ÍA©•ª‚Ìƒ`ƒƒ[ƒnƒ“‚ğ‚à[r]
-‚»‚à‚»H‚×‚È‚ª‚çA^–ç‚ÆRŠİ‚³‚ñ‚Ì‚â‚èæ‚è‚ğ‰¡–Ú‚Å[r]
-Œ©‚Ä‚¢‚é²”Œ‚É‹C‚ª‚Â‚¢‚½B[pcms]
+I noticed Saeki, who was eating her fried rice quietly,[r]while I, harboring bitterness towards Shinya, glanced[r]sideways at Saeki watching the interaction between Shinya[r]and Yamagishi-san.[pcms]
 
 *550|
 [fc]
-ƒEƒ}ƒCƒEƒ}ƒC‚ÆAì‚Á‚½‚à‚Ì‚ğ‚½‚­‚³‚ñH‚×‚Ä‚à‚ç‚Á‚Ä[r]
-‚¤‚ç‚â‚Ü‚µ‚¢B²”Œ‚Ì•\î‚ÍA‚»‚ñ‚È‚±‚Æ‚ğv‚Á‚Ä‚¢‚é[r]
-‚æ‚¤‚É‚àŒ©‚¦‚½B[pcms]
+Saeki's expression seemed to suggest that she was envious of[r]Shinya, who was eating a lot and saying how delicious the[r]food was.[pcms]
 
 *551|
 [fc]
-‰´‚Í‚¿‚å‚Á‚ÆA²”Œ‚ª‚©‚í‚¢‚»‚¤‚Év‚¦‚ÄA‚Ù‚Æ‚ñ‚Çè[r]
-‚Ì‚Â‚¯‚ç‚ê‚Ä‚¢‚È‚¢ƒJƒjƒ`ƒƒ[ƒnƒ“‚Éè‚ğL‚Î‚µ‚½B[pcms]
+I felt a little sorry for Saeki, so I reached out for the[r]untouched crab fried rice.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *552|
 [fc]
-[ns]‰Á“¡[nse]
-i‚ÜA‰½‚àH‚¦‚È‚¢‚æ‚èƒ}ƒV‚©B‚¹‚Á‚©‚­ì‚Á‚Ä‚­‚ê‚½[r]
-‚ñ‚¾‚µ‚Èccj[pcms]
+[ns]Kato[nse]
+(Well, it's better than not eating anything.[l][er]
+After all, she went through the trouble of making it for[r]me...)[pcms]
 
 *553|
 [fc]
-‚»‚ÌAƒXƒv[ƒ“‚ğŒû‚É‰^‚Ô²”Œ‚ÌAwæ‚ª•s©‘R‚É”’[r]
-‚¢è‚ªA‰´‚Ì–Ú‚É“ü‚Á‚½B[pcms]
+At that moment, I caught sight of Saeki's unnaturally pale[r]fingers as she brought the spoon to her mouth.[pcms]
 
 *554|
 [fc]
-[ns]‰Á“¡[nse]
-i‚È‚ñ‚¾ccHj[pcms]
+[ns]Kato[nse]
+(What...?)[pcms]
 
 *555|
 [fc]
-²”Œ‚Ìè‚Ìwæ‚ª•s©‘R‚É”’‚©‚Á‚½‚Ì‚ÍA[r]
-‚½‚­‚³‚ñ‚Ìƒoƒ“ƒ\[ƒR[‚Ì‚¹‚¢‚¾‚Á‚½B[pcms]
+Saeki's fingers were unnaturally pale because of the[r]abundance of Worcestershire sauce.[pcms]
 
 *556|
 [fc]
-è‚ğ‚¾‚ç‚¯‚É‚µ‚È‚ª‚çA‚»‚ê‚Å‚àˆêŠŒœ–½‚±‚Ìƒ`ƒƒ[[r]
-ƒnƒ“‚ğì‚Á‚½‚Ì‚©‚Æv‚¤‚ÆA‚Ü‚·‚Ü‚·²”Œ‚ª‚©‚í‚¢‚»‚¤[r]
-‚ÉŒ©‚¦‚Ä‚«‚ÄA‹t‚ÉH‚×‚Ä‚â‚è‚½‚¢‚Æ‰´‚Ív‚Á‚½B[pcms]
+I thought it was adorable how Saeki worked so hard to make[r]this fried rice, even though her hands were covered in[r]wounds.[l][er]
+It made me feel even more sorry for her, and I had the urge[r]to eat it for her instead.[pcms]
 
 *557|
 [fc]
-[ns]‰Á“¡[nse]
-uƒEƒ}‚»‚¤‚¶‚á‚Ë[‚©A‚±‚ÌƒJƒjƒ`ƒƒ[B[r]
-‰´A‘åD‚«‚È‚ñ‚¾‚æ‚È[v[pcms]
+[ns]Kato[nse]
+This crab fried rice looks delicious.[l][er]
+It's one of my favorites.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v224|
 [fc]
 [vo_sa s="sae0056"]
-[ns]²”Œ[nse]
-ucc‚ ‚È‚½‚Ìˆ×‚Éì‚Á‚½‚í‚¯‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚ªA[r]
-‚æ‚ë‚µ‚¯‚ê‚Î‚Ç‚¤‚¼v[pcms]
+[ns]Saeki[nse]
+... I didn't make it specifically for you, but if you'd[r]like, please go ahead.[pcms]
 
 *558|
 [fc]
-ƒ`ƒƒ[ƒnƒ“‚ğ·‚ë‚¤‚Æ‚µ‚Ä‚¢‚é‰´‚ÉA²”Œ‚ÍˆêuA‹Á‚¢[r]
-‚½‚æ‚¤‚ÈŠç‚ğ‚µ‚½‚¯‚ÇA‚·‚®‚ÉŒ³‚Ì•§’¸–Ê‚É–ß‚Á‚ÄA–³[r]
-ˆ¤‘z‚É‚»‚¤Œ¾‚Á‚½B[pcms]
+Saeki had a momentary surprised expression when she saw me[r]trying to serve the fried rice, but she quickly returned to[r]her usual expressionless face and said it in a curt manner.[pcms]
 
 *559|
 [fc]
-[ns]‰Á“¡[nse]
-u–{“–‚©‚ŸH@À‚Í‰´‚ÌD•¨’²‚×‚½‚ñ‚¾‚ëB[r]
-Æ‚ê‚é‚ÈÆ‚ê‚é‚Èv[pcms]
+[ns]Kato[nse]
+Is that so? You actually looked up my favorite food, didn't[r]you?[l][er]
+Don't be shy, don't be shy.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v225|
 [fc]
 [vo_sa s="sae0057"]
-[ns]²”Œ[nse]
-u‚×‚ÁA•Ê‚ÉÆ‚ê‚Ä‚È‚Çccv[pcms]
+[ns]Saeki[nse]
+W-Well, it's not like I'm embarrassed or anything...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *560|
 [fc]
-‰´‚ÍƒhƒbƒTƒŠ‚ÆA©•ª‚ÌM‚Éƒ`ƒƒ[ƒnƒ“‚ğ·‚Á‚½B[pcms]
+I piled up fried rice on my plate.[pcms]
 
 *561|
 [fc]
-ŠXÅ‚°‚Ä‚½‚èA‹ï‚Ìƒoƒ‰‚¯‹ï‡‚ª‚Ü‚¿‚Ü‚¿‚¾‚¯‚ÇA[r]
-‚Î‚µ‚¢—Ç‚¢“õ‚¢‚ª‚µ‚ÄAH—~‚ğ‚»‚»‚éB[pcms]
+The fried rice was slightly burnt in some places, and the[r]distribution of the ingredients was uneven, but it had a[r]delicious, fragrant smell that stimulated my appetite.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v226|
 [fc]
 [vo_sa s="sae0058"]
-[ns]²”Œ[nse]
-u–³—‚µ‚ÄH‚×‚¸‚ÉAc‚µ‚Ä‚à\‚¢‚Ü‚¹‚ñ‚æB[r]
-‚ ‚Ü‚èA”ü–¡‚µ‚­‚È‚¢‚Å‚µ‚å‚¤‚©‚çccv[pcms]
+[ns]Saeki[nse]
+You don't have to force yourself to eat it, you can leave it[r]if you want.[l][er]
+It's probably not very delicious...[pcms]
 
 *562|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¢‚â‚¢‚âA‚»‚ê‚ÍH‚Á‚Ä‚İ‚È‚¢‚Æ‚í‚©‚ç‚Ë[‚¾‚ëv[pcms]
+[ns]Kato[nse]
+No, no, you won't know until you try it.[pcms]
 
-;//SE:H–‚ÌƒJƒ`ƒƒƒJƒ`ƒƒ‰¹
+;//SE:é£Ÿäº‹ã®ã‚«ãƒãƒ£ã‚«ãƒãƒ£éŸ³
 [se0 storage="se014"]
 
 *563|
 [fc]
-‚â‚¯‚Éã‹C‚È²”Œ‚ÉA•sˆÀ‚°‚ÈŠç‚ÅŒ©ç‚ç‚ê‚È‚ª‚çA[r]
-‰´‚Íƒ`ƒƒ[ƒnƒ“‚ğæ‚¹‚½ƒXƒv[ƒ“‚ğŒû‚Ö‚Æ‰^‚ñ‚¾B[pcms]
+With Saeki, who seemed unusually timid, watching me with an[r]anxious expression, I brought the spoon with the fried rice[r]to my mouth.[pcms]
 
 *564|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ñ‚Şccƒ€ƒOccv[pcms]
+[ns]Kato[nse]
+Mmm... Muku...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v227|
 [fc]
 [vo_sa s="sae0059"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *565|
 [fc]
-[ns]‰Á“¡[nse]
-uƒEƒ}ƒCccv[pcms]
+[ns]Kato[nse]
+It's delicious...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v228|
 [fc]
 [vo_sa s="sae0060"]
-[ns]²”Œ[nse]
-u‚¦cc–{“–‚ÉHv[pcms]
+[ns]Saeki[nse]
+Eh... Really?[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *566|
 [fc]
-²”Œ‚Ìƒ`ƒƒ[ƒnƒ“‚ÌˆÓŠO‚ÈƒEƒ}‚³‚ÉA‰´‚Í“ñŒûAOŒû‚Æ[r]
-—§‚Ä‘±‚¯‚É–j’£‚Á‚½B[pcms]
+I couldn't help but take bite after bite of Saeki's[r]unexpectedly delicious fried rice.[pcms]
 
 *567|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¢‚âAƒEƒ}ƒCB‚±‚êƒEƒ}ƒC‚æBŒ©‚½–Ú‚Í‚¿‚å‚Á‚ÆƒAƒŒ[r]
-‚¾‚¯‚Çv[pcms]
+[ns]Kato[nse]
+No, it's delicious. This is really tasty.[l][er]
+It may not look great, but...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v229|
 [fc]
 [vo_sa s="sae0061"]
-[ns]²”Œ[nse]
-u‚¢AŒ™‚È‚çH‚×‚È‚­‚Ä‚àŒ‹\‚Å‚·ccv[pcms]
+[ns]Saeki[nse]
+I-If you don't want to eat it, it's okay...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -293,19 +270,17 @@
 
 *568|
 [fc]
-“¯‚¶ƒNƒ‰ƒX‚É‚È‚Á‚Ä‚©‚ç‰‚ß‚ÄŒ©‚éAX‚Ë‚½‚æ‚¤‚ÈŠç‚ğ[r]
-‚µ‚ÄA²”Œ‚ÍŠç‚ğˆí‚ç‚µ‚Ä‚¤‚Â‚Ş‚¢‚½B[pcms]
+Saeki, with a pouting expression that I had never seen since[r]we became classmates, averted her gaze and looked down.[pcms]
 
 *569|
 [fc]
-‚Å‚àA‚â‚Á‚Ï‚è‹C‚É‚È‚é‚Ì‚©A–ÙX‚Æƒ`ƒƒ[ƒnƒ“‚ğH‚×[r]
-‘±‚¯‚é‰´‚ğA²”Œ‚Íƒ`ƒ‰ƒ`ƒ‰‚Æ“‚İŒ©‚Ä‚¢‚éB[pcms]
+But, it seems like she's still curious, as Saeki steals[r]glances at me while I continue to eat the fried rice[r]silently.[pcms]
 
 *570|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ñccH@‚È‚ñ‚¾‚æA‰´‚ªƒEƒ\Œ¾‚Á‚Ä‚é‚Æv‚Á‚Ä‚é‚Ì[r]
-‚©H@–{“–‚ÉƒEƒ}ƒC‚Á‚Äv[pcms]
+[ns]Kato[nse]
+Hm...? What's wrong? Do you think I'm lying?[l][er]
+It really is delicious.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -314,24 +289,22 @@
 
 *571|
 [fc]
-Œ©‚Ä‚¢‚é‚Ì‚ğ‹C‚Ã‚©‚ê‚½’p‚¸‚©‚µ‚³‚©‚ç‚©A²”Œ‚ÍŠç‚ğ[r]
-^‚ÁÔ‚É‚µ‚ÄAƒvƒCƒb‚ÆŠç‚ğ‚»‚ç‚µ‚½B[pcms]
+Saeki, noticing that I was watching her, blushed bright red[r]and pouted, turning her face away.[pcms]
 
 *572|
 [fc]
-‚È‚ñ‚¾‚æA‚±‚¢‚ÂŒ‹\ƒJƒƒCƒC‚Æ‚±‚ ‚é‚¶‚á‚ñccB[pcms]
+What's this? She actually has some cute aspects to her...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *573|
 [fc]
-‚¢‚Â‚àã‚©‚ç•¨‚ğŒ¾‚¤²”Œ‚ÌA‚±‚¤‚¢‚¤”½‰‚ÍŒƒƒŒƒA‚Æ[r]
-Œ¾‚¦‚éB‚±‚ñ‚È²”Œ‚Ì•\î‚ªŒ©‚ê‚½‚¾‚¯‚Å‚àA[r]
-¡“úA‚±‚ÌŠÓÜ‰ï‚ÉQ‰Á‚µ‚½‰¿’l‚Í\•ª‚ ‚Á‚½‚©‚ÈB[pcms]
+Saeki, who always speaks condescendingly, having this kind[r]of reaction is extremely rare.[l][er]
+Just being able to see Saeki's expression like this, I feel[r]like it was worth participating in this appreciation event[r]today.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;//[0024]‚Ö
+;//[0024]ã¸
 [jump target=*0024_TOP storage="0024.ks"]
 

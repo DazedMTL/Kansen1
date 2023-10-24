@@ -1,20 +1,20 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN05291wHƒpƒ“x
-;//¦05292‚©‚ç05299‚Ü‚ÅŒ‡”Ô
-;//;//BG:ŠwHF’©
-;//“oêl•¨GålŒöE“µ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05291ã€é£Ÿãƒ‘ãƒ³ã€
+;//â€»05292ã‹ã‚‰05299ã¾ã§æ¬ ç•ª
+;//;//BG:å­¦é£Ÿï¼šæœ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *05291_TOP
-;[debug_win]‚È‚¤@05291[debug_win_end]
-;*SceneSet|wHƒpƒ“x
+;[debug_win]ãªã†ã€€05291[debug_win_end]
+;*SceneSet|ã€é£Ÿãƒ‘ãƒ³ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05291 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05291 = 1"]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 
 [bgm001]
 
@@ -32,9 +32,8 @@
 
 *5244|
 [fc]
-[ns]‰Á“¡[nse]
-u…‚Í‚ ‚é‚µAH‚¢ƒ‚ƒm‚ª‚¿‚ß‚ê‚ÎA[r]
-‚±‚Ì’†‚Å‚µ‚Î‚ç‚­ƒTƒoƒCƒoƒ‹‚Å‚«‚»‚¤‚¾‚Èv[pcms]
+[ns]Kato[nse]
+We have water and if we can bring food, it seems like we can[r]survive in here for a while.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -43,26 +42,25 @@
 
 *5245|
 [fc]
-ƒTƒoƒCƒoƒ‹A‚Æ‚¢‚¤‰´‚ÌŒ¾—t‚ÉA[r]
-²”Œ‚ÍŒ™‚»‚¤‚ÉŠç‚ğ‚µ‚©‚ß‚½B[pcms]
+Saeki frowned disapprovingly at my words about survival.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2183|
 [fc]
 [vo_sa s="sae0450"]
-[ns]²”Œ[nse]
-u‚±‚ñ‚ÈŠ‚É‰½“ú‚à•Â‚¶‚±‚ß‚ç‚ê‚é‚È‚ñ‚ÄccB[r]
-l‚¦‚½‚¾‚¯‚Å‚à‚¨‚©‚µ‚­‚È‚è‚»‚¤‚Å‚·ccv[pcms]
+[ns]Saeki[nse]
+Being trapped in a place like this for several days...[l][er]
+Just thinking about it makes me feel like I'm going crazy...[pcms]
 
 *5246|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ÜA‚ ‚è‚¦‚È‚¢‚¯‚Ç‚ÈA‚»‚ñ‚È‚±‚Æv[pcms]
+[ns]Kato[nse]
+Well, it's unlikely, but... such a thing...[pcms]
 
 *5247|
 [fc]
-’n‰º‚Ö‘±‚­°‚Ì”à‚ğ•Â‚ßA‰´’B‚ÍŠwH‚ğ‚ ‚Æ‚É‚µ‚½B[pcms]
+We closed the door to the floor leading underground and left[r]the school cafeteria.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -70,8 +68,8 @@
 
 ;//blackout
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05300]‚Ö
+;//[05300]ã¸
 [jump target=*05300_TOP storage="05300.ks"]

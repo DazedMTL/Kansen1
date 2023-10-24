@@ -1,15 +1,15 @@
 
-;//¡ËƒuƒƒbƒN05130w’ñˆÄx
-;//BG:“Áê‹³º˜L‰ºF–éF“_“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05130ã€ææ¡ˆã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05130_TOP
-;[debug_win]‚È‚¤@05130[debug_win_end]
-;*SceneSet|w’ñˆÄx
+;[debug_win]ãªã†ã€€05130[debug_win_end]
+;*SceneSet|ã€ææ¡ˆã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05130 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05130 = 1"]
 ;	/*
-;	;//ôFBGM001
+;	;//â™ªï¼šBGM001
 ;	[bgm001]
 ;	*/
 
@@ -24,75 +24,69 @@
 
 *4893|
 [fc]
-ˆêŠK‚Ö‰º‚è‚Ä‚­‚é‚ÆA‘ÌˆçŠÙ‚Ö‘±‚¢‚Ä‚¢‚é˜L‰º‚ÉA“”‚è[r]
-‚ª“_‚¯‚ç‚ê‚Ä‚¢‚½B[pcms]
+When I went down to the first floor, there was a hallway[r]leading to the gymnasium, and the lights were on.[pcms]
 
 *4894|
 [fc]
-ã‚ÌŠK‚Ös‚­‘O‚ÍA‚±‚±‚Ì“”‚è‚Í“_‚¢‚Ä‚¢‚È‚©‚Á‚½B’N[r]
-‚ª“_‚¯‚½‚Ì‚©‚Í‚í‚©‚ç‚È‚¢‚ªA’N‚©‚ª‚±‚±‚ğ’Ê‚Á‚½‚±‚Æ[r]
-‚É‚ÍŠÔˆá‚¢‚È‚³‚»‚¤‚¾B[pcms]
+Before going upstairs, the lights here were not on.[l][er]
+I don't know who turned them on, but it seems certain that[r]someone passed through here.[pcms]
 
 *4895|
 [fc]
-RŠİ‚³‚ñ‚ª“_‚¯‚Ä‚¢‚Á‚½‚Ì‚©‚ÈccB‚»‚ê‚Æ‚àV“¹æ¶[r]
-‚©ccB‚à‚µ‚©‚µ‚ÄA‚¢‚È‚­‚È‚Á‚½“z‚ç‚©ccH[pcms]
+I wonder if it was Yamagishi-san who turned them on...[l][er]
+Or maybe it was Shindou-sensei...[l][er]
+Could it be those who disappeared...?[pcms]
 
 *4896|
 [fc]
-—§‚¿~‚Ü‚Á‚Ä“Vˆä‚Ì“”‚è‚ğ’­‚ß‚Ä‚¢‚é‚ÆA‚»‚ê‚Ü‚Å–Ù‚Á[r]
-‚Ä‚¢‚½²”Œ‚ªŒû‚ğŠJ‚¢‚½B[pcms]
+Saeki, who had been silent until then, opened her mouth as[r]she stopped and gazed at the ceiling lights.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2081|
 [fc]
 [vo_sa s="sae0375"]
-[ns]²”Œ[nse]
-uRŠİ‚³‚ñ‚ª‘ÌˆçŠÙ‚Ös‚Á‚½‚Ì‚©‚à‚µ‚ê‚Ü‚¹‚ñ‚ËB‚à‚µ[r]
-‚»‚±‚É‚¢‚½‚çcc‡—¬‚µ‚Ü‚µ‚å‚¤v[pcms]
+[ns]Saeki[nse]
+Maybe Yamagishi-san went to the gymnasium.[l][er]
+If she's there... let's meet up.[pcms]
 
 *4897|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚ ‚ ccv[pcms]
+[ns]Kato[nse]
+Ah, ah...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *4898|
 [fc]
-•s‹@Œ™‚»‚¤‚ÈŠç‚ÆŒû’²‚Å‚»‚¤Œ¾‚Á‚ÄA²”Œ‚Í‘ÌˆçŠÙ‚Ö‚Æ[r]
-•à‚«n‚ß‚½B[pcms]
+Saeki, with a displeased expression and tone, said that and[r]started walking towards the gymnasium.[pcms]
 
 *4899|
 [fc]
-‚³‚Á‚«‚ÌƒnƒbƒLƒŠ‚µ‚È‚¢“š‚¦‚ªA•s‹@Œ™‚ÌŒ´ˆö‚È‚Ì‚©‚Æ[r]
-v‚Á‚ÄA‰´‚Ì’†‚É‚ÍA‚Ü‚½²”Œ‚É‘Î‚·‚é\‚µ–ó‚È‚³‚ª•¦[r]
-‚¢‚Ä‚«‚Ä‚¢‚½B[pcms]
+I was starting to feel sorry for Saeki again, thinking that[r]her unclear answer earlier might be the cause of her[r]displeasure.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2082|
 [fc]
 [vo_sa s="sae0376"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñA‰½‚ğ‚®‚¸‚®‚¸‚µ‚Ä‚¢‚é‚Ì‚Å‚·B’u‚¢‚Ä‚¢‚«[r]
-‚Ü‚·‚æIv[pcms]
+[ns]Saeki[nse]
+Kato-san, what are you dawdling for?[l][er]
+I'll leave you behind![pcms]
 
 *4900|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦H@‚ A‚ ‚ A¡s‚­Iv[pcms]
+[ns]Kato[nse]
+Huh? Ah, ah, I'm coming now![pcms]
 
 *4901|
 [fc]
-²”Œ‚ÌŒÄ‚Ñ‚©‚¯•û‚ÉA‚¢‚Â‚à’Ê‚è‚Ì‚ ‚¢‚Â‚É–ß‚Á‚½‚æ‚¤[r]
-‚ÉŒ©‚¦‚ÄA‰´‚Í‚¿‚å‚Á‚Æƒzƒb‚Æ‚µ‚Ä‚¢‚½B[pcms]
+I felt relieved when Saeki's way of calling out to me seemed[r]to return to her usual self.[pcms]
 
-;//[05140]‚Ö
+;//[05140]ã¸
 [jump target=*05140_TOP storage="05140.ks"]

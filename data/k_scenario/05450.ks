@@ -1,19 +1,19 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN05450w‹’®Šoº“’…x
-;//;//BG:“Áê‹³º˜L‰ºF—[•ûGÁ“”
-;//“oêl•¨GålŒöE“µ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05450ã€è¦–è´è¦šå®¤åˆ°ç€ã€
+;//;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤•æ–¹ï¼›æ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *05450_TOP
-;[debug_win]‚È‚¤@05450[debug_win_end]
-;*SceneSet|w‹’®Šoº“’…x
+;[debug_win]ãªã†ã€€05450[debug_win_end]
+;*SceneSet|ã€è¦–è´è¦šå®¤åˆ°ç€ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05450 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05450 = 1"]
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 
 [bgm007]
 
@@ -28,26 +28,24 @@
 
 *5501|
 [fc]
-‚ ‚Ì‚¨‚©‚µ‚È“z‚ç‚ª“Ë‘Ro‚Ä‚«‚â‚µ‚È‚¢‚©‚ÆA‰´’B‚Í—p[r]
-S[‚­ü‚è‚ğŒ©‰ñ‚µ‚È‚ª‚çA‹’®Šoº‚Ö‚Æ•à‚­B[pcms]
+As we walked towards the audiovisual room, cautiously[r]looking around, I couldn't help but wonder if those strange[r]guys would suddenly appear.[pcms]
 
 *5502|
 [fc]
-ZÉ‚Ì’†‚Í•¨‰¹ˆê‚Â‚¹‚¸AÃ‚Ü‚è‚©‚¦‚Á‚Ä‚¢‚ÄA’N‚©‚ª[r]
-‹ß‚­‚É‚¢‚é‹C”z‚Í‚µ‚È‚¢B[pcms]
+The school building was silent, with not a single sound, and[r]it felt completely still.[l][er]
+There was no sign of anyone nearby.[pcms]
 
 *5503|
 [fc]
-[ns]‰Á“¡[nse]
-u‰½‚©‚³Aí‘ˆ‰f‰æ‚É‚ ‚é‚æ‚ÈA‚±‚¤‚¢‚¤ƒV[ƒ“Bü‚è[r]
-‚ğŒx‰ú‚µ‚È‚ª‚çA‚ä‚Á‚­‚è•à‚­‚Æ‚±v[pcms]
+[ns]Kato[nse]
+You know, this scene feels like something out of a war[r]movie.[l][er]
+Walking slowly, being cautious of our surroundings.[pcms]
 
 *5504|
 [fc]
-‹Ù’£ó‘Ô‚ª’·‚­‘±‚¢‚Ä‚¢‚é‚¹‚¢‚©A‰´‚Í‰½‚¾‚©A‚±‚Ìó[r]
-‹µ‚ÉŠµ‚ê‚Ä‚«‚Ä‚µ‚Ü‚Á‚Ä‚¢‚½B[pcms]
+Due to the prolonged state of tension, I had somehow become[r]accustomed to this situation.[pcms]
 
-;//ôFBGM007ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 [fadeoutbgm time=500]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
@@ -55,18 +53,17 @@
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2285|
 [fc]
 [vo_sa s="sae0511"]
-[ns]²”Œ[nse]
-u‰f‰æ‚Ì‚æ‚¤‚ÉA•¨Œê‚ÅÏ‚ß‚Î‚¢‚¢‚Ì‚Å‚·‚¯‚ê‚Çccv[pcms]
+[ns]Saeki[nse]
+It would be nice if this could all be resolved like in a[r]movie...[pcms]
 
 *5505|
 [fc]
-‚¾‚ªA²”Œ‚É‚Æ‚Á‚Ä‚ÍŒµ‚µ‚¢‚æ‚¤‚ÅA¸_“I‚È”æ‚ê‚ª—­[r]
-‚Ü‚Á‚Ä‚¢‚é‚Ì‚©AŠç‚ªğ“ú‚æ‚è­‚µ‚â‚Â‚ê‚ÄŒ©‚¦‚½B[pcms]
+However, it seemed tough for Saeki, as she appeared slightly[r]worn out, perhaps accumulating mental fatigue compared to[r]yesterday.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -77,5 +74,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05460]‚Ö
+;//[05460]ã¸
 [jump target=*05460_TOP storage="05460.ks"]

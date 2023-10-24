@@ -1,25 +1,25 @@
 
-;//¡ËƒuƒƒbƒN05710w–²‚Qx
-;//;//BG:–³‚µ
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05710ã€å¤¢ï¼’ã€
+;//;//BG:ç„¡ã—
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05710_TOP
-;[debug_win]‚È‚¤@05710[debug_win_end]
-;*SceneSet|w–²‚Qx
+;[debug_win]ãªã†ã€€05710[debug_win_end]
+;*SceneSet|ã€å¤¢ï¼’ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05710 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05710 = 1"]
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 
 [fadeoutbgm time=500]
 
-;ƒVƒXƒeƒ€ƒ{ƒ^ƒ“•ƒEƒBƒ“ƒhƒEÁ‹
+;ã‚·ã‚¹ãƒ†ãƒ ãƒœã‚¿ãƒ³ï¼†ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
 [sysbt_meswin clear]
 
-;//;//BG:bg–³‚µ
+;//;//BG:bgç„¡ã—
 [bg storage="effect_white"][trans_c cross time=1000]
 
-;//¦“µ‚Ì—§‚¿•\¦
+;//â€»ç³ã®ç«‹ã¡è¡¨ç¤º
 [ChrSetEx layer=1 chbase="sae_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_a_a_02"]
@@ -31,59 +31,56 @@
 
 *6116|
 [fc]
-[ns]‰Á“¡[nse]
-u²”ŒccHv[pcms]
+[ns]Kato[nse]
+Saeki...?[pcms]
 
 *6117|
 [fc]
-‰½‚Å–Ú‚Ì‘O‚ÉccH[r]
-‰´‚Ì—×‚ÉÀ‚Á‚Ä‚é”¤‚¶‚áccB[r]
-‚µ‚©‚àA‰½‚Å—‡‚ÅccB[pcms]
+Why are you in front of me...?[l][er]
+You should be sitting next to me...[l][er]
+And why are you naked...?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std371|
 [fc]
 [vo_sa s="sae0665"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *6118|
 [fc]
-²”Œ‚Í‰½‚©‚ğŒ¾‚¤‚æ‚¤‚ÉŒû‚ğ“®‚©‚µ‚½‚ªAº‚ª‘S‘R•·‚±[r]
-‚¦‚Ä‚±‚È‚¢B[pcms]
+Saeki moved her mouth as if she was trying to say something,[r]but I couldn't hear her voice at all.[pcms]
+[l][er]
 
 *6119|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦ccH@¡A‰½‚Äccv[pcms]
+[ns]Kato[nse]
+Eh...? What did you just...?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_a_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std372|
 [fc]
 [vo_sa s="sae0666"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *6120|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚è‚ª‚Æ‚¤ccHv[pcms]
+[ns]Kato[nse]
+Thank you...?[pcms]
 
 *6121|
 [fc]
-²”Œ‚ÌŒû‚Ì“®‚«‚ğ‚æ‚­Œ©‚Ä‚¢‚é‚ÆAw‚ ‚è‚ª‚Æ‚¤x‚Æ“®[r]
-‚¢‚½‚æ‚¤‚ÉA‰´‚É‚Ív‚¦‚½B[pcms]
+As I closely watched Saeki's mouth movements, it seemed to[r]me that she moved her lips to say thank you.[pcms]
 
 *6122|
 [fc]
-‚»‚Ìw‚ ‚è‚ª‚Æ‚¤x‚ªAw¡‚Ü‚Å‚ ‚è‚ª‚Æ‚¤x‚Æ‚¢‚¤ˆÓ[r]
-–¡‚Év‚¦‚ÄA©•ª‚Ì‘O‚©‚ç²”Œ‚ª‚¢‚È‚­‚È‚é‚Ì‚Å‚Í‚È‚¢[r]
-‚©‚ÆA‰´‚Ì’†‚É‹}‘¬‚É•sˆÀŠ´‚ªL‚ª‚Á‚Ä‚¢‚Á‚½B[pcms]
+The meaning behind that thank you seemed to imply thank you[r]for everything up until now, and a rapid sense of anxiety[r]spread within me, fearing that Saeki would disappear from in[r]front of me.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -92,13 +89,12 @@
 
 *6123|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨‚¢cc‰½‚¾‚æA‚ ‚è‚ª‚Æ‚¤‚Á‚Äccv[pcms]
+[ns]Kato[nse]
+Hey... What's with the thank you...?[pcms]
 
 *6124|
 [fc]
-²”Œ‚Í‰½‚à“š‚¦‚¸A‚½‚¾”÷Î‚ñ‚ÅA‚ä‚Á‚­‚è‚Æp‚ğÁ‚µ[r]
-‚Ä‚¢‚­B[pcms]
+Saeki didn't say anything, she just smiled and slowly[r]disappeared.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -113,12 +109,12 @@
 
 *6125|
 [fc]
-[ns]‰Á“¡[nse]
-u²”Œ‚ÁIIv[pcms]
+[ns]Kato[nse]
+Saeki!![pcms]
 
 ;;;[sysbt_meswin clear]
 
 
 
-;//[05720]‚Ö
+;//[05720]ã¸
 [jump target=*05720_TOP storage="05720.ks"]

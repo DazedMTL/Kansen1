@@ -1,20 +1,20 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN0026wHŠír‚¢I—¹F‹’®Šoº‚Öx
-;//BG:Šw‰€“àŠwHF—[•û
-;//“oêl•¨GålŒöE—DE“µ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0026ã€é£Ÿå™¨è’ã„çµ‚äº†ï¼šè¦–è´è¦šå®¤ã¸ã€
+;//BG:å­¦åœ’å†…å­¦é£Ÿï¼šå¤•æ–¹
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *0026_TOP
-;[debug_win]‚È‚¤@0026[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0026 = 1"]
+;[debug_win]ãªã†ã€€0026[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0026 = 1"]
 
-;*SceneSet|wHŠíô‚¢I—¹x
+;*SceneSet|ã€é£Ÿå™¨æ´—ã„çµ‚äº†ã€
 
 ;//[0026]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//BG:bg014b
 
@@ -23,7 +23,7 @@
 [bg storage="bg14c"]
 [trans_c cross time=500]
 
-;//SE:˜L‰º‚ğ•à‚­
+;//SE:å»Šä¸‹ã‚’æ­©ã
 
 [se0 storage="se067"]
 
@@ -31,274 +31,253 @@
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v237|
 [fc]
 [vo_sa s="sae0063"]
-[ns]²”Œ[nse]
-u‚ ‚çcc‚İ‚È‚³‚ñA‚Ü‚¾–ß‚Á‚Ä‚È‚¢‚Ì‚Å‚·‚©Hv[pcms]
+[ns]Saeki[nse]
+Oh... everyone, you haven't returned yet?[pcms]
 
 *608|
 [fc]
-’N‚ªˆê”ÔÅ‰‚É–ß‚Á‚Ä‚­‚é‚©A‰´‚Ì”]“à‚ÅŠJÃ‚³‚ê‚Ä‚¢[r]
-‚½‰fŒ¤ƒ_[ƒr[‚ÍAˆê’…E²”Œ“µ‚Æ‚¢‚¤A‚ ‚Ü‚è‚É—\‘z[r]
-’Ê‚è‚ÈŒ‹‰Ê‚Å–‹‚ğ•Â‚¶‚½B[pcms]
+The film club derby that was held in my mind to determine[r]who would return first came to a close with an unsurprising[r]result - Saeki Hitomi finished in first place.[pcms]
 
 *609|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ A“S”Â‚¾v[pcms]
+[ns]Kato[nse]
+Ah, it's a sure thing.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v238|
 [fc]
 [vo_sa s="sae0064"]
-[ns]²”Œ[nse]
-uccHv[pcms]
+[ns]Saeki[nse]
+...?[pcms]
 
 *610|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¢‚âA‚±‚Á‚¿‚Ì˜bB‚¨‘O‚àƒE[ƒƒ“’ƒˆù‚Ş‚©Hv[pcms]
+[ns]Kato[nse]
+No, this is about something else.[l][er]
+Do you want to drink some oolong tea too?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v239|
 [fc]
 [vo_sa s="sae0065"]
-[ns]²”Œ[nse]
-u‚ A‚·A‚·‚İ‚Ü‚¹‚ñccv[pcms]
+[ns]Saeki[nse]
+A-Ah, I-I'm sorry...[pcms]
 
 *611|
 [fc]
-²”Œ‚ÉƒE[ƒƒ“’ƒ‚ğ‚Â‚¢‚Å‚â‚Á‚Ä‚¢‚é‚ÆA[r]
-RŠİ‚³‚ñ‚ª¬‘–‚è‚Å‹ì‚¯‚ñ‚Å‚«‚½B[pcms]
+Saeki poured some oolong tea for herself, and just as she[r]was doing so, Yamagishi-san came running in.[pcms]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 [se0 storage="se005"]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v240|
 [fc]
 [vo_ya s="yama0070"]
-[ns]RŠİ[nse]
-u‚²‚ß‚ñ‚È‚³[‚¢I@’x‚­‚È‚Á‚¿‚á‚Á‚½cc‚ ‚êH[r]
-‚İ‚ñ‚È‚ÍHv[pcms]
+[ns]Yamagishi[nse]
+I'm sorry! I'm late... Huh? Where is everyone?[pcms]
 
 *612|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ü‚¾–ß‚Á‚Ä—ˆ‚Ä‚È‚¢‚ñ‚¾B[r]
-‚±‚±‚ğo‚Äs‚Á‚Ä‚©‚çA‚©‚È‚èŒo‚Â‚ñ‚¾‚¯‚Çv[pcms]
+[ns]Kato[nse]
+They still haven't come back. It's been quite a while since[r]we left here.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v241|
 [fc]
 [vo_ya s="yama0071"]
-[ns]RŠİ[nse]
-u„A“c’†‚³‚ñ‚Ì’²q‚ª–ß‚ç‚È‚­‚ÄAƒgƒ‚‚¿‚á‚ñ‚ª¢‚Á[r]
-‚Ä‚é‚ñ‚¶‚á‚È‚¢‚©‚Æv‚Á‚ÄA•ÛŒ’º‚És‚Á‚Ä‚İ‚½‚ñ‚¾‚¯[r]
-‚ÇAŒ®‚ª•Â‚Ü‚Á‚Ä‚ÄA’N‚à‚¢‚È‚¢‚İ‚½‚¢‚¾‚Á‚½‚æv[pcms]
+[ns]Yamagishi[nse]
+I went to the infirmary because Tanaka-san hasn't been[r]feeling well and I thought Tomo-chan might be worried.[l][er]
+But the door was locked and it seemed like no one was there.[pcms]
 
 *613|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤ccB[r]
-^–ç‚È‚ñ‚©AƒSƒ~Ì‚Ä‚És‚Á‚½‚¾‚¯‚È‚ñ‚¾‚¯‚Ç‚È[v[pcms]
+[ns]Kato[nse]
+Yeah... Shinya just went to take out the trash, that's all.[pcms]
 
 *614|
 [fc]
-‰´‚Ì—×‚É˜‚ğ‚©‚¯‚éRŠİ‚³‚ñ‚ÉAƒE[ƒƒ“’ƒ‚ğ’‚¢‚Å‚ [r]
-‚°‚È‚ª‚çA˜b‚Ìƒlƒ^‚É‚È‚ê‚Î‚Æ^–ç‚É‚Â‚¢‚Ä‚Ó‚Á‚Ä‚İ‚é[r]
-‚ÆA‚È‚º‚©²”Œ‚ª‚»‚Ì˜b‚É”½‰‚µ‚½B[pcms]
+Saeki, who sat down next to me, pouring oolong tea for her,[r]unexpectedly reacted when I brought up Shinya as a topic of[r]conversation, hoping it would be a good story.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v242|
 [fc]
 [vo_sa s="sae0066"]
-[ns]²”Œ[nse]
-u’N‚à‚¢‚È‚¢‚Ì‚ğ‚¢‚¢‚±‚Æ‚ÉA—q‚Ì‚¿•¨‚Å‚à‹™‚Á‚Ä[r]
-‚¢‚é‚ñ‚¶‚á‚ ‚è‚Ü‚¹‚ñH@‚Å‚È‚¯‚ê‚ÎA—qƒgƒCƒŒ‚âX[r]
-ˆßº‚ÉƒJƒƒ‰‚Å‚àdŠ|‚¯‚Ä‚¢‚é‚Æ‚©ccv[pcms]
+[ns]Saeki[nse]
+Are you taking advantage of the fact that no one is here to[r]rummage through girls' belongings?[l][er]
+Or maybe you're secretly installing cameras in the girls'[r]restroom or changing room...[pcms]
 
 *615|
 [fc]
-^–ç‚É‘Î‚·‚é‚ ‚Ü‚è‚Éˆ«ˆÓ‚É–‚¿‚½²”Œ‚ÌŒ¾—t‚ÉA[r]
-‰´‚Í‚¿‚å‚Á‚Æ• ‚ª—§‚Á‚½B[pcms]
+I was a little angry at Saeki's words, filled with so much[r]malice towards Shinya.[pcms]
 
 *616|
 [fc]
-[ns]‰Á“¡[nse]
-u‚È‚ ²”ŒB‚¨‘OA^–ç‚ªŒ™‚¢‚È‚Ì‚©H[r]
-à‹³‚à‚µ‚å‚Á‚¿‚ã‚¤‚µ‚Ä‚é‚µv[pcms]
+[ns]Kato[nse]
+Hey, Saeki. Do you hate Shinya?[l][er]
+You're always lecturing him and all.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v243|
 [fc]
 [vo_sa s="sae0067"]
-[ns]²”Œ[nse]
-u”Ş‚Ì‚±‚Æ‚ªD‚«‚¾‚Æ‚¢‚¤—q‚ª‚¢‚é‚Ì‚È‚çA[r]
-ˆê“x‚¨–Ú‚É‚©‚©‚è‚½‚¢‚à‚Ì‚Å‚·‚ív[pcms]
+[ns]Saeki[nse]
+If there is a girl who says she likes him, I would like to[r]meet her once.[pcms]
 
 *617|
 [fc]
-ƒE[ƒƒ“’ƒ‚ÉŒû‚ğ•t‚¯‚È‚ª‚çA²”Œ‚Í—Á‚µ‚¢Šç‚ÅA[r]
-‚ ‚Á‚³‚è‚ÆŒ¾‚¢•ú‚Á‚½B[pcms]
+Saeki, with a cool expression, casually said while taking a[r]sip of oolong tea.[pcms]
 
 *618|
 [fc]
-[ns]‰Á“¡[nse]
-u²”Œ‚Ìl‚¦‚·‚¬‚¾‚Æv‚¤‚¯‚Ç‚ÈB^–ç‚ÍŠm‚©‚É•Ï‚í‚Á[r]
-‚½ƒ„ƒc‚¾‚Æ‚Ív‚¤‚¯‚ÇA‚Å‚àˆ«‚¢ƒ„ƒc‚¶‚á‚È‚¢‚ºH[r]
-RŠİ‚³‚ñ‚à‚»‚¤v‚¤‚æ‚ËHv[pcms]
+[ns]Kato[nse]
+I think Saeki is overthinking it.[l][er]
+Shinya is definitely a unique guy, but he's not a bad[r]person, you know?[l][er]
+Yamagishi-san, don't you think so too?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v244|
 [fc]
 [vo_ya s="yama0072"]
-[ns]RŠİ[nse]
-u‚ [A‚¤‚ñA‚»‚¾‚Ëccv[pcms]
+[ns]Yamagishi[nse]
+Yeah, that's right...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *619|
 [fc]
-˜b‚ğ‚Ó‚ç‚ê‚½RŠİ‚³‚ñ‚Ì¢‚Á‚½Šç‚ÍA­‚È‚­‚Æ‚à^–ç‚É[r]
-—Ç‚¢ƒCƒ[ƒW‚Í‚Á‚Ä‚¢‚È‚¢A‚Æ‚¢‚¤‚±‚Æ‚ğ—Y•Ù‚ÉŒê‚Á[r]
-‚Ä‚¨‚èA‰´‚Í‘½­‚È‚è‚Æ‚àƒVƒ‡ƒbƒN‚ğó‚¯‚½B[pcms]
+Yamagishi-san's troubled expression when the topic was[r]brought up spoke volumes about her lack of a positive[r]impression of Shinya, at least.[l][er]
+It was quite clear, and I was somewhat shocked.[pcms]
 
 *620|
 [fc]
-’N‚Æ‚Å‚à’‡—Ç‚­‚Å‚«‚ÄAl‚ğŒ™‚¤‚È‚ñ‚Ä‚±‚Æ‚ğ‚µ‚È‚³‚»[r]
-‚¤‚ÈRŠİ‚³‚ñ‚É‚Ü‚ÅA—Ç‚­‚È‚¢ƒCƒ[ƒW‚ğ‚½‚ê‚Ä‚¢‚é[r]
-‚È‚ñ‚ÄccB[pcms]
+It's surprising that even Yamagishi-san, who seems to get[r]along well with everyone and doesn't seem like the type to[r]dislike people, has a negative impression of him...[pcms]
 
 *621|
 [fc]
-²”Œ‚ÌŒ¾‚Á‚½‚±‚Æ‚Íç’k‚¶‚á‚È‚­‚ÄA‚à‚µ‚©‚µ‚½‚ç^–ç[r]
-‚ÍA–{“–‚É“¯‚¶Šw”N‚Ì—q‘Sˆõ‚©‚çŒ™‚í‚ê‚Ä‚¢‚é‚Ì‚©‚à[r]
-ccB[pcms]
+Saeki's words weren't a joke, and maybe Shinya is really[r]disliked by all the girls in the same grade...[pcms]
 
 *622|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤‚©cc‚ ‚¢‚ÂŒ™‚í‚ê‚Ä‚ñ‚Ì‚©cc[r]
-Œ©‚Ä‚­‚ê‚Í‚½‚µ‚©‚É‚¿‚å‚Á‚ÆƒAƒŒ‚¾‚¯‚Ç–Ê”’‚¢‚µA[r]
-‚¢‚¢ƒ„ƒc‚È‚ñ‚¾‚¯‚Ç‚Èccv[pcms]
+[ns]Kato[nse]
+I see... So he's disliked, huh...[l][er]
+His appearance may be a bit off, but he's interesting and a[r]good guy, you know...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v245|
 [fc]
 [vo_ya s="yama0073"]
-[ns]RŠİ[nse]
-u‚ A‚íA„‚Í•Ê‚ÉŒ™‚¢‚Á‚Ä‚í‚¯‚¶‚áccv[pcms]
+[ns]Yamagishi[nse]
+Ah, w-well, it's not like I hate him or anything...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v246|
 [fc]
 [vo_sa s="sae0068"]
-[ns]²”Œ[nse]
-u‚Í‚Á‚«‚èw‹C‚¿ˆ«‚¢‚©‚çŒ™‚¢x‚ÆŒ¾‚Á‚½‚çHv[pcms]
+[ns]Saeki[nse]
+What if I said, 'I hate him because he's creepy'?[pcms]
 
 *623|
 [fc]
-²”Œ‚Í‘Š•Ï‚í‚ç‚¸—Á‚µ‚¢Šç‚ğ‚µ‚ÄA[r]
-“‚¢‚±‚Æ‚ğƒTƒ‰ƒb‚ÆŒ¾‚¤B[pcms]
+Saeki, with her usual cool expression, casually says[r]something cruel.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v247|
 [fc]
 [vo_ya s="yama0074"]
-[ns]RŠİ[nse]
-u‚¦‚ÆA‚»‚ñ‚È•—‚É‚Ív‚Á‚Ä‚È‚­‚ÄA[r]
-‚½‚¾A‚¿‚å‚Á‚Æ‰Ÿ‚µ‚ª‹­‚¢‚©‚çA[r]
-‚Ç‚¤”½‰‚µ‚½‚ç‚¢‚¢‚©‚í‚©‚ç‚È‚¢A‚Á‚Ä‚¾‚¯‚Åccv[pcms]
+[ns]Yamagishi[nse]
+Um, I don't really think that way.[l][er]
+It's just that he's a bit pushy, so I don't know how to[r]react...[l][er]
+that's all...[pcms]
 
 *624|
 [fc]
-’iX‚µ‚Ç‚ë‚à‚Ç‚ë‚É‚È‚éRŠİ‚³‚ñ‚ğA²”Œ‚Í—§‚¿ã‚ª‚Á[r]
-‚Ä“r’†‚ÅÕ‚Á‚½B[pcms]
+Saeki stood up and interrupted Yamagishi, who was becoming[r]increasingly flustered.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v248|
 [fc]
 [vo_sa s="sae0069"]
-[ns]²”Œ[nse]
-u‚à‚µ‚©‚µ‚½‚ç’¼ÚA[r]
-‹’®Šoº‚És‚Á‚½‚Ì‚©‚à‚µ‚ê‚Ü‚¹‚ñB[r]
-ŠÔ‚àŠÔ‚Å‚·‚µA„’B‚àˆÚ“®‚µ‚Ü‚µ‚å‚¤v[pcms]
+[ns]Saeki[nse]
+Maybe he went directly to the AV room.[l][er]
+It's about time, so let's move as well.[pcms]
 
 *625|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤‚¾‚Èccv[pcms]
+[ns]Kato[nse]
+Yeah...[pcms]
 
 *626|
 [fc]
-²”Œ‚ÌŒ¾—t‚ÉÈ‚ğ—§‚¿A‰´’B‚Í‹’®Šoº‚Ö‚ÆŒü‚©‚Á‚½B[pcms]
+Saeki's words made me stand up, and we headed towards the AV[r]room.[pcms]
 
-;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 [jump target=*0027_TOP storage="0027.ks"]
 
 

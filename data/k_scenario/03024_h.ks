@@ -1,37 +1,37 @@
 
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥[]
-;¡ËƒuƒƒbƒN03024w¬—x
-;BG:‹’®ŠoºF–éFÁ“”
-;“oêl•¨GålŒöE—DE’|“àE“µ
-;Y’|“à‹“_[]
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼[]
+;â– â‡’ãƒ–ãƒ­ãƒƒã‚¯03024ã€æ··ä¹±ã€
+;BG:è¦–è´è¦šå®¤ï¼šå¤œï¼šæ¶ˆç¯
+;ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…ãƒ»ç³
+;ã€†ç«¹å†…è¦–ç‚¹[]
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 ;
 *03024_H_TOP
-;[debug_win]‚È‚¤@03024_H[debug_win_end]
+;[debug_win]ãªã†ã€€03024_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 ;[if exp="tf.scene_mode == 0"][jump target=*03024][endif]
 ;[winset]
 
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *03024
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_03024 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_03024 = 1"]
 
-;*SceneSet|w¬—x
+;*SceneSet|ã€æ··ä¹±ã€
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 
 [fadeoutbgm time=500]
 
@@ -40,204 +40,196 @@
 [bg storage="bg15d"]
 [trans_c cross time=500]
 
-;//SE:’‚Ì‰¹
+;//SE:è™«ã®éŸ³
 
 [se0 storage="se018"]
 
 *3447|
 [fc]
-[ns]‰Á“¡[nse]
-u‚®[cc‚®[ccv[pcms]
+[ns]Kato[nse]
+*snore*... *snore*...[pcms]
 
 *3448|
 [fc]
-[ns]’|“à[nse]
-uccv[pcms]
+[ns]Takeuchi[nse]
+â€¦â€¦[l][er]
 
 *3449|
 [fc]
-K‚¹‚»‚¤‚ÈŠç‚µ‚ÄQ‚Ä‚é‚È‚ŸA‘×”V‚Ì‚â‚ÂccB[pcms]
+He looks so happy sleeping, that guy Taiyuki...[pcms]
 
 *3450|
 [fc]
-‚»‚è‚á‚»‚¤‚¾‚æ‚ÈB[r]
-Šy‚µ‚»‚¤‚É—D‚¿‚á‚ñ‚Æ“ñl‚Ì¢ŠEì‚Á‚¿‚á‚Á‚Ä‚³ccB[pcms]
+Yeah, that's right. He seems to be having fun, creating a[r]world with Yuu-chan...[pcms]
 
 *v1357|
 [fc]
 [vo_ya s="yama0552"]
-[ns]RŠİ[nse]
-uccccv[pcms]
+[ns]Yamagishi[nse]
+â€¦â€¦â€¦â€¦[l][er]
 
 *3451|
 [fc]
-ƒJƒƒCƒC‚È‚ŸA—D‚¿‚á‚ñ‚ÌQŠçccB[pcms]
+Yuu-chan's sleeping face is so cute...[pcms]
 
 *3452|
 [fc]
-‘×”V‚Î‚Á‚©‚è‚¢‚¢v‚¢‚µ‚Ä‚é‚æ‚È‚ŸccB[r]
-—D‚¿‚á‚ñ‚Æ“ñl‚Ì¢ŠEì‚Á‚Ä‚é‚µA“µ‚É‚ÍƒzƒŒ‚ç‚ê‚Ä[r]
-‚é‚µ‚³‚ŸccB[pcms]
+Taiyuki is always having a good time, isn't he...[l][er]
+Creating a world with Yuu-chan and being admired by[r]Hitomi...[pcms]
 
 *3453|
 [fc]
-“µccB[pcms]
+Hitomi...[pcms]
 
 *3454|
 [fc]
-–¼‘O‚ğv‚¢•‚‚©‚×‚½‚¹‚¢‚ÅA©•ª‚ª“µ‚É‚µ‚½‚±‚Æ‚ğv‚¢[r]
-o‚µ‚ÄAƒ{ƒN‚Í‹°‚é‹°‚éA‚ ‚¢‚Â‚Ì•û‚ğŒ©‚½B[pcms]
+I thought of her name and it reminded me of what I did to[r]Hitomi.[l][er]
+With fear and trepidation, I looked in her direction.[pcms]
+[l][er]
 
 *v1358|
 [fc]
 [vo_sa s="sae0142"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *3455|
 [fc]
-‚ ‚»‚±‚ÅQn‚ß‚Ä‚©‚ç‘S‘R“®‚¢‚Ä‚È‚¢B[r]
-Q‚Ä‚é‚Ì‚©A‹N‚«‚Ä‚é‚Ì‚©‚à‚í‚©‚ç‚È‚¢B[pcms]
+They haven't moved at all since they fell asleep over there.[l][er]
+I can't tell if they're sleeping or awake.[pcms]
 
 *3456|
 [fc]
-‚Å‚àA‰½‚ğl‚¦‚Ä‚é‚©‚ÍA‚È‚ñ‚Æ‚È‚­‚í‚©‚éB[pcms]
+But, I somehow understand what they're thinking.[pcms]
 
 *3457|
 [fc]
-“µ‚Ì‚±‚Æ‚¾‚©‚çAâ‘Î‚ÉccÙ”»‹N‚±‚·‚æ‚ÈccB[r]
-‚»‚¤‚µ‚½‚çAƒ{ƒNcc‘ß•ßc‚³‚ê‚ÄccB[pcms]
+Because it's Hitomi we're talking about, she'll[r]definitely...[l][er]
+file a lawsuit. And then, I'll...[l][er]
+get arrested...[pcms]
 
 *3458|
 [fc]
-[ns]’|“à[nse]
-uccv[pcms]
+[ns]Takeuchi[nse]
+â€¦â€¦[l][er]
 
 *3459|
 [fc]
-ƒ{ƒNA‰½‚Å‚ ‚ñ‚È‚±‚Æ‚µ‚¿‚á‚Á‚½‚ñ‚¾‚ë‚¤ccB[r]
-‚Ç‚¤‚µ‚æ‚¤ccÓ‚Á‚Ä‚·‚Ş‚±‚Æ‚¶‚á‚È‚¢‚æ‚ÈccB[r]
-ˆø‚Á‰z‚µ‚½‚è‚µ‚È‚«‚áƒ_ƒ‚©‚ÈccB[pcms]
+Why did I do something like that...[l][er]
+What should I do... Just apologizing won't be enough...[l][er]
+Maybe I have to move away...[pcms]
 
 *3460|
 [fc]
-[ns]’|“à[nse]
-uccccv[pcms]
+[ns]Takeuchi[nse]
+â€¦â€¦â€¦â€¦[l][er]
 
 *3461|
 [fc]
-ƒ{ƒNA‚Ç‚¤‚È‚Á‚¿‚á‚¤‚ñ‚¾‚ë‚¤ccB[pcms]
+I wonder what will happen to me...[pcms]
 
-;//SE:ƒKƒ^ƒb
+;//SE:ã‚¬ã‚¿ãƒƒ
 
 [se0 storage="se023"]
 
 *3462|
 [fc]
-©•ª‚Ì«—ˆ‚É‚Â‚¢‚Ä”Y‚ñ‚Å‚é‚ÆA“µ‚ª‚»‚Î‚É’u‚¢‚Ä‚ ‚Á[r]
-‚½‰×•¨‚ğ‚Á‚Ä—§‚¿ã‚ª‚Á‚ÄAƒ{ƒN‚Ì•û‚É•à‚¢‚Ä‚«‚½B[pcms]
+When I was worrying about my future, Hitomi stood up and[r]walked towards me, holding a bag that was placed next to[r]her.[pcms]
 
 *3463|
 [fc]
-[ns]’|“à[nse]
-uccv[pcms]
+[ns]Takeuchi[nse]
+â€¦â€¦[l][er]
 
 *3464|
 [fc]
-‚ÈA‚È‚ñ‚¾ccH[r]
-–°‚Á‚Ä‚é‚¤‚¿‚Éd•Ô‚µ‚µ‚æ‚¤‚Á‚Äv‚Á‚Ä‚é‚Ì‚©ccH[pcms]
+W-What...? Are you planning to get back at me while I'm[r]asleep...?[pcms]
 
 *3465|
 [fc]
-‹N‚«‚Ä‚¢‚é‚Ì‚ğ‹C‚Ã‚©‚ê‚È‚¢‚æ‚¤‚É‘§‚ğö‚ß‚ÄA“µ‚ªƒ{[r]
-ƒN‚É‰½‚©‚µ‚È‚¢‚©g\‚¦‚½B[pcms]
+Hitomi quietly held her breath, trying not to be noticed[r]while I was awake, and prepared herself for something.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1359|
 [fc]
 [vo_sa s="sae0143"]
-[ns]²”Œ[nse]
-ucc€‚Ë‚Î‚¢‚¢‚Ì‚Év[pcms]
+[ns]Saeki[nse]
+... I wish you would just die.[pcms]
 
-;//SE:S”‰¹
+;//SE:å¿ƒæ‹éŸ³
 
 [se0 storage="se003"]
 
 *3466|
 [fc]
-[ns]’|“à[nse]
-uccv[pcms]
+[ns]Takeuchi[nse]
+â€¦â€¦[l][er]
 
 *3467|
 [fc]
-‚È‚ñ‚¾‚æ‚±‚¢‚ÂccB[r]
-‚Ü‚³‚©Aƒ{ƒN‚Ì‚±‚ÆE‚·‚Â‚à‚è‚È‚Ì‚©ccIH[pcms]
+What's with this person... Could it be that they're planning[r]to kill me...!?[pcms]
 
 *3468|
 [fc]
-S‘Ÿ‚Ì‰¹‚ª‚Ç‚ñ‚Ç‚ñ‘¬‚­‚È‚Á‚ÄAŒÄ‹z‚àr‚­‚È‚éB[r]
-ƒ„ƒoƒC‚æcc“µ‚É‹N‚«‚Ä‚é‚ÌƒoƒŒ‚¿‚á‚¤cc‚ÁI[pcms]
+My heart beats faster and my breathing becomes rough.[l][er]
+This is bad... Hitomi will notice that I'm awake...![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1360|
 [fc]
 [vo_sa s="sae0144"]
-[ns]²”Œ[nse]
-u‚İ‚ñ‚Ècc‚İ‚ñ‚È€‚Ë‚Î‚¢‚¢‚Ì‚æccIv[pcms]
+[ns]Saeki[nse]
+Everyone... I wish everyone would just die...![pcms]
 
 *3469|
 [fc]
-—©‚ê‚½º‚Åƒ{ƒ\ƒb‚Æ‚Â‚Ô‚â‚¢‚ÄA“µ‚ÍƒhƒA‚Ì•û‚É•à‚¢‚Ä[r]
-‚¢‚Á‚½B[pcms]
+Muttering in a hoarse voice, Hitomi walked towards the door.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *3470|
 [fc]
-‚Ç‚±s‚­‚ñ‚¾H@‚ ‚¢‚ÂccB[r]
-‚Ü‚³‚©ƒ{ƒN‚ª‚µ‚½‚±‚ÆAæ¶‚Éƒ`ƒN‚é‚Â‚à‚è‚©IH[pcms]
+Where are you going? That person...[l][er]
+Don't tell me you're planning to rat me out to the teacher[r]for what I did!?[pcms]
 
-;//SE:”à‚ğŠJ‚­
+;//SE:æ‰‰ã‚’é–‹ã
 
 [se0 storage="se008"]
 
 *3471|
 [fc]
-–{“–‚Éƒ`ƒN‚ç‚ê‚½‚ç‚Ç‚¤‚µ‚æ‚¤ccB[r]
-“¦‚°‚½•û‚ª‚¢‚¢‚©‚ÈccB[r]
-‚Å‚àA‚»‚ñ‚È‚±‚Æ‚µ‚½‚ç‘å–‚É‚È‚é‚©‚àccB[pcms]
+What should I do if I really get snitched on...?[l][er]
+Maybe I should run away... But if I do that, it might become[r]a big deal...[pcms]
 
 *3472|
 [fc]
-[ns]’|“à[nse]
-uccHv[pcms]
+[ns]Takeuchi[nse]
+...?[pcms]
 
 *3473|
 [fc]
-“µ‚ª’Ê‚Á‚½Š‚©‚çA‰»Ï•i‚©”¯‚Ì–Ñ‚ÌAŠÃ‚¢“õ‚¢‚ª—¬‚ê[r]
-‚Ä‚«‚ÄAƒ{ƒN‚Ív‚í‚¸‚»‚Ì‚¢‚¢“õ‚¢‚ğšk‚¢‚Å‚µ‚Ü‚¤B[pcms]
+From where Hitomi passed by, a sweet scent of cosmetics or[r]hair drifted towards me, and I couldn't help but sniff that[r]pleasant fragrance.[pcms]
 
 *3474|
 [fc]
-‚ ‚êccH[r]
-‚È‚ñ‚Å‚¾‚ëccB[r]
-‚¿‚ñ‚±A‚½‚Á‚Ä‚«‚¿‚á‚Á‚½ccB[pcms]
+Huh...? I wonder why... My penis has gotten hard...[pcms]
 
 *3475|
 [fc]
-[ns]’|“à[nse]
-ucc‚»‚¤‚¾A‚»‚Ì‚Ä‚ª‚ ‚Á‚½‚æ‚Èv[pcms]
+[ns]Takeuchi[nse]
+... Oh right, you had that hand, didn't you?[pcms]
 
 *3476|
 [fc]
-‚»‚ê‚È‚çA‚Í‚â‚­cc‚Ğ‚Æ‚İ‚ğA‚¨‚¢‚©‚¯‚È‚¢‚ÆccB[pcms]
+If that's the case, then I need to quickly...[l][er]
+chase after Hitomi...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -249,7 +241,7 @@
 
 ;//blackout
 
-;//[03025]‚Ö
+;//[03025]ã¸
 [jump target=*03025_H_TOP storage="03025_H.ks"]
 
 

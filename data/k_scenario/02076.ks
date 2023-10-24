@@ -1,19 +1,19 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02076w‹’®Šoº‚Ö–ß‚éx
-;//BG:“Áê‹³ºF˜L‰ºF–éF“_“”
-;//“oêl•¨GålŒöE—DEƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02076ã€è¦–è´è¦šå®¤ã¸æˆ»ã‚‹ã€
+;//BG:ç‰¹æ®Šæ•™å®¤ï¼šå»Šä¸‹ï¼šå¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02076_TOP
-;[debug_win]‚È‚¤@02076[debug_win_end]
+;[debug_win]ãªã†ã€€02076[debug_win_end]
 
-;*SceneSet|w‹’®Šoº‚Ö–ß‚éx
+;*SceneSet|ã€è¦–è´è¦šå®¤ã¸æˆ»ã‚‹ã€
 
 ;//[02076]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 [bgm001]
 ;//BG:bg013d
 [bg storage="bg03d"]
@@ -21,90 +21,77 @@
 
 *1626|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ó‚Ÿ`A–°‚¡ccv[pcms]
+[ns]Kato[nse]
+Ahh, I'm sleepy...[pcms]
 
 *1627|
 [fc]
-Eˆõº‚ÌŒv‚Å‚ÍAŒß‘O“ñ‚ğ‚©‚È‚è‰ß‚¬‚Ä‚¢‚½B[r]
-‚¢‚È‚­‚È‚Á‚½“z‚ç‚ğ‘{‚µn‚ß‚ÄAˆêŠÔ‹ß‚­Œo‚Á‚½‚±‚Æ[r]
-‚É‚È‚éB[pcms]
+The clock in the staff room showed that it was well past 2[r]AM.[l][er]
+It had been almost an hour since we started searching for[r]the missing guys.[pcms]
 
 *1628|
 [fc]
-‚¢‚¢‚©‚°‚ñA–ß‚Á‚Ä‚«‚Ä‚à‚¢‚¢ ‚¾B[pcms]
+It's about time they come back already.[pcms]
 
 *1629|
 [fc]
-‚à‚µ‚©‚µ‚½‚çA‚ ‚¢‚Â‚ç‚Í‚Ç‚±‚©—Á‚µ‚¢Š‚ğŒ©‚Â‚¯‚ÄA[r]
-‚»‚±‚ÅQ‚Ä‚é‚Ì‚©‚à‚µ‚ê‚È‚¢B[pcms]
+Maybe those guys found a cool place somewhere and are[r]sleeping there.[pcms]
 
 *1630|
 [fc]
-“Á‚É—S“ñ‚ÆŒÜ\—’ƒTƒ“‚ÍAŒƒ‚µ‚¢‰^“®‚ğ‚µ‚ÄA”æ‚ê‚Ä‚é[r]
-‚¾‚ë‚¤‚µ‚ÈccB[pcms]
+Especially Yuuji and Igarashi-san, they must be tired from[r]intense exercise...[pcms]
 
 *1631|
 [fc]
-‚¾‚¢‚½‚¢AŠwZ‚ÅƒZƒbƒNƒX‚µ‚Ä‚é‚æ‚¤‚È“z‚ç‚ğA‰½‚Å•K[r]
-€‚É‚È‚Á‚Ä‘{‚³‚È‚«‚á‚È‚ç‚È‚¢‚ñ‚¾B[pcms]
+Why do we have to desperately search for guys who are[r]probably having sex at school?[pcms]
 
 *1632|
 [fc]
-‚±‚Á‚¿‚ÍRŠİ‚³‚ñ‚Æ˜bˆê‚Â‚·‚é‚É‚à‹ê˜J‚µ‚Ä‚é‚Á‚Ä‚Ì‚É[r]
-ccB[pcms]
+We're struggling just to have a single conversation with[r]Yamagishi-san here...[pcms]
 
 *1633|
 [fc]
-‚È‚ñ‚¾‚©• ‚Ì—§‚Á‚Ä‚«‚½‰´‚ÍA• ‚¢‚¹‚ÉAV“¹æ¶‚É—S[r]
-“ñ’B‚Ö‚Ìà‹³‚ğ‘£‚µ‚½B[pcms]
+Feeling irritated, I vented my frustration by urging[r]Shindou-sensei to give Yuuji and the others a lecture.[pcms]
 
 *1634|
 [fc]
-[ns]‰Á“¡[nse]
-uæ¶A“c’†ŒN‚ÆŒÜ\—’ƒTƒ“‚ªŒ©‚Â‚©‚Á‚½‚çAà‹³‚µ‚Ä[r]
-‚â‚Á‚½•û‚ª‚¢‚¢ƒX‚æB‚à‚¤‘å•Ï‚È‚ñƒX‚©‚çccv[pcms]
+[ns]Kato[nse]
+Sensei, it would be better to give Tanaka-kun and Igarashi-[r]san a lecture if we find them.[l][er]
+It's already quite troublesome...[pcms]
 
 *1635|
 [fc]
-cc‚ÆAŒ¾‚Á‚½‚Ì‚Í‚¢‚¢‚¯‚ÇAV“¹æ¶‚Í–î‚ğ’m‚ç‚È[r]
-‚¢‚ñ‚¾‚æ‚ÈccB[pcms]
+... I said that, but Shindou-sensei doesn't know the[r]circumstances...[pcms]
 
 *1636|
 [fc]
-ˆÄ‚Ì’èAV“¹æ¶‚ÍA‚»‚µ‚ÄRŠİ‚³‚ñ‚Ü‚ÅA‰´‚ğŒ©‚Â‚ß[r]
-‚ÄƒLƒ‡ƒgƒ“‚Æ‚µ‚Ä‚¢‚½B[pcms]
+As expected, Shindou-sensei and even Yamagishi-san were[r]staring at me with a dumbfounded expression.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_b_03"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v693|
 [fc]
 [vo_ri s="risa0213"]
-[ns]V“¹[nse]
-u‰Á“¡ŒNA”Ş‚ç‚ª‚Ç‚±‚Å‰½‚ğ‚µ‚Ä‚é‚©AS“–‚½‚è‚ª‚ ‚é[r]
-‚ÌHv[pcms]
+[ns]Shindou[nse]
+Kato-kun, do you have any idea where they might be and what[r]they might be doing?[pcms]
 
 *1637|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚¢‚âA‚»‚¤‚¢‚¤‚í‚¯‚¶‚á‚È‚¢‚ñ‚Å‚·‚¯‚Çccv[pcms]
+[ns]Kato[nse]
+Ah, no, it's not like that...[pcms]
 
 *1638|
 [fc]
-‚Ü‚³‚©A“z‚ç‚ªŠwZ‚Ì’†‚ÅƒZƒbƒNƒX‚µ‚Ä‚¢‚é‚©‚ç‚Å‚·A[r]
-‚ÆŒ¾‚¤‚í‚¯‚É‚à‚¢‚©‚¸A[r]
-‰´‚Í•K€‚Å‚²‚Ü‚©‚µ‚½B[pcms]
+I couldn't possibly say that they're having sex inside the[r]school, so I desperately tried to cover it up.[pcms]
 
 *1639|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦[‚ÆAƒzƒ‰AŠÓÜ‰ï‚Ì“r’†‚Åo‚Äs‚Á‚ÄA‚Ü‚¾–ß‚Á[r]
-‚Ä‚±‚È‚¢‚í‚¯‚Å‚·‚µA‚ A‚¾‚©‚ç’|“à‚É‚àà‹³‚µ‚½•û‚ª[r]
-‚¢‚¢ƒX‚æA‚¤‚ñv[pcms]
+[ns]Kato[nse]
+Um, you see, during the middle of the viewing party, they[r]left and still haven't come back, so, ah, that's why it[r]would be better to give Takeuchi a lecture too, yeah.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -113,30 +100,29 @@
 
 *1640|
 [fc]
-‚µ‚Ç‚ë‚à‚Ç‚ë‚É‚È‚Á‚Ä‚¢‚é‰´‚ğARŠİ‚³‚ñ‚Í‘Š•Ï‚í‚ç‚¸[r]
-ƒLƒ‡ƒgƒ“‚Æ‚µ‚ÄŒ©‚Â‚ß‘±‚¯‚Ä‚¢‚éB[pcms]
+Yamagishi-san continues to stare at me with a dumbfounded[r]expression as I stumble over my words.[pcms]
 
 *1641|
 [fc]
-‚³‚·‚ª‚ÉŒÜ\—’ƒTƒ“‚©‚ç‚ÍA‰½‚à•·‚¢‚Ä‚È‚¢‚¾‚ë‚¤B[pcms]
+As expected, I haven't heard anything from Igarashi-san,[r]right?[pcms]
 
 *1642|
 [fc]
-‚¾‚©‚ç¡“úA—S“ñ‚Æˆê‚ÉŒÜ\—’‚³‚ñ‚ª‚¢‚È‚­‚È‚Á‚½‚Ì[r]
-‚ª‚È‚º‚©AŒ©“–‚à‚Â‚©‚È‚¢‚Éˆá‚¢‚È‚¢B[pcms]
+So today, I'm sure there's no way to figure out why[r]Igarashi-san disappeared with Yuuji.[pcms]
 
 *1643|
 [fc]
-[ns]‰Á“¡[nse]
-u‘S‚­¢‚Á‚¿‚á‚¢‚Ü‚·‚æ‚Ë[Aƒnƒnƒnccv[pcms]
+[ns]Kato[nse]
+It's really troublesome, huh...[l][er]
+Hahaha...[pcms]
 
 *1644|
 [fc]
-—]Œv‚È‚±‚ÆŒ¾‚í‚È‚«‚á‚æ‚©‚Á‚½ccB[pcms]
+I shouldn't have said unnecessary things...[pcms]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;//[02077]‚Ö
+;//[02077]ã¸
 [jump target=*02077_TOP storage="02077.ks"]
 
 

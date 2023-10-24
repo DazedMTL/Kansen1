@@ -1,20 +1,20 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02117wŠO‚Öx
-;//BG:EˆõºF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöE—DEƒŠƒTEŠİ“cE’|“àEƒ]ƒ“ƒr
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02117ã€å¤–ã¸ã€
+;//BG:è·å“¡å®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»å²¸ç”°ãƒ»ç«¹å†…ãƒ»ã‚¾ãƒ³ãƒ“
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02117_TOP
-;[debug_win]‚È‚¤@02117[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02117 = 1"]
+;[debug_win]ãªã†ã€€02117[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02117 = 1"]
 
-;*SceneSet|wŠO‚Öx
+;*SceneSet|ã€å¤–ã¸ã€
 
 ;//[02117]
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 ;//[bgm007]
 
 ;//BG:bg012a
@@ -23,117 +23,109 @@
 
 *2231|
 [fc]
-[ns]‰Á“¡[nse]
-uæ¶AOŠK‚Ü‚Å‘S•”Œ©‚Ä‚«‚Ü‚µ‚½‚¯‚ÇA’N‚à‚¢‚Ü‚¹‚ñ[r]
-‚Å‚µ‚½v[pcms]
+[ns]Kato[nse]
+Sensei, I went and checked all the way up to the third[r]floor, but there was no one there.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_d_04"]
 [ChrSetXY layer=1 x=180 y=0]
 [ChrSetParts layer=1 chface="risa_c_d_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v882|
 [fc]
 [vo_ri s="risa0269"]
-[ns]V“¹[nse]
-u‚»‚¤A‚ ‚è‚ª‚Æ‚¤ccv[pcms]
+[ns]Shindou[nse]
+Yes, thank you...[pcms]
 
 *2232|
 [fc]
-‰´‚Ì•ñ‚ğ•·‚¢‚ÄAV“¹æ¶‚ÍŠİ“c‚Ì–T‚ç‚É•G‚ğ‚Â‚¢‚½[r]
-‚Ü‚ÜA‰½‚©‚ğl‚¦‚éŠç‚ğ‚µ‚½B[pcms]
+Shindou-sensei listened to my report and knelt beside[r]Kishida, wearing a pensive expression.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v883|
 [fc]
 [vo_ri s="risa0270"]
-[ns]V“¹[nse]
-u‚Å‚ÍA¡‚©‚çŠİ“cæ¶‚ğŠO‚Ö‰^‚Ño‚µ‚Ü‚·B€”õ‚ğ‚·[r]
-‚é‚©‚çA“ñl‚Æ‚àè“`‚Á‚Ä‚¿‚å‚¤‚¾‚¢v[pcms]
+[ns]Shindou[nse]
+Alright, I will now carry Kishida-sensei outside.[l][er]
+Please help me prepare and lend me a hand, both of you.[pcms]
 
 *2233|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¿‚åA‚¿‚å‚Á‚Æ‘Ò‚Á‚Ä‚­‚¾‚³‚¢B‚¢‚ÜŠO‚Éo‚½‚çA‘å[r]
-•Ï‚È‚±‚Æ‚É‚È‚è‚Ü‚·‚æH@‚¨‚©‚µ‚È“z‚ª‘å¨AŠwZ‚Ìü[r]
-‚è‚É‚¢‚é‚ñ‚Å‚·‚©‚çv[pcms]
+[ns]Kato[nse]
+W-Wait a minute, please. If we go outside now, it will[r]become a big problem.[l][er]
+There are a lot of strange people around the school.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v884|
 [fc]
 [vo_ri s="risa0271"]
-[ns]V“¹[nse]
-u‚»‚¤‚Ëcc‚Å‚àAŠİ“cæ¶‚Ì—e‘Ô‚Í‚Ç‚ñ‚Ç‚ñˆ«‚­‚È‚Á[r]
-‚Ä‚«‚Ä‚é‚µA•ú‚Á‚Ä‚¨‚¯‚Î–½‚ÉŠÖ‚í‚é‚íB‚à‚¤ŠÔ‚É—][r]
-—T‚ª‚È‚¢‚Ì‚æv[pcms]
+[ns]Shindou[nse]
+I see... but Kishida-sensei's condition is getting worse and[r]worse.[l][er]
+If we leave them alone, it could be a matter of life and[r]death.[l][er]
+We don't have any more time to spare.[pcms]
 
 *2234|
 [fc]
-Šm‚©‚ÉA°‚ÉQ‚Ä‚¢‚éŠİ“c‚ÌŠçF‚Íˆ«‚­AŒÄ‹z‚àãX‚µ[r]
-‚­‚È‚Á‚Ä‚¢‚éB[pcms]
+Indeed, Kishida, who is lying on the floor, has a pale[r]complexion and his breathing has become weak.[pcms]
 
 *2235|
 [fc]
-‚¾‚ªA‰´‚Æ^–ç‚Åx‚¦‚ÄR‚ğ~‚è‚é‚É‚ÍA‚±‚Ì’j‚Í‘å‚«[r]
-‰ß‚¬‚éBˆê‘ÌA‚Ç‚¤‚â‚Á‚Ä‰^‚×‚Æ‚¢‚¤‚Ì‚¾‚ë‚¤‚©ccB[pcms]
+But, for Shinya and me to carry him down the mountain, this[r]man is too big.[l][er]
+How on earth are we supposed to transport him...?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v885|
 [fc]
 [vo_ri s="risa0272"]
-[ns]V“¹[nse]
-u‰Á“¡ŒN‚ÍA—p–±ˆõº‚©‚çè‰Ÿ‚µ‘äÔ‚Ì‘å‚«‚¢‚à‚Ì‚ğB[r]
-’|“àŒN‚ÍA•ÛŒ’º‚©‚ç•ï‘Ñ‚ğ‚ ‚é‚¾‚¯‘S•”B‚±‚±‚Ö‚Á[r]
-‚Ä‚«‚Ä‚¿‚å‚¤‚¾‚¢v[pcms]
+[ns]Shindou[nse]
+Kato-kun, please bring a large handcart from the janitor's[r]room.[l][er]
+Takeuchi-kun, please bring all the bandages you can find[r]from the infirmary.[l][er]
+Bring them here, please.[pcms]
 
 *2236|
 [fc]
-[ns]‰Á“¡[nse]
-u‘äÔ‚Æ•ï‘Ñcc‚Á‚ÄA‚Ü‚³‚©AŠİ“cæ¶‚ğæ‚¹‚ÄA‰Ÿ[r]
-‚µ‚Ä‚¢‚­‚ñ‚Å‚·‚©ccHv[pcms]
+[ns]Kato[nse]
+A handcart and bandages... wait, are you saying we're going[r]to put Kishida-sensei on it and push him along...?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v886|
 [fc]
 [vo_ri s="risa0273"]
-[ns]V“¹[nse]
-uR‚ğ~‚è‚Ä­‚µs‚Á‚½‚Æ‚±‚ë‚ÉA©‰q‘à‚Ì”ğ“ïŠ‚ª‚ [r]
-‚é‚İ‚½‚¢‚È‚Ì‚æB‹ß‚­‚Ü‚Ås‚¯‚ê‚ÎA‚ ‚Æ‚Í©‰q‘à‚Ìl[r]
-ŠÔ‚ª‹¦—Í‚µ‚Ä‚­‚ê‚é‚Å‚µ‚å‚¤v[pcms]
+[ns]Shindou[nse]
+It seems that there is a Self-Defense Forces shelter a[r]little way down the mountain.[l][er]
+If we can get close to it, the Self-Defense Forces personnel[r]will surely help us.[pcms]
+[l][er]
 
 *2237|
 [fc]
-‚¢‚Â‚à—âÃ‚ÈV“¹æ¶‚É‚µ‚Ä‚ÍAƒMƒƒƒ“ƒuƒ‹—v‘f‚Ì‹­‚¢[r]
-ƒvƒ‰ƒ“‚¾‚¯‚ÇA“d˜b‚àŒq‚ª‚ç‚È‚¢¡A‚»‚¤‚·‚é‚µ‚©‘¼‚É[r]
-è‚Í‚È‚¢‚æ‚¤‚È‹C‚à‚·‚éB[pcms]
+For Shindou-sensei, who is usually calm, this plan has a[r]strong gambling element, but since we can't even make a[r]phone call now, it feels like there's no other choice but to[r]do that.[pcms]
 
 *2238|
 [fc]
-[ns]‰Á“¡[nse]
-u‚í‚©‚è‚Ü‚µ‚½B‚¶‚á‚ s‚±‚¤‚©A^–çv[pcms]
+[ns]Kato[nse]
+Understood. Well then, let's go, Shinya.[pcms]
 
-;//ôFBGM007’â~
+;//â™ªï¼šBGM007åœæ­¢
 [bgm007]
 
-;//SE:”à‚ğŠJ‚¯‚é
+;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
 [se0 storage="se008"]
 
 *2239|
 [fc]
-‚¤‚È‚¸‚­^–ç‚ğ”º‚Á‚ÄAo“ü‚èŒû‚Ö•à‚«o‚µ‚½uŠÔA‰½[r]
-Ò‚©‚É‚æ‚Á‚Ä”à‚ªŠJ‚©‚ê‚½B[pcms]
+As Shinya nodded in agreement and started walking towards[r]the entrance, the moment they took a step, someone opened[r]the door.[pcms]
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 [bgm008]
 
 [ChrSetEx layer=1 chbase="zom_01_a"]
@@ -142,105 +134,103 @@
 
 *2240|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚¢‚ÂccIIv[pcms]
+[ns]Kato[nse]
+That guy...!![pcms]
 
 *2241|
 [fc]
-p‚ğŒ»‚µ‚½‚Ì‚Í¡“úO“x–Ú‚ÌA‚ ‚Ì’j‚¾‚Á‚½B[pcms]
+The one who appeared for the third time today was that man.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_c_09"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v887|
 [fc]
 [vo_ya s="yama0281"]
-[ns]RŠİ[nse]
-u‚¢‚â‚Ÿ‚ ‚ ‚ ‚ ‚ ‚ II@‚Ücc‚Ü‚½ccv[pcms]
+[ns]Yamagishi[nse]
+Noooo!! Aga... again...[pcms]
 
 *2242|
 [fc]
-[ns]‰Á“¡[nse]
-uƒNƒ\‚ÁIIv[pcms]
+[ns]Kato[nse]
+Damn it!![pcms]
 
 *2243|
 [fc]
-‰´‚Í–Ú‚Ì‘O‚É‚ ‚Á‚½ˆÖq‚ğ‚¿ã‚°A‚»‚ê‚ğ‚‚É‚µ‚ÄA[r]
-•ÛŒ’º‚Ì‚Æ“¯‚¶‚æ‚¤‚ÉA’j‚ß‚ª‚¯‚Ä“Ë‚Á‚ñ‚¾B[pcms]
+I lifted up the chair in front of me and used it as a[r]shield.[l][er]
+Just like in the infirmary, I charged towards the man.[pcms]
 
 [ChrSetEx layer=1 chbase="zom_01_a"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std254|
 [fc]
-[ns]’jq¶“k[nse]
-u‚¤‚¥‚ÖA‚Ö‚¥cc‚¨‚ñA‚È‚ŸA‚Ó‚½‚è‚ÆA‚àcc‚¨A[r]
-‚ê‚ÌA‚à‚ñ‚¾A‚Ÿccv[pcms]
+[ns]male student[nse]
+Ueh, heh... Oh, hey... You two, too...[l][er]
+My... thing...[pcms]
 
 *2244|
 [fc]
-‰´‚ÍˆÖq‚Æ•Ç‚Å’j‚ğ‹²‚ñ‚Å“®‚«‚ğ••‚¶A‹©‚ñ‚¾B[pcms]
+I trapped the man between the chair and the wall,[r]immobilizing his movements, and shouted.[pcms]
 
 *2245|
 [fc]
-[ns]‰Á“¡[nse]
-uæ¶‚ÁI@¡‚Ì“à‚ÉŠİ“cæ¶‚ğAŠO‚Écc‚ÁIIv[pcms]
+[ns]Kato[nse]
+Sensei! Hurry and take Kishida-sensei outside now...!![pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [ChrSetParts layer=1 chface="risa_c_a_12"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v888|
 [fc]
 [vo_ri s="risa0274"]
-[ns]V“¹[nse]
-u‚íA‚í‚©‚Á‚½‚íI@’|“àŒNARŠİ‚³‚ñAè“`‚Á‚Ä‚¿‚å[r]
-‚¤‚¾‚¢Iv[pcms]
+[ns]Shindou[nse]
+F-Fine! Takeuchi-kun, Yamagishi-san, please help me out![pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v889|
 [fc]
 [vo_ya s="yama0282"]
-[ns]RŠİ[nse]
-u‚Ícc‚Í‚¢‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Y-Yes![pcms]
 
 *2246|
 [fc]
-V“¹æ¶ARŠİ‚³‚ñA^–ç‚ÌOl‚ÍAŠİ“c‚ğˆø‚«‚¸‚è‚È[r]
-‚ª‚çEˆõº‚©‚ço‚Äs‚Á‚½B[pcms]
+Shindou-sensei, Yamagishi-san, and Shinya, the three of[r]them, left the staff room while dragging Kishida.[pcms]
 
 [ChrSetEx layer=1 chbase="zom_01_a"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std255|
 [fc]
-[ns]’jq¶“k[nse]
-u‚Ü‚ñA‚±‚§`cc‚¨‚êA‚Ì‚¾A‚¼‚§ccv[pcms]
+[ns]male student[nse]
+Pus... sy~... It's mine, you know...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *2247|
 [fc]
-[ns]‰Á“¡[nse]
-uQŒ¾‚ÍQ‚ÄŒ¾‚¦‚ÁIIv[pcms]
+[ns]Kato[nse]
+Speak in your sleep while you're asleep!![pcms]
 
-;//SE:‰£‚é
+;//SE:æ®´ã‚‹
 [se0 storage="se026"]
 
 ;//redflash
@@ -254,74 +244,69 @@
 
 *2248|
 [fc]
-‰´‚Í‚à‚¤Aè‰ÁŒ¸‚È‚µ‚ÅˆÖq‚ğ’j‚ÌŠç–Ê‚É’@‚«‚Â‚¯A‹}[r]
-‚¢‚ÅEˆõº‚©‚ç‘–‚èo‚½B[pcms]
+I no longer held back and slammed the chair into the man's[r]face, then quickly ran out of the staff room.[pcms]
 
 ;//BG:bg003a
 
-;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
+;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
 [bg storage="bg03a"]
 [trans_c cross time=500]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 [se0 storage="se005"]
 
 *2249|
 [fc]
-V“¹æ¶‚ÍŒ®‚ğ—pˆÓ‚µ‚Ä‘Ò‚Á‚Ä‚¢‚ÄA‰´‚ªo‚Ä‚­‚é‚Ì‚Æ[r]
-“¯‚É”à‚ğ•Â‚ßA‹}‚¢‚ÅŒ®‚ğ‚©‚¯‚½B[pcms]
+Shindou-sensei was waiting with a key prepared, and as soon[r]as I came out, she closed the door and quickly locked it.[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std256|
 [fc]
-[ns]’|“à[nse]
-uƒnƒ@`ƒbcc‚Ü‚³‚©A‚ ‚ÌŠ÷‚ÌR‚©‚ço‚Ä‚­‚é‚Æ‚Ív[r]
-‚í‚È‚©‚Á‚½ccv[pcms]
+[ns]Takeuchi[nse]
+*sigh*... I never expected you to come out from that pile of[r]desks...[pcms]
 
 *2250|
 [fc]
-^–ç‚Æ“¯‚¶‚±‚Æ‚ğA‰´‚àŠ´‚¶‚Ä‚¢‚½B‚ ‚Ì’j‚Íˆê‘ÌA‚Ç[r]
-‚¤‚â‚Á‚Ä‚ ‚ÌŠ÷‚ÌR‚©‚ç”²‚¯o‚µ‚½‚Ì‚¾‚ë‚¤‚©B[pcms]
+I also felt the same as Shinya.[l][er]
+How on earth did that man manage to escape from that pile of[r]desks?[pcms]
 
 *2251|
 [fc]
-’‡ŠÔ‚ª‚¢‚½‚Ì‚©A‚»‚ê‚Æ‚à©—Í‚Å”‡‚¢o‚µ‚Ä‚«‚½‚Ì‚¾‚ë[r]
-‚¤‚©ccB[pcms]
+I wonder if he had help from someone or if he managed to[r]crawl out on his own...[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v890|
 [fc]
 [vo_ri s="risa0275"]
-[ns]V“¹[nse]
-u‚±‚ÌÛA—p–±ˆõº‚Ü‚ÅŠİ“cæ¶‚ğ‰^‚ñ‚Å‚µ‚Ü‚¢‚Ü‚µ‚å[r]
-‚¤B‚»‚ÌŒã‚ÅA•ÛŒ’º‚É•ï‘Ñ‚ğæ‚è‚És‚«‚Ü‚·v[pcms]
+[ns]Shindou[nse]
+At this point, let's take Kishida-sensei to the janitor's[r]room.[l][er]
+After that, we'll go to the infirmary to get bandages.[pcms]
 
 *2252|
 [fc]
-V“¹æ¶‚ÌŒ¾—t‚É‚¤‚È‚¸‚¢‚ÄA‰´’B‚ÍŠİ“c‚ğˆø‚«‚¸‚Á‚Ä[r]
-•à‚«o‚µ‚½B[pcms]
+We nodded in agreement with Shindou-sensei's words and[r]started walking, dragging Kishida along.[pcms]
 
 ;//blackout
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//[02118]‚Ö
+;//[02118]ã¸
 [jump target=*02118_H_TOP storage="02118_H.ks"]
 

@@ -1,15 +1,15 @@
 
-;//¡ËƒuƒƒbƒN05640wŒˆˆÓx
-;//BG:’n‰ººFÁ“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05640ã€æ±ºæ„ã€
+;//BG:åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05640_TOP
-;[debug_win]‚È‚¤@05640[debug_win_end]
-;*SceneSet|wŒˆˆÓx
+;[debug_win]ãªã†ã€€05640[debug_win_end]
+;*SceneSet|ã€æ±ºæ„ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05640 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05640 = 1"]
 ;	/*
-;	;//ôFBGM003
+;	;//â™ªï¼šBGM003
 ;	[bgm003]
 ;	*/
 
@@ -19,17 +19,15 @@
 
 *5951|
 [fc]
-“ñl‚Å•ø‚«‡‚Á‚½‚Ü‚ÜA‘§‚ğö‚ß‚Ä‚¢‚é‚¤‚¿A”à‚Ìã‚Å[r]
-‚µ‚Ä‚¢‚½‘«‰¹‚ÍA’iX‚Æ‰“‚´‚©‚Á‚Ä‚¢‚Á‚½B[pcms]
+While we were embracing each other, holding our breath, the[r]footsteps that were on the other side of the door gradually[r]faded away.[pcms]
 
 *5952|
 [fc]
-‚Å‚àA‘«‰¹‚ª•·‚±‚¦‚È‚¢‚¾‚¯‚ÅA‚Ü‚¾‰½l‚©c‚Á‚Ä‚¢‚é[r]
-‚©‚à‚µ‚ê‚È‚¢ccB[pcms]
+But just because we can't hear any footsteps, there might[r]still be some people left...[pcms]
 
 *5953|
 [fc]
-‚à‚¤­‚µA‚±‚Ì‚Ü‚Ü—lq‚ğŒ©‚æ‚¤ccB[pcms]
+Let's wait a little longer and see how things go...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -46,176 +44,168 @@
 
 *5954|
 [fc]
-‘§‚ğö‚ßn‚ß‚Ä‚©‚çA‚Ç‚ê‚®‚ç‚¢ŠÔ‚ªŒo‚Á‚½‚Ì‚©‚Í‚í[r]
-‚©‚ç‚È‚©‚Á‚½‚¯‚ÇA”à‚Ìü‚è‚©‚ç‰½‚Ì•¨‰¹‚à‚«‚±‚¦‚Ä‚±[r]
-‚È‚­‚È‚èA‰´‚Í‘§‚ğ‚Â‚¢‚ÄAŒû‚ğŠJ‚¢‚½B[pcms]
+I couldn't tell how much time had passed since we started[r]holding our breath, but the sounds around the door gradually[r]disappeared, and I took a breath and opened my mouth.[pcms]
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 
 [bgm007]
 
 *5955|
 [fc]
-[ns]‰Á“¡[nse]
-ucc‚¢‚È‚­‚È‚Á‚½‚İ‚½‚¢‚¾‚Èv[pcms]
+[ns]Kato[nse]
+... Looks like they're gone.[pcms]
 
 *5956|
 [fc]
-²”Œ‚à‘½­ˆÀS‚µ‚½‚æ‚¤‚ÅA‰´‚Ì˜r‚Ì’†‚Å‹­‚Î‚Á‚Ä‚¢‚½[r]
-‘Ì‚©‚çA¬‚³‚¢—­‘§‚Æˆê‚É—Í‚ª”²‚¯‚Ä‚¢‚Á‚½B[pcms]
+Saeki also seemed somewhat relieved, and the tension in her[r]body, which had been stiff in my arms, gradually eased along[r]with a small sigh.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2475|
 [fc]
 [vo_sa s="sae0634"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
-;//SE:• ‚Ì‰¹@¬‚³‚¢
+;//SE:è…¹ã®éŸ³ã€€å°ã•ã„
 [se0 storage="se036"]
 
 *5957|
 [fc]
-‚¾‚ªA”²‚¯‚½‚Ì‚Í‘Ì‚Ì—Í‚¾‚¯‚Å‚Í‚È‚¢‚æ‚¤‚ÅA²”Œ‚Ì• [r]
-‚©‚çA‚©‚í‚¢‚ç‚µ‚¢‰¹‚ª•·‚±‚¦‚Ä‚«‚½B[pcms]
+However, it seemed that what escaped wasn't just the[r]strength from our bodies.[l][er]
+From Saeki's stomach, a cute sound could be heard.[pcms]
 
 *5958|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2476|
 [fc]
 [vo_sa s="sae0635"]
-[ns]²”Œ[nse]
-u‚ A‚ ‚Ì‚ÁA¡‚Ì‚Íˆá‚¤‚Ì‚Å‚·Iv[pcms]
+[ns]Saeki[nse]
+A-ah, um, that was not what it seemed like![pcms]
 
 *5959|
 [fc]
-Šç‚ğ^‚ÁÔ‚É‚µ‚½²”Œ‚ªA‹}‚¢‚Å‚²‚Ü‚©‚»‚¤‚Æ‚µ‚Ä‚¢‚é[r]
-‚Ì‚ª‚¨‚©‚µ‚­‚ÄA‰´‚Ív‚í‚¸‚«o‚µ‚Ä‚µ‚Ü‚Á‚½B[pcms]
+Saeki, whose face turned bright red, was trying to quickly[r]cover it up in a funny way, and I couldn't help but burst[r]out laughing.[pcms]
+[l][er]
 
 *5960|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Õ‚ÁccƒnƒnƒnƒnIv[pcms]
+[ns]Kato[nse]
+Pfft... Hahaha![pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2477|
 [fc]
 [vo_sa s="sae0636"]
-[ns]²”Œ[nse]
-u‚µAd•û‚È‚¢‚¶‚á‚ ‚è‚Ü‚¹‚ñ‚©I@‚à‚¤‚¸‚Á‚ÆA‰½‚à[r]
-Œû‚É‚µ‚Ä‚¢‚È‚¢‚Ì‚Å‚·‚©‚çccv[pcms]
+[ns]Saeki[nse]
+W-Well, it can't be helped, right?[l][er]
+We haven't eaten anything for so long...[pcms]
 
 *5961|
 [fc]
-Šm‚©‚ÉA‚±‚ÌŠwH‚Å‚İ‚ñ‚È‚Å—[H‚ğH‚×‚Ä‚©‚çA‰´’B‚Í[r]
-‰½‚àH‚×‚Ä‚¢‚È‚©‚Á‚½B[r]
-…•ª‚à‚Ü‚Æ‚à‚ÉÛ‚Á‚Ä‚¢‚È‚¢‹C‚ª‚·‚éB[pcms]
+Certainly, after eating dinner together at the school[r]cafeteria, we hadn't eaten anything.[l][er]
+I also feel like we haven't properly taken in any fluids.[pcms]
 
 *5962|
 [fc]
-‰´‚Í‰œ‚É‚ ‚é—â‘ ’I‚ğw‚µ‚ÄA•‚ğè‚É—§‚¿ã‚ª‚Á‚½B[pcms]
+I pointed to the refrigerator in the back and stood up with[r]clothes in hand.[pcms]
 
 *5963|
 [fc]
-[ns]‰Á“¡[nse]
-u‚æ‚µccã‚Ì—â‘ ŒÉ‚©‚çA‰½‚©‚Á‚Ä‚­‚éB–ß‚Á‚Ä‚­[r]
-‚é‚Ü‚ÅA‚»‚±‚É‚ ‚é…‚Å‚àˆù‚ñ‚Å‘Ò‚Á‚Ä‚Ä‚­‚êv[pcms]
+[ns]Kato[nse]
+Alright... I'll go get something from the fridge upstairs.[l][er]
+While I'm gone, you can drink some water from there and wait[r]for me.[pcms]
 
 *5964|
 [fc]
-‚»‚¤Œ¾‚Á‚ÄƒVƒƒƒc‚É‘³‚ğ’Ê‚·‚ÆA²”Œ‚ÍQ‚Ä‚½—l‚É—§‚¿[r]
-ã‚ª‚Á‚½B[pcms]
+As I said that and put my arms through the shirt, Saeki[r]stood up in a flustered manner.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2478|
 [fc]
 [vo_sa s="sae0637"]
-[ns]²”Œ[nse]
-u„‚àˆê‚És‚«‚Ü‚·I@‰Á“¡‚³‚ñ‚©‚çA—£‚ê‚½‚­‚ ‚è[r]
-‚Ü‚¹‚ñccv[pcms]
+[ns]Saeki[nse]
+I'll go with you too! I don't want to be separated from you,[r]Kato-san...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *5965|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *5966|
 [fc]
-‚Ç‚¤‚µ‚æ‚¤‚©ccB[pcms]
+What should I do...[pcms]
 
 *5967|
 [fc]
-ˆê‚És‚­‚Ì‚Í‚¢‚¢‚¯‚ÇAH‚¢•¨‚ğ’T‚µ‚Ä‚éÅ’†‚ÉA‚à[r]
-‚µA–Ú‚Ì‘O‚É“z‚ç‚ª‘å¨Œ»‚ê‚½‚çccB[pcms]
+It's fine to go together, but if a bunch of them were to[r]appear right in front of us while we're looking for food...[pcms]
 
 *5968|
 [fc]
-¡‚¾‚Á‚Ä‘«‰¹‚ª‚µ‚È‚¢‚Á‚Ä‚¾‚¯‚ÅA‚à‚µ‚©‚µ‚½‚çA”à‚Ì[r]
-‘O‚ÉW‚Ü‚Á‚ÄƒWƒb‚Æ‚µ‚Ä‚é‚¾‚¯‚©‚à‚µ‚ê‚È‚¢ccB[pcms]
+Even now, just because we don't hear any footsteps, they[r]might be gathered in front of the door, staying still...[pcms]
 
 
 
 
-;//¦‘I‘ğˆ
-;//E‚±‚±‚Éc‚µ‚½•û‚ªˆÀ‘S‚¾‚ë‚¤ccB;//[05641]‚Ö
-;//Eˆê‚É‚¢‚½•û‚ª•sˆÀ‚É‚³‚¹‚È‚­‚ÄÏ‚Ş‚¾‚ë‚¤cc;//[05642]‚Ö
+;//â€»é¸æŠè‚¢
+;//ãƒ»ã“ã“ã«æ®‹ã—ãŸæ–¹ãŒå®‰å…¨ã ã‚ã†â€¦â€¦ã€‚;//[05641]ã¸
+;//ãƒ»ä¸€ç·’ã«ã„ãŸæ–¹ãŒä¸å®‰ã«ã•ã›ãªãã¦æ¸ˆã‚€ã ã‚ã†â€¦â€¦;//[05642]ã¸
 
 ;//<SltDel ALL>
-;//<SltAdd 0ƒJƒ“ƒ}SEL00_05640_SAFETYƒJƒ“ƒ}‚±‚±‚Éc‚µ‚½•û‚ªˆÀ‘S‚¾‚ë‚¤ccB>
-;//<SltAdd 1ƒJƒ“ƒ}SEL00_05640_UNRESTƒJƒ“ƒ}ˆê‚É‚¢‚½•û‚ª•sˆÀ‚É‚³‚¹‚È‚­‚ÄÏ‚Ş‚¾‚ë‚¤ccB>
+;//<SltAdd 0ã‚«ãƒ³ãƒSEL00_05640_SAFETYã‚«ãƒ³ãƒã“ã“ã«æ®‹ã—ãŸæ–¹ãŒå®‰å…¨ã ã‚ã†â€¦â€¦ã€‚>
+;//<SltAdd 1ã‚«ãƒ³ãƒSEL00_05640_UNRESTã‚«ãƒ³ãƒä¸€ç·’ã«ã„ãŸæ–¹ãŒä¸å®‰ã«ã•ã›ãªãã¦æ¸ˆã‚€ã ã‚ã†â€¦â€¦ã€‚>
 ;//<SltRun>
 
 
-*SEL01|‚±‚±‚Éc‚µ‚½•û‚ªˆÀ‘S‚¾‚ë‚¤^ˆê‚É‚¢‚½•û‚ª•sˆÀ‚É‚³‚¹‚È‚­‚ÄÏ‚Ş‚¾‚ë‚¤
+*SEL01|ã“ã“ã«æ®‹ã—ãŸæ–¹ãŒå®‰å…¨ã ã‚ã†ï¼ä¸€ç·’ã«ã„ãŸæ–¹ãŒä¸å®‰ã«ã•ã›ãªãã¦æ¸ˆã‚€ã ã‚ã†
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '‚±‚±‚Éc‚µ‚½•û‚ªˆÀ‘S‚¾‚ë‚¤cc'"]
-[eval exp="f.seltext04 = 'ˆê‚É‚¢‚½•û‚ª•sˆÀ‚É‚³‚¹‚È‚­‚ÄÏ‚Ş‚¾‚ë‚¤cc'"]
+[eval exp="f.seltext02 = 'ã“ã“ã«æ®‹ã—ãŸæ–¹ãŒå®‰å…¨ã ã‚ã†â€¦â€¦'"]
+[eval exp="f.seltext04 = 'ä¸€ç·’ã«ã„ãŸæ–¹ãŒä¸å®‰ã«ã•ã›ãªãã¦æ¸ˆã‚€ã ã‚ã†â€¦â€¦'"]
 
 
-[if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
-	;‘I‘ğˆ“à—e‚ğƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
+[if exp="tf.sys_sub == 0 || tf.é¸æŠè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
+	;é¸æŠè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[—š—ğo—Í•œ‹A]
+[å±¥æ­´å‡ºåŠ›å¾©å¸°]
 
-;‘I‘ğˆƒx[ƒX
+;é¸æŠè‚¢ãƒ™ãƒ¼ã‚¹
 [selbase]
-;•¶š‚Ì¶ƒ}[ƒWƒ“
+;æ–‡å­—ã®å·¦ãƒãƒ¼ã‚¸ãƒ³
 [eval exp="sf.seltext_x = 150"]
 
 [sel02 target=*SEL00_koko]

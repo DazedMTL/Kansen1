@@ -1,48 +1,48 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¡ËƒuƒƒbƒN09000w“ñl‚Ì‘z‚¢x
-;//BGF–³‚µ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯09000ã€äºŒäººã®æƒ³ã„ã€
+;//BGï¼šç„¡ã—
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
 
 *09000_TOP
-;[debug_win]‚È‚¤@09000[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_09000 = 1"]
+;[debug_win]ãªã†ã€€09000[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_09000 = 1"]
 
-;*SceneSet|w“ñl‚Ì‘z‚¢x
+;*SceneSet|ã€äºŒäººã®æƒ³ã„ã€
 
-;//“oêl•¨F–³‚µ
+;//ç™»å ´äººç‰©ï¼šç„¡ã—
 
-;//šƒUƒbƒsƒ“ƒO‘I‘ğ”­¶
-;//šğŒ•ªŠò
+;//â˜…ã‚¶ãƒƒãƒ”ãƒ³ã‚°é¸æŠç™ºç”Ÿ
+;//â˜…æ¡ä»¶åˆ†å²
 
-;//flag:—Dƒ‹[ƒgƒNƒŠƒA ‚Ì‚İon@‚Ì
-;//Ë“µ‹“_‚Ö
-;//ËƒuƒƒbƒN09020w“µ‚ÌŒˆˆÓx
+;//flag:å„ªãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ ã®ã¿onã€€ã®æ™‚
+;//â‡’ç³è¦–ç‚¹ã¸
+;//â‡’ãƒ–ãƒ­ãƒƒã‚¯09020ã€ç³ã®æ±ºæ„ã€
 
-;//ËŒ©‚È‚¢
-;//ËƒuƒƒbƒN0009‚Ö
+;//â‡’è¦‹ãªã„
+;//â‡’ãƒ–ãƒ­ãƒƒã‚¯0009ã¸
 
-;//flag:“µƒ‹[ƒgƒNƒŠƒA ‚Ì‚İon@‚Ì
-;//Ë—D‹“_‚Ö
-;//ËƒuƒƒbƒN09010w—D‚Ì‘z‚¢x
+;//flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ ã®ã¿onã€€ã®æ™‚
+;//â‡’å„ªè¦–ç‚¹ã¸
+;//â‡’ãƒ–ãƒ­ãƒƒã‚¯09010ã€å„ªã®æƒ³ã„ã€
 
-;//ËŒ©‚È‚¢
-;//ËƒuƒƒbƒN0009
+;//â‡’è¦‹ãªã„
+;//â‡’ãƒ–ãƒ­ãƒƒã‚¯0009
 
-;//flag:—Dƒ‹[ƒgƒNƒŠƒA ‚Æ@flag:—Dƒ‹[ƒgƒNƒŠƒA@‚Ç‚¿‚ç‚àON‚Ì
-;//Ë—D‹“_‚Ö
-;//ËƒuƒƒbƒN09010w—D‚Ì‘z‚¢x
-;//Ë“µ‹“_‚Ö
-;//ËƒuƒƒbƒN09020w“µ‚ÌŒˆˆÓx
-;//ËŒ©‚È‚¢
-;//ËƒuƒƒbƒN0009
+;//flag:å„ªãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ ã¨ã€€flag:å„ªãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ã©ã¡ã‚‰ã‚‚ONã®æ™‚
+;//â‡’å„ªè¦–ç‚¹ã¸
+;//â‡’ãƒ–ãƒ­ãƒƒã‚¯09010ã€å„ªã®æƒ³ã„ã€
+;//â‡’ç³è¦–ç‚¹ã¸
+;//â‡’ãƒ–ãƒ­ãƒƒã‚¯09020ã€ç³ã®æ±ºæ„ã€
+;//â‡’è¦‹ãªã„
+;//â‡’ãƒ–ãƒ­ãƒƒã‚¯0009
 
 ;//<SltDel ALL>
-;//<SltAdd 0ƒJƒ“ƒ}sel03_yuuƒJƒ“ƒ}w—D‚Ì‘z‚¢x>
-;//<SltAdd 1ƒJƒ“ƒ}sel03_hitomiƒJƒ“ƒ}w“µ‚ÌŒˆˆÓx>
-;//<SltAdd 2ƒJƒ“ƒ}sel03_noneƒJƒ“ƒ}Œ©‚È‚¢>
+;//<SltAdd 0ã‚«ãƒ³ãƒsel03_yuuã‚«ãƒ³ãƒã€å„ªã®æƒ³ã„ã€>
+;//<SltAdd 1ã‚«ãƒ³ãƒsel03_hitomiã‚«ãƒ³ãƒã€ç³ã®æ±ºæ„ã€>
+;//<SltAdd 2ã‚«ãƒ³ãƒsel03_noneã‚«ãƒ³ãƒè¦‹ãªã„>
 
 
-;mm ƒUƒbƒsƒ“ƒO‘O‚É•’Ç‰Á
+;mm ã‚¶ãƒƒãƒ”ãƒ³ã‚°å‰ã«é»’è¿½åŠ 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 
@@ -54,7 +54,7 @@
 	[jump target=*YUU_JUMP]
 [endif]
 
-;//«‰½‚àƒNƒŠƒAƒtƒ‰ƒO‚ª‚È‚¢ê‡
+;//â†“ä½•ã‚‚ã‚¯ãƒªã‚¢ãƒ•ãƒ©ã‚°ãŒãªã„å ´åˆ
 [jump target=*0009_TOP storage="0009.ks"]
 
 ;-------------------------------------------------
@@ -62,12 +62,12 @@
 *all_clear
 
 
-*ZAP18|ƒUƒbƒsƒ“ƒO‘I‘ğˆ@RŠİ^²”Œ
+*ZAP18|ã‚¶ãƒƒãƒ”ãƒ³ã‚°é¸æŠè‚¢ã€€å±±å²¸ï¼ä½ä¼¯
 
-;ƒoƒbƒNƒƒOƒLƒƒƒ‰w’è
-[eval exp="f.zap_sel_chara01 = '@RŠİ'"]
-[eval exp="f.zap_sel_chara02 = '@²”Œ'"]
-[eval exp="f.zap_sel_chara03 = '@ƒLƒƒƒ“ƒZƒ‹'"]
+;ãƒãƒƒã‚¯ãƒ­ã‚°ã‚­ãƒ£ãƒ©æŒ‡å®š
+[eval exp="f.zap_sel_chara01 = 'ã€€å±±å²¸'"]
+[eval exp="f.zap_sel_chara02 = 'ã€€ä½ä¼¯'"]
+[eval exp="f.zap_sel_chara03 = 'ã€€ã‚­ãƒ£ãƒ³ã‚»ãƒ«'"]
 
 [zap_set1]
 
@@ -75,7 +75,7 @@
 [eval exp="f.zap_bt02_x = 200"][eval exp="f.zap_bt02_y = 300"]
 [eval exp="f.zap_bt99_x = 320"][eval exp="f.zap_bt99_y = 540"]
 
-;ƒ{ƒ^ƒ“
+;ãƒœã‚¿ãƒ³
 [locate x="&f.zap_bt01_x" y="&f.zap_bt01_y"][button graphic="zap_yuu_"    target=*SEL00_yuu    recthit=true]
 [locate x="&f.zap_bt02_x" y="&f.zap_bt02_y"][button graphic="zap_hitomi_" target=*SEL00_hitomi recthit=true]
 [locate x="&f.zap_bt99_x" y="&f.zap_bt99_y"][button graphic="zap_cancel" target=*SEL00_cancel recthit=true]
@@ -87,7 +87,7 @@
 
 ;-------------------------------------------------
 *SEL00_yuu
-[zap_hisout txt="ƒUƒbƒsƒ“ƒO"][zap_hisout txt="&f.zap_sel_chara01 "][zap_hisout txt="@‘I‘ğ"][hr][hr]
+[zap_hisout txt="ã‚¶ãƒƒãƒ”ãƒ³ã‚°"][zap_hisout txt="&f.zap_sel_chara01 "][zap_hisout txt="ã€€é¸æŠ"][hr][hr]
 [zap_clear]
 [image storage="zap_yuu"     layer=1 left="&f.zap_bt01_x" top="&f.zap_bt01_y" page=fore visible=true opacity=255]
 [image storage="zap_hitomi_" layer=2 left="&f.zap_bt02_x" top="&f.zap_bt02_y" page=fore visible=true opacity=255 clipleft=0 cliptop=0 clipwidth=400 clipheight=120]
@@ -99,7 +99,7 @@
 
 ;-------------------------------------------------
 *SEL00_hitomi
-[zap_hisout txt="ƒUƒbƒsƒ“ƒO"][zap_hisout txt="&f.zap_sel_chara02 "][zap_hisout txt="@‘I‘ğ"][hr][hr]
+[zap_hisout txt="ã‚¶ãƒƒãƒ”ãƒ³ã‚°"][zap_hisout txt="&f.zap_sel_chara02 "][zap_hisout txt="ã€€é¸æŠ"][hr][hr]
 [zap_clear]
 [image storage="zap_yuu_"   layer=1 left="&f.zap_bt01_x" top="&f.zap_bt01_y" page=fore visible=true opacity=255 clipwidth=400 clipheight=120 clipleft=0 cliptop=0 clipwidth=400 clipheight=120]
 [image storage="zap_hitomi" layer=2 left="&f.zap_bt02_x" top="&f.zap_bt02_y" page=fore visible=true opacity=255]
@@ -111,9 +111,9 @@
 
 ;-------------------------------------------------
 *SEL00_cancel
-;ƒLƒƒƒ‰‚Ì”‚Åˆ—ˆá‚¤‚©‚ç‹tˆÚA‚Éƒ‰ƒxƒ‹V‘¢‚µ‚½
+;ã‚­ãƒ£ãƒ©ã®æ•°ã§å‡¦ç†é•ã†ã‹ã‚‰é€†ç§»æ¤æ™‚ã«ãƒ©ãƒ™ãƒ«æ–°é€ ã—ãŸ
 
-[zap_hisout txt="ƒUƒbƒsƒ“ƒO"][zap_hisout txt="&f.zap_sel_chara03 "][zap_hisout txt="@‘I‘ğ"][hr][hr]
+[zap_hisout txt="ã‚¶ãƒƒãƒ”ãƒ³ã‚°"][zap_hisout txt="&f.zap_sel_chara03 "][zap_hisout txt="ã€€é¸æŠ"][hr][hr]
 [zap_clear]
 [image storage="zap_yuu_"    layer=1 left="&f.zap_bt01_x" top="&f.zap_bt01_y" page=fore visible=true opacity=255 clipleft=0 cliptop=0 clipwidth=400 clipheight=120]
 [image storage="zap_hitomi_" layer=2 left="&f.zap_bt02_x" top="&f.zap_bt02_y" page=fore visible=true opacity=255 clipleft=0 cliptop=0 clipwidth=400 clipheight=120]
@@ -127,18 +127,18 @@
 ;-------------------------------------------------
 *YUU_JUMP
 
-*ZAP19|ƒUƒbƒsƒ“ƒO‘I‘ğˆ@RŠİ
+*ZAP19|ã‚¶ãƒƒãƒ”ãƒ³ã‚°é¸æŠè‚¢ã€€å±±å²¸
 
-;ƒoƒbƒNƒƒOƒLƒƒƒ‰w’è
-[eval exp="f.zap_sel_chara01 = '@RŠİ'"]
-[eval exp="f.zap_sel_chara02 = '@ƒLƒƒƒ“ƒZƒ‹'"]
+;ãƒãƒƒã‚¯ãƒ­ã‚°ã‚­ãƒ£ãƒ©æŒ‡å®š
+[eval exp="f.zap_sel_chara01 = 'ã€€å±±å²¸'"]
+[eval exp="f.zap_sel_chara02 = 'ã€€ã‚­ãƒ£ãƒ³ã‚»ãƒ«'"]
 
 [zap_set1]
 
 [eval exp="f.zap_bt01_x = 200"][eval exp="f.zap_bt01_y = 200"]
 [eval exp="f.zap_bt99_x = 320"][eval exp="f.zap_bt99_y = 540"]
 
-;ƒ{ƒ^ƒ“
+;ãƒœã‚¿ãƒ³
 [locate x="&f.zap_bt01_x" y="&f.zap_bt01_y"][button graphic="zap_yuu_"    target=*SEL01_yuu    recthit=true]
 [locate x="&f.zap_bt99_x" y="&f.zap_bt99_y"][button graphic="zap_cancel" target=*SEL01_cancel recthit=true]
 
@@ -148,7 +148,7 @@
 
 ;-------------------------------------------------
 *SEL01_yuu
-[zap_hisout txt="ƒUƒbƒsƒ“ƒO"][zap_hisout txt="&f.zap_sel_chara01 "][zap_hisout txt="@‘I‘ğ"][hr][hr]
+[zap_hisout txt="ã‚¶ãƒƒãƒ”ãƒ³ã‚°"][zap_hisout txt="&f.zap_sel_chara01 "][zap_hisout txt="ã€€é¸æŠ"][hr][hr]
 [zap_clear]
 [image storage="zap_yuu"    layer=1 left="&f.zap_bt01_x" top="&f.zap_bt01_y" page=fore visible=true opacity=255]
 [image storage="zap_cancel" layer=2 left="&f.zap_bt99_x" top="&f.zap_bt99_y" page=fore visible=true opacity=255 clipleft=0 cliptop=0 clipwidth=160 clipheight=40]
@@ -159,9 +159,9 @@
 
 ;-------------------------------------------------
 *SEL01_cancel
-;ƒLƒƒƒ‰‚Ì”‚Åˆ—ˆá‚¤‚©‚ç‹tˆÚA‚Éƒ‰ƒxƒ‹V‘¢‚µ‚½
+;ã‚­ãƒ£ãƒ©ã®æ•°ã§å‡¦ç†é•ã†ã‹ã‚‰é€†ç§»æ¤æ™‚ã«ãƒ©ãƒ™ãƒ«æ–°é€ ã—ãŸ
 
-[zap_hisout txt="ƒUƒbƒsƒ“ƒO"][zap_hisout txt="&f.zap_sel_chara02 "][zap_hisout txt="@‘I‘ğ"][hr][hr]
+[zap_hisout txt="ã‚¶ãƒƒãƒ”ãƒ³ã‚°"][zap_hisout txt="&f.zap_sel_chara02 "][zap_hisout txt="ã€€é¸æŠ"][hr][hr]
 [zap_clear]
 [image storage="zap_yuu_" layer=1 left="&f.zap_bt01_x" top="&f.zap_bt01_y" page=fore visible=true opacity=255 clipleft=0 cliptop=0 clipwidth=400 clipheight=120]
 [black_toplayer][trans_c random time=1000][hide_chara_int]
@@ -174,18 +174,18 @@
 ;-------------------------------------------------
 *HITOMI_JUMP
 
-*ZAP20|ƒUƒbƒsƒ“ƒO‘I‘ğˆ@²”Œ
+*ZAP20|ã‚¶ãƒƒãƒ”ãƒ³ã‚°é¸æŠè‚¢ã€€ä½ä¼¯
 
-;ƒoƒbƒNƒƒOƒLƒƒƒ‰w’è
-[eval exp="f.zap_sel_chara01 = '@²”Œ'"]
-[eval exp="f.zap_sel_chara02 = '@ƒLƒƒƒ“ƒZƒ‹'"]
+;ãƒãƒƒã‚¯ãƒ­ã‚°ã‚­ãƒ£ãƒ©æŒ‡å®š
+[eval exp="f.zap_sel_chara01 = 'ã€€ä½ä¼¯'"]
+[eval exp="f.zap_sel_chara02 = 'ã€€ã‚­ãƒ£ãƒ³ã‚»ãƒ«'"]
 
 [zap_set1]
 
 [eval exp="f.zap_bt01_x = 200"][eval exp="f.zap_bt01_y = 200"]
 [eval exp="f.zap_bt99_x = 320"][eval exp="f.zap_bt99_y = 540"]
 
-;ƒ{ƒ^ƒ“
+;ãƒœã‚¿ãƒ³
 [locate x="&f.zap_bt01_x" y="&f.zap_bt01_y"][button graphic="zap_hitomi_" target=*SEL02_hitomi recthit=true]
 [locate x="&f.zap_bt99_x" y="&f.zap_bt99_y"][button graphic="zap_cancel" target=*SEL02_cancel recthit=true]
 
@@ -196,9 +196,9 @@
 ;-------------------------------------------------
 ;*SEL01_hitomi
 *SEL02_hitomi
-;‹tˆÚA‚Éƒ‰ƒxƒ‹C³
+;é€†ç§»æ¤æ™‚ã«ãƒ©ãƒ™ãƒ«ä¿®æ­£
 
-[zap_hisout txt="ƒUƒbƒsƒ“ƒO"][zap_hisout txt="&f.zap_sel_chara01 "][zap_hisout txt="@‘I‘ğ"][hr][hr]
+[zap_hisout txt="ã‚¶ãƒƒãƒ”ãƒ³ã‚°"][zap_hisout txt="&f.zap_sel_chara01 "][zap_hisout txt="ã€€é¸æŠ"][hr][hr]
 [zap_clear]
 [image storage="zap_hitomi" layer=1 left="&f.zap_bt01_x" top="&f.zap_bt01_y" page=fore visible=true opacity=255]
 [image storage="zap_cancel" layer=2 left="&f.zap_bt99_x" top="&f.zap_bt99_y" page=fore visible=true opacity=255 clipleft=0 cliptop=0 clipwidth=160 clipheight=40]
@@ -209,9 +209,9 @@
 
 ;-------------------------------------------------
 *SEL02_cancel
-;ƒLƒƒƒ‰‚Ì”‚Åˆ—ˆá‚¤‚©‚ç‹tˆÚA‚Éƒ‰ƒxƒ‹V‘¢‚µ‚½
+;ã‚­ãƒ£ãƒ©ã®æ•°ã§å‡¦ç†é•ã†ã‹ã‚‰é€†ç§»æ¤æ™‚ã«ãƒ©ãƒ™ãƒ«æ–°é€ ã—ãŸ
 
-[zap_hisout txt="ƒUƒbƒsƒ“ƒO"][zap_hisout txt="&f.zap_sel_chara02 "][zap_hisout txt="@‘I‘ğ"][hr][hr]
+[zap_hisout txt="ã‚¶ãƒƒãƒ”ãƒ³ã‚°"][zap_hisout txt="&f.zap_sel_chara02 "][zap_hisout txt="ã€€é¸æŠ"][hr][hr]
 [zap_clear]
 [image storage="zap_hitomi_" layer=1 left="&f.zap_bt01_x" top="&f.zap_bt01_y" page=fore visible=true opacity=255 clipleft=0 cliptop=0 clipwidth=400 clipheight=120]
 [black_toplayer][trans_c random time=1000][hide_chara_int]

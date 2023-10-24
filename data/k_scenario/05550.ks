@@ -1,15 +1,15 @@
 
-;//¡ËƒuƒƒbƒN05550w‰B“Ùx
-;//BG:ŠwHF–éGÁ“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05550ã€éš éã€
+;//BG:å­¦é£Ÿï¼šå¤œï¼›æ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05550_TOP
-;[debug_win]‚È‚¤@05550[debug_win_end]
-;*SceneSet|w‰B“Ùx
+;[debug_win]ãªã†ã€€05550[debug_win_end]
+;*SceneSet|ã€éš éã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05550 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05550 = 1"]
 
-;//ôFBGM004
+;//â™ªï¼šBGM004
 [bgm004]
 
 ;//BG:bg14b
@@ -18,45 +18,41 @@
 
 *5689|
 [fc]
-ŠwH‚Ì‘‹‚©‚çŒ©‚¦‚éŠO‚ÌŒiF‚ÍA—z‚ª—‚¿‚©‚¯‚Ä‚¢‚½B[pcms]
+The view outside the window of the school cafeteria was[r]starting to darken as the sun set.[pcms]
 
 *5690|
 [fc]
-‚»‚ê‚Å‚àA‚Ü‚¾‚Ü‚Ô‚µ‚¢—[“ú‚ÉÆ‚ç‚³‚ê‚½ŠwH‚Ì’†‚É‚ÍA[r]
-‰´‚Æ²”ŒˆÈŠO‚Ìl‰e‚Í–³‚©‚Á‚½B[pcms]
+However, within the school cafeteria, illuminated by the[r]still dazzling sunset, there was no one else besides me and[r]Saeki.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 ;//
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2382|
 [fc]
 [vo_sa s="sae0540"]
-[ns]²”Œ[nse]
-u—Ç‚©‚Á‚½cc‚±‚±‚É‚Í‚Ü‚¾A’N‚à—ˆ‚Ä‚¢‚È‚¢‚æ‚¤‚Å‚·[r]
-‚Ëccv[pcms]
+[ns]Saeki[nse]
+Thank goodness... It seems like no one has come here yet...[pcms]
 
 *5691|
 [fc]
-[ns]‰Á“¡[nse]
-u’n‰ºº‚É‰B‚ê‚é‚Ì‚ğA‚ ‚¢‚Â‚ç‚ÉŒ©‚ç‚ê‚é‘O‚ÉA‘‚¢[r]
-‚Æ‚±”ğ“ï‚µ‚æ‚¤‚ºv[pcms]
+[ns]Kato[nse]
+Let's evacuate quickly before they see us hiding in the[r]basement.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2383|
 [fc]
 [vo_sa s="sae0541"]
-[ns]²”Œ[nse]
-u‚¦‚¦ccv[pcms]
+[ns]Saeki[nse]
+Yes...[pcms]
 
 *5692|
 [fc]
-á¿ò‚ª‚·‚é‚Ù‚Ç‚Ì—[“ú‚ğ‚³‚¯‚é—l‚ÉA‰´’B‚Í’²—ê‚Ì°[r]
-‚É‚ ‚é”à‚É’H‚è’…‚«A’n‰º‘qŒÉ‚Ög‚ğ‰B‚µ‚½B[pcms]
+We made our way to the door on the floor of the kitchen,[r]avoiding the dazzling sunset that made us dizzy, and hid[r]ourselves in the basement.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -67,5 +63,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05560]‚Ö
+;//[05560]ã¸
 [jump target=*05560_H_TOP storage="05560_H.ks"]

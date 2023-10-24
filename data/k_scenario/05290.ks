@@ -1,20 +1,20 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN05290w’n‰º’™‘ ºx
-;//;//BG:’n‰º’™‘ ºFÁ“”
-;//;//BG:’n‰º’™‘ ºF“_“”
-;//“oêl•¨GålŒöE“µ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05290ã€åœ°ä¸‹è²¯è”µå®¤ã€
+;//;//BG:åœ°ä¸‹è²¯è”µå®¤ï¼šæ¶ˆç¯
+;//;//BG:åœ°ä¸‹è²¯è”µå®¤ï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *05290_TOP
-;[debug_win]‚È‚¤@05290[debug_win_end]
-;*SceneSet|w’n‰º’™‘ ºx
+;[debug_win]ãªã†ã€€05290[debug_win_end]
+;*SceneSet|ã€åœ°ä¸‹è²¯è”µå®¤ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05290 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05290 = 1"]
 
-;//ôFBGM005
+;//â™ªï¼šBGM005
 
 [bgm005]
 
@@ -32,19 +32,17 @@
 
 ;;;[sysbt_meswin]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2171|
 [fc]
 [vo_sa s="sae0438"]
-[ns]²”Œ[nse]
-u’²—ê‚Ì‰º‚ÉA‚±‚Ì—l‚È’n‰ºº‚ª‚ ‚Á‚½‚È‚ñ‚Äccv[pcms]
+[ns]Saeki[nse]
+I can't believe there's a basement like this beneath the[r]kitchen...[pcms]
 
 *5224|
 [fc]
-’n‰ºº‚Ì’†‚ÍA‰´‚ª’T‚µ“–‚Ä‚½ƒXƒCƒbƒ`‚É‚æ‚Á‚Ä“d“”‚ª[r]
-“_‚¯‚ç‚êA•¡”•À‚×‚ç‚ê‚Ä‚¢‚é—â‘ ’I‚ªA[r]
-–¾‚é‚­Æ‚ç‚³‚ê‚Ä‚¢‚½B[pcms]
+The inside of the basement was brightly lit by the lights[r]turned on by the switch I found, and multiple refrigerators[r]were lined up and illuminated.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -57,222 +55,205 @@
 
 *5225|
 [fc]
-“”‚è‚ª“_‚­‚ÆA‚©‚È‚è‚Ì‰œs‚«‚ª‚ ‚é‚Ì‚ª‚í‚©‚Á‚½B[r]
-lƒNƒ‰ƒX•ª‚Ì¶“k‚ª‚±‚Ì’†‚É“ü‚Á‚Ä‚àA[r]
-‚Ü‚¾—]—T‚ª‚ ‚é‚®‚ç‚¢‚ÌL‚³‚¾B[pcms]
+When the lights turned on, I realized that it had quite a[r]depth.[l][er]
+It was spacious enough to accommodate four classes of[r]students and still have room to spare.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2172|
 [fc]
 [vo_sa s="sae0439"]
-[ns]²”Œ[nse]
-uˆÈ‘OA‚±‚ÌŠw‰€‚ÉŠÖ‚·‚éŒÃ‚¢‘—¿‚ğA[r]
-¶“k‰ïº‚Å“Ç‚ñ‚¾–‚ª‚ ‚é‚Ì‚Å‚·‚ªccv[pcms]
+[ns]Saeki[nse]
+I have read old documents about this school in the student[r]council room before...[pcms]
 
 *5226|
 [fc]
-’n‰ºº‚Ì’†‚ğŒ©‰ñ‚µ‚È‚ª‚çA²”Œ‚ª˜b‚µn‚ß‚½B[pcms]
+Saeki began speaking while looking around the inside of the[r]basement.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2173|
 [fc]
 [vo_sa s="sae0440"]
-[ns]²”Œ[nse]
-u‚±‚ÌŠw‰€‚Íí‘O‚Éİ—§‚³‚ê‚½‚à‚Ì‚ÅAà”´‚Ì–ºA[r]
-‚¢‚í‚ä‚é‚¨ì—l‚ª’Ê‚¤‚æ‚¤‚ÈŠ‚¾‚Á‚½‚»‚¤‚Å‚·v[pcms]
+[ns]Saeki[nse]
+It seems that this school was established before the war,[r]and it was a place where daughters of wealthy families, so-[r]called ojou-sama, attended.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2174|
 [fc]
 [vo_sa s="sae0441"]
-[ns]²”Œ[nse]
-u‚±‚Ì’n‰ºº‚ÍA‰½‚©”ñí–‘Ô‚ª‹N‚±‚Á‚½‚É[r]
-¶“k‚ğç‚éˆ×AŠw‰€‘¤‚ªì‚Á‚½[r]
-ƒVƒFƒ‹ƒ^[‚Ì—l‚È‚à‚Ì‚Å‚Í‚È‚¢‚Å‚µ‚å‚¤‚©v[pcms]
+[ns]Saeki[nse]
+Could it be that this basement is not like a shelter created[r]by the school to protect students in case of emergencies?[pcms]
 
 *5227|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤[‚ñcc‚Â‚Ü‚èA‹àƒdƒ‹‚Ì–º‚É‰½‚©‚ ‚Á‚½‚ç[r]
-ƒ}ƒYƒC‚©‚çì‚Á‚½A‚Æ‚¢‚¤‚±‚Æ‚©Hv[pcms]
+[ns]Kato[nse]
+Hmm... So, you're saying they made this basement to protect[r]the daughters of wealthy families, like a safety measure in[r]case something happened to them?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2175|
 [fc]
 [vo_sa s="sae0442"]
-[ns]²”Œ[nse]
-uŒ¾—t‚Íˆ«‚¢‚Å‚·‚¯‚ê‚ÇA‚»‚¤‚¢‚¤‚±‚Æ‚¾‚Æv‚¢‚Ü‚·v[pcms]
+[ns]Saeki[nse]
+I apologize for the language, but I think that's what it[r]means.[pcms]
 
 *5228|
 [fc]
-[ns]‰Á“¡[nse]
-u¡‚Í‰½‚Ég‚í‚ê‚Ä‚é‚ñ‚¾‚ë‚¤‚ÈB[r]
-’²—ê‚Ì‰º‚¶‚áA”ğ“ïêŠ‚Æ‚µ‚Ä‚Íg‚¦‚È‚¢‚¾‚ë‚¤‚µv[pcms]
+[ns]Kato[nse]
+I wonder what it's being used for now.[l][er]
+It can't be used as an evacuation spot under the kitchen,[r]right?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2176|
 [fc]
 [vo_sa s="sae0443"]
-[ns]²”Œ[nse]
-u‚±‚±‚É‚ ‚é—â‘ ’I‚ÍA³í‚É‹@”\‚µ‚Ä‚¢‚é‚æ‚¤‚Å‚·‚©[r]
-‚çA’²—ê‚Ì—â‘ ŒÉ‚É“ü‚è‚«‚ç‚È‚¢HŞ‚ğA[r]
-‚±‚±‚Å•Û‘¶‚µ‚Ä‚¢‚é‚Ì‚Å‚Í‚È‚¢‚Å‚µ‚å‚¤‚©v[pcms]
+[ns]Saeki[nse]
+Since the refrigerators here are functioning properly, I[r]think they might be using this place to store ingredients[r]that can't fit in the kitchen's refrigerator.[pcms]
+[l][er]
 
 *5229|
 [fc]
-²”Œ‚Ìl‚¦‚ª³‚µ‚¢‚±‚Æ‚ğØ–¾‚·‚é‚©‚Ì‚æ‚¤‚ÉA[r]
-—â‘ ’I‚É‚Í…‚Ì“ü‚Á‚½“ñƒŠƒbƒgƒ‹‚Ìƒyƒbƒgƒ{ƒgƒ‹‚ªA[r]
-Šô‚Â‚à’u‚©‚ê‚Ä‚¢‚½B[pcms]
+As if to prove Saeki's theory correct, there were several[r]two-liter bottles filled with water placed on the[r]refrigerated shelves.[pcms]
 
 *5230|
 [fc]
-…ˆÈŠO‚ÌH—¿‚ª‚È‚¢‚Ì‚ÍA¡‚ª‰Ä‹x‚İ‚ÅAH“°‚ªg‚í‚ê[r]
-‚Ä‚¢‚È‚¢‚©‚ç‚¾‚ë‚¤B”à‚ÉŒ®‚ª‚©‚¯‚ç‚ê‚Ä‚¢‚È‚¢‚±‚Æ‚©[r]
-‚ç‚àA•’i‚Íl‚Ìo“ü‚è‚ª‚ ‚é‚Éˆá‚¢‚È‚¢B[pcms]
+It's probably because it's summer vacation and the cafeteria[r]is not being used that there are no food supplies other than[r]water.[l][er]
+The fact that the door is not locked suggests that people[r]usually come and go from here.[pcms]
 
 *5231|
 [fc]
-‚»‚ê‚ÉA”à‚ÍAƒVƒFƒ‹ƒ^[‚Æ‚µ‚Äg‚í‚ê‚Ä‚¢‚½–‚ğ[r]
-Ø–¾‚·‚é—l‚ÉA“à‘¤‚©‚ç‚µ‚©A[r]
-Œ®‚ªŠ|‚¯‚ç‚ê‚È‚¢—l‚É‚È‚Á‚Ä‚¢‚½B[pcms]
+Additionally, as if to prove that the door was used as a[r]shelter, it could only be locked from the inside.[pcms]
 
 *5232|
 [fc]
-[ns]‰Á“¡[nse]
-ucc‚µ‚©‚µA¶“k‰ïº‚ÅŠwZ‚ÌŒÃ‚¢‘—¿‚ğ“Ç‚ñ‚¾‚Á‚Ä[r]
-Œ¾‚Á‚Ä‚½‚¯‚ÇA¶“k‰ï‚Á‚Äƒqƒ}‚È‚Ì‚©Hv[pcms]
+[ns]Kato[nse]
+... However, you mentioned reading old school documents in[r]the student council room.[l][er]
+Does the student council have that much free time?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_07"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2177|
 [fc]
 [vo_sa s="sae0444"]
-[ns]²”Œ[nse]
-u¸—ç‚ÈI@è‚ª‹ó‚¢‚½‚É“Ç‚ñ‚¾‚Ì‚Å‚·Iv[pcms]
+[ns]Saeki[nse]
+How rude! I read them when I had free time![pcms]
 
-;//SE:—â‘ ŒÉ‚Ìƒ‚[ƒ^[‰¹
+;//SE:å†·è”µåº«ã®ãƒ¢ãƒ¼ã‚¿ãƒ¼éŸ³
 
 [se0 storage="se044"]
 
 *5233|
 [fc]
-²”Œ‚ª‘å‚«‚Èº‚ğo‚µ‚½“r’[A‚»‚ê‚ğã‰ñ‚é‚æ‚¤‚È[r]
-‘å‚«‚È‰¹‚ğA—â‘ ’I‚Ìƒ‚[ƒ^[‚ª”­‚µn‚ß‚½B[pcms]
+As soon as Saeki raised her voice, an even louder sound[r]began to emanate from the motor of the refrigerator.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2178|
 [fc]
 [vo_sa s="sae0445"]
-[ns]²”Œ[nse]
-uIIv[pcms]
+[ns]Saeki[nse]
+!![pcms]
 
 *5234|
 [fc]
-’u‚©‚ê‚Ä‚¢‚é—â‘ ’I‚Ìƒ‚[ƒ^[‚ªAˆêÄ‚É‰ñ“]‚ğã‚°‚½[r]
-‚æ‚¤‚È‘å‚«‚È‰¹‚ÉA²”Œ‚Í‹Á‚¢‚Ä‰´‚Ì‘Ì‚É”ò‚Ñ‚Â‚¢‚½B[pcms]
+Saeki, startled by the loud noise that sounded like the[r]motor of the refrigerator on the placed refrigerated shelves[r]suddenly revving up, jumped onto my body.[pcms]
 
 *5235|
 [fc]
-[ns]‰Á“¡[nse]
-u²”Œ‚ÌŒ¾‚¤’Ê‚èA‚¿‚á‚ñ‚Æ“®‚¢‚Ä‚é‚İ‚½‚¢‚¾‚ÈA[r]
-‚±‚Ì—â‘ ’Iv[pcms]
+[ns]Kato[nse]
+Saeki is right, it seems like this refrigerator shelf is[r]working properly.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2179|
 [fc]
 [vo_sa s="sae0446"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *5236|
 [fc]
-[ns]‰Á“¡[nse]
-u²”ŒccHv[pcms]
+[ns]Kato[nse]
+Saeki...?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2180|
 [fc]
 [vo_sa s="sae0447"]
-[ns]²”Œ[nse]
-u‚¦cc‚ A‚²‚ÁA‚²‚ß‚ñ‚È‚³‚¢Iv[pcms]
+[ns]Saeki[nse]
+Eh... Ah, s-sorry![pcms]
 
 *5237|
 [fc]
-Q‚Ä‚Ä—£‚êAÆ‚ê‚Ä^‚ÁÔ‚É‚È‚Á‚½Šç‚ğA[r]
-²”Œ‚Í‰´‚©‚ç”w‚¯‚½B[pcms]
+Saeki, flustered and blushing, quickly moved away from me,[r]avoiding eye contact.[pcms]
 
 *5238|
 [fc]
-²”Œ‚ÌÆ‚ê‚æ‚¤‚ÉA‰´‚Ü‚Å•Ï‚ÉˆÓ¯‚µ‚Ä‚µ‚Ü‚Á‚Ä‚¢‚½B[pcms]
+I couldn't help but feel self-conscious because of Saeki's[r]embarrassment.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2181|
 [fc]
 [vo_sa s="sae0448"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *5239|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *5240|
 [fc]
-‚µ‚Î‚ç‚­‚ÌŠÔA‚¨Œİ‚¢‰½‚àŒ¾‚í‚¸‚ÉA[r]
-‚¤‚Â‚Ş‚¢‚½‚Ü‚Ü‚Å‚¢‚½‚ªA‚â‚ª‚Ä²”Œ‚ªŒû‚ğŠJ‚¢‚½B[pcms]
+For a while, we both remained silent, looking down.[l][er]
+But eventually, Saeki spoke up.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2182|
 [fc]
 [vo_sa s="sae0449"]
-[ns]²”Œ[nse]
-ucc‚à‚¤o‚Ü‚¹‚ñ‚©H@‘§‚ª‹l‚Ü‚é‚æ‚¤‚ÅA[r]
-‚±‚±‚É‚Í’·‹‚µ‚½‚­‚ ‚è‚Ü‚¹‚ñccv[pcms]
+[ns]Saeki[nse]
+... Can we leave already? It feels suffocating here, and I[r]don't want to linger...[pcms]
 
 *5241|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚ ‚ A‚»‚¤‚¾‚ÈB^–ç‚à• ‹ó‚©‚µ‚Ä‚é‚¾‚ë‚¤‚µv[pcms]
+[ns]Kato[nse]
+Ah, yeah. Shinya must be hungry too.[pcms]
 
 *5242|
 [fc]
-²”Œ‚Ì’ñˆÄ‚É‚¤‚È‚¸‚¢‚ÄA‰´‚Í’nã‚Ö‚ÌŠK’i‚ğã‚Á‚½B[pcms]
+I nodded in agreement with Saeki's suggestion and climbed up[r]the stairs to the surface.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -280,8 +261,8 @@
 
 ;//blackout
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05291]‚Ö
+;//[05291]ã¸
 [jump target=*05291_TOP storage="05291.ks"]

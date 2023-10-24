@@ -1,20 +1,20 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02078w“µ‚ª–ß‚Á‚Ä‚­‚éx
-;//BG:‹’®ŠoºF–éF“_“”
-;//“oêl•¨GålŒöE—DEƒŠƒTE’|“àE“µ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02078ã€ç³ãŒæˆ»ã£ã¦ãã‚‹ã€
+;//BG:è¦–è´è¦šå®¤ï¼šå¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»ç«¹å†…ãƒ»ç³
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02078_TOP
-;[debug_win]‚È‚¤@02078[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02078 = 1"]
+;[debug_win]ãªã†ã€€02078[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02078 = 1"]
 
-;*SceneSet|w“µ‚ª–ß‚Á‚Ä‚­‚éx
+;*SceneSet|ã€ç³ãŒæˆ»ã£ã¦ãã‚‹ã€
 
 ;//[02078]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//BG:bg015c
 ;//[bg storage="bg15c"]
@@ -22,52 +22,49 @@
 
 *1665|
 [fc]
-ŒÜ\—’ƒTƒ“‚ªS”z‚È‚Ì‚©ARŠİ‚³‚ñ‚Í•sˆÀ‚»‚¤‚ÈŠç‚ğ‚µ[r]
-‚Ä‘‹Û‚É‹ß‚Ã‚«A‘‹‚ÌŠO‚ğŒ©‰ñ‚µ‚½B[pcms]
+Igarashi-san, are you worried?[l][er]
+Yamagishi-san approached the window with an anxious[r]expression and looked outside.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v697|
 [fc]
 [vo_ya s="yama0196_"]
-[ns]RŠİ[nse]
-u‰½‚©‚ ‚Á‚½‚Ì‚©‚È‚Ÿccv[pcms]
+[ns]Yamagishi[nse]
+I wonder if something happened...[pcms]
 
 *1666|
 [fc]
-RŠİ‚³‚ñ‚Ì‚»‚ÌŒ¾—t‚ÉA‰´‚à‘‹‚ÌŠO‚ğŒ©‰ñ‚µ‚½B[r]
-‚»‚¤‚¾cc—S“ñ’BA‚à‚µ‚©‚µ‚½‚çŠO‚Åƒ„ƒb‚Ä‚é‚©‚à‚µ‚ê[r]
-‚È‚¢‚ÈccB[pcms]
+I also glanced outside at Yamagishi-san's words.[l][er]
+That's right... Yuuji and the others might be fooling around[r]outside...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *1667|
 [fc]
-ƒAƒIƒJƒ“‚©[AŠO‚Å‚·‚é‚Ì‚Á‚ÄA‚Ç‚ñ‚ÈŠ´‚¶‚È‚ñ‚¾‚ë‚¤[r]
-‚ÈccB[pcms]
+I wonder what it's like to fool around outside...[pcms]
 
 *1668|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *1669|
 [fc]
-‘‹Û‚É—§‚ÂRŠİ‚³‚ñ‚ğŒ©‚È‚ª‚çA‰´‚Í”Ş—‚Æ‰®ŠO‚Å‚µ‚æ[r]
-‚¤‚Æ‚µ‚Ä‚¢‚é‚Æ‚±‚ë‚ğ‘z‘œ‚µ‚½B[pcms]
+While looking at Yamagishi-san standing by the window, I[r]imagined her and me fooling around outside.[pcms]
 
 *1670|
 [fc]
-êŠ‚ÍA‹A‚è“¹‚Ì“r’†‚É‚ ‚éŒö‰€‚Æ‚©‚Åccƒxƒ“ƒ`‚É•À[r]
-‚ñ‚ÅÀ‚Á‚½RŠİ‚³‚ñ‚ÌA¬‚³‚­k‚¦‚é‘Ì‚ğ•ø‚¢‚Äˆø‚«Šñ[r]
-‚¹‚Äcc‚»‚µ‚ÄA”Ş—‚ÌƒXƒJ[ƒg‚Ì’†‚Éè‚ğccB[pcms]
+The place would be a park or something along the way home...[l][er]
+I would embrace Yamagishi-san, who sat on the bench with her[r]body trembling slightly, and pull her closer...[l][er]
+And then, my hand would go inside her skirt...[pcms]
 
-;//SE:”à‚ğŠJ‚¯‚é
+;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
 [se0 storage="se008"]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
@@ -76,57 +73,52 @@
 
 *1671|
 [fc]
-‰´‚Ì‰º‚ç‚È‚¢–Ï‘z‚ÍA‹’®Šoº‚Ì”à‚ªŠJ‚¯‚ç‚ê‚é‰¹‚É‘~[r]
-‚«Á‚³‚ê‚½B[pcms]
+My worthless delusion was drowned out by the sound of the[r]door to the audiovisual room opening.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v698|
 [fc]
 [vo_ya s="yama0197"]
-[ns]RŠİ[nse]
-u‚ A“µ‚³‚ñA‚¨‹A‚è`Iv[pcms]
+[ns]Yamagishi[nse]
+Ah, Hitomi-san, welcome back~![pcms]
 
 *1672|
 [fc]
-RŠİ‚³‚ñ‚ÌŒÄ‚Ñ‚©‚¯‚É‰‚¦‚¸A²”Œ‚Í–³Œ¾‚Å’†‚É“ü‚Á‚Ä[r]
-‚«‚ÄAÀ‚Á‚Ä‚¢‚½^–ç‚É‹C‚ª‚Â‚¢‚½B[pcms]
+Saeki entered without responding to Yamagishi's call and[r]noticed Shinya sitting there silently.[pcms]
 
 *1673|
 [fc]
-Ÿè‚Éo‚Äs‚Á‚½ƒNƒZ‚ÉA—Á‚µ‚¢Šç‚ğ‚µ‚Ä‚±‚±‚É‚¢‚é^[r]
-–ç‚ÉA²”Œ‚ª‚¢‚Â‚à‚Ì’²q‚Å“{†‚ğ‚Ô‚Â‚¯‚é‚Ì‚©‚Æv‚Á[r]
-‚ÄA‰´‚Íg\‚¦‚½‚ªccB[pcms]
+I braced myself, thinking that Saeki would unleash her usual[r]angry outburst at Shinya, who was sitting here with a cool[r]expression, even though she had left on her own accord.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v699|
 [fc]
 [vo_sa s="sae0082"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *1674|
 [fc]
-cc²”Œ‚Í–Ù‚Á‚½‚Ü‚ÜAˆÖq‚ÉÀ‚Á‚½‚¾‚¯‚¾‚Á‚½B[pcms]
+Saeki remained silent and simply sat down on the chair.[pcms]
 
 *1675|
 [fc]
-‚È‚ñ‚¾A’¿‚µ‚¢‚±‚Æ‚à‚ ‚é‚à‚ñ‚¾‚ÈB[r]
-–é‚ÌŠwZ‚Ì•|‚³‚É‘Ï‚¦‚é‚Ì‚ÉA‚Á‚Ä‚¢‚½‹C—Í‚ğg‚¢‰Ê[r]
-‚½‚µ‚Ä‚µ‚Ü‚Á‚½‚Ì‚©H[pcms]
+Well, well, looks like there are some rare occurrences.[l][er]
+Did you exhaust all your energy enduring the fear of the[r]school at night?[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//[02079]‚Ö
+;//[02079]ã¸
 [jump target=*02079_TOP storage="02079.ks"]
 

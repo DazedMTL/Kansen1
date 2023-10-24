@@ -1,10 +1,10 @@
-;//¡ËƒuƒƒbƒN02091wâ–]‚Ì–é–¾‚¯x
-;//BG:‹’®ŠoºF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöE—DE’|“à
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02091ã€çµ¶æœ›ã®å¤œæ˜ã‘ã€
+;//BG:è¦–è´è¦šå®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…
 
 *02091_TOP
-;[debug_win]‚È‚¤@02091[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02091 = 1"]
+;[debug_win]ãªã†ã€€02091[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02091 = 1"]
 
 [eval exp="f.prologue_route = 0"]
 [eval exp="f.yuu_route1 = 0"]
@@ -17,20 +17,20 @@
 [eval exp="f.hitomi_route4 = 0"]
 [eval exp="f.infection_route = 0"]
 
-;*SceneSet|wâ–]‚Ì–é–¾‚¯x
+;*SceneSet|ã€çµ¶æœ›ã®å¤œæ˜ã‘ã€
 
 ;//[02091]
 
-;//flag:—Dƒ‹[ƒgƒtƒ[‚P@‰æ–Ê@•\¦
-;//flag:—Dƒ‹[ƒg@Next‚P@•\¦
-;//ôFBGM001
+;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ï¼‘ã€€ç”»é¢ã€€è¡¨ç¤º
+;//flag:å„ªãƒ«ãƒ¼ãƒˆã€€Nextï¼‘ã€€è¡¨ç¤º
+;//â™ªï¼šBGM001
 [bgm001]
 
 ;//BG:bg015C
 [bg storage="bg15c"]
 [trans_c cross time=1000]
 
-;//SE:’¹‚Ì‚³‚¦‚¸‚è
+;//SE:é³¥ã®ã•ãˆãšã‚Š
 [se0 storage="se047"]
 
 
@@ -38,137 +38,124 @@
 
 *1851|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ñccv[pcms]
+[ns]Kato[nse]
+Hm...[pcms]
 
 *1852|
 [fc]
-ƒJ[ƒeƒ“‚ÌŒ„ŠÔ‚©‚ç˜R‚ê‚Ä‚­‚éŒõ‚É–Ú‚ğŠo‚Ü‚µ‚ÄA‚Ú‚ñ[r]
-‚â‚è‚·‚é‹ŠE‚Ì’†‚ÉŒv‚ğ’T‚·‚ÆA‹ã‚ğ­‚µ‰ß‚¬‚½‚Æ[r]
-‚±‚ë‚¾‚Á‚½B[pcms]
+I woke up to the light leaking through the gap in the[r]curtains, and as I searched my blurry vision for the clock,[r]I realized it was a little past nine.[pcms]
 
 *1853|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ [cc‘Ì‚ª’É‚¥ccv[pcms]
+[ns]Kato[nse]
+Ah... my body hurts...[pcms]
 
 *1854|
 [fc]
-‘‹‚ª‚Ç‚ê‚©ŠJ‚¢‚Ä‚¢‚é‚Ì‚©A‚Ğ‚ñ‚â‚è‚Æ‚µ‚½‹ó‹C‚ÆA’¹[r]
-‚Ì‚³‚¦‚¸‚è‚ªŠO‚©‚ç“ü‚Á‚Ä‚­‚éB[r]
-‚â‚Á‚Ï‚èAR‚Ì’†‚Í—Á‚µ‚¢‚ÈccB[pcms]
+The cool air and the chirping of birds enter from outside,[r]indicating that one of the windows is open.[l][er]
+As expected, it's cool in the mountains...[pcms]
 
 *1855|
 [fc]
-‹ó‹C‚Ì—â‚½‚³‚ÉA‹”N‚Ì‰Ä‹x‚İA‚·‚é‚±‚Æ‚ª‚È‚­‚Ä‰É‚ğ[r]
-‚Ä—]‚µ‚Ä‚¢‚½^–ç‚Æ‰´‚ÅA•à‚¢‚ÄŠwZ‚Ü‚Å—ˆ‚½‚±‚Æ‚ğ[r]
-v‚¢o‚µ‚½B[pcms]
+I remembered walking to school with Shinya and me, who had[r]nothing to do and were bored during last year's summer[r]vacation, in the coolness of the air.[pcms]
 
 *1856|
 [fc]
-‚ ‚Ì‚àA‹——£‚ği‚ß‚é–ˆ‚É—â‚½‚­‚È‚é‹ó‹C‚ÉA“¯‚¶‚±[r]
-‚Æ‚ğŠ´‚¶‚½B[pcms]
+I felt the same thing back then, as we walked further and[r]further, the air grew colder.[pcms]
 
 *1857|
 [fc]
-[ns]‰Á“¡[nse]
-uˆÓŠO‚ÆŠy‚¾‚Á‚½‚ñ‚¾‚æ‚È[A‚±‚±‚Ü‚Å•à‚­‚Ìv[pcms]
+[ns]Kato[nse]
+Surprisingly, it was quite enjoyable walking all the way[r]here.[pcms]
 
 *1858|
 [fc]
-^–ç‚Í‚»‚¤v‚í‚È‚©‚Á‚½‚İ‚½‚¢‚ÅAw‚à‚¤“ñ“x‚Æ•à‚¢‚Ä[r]
-‚±‚È‚¢Ix‚ÆAƒWƒ…[ƒX‚ğƒKƒuˆù‚İ‚µ‚Ä‚¢‚½‚¯‚ÇB[pcms]
+It seems that Shinya didn't think so, as he said, I'm never[r]walking here again![l][er]
+and chugged his juice.[pcms]
 
 *1859|
 [fc]
-‚»‚Ì^–ç‚ğŒ©‚é‚ÆA‘åŒû‚ğŠJ‚¯‚½ƒ}ƒkƒP–Ê‚ÅA‚Ü‚¾–²‚Ì[r]
-’†‚É‚¢‚½B[pcms]
+When I looked at Shinya, his dumbfounded face with his mouth[r]wide open, it felt like he was still in a dream.[pcms]
 
 *1860|
 [fc]
-[ns]‰Á“¡[nse]
-u‚­‚­‚Áccv[pcms]
+[ns]Kato[nse]
+Hehe...[pcms]
 
 *1861|
 [fc]
-^–ç‚ÌƒoƒbƒO‚©‚çƒfƒWƒJƒæ‚Á‚Ä‚«‚ÄAƒJƒƒ‰‚Éû‚ß‚Ä[r]
-‚â‚ë‚¤‚©ccB[pcms]
+Should I take the digital camera from Shinya's bag and[r]capture it on camera...?[pcms]
 
 *1862|
 [fc]
-‚¢‚âcc‚Ç‚¤‚¹B‚é‚È‚çARŠİ‚³‚ñ‚ÌQŠç‚ª‚¢‚¢B[r]
-—×‚ÌÈ‚ÌRŠİ‚³‚ñ‚ğŒ©‚é‚ÆA—c‚¢QŠç‚ÅAÃ‚©‚ÉQ‘§‚ğ[r]
-—§‚Ä‚Ä‚¢‚½B[pcms]
+No... If I'm going to take a picture, Yamagishi-san's[r]sleeping face would be nice.[l][er]
+When I looked at Yamagishi-san, who was sitting next to me,[r]she had a peaceful sleeping face and was quietly breathing.[pcms]
 
 *v781|
 [fc]
 [vo_ya s="yama0225"]
-[ns]RŠİ[nse]
-u‚ñcc‚·‚£ccv[pcms]
+[ns]Yamagishi[nse]
+Mmm... snnzzz...[pcms]
 
 *1863|
 [fc]
-[ns]‰Á“¡[nse]
-u‚©‚í‚¢‚¢QŠç‚¾‚Èccv[pcms]
+[ns]Kato[nse]
+Such a cute sleeping face...[pcms]
 
 *1864|
 [fc]
-”Ş—‚Ìq‹Ÿ‚Ì‚æ‚¤‚ÈA”’‚­‚Ä_‚ç‚©‚»‚¤‚È‚Ù‚Á‚Ø‚½‚ğŒ©[r]
-‚Ä‚¢‚é‚ÆA‚È‚ñ‚¾‚©•‚Å‚½‚­‚È‚Á‚Ä‚­‚éB[pcms]
+When I look at her childlike, white and soft cheeks, I[r]somehow feel the urge to stroke them.[pcms]
 
 *1865|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *1866|
 [fc]
-¡‚¾‚Á‚½‚çA‚¿‚å‚Á‚Æ•‚Å‚é‚­‚ç‚¢‚È‚ç‹C‚Ã‚©‚ê‚È‚¢‚æ[r]
-‚ÈccH[pcms]
+If it's right now, I don't think she would notice if I[r]gently stroke her...?[pcms]
 
 *1867|
 [fc]
-¶‘Á‚ğˆù‚İ‚±‚İ‚È‚ª‚çA•”‰®‚Ì’†‚ğŒ©‰ñ‚µA’N‚àŒ©‚Ä‚¢[r]
-‚È‚¢‚±‚Æ‚ğŠm”F‚µ‚½‚Æ‚±‚ë‚ÅA‰´‚Í‚¢‚é‚Í‚¸‚ÌlŠÔ‚ªˆê[r]
-lA‹‚È‚­‚È‚Á‚Ä‚¢‚é‚±‚Æ‚É‹C‚ª‚Â‚¢‚½B[pcms]
+While swallowing my saliva, I looked around the room and[r]confirmed that no one was watching.[l][er]
+At that moment, I noticed that one person who should have[r]been there was no longer present.[pcms]
 
 *1868|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚êccH@²”Œ‚ª‚¢‚È‚¢ccv[pcms]
+[ns]Kato[nse]
+Huh...? Saeki is not here...[pcms]
 
 *1869|
 [fc]
-‘‹Û‚ÌŠ÷‚ÅQ‚Ä‚¢‚½²”Œ‚Ìp‚ªA‹’®Šoº“à‚Ì‚Ç‚±‚É‚à[r]
-‚È‚©‚Á‚½B[pcms]
+Saeki, who was sleeping at the desk by the window, was[r]nowhere to be found in the audiovisual room.[pcms]
 
-;//¦‘I‘ğˆ
-;//E•ÖŠ‚É‚Å‚às‚Á‚Ä‚ñ‚Ì‚©‚Ècc;//[02200]‚Ö
-;//E‚È‚ñ‚©‹ƒ‚¢‚Ä‚½‚Ècc@;//[02210]‚Ö
+;//â€»é¸æŠè‚¢
+;//ãƒ»ä¾¿æ‰€ã«ã§ã‚‚è¡Œã£ã¦ã‚“ã®ã‹ãªâ€¦â€¦;//[02200]ã¸
+;//ãƒ»ãªã‚“ã‹æ³£ã„ã¦ãŸãªâ€¦â€¦ã€€;//[02210]ã¸
 
 ;;;;[sysbt_meswin clear]
 
 
-*SEL01|•ÖŠ‚É‚Å‚às‚Á‚Ä‚ñ‚Ì‚©‚È^‚È‚ñ‚©‹ƒ‚¢‚Ä‚½‚È
+*SEL01|ä¾¿æ‰€ã«ã§ã‚‚è¡Œã£ã¦ã‚“ã®ã‹ãªï¼ãªã‚“ã‹æ³£ã„ã¦ãŸãª
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '•ÖŠ‚É‚Å‚às‚Á‚Ä‚ñ‚Ì‚©‚Ècc'"]
-[eval exp="f.seltext04 = '‚È‚ñ‚©‹ƒ‚¢‚Ä‚½‚Ècc'"]
+[eval exp="f.seltext02 = 'ä¾¿æ‰€ã«ã§ã‚‚è¡Œã£ã¦ã‚“ã®ã‹ãªâ€¦â€¦'"]
+[eval exp="f.seltext04 = 'ãªã‚“ã‹æ³£ã„ã¦ãŸãªâ€¦â€¦'"]
 
 
-[if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
-	;‘I‘ğˆ“à—e‚ğƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
+[if exp="tf.sys_sub == 0 || tf.é¸æŠè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
+	;é¸æŠè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[—š—ğo—Í•œ‹A]
+[å±¥æ­´å‡ºåŠ›å¾©å¸°]
 
-;‘I‘ğˆƒx[ƒX
+;é¸æŠè‚¢ãƒ™ãƒ¼ã‚¹
 [selbase]
-;•¶š‚Ì¶ƒ}[ƒWƒ“
+;æ–‡å­—ã®å·¦ãƒãƒ¼ã‚¸ãƒ³
 [eval exp="sf.seltext_x = 250"]
 
 [sel02 target=*sel00_toilet]

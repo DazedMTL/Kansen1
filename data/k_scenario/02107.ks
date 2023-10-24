@@ -1,20 +1,20 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02107w¼•zx
-;//BG:•ÛŒ’ºF’‹i’©Œ“—pj
-;//“oêl•¨GålŒö
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02107ã€æ¹¿å¸ƒã€
+;//BG:ä¿å¥å®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02107_TOP
-;[debug_win]‚È‚¤@02107[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02107 = 1"]
+;[debug_win]ãªã†ã€€02107[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02107 = 1"]
 
-;*SceneSet|w¼•zx
+;*SceneSet|ã€æ¹¿å¸ƒã€
 
 ;//[02107]
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 ;//[bgm009]
 ;//BG:bg013a
 ;//[bg storage="bg13a"]
@@ -22,22 +22,21 @@
 
 *2098|
 [fc]
-V“¹æ¶‚ÍA˜]œ‚ªÜ‚ê‚Ä‚¢‚é‚©‚à‚µ‚ê‚È‚¢‚ÆŒ¾‚Á‚Ä‚¢[r]
-‚½B‚È‚çA‚»‚±‚ğ—â‚â‚·‚à‚Ì‚ª‚ ‚Á‚½•û‚ª‚¢‚¢”¤‚¾B[pcms]
+Shindou-sensei said that she might have a broken rib.[l][er]
+In that case, it would be good to have something to cool it[r]down.[pcms]
 
 *2099|
 [fc]
-‰´‚Í‚à‚¤ˆê“xA•ÛŒ’º‚ÌŠ‚éŠ‚ğ‹™‚Á‚ÄA—âŠ´ƒ^ƒCƒv‚Ì[r]
-¼•z–ò‚ğŒ©‚Â‚¯‚½B[pcms]
+I searched all over the infirmary again and found a cooling[r]type of medicated patch.[pcms]
 
 *2100|
 [fc]
-[ns]‰Á“¡[nse]
-u‚æ‚µA‚±‚ê‚Å‚¢‚¢‚¾‚ëv[pcms]
+[ns]Kato[nse]
+Alright, this should be good.[pcms]
 
 *2101|
 [fc]
-‚»‚ê‚ğ” ‚²‚Æè‚É‚Æ‚Á‚ÄA‰´‚Í•ÛŒ’º‚ğ‚ ‚Æ‚É‚µ‚½B[pcms]
+I took the box in my hand and left the infirmary.[pcms]
 
 ;//blackout
 
@@ -49,6 +48,6 @@
 
 ;;;[sysbt_meswin]
 
-;//[02109]‚Ö
+;//[02109]ã¸
 [jump target=*02109_TOP storage="02109.ks"]
 

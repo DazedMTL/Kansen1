@@ -1,23 +1,23 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//;//¡ËƒuƒƒbƒN0011w‰f‰æŒ¤‹†•”F—D‚ÆålŒö‚Ìo‰ï‚¢F‰ñ‘z2x
-;//BGF—‰È€”õºFƒZƒsƒA
-;//;//“oêl•¨GålŒöE—DE’|“à
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0011ã€æ˜ ç”»ç ”ç©¶éƒ¨ï¼šå„ªã¨ä¸»äººå…¬ã®å‡ºä¼šã„ï¼šå›æƒ³2ã€
+;//BGï¼šç†ç§‘æº–å‚™å®¤ï¼šã‚»ãƒ”ã‚¢
+;//;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *0011_TOP
-;[debug_win]‚È‚¤@0011[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0011 = 1"]
+;[debug_win]ãªã†ã€€0011[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0011 = 1"]
 
-;*SceneSet|w‰f‰æŒ¤‹†•”x
+;*SceneSet|ã€æ˜ ç”»ç ”ç©¶éƒ¨ã€
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 [fadeoutbgm time=500]
-;//;//BG:bg—‰È€”õº@ƒZƒsƒA
+;//;//BG:bgç†ç§‘æº–å‚™å®¤ã€€ã‚»ãƒ”ã‚¢
 
-;«‚Ì‰æ‘œ‚ğƒZƒsƒA‚Å—pˆÓ
+;â†“ã®ç”»åƒã‚’ã‚»ãƒ”ã‚¢ã§ç”¨æ„
 
 [bg storage="bg18a_s"]
 [trans_c cross time=500]
@@ -26,18 +26,18 @@
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v86|
 [fc]
 [vo_ya s="yama0038"]
-[ns]RŠİ[nse]
-u‚ ‚ÁA‚à‚µ‚©‚µ‚Ä“ü•”Šó–]‚Ì‚Ğ‚ÆH@‚ ‚êH@‰Á“¡ŒNHv[pcms]
+[ns]Yamagishi[nse]
+Ah, are you perhaps someone who wants to join the club?[l][er]
+Huh? Kato-kun?[pcms]
 
 *261|
 [fc]
-‰´‚ÍA‚Ù‚ñ‚Ì­‚µ‚ÌŠÔ‚Æ‚Í‚¢‚¦A•Ê‚ÌƒNƒ‰ƒX‚É‚È‚Á‚Ä‚µ[r]
-‚Ü‚Á‚ÄA‰ï‚¤‚±‚Æ‚ª‚È‚­‚È‚Á‚Ä‚¢‚½RŠİ‚³‚ñ‚ÆÄ‰ï‚µ‚½B[pcms]
+I had a chance encounter with Yamagishi-san, whom I hadn't[r]seen since we were in different classes for a short while.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -57,7 +57,7 @@
 
 *262|
 [fc]
-wcc„A‹C‚É‚È‚é’j‚Ìq‚ª‚¢‚é‚Ìccx[pcms]
+I... have a boy I'm interested in...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -72,70 +72,67 @@
 
 *263|
 [fc]
-‰´‚ÍA‚ ‚ÌŒ¾—t‚ªˆø‚Á‚©‚©‚Á‚½‚Ü‚Ü‚¾‚Á‚½B‚»‚Ì‘ÎÛ‚ª[r]
-’N‚È‚Ì‚©AŠm”F‚µ‚½‚¢‹C‚¿‚à‚ ‚Á‚½B[pcms]
+I was still bothered by those words.[l][er]
+I also had a desire to confirm who the subject was.[pcms]
 
 *264|
 [fc]
-‚à‚µA‚»‚ê‚ªŠm”Fo—ˆ‚È‚­‚Ä‚àARŠİ‚³‚ñ‚Æ˜b‚ğ‚·‚éƒ`[r]
-ƒƒƒ“ƒX‚ª‘‚¦‚éB[pcms]
+Even if I can't confirm that, I'll have more chances to talk[r]with Yamagishi-san.[pcms]
 
 *265|
 [fc]
-cc‚æ‚µA‰´‚à‰f‰æŒ¤‹†•”‚É“ü‚ë‚¤B[pcms]
+... Alright, I'll join the Film Research Club too.[pcms]
 
 [ChrSetEx layer=1 chbase="spi_take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std61|
 [fc]
-[ns]’|“à[nse]
-u‚¦H@‚¦‚Á‚ÆA‚±‚¢‚Â‚Íˆáccv[pcms]
+[ns]Takeuchi[nse]
+Eh? Um, this person is different...[pcms]
 
-;//;//SE:S”‰¹
+;//;//SE:å¿ƒæ‹éŸ³
 [se1 storage="se003"]
 
 *266|
 [fc]
-ccccB[r]
-ccB[pcms]
+â€¦â€¦â€¦â€¦ã€‚ â€¦â€¦ã€‚[pcms]
 
 *267|
 [fc]
-[ns]‰Á“¡[nse]
-ucc‰´‚àA“ü•”Šó–]‚¾‚æv[pcms]
+[ns]Kato[nse]
+... I also want to join the club.[pcms]
 
 [ChrSetEx layer=1 chbase="spi_take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="spi_take_a_d_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std62|
 [fc]
-[ns]’|“à[nse]
-u‚¦‚¥‚ÁIHv[pcms]
+[ns]Takeuchi[nse]
+Eh!?[pcms]
 
 [ChrSetEx layer=1 chbase="spi_yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="spi_yuu_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v87|
 [fc]
 [vo_ya s="yama0039"]
-[ns]RŠİ[nse]
-u—Ç‚©‚Á‚½‚ cc„ˆêl‚µ‚©‚¢‚È‚¢‚Ì‚©‚Æv‚Á‚ÄA‚·‚Á[r]
-‚²‚¢•sˆÀ‚¾‚Á‚½‚ñ‚¾B‚æ‚ë‚µ‚­‚ËIv[pcms]
+[ns]Yamagishi[nse]
+Thank goodness... I was really worried that I would be the[r]only one, so I felt really anxious.[l][er]
+Nice to meet you![pcms]
 
 *268|
 [fc]
-‚»‚Ì‚ÌRŠİ‚³‚ñ‚ÌÎŠç‚ÍA–Ú‚ğ•Â‚¶‚ê‚Î•‚‚©‚ñ‚Å‚­‚é[r]
-‚®‚ç‚¢A“ª‚Ì’†‚É‘N‚â‚©‚ÉÄ‚«•t‚¢‚Ä‚¢‚éB[pcms]
+The smile on Yamagishi-san's face at that moment is burned[r]vividly in my mind, so much so that it comes to mind when I[r]close my eyes.[pcms]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 

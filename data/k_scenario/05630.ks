@@ -1,12 +1,12 @@
 
-;//¡ËƒuƒƒbƒN05630wJUDGMENT@DAYx
-;//BG:’n‰ººFÁ“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05630ã€JUDGMENTã€€DAYã€
+;//BG:åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05630_TOP
-;[debug_win]‚È‚¤@05630[debug_win_end]
+;[debug_win]ãªã†ã€€05630[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05630 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05630 = 1"]
 
 [eval exp="f.prologue_route = 0"]
 [eval exp="f.yuu_route1 = 0"]
@@ -19,12 +19,12 @@
 [eval exp="f.hitomi_route4 = 1"]
 [eval exp="f.infection_route = 0"]
 
-;*SceneSet|w‚i‚t‚c‚f‚l‚d‚m‚s@‚c‚`‚xx
+;*SceneSet|ã€ï¼ªï¼µï¼¤ï¼§ï¼­ï¼¥ï¼®ï¼´ã€€ï¼¤ï¼¡ï¼¹ã€
 
-;//flag:“µƒ‹[ƒgƒtƒ[@‚Q‚a@‰æ–Ê@•\¦
-;//flag:“µƒ‹[ƒgƒtƒ[@Start@•\¦
+;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼’ï¼¢ã€€ç”»é¢ã€€è¡¨ç¤º
+;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€Startã€€è¡¨ç¤º
 
-;//ôFBGM010
+;//â™ªï¼šBGM010
 
 [bgm010]
 
@@ -33,7 +33,7 @@
 [bg storage="bg23b"]
 [trans_c cross time=1000]
 
-;//SE:—â‘ ŒÉ‚Ìƒ‚[ƒ^[‰¹
+;//SE:å†·è”µåº«ã®ãƒ¢ãƒ¼ã‚¿ãƒ¼éŸ³
 [se0 storage="se044"]
 
 ;;;[sysbt_meswin]
@@ -41,154 +41,145 @@
 
 *5921|
 [fc]
-[ns]‰Á“¡[nse]
-u‚£ccv[pcms]
+[ns]Kato[nse]
+Uhh...[pcms]
 
 *5922|
 [fc]
-–Ú‚ğŠo‚Ü‚µ‚½‰´‚ÍAü‚è‚Ì”–ˆÃ‚³‚ÉA©•ª‚ª¡‚Ç‚±‚É‚¢[r]
-‚é‚Ì‚©A‚·‚®‚Év‚¢o‚·‚±‚Æ‚ª‚Å‚«‚È‚©‚Á‚½B[pcms]
+As I woke up, surrounded by dimness, I couldn't immediately[r]recall where I was.[pcms]
 
 *5923|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚êcc‚±‚±ccv[pcms]
+[ns]Kato[nse]
+Huh... This place...[pcms]
 
 *v2468|
 [fc]
 [vo_sa s="sae0627"]
-[ns]²”Œ[nse]
-u‚·‚£cc‚·‚£ccv[pcms]
+[ns]Saeki[nse]
+*Suu... suu...[pcms]
 
 *5924|
 [fc]
-[ns]‰Á“¡[nse]
-u²”ŒccHv[pcms]
+[ns]Kato[nse]
+Saeki...?[pcms]
 
 *5925|
 [fc]
-—×‚ÅÃ‚©‚ÉQ‘§‚ğ—§‚Ä‚é²”Œ‚ğŒ©‚ÄA‚æ‚¤‚â‚­‰´‚ÍA©[r]
-•ª‚ª‚Ç‚±‚ÉA‚È‚º‚¢‚é‚Ì‚©‚ğv‚¢o‚µ‚½B[pcms]
+Looking at Saeki, who was quietly breathing next to me, I[r]finally remembered where I was and why I was there.[pcms]
 
 *5926|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤‚©cc‰´A‚ ‚Ì‚Ü‚ÜQ‚¿‚Ü‚Á‚½‚ñ‚¾‚Á‚¯ccv[pcms]
+[ns]Kato[nse]
+I see... Did I fall asleep just like that...[pcms]
 
 *5927|
 [fc]
-‚»‚ê‚É‚µ‚Ä‚àccB‚ ‚Ì²”Œ‚ÆA‚±‚ñ‚È‚±‚Æ‚É‚È‚é‚È‚ñ[r]
-‚Ä‚ÈccB[pcms]
+Even so... To think that Saeki would end up like this...[pcms]
 
 *5928|
 [fc]
-‰®ã‚Å²”Œ‚É”’‚³‚ê‚ÄccBèƒFŒq‚¢‚ÅAŠwZ‚Ì’†•à[r]
-‚¢‚ÄccB[pcms]
+Saeki confessed to me on the rooftop...[l][er]
+We held hands and walked around inside the school...[pcms]
 
 *v2469|
 [fc]
 [vo_sa s="sae0628"]
-[ns]²”Œ[nse]
-u‚ñ‚ñcc‚·‚£ccv[pcms]
+[ns]Saeki[nse]
+Mmm... Suu...[pcms]
 
 *5929|
 [fc]
-[ns]‰Á“¡[nse]
-uƒNƒXccv[pcms]
+[ns]Kato[nse]
+Hehe...[pcms]
 
 *5930|
 [fc]
-²”Œ‚ª‚ ‚ñ‚È‚É•|‚ª‚è‚¾‚Á‚½‚È‚ñ‚Ä‚ÈccB‚»‚¤‚¢‚¦‚ÎA[r]
-ƒVƒ‡ƒ“ƒxƒ“˜R‚ç‚µ‚½‚Æ‚±‚ë‚àŒ©‚¿‚Ü‚Á‚½‚ñ‚¾‚Á‚¯ccB[pcms]
+I can't believe Saeki was so scared...[l][er]
+Come to think of it, I even saw her wet herself...[pcms]
 
 *5931|
 [fc]
-ÅI“I‚É‚ÍƒZƒbƒNƒX‚Ü‚ÅccB[pcms]
+In the end, it led to sex...[pcms]
 
 *5932|
 [fc]
-²”Œ‚ğD‚«‚É‚È‚Á‚ÄAƒZƒbƒNƒX‚Ü‚Å‚·‚é‚È‚ñ‚ÄA[r]
-‚¿‚å‚Á‚Æ‘O‚Ü‚Å–²‚É‚àv‚Á‚Ä‚È‚©‚Á‚½‚Ì‚ÉccB[pcms]
+I never even dreamed that I would fall in love with Saeki[r]and go as far as having sex with her...[pcms]
 
 *5933|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *5934|
 [fc]
-¡‚Ü‚Å‚Ì‚±‚Æ‚ğ‰ü‚ß‚Äv‚¢•Ô‚µ‚Ä‚İ‚½B‚»‚ê‚Í‘S•”A[r]
-Šm‚©‚É‚ ‚Á‚½‚±‚Æ‚ÅAÀÛ‚É—×‚É²”Œ‚ªQ‚Ä‚¢‚é‚Ì‚ÉA[r]
-‰´‚Í‚ ‚Ü‚èŒ»À–¡‚ªŠ´‚¶‚ç‚ê‚È‚¢‚Å‚¢‚½B[pcms]
+I thought back on everything that had happened up until now.[l][er]
+It was all definitely real, and yet, even with Saeki[r]sleeping right next to me, I couldn't quite feel the reality[r]of it.[pcms]
 
 *5935|
 [fc]
-‚±‚êcc–{“–‚Í–²‚È‚ñ‚¶‚á‚È‚¢‚Ì‚©ccH[r]
-ÀÛ‚Ì‰´‚ÍA‚ ‚Ì‚¨‚©‚µ‚È“z‚ç‚Éƒ{ƒRƒ{ƒR‚É‚³‚ê‚ÄA[r]
-•a‰@‚Ìƒxƒbƒh‚Ìã‚É‚¢‚é‚Æ‚©ccB[pcms]
+Is this... Could it all be just a dream...?[l][er]
+In reality, I was beaten up by those weird guys and ended up[r]in a hospital bed...[pcms]
 
 *v2470|
 [fc]
 [vo_sa s="sae0629"]
-[ns]²”Œ[nse]
-u‚·‚£cc‚·‚£ccv[pcms]
+[ns]Saeki[nse]
+Suu... Suu...[pcms]
 
 *5936|
 [fc]
-‚¾‚ªA²”Œ‚Ì–j‚ğ•‚Å‚éè‚É‚ÍA”§‚ÌŠ´G‚à‰·‚©‚³‚àA[r]
-Šm‚©‚É“`‚í‚Á‚Ä‚­‚éB[pcms]
+However, the touch of my hand caressing Saeki's cheek[r]clearly conveys the sensation of her skin and warmth.[pcms]
 
 *5937|
 [fc]
-–²‚¶‚á‚È‚¢ccB[r]
-²”Œ‚Í‚¿‚á‚ñ‚ÆA—×‚É‚¢‚Ä‚­‚ê‚Ä‚éccB[pcms]
+It's not a dream... Saeki is right here, next to me...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2471|
 [fc]
 [vo_sa s="sae0630"]
-[ns]²”Œ[nse]
-u‚ñccv[pcms]
+[ns]Saeki[nse]
+Mmm...[pcms]
 
 *5938|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ AƒSƒƒ“cc‹N‚±‚µ‚¿‚Ü‚Á‚½‚Èccv[pcms]
+[ns]Kato[nse]
+Ah, sorry... I woke you up...[pcms]
 
 *5939|
 [fc]
-–j‚É“–‚Ä‚Ä‚¢‚é‰´‚Ìè‚ÉA©•ª‚Ìè‚ğd‚Ë‚Ä”÷Î‚ñ‚ÅA[r]
-²”Œ‚Íñ‚ğ¬‚³‚­‰¡‚ÉU‚Á‚½B[pcms]
+Saeki smiled and gently shook her head as she placed her[r]hand on top of mine, which was resting against her cheek.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2472|
 [fc]
 [vo_sa s="sae0631"]
-[ns]²”Œ[nse]
-u‚¨‚Í‚æ‚¤‚²‚´‚¢‚Ü‚·ccv[pcms]
+[ns]Saeki[nse]
+Good morning...[pcms]
 
-;//ôFBGM010ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM010ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 [fadeoutbgm time=500]
 
 *5940|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ A‚¨‚Í‚æv[pcms]
+[ns]Kato[nse]
+Ah, good morning.[pcms]
 
 [se0 storage="se024"]
 
 *5941|
 [fc]
-²”Œ‚ÉÎ‚¢‚©‚¯‚½AŠO‚©‚ç‰½‚©‚Ì•¨‰¹‚ª•·‚±‚¦‚Ä‚«‚½B[pcms]
+When I smiled at Saeki, we heard a noise coming from[r]outside.[pcms]
 
-;//ôFBGM003ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM003ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 [bgm003]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
@@ -198,55 +189,50 @@
 
 *5942|
 [fc]
-‘Ì‚ğ‹N‚±‚µA•·‚±‚¦‚Ä‚­‚é‰¹‚ÉW’†‚·‚é‚ÆA‰½l‚©‚Ìl[r]
-ŠÔ‚ªA‘«‚ğˆø‚«‚¸‚é‚æ‚¤‚É‚µ‚Ä”à‚Ìã‚ğ•à‚¢‚Ä‚¢‚é‚æ‚¤[r]
-‚¾‚Æ‚í‚©‚Á‚½B[pcms]
+I sat up and focused on the sound, realizing that several[r]people seemed to be walking above the door, dragging their[r]feet.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2473|
 [fc]
 [vo_sa s="sae0632"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñccv[pcms]
+[ns]Saeki[nse]
+Kato-san...[pcms]
 
 *5943|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *5944|
 [fc]
-‚ ‚Ì‚¨‚©‚µ‚È“z‚ç‚¾‚ë‚¤‚ÈccB‚Ü‚³‚©A‰´’B‚ÌL‚¢‚ğ[r]
-šk‚¬‚Â‚¯‚½‚Á‚Ä‚Ì‚©ccH[pcms]
+Those weirdos again, huh... Could it be that they've caught[r]wind of our scent...?[pcms]
 
 *5945|
 [fc]
-Šç‚ğ‚µ‚©‚ß‚Ä”à‚ğŒ©ã‚°‚Ä‚¢‚½‰´‚ÉA²”Œ‚ª‘Ì‚ğ‹N‚±‚µ[r]
-‚ÄŠñ‚è“Y‚Á‚Ä‚«‚½B‚»‚Ì²”Œ‚Ì‘Ì‚ğA‰´‚Í‚µ‚Á‚©‚è‚Æ•ø[r]
-‚«‚µ‚ß‚éB[pcms]
+Saeki, who had been frowning and looking up at the door, sat[r]up and snuggled close to me.[l][er]
+I held Saeki's body tightly in my arms.[pcms]
 
 *5946|
 [fc]
-[ns]‰Á“¡[nse]
-u‘åä•vBŒ®‚à•Â‚ß‚Ä‚ ‚év[pcms]
+[ns]Kato[nse]
+It's okay. The door is locked too.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
-;—§‚¿
+;ç«‹ã¡
 
 *v2474|
 [fc]
 [vo_sa s="sae0633"]
-[ns]²”Œ[nse]
-uccâ‘Î‚ÉA—£‚³‚È‚¢‚Å‚­‚¾‚³‚¢‚Ëccv[pcms]
+[ns]Saeki[nse]
+... Please, don't let go of me...[pcms]
 
 *5947|
 [fc]
-•sˆÀ‚°‚ÈŠç‚ÅŒ©‚Â‚ß‚Ä‚­‚é²”Œ‚ÉA‰´‚Í”÷Î‚ñ‚Å‚¤‚È‚¸[r]
-‚«A•ø‚«‚µ‚ß‚é˜r‚É—Í‚ğ‚ß‚½B[pcms]
+I smiled and nodded at Saeki, who was looking at me with an[r]anxious expression, and I tightened my arms around her.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -257,5 +243,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05640]‚Ö
+;//[05640]ã¸
 [jump target=*05640_TOP storage="05640.ks"]

@@ -1,23 +1,23 @@
 
-;//¡ËƒuƒƒbƒN04028wˆÙlW’cx
-;//BG:“Áê‹³º˜L‰ºF’‹i’©Œ“—pj
-;//“oêl•¨GƒŠƒTE“µEƒ]ƒ“ƒr
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04028ã€ç•°äººé›†å›£ã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ãƒªã‚µãƒ»ç³ãƒ»ã‚¾ãƒ³ãƒ“
 
 
 *04028_H_TOP
-;[debug_win]‚È‚¤@04028_H[debug_win_end]
+;[debug_win]ãªã†ã€€04028_H[debug_win_end]
 [eval exp="sf.SRP19 = 1"][if exp="tf.scene_mode == 0"][jump target=*04028_H][endif]
 ;;[winset]
 [bgm008]
 [jump target=*scene_start]
 
 *04028_H
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04028 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04028 = 1"]
 
-;*SceneSet|wˆÙlW’cx
+;*SceneSet|ã€ç•°äººé›†å›£ã€
 
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 [bgm008]
 
 ;//BG:bg004a
@@ -31,48 +31,45 @@
 *v1706|
 [fc]
 [vo_ri s="risa0381"]
-[ns]V“¹[nse]
-u‚ ‚Áccv[pcms]
+[ns]Shindou[nse]
+Ah...[pcms]
 
 *4148|
 [fc]
-‚½‚¾‚È‚ç‚È‚¢•µˆÍ‹C‚Ì’jq¶“k‚©‚ç“¦‚°‚æ‚¤‚ÆAæù‚ğ•Ô[r]
-‚µ‚Ä‘–‚èo‚»‚¤‚Æ‚µ‚½„‚ÍA”¯‚ğ’Í‚Ü‚êAˆø‚«–ß‚³‚ê‚Ä[r]
-‚µ‚Ü‚Á‚½B[pcms]
+I tried to escape from the male student with an unsettling[r]atmosphere by turning on my heels and running away, but my[r]hair was grabbed and I was pulled back.[pcms]
 
 *v1707|
 [fc]
 [vo_ri s="risa0382"]
-[ns]V“¹[nse]
-u‚â‚ß‚ÄI@—£‚µ‚È‚³‚¢‚ÁIIv[pcms]
+[ns]Shindou[nse]
+Stop! Let go!![pcms]
 
 *4149|
 [fc]
-’ïR‚à‹•‚µ‚­AŒQ‚ª‚Á‚Ä‚­‚é’jq¶“k‚ÉA„‚Í’…‚Ä‚¢‚é[r]
-•¨‚ğ”j‚èæ‚ç‚ê‚Ä‚µ‚Ü‚Á‚½B[pcms]
+I struggled in vain against the approaching male students,[r]and they tore off my clothes.[pcms]
 
 *v1708|
 [fc]
 [vo_ri s="risa0383"]
-[ns]V“¹[nse]
-u‚¢‚â‚Ÿ‚ÁIIv[pcms]
+[ns]Shindou[nse]
+Nooo!![pcms]
 
 *4150|
 [fc]
-[ns]’jq¶“k‚n[nse]
-u‚ĞA‚Ğ‚Ğ‚Ácc‚¦‚ëA‚¢A‚©A‚ç‚¾A‚µ‚Ä‚éA‚Ècc[r]
-‚±A‚Ì‚¨‚ñA‚È‚Ÿccv[pcms]
+[ns]Male Student O[nse]
+H-Hihi... You're... doing something erotic, aren't you...[l][er]
+with this sound...[pcms]
 
 *4151|
 [fc]
-[ns]’jq¶“k‚m[nse]
-u‚ ‚Î‚êA‚éA‚ñ‚¶‚áA‚ËA‚¥‚æccv[pcms]
+[ns]Male Student N[nse]
+Don't resist, it's useless...[pcms]
 
 *v1709|
 [fc]
 [vo_ri s="risa0384"]
-[ns]V“¹[nse]
-u‚â‚ß‚³‚³‚¢II@‹M’j’BccI@‚¢‚â‚Ÿ‚ ‚ Iv[pcms]
+[ns]Shindou[nse]
+Stop it!! You guys... Nooo!![pcms]
 
 ;//H_CG
 
@@ -88,213 +85,200 @@
 
 *4152|
 [fc]
-[ns]’jq¶“k‚m[nse]
-u‚µ‚á‚ÔA‚êcc‚¨A‚ç‚Ÿccv[pcms]
+[ns]Male Student N[nse]
+Suck... me...[pcms]
 
 *v1710|
 [fc]
 [vo_ri s="risa0385"]
-[ns]V“¹[nse]
-u‚à‚²‚ÁIIv[pcms]
+[ns]Shindou[nse]
+Mogo!![pcms]
 
 *4153|
 [fc]
-’jq¶“k‚Í‚¢‚Â‚ÌŠÔ‚É‚©‹Ç•”‚ğ˜I‚í‚É‚µ‚Ä‚¢‚ÄA[r]
-„‚ÌŒû‚É–³—–î—‚Ë‚¶‚ñ‚ÅA[r]
-Œû“à‚ğ‰•œ‚³‚¹n‚ß‚½B[pcms]
+The male students had somehow exposed their genitals, and[r]forcibly shoved them into my mouth, starting to move back[r]and forth inside my mouth.[pcms]
 
 *4154|
 [fc]
-ö‚ê‚½‹Ç•”‚ÌL‚¢‚Ì’†AA‚Ì‰œ‚Ü‚Å”Æ‚³‚êA[r]
-„‚Í©•ª‚ÌŒÒŠÔ‚ª¼‚Á‚Ä‚­‚é‚Ì‚ğŠ´‚¶‚Ä‚¢‚½B[pcms]
+In the midst of the smell of sweaty genitals, I was violated[r]deep in my throat, and I could feel my own crotch becoming[r]wet.[pcms]
 
 *v1711|
 [fc]
 [vo_ri s="risa0386"]
-[ns]V“¹[nse]
-u‚ñ‚à‚ÁI@‚ñ‚ÁA‚®A‚ñ‚Ô‚ÁIv[pcms]
+[ns]Shindou[nse]
+Mmmph! Mm, guh, nggh![pcms]
 
 *4155|
 [fc]
-[ns]’jq¶“k‚m[nse]
-u‚¤‚Ü‚»A‚¤A‚ÉA‚µ‚á‚ÔA‚é‚È‚Ÿcc[r]
-‚±A‚ÌA‚¨‚ñA‚È‚Ÿccv[pcms]
+[ns]Male Student N[nse]
+You're good at sucking... this sound...[pcms]
 
 *4156|
 [fc]
-[ns]’jq¶“k‚o[nse]
-u‚±A‚ÌA‚¨‚ñA‚Ècc‚¿‚¿‚ÅA‚¯‚¥A‚Ècc[r]
-‚½‚Ü‚ñA‚Ë‚¥ccv[pcms]
+[ns]Male Student P[nse]
+Th-this... with your mouth... feels so good...[pcms]
 
 *v1712|
 [fc]
 [vo_ri s="risa0387"]
-[ns]V“¹[nse]
-u‚ñ‚£‚ÁI@‚ñ‚ÁA‚Ş‚®‚ÁI@‚À‚ã‚Õ‚ÁA‚®‚¿‚ãccv[pcms]
+[ns]Shindou[nse]
+Nngh! Nn, mmmph! *sucking sound*, *wet sound*...[pcms]
 
 *4157|
 [fc]
-[ns]’jq¶“k‚p[nse]
-u‚Ó‚Æ‚àA‚àcc‚âA‚ç‚¯A‚¥`ccv[pcms]
+[ns]Male Student Q[nse]
+Fu-to-mo, mo... ya, ra-ke, e~...[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
 
 [se0 storage="se059" loop=true]
 
 *4158|
 [fc]
-–³‘¢ì‚É‹¹‚ğˆ¬‚ç‚êAˆø‚Á’£‚ç‚êA[r]
-‘Ú‚É‹Ç•”‚ğC‚è‚Â‚¯‚ç‚êccB[pcms]
+My breasts were casually grabbed, pulled, and my genitals[r]were rubbed against my thighs...[pcms]
 
 *4159|
 [fc]
-—^‚¦‚ç‚ê‚é—lX‚ÈhŒƒ‚ÆŠ´G‚ÉA[r]
-„‚ÌŒÒŠÔ‚Í‚³‚ç‚É‘Ì‰t‚ğˆì‚ê‚³‚¹‚ÄA[r]
-‰º’…‚Ü‚Å”G‚ê‚Ä‚¢‚é‚Ì‚ª©•ª‚Å‚à‚í‚©‚é’ö‚¾‚Á‚½B[pcms]
+My crotch was overflowing with even more fluids, and I could[r]tell that my underwear was soaked from the various stimuli[r]and sensations I was given.[pcms]
 
 *v1713|
 [fc]
 [vo_ri s="risa0388"]
-[ns]V“¹[nse]
-u‚ñ‚ÁI@‚¶‚ã‚ÁA‚¶‚ã‚Õ‚Ácc‚ñ‚®‚ÁA‚ñ‚§ccv[pcms]
+[ns]Shindou[nse]
+Ngh! Juu, juppu... nggu, ngho...[pcms]
 
 *4160|
 [fc]
-’jq¶“k‚ÌŠÔ‚©‚çA[r]
-²”Œ‚³‚ñ‚ª„‚ğŒ©‰º‚ë‚µ‚Ä‚¢‚é‚Ì‚ªŒ©‚¦‚éB[pcms]
+I can see Saeki-san looking down at me from among the male[r]students.[pcms]
 
 *4161|
 [fc]
-‰½‚ÌŠ´î‚à‚È‚¢AƒKƒ‰ƒX‹Ê‚Ì—l‚ÈccB[r]
-„‚ğ•¨‚Æ‚µ‚©Œ©‚Ä‚¢‚È‚¢A‚»‚ñ‚È–ÚB[pcms]
+A gaze devoid of any emotion, like a glass marble...[l][er]
+They see me only as an object, such eyes.[pcms]
 
 *v1714|
 [fc]
 [vo_ri s="risa0389"]
-[ns]V“¹[nse]
-u‚ñ‚à‚ÁA‚Ş‚®cc‚ñ‚ÁA‚À‚ã‚ÕA‚ñ‚À‚ã‚Ácc‚ñ‚ÁI[r]
-‚ñ‚Ş‚£‚ÁIv[pcms]
+[ns]Shindou[nse]
+Nngh... mmmph... ngh... *sucking sound*...[l][er]
+ngh! Mmm...[pcms]
 
 *4162|
 [fc]
-„‚Í²”Œ‚³‚ñ‚Ì‚»‚Ì–Ú‚ÉA”w‹Ø‚Éáƒ‚ê‚ª‘–‚Á‚½B[r]
-‚³‚ç‚È‚éæøçW‚ğ‹‚ß‚éáƒ‚ê‚ªB[pcms]
+I felt a shiver run down my spine as I looked into Saeki-[r]san's eyes.[l][er]
+A shiver that yearned for further violation.[pcms]
 
 *4163|
 [fc]
-„cc¶“k‚ÉŒ©‚ç‚ê‚ÄA‹»•±‚µ‚Ä‚éccB[pcms]
+I... I'm being watched by the students, and it's turning me[r]on...[pcms]
 
 *4164|
 [fc]
-©•ª‚Å‚»‚¤”F‚ß‚é‚±‚Æ‚ÅA[r]
-„‚Ì“ª‚Í‰õŠy‚ğ‹‚ß‚é‚æ‚¤‚ÉØ‚è‘Ö‚í‚Á‚Ä‚µ‚Ü‚Á‚½B[pcms]
+By acknowledging it myself, my mind has switched to seeking[r]pleasure.[pcms]
 
 *v1715|
 [fc]
 [vo_ri s="risa0390"]
-[ns]V“¹[nse]
-u‚ñ‚ÓA‚ñ‚Ş‚Ácc‚ñA‚¶‚ã‚ÁA‚¶‚ã‚Õ‚£cc[r]
-‚¿‚ã‚ÕA‚¿‚ã‚Ú‚Ácc‚¿‚á‚Õ‚ÁA‚ñ‚Ó‚£ccv[pcms]
+[ns]Shindou[nse]
+Nfu, nmu... n, juppu, jupuu...[l][er]
+chupu, chubo... chappu, nfuu...[pcms]
 
 *4165|
 [fc]
-[ns]’jq¶“k‚m[nse]
-u‚¤A‚Í‚Ÿ`cc[r]
-‚±‚¢A‚ÂA‚µ‚½A‚ÂA‚©‚¢A‚Í‚¶‚ßA‚½‚¼ccv[pcms]
+[ns]Male Student N[nse]
+Ugh, haa~... Here, below, it's starting, right?[pcms]
 
 *4166|
 [fc]
-[ns]’jq¶“k‚o[nse]
-u‚¿‚­A‚ÑA‚©‚½A‚­‚È‚Á‚ÄA‚«A‚½‚Ÿ`cc[r]
-‚©‚ñA‚¶‚ÄA‚éA‚ºcc[r]
-‚±A‚Ì‚¨‚ñA‚ÈA‚¢‚ñ‚çA‚ñ‚¾‚Ÿccv[pcms]
+[ns]Male Student P[nse]
+It's getting hard and stiff...[l][er]
+I can feel it... This sound, it's so irresistible...[pcms]
 
 *v1716|
 [fc]
 [vo_ri s="risa0391"]
-[ns]V“¹[nse]
-u‚ñ‚£‚ÁI@‚ñ‚ÁA‚ñ‚à‚ÁI@‚ñ‚®A‚ñ‚Ş‚£ccv[pcms]
+[ns]Shindou[nse]
+Nngh! Nn, nmo! Ngu, nmuu...[pcms]
 
 *4167|
 [fc]
-‘Ê–Ú‚æcc¶“k‚Ì‘O‚ÅAŠ´‚¶‚Ä‚¢‚ép‚ğŒ©‚¹‚Ä‚ÍccB[r]
-‚ ‚Ÿcc‘Ì‚ªáu‚­ccá‚¢’j‚Ìq‚É—–\‚É‚³‚ê‚Äcc[r]
-ƒAƒ\ƒR‚Ì‰œ‚ªáu‚­ccB[pcms]
+No... I can't let them see me like this, feeling pleasure in[r]front of the students...[l][er]
+Ah... My body is throbbing... Being roughed up by young[r]boys...[l][er]
+My deepest parts are throbbing...[pcms]
 
 *v1717|
 [fc]
 [vo_ri s="risa0392"]
-[ns]V“¹[nse]
-u‚ñ‚Ó‚£cc‚ñ‚ÁA‚À‚ã‚ÁA‚À‚ã‚Õ‚£‚Ácc‚ñ‚¶‚ã‚ÁA[r]
-‚¿‚á‚ÕA‚Ô‚¿‚ã‚Áccv[pcms]
+[ns]Shindou[nse]
+Nfu~... Nn, jyuu... jyupuu~...[l][er]
+njuu, chappu, buchuu~...[pcms]
 
 *v1718|
 [fc]
 [vo_sa s="sae0270"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *4168|
 [fc]
-²”Œ‚³‚ñ‚Í‘Š•Ï‚í‚ç‚¸Š´î‚Ì‚È‚¢–Ú‚ÅA[r]
-„‚ğ—â‚½‚­Œ©‰º‚ë‚µ‘±‚¯‚Ä‚¢‚½B[pcms]
+Saeki-san continued to look down on me coldly with her[r]emotionless eyes, as usual.[pcms]
 
 *4169|
 [fc]
-Œ©‚ç‚ê‚½‚­‚È‚¢cc‚¨Šè‚¢AŒ©‚È‚¢‚ÅccB[r]
-‚ ‚Ÿcc‚Å‚àcc’N‚©‚ÉŒ©‚ç‚ê‚È‚ª‚çA[r]
-—–\‚É”Æ‚³‚ê‚é‚Ìcc¦‚­AŠ´‚¶‚éccI[pcms]
+I don't want to be seen... Please, don't look...[l][er]
+Ah... But... Being violated roughly while someone watches...[l][er]
+It feels so good...![pcms]
 
 *v1719|
 [fc]
 [vo_ri s="risa0393"]
-[ns]V“¹[nse]
-u‚À‚ã‚Õ‚ÁA‚ñ‚ÁI@‚¶‚ã‚Õ‚ÁA‚ñ‚§A‚ñ‚Ô‚£I[r]
-‚ñA‚ñ‚Ş‚£I@‚¶‚ã‚Ô‚ÁA‚¶‚ã‚é‚£ccv[pcms]
+[ns]Shindou[nse]
+Jyupu, n! Jupu, nno, nbuu! N, nmuu![l][er]
+Jyubu, jyuruu...[pcms]
 
 *4170|
 [fc]
-[ns]’jq¶“k‚n[nse]
-u‚¨A‚êB‚àcc‚³‚í‚éccv[pcms]
+[ns]Male Student O[nse]
+Oh, me... touch...[pcms]
 
 *v1720|
 [fc]
 [vo_ri s="risa0394"]
-[ns]V“¹[nse]
-u‚ñ‚Ácc‚ñ‚Ÿ‚ ‚ ccA‚¶‚ã‚Ô‚ÁA‚¶‚ã‚é‚£cc[r]
-‚ñ‚Í‚Ÿ‚ ccv[pcms]
+[ns]Shindou[nse]
+Nn... Naaa... Jyubu, jyuruu...[l][er]
+Nhaaa...[pcms]
 
 *4171|
 [fc]
-g‘Ì’†cc‹³‚¦q’B‚É”Æ‚³‚êccB[r]
-Œ©“n‚·ŒÀ‚ècc’j’B‚ÉˆÍ‚Ü‚ê‚ÄccB[pcms]
+My whole body... violated by my students...[l][er]
+Surrounded by men as far as the eye can see...[pcms]
 
 *4172|
 [fc]
-cc‚»‚ê‚ÉccB[r]
-cclŒ`ccBŒŒ‚Ì—¬‚ê‚élŒ`‚ÉŒ©‚Â‚ß‚ç‚ê‚ÄccB[pcms]
+... And... a doll... Staring at a doll that bleeds...[pcms]
 
 *v1721|
 [fc]
 [vo_ri s="risa0395"]
-[ns]V“¹[nse]
-u‚ñ‚Ô‚Ÿ‚Ÿccƒnƒ@cc‚ñ‚ñcc‚ñ‚Ÿ‚ ‚ ‚ ccv[pcms]
+[ns]Shindou[nse]
+Nbuuaa... Haa... Nnn... Naaaahhhh...[pcms]
 
 *4173|
 [fc]
-[ns]’jq¶“k‚p[nse]
-u‚¤A‚Í‚Ÿ`cc‚Å‚éA‚£`ccv[pcms]
+[ns]Male Student Q[nse]
+Ugh, haa~... It's coming out, u~...[pcms]
 
 *4174|
 [fc]
-[ns]’jq¶“k‚m[nse]
-u‚¾A‚·‚¼cc‚º‚ñA‚ÔA‚Ì‚ßA‚æccv[pcms]
+[ns]Male Student N[nse]
+D... su... zo... zen... bu... nome...[l][er]
+yo...[pcms]
 
 *v1722|
 [fc]
 [vo_ri s="risa0396"]
-[ns]V“¹[nse]
-u‚ñ‚à‚§‚ÁI@‚ñ‚§‚ÁA‚ñ‚Ô‚ÁI@‚ñ‚¤‚£‚ÁIv[pcms]
+[ns]Shindou[nse]
+Nmooo! Nnoo, nbu! Nuuhh![pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -319,140 +303,127 @@
 
 *4175|
 [fc]
-A‚Ì‰œ[‚­‚ÅB[r]
-‹¹‚É‚ß‚è‚Ü‚¹‚ÄB[r]
-“àŒÒ‘S‘Ì‚ÉB[pcms]
+Deep in my throat. Pressed against my chest.[l][er]
+Throughout my entire crotch.[pcms]
 
 *4176|
 [fc]
-‘Ì‚ÌŠ‚éŠ‚ÉA’jq¶“k‚Ì”Z‚­‚ÄL‚¢‚à‹­‚­A[r]
-‚»‚µ‚Ä”M‚¢¸‰t‚ğ“f‚«‚©‚¯‚ç‚ê‚éB[pcms]
+I am sprayed with thick, smelly, and hot semen from male[r]students all over my body.[pcms]
 
 *4177|
 [fc]
-[ns]’jq¶“k‚o[nse]
-u‚¤‚£```ccv[pcms]
+[ns]Male Student P[nse]
+Uuu~...[pcms]
 
 *4178|
 [fc]
-[ns]’jq¶“k‚m[nse]
-u‚ÌA‚ßcc‚±A‚Ú‚·‚ñA‚¶‚áA‚ËA‚¥‚¼ccv[pcms]
+[ns]Male Student N[nse]
+N... me... ko, bosun, ja, ne, ezo...[pcms]
 
 *4179|
 [fc]
-’jq¶“k‚É—‚Ñ‚¹‚ç‚ê‚½¸‰t‚ªA[r]
-”§‚Ìã‚ğ—¬‚ê—‚¿‚Ä‚¢‚­‚Ì‚ğ‘Sg‚ÅŠ´‚¶‚È‚ª‚çA[r]
-Œû“à‚Éo‚³‚ê‚½‚à‚Ì‚ğˆù‚İ‰º‚µ‚Ä‚¢‚­B[pcms]
+I feel the semen that was poured onto me by male students[r]flowing down my skin, and I drink down what was ejaculated[r]into my mouth, feeling it with my whole body.[pcms]
 
 *v1723|
 [fc]
 [vo_ri s="risa0397"]
-[ns]V“¹[nse]
-u‚Õ‚Ÿ‚ÁccIv[pcms]
+[ns]Shindou[nse]
+Pah...![pcms]
 
 *v1724|
 [fc]
 [vo_ri s="risa0398"]
-[ns]V“¹[nse]
-u‚ñ‚Ô‚£‚ÁI@‚ñ‚ÁA‚ñ‚®A‚ñ‚ñ‚ÁccIv[pcms]
+[ns]Shindou[nse]
+Nbuuaa... Nn, ngu, nnngg...![pcms]
 
 *4180|
 [fc]
-‰½l‚à‚Ì’jq¶“k‚ÉæøçW‚³‚ê‚½‚¢B[r]
-‚»‚ÌŠè–]‚ª“Ë‘RŠ‚¦‚ç‚ê‚½‚¹‚¢‚ÅA„‚Í¡‚ªŒ»À‚È‚Ì‚©[r]
-‚»‚¤‚Å‚È‚¢‚Ì‚©A‚í‚©‚ç‚È‚­‚È‚Á‚Ä‚¢‚½B[pcms]
+I want to be violated by multiple male students.[l][er]
+Because that desire was suddenly granted, I had lost track[r]of whether the current situation was reality or not.[pcms]
 
 *v1725|
 [fc]
 [vo_ri s="risa0399"]
-[ns]V“¹[nse]
-u‚ñ‚Ÿ‚ ‚ ‚ ccII@‚Í‚Ÿ‚ ‚ ccI@‚©‚çA‚¾cc[r]
-‚¶‚ã‚¤A‚ÉccII@‚¤‚Ÿ‚ ‚ ccIIv[pcms]
+[ns]Shindou[nse]
+Naaaahhhh...!! Haaaahhh...! Inside...[l][er]
+deep... twelve...!! Uaaahhhh...!![pcms]
 
 *4181|
 [fc]
-‚Å‚àA‘Sg‚Å‰õŠ´‚Æ¸‰t‚ğ–¡‚í‚¦‚é‚Ì‚È‚çA–²‚Å‚àŒ»À[r]
-‚Å‚à‚Ç‚¿‚ç‚Å‚à‚¢‚¢‚ÆA„‚Íl‚¦‚Ä‚¢‚½B[pcms]
+But if I can experience pleasure and semen throughout my[r]whole body, whether it's in a dream or reality, I thought it[r]didn't matter.[pcms]
 
 *v1726|
 [fc]
 [vo_ri s="risa0400"]
-[ns]V“¹[nse]
-u‚ñ‚ÍA‚Ÿcc‚à‚Á‚ÆA‚¹‚¢‚¦‚«‚Ì‚Ü‚¹‚Ä‚¥ccv[pcms]
+[ns]Shindou[nse]
+Nhaa... ah... more, I want to be drenched in semen...[pcms]
 
 *v1727|
 [fc]
 [vo_sa s="sae0271"]
-[ns]²”Œ[nse]
-uccc‚ßcv[pcms]
+[ns]Saeki[nse]
+... me...[pcms]
 
 *4182|
 [fc]
-Œ¢‚Ì—l‚Éã‚ğo‚µA’jq¶“k‚Ì¸‰t‚ğ‹‚ß‚é„‚ÉA[r]
-²”Œ‚³‚ñ‚ª•à‚İŠñ‚Á‚Ä‚­‚é‚Ì‚ªŒ©‚¦‚½B[pcms]
+I could see Saeki-san approaching me as I stuck out my[r]tongue like a dog, craving the semen of male students.[pcms]
 
 *v1728|
 [fc]
 [vo_ri s="risa0401"]
-[ns]V“¹[nse]
-u‚ cc‚ ‚Ÿccv[pcms]
+[ns]Shindou[nse]
+Ah... ah...[pcms]
 
 *4183|
 [fc]
-‘f“GccB[r]
-”Æ‚³‚ê‚é–‚ğ–]‚ñ‚Å‚¢‚éó‚Ü‚µ‚¢„‚ğA[r]
-‚Ü‚é‚Å’å±‚ğŒ©‚é‚æ‚¤‚È–Ú‚ÅccB[pcms]
+How wonderful... With eyes that seemed to look at me like a[r]despicable creature, someone who desires to be violated...[pcms]
 
 *v1729|
 [fc]
 [vo_ri s="risa0402"]
-[ns]V“¹[nse]
-u‚Ó‚Ÿcc‚ ‚ ‚ ccII@‚¤‚Ÿ‚ ‚ ‚ cccIIv[pcms]
+[ns]Shindou[nse]
+Faa... Aaahhh...!! Uaaaahhhh...!![pcms]
 
 *4184|
 [fc]
-²”Œ‚³‚ñ‚Ì‚»‚Ì–Ú‚ÉŒ©‚Â‚ß‚ç‚ê‚ÄA[r]
-„‚Ì‘Ì‚Í‚Ü‚½áƒ‚ê‚É–‚½‚³‚êA‘}“ü‚³‚ê‚Ä‚à‚¢‚È‚¢‚Ì‚ÉA[r]
-‚‚Ü‚Á‚Ä‚­‚éB[pcms]
+As I was stared at by Saeki-san with those eyes, my body was[r]once again filled with numbness, and even though I hadn't[r]been penetrated, I could feel myself getting more aroused.[pcms]
 
 *v1730|
 [fc]
 [vo_sa s="sae0272"]
-[ns]²”Œ[nse]
-uccƒNƒYcc—cc‚ßccv[pcms]
+[ns]Saeki[nse]
+... Scum... woman... you...[pcms]
 
 *4185|
 [fc]
-’jq¶“k‚ÌŠÔ‚ğŠ„‚Á‚ÄA–Ú‚Ì‘O‚É—§‚Á‚½²”Œ‚³‚ñ‚ÍA[r]
-ƒKƒ‰ƒX‹Ê‚Ì—l‚È–Ú‚Å„‚ğŒ©‰º‚ë‚µA„‚ğ”l‚éB[pcms]
+Saeki-san, who stood in front of me, pushing through the[r]male students, looked down at me with eyes like glass beads[r]and berated me.[pcms]
 
 *v1731|
 [fc]
 [vo_ri s="risa0403"]
-[ns]V“¹[nse]
-u‚Ÿ‚ cc‚Ÿ‚ ‚ ‚ ‚ ccv[pcms]
+[ns]Shindou[nse]
+Ahh... aahhhh...[pcms]
 
 *4186|
 [fc]
-‘Sg‚ªáƒ‚ê‚Å–‚½‚³‚ê‚Ä‚¢‚Á‚ÄA[r]
-‹ŠE‚ª’[‚Ì•û‚©‚ç”’‚­•Ï‚í‚Á‚Ä‚¢‚­B[pcms]
+My whole body was filled with numbness, and my vision[r]gradually turned white from the edges.[pcms]
 
 *v1732|
 [fc]
 [vo_ri s="risa0404"]
-[ns]V“¹[nse]
-uƒnƒ@ƒbccƒnƒ@ƒbccIIv[pcms]
+[ns]Shindou[nse]
+Haa... haa...!![pcms]
 
 *4187|
 [fc]
-‚ cc‚¢‚­ccI[r]
-Œ©‚Â‚ß‚ç‚ê‚é‚¾‚¯‚Åcc‚¢‚Á‚¿‚á‚¤cc‚ÁII[pcms]
+Ah... I'm... going...! Just being stared at...[l][er]
+makes me... cum...!![pcms]
 
 *v1733|
 [fc]
 [vo_ri s="risa0405"]
-[ns]V“¹[nse]
-u‚ÍA‚Ğ‚¢‚¡cc‚ÁIIv[pcms]
+[ns]Shindou[nse]
+Haa, hii...!![pcms]
 
 [flash_wh]
 
@@ -462,21 +433,20 @@
 *v1734|
 [fc]
 [vo_ri s="risa0406"]
-[ns]V“¹[nse]
-uƒCƒNccƒCƒN‚£‚£‚£‚£‚¤‚¤‚¤IIv[pcms]
+[ns]Shindou[nse]
+I'm cumming... I'm cummiiiiing!![pcms]
 
 [bg storage="effect_white"][trans_c cross time=500]
 
 *4188|
 [fc]
-â’¸‚É’B‚µ‚Ä‚µ‚Ü‚Á‚½„‚Ì‹ŠE‚ÍA[r]
-Š®‘S‚É”’‚­‚È‚Á‚ÄAü‚è‚Ì‰¹‚à‰“‚­‚È‚Á‚Ä‚¢‚Á‚½B[pcms]
+My vision, which had reached its climax, completely turned[r]white, and the surrounding sounds became distant.[pcms]
 
 *v1735|
 [fc]
 [vo_ri s="risa0407"]
-[ns]V“¹[nse]
-u‚¤A‚Ÿccv[pcms]
+[ns]Shindou[nse]
+Ugh, ah...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -489,19 +459,19 @@
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;//‚±‚±‚Ü‚Å–{•Ò
+;//ã“ã“ã¾ã§æœ¬ç·¨
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
-;•s—v[eval exp="="sf.g_scn19 = 1"]
+;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
+;ä¸è¦[eval exp="="sf.g_scn19 = 1"]
 
-;//ƒEƒBƒ“ƒhƒEÁ‹
+;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
@@ -512,15 +482,15 @@
 
 ;;;[sysbt_meswin]
 
-;//•‚ÉƒtƒF[ƒh
+;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 
-;//¦‘I‘ğˆiHj©‘I‘ğˆ‚É‚·‚é‚©‚Ç‚¤‚©•Û—¯
-;//E;//[04018]‚Ö
-;//E;//[04022]‚Ö
+;//â€»é¸æŠè‚¢ï¼ˆï¼Ÿï¼‰â†é¸æŠè‚¢ã«ã™ã‚‹ã‹ã©ã†ã‹ä¿ç•™
+;//ãƒ»;//[04018]ã¸
+;//ãƒ»;//[04022]ã¸
 
 [bgm007]
 [bg storage="bg13a"]

@@ -1,26 +1,26 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN05530w“¦‘–‚Qx
-;//;//BG:“Áê‹³º˜L‰ºF–éGÁ“”
-;//“oêl•¨GålŒöE“µEƒ]ƒ“ƒr
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05530ã€é€ƒèµ°ï¼’ã€
+;//;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼›æ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»ã‚¾ãƒ³ãƒ“
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *05530_TOP
-;[debug_win]‚È‚¤@05530[debug_win_end]
-;*SceneSet|w“¦‘–‚Qx
+;[debug_win]ãªã†ã€€05530[debug_win_end]
+;*SceneSet|ã€é€ƒèµ°ï¼’ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05530 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05530 = 1"]
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 [bgm008]
 
 ;//;//BG:bg08a
 [bg storage="bg08a"]
 [trans_c cross time=500]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 
 [se0 storage="se005"]
 
@@ -30,74 +30,69 @@
 
 *5670|
 [fc]
-ˆêŠK‚Ö‰º‚è‚Ä‚­‚éÅ’†A‰´‚Íˆê‚©”ª‚©AR‚ğ‰º‚è‚ÄŠX‚Ö[r]
-“¦‚°‚æ‚¤‚Æl‚¦‚Ä‚¢‚½BŠX’†‚È‚ç‚±‚±‚Æˆá‚Á‚ÄA‚Ü‚Æ‚à[r]
-‚Èl‚ª‚Ü‚¾‚½‚­‚³‚ñc‚Á‚Ä‚é”¤‚¾ccB[pcms]
+As I was descending to the first floor, I was considering[r]taking a gamble and escaping to the town.[l][er]
+Unlike here, there should still be plenty of decent people[r]in the city...[pcms]
 
 *5671|
 [fc]
-[ns]‰Á“¡[nse]
-u‚±‚±‚ğo‚ÄAŠX’†‚É“¦‚°‚æ‚¤BŒx@‚©‚Ç‚Á‚©‚É“¦‚°[r]
-‚ß‚ÎA‚©‚­‚Ü‚Á‚Ä‚­‚ê‚é‚©‚à‚µ‚ê‚È‚¢v[pcms]
+[ns]Kato[nse]
+Let's leave this place and escape to the town.[l][er]
+If we hide somewhere like the police station, they might[r]shelter us.[pcms]
 
 *5672|
 [fc]
-Œã‚ë‚ğ‘–‚é²”Œ‚ğU‚è•Ô‚Á‚ÄA©•ª‚Ì’ñˆÄ‚É‚¤‚È‚¸‚¢‚Ä[r]
-‚­‚ê‚½‚Ì‚ğŒ©‚ÄA‰´‚ÍEˆõŒºŠÖ‚Ö‚Æ‘–‚Á‚½B[pcms]
+I looked back at Saeki, who was running behind me, and saw[r]her nodding in agreement with my suggestion.[l][er]
+I ran towards the staff entrance.[pcms]
 
 ;//;//BG:bg03a
 
 [bg storage="bg03b"]
 [trans_c cross time=500]
 
-;//SE:”à‚ğ’@‚­‰¹@ƒ‹[ƒv
+;//SE:æ‰‰ã‚’å©ãéŸ³ã€€ãƒ«ãƒ¼ãƒ—
 
 [se0 storage="se027" loop=true]
 
 *5673|
 [fc]
-[ns]‰Á“¡[nse]
-uIIv[pcms]
+[ns]Kato[nse]
+!![pcms]
 
 *5674|
 [fc]
-EˆõŒºŠÖ‚Ì‘O‚Ü‚Å—ˆ‚Ä‚İ‚é‚ÆA”à‚ğo‚½‚Æ‚±‚ë‚©‚çZ–å[r]
-‚Ü‚Å‚ÌŠÔ‚ğAƒCƒb‚½–Ú‚ğ‚µ‚½—lq‚Ì‚¨‚©‚µ‚È“z‚ç‚ªA‘å[r]
-¨ƒEƒ‚Â‚¢‚Ä‚¢‚½B[pcms]
+When I arrived in front of the staff entrance, I saw a bunch[r]of strange-looking guys with a satisfied expression on their[r]faces loitering between the door and the school gate.[pcms]
 
 *5675|
 [fc]
-ŠX‚Ö‘±‚­“¹‚ÍAZ–å‚Ì‘O‚ğ‘–‚é‚ ‚Ìˆê–{‚¾‚¯‚¾B[pcms]
+The road leading to the town is just that one that runs in[r]front of the school gate.[pcms]
 
 *5676|
 [fc]
-‚¾‚ªA“ª‚Ì‚¨‚©‚µ‚È“z‚ç‚ª‚±‚ê‚¾‚¯‚¢‚½‚Ì‚Å‚ÍA‰´ˆêl[r]
-‚È‚ç‚Æ‚à‚©‚­A²”Œ‚ğ˜A‚ê‚Ä‚ ‚Ì’†‚ğ“Ë‚ÁØ‚é‚Ì‚ÍA“[r]
-’êƒ€ƒŠ‚¾‚ë‚¤B[pcms]
+However, with this many mentally unstable guys around, it[r]would be impossible for me to make it through there alone,[r]let alone with Saeki.[pcms]
 
 *5677|
 [fc]
-[ns]‰Á“¡[nse]
-uƒNƒ\ccs‚­‚¼‚ÁIIv[pcms]
+[ns]Kato[nse]
+Damn it... Let's go!![pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2378|
 [fc]
 [vo_sa s="sae0536"]
-[ns]²”Œ[nse]
-u‚ A‘Ò‚Á‚Ä‚­‚¾‚³‚¢Iv[pcms]
+[ns]Saeki[nse]
+Ah, please wait![pcms]
 
 ;;;[sysbt_meswin clear]
 
 
 
-;//SE:”à‚ğ’@‚­‰¹@ƒ‹[ƒv@’â~
+;//SE:æ‰‰ã‚’å©ãéŸ³ã€€ãƒ«ãƒ¼ãƒ—ã€€åœæ­¢
 
 [stop_se0]
 
@@ -106,5 +101,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05540]‚Ö
+;//[05540]ã¸
 [jump target=*05540_TOP storage="05540.ks"]

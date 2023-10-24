@@ -1,21 +1,21 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02173wŒÂº‚Å—D‚Æ‚Sx
-;//BG:•aºF—[•û
-;//“oêl•¨GålŒöE—D
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02173ã€å€‹å®¤ã§å„ªã¨ï¼”ã€
+;//BG:ç—…å®¤ï¼šå¤•æ–¹
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02173_H_TOP
-;[debug_win]‚È‚¤@02173_H[debug_win_end]
+;[debug_win]ãªã†ã€€02173_H[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02173 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02173 = 1"]
 
-;*SceneSet|wŒÂº‚Å—D‚Æ‚Sx
+;*SceneSet|ã€å€‹å®¤ã§å„ªã¨ï¼”ã€
 
-;//ôFBGM011
+;//â™ªï¼šBGM011
 
 ;//[bgm011]
 
@@ -32,49 +32,46 @@
 
 *3154|
 [fc]
-ã‚ÉŒ×‚Á‚½—D‚ªA’p‚¸‚©‚µ‚»‚¤‚ÉŠç‚ğˆí‚ç‚·‚Ì‚ğŒ©‚ÄA[r]
-‰´‚Í‘Ì‚ğ‹N‚±‚µ‚½B—D‚¾‚¯‚ÉA’p‚¸‚©‚µ‚¢v‚¢‚ğ‚³‚¹‚½[r]
-‚­‚È‚¢B[pcms]
+Yuu, who was straddling on top, looked away shyly.[l][er]
+I sat up when I saw that. Because it's Yuu, I don't want to[r]make her feel embarrassed.[pcms]
 
 *v1238|
 [fc]
 [vo_ya s="yama0519"]
-[ns]RŠİ[nse]
-u‚ ccQ‚Ä‚Ä‚¢‚¢‚Ì‚Éccv[pcms]
+[ns]Yamagishi[nse]
+Ah... You can go back to sleep...[pcms]
 
 *3155|
 [fc]
-[ns]‰Á“¡[nse]
-u‚±‚¤‚·‚ê‚ÎA—D‚ğ•ø‚«‚µ‚ß‚ç‚ê‚é‚¾‚ëHv[pcms]
+[ns]Kato[nse]
+If I do this, I can embrace Yuu, right?[pcms]
 
 *v1239|
 [fc]
 [vo_ya s="yama0520"]
-[ns]RŠİ[nse]
-ucc‚¤‚ñccv[pcms]
+[ns]Yamagishi[nse]
+... Yeah...[pcms]
 
 *3156|
 [fc]
-—D‚ÍŒy‚­ƒLƒX‚ğ‚µ‚ÄA‰´‚Ìƒ‚ƒm‚Éè‚ğ“Y‚¦‚½B[pcms]
+Yuu lightly kissed me and placed her hand on my thing.[pcms]
 
 *v1240|
 [fc]
 [vo_ya s="yama0521"]
-[ns]RŠİ[nse]
-u‘×”V‚­‚ñ‚Ìcc‚·‚²‚¢”M‚­‚È‚Á‚Ä‚éccv[pcms]
+[ns]Yamagishi[nse]
+Taishi-kun's... getting really hot...[pcms]
 
 *3157|
 [fc]
-[ns]‰Á“¡[nse]
-u—D‚Æˆê‚Â‚É‚È‚ê‚é‚±‚Æ‚ÉA‹»•±‚µ‚Ä‚é‚©‚ç‚¶‚á‚È‚¢‚©[r]
-‚Èccv[pcms]
+[ns]Kato[nse]
+Maybe I'm excited because I can become one with Yuu...[pcms]
 
 *3158|
 [fc]
-–Ú‚ğ‡‚í‚¹AO‚ğd‚Ë‚½ŒãA—D‚Í©•ª‚Ì’†‚É‰´‚Ìƒ‚ƒm‚ğ[r]
-“±‚¢‚½B[pcms]
+After our eyes met and our lips touched, Yuu guided my thing[r]inside her.[pcms]
 
-;//SE:‘}“ü
+;//SE:æŒ¿å…¥
 
 [se0 storage="se058"]
 
@@ -92,83 +89,76 @@
 *v1241|
 [fc]
 [vo_ya s="yama0522"]
-[ns]RŠİ[nse]
-u‚ñ‚£cc‚ÁI@‚¢‚ÁccIv[pcms]
+[ns]Yamagishi[nse]
+Mmm...! Ah...![pcms]
 
 *3162|
 [fc]
-—D‚Í‰´‚Ìñ‚ÉA‰´‚Í—D‚Ì˜‚É˜r‚ğ‰ñ‚µA‚¨Œİ‚¢‚ğ‹­‚­•ø[r]
-‚«‚µ‚ß‚éB[pcms]
+Yuu wrapped her arms around my neck, and I wrapped my arms[r]around her waist, embracing each other tightly.[pcms]
 
 *3163|
 [fc]
-”M‚¢‚Ê‚ß‚è‚ğŠ´‚¶‚é”ÍˆÍ‚ªL‚ª‚Á‚Ä‚¢‚­“xA—D‚Ì‹ê’É‚É[r]
-šb‚®º‚ª•”‰®‚Ì’†‚É‹¿‚­B[pcms]
+As the range of the hot, slippery sensation expanded, Yuu's[r]moans of pain echoed throughout the room.[pcms]
 
 *3164|
 [fc]
-[ns]‰Á“¡[nse]
-u–³—‚µ‚È‚­‚Ä‚¢‚¢‚æA—Dccv[pcms]
+[ns]Kato[nse]
+You don't have to force yourself, Yuu...[pcms]
 
 *v1242|
 [fc]
 [vo_ya s="yama0523"]
-[ns]RŠİ[nse]
-u–³—‚È‚ñ‚Ä‚µ‚Ä‚È‚¢‚æcc‚¾‚Á‚Ä„A¡cc‚·‚²‚­A[r]
-K‚¹‚È‚ñ‚¾‚©‚çccv[pcms]
+[ns]Yamagishi[nse]
+I'm not forcing myself... because right now, I'm really...[l][er]
+happy...[pcms]
 
 *3165|
 [fc]
-^–ç‚ª‚Á‚Ä‚¢‚½–{‚ÅA—‚Ìq‚ª‰‚ß‚Ä‚·‚é‚ÍA’É‚³[r]
-‚ÅÅŒã‚Ü‚Å‚Å‚«‚È‚¢ê‡‚à‚ ‚é‚Æ“Ç‚ñ‚¾‚¯‚ÇA‚Ç‚¤‚â‚ç[r]
-—D‚ÍA‚»‚ê‚É“–‚Ä‚Í‚Ü‚é—‚Ìq‚Å‚Í‚È‚¢‚æ‚¤‚¾B[pcms]
+It seems that Yuu is not the type of girl who experiences[r]pain and is unable to continue until the end when she does[r]it for the first time, as I read in the book that Shinya[r]had.[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
 
 ;//[se0 storage="se059"]
 
 *v1243|
 [fc]
 [vo_ya s="yama0524"]
-[ns]RŠİ[nse]
-u‚ñ‚Ácc‚­cc‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Mmm... Ah...![pcms]
 
 *3166|
 [fc]
-—D‚ª’É‚İ‚É‘Ï‚¦‚È‚ª‚çA‚ä‚Á‚­‚è‚Æ˜‚ğ—‚Æ‚µA‰´‚Ìƒy[r]
-ƒjƒX‚ÍA—D‚Ì’†‚Éˆù‚İ‚Ü‚ê‚Ä‚ä‚­B[pcms]
+Yuu slowly lowered her hips, enduring the pain, and my penis[r]was swallowed up by Yuu.[pcms]
 
 *3167|
 [fc]
-‚»‚ÌŠ´G‚ÍA‚Ù‚©‚É‚½‚Æ‚¦‚æ‚¤‚ª‚È‚©‚Á‚½B[r]
-”M‚­‚Æ‚ë‚¯‚é“÷‚ÌŠ´GB[pcms]
+The sensation was indescribable.[l][er]
+It was a hot, melting feeling of flesh.[pcms]
 
 *3168|
 [fc]
-[ns]‰Á“¡[nse]
-u—D‚Ì’†cc’g‚©‚¢ccv[pcms]
+[ns]Kato[nse]
+Inside Yuu... it's warm...[pcms]
 
 *v1244|
 [fc]
 [vo_ya s="yama0525"]
-[ns]RŠİ[nse]
-u‚ñcc‚Í‚ ‚Ácc‚Í‚ ‚Áccv[pcms]
+[ns]Yamagishi[nse]
+Mmm... haa... haa...[pcms]
 
 *3169|
 [fc]
-‰´‚Ì‚ğª–{‚Ü‚Åó‚¯“ü‚ê‚½—D‚ÍAr‚¢‘§‚ğ‚Â‚«‚È‚ª‚çA[r]
-‰´‚Ì‘Ì‚Ìã‚Å¬‚İ‚Ék‚¦‚Ä‚¢‚éB[pcms]
+Yuu, who accepted me all the way to the base, trembles[r]slightly on top of my body while breathing heavily.[pcms]
 
 *3170|
 [fc]
-‚Ç‚Ì‚­‚ç‚¢’É‚¢‚ñ‚¾‚ë‚¤H@‚»‚ê‚ÍA’j‚Ì‰´‚É‚Í‘z‘œ‚à[r]
-‚Â‚©‚È‚¢‚¯‚ÇA’É‚İ‚ğ‚±‚ç‚¦‚Ä‚Ü‚Å‰´‚Æ‚Ğ‚Æ‚Â‚É‚È‚ë‚¤[r]
-‚Æ‚µ‚½—D‚ªA‚½‚¾ˆ¤‚µ‚©‚Á‚½B[pcms]
+I wonder how painful it is? As a man, I can't even imagine,[r]but Yuu, who was willing to endure the pain just to become[r]one with me, was nothing but love.[pcms]
 
 *3171|
 [fc]
-‰´‚ÍA—D‚ª“®‚¯‚é‚æ‚¤‚É‚È‚é‚Ü‚ÅA‚µ‚Î‚ç‚­‚»‚Ì‚Ü‚Ü‚Å[r]
-‚¢‚½B—D‚Ì‘Ì‰·‚ª‰´‚Ì‘Ì‚É‚µ‚İ‚ŞB[pcms]
+I stayed like that for a while, until Yuu was able to move.[l][er]
+Yuu's body heat seeped into mine.[pcms]
+[l][er]
 
 ;	/*
 ;	;;;[sysbt_meswin clear]
@@ -184,295 +174,285 @@
 *v1245|
 [fc]
 [vo_ya s="yama0526"]
-[ns]RŠİ[nse]
-u‚£ccƒnƒ@ƒbcc‚¶‚áA“®‚­‚Ëccv[pcms]
+[ns]Yamagishi[nse]
+Ugh... Haah... Well, I'll start moving...[pcms]
 
 *3174|
 [fc]
-[ns]‰Á“¡[nse]
-u‘åä•vA‚Ü‚¾’É‚¢‚ñ‚¶‚á‚È‚¢ccHv[pcms]
+[ns]Kato[nse]
+Are you okay? It still hurts, doesn't it...?[pcms]
 
 *v1246|
 [fc]
 [vo_ya s="yama0527"]
-[ns]RŠİ[nse]
-u‚¤A‚ñcc‘åäcc•vcc‚½‚Ô‚ñccv[pcms]
+[ns]Yamagishi[nse]
+Ugh... I'm... fine... probably...[pcms]
 
-;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
 
 ;//[se0 storage="se060" loop=true]
 
 *3175|
 [fc]
-‹°‚é‹°‚é‚Æ‚¢‚Á‚½•—‚ÅA—D‚Í‘Ì‚ğ“®‚©‚µn‚ß‚½B[r]
-‰´‚Ìñ‚É‚Ü‚í‚³‚ê‚½˜r‚É—Í‚ª‚ß‚ç‚ê‚éB[pcms]
+Yuu timidly started moving her body, with a sense of fear.[l][er]
+She exerted strength in the arm wrapped around my neck.[pcms]
 
 *v1247|
 [fc]
 [vo_ya s="yama0528"]
-[ns]RŠİ[nse]
-u‚ÍA‚Ÿcc‚ñ‚ÁA‚­ccv[pcms]
+[ns]Yamagishi[nse]
+Haa... ngh... ku...[pcms]
 
 *3176|
 [fc]
-—D‚Ì˜‚É‰ñ‚µ‚½˜r‚Ö‚ÌŠ´G‚©‚çA”Ş—‚Ì‘Ì‚ª‹­‚Î‚é‚Ì‚ª[r]
-‚í‚©‚Á‚½B[pcms]
+I could tell from the sensation of my arm wrapped around[r]Yuu's waist that her body was tensing up.[pcms]
 
 *3177|
 [fc]
-”hè‚È’É‚İ‚Í‚È‚¢‚Ì‚©‚à‚µ‚ê‚È‚¢‚ªA‚»‚ê‚Å‚àA‘S‚­’É[r]
-‚İ‚ª‚È‚¢‚í‚¯‚Å‚Í‚È‚¢‚Ì‚¾‚ë‚¤B[pcms]
+It may not be a sharp pain, but still, it's not like there[r]is absolutely no pain.[pcms]
 
 *3178|
 [fc]
-’É‚İ‚É‘Ï‚¦‚é‚æ‚¤‚É‘Ì‚ğ‹­‚Î‚ç‚¹‚é—D‚ğA‰´‚Íˆ¤‚¨‚µ‚­[r]
-v‚Á‚ÄA”Ş—‚ğ‚³‚ç‚É‚µ‚Á‚©‚è‚Æ•ø‚«‚µ‚ß‚½B[pcms]
+I held Yuu even tighter, cherishing her as she tensed her[r]body to endure the pain.[pcms]
 
 *v1248|
 [fc]
 [vo_ya s="yama0529"]
-[ns]RŠİ[nse]
-u‚ñA‚£ccƒnƒ@ƒbcc‚ñ‚ÁA‚­A‚Ÿccv[pcms]
+[ns]Yamagishi[nse]
+Nn, ugh... Haa... ngh, ku, ah...[pcms]
 
 *3179|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ä‚Á‚­‚è‚Åcc‚¢‚¢‚æccv[pcms]
+[ns]Kato[nse]
+Take it slow... it's okay...[pcms]
 
 *v1249|
 [fc]
 [vo_ya s="yama0530"]
-[ns]RŠİ[nse]
-u‚ñ‚ÁA‚­cc„A‚Ícc•½‹CA‚¾‚©‚çcc‚Ó‚Ÿccv[pcms]
+[ns]Yamagishi[nse]
+Nn, ku... I... am... fine, so...[l][er]
+fah...[pcms]
 
 *3180|
 [fc]
-‹·‚¢—D‚Ì’†‚ğƒ‚ƒm‚ª‰•œ‚·‚é“xA• ‚Ì’ê‚ªáu‚«AS‚ªV[r]
-‚Ô‚Á‚Ä‚¢‚­B[pcms]
+Every time something moves back and forth inside Yuu's[r]tightness, a deep ache stirs in my stomach and my heart[r]starts to race.[pcms]
 
 *3181|
 [fc]
-‚»‚µ‚Ä‚»‚êˆÈã‚ÉA—D‚Æˆê‚Â‚ÉŒ‹‚Î‚ê‚½K•ŸŠ´‚ÉA‰´‚Í[r]
-–‚½‚³‚ê‚Ä‚¢‚½B[pcms]
+And more than that, I was filled with a sense of happiness[r]from being connected as one with Yuu.[pcms]
 
 *v1250|
 [fc]
 [vo_ya s="yama0531"]
-[ns]RŠİ[nse]
-u‚ÍA‚£cc‚Ó‚Ó‚Ácc‘×”V‚­‚ñ‚ÌA‹¹cc‚ñA‚Í‚Ÿc[r]
-c‚·‚²‚­AƒhƒLƒhƒL‚µ‚Ä‚éccv[pcms]
+[ns]Yamagishi[nse]
+Haa... u... hehe... Yasuyuki-kun's chest...[l][er]
+n, haa... I'm feeling really, really excited...[pcms]
 
 *3182|
 [fc]
-[ns]‰Á“¡[nse]
-uŠğ‚µ‚¢‚©‚ç‚¾‚æcc—D‚ÆAˆê‚Â‚É‚È‚ê‚Äccv[pcms]
+[ns]Kato[nse]
+It's because I'm happy... Being able to become one with[r]Yuu...[pcms]
 
 *v1251|
 [fc]
 [vo_ya s="yama0532"]
-[ns]RŠİ[nse]
-u‘×”V‚­cc‚ñ‚Ÿ‚ÁI@‚­‚£ccv[pcms]
+[ns]Yamagishi[nse]
+Yasuyuki-kun... ah! Ku...[pcms]
 
 *3183|
 [fc]
-‘Ì‚ª”M‚ğ‘Ñ‚Ñn‚ß‚Ä‚«‚½‚æ‚¤‚ÅA—D‚ğ•ø‚­è‚É‚»‚Ì”M‚ª[r]
-“`‚í‚Á‚Ä‚­‚éB[pcms]
+My body began to heat up, and that heat was transmitted to[r]the hands that held Yuu.[pcms]
 
 *3184|
 [fc]
-“¯‚ÉA—D‚Ì‘Ì‚©‚çŠÃ‚¢“õ‚¢‚ª—§‚¿ã‚èn‚ß‚½B[r]
-‰´‚Í”Ş—‚Ìñ‹Ø‚É•@‚ğ”‡‚í‚¹A‚»‚Ì“õ‚¢‚ğ‹z‚¢‚ñ‚¾B[pcms]
+At the same time, a sweet scent began to emanate from Yuu's[r]body.[l][er]
+I trailed my nose along her neck and inhaled that fragrance.[pcms]
 
-;//SE:ƒsƒXƒgƒ“@’x‚¢@’â~
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€åœæ­¢
 
 [stop_se0]
 
 *3185|
 [fc]
-[ns]‰Á“¡[nse]
-u—D‚Ì‘Ìcc‚¢‚¢“õ‚¢‚ª‚·‚éccv[pcms]
+[ns]Kato[nse]
+Yuu's body... it smells good...[pcms]
 
 *v1252|
 [fc]
 [vo_ya s="yama0533"]
-[ns]RŠİ[nse]
-u‚ ‚ÁA‚âccI@‚­‚·‚®‚Á‚½‚¢A‚æ‚§cc‚Ó‚Ÿ‚ÁI@[r]
-‚ÍA‚Ÿcc‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Ah, ya...! It tickles... so...[l][er]
+fah! Ha... a...![pcms]
 
 *3186|
 [fc]
-‹­‚Î‚Á‚Ä‚¢‚½—D‚Ì‘Ì‚ÉA_‚ç‚©‚³‚ª–ß‚Á‚Ä‚«‚½B[r]
-‚»‚ê‚É‰Á‚¦A‰´‚Ìñ‹Ø‚ÉG‚ê‚é—D‚Ì“f‘§‚ÉA”M‚¢‚à‚Ì‚ª[r]
-¬‚¶‚èn‚ß‚Ä‚¢‚½B[pcms]
+Yuu's body, which had been tense, regained its softness.[l][er]
+In addition, a hot sensation began to mix with Yuu's breath[r]as it touched my neck.[pcms]
 
 *v1253|
 [fc]
 [vo_ya s="yama0534"]
-[ns]RŠİ[nse]
-u‚ñ‚ÓA‚£cc‚È‚ñA‚©cc‚ ‚ÁA‚Ó‚Ÿ‚ÁI@ccƒ€ƒY[r]
-ƒ€ƒYA‚·‚écc‚ÍA‚£‚ÁccIv[pcms]
+[ns]Yamagishi[nse]
+Nfu, u... nanka... ah, fah! ...[l][er]
+Muzumuzu, suru... ha, u...![pcms]
 
 *3187|
 [fc]
-[ns]‰Á“¡[nse]
-u—D‚Ì‹¹‚àAƒhƒLƒhƒL‚µ‚Ä‚«‚½‚æccv[pcms]
+[ns]Kato[nse]
+Yuu's chest is also starting to pound...[pcms]
 
-;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
 
 ;//[se0 storage="se060"]
 
 *v1254|
 [fc]
 [vo_ya s="yama0535"]
-[ns]RŠİ[nse]
-u‚ ‚ÁA‚£cc‚¾‚Á‚Ä‚¥cc‚ñ‚£‚ÁA‚Ó‚ ‚Ÿ‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Ah, u... because... ngh, fuuahh![pcms]
 
 *3188|
 [fc]
-Ÿ‘æ‚É—D‚Ì’†‚ÍŠŠ‚ç‚©‚É‚È‚Á‚Ä‚«‚ÄA‰´‚Ìƒ‚ƒm‚ªƒXƒ€[[r]
-ƒY‚É‰•œ‚·‚é‚æ‚¤‚É‚È‚Á‚½B[pcms]
+Gradually, Yuu's insides became smoother, allowing my thing[r]to move back and forth smoothly.[pcms]
 
 *v1255|
 [fc]
 [vo_ya s="yama0536"]
-[ns]RŠİ[nse]
-u‚Ó‚ŸA‚ ‚ÁccI@‚âcc‘×”Vcc‚­‚Ácc‚ÍA‚ ‚£[r]
-ccIv[pcms]
+[ns]Yamagishi[nse]
+Fuwa, ah...! Ya... Yasuyuki...[l][er]
+ku... ha, au...![pcms]
 
 *3189|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ñccHv[pcms]
+[ns]Kato[nse]
+Hm...?[pcms]
 
 *v1256|
 [fc]
 [vo_ya s="yama0537"]
-[ns]RŠİ[nse]
-u‚ñA‚­‚ÁccD‚«cc‚¤‚ŸA‚ÍA‚Ÿ‚ñccI@‘åAD[r]
-‚«‚¡cc‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+N, ku... suki... ugh, ha, ahn...![l][er]
+D-daisuki...![pcms]
 
 *3190|
 [fc]
-šb‚®º‚ÌŠÔ‚©‚çA—D‚Í‰´‚Ö‚Ì‘z‚¢‚ğ“`‚¦‚Ä‚«‚½B[r]
-—D‚É‚¿‚á‚ñ‚Æ•·‚±‚¦‚é‚æ‚¤‚ÉAƒnƒbƒLƒŠ‚ÆA‹­‚­A‰´‚Í[r]
-©•ª‚Ì‘z‚¢‚ğ“`‚¦‚½B[pcms]
+From the gasps between breaths, Yuu conveyed her feelings to[r]me.[l][er]
+To make sure Yuu could hear me clearly, I expressed my own[r]feelings clearly and strongly.[pcms]
 
 *3191|
 [fc]
-[ns]‰Á“¡[nse]
-u‰´‚àA—D‚ªD‚«‚¾‚æv[pcms]
+[ns]Kato[nse]
+I also love Yuu.[pcms]
 
 *v1257|
 [fc]
 [vo_ya s="yama0538"]
-[ns]RŠİ[nse]
-u‚Ù‚ñA‚ÆccH@‚ñ‚£‚ÁI@‚ÍA‚­‚£cc‚¸‚Á‚ÆAˆê[r]
-‚Écc‚¢‚ÄA‚Ÿ‚¤‚ÁI@‚­‚ê‚éccHv[pcms]
+[ns]Yamagishi[nse]
+Really...? Ngh! Ha, ku... To be together...[l][er]
+forever, ah! Will you... give it to me...?[pcms]
 
 *3192|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ B—D‚ªŒ™‚¾‚Á‚ÄŒ¾‚Á‚Ä‚àA—£‚³‚È‚¢‚æBâ‘Î‚Év[pcms]
+[ns]Kato[nse]
+Ah. Even if Yuu says she hates it, I won't let go.[l][er]
+Absolutely.[pcms]
 
 *v1258|
 [fc]
 [vo_ya s="yama0539"]
-[ns]RŠİ[nse]
-u‘×”V‚­cc‚ñ‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Yasuyuki... ngh![pcms]
 
 *v1259|
 [fc]
 [vo_ya s="yama0540"]
-[ns]RŠİ[nse]
-u‘×”V‚­‚ñcc‘×”V‚­‚ñcc‘×”V‚­‚ñcc‚¾A‘åD‚«c[r]
-c‚¢‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Yasuyuki-kun... Yasuyuki-kun...[l][er]
+Yasuyuki-kun... I-I love you...[l][er]
+Ah![pcms]
 
 *3193|
 [fc]
-—D‚Ì‘Ì‚Ì“®‚«‚ª‘¬‚Ü‚èA‚»‚ê‚É‚Â‚ê‚ÄA‰´‚à‹}Œƒ‚ÉV‚Ô[r]
-‚è‚ğ‘‚µ‚Ä‚¢‚­B[pcms]
+As Yuu's body movements quickened, I also rapidly became[r]more excited.[pcms]
 
 *v1260|
 [fc]
 [vo_ya s="yama0541"]
-[ns]RŠİ[nse]
-u‚Ğ‚Ÿ‚ÁI@‚ ‚ÁA‚ñ‚¤‚£I@cc‘×”V‚­cc‚ÁI@‚Ÿ[r]
-‚ñ‚ÁA‚ñ‚ ‚Ÿ‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Hia! Ah, nuu! ... Yasuyuki-kun...![l][er]
+Aahh, naaahh![pcms]
 
 *3194|
 [fc]
-[ns]‰Á“¡[nse]
-u‚£cc—Dcc‚ÁIv[pcms]
+[ns]Kato[nse]
+Ugh... Yuu...![pcms]
 
 *v1261|
 [fc]
 [vo_ya s="yama0542"]
-[ns]RŠİ[nse]
-u‚ñ‚£‚ÁI@‚Á‚­A‚Ÿ‚¤‚ÁI@‚Ó‚ ‚Ÿ‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Nngh! Kku, aahh! Fuaahh![pcms]
 
 *3195|
 [fc]
-—D‚Ì‘Ì‚ÆS‚Å‘‘å‚µ‚½‰´‚ÌV‚Ô‚è‚ÍAˆì‚êo‚»‚¤‚È‚Æ‚±[r]
-‚ë‚É‚Ü‚Å’B‚µ‚Ä‚¢‚½B[pcms]
+My excitement, which had grown in Yuu's body and heart, had[r]reached the point of overflowing.[pcms]
 
 *3196|
 [fc]
-[ns]‰Á“¡[nse]
-u—Dcc‚à‚¤A‰´cc‚ÁIv[pcms]
+[ns]Kato[nse]
+Yuu... I...![pcms]
 
 *v1262|
 [fc]
 [vo_ya s="yama0543"]
-[ns]RŠİ[nse]
-u‚ÍA‚ ‚Ÿ‚ÁccI@‚¢‚¢A‚æA‘×”Vcc‚ñA‚Ó‚Ÿ‚ÁI[r]
-cc‚»‚Ì‚Ü‚ÜA‚­A‚¤‚Ÿ‚ÁI@cc‚»‚Ì‚Ü‚ÜAÅŒã‚Ü[r]
-‚Å‚µ‚Äcc‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Ha, aahh...! It feels good, Yasuyuki...[l][er]
+ngh, fuaahh!... Just like that, ku, uahh![l][er]
+... Just like that, until the end...![pcms]
 
 *3197|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Å‚àccIv[pcms]
+[ns]Kato[nse]
+But...![pcms]
 
 *v1263|
 [fc]
 [vo_ya s="yama0544"]
-[ns]RŠİ[nse]
-u‚¢‚¢A‚Ìcc‚ñ‚ÁA‚ñ‚£‚ÁI@cc‚»‚¤A‚µ‚Äcc—~[r]
-‚µ‚¢A‚Ìcc‚ñ‚­‚ÁI@‚ñA‚Í‚Ÿ‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+It's good... ngh, nngh! ... like that...[l][er]
+I want it... nku! Ngh, haaah![pcms]
 
 *3198|
 [fc]
-‰´‚ªŒÀŠE¡‘O‚È‚Ì‚ğŠ´‚¶‚Æ‚Á‚ÄA—D‚Í‚»‚Ì‚Ü‚Ü’B‚·‚é‚±[r]
-‚Æ‚ğ–]‚ñ‚¾B[pcms]
+Sensing that I was on the verge of my limit, Yuu wished for[r]us to reach climax just like that.[pcms]
 
 *3199|
 [fc]
-‚Ç‚±‚Ü‚Å‚à‰´‚ğ‘z‚¤A—D‚Ì‚»‚Ì‹C‚¿‚ÉAS‚Ì‚—g‚ª‚æ[r]
-‚èŒƒ‚µ‚­‚È‚éB[pcms]
+My excitement intensifies as I feel Yuu's unwavering[r]devotion towards me.[pcms]
 
 *3200|
 [fc]
-[ns]‰Á“¡[nse]
-u—Dccˆ¤‚µ‚Ä‚écc‚ÁIv[pcms]
+[ns]Kato[nse]
+Yuu... I love you...![pcms]
 
 *v1264|
 [fc]
 [vo_ya s="yama0545"]
-[ns]RŠİ[nse]
-u‚Ó‚ ‚Ÿ‚ÁI@‚¤‚ŸA‚­‚£‚ÁccI@‚ícc„A‚àcc[r]
-‚Ğ‚Ÿ‚ÁI@cc‘×”V‚­‚ÁA‚ÌA‚±‚Æcc‚ñ‚£‚ÁI@cc[r]
-ˆ¤‚µA‚Ä‚éccIv[pcms]
+[ns]Yamagishi[nse]
+Fuaahh! Ugh, kuuhh...! Wa... watashi, mo...[l][er]
+hiaahh! ... Yasuyuki-kun, no, koto...[l][er]
+nghh! ... Aishi, teru...![pcms]
 
 *3201|
 [fc]
-[ns]‰Á“¡[nse]
-u—Dcc‚ÁIIv[pcms]
+[ns]Kato[nse]
+Yuu...!![pcms]
 
-;//SE:ƒsƒXƒgƒ“@’x‚¢@’â~
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€åœæ­¢
 
 [stop_se0]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 
 ;//[se0 storage="se062"]
 
@@ -501,12 +481,11 @@
 
 *3202|
 [fc]
-ŒÀŠE‚ğ’´‚¦‰´‚ÌV‚Ô‚è‚ÍA‰‚ğØ‚Á‚Äˆì‚êo‚µ‚½B[pcms]
+My excitement, which had surpassed its limits, burst forth[r]like a broken dam.[pcms]
 
 *3203|
 [fc]
-‹­‚­•ø‚«‚µ‚ß‚½—D‚Ì‘Ì‚Ì‰œ[‚­‚Ö‚ÆA–¬‘Å‚Âƒ‚ƒm‚©‚çˆì[r]
-‚ê‚é¸‰t‚ª’‚¬‚Ü‚êA”Ş—‚Í‘å‚«‚­’µ‚Ë‚½B[pcms]
+Yuu's body, tightly embraced, was filled with pulsating[r]essence that overflowed from within, causing her to jump[r]forcefully.[pcms]
 
 ;//whiteflash
 
@@ -524,24 +503,23 @@
 *v1265|
 [fc]
 [vo_ya s="yama0546"]
-[ns]RŠİ[nse]
-u‚¤‚Ÿ‚Ácc‚ñ‚¤‚£‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+Ahh... nuuhh!![pcms]
 
 *3204|
 [fc]
-‰½“x‚à¬‚³‚­‘Ì‚ğ’µ‚Ë‚³‚¹A—D‚Í‰´‚Ì¸‰t‚ğ‘S‚Äó‚¯~[r]
-‚ß‚½B[pcms]
+Yuu bounced her body repeatedly, taking in all of my semen.[pcms]
 
 *3205|
 [fc]
-[ns]‰Á“¡[nse]
-u‚­cc‚Ÿccv[pcms]
+[ns]Kato[nse]
+Ku... ah...[pcms]
 
 *v1266|
 [fc]
 [vo_ya s="yama0547"]
-[ns]RŠİ[nse]
-u‚¤A‚Ÿcc‚£cc‚ÍA‚Ÿccv[pcms]
+[ns]Yamagishi[nse]
+U... ah... uhh...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -558,64 +536,59 @@
 
 *3206|
 [fc]
-‰´‚Ì‚ª–¬‘Å‚Á‚Ä—D‚Ì’†‚É”M‚¢‚Ù‚Æ‚Î‚µ‚è‚ğ‘Å‚¿ã‚°‚é“x[r]
-‚É—D‚Í‘Sg‚ğk‚í‚¹‚Ä‚»‚ê‚É”½‰‚µ‚½B[pcms]
+Every time my pulsating essence surges into Yuu's depths,[r]she trembles all over in response.[pcms]
 
 *v1267|
 [fc]
 [vo_ya s="yama0548"]
-[ns]RŠİ[nse]
-u‚ cc‘×”Vcc‚­‚ñ‚Ì‚ªcc‚¨• ‚Ì’†ccƒsƒNƒsƒN‚Á[r]
-‚Äcc‚ A”M‚£‚¢ccv[pcms]
+[ns]Yamagishi[nse]
+Ah... Yasuyuki-kun's... inside my stomach...[l][er]
+it's pulsating... ah, it's so hot...[pcms]
 
 *3207|
 [fc]
-‚µ‚Î‚ç‚­‚ÌŠÔA‘§‹ê‚µ‚­‚È‚é‚®‚ç‚¢A—D‚Í‰´‚Ì‘Ì‚ğ‹­‚­[r]
-•ø‚«‚µ‚ß‚Ä‚¢‚½‚ªA‚â‚ª‚Ä—Í‚ğŠÉ‚ß‚é‚ÆA‘å‚«‚­‘§‚ğ‚Â[r]
-‚¢‚½B[pcms]
+For a while, Yuu tightly embraced my body to the point where[r]it became difficult to breathe, but eventually she loosened[r]her grip and let out a deep sigh.[pcms]
 
 *v1268|
 [fc]
 [vo_ya s="yama0549"]
-[ns]RŠİ[nse]
-u‚Í‚Ÿccccv[pcms]
+[ns]Yamagishi[nse]
+Haa...[pcms]
 
 *3208|
 [fc]
-Œ¨‚É—a‚¯‚ç‚ê‚½—D‚Ì“ª‚ğA‰´‚Í—D‚µ‚­•‚ÅA”Ş—‚ğ‚¢‚½[r]
-‚í‚Á‚½B[pcms]
+I gently stroked Yuu's head, which was resting on my[r]shoulder, and treated her with care.[pcms]
 
 *3209|
 [fc]
-[ns]‰Á“¡[nse]
-u‘ÌA‘åä•vccHv[pcms]
+[ns]Kato[nse]
+Are you okay...?[pcms]
 
 *v1269|
 [fc]
 [vo_ya s="yama0550"]
-[ns]RŠİ[nse]
-u‚ñcc‘×”V‚­‚ñcc‚ÍH@‘«A’É‚­‚È‚¢ccHv[pcms]
+[ns]Yamagishi[nse]
+N... Yasuyuki-kun... huh? Are your legs not hurting...?[pcms]
 
 *3210|
 [fc]
-[ns]‰Á“¡[nse]
-u•½‹C‚¾‚æcc‹C‚¿‚æ‚­‚ÄA’É‚¢‚Ì–Y‚ê‚Ä‚½ccv[pcms]
+[ns]Kato[nse]
+I'm fine... It feels so good, I forgot about the pain...[pcms]
 
 *v1270|
 [fc]
 [vo_ya s="yama0551"]
-[ns]RŠİ[nse]
-u‚Ó‚Ó‚Áccv[pcms]
+[ns]Yamagishi[nse]
+Hehe...[pcms]
 
 *3211|
 [fc]
-‰´’B‚Í‚µ‚Î‚ç‚­‚ÌŠÔAŒq‚ª‚Á‚½‚Ü‚Ü•ø‚«‡‚¢A‘Šè‚Ì‘Ì[r]
-‚Ì’g‚©‚³‚Æ‘z‚¢‚ğŠ´‚¶‡‚Á‚½B[pcms]
+We stayed connected for a while, embracing each other,[r]feeling the warmth and emotions of each other's bodies.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
@@ -626,7 +599,7 @@
 
 ;//blackout
 
-;//[02174]‚Ö
+;//[02174]ã¸
 [jump target=*02174_H_TOP storage="02174_H.ks"]
 
 

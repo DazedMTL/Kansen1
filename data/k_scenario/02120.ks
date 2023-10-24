@@ -1,20 +1,20 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02120w–h‰qx
-;//BG:“ñŠK˜L‰ºFƒoƒŠƒP[ƒhF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöE—DEƒŠƒTEŠİ“cE’|“à
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02120ã€é˜²è¡›ã€
+;//BG:äºŒéšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»å²¸ç”°ãƒ»ç«¹å†…
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02120_TOP
-;[debug_win]‚È‚¤@02120[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02120 = 1"]
+;[debug_win]ãªã†ã€€02120[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02120 = 1"]
 
-;*SceneSet|w–h‰qx
+;*SceneSet|ã€é˜²è¡›ã€
 
 ;//[02120]
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 ;//[bgm007]
 ;//BG:bg007a
 [bg storage="bg07a"]
@@ -22,109 +22,94 @@
 
 *2338|
 [fc]
-[ns]‰Á“¡[nse]
-uƒnƒ@`ƒbccB‚ ‚¢‚Â‚çˆê‘Ì‚È‚ñ‚È‚ñ‚¾ccv[pcms]
+[ns]Kato[nse]
+*sigh*... What the hell is wrong with them...[pcms]
 
 *2339|
 [fc]
-RŠİ‚³‚ñ‚ğP‚¨‚¤‚Æ‚µA—S“ñ‚ÆŒÜ\—’ƒTƒ“‚ğP‚¢A‰£‚Á[r]
-‚Ä‚àˆÖq‚Åƒuƒb’@‚¢‚Ä‚àAƒ_ƒ[ƒWó‚¯‚Ä‚¢‚é—lq‚Í­[r]
-‚µ‚à‚È‚¢B[pcms]
+Yamagishi-san tried to attack, but there doesn't seem to be[r]any damage even after hitting them with a chair or punching[r]Tanaka and Igarashi-san.[pcms]
 
 *2340|
 [fc]
-‚í‚¯‚ª‚í‚©‚ç‚¸A‚Ç‚¤‚É‚à‚Å‚«‚È‚¢A‚Ü‚³‚É”ª•ûÇ‚ª‚è[r]
-‚Ì‚±‚Ìó‹µ‚ÉA‰´‚Íƒhƒb‚Æ”æ‚ê‚ª•¬‚«o‚µ‚Ä‚­‚é‚Ì‚ğŠ´[r]
-‚¶‚Ä‚¢‚½B[pcms]
+I felt a wave of exhaustion welling up inside me in this[r]situation where I couldn't understand anything and couldn't[r]do anything, truly feeling trapped from all sides.[pcms]
 
 *2341|
 [fc]
-‰´’BA‚Ç‚¤‚È‚é‚ñ‚¾‚ë‚¤ccB[pcms]
+I wonder what will happen to us...[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v925|
 [fc]
 [vo_ri s="risa0285"]
-[ns]V“¹[nse]
-u‚¿‚å‚Á‚Æ‚¢‚¢‚©‚µ‚çv[pcms]
+[ns]Shindou[nse]
+Can I talk to you for a moment?[pcms]
 
 *2342|
 [fc]
-Šİ“c‚Ì—e‘Ô‚ğf‚Ä‚¢‚½V“¹æ¶‚ª—§‚¿ã‚ª‚èA[r]
-‰´ARŠİ‚³‚ñA^–ç‚ğW‚ß‚½B[pcms]
+Shindou-sensei, who had been examining Kishida's condition,[r]stood up and called me, Yamagishi-san, and Shinya together.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v926|
 [fc]
 [vo_ri s="risa0286"]
-[ns]V“¹[nse]
-u‰Á“¡ŒN‚Æ’|“àŒN‚ÉAƒoƒŠƒP[ƒh‚ğ’z‚¢‚Ä‚à‚ç‚Á‚½‚¯‚ê[r]
-‚ÇA‚à‚µ‘å¨‚Å“ü‚Á‚Ä‚±‚ç‚ê‚½‚çA‚·‚®‚É•ö‚ê‚Ä‚µ‚Ü‚¤[r]
-‚Å‚µ‚å‚¤v[pcms]
+[ns]Shindou[nse]
+Kato-kun and Takeuchi-kun, I had them build a barricade, but[r]if a large group were to come in, it would collapse[r]immediately.[pcms]
 
 *2343|
 [fc]
-‰´‚Æ^–ç‚Åì‚Á‚½‚Ì‚ÍAƒoƒŠƒP[ƒh‚ÆŒ¾‚Á‚Ä‚àŠ÷‚ğRÏ‚İ[r]
-‚É‚µ‚½‚¾‚¯‚Ì‚à‚Ì‚¾B[pcms]
+What Shinya and I made was just a barricade, or rather, we[r]just piled up desks.[pcms]
 
 *2344|
 [fc]
-V“¹æ¶‚ÌŒ¾‚¤’Ê‚èA‘å¨‚Å—Í”C‚¹‚É’†‚Ö‰Ÿ‚µ‚ß‚ÎA[r]
-’ZŠÔ‚ÅN“ü‚ğ‹–‚µ‚Ä‚µ‚Ü‚¤‚¾‚ë‚¤B[pcms]
+As Shindou-sensei said, if we forcefully push our way in[r]with a large group, we will allow the intrusion in a short[r]amount of time.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v927|
 [fc]
 [vo_ri s="risa0287"]
-[ns]V“¹[nse]
-u‚»‚¤‚¢‚Á‚½‹Ù‹}–‘Ô‚ª‹N‚«‚½‚ÉA‚·‚®‚É‘Îˆ‚Å‚«‚é[r]
-‚æ‚¤‚ÉA„‚àŠÜ‚ß‚½‚±‚Ìll‚ÅŒğ‘ã‚µ‚È‚ª‚çA–h‰Î”à‚Ì[r]
-ŠÄ‹‚ğ‚µ‚æ‚¤‚Æv‚¢‚Ü‚·v[pcms]
+[ns]Shindou[nse]
+In order to be able to respond immediately in case of such[r]an emergency, I'm thinking that the four of us, including[r]myself, should take turns monitoring the fire doors.[pcms]
 
 *2345|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚¢‚Â‚ç‚ª“ü‚Á‚Ä‚±‚È‚¢‚æ‚¤‚ÉAŒ©’£‚é‚ñ‚Å‚·‚Ëv[pcms]
+[ns]Kato[nse]
+So we'll be keeping watch to make sure they don't come in,[r]right?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v928|
 [fc]
 [vo_ri s="risa0288"]
-[ns]V“¹[nse]
-uŠÄ‹‚É—§‚Á‚Ä‚¢‚él‚ÍA’N‚©‚ª‘å¨‚Å“ü‚Á‚Ä‚±‚æ‚¤‚Æ[r]
-‚µ‚Ä‚¢‚é‚Ì‚ğŠm”F‚µ‚½‚çA‚·‚®‚É‘åº‚Å‚»‚Ì–‚ğ“`‚¦‚Ä[r]
-‚¿‚å‚¤‚¾‚¢B‘‹}‚ÉOŠK‚Ö”ğ“ï‚µ‚Ü‚·v[pcms]
+[ns]Shindou[nse]
+When the person on watch notices that a large group is[r]trying to come in, please immediately inform us loudly.[l][er]
+We will evacuate to the third floor as soon as possible.[pcms]
 
 *2346|
 [fc]
-‰´ARŠİ‚³‚ñA^–ç‚ÌOl‚ÍAV“¹æ¶‚ÌŒ¾—t‚É‚¤‚È‚¸[r]
-‚¢‚½B[pcms]
+The three of us, Yamagishi-san, Shinya, and I, nodded in[r]agreement with Shindou-sensei's words.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v929|
 [fc]
 [vo_ri s="risa0289"]
-[ns]V“¹[nse]
-u‚Å‚Í’|“àŒNAˆ«‚¢‚¯‚ê‚ÇAÅ‰‚ÌŒ©’£‚è‚ğ‚µ‚Ä‚¿‚å‚¤[r]
-‚¾‚¢B‰Á“¡ŒN‚ÆRŠİ‚³‚ñ‚ÍA‚»‚ÌŠÔ‚É‘Ì‚ğ‹x‚ß‚Ä‚¨‚«‚È[r]
-‚³‚¢v[pcms]
+[ns]Shindou[nse]
+Well then, Takeuchi-kun, sorry to ask, but please take the[r]first watch.[l][er]
+Kato-kun and Yamagishi-san, please rest your bodies during[r]that time.[pcms]
 
 ;g
 [backlay_c][chara_int][trans_c cross time=150]
 
 *2347|
 [fc]
-V“¹æ¶‚Í‚»‚ê‚¾‚¯w¦‚·‚é‚ÆA‚Ü‚½Šİ“c‚Ì–T‚ç‚É•G‚ğ[r]
-‚Â‚«AŠÅŒì‚ğn‚ß‚½B[pcms]
+After giving those instructions, Shindou-sensei kneeled[r]beside Kishida and started nursing him.[pcms]
 
 ;g
 [ChrSetEx layer=1 chbase="take_a_d_01"]
@@ -134,23 +119,22 @@
 
 *2348|
 [fc]
-[ns]‰Á“¡[nse]
-uˆ«‚¢‚È^–çA—Š‚Şccv[pcms]
+[ns]Kato[nse]
+Sorry, Shinya. I'm counting on you...[pcms]
 
 ;g
 [backlay_c][chara_int][trans_c cross time=150]
 
 *2349|
 [fc]
-^–ç‚Í–³Œ¾‚Å‚¤‚È‚¸‚¢‚ÄŒ©‚¹‚ÄAƒoƒŠƒP[ƒh‚Ì•û‚Ö‚Æ•à[r]
-‚¢‚Ä‚¢‚Á‚½B[pcms]
+Shinya silently nodded and walked towards the barricade.[pcms]
 
-;//ôFBGM007ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 [fadeoutbgm time=500]
 
 *2350|
 [fc]
-‚»‚µ‚ÄAƒoƒŠƒP[ƒh‚Ì‘O‚É—§‚Á‚½uŠÔ\\\B[pcms]
+And at the moment I stood in front of the barricade...[pcms]
 
-;//[02121]‚Ö
+;//[02121]ã¸
 [jump target=*02121_TOP storage="02121.ks"]

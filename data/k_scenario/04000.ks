@@ -1,29 +1,29 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
-;//¦—Dƒ‹[ƒgEƒUƒbƒsƒ“ƒOƒ‹[ƒgE‚±‚±‚Ü‚Å
+;//â€»å„ªãƒ«ãƒ¼ãƒˆãƒ»ã‚¶ãƒƒãƒ”ãƒ³ã‚°ãƒ«ãƒ¼ãƒˆãƒ»ã“ã“ã¾ã§
 
-;//wŠ´õi‰¼‘èj|—DEƒoƒbƒhƒGƒ“ƒhƒeƒLƒXƒgx
+;//ã€æ„ŸæŸ“ï¼ˆä»®é¡Œï¼‰âˆ’å„ªãƒ»ãƒãƒƒãƒ‰ã‚¨ãƒ³ãƒ‰ãƒ†ã‚­ã‚¹ãƒˆã€
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN04000w‘ÌˆçŠÙx
-;//BG:“Áê‹³ºF˜L‰ºF–éFÁ“”
-;//“oêl•¨GålŒöE—D
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04000ã€ä½“è‚²é¤¨ã€
+;//BG:ç‰¹æ®Šæ•™å®¤ï¼šå»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *04000_TOP
-;[debug_win]‚È‚¤@04000[debug_win_end]
+;[debug_win]ãªã†ã€€04000[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04000 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04000 = 1"]
 
-;*SceneSet|w‘ÌˆçŠÙx
+;*SceneSet|ã€ä½“è‚²é¤¨ã€
 
-;//flag:—Dƒ‹[ƒgƒtƒ[@‚SD‚T@•\¦
+;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼”ï¼ï¼•ã€€è¡¨ç¤º
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 
 ;//[bgm001]
 
@@ -37,24 +37,22 @@
 
 *3714|
 [fc]
-[ns]‰Á“¡[nse]
-u‘ÌˆçŠÙ‚ª‰ö‚µ‚¢‚ÈB‚±‚±‚©‚çˆê”Ô—£‚ê‚Ä‚é‚µccv[pcms]
+[ns]Kato[nse]
+The gymnasium seems suspicious.[l][er]
+It's the farthest place from here...[pcms]
 
 *3715|
 [fc]
-‚à‚µA—S“ñ’B‚ª–{“–‚ÉŠwZ‚ÅƒZƒbƒNƒX‚ğ‚µ‚æ‚¤‚Æ‚µ‚Ä‚¢[r]
-‚é‚È‚çA‚ ‚¢‚Â‚ç‚ª‚¢‚é‚Ì‚Í‘½•ªAw‘ÌˆçŠÙx‚©wƒgƒC[r]
-ƒŒx‚¾B[pcms]
+If Yuuji and the others are really planning to have sex at[r]school, they're probably in either the gymnasium or the[r]restroom.[pcms]
 
 *3716|
 [fc]
-“Á‚ÉA‹’®Šoº‚©‚çˆê”Ô—£‚ê‚Ä‚¢‚é‘ÌˆçŠÙ‚È‚çA‘½­‘å[r]
-‚«‚Èº‚ğo‚µ‚Ä‚à‰´’B‚É‚Í•·‚±‚¦‚È‚¢‚¾‚ë‚¤B[pcms]
+Especially, if we're in the gymnasium, which is the farthest[r]place from the audiovisual room, even if we speak a little[r]louder, we won't be heard by us.[pcms]
 
 *3717|
 [fc]
-—S“ñ’B‚àA“¯‚¶‚±‚Æ‚ğl‚¦‚½‰Â”\«‚Í‚‚¢B[r]
-‰´‚Í‘ÌˆçŠÙ‚É‘«‚ğŒü‚¯‚½B[pcms]
+Yuuji and the others probably had the same idea.[l][er]
+I headed towards the gymnasium.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -66,7 +64,7 @@
 
 ;//blackout
 
-;//[04001]‚Ö
+;//[04001]ã¸
 [jump target=*04001_TOP storage="04001.ks"]
 
 

@@ -1,22 +1,22 @@
 
-;//¡ËƒuƒƒbƒN08150w‹xŒex
-;//BG:‘Ìˆç—p‹ïºF–éFÁ“”
-;//“oêl•¨FålŒöE’|“àEƒŠƒTE“c’†E•ü”ü
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08150ã€ä¼‘æ†©ã€
+;//BG:ä½“è‚²ç”¨å…·å®¤ï¼šå¤œï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»ç«¹å†…ãƒ»ãƒªã‚µãƒ»ç”°ä¸­ãƒ»æœ‹ç¾
 
 *08150_TOP
-;[debug_win]‚È‚¤@08150[debug_win_end]
-;*SceneSet|w‹xŒex
+;[debug_win]ãªã†ã€€08150[debug_win_end]
+;*SceneSet|ã€ä¼‘æ†©ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08150 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08150 = 1"]
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 
-;//;//BG:–³‚µ
+;//;//BG:ç„¡ã—
 
 [fadeoutbgm time=500]
 
 ;	/*
-;	;//SE:’‚Ì‰¹
+;	;//SE:è™«ã®éŸ³
 ;	[se0 storage="se018"]
 ;	*/
 
@@ -26,28 +26,26 @@
 *v3563|
 [fc]
 [vo_ri s="risa0768"]
-[ns]V“¹[nse]
-u‚¾‚©‚ç‚Ëcc‚±‚¤A’†w‚Ì‘æ“ñŠÖß‚­‚ç‚¢‚ÌŠ‚ÉAƒN[r]
-ƒ‹ƒ~‘å‚ÌŒÅ‚Ü‚è‚ª—L‚Á‚Äcc‚»‚ê‚ğhŒƒ‚·‚é‚ÆAƒyƒjƒX[r]
-‚ªd‚­‚È‚é‚ÆŒ¾‚¤‚©ccv[pcms]
+[ns]Shindou[nse]
+So, you see... there's this walnut-sized lump around the[r]second joint of my middle finger...[l][er]
+and when I stimulate it, my penis gets hard, you know...[pcms]
 
 *9672|
 [fc]
-[ns]’|“à[nse]
-u‚Ö[‚ÁII@‚»‚¤‚È‚ñ‚¾ccBƒ{ƒN‚àƒlƒbƒg‚ÅŒ©‚½‚±[r]
-‚Æ—L‚Á‚½‚¯‚ÇA–{“–‚É‚»‚¤‚È‚ñ‚¾ccv[pcms]
+[ns]Takeuchi[nse]
+Ohh!! Is that so... I've seen something like that on the[r]internet, but it's really true...[pcms]
 
 *9673|
 [fc]
-“ñl‚ª‰½‚©Šy‚µ‚°‚É˜b‚µ‚Ä‚¢‚éccB[r]
-‰´‚à¬‚º‚Ä—~‚µ‚¢‚ÈccB[pcms]
+The two of them are talking happily about something...[l][er]
+I wish I could join in too...[pcms]
 
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 ;//
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 
 [bgm007]
 
@@ -65,110 +63,110 @@
 
 ;;;[sysbt_meswin]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3564|
 [fc]
 [vo_ri s="risa0769"]
-[ns]V“¹[nse]
-u‚ ‚çA‚à‚¤‚¨–ÚŠo‚ßH@‘‚¢‚í‚ËBv[pcms]
+[ns]Shindou[nse]
+Oh, you're already awake? You're up early.[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std626|
 [fc]
-[ns]’|“à[nse]
-u‚à‚¤­‚µQ‚Ä‚Ä‚à‚¢‚¢‚Ì‚ÉB‚»‚ñ‚È‚ÉŠÔŒo‚Á‚Ä‚È‚¢[r]
-‚æHv[pcms]
+[ns]Takeuchi[nse]
+You could have slept a little longer.[l][er]
+It hasn't been that long, right?[pcms]
 
 *9674|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¢‚âA‚È‚ñ‚©Šy‚µ‚»‚¤‚Èº‚ª•·‚±‚¦‚½‚©‚çccB‰½‚Ì[r]
-˜b‚µ‚Ä‚½‚ñ‚¾Hv[pcms]
+[ns]Kato[nse]
+No, I heard some voices that sounded like they were having[r]fun...[l][er]
+What were you talking about?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std627|
 [fc]
-[ns]’|“à[nse]
-uæ¶‚ªA‘O—§‘BhŒƒ‚Ì˜b‚ğ‚µ‚Ä‚­‚ê‚Ä‚½‚ñ‚¾cc—S“ñ[r]
-‚ÍA‚»‚ê‚Å‚R‰ñ‚àƒC‚©‚³‚ê‚½‚ç‚µ‚¢‚æcc‚È‚ñ‚©AÅŒã[r]
-‚Í‹Câ‚µ‚¿‚á‚Á‚½‚İ‚½‚¢‚¾‚¯‚Ç‚Ëv[pcms]
+[ns]Takeuchi[nse]
+The teacher was talking about prostate stimulation...[l][er]
+Yuuji apparently came three times from that...[l][er]
+He seemed to faint at the end though.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_a_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [ChrSetParts layer=1 chface="risa_a_a_09"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3565|
 [fc]
 [vo_ri s="risa0770"]
-[ns]V“¹[nse]
-u‹ƒ‚«‚È‚ª‚çƒCƒb‚Ä‚½‚íccB‚»‚ñ‚È‚É¦‚¢‚Ì‚©‚µ‚çccB[r]
-„‚É‚àƒyƒjƒX‚ª‚ ‚ê‚Î•ª‚©‚é‚ñ‚Å‚µ‚å‚¤‚¯‚Çccv[pcms]
+[ns]Shindou[nse]
+I came while crying... Is it really that amazing...[l][er]
+I wish I could understand if I had a penis too...[pcms]
 
 *9675|
 [fc]
-•Ó‚è‚ğŒ©‰ñ‚·‚ÆA—S“ñ‚àŒÜ\—’ƒTƒ“‚àAQ‘§‚ğ—§‚Ä‚Ä‚¢[r]
-‚éB“ñl‚Æ‚à—Ü‚ÌÕ‚ª‚ ‚éB[pcms]
+As I look around, both Yuuji and Igarashi-san are sleeping,[r]making gentle breathing sounds.[l][er]
+Both of them have traces of tears.[pcms]
 
 *9676|
 [fc]
-ŒÜ\—’ƒTƒ“‚Í‚Æ‚à‚©‚­‚Æ‚µ‚ÄA—S“ñ‚ª‹ƒ‚­‚È‚ñ‚ÄB‚¾‚ç[r]
-‚µ‚Ë‚¥ƒ„ƒc‚¾I@‹ƒ‚­‚Ù‚Ç‹C‚¿—Ç‚©‚Á‚½A‚Á‚Ä‚©H[pcms]
+As for Igarashi-san, leaving her aside, the fact that Yuuji[r]is crying...[l][er]
+What a sloppy guy! Was it so good that he cried?[pcms]
 
 *9677|
 [fc]
-‚¿‚­‚µ‚å‚¤cc‰½‚¾‚æA“ñl‚ÅK‚¹‚»‚¤‚ÉQ‚â‚ª‚Á‚ÄccB[pcms]
+Damn it... What the hell, sleeping so peacefully together...[pcms]
 
 *9678|
 [fc]
-—S“ñ’B‚ÌQŠç‚ğŒ©‚Ä‚¢‚½‚çA‚Ü‚½–°‚­‚È‚Á‚Ä‚«‚½ccB[pcms]
+As I watched Yuuji and the others sleeping, I started to[r]feel sleepy again...[pcms]
 
 [ChrSetEx layer=1 chbase="risa_a_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [ChrSetParts layer=1 chface="risa_a_a_09"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3566|
 [fc]
 [vo_ri s="risa0771"]
-[ns]V“¹[nse]
-u‰Á“¡ŒNcc‹M’j‚É‚à‚µ‚Ä‚ ‚°‚æ‚¤‚©Hv[pcms]
+[ns]Shindou[nse]
+Kato-kun... Should I give it a try with you too?[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std628|
 [fc]
-[ns]’|“à[nse]
-u‚¦‚¦‚ÁH@ƒ{ƒN‚É‚ÍAƒ{ƒN‚É‚Í‚µ‚Ä‚­‚ê‚È‚¢‚ÌHv[pcms]
+[ns]Takeuchi[nse]
+Huh? You won't do it with me?[pcms]
 
-;mm ’Ç‰Á
+;mm è¿½åŠ 
 [backlay_c][chara_int][trans_c cross time=150]
 
 
 *9679|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¢‚âcc‰“—¶‚µ‚Ä‚¨‚­‚æccB‚à‚¤ˆê‰ñ–°‚é‚æccv[pcms]
+[ns]Kato[nse]
+No... I'll pass... I'll go back to sleep again...[pcms]
 
 *9680|
 [fc]
-‚É‚¶‚èŠñ‚éV“¹æ¶‚ğ‰Ÿ‚µ‚Ì‚¯A‚Ü‚½‰¡‚É‚È‚éB[r]
-g‘Ì‚Ì’²q‚Í‚¢‚¢‚Ì‚ÉA–°‹C‚Í‰½“x‚àP‚Á‚Ä‚­‚éccB[r]
-‰´‚Ìg‘ÌA‰½‚©•Ï‚í‚Á‚½‚Ì‚©‚ÈccB[pcms]
+I push away Shindou-sensei who is creeping closer and lie[r]down again.[l][er]
+Even though my body feels fine, drowsiness keeps attacking[r]me...[l][er]
+Has something changed in my body...?[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -179,5 +177,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 [jump target=*08160_TOP storage="08160.ks"]

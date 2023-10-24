@@ -1,16 +1,16 @@
 
-;//¡ËƒuƒƒbƒN07370w“µEŠ´õx
-;//BG:“ñŠK˜L‰ºF—[•ûFÁ“”
-;//“oêl•¨GålŒöE“µEŠ´õƒŠƒT
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07370ã€ç³ãƒ»æ„ŸæŸ“ã€
+;//BG:äºŒéšå»Šä¸‹ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»æ„ŸæŸ“ãƒªã‚µ
 
 *07370_TOP
-;[debug_win]‚È‚¤@07370[debug_win_end]
-;*SceneSet|w“µEŠ´õx
+;[debug_win]ãªã†ã€€07370[debug_win_end]
+;*SceneSet|ã€ç³ãƒ»æ„ŸæŸ“ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07370 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07370 = 1"]
 ;	/*
-;	;//flag:“µƒ‹[ƒgƒtƒ[@‚P‚S@•\¦
-;	;//ôFBGM009
+;	;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼‘ï¼”ã€€è¡¨ç¤º
+;	;//â™ªï¼šBGM009
 ;	[bgm009]
 ;	*/
 ;//;//BG:bg06b
@@ -23,121 +23,118 @@
 
 *8491|
 [fc]
-ŠwH‚ÅŒ©‚½æ¶‚ÍARŠİ‚³‚ñ’ö‚Å‚Í‚È‚¢‚É‚µ‚Ä‚àA‚¢‚Â[r]
-‚à‚Æ‚Í—lq‚ªˆá‚Á‚Ä‚¢‚½B[pcms]
+The teacher I saw at the school cafeteria, while not as[r]stunning as Yamagishi-san, seemed different from usual.[pcms]
 
 *8492|
 [fc]
-V“¹æ¶‚ÍA‘½•ªccBŠ®‘S‚É‚¨‚©‚µ‚­‚È‚Á‚Ä‚¢‚éB[r]
-•ú’u‚µ‚ÄA“¦‚°‚½•û‚ª‚¢‚¢ccB[pcms]
+Sensei Shindou... Maybe... She's completely lost it.[l][er]
+It's better to leave her alone and run away...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_09"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3333|
 [fc]
 [vo_sa s="sae1130"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñII@•ğ‚¯‚Ä‚¢‚é—]—T‚Í—L‚è‚Ü‚¹‚ñII@æ[r]
-¶‚ğ•‚¯‚é‚Ì‚È‚çA‘‚­‚µ‚È‚¯‚ê‚ÎIIv[pcms]
+[ns]Saeki[nse]
+Kato-san!! There's no time to be dazed!![l][er]
+If we're going to help the teacher, we need to do it[r]quickly!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *8493|
 [fc]
-l‚¦‚ñ‚Å‚¢‚éŠÔ‚ÉA²”Œ‚ÍV“¹æ¶‚ÉŒü‚©‚Á‚Ä‘–‚èo[r]
-‚µ‚Ä‚¢‚½B[pcms]
+While lost in thought, Saeki started running towards Sensei[r]Shindou.[pcms]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 [se0 storage="se005"]
 
 *8494|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ÁI@²”ŒII@‘Ò‚ÄIIv[pcms]
+[ns]Kato[nse]
+Ah! Saeki!! Wait!![pcms]
 
 *8495|
 [fc]
-ˆø‚«—¯‚ß‚æ‚¤‚Æ‚µ‚Äè‚ğL‚Î‚µ‚½‚¯‚ÇAˆê•à’x‚©‚Á‚½B[r]
-²”Œ‚Í‚à‚¤Aæ¶‚Ì‚·‚®—×‚É—§‚Á‚Ä‚¢‚½B[pcms]
+I reached out to try to stop her, but I was a step too late.[l][er]
+Saeki was already standing right next to the teacher.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3334|
 [fc]
 [vo_sa s="sae1131"]
-[ns]²”Œ[nse]
-uæ¶II@‚µ‚Á‚©‚è‚µ‚Ä‰º‚³‚¢II@‹N‚«‚ÄII@ˆê[r]
-‚É“¦‚°‚Ü‚µ‚å‚¤II@æ¶IIv[pcms]
+[ns]Saeki[nse]
+Sensei!! Please pull yourself together!![l][er]
+Wake up!! Let's escape together!![l][er]
+Sensei!![pcms]
 
 *8496|
 [fc]
-[ns]‰Á“¡[nse]
-u²”ŒII@‚·‚®‚É—£‚ê‚ë‚ÁI@V“¹æ¶‚à‚¨‚©‚µ‚­‚È[r]
-‚Á‚Ä‚é‚ñ‚¾II@—£‚ê‚ëccv[pcms]
+[ns]Kato[nse]
+Saeki!! Get away quickly! Sensei Shindou has also gone[r]crazy!![l][er]
+Get away...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3335|
 [fc]
 [vo_sa s="sae1132"]
-[ns]²”Œ[nse]
-u‚¦IH@‚»A‚»‚ñ‚ÈccB‚Å‚àA‘S‚­“®‚«‚Ü‚¹‚ñcc[r]
-‘§‚Í‚µ‚Ä‚¢‚é‚Ì‚ÅA€‚ñ‚Å‚Í‚¢‚È‚¢—l‚Å‚·‚©‚çccA‚±[r]
-‚Ì‚Ü‚ÜA”w•‰‚Á‚Ä‚Å‚à•‚¯‚Äccv[pcms]
+[ns]Saeki[nse]
+Eh!? Th-That's... But she's not moving at all...[l][er]
+She's still breathing, so it seems like she's not dead...[l][er]
+I'll carry her if I have to, but I have to save her...[pcms]
 
 *8497|
 [fc]
-Šm‚©‚É²”Œ‚ÌŒ¾‚¤’Ê‚èAæ¶‚ÍA‚·‚®–T‚Él‚ª‚¢‚Ä‘å‚«[r]
-‚Èº‚ÅŒÄ‚Ñ‚©‚¯‚Ä‚¢‚é‚Ì‚ÉA‚Ò‚­‚è‚Æ‚à‚µ‚È‚©‚Á‚½B[pcms]
+Indeed, just as Saeki said, the teacher didn't even flinch[r]despite someone being right next to her, calling out loudly.[pcms]
 
 *8498|
 [fc]
-‚â‚Á‚Ï‚èA‰´‚Ìv‚¢‰ß‚²‚µ‚©‚ÈccBæ¶AŒ³‚É–ß‚Á‚Ä[r]
-‚é‚Ì‚©‚àccB[pcms]
+Maybe, it was just my imagination...[l][er]
+The teacher might have returned to normal...[pcms]
 
 *8499|
 [fc]
-²”Œ‚ÌŒ¾‚¤‚Æ‚¨‚èccBæ¶‚ğ”w•‰‚Á‚Ä‚Å‚àcc‚»‚¤‚µ[r]
-‚½•û‚ª‚¢‚¢‚©‚àccIH[pcms]
+As Saeki said... Even if I have to carry the teacher on my[r]back...[l][er]
+It might be better to do so...!?[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:‚¤‚È‚èº
+;//SE:ã†ãªã‚Šå£°
 [se0 storage="se050"]
 
 *8500|
 [fc]
-ƒNƒ\ƒbccƒAƒCƒc‚ç‚¾II[r]
-‚Ü‚½’Ç‚¢‚©‚¯‚Ä—ˆ‚½ccB[pcms]
+Damn it... Those guys!! They're chasing us again...[pcms]
 
 *8501|
 [fc]
-æ¶‚ğ˜A‚ê‚Äs‚Á‚½‚çA’Ç‚¢‚Â‚©‚ê‚Ä‚µ‚Ü‚¤‰Â”\«‚ª‚[r]
-‚¢B‚»‚ê‚ÉA²”Œ‚ğç‚ç‚È‚¯‚ê‚Î‚¢‚¯‚È‚¢B[pcms]
+If I were to take the teacher with us, there is a high[r]possibility that we would be caught.[l][er]
+Besides, I have to protect Saeki.[pcms]
 
 *8502|
 [fc]
-ƒNƒ\ccB[r]
-‰Âˆ£‘Š‚¾‚¯‚ÇAæ¶‚ÍccŒã‚Å•‚¯‚É—ˆ‚æ‚¤II[pcms]
+Damn it... It's unfortunate, but the teacher...[l][er]
+I'll come back to help later!![pcms]
 
 *8503|
 [fc]
-[ns]‰Á“¡[nse]
-u²”ŒII@¡‚ÍAæ¶‚Í‚»‚Ì‚Ü‚Ü‚É‚µ‚ÄA“¦‚°‚é‚¼II[r]
-ƒ„ƒc‚ç‚ªA’Ç‚¢‚©‚¯‚Ä—ˆ‚½II@‰®ã‚¾II[r]
-‘‚­—ˆ‚¢IIv[pcms]
+[ns]Kato[nse]
+Saeki!! For now, leave the teacher as she is and let's[r]escape!![l][er]
+They're chasing us!! Meet me on the rooftop!![l][er]
+Hurry!![pcms]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 [se0 storage="se005"]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
@@ -145,13 +142,13 @@
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3336|
 [fc]
 [vo_sa s="sae1133"]
-[ns]²”Œ[nse]
-u•ª‚©‚è‚Ü‚µ‚½IIv[pcms]
+[ns]Saeki[nse]
+Understood!![pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -162,7 +159,7 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//SE:•‚ª”j‚ê‚é
+;//SE:æœãŒç ´ã‚Œã‚‹
 
 [se0 storage="se006"]
 
@@ -173,14 +170,14 @@
 *v3337|
 [fc]
 [vo_ri s="risa0665"]
-[ns]V“¹[nse]
-u‚¤‚ŸccA‚Ü‚ÁA‚Äv[pcms]
+[ns]Shindou[nse]
+Ugh... w-wait...[pcms]
 
 *v3338|
 [fc]
 [vo_sa s="sae1134"]
-[ns]²”Œ[nse]
-u‚ ‚ÁIHv[pcms]
+[ns]Saeki[nse]
+Ah!?[pcms]
 
-;//[07380]‚Ö
+;//[07380]ã¸
 [jump target=*07380_TOP storage="07380.ks"]

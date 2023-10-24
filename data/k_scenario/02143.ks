@@ -1,20 +1,20 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02143w—D‚Ì‹C‚É‚È‚é‘Šè‚Æ‚Íx
-;//BG:‰®ãF—[•û
-;//“oêl•¨GålŒöE—D
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02143ã€å„ªã®æ°—ã«ãªã‚‹ç›¸æ‰‹ã¨ã¯ã€
+;//BG:å±‹ä¸Šï¼šå¤•æ–¹
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02143_TOP
-;[debug_win]‚È‚¤@02143[debug_win_end]
+;[debug_win]ãªã†ã€€02143[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02143 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02143 = 1"]
 
-;*SceneSet|w—D‚Ì‹C‚É‚È‚é‘Šè‚Æ‚Íx
+;*SceneSet|ã€å„ªã®æ°—ã«ãªã‚‹ç›¸æ‰‹ã¨ã¯ã€
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 
 [fadeoutbgm time=500]
 
@@ -22,118 +22,108 @@
 ;[bg storage="bg22e"]
 ;[trans_c cross time=500]
 
-;//SE:’‚Ì‰¹ƒ‹[ƒv
+;//SE:è™«ã®éŸ³ãƒ«ãƒ¼ãƒ—
 
 [se0 storage="se018"]
 
 *2601|
 [fc]
-‰B‚ê‚ÄŒ©‚Ä‚¢‚½‚±‚Æ‚ª‚í‚©‚ê‚ÎARŠİ‚³‚ñ‚Éˆ«‚­v‚í‚ê[r]
-‚é‚æ‚¤‚É‚È‚é‚©‚à‚µ‚ê‚È‚¢B[pcms]
+If she finds out that I was secretly watching, Yamagishi-san[r]might start thinking badly of me.[pcms]
 
 *2602|
 [fc]
-‚Å‚àAˆê“x‹C‚É‚È‚èn‚ß‚é‚ÆA“š‚¦‚ğ”Ş—‚©‚ç•·‚­‚Ü‚Å[r]
-“ª‚©‚ç—£‚ê‚»‚¤‚É‚È‚¢[pcms]
+But once it starts bothering me, it's hard to get it out of[r]my head until I hear the answer from her.[pcms]
 
 *2603|
 [fc]
-‰´‚Ív‚¢‚«‚Á‚ÄARŠİ‚³‚ñ‚Éw‹C‚É‚È‚é’jqx‚É‚Â‚¢‚Ä[r]
-•·‚¢‚Ä‚İ‚é‚±‚Æ‚É‚µ‚½B[pcms]
+I gathered my courage and decided to ask Yamagishi-san about[r]the guy who's been on my mind.[pcms]
 
 *2604|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚Ë‚¥ARŠİ‚³‚ñB‹”N‚³cc‚±‚±‚ÅA’N‚©‚É”’[r]
-‚³‚ê‚Ä‚È‚©‚Á‚½Hv[pcms]
+[ns]Kato[nse]
+Oh, hey, Yamagishi-san. Um... last year, did someone confess[r]to you here?[pcms]
 
 *2605|
 [fc]
-“Ë‘R‚Ìw“E‚ÉARŠİ‚³‚ñ‚ÍƒMƒ‡ƒb‚Æ‚µ‚½Šç‚ÅA‰´‚ğŒ©‚Â[r]
-‚ß‚½B[pcms]
+Yamagishi-san looked at me with a startled expression on her[r]face in response to the sudden remark.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1014|
 [fc]
 [vo_ya s="yama0334"]
-[ns]RŠİ[nse]
-u‚¦A‚Ç‚¤‚µ‚Äccv[pcms]
+[ns]Yamagishi[nse]
+Eh, why...[pcms]
 
 *2606|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ÌA‚½‚Ü‚½‚Ü‚±‚±‚É—ˆ‚Ä‚Ä‚³Bˆ«‚¢‚Æ‚Ív‚Á‚½‚ñ[r]
-‚¾‚¯‚ÇA“ñl‚Ì‘¼‚É’N‚à‚¢‚È‚¢‚µAo‚Äs‚Á‚Ä‚¢‚¢‚Ì‚©[r]
-‚à‚í‚©‚ç‚È‚­‚ÄccƒSƒƒ“‚Ëv[pcms]
+[ns]Kato[nse]
+At that time, I happened to be here.[l][er]
+I knew it was wrong, but there was no one else besides the[r]two of us, and I didn't know if I should leave...[l][er]
+I'm sorry.[pcms]
 
 *2607|
 [fc]
-RŠİ‚³‚ñ‚Í‰´‚©‚çŠç‚ğˆí‚ç‚µ‚ÄA‚¤‚Â‚Ş‚¢‚Ä‚µ‚Ü‚Á‚½B[pcms]
+Yamagishi-san averted her gaze from me and looked down.[pcms]
 
 *2608|
 [fc]
-‰B‚ê‚ÄŒ©‚Ä‚¢‚½‚±‚Æ‚Å“{‚ç‚¹‚Ä‚µ‚Ü‚Á‚½‚Ì‚©‚Ç‚¤‚©A”Ş[r]
-—‚ÌŠç‚Í”¯‚É‰B‚ê‚Ä‚µ‚Ü‚Á‚ÄA‚»‚ê‚ğ’m‚é‚±‚Æ‚Í‚Å‚«‚È[r]
-‚©‚Á‚½B[pcms]
+I couldn't tell if she was angry because of me secretly[r]watching or not, as her face was hidden by her hair.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1015|
 [fc]
 [vo_ya s="yama0335"]
-[ns]RŠİ[nse]
-ucc˜b‚µ‚Ä‚½‚±‚ÆA‘S•”•·‚±‚¦‚Ä‚½ccHv[pcms]
+[ns]Yamagishi[nse]
+... Did you hear everything we were talking about...?[pcms]
 
 *2609|
 [fc]
-RŠİ‚³‚ñ‚Í‚¤‚Â‚Ş‚¢‚½‚Ü‚ÜAÁ‚¦“ü‚è‚»‚¤‚Èº‚ÅA‰´‚É[r]
-•·‚¢‚Ä‚«‚½B[pcms]
+Yamagishi-san, still looking down, asked me in a barely[r]audible voice.[pcms]
 
 *2610|
 [fc]
-w‹C‚É‚È‚é’j‚Ìqx‚ª’N‚È‚Ì‚©‚ğ•·‚­”¤‚¾‚Á‚½‚ªA‰´‚Í[r]
-™òšl‚É‚²‚Ü‚©‚µ‚Ä‚µ‚Ü‚Á‚Ä‚¢‚½B[pcms]
+I was supposed to ask who the guy who's been on my mind was,[r]but I instinctively dodged the question.[pcms]
 
 *2611|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤A‚¤‚¤‚ñA‰½‚É‚à•·‚±‚¦‚È‚©‚Á‚½‚æBŒ©‚½‚Ì‚Í‰“‚­[r]
-‚©‚ç‚¾‚µA“ñl‚Á‚«‚è‚Å‰®ã‚É‚¢‚é‚©‚çA”’‚³‚ê‚Ä‚é[r]
-‚Ì‚©‚È‚Á‚ÄAv‚Á‚½‚¾‚¯‚Åccv[pcms]
+[ns]Kato[nse]
+U-um, no, I didn't hear anything.[l][er]
+I was watching from afar, and since it was just the two of[r]us on the rooftop, I just thought maybe someone was[r]confessing to you...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1016|
 [fc]
 [vo_ya s="yama0336"]
-[ns]RŠİ[nse]
-u‚»‚¤ccv[pcms]
+[ns]Yamagishi[nse]
+I see...[pcms]
 
 *2612|
 [fc]
-‚¤‚Â‚Ş‚¢‚½‚Ü‚ÜARŠİ‚³‚ñ‚Í‚»‚ê‚«‚è–Ù‚Á‚Ä‚µ‚Ü‚Á‚½B[pcms]
+Yamagishi-san remained silent, still looking down.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 ;[stop_se0]
 
-;//[02145]‚Ö
+;//[02145]ã¸
 [jump target=*02145_TOP storage="02145.ks"]
 
 

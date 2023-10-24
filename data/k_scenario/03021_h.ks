@@ -1,22 +1,22 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN03021w–ÚŒ‚x‰‰
-;//Ë’|“à‹“_
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯03021ã€ç›®æ’ƒã€â™‚â™‚
+;//â‡’ç«¹å†…è¦–ç‚¹
 
-;//BG:‹³ºF–éF“_“”
-;//“oêl•¨G’|“àE“µ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;//BG:æ•™å®¤ï¼šå¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ç«¹å†…ãƒ»ç³
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *03021_H_TOP
-;[debug_win]‚È‚¤@03021_H[debug_win_end]
+;[debug_win]ãªã†ã€€03021_H[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_03021 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_03021 = 1"]
 
-;*SceneSet|w–ÚŒ‚x
+;*SceneSet|ã€ç›®æ’ƒã€
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 
 ;//[bgm007]
 
@@ -27,543 +27,521 @@
 
 *3346|
 [fc]
-‚±‚±‚¾cc‹³º‚Ì‚Ç^‚ñ’†B[r]
-¶“k‰ï’·‚¾‚©‚ç‚Á‚ÄAƒNƒ‰ƒX‚Ì’†S‹Cæ‚è‚È‚Ì‚©H[r]
-«Ši‚Ìˆ«‚¢—‚¾‚È‚ŸccB[pcms]
+Here it is... right in the middle of the classroom.[l][er]
+Is she trying to act like the center of attention just[r]because she's the student council president?[l][er]
+What a nasty personality she has...[pcms]
 
 *3347|
 [fc]
-[ns]’|“à[nse]
-u‚ `cc‚È‚ñ‚©A“µ‚ÉƒU[ƒƒ“‚©‚¯‚é‚İ‚½‚¢‚ÅA‹»•±[r]
-‚µ‚Ä‚«‚½‚Ÿccv[pcms]
+[ns]Takeuchi[nse]
+Ahh... Somehow, it's getting me excited, like I want to[r]ejaculate on Hitomi...[pcms]
 
 *3348|
 [fc]
-“ñŠwŠú‚É‚È‚Á‚Ä‚±‚ÌÈ‚ÉÀ‚Á‚½A‚Ç‚ñ‚ÈŠç‚·‚é‚ñ‚¾‚ë[r]
-‚¤‚È‚ŸccB[pcms]
+I wonder what kind of expression she'll have when she sits[r]in this seat in the second semester...[pcms]
 
 *3349|
 [fc]
-‰Ä‹x‚İ‚ªI‚í‚é‚Ì‚ª‚±‚ñ‚È‚ÉŠy‚µ‚İ‚È‚ñ‚ÄA¡‚Ü‚Å‚Å‰[r]
-‚ß‚Ä‚¾‚æccB[pcms]
+I've never been so excited for summer vacation to end...[l][er]
+it's the first time ever.[pcms]
 
 *3350|
 [fc]
-[ns]’|“à[nse]
-uƒNƒtƒbccƒtƒqƒqƒbccƒ“ƒt[ƒbAƒnƒ@[ƒbccv[pcms]
+[ns]Takeuchi[nse]
+Kufu... Fuhii... Nfuuhh, haaah...[pcms]
 
 *3351|
 [fc]
-–{“–‚È‚çAÀ•¨‚Ì“µ‚É‚©‚¯‚Ä‚â‚é‚Æ‚±‚ë‚¾‚¯‚ÇA¡“ú‚Í[r]
-Š÷‚ÅŠ¨•Ù‚µ‚Ä‚ ‚°‚é‚æA“µ‚¡I[pcms]
+I should really do it to the real Hitomi, but I'll spare her[r]today and do it on the desk instead, Hitomi![pcms]
 
 *3352|
 [fc]
-[ns]’|“à[nse]
-uƒnƒ@[ƒbAƒnccv[pcms]
+[ns]Takeuchi[nse]
+Haaah, haa...[pcms]
 
-;//SE:”à‚ğŠJ‚­
+;//SE:æ‰‰ã‚’é–‹ã
 
 [se0 storage="se008"]
 
 *3353|
 [fc]
-ccH[pcms]
+...?[pcms]
 
 *3354|
 [fc]
-ccccB[pcms]
+â€¦â€¦â€¦â€¦ã€‚[pcms]
 
 *3355|
 [fc]
-‰R‚¾cc‰R‚¾‚æ‚Ëcc’N‚à‚¢‚È‚¢‚æ‚ËccB[pcms]
+It's a lie... It must be a lie...[l][er]
+There's no one here, right...?[pcms]
 
 *3356|
 [fc]
-‚»[‚Á‚ÆŒã‚ë‚ğU‚èŒü‚­‚ÆA‹³º‚Ì‘O‚ÌƒhƒA‚ÌŠ‚ÅA•s[r]
-v‹c‚È‚à‚Ì‚Å‚àŒ©‚é‚æ‚¤‚ÈŠç‚ğ‚µ‚ÄA“µ‚ªŒÅ‚Ü‚Á‚Ä‚¢‚½B[pcms]
+When I quietly turned around, Hitomi was standing near the[r]door of the classroom, with a strange expression on her[r]face, as if she had seen something unusual, and she seemed[r]frozen.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1306|
 [fc]
 [vo_sa s="sae0091"]
-[ns]²”Œ[nse]
-uccccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦â€¦â€¦[l][er]
 
 *3357|
 [fc]
-[ns]’|“à[nse]
-uccccv[pcms]
+[ns]Takeuchi[nse]
+â€¦â€¦â€¦â€¦[l][er]
 
 *3358|
 [fc]
-Œ©‚ç‚ê‚½cc“µ‚ÉAŒ©‚ç‚ê‚½ccB[pcms]
+I was seen... by Hitomi, I was seen...[pcms]
 
 *3359|
 [fc]
-‚Ç‚¤‚µ‚æ‚¤‚Ç‚¤‚µ‚æ‚¤‚Ç‚¤‚µ‚æ‚¤‚Ç‚¤‚µ‚æ‚¤‚Ç‚¤‚µ‚æ‚¤[r]
-‚Ç‚¤‚µ‚æ‚¤‚Ç‚¤‚µ‚æ‚¤‚Ç‚¤‚µ‚æ‚¤‚Ç‚¤‚µ‚æ‚¤‚Ç‚¤‚µ‚æ‚¤[r]
-‚Ç‚¤‚µ‚æ‚¤‚Ç‚¤‚µ‚æ‚¤‚Ç‚¤‚µ‚æ‚¤‚Ç‚¤‚µ‚æ‚¤‚Ç‚¤‚µ‚æ‚¤[pcms]
+What should I do, what should I do, what should I do, what[r]should I do, what should I do, what should I do, what should[r]I do, what should I do, what should I do, what should I do,[r]what should I do, what should I do, what should I do, what[r]should I do, what should I do?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_07"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1307|
 [fc]
 [vo_sa s="sae0092"]
-[ns]²”Œ[nse]
-ucc‰½‚ğcc‚µ‚Ä‚¢‚é‚Ì‚Å‚·‚©ccHv[pcms]
+[ns]Saeki[nse]
+... What are you... doing?[pcms]
 
 *3360|
 [fc]
-[ns]’|“à[nse]
-u‚¦H@‚¢‚âA‚¿‚å‚Á‚ÆU•à‚µ‚Ä‚Ä‚³ccv[pcms]
+[ns]Takeuchi[nse]
+Huh? Oh, I was just taking a walk...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_07"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1308|
 [fc]
 [vo_sa s="sae0093"]
-[ns]²”Œ[nse]
-uIIv[pcms]
+[ns]Saeki[nse]
+!![pcms]
 
 *3361|
 [fc]
-[ns]’|“à[nse]
-uccHv[pcms]
+[ns]Takeuchi[nse]
+...?[pcms]
 
 *3362|
 [fc]
-–Ú‚ğŠÛ‚­‚µ‚ÄA‚»‚Ì‚Ü‚ÜŒÅ‚Ü‚Á‚Ä‚µ‚Ü‚Á‚½“µ‚Ì‹ü‚ÍA[r]
-o‚µ‚Á‚Ï‚È‚µ‚É‚È‚Á‚Ä‚¢‚½ƒ{ƒN‚Ìƒ`ƒ“ƒR‚É“B•t‚¯‚É‚È‚Á[r]
-‚Ä‚¢‚½B[pcms]
+Hitomi's gaze, wide-eyed and frozen, was fixated on my[r]exposed penis.[pcms]
 
 *3363|
 [fc]
-‚¸‚Á‚Æ‘OA‘×”V‚ÆŒ©‚Ä‚½ƒGƒ–{‚ğA‚Ó‚´‚¯‚Ä“µ‚ÉŒ©‚¹‚½[r]
-‚ÍA‰½‚Ì”½‰‚à‚È‚©‚Á‚½‚Ì‚ÉccB[pcms]
+A while ago, when I jokingly showed Hitomi the erotic book[r]that Taiyuki and I were looking at, she didn't react at[r]all...[pcms]
 
 *3364|
 [fc]
-‚â‚Á‚Ï‚èƒ{ƒN‚Ìƒ`ƒ“ƒR‚Á‚ÄA—‚Ìq‚ª‹Á‚­‚Ù‚Ç‚Å‚Á‚©‚¢[r]
-‚ñ‚¾‚È‚ŸccB[pcms]
+As expected, my penis is surprisingly big, huh...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_09"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1309|
 [fc]
 [vo_sa s="sae0094"]
-[ns]²”Œ[nse]
-u‚ ‚È‚½‚Á‚ÄA–{“–‚ÉlŠÔ‚Ì‹û‚Ëccv[pcms]
+[ns]Saeki[nse]
+You really are a piece of human garbage...[pcms]
 
 *3365|
 [fc]
-[ns]’|“à[nse]
-u‚±‚ÁA‚±‚êA‚¿‚ª‚¤‚ñ‚¾‚Á‚Äccv[pcms]
+[ns]Takeuchi[nse]
+Th-this, it's not what you think...[pcms]
 
 *3366|
 [fc]
-Q‚Ä‚Äƒ`ƒ“ƒR‚ğ‚µ‚Ü‚¨‚¤‚Æ‚µ‚Ä‚àA‚Å‚Á‚©‚¢‚Ì‚ªƒ{ƒbƒL[r]
-‚µ‚½‚Ü‚Ü‚É‚È‚Á‚Ä‚é‚¹‚¢‚ÅA‘S‘R‚µ‚Ü‚¦‚È‚¢B[pcms]
+I tried to hurriedly put away my penis, but because it was[r]still erect and big, I couldn't put it away at all.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_10"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1310|
 [fc]
 [vo_sa s="sae0095"]
-[ns]²”Œ[nse]
-uŒ¾‚¢‚½‚¢‚±‚Æ‚ª‚ ‚é‚È‚çA„–{l‚ÉŒ¾‚¦‚Î‚¢‚¢‚¶‚á‚ [r]
-‚è‚Ü‚¹‚ñ‚©B‚»‚ê‚ğA„‚ÌŠ÷‚É‘Î‚µ‚ÄA‚»‚ñ‚Èccv[pcms]
+[ns]Saeki[nse]
+If you have something to say, why don't you say it directly[r]to me?[l][er]
+Instead of doing that... in front of my desk...[pcms]
 
 *3367|
 [fc]
-[ns]’|“à[nse]
-u‚¿A‚¿‚ª‚¤‚ñ‚¾‚Á‚Ä‚Îcc‚È‚ñ‚©A‚«‚ã‚¤‚Éƒ`ƒ“ƒR‚ª[r]
-’É‚­‚È‚Á‚Ä‚«‚½‚©‚çA‚¿‚å‚Á‚ÆŒ©‚Ä‚½‚¾‚¯‚Åccv[pcms]
+[ns]Takeuchi[nse]
+N-No, that's not it... I mean, my penis suddenly started[r]hurting, so I was just taking a look...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1311|
 [fc]
 [vo_sa s="sae0096"]
-[ns]²”Œ[nse]
-u“®‚©‚È‚¢‚ÅƒbI@‚»‚ñ‚È‰˜‚ç‚í‚µ‚¢‚à‚Ì‚ğA„‚É‹ß‚Ã[r]
-‚¯‚È‚¢‚Å‚­‚¾‚³‚¢IIv[pcms]
+[ns]Saeki[nse]
+Don't move! Don't bring something so filthy near me!![pcms]
 
 *3368|
 [fc]
-“µ‚Íæ¶—p‚ÌŠ÷‚É’u‚«‚Á‚Ï‚È‚µ‚É‚µ‚Ä‚¢‚½ƒfƒWƒJƒ‚ğè[r]
-‚Éæ‚Á‚ÄA‚µ‚©‚ß‚Á–Ê‚É‚È‚Á‚½BÄ¶‚µ‚½‚Ü‚ñ‚Ü‚É‚µ‚Ä[r]
-‚½A‚¨•óƒXƒ‰ƒCƒhƒVƒ‡[‚ğŒ©‚½‚ñ‚¾ccB[pcms]
+Hitomi picked up the digital camera that was left on the[r]teacher's desk and frowned.[l][er]
+She had watched the treasure slideshow just as it was[r]playing...[pcms]
 
 *3369|
 [fc]
-‚Ç‚¤‚µ‚æ‚¤cc“B‚µ‚Ä‚½‚Ì‚ª“µ‚ÉƒoƒŒ‚¿‚á‚Á‚½ccB[pcms]
+What should I do... Hitomi found out that I was secretly[r]taking pictures...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1312|
 [fc]
 [vo_sa s="sae0097"]
-[ns]²”Œ[nse]
-u‚â‚Á‚Ï‚èccB‚¢‚Â‚à‚¿•à‚¢‚Ä‚¢‚é‚©‚çA‰ö‚µ‚¢‚Æ[r]
-‚Ív‚Á‚Ä‚¢‚Ü‚µ‚½‚¯‚Çccv[pcms]
+[ns]Saeki[nse]
+As I thought... I had a feeling it was suspicious since you[r]always carry it around...[pcms]
 
 *3370|
 [fc]
-[ns]’|“à[nse]
-u‚¿‚ÁA‚¿‚ª‚¤‚æA‚»‚ê‚ÍƒGƒ–{‚ğAƒfƒWƒJƒ‚ÅÊ‚µ‚½[r]
-‚â‚Â‚Åccv[pcms]
+[ns]Takeuchi[nse]
+N-No, that's not it... I mean, I took pictures of an erotic[r]book with my digital camera...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1313|
 [fc]
 [vo_sa s="sae0098"]
-[ns]²”Œ[nse]
-u—[H‚Ì‚ÉB‚Á‚½‚à‚Ì‚àA‚±‚Ì’†‚É‚ ‚é‚Ì‚Å‚µ‚å‚¤H[r]
-„ˆÈŠO‚É‚àARŠİ‚³‚ñ‚Ì‚àAŒÜ\—’æ”y‚Ì‚àv[pcms]
+[ns]Saeki[nse]
+The ones you took during dinner are also in here, right?[l][er]
+Not just mine, but also Yamagishi-san's and Igarashi-[r]senpai's.[pcms]
 
 *3371|
 [fc]
-[ns]’|“à[nse]
-u‚ ‚ê‚Í‚Ù‚ñ‚Æ‚É‚Ó‚§[‚­‚ğ‚Æ‚Á‚½‚¾‚¯‚¾‚Á‚ÄIv[pcms]
+[ns]Takeuchi[nse]
+I-I really just took photos of a book, I swear![pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1314|
 [fc]
 [vo_sa s="sae0099"]
-[ns]²”Œ[nse]
-u‚Ç‚¤‚©‚µ‚çccB¡“ú‚ÌŠÓÜ‰ï‚àA—q¶“k‚ª’u‚«–Y[r]
-‚ê‚½‘Ì‘€’…‚â‰½‚©‚ğ•¨F‚·‚é–Ú“I‚ÅAQ‰Á‚µ‚½‚Ì‚Å‚µ‚å[r]
-‚¤‚Ëv[pcms]
+[ns]Saeki[nse]
+I wonder... You participated in today's viewing session with[r]the purpose of searching for something, like the gym clothes[r]that the female students left behind, right?[pcms]
 
 *3372|
 [fc]
-[ns]’|“à[nse]
-u‚¢‚¢‚ª‚©‚è‚¾‚æA‚»‚ñ‚È‚ÌIv[pcms]
+[ns]Takeuchi[nse]
+That's just an excuse![pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_10"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1315|
 [fc]
 [vo_sa s="sae0100"]
-[ns]²”Œ[nse]
-u‰˜‚ç‚í‚µ‚¢‚à‚Ì‚ğŒ©‚¹‚È‚ª‚çŒ¾‚Á‚Ä‚àAà“¾—Í‚Í‚ ‚è[r]
-‚Ü‚¹‚ñIIv[pcms]
+[ns]Saeki[nse]
+It's not convincing to say that while showing me something[r]filthy!![pcms]
 
 *3373|
 [fc]
-[ns]’|“à[nse]
-u‚¤ccv[pcms]
+[ns]Takeuchi[nse]
+Uhh...[pcms]
 
 *3374|
 [fc]
-ƒ{ƒN‚Ìƒ`ƒ“ƒR‚Í‚Ü‚¾ƒ{ƒbƒL‚µ‚½‚Ü‚ñ‚Ü‚ÅA‘O‹ü‚İ‚É‚È‚Á[r]
-‚Ä—¼è‚Å‰B‚µ‚Ä‚Í‚İ‚½‚¯‚ÇA‘S‘R‰B‚ê‚Ä‚È‚¢B[pcms]
+My dick is still rock hard, and even though I bent forward[r]and tried to hide it with both hands, it's not hidden at[r]all.[pcms]
+[l][er]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1316|
 [fc]
 [vo_sa s="sae0101"]
-[ns]²”Œ[nse]
-u‘å‘ÌA‚ ‚È‚½‚Í‘S‚Ä‚ª‰˜‚ç‚í‚µ‚¢‚íI@—q‚ğ«—~‚Ì[r]
-‚Í‚¯Œû‚Æ‚µ‚©Œ©‚Ä‚¢‚È‚¢‚»‚Ì–ÚA‰º•i‚È‚±‚Æ‚µ‚©˜b‚³‚È[r]
-‚¢‚»‚ÌŒûA‚¾‚ç‚µ‚È‚¢‚»‚Ì‘ÌI@’_‚ª‘–‚é‚íIIv[pcms]
+[ns]Saeki[nse]
+Everything about you is disgusting![l][er]
+Your eyes that only see women as objects of sexual desire,[r]your mouth that only speaks vulgar things, and your sloppy[r]body![l][er]
+It makes my skin crawl!![pcms]
 
 *3375|
 [fc]
-[ns]’|“à[nse]
-u‚©A‚©‚ç‚¾‚Í‚©‚ñ‚¯‚¢‚È‚¢‚¾‚ëccv[pcms]
+[ns]Takeuchi[nse]
+M-My body has nothing to do with it...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1317|
 [fc]
 [vo_sa s="sae0102"]
-[ns]²”Œ[nse]
-u‚µ‚©‚à“B‚Ü‚ÅccB‚ ‚È‚½‚Ì‚µ‚Ä‚¢‚é‚±‚Æ‚ÍA•´‚ê[r]
-‚à‚È‚¢”Æß‚Å‚·ƒbII@‚â‚Á‚Ï‚è—[H‚ÌA“–‹Ç‚É’Ê•ñ[r]
-‚·‚ê‚Î—Ç‚©‚Áccv[pcms]
+[ns]Saeki[nse]
+And on top of that, you even took voyeuristic photos...[l][er]
+What you're doing is undoubtedly a crime!![l][er]
+I should have reported you to the authorities during[r]dinner...[pcms]
 
 *3376|
 [fc]
-ƒfƒWƒJƒ‚ğ‚à‚¤ˆê‰ñŒ©‚ÄA“µ‚Í‚Ü‚½ŒÅ‚Ü‚Á‚½B[r]
-¬‚³‚¢‚¯‚ÇAƒfƒWƒJƒ‚©‚ç‰¹‚ª•·‚±‚¦‚Ä‚­‚éB[pcms]
+Saeki looked at the digital camera again and froze once[r]more.[l][er]
+It's small, but she could hear a sound coming from the[r]camera.[pcms]
 
 *3377|
 [fc]
-‚±‚êAl‚ÌºccH[pcms]
+Is this... someone's voice...?[pcms]
 
 *3378|
 [fc]
-[ns]’|“à[nse]
-u‚ ‚Áccv[pcms]
+[ns]Takeuchi[nse]
+Ah...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1318|
 [fc]
 [vo_sa s="sae0103"]
-[ns]²”Œ[nse]
-u‰½‚Å‚·‚©cc‰½‚È‚Ì‚Å‚·‚©cc‚±‚ê‚ÍIIv[pcms]
+[ns]Saeki[nse]
+What is this... What is this...[l][er]
+What is this?![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1319|
 [fc]
 [vo_sa s="sae0104"]
-[ns]²”Œ[nse]
-uV“¹æ¶‚àA‚½‚¾‚Ì—‚¾‚Á‚Ä‚±‚Æ‚ËccB‚±‚ÌŠwZ‚Å[r]
-—BˆêA‘¸Œh‚Å‚«‚éæ¶‚¾‚Á‚½‚Ì‚Écc‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Shindou-sensei, you're just a woman after all...[l][er]
+You were the only teacher at this school whom I[r]respected...!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *3379|
 [fc]
-ƒfƒWƒJƒ‚ğ‚Á‚Ä‚¢‚é“µ‚Ìè‚ªAƒuƒ‹ƒuƒ‹k‚¦‚Ä‚¢‚éB[r]
-‚È‚É“{‚Á‚Ä‚ñ‚¾H@ƒRƒCƒcccB[pcms]
+Hitomi's hand, holding the digital camera, is trembling.[l][er]
+What's she so angry about? This guy...[pcms]
 
 *3380|
 [fc]
-V“¹æ¶‚¾‚Á‚ÄAƒZƒbƒNƒX‚®‚ç‚¢‚·‚é‚¾‚ëccB[r]
-‘Šè‚ªŠİ“c‚Á‚Ä‚¢‚¤‚Ì‚ª‹C‚É“ü‚ç‚È‚¢‚¯‚ÇccB[pcms]
+Shindou-sensei probably has sex too...[l][er]
+I just don't like that it's with Kishida...[pcms]
 
 *3381|
 [fc]
-[ns]’|“à[nse]
-u‚¨A‚¨‚¢A‚ ‚ñ‚Ü‚è‹­‚­‚Éˆ¬‚ç‚È‚¢‚Å‚­‚ê‚æccB‰ó[r]
-‚ê‚¿‚á‚¤‚¾‚ëccv[pcms]
+[ns]Takeuchi[nse]
+H-Hey, don't squeeze it so hard...[l][er]
+It might break...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1320|
 [fc]
 [vo_sa s="sae0105"]
-[ns]²”Œ[nse]
-uM‚¶‚ç‚ê‚È‚¢ccv[pcms]
+[ns]Saeki[nse]
+Unbelievable...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1321|
 [fc]
 [vo_sa s="sae0106"]
-[ns]²”Œ[nse]
-u•sŒ‰‚æcc‚İ‚ñ‚È•sŒ‰‚æƒbIIv[pcms]
+[ns]Saeki[nse]
+Filthy... everyone is filthy!![pcms]
 
 *3382|
 [fc]
-[ns]’|“à[nse]
-u‚¨‚¢II@‚â‚ß‚ë‚§‚ÁIIv[pcms]
+[ns]Takeuchi[nse]
+Hey!! Stop it!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:ƒfƒWƒJƒ‚ğ°‚É’@‚«‚Â‚¯‚é‰¹
+;//SE:ãƒ‡ã‚¸ã‚«ãƒ¡ã‚’åºŠã«å©ãã¤ã‘ã‚‹éŸ³
 
 [se0 storage="se040"]
 
 *3383|
 [fc]
-“µ‚Í“Ë‘RAƒfƒWƒJƒ‚ğ‚Á‚½è‚ğ‚‚­ã‚°‚ÄA‚»‚Ì‚Ü‚Ü[r]
-U‚è‰º‚ë‚µ‚½B[pcms]
+Hitomi suddenly raised her hand holding the digital camera[r]high up and then swung it down.[pcms]
 
 *3384|
 [fc]
-ƒfƒWƒJƒ‚Í°‚É’@‚«‚Â‚¯‚ç‚ê‚ÄA×‚©‚¢•”•i‚ğ‰½ŒÂ‚©”ò[r]
-‚ÑU‚ç‚µ‚È‚ª‚çA“]‚ª‚Á‚Ä‚¢‚­B[pcms]
+The digital camera was slammed onto the floor, scattering[r]several small parts as it rolled away.[pcms]
 
 *3385|
 [fc]
-[ns]’|“à[nse]
-u‚ ‚ ccƒ{ƒN‚Ì‚¨•óccv[pcms]
+[ns]Takeuchi[nse]
+Aah... my treasure...[pcms]
 
 *3386|
 [fc]
-‚È‚©‚É‚¢‚ê‚Ä‚½ƒf[ƒ^A”ò‚ñ‚¶‚á‚Á‚½‚©‚àccB[pcms]
+The data that was inside might have been lost...[pcms]
 
 *3387|
 [fc]
-[ns]’|“à[nse]
-u‚¤‚£ccv[pcms]
+[ns]Takeuchi[nse]
+Ugh...[pcms]
 
 *3388|
 [fc]
-‚È‚ñ‚¾‚æ‚±‚¢‚ÂccB[r]
-‚È‚É‚µ‚Ä‚ñ‚¾‚æccB[pcms]
+What's with this guy... What is he doing...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1322|
 [fc]
 [vo_sa s="sae0107"]
-[ns]²”Œ[nse]
-u‰½‚Å‚·‚©H@‚»‚Ì–ÚB“B‚µ‚½Ø‹’‚ğÁ‚µ‚Ä‚³‚µ‚ ‚°[r]
-‚½‚Ì‚Å‚·‚æH@Š´Ó‚³‚ê‚±‚»‚·‚êA‚»‚ñ‚È–Ú‚ÅŒ©‚ç‚ê‚é[r]
-Šo‚¦‚Í‚ ‚è‚Ü‚¹‚ñ‚æƒbIIv[pcms]
+[ns]Saeki[nse]
+What's with that look? Did you delete the evidence of your[r]voyeurism and think you'd be thanked for it?[l][er]
+I have no memory of being looked at with such eyes!![pcms]
 
 *3389|
 [fc]
-ƒC‚­¡‘O‚ÉAƒIƒiƒj[‚Ì×–‚‚µ‚ÄccB[r]
-l‚Ì‚±‚ÆA‚³‚ñ‚´‚ñƒoƒJ‚É‚µ‚ÄccB[pcms]
+Just as I was about to cum, you interrupted my[r]masturbation...[l][er]
+You've been mocking me so much...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1323|
 [fc]
 [vo_sa s="sae0108"]
-[ns]²”Œ[nse]
-u‚»‚ê‚Écc‚¨•ó‚Å‚·‚Á‚ÄH@‚±‚Ì—l‚Ècc‚¢‚©‚ª‚í‚µ[r]
-‚¢•¨‚ª•óH@”n­‚È–‚Î‚©‚èŒ¾‚Á‚ÄIv[pcms]
+[ns]Saeki[nse]
+And... treasure? This kind of...[l][er]
+obscene thing is treasure? You're saying such foolish[r]things![pcms]
 
 *3390|
 [fc]
-[ns]’|“à[nse]
-uccv[pcms]
+[ns]Takeuchi[nse]
+â€¦â€¦[l][er]
 
 *3391|
 [fc]
-‚¨‚Ü‚¯‚ÉA‚Ú‚­‚Ì‘å–‚ÈƒfƒWƒJƒ‰ó‚µ‚ÄccB[r]
-‚¨•ó‚Ìƒf[ƒ^‚¾‚Á‚ÄAÕŒ‚‚ÅÁ‚¦‚¿‚á‚Á‚½‚©‚à‚µ‚ê‚È‚¢[r]
-ccB[pcms]
+On top of that, you broke my precious digital camera...[l][er]
+The valuable data might have disappeared due to the[r]impact...[pcms]
 
 *3392|
 [fc]
-[ns]’|“à[nse]
-u‚¨‚Ü‚¦ccƒ{ƒN‚ª‰½‚à‚µ‚È‚¢‚Æv‚Á‚Ä‚é‚¾‚ëH@‚±‚¢[r]
-‚Â‚É‚ÍA‚È‚É‚ğŒ¾‚Á‚Ä‚à‘åä•vB‹C‚ªã‚¢‚©‚çA‚È‚É‚à[r]
-o—ˆ‚È‚¢‚Á‚Äccv[pcms]
+[ns]Takeuchi[nse]
+You... Do you think I won't do anything?[l][er]
+It's okay to say anything to this guy.[l][er]
+Because he's weak-willed, he can't do anything...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1324|
 [fc]
 [vo_sa s="sae0109"]
-[ns]²”Œ[nse]
-u‰½‚æcc‹ß‚Ã‚©‚È‚¢‚ÅII@¡X•Ù‰ğ‚µ‚½‚Á‚ÄA’Ê•ñ[r]
-‚·‚é‚±‚Æ‚É•Ï‚í‚è‚Í‚ ‚è‚Ü‚¹‚ñ‚æƒbIIv[pcms]
+[ns]Saeki[nse]
+What do you think you're doing...[l][er]
+Don't come any closer!! Even if you try to explain yourself[r]now, it won't change the fact that I can report you!![pcms]
 
 *3393|
 [fc]
-[ns]’|“à[nse]
-u‚¢‚Â‚à‚¢‚Â‚àAƒ{ƒN‚ğƒoƒJ‚É‚µ‚â‚ª‚Á‚Äcc‚Ç‚¤‚¹A[r]
-‘×”V‚É‹ß‚Ã‚«‚½‚¢‚¾‚¯‚È‚ñ‚¾‚ëccH@ƒ{ƒN‚ğ‚¾‚µ‚É‚µ[r]
-‚Ä‚³‚Ÿccv[pcms]
+[ns]Takeuchi[nse]
+Always, always, you're making a fool out of me...[l][er]
+You just want to get close to Taiji, right...?[l][er]
+You're just using me as a stepping stone...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1325|
 [fc]
 [vo_sa s="sae0110"]
-[ns]²”Œ[nse]
-u‚È‚ÁA‰½‚ğ‚·‚é‚ÌIH@‚â‚ß‚È‚³‚¢ƒbIIv[pcms]
+[ns]Saeki[nse]
+W-What are you doing!? Stop it!![pcms]
 
 *3394|
 [fc]
-[ns]’|“à[nse]
-u‚¨‚Ü‚¦‚ªˆ«‚¢‚ñ‚¾cc‘S•”‚¨‚Ü‚¦‚ªˆ«‚¢‚ñ‚¾‚ ‚ ‚ ‚Ÿ[r]
-‚Ÿ‚Ÿ‚ÁIIIIv[pcms]
+[ns]Takeuchi[nse]
+It's your fault... It's all your fault!![l][er]
+Aaahhhhhh!!!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1326|
 [fc]
 [vo_sa s="sae0111"]
-[ns]²”Œ[nse]
-u‚«‚á‚ ‚Ÿ‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Kyaaaahhh!![pcms]
 
-;//SE:ƒKƒ^ƒKƒ^
+;//SE:ã‚¬ã‚¿ã‚¬ã‚¿
 
 [se0 storage="se024"]
 
 [quake_bg xy m]
 
-;//[03022]‚Ö
+;//[03022]ã¸
 [jump target=*03022_H_TOP storage="03022_H.ks"]
 
 

@@ -1,102 +1,97 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02138wƒ‰ƒWƒI‚Tx
-;//BG:“ñŠK˜L‰ºFƒoƒŠƒP[ƒh‘OF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöEƒŠƒTE—DE‰Á“¡
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02138ã€ãƒ©ã‚¸ã‚ªï¼•ã€
+;//BG:äºŒéšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰å‰ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µãƒ»å„ªãƒ»åŠ è—¤
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02138_TOP
-;[debug_win]‚È‚¤@02138[debug_win_end]
+;[debug_win]ãªã†ã€€02138[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02138 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02138 = 1"]
 
-;*SceneSet|wƒ‰ƒWƒI‚Tx
+;*SceneSet|ã€ãƒ©ã‚¸ã‚ªï¼•ã€
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 
 ;//[bgm007]
 
 *2525|
 [fc]
-[ns]‰Á“¡[nse]
-uÔ‚àg‚¦‚È‚­‚È‚Á‚½‚µcc‚±‚ê‚©‚ç‚Ç‚¤‚µ‚Ü‚·Hv[pcms]
+[ns]Kato[nse]
+I can't use the car anymore...[l][er]
+What should we do from now on?[pcms]
+[l][er]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v985|
 [fc]
 [vo_ri s="risa0320"]
-[ns]V“¹[nse]
-u‚»‚¤‚Ëccæ‚è‚ ‚¦‚¸Aƒ‰ƒWƒI‚ÅV‚µ‚¢î•ñ‚ğd“ü‚ê[r]
-‚Ü‚µ‚å‚¤‚©B©‰q‘à‚ª‹ß‚­‚Ü‚Å—ˆ‚Ä‚é‚©‚à‚µ‚ê‚È‚¢‚ív[pcms]
+[ns]Shindou[nse]
+I see... For now, let's gather new information from the[r]radio.[l][er]
+The Self-Defense Force might be coming nearby.[pcms]
 
 *2526|
 [fc]
-V“¹æ¶‚ÍŠİ“c‚Ì–T‚ç‚É•G‚ğ‚Â‚«A‚»‚±‚É’u‚©‚ê‚½‚Ü‚Ü[r]
-‚É‚È‚Á‚Ä‚¢‚½ƒ‰ƒWƒI‚ÌƒXƒCƒbƒ`‚ğ“ü‚ê‚½B[pcms]
+Shindou-sensei knelt beside Kishida and turned on the switch[r]of the radio that had been left there.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *v986|
 [fc]
 [vo_mob s="radio0011"]
-[ns]ƒ‰ƒWƒI‚ÌƒAƒiƒEƒ“ƒT[[nse]
-ucc‰½‚ç‚©‚Ì——R‚ÅA‚Ü‚¾‹~Œì{İ‚Ö‚Ì”ğ“ï‚ªÏ‚ñ‚Å[r]
-‚¢‚È‚¢•û‚Ö‚Ì‘Îô‚Æ‚µ‚ÄA­•{‚Í©‰q‘à‚É‚æ‚é‹~••”‘à[r]
-‚ğ•Ò¬‚µ‚½‚Æ”­•\‚µ‚Ü‚µ‚½v[pcms]
+[ns]Radio Announcer[nse]
+... For those who have not yet evacuated to the shelter for[r]some reason, the government has announced the formation of a[r]rescue team by the Self-Defense Force as a measure.[pcms]
 
 *v987|
 [fc]
 [vo_mob s="radio0012"]
-[ns]ƒ‰ƒWƒI‚ÌƒAƒiƒEƒ“ƒT[[nse]
-uŒßŒãl‚æ‚èAŠe’n‚É‹~••”‘à‚ª”hŒ­‚³‚ê‚Ä‚¢‚Ü[r]
-‚·B‚Ü‚¾‹~Œì{İ‚Ö‚Ì”ğ“ï‚ªÏ‚ñ‚Å‚¢‚È‚¢•û‚ÍA–\“k‚Ö[r]
-‚ÌŒx‰ú‚ğ‘Ó‚ç‚¸A‹~••”‘à‚Ì“’…‚ğ‘Ò‚Á‚Ä‚­‚¾‚³‚¢v[pcms]
+[ns]Radio Announcer[nse]
+Rescue teams have been dispatched to various locations since[r]4 PM.[l][er]
+For those who have not yet evacuated to the shelter, please[r]remain vigilant against any unruly individuals and wait for[r]the arrival of the rescue teams.[pcms]
 
 *2527|
 [fc]
-‘±‚¯‚Ä“`‚¦‚ç‚ê‚½î•ñ‚É‚æ‚ê‚ÎA‹~•‚Í©‰q‘à‚ÌŠî’n‚Ì[r]
-‹ß‚­‚©‚çn‚Ü‚Á‚Ä‚¢‚é‚æ‚¤‚¾‚Á‚½B[pcms]
+According to the information that was relayed, it seems that[r]the rescue operations have started from the Self-Defense[r]Force base nearby.[pcms]
 
 *2528|
 [fc]
-[ns]‰Á“¡[nse]
-u¡‚Íccl”¼‚©v[pcms]
+[ns]Kato[nse]
+30 PM.[pcms]
 
 *2529|
 [fc]
-‹~•‚ªn‚Ü‚Á‚½‚Ì‚ªŒßŒãlB[r]
-‚±‚Ì•Ó‚è‚Í©‰q‘à‚ÌŠî’n‚©‚çA‚»‚¤‰“‚­‚È‚¢êŠ‚¾B[pcms]
+The rescue operations started at 4 PM.[l][er]
+This area is not far from the Self-Defense Force base.[pcms]
 
 *2530|
 [fc]
-‚Å‚ ‚ê‚ÎA‚±‚Ì•Ó‚è‚É‹~••”‘à‚ª“’…‚·‚é‚Ì‚ÉA‚»‚ñ‚È[r]
-‚ÉŠÔ‚Í‚©‚©‚ç‚È‚¢‚¾‚ë‚¤B[pcms]
+If that's the case, it shouldn't take too long for the[r]rescue team to arrive in this area.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v988|
 [fc]
 [vo_ri s="risa0321"]
-[ns]V“¹[nse]
-u‹~•‚ª“’…‚·‚é‚Ü‚ÅA‰ºè‚É“®‚«‰ñ‚ç‚¸‚ÉA‚±‚±‚É‰B[r]
-‚ê‚Ä‚¢‚½•û‚ª‚¢‚¢‚Å‚µ‚å‚¤v[pcms]
+[ns]Shindou[nse]
+Until the rescue team arrives, it's better not to move[r]around recklessly and hide here.[pcms]
 
 *2531|
 [fc]
-V“¹æ¶‚Ìl‚¦‚ÍA‰´‚ªl‚¦‚Ä‚¢‚½‚±‚Æ‚Æ“¯‚¶‚¾‚Á‚½B[r]
-‚»‚ê‚ÍRŠİ‚³‚ñ‚â^–ç‚à“¯‚¶‚¾‚Á‚½‚æ‚¤‚ÅA‰´’B‚Í‘µ‚Á[r]
-‚ÄAæ¶‚ÌŒ¾—t‚É‚¤‚È‚¸‚¢‚½B[pcms]
+Shindou-sensei's thoughts were the same as what I had been[r]thinking.[l][er]
+It seemed that Yamagishi-san and Shinya felt the same way[r]too, and all of us nodded in agreement with the teacher's[r]words.[pcms]
+[l][er]
 
-;//[02139]‚Ö
+;//[02139]ã¸
 [jump target=*02139_TOP storage="02139.ks"]

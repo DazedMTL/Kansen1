@@ -1,20 +1,20 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02020wˆÚ“®x
-;//BG:“Áê‹³ºF˜L‰ºF–éF“_“”
-;//“oêl•¨GålŒöE—D
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02020ã€ç§»å‹•ã€
+;//BG:ç‰¹æ®Šæ•™å®¤ï¼šå»Šä¸‹ï¼šå¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02020_TOP
-;[debug_win]‚È‚¤@02020[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02020 = 1"]
+;[debug_win]ãªã†ã€€02020[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02020 = 1"]
 
-;*SceneSet|wˆÚ“®x
+;*SceneSet|ã€ç§»å‹•ã€
 
 ;//[02020]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//BG:bg008c
 [bg storage="bg08c"]
@@ -22,57 +22,49 @@
 
 *1316|
 [fc]
-‚»‚Ì²”Œ‚ÍAŠK’i‚Ì“d‹C‚ª“_‚¯‚ç‚ê‚Ä‚¢‚é‚Ì‚ğŒ©‚é‚ÆA[r]
-‚Ç‚¤‚â‚ç’Êí‹³º“‚Ìã‚Ì•û‚Ös‚Á‚½‚İ‚½‚¢‚¾B[pcms]
+It seems that Saeki went up towards the upper part of the[r]regular classroom building when she saw that the lights on[r]the stairs were turned on.[pcms]
 
 *1317|
 [fc]
-ã‚Ì•û‚Í²”Œ‚É”C‚¹‚é‚Æ‚µ‚ÄA‰´’B‚Í‚Ç‚±‚ğ‘{‚µ‚Ä‚¢‚±[r]
-‚¤‚©ccB[pcms]
+Let's leave the upper part to Saeki and figure out where we[r]should search...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v573|
 [fc]
 [vo_ya s="yama0097"]
-[ns]RŠİ[nse]
-uƒgƒ‚‚¿‚á‚ñ‚Í“c’†‚³‚ñ‚Æˆê‚¾‚Æv‚¤‚¯‚ÇA“ñl‚µ‚Ä[r]
-‚Ç‚±‚Å‰½‚µ‚Ä‚é‚ñ‚¾‚ë‚¤‚ËHv[pcms]
+[ns]Yamagishi[nse]
+I think Tomo-chan is with Tanaka-san, but I wonder what the[r]two of them are doing and where they are?[pcms]
 
 *1318|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤[‚ñccv[pcms]
+[ns]Kato[nse]
+Hmm...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *1319|
 [fc]
-‚ÆA–À‚Á‚Ä‚İ‚¹‚Í‚µ‚½‚¯‚ÇA‰´‚É‚ÍêŠ‚É‚àA‚»‚±‚Å“ñ[r]
-l‚ª‰½‚ğ‚µ‚Ä‚¢‚é‚Ì‚©‚É‚àAS“–‚½‚è‚ª‚ ‚Á‚½B[pcms]
+Although I pretended to be unsure, I had an idea of both the[r]location and what the two of them were doing there.[pcms]
 
 *1320|
 [fc]
-‚½‚¾AŒû‚ª—ô‚¯‚Ä‚àARŠİ‚³‚ñ‚É‚»‚ê‚ğŒ¾‚¤‚±‚Æ‚Í‚Å‚«[r]
-‚È‚¢B[pcms]
+However, even if my mouth were to be split open, I couldn't[r]say that to Yamagishi-san.[pcms]
 
 *1321|
 [fc]
-‚È‚º‚Á‚ÄA‘½•ª‚ ‚Ì“ñl‚ÍAŠwZ‚Ì‚Ç‚±‚©‚ÅƒZƒbƒNƒX‚ğ[r]
-‚µ‚Ä‚¢‚é‚¾‚ë‚¤‚©‚çB[pcms]
+Why? Because I think those two are probably having sex[r]somewhere in the school.[pcms]
 
 *1322|
 [fc]
-‚¿‚å‚Á‚Æ‘O‚É‚àA—S“ñ‚Íw‚±‚È‚¢‚¾‚³[Aƒgƒ‚ƒ~ƒ“‚Æ‰®[r]
-ã‚Ì‹‹…“ƒ‚Ìã‚Åƒ„ƒb‚Ä‚³[x‚ÆA‰´‚Æ^–ç‚É–\˜I‚µ‚Ä[r]
-‚½‚µ‚ÈccB[pcms]
+Just a little while ago, Yuuji was bragging to me and[r]Shinya, saying 'The other day, I did it with Tomomi on top[r]of the rooftop water tower'...[pcms]
 
-;//[02030]‚Ö
+;//[02030]ã¸
 
-;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 [jump target=*02030_TOP storage="02030.ks"]
 

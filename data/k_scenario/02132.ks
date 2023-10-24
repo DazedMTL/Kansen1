@@ -1,20 +1,20 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02132w‚½‚¢‚Ü‚Âx
-;//BG:Šw‰€“ü‚èŒûF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöEƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02132ã€ãŸã„ã¾ã¤ã€
+;//BG:å­¦åœ’å…¥ã‚Šå£ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02132_TOP
-;[debug_win]‚È‚¤@02132[debug_win_end]
+;[debug_win]ãªã†ã€€02132[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02132 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02132 = 1"]
 
-;*SceneSet|w‚½‚¢‚Ü‚Âx
+;*SceneSet|ã€ãŸã„ã¾ã¤ã€
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 
 ;//[bgm009]
 
@@ -25,38 +25,37 @@
 
 *2466|
 [fc]
-‰´‚Í“ñ–{‚Ì¼–¾‚ğ‚¿o‚µA‚»‚Ì‚¤‚¿‚Ìˆê–{‚ğV“¹æ¶[r]
-‚Éè“n‚µ‚½B[pcms]
+I took out two torches and handed one of them to Shindou-[r]sensei.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v971|
 [fc]
 [vo_ri s="risa0314"]
-[ns]V“¹[nse]
-u‚Ü‚½”š”­‚·‚é‚©‚à‚µ‚ê‚È‚¢‚©‚çA‹M’j‚Í‚±‚±‚Å‘Ò‚Á‚Ä[r]
-‚¢‚È‚³‚¢B„‚ª‰Î‚ğˆÚ‚µ‚Ä‚«‚Ü‚·v[pcms]
+[ns]Shindou[nse]
+Since there might be another explosion, please wait here.[l][er]
+I will bring the fire over.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *2467|
 [fc]
-‚»‚¤Œ¾‚Á‚Ä‰´‚ğ‘Ò‚½‚¹AV“¹æ¶‚ÍÔ‚É‹ì‚¯Šñ‚Á‚Ä‰Î‚ğ[r]
-¼–¾‚ÉˆÚ‚µA–³–‚É–ß‚Á‚Ä‚«‚½B[pcms]
+Shindou-sensei said that and made me wait.[l][er]
+She hurried to the car and transferred the fire to the[r]torch, then safely returned.[pcms]
+[l][er]
 
 *2468|
 [fc]
-V“¹æ¶‚Ì¼–¾‚©‚çA‚³‚ç‚É‰´‚Ì‚Â¼–¾‚É‰Î‚ğˆÚ‚µA[r]
-ZÉ‚Ì’†‚Ö‚Æ–ß‚Á‚½B[pcms]
+Shindou-sensei transferred the fire from her torch to mine[r]and returned to the inside of the school building.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -64,5 +63,5 @@
 
 ;//blackout
 
-;//[02133]‚Ö
+;//[02133]ã¸
 [jump target=*02133_TOP storage="02133.ks"]

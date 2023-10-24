@@ -1,15 +1,15 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN04037wålŒö—S‚Qx
-;//BG:OŠK‹³ºF–é
-;//“oêl•¨GålŒöEƒŠƒTE—D
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04037ã€ä¸»äººå…¬ä¹±å¿ƒï¼’ã€
+;//BG:ä¸‰éšæ•™å®¤ï¼šå¤œ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µãƒ»å„ª
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *04037_H_TOP
-;[debug_win]‚È‚¤@04037_H[debug_win_end]
+;[debug_win]ãªã†ã€€04037_H[debug_win_end]
 
 [eval exp="sf.SRP22 = 1"][if exp="tf.scene_mode == 0"][jump target=*04037_H][endif]
 ;;[winset]
@@ -18,11 +18,11 @@
 
 *04037_H
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04037 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04037 = 1"]
 
-;*SceneSet|wålŒö—S‚Qx
+;*SceneSet|ã€ä¸»äººå…¬ä¹±å¿ƒï¼’ã€
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 
 ;[bgm008]
 
@@ -33,17 +33,16 @@
 
 *4391|
 [fc]
-‚È‚ñ‚©A‚ ‚½‚Ü‚ª‚®‚ç‚®‚ç‚µ‚Ä‚é‚ÈccB[r]
-‚Ä‚ªA‚¤‚Ü‚­‚¤‚²‚©‚È‚¢‚µccB[pcms]
+Somehow, my head feels dizzy...[l][er]
+And my hands aren't moving properly...[pcms]
 
 *4392|
 [fc]
-‚à‚¤A‚¢‚¢‚âcc‚ß‚ñ‚Ç‚­‚³‚¢ccB[pcms]
+I give up... It's too much trouble...[pcms]
 
 *4393|
 [fc]
-—D‚µ‚­’E‚ª‚µ‚Ä‚ ‚°‚é‚Â‚à‚è‚¾‚Á‚½‚¯‚ÇA‰´‚Í—Í”C‚¹‚É[r]
-ˆø‚«—ô‚¢‚½B[pcms]
+I intended to gently undress you, but I forcefully tore it[r]apart.[pcms]
 
 
 
@@ -51,7 +50,7 @@
 
 *scene_start
 
-;//SE:•‚Ì”j‚¯‚é‰¹
+;//SE:æœã®ç ´ã‘ã‚‹éŸ³
 [se0 storage="se006"]
 
 ;//H_CG
@@ -65,38 +64,36 @@
 *v1837|
 [fc]
 [vo_ya s="yama0735"]
-[ns]RŠİ[nse]
-u‚¢‚â‚ ‚Ÿ‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+Ohh!![pcms]
 
 *4394|
 [fc]
-_‚ç‚©‚»‚¤‚ÈƒIƒbƒpƒC‚ğ‰B‚µ‚Ä‚¢‚½•z‚ªˆø‚«—ô‚©‚êA”’[r]
-‚¢”§‚ªAƒsƒ“ƒNF‚Ì“ûñ‚ª”‚«o‚µ‚É‚È‚Á‚ÄA‰´‚Ì–Ú‚É[r]
-”ò‚Ñ‚ñ‚Å‚­‚éB[pcms]
+The cloth that was hiding your soft-looking breasts is torn[r]apart, revealing your white skin and pink nipples, which[r]jump into my sight.[pcms]
 
 *4395|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ö‚ÖA‚Öcc‚±A‚ÌA‚¨‚Á‚ÏA‚¢‚Åcc‚Ï‚¢A‚¸‚èA[r]
-‚ÅA‚«‚éA‚©‚ÈA‚Ÿccv[pcms]
+[ns]Kato[nse]
+Hehe, heh... Can I... touch, your...[l][er]
+breasts... and play with them...?[pcms]
 
 *v1838|
 [fc]
 [vo_ya s="yama0736"]
-[ns]RŠİ[nse]
-u‚ÜA‘Ò‚Á‚ÄA‰Á“¡ŒNA—‚¿’…‚¢‚ÄA‚ËH@‚±‚ñ‚Ècc[r]
-‚±‚ñ‚È‚ÌA•Ï‚¾‚æccv[pcms]
+[ns]Yamagishi[nse]
+W-Wait, Kato-kun, calm down, okay?[l][er]
+This... this is weird...[pcms]
 
 *4396|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤‚éA‚¹‚¥cc‚Èccv[pcms]
+[ns]Kato[nse]
+Uru, see... na...[pcms]
 
 *v1839|
 [fc]
 [vo_ya s="yama0737"]
-[ns]RŠİ[nse]
-u‚¢‚âcc‰Á“¡ŒNA‚â‚ß‚Äcc‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+No... Kato-kun, stop...![pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -109,91 +106,89 @@
 
 *4397|
 [fc]
-‚³‚Á‚«‚Ü‚Å‰´‚Ì‰¡‚ÉQ‚Ä‚¢‚½—‚ªA—‚Ìq‚ÌŒã‚ë‚É‰ñ‚Á[r]
-‚Ä‚¢‚ÄS‘©‚·‚é—l‚É•ø‚«‚Â‚¢‚½B[pcms]
+The woman who was sleeping next to me until just now moved[r]behind the girl and hugged her tightly as if restraining[r]her.[pcms]
 
 *v1840|
 [fc]
 [vo_ya s="yama0738"]
-[ns]RŠİ[nse]
-u‚«‚á‚Ÿ‚ÁII@‚¹Aæ¶IHv[pcms]
+[ns]Yamagishi[nse]
+Kyaa!! S-Sensei!?[pcms]
 
 *4398|
 [fc]
-Q‚Ä‚¢‚½—‚ÍA‚¢‚â‚ç‚µ‚¢Î‚İ‚ğ•‚‚©‚×‚ÄA—‚Ìq‚ÉŠç[r]
-‚ğ‚Ò‚Á‚½‚è‚­‚Á‚Â‚¯‚ÄA‚³‚³‚â‚­B[pcms]
+The woman who was sleeping had a lewd smile on her face as[r]she pressed her face close to the girl's and whispered.[pcms]
 
 *v1841|
 [fc]
 [vo_ri s="risa0483"]
-[ns]V“¹[nse]
-u‚«‚åA‚¤‚Ícc‚¶‚å‚¹A‚¢‚Ìcc‚©‚ç‚¾cc‚ÌA‚µ‚­[r]
-‚İcc‚ÌA‚¶‚ã‚¬‚åcc‚¤A‚ğ‚µ‚Ücc‚µB‚å‚¤ccv[pcms]
+[ns]Shindou[nse]
+T-Today... I will... show you...[l][er]
+the mechanism... of the female body...[l][er]
+and its functions...[pcms]
 
 *v1842|
 [fc]
 [vo_ya s="yama0739"]
-[ns]RŠİ[nse]
-uccII@‚ÈA‚È‚ÉŒ¾‚Á‚Ä‚¢‚é‚ÌIH@‚Ç‚¤‚µ‚½‚Ìc[r]
-cæ¶ccv[pcms]
+[ns]Yamagishi[nse]
+...!! W-What are you saying!? What's wrong...[l][er]
+Sensei...[pcms]
 
 *v1843|
 [fc]
 [vo_ri s="risa0484"]
-[ns]V“¹[nse]
-u‚±A‚Ìcc‚±cc‚ÌA‚©‚çA‚¾cc‚ğ‚Â‚©‚ÁA‚Äcc[r]
-‚¶‚ãcc‚¬‚åA‚¤cc‚ğA‚¨‚±A‚È‚¢cc‚Ü‚·ccv[pcms]
+[ns]Shindou[nse]
+Th-this... this... using this hand...[l][er]
+I will... stimulate... you...[pcms]
 
 *v1844|
 [fc]
 [vo_ya s="yama0740"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒNH@æ¶IH@cc‚Ç‚¤‚µ‚½‚ÌHH@cc“ñl[r]
-‚Æ‚àA“ñl‚Æ‚àcc‚¨‚©‚µ‚¢‚æcc‚â‚ß‚Ä‚æcc‚±‚ñ‚È[r]
-ccv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun? Sensei!? ... What's going on??[l][er]
+... Both of you, both of you...[l][er]
+this is strange... stop it... like this...[pcms]
 
 *4399|
 [fc]
-‰½‚¾H@‰½‚ğŒ¾‚Á‚Ä‚é‚ñ‚¾A‚±‚Ìq‚ÍccB[r]
-ö‹Æ‚È‚Ì‚ÉccB[pcms]
+What? What is this child saying...[l][er]
+during class...[pcms]
 
 *v1845|
 [fc]
 [vo_ri s="risa0485"]
-[ns]V“¹[nse]
-u‚±A‚êcc‚ªccA‚¿A‚Ô‚³ccB‚¨‚ÁA‚Ï‚¢A‚ÌA[r]
-‚±‚Æcc‚ËccB‚¾A‚ñ‚¹cc‚¢A‚ÆA‚¶‚åA‚¹‚¢‚ÌA[r]
-‚ªA‚¢‚¯‚ñA‚ÌA‚¿A‚ª‚¢‚Ì‚¤‚¿‚ÌA‚Ğ‚ÆA‚Âv[pcms]
+[ns]Shindou[nse]
+Th-this... is... a, brea... st...[l][er]
+right...? It's... a, part... of, the, female, body, that,[r]has, different, functions, than, the, other, parts.[pcms]
 
 *v1846|
 [fc]
 [vo_ri s="risa0486"]
-[ns]V“¹[nse]
-u‚¿‚­A‚Ñcc‚ÍA‚¶‚åA‚¹‚¢cc‚ÌA‚¹‚¢cc‚©‚ñA[r]
-‚½‚¢A‚ÌA‚Ğ‚Æ‚Âcc‚æB‚µA‚°‚«cc‚ğ‚ ‚½A‚¦A‚é[r]
-‚ÆA‚Ú‚Ácc‚«A‚·‚é‚±A‚Æcc‚ªA‚ ‚èA‚Ü‚·v[pcms]
+[ns]Shindou[nse]
+The breasts... are one of the sensitive parts of the female[r]body.[l][er]
+When they are stimulated, it can lead to sexual arousal.[pcms]
 
 *v1847|
 [fc]
 [vo_ya s="yama0741"]
-[ns]RŠİ[nse]
-u‚¢‚â‚ŸccB‚±‚ñ‚È‚Ì‚â‚ß‚ÄccIv[pcms]
+[ns]Yamagishi[nse]
+No... Please stop this...[pcms]
 
 *4400|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¿‚­A‚ÑA‚½‚Á‚Äcc‚«‚½v[pcms]
+[ns]Kato[nse]
+Chiku, bi, tatte...[pcms]
+kita[l][er]
 
 *4401|
 [fc]
-æ¶‚ÌŒ¾‚¤‚Æ‚¨‚èA“ûñ‚ª—§‚Á‚Ä‚éB[pcms]
+As the teacher said, her nipples are erect.[pcms]
 
 *v1848|
 [fc]
 [vo_ri s="risa0487"]
-[ns]V“¹[nse]
-u‚¹‚¢A‚Ä‚«‚Ècc‚±‚¤‚ÓA‚ñA‚ÅA‚àA‚Ú‚Á‚«cc‚·[r]
-‚éA‚±‚Æcc‚àcc‚ ‚èA‚ÜA‚·cc‚©A‚çccv[pcms]
+[ns]Shindou[nse]
+S-sexual... stimulation... can also...[l][er]
+cause... an erection... so...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -207,78 +202,77 @@
 *v1849|
 [fc]
 [vo_ya s="yama0742"]
-[ns]RŠİ[nse]
-u‚¦‚ÁccH@‚±‚ê‚Íccˆá‚¤‚ÌI@ˆá‚¤‚£‚£‚£‚£Iv[pcms]
+[ns]Yamagishi[nse]
+Eh...? This is... wrong! Nooo, it's not like that![pcms]
 
 *4402|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Í‚Ícc‚Í‚Í‚ÍccB‚½‚ÁA‚Äcc‚écc‚½‚Á‚Äcc[r]
-‚év[pcms]
+[ns]Kato[nse]
+Haha... Hahaha... I-I'm... I'm standing...[l][er]
+I'm standing.[pcms]
 
 *v1850|
 [fc]
 [vo_ya s="yama0743"]
-[ns]RŠİ[nse]
-u‚¢‚â‚Ÿ‚ cc‚¿‚ª‚¤‚£‚£ccBŒ©‚È‚¢‚Å‚¥ccv[pcms]
+[ns]Yamagishi[nse]
+Nooo... that's not it... Don't look...[pcms]
 
 *v1851|
 [fc]
 [vo_ri s="risa0488"]
-[ns]V“¹[nse]
-u‚¶‚åA‚¤cc‚Í‚ñA‚µA‚ñA‚ÍA‚±A‚Ìcc‚­‚çA‚¢[r]
-‚ÉA‚µ‚Ücc‚µ‚å‚¤A‚©ccv[pcms]
+[ns]Shindou[nse]
+Th-this... is... a, brea... st...[l][er]
+right...? It's... a, part... of, the, female, body, that,[r]has, different, functions, than, the, other, parts.[pcms]
 
 *v1852|
 [fc]
 [vo_ya s="yama0744"]
-[ns]RŠİ[nse]
-u‚¦ccIHv[pcms]
+[ns]Yamagishi[nse]
+Eh...!?[pcms]
 
 *v1853|
 [fc]
 [vo_ri s="risa0489"]
-[ns]V“¹[nse]
-u‚ÂA‚¬A‚ÍccA‚¶‚åA‚¹A‚¢cc‚«A‚Ìcc‚×A‚ñ[r]
-‚«‚åA‚¤cc‚ğA‚µA‚ÜA‚µ‚åA‚¤v[pcms]
+[ns]Shindou[nse]
+Next, let's continue the lesson on sensitive areas.[l][er]
+Let's study the functions of the female body.[pcms]
 
 *4403|
 [fc]
-—«ŠíH[r]
-‚ ‚ AƒIƒ}ƒ“ƒR‚Ì–cc‚©B[pcms]
+Female genitals? Ah, you mean...[l][er]
+pussy.[pcms]
 
 *v1854|
 [fc]
 [vo_ya s="yama0745"]
-[ns]RŠİ[nse]
-u‚âI@‚â‚Ÿ‚ II@‘Ê–Ú‚¾‚æccIv[pcms]
+[ns]Yamagishi[nse]
+Yaa! Yaaa!! This is no good...![pcms]
 
 *v1855|
 [fc]
 [vo_ri s="risa0490"]
-[ns]V“¹[nse]
-u‚¶‚ãA‚¬‚åA‚¤cc‚ÅA‚·cc‚æH@‚«‚åA‚¤A‚è‚å[r]
-‚­cc‚µA‚ÈA‚³‚¢ccv[pcms]
+[ns]Shindou[nse]
+Se-se... xual... sti... mu... la...[l][er]
+tion... can... cause... an er...[l][er]
+ec... tion... right? It's a natural response...[pcms]
 
 *v1856|
 [fc]
 [vo_ya s="yama0746"]
-[ns]RŠİ[nse]
-u‚È‚ÁccBæ¶cc‚¶A©•ª‚ªA‰½‚ğŒ¾‚Á‚Ä‚¢‚é‚©c[r]
-c•ª‚©‚Á‚Äccv[pcms]
+[ns]Yamagishi[nse]
+Na... Sensei... I... I understand what I'm saying...[pcms]
 
 *4404|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤A‚¾‚æccB‚Ï‚ñA‚ÂA‚àA‚Ê‚¬‚ÈA‚æcc‚º‚ñA[r]
-‚Ô‚İ‚¹‚ÄA‚æB‚¶‚ãA‚¬‚å‚¤A‚¾‚æccH@‚»‚êA‚ÉA[r]
-‚¹‚Á‚­A‚·A‚Å‚«‚È‚¢A‚¾‚ëA‚¤ccHv[pcms]
+[ns]Kato[nse]
+Yes, that's right... Take off your clothes completely and[r]show me your whole body.[l][er]
+Is this a lesson? Can't we do something sexual with it?[pcms]
 
 *v1857|
 [fc]
 [vo_ya s="yama0747"]
-[ns]RŠİ[nse]
-u‚¢‚â‚ ‚Ÿ‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+Nooo!![pcms]
 
-;//[04038]‚Ö
+;//[04038]ã¸
 [jump target=*04038_H_TOP storage="04038_H.ks"]

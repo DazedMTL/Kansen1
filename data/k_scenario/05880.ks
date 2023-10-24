@@ -1,15 +1,15 @@
 
-;//¡ËƒuƒƒbƒN05880wÅŒã‚Ì•Ê‚êx
-;//BG:ŠwHF—[•ûFÁ“”
-;//“oêl•¨GålŒöE“µEŠ´õ—DEŠ´õ[ns]‰Á“¡[nse]
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05880ã€æœ€å¾Œã®åˆ¥ã‚Œã€
+;//BG:å­¦é£Ÿï¼šå¤•æ–¹ï¼šæ¶ˆç¯
+[ns]Kato[nse]
 
 *05880_TOP
-;[debug_win]‚È‚¤@05880[debug_win_end]
-;*SceneSet|wÅŒã‚Ì•Ê‚êx
+;[debug_win]ãªã†ã€€05880[debug_win_end]
+;*SceneSet|ã€æœ€å¾Œã®åˆ¥ã‚Œã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05880 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05880 = 1"]
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 
 [bgm009]
 
@@ -18,7 +18,7 @@
 [bg storage="bg14b"]
 [trans_c cross time=500]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 
 [se0 storage="se005"]
 
@@ -28,18 +28,17 @@
 
 *6327|
 [fc]
-ŠwH‚É‹ì‚¯‚İA•Ç‚É‚©‚¯‚ç‚ê‚½Œv‚ğŒ©‚é‚ÆAj‚ÍŒÜ[r]
-ŒÜ\”ª•ª‚ğw‚µ‚Ä‚¢‚½B[pcms]
+I rushed into the school cafeteria and looked at the clock[r]hanging on the wall.[l][er]
+The hands were pointing at five fifty-eight.[pcms]
 
 *6328|
 [fc]
-[ns]‰Á“¡[nse]
-uƒMƒŠƒMƒŠ‚¾‚Èccv[pcms]
+[ns]Kato[nse]
+It's just in time...[pcms]
 
 *6329|
 [fc]
-’n‰ºº‚Ö‚Ì”à‚ª‚ ‚é~–[‚ÉŒü‚«’¼‚é‚ÆA’†‚ğRŠİ‚³‚ñ‚Æ[r]
-^–ç‚ªƒEƒ‚Â‚¢‚Ä‚¢‚½B[pcms]
+When I turned towards the kitchen with the door to the[r]basement, I saw Yamagishi-san and Shinya wandering around[r]inside.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_d_d_11"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -48,39 +47,34 @@
 
 *6330|
 [fc]
-‰´‚Æ–Ú‚ª‡‚Á‚½RŠİ‚³‚ñ‚ÍA‘O‚Æ“¯‚¶‚æ‚¤‚ÈA—D‚µ‚¢”÷[r]
-Î‚İ‚ğŒü‚¯‚½B[pcms]
+Yamagishi-san, who made eye contact with me, gave me the[r]same gentle smile as before.[pcms]
 
 *6331|
 [fc]
-‚í‚¯‚Ì‚í‚©‚ç‚È‚¢ƒ‚ƒm‚ÉŠ´õ‚µ‚ÄA•Ï‚í‚Á‚Ä‚µ‚Ü‚Á‚½‚Æ[r]
-‚Ív‚¦‚È‚¢‚æ‚¤‚ÈRŠİ‚³‚ñ‚Ì‚»‚ÌÎŠç‚ÉA‰´‚Í”Ş—‚ğŒ©[r]
-Ì‚Ä‚é‚±‚Æ‚ÉA‚½‚ß‚ç‚¢‚ğŠ´‚¶n‚ß‚Ä‚¢‚½B[pcms]
+I had started to feel hesitant about abandoning her, seeing[r]Yamagishi-san's smile that didn't seem like it had changed,[r]even after being infected by something incomprehensible.[pcms]
 
-;//ôFBGM009ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM009ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 
 [fadeoutbgm time=500]
 
 *6332|
 [fc]
-[ns]‰Á“¡[nse]
-uRŠİ‚³‚ñccv[pcms]
+[ns]Kato[nse]
+Yamagishi-san...[pcms]
 
 *6333|
 [fc]
-–Ú‚Ì‘O‚É‚¢‚é‚Ì‚ªA‘O‚ÉŒ©‚½‚İ‚½‚¢‚ÉAŠ®‘S‚É‚¨‚©‚µ[r]
-‚¢RŠİ‚³‚ñ‚¾‚Á‚½‚çA–À‚¤–‚È‚­Œ©Ì‚Ä‚¢‚½‚¾‚ë‚¤B[pcms]
+If the person in front of me was Yamagishi-san, completely[r]strange like when I saw her before, I would have abandoned[r]her without hesitation.[pcms]
 
 *6334|
 [fc]
-‚Å‚àA¡‚ÌRŠİ‚³‚ñ‚ÍA‚Ç‚±‚©â‚µ‚»‚¤‚ÉŒ©‚¦‚ÄA‰´‚Ì[r]
-”»’f‚ğ“İ‚ç‚¹‚éB[pcms]
+But the current Yamagishi-san looks somewhat lonely, dulling[r]my judgment.[pcms]
 
-;//ôFBGM004ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM004ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 
 [bgm004]
 
-;—§‚¿
+;ç«‹ã¡
 [ChrSetEx layer=1 chbase="take_c_a_06"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
@@ -88,36 +82,34 @@
 
 *std382|
 [fc]
-[ns]’|“à[nse]
-u‚ `A‚Ü‚ñA‚±‚ªA‚«A‚½‚Ÿcc‚Í‚âA‚­A‚Ü‚ñA‚±[r]
-‚ÉA‚¾A‚³‚¹‚ÄA‚­‚ê‚æA‚§c‚½‚Ü‚ÁA‚¿‚á‚Á‚ÄA‚µ‚å[r]
-‚¤‚ªA‚ÈA‚¢‚ñA‚¾A‚æ‚§`ccv[pcms]
+[ns]Takeuchi[nse]
+Ahh, my pussy is so... it's getting wet...[l][er]
+please let me cum... I can't help it...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_d_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_d_09"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2591|
 [fc]
 [vo_sa s="sae0702"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *6335|
 [fc]
-Œ™‚ç‚µ‚¢Î‚İ‚ğ•‚‚©‚×A‚É‚¶‚èŠñ‚Á‚Ä‚­‚é^–ç‚ÉA²”Œ[r]
-‚Í©•ª‚©‚ç‘«‘‚É‹ßŠñ‚Á‚ÄA‚»‚Ì¨‚¢‚Ì‚Ü‚Üv‚¢‚Á‚«‚è[r]
-“Ë‚«”ò‚Î‚µ‚½B[pcms]
+Saeki approached Takeuchi, who had a lewd smile on his face[r]and was creeping closer.[l][er]
+Saeki quickly moved towards him and forcefully pushed him[r]away with all her might.[pcms]
 
 ;g
 [ChrSetEx layer=1 chbase="take_c_a_06"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;//SE:ƒhƒTƒ…
+;//SE:ãƒ‰ã‚µãƒ¥
 [se0 storage="se021"]
 
 [eval exp="f.chara_x = 100,f.chara_y = 0"]
@@ -125,110 +117,104 @@
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std383|
 [fc]
-[ns]’|“à[nse]
-u‚®‚£‚Áccv[pcms]
+[ns]Takeuchi[nse]
+Guh...[pcms]
 
 *6336|
 [fc]
-¨‚¢—Ç‚­°‚É“ª‚ğ‘Å‚¿•t‚¯A“®‚©‚È‚­‚È‚Á‚½^–ç‚ÉŒ©Œü[r]
-‚«‚à‚¹‚¸A—Á‚µ‚¢Šç‚Å²”Œ‚Í’n‰ºº‚É~‚è‚Ä‚¢‚­B[pcms]
+Saeki calmly descended into the basement without even[r]glancing at Shinya, who had forcefully hit his head on the[r]floor and became motionless.[pcms]
 
 *6337|
 [fc]
-[ns]‰Á“¡[nse]
-u^–çccv[pcms]
+[ns]Kato[nse]
+Shinya...[pcms]
 
 *6338|
 [fc]
-‚¨‚©‚µ‚­‚È‚Á‚Ä‚µ‚Ü‚Á‚½‚Æ‚ÍŒ¾‚¦A^–ç‚àAŒ©Ì‚Ä‚È‚¯[r]
-‚ê‚Î‚È‚ç‚È‚¢‚Ì‚©ccBƒEƒBƒ‹ƒX‚¾‚©‚È‚ñ‚¾‚©’m‚ç‚È‚¢[r]
-‚¯‚ÇccB[pcms]
+Even if he has become strange, do I really have to abandon[r]Shinya...?[l][er]
+I don't know if it's a virus or something...[pcms]
 
 *6339|
 [fc]
-‰½‚ÅA‰´’B‚±‚ñ‚È–Ú‚É‹ö‚¤‚ñ‚¾IH[pcms]
+Why are we experiencing such a situation!?[pcms]
 
 *6340|
 [fc]
-[ns]‰Á“¡[nse]
-uƒNƒ\ƒbIv[pcms]
+[ns]Kato[nse]
+Damn it![pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_d_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_d_10"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2592|
 [fc]
 [vo_sa s="sae0703"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñA‹}‚¢‚Å‚­‚¾‚³‚¢II@‚à‚¤ŠÔ‚ª‚ ‚è‚Ü‚¹[r]
-‚ñƒbIIv[pcms]
+[ns]Saeki[nse]
+Kato-san, please hurry!! We don't have any more time!![pcms]
 
 *6341|
 [fc]
-²”Œ‚ÌŒ¾—t‚ğØ–¾‚·‚é‚©‚Ì‚æ‚¤‚ÉA”šŒ‚‹@‚ç‚µ‚¢”òs‹@[r]
-‚ÌŒ‰¹‚ªA’iX‚Æ‹ß‚Ã‚¢‚Ä‚«‚Ä‚¢‚½B[pcms]
+The roaring sound of an airplane, resembling a bomber,[r]gradually approached as if to prove Saeki's words.[pcms]
 
 *6342|
 [fc]
-Œã‚ë”¯‚ğˆø‚©‚ê‚év‚¢‚ÅARŠİ‚³‚ñ‚Ì˜e‚ğ”²‚¯A’n‰ºº[r]
-‚ÌŠK’i‚ğ”’i~‚è‚éB[pcms]
+With a lingering feeling, I slipped past Yamagishi-san's[r]side and descended a few steps down the basement stairs.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_d_d_11"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_d_d_12"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2593|
 [fc]
 [vo_ya s="yama0846"]
-[ns]RŠİ[nse]
-u‚Ç‚¤A‚µA‚½‚ÌH@‚©A‚Æ‚¤A‚­‚ñccH@‚ ‚Í‚Í‚Í[r]
-‚Í‚Á‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚Á‚Í‚ÍI@‚ÜA‚Á‚ÄA‚æH@[r]
-‚ÈA‚ñ‚ÅA‚¢‚»A‚¢A‚Å‚éA‚ÌH@‚¨‚©A‚µ`ccv[pcms]
+[ns]Yamagishi[nse]
+What, hap-pened? Ka-tou-kun...?[l][er]
+Ahahaha! Just, kidding, okay? Why, are you hur-ry-ing to[r]leave?[l][er]
+So fun~...[pcms]
 
 *6343|
 [fc]
-[ns]‰Á“¡[nse]
-u‚³‚æ‚È‚çccBRŠİ‚³‚ñccv[pcms]
+[ns]Kato[nse]
+Goodbye... Yamagishi-san...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_d_d_11"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 ;//
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2594|
 [fc]
 [vo_ya s="yama0847"]
-[ns]RŠİ[nse]
-u‚ñ`ccH@‚ÈA‚ÉHv[pcms]
+[ns]Yamagishi[nse]
+Hm~...? Wh-what?[pcms]
 
 *6344|
 [fc]
-U‚è•Ô‚Á‚ÄÅŒã‚ÌŒ¾—t‚ğ‚©‚¯‚½‚àA”Ş—‚Í—D‚µ‚­”÷Î[r]
-‚ñ‚¾‚Ü‚Ü‚¾‚Á‚½B[pcms]
+When I turned around and said my final words, she continued[r]to smile gently.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
 
-;—§‚¿
+;ç«‹ã¡
 
 ;//blackout
 ;g[backlay_c][chara_int][trans_c cross time=150]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05890]‚Ö
+;//[05890]ã¸
 [jump target=*05890_TOP storage="05890.ks"]
 \

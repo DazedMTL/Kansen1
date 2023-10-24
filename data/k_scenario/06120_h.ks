@@ -1,11 +1,11 @@
 
-;//ËƒuƒƒbƒN06120w•sˆÀ‚Qx
-;//BG;‘Ìˆç‹³Š¯ºF–éF“_“”
-;//“oêl•¨GƒŠƒTE—D
-;//‹“_FƒŠƒT
+;//â‡’ãƒ–ãƒ­ãƒƒã‚¯06120ã€ä¸å®‰ï¼’ã€
+;//BG;ä½“è‚²æ•™å®˜å®¤ï¼šå¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ãƒªã‚µãƒ»å„ª
+;//è¦–ç‚¹ï¼šãƒªã‚µ
 
 *06120_H_TOP
-;[debug_win]‚È‚¤@06120_H[debug_win_end]
+;[debug_win]ãªã†ã€€06120_H[debug_win_end]
 
 [eval exp="sf.SRP32 = 1"][if exp="tf.scene_mode == 0"][jump target=*06120_H][endif]
 ;;[winset]
@@ -13,43 +13,43 @@
 [jump target=*scene_start]
 
 *06120_H
-;*SceneSet|w•sˆÀ‚Qx
+;*SceneSet|ã€ä¸å®‰ï¼’ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_06120 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_06120 = 1"]
 
-;//ôFBGM003
+;//â™ªï¼šBGM003
 [bgm003]
 
-;//;//BG:bg–³‚µ
+;//;//BG:bgç„¡ã—
 
 ;;;[sysbt_meswin]
 
 *v2699|
 [fc]
 [vo_ri s="risa0600"]
-[ns]V“¹[nse]
-uccIv[pcms]
+[ns]Shindou[nse]
+...![pcms]
 
 *6677|
 [fc]
-‹³Š¯º‚É‚ÍA“”‚è‚ª‚Â‚¢‚Ä‚¢‚éB[pcms]
+The instructor's office is lit up.[pcms]
 
 *6678|
 [fc]
-è’x‚êcc‚©‚à’m‚ê‚È‚¢ccB[pcms]
+It might be too late...[pcms]
 
 *6679|
 [fc]
-„‚Ìl‚¦‚ÍAˆ«‚¢•û‚É‚Î‚©‚è“]‚ª‚éB[pcms]
+My thoughts always tend to go in a negative direction.[pcms]
 
 *6680|
 [fc]
-‚µ‚©‚µA‚Ü‚¾‚±‚Ì–Ú‚ÅŠm”F‚µ‚Ä‚¢‚È‚¢B[r]
-‚»‚ê‚ÉA„‚Ìl‚¦‰ß‚¬‚©‚à‚µ‚ê‚È‚¢B[pcms]
+However, I haven't confirmed it with my own eyes yet.[l][er]
+Besides, it might just be me overthinking.[pcms]
 
 *6681|
 [fc]
-‚Å‚àA‚à‚µ‚©‚µ‚½‚çccB[pcms]
+But, maybe...[pcms]
 
 ;//HCG:ON
 
@@ -63,230 +63,225 @@
 
 ;;;[sysbt_meswin]
 
-;//SE:S”‰¹
+;//SE:å¿ƒæ‹éŸ³
 
 [se0 storage="se003"]
 
 *v2700|
 [fc]
 [vo_ri s="risa0601"]
-[ns]V“¹[nse]
-u‚»cc‚»‚ñ‚Èccv[pcms]
+[ns]Shindou[nse]
+Tha... that...[pcms]
 
 *6682|
 [fc]
-Œ©‚Ä‚Í‚¢‚¯‚È‚¢Œ»À‚ªB‚ ‚Á‚Ä‚Í‚È‚ç‚È‚¢–À‚ªA[r]
-„‚Ì–Ú‚É”ò‚Ñ‚ñ‚Å‚«‚½B[pcms]
+The reality I shouldn't see. The fact that shouldn't exist[r]has jumped into my eyes.[pcms]
 
 *v2701|
 [fc]
 [vo_ya s="yama0918"]
-[ns]RŠİ[nse]
-u‚¤cc‚Ÿccv[pcms]
+[ns]Yamagishi[nse]
+Uhh... ah...[pcms]
 
 *6683|
 [fc]
-è‘«‚ğS‘©‚³‚êccg‘Ì’†A¸‰t‚É‚Ü‚İ‚ê‚½A[r]
-RŠİ‚³‚ñccB[pcms]
+Yamagishi-san, with her limbs restrained...[l][er]
+her entire body covered in semen...[pcms]
 
 *v2702|
 [fc]
 [vo_ri s="risa0602"]
-[ns]V“¹[nse]
-uccv[pcms]
+[ns]Shindou[nse]
+â€¦â€¦[l][er]
 
 *6684|
 [fc]
-°‚ª”²‚¯‚½—l‚ÉA•úS‚µ‚Ä‚¢‚éRŠİ‚³‚ñB[r]
-‘Sg‚ªg’ª‚µcc¸‰t‚ªAg‘Ì‚Ì‚¢‚½‚é‚Æ‚±‚ë‚ÉccB[pcms]
+Yamagishi-san, who seems to have lost her soul, is in a[r]daze.[l][er]
+Her entire body is flushed... and semen is covering every[r]part of her body...[pcms]
 
 *v2703|
 [fc]
 [vo_ri s="risa0603"]
-[ns]V“¹[nse]
-u‚Í‚Ÿ‚Ÿccv[pcms]
+[ns]Shindou[nse]
+Haaah...[pcms]
 
 *6685|
 [fc]
-ccˆêuARŠİ‚³‚ñ‚ª‘A‚Ü‚µ‚­Œ©‚¦‚Ä‚µ‚Ü‚Á‚½ccB[r]
-„‚àA‚±‚ñ‚È•—‚É‚³‚ê‚½‚çccB[pcms]
+... For a moment, Yamagishi-san looked enviable...[l][er]
+If only I could be treated like this...[pcms]
 
 *6686|
 [fc]
-cc‚¢‚âA¡‚Í‚»‚ñ‚È–‚ğl‚¦‚Ä‚¢‚éê‡‚Å‚Í‚È‚¢B[pcms]
+... No, now is not the time to be thinking about such[r]things.[pcms]
 
 *6687|
 [fc]
-‚±‚Ìó‹µ‚ğ–Ú‚É‚µ‚ÄAˆêu‚Æ‚ÍŒ¾‚¦A‚»‚ñ‚È–‚ğl‚¦‚Ä[r]
-‚µ‚Ü‚Á‚½„‚ÍA‚â‚Í‚è‰½ˆ‚©‚¨‚©‚µ‚¢‚Ì‚¾‚ë‚¤‚©B[pcms]
+Seeing this situation with my own eyes, even if it was just[r]for a moment, I couldn't help but think such things.[l][er]
+Perhaps there is something wrong with me after all.[pcms]
 
 *v2704|
 [fc]
 [vo_ri s="risa0604"]
-[ns]V“¹[nse]
-uRŠİcc‚³‚ñccv[pcms]
+[ns]Shindou[nse]
+Yamagishi-san...[pcms]
 
 *v2705|
 [fc]
 [vo_ya s="yama0919"]
-[ns]RŠİ[nse]
-u‚¤cc‚£‚Ÿccv[pcms]
+[ns]Yamagishi[nse]
+Uhh... ah...[pcms]
 
 *v2706|
 [fc]
 [vo_ri s="risa0605"]
-[ns]V“¹[nse]
-uRŠİ‚³‚ñI@‚µ‚Á‚©‚ècc‚µ‚Á‚©‚è‚µ‚ÄIIv[pcms]
+[ns]Shindou[nse]
+Yamagishi-san! Pull yourself together...[l][er]
+Stay strong!![pcms]
 
 *v2707|
 [fc]
 [vo_ya s="yama0920"]
-[ns]RŠİ[nse]
-u‚¤‚¤ccA‚¹A‚¹‚ñ‚¹cc‚¢ccv[pcms]
+[ns]Yamagishi[nse]
+Uu... S-Sensei... I...[pcms]
 
 *6688|
 [fc]
-g‘Ì‚àŠç‚à“®‚©‚³‚¸‚ÉA€l‚Ì—l‚È–Ú‚ğA„‚ÉŒü‚¯‚éB[pcms]
+Without moving her body or face, she looks at me with eyes[r]like a dead person.[pcms]
 
 *v2708|
 [fc]
 [vo_ri s="risa0606"]
-[ns]V“¹[nse]
-u‰½‚ªcc‚ ‚Á‚½‚Ìcc‚±‚ê‚Íccv[pcms]
+[ns]Shindou[nse]
+What... happened... what is this...[pcms]
 
 *v2709|
 [fc]
 [vo_ya s="yama0921"]
-[ns]RŠİ[nse]
-u¶“kcc‚ÉccA‰½l‚©‚Ìcc¶“kcc‚ÉccA“Ë‘R[r]
-ccP‚í‚êcc‚Äccv[pcms]
+[ns]Yamagishi[nse]
+Students... some of the students...[l][er]
+suddenly... attacked me...[pcms]
 
 *6689|
 [fc]
-¶“kccBŠİ“c‚Å‚Í‚È‚©‚Á‚½B[pcms]
+It wasn't Kishida... the student.[pcms]
 
 *6690|
 [fc]
-‚µ‚©‚µ‚»‚ê‚ÍAˆÀS‚·‚éŠ‚Å‚Í‚È‚¢B[pcms]
+However, this is not a reassuring situation.[pcms]
 
 *6691|
 [fc]
-‰½l‚©‚Ì¶“kA‚ÆŒ¾‚¤‚±‚Æ‚ÍccW’c–\sccIH[r]
-‚»‚ê‚ÉccB[pcms]
+Several students... does that mean...[l][er]
+a group assault...!? And also...[pcms]
 
 *6692|
 [fc]
-‰½ŒÌccB[r]
-¡“ú‚ÍA„’BˆÈŠO‚É‚Í’N‚à‚¢‚È‚¢”¤‚È‚Ì‚ÉccIH[r]
-‚¨‚©‚µ‚¢I@â‘Î‚É‚¨‚©‚µ‚¢II[pcms]
+Why... Today, there shouldn't be anyone else here except for[r]us...!?[l][er]
+This is strange! Something is definitely wrong!![pcms]
 
 *v2710|
 [fc]
 [vo_ri s="risa0607"]
-[ns]V“¹[nse]
-u‚»A‚»‚ñ‚Ècc¶“k‚Å‚·‚Á‚ÄH@‚»‚ñ‚È”¤‚ÍccIH[r]
-‚»‚ê‚ÉAŠİ“c‚³ccAŠİ“cæ¶‚ÍII@ˆê‚É‹‚½‚ñ[r]
-‚¶‚á‚È‚¢‚ÌIHv[pcms]
+[ns]Shindou[nse]
+S-Such... students? That can't be...![l][er]
+And Kishida... Kishida-sensei!![l][er]
+Weren't they with us!?[pcms]
 
 *v2711|
 [fc]
 [vo_ya s="yama0922"]
-[ns]RŠİ[nse]
-uæ¶‚ÍccŠİ“ccæ¶‚ÍA¶“kA’B‚Æcc‚Ç‚±A‚©‚É[r]
-ccv[pcms]
+[ns]Yamagishi[nse]
+Sensei... Kishida... Sensei, the students...[l][er]
+they're somewhere with...[pcms]
 
 *v2712|
 [fc]
 [vo_ya s="yama0923"]
-[ns]RŠİ[nse]
-u‚¤‚í‚ŸccA‚¤‚í‚Ÿ‚ ‚ ‚ ‚ ‚ ‚ ‚ cc‚Ğ‚Ácc‚¤‚í[r]
-‚Ÿ‚ ‚ ccv[pcms]
+[ns]Yamagishi[nse]
+Uwaa... Uwaaaaaaa... Hii... Uwaaaaa...[pcms]
 
 *v2713|
 [fc]
 [vo_ri s="risa0608"]
-[ns]V“¹[nse]
-uRŠİ‚³‚ñccB‚µ‚Á‚©‚èccv[pcms]
+[ns]Shindou[nse]
+Yamagishi-san... Stay strong...[pcms]
 
 *6693|
 [fc]
-‚»‚ê‚É‚µ‚Ä‚àA‰½ŒÌ¶“k‚ªH[r]
-¡A‚±‚ÌŠw‰€‚ÉA„’B‚µ‚©‚¢‚È‚¢‚ÆŒ¾‚¤‚±‚Æ‚ğ’m‚Á‚Ä‚¢[r]
-‚ÄccB[pcms]
+But still, why are there students?[l][er]
+We know that right now, there shouldn't be anyone else in[r]this school except for us...[pcms]
 
 *6694|
 [fc]
-Œv‰æ“I‚ÈccH[r]
-‚±‚ê‚ÍAŒv‰æ“I‚È‚à‚ÌIH[pcms]
+Planned...? Is this planned!?[pcms]
 
 *6695|
 [fc]
-‚¾‚Æ‚µ‚½‚çARŠİ‚³‚ñ‚ğˆÈ‘O‚©‚ç‘_‚Á‚Ä‚¢‚½ccH[pcms]
+If that's the case, were they targeting Yamagishi-san from[r]before...?[pcms]
 
 *v2714|
 [fc]
 [vo_ri s="risa0609"]
-[ns]V“¹[nse]
-u‚»A‚»‚ê‚ÅccA‚»‚Ì¶“k’B‚Ícc‰½ˆ‚ÉHv[pcms]
+[ns]Shindou[nse]
+S-So... where are those students...?[pcms]
 
 *v2715|
 [fc]
 [vo_ya s="yama0924"]
-[ns]RŠİ[nse]
-u‚®‚·‚Ácc‚¤‚£ccBcc‹A‚écc‚Æ‚©A–O‚«‚½cc[r]
-‚Æ‚©ccŒ¾‚Á‚ÄccA‚Ğ‚­‚ÁccB‚¤‚í‚Ÿ‚ ‚ ccv[pcms]
+[ns]Yamagishi[nse]
+*sniffle*... Ugh... I'm tired of...[l][er]
+saying things like I want to go home...[l][er]
+*sniffle*... Uwaaaah...[pcms]
 
 *6696|
 [fc]
-‹A‚Á‚½H[r]
-‚±‚ÌŠÔ‚ÉŠw‰€‚Ü‚Å—ˆ‚ÄccARŠİ‚³‚ñ‚ğP‚Á‚ÄccB[r]
-©‘î‚ÉccIH[pcms]
+Did you go home? Coming to the school at this hour...[l][er]
+attacking Yamagishi-san... to her house...!?[pcms]
 
 *6697|
 [fc]
-–ó‚ª•ª‚©‚ç‚È‚¢‚íccB[pcms]
+I don't understand the reason...[pcms]
 
 *6698|
 [fc]
-cc¡‚Í‚»‚ê‚æ‚èARŠİ‚³‚ñ©‘Ì‚ğ—‚¿’…‚©‚¹‚È‚¯‚ê‚ÎccB[pcms]
+... But for now, we need to calm Yamagishi-san down.[pcms]
 
 *6699|
 [fc]
-‚Å‚àccB[pcms]
+But...[pcms]
 
 *6700|
 [fc]
-Š|‚¯‚éŒ¾—t‚ªŒ©‚Â‚©‚ç‚È‚¢ccB[r]
-„‚ÍA‚Ç‚¤‚µ‚½‚çccB[pcms]
+I can't find the right words to say...[l][er]
+What should I do...?[pcms]
 
 *6701|
 [fc]
-o—ˆ‚é–‚È‚çAãX‚µ‚­‹ƒ‚­RŠİ‚³‚ñ‚Æ•Ï‚í‚Á‚Ä‚ ‚°‚½[r]
-‚¢B‚Ş‚µ‚ëA„‚ªccRŠİ‚³‚ñ‚Ì—l‚É‚³‚ê‚Ä‚¢‚ê‚ÎccB[pcms]
+If possible, I want to switch places with Yamagishi-san, who[r]is weakly crying.[l][er]
+Rather, if I were... treated like Yamagishi-san...[pcms]
 
 *6702|
 [fc]
-cc„‚ÍA‰½‚ğl‚¦‚Ä‚¢‚é‚ÌccIH[r]
-„‚Ì’†‚ÌA‰½‚©‚ª‹¶‚Á‚Ä—ˆ‚Ä‚¢‚éH[pcms]
+... What am I thinking...!? Is something inside me going[r]crazy?[pcms]
 
 *v2716|
 [fc]
 [vo_ya s="yama0925"]
-[ns]RŠİ[nse]
-u‚Ğ‚ÁccA‚¤‚¤‚¤ccB‚¹Aæ¶cc„cc‚Ç‚¤‚µ‚æ[r]
-‚¤Bæ¶ccB‚¤‚í‚Ÿ‚ ‚ cc‚¤‚í‚ ‚ ‚ ‚Ÿ‚ ‚ñccv[pcms]
+[ns]Yamagishi[nse]
+Hic... Uuuu... Sensei... What should I do?[l][er]
+Sensei... Uwaaaah... Uwaaaaaahhh...[pcms]
 
 *v2717|
 [fc]
 [vo_ri s="risa0610"]
-[ns]V“¹[nse]
-u‚ ccv[pcms]
+[ns]Shindou[nse]
+Ah...[pcms]
 
 *6703|
 [fc]
-‚¢‚Â‚ÌŠÔ‚É‚©A‰º‚ç‚È‚¢–Ï‘z‚ğ‚µ‚Ä‚µ‚Ü‚Á‚Ä‚¢‚½B[r]
-‚±‚ê‚Å‚ÍA‹³t¸Ši‚¾‚íI[r]
-‚¢‚¸‚ê‚É‚µ‚Ä‚àARŠİ‚³‚ñ‚ğ‰½‚Æ‚©‚µ‚È‚­‚Ä‚ÍccB[pcms]
+Somehow, I ended up having pointless delusions.[l][er]
+This makes me unfit to be a teacher![l][er]
+In any case, I have to do something about Yamagishi-san...[pcms]
 
 ;//blackout
 ;g[backlay_c][chara_int][trans_c cross time=150]
@@ -296,18 +291,18 @@
 
 *6704|
 [fc]
-‚®‚Á‚½‚è‚µ‚½RŠİ‚³‚ñ‚Ìg‘Ì‚ğ@‚«A•‚ğ’…‚¹‚½B[pcms]
+I wiped Yamagishi-san's exhausted body and dressed her in[r]clothes.[pcms]
 
 ;;;[sysbt_meswin clear]
 
-; ‰ñ‘zƒ‚[ƒh’†‚È‚çA‰ñ‘zƒ‚[ƒh‰æ–Ê‚É–ß‚é
+; å›æƒ³ãƒ¢ãƒ¼ãƒ‰ä¸­ãªã‚‰ã€å›æƒ³ãƒ¢ãƒ¼ãƒ‰ç”»é¢ã«æˆ»ã‚‹
 [if exp="tf.scene_mode==true"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
 
 
-;//[06130]‚Ö
+;//[06130]ã¸
 [jump target=*06130_H_TOP storage="06130_H.ks"]
 
 

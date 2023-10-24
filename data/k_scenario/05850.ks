@@ -1,15 +1,15 @@
 
-;//¡ËƒuƒƒbƒN05850w‰®ãx
-;//BG:‰®ãF—[•û
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05850ã€å±‹ä¸Šã€
+;//BG:å±‹ä¸Šï¼šå¤•æ–¹
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05850_TOP
-;[debug_win]‚È‚¤@05850[debug_win_end]
-;*SceneSet|w‰®ãx
+;[debug_win]ãªã†ã€€05850[debug_win_end]
+;*SceneSet|ã€å±‹ä¸Šã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05850 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05850 = 1"]
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 
 [bgm009]
 
@@ -18,7 +18,7 @@
 [bg storage="bg22b"]
 [trans_c cross time=500]
 
-;//SE:ƒwƒŠƒRƒvƒ^[‚Ì‰¹@‰“‚¢
+;//SE:ãƒ˜ãƒªã‚³ãƒ—ã‚¿ãƒ¼ã®éŸ³ã€€é ã„
 
 [se0 storage="se033"]
 
@@ -28,247 +28,230 @@
 
 *6264|
 [fc]
-‰®ã‚É’H‚è’…‚­‚ÆA‹~••”‘à‚Ì‚à‚Ì‚Æv‚í‚ê‚éƒwƒŠƒRƒv[r]
-ƒ^[‚ªA‚·‚®‹ß‚­‚ğ”ò‚ñ‚Å‚¢‚é‚Ì‚ªŒ©‚¦‚½B[pcms]
+When I reached the rooftop, I could see a helicopter flying[r]very close by, which seemed to belong to a rescue team.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2576|
 [fc]
 [vo_sa s="sae0687"]
-[ns]²”Œ[nse]
-u—Ç‚©‚Á‚½cc‚±‚ê‚Å‚â‚Á‚ÆA‚±‚±‚©‚ço‚ç‚ê‚éccv[pcms]
+[ns]Saeki[nse]
+Thank goodness... With this, we can finally escape from[r]here...[pcms]
 
 *6265|
 [fc]
-ˆÀSŠ´‚©‚ç‚©A²”Œ‚Í‚Ö‚½‚è‚ñ‚Å‚µ‚Ü‚Á‚Ä‚¢‚½B[pcms]
+Saeki, perhaps due to a sense of relief, had collapsed.[pcms]
 
 *6266|
 [fc]
-‚¾‚ªAÀÛ‚É‹~•‚³‚ê‚é‚Ü‚Å‚ÍA–û’f‚Å‚«‚È‚¢B‚Ü‚½“Ë[r]
-‘RA“z‚ç‚ªo‚Ä‚­‚é‚©‚à‚µ‚ê‚È‚¢B[pcms]
+However, we can't let our guard down until we are actually[r]rescued.[l][er]
+They might suddenly appear again.[pcms]
 
 *6267|
 [fc]
-[ns]‰Á“¡[nse]
-uˆÀS‚·‚é‚Ì‚Í‘‚¢‚¼A²”ŒB‚Ü‚¾•‚©‚Á‚½‚í‚¯‚¶‚á‚È[r]
-‚¢‚ñ‚¾v[pcms]
+[ns]Kato[nse]
+Don't relax just yet, Saeki. We haven't been saved yet.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2577|
 [fc]
 [vo_sa s="sae0688"]
-[ns]²”Œ[nse]
-u‚ÍA‚Í‚¢ccv[pcms]
+[ns]Saeki[nse]
+Y-Yes...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *6268|
 [fc]
-ƒtƒ‰ƒtƒ‰‚µ‚È‚ª‚ç—§‚¿ã‚ª‚Á‚½²”Œ‚Ì‘Ì‚ğA‰´‚Í•ø‚«‚µ[r]
-‚ß‚Äx‚¦AƒwƒŠ‚ª~‚è‚Ä‚­‚é‚Ì‚ğ‘Ò‚Á‚½B[pcms]
+I embraced and supported Saeki, who stood up unsteadily, and[r]waited for the helicopter to descend.[pcms]
 
 *6269|
 [fc]
-‚¾‚ªA‹~••”‘à‚ÌƒwƒŠ‚Í~‚è‚Ä‚­‚é‚±‚Æ‚Í‚È‚­AŒü‚«‚ğ[r]
-•Ï‚¦‚Ä”ò‚Ñ‹‚Á‚Ä‚¢‚Á‚Ä‚µ‚Ü‚Á‚½B[pcms]
+However, the rescue helicopter did not descend and instead[r]changed direction and flew away.[pcms]
 
 *6270|
 [fc]
-[ns]‰Á“¡[nse]
-u‰½‚µ‚Ä‚ñ‚¾A‚ ‚¢‚Â‚çcc‚Ç‚±s‚­‚ñ‚¾‚æccv[pcms]
+[ns]Kato[nse]
+What are they doing... Where are they going...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2578|
 [fc]
 [vo_sa s="sae0689"]
-[ns]²”Œ[nse]
-u‚Ócc‚Ó‚Ó‚Ácc‚¤‚Ó‚Ó‚ÁI@‚ ‚Á‚Í‚Á‚Í‚ÁI@cc[r]
-‚¤‚£cc‚Ó‚¦‚¥ccv[pcms]
+[ns]Saeki[nse]
+Fu... Fufu... Ufufu! Ahhahaha![l][er]
+... Uu... Fuee...[pcms]
 
 *6271|
 [fc]
-–Ú‚Ì‘O‚Å–]‚İ‚ª¸‚í‚ê‚Ä‚µ‚Ü‚Á‚½‚Ì‚ªA‘Š“–‚ÈƒVƒ‡ƒbƒN[r]
-‚¾‚Á‚½‚æ‚¤‚ÅA²”Œ‚Í•sˆÀ’è‚É‚È‚Á‚Ä‚µ‚Ü‚Á‚Ä‚¢‚½B[pcms]
+Saeki seemed to be greatly shocked by the loss of hope right[r]before her eyes, and she became unstable.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2579|
 [fc]
 [vo_sa s="sae0690"]
-[ns]²”Œ[nse]
-u‚Ó‚¦‚¥cc‚¤‚£‚Ácc‚Ç‚¤A‚µ‚Ä‚¥ccH@‚Ç‚¤‚µ‚Ä[r]
-•‚¯‚Ä‚­‚ê‚È‚¢‚ÌccHv[pcms]
+[ns]Saeki[nse]
+Uuu... Ugh... Why... Why won't they help us...?[pcms]
 
 *6272|
 [fc]
-²”Œ‚ÌS‚ª•sˆÀ’è‚É‚È‚é‚Ì‚à‚í‚©‚éB‰´‚à–Ú‚Ì‘O‚Å‹N‚«[r]
-‚½‚±‚Æ‚ªM‚¶‚ç‚ê‚È‚­‚ÄA•ğ‘R‚Æ‚È‚Á‚Ä‚¢‚½B[pcms]
+I understand why Saeki's heart became unstable.[l][er]
+I, too, couldn't believe what happened right in front of my[r]eyes and was left dumbfounded.[pcms]
 
 *6273|
 [fc]
-‰®ã‚É—§‚Á‚Ä‚¢‚é‰´’B‚Ì‚±‚Æ‚ÍAŒü‚±‚¤‚©‚ç‚¿‚á‚ñ‚ÆŒ©[r]
-‚¦‚Ä‚½”¤‚È‚Ì‚ÉccB[r]
-‰½‚Å•‚¯‚Ä‚­‚ê‚È‚©‚Á‚½‚ñ‚¾ccB[pcms]
+We were standing on the rooftop, so they should have been[r]able to see us clearly from over there...[l][er]
+Why didn't they come to rescue us...?[pcms]
 
 *6274|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¿‚å‚Á‚ÆØ‚è‚é‚¼ccv[pcms]
+[ns]Kato[nse]
+I'm going to borrow this for a moment...[pcms]
 
 *6275|
 [fc]
-‰½‚©AV‚µ‚¢–]‚İ‚Æ‚È‚éî•ñ‚ª—~‚µ‚­‚ÄA‰´‚Í‚µ‚á‚ª‚İ[r]
-‚ñ‚¾²”Œ‚Ìè‚©‚çƒ‰ƒWƒI‚ğˆø‚«”²‚«A”¼•ªƒ„ƒP‚É‚È‚è[r]
-‚È‚ª‚çAƒXƒCƒbƒ`‚ğ“ü‚ê‚½B[pcms]
+I squatted down and pulled the radio out of Saeki's hand,[r]desperate for any new information that could become a[r]glimmer of hope.[l][er]
+With a sense of urgency, I turned on the switch.[pcms]
 
-;//SE:ƒ‰ƒWƒI‚Ìƒ`ƒ…[ƒjƒ“ƒO‰¹
+;//SE:ãƒ©ã‚¸ã‚ªã®ãƒãƒ¥ãƒ¼ãƒ‹ãƒ³ã‚°éŸ³
 [se0 storage="se041"]
 
 *6276|
 [fc]
-ƒ‰ƒWƒI‚©‚ç•·‚±‚¦‚Ä‚«‚½‚Ì‚ÍAEˆõº‚Å’®‚¢‚½‚Ì‚Æ‚Í•Ê[r]
-‚ÌA‚Æ‚Ä‚àƒAƒiƒEƒ“ƒT[‚Æ‚Ív‚¦‚È‚¢‚æ‚¤‚È‹­‚¢Œû’²‚Å[r]
-’‚éA’j‚Ìº‚¾‚Á‚½B[pcms]
+The voice that came from the radio was a man's voice,[r]speaking in a strong tone that was very different from what[r]I had heard in the staff room.[l][er]
+It didn't sound like an announcer at all.[pcms]
 
 *6277|
 [fc]
-[ns]ƒ‰ƒWƒI‚©‚ç‚Ìº[nse]
-ucc©‰q‘à‚æ‚è‹Ù‹}’Ê’BB©‰q‘à‚æ‚è‹Ù‹}’Ê’BB‹Ù‹}[r]
-‚Ìƒ}ƒjƒ…ƒAƒ‹‚É‘¥‚èA“Š‡–{•”‚É‚æ‚éA’ÊM—p“d”g‚Ì[r]
-‘Sü”g”‚ÌŠÇ—‚ğŠJn‚·‚év[pcms]
+[ns]Voice from the radio[nse]
+... Emergency communication from the Self-Defense Forces.[l][er]
+Emergency communication from the Self-Defense Forces.[l][er]
+In accordance with the emergency manual, the headquarters[r]will begin managing all frequencies of communication waves.[pcms]
 
 *6278|
 [fc]
-[ns]ƒ‰ƒWƒI‚©‚ç‚Ìº[nse]
-uƒqƒgƒnƒ`ƒ}ƒ‹ƒ}ƒ‹A’“—¯ŒR‚É‚æ‚é”šŒ‚‚ğŠJn‚·‚éB“–[r]
-•ú‘—‚ğ’®‚¢‚Ä‚¢‚é–¯ŠÔl‚Ì¶‘¶Ò‚ÍA’¼‚¿‚É”ğ“ïs“®A[r]
-‹y‚Ñ‘¼‚Ì¶‘¶Ò‚Ö‚Ìî•ñ’m‚ğŠJn‚¹‚æv[pcms]
+[ns]Voice from the radio[nse]
+One-eight-zero, the bombing by the stationed military will[r]commence.[l][er]
+Civilians who are listening to this broadcast, immediately[r]initiate evacuation and begin informing other survivors.[pcms]
 
 *6279|
 [fc]
-[ns]ƒ‰ƒWƒI‚©‚ç‚Ìº[nse]
-u®A”šŒ‚‚ÍA—Áƒ–—ËRAéëRA”’XR“™ARŠx’n‹æ‘S[r]
-ˆæ‚ğ’†S‚És‚í‚ê‚éBŒJ‚è•Ô‚·ccv[pcms]
+[ns]Voice from the radio[nse]
+Furthermore, the bombing will be conducted primarily in the[r]mountainous areas such as Suzugaoka-ryou, Karasuyama, and[r]Shiramori-yama.[l][er]
+I repeat...[pcms]
 
 *6280|
 [fc]
-©‰q‘à‚Æ–¼æ‚Á‚Ä‚¢‚é‚±‚Æ‚©‚çAº‚Ìå‚Í‹°‚ç‚­•ºm‚È[r]
-‚Ì‚¾‚ë‚¤B[pcms]
+The fact that he identified himself as the Self-Defense[r]Forces suggests that the person speaking is probably a[r]soldier.[pcms]
 
 *6281|
 [fc]
-‚»‚ê‚É‚µ‚½‚Á‚ÄA“ú–{‘“à‚Å”šŒ‚‚È‚ñ‚ÄccB[r]
-í‘ˆ‚Å‚à‚È‚¢‚Ì‚ÉA‚»‚ñ‚È‚±‚Æ‚ ‚è“¾‚é‚Ì‚©ccH[r]
-ƒhƒ‰ƒ}‚©‰f‰æ‚ÌB‰e‚¶‚á‚È‚¢‚Ì‚©ccB[pcms]
+Even so, bombing within Japan...?[l][er]
+It's not like we're in a war, so is it really possible...?[l][er]
+Isn't this something out of a drama or a movie...?[pcms]
 
 *6282|
 [fc]
-‘¼‚Ì‹Ç‚Éü”g”‚ğ‡‚í‚¹‚Ä‚İ‚Ä‚àA—¬‚ê‚Ä‚­‚éî•ñ‚ÍA[r]
-‚»‚ê‚ğ“`‚¦‚éº‚ÆŒû’²‚³‚¦‚àA¡‚µ‚ª‚½’®‚¢‚½‚à‚Ì‚Æ‘S[r]
-‚­ˆê‚¾‚Á‚½B[pcms]
+The information that came through even when I tried tuning[r]in to other stations, the voice and tone conveying it were[r]exactly the same as what I had just heard.[pcms]
 
 *6283|
 [fc]
-[ns]‰Á“¡[nse]
-u–{“–‚Ì˜b‚È‚Ì‚©H@‚±‚êccv[pcms]
+[ns]Kato[nse]
+Is this really true? This...[pcms]
 
 *6284|
 [fc]
-‚Å‚àA¡‚Ìó‹µ‚ª‚à‚¤A•’Ê‚Æˆá‚¤‚ñ‚¾ccB•‚¯‚Ä‚Í[r]
-‚à‚ç‚¦‚È‚©‚Á‚½‚¯‚ÇAƒ‰ƒWƒI‚Ìî•ñ’Ê‚èA‹~••”‘à‚ç‚µ[r]
-‚¢ƒwƒŠ‚à—ˆ‚Ä‚½‚í‚¯‚¾‚µccB[pcms]
+But the current situation is already different from[r]normal...[l][er]
+Even though we couldn't get any help, just like the[r]information on the radio, it seems that a rescue team[r]helicopter has arrived...[pcms]
 
 *6285|
 [fc]
-‚ ‚è“¾‚éccB[r]
-¡‚ÌA‚±‚Ìó‹µ‚È‚çccB[pcms]
+It's possible... In the current situation...[pcms]
 
 *6286|
 [fc]
-[ns]‰Á“¡[nse]
-u²”ŒA²”ŒI@‚µ‚Á‚©‚è‚µ‚ëI@‚¨‘OAwƒqƒgƒnƒ`ƒ}[r]
-ƒ‹ƒ}ƒ‹x‚Á‚ÄŒ¾—t‚É•·‚«Šo‚¦‚È‚¢‚©Hv[pcms]
+[ns]Kato[nse]
+Saeki, Saeki! Pull yourself together![l][er]
+Do you remember the phrase Hitohachimaru?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2580|
 [fc]
 [vo_sa s="sae0691"]
-[ns]²”Œ[nse]
-u‚Ğ‚Æ‚Í‚¿A‚Ü‚é‚Ü‚éccHv[pcms]
+[ns]Saeki[nse]
+Hitohachimaru...?[pcms]
 
 *6287|
 [fc]
-[ns]‰Á“¡[nse]
-u‘å–‚È‚±‚Æ‚È‚ñ‚¾B’m‚Á‚Ä‚½‚ç‹³‚¦‚Ä‚­‚êIv[pcms]
+[ns]Kato[nse]
+It's something important. If you know, please tell me![pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 ;//
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2581|
 [fc]
 [vo_sa s="sae0692"]
-[ns]²”Œ[nse]
-uƒqƒgƒnƒ`ƒ}ƒ‹ƒ}ƒ‹cc‚Ç‚±‚©‚ÅA•·‚¢‚½‚æ‚¤‚Èccv[pcms]
+[ns]Saeki[nse]
+Hitohachimaru... I feel like I've heard it somewhere[r]before...[pcms]
 
 *6288|
 [fc]
-²”Œ‚Í–Ú‚ğ×‚ß‚ÄA­‚µ‚ÌŠÔA‰“‚­‚ğŒ©‚é‚æ‚¤‚É‹ü‚ğ[r]
-’ˆ‚É‰j‚ª‚¹‚½B[pcms]
+Saeki narrowed her eyes and for a moment, let her gaze swim[r]in the air as if looking into the distance.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2582|
 [fc]
 [vo_sa s="sae0693"]
-[ns]²”Œ[nse]
-uŠÔccH@‚»‚¤‚¾‚íAŠÔ‚Å‚·I@ˆê”ªZZ‚Í\”ª[r]
-ZZ•ªA‚Â‚Ü‚èŒßŒã˜Z’š“x‚É‚È‚è‚Ü‚·Iv[pcms]
+[ns]Saeki[nse]
+00 PM![pcms]
 
 *6289|
 [fc]
-[ns]‰Á“¡[nse]
-ucc²”ŒA—§‚ÄI@‹}‚®‚ñ‚¾IIv[pcms]
+[ns]Kato[nse]
+... Saeki, stand up! We need to hurry!![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2583|
 [fc]
 [vo_sa s="sae0694"]
-[ns]²”Œ[nse]
-u‚ A‚ ‚ÌA˜Z‚É‰½‚©ccv[pcms]
+[ns]Saeki[nse]
+Um, um, something at six o'clock...[pcms]
 
 *6290|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¢‚¢‚©‚ç‹}‚°IIv[pcms]
+[ns]Kato[nse]
+Hurry up!![pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -279,5 +262,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05860]‚Ö
+;//[05860]ã¸
 [jump target=*05860_TOP storage="05860.ks"]

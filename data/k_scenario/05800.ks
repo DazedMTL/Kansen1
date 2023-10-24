@@ -1,15 +1,15 @@
 
-;//¡ËËƒuƒƒbƒN05800w‹U‘•x
-;//;//BG:“ñŠK˜L‰ºF—[•ûFÁ“”
-;//“oêl•¨GålŒöE“µEŠ´õƒŠƒT
+;//â– â‡’â‡’ãƒ–ãƒ­ãƒƒã‚¯05800ã€å½è£…ã€
+;//;//BG:äºŒéšå»Šä¸‹ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»æ„ŸæŸ“ãƒªã‚µ
 
 *05800_TOP
-;[debug_win]‚È‚¤@05800[debug_win_end]
-;*SceneSet|w‹U‘•x
+;[debug_win]ãªã†ã€€05800[debug_win_end]
+;*SceneSet|ã€å½è£…ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05800 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05800 = 1"]
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 
 [bgm009]
 
@@ -24,43 +24,41 @@
 
 *6196|
 [fc]
-V“¹æ¶‚Ì”½‰‚ğŒ©‚ÄA‚Ç‚¤‚·‚é‚©Œˆ‚ß‚æ‚¤ccBè’x[r]
-‚ê‚¶‚á‚È‚³‚»‚¤‚È‚ç•‚¯‚é‚µAŠ®‘S‚É‚¨‚©‚µ‚­‚È‚Á‚Ä‚½[r]
-‚çA“¦‚°‚È‚¢‚Æ‚±‚Á‚¿‚ªŠëŒ¯‚¾ccB[pcms]
+Let's decide what to do based on Shindou-sensei's[r]reaction...[l][er]
+If it doesn't seem too late, we'll help her.[l][er]
+But if she's completely lost it, we'll have to run away[r]because we'll be in danger...[pcms]
 
 *6197|
 [fc]
-‰´‚ÍV“¹æ¶‚Ì‹ß‚­‚Ü‚Å‹ßŠñ‚Á‚ÄAº‚ğ‚©‚¯‚Ä‚İ‚½B[pcms]
+I approached near Shindou-sensei and tried calling out to[r]her.[pcms]
 
-;//ôFBGM009ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM009ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 
 [fadeoutbgm time=500]
 
 *6198|
 [fc]
-[ns]‰Á“¡[nse]
-uæ¶ccV“¹æ¶Iv[pcms]
+[ns]Kato[nse]
+Sensei... Shindou-sensei![pcms]
 
-;//SE:ƒKƒ^ƒb
+;//SE:ã‚¬ã‚¿ãƒƒ
 
 [se0 storage="se023"]
 
 *6199|
 [fc]
-º‚É”½‰‚µ‚È‚¢‚Ì‚ğŒ©‚ÄAæ¶‚Ì‘Ì‚ğ—h‚·‚ë‚¤‚Æè‚ğL[r]
-‚Î‚µ‚½‚»‚ÌA“Ë‘RAV“¹æ¶‚Ìè‚ª‰´‚Ìè‚ğ’Í‚à‚¤‚Æ[r]
-‚µ‚½B[pcms]
+When I saw that she didn't react to my voice, I reached out[r]to shake Shindou-sensei's body, but suddenly, her hand tried[r]to grab mine.[pcms]
 
 *6200|
 [fc]
-‰´‚ÍQ‚Ä‚Äè‚ğˆø‚Á‚ßAŒã‚ë‚Ö”ò‚Ñ‘Ş‚¢‚½B[pcms]
+I quickly pulled my hand back and jumped back.[pcms]
 
 *6201|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤‚í‚ÁIIv[pcms]
+[ns]Kato[nse]
+Uwah!![pcms]
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 
 [bgm008]
 
@@ -68,55 +66,50 @@
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2563|
 [fc]
 [vo_sa s="sae0676"]
-[ns]²”Œ[nse]
-u‚«‚á‚Ÿ‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Kyaa![pcms]
 
 *6202|
 [fc]
-‰´‚Ìè‚ğ’Í‚İ‘¹‚Ë‚½V“¹æ¶‚ÍA‚ä‚Á‚­‚è‚Æ—§‚¿ã‚ª‚Á[r]
-‚ÄA‚¤‚Â‚Ş‚¢‚½‚Ü‚Ü‚¾‚Á‚½Šç‚ğ‚ ‚°A‹C–¡‚Ìˆ«‚¢Î‚İ‚ğ[r]
-ì‚èA‚¯‚½‚½‚Ü‚µ‚¢Î‚¢º‚ğã‚°n‚ß‚½B[pcms]
+Shindou-sensei, who failed to grab my hand, slowly stood up,[r]lifted her face that had been looking down, and formed a[r]creepy smile.[l][er]
+Then, she began to let out a loud, eerie laughter.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_e_e_01"]
 [ChrSetXY layer=1 x=180 y=0]
 [ChrSetParts layer=1 chface="risa_e_e_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2564|
 [fc]
 [vo_ri s="risa0592"]
-[ns]V“¹[nse]
-u‚Í‚Í‚ÁI@‚Í‚Í‚Í‚Í‚ÁI@‚Í‚Í‚Á‚Ó‚Ó‚Ğ‚Ğ‚Ğ‚¡‚Ğ‚Í‚Í[r]
-‚Í‚Í‚Í‚Ğ‚á‚Ÿ‚Í‚Í‚Ó‚Óccv[pcms]
+[ns]Shindou[nse]
+Haha! Hahahaha![r]Hahahafufufuhihihiihihahahahahaahyaahahafufu...[pcms]
 
 *6203|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 [se0 storage="se005"]
 
 *6204|
 [fc]
-Š®‘S‚É‚¨‚©‚µ‚­‚È‚Á‚Ä‚µ‚Ü‚Á‚Ä‚¢‚½V“¹æ¶‚Ì—lq‚ÉA[r]
-‰´‚Í”w‹Ø‚ªŠ¦‚­‚È‚Á‚ÄA²”Œ‚Ì˜r‚ğˆø‚«A‹}‚¢‚Å—ˆ‚½“¹[r]
-‚ğ‘–‚Á‚Ä–ß‚Á‚½B[pcms]
+I felt a chill run down my spine at the sight of Shindou-[r]sensei, who had completely lost it.[l][er]
+I quickly grabbed Saeki's arm and hurriedly ran back the way[r]we came.[pcms]
 
 *6205|
 [fc]
-‚»‚µ‚Ä‰´‚ÍAV“¹æ¶‚Ì‚ ‚Ü‚è‚ÌˆÙí‚³‚É“®—h‚µ‚½‚¹‚¢[r]
-‚È‚Ì‚©A–Ú“I‚Ì‰®ã‚ÉŒü‚©‚Á‚ÄŠK’i‚ğã‚é‚Ì‚Å‚Í‚È‚­A[r]
-‰º‚Ö~‚è‚Ä‚µ‚Ü‚Á‚Ä‚¢‚½B[pcms]
+And perhaps due to my disturbance caused by Shindou-sensei's[r]abnormality, instead of going up the stairs towards our[r]destination on the rooftop, I ended up going down.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -127,5 +120,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05810]‚Ö
+;//[05810]ã¸
 [jump target=*05810_TOP storage="05810.ks"]

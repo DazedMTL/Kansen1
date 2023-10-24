@@ -1,17 +1,17 @@
 
-;//¡ËƒuƒƒbƒN05082w—ˆ”N‚Qx
-;//¦05083‚©‚ç05089‚Ü‚ÅŒ‡”Ô
-;//BG:OŠK˜L‰ºF–éFÁ“”^“_“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05082ã€æ¥å¹´ï¼’ã€
+;//â€»05083ã‹ã‚‰05089ã¾ã§æ¬ ç•ª
+;//BG:ä¸‰éšå»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯ï¼ç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05082_TOP
-;[debug_win]‚È‚¤@05082[debug_win_end]
-;*SceneSet|w—ˆ”N‚Qx
+;[debug_win]ãªã†ã€€05082[debug_win_end]
+;*SceneSet|ã€æ¥å¹´ï¼’ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05082 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05082 = 1"]
 
 ;	/*
-;	;//ôFBGM001
+;	;//â™ªï¼šBGM001
 ;	[bgm001]
 ;	
 ;	;//BG:bg006c
@@ -23,130 +23,125 @@
 
 *4799|
 [fc]
-RŠİ‚³‚ñ‚àA²”Œ‚àA^–ç‚àA‘¼‚Ì’‡‚ª‚¢‚¢“z‚ç‚à‘Sˆõ[r]
-‚¢‚éA‰´‚ÌA‰´‚É‚æ‚éA‰´‚Ì‚½‚ß‚¾‚¯‚Ì“Á•ÊƒNƒ‰ƒXI[pcms]
+Yamagishi-san, Saeki, Shinya, and all the other close[r]friends are here.[l][er]
+It's my special class, created by me, for me, and for my[r]sake only![pcms]
 
 *4800|
 [fc]
-‚»‚ñ‚ÈƒNƒ‰ƒX‚¾‚Á‚½‚ç‚¢‚¢‚æ‚È[ccB[r]
-–ˆ“úŠy‚µ‚»‚¤‚ÅccB[pcms]
+It would be nice if there was such a class...[l][er]
+It seems like it would be fun every day...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2052|
 [fc]
 [vo_sa s="sae0346"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñHv[pcms]
+[ns]Saeki[nse]
+Kato-san?[pcms]
 
 *4801|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦H@‚ ‚ Aˆ«‚¢cc‚È‚ñ‚¾‚Á‚¯Hv[pcms]
+[ns]Kato[nse]
+Huh? Ah, sorry... What was it again?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2053|
 [fc]
 [vo_sa s="sae0347"]
-[ns]²”Œ[nse]
-ucc‰½‚ğl‚¦‚Ä‚¢‚½‚Ì‚©’m‚è‚Ü‚¹‚ñ‚¯‚ê‚ÇA‚É‚â‚É‚â[r]
-‚µ‚È‚ª‚ç•à‚­‚Ì‚ÍA‚â‚ß‚½•û‚ª‚¢‚¢‚Æv‚¢‚Ü‚·‚æv[pcms]
+[ns]Saeki[nse]
+I don't know what you were thinking, but I think it would be[r]better if you stopped walking around with a smirk on your[r]face.[pcms]
 
 *4802|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦A‰´ƒjƒ„‚¯‚Ä‚½H@ƒ„ƒoccv[pcms]
+[ns]Kato[nse]
+Huh? Was I smirking? That's not good...[pcms]
 
 *4803|
 [fc]
-Q‚Ä‚ÄŒûŒ³‚ğ‰Ÿ‚³‚¦‚é‰´‚ÉA²”Œ‚ÍŠç‚ğ‚µ‚©‚ß‚½B[pcms]
+Saeki frowned at me as I hurriedly covered my mouth.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2054|
 [fc]
 [vo_sa s="sae0348"]
-[ns]²”Œ[nse]
-u‚Ç‚¤‚¹‚Ü‚½A’á‘­‚È–‚Å‚àl‚¦‚Ä‚¢‚½‚Ì‚Å‚µ‚å‚¤Hv[pcms]
+[ns]Saeki[nse]
+You were probably thinking of something vulgar again,[r]weren't you?[pcms]
 
 *4804|
 [fc]
-[ns]‰Á“¡[nse]
-uˆá‚¤ˆá‚¤AƒNƒ‰ƒX‘Ö‚¦‚Ì‚±‚Æ‚¾‚Á‚Äv[pcms]
+[ns]Kato[nse]
+No, no, I was just thinking about changing classes.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2055|
 [fc]
 [vo_sa s="sae0349"]
-[ns]²”Œ[nse]
-uƒNƒ‰ƒX‘Ö‚¦ccH@—ˆ”N‚ÍA¡‚ÌƒNƒ‰ƒX‚Ì‚Ü‚Üi‹‰‚·[r]
-‚é”¤‚Å‚·‚ªccv[pcms]
+[ns]Saeki[nse]
+Class change...? We're supposed to advance to the next grade[r]with our current class next year...[pcms]
 
 *4805|
 [fc]
-[ns]‰Á“¡[nse]
-u‚í‚©‚ñ‚È‚¢‚ºH@‰´‚¾‚¯“Á•ÊƒNƒ‰ƒX‚É‚È‚é‚©‚à‚µ‚ê‚È[r]
-‚¢‚¾‚ëH@‰Á“¡ŒN‚Í”Ş—‚ª‚¢‚È‚­‚Ä‚©‚í‚¢‚»‚¤‚È‚Ì‚ÅA[r]
-—q‚Î‚Á‚©‚è‚ÌƒNƒ‰ƒX‚É‚È‚Á‚Ä‚à‚ç‚¢‚Ü‚·A‚Æ‚©‚³v[pcms]
+[ns]Kato[nse]
+I don't know, you know? Maybe I'll be the only one in a[r]special class?[l][er]
+Since Kato-kun doesn't have a girlfriend, I thought it would[r]be nice to have a class full of girls or something.[pcms]
 
 *4806|
 [fc]
-’†Šw¶ƒŒƒxƒ‹‚Ì–Ï‘z‚ÉA²”Œ‚Í‘å‚«‚­‘§‚ğ‹z‚¢‚ñ‚ÅA[r]
-‰´‚ªg\‚¦‚é‚æ‚è‘¬‚­A“{†‚ğã‚°‚½B[pcms]
+Saeki took a deep breath at my middle school-level delusion[r]and shouted angrily before I could even brace myself.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_09"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2056|
 [fc]
 [vo_sa s="sae0350"]
-[ns]²”Œ[nse]
-u‚à‚Á‚Æˆá‚¤‚±‚Æ‚É“ª‚ğg‚Á‚Ä‚Í”@‰½IHv[pcms]
+[ns]Saeki[nse]
+How about using your head for something different!?[pcms]
 
 *4807|
 [fc]
-[ns]‰Á“¡[nse]
-u‰½‚¾‚æA‚»‚ñ‚È‚É“{‚ç‚È‚­‚Ä‚à‚¢‚¢‚¾‚ëv[pcms]
+[ns]Kato[nse]
+What's the big deal? There's no need to get so angry.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_d_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2057|
 [fc]
 [vo_sa s="sae0351"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *4808|
 [fc]
-²”Œ‚Í“{‚Á‚½Šç‚Ì‚Ü‚ÜA¨‚¢—Ç‚­U‚è•Ô‚Á‚ÄA‰´‚ğ–³‹[r]
-‚µ‚Äæ‚ğ•à‚«‚¾‚µ‚½B[pcms]
+Saeki, with an angry expression still on her face, turned[r]around forcefully and walked ahead, ignoring me.[pcms]
 
 *4809|
 [fc]
-ƒVƒƒƒŒ‚Ì’Ê‚¶‚È‚¢“z‚¾‚ÈccBƒmƒŠ‚ª—Ç‚©‚Á‚½‚çA‚à‚Á[r]
-‚Æ‚©‚í‚¢‚¢‚Ì‚É‚È[ccB[pcms]
+He's such a guy who doesn't understand jokes...[l][er]
+If only he had a better sense of humor, he could be even[r]cuter...[pcms]
 
-;//[05090]‚Ö
+;//[05090]ã¸
 [jump target=*05090_TOP storage="05090.ks"]

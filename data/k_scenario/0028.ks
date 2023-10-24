@@ -1,21 +1,21 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN0028wŠÓÜ‰ïŠJnx
-;//BG:‹’®ŠoºF–é
-;//“oêl•¨GålŒöE—DE“µE•ü”üE’|“àE“c’†EƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0028ã€é‘‘è³ä¼šé–‹å§‹ã€
+;//BG:è¦–è´è¦šå®¤ï¼šå¤œ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­ãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *0028_TOP
-;[debug_win]‚È‚¤@0028[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0028 = 1"]
+;[debug_win]ãªã†ã€€0028[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0028 = 1"]
 
-;*SceneSet|wŠÓÜ‰ïŠJnx
+;*SceneSet|ã€é‘‘è³ä¼šé–‹å§‹ã€
 
 ;//[0028]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//BG:bg015c
 ;[bg storage="bg15c"]
@@ -25,202 +25,184 @@
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v254|
 [fc]
 [vo_ri s="risa0009"]
-[ns]V“¹[nse]
-u‚Å‚ÍA¡‚©‚çŠÓ‚µ‚åA‰ï‚ğn‚ß‚Ü‚·v[pcms]
+[ns]Shindou[nse]
+Well then, let's start the ero game club now.[pcms]
 
 *662|
 [fc]
-A‚Å‚à‚Â‚©‚¦‚½‚Ì‚©A‚¨‚©‚µ‚È˜b‚µ•û‚ğ‚µ‚½æ¶‚ÍA[r]
-ˆê“xŠP•¥‚¢‚ğ‚µ‚Ä‚©‚çA‚ ‚Æ‚ğ‘±‚¯‚½B[pcms]
+The teacher, who spoke in a strange manner that seemed to[r]choke him, cleared his throat once before continuing.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_b_03"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v255|
 [fc]
 [vo_ri s="risa0010"]
-[ns]V“¹[nse]
-u‚±‚ê‚©‚çAO–{‚Ì‰f‰æ‚ğ—¬‚µ‚Ü‚·Bˆê–{I‚í‚Á‚½‚ÆA[r]
-‚±‚ë‚ÅA\•ª’ö“x‚Ì‹xŒe‚ğ‹²‚ñ‚ÅAŸ‚Ì‚¦A‚ª‚ğ—¬‚·A[r]
-‚Æ‚¢‚¤Œ`‚ğ‚Æ‚è‚Ü‚·v[pcms]
+[ns]Shindou[nse]
+From now on, we will screen three movies.[l][er]
+After one movie ends, we will take a break of about ten[r]minutes and then proceed to screen the next one.[pcms]
 
 *663|
 [fc]
-A‚ª‹l‚Ü‚é‚Ì‚©A‹¹‚ª‹ê‚µ‚¢‚Ì‚©Aæ¶‚Í˜b‚Ì“r’†‚ÅA[r]
-‰½“x‚à‹ê‚µ‚»‚¤‚É‘å‚«‚­‘§Œp‚¬‚ğ‚·‚éB[pcms]
+The teacher, in the middle of his speech, repeatedly took[r]deep breaths, as if his throat was choking or his chest was[r]tight.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v256|
 [fc]
 [vo_ri s="risa0011"]
-[ns]V“¹[nse]
-u‰f‰æ‚Í‚Ç‚ê‚àAˆêŠÔ”¼‚©‚ç“ñŠÔ‚Å‚·‚©A‚çAO–{[r]
-–Ú‚ªI‚í‚é‚Ì‚ÍA[–é‚Ì“ñ ‚ËB[r]
-¡‰ñA—¬‚·‰f‰æ‚ÍAO–{‚Æ‚àƒzccv[pcms]
+[ns]Shindou[nse]
+Each movie is about an hour and a half to two hours long, so[r]the third one will end around 2 a.[l][er]
+m. This time, the movies we'll be showing are all ero...[pcms]
 
 *664|
 [fc]
-V“¹æ¶‚ÍA‚¢‚Â‚à‚Í•¨Ã‚©‚ÉA—„‚İ‚È‚­˜b‚·l‚È‚Ì‚ÉA[r]
-¡“ú‚Í’²q‚ªˆ«‚¢‚Ì‚©Aº‚Ì‘å‚«‚³‚à‚¤‚Ü‚­’²ß‚Å‚«‚Ä[r]
-‚È‚¢‚æ‚¤‚¾‚µA“r’†‚Å‰½“x‚à‚Â‚Á‚©‚¦‚Ä‚¢‚éB[pcms]
+Although Shindou-sensei is usually a calm and fluent[r]speaker, today he seems to be in poor condition.[l][er]
+His voice is not well-adjusted, and he keeps stumbling over[r]his words.[pcms]
 
 *665|
 [fc]
-‹ê‚µ‚»‚¤‚ÈŠç‚ÅŠP•¥‚¢‚ğˆê‚Â‚µ‚Ä‚©‚çA[r]
-æ¶‚Í‚Ü‚½˜b‚ğn‚ß‚½B[pcms]
+After clearing his throat with a pained expression, the[r]teacher began speaking again.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_b_03"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v257|
 [fc]
 [vo_ri s="risa0012"]
-[ns]V“¹[nse]
-ucc‚²‚ß‚ñ‚È‚³‚¢B—¬‚·‰f‰æ‚ÍAO–{‚Æ‚àƒzƒ‰[‰f‰æ[r]
-‚Å‚·B‚Ç‚ê‚à“ñ\”NˆÈã‘O‚Ì‰fA‰æ‚Å‚·‚ªAÌ‚Ì–¼ì‚ğ[r]
-ŠÏ‚é‚Ì‚àA—Ç‚¢‚¯A‹†‚É‚È‚é‚ÆvA‚Ü‚·v[pcms]
+[ns]Shindou[nse]
+... I'm sorry. The movies we will be screening are all[r]horror movies.[l][er]
+They are all films from over twenty years ago, but I think[r]it's also good to watch old masterpieces, don't you agree?[pcms]
 
 *666|
 [fc]
-æ¶‚ÌŒ¾—t‚ÍA‚Â‚Á‚©‚¦‚é‚Ì‚ğ’Ê‚è‰z‚µ‚ÄA’iX‚½‚Ç‚½[r]
-‚Ç‚µ‚­‚È‚Á‚Ä‚«‚½B–¾‚ç‚©‚É—lq‚Ì‚¨‚©‚µ‚¢æ¶‚ÉA‰´[r]
-‚Íº‚ğ‚©‚¯‚æ‚¤‚©‚Ç‚¤‚©–À‚Á‚Ä‚¢‚½B[pcms]
+The teacher's words became increasingly hesitant, beyond[r]just stumbling.[l][er]
+I was unsure whether or not to approach the clearly strange[r]teacher.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v258|
 [fc]
 [vo_ri s="risa0013"]
-[ns]V“¹[nse]
-u¡“ú‚Í„‚½‚¿‚Ì‚ÙA‚©‚É‚Í’N‚à‚¢‚È‚¢‚©‚çA‚¢‚Â‚à‚Æ[r]
-‚¿‚ªA‚ÄAƒ{ƒŠƒ…[ƒ€‚ğã‚°‚ÄŠÓÜ‚·‚é‚±‚Æ‚ª‚ÅA‚«‚Ü[r]
-‚·B‰¹‚Í‰f‰æ‚Ìd‚æA‚È\¬—v‘f‚Å‚·‚©‚ç‚Ëv[pcms]
+[ns]Shindou[nse]
+Today, since there's no one else in our club, we can watch[r]the movies with the volume turned up higher than usual.[l][er]
+Sound is an important element of movies, after all.[pcms]
 
 *667|
 [fc]
-ŒÄ‹z‚Ìr‚­‚È‚Á‚Ä‚«‚½æ¶‚ğŒ©‚ÄA‚à‚µ‚©‚µ‚½‚ç‘Ì‚Ì’²[r]
-q‚ªˆ«‚¢‚ñ‚¶‚á‚È‚¢‚©‚Æv‚Á‚ÄA‰´‚Í‰ä–‚Å‚«‚·‚ÉŒû‚ğ[r]
-‹²‚ñ‚¾B[pcms]
+I couldn't help but interject, thinking that maybe the[r]teacher's rough breathing meant that he wasn't feeling well.[pcms]
 
 *668|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ÌAæ¶A‘åä•v‚Å‚·‚©H@‚³‚Á‚«‚©‚ç‚È‚ñ‚©‹ê‚µ[r]
-‚»‚¤‚¾‚µAº‚Ík‚¦‚Ä‚é‚µAŠç‚àÔ‚¢‚µccB[r]
-•—×‚Ğ‚¢‚ÄA”M‚ªo‚Ä‚é‚ñ‚¶‚á‚È‚¢‚·‚©Hv[pcms]
+[ns]Kato[nse]
+Um, Sensei, are you okay? You seem to be in pain since[r]earlier, your voice is trembling, and your face is red...[l][er]
+Could it be that you caught a cold and have a fever?[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_b_03"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v259|
 [fc]
 [vo_ri s="risa0014"]
-[ns]V“¹[nse]
-ucc—\’è‚ÌŠÔ‚ğ‰ß‚¬‚Ä‚¢‚½‚©‚çA[r]
-‚±‚±‚Ö—ˆ‚é‚Ì‚É­‚µ‘–‚Á‚½‚Ì‚æB[r]
-‚»‚Ì‚¹‚¢‚¶‚á‚È‚¢‚©‚µ‚çv[pcms]
+[ns]Shindou[nse]
+... I ran a little to get here because we were running late.[l][er]
+Maybe that's why.[pcms]
 
 *669|
 [fc]
-[ns]‰Á“¡[nse]
-u–{“–‚Å‚·‚©H@’²qˆ«‚¢‚È‚çAƒfƒbƒL‚Ì‘€ì‚Æ‚©A[r]
-©•ª‚ç‚Å‚â‚Á‚Æ‚«‚Ü‚·‚©‚çv[pcms]
+[ns]Kato[nse]
+Is that true? If you're not feeling well, we can handle[r]things like operating the deck ourselves.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v260|
 [fc]
 [vo_ri s="risa0015"]
-[ns]V“¹[nse]
-u‘åä•v‚æA‰½‚Å‚à‚È‚¢‚íccv[pcms]
+[ns]Shindou[nse]
+It's okay, I'm fine...[pcms]
 
 *670|
 [fc]
-‚»‚±‚Ü‚ÅŒ¾‚Á‚Ä–Ú‚ğ•š‚¹‚ÄA[r]
-æ¶‚Í‰½‚©‚ğl‚¦‚Ş‚æ‚¤‚É–Ù‚Á‚Ä‚µ‚Ü‚Á‚½B[pcms]
+After saying that, he lowered his gaze and the teacher fell[r]silent as if lost in thought.[pcms]
 
 *671|
 [fc]
-[ns]‰Á“¡[nse]
-uæ¶ccHv[pcms]
+[ns]Kato[nse]
+Sensei...?[pcms]
 
 *672|
 [fc]
-­‚µ‚ÌŠÔ‚»‚¤‚µ‚Ä‚¢‚½æ¶‚ÍA[r]
-‚â‚ª‚Ä•š‚¹‚Ä‚¢‚½–Ú‚ğŠJ‚¯A‚Ü‚½Œû‚ğŠJ‚¢‚½B[pcms]
+After a short while, the teacher who had been silent opened[r]his eyes and spoke again.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_b_03"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v261|
 [fc]
 [vo_ri s="risa0016"]
-[ns]V“¹[nse]
-ucc‚»‚¤‚ËBƒrƒfƒI‚Ì“ü‚ê‘Ö‚¦‚âAƒfƒbƒL‚Ì‘€ì‚ÍA[r]
-‹M•û’B‚É‚¨Šè‚¢‚µ‚æ‚¤‚©‚µ‚çBÀ‚ÍA‹}‚Èd–‚ª“ü‚Á‚Ä[r]
-‚µ‚Ü‚Á‚ÄA‘‹}‚É‚»‚ê‚ğˆ—‚µ‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‚Ìv[pcms]
+[ns]Shindou[nse]
+... I see. Maybe I should ask you all to handle things like[r]changing the videos and operating the deck.[l][er]
+Actually, I received a sudden job and I need to take care of[r]it urgently.[pcms]
 
 *673|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ŸA‘åä•v‚Á‚·‚æA‰´‚ç‚Å‚â‚Á‚Æ‚«‚Ü‚·v[pcms]
+[ns]Kato[nse]
+Ah, don't worry, we'll take care of it.[pcms]
 
 *674|
 [fc]
-æ¶‚Í‚¤‚È‚¸‚¢‚ÄA‚Ü‚½‹ê‚µ‚»‚¤‚É‘å‚«‚­‘§‚ğ‚Â‚¢‚½B[r]
-–{“–‚É‚È‚ñ‚Å‚à‚È‚¢‚Ì‚©‚ÈccB[pcms]
+The teacher nodded and took a deep breath, seeming to be in[r]pain.[l][er]
+I wonder if he's really okay...[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v262|
 [fc]
 [vo_ri s="risa0017"]
-[ns]V“¹[nse]
-uˆ«A‚¯‚ê‚ÇA‚ ‚Æ‚Í‚¨Šè‚¢‚ËBO‚ÚA–Ú‚ªI‚í‚é ‚É[r]
-ˆê“x–ß‚ÁA‚Ä‚«‚Ü‚·‚©‚çv[pcms]
+[ns]Shindou[nse]
+I'm sorry, but I'll leave the rest to you.[l][er]
+I'll come back once the third period is over.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *675|
 [fc]
-ÅŒã‚Ü‚Å—lq‚Ì‚¨‚©‚µ‚©‚Á‚½æ¶‚ÍA[r]
-‚»‚¤Œ¾‚¢‚¨‚¢‚Ä‹’®Šoº‚ğo‚Äs‚Á‚½B[pcms]
+The teacher, who had been acting strange until the end, said[r]that and left the audiovisual room.[pcms]
 
-;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 [jump target=*0029_TOP storage="0029.ks"]
 
 

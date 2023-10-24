@@ -1,46 +1,46 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN03010wl‹CÒG•ü”üx‰‰
-;//BG:‘Ìˆç—p‹ïºF–é^“_“”
-;//EVENT;//BG:‘Ìˆç—p‹ïº/ƒ}ƒbƒg‚Ìã
-;//“oêl•¨G•ü”üE“c’†E”¼’[Š´õƒ]ƒ“ƒr‘½”i‰æ–Ê“à‚Í‚Q‘Ìj
-;//‹“_F“c’†
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯03010ã€äººæ°—è€…ï¼›æœ‹ç¾ã€â™‚â™‚
+;//BG:ä½“è‚²ç”¨å…·å®¤ï¼šå¤œï¼ç‚¹ç¯
+;//EVENT;//BG:ä½“è‚²ç”¨å…·å®¤/ãƒãƒƒãƒˆã®ä¸Š
+;//ç™»å ´äººç‰©ï¼›æœ‹ç¾ãƒ»ç”°ä¸­ãƒ»åŠç«¯æ„ŸæŸ“ã‚¾ãƒ³ãƒ“å¤šæ•°ï¼ˆç”»é¢å†…ã¯ï¼’ä½“ï¼‰
+;//è¦–ç‚¹ï¼šç”°ä¸­
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *03010_H_TOP
-;[debug_win]‚È‚¤@03010_H[debug_win_end]
+;[debug_win]ãªã†ã€€03010_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [eval exp="sf.SRP11 = 1"][if exp="tf.scene_mode == 0"][jump target=*03010][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *03010
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_03010 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_03010 = 1"]
 
-;*SceneSet|wl‹CÒG•ü”üx
+;*SceneSet|ã€äººæ°—è€…ï¼›æœ‹ç¾ã€
 
-;//flag:—Dƒ‹[ƒgƒtƒ[@zap‚P@•\¦
+;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€zapï¼‘ã€€è¡¨ç¤º
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 
 [fadeoutbgm time=500]
 
-;//BG:bg–³‚µ
+;//BG:bgç„¡ã—
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
@@ -49,43 +49,41 @@
 
 *3242|
 [fc]
-[ns]“c’†[nse]
-u‚¤ccv[pcms]
+[ns]Tanaka[nse]
+Ugh...[pcms]
 
 *3243|
 [fc]
-‚È‚ñ‚¾cc“d‹CA“_‚¢‚Ä‚éccH[r]
-Á‚µ‚Äƒ„ƒb‚Ä‚½ƒnƒY‚¾‚æ‚ÈccB[pcms]
+What... the lights are on...? I remember turning them off[r]and doing it...[pcms]
 
 *3244|
 [fc]
-’N‚©“ü‚Á‚Ä‚«‚½‚Ì‚©ccH[pcms]
+Did someone come in...?[pcms]
 
 *3245|
 [fc]
-l‚ª“®‚¢‚Ä‚é‚æ‚¤‚È‹C”z‚ª‚·‚éccB[pcms]
+I feel like someone is moving...[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
 
 [se0 storage="se058" loop=true]
 
 *v1271|
 [fc]
 [vo_to s="tomo0157"]
-[ns]ŒÜ\—’[nse]
-u‚¤cc‚Ÿcc‚£‚®ccv[pcms]
+[ns]Igarashi[nse]
+Ugh... ah... ugh...[pcms]
 
 *3246|
 [fc]
-ƒgƒ‚ƒ~ƒ“ccH[r]
-“®‚¢‚Ä‚é‚Ì‚Íƒgƒ‚ƒ~ƒ“‚©ccH[pcms]
+Tomomin...? Is it Tomomin who's moving...?[pcms]
 
 
 ;;;[sysbt_meswin clear]
 
 *scene_start
 
-;//ôFBGM002
+;//â™ªï¼šBGM002
 [bgm002]
 
 ;//H_CG
@@ -96,178 +94,168 @@
 ;;;[sysbt_meswin]
 
 
-;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
 
 [se1 storage="se061" loop=true]
 
 *v1272|
 [fc]
 [vo_to s="tomo0158"]
-[ns]ŒÜ\—’[nse]
-u‚¢A‚â‚Ÿ‚Ácc‚âA‚ßcc‚ñ‚àJ‚§‚ÁIIv[pcms]
+[ns]Igarashi[nse]
+N-No... sto-op... don't... aahh!![pcms]
 
 *3247|
 [fc]
-[ns]’jq¶“k‚h[nse]
-u‚­‚¿A‚ÍA‚È‚·A‚ÈA‚æ‚§cc‚ÜA‚¾A‚¢‚Á‚Ä‚ÈA‚¢[r]
-‚¾A‚ë‚§ccv[pcms]
+[ns]Male Student I[nse]
+Don't... don't speak with your mouth...[l][er]
+yet... keep going...[pcms]
 
 *v1273|
 [fc]
 [vo_to s="tomo0159"]
-[ns]ŒÜ\—’[nse]
-u‚ñ‚ñJ‚ÁII@‚ñJ‚ÁA‚Ô‚¿‚ã‚ÁA‚®‚À‚ã‚ÁII[r]
-‚ñ‚Ô‚£‚ÁIIv[pcms]
+[ns]Igarashi[nse]
+Nngghh!! Nngghh, *squelch*, *squish*!![l][er]
+Nbuuhh!![pcms]
 
 *3248|
 [fc]
-[ns]’jq¶“k‚i[nse]
-u‚­‚¿A‚ÉA‚¿A‚ñ‚ÛA‚Â‚Á‚±‚ÜA‚ê‚Äcc[r]
-‚ÜA‚ñ‚±A‚µ‚ß‚ÂA‚¯‚ÄA‚â‚ª‚écc[r]
-‚©‚ñA‚¶A‚Ä‚éA‚ºA‚±‚ÌA‚¨A‚ñ‚È‚Ÿccv[pcms]
+[ns]Male Student J[nse]
+With my mouth, I'll put it in your pussy...[l][er]
+I'll tighten it up... You understand, right?[l][er]
+You bitch...[pcms]
 
 *v1274|
 [fc]
 [vo_to s="tomo0160"]
-[ns]ŒÜ\—’[nse]
-u‚ñ‚®‚ÁA‚ñ‚ŞJ‚£II@‚ñ‚¨J‚ÁA‚Ô‚ÁA‚À‚ã‚Õ‚ÁA[r]
-‚ñ‚ñJ‚£‚ÁIIv[pcms]
+[ns]Igarashi[nse]
+Nngghh!! Nngghh, *squelch*, *squish*!![l][er]
+Nbuuhh!![pcms]
 
 *3249|
 [fc]
-[ns]“c’†[nse]
-uccccv[pcms]
+[ns]Tanaka[nse]
+â€¦â€¦â€¦â€¦[l][er]
 
 *3250|
 [fc]
-ƒgƒ‚ƒ~ƒ“‚ªcc‘¼‚Ì’j‚Æƒ„ƒb‚Ä‚éccB[r]
-‚È‚ñ‚ÅccH[r]
-‚±‚êA‚Ç‚¤‚È‚Á‚Ä‚ñ‚¾ccH[pcms]
+Tomomin is... having sex with another guy...[l][er]
+Why...? What's happening...?[pcms]
 
 *3251|
 [fc]
-[ns]“c’†[nse]
-uƒgƒ‚ƒ~ƒ“cc‰½‚µ‚Äccv[pcms]
+[ns]Tanaka[nse]
+Tomomin... What are you doing...[pcms]
 
 *v1275|
 [fc]
 [vo_to s="tomo0161"]
-[ns]ŒÜ\—’[nse]
-u‚ñ‚ñ‚ÁII@cc‚Õ‚Í‚Ÿ‚Ácc[r]
-‚¤[‚½A‚ñccŒ©‚ÈA‚¢‚Å‚¥ccv[pcms]
+[ns]Igarashi[nse]
+Nngh!! ... Puhh... U-ta, n... Don't...[l][er]
+look...[pcms]
 
 *3252|
 [fc]
-[ns]’jq¶“k‚h[nse]
-u‚Ü‚¾A‚¾A‚Á‚ÄA‚¢‚Á‚Ä‚éA‚¾A‚ë‚§ccv[pcms]
+[ns]Male Student I[nse]
+I'm still... s-saying... don't...[pcms]
 
 *v1276|
 [fc]
 [vo_to s="tomo0162"]
-[ns]ŒÜ\—’[nse]
-u‚¢A‚â‚Ÿ‚Ácc‚â‚ß‚Ácc‚¨‚Ô‚£‚ÁII@‚ñ‚¨J‚ÁA[r]
-‚Ô‚¿‚ã‚ÁA‚¿‚ã‚®‚ÁA‚À‚ã‚Ô‚£‚ÁIIv[pcms]
+[ns]Igarashi[nse]
+N-No... sto-op... don't... aahh!![l][er]
+*moan*, *kiss*, *suck*, *slurp*!![pcms]
 
 *3253|
 [fc]
-–ì˜Y‚Ìˆêl‚ªƒgƒ‚ƒ~ƒ“‚Ì“ª‚ğ‰Ÿ‚³‚¦‚ÄA[r]
-ƒ€ƒŠƒ„ƒŠŒû‚Ì’†‚Éƒ`ƒ“ƒR‚ğ“Ë‚Á‚ñ‚ÅA[r]
-o‚µ“ü‚ê‚ğŒJ‚è•Ô‚µ‚Ä‚¢‚éB[pcms]
+One of the guys forcefully holds Tomomin's head down and[r]thrusts his penis into her mouth, repeatedly moving in and[r]out.[pcms]
 
 *3254|
 [fc]
-‚à‚¤ˆêl‚Ìƒ„ƒc‚ÉA[r]
-“¯‚ÉƒoƒbƒN‚©‚çƒ}ƒ“ƒR‚É“ü‚ê‚ç‚ê‚ÄA[r]
-ƒgƒ‚ƒ~ƒ“‚Í‹ê‚µ‚»‚¤‚ÈŠç‚Å‹ƒ‚¢‚Ä‚¢‚½B[pcms]
+Tomomin was being penetrated from behind by another guy at[r]the same time, and she had a pained expression on her face[r]as she cried.[pcms]
 
 *v1277|
 [fc]
 [vo_to s="tomo0163"]
-[ns]ŒÜ\—’[nse]
-u‚¤‚Ô‚ÁA‚ñ‚¨J‚ÁA‚ñJ‚ÁA‚ñ‚®‚£‚ÁII@‚À‚ã‚ÕA[r]
-‚®‚¿‚ã‚ÁA‚Ô‚À‚ã‚é‚ÁIIv[pcms]
+[ns]Igarashi[nse]
+Ubuu, n-ohh, ng-ohh, nguuu!! Jyupu, guchu, bujyuruu!![pcms]
 
 *v1278|
 [fc]
 [vo_to s="tomo0164"]
-[ns]ŒÜ\—’[nse]
-u‚ñ‚®‚ÁccA‚âcc‚â‚ß‚Äcc‚®‚¿‚ã‚ÁIv[pcms]
+[ns]Igarashi[nse]
+Nnggh... s-stop... *squish*![pcms]
 
 *3255|
 [fc]
-[ns]’jq¶“k‚h[nse]
-u‚ ``cc‚¢‚­A‚£``cc‚ÅA‚é‚£``ccv[pcms]
+[ns]Male Student I[nse]
+Aahhh... I'm cumming, uhhh... I'm...[l][er]
+cominggg...[pcms]
 
 *3256|
 [fc]
-[ns]’jq¶“k‚i[nse]
-u‚±A‚ÌA‚Ü‚ñA‚±cc‚¹A‚Ü‚­‚Äcc‚«‚ÂA‚¢‚¡cc[r]
-‚¤‚Ÿ``A‚·A‚°‚¥A‚«A‚à‚¿‚¢A‚¡ccv[pcms]
+[ns]Male Student J[nse]
+Th-this... pussy... is so tight...[l][er]
+ughhh... it feels amazing... ahhhh, it's so intense...[pcms]
 
 *v1279|
 [fc]
 [vo_to s="tomo0165"]
-[ns]ŒÜ\—’[nse]
-u‚ñ‚À‚ã‚ÁII@‚¿‚ã‚®‚ÁA‚À‚ã‚Õ‚£‚ÁII@‚àJ‚ÁA[r]
-‚¨‚Ô‚ÁII@‚ñ‚Ô‚£‚ÁIIv[pcms]
+[ns]Igarashi[nse]
+Njyu!! Chugu, jyupuu!! Mobu, obu!![l][er]
+Nbuu!![pcms]
 
 *v1280|
 [fc]
 [vo_to s="tomo0166"]
-[ns]ŒÜ\—’[nse]
-u‚ñ‚Ô‚Ÿ‚Ácc‚â‚ß‚Ä‚Á‚Ä‚ÎccI@‚â‚Ÿ‚Ÿ‚ ‚ ccv[pcms]
+[ns]Igarashi[nse]
+Nbuahh... Stop it, I said...! Yaaahhh...[pcms]
 
 *3257|
 [fc]
-ƒgƒ‚ƒ~ƒ“‚ÌŒû‚É“Ë‚Á‚ñ‚Å‚é–ì˜Y‚ªA[r]
-˜‚ğ“®‚©‚·ƒXƒs[ƒh‚ğã‚°‚éB[pcms]
+The guy thrusting into Tomomin's mouth increases the speed[r]of his hip movements.[pcms]
 
 *3258|
 [fc]
-o‚·‹C‚¾AƒAƒCƒcccB[r]
-ƒgƒ‚ƒ~ƒ“‚ÌŒû‚ÉccB[pcms]
+He intends to cum... in Tomomin's mouth...[pcms]
 
 *3259|
 [fc]
-“Ë‘R‰ß‚¬‚éˆÙ—l‚ÈŒõŒi‚ÉA[r]
-ƒIƒŒ‚Íg‘Ì‚ğ“®‚©‚·–‚·‚ç–Y‚ê‚Ä‚¢‚½B[pcms]
+I had forgotten to even move my body in the face of such a[r]sudden and bizarre scene.[pcms]
 
 *3260|
 [fc]
-[ns]’jq¶“k‚h[nse]
-u‚ ```cc‚¾A‚·‚æA‚Ù‚çA‚Ÿcc‚º‚ñA‚ÔA‚ÌA[r]
-‚ß‚æ‚§ccv[pcms]
+[ns]Male Student I[nse]
+Ahhhh... I-I'm, look, ahh... completely, unable, to, move...[pcms]
 
 *v1281|
 [fc]
 [vo_to s="tomo0167"]
-[ns]ŒÜ\—’[nse]
-u‚ñ‚ŞJ‚¤‚£‚ÁII@‚ñ‚ñJ‚ÁII@‚ñ‚¨J‚ÁA‚ñ‚ÔA[r]
-‚Ô‚¿‚ã‚ÁII@‚®‚¿‚ã‚ÁIIv[pcms]
+[ns]Igarashi[nse]
+Nmuguu!! Nngu!! Nogu, nbuchu!![l][er]
+Guchu!![pcms]
 
 *v1282|
 [fc]
 [vo_to s="tomo0168"]
-[ns]ŒÜ\—’[nse]
-u‚àAcc‚ñ‚Ô‚Ácc‚à‚¤A‚âA‚â‚ß‚Ä‚¥cc[r]
-‚ñ‚¨J‚Á‚ñ‚Î‚ÁI@cc‚¾‚ß‚¥cc[r]
-‚â‚ß‚Ä‚Ácc‚Ä‚Îccv[pcms]
+[ns]Igarashi[nse]
+M-mo... *moan*... m-mou, y-yamete...[l][er]
+noo... *gasps*! ... damee... yametee...[l][er]
+teba...[pcms]
 
 *3261|
 [fc]
-Œ™‚ª‚Á‚ÄAŒƒ‚µ‚­ñ‚ğ‰¡‚ÉU‚éƒgƒ‚ƒ~ƒ“‚ğ–³‹‚µ‚ÄA[r]
-ƒ„ƒc‚Íƒ`ƒ“ƒR‚ğª–{‚Ü‚Å“Ë‚Á‚ñ‚¾B[pcms]
+Ignoring Tomomin, who was shaking her head vigorously in[r]resistance, he thrust his penis all the way in.[pcms]
 
 *3262|
 [fc]
-[ns]’jq¶“k‚h[nse]
-u‚ ‚Ÿ```ccv[pcms]
+[ns]Male Student I[nse]
+Ahhhh~...[pcms]
 
 *v1283|
 [fc]
 [vo_to s="tomo0169"]
-[ns]ŒÜ\—’[nse]
-u‚ñ‚ñJ[[[[[[‚ÁIIIIv[pcms]
+[ns]Igarashi[nse]
+Nnnghhhhhhhhh!!!!!![pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -292,94 +280,85 @@
 
 *3263|
 [fc]
-ƒ„ƒc‚Í‹C‚¿‚æ‚³‚»‚¤‚ÈŠç‚ğ‚µ‚È‚ª‚çA‰½‰ñ‚©ƒrƒNƒ“ƒr[r]
-ƒNƒ“‚Æ˜‚ğ“®‚©‚µ‚½B[pcms]
+While wearing a pleasurable expression, he moved his hips a[r]few times with a twitching motion.[pcms]
 
 *3264|
 [fc]
-[ns]’jq¶“k‚h[nse]
-u‚Í‚ŸA‚Ÿ```ccv[pcms]
+[ns]Male Student I[nse]
+Haa, ahhhhh...[pcms]
 
 *v1284|
 [fc]
 [vo_to s="tomo0170"]
-[ns]ŒÜ\—’[nse]
-u‚°‚¥‚ÁII@‚ª‚Ó‚ÁA‚°‚Ù‚§II@‚¤‚¦J‚¥‚ÁIIv[pcms]
+[ns]Igarashi[nse]
+Gehh!! Gafu, gehoo!! Uevehh!![pcms]
 
 *v1285|
 [fc]
 [vo_to s="tomo0171"]
-[ns]ŒÜ\—’[nse]
-u‚¤A‚¤‚¥‚¦‚¦II@‚à‚¤A‚â‚ß‚Ä‚¥ccv[pcms]
+[ns]Igarashi[nse]
+U, weeee!! Please, stop...[pcms]
 
 *3265|
 [fc]
-‚»‚ñ‚ÈccB[r]
-ƒŒƒCƒv‚³‚ê‚Ä‚éccB[pcms]
+No... I'm being raped...[pcms]
 
 *3266|
 [fc]
-ƒgƒ‚ƒ~ƒ“‚ª‹ê‚µ‚»‚¤‚ÉƒU[ƒƒ“‚ğ“f‚«o‚·‚Ì‚ğŒ©‚ÄA[r]
-ƒIƒŒ‚Í‚â‚Á‚Æ‰ä‚É•Ô‚Á‚½B[pcms]
+I finally regained my senses when I saw Tomomin struggling[r]to vomit out the semen.[pcms]
 
 *3267|
 [fc]
-[ns]“c’†[nse]
-uƒgƒ‚ƒ~ƒ“cc‚ÁII@‚­‚ÁI@‚ ‚Ÿ‚ÁIIv[pcms]
+[ns]Tanaka[nse]
+Tomomin...!! Kuh! Ahh!![pcms]
 
 *3268|
 [fc]
-ƒgƒ‚ƒ~ƒ“‚ğ•‚¯‚½‚­‚ÄccB[r]
-ƒIƒŒ‚Í‚æ‚¤‚â‚­‹N‚«‚ ‚ª‚Á‚ÄA[r]
-”Ş—‚ğƒŒƒCƒv‚µ‚Ä‚¢‚é–ì˜Y‚É”ò‚Ñ‚©‚©‚ë‚¤‚Æ‚µ‚½B[pcms]
+I wanted to help Tomomin... I finally managed to get up and[r]tried to jump at the bastard who was raping her.[pcms]
 
 *3269|
 [fc]
-‚Å‚àA‚¢‚Â‚ÌŠÔ‚É‚©‘Ì‚ğ‰½l‚©‚É‰Ÿ‚³‚¦‚ç‚ê‚Ä‚¢‚ÄA[r]
-‹N‚«‚ ‚ª‚Á‚½‚Ì‚Í“ª‚¾‚¯‚¾‚Á‚½B[pcms]
+But before I knew it, my body was being held down by several[r]people, and the only thing I could move was my head.[pcms]
 
 *3270|
 [fc]
-‚È‚ñ‚¾A‚±‚¢‚Â‚çccB[r]
-‚Ç‚Á‚©‚ç•¦‚¢‚Ä‚«‚â‚ª‚Á‚½‚ñ‚¾ccH[pcms]
+What the hell, these guys... Where the hell did they come[r]from...?[pcms]
 
 *3271|
 [fc]
-[ns]“c’†[nse]
-u‰½‚¾‚æAƒIƒ}ƒG‚ç‚ÁII@—£‚¹‚æ‚ÁIIv[pcms]
+[ns]Tanaka[nse]
+What the hell, you guys!! Let go!![pcms]
 
 *3272|
 [fc]
-[ns]’jq¶“k‚k[nse]
-u‚ `ccH@‚¤‚éA‚¹‚¥A‚Èccv[pcms]
+[ns]Male Student L[nse]
+Ah...? Uru, see, na...[pcms]
 
 *3273|
 [fc]
-[ns]“c’†[nse]
-u—£‚¹‚¥‚ÁII@ƒgƒ‚ƒ~ƒ“‚ÁIIv[pcms]
+[ns]Tanaka[nse]
+Let go!! Tomomin!![pcms]
 
 *3274|
 [fc]
-ƒIƒŒ‚ªƒWƒ^ƒoƒ^‚µ‚Ä‚¢‚é‚¤‚¿‚ÉA[r]
-‚Ü‚½’j‚ªƒgƒ‚ƒ~ƒ“‚ÌŠç‚Éƒ`ƒ“ƒR‚ğ‚Â‚«‚Â‚¯‚Ä‚¢‚½B[pcms]
+While I was struggling, another man had his penis pressed[r]against Tomomin's face.[pcms]
 
 *3275|
 [fc]
-[ns]’jq¶“k‚j[nse]
-u‚à‚¤A‚¢‚Á‚©‚¢A‚¨‚êA‚ÌA‚¿A‚ñ‚Ûcc[r]
-‚µ‚áA‚Ô‚Á‚ÄA‚­‚ê‚æ‚§cc[r]
-‚­A‚¿‚ A‚¯A‚ëA‚Ù‚çA‚Ÿccv[pcms]
+[ns]Male Student K[nse]
+I want you to suck my dick again...[l][er]
+Come on, open your mouth... Ah...[pcms]
 
 *v1286|
 [fc]
 [vo_to s="tomo0172"]
-[ns]ŒÜ\—’[nse]
-u‚¤[A‚½‚ñcc•‚¯A‚Ä‚¥cc‚ÁIIv[pcms]
+[ns]Igarashi[nse]
+Ugh... Tan... help... plea... se...!![pcms]
 
 *3276|
 [fc]
-[ns]“c’†[nse]
-uƒeƒƒFA‚â‚ß‚Ácc‚®‚ ‚ ‚Ÿ‚Ÿ‚ÁIIv[pcms]
+[ns]Tanaka[nse]
+You... stop... guaaahhh!![pcms]
 
 ;//redflash
 
@@ -392,13 +371,12 @@
 
 *3277|
 [fc]
-‚©AŠš‚İ‚Â‚¢‚Ä‚â‚ª‚écc‚ÁII[r]
-‚È‚ñ‚È‚ñ‚¾ƒRƒCƒc‚çII[pcms]
+B-Biting me...!! What the hell are these guys?![pcms]
 
 *3278|
 [fc]
-[ns]’jq¶“k‚l[nse]
-u‚®‚ÓA‚£``ccv[pcms]
+[ns]Male Student M[nse]
+Guh, ughhh...[pcms]
 
 ;//redflash
 
@@ -411,13 +389,13 @@
 
 *3279|
 [fc]
-[ns]“c’†[nse]
-u‚®‚Ÿ‚ÁII@‚ ‚ ‚Ÿ‚Ÿ‚ÁIIv[pcms]
+[ns]Tanaka[nse]
+Guh!! Aaahhh!![pcms]
 
 *3280|
 [fc]
-[ns]’jq¶“k‚k[nse]
-u‚¤‚éA‚¹‚¥A‚Á‚ÄA‚¢‚ÁA‚Ä‚ñc‚¾‚æv[pcms]
+[ns]Male Student L[nse]
+Uru, let go... I'm about to cum...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -431,195 +409,179 @@
 *v1287|
 [fc]
 [vo_to s="tomo0173"]
-[ns]ŒÜ\—’[nse]
-u‚ñJ‚ÁA‚Ô‚£‚ÁA‚¤J‚®‚¤‚£‚ÁII[r]
-‚À‚ã‚Ú‚ÁA‚ñ‚®‚¤‚ÁII@‚ñ‚àJ‚§‚ÁIIv[pcms]
+[ns]Igarashi[nse]
+Ngh... buu... ughhh!! Jyuboo...[l][er]
+ngghh!! Nmooohh!![pcms]
 
 *3281|
 [fc]
-[ns]’jq¶“k‚j[nse]
-u‚¤‚Ö‚ÖA‚¥cc[r]
-‚­‚¿A‚ñA‚È‚©A‚ÊA‚é‚ÊA‚éA‚µ‚Äcc[r]
-‚Ü‚ñA‚±A‚İ‚½A‚¢A‚¾‚Ÿccv[pcms]
+[ns]Male Student K[nse]
+Uhuhu... I want... your mouth...[l][er]
+inside... me... I want to see...[l][er]
+your pussy...[pcms]
 
 *3282|
 [fc]
-[ns]’jq¶“k‚i[nse]
-u‚¯‚Â‚ÜA‚ÅA‚¯‚ªA‚ÍA‚¦‚Ä‚éA‚ºcc[r]
-‚¦‚ëA‚¢A‚¨‚ñA‚È‚¾cc‚Ü‚ñA‚±‚ÌA‚ÈA‚©‚ÉA[r]
-‚¾‚µA‚ÄA‚ÙA‚µ‚¢‚ñA‚¾‚ëcc‚¨A‚ç‚Ÿccv[pcms]
+[ns]Male Student J[nse]
+My ass... it hurts... it's so erotic...[l][er]
+I want you to put it in my pussy...[l][er]
+please... ohh...[pcms]
 
 *v1288|
 [fc]
 [vo_to s="tomo0174"]
-[ns]ŒÜ\—’[nse]
-u‚Ô‚¿‚ã‚ÁA‚¿‚ã‚®‚ÁA‚À‚ã‚Ô‚£‚ÁII[r]
-‚ñJ‚¤‚ÁA‚®‚¿‚ã‚ÁA‚À‚ã‚Õ‚é‚ÁIIv[pcms]
+[ns]Igarashi[nse]
+*sucking sounds* Ahh...[pcms]
+*moaning sounds*[l][er]
 
 *3283|
 [fc]
-ƒIƒŒ‚Ív‚¢‚Á‚«‚è‘Ì‚É—Í‚ğ“ü‚ê‚ÄA[r]
-H‚¢‚ñ‚Å‚­‚é–ì˜Y‹¤‚Ì•‚É’ïR‚µ‚½B[pcms]
+I put all my strength into my body and resisted against the[r]guys who were biting me.[pcms]
 
 *3284|
 [fc]
-[ns]“c’†[nse]
-u‚®‚¤‚£‚Áccƒgƒ‚Aƒ~ƒ“‚ÁI[r]
-ƒ\ƒCƒc‚ÌAƒ`ƒ“ƒRAH‚¢çØ‚Á‚Ä‚â‚ê‚ÁIIv[pcms]
+[ns]Tanaka[nse]
+Guuuh... Tomo, Min! Tear off that guy's dick and eat it!![pcms]
 
 *v1289|
 [fc]
 [vo_to s="tomo0175"]
-[ns]ŒÜ\—’[nse]
-u‚ñ‚¤J‚ÁII@‚ñ‚¬‚¡‚ÁIIv[pcms]
+[ns]Igarashi[nse]
+Nngghh!! Ngiihh!![pcms]
 
 *3285|
 [fc]
-Œû‚É“Ë‚Á‚ñ‚Å‚éƒ„ƒc‚Ìƒ`ƒ“ƒR‚ÍƒfƒJƒC‚ç‚µ‚­A[r]
-ƒgƒ‚ƒ~ƒ“‚ª•‚ğ—§‚Ä‚Ä‚àA[r]
-‚¨\‚¢‚È‚µ‚Éo‚µ“ü‚ê‚ğ‘±‚¯‚éB[pcms]
+The guy's dick that's being shoved into my mouth seems to be[r]big, and even though Tomomin is biting it, he continues[r]thrusting in and out without a care.[pcms]
 
 *3286|
 [fc]
-[ns]’jq¶“k‚j[nse]
-u‚Ó‚Ö‚ÖA‚Ö‚Ö‚¥cc‚ÍA‚ªA‚Ğ‚Á‚©A‚©‚Á‚Äcc[r]
-‚¢A‚½A‚¬‚à‚¿A‚¢‚¡``ccv[pcms]
+[ns]Male Student K[nse]
+Fufufu, hehe... ha, ga, hicca, katte...[l][er]
+i, ta, gimochi, iii~...[pcms]
 
 *3287|
 [fc]
-[ns]’jq¶“k‚i[nse]
-u‚ÜA‚½cc‚ÜA‚ñ‚±A‚«‚ÂA‚­A‚È‚Á‚½A‚Ÿ`cc[r]
-‚¨‚ A‚Ÿ`A‚¢‚­A‚£``ccv[pcms]
+[ns]Male Student J[nse]
+Ah... it... it's tight again...[l][er]
+ahh~... I'm... I'm cumming~...[pcms]
 
 *v1290|
 [fc]
 [vo_to s="tomo0176"]
-[ns]ŒÜ\—’[nse]
-u‚ñJ[[‚ÁII@‚ñJ‚¤J‚£‚ÁIIv[pcms]
+[ns]Igarashi[nse]
+Nghhh!! Nguuhh!![pcms]
 
 *3288|
 [fc]
-ƒ}ƒ“ƒR‚É“ü‚ê‚Ä‚é–ì˜Y‚ÌAwƒCƒNx‚Á‚ÄŒ¾—t‚ğ’®‚¢‚ÄA[r]
-ƒgƒ‚ƒ~ƒ“‚ÍšX‚Á‚Äñ‚ğ‰¡‚Éƒuƒ“ƒuƒ“U‚Á‚½B[pcms]
+Tomomin growled and shook her head vigorously when she heard[r]the guy who was inside her pussy say, I'm cumming.[pcms]
 
 *3289|
 [fc]
-[ns]“c’†[nse]
-uƒeAƒƒFccƒgƒ‚Aƒ~ƒ“‚ÉA’†o‚µA‚µ‚â‚ª‚Á‚½‚çA[r]
-ƒuƒbE‚·‚¼IIv[pcms]
+[ns]Tanaka[nse]
+You... If you dare to creampie Tomo and Min, I'll fucking[r]kill you!![pcms]
 
 *3290|
 [fc]
-[ns]’jq¶“k‚i[nse]
-u‚Ü‚ñA‚±A‚Ê‚ç‚µA‚Äcc[r]
-‚®‚¿‚ã‚®A‚¿‚ãA‚¢‚íA‚¹‚âA‚ª‚Á‚Ä‚¥cc[r]
-‚¢‚­A‚ÌA‚©A‚ß‚·A‚ÔA‚½‚Ÿccv[pcms]
+[ns]Male Student J[nse]
+My... pussy... is getting wet...[l][er]
+squishy, chu, it feels so good...[l][er]
+I'm going to... cum... inside...[l][er]
+ahh...[pcms]
 
 *v1291|
 [fc]
 [vo_to s="tomo0177"]
-[ns]ŒÜ\—’[nse]
-u‚¿‚ã‚®‚ÁA‚À‚ã‚Õ‚£‚ÁII@‚ñ‚À‚ã‚ÁA‚À‚ã‚ÁA‚ñJ[r]
-‚Ô‚¤‚£‚ÁIIv[pcms]
+[ns]Igarashi[nse]
+Chugu, jyupuu!! Njyu, jyu, ngubuu!![pcms]
 
 *3291|
 [fc]
-[ns]’jq¶“k‚j[nse]
-u‚àA‚¤‚¿‚åA‚Á‚Æcc[r]
-‚Â‚æA‚­A‚©A‚ñ‚ÅA‚­A‚êA‚æ‚§``cc[r]
-‚Ó‚Ö‚ÖA‚Ö‚¥ccv[pcms]
+[ns]Male Student K[nse]
+P-Please... be a little... gentler...[l][er]
+with me~... Fufufu, hehe...[pcms]
 
 *v1292|
 [fc]
 [vo_to s="tomo0178"]
-[ns]ŒÜ\—’[nse]
-u‚ñ‚Ô‚ÁA‚ñ‚àJ‚§‚ÁII[r]
-‚ñJ‚ÁA‚¨J‚Ô‚£‚ÁII[r]
-‚Ô‚ÁA‚¿‚ã‚Ô‚ÁA‚®‚À‚ã‚£‚ÁIIv[pcms]
+[ns]Igarashi[nse]
+Nbuu, nmoohh!! Nguhh, oobuu!! Buhh, chubu, gijyuuhh!![pcms]
 
 *3292|
 [fc]
-ƒIƒŒ‚Ì“{–Â‚èº‚ğ‚Ü‚é‚Á‚«‚èƒVƒJƒg‚µ‚ÄA[r]
-–ì˜Y‹¤‚Íƒgƒ‚ƒ~ƒ“‚ğƒŒƒCƒv‚µ‘±‚¯‚éB[pcms]
+They completely ignore my shouting and continue to rape[r]Tomomin.[pcms]
 
 *3293|
 [fc]
-ƒNƒ\ccII[r]
-‘Ì‚³‚¦“®‚¯‚Îcc‚ÁII[pcms]
+Damn it...!! If only my body could move...!![pcms]
 
 *3294|
 [fc]
-[ns]’jq¶“k‚j[nse]
-u‚ ‚Ÿ``cc‚â‚ÎA‚¢‚¡cc‚àA‚¤A‚¢‚«A‚»A‚¤A[r]
-‚¾‚Ÿ``ccv[pcms]
+[ns]Male Student K[nse]
+Ahh... yaba, ii... mo, u, iki, so, u, daa~...[pcms]
 
 *v1293|
 [fc]
 [vo_to s="tomo0179"]
-[ns]ŒÜ\—’[nse]
-u‚À‚ã‚Õ‚ÁA‚ñ‚À‚ã‚ÁA‚®‚¿‚ã‚ÁII@‚Ô‚¿‚ã‚£‚ÁII[r]
-‚ñ‚Ô‚ÁA‚ñ‚Ú‚§‚ÁIIv[pcms]
+[ns]Igarashi[nse]
+Jyupu, nju, guchu!! Buchuu!! Nbu, nboo!![pcms]
 
 *v1294|
 [fc]
 [vo_to s="tomo0180"]
-[ns]ŒÜ\—’[nse]
-u‚ñ‚Ï‚Ÿ‚ÁII@‚âA‚â‚Ÿ‚ ‚ `cc[r]
-‚¤cc‚¤[‚½‚ñcc‚È‚ñA‚Æ‚©cc[r]
-‰½‚Æ‚©‚µ‚Ä‚æ‚§cc•‚¯‚Ä‚æccv[pcms]
+[ns]Igarashi[nse]
+Npaa!! Yaa... yaaa~... u... Uutan...[l][er]
+nanto... nantoka shite yoo... tasukete yo...[pcms]
 
 *3295|
 [fc]
-[ns]’jq¶“k‚i[nse]
-u‚Ü‚Á‚ÄA‚ëA‚ß‚·‚ÔA‚½‚Ÿcc‚¢A‚ÜA‚Ü‚ñ‚±A‚ÉA[r]
-‚¦‚³A‚âA‚é‚©A‚çA‚È‚Ÿccv[pcms]
+[ns]Male Student J[nse]
+Wait, don't... touch... my... pussy...[l][er]
+like that...[pcms]
 
 *v1295|
 [fc]
 [vo_to s="tomo0181"]
-[ns]ŒÜ\—’[nse]
-u‚ñJ‚¤J‚£‚ÁII@‚ñ‚ñJ[[‚ÁIIv[pcms]
+[ns]Igarashi[nse]
+Nguu!! Nnguuhh!![pcms]
 
 *v1296|
 [fc]
 [vo_to s="tomo0182"]
-[ns]ŒÜ\—’[nse]
-u‚ñJ‚ñJII@‚Í‚ÁII@‘Ê–ÚII@‘Ê–Ú‚¥II[r]
-‚ÈA’†‚ÍA¡“ú‚ÍII@Šë‚È‚¢“ú‚¾‚©‚ç‚ÁIIv[pcms]
+[ns]Igarashi[nse]
+Nguh nguh!! Hah!! No!! Noo!! Inside, not today!![l][er]
+It's a dangerous day, you know!![pcms]
 
 *3296|
 [fc]
-ƒgƒ‚ƒ~ƒ“‚ğƒŒƒCƒv‚µ‚Ä‚¢‚é–ì˜Y‹¤‚ÌA˜‚Ì“®‚«‚ª‹­‚­A[r]
-‘¬‚­‚È‚Á‚Ä‚¢‚­B[pcms]
+The movements of those bastards who are raping Tomomin[r]become stronger and faster.[pcms]
 
 *3297|
 [fc]
-[ns]“c’†[nse]
-u‚â‚ßA‚ë‚§cc‚ÁIIv[pcms]
+[ns]Tanaka[nse]
+Stop...!![pcms]
 
 *3298|
 [fc]
-[ns]’jq¶“k‚j[nse]
-u‚©A‚¨cc‚´[‚ßA‚ñA‚Ü‚İA‚ê‚Écc[r]
-‚µA‚ÄA‚â‚é‚©A‚ç‚È‚Ÿccv[pcms]
+[ns]Male Student K[nse]
+K... o... zaa... me... n... ma...[l][er]
+mi... re... ni... shi... te...[l][er]
+ya... ru... ka... ra... naa...[pcms]
 
 *v1297|
 [fc]
 [vo_to s="tomo0183"]
-[ns]ŒÜ\—’[nse]
-u‚ñJ‚®‚ÁA‚¨J‚Ô‚£‚ÁII@‚¿‚ã‚®‚ÁA‚Ô‚¿‚ã‚ÁA[r]
-‚ñ‚Ô‚¤J‚£‚ÁIIv[pcms]
+[ns]Igarashi[nse]
+Nguh guu, obuu!! Chugu, buchuu, nbuu guu!![pcms]
 
 *3299|
 [fc]
-Šç‚ğƒjƒ„‚¯‚³‚¹‚È‚ª‚çAƒ„ƒc‚Íƒ`ƒ“ƒR‚ğˆø‚«”²‚¢‚ÄA[r]
-ƒgƒ‚ƒ~ƒ“‚ÌŠç‚Ì‘O‚Åè‚Å‚µ‚²‚¢‚ÄƒCƒb‚½B[pcms]
+With a smirk on his face, he pulled out his penis and jerked[r]off in front of Tomomin's face.[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
 
 [stop_se0]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 
 [overflow_se storage="se062"]
 
@@ -648,8 +610,8 @@
 
 *3300|
 [fc]
-[ns]’jq¶“k‚j[nse]
-u‚¤‚ÍA‚ ‚Ÿ```ccv[pcms]
+[ns]Male Student K[nse]
+Ugh, aahhhh~...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -667,67 +629,65 @@
 *v1298|
 [fc]
 [vo_to s="tomo0184"]
-[ns]ŒÜ\—’[nse]
-u‚ñ‚Õ‚ÁII@‚¢‚âA‚¢‚â‚Ÿcc[r]
-‚¤[‚½‚ñ‚ªŒ©‚Ä‚é‚Ì‚É‚¡cc‚ ‚ ‚ ccv[pcms]
+[ns]Igarashi[nse]
+Npuu!! No, nooo... Uutan is watching...[l][er]
+aahhh...[pcms]
 
 *3301|
 [fc]
-ƒgƒ‚ƒ~ƒ“‚ÌƒJƒƒCƒCŠç‚ªAƒ„ƒc‚Ì‰˜‚¢ƒU[ƒƒ“‚ÅA[r]
-‚Ç‚ñ‚Ç‚ñ‰˜‚³‚ê‚Ä‚¢‚­B[pcms]
+Tomomin's cute face is being gradually dirtied by his filthy[r]semen.[pcms]
 
 *3302|
 [fc]
-[ns]’jq¶“k‚j[nse]
-u‚¤‚ÖA‚Ö‚Ö‚¥ccv[pcms]
+[ns]Male Student K[nse]
+Uhe, hehee...[pcms]
 
 *v1299|
 [fc]
 [vo_to s="tomo0185"]
-[ns]ŒÜ\—’[nse]
-u‚ñ```cc‚ÁIIv[pcms]
+[ns]Igarashi[nse]
+Mmm~![pcms]
 
 *v1300|
 [fc]
 [vo_to s="tomo0186"]
-[ns]ŒÜ\—’[nse]
-u‚¤‚Ÿ‚ ‚ ‚ cc‚×‚Æ‚×‚ÆccL‚¢‚æ‚§ccIv[pcms]
+[ns]Igarashi[nse]
+Uaaa... It's sticky... and smelly...![pcms]
 
 *3303|
 [fc]
-[ns]’jq¶“k‚i[nse]
-u‚Ü‚ñA‚±A‚ÉA‚½‚Á‚ÕA‚èA‚¾‚µA‚Ä‚âA‚é‚©‚çcc[r]
-‚æ‚ë‚±A‚×A‚ß‚·A‚Ô‚½‚Ÿccv[pcms]
+[ns]Male Student J[nse]
+I'll give you plenty of cum in your pussy...[l][er]
+so you better be happy, slut...[pcms]
 
 *v1301|
 [fc]
 [vo_to s="tomo0187"]
-[ns]ŒÜ\—’[nse]
-u‚¢A‚â‚Ÿcc‚¨‚ËA‚ª‚¢cc‚È‚©A‚ÍA‚â‚ß‚Äcc[r]
-‚»‚Æ‚ÉA‚¾‚µ‚Ä‚¥cc‚ÁIIv[pcms]
+[ns]Igarashi[nse]
+N-No... Onee-gai... Nakaha... Yamete...[l][er]
+Soto ni... Dashitee...!![pcms]
 
 *3304|
 [fc]
-ƒgƒ‚ƒ~ƒ“‚ªŒ™‚ª‚é‚Ì‚ğAƒjƒ„ƒjƒ„‚µ‚Ä[r]
-–Ê”’‚»‚¤‚ÉŒ©‰º‚ë‚µ‚ÄAƒ„ƒc‚Í˜‚Ì“®‚«‚ğ~‚ß‚½B[pcms]
+With a smirk on his face, he looked down at Tomomin, who was[r]clearly reluctant, and stopped his movements.[pcms]
 
 *3305|
 [fc]
-[ns]’jq¶“k‚i[nse]
-u‚Ü‚ñA‚±A‚ÉA‚¾‚³A‚ê‚Äcc[r]
-‚¢A‚¯‚âA‚ßA‚·‚ÔA‚½‚Ÿccv[pcms]
+[ns]Male Student J[nse]
+Let it out... inside your pussy...[l][er]
+I'll make you feel good...[pcms]
 
 *v1302|
 [fc]
 [vo_to s="tomo0188"]
-[ns]ŒÜ\—’[nse]
-uccI@‚¢‚â‚ ‚ ‚Ÿ‚Ÿ‚ÁIIIIv[pcms]
+[ns]Igarashi[nse]
+...! Noooo!![pcms]
 
-;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
 
 [stop_se1]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 
 [se0 storage="se062"]
 
@@ -757,54 +717,52 @@
 *v1303|
 [fc]
 [vo_to s="tomo0189"]
-[ns]ŒÜ\—’[nse]
-u‚Ó‚ ‚ cc‚ÈA’†‚Å”M‚¢‚Ì‚ªcc[r]
-‚¢‚â‚ŸA‚±‚ñ‚È‚Ì‚¢‚â‚ ‚ cc[r]
-‚ÁI@‚Î‚©‚ŸI@‚Ğ‚Ÿ‚ ‚ ccv[pcms]
+[ns]Igarashi[nse]
+Fuuaa... It's hot inside... No, I don't want this...[l][er]
+Ahh! You idiot! Hiaaa...[pcms]
 
 *3306|
 [fc]
-‚ ‚Ì–ì˜YccB[r]
-o‚µ‚â‚ª‚Á‚½ccƒgƒ‚ƒ~ƒ“‚ÌA’†‚ÉccB[pcms]
+That bastard... He came inside...[l][er]
+Tomomin's, inside...[pcms]
 
 *3307|
 [fc]
-[ns]“c’†[nse]
-uƒeAƒƒFcc‚ÁIIv[pcms]
+[ns]Tanaka[nse]
+T-Tomomin...!![pcms]
 
 *3308|
 [fc]
-[ns]’jq¶“k‚i[nse]
-u‚¨‚êA‚ÌA‚´[‚ßA‚ñcc[r]
-‚ÜA‚ñ‚±A‚ÅA‚æ‚­A‚ A‚¶‚íA‚¦A‚æ‚§ccv[pcms]
+[ns]Male Student J[nse]
+I, will, make you feel... good...[l][er]
+in your pussy...[pcms]
 
 *v1304|
 [fc]
 [vo_to s="tomo0190"]
-[ns]ŒÜ\—’[nse]
-u‚¢A‚¢‚â‚Ÿ‚ ‚ ‚ II@’†‚É‚ÁI@’†‚Éo‚³‚ê‚½II[r]
-’†‚Éo‚³‚ê‚¿‚á‚Á‚½ccIII@Œ™‚Ÿ‚ ‚ ‚ ‚ ‚ ‚ IIv[pcms]
+[ns]Igarashi[nse]
+N-No... Inside! I was... I was creampied!![l][er]
+I was creampied...!!! Noooo!![pcms]
 
 *v1305|
 [fc]
 [vo_to s="tomo0191"]
-[ns]ŒÜ\—’[nse]
-u‚¤‚ ‚Ÿcc‚¢A‚â‚Ÿcc‚Í‚¢‚Á‚ÄA‚­‚é‚£cc[r]
-‚¤[‚½‚ñI@‚Ç‚¤‚µ‚æ‚¤ccII@‚¤[‚½‚ñIIv[pcms]
+[ns]Igarashi[nse]
+Uaa... No... It's going in... Uutan![l][er]
+What should I do...!! Uutan!![pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
 
 [se0 storage="se058"]
 
 *3309|
 [fc]
-‘~‚«¬‚º‚æ‚¤‚Æ‚µ‚Ä‚é‚Ì‚©Aƒ`ƒ“ƒR‚ğ’†‚É“ü‚ê‚½‚Ü‚ÜA[r]
-ƒ„ƒc‚Í˜‚ğ‚¤‚Ë‚ç‚¹‚Ä‚¢‚éB[pcms]
+He's trying to stir it up, keeping his dick inside, and[r]moving his hips.[pcms]
 
 *3310|
 [fc]
-[ns]“c’†[nse]
-uƒNAƒ\cc‚¤‚ ‚ ‚ ‚ ‚ ‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚ÁIIIIv[pcms]
+[ns]Tanaka[nse]
+K-Ku... So... Uaaaahhhhhh!!!!!![pcms]
 
 ;//redflash
 
@@ -815,33 +773,30 @@
 
 *3311|
 [fc]
-[ns]’jq¶“k‚k[nse]
-u‚ñ```cc‚®‚¿‚ãcc‚Ş‚®ccv[pcms]
+[ns]Male Student L[nse]
+Mmm... *squish*... mugu...[pcms]
 
 *3312|
 [fc]
-[ns]“c’†[nse]
-u‚®‚Ÿ‚ ‚Ÿ‚Ÿ‚ÁIIv[pcms]
+[ns]Tanaka[nse]
+Guaaahhh!![pcms]
 
 *3313|
 [fc]
-‚©AŠš‚Ü‚ê‚½ccB[r]
-ƒIƒŒ‚ÌA‘Ì‚ªccH[pcms]
+I-I was bitten... My body...?[pcms]
 
 *3314|
 [fc]
-Œƒ’É‚ğŠ´‚¶‚½Š‚ğŒ©‚é‚ÆA[r]
-ƒVƒƒƒc‚ª”j‚êAŒŒ‚ªŸø‚ñ‚Å‚¢‚½B[pcms]
+I looked at the place where I felt intense pain, and my[r]shirt was torn and blood was oozing.[pcms]
 
 *3315|
 [fc]
-[ns]“c’†[nse]
-u‚¤A‚Ÿccv[pcms]
+[ns]Tanaka[nse]
+Ugh... ah...[pcms]
 
 *3316|
 [fc]
-‘Ì‚É—Í‚ª“ü‚ç‚È‚­‚È‚é‚Ì‚Æ“¯‚ÉA[r]
-ƒIƒŒ‚Ì‹ŠE‚ª‚Ç‚ñ‚Ç‚ñ”’‚­‚È‚Á‚Ä‚¢‚­B[pcms]
+As my body loses strength, my field of vision gradually[r]becomes white.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -853,8 +808,8 @@
 
 *3317|
 [fc]
-[ns]“c’†[nse]
-u‚Æ‚àA‚İccv[pcms]
+[ns]Tanaka[nse]
+Tomo, look...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -862,33 +817,33 @@
 
 ;//blackout
 
-;//‚±‚±‚Ü‚Å–{•Ò
+;//ã“ã“ã¾ã§æœ¬ç·¨
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
-;•s—v[eval exp="="sf.g_scn11 = 1"]
+;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
+;ä¸è¦[eval exp="="sf.g_scn11 = 1"]
 
-;//ƒEƒBƒ“ƒhƒEÁ‹
+;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//•‚ÉƒtƒF[ƒh
+;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
 ;[black_toplayer][trans_c random][hide_chara_int]
 [zapfade]
 
-;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 
-;//[02040]‚Ö
+;//[02040]ã¸
 
 [bg storage="bg08c"]
 [trans_c cross time=1000]

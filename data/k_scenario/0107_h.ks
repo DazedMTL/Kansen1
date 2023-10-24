@@ -1,52 +1,52 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN0107wƒuƒ‹ƒ}‚Ì—U˜fx
-;//BG:‘Ìˆç—p‹ïºF–é^Á“”^Œ–¾‚©‚è
-;//EVENT;//BG:‘Ìˆç—p‹ïº/ƒ}ƒbƒg‚Ìã
-;//“oêl•¨G•ü”üE“c’†
-;//‹“_F[ns]“c’†[nse]
-;//š‚gEVENT_005@wƒuƒ‹ƒ}‚Ì—U˜fx
-;//‘ÌˆÊF•ü”ü‚Íƒ}ƒbƒg‚Éè‘«‚ğ•t‚«l‚Â‚ñ”‡‚¢‚Å‚±‚¿‚ç‚ÉK‚ğŒ©‚¹‚Ä‚¢‚é
-;//·•ªF•ü”ü‚Ì«Ší‚ğ˜M‚é“c’†‚ÌèEˆ¤‰t‚Ì‚É‚¶‚ñ‚¾ƒuƒ‹ƒ}Eƒuƒ‹ƒ}‚É‚·‚è‚Â‚¯‚é“c’†‚Ì’j«ŠíE
-;//@@@Ë¸·•ªE•ü”ü’p‚¶‚ç‚¢•\î·•ªE‰õŠy•\î
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0107ã€ãƒ–ãƒ«ãƒã®èª˜æƒ‘ã€
+;//BG:ä½“è‚²ç”¨å…·å®¤ï¼šå¤œï¼æ¶ˆç¯ï¼æœˆæ˜ã‹ã‚Š
+;//EVENT;//BG:ä½“è‚²ç”¨å…·å®¤/ãƒãƒƒãƒˆã®ä¸Š
+;//ç™»å ´äººç‰©ï¼›æœ‹ç¾ãƒ»ç”°ä¸­
+[ns]Tanaka[nse]
+;//â˜…ï¼¨EVENT_005ã€€ã€ãƒ–ãƒ«ãƒã®èª˜æƒ‘ã€
+;//ä½“ä½ï¼šæœ‹ç¾ã¯ãƒãƒƒãƒˆã«æ‰‹è¶³ã‚’ä»˜ãå››ã¤ã‚“é€™ã„ã§ã“ã¡ã‚‰ã«å°»ã‚’è¦‹ã›ã¦ã„ã‚‹
+;//å·®åˆ†ï¼šæœ‹ç¾ã®æ€§å™¨ã‚’å¼„ã‚‹ç”°ä¸­ã®æ‰‹ãƒ»æ„›æ¶²ã®ã«ã˜ã‚“ã ãƒ–ãƒ«ãƒãƒ»ãƒ–ãƒ«ãƒã«ã™ã‚Šã¤ã‘ã‚‹ç”°ä¸­ã®ç”·æ€§å™¨ãƒ»
+;//ã€€ã€€ã€€å°„ç²¾å·®åˆ†ãƒ»æœ‹ç¾æ¥ã˜ã‚‰ã„è¡¨æƒ…å·®åˆ†ãƒ»å¿«æ¥½è¡¨æƒ…
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *0107_H_TOP
-;[debug_win]‚È‚¤@0107_H[debug_win_end]
+;[debug_win]ãªã†ã€€0107_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [eval exp="sf.SRP04 = 1"][if exp="tf.scene_mode == 0"][jump target=*0107][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;[bgm008]
 
-;mm BGM’â~‚¶‚á‚È‚¢‚ÌH
+;mm BGMåœæ­¢ã˜ã‚ƒãªã„ã®ï¼Ÿ
 [fadeoutbgm time=500]
 [wait_c time=500]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *0107
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0107 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0107 = 1"]
 
-;*SceneSet|wƒuƒ‹ƒ}‚Ì—U˜fx
+;*SceneSet|ã€ãƒ–ãƒ«ãƒã®èª˜æƒ‘ã€
 
 ;;;[sysbt_meswin clear]
 
 *scene_start
 
-;//ôFBGM006
+;//â™ªï¼šBGM006
 [bgm006]
 
-;//H_CG:ƒuƒ‹ƒ}‚Ì—U˜f
+;//H_CG:ãƒ–ãƒ«ãƒã®èª˜æƒ‘
 [evcg storage="HEV_005_a"]
 [trans_c cross time=500]
 
@@ -56,79 +56,75 @@
 *v402|
 [fc]
 [vo_to s="tomo0062"]
-[ns]ŒÜ\—’[nse]
-u‚à[cc‚»‚ñ‚È‚ÉQ‚Ä‚È‚­‚Ä‚àA“¦‚°‚½‚è‚µ‚È‚¢‚æv[pcms]
+[ns]Igarashi[nse]
+Geez... There's no need to panic so much, I won't run away.[pcms]
 
 *999|
 [fc]
-[ns]“c’†[nse]
-u‚¾‚Á‚Äƒgƒ‚ƒ~ƒ“AƒGƒ‚¢‚ñ‚¾‚à‚ñv[pcms]
+[ns]Tanaka[nse]
+But Tomomin, you're so sexy.[pcms]
 
 *v403|
 [fc]
 [vo_to s="tomo0063"]
-[ns]ŒÜ\—’[nse]
-u‚»‚ñ‚È‚±‚ÆŒ¾‚í‚ê‚½‚Ácc‚Ó‚Ÿ‚ÁIv[pcms]
+[ns]Igarashi[nse]
+You said such a thing... Fuah![pcms]
 
 *1000|
 [fc]
-‘qŒÉ‚Ì’†‚É“ü‚Á‚Ä‚­‚éŒ–¾‚©‚è‚ÉAƒgƒ‚ƒ~ƒ“‚Ì”’‚¢‘¾‚à[r]
-‚à‚ÆA‚»‚ê‚É‹²‚Ü‚ê‚½ƒAƒ\ƒR‚ÌŒ`‚ª•‚‚©‚Ñã‚ª‚éB[pcms]
+The moonlight entering the warehouse reveals Tomomin's white[r]thighs and the shape of her pussy sandwiched between them.[pcms]
 
 *1001|
 [fc]
-_‚ç‚©‚»‚¤‚ÅAv‚í‚¸è‚ªL‚Ñ‚é[pcms]
+It looks so soft, I can't help but reach out.[pcms]
 
 *v404|
 [fc]
 [vo_to s="tomo0064"]
-[ns]ŒÜ\—’[nse]
-u‚âcc‚Ó‚Ÿccv[pcms]
+[ns]Igarashi[nse]
+Y-... Fuah...[pcms]
 
 *1002|
 [fc]
-[ns]“c’†[nse]
-uƒgƒ‚ƒ~ƒ“‚ÌƒAƒ\ƒRA‚â‚Á‚Ïƒvƒjƒvƒj`v[pcms]
+[ns]Tanaka[nse]
+Tomomin's genitals, they're so soft and squishy~[l][er]
 
 *v405|
 [fc]
 [vo_to s="tomo0065"]
-[ns]ŒÜ\—’[nse]
-u‚â‚Ÿ‚ñcc‚ŸA‚ñ‚Ácc‚ñ‚£ccv[pcms]
+[ns]Igarashi[nse]
+Yaaan... Ah, nnn... Nngh...[pcms]
 
 *1003|
 [fc]
-ƒgƒ‚ƒ~ƒ“‚ÌƒAƒ\ƒR‚ÌèG‚è‚ğŠy‚µ‚ñ‚Å‚¢‚é‚ÆA‘z‘œ‚µ‚Ä[r]
-‚¢‚½‚æ‚èAƒAƒ\ƒR‚ÌƒvƒjƒvƒjŠ´‚ªƒ_ƒCƒŒƒNƒg‚É“`‚í‚Á‚Ä[r]
-‚­‚éŠ´‚¶‚ª‚·‚éB[pcms]
+I feel a direct transmission of the soft and squishy feeling[r]of Tomomin's genitals, more than I had imagined, as I enjoy[r]touching them.[pcms]
 
 *1004|
 [fc]
-ƒIƒŒ‚Í‚µ‚ÉAƒuƒ‹ƒ}‚ğƒ`ƒ‰ƒb‚Æ‚ß‚­‚Á‚Ä‚İ‚½B[pcms]
+I decided to try it out and sneak a peek under her bloomers.[pcms]
 
 *v406|
 [fc]
 [vo_to s="tomo0066"]
-[ns]ŒÜ\—’[nse]
-u‚ñA‚Ó‚£cc‚ A‚Í‚£ccv[pcms]
+[ns]Igarashi[nse]
+Nn, fuu... Ah, hau...[pcms]
 
 *1005|
 [fc]
-[ns]“c’†[nse]
-u‚ ‚êccH@ƒgƒ‚ƒ~ƒ“‚Ìƒuƒ‹ƒ}A‚¿‚å‚Á‚Æ‚Ò‚Á‚¿‚è‚µ[r]
-‚Ä‚éHv[pcms]
+[ns]Tanaka[nse]
+Huh...? Tomomin's bloomers, are they a little tight?[pcms]
 
 *v407|
 [fc]
 [vo_to s="tomo0067"]
-[ns]ŒÜ\—’[nse]
-u‚»‚¾A‚æccH@‚ñA‚Ó‚ŸAƒnƒ@ƒbcc‚¤A‚½‚ñcc[r]
-‚±A‚ä‚ÌAƒLƒ‰ƒCccHv[pcms]
+[ns]Igarashi[nse]
+That's right...? Nn, fah, haa...[l][er]
+Ugh, Tan... Ko, Yuuji... Do you hate me...?[pcms]
 
 *1006|
 [fc]
-[ns]“c’†[nse]
-u‚ñ[‚ñA‘åD‚«ôv[pcms]
+[ns]Tanaka[nse]
+Mmm, I love youâ™ª[l][er]
 
 ;;;[sysbt_meswin clear]
 
@@ -142,60 +138,60 @@
 *v408|
 [fc]
 [vo_to s="tomo0068"]
-[ns]ŒÜ\—’[nse]
-uƒGƒwcc‚«‚á‚£‚ÁIv[pcms]
+[ns]Igarashi[nse]
+Ehe... Kyaa![pcms]
 
 *1007|
 [fc]
-ƒuƒ‹ƒ}‰z‚µ‚ÉƒNƒŠ‚ğ‚¢‚¶‚Á‚Ä‚ ‚°‚é‚ÆA[r]
-ƒgƒ‚ƒ~ƒ“‚Í‘Ì‚ğ‚æ‚¶‚è‚¾‚µ‚½B[pcms]
+Tomomin squirmed as I teased her clit through her bloomers.[pcms]
 
 *1008|
 [fc]
-[ns]“c’†[nse]
-u‚ ‚ê`Aƒgƒ‚ƒ~ƒ“‚Ìƒ`ƒ“ƒ`ƒ“‚à‹N‚Á‚Ä‚é‚æ`v[pcms]
+[ns]Tanaka[nse]
+Huh...[pcms]
+Tomomin's penis is also erect~[l][er]
 
 *v409|
 [fc]
 [vo_to s="tomo0069"]
-[ns]ŒÜ\—’[nse]
-u‚Ğ‚áA‚Ÿcc‚ ‚ÁI@‚¤‚ŸA‚­‚£cc‚¡‚â‚Ÿcc[r]
-‚ ‚½‚µAƒIƒ`ƒ“ƒ`Aƒ“cc‚ÈA‚Äcc‚ñ‚ÁA‚Ó‚ ‚Ÿ‚ÁIv[pcms]
+[ns]Igarashi[nse]
+Hyaa, ahh... Ah! Ugh, ku... Iyaa...[l][er]
+My, my penis... is... ngh... being...[l][er]
+touched... nn, fuahh![pcms]
 
 *1009|
 [fc]
-[ns]“c’†[nse]
-u‚¶‚á[‚±‚ÌƒRƒŠƒRƒŠ‚µ‚½‚Ì‚È[‚ÉHv[pcms]
+[ns]Tanaka[nse]
+So, what is this little thing that's all hard and bumpy?[pcms]
 
 *v410|
 [fc]
 [vo_to s="tomo0070"]
-[ns]ŒÜ\—’[nse]
-u‚ ‚ÁA‚ ‚Ÿ‚ÁI@‚ñ‚ÍA‚Ÿ‚¤cc‚Í‚ŸA‚ñ‚ÁIv[pcms]
+[ns]Igarashi[nse]
+Ah, aah! Nha, au... haa, nn![pcms]
 
 *1010|
 [fc]
-ƒRƒŠƒb‚Æ‚È‚Á‚½ƒgƒ‚ƒ~ƒ“‚ÌƒNƒŠ‚ğA‚í‚´‚Æƒuƒ‹ƒ}‚ğC‚è[r]
-‚Â‚¯‚é‚æ‚¤‚É‚µ‚ÄB[pcms]
+I purposely rubbed against Tomomin's clit, which had become[r]stiff, with her bloomers.[pcms]
 
 *v411|
 [fc]
 [vo_to s="tomo0071"]
-[ns]ŒÜ\—’[nse]
-u‚ñ‚Ÿcc‚ÈA‚©A‚ñ‚£‚ÁI@ƒuƒ‹Aƒ}‚Æcc‚±‚·‚êA[r]
-‚Äcc‚ ‚ÁA‚Ó‚ ‚Ÿ‚ÁIv[pcms]
+[ns]Igarashi[nse]
+Ngh... Na, ka, nnuu! My, bloo...[l][er]
+mers... rubbing... Ah, fuahh![pcms]
 
 *1011|
 [fc]
-[ns]“c’†[nse]
-u‹C‚¿ƒCƒCHv[pcms]
+[ns]Tanaka[nse]
+Does it feel good?[pcms]
 
 *v412|
 [fc]
 [vo_to s="tomo0072"]
-[ns]ŒÜ\—’[nse]
-u‚ñ‚£Aƒnƒ@ƒbcc‹CA‚¿cc‚£‚ ‚ÁI@cc‚¢‚¢A[r]
-‚æ‚§ccv[pcms]
+[ns]Igarashi[nse]
+Nn, haa... It feels... uah! ...[l][er]
+good, you know...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -206,25 +202,24 @@
 
 ;;;[sysbt_meswin]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
 [se1 storage="se059" loop=true]
 
 *1012|
 [fc]
-ƒgƒ‚ƒ~ƒ“‚ÌŒ¾—t‚ğØ–¾‚·‚é‚İ‚½‚¢‚ÉAƒuƒ‹ƒ}‚ÌƒAƒ\ƒR‚É[r]
-“–‚½‚é•”•ª‚ÉA‘å‚«‚ÈƒVƒ~‚ª‚Å‚«‚Ä‚¢‚½B[pcms]
+It seemed like there was a big stain on the part of the[r]bloomers that hit Tomomin's crotch, as if to prove her[r]words.[pcms]
 
 *1013|
 [fc]
-[ns]“c’†[nse]
-u‚·‚²‚¢‚æAƒgƒ‚ƒ~ƒ“BƒAƒ\ƒR‚Ì‚Æ‚±A‚¨‚Á‚«‚¢ƒVƒ~‚ª[r]
-‚Å‚«‚Ä‚év[pcms]
+[ns]Tanaka[nse]
+Wow, Tomomin. There's a big stain on the part down there.[pcms]
 
 *v413|
 [fc]
 [vo_to s="tomo0073"]
-[ns]ŒÜ\—’[nse]
-u‚â‚ŸA‚ñcc‚¾‚Á‚ÄA‹C‚¿‚¢A‚¾‚àA‚ñccv[pcms]
+[ns]Igarashi[nse]
+Hi... because it feels good, you know...[l][er]
+nn...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -237,102 +232,95 @@
 
 *1014|
 [fc]
-ƒgƒ‚ƒ~ƒ“‚ÌƒJƒƒCƒC”½‰‚ğŒ©‚é‚ÆA‚à‚Á‚Æ‹C‚¿‚æ‚­‚µ[r]
-‚Ä‚ ‚°‚½‚­‚È‚Á‚Ä‚«‚ÄA‹ó‚¢‚Ä‚¢‚éè‚Ìw‚ğŒŠ‚Öö‚è[r]
-‚Ü‚¹‚½B[pcms]
+I couldn't help but want to make Tomomin feel even better[r]when I saw her cute reaction, so I slipped my free fingers[r]into her hole.[pcms]
 
 *1015|
 [fc]
-[ns]“c’†[nse]
-u‚ ‚ê`H@ƒgƒ‚ƒ~ƒ“A‰½‚©ƒ„ƒ‰ƒV[‰¹‚µ‚Ä‚é‚æ`Hv[pcms]
+[ns]Tanaka[nse]
+Huh? Tomomin, are you making some lewd sounds?[pcms]
 
 *v414|
 [fc]
 [vo_to s="tomo0074"]
-[ns]ŒÜ\—’[nse]
-u‚â‚Ÿ‚ÁI@’p‚¸‚©A‚µ‚¢‚©‚ç‚ŸccŒ¾‚Á‚¿‚áA‚âcc[r]
-‚¤‚Ÿ‚ÁI@‚ ‚ÁA‚Ó‚Ÿcc‚ñ‚ÓA‚£ccv[pcms]
+[ns]Igarashi[nse]
+H-hi... It's e-embarrassing...[l][er]
+I-I can't... ah... ahh... fuah...[l][er]
+nfu...[pcms]
 
 *1016|
 [fc]
-[ns]“c’†[nse]
-u‚¨K‚ÌŒŠ‚àƒCƒWƒb‚¿‚á‚¨‚Á‚©‚È`ôv[pcms]
+[ns]Tanaka[nse]
+Should I also play with your butt hole~â™ª[l][er]
 
 *v415|
 [fc]
 [vo_to s="tomo0075"]
-[ns]ŒÜ\—’[nse]
-u‚â‚ÁA‚â‚Ÿ‚ÁIv[pcms]
+[ns]Igarashi[nse]
+Ah, ah![pcms]
 
 *1017|
 [fc]
-ƒgƒ‚ƒ~ƒ“‚ªŒ™‚ª‚é‚Ì‚ğƒVƒJƒg‚µ‚ÄAƒIƒŒ‚Íw‚ğ‚¨K‚ÌŒŠ[r]
-‚Éö‚è‚Ü‚¹‚½B[pcms]
+I ignored Tomomin's resistance and slipped my finger into[r]her butt hole.[pcms]
 
 *v416|
 [fc]
 [vo_to s="tomo0076"]
-[ns]ŒÜ\—’[nse]
-u‚Ğ‚á‚£‚ÁI@‚â‚ÁA‚¤[‚½cc‚ĞA‚ ‚Ÿ‚ÁI@‚»‚±A[r]
-ƒ_cc‚«‚á‚ÁI@‚â‚ ‚Ÿ‚ÁIv[pcms]
+[ns]Igarashi[nse]
+Hyaa! Yaa, u-ta... hi, aahh! Soko, da...[l][er]
+kyaa! Yaaahh![pcms]
 
 *1018|
 [fc]
-[ns]“c’†[nse]
-u‚¦[H@‚Å‚àƒˆƒK‚Á‚Ä‚é‚¶‚á‚ñHv[pcms]
+[ns]Tanaka[nse]
+Huh? But you're doing yoga, right?[pcms]
 
 *v417|
 [fc]
 [vo_to s="tomo0077"]
-[ns]ŒÜ\—’[nse]
-uƒ_Aƒ‚¥cc‚¤[‚½A‚ñcc‚â‚Ÿcc‚ÁIv[pcms]
+[ns]Igarashi[nse]
+No... don't... u-ta... n... yaa...![pcms]
 
 *1019|
 [fc]
-ƒuƒ“ƒuƒ“‚Æñ‚ğ‰¡‚ÉU‚è‚È‚ª‚çAƒgƒ‚ƒ~ƒ“‚Í‚©×‚¢º‚Å[r]
-”ß–Â‚ğ‚ ‚°‚ÄA‘Ì‚ğ‚±‚í‚Î‚ç‚¹‚½B[pcms]
+While shaking her head vigorously, Tomomin let out a faint[r]scream and stiffened her body.[pcms]
 
 *v418|
 [fc]
 [vo_to s="tomo0078"]
-[ns]ŒÜ\—’[nse]
-u‚ ‚ÁA‚ÍA‚ ‚Ÿ‚ÁI@‚Ğ‚ ‚Ÿ‚ÁIv[pcms]
+[ns]Igarashi[nse]
+Ah, ha, aahh! Hiaahh![pcms]
 
 *1020|
 [fc]
-ƒgƒ‚ƒ~ƒ“‚Í¡‚É‚àƒ}ƒbƒg‚É•ö‚ê—‚¿‚»‚¤‚ÅAŒ¨‚Å‘§‚ğ‚µ[r]
-‚È‚ª‚çA“Ë‚Á’£‚Á‚Ä‚é˜r‚Í¬‚İ‚Ék‚¦‚Ä‚¢‚éB[pcms]
+Tomomin looks like she's about to collapse onto the mat any[r]moment now.[l][er]
+Breathing heavily through her shoulders, her tense arms[r]tremble slightly.[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
 [stop_se1]
 
 *v419|
 [fc]
 [vo_to s="tomo0079"]
-[ns]ŒÜ\—’[nse]
-ucƒnƒ@ƒbccƒnƒ@ƒbccv[pcms]
+[ns]Igarashi[nse]
+... Haa... Haa...[pcms]
 
 *1021|
 [fc]
-[ns]“c’†[nse]
-uƒuƒ‹ƒ}‰z‚µ‚ÉG‚Á‚Ä‚½‚Ì‚ÉAƒzƒ‰ccƒIƒŒ‚ÌwA‚±‚ñ[r]
-‚È‚É”G‚ê‚Ä‚é‚æAƒgƒ‚ƒ~ƒ“ccv[pcms]
+[ns]Tanaka[nse]
+Even though I touched you over your bloomers, look...[l][er]
+my fingers are so wet, Tomomin...[pcms]
 
 *1022|
 [fc]
-w‚ğ”G‚ç‚·ƒAƒ\ƒR‚Ì`‚©‚ç•Y‚Á‚Ä‚­‚é“õ‚¢‚ªAƒIƒŒ‚Ìƒi[r]
-ƒj‚ğƒKƒ`ƒKƒ`‚É–u‹N‚³‚¹‚éB[pcms]
+The scent wafting from the wetness of her pussy, makes my[r]cock rock hard.[pcms]
 
 *1023|
 [fc]
-¡‚·‚®Aƒuƒ‹ƒ}‚ğˆø‚«‚¸‚è‰º‚ë‚µ‚ÄAƒgƒ‚ƒ~ƒ“‚É“ü‚ê‚½[r]
-‚¢ccB[pcms]
+I want to pull down your bloomers right now and put it in[r]Tomomin...[pcms]
 
 *1024|
 [fc]
-‚Å‚àƒIƒŒ‚ÍAƒgƒ‚ƒ~ƒ“‚Ì‚¨‚Ë‚¾‚è‚ª•·‚«‚½‚­‚ÄA”Ş—‚ğ[r]
-Å‚ê‚³‚¹‚é‚Â‚à‚è‚ÅAƒAƒ\ƒR‚Ì`‚Å”G‚ê‚½ƒuƒ‹ƒ}‚ğƒiƒj[r]
-‚Å‚È‚¼‚Á‚½B[pcms]
+But I wanted to hear Tomomin's begging, so I intended to[r]tease her and traced her wet bloomers with my fingers[r]covered in her pussy juice.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -346,178 +334,175 @@
 *v420|
 [fc]
 [vo_to s="tomo0080"]
-[ns]ŒÜ\—’[nse]
-u‚ñ‚Ácc‚ ‚Ácc‚¤‚Ÿ‚Ÿ‚Ácc‚Ó‚Ÿ‚ ccv[pcms]
+[ns]Igarashi[nse]
+Nn... Ah... Ugh... Faa...[pcms]
 
 *1025|
 [fc]
-[ns]“c’†[nse]
-uƒgƒ‚ƒ~ƒ“cc¡“x‚ÍƒIƒŒ‚ğ‹C‚¿‚æ‚­‚µ‚ÄccHv[pcms]
+[ns]Tanaka[nse]
+Tomomin... Can you make me feel good this time...?[pcms]
 
 *v421|
 [fc]
 [vo_to s="tomo0081"]
-[ns]ŒÜ\—’[nse]
-u‚Ó‚ ‚Ÿccv[pcms]
+[ns]Igarashi[nse]
+Fuahh...[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
 [se1 storage="se059" loop=true]
 
 *1026|
 [fc]
-‚ ‚êccƒuƒ‹ƒ}‚ÉC‚è‚Â‚¯‚Ä‚é‚¾‚¯‚È‚Ì‚ÉccB[r]
-‰½‚±‚Ìƒuƒ‹ƒ}‚ÌŠ´GA‹C‚¿ƒCƒC‚ñ‚¾‚¯‚ÇccB[pcms]
+Huh... Even though I'm just rubbing against your bloomers...[l][er]
+What is this sensation of the bloomers?[l][er]
+It feels so good...[pcms]
 
 *v422|
 [fc]
 [vo_to s="tomo0082"]
-[ns]ŒÜ\—’[nse]
-u‚ñ‚ÍA‚Ÿcc‚¤[‚½‚Ÿ‚ñcc‚ ‚½‚µA‚à‚¤ccv[pcms]
+[ns]Igarashi[nse]
+Nhaa... Ah... Utaan... I... I can't...[l][er]
+anymore...[pcms]
 
 *1027|
 [fc]
-[ns]“c’†[nse]
-u‚à‚¤‚¿‚å‚Á‚Æ‘Ò‚Á‚Äcc‚±‚ÌAƒuƒ‹ƒ}‚Ì¶’n‚ÌŠ´G‚ª[r]
-cc‚È‚ñ‚©A‹C‚¿‚æ‚­‚Äccv[pcms]
+[ns]Tanaka[nse]
+Just wait a little longer... The texture of these[r]bloomers...[l][er]
+It feels somehow good...[pcms]
 
 *v423|
 [fc]
 [vo_to s="tomo0083"]
-[ns]ŒÜ\—’[nse]
-u‚â‚ŸccƒCƒWƒƒ‹‚µ‚È‚¢‚Å‚æ‚£ccv[pcms]
+[ns]Igarashi[nse]
+H-hey... Don't be mean to me...[pcms]
 
 *1028|
 [fc]
-Ø‚È‚»‚¤‚ÈŠç‚Å‘Ì‚ğ‚æ‚¶‚ç‚¹‚ÄAƒgƒ‚ƒ~ƒ“‚ªƒIƒŒ‚Ìƒiƒj[r]
-‚ğ‚¨‚Ë‚¾‚è‚·‚éB[pcms]
+Tomomin writhes with a pained expression on her face,[r]begging for my cock.[pcms]
 
 *1029|
 [fc]
-ƒgƒ‚ƒ~ƒ“‚Ì‚±‚ÌƒGƒ‚³ccB[r]
-‚·‚®‚É‚Å‚à“ü‚ê‚½‚¢‚¯‚ÇA‚Å‚à‚±‚Ìƒuƒ‹ƒ}‚ÌŠ´G‚ªA‚Ç[r]
-‚¤‚É‚àÌ‚Ä‚ª‚½‚¢ccB[pcms]
+Tomomin's eroticism... I want to put it in right away, but[r]the sensation of these bloomers is irresistibly tempting...[pcms]
 
 *v424|
 [fc]
 [vo_to s="tomo0084"]
-[ns]ŒÜ\—’[nse]
-u‚¤[‚½‚ñA‚¨Šè‚¢cc‘‚­‚£ccv[pcms]
+[ns]Igarashi[nse]
+Uutan, please... faster...[pcms]
 
 *1030|
 [fc]
-[ns]“c’†[nse]
-uƒgƒ‚ƒ~ƒ“ccƒuƒ‹ƒ}A‹C‚¿ƒCƒC‚æccv[pcms]
+[ns]Tanaka[nse]
+Tomomin... The bloomers feel so good...[pcms]
 
 *1031|
 [fc]
-‚±‚ÌA‚¨K‚ÌŠÔ‚É‹²‚ñ‚Åƒuƒ‹ƒ}‚ÉC‚è‚Â‚¯‚é‚ÌccAƒp[r]
-ƒCƒYƒŠ‚İ‚½‚¢‚ÅAƒXƒQ[‹C‚¿ƒCƒCccB[pcms]
+Rubbing it between your butt like this, against the[r]bloomers...[l][er]
+It feels like a paizuri, and it feels so damn good...[pcms]
 
 *1032|
 [fc]
-[ns]“c’†[nse]
-u‚ [ccƒgƒ‚ƒ~ƒ“‚Ì‚¨KA‹C‚¿ƒCƒCccB‚È‚ñ‚©A[r]
-ƒpƒCƒYƒŠ‚µ‚Ä‚é‚İ‚½‚¢ccv[pcms]
+[ns]Tanaka[nse]
+Ah... Tomomin's butt feels so good...[l][er]
+It's like I'm getting a paizuri...[pcms]
 
 *v425|
 [fc]
 [vo_to s="tomo0085"]
-[ns]ŒÜ\—’[nse]
-u‚ ‚ÁA‚âcc‚¨KA‚±‚·‚Á‚¿‚áccv[pcms]
+[ns]Igarashi[nse]
+Ah, ya... rubbing against your butt...[pcms]
 
 *1033|
 [fc]
-[ns]“c’†[nse]
-uŒŠ‚ª‚±‚·‚ê‚ÄA‹C‚¿ƒCƒCH@ƒgƒ‚ƒ~ƒ“ccv[pcms]
+[ns]Tanaka[nse]
+Does it feel good when your hole rubs against it, Tomomin...[pcms]
 
 *v426|
 [fc]
 [vo_to s="tomo0086"]
-[ns]ŒÜ\—’[nse]
-u‚È‚ñ‚©Aƒ€ƒYƒ€ƒY‚·‚é‚£ccv[pcms]
+[ns]Igarashi[nse]
+It's starting to feel tingly...[pcms]
 
 *1034|
 [fc]
-‘Ìˆç‘qŒÉ‚Ì’†‚ÅAƒIƒŒ‚Ìr‚­‚È‚Á‚½ŒÄ‹z‚ÆA•@‚ğ–Â‚ç‚·[r]
-ƒgƒ‚ƒ~ƒ“‚Ìº‚ÆA”Ş—‚Ì‘Ì‚ÌŠÃ‚¢“õ‚¢‚ª¬‚¶‚è‡‚¤B[pcms]
+Inside the gym storage room, my rough breathing, Tomomin's[r]sniffling voice, and the sweet scent of her body blend[r]together.[pcms]
 
 *v427|
 [fc]
 [vo_to s="tomo0087"]
-[ns]ŒÜ\—’[nse]
-u‚Ë‚¥cc‚¤[‚½‚ñcc‚»‚ñ‚È‚ÉAƒuƒ‹ƒ}‚ª‚¢‚¢‚ÌccHv[pcms]
+[ns]Igarashi[nse]
+Hey... Uutan... Do you really like the bloomers that[r]much...?[pcms]
 
 *1035|
 [fc]
-[ns]“c’†[nse]
-uƒuƒ‹ƒ}c‚Á‚Ä‚æ‚èAƒgƒ‚ƒ~ƒ“‚Ì‚¨K‚ªA‰Âˆ¤‚·‚¬‚é‚ñ[r]
-‚¾‚æcc‚·‚²‚¢_‚ç‚©‚¢‚µccv[pcms]
+[ns]Tanaka[nse]
+Rather than the bloomers, Tomomin's butt is just too cute...[l][er]
+It's incredibly soft...[pcms]
 
 *v428|
 [fc]
 [vo_to s="tomo0088"]
-[ns]ŒÜ\—’[nse]
-u‚È‚ñ‚¾‚©A‚¤‚ê‚µ‚¢‚Èccv[pcms]
+[ns]Igarashi[nse]
+Somehow, I feel happy...[pcms]
 
 *1036|
 [fc]
-ƒgƒ‚ƒ~ƒ“‚ÍƒIƒŒ‚É—D‚µ‚­”÷Î‚İAÆ‚ê‚Ä‚¢‚éB‚·‚°‚¦‰Â[r]
-ˆ¤‚¢cc[pcms]
+Tomomin smiles gently at me and blushes.[l][er]
+She's so cute...[pcms]
 
 *v429|
 [fc]
 [vo_to s="tomo0089"]
-[ns]ŒÜ\—’[nse]
-u‚¤‚ê‚µ‚¢‚©‚çA‚¿‚å‚Á‚ÆƒT[ƒrƒX‚µ‚¿‚á‚¤ccv[pcms]
+[ns]Igarashi[nse]
+Because I'm happy, I'll give you a little service...[pcms]
 
 *1037|
 [fc]
-ƒgƒ‚ƒ~ƒ“‚Ì_‚ç‚©‚¢K‚ªA‚ä‚Á‚­‚è‚ÆA—d‚µ‚­—h‚ê‚éB[pcms]
+Tomomin's soft butt sways slowly and seductively.[pcms]
 
 *1038|
 [fc]
-[ns]“c’†[nse]
-u‚¤‚í‚Áccƒgƒ‚ƒ~ƒ“A‚»‚êAÅ‚‚¾‚æccƒgƒ‚ƒ~ƒ“A[r]
-‰Âˆ¤‚¢‚æccv[pcms]
+[ns]Tanaka[nse]
+Wow... Tomomin, that feels amazing...[l][er]
+Tomomin, you're so cute...[pcms]
 
 *v430|
 [fc]
 [vo_to s="tomo0090"]
-[ns]ŒÜ\—’[nse]
-u‚Í‚Ác‚¤[‚½‚ñcc‚Ìc‚ ‚Á‚Â‚­‚È‚Á‚Ä‚éccB‘åD[r]
-‚«‚¾‚æ‚§cc‚¤[‚½‚Ÿ‚ñccv[pcms]
+[ns]Igarashi[nse]
+Ahh... Uutan... you're getting so hot...[l][er]
+I love you so much... Uutan...[pcms]
 
 *v431|
 [fc]
 [vo_to s="tomo0091"]
-[ns]ŒÜ\—’[nse]
-u‚ñ‚ÓA‚£cc‚ŸA‚ñ‚£ccv[pcms]
+[ns]Igarashi[nse]
+Nfu, u... ah, nnu...[pcms]
 
 *1039|
 [fc]
-ƒgƒ‚ƒ~ƒ“‚ÌŠÃ‚¢º‚ÉAƒIƒŒ‚Ìu‚ ‚Á‚Â‚¢‚Ìv‚ÉAŒÀŠE‚ª[r]
-‹ß‚Ã‚­B[pcms]
+Tomomin's sweet voice, combined with my burning desire,[r]brings me closer to my limit.[pcms]
 
 *1040|
 [fc]
-[ns]“c’†[nse]
-uƒgƒ‚Aƒ~ƒ“ccƒIƒŒA‚àcc‚ÁIv[pcms]
+[ns]Tanaka[nse]
+Tomo, Min... I... too...![pcms]
 
 *v432|
 [fc]
 [vo_to s="tomo0092"]
-[ns]ŒÜ\—’[nse]
-u‚ÍA‚Ÿcco‚µ‚Ä‚¢‚¢‚æA‚¤[‚½‚ñccv[pcms]
+[ns]Igarashi[nse]
+Haa... You can release it, Uutan...[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
 [stop_se1]
 
 *1041|
 [fc]
-[ns]“c’†[nse]
-u‚­A‚£cc‚ÁIIv[pcms]
+[ns]Tanaka[nse]
+Ku... ugh...![pcms]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 [overflow_se storage="se062"]
 
 ;//whiteflash
@@ -546,63 +531,59 @@
 *v433|
 [fc]
 [vo_to s="tomo0093"]
-[ns]ŒÜ\—’[nse]
-u‚Ócc‚Ó‚ ‚Ÿ‚ ‚ ‚Áccv[pcms]
+[ns]Igarashi[nse]
+Fu... Fuuaaaahhhh...[pcms]
 
 *1042|
 [fc]
-ƒgƒƒ“‚Æ‚µ‚½ƒgƒ‚ƒ~ƒ“‚Ì–Ú‚É—U‚í‚ê‚ÄAƒIƒŒ‚Í¡‚Ü‚Å‚Å[r]
-ˆê”Ô‚¶‚á‚È‚¢‚©‚Á‚Ä‚®‚ç‚¢A‘å—Ê‚ÌƒU[ƒƒ“‚ğ‚¨K‚Éƒu[r]
-ƒ`T‚¯‚½B[pcms]
+I was enticed by Tomomin's soft eyes, and I unleashed a[r]massive amount of semen on her butt, as if it was the most[r]I've ever done before.[pcms]
 
 *v434|
 [fc]
 [vo_to s="tomo0094"]
-[ns]ŒÜ\—’[nse]
-u‚Ó‚Ÿ‚ ‚ ‚ cc‚ ‚Á‚½‚©‚¢cc‚¤[‚½‚ñ‚Ìcc‚ ‚Á‚½[r]
-‚©‚¢‚æccv[pcms]
+[ns]Igarashi[nse]
+Faaaah... It's warm... Uutan's...[l][er]
+so warm...[pcms]
 
 *1043|
 [fc]
-‘¾‚à‚à‚âƒAƒ\ƒR‚É“–‚½‚éŠ‚ğ“`‚Á‚ÄAƒIƒŒ‚ÌƒU[ƒƒ“‚ª[r]
-ƒ}ƒbƒg‚Ö‚Æ“H‚è—‚¿‚Ä‚¢‚­B[pcms]
+My semen drips down onto the mat, tracing the path along her[r]thighs and intimate area.[pcms]
 
 *v435|
 [fc]
 [vo_to s="tomo0095"]
-[ns]ŒÜ\—’[nse]
-u‚·‚²‚¢cc‚ ‚ñ‚È‚ÉA‚¢‚Á‚Ï‚¢ccv[pcms]
+[ns]Igarashi[nse]
+Amazing... so much...[pcms]
 
 *1044|
 [fc]
-‚¨K‚Ìã‚É‘å—Ê‚Éo‚µ‚½ƒU[ƒƒ“‚ğŒ©‚ÄAƒgƒ‚ƒ~ƒ“‚ªƒ‚[r]
-ƒWƒ‚ƒW‚Æ˜‚ğ‚­‚Ë‚ç‚¹‚é‚ÆAƒAƒ\ƒR‚Æƒuƒ‹ƒ}‚ªC‚ê‚ÄA[r]
-ƒNƒ`ƒ…ƒbƒNƒ`ƒ…ƒb‚ÆƒGƒ‚¢‰¹‚ğo‚µ‚½B[pcms]
+I watched as a large amount of semen was released onto her[r]butt, causing Tomomin to squirm and wiggle her hips.[l][er]
+Her intimate area and bloomers rubbed together, making a[r]lewd squelching sound.[pcms]
 
 *1045|
 [fc]
-[ns]“c’†[nse]
-uƒSƒƒ“ccƒuƒ‹ƒ}A‰˜‚µ‚¿‚á‚Á‚½ccv[pcms]
+[ns]Tanaka[nse]
+Sorry... I... I dirtied your bloomers...[pcms]
 
 *v436|
 [fc]
 [vo_to s="tomo0096"]
-[ns]ŒÜ\—’[nse]
-u‚¤‚¤‚ñA‚»‚ñ‚È‚Ì‚¢‚¢‚æcc‚»‚ñ‚È‚±‚Æ‚æ‚èA‚¤[‚½[r]
-‚ñcc‚Í‚â‚­‚£ccv[pcms]
+[ns]Igarashi[nse]
+No, it's okay... More importantly, Uutan...[l][er]
+hurry up...[pcms]
 
 *1046|
 [fc]
-[ns]“c’†[nse]
-u‚¤‚ñccƒIƒŒ‚àA“ü‚ê‚½‚¢ccv[pcms]
+[ns]Tanaka[nse]
+Yeah... I also want to... enter...[pcms]
 
 *v437|
 [fc]
 [vo_to s="tomo0097"]
-[ns]ŒÜ\—’[nse]
-u‚¢‚¢‚æcc‚¤[‚½‚ñ‚ÌƒIƒ`ƒ“ƒ`ƒ“A‚¿‚å‚§‚¾‚¡ccv[pcms]
+[ns]Igarashi[nse]
+It's fine... Uutan's penis, please...[pcms]
 
-;//[0108]‚Ö
+;//[0108]ã¸
 
 [jump target=*0108_H_TOP storage="0108_H.ks"]
 

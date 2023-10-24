@@ -1,34 +1,34 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN04044w’‡ŠÔ“ü‚èx
-;//BG:‰®ãF’©
-;//“oêl•¨GålŒöE’|“àE“µE“c’†E•ü”üEƒŠƒT
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04044ã€ä»²é–“å…¥ã‚Šã€
+;//BG:å±‹ä¸Šï¼šæœ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç«¹å†…ãƒ»ç³ãƒ»ç”°ä¸­ãƒ»æœ‹ç¾ãƒ»ãƒªã‚µ
 
-;//‘ÌˆÊF‘S—‡‚É‚³‚ê‚½ålŒöB’j«Ší‚ğƒŠƒT‚Æ•ü”ü‚ª“ñl
-;//‚Åär‚ß‚Ä‚¢‚éB
-;//@@@“µ‚ÍålŒö‚Ì‹¹‚Ì‚ ‚½‚è‚©‚çAŠç‚ğ‚Ì‚¼‚«‚ñ‚Å
-;//‚¢‚éB—«Ol‚Æ‚àA‘S—‡B
-;//@@@ålŒö‚Ì˜‚É‚ÍA•ü”ü‚ÆƒŠƒT‚Ì“û–[‚ªæ‚Á‚Ä‚¢‚é
-;//B
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;//ä½“ä½ï¼šå…¨è£¸ã«ã•ã‚ŒãŸä¸»äººå…¬ã€‚ç”·æ€§å™¨ã‚’ãƒªã‚µã¨æœ‹ç¾ãŒäºŒäºº
+;//ã§èˆã‚ã¦ã„ã‚‹ã€‚
+;//ã€€ã€€ã€€ç³ã¯ä¸»äººå…¬ã®èƒ¸ã®ã‚ãŸã‚Šã‹ã‚‰ã€é¡”ã‚’ã®ããè¾¼ã‚“ã§
+;//ã„ã‚‹ã€‚å¥³æ€§ä¸‰äººã¨ã‚‚ã€å…¨è£¸ã€‚
+;//ã€€ã€€ã€€ä¸»äººå…¬ã®è…°ã«ã¯ã€æœ‹ç¾ã¨ãƒªã‚µã®ä¹³æˆ¿ãŒä¹—ã£ã¦ã„ã‚‹
+;//ã€‚
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *04044_H_TOP
-;[debug_win]‚È‚¤@04044_H[debug_win_end]
+;[debug_win]ãªã†ã€€04044_H[debug_win_end]
 
 [eval exp="sf.SRP23 = 1"][if exp="tf.scene_mode == 0"][jump target=*04044_H][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 *04044_H
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04044 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04044 = 1"]
 
-;*SceneSet|w’‡ŠÔ“ü‚èx
+;*SceneSet|ã€ä»²é–“å…¥ã‚Šã€
 
 *scene_start
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 [bgm011]
 
 ;//H_CG
@@ -38,235 +38,216 @@
 
 ;;;[sysbt_meswin]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
 
 [se0 storage="se059" loop=true]
 
 *v1943|
 [fc]
 [vo_to s="tomo0232"]
-[ns]ŒÜ\—’[nse]
-u‚ÖA‚Í‚Ÿcc‚ñA‚Şcc‚ñ‚¿‚ãA‚¿‚ã‚Õccv[pcms]
+[ns]Igarashi[nse]
+H-haa... n, mu... nchu, chupu...[pcms]
 
 *v1944|
 [fc]
 [vo_ri s="risa0502"]
-[ns]V“¹[nse]
-u‚¿‚á‚Õ‚ÁA‚ñ‚¿‚ã‚£cc‚¿‚ã‚ÁA‚ê‚éA‚Ÿ‚Şccv[pcms]
+[ns]Shindou[nse]
+Chupu... nchu~... Chu, reru, amu...[pcms]
 
 *4557|
 [fc]
-‰´‚Í‚¢‚Â‚µ‚©A’…‚Ä‚¢‚é‚à‚Ì‚ğ‘S‚Ä‚Í‚¬‚Æ‚ç‚ê‚Ä‚µ‚Ü‚Á[r]
-‚ÄA‚¨‚©‚µ‚­‚È‚Á‚Ä‚µ‚Ü‚Á‚½²”ŒAŒÜ\—’ƒTƒ“AV“¹æ[r]
-¶‚ÌOl‚ÉA‚¢‚¢‚æ‚¤‚É‘Ì‚ğ˜M‚Î‚ê‚Ä‚¢‚½B[pcms]
+Before I knew it, Saeki, Igarashi-san, and Shindou-sensei[r]had stripped me of all my clothes and were toying with my[r]body as they pleased.[pcms]
 
 *v1945|
 [fc]
 [vo_ri s="risa0503"]
-[ns]V“¹[nse]
-u‚¹‚ñ‚¹A‚ªA‚³‚«‚ÈA‚Ì‚æcc‚»‚Á‚¿A‚ÖA‚à‚Á‚ÄA[r]
-‚¢A‚©‚ÈA‚¢‚Åccv[pcms]
+[ns]Shindou[nse]
+Sensei, g-got it, I'll go there...[l][er]
+Take it, t-to that place...[pcms]
 
 *v1946|
 [fc]
 [vo_to s="tomo0233"]
-[ns]ŒÜ\—’[nse]
-u‚çA‚ß‚¥cc‚±A‚êA‚ ‚½A‚µA‚ÌA‚¨‚¿‚ñA‚¿‚ñA[r]
-‚ÈA‚Ì‚§`ccv[pcms]
+[ns]Igarashi[nse]
+R-rngh... Th-this, is, my, di-di-dick, dick, you see~...[pcms]
 
 *4558|
 [fc]
-—S“ñ‚Æ^–ç‚ÍARŠİ‚³‚ñ‚Æ‹¤‚ÉŠwZ‚©‚ç—£‚ê‚Ä‚¢‚­ƒwƒŠ[r]
-‚ğ’Ç‚Á‚Ä‚¢‚Á‚ÄA‚»‚ê‚«‚èp‚ğŒ©‚¹‚È‚©‚Á‚½B[pcms]
+Yuuji and Shinya, along with Yamagishi-san, followed the[r]helicopter that was leaving the school, and they never[r]showed themselves again.[pcms]
 
 *v1947|
 [fc]
 [vo_sa s="sae0274"]
-[ns]²”Œ[nse]
-u‚Ó‚Ócc‚©‚ÆA‚¤A‚³‚ñ‚ÍA‚í‚½A‚­A‚µ‚ÌA‚àA‚Ì[r]
-cc‚íA‚½A‚­‚µA‚Ìccv[pcms]
+[ns]Saeki[nse]
+Hehe... Ka-to, u, san wa, wata, ku, shi no, mo, no...[l][er]
+wa, ta, ku shi, no...[pcms]
 
 *4559|
 [fc]
-–Ú‚Ì‘O‚Ì‰´‚ğŒ©‚Ä‚¢‚È‚¢–Ú‚ÅA²”Œ‚ÉŒ©‚Â‚ß‚ç‚êA”÷Î[r]
-‚Ü‚ê‚Ä‚àA‰´‚É‚Í­‚µ‚Ì‹°•|S‚à–³‚©‚Á‚½B[pcms]
+I wasn't even a little bit afraid, even as Saeki looked at[r]me with eyes that seemed to not see me and smiled.[pcms]
 
 *4560|
 [fc]
-¡‚Ì‚Æ‚±‚ëAOl‚Æ‚à‰´‚ğE‚»‚¤‚Æ‚¢‚¤‹C‚Í‚È‚¢‚æ‚¤‚¾[r]
-‚µA‚È‚É‚æ‚èARŠİ‚³‚ñ‚Í–³–•‚©‚Á‚½‚Ì‚¾B[pcms]
+For now, it seems like none of the three have any intention[r]of killing me, and above all, Yamagishi-san is safe.[pcms]
 
 *4561|
 [fc]
-¡‚ÍA‚»‚ê‚¾‚¯‚Å–‘«‚¾‚Á‚½B[pcms]
+For now, I was satisfied with just that.[pcms]
 
 *v1948|
 [fc]
 [vo_to s="tomo0234"]
-[ns]ŒÜ\—’[nse]
-u‚¨‚¿A‚ñ‚¿‚ñA‚¨‚Á‚«A‚­A‚È‚Á‚ÄA‚«A‚½‚Ÿcc‚ [r]
-‚ÍA‚Ÿcc‚©A‚½‚Ÿ‚¢ccv[pcms]
+[ns]Igarashi[nse]
+My, my dick, it's getting bigger...[l][er]
+Ahaha... it's, it's big...[pcms]
 
 *v1949|
 [fc]
 [vo_ri s="risa0504"]
-[ns]V“¹[nse]
-u‚ÍA‚Ÿ‚ñcc‚Ù‚µA‚¢‚Ì‚§cc‚¹‚ñ‚¹A‚ÌA‚¨‚ÜA‚ñ[r]
-‚±A‚©‚«‚ÜA‚íA‚µ‚ÄA‚¥ccv[pcms]
+[ns]Shindou[nse]
+Haa... I want it... Sensei, please touch my pussy...[pcms]
 
 *4562|
 [fc]
-‚»‚ê‚Æ‚àA‚ ‚Ü‚è‚Ì‹°•|‚ÅŠ´Šo‚ªƒ}ƒq‚µ‚Ä‚µ‚Ü‚Á‚½‚Ì‚©[r]
-ccB[pcms]
+Or perhaps, my senses were paralyzed by overwhelming fear...[pcms]
 
 *4563|
 [fc]
-ˆÙí‚ÈOlccŒÜ\—’ƒTƒ“‚ÆV“¹æ¶‚Éär‚ß‰ñ‚³‚êA‰´[r]
-‚Ìƒ‚ƒm‚ÍƒKƒ`ƒKƒ`‚É–u‹N‚µ‚Ä‚¢‚½B‰´‚à‚¨‚©‚µ‚­‚È‚Á‚½[r]
-‚Ì‚©‚ÈccB[pcms]
+The abnormal three... Igarashi-san and Shindou-sensei were[r]teasing me, and my thing was rock hard.[l][er]
+I wonder if I've also lost my mind...[pcms]
 
 *4564|
 [fc]
-‚¨‚©‚µ‚­‚È‚Á‚½Ol‚ÉA‚¢‚¢‚æ‚¤‚É˜M‚Î‚ê‚È‚ª‚çA–u‹N[r]
-‚µ‚Ä‚¢‚éB‚±‚±‚©‚ç’Eo‚·‚é¡‘O‚ÅA‰´‚¾‚¯’u‚¢‚Ä‚¢‚©[r]
-‚ê‚½‚Ì‚ÉB[pcms]
+I'm getting an erection while being toyed with by the three[r]who have become abnormal.[l][er]
+Just when I was about to escape from here, I was left behind[r]all alone.[pcms]
 
 *v1950|
 [fc]
 [vo_ri s="risa0505"]
-[ns]V“¹[nse]
-u‚¿‚ã‚ÁA‚¿‚ã‚£‚ÁA‚Ş‚¿‚ã‚Ácc‚ÖA‚Ÿcc‚Ñ‚¿‚áA[r]
-‚ê‚éA‚Ø‚¿‚á‚Áccv[pcms]
+[ns]Shindou[nse]
+*kiss*, *smooch*, *munch*... Huh, ah...[l][er]
+It's wet, *squelch*...[pcms]
 
 *v1951|
 [fc]
 [vo_to s="tomo0235"]
-[ns]ŒÜ\—’[nse]
-u‚Í‚Ócc‚ñ‚ÁA‚Í‚Şcc‚¿‚ã‚ÁA‚£‚¿‚ã‚£cc‚ñA‚Í[r]
-‚Ócc‚¿‚ã‚Ô‚Áccv[pcms]
+[ns]Igarashi[nse]
+Hafu... n, hamu... chu, uchuu...[l][er]
+n, hafu... chubu...[pcms]
 
 *4565|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤cc‚Ÿccv[pcms]
+[ns]Kato[nse]
+Uhh... ah...[pcms]
 
 *v1952|
 [fc]
 [vo_to s="tomo0236"]
-[ns]ŒÜ\—’[nse]
-u‚â‚·A‚ä‚«‚­A‚ñcc‚ A‚½‚µA‚ÌA‚µ‚½A‚«‚àA‚¿[r]
-‚¢‚¡ccHv[pcms]
+[ns]Igarashi[nse]
+Yassu, Yukiku... Ah, tashi no shita kimochii...?[pcms]
 
 *v1953|
 [fc]
 [vo_ri s="risa0506"]
-[ns]V“¹[nse]
-u‚¹‚ñ‚¹A‚ÌA‚µ‚½A‚Ì‚ÙA‚¤‚ªcc‚«A‚àA‚¿‚¢‚¢A[r]
-‚í‚æA‚ËccHv[pcms]
+[ns]Shindou[nse]
+Sensei, the area below... feels good, right...?[pcms]
 
 *4566|
 [fc]
-‚µ‚Á‚©‚è‹C‚¿—Ç‚³‚ğŠ´‚¶‚Ä‚¢‚é‚Æ‚¢‚¤‚±‚Æ‚ÍA‹°•|‚Å[r]
-Š´Šo‚ªƒ}ƒq‚µ‚Ä‚¢‚é‚í‚¯‚Å‚Í‚È‚¢ccH[pcms]
+It means that I am feeling pleasure firmly, so it's not like[r]my senses are paralyzed by fear...?[pcms]
 
 *4567|
 [fc]
-“Ë”q‚à‚È‚¢‚±‚Æ‚ªˆê“x‚É‚½‚­‚³‚ñ‹N‚±‚è‚·‚¬‚ÄA‰´‚Ì[r]
-“ª‚Ì’†‚Í¡A‚Ğ‚Ç‚­¬—‚µ‚Ä‚¢‚½B[pcms]
+So many unexpected things were happening all at once, and my[r]mind was in a state of extreme confusion.[pcms]
 
 *v1954|
 [fc]
 [vo_to s="tomo0237"]
-[ns]ŒÜ\—’[nse]
-u‚Í‚ŸA‚ñ‚Ş‚£cc‚Ø‚¿‚á‚ÁA‚¿‚ãA‚ñ‚ÁA‚¿‚ã‚£cc[r]
-‚¿‚á‚Õ‚ÁA‚¿‚ã‚Õccv[pcms]
+[ns]Igarashi[nse]
+Haa, nmuu... petchaa, chu, nnn, chu...[l][er]
+chappu, chupu...[pcms]
 
 *v1955|
 [fc]
 [vo_ri s="risa0507"]
-[ns]V“¹[nse]
-u‚ñ‚£A‚ñ‚¿‚ã‚ÁA‚¿‚ã‚Ş‚£cc‚Ò‚¿‚á‚ÁA‚¿‚ã‚Õ‚ÁA[r]
-‚¿‚ãA‚ê‚éccv[pcms]
+[ns]Shindou[nse]
+Nn, nchu, chumu... picha, chupu, chu, reru...[pcms]
 
 *v1956|
 [fc]
 [vo_sa s="sae0275"]
-[ns]²”Œ[nse]
-u‚ÓA‚Ó‚Ócc‚©A‚Æ‚¤‚³A‚ñ‚Écc‚·‚ÄA‚«A‚ÈA‚¨[r]
-‚àA‚¢cc‚³‚¹‚ÄA‚ A‚°‚ÜA‚·A‚©‚çccv[pcms]
+[ns]Saeki[nse]
+Fufu... K-kiss... let me... feel...[l][er]
+your weight... because I want to...[pcms]
 
 *4568|
 [fc]
-‰´‚Ì‹¹‚ÉO‚Æã‚ğ”‡‚í‚¹A²”Œ‚ª”÷Î‚İ‚È‚ª‚çš‘‚­B[pcms]
+Saeki whispers while trailing her lips and tongue across my[r]chest, smiling.[pcms]
 
 *4569|
 [fc]
-[ns]‰Á“¡[nse]
-u‚à‚¤cc‚â‚ß‚é‚ñ‚¾cc‚±‚ñ‚È‚±‚Æv[pcms]
+[ns]Kato[nse]
+Enough... stop... doing this...[pcms]
 
 *v1957|
 [fc]
 [vo_sa s="sae0276"]
-[ns]²”Œ[nse]
-u‚í‚½‚­A‚µ‚ÌA‚ÙA‚¤‚ªA‚¢A‚¢‚Æcc‚«‚Á‚ÆA‚¨A[r]
-‚à‚Á‚ÄA‚à‚çA‚¦A‚Ü‚·A‚æccv[pcms]
+[ns]Saeki[nse]
+I'm sure... I can... give you...[l][er]
+something... good...[pcms]
 
 *4570|
 [fc]
-‰´‚ÌŒ¾—t‚ğ•·‚­‚Â‚à‚è‚ª‚È‚¢‚Ì‚©A²”Œ‚Íƒuƒcƒuƒc‚ÆA[r]
-ˆÓ–¡‚Ì‚í‚©‚ç‚È‚¢‚±‚Æ‚ğ™ê‚¢‚½B[pcms]
+Saeki muttered incomprehensible things, as if she had no[r]intention of listening to my words.[pcms]
 
 *v1958|
 [fc]
 [vo_to s="tomo0238"]
-[ns]ŒÜ\—’[nse]
-u‚ñ‚¿‚ã‚ÁA‚¿‚ã‚Ï‚Ÿcc‚ñ‚ÓA‚¿‚ã‚ÁA‚Õ‚¿‚ã‚Ácc[r]
-‚Ö‚Ÿcc‚Í‚Şccv[pcms]
+[ns]Igarashi[nse]
+Nchu, chupaa... nfu, chu, puchu...[l][er]
+hea... hamu...[pcms]
 
 *4571|
 [fc]
-[ns]‰Á“¡[nse]
-u‚à‚¤cc‚â‚ß‚ÄA‚­‚êcc‚ÁIv[pcms]
+[ns]Kato[nse]
+Enough... stop... please...![pcms]
 
 *v1959|
 [fc]
 [vo_ri s="risa0508"]
-[ns]V“¹[nse]
-u‚¿‚ã‚Õ‚ÁA‚¿‚ã‚ÁA‚ñ‚Ş‚£cc‚Í‚Ÿcc‚Å‚»A‚¤A‚È[r]
-‚Ì‚§ccH@‚¹A‚¢‚¦‚«A‚¾‚µA‚Ä‚¥cc‚¿‚ã‚Ô‚ÁA‚ñ[r]
-‚¿‚ãcc‚ÌA‚Ü‚¹A‚Ä‚¥ccv[pcms]
+[ns]Shindou[nse]
+Chuppu, chuu, nmuu... haa... deso, u, nano...?[l][er]
+Se, ieeki, dashi, tee... chubu, nchu...[l][er]
+no, mase, tee...[pcms]
 
 *4572|
 [fc]
-Œ¾—t‚Å’ïR‚µ‚Ä‚Í‚İ‚é‚ªAŒÜ\—’ƒTƒ“‚ÆV“¹æ¶‚©‚ç—^[r]
-‚¦‚ç‚ê‚é‰õŠ´‚É‘Ì‚Í‹t‚ç‚¦‚¸A‰´‚Ìƒ‚ƒm‚Í‚à‚¤ŒÀŠE¡‘O[r]
-‚¾‚Á‚½B[pcms]
+Despite trying to resist with words, my body couldn't go[r]against the pleasure given by Igarashi-san and Shindou-[r]sensei, and my thing was already on the verge of its limit.[pcms]
 
 *v1960|
 [fc]
 [vo_ri s="risa0509"]
-[ns]V“¹[nse]
-u‚¿‚ã‚Ô‚ÁA‚ñ‚ÁA‚¿‚ã‚¤‚£‚Ácc‚ñ‚ÍA‚Ÿcc‚ê‚éA[r]
-‚ñ‚¿‚ãA‚¿‚ã‚ÁA‚¿‚ã‚Ş‚£cc‚Ö‚Ÿcc‚¿‚ã‚Î‚Áccv[pcms]
+[ns]Shindou[nse]
+Chubu, n, chuu... nhaa... reru, nchu, chu, chumu...[l][er]
+hea... chubaa...[pcms]
 
 *v1961|
 [fc]
 [vo_to s="tomo0239"]
-[ns]ŒÜ\—’[nse]
-u‚¿‚ã‚Õ‚£A‚¿‚á‚Õ‚ÁA‚ñ‚Í‚Ÿcc‚â‚·A‚äA‚«‚­A‚ñ[r]
-‚ÌA‚¹‚¢‚¦A‚«cc‚Ş‚¿‚ãA‚ñ‚ŞA‚¿‚ã‚Ï‚Ÿcc‚©‚¨A[r]
-‚ÉA‚©A‚¯‚ÄA‚¥ccv[pcms]
+[ns]Igarashi[nse]
+Chupuu, chapu, nhaa... yasu, yu, kiku, nno, sei e, ki...[l][er]
+muchu, nmu, chupaa... kao, ni, ka, kete, e...[pcms]
 
 *4573|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤cc‚­A‚Ÿcc‚ÁIIv[pcms]
+[ns]Kato[nse]
+U... ku, ah...!![pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
 
 [stop_se0]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 
 [se0 storage="se062"]
 
@@ -295,51 +276,47 @@
 
 *4574|
 [fc]
-“ñl‚ÌhŒƒ‚É‚æ‚é‰õŠ´‚ÉA‰´‚Í‘Ï‚¦‚é‚±‚Æ‚ª‚Å‚«‚¸A‚±[r]
-‚İã‚°‚Ä‚«‚½¸‰t‚ğA‚»‚Ì‚Ü‚Ü•¬‚«o‚³‚¹‚Ä‚µ‚Ü‚Á‚½B[pcms]
+The pleasure brought on by the stimulation of the two of[r]them was too much for me to bear, and I ended up[r]ejaculating, spurting out my semen.[pcms]
 
 *v1962|
 [fc]
 [vo_to s="tomo0240"]
-[ns]ŒÜ\—’[nse]
-u‚ ‚Í‚Ÿcc‚¹A‚¢‚µA‚¢‚Á‚ÏA‚¢A‚Å‚ÄA‚é‚£ccv[pcms]
+[ns]Igarashi[nse]
+Ahh... I-I'm... it's coming out...[pcms]
 
 *v1963|
 [fc]
 [vo_ri s="risa0510"]
-[ns]V“¹[nse]
-u‚·‚ÄA‚«cc‚ A‚Â‚£‚¢ccv[pcms]
+[ns]Shindou[nse]
+Sute, ki... a, tsuui...[pcms]
 
 *4575|
 [fc]
-c‚Á‚Ä‚¢‚é¸‰t‚ğï‚èo‚»‚¤‚ÆAV“¹æ¶‚ª‰´‚Ìƒ‚ƒm‚ğ[r]
-ˆ¬‚Á‚Ä‚µ‚²‚­B[pcms]
+Shindou-sensei, trying to squeeze out the remaining semen,[r]grips my thing and strokes it.[pcms]
 
 *4576|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤A‚Ÿcc‚ ccv[pcms]
+[ns]Kato[nse]
+U... ah... ah...[pcms]
 
 *v1964|
 [fc]
 [vo_ri s="risa0511"]
-[ns]V“¹[nse]
-u‚ñ‚ÁA‚ê‚écc‚ñ‚®cc‚¨A‚¢‚µ‚¡cc‚à‚Á‚ÆA‚ÌA[r]
-‚Ü‚¹A‚Ä‚¥ccv[pcms]
+[ns]Shindou[nse]
+Nn, reru... ngu... o, ishii...[l][er]
+motto, no, mase, tee...[pcms]
 
 *v1965|
 [fc]
 [vo_to s="tomo0241"]
-[ns]ŒÜ\—’[nse]
-u‚Ÿ‚Şcc‚ñA‚­‚¿‚ãcc‚ñ‚Şcc‚â‚·‚äA‚«‚­A‚ñA[r]
-‚Ì‚¹‚¢A‚µcc‚±‚¢A‚¡ccv[pcms]
+[ns]Igarashi[nse]
+Ahh... n, chu... nmu... yasu yu, kiku, n, no sei, shi...[l][er]
+koi, i...[pcms]
 
 *4577|
 [fc]
-Šç‚É‚©‚©‚Á‚½¸‰t‚ğär‚ßæ‚Á‚ÄAŠğ‚µ‚»‚¤‚É–¡‚í‚Á‚Ä‚¢[r]
-‚é“ñl‚ğ‚æ‚»‚ÉA²”Œ‚Í‰´‚Ìã‚ÉŒ×‚Á‚ÄAƒ‚ƒm‚Ìæ‚ğ©[r]
-•ª‚ÌƒAƒ\ƒR‚Ö‚ ‚Ä‚ª‚Á‚½B[pcms]
+Saeki straddled me, ignoring the two who were happily[r]licking and savoring the semen that had landed on their[r]faces, and positioned the tip of my thing against her own[r]genitals.[pcms]
 
-;//[04045]‚Ö
+;//[04045]ã¸
 [jump target=*04045_H_TOP storage="04045_H.ks"]
 

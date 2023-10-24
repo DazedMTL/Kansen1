@@ -1,43 +1,43 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN0102wƒ[ƒ^[‚ª“ü‚Á‚½‚Ü‚ÜA¶“k‚Ì‘O‚Åx
-;//BG:‹’®Šoº
-;//EVENT;//BG:‹’®ŠoºF
-;//“oêl•¨GålŒöE—DE“µE•ü”üE’|“àE“c’†EƒŠƒT
-;//‹“_FƒŠƒT
-;//š‚gEVENT_004@wƒsƒ“ƒNƒ[ƒ^[x
-;//‘ÌˆÊF—§‚Á‚Ä‚¢‚éB‘Šè‚Í–³‚µB
-;//ŒÒŠÔ‚Éƒ[ƒ^[‚ğ‘}“ü‚µ‚½‚Ü‚Ü‚ÌƒŠƒTB
-;//ƒAƒiƒ‹‚©‚ç‚ÍAŠİ“c‚Ì¸‰t‚ª‚ ‚Ó‚ê‚Äo‚Ä‚«‚»‚¤B
-;//ålŒö’B‚Éƒ[ƒ^[‚Ì‰¹‚ª‚Î‚ê‚È‚¢—lA‘«‚ğ‚«‚Â‚­•Â‚¶‚Ä‚¢‚éB
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0102ã€ãƒ­ãƒ¼ã‚¿ãƒ¼ãŒå…¥ã£ãŸã¾ã¾ã€ç”Ÿå¾’ã®å‰ã§ã€
+;//BG:è¦–è´è¦šå®¤
+;//EVENT;//BG:è¦–è´è¦šå®¤ï¼š
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­ãƒ»ãƒªã‚µ
+;//è¦–ç‚¹ï¼šãƒªã‚µ
+;//â˜…ï¼¨EVENT_004ã€€ã€ãƒ”ãƒ³ã‚¯ãƒ­ãƒ¼ã‚¿ãƒ¼ã€
+;//ä½“ä½ï¼šç«‹ã£ã¦ã„ã‚‹ã€‚ç›¸æ‰‹ã¯ç„¡ã—ã€‚
+;//è‚¡é–“ã«ãƒ­ãƒ¼ã‚¿ãƒ¼ã‚’æŒ¿å…¥ã—ãŸã¾ã¾ã®ãƒªã‚µã€‚
+;//ã‚¢ãƒŠãƒ«ã‹ã‚‰ã¯ã€å²¸ç”°ã®ç²¾æ¶²ãŒã‚ãµã‚Œã¦å‡ºã¦ããã†ã€‚
+;//ä¸»äººå…¬é”ã«ãƒ­ãƒ¼ã‚¿ãƒ¼ã®éŸ³ãŒã°ã‚Œãªã„æ§˜ã€è¶³ã‚’ãã¤ãé–‰ã˜ã¦ã„ã‚‹ã€‚
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *0102_H_TOP
-;[debug_win]‚È‚¤@0102_H[debug_win_end]
+;[debug_win]ãªã†ã€€0102_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [eval exp="sf.SRP03 = 1"][if exp="tf.scene_mode == 0"][jump target=*0102][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
-;*SceneSet|wƒ[ƒ^[‚ª“ü‚Á‚½‚Ü‚ÜA¶“k‚Ì‘O‚Åx
+;*SceneSet|ã€ãƒ­ãƒ¼ã‚¿ãƒ¼ãŒå…¥ã£ãŸã¾ã¾ã€ç”Ÿå¾’ã®å‰ã§ã€
 
 *0102
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0102 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0102 = 1"]
 
-;//flag:ƒvƒƒ[ƒOƒtƒ[@zap‚Q@•\¦
+;//flag:ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ãƒ•ãƒ­ãƒ¼ã€€zapï¼’ã€€è¡¨ç¤º
 
 
 ;//BG:bg015c
@@ -50,7 +50,7 @@
 
 *scene_start
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 [bgm007]
 
 ;//H_CG:
@@ -60,60 +60,52 @@
 
 ;;;[sysbt_meswin]
 
-;//SE:ƒ[ƒ^[‚Ì‰¹ƒ‹[ƒv
+;//SE:ãƒ­ãƒ¼ã‚¿ãƒ¼ã®éŸ³ãƒ«ãƒ¼ãƒ—
 [se0 storage="se063" loop=true]
 
 *v371|
 [fc]
 [vo_ri s="risa0096"]
-[ns]V“¹[nse]
-u‚Å‚ÍA¡‚©‚çŠÓ‚µ‚åA‰ï‚ğn‚ß‚Ü‚·v[pcms]
+[ns]Shindou[nse]
+Well then, let's start the ero game club now.[pcms]
 
 *905|
 [fc]
-‚Ü‚¾äS“à‚É“ü‚Á‚½‚Ü‚ÜAƒXƒCƒbƒ`‚à“ü‚Á‚½‚Ü‚Ü‚Ì“ñ‚Â‚Ì[r]
-ƒ[ƒ^[‚ÉhŒƒ‚³‚êA’f‘±“I‚ÉP‚Á‚Ä‚­‚é‰õŠ´‚É‘Ï‚¦‚é[r]
-‚Ì‚ÉA„‚ÍŒ¾—t‚ğ‚Â‚©‚¦‚³‚¹‚Ä‚µ‚Ü‚Á‚½B[pcms]
+I was unable to speak as I endured the intermittent pleasure[r]that came from being stimulated by two vibrators that were[r]still inside my vagina and still turned on.[pcms]
 
 *906|
 [fc]
-¶“k’B‚ÉA¡‚Ì‚ğ•Ï‚Év‚í‚ê‚È‚¯‚ê‚Î—Ç‚¢‚¯‚ê‚ÇccB[pcms]
+I hope the students don't think of me strangely right now...[pcms]
 
 *v372|
 [fc]
 [vo_ri s="risa0097"]
-[ns]V“¹[nse]
-u‚±‚ê‚©‚çAO–{‚Ì‰f‰æ‚ğ—¬‚µ‚Ü‚·Bˆê–{I‚í‚Á‚½‚ÆA[r]
-‚±‚ë‚ÅA\•ª’ö“x‚Ì‹xŒe‚ğ‹²‚ñ‚ÅAŸ‚Ì‚¦A‚ª‚ğ—¬‚·A[r]
-‚Æ‚¢‚¤Œ`‚ğ‚Æ‚è‚Ü‚·v[pcms]
+[ns]Shindou[nse]
+From now on, we will screen three movies.[l][er]
+After one movie ends, we will take a break of about ten[r]minutes and then proceed to screen the next one.[pcms]
 
 *907|
 [fc]
-‘Ì‚Ì‰œ‚ğhŒƒ‚µ‘±‚¯‚éƒ[ƒ^[‚ÉA[r]
-‚Ç‚¤‚µ‚Ä‚àŒ¾—t‚ğ‚Â‚©‚¦‚³‚¹‚Ä‚µ‚Ü‚¤B[pcms]
+I couldn't help but be rendered speechless by the vibrator[r]that continued to stimulate deep inside my body.[pcms]
 
 *908|
 [fc]
-‰º’…‚ÍŠİ“c‚ª‚Á‚Äs‚Á‚Ä‚µ‚Ü‚Á‚½‚æ‚¤‚ÅA[r]
-‚¢‚Ü„‚ÍAƒXƒJ[ƒg‚Ì‰º‚É‰½‚à—š‚¢‚Ä‚¢‚È‚¢B[pcms]
+It seems that Kishida took my underwear with him, so now I'm[r]not wearing anything under my skirt.[pcms]
 
 *909|
 [fc]
-‚»‚Ì‚¹‚¢‚ÅAƒ[ƒ^[‚ªo‚Ä‚«‚Ä—‚¿‚Ä‚µ‚Ü‚¤‚Ì‚Å‚Í‚È[r]
-‚¢‚©A‹ß‚­‚ÉÀ‚Á‚Ä‚¢‚é‰Á“¡ŒN‚ÉAƒ[ƒ^[‚Ì‰¹‚ª•·‚±[r]
-‚¦‚Ä‚µ‚Ü‚¤‚Ì‚Å‚Í‚È‚¢‚©‚ÆA‹C‚ª‹C‚Å‚Í‚È‚©‚Á‚½B[pcms]
+I couldn't help but feel uneasy that because of that, the[r]rotor might come out and fall, and that Kato-kun sitting[r]nearby might hear the sound of the rotor.[pcms]
 
 *v373|
 [fc]
 [vo_ri s="risa0098"]
-[ns]V“¹[nse]
-u‰f‰æ‚Í‚Ç‚ê‚àAˆêŠÔ”¼‚©‚ç“ñŠÔ‚Å‚·‚©A‚çA[r]
-O–{–Ú‚ªI‚í‚é‚Ì‚ÍA[–é‚Ì“ñ ‚ËB[r]
-¡‰ñA—¬‚·‰f‰æ‚ÍAO–{‚Æ‚àƒzccv[pcms]
+[ns]Shindou[nse]
+Each movie is about an hour and a half to two hours long, so[r]the third one will end around 2 a.[l][er]
+m. This time, all three movies we're showing are ero...[pcms]
 
 *910|
 [fc]
-‹}‚ÉA„‚Ì’†‚ÌˆÙ•¨‚ªŒƒ‚µ‚­—x‚éB[pcms]
+Suddenly, the foreign object inside me dances intensely.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -126,57 +118,49 @@
 
 *911|
 [fc]
-“Ë‘R‘å‚«‚­‰Ÿ‚µŠñ‚¹‚½‰õŠ´‚Ì”g‚ÉA[r]
-‚Æ‚¤‚Æ‚¤Œ¾—t‚ğ~‚ß‚Ä‚µ‚Ü‚Á‚½B[pcms]
+I finally stopped speaking as a wave of intense pleasure[r]suddenly surged over me.[pcms]
 
 *912|
 [fc]
-‚¨‚»‚ç‚­ccŠİ“c‚ªA‹³º‚ÌŠO‚Åƒ[ƒ^[‚ÌƒXƒCƒbƒ`‚ğ[r]
-˜M‚Á‚½‚Ì‚¾‚ë‚¤B[pcms]
+Perhaps... Kishida played with the switch of the rotor[r]outside the classroom.[pcms]
 
 *913|
 [fc]
-‰º”Ú‚½Î‚İ‚ğ•‚‚©‚×‚Ä‚¢‚é‚Ì‚ğ‘z‘œ‚µ‚ÄA[r]
-‹üJ‚Ì‹»•±‚ª„‚ğP‚¤B[pcms]
+I imagine them with a lewd smile on their face, and the[r]humiliating excitement overwhelms me.[pcms]
 
 *914|
 [fc]
-‚µ‚©‚àA‰õŠ´‚É‘Ï‚¦‚é‚Ì‚É• •”‚É—Í‚ğ“ü‚ê‚Ä‚µ‚Ü‚Á‚½‚¹[r]
-‚¢‚ÅA’°“à‚Éc‚Á‚Ä‚¢‚½Šİ“c‚Ì¸‰t‚ªA˜R‚êo‚Ä‚«‚»‚¤[r]
-‚É‚È‚Á‚Ä‚¢‚éccB[pcms]
+Moreover, because I had to exert force in my abdomen to[r]endure the pleasure, Kishida's semen that remained inside my[r]intestines is about to leak out...[pcms]
 
 *915|
 [fc]
-„‚Í—¼‘«‚Æä\•”‚ğ‚«‚Â‚­•Â‚¶AŒã‚ğ‘±‚¯‚½B[pcms]
+I tightly closed both my legs and buttocks, and continued[r]on.[pcms]
 
 *v374|
 [fc]
 [vo_ri s="risa0099"]
-[ns]V“¹[nse]
-ucc‚²‚ß‚ñ‚È‚³‚¢B—¬‚·‰f‰æ‚ÍAO–{‚Æ‚àƒzƒ‰[‰f‰æ[r]
-‚Å‚·B‚Ç‚ê‚à“ñ\”NˆÈã‘O‚Ì‰fA‰æ‚Å‚·‚ªAÌ‚Ì–¼ì‚ğ[r]
-ŠÏ‚é‚Ì‚àA—Ç‚¢‚¯A‹†‚É‚È‚é‚ÆvA‚Ü‚·v[pcms]
+[ns]Shindou[nse]
+... I'm sorry. The movies we're showing are all horror[r]films.[l][er]
+They're all movies from over twenty years ago, but I think[r]it's good to watch old masterpieces and appreciate their[r]significance.[pcms]
 
 *916|
 [fc]
-¡‚Ì‚æ‚¤‚É¶“k’B‚ÉˆÍ‚Ü‚ê‚½ó‹µ‚ÅAŒµ‚µ‚­‚¨Œ˜‚¢æ¶[r]
-‚ÆŒ¾‚í‚ê‚Ä‚¢‚é„‚ªAŒÒŠÔ‚©‚çƒ[ƒ^[‚ğ°‚É—‚Æ‚µ‚Ä[r]
-‚µ‚Ü‚Á‚½‚èA¸‰t‚ğ˜R‚ç‚µ‚Ä‚µ‚Ü‚Á‚½‚çccB[pcms]
+If, in the current situation where I am surrounded by[r]students, I were to accidentally drop the rotor from my[r]crotch onto the floor or leak semen...[l][er]
+as someone who is known as a strict and serious teacher...[pcms]
 
 *917|
 [fc]
-¶“k’B‚É‚ÍAŒˆ‚µ‚ÄŒå‚ç‚ê‚Ä‚Í‚È‚ç‚È‚¢B[r]
-“Á‚ÉA’jq¶“k‚É‚ÍB[pcms]
+The students must never find out.[l][er]
+Especially the male students.[pcms]
 
 *918|
 [fc]
-‚¨‚©‚µ‚È‰\‚ğ—¬‚³‚ê‚ÄA‚»‚ê‚ğM‚¶‚½’jq¶“k‚ª‘å¨‚Å[r]
-„‚Ì‘O‚ÉŒ»‚ê‚ÄAŠİ“c‚ª‚µ‚½‚æ‚¤‚ÉA„‚ğ‹º”—‚µA[r]
-˜M‚Ô‚©‚à‚µ‚ê‚È‚¢ccB[pcms]
+I might be surrounded by male students who have been[r]spreading strange rumors and believing them, just like[r]Kishida did.[l][er]
+They might come before me in large numbers, threaten me, and[r]play with me...[pcms]
 
 *919|
 [fc]
-‚µ‚©‚µ‚»‚ê‚ÍA‚Ü‚½X‚É„‚Ì«—~‚ğhŒƒ‚·‚éB[pcms]
+However, that only further stimulates my sexual desire.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -190,131 +174,116 @@
 *v375|
 [fc]
 [vo_ri s="risa0100"]
-[ns]V“¹[nse]
-u¡“ú‚Í„‚½‚¿‚Ì‚ÙA‚©‚É‚Í’N‚à‚¢‚È‚¢‚©‚çA‚¢‚Â‚à‚Æ[r]
-‚¿‚ªA‚ÄAƒ{ƒŠƒ…[ƒ€‚ğã‚°‚ÄŠÓÜ‚·‚é‚±‚Æ‚ª‚ÅA[r]
-‚«‚Ü‚·B‰¹‚Í‰f‰æ‚Ìd‚æA‚È\¬—v‘f‚Å‚·‚©‚ç‚Ëv[pcms]
+[ns]Shindou[nse]
+Today, since there's no one else around, we can turn up the[r]volume and enjoy the movie differently than usual.[l][er]
+Sound is an important element of movies, after all.[pcms]
 
 *920|
 [fc]
-‚¨‚©‚µ‚È‚±‚Æ‚ğl‚¦‚Ä‚¢‚½‚¹‚¢‚©‚µ‚çccB[r]
-‚È‚ñ‚¾‚©Šç‚ª‰ÎÆ‚éccB[pcms]
+I wonder if it's because I was thinking strange thoughts...[l][er]
+My face feels hot for some reason...[pcms]
 
 *921|
 [fc]
-‚Ç‚¤‚µ‚ÄccH[r]
-¶“k’B‚Ì‹ü‚ªA„‚É“Ë‚«h‚³‚é‚æ‚¤‚ÉŠ´‚¶‚éccB[r]
-‘Ì‚Ì‰œ‚Ü‚Åcc‰ÎÆ‚Á‚Ä‚µ‚Ü‚¤ccB[pcms]
+Why...? I feel the students' gazes piercing into me...[l][er]
+It's like my body is burning deep inside...[pcms]
 
 *922|
 [fc]
-¶“k’B‚Ì–Úü‚ÍA„‚ÌA¡‚Ì–{“–‚Ìp‚ğ[r]
-Œ©“§‚©‚µ‚Ä‚¢‚é‚Ì‚Å‚ÍccB[pcms]
+Are the students' gazes seeing through my true self right[r]now...?[pcms]
 
 *923|
 [fc]
-‚»‚ñ‚È–Ï‘z‚ªA„‚Ì‹»•±‚ğA‚¶‚í‚¶‚í‚Æ·‚èã‚°‚éB[pcms]
+Such delusions slowly but surely excite me.[pcms]
 
 *924|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ÌAæ¶A‘åä•v‚Å‚·‚©H@‚³‚Á‚«‚©‚ç‚È‚ñ‚©‹ê‚µ[r]
-‚»‚¤‚¾‚µAº‚Ík‚¦‚Ä‚é‚µAŠç‚àÔ‚¢‚µccB[r]
-•—×‚Ğ‚¢‚ÄA”M‚ªo‚Ä‚é‚ñ‚¶‚á‚È‚¢‚·‚©Hv[pcms]
+[ns]Kato[nse]
+Um, teacher, are you okay? You seem to be in pain and your[r]voice is trembling, and your face is red...[l][er]
+Could it be that you caught a cold and have a fever?[pcms]
 
 *925|
 [fc]
-’jq¶“k‚Ì‚»‚ÌŒ¾—t‚Éº“à‚ğŒ©‰ñ‚·‚ÆAˆêl‚ğœ‚¢‚ÄA[r]
-ŠFˆê—l‚É¢˜f‚µ‚½•\î‚ğ‚µ‚Ä‚¢‚½B[pcms]
+When I looked around the room in response to the words of[r]the male students, everyone except one person had a[r]perplexed expression.[pcms]
 
 *v376|
 [fc]
 [vo_ri s="risa0101"]
-[ns]V“¹[nse]
-ucc—\’è‚ÌŠÔ‚ğ‰ß‚¬‚Ä‚¢‚½‚©‚çA[r]
-‚±‚±‚Ö—ˆ‚é‚Ì‚É­‚µ‘–‚Á‚½‚Ì‚æB[r]
-‚»‚Ì‚¹‚¢‚¶‚á‚È‚¢‚©‚µ‚çv[pcms]
+[ns]Shindou[nse]
+... I ran a little to get here because I was running late.[l][er]
+Maybe that's why.[pcms]
 
 *926|
 [fc]
-’|“àŒNcc”Ş‚¾‚¯‚ªA„‚ğˆá‚¤–Ú‚ÅŒ©‚Ä‚¢‚éccB[pcms]
+Shinya-kun... Only he is looking at me with different[r]eyes...[pcms]
 
 *927|
 [fc]
-‚»‚ê‚É‚ ‚ÌŠçcc„‚É—~–]‚ğ“f‚«o‚»‚¤‚Æ‚µ‚Ä‚¢‚é‚Ì[r]
-Šİ“c‚Æ‚»‚Á‚­‚è‚ÌA‰º”Ú‚½‚¢‚â‚ç‚µ‚¢Î‚İccB[pcms]
+And that face... It's just like Kishida when he's trying to[r]unleash his desires on me, with a vulgar and lewd smile...[pcms]
 
 *928|
 [fc]
-[ns]‰Á“¡[nse]
-u–{“–‚Å‚·‚©H@’²qˆ«‚¢‚È‚çAƒfƒbƒL‚Ì‘€ì‚Æ‚©A[r]
-©•ª‚ç‚Å‚â‚Á‚Æ‚«‚Ü‚·‚©‚çv[pcms]
+[ns]Kato[nse]
+Is that true? If you're not feeling well, we can handle the[r]deck operations ourselves.[pcms]
 
 *929|
 [fc]
-‚à‚µ‚©‚µ‚Ä”Şcc„‚ª•Y‚í‚¹‚Ä‚¢‚éAƒƒX‚Ì“õ‚¢‚ğšk‚¬[r]
-æ‚Á‚ÄA“ª‚Ì’†‚Å”Æ‚µ‚Å‚à‚µ‚Ä‚¢‚é‚Ì‚©‚µ‚çccB[pcms]
+Could it be that he... is sniffing the scent of a female[r]that I am emitting and fantasizing about violating me in his[r]mind...?[pcms]
 
 *930|
 [fc]
-‚¾‚Æ‚µ‚½‚çAˆê‘Ì‚Ç‚ñ‚È•—‚ÉccB[pcms]
+If that's the case, then how exactly...?[pcms]
 
 *931|
 [fc]
-cc„‚ÍAˆê‘Ì‰½‚ğl‚¦‚Ä‚¢‚é‚Ì‚©‚µ‚çccB[pcms]
+... I wonder what exactly I am thinking...[pcms]
 
 *v377|
 [fc]
 [vo_ri s="risa0102"]
-[ns]V“¹[nse]
-u‘åä•v‚æA‰½‚Å‚à‚È‚¢‚íccv[pcms]
+[ns]Shindou[nse]
+Don't worry, I'm fine...[pcms]
 
 *932|
 [fc]
-‚»‚¤‚¾ccŠÓÜ‰ï‚ğ”²‚¯‚ÄA[r]
-•ÛŒ’º‚És‚©‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‚ñ‚¾‚íccB[r]
-‚Å‚àA¶“k‚½‚¿‚É‚Í‰½‚Äà–¾‚ğccB[pcms]
+That's right... I have to leave the viewing party and go to[r]the infirmary...[l][er]
+But how should I explain it to the students...[pcms]
 
 *933|
 [fc]
-[ns]‰Á“¡[nse]
-uæ¶ccHv[pcms]
+[ns]Kato[nse]
+Sensei...?[pcms]
 
 *934|
 [fc]
-‚»‚¤‚¾‚íccB‚±‚±‚ğ¶“k‚É”C‚¹‚Ä‚µ‚Ü‚¦‚ÎA[r]
-„‚ª‚í‚´‚í‚´‚Â‚¢‚Ä‚¢‚é•K—v‚ª‚È‚­‚È‚éccB[pcms]
+That's right... If I leave this to the students, there won't[r]be a need for me to be here.[pcms]
 
 *v378|
 [fc]
 [vo_ri s="risa0103"]
-[ns]V“¹[nse]
-ucc‚»‚¤‚ËBƒrƒfƒI‚Ì“ü‚ê‘Ö‚¦‚âAƒfƒbƒL‚Ì‘€ì‚ÍA[r]
-‹M•û’B‚É‚¨Šè‚¢‚µ‚æ‚¤‚©‚µ‚çBÀ‚ÍA‹}‚Èd–‚ª“ü‚Á‚Ä[r]
-‚µ‚Ü‚Á‚ÄA‘‹}‚É‚»‚ê‚ğˆ—‚µ‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‚Ìv[pcms]
+[ns]Shindou[nse]
+... I see. How about I ask you all to handle the video[r]replacement and deck operations?[l][er]
+Actually, I've received a sudden task that I need to take[r]care of urgently.[pcms]
 
 *935|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ŸA‘åä•v‚Á‚·‚æA‰´‚ç‚Å‚â‚Á‚Æ‚«‚Ü‚·v[pcms]
+[ns]Kato[nse]
+Ah, don't worry, we'll take care of it.[pcms]
 
 *936|
 [fc]
-‚Æ‚Á‚³‚Év‚¢‚Â‚¢‚½„‚Ì‰R‚ğA[r]
-¶“k‚Í‰½‚Ì‹^‚¢‚à‚È‚­ó‚¯“ü‚ê‚½[pcms]
+The students accepted my spontaneous lie without any[r]suspicion.[pcms]
 
 *937|
 [fc]
-‚»‚Ì‚±‚Æ‚É‹C‚ªŠÉ‚ñ‚¾‚Ì‚©A[r]
-–¢‚¾‚É‘±‚­äS“à‚©‚ç‚ÌhŒƒ‚ğ‘Ì‚ªv‚¢‚¾‚µ‚ÄA[r]
-„‚Í‚Ü‚½Œ¾—t‚ğ‚Â‚©‚¦‚³‚¹‚Ä‚µ‚Ü‚Á‚½B[pcms]
+My body, still feeling the stimulation from within my vagina[r]that continues to this day, relaxed its guard on that[r]matter, causing me to once again stumble over my words.[pcms]
 
 *v379|
 [fc]
 [vo_ri s="risa0104"]
-[ns]V“¹[nse]
-uˆ«A‚¯‚ê‚ÇA‚ ‚Æ‚Í‚¨Šè‚¢‚ËBO‚ÚA–Ú‚ªI‚í‚é ‚É[r]
-ˆê“x–ß‚ÁA‚Ä‚«‚Ü‚·‚©‚çv[pcms]
+[ns]Shindou[nse]
+Sorry, but I'll leave the rest to you.[l][er]
+I'll come back once the third round is over.[pcms]
 
 [stop_se0]
 
@@ -336,31 +305,30 @@
 *v380|
 [fc]
 [vo_ri s="risa0105"]
-[ns]V“¹[nse]
-u‚Í‚Ÿccv[pcms]
+[ns]Shindou[nse]
+*sigh*...[pcms]
 
 *938|
 [fc]
-„‚Í¶“k‚É‰R‚Ü‚Å‚Â‚¢‚ÄAŠİ“c‚Ì–½—ß‚É]‚Á‚Ä‚¢‚éB[pcms]
+I am even lying to the students and following Kishida's[r]orders.[pcms]
 
 *939|
 [fc]
-‚ ‚Ì’j‚ÌŠç‚ÍŒ©‚½‚­‚à‚È‚¢‚Í‚¸‚È‚Ì‚ÉccB[r]
-‚ ‚Ì’j‚Æ‚ÌŠÖŒW‚©‚çA“¦‚°o‚µ‚½‚¢‚Æv‚Á‚Ä‚¢‚é‚Í‚¸‚È[r]
-‚Ì‚ÉccB[pcms]
+I shouldn't want to see that man's face...[l][er]
+I should want to escape from my relationship with him...[pcms]
 
 *940|
 [fc]
-‚Å‚à„‚Ì‘«‚ÍAçSçO‚¢‚à‚È‚­•ÛŒ’º‚ğ–Úw‚µ‚Ä‚¢‚éB[r]
-„‚Ì‘Ì‚ÍAæøçW‚³‚ê‚é‚±‚Æ‚ğ–]‚ñ‚Å‚¢‚é‚Ì‚©‚µ‚çccH[pcms]
+But my feet are heading towards the infirmary without any[r]hesitation.[l][er]
+Is my body wishing to be violated...?[pcms]
 
 *941|
 [fc]
-‚»‚ê‚Æ‚àA‚à‚µ‚©‚µ‚Ä„‚ÌS‚ªccB[pcms]
+Or perhaps, could it be my heart...?[pcms]
 
 ;;;[sysbt_meswin clear]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
@@ -368,19 +336,19 @@
 
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//‚±‚±‚Ü‚Å–{•Ò
+;//ã“ã“ã¾ã§æœ¬ç·¨
 
 
 
-;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
-;•s—v[eval exp="="sf.g_scn03 = 1"]
+;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
+;ä¸è¦[eval exp="="sf.g_scn03 = 1"]
 
-;//ƒEƒBƒ“ƒhƒEÁ‹
+;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//•‚ÉƒtƒF[ƒh
+;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
@@ -390,8 +358,8 @@
 
 ;;;[sysbt_meswin]
 
-;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 
-;//[0029]iƒvƒƒ[ƒOE–{ƒ‹[ƒgj‚Ö
+;//[0029]ï¼ˆãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ãƒ»æœ¬ãƒ«ãƒ¼ãƒˆï¼‰ã¸
 [jump target=*0029_TOP storage="0029.ks"]
 

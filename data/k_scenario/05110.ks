@@ -1,20 +1,20 @@
 
-;//¡ËƒuƒƒbƒN05110w“µ‚Ì”’x
-;//BG:Šw‰€‰®ãF–é
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05110ã€ç³ã®å‘Šç™½ã€
+;//BG:å­¦åœ’å±‹ä¸Šï¼šå¤œ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05110_TOP
-;[debug_win]‚È‚¤@05110[debug_win_end]
-;*SceneSet|w“µ‚Ì”’x
+;[debug_win]ãªã†ã€€05110[debug_win_end]
+;*SceneSet|ã€ç³ã®å‘Šç™½ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05110 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05110 = 1"]
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 [fadeoutbgm time=500]
 
-;//SE:’‚Ì‰¹
+;//SE:è™«ã®éŸ³
 [se0 storage="se018" loop=true]
-;//SE:•—‚Ì‰¹
+;//SE:é¢¨ã®éŸ³
 [se1 storage="se019" loop=true]
 
 
@@ -22,8 +22,7 @@
 
 *4847|
 [fc]
-²”Œ‚ğ’Ç‚Á‚Ä‰®ã‚Öo‚½‰´‚ğ‘Ò‚Á‚Ä‚¢‚½‚Ì‚ÍAŒ¶‘z“I‚È[r]
-ŒõŒi‚¾‚Á‚½B[pcms]
+I followed Saeki and when I reached the rooftop, what[r]awaited me was a fantastical scene.[pcms]
 
 ;//EVENT_CG
 
@@ -38,100 +37,92 @@
 
 *4848|
 [fc]
-ƒtƒFƒ“ƒX‚ÉŠñ‚è‚©‚©‚Á‚½²”Œ‚Ì”’‚¢”§‚ªAŒ‚ÌŒõ‚ÉÆ‚ç[r]
-‚³‚ê‚ÄA‚æ‚èˆê‘w”’‚­‚È‚èA‚Ü‚é‚Å“§‚«’Ê‚Á‚Ä‚¢‚é‚©‚Ì[r]
-‚æ‚¤‚ÉŒ©‚¦‚éB[pcms]
+Saeki, leaning against the fence, her white skin illuminated[r]by the moonlight, became even whiter and appeared as if it[r]were transparent.[pcms]
 
 *4849|
 [fc]
-[ns]‰Á“¡[nse]
-uccccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦â€¦â€¦[l][er]
 
 *4850|
 [fc]
-Œ–¾‚©‚è‚Ì’†‚ÅAlŠÔ‚ğ‰z‚¦‚½‚æ‚¤‚È”ü‚µ‚³‚ğŒ©‚¹‚é²[r]
-”Œ‚ÉA‰´‚Í–£“ü‚ç‚ê‚½‚æ‚¤‚ÉAŒ©‚Æ‚ê‚Ä‚µ‚Ü‚Á‚Ä‚¢‚½B[pcms]
+I was captivated, as if under a spell, by Saeki's beauty[r]that surpassed that of a mere human, as she stood in the[r]moonlight, her white skin glowing and almost appearing[r]transparent.[pcms]
 
 *4851|
 [fc]
-–é‚É‚È‚Á‚Ä—â‚½‚­‚È‚Á‚½•—‚É‚©‚ê‚ÄA‰¡‚É‚È‚Ñ‚­’·‚¢[r]
-”¯‚ğ•¥‚¢A²”Œ‚ÍŒû‚ğŠJ‚¢‚½B[pcms]
+Saeki, lying down and brushing her long hair that swayed[r]beside her in the cold night breeze, opened her mouth.[pcms]
 
 *v2070|
 [fc]
 [vo_sa s="sae0364"]
-[ns]²”Œ[nse]
-u“ñl‚¾‚¯‚É‚È‚ê‚é‚Ì‚ğA‘Ò‚Á‚Ä‚¢‚½‚Ì‚Å‚·v[pcms]
+[ns]Saeki[nse]
+I was waiting for us to be alone together.[pcms]
 
 *4852|
 [fc]
-[ns]‰Á“¡[nse]
-uccHv[pcms]
+[ns]Kato[nse]
+...?[pcms]
 
 *v2071|
 [fc]
 [vo_sa s="sae0365"]
-[ns]²”Œ[nse]
-u‚¸‚Á‚ÆA‚ ‚È‚½‚ğŒ©‚Ä‚¢‚Ü‚µ‚½v[pcms]
+[ns]Saeki[nse]
+I've been watching you all along.[pcms]
 
 *4853|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦ccv[pcms]
+[ns]Kato[nse]
+Eh...[pcms]
 
 *v2072|
 [fc]
 [vo_sa s="sae0366"]
-[ns]²”Œ[nse]
-u‚ ‚È‚½‚ªD‚«v[pcms]
+[ns]Saeki[nse]
+I like you.[pcms]
 
 *4854|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *4855|
 [fc]
-²”Œ‚Ì‚ ‚Ü‚è‚É‚à“‚“Ë‚È”’‚ÉA‰´‚Í‚»‚ê‚ªA‚Æ‚Ä‚à–{[r]
-‹C‚¾‚Æ‚Ív‚¦‚È‚©‚Á‚½B[pcms]
+I couldn't believe that Saeki's sudden confession was[r]genuine.[pcms]
 
 *4856|
 [fc]
-‚à‚µ‚©‚µ‚ÄccB‚³‚Á‚«A˜L‰º‚Å‹Á‚©‚¹‚½d•Ô‚µ‚ÉA‰´[r]
-‚ğˆø‚Á‚©‚¯‚æ‚¤‚Æ‚µ‚Ä‚¢‚é‚ñ‚¶‚á‚È‚¢‚Ì‚©ccH[pcms]
+Could it be...? Is she trying to get back at me for[r]surprising her earlier in the hallway by teasing me...?[pcms]
 
 *v2073|
 [fc]
 [vo_sa s="sae0367"]
-[ns]²”Œ[nse]
-ucc„‚ÍA‰R‚È‚Ç‚Â‚¢‚Ä‚¢‚Ü‚¹‚ñv[pcms]
+[ns]Saeki[nse]
+... I haven't been lying.[pcms]
 
 *4857|
 [fc]
-‰´‚ª‹^‚Á‚Ä‚¢‚é‚Ì‚ğ“Ç‚İ‚Æ‚Á‚½‚©‚Ì‚æ‚¤‚ÉA²”Œ‚Í^Œ•[r]
-‚ÈŠç‚Å‚»‚¤Œ¾‚Á‚½B[pcms]
+Saeki said that with a serious expression, as if she had[r]understood my doubts.[pcms]
 
 *v2074|
 [fc]
 [vo_sa s="sae0368"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *4858|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *4859|
 [fc]
-¡‚Ü‚Å‚ÉA—‚Ìq‚Ì•û‚©‚çi‚à‚¿‚ë‚ñA©•ª‚©‚ç‚àj[r]
-”’‚³‚ê‚½‚±‚Æ‚ª‚È‚¢B[pcms]
+I've never been confessed to by a girl before (of course,[r]not even by myself).[pcms]
 
 *4860|
 [fc]
-³’¼A‰´‚Í‚Ç‚¤‚µ‚Ä‚¢‚¢‚©A‚í‚©‚ç‚È‚¢‚Å‚¢‚½B[r]
-‰½‚àŒ¾‚¤‚±‚Æ‚ª‚Å‚«‚¸A‚»‚Ì‚Ü‚Ü“Ë‚Á—§‚Á‚Ä‚¢‚é‚¾‚¯‚Ì[r]
-‰´‚ÉA²”Œ‚Í­‚µâ‚µ‚»‚¤‚É”÷Î‚İ‚©‚¯‚Ä‚¢‚½B[pcms]
+Honestly, I didn't know what to do.[l][er]
+I couldn't say anything and just stood there, frozen.[l][er]
+Saeki looked at me with a slightly lonely smile.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -145,18 +136,17 @@
 *v2075|
 [fc]
 [vo_sa s="sae0369"]
-[ns]²”Œ[nse]
-u•Ô–‚ÍA¡‚Å‚È‚­‚Ä‚à\‚¢‚Ü‚¹‚ñ‚©‚çccv[pcms]
+[ns]Saeki[nse]
+You don't have to answer right now...[pcms]
 
 *4861|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ccv[pcms]
+[ns]Kato[nse]
+Ah...[pcms]
 
 *4862|
 [fc]
-‚»‚ê‚¾‚¯Œ¾‚¤‚ÆA²”Œ‚Íˆê“x‚à‰´‚ğŒ©‚¸‚ÉA‰¡‚ğ‘‘«‚Å[r]
-’Ê‚è‰ß‚¬‚ÄAZÉ‚Ì’†‚Ö–ß‚Á‚Ä‚¢‚Á‚½B[pcms]
+After saying just that, Saeki walked past me quickly without[r]even looking at me and went back into the school building.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -171,31 +161,31 @@
 
 *4863|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *4864|
 [fc]
-‰´cc‚Ç‚¤‚·‚ê‚Î‚¢‚¢‚ñ‚¾‚ë‚¤ccB[pcms]
+What should I do...[pcms]
 
 *4865|
 [fc]
-²”Œ‚ªA‰´‚ªD‚«‚¾‚Á‚ÄccB[r]
-‚Å‚àA‰´‚ªD‚«‚È‚Ì‚ÍARŠİ‚³‚ñ‚¾ccB[pcms]
+Saeki said that she likes me...[l][er]
+But the one I like is Yamagishi-san...[pcms]
 
 *4866|
 [fc]
-RŠİ‚³‚ñ‚ÍA‹C‚É‚È‚é’j‚ª‚¢‚é‚Á‚ÄŒ¾‚Á‚Ä‚½ccB[r]
-²”Œ‚ÍA‰´‚Ì‚±‚Æ‚ğD‚«‚¾‚Á‚ÄŒ¾‚Á‚Ä‚­‚ê‚½ccB[pcms]
+Yamagishi-san said that she has a guy she's interested in...[l][er]
+Saeki told me that she likes me...[pcms]
 
 *4867|
 [fc]
-‚Ç‚¤‚·‚é‚Ì‚ªA³‰ğ‚È‚ñ‚¾‚ë‚¤ccB[r]
-‰´‚ÍA‚Ç‚¤‚·‚ê‚ÎccB[pcms]
+What is the right thing to do...[l][er]
+I wonder. What should I do...[pcms]
 
 *4868|
 [fc]
-‰´cc‰´‚ÍccB[pcms]
+I... I...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -203,7 +193,7 @@
 [bg storage="bg21c"]
 [trans_c cross time=500]
 
-;//SE:”à‚ğŠJ‚¯‚é
+;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
 [overflow_se storage="se008"]
 
 
@@ -211,21 +201,21 @@
 
 *4869|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *4870|
 [fc]
-o“ü‚èŒû‚ÌƒhƒA‚Ì•Â‚Ü‚é‰¹‚Å‰ä‚É•Ô‚Á‚½‰´‚ÍA“š‚¦‚ªo[r]
-‚¹‚È‚¢‚Ü‚ÜA‚Æ‚è‚ ‚¦‚¸²”Œ‚ğ’Ç‚Á‚Ä‘–‚Á‚½B[pcms]
+Startled by the sound of the door closing at the entrance, I[r]snapped back to reality.[l][er]
+Without being able to give an answer, I chased after Saeki[r]for the time being.[pcms]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 [se0 storage="se005"]
 
 ;;;[sysbt_meswin clear]
 
 
-;//ôFBGM010ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM010ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 [fadeoutbgm time=500]
 [stop_se0]
 [stop_se1]
@@ -235,5 +225,5 @@
 
 ;//blackout
 
-;//[05120]‚Ö
+;//[05120]ã¸
 [jump target=*05120_TOP storage="05120.ks"]

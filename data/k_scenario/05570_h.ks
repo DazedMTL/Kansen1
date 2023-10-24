@@ -1,14 +1,14 @@
 
-;//¡ËƒuƒƒbƒN05570w’n‰º‚Qx
-;//BG:’n‰ººF“_“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05570ã€åœ°ä¸‹ï¼’ã€
+;//BG:åœ°ä¸‹å®¤ï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05570_H_TOP
-;[debug_win]‚È‚¤@05570_H[debug_win_end]
+;[debug_win]ãªã†ã€€05570_H[debug_win_end]
 
-;*SceneSet|w’n‰º‚Qx
+;*SceneSet|ã€åœ°ä¸‹ï¼’ã€
 
-;//ôFBGM010ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM010ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 
 [bgm004]
 
@@ -17,70 +17,67 @@
 ;//[bg storage="bg23a"]
 ;//[trans_c cross time=500]
 
-;//´…—ªŒp‘±’†‚É‚Â‚«A‚»‚Ì‚Ü‚Ü
+;//æ¸…æ°´ï¼ â†‘ç¶™ç¶šä¸­ã«ã¤ãã€ãã®ã¾ã¾
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05570 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05570 = 1"]
 
 *5713|
 [fc]
-[ns]‰Á“¡[nse]
-u²”Œccv[pcms]
+[ns]Kato[nse]
+Saeki...[pcms]
 
 *5714|
 [fc]
-ãX‚µ‚­‚Ó‚é‚í‚¹‚Ä‚¢‚é×‚¢Œ¨‚Éè‚ğ‰ñ‚µA‰´‚Í²”Œ‚ğ[r]
-•ø‚«‚µ‚ß‚½B[pcms]
+I wrapped my arms around Saeki, who had weakly trembling[r]slender shoulders, and embraced her.[pcms]
 
 *5715|
 [fc]
-k‚¦‚é²”Œ‚ğŒ©‚ÄA‰´‚Íğ“ú‚Ì–‚ğv‚¢o‚µ‚Ä‚¢‚½B[pcms]
+As I looked at the trembling Saeki, I was reminded of what[r]happened yesterday.[pcms]
 
 *5716|
 [fc]
-²”Œ‚©‚ç‚Ì”’B[pcms]
+Saeki's confession.[pcms]
 
 *5717|
 [fc]
-‚Ü‚¾‰´‚ÍA•Ô–‚ğ•Ô‚µ‚Ä‚¢‚È‚©‚Á‚½B[pcms]
+I still hadn't given her an answer.[pcms]
 
 *5718|
 [fc]
-‚±‚ñ‚È‚¾‚©‚çcc‚Å‚Í‚È‚¢‚¯‚ê‚ÇccB[pcms]
+Even though it's not the right time...[pcms]
 
 *5719|
 [fc]
-cc‰´‚ÍA²”Œ‚ªD‚«‚È‚ñ‚¾B[pcms]
+... I love Saeki.[pcms]
 
 *5720|
 [fc]
-‚±‚ñ‚È–ó‚Ì•ª‚©‚ç‚È‚¢ó‹µ‚É‚È‚Á‚ÄA[r]
-‚â‚Á‚Æ‹C‚ª•t‚¢‚½ccB[pcms]
+In this incomprehensible situation, I finally realized...[pcms]
 
 *5721|
 [fc]
-“s‡‚Ì‚¢‚¢’j‚Æv‚í‚ê‚é‚©‚à‚µ‚ê‚È‚¢B[pcms]
+I might be seen as a convenient guy.[pcms]
 
 *5722|
 [fc]
-‚Å‚àA‚±‚ñ‚È–‚ÅA²”Œ‚ÉŒ³‹C‚ª‚à‚Ç‚é‚Ì‚È‚çccB[pcms]
+But if it means Saeki will regain her energy like this...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2391|
 [fc]
 [vo_sa s="sae0549"]
-[ns]²”Œ[nse]
-u‚®‚·ccv[pcms]
+[ns]Saeki[nse]
+*sniffle*...[pcms]
 
 *5723|
 [fc]
-—Ü‚ÅƒOƒVƒƒƒOƒVƒƒ‚É‚È‚Á‚½Šç‚ÅŒ©ã‚°‚é²”Œ‚ÉA‰´‚Í—Í[r]
-‹­‚­AƒnƒbƒLƒŠ‚ÆA©•ª‚Ì‘z‚¢‚ğŒû‚É‚µ‚½B[pcms]
+I looked up at Saeki, her face soaked with tears, and firmly[r]and clearly expressed my feelings.[pcms]
 
 *5724|
 [fc]
-[ns]‰Á“¡[nse]
-ucc‰´A²”Œ‚ªD‚«‚¾v[pcms]
+[ns]Kato[nse]
+... I love Saeki.[pcms]
 
 [fadeoutbgm time=500]
 
@@ -89,58 +86,54 @@
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2392|
 [fc]
 [vo_sa s="sae0550"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *5725|
 [fc]
-[ns]‰Á“¡[nse]
-u‚±‚ñ‚È‚ÉA”’‚Ì•Ô–‚ğ‚·‚é‚Ì‚àƒAƒŒ‚¾‚¯‚ÇccB[r]
-²”Œ‚Ì‹ƒ‚­Šç‚ÍA‚à‚¤Œ©‚½‚­‚È‚¢‚ñ‚¾v[pcms]
+[ns]Kato[nse]
+It might not be the right time to give you an answer to your[r]confession...[l][er]
+But I don't want to see Saeki crying anymore.[pcms]
 
 *5726|
 [fc]
-Œ©‚Â‚ß‚Ä‚­‚éA—Ü‚Å”G‚ê‚½²”Œ‚Ì–Ú‚ğA‰´‚Í^‚Á’¼‚®‚É[r]
-Œ©‚Â‚ß•Ô‚µ‚½B[pcms]
+I looked straight into Saeki's eyes, wet with tears, as she[r]stared at me.[pcms]
 
 *5727|
 [fc]
-[ns]‰Á“¡[nse]
-u²”Œ‚ª”ß‚µ‚Ü‚­‚ÄÏ‚Ş‚æ‚¤‚ÉA‚±‚ê‚©‚ç‚ÍA[r]
-‰´‚ª‚¸‚Á‚Æ‚¨‘O‚ğç‚év[pcms]
+[ns]Kato[nse]
+In order for Saeki to stop being so sad, from now on, I will[r]protect you forever.[pcms]
 
 *5728|
 [fc]
-‰´‚Ì”’‚ÉA²”Œ‚ÍŒ©‚Â‚ß‚Ä‚¢‚½–Ú‚ğA‚İ‚é‚İ‚é‚¤‚¿‚É[r]
-—Ü‚Å‚¢‚Á‚Ï‚¢‚É‚µ‚½B[pcms]
+Saeki's eyes, which were fixed on my confession, quickly[r]filled with tears.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 [bgm010]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2393|
 [fc]
 [vo_sa s="sae0551"]
-[ns]²”Œ[nse]
-ucc‚¤‚£‚Ácc‚¤‚ ‚ ‚Ÿ‚Ÿ‚ñcc‚ÁIIv[pcms]
+[ns]Saeki[nse]
+... Uuuh... Uwaaaahhh...!![pcms]
 
 *5729|
 [fc]
-‚Ü‚½‹¹‚ÉŠç‚ğ–„‚ßA‹ƒ‚«‚¶‚á‚­‚é²”Œ‚ğA‰´‚Í‚µ‚Á‚©‚è[r]
-‚Æ•ø‚«‚µ‚ß‚½B[pcms]
+I buried my face in Saeki's chest again and tightly embraced[r]her as she sobbed.[pcms]
 
 ;//blackout
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05580]‚Ö
+;//[05580]ã¸
 [jump target=*05580_H_TOP storage="05580_H.ks"]
 
 

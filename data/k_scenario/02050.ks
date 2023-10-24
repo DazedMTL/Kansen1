@@ -1,24 +1,24 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02050w—‰Èºx
-;//BG:“Áê‹³ºF˜L‰ºF–éFÁ“”
-;//“oêl•¨GålŒöE—D
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02050ã€ç†ç§‘å®¤ã€
+;//BG:ç‰¹æ®Šæ•™å®¤ï¼šå»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02050_TOP
-;[debug_win]‚È‚¤@02050[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02050 = 1"]
+;[debug_win]ãªã†ã€€02050[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02050 = 1"]
 
-;*SceneSet|w—‰Èºx
+;*SceneSet|ã€ç†ç§‘å®¤ã€
 
 ;//[02050]
 
-;//flag:—‰Èº‘O‚Å—D‚Æ‰ï˜b
+;//flag:ç†ç§‘å®¤å‰ã§å„ªã¨ä¼šè©±
 
 [eval exp="f.yuu_talk_on = 1"]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//BG:bg005d
 
@@ -30,179 +30,171 @@
 
 *1338|
 [fc]
-[ns]‰Á“¡[nse]
-u‹’®Šoº‚Ì‹ß‚­‚È‚Ì‚ÉA’²‚×‚Ä‚¢‚©‚È‚©‚Á‚½‚ñ‚¾‚ÈA[r]
-²”Œ‚Ì“zv[pcms]
+[ns]Kato[nse]
+Even though it's near the audiovisual room, Saeki didn't[r]bother to investigate.[pcms]
 
 *1339|
 [fc]
-ŒuŒõ“”‚ª“_‚¢‚Ä‚¢‚È‚¢“Vˆä‚ğŒ©‚È‚ª‚çA‰´’B‚Í—‰Èº‚Ö[r]
-‚Æ•à‚¢‚½B[pcms]
+While looking at the ceiling where the fluorescent lights[r]were not turned on, we walked towards the science room.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v578|
 [fc]
 [vo_ya s="yama0102"]
-[ns]RŠİ[nse]
-u‘½•ªA“d‹C‚ÌƒXƒCƒbƒ`‚ªAˆê”Ô’[‚Á‚±‚É‚ ‚é‚©‚ç‚¶‚á[r]
-‚È‚¢‚©‚Èv[pcms]
+[ns]Yamagishi[nse]
+Maybe the light switch is at the very end.[pcms]
 
 *1340|
 [fc]
-RŠİ‚³‚ñ‚ª‹êÎ‚µ‚È‚ª‚çA‰´’B‚ª‚³‚Á‚«‚Ü‚Å‚¢‚½•û‚ğU[r]
-‚è•Ô‚éB[pcms]
+Yamagishi-san chuckled and turned back towards the direction[r]we were just in.[pcms]
 
 *1341|
 [fc]
-‚Ç‚±‚Ü‚Å‹°‚ª‚è‚È‚ñ‚¾‚æA²”ŒccB[pcms]
+How much of a scaredy-cat are you, Saeki...?[pcms]
 
 *1342|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚êA“d‹C‚ª“_‚¢‚Ä‚È‚¢‚Èccv[pcms]
+[ns]Kato[nse]
+Huh, the lights aren't on...[pcms]
 
 *1343|
 [fc]
-—‰Èº‚Ì‘O‚Ü‚Å—ˆ‚½‚ªA’†‚Í“d‹C‚ª“_‚¢‚Ä‚¢‚È‚¢B[r]
-‚¢‚Â‚à‚È‚çAV“¹æ¶‚ª€”õº‚É‚¢‚é‚ÍA—‰Èº‚Ì“d[r]
-‹C‚à“_‚¢‚Ä‚¢‚é‚ñ‚¾‚¯‚ÇccB[pcms]
+We arrived in front of the science room, but the lights[r]inside were not turned on.[l][er]
+Usually, when Shindou-sensei is in the preparation room, the[r]lights in the science room are also on...[pcms]
 
 *1344|
 [fc]
-[ns]‰Á“¡[nse]
-uæ¶A‚à‚¤d–I‚í‚Á‚½‚Ì‚©‚Èccv[pcms]
+[ns]Kato[nse]
+I wonder if the teacher has already finished their work...[pcms]
 
-;//SE:”à‚ğŠJ‚¯‚é
+;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
 [se0 storage="se008"]
 
-;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
+;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
 [bg storage="bg18d"]
 [trans_c cross time=500]
 
 *1345|
 [fc]
-—‰Èº‚Ì’†‚ği‚İA—‰È€”õº‚ÌƒhƒA‚ğŠJ‚¯‚½B[r]
-‚µ‚©‚µA’†‚Í^‚ÁˆÃ‚ÅV“¹æ¶‚Í‚¢‚È‚©‚Á‚½B[pcms]
+We proceeded through the science room and opened the door to[r]the science preparation room.[l][er]
+However, it was pitch black inside and Shindou-sensei was[r]not there.[pcms]
 
 *1346|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ê[ccv[pcms]
+[ns]Kato[nse]
+Huh...[pcms]
 
 [bg storage="bg08c"]
 [trans_c cross time=500]
 
 *1347|
 [fc]
-—‰Èº‚ğo‚ÄA‚»‚Î‚Ì•”‰®‚É“d‹C‚ª“_‚¢‚Ä‚¢‚È‚¢‚©Œ©‰ñ[r]
-‚µ‚Ä‚İ‚é‚ªA‚Ç‚Ì•”‰®‚àˆÃ‚¢‚Ü‚Ü‚¾B•¨‰¹‚à‘S‚­•·‚±‚¦[r]
-‚È‚¢B[pcms]
+We left the science room and looked around the nearby rooms[r]to see if the lights were on, but all the rooms were still[r]dark.[l][er]
+We couldn't hear any sound either.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v579|
 [fc]
 [vo_ya s="yama0103"]
-[ns]RŠİ[nse]
-u‚¢‚È‚©‚Á‚½‚ËAV“¹æ¶v[pcms]
+[ns]Yamagishi[nse]
+Shindou-sensei wasn't there, huh, Yamagishi-san.[pcms]
 
 *1348|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤‚ñccB‘¼‚Ì•”‰®‚É‚à‚¢‚È‚¢‚İ‚½‚¢‚¾‚µA‚ ‚Á‚¿‘¤[r]
-‚És‚Á‚½‚Ì‚©‚È‚Ÿv[pcms]
+[ns]Kato[nse]
+Yeah... It seems like they're not in any other rooms either.[l][er]
+I wonder if they went to the other side.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v580|
 [fc]
 [vo_ya s="yama0104"]
-[ns]RŠİ[nse]
-u•’Ê‚Ì‹³º‚Ì•ûH@‚¤[‚ñccv[pcms]
+[ns]Yamagishi[nse]
+The regular classrooms? Hmm...[pcms]
 
 *1349|
 [fc]
-[ns]‰Á“¡[nse]
-uƒgƒCƒŒ‚É‚Å‚às‚Á‚Ä‚é‚Ì‚©‚à‚È[B‚¿‚å‚Á‚Æs‚Á‚Ä‚İ[r]
-‚æ‚¤‚©B‚Â‚¢‚Å‚ÉAƒEƒ“ƒR˜R‚ç‚µ‚Ä‚é^–ç‚ªŒ©‚Â‚©‚é‚©[r]
-‚à‚µ‚ê‚È‚¢‚µv[pcms]
+[ns]Kato[nse]
+Maybe they went to the bathroom or something.[l][er]
+Let's go check it out. And who knows, we might even find[r]Shinya taking a dump.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *1350|
 [fc]
-‚ A‚µ‚Ü‚Á‚½cc‚Â‚¢ƒEƒ“ƒR‚Á‚ÄccB[pcms]
+Ah, shoot... I accidentally said poop...[pcms]
 
 *1351|
 [fc]
-‚±‚êA—‚Ìq‚É‚Æ‚Á‚Ä‚Í‰ºƒlƒ^‚¾‚æ‚ÈB‰´ARŠİ‚³‚ñ‚É[r]
-”’‚¢–Ú‚ÅŒ©‚ç‚ê‚½‚ñ‚¶‚áccB[pcms]
+This is dirty talk for girls, isn't it?[l][er]
+I'm afraid Yamagishi-san will look at me with disdain...[pcms]
 
 *1352|
 [fc]
-‰´‚Í‹°‚é‹°‚éARŠİ‚³‚ñ‚ğ‰¡–Ú‚ÅŒ©‚½B[pcms]
+I cautiously glanced at Yamagishi-san out of the corner of[r]my eye.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;//—™ŸºF’|“à‚³‚ñ¨’|“àŒN
+;//ï¼ æ‰æ¸•ï¼šç«¹å†…ã•ã‚“â†’ç«¹å†…å›
 
-;—§‚¿
+;ç«‹ã¡
 
 *v581|
 [fc]
 [vo_ya s="yama0105"]
-[ns]RŠİ[nse]
-u‚ ‚Á‚Í‚ÍI@˜R‚ç‚µ‚Ä‚é‚Á‚Äcc‚Ó‚Ó‚ÁccI@‚È‚ñ[r]
-‚Å‚æ`A‚ ‚Í‚Í‚ÁI@’|“àŒN‚ÄA‚¨• ã‚¢lHv[pcms]
+[ns]Yamagishi[nse]
+Ahaha! So you're saying he's pooping...[l][er]
+hahaha! Why, oh why~ Ahaha! Takeuchi-kun, do you have a weak[r]stomach?[pcms]
 
 *1353|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚ [A‚¤‚ñA‚¿‚å‚Á‚Æ‚ËB‚¾‚©‚çŠÔ‚É‡‚í‚È‚©‚Á[r]
-‚½‚ñ‚¶‚á‚È‚¢‚©‚Èv[pcms]
+[ns]Kato[nse]
+Ah, um, yeah, well, you see...[l][er]
+I think that's why we didn't make it in time.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v582|
 [fc]
 [vo_ya s="yama0106"]
-[ns]RŠİ[nse]
-u‚ ‚Í‚ÁAŠÔ‚É‡‚í‚È‚©‚Á‚½‚ñ‚¾`A‚ ‚Í‚ÍIv[pcms]
+[ns]Yamagishi[nse]
+Ahaha, we didn't make it in time~ Ahaha![pcms]
 
 *1354|
 [fc]
-[ns]‰Á“¡[nse]
-uƒnƒnccv[pcms]
+[ns]Kato[nse]
+Haha...[pcms]
 
 *1355|
 [fc]
-ˆÓŠO‚Æ‚µ‚å[‚à‚È‚¢‰ºƒlƒ^‚ÅƒEƒP‚é‚ñ‚¾‚ÈA[r]
-RŠİ‚³‚ñ‚ÄccB[pcms]
+Yamagishi-san, you surprisingly find those silly dirty jokes[r]funny, huh...[pcms]
 
 
 ;;;[sysbt_meswin clear]
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[02051]‚Ö
+;//[02051]ã¸
 [jump target=*02051_TOP storage="02051.ks"]
 

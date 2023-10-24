@@ -1,23 +1,23 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//;//¡ËƒuƒƒbƒN09020w“µ‚ÌŒˆˆÓx
-;//BGFƒoƒX’â
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯09020ã€ç³ã®æ±ºæ„ã€
+;//BGï¼šãƒã‚¹åœ
 
-;//;//“oêl•¨F“µ
-;//‚±‚ÌƒuƒƒbƒN‚Ìƒ{ƒCƒXƒtƒ@ƒCƒ‹‚Í@¦ƒ}[ƒN‚ÌŒã‚ë‚ÌNo
-;//.‚ğg—p‚µ‚Ä‰º‚³‚¢B
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;//;//ç™»å ´äººç‰©ï¼šç³
+;//ã“ã®ãƒ–ãƒ­ãƒƒã‚¯ã®ãƒœã‚¤ã‚¹ãƒ•ã‚¡ã‚¤ãƒ«ã¯ã€€â€»ãƒãƒ¼ã‚¯ã®å¾Œã‚ã®No
+;//.ã‚’ä½¿ç”¨ã—ã¦ä¸‹ã•ã„ã€‚
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *09020_TOP
-;[debug_win]‚È‚¤@09020[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_09020 = 1"]
+;[debug_win]ãªã†ã€€09020[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_09020 = 1"]
 
-;*SceneSet|w“µ‚ÌŒˆˆÓx
+;*SceneSet|ã€ç³ã®æ±ºæ„ã€
 
 ;//;//[09000]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 [bgm001]
 ;//;//BG:bg19
 [bg storage="bg19"]
@@ -28,122 +28,119 @@
 
 *10814|
 [fc]
-¡“ú‚©‚çAŠF‚³‚ñ‚Æˆê‚ÌccB[r]
-w‚ ‚Ìlx‚Æˆê‚Ì‡hccB[pcms]
+From today, together with everyone...[l][er]
+A training camp with that person...[pcms]
 
 *10815|
 [fc]
-–{“–‚ÍAQ‚éŠ‚à‚È‚¢—l‚ÈŠ‚É‚Ícc‚»‚ê‚ÉA–é‚Ìcc[r]
-Šw‰€‚Å‚Ì‡h‚È‚ñ‚ÄccQ‰Á‚µ‚½‚­‚È‚©‚Á‚½ccB[pcms]
+Honestly, I didn't want to participate in a training camp at[r]a place where there's no place to sleep...[l][er]
+and especially not at the school at night...[pcms]
 
 *10816|
 [fc]
-‚Å‚àAw‚ ‚Ìlx‚ª‚¢‚é‚©‚çccB[pcms]
+But, because that person is there...[pcms]
 
 *v4002|
 [fc]
 [vo_sa s="sae1335"]
-[ns]²”Œ[nse]
-u‚Ó‚Óccv[pcms]
+[ns]Saeki[nse]
+Hehe...[pcms]
 
-;//¦sae1335.wav
+;//â€»sae1335.wav
 
 *10817|
 [fc]
-‚¨‚©‚µ‚È‚à‚Ì‚¾‚íccB[pcms]
+It's a strange thing...[pcms]
 
 *10818|
 [fc]
-w‚ ‚Ìlx‚ª‚¢‚é‚Æv‚¤‚¾‚¯‚ÅAwŒ™‚¾x‚Æ‚©A[r]
-w•|‚¢x‚Æ‚¢‚¤–‚È‚ÇA–Y‚ê‚Ä‚µ‚Ü‚¢‚»‚¤ccB[pcms]
+Just thinking that that person is there makes me forget[r]about things like I don't want to or I'm scared...[pcms]
 
 *10819|
 [fc]
-‚¸‚Á‚ÆA‘f’¼‚É‚È‚ê‚È‚©‚Á‚½‚¯‚ÇccB[r]
-¡‰ñ‚Ì‡h‚Å‚ÍccB[pcms]
+I've never been able to be honest...[l][er]
+But in this training camp...[pcms]
 
 *10820|
 [fc]
-cc¡‚Ü‚Å‚Ì„‚Ì‘Ô“xccw‚ ‚Ìlx‚Ì„‚Ö‚ÌˆóÛ‚Í[r]
-—Ç‚­‚È‚¢cc‚Å‚µ‚å‚¤‚ËccB[pcms]
+... My attitude up until now...[l][er]
+I'm sure the impression of me from that person is not[r]good...[pcms]
 
 *10821|
 [fc]
-‚à‚Á‚Æ‘‚­ccw„x‚ª‘f’¼‚É‚È‚Á‚Ä‚³‚¦‚¢‚ê‚ÎccB[pcms]
+If only I had been more honest...[pcms]
 
 *v4003|
 [fc]
 [vo_sa s="sae1336"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
-;//¦sae1336.wav
+;//â€»sae1336.wav
 
 *10822|
 [fc]
-—á‚¦’f‚ç‚ê‚½‚Æ‚µ‚Ä‚àA„‚Ì‹¹‚Ì“à‚ğw‚ ‚Ìlx‚É“`‚¦[r]
-‚½‚¢ccB[pcms]
+Even if I were to be rejected, I want to convey my feelings[r]to 'that person' deep in my heart...[pcms]
 
 *10823|
 [fc]
-„‚Ì‘z‚¢A“`‚í‚é‚©‚µ‚çB‚»‚ê‚Æ‚à’f‚ç‚ê‚Ä‚µ‚Ü‚¤‚©‚µ[r]
-‚çccB[pcms]
+I wonder if my feelings will be conveyed.[l][er]
+Or will they be rejected...[pcms]
 
 *v4004|
 [fc]
 [vo_sa s="sae1337"]
-[ns]²”Œ[nse]
-ucc‚Ó‚ÓccB„A©•ªŸè‚Ëccv[pcms]
+[ns]Saeki[nse]
+... Hehe... I'm so selfish...[pcms]
 
-;//¦sae1337.wav
+;//â€»sae1337.wav
 
 *10824|
 [fc]
-w‚ ‚Ìlx‚ÉA–À˜f‚ğ‚©‚¯‚Ä‚µ‚Ü‚¤‚©‚à’m‚ê‚È‚¢‚Æ‚¢‚¤[r]
-‚Ì‚ÉB‚à‚µ‚©‚·‚é‚ÆA“ñ“x‚ÆŒû‚ğ’®‚¢‚Ä‚à‚ç‚¦‚È‚¢‚©‚à[r]
-’m‚ê‚È‚¢B[pcms]
+Even though I might end up causing trouble for 'that[r]person'.[l][er]
+There's a possibility that they might never listen to me[r]again.[pcms]
 
 *10825|
 [fc]
-cc‚Å‚àAŒ¾‚í‚¸‚É‚Í‚¢‚ç‚ê‚È‚¢B[pcms]
+... But I can't help but say it.[pcms]
 
 *10826|
 [fc]
-‰½‚©A‚«‚Á‚©‚¯‚ª—L‚ê‚ÎccŒ¾‚¦‚éccB[pcms]
+If there's some kind of trigger...[l][er]
+I can say it...[pcms]
 
 *v4005|
 [fc]
 [vo_sa s="sae1338"]
-[ns]²”Œ[nse]
-u‚»‚¤A‰½‚©‚«‚Á‚©‚¯‚³‚¦—L‚ê‚Îccv[pcms]
+[ns]Saeki[nse]
+Yes, if only there was some kind of trigger...[pcms]
 
-;//¦sae1338.wav
+;//â€»sae1338.wav
 
 *10827|
 [fc]
-©•ªŸè‚¾‚Æ•ª‚©‚Á‚Ä‚¢‚Ä‚àB[pcms]
+Even though I know it's selfish of me.[pcms]
 
 *10828|
 [fc]
-‚à‚¤‚±‚êˆÈãA‘f’¼‚É‚È‚ê‚È‚¢‚ÅccŒ™‚È—‚¾‚Æv‚í[r]
-‚ê‚½‚Ü‚Ü‚Ícc‘Ï‚¦‚ç‚ê‚È‚¢B[pcms]
+I can't be honest anymore... I can't bear being thought of[r]as a disliked woman...[pcms]
 
 *10829|
 [fc]
-‚Ç‚¤‚¹‚È‚ç‚ÎA‘z‚¢‚ğ“`‚¦‚ÄccB[pcms]
+If possible, I want to convey my feelings...[pcms]
 
 *10830|
 [fc]
-cc’f‚ç‚ê‚Ä‚àA\‚í‚È‚¢B[r]
-Œ‹‰ÊAŒ™‚í‚ê‚Ä‚µ‚Ü‚Á‚Ä‚àA\‚í‚È‚¢B[pcms]
+... Even if I were to be rejected, it doesn't matter.[l][er]
+Even if the outcome is that I end up being disliked, it[r]doesn't matter.[pcms]
 
 *10831|
 [fc]
-w¡“ú‚±‚»A‰Á“¡‚³‚ñ‚É”’‚·‚éx[pcms]
+Today, I will confess to Kato-san.[pcms]
 
 *10832|
 [fc]
-‚»‚¤S‚ÉŒˆ‚ßA‘Ò‚¿‡‚í‚¹‚ÌêŠ‚ÉŒü‚©‚¢A‘–‚èo‚·B[pcms]
+With that decision in my heart, I head towards the meeting[r]place and start running.[pcms]
 
 
 ;;;[sysbt_meswin clear]
@@ -156,5 +153,5 @@
 
 ;;;[sysbt_meswin]
 
-;//;//[0013]‚Ö
+;//;//[0013]ã¸
 [jump target=*0013_TOP storage="0013.ks"]

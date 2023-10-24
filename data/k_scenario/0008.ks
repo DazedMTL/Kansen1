@@ -1,15 +1,15 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//;//¡ƒuƒƒbƒN0008w‰Ä‹x‚İx
-;//BGF–³‚µF•‰æ–Ê
-;//;//“oêl•¨G–³‚µFålŒö‚Ì“Æ”’
-;//;//[‰Ä‹x‚İ“Ë“ü]
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//;//â– ãƒ–ãƒ­ãƒƒã‚¯0008ã€å¤ä¼‘ã¿ã€
+;//BGï¼šç„¡ã—ï¼šé»’ç”»é¢
+;//;//ç™»å ´äººç‰©ï¼›ç„¡ã—ï¼šä¸»äººå…¬ã®ç‹¬ç™½
+;//;//[å¤ä¼‘ã¿çªå…¥]
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *0008_TOP
-;[debug_win]‚È‚¤@0008[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0008 = 1"]
+;[debug_win]ãªã†ã€€0008[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0008 = 1"]
 
 [eval exp="f.prologue_route = 1"]
 [eval exp="f.yuu_route1 = 0"]
@@ -22,11 +22,11 @@
 [eval exp="f.hitomi_route4 = 0"]
 [eval exp="f.infection_route = 0"]
 
-;*SceneSet|w‰Ä‹x‚İx
+;*SceneSet|ã€å¤ä¼‘ã¿ã€
 
-;//ôF–³‰¹
+;//â™ªï¼šç„¡éŸ³
 [fadeoutbgm time=500]
-;//;//BG:–³‚µ
+;//;//BG:ç„¡ã—
 [bg storage="effect_black"][trans_c cross time=301]
 
 
@@ -35,36 +35,34 @@
 
 *234|
 [fc]
-‰Ä‹x‚İ‚É“ü‚Á‚Ä“ñTŠÔ‚ª‰ß‚¬A¡“ú‚Í‚¢‚æ‚¢‚æA‘Ò‚¿‚É[r]
-‘Ò‚Á‚½‰f‰æŠÓÜ‰ïccB[pcms]
+Two weeks have passed since the start of summer vacation,[r]and today is finally the long-awaited movie screening[r]event...[pcms]
 
 *235|
 [fc]
-—‚Ìq‚ÉˆÍ‚Ü‚ê‚½A‚È‚©‚È‚©‚È‚¢‹@‰ï‚ÉS‚ª–ô‚éB[r]
-cce—F‚Æ‚ÍŒ¾‚¦A’j‚àˆê‚¾‚ªccB[pcms]
+My heart is filled with excitement at the rare opportunity[r]of being surrounded by girls...[l][er]
+Even though they are my close friends, there will also be[r]guys...[pcms]
 
 *236|
 [fc]
-‹v‚µ‚Ô‚è‚É‰ï‚¤RŠİ‚³‚ñ‚ÍA‚Ç‚ñ‚ÈƒJƒ“ƒW‚¾‚ë‚¤B[r]
-‚¿‚å‚Á‚Æ•Ï‚í‚Á‚Ä‚½‚è‚·‚é‚Ì‚¾‚ë‚¤‚©B[r]
-²”Œ‚à­‚µ‹C‚É‚È‚éB[pcms]
+I wonder what Yamagishi-san, whom I haven't seen in a while,[r]will be like.[l][er]
+I wonder if she has changed a bit.[l][er]
+Saeki is also a little intriguing.[pcms]
 
 *237|
 [fc]
-‚Å‚àccB[r]
-²”Œ‚Í‚»‚ñ‚È‚É•Ï‚í‚Á‚Ä‚È‚³‚»‚¤ccB[pcms]
+But... Saeki doesn't seem to have changed that much...[pcms]
 
 *238|
 [fc]
-’W‚¢Šú‘Ò‚É‹¹‚ğ–ô‚ç‚¹‚È‚ª‚çA‰´‚Í‰Æ‚ğ”ò‚Ño‚µ‚½B[pcms]
+Filled with faint anticipation, I dashed out of the house.[pcms]
 
-;//¦ğŒ•ªŠò
-;//Eflag:—Dƒ‹[ƒgƒNƒŠƒA{flag:“µƒ‹[ƒgƒNƒŠƒA@flag‚Ì
-;//‚¢‚¸‚ê‚©‚ªON‚Ì[09000]‚Ö
-;//Eflag:—Dƒ‹[ƒgƒNƒŠƒAAflag:“µƒ‹[ƒgƒNƒŠƒA@‚Ç‚¿‚ç
-;//‚àOFF‚Ì[0009]‚Ö
+;//â€»æ¡ä»¶åˆ†å²
+;//ãƒ»flag:å„ªãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ï¼‹flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€flagã®
+;//ã„ãšã‚Œã‹ãŒONã®æ™‚[09000]ã¸
+;//ãƒ»flag:å„ªãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ã©ã¡ã‚‰
+;//ã‚‚OFFã®æ™‚[0009]ã¸
 
-;//´…—ğŒ•ªŠò
+;//æ¸…æ°´ï¼ æ¡ä»¶åˆ†å²
 [if exp="sf.g_yuu_clear==1 || sf.g_hitomi_clear==1"]
 	[jump target=*09000_TOP storage="09000.ks"]
 [endif]

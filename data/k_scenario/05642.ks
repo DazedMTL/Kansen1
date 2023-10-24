@@ -1,21 +1,21 @@
 
-;//¡ËƒuƒƒbƒN05642w•¨‰¹x
-;//;//BG:’n‰ººFÁ“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05642ã€ç‰©éŸ³ã€
+;//;//BG:åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
-;//¦05643‚©‚ç05649‚Ü‚ÅŒ‡”Ô
+;//â€»05643ã‹ã‚‰05649ã¾ã§æ¬ ç•ª
 
 *05642_TOP
-;[debug_win]‚È‚¤@05642[debug_win_end]
-;*SceneSet|w•¨‰¹x
+;[debug_win]ãªã†ã€€05642[debug_win_end]
+;*SceneSet|ã€ç‰©éŸ³ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05642 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05642 = 1"]
 
-;//flag:“µ‚Æˆê‚ÉH—¿‚ğ
+;//flag:ç³ã¨ä¸€ç·’ã«é£Ÿæ–™ã‚’
 
 [eval exp="f.TOGETHER = 1"]
 ;	/*
-;	;//ôFBGM007
+;	;//â™ªï¼šBGM007
 ;	[bgm007]
 ;	
 ;	;//;//BG:bg23b
@@ -28,15 +28,14 @@
 
 *5981|
 [fc]
-•sˆÀ‚»‚¤‚ÈŠç‚ğ‚±‚¿‚ç‚ÉŒü‚¯‚Ä‚¢‚é²”Œ‚ÉA‰´‚Í‚¤‚È‚¸[r]
-‚¢‚Ä‚İ‚¹‚½B[pcms]
+I nodded at Saeki, who was looking at me with an uneasy[r]expression.[pcms]
 
 *5982|
 [fc]
-²”Œ‚ªŠğ‚µ‚»‚¤‚É”÷Î‚ñ‚ÅA‚¤‚È‚¸‚¢‚½‚»‚ÌuŠÔA“ª‚Ì[r]
-ã‚Å‰½‚©•¨‚ª—‚¿‚é‚æ‚¤‚È‰¹‚ª‚µ‚½B[pcms]
+Saeki smiled happily and nodded, but at that moment, there[r]was a sound as if something had fallen on top of my head.[pcms]
+[l][er]
 
-;//SE:ƒJƒ^ƒbi•Ç‚ÌŒü‚±‚¤‚©‚çj
+;//SE:ã‚«ã‚¿ãƒƒï¼ˆå£ã®å‘ã“ã†ã‹ã‚‰ï¼‰
 [se0 storage="se049"]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
@@ -44,56 +43,55 @@
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2480|
 [fc]
 [vo_sa s="sae0639"]
-[ns]²”Œ[nse]
-uIIv[pcms]
+[ns]Saeki[nse]
+!![pcms]
 
 *5983|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *5984|
 [fc]
-‰½‚¾ccH@¡‚Ì‰¹ccB[r]
-‚â‚Á‚Ï‚èA‚Ü‚¾‚ ‚¢‚Â‚ç‚ª‚¢‚½‚Ì‚©ccH[pcms]
+What was that...? The sound just now...[l][er]
+Could it be that they're still here...?[pcms]
 
 *5985|
 [fc]
-[ns]‰Á“¡[nse]
-ucc²”ŒA‚â‚Á‚Ï‚è‚±‚±‚Éc‚êBŠm”F‚µ‚Ä‚İ‚ÄA’N‚à[r]
-‚¢‚È‚©‚Á‚½‚ç‰´ˆêl‚Ås‚Á‚Ä‚­‚év[pcms]
+[ns]Kato[nse]
+... Saeki, it seems like you should stay here after all.[l][er]
+I'll go and check, and if no one is there, I'll go alone.[pcms]
 
 *5986|
 [fc]
-²”Œ‚Í‚Ü‚½•sˆÀ‚°‚ÈŠç‚É‚È‚èA–T‚ÉŠñ‚Á‚ÄA‰´‚Ì–Ú‚ğŒ©[r]
-‚Â‚ß‚½B[pcms]
+Saeki looked uneasy again, approached me, and stared into my[r]eyes.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2481|
 [fc]
 [vo_sa s="sae0640"]
-[ns]²”Œ[nse]
-u‹C‚ğ‚Â‚¯‚Ä‚­‚¾‚³‚¢‚Ëccv[pcms]
+[ns]Saeki[nse]
+Please be careful...[pcms]
 
 *5987|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ v[pcms]
+[ns]Kato[nse]
+Ah[l][er]
 
 *5988|
 [fc]
-²”Œ‚ÉÎ‚Á‚Ä‚İ‚¹‚ÄA‰´‚Í”à‚Ö‚ÌŠK’i‚ğã‚Á‚½B[pcms]
+I smiled at Saeki and climbed the stairs to the door.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -104,5 +102,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05650]‚Ö
+;//[05650]ã¸
 [jump target=*05650_H_TOP storage="05650_H.ks"]

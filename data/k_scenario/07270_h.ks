@@ -1,15 +1,15 @@
 
-;//¡ËƒuƒƒbƒN07270wŒğ”öx
-;//BG;’n‰ººFÁ“”
-;//“oêl•¨FålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07270ã€äº¤å°¾ã€
+;//BG;åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»ç³
 
 *07270_H_TOP
-;[debug_win]‚È‚¤@07270_H[debug_win_end]
-;*SceneSet|wŒğ”öx
+;[debug_win]ãªã†ã€€07270_H[debug_win_end]
+;*SceneSet|ã€äº¤å°¾ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07270 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07270 = 1"]
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 
 [bgm008]
 
@@ -26,23 +26,20 @@
 
 *7790|
 [fc]
-‰´‚Í²”Œ‚ÌK‚ğ‹­ˆø‚Éˆø‚Á’£‚èAl‚Â‚ñ‚Î‚¢‚ÌŠiD‚É‚³[r]
-‚¹‚½B[pcms]
+I forcefully pulled Saeki's butt and made her get on all[r]fours.[pcms]
 
 *7791|
 [fc]
-ccŠÛ‚­‚ÄA_‚ç‚©‚»‚¤‚ÈK‚ÆA×‚¢˜‚Év‚í‚¸Œ©‚Æ‚ê[r]
-‚Ä‚µ‚Ü‚¤B[pcms]
+I couldn't help but be captivated by her round and soft-[r]looking butt and slender waist.[pcms]
 
 *7792|
 [fc]
-‚»‚ê‚ÉAŒÒŠÔ‚©‚ç‚Í‚³‚Á‚«‚Ì’ª‚«‚Ìc‚è‚Ì‰t‚ª‚‚ê—[r]
-‚¿‚Ä‚¢‚ÄA‚±‚êˆÈã‚È‚¢‚­‚ç‚¢ƒGƒ‚­Œ©‚¦‚éB[pcms]
+Moreover, from her crotch, the remnants of the squirting[r]from earlier were dripping down, making it look incredibly[r]erotic.[pcms]
 
 *7793|
 [fc]
-[ns]‰Á“¡[nse]
-uƒXƒQƒF‚Ècc²”Œcc‚‚ê‚Ä‚éccA‚Í‚Í‚Áv[pcms]
+[ns]Kato[nse]
+Wow... Saeki... it's dripping down...  haha[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -56,90 +53,89 @@
 *v3097|
 [fc]
 [vo_sa s="sae0955"]
-[ns]²”Œ[nse]
-u‚â‚Ÿ‚ I@”n­‚È–Œ¾‚í‚È‚¢‚ÅƒbI@‚»‚ê‚ÉA‚±‚ñ‚È[r]
-b‚Ì—l‚ÈŠiDccŒ™‚Å‚·cc’p‚¸‚©‚µ‚¢Iv[pcms]
+[ns]Saeki[nse]
+Hey! Don't say stupid things! And, this kind of animal-like[r]posture...[l][er]
+I don't like it... It's embarrassing![pcms]
 
 *7794|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¾‚Ü‚ê‚æccv[pcms]
+[ns]Kato[nse]
+Shut up...[pcms]
 
 *v3098|
 [fc]
 [vo_sa s="sae0956"]
-[ns]²”Œ[nse]
-u‚¦Hv[pcms]
+[ns]Saeki[nse]
+Eh?[pcms]
 
 *7795|
 [fc]
-[ns]‰Á“¡[nse]
-uƒMƒƒ[ƒMƒƒ[‚¤‚é‚¹‚¥‚ñ‚¾‚æccA‚¢‚Â‚à‚¢‚Â‚àA‚¨[r]
-‘OA‰½‚Å‚»‚ñ‚È‚É‚¤‚é‚¹‚¥‚ñ‚¾Iv[pcms]
+[ns]Kato[nse]
+Shut up... Why are you always so noisy all the time![pcms]
 
 *v3099|
 [fc]
 [vo_sa s="sae0957"]
-[ns]²”Œ[nse]
-u‚¦IH@‰Á“¡‚³‚ñccH@‹}‚Écc‚Ç‚¤‚µ‚ÄHv[pcms]
+[ns]Saeki[nse]
+Eh!? Kato-san...? Suddenly... why?[pcms]
 
 *7796|
 [fc]
-‹»•±‚µ‰ß‚¬‚ÄA“ª‚ÉŒŒ‚ªã‚Á‚½‚Ì‚©AS‘Ÿ‚ª“®‚­‚½‚Ñ‚É[r]
-–Ú‚Ì‘O‚ª—h‚ê‚éB[pcms]
+I was so excited that my blood rushed to my head, and every[r]time my heart beat, the world in front of me swayed.[pcms]
 
 *7797|
 [fc]
-‚»‚ê‚ÉA²”Œ‚Ì‹©‚Ñº‚ªA•Ï‚É“ª‚É‹¿‚­B[pcms]
+Moreover, Saeki's screams strangely resonate in my head.[pcms]
+[l][er]
 
 *7798|
 [fc]
-‚³‚Á‚«‚Ü‚Å‚ÌAšb‚¬º‚ª’®‚«‚½‚¢ccB[pcms]
+I want to hear the moans from earlier...[pcms]
 
 *7799|
 [fc]
-‘‚­A‰´‚Ì‚ğ²”Œ‚Ì’†‚É“ü‚ê‚È‚¢‚ÆA‰´‚Ì’†‚ÌA‰½‚©‚ª[r]
-‚¨‚©‚µ‚­‚È‚è‚»‚¤‚¾B[pcms]
+I need to put mine inside Saeki quickly, or something inside[r]me might go wrong.[pcms]
 
 *7800|
 [fc]
-[ns]‰Á“¡[nse]
-u‰´‚ÌA‚±‚ñ‚È‚É‚È‚Á‚Ä‚é‚ñ‚¾ccB‚¨‘O‚ÆAˆê‚Â‚É‚È[r]
-‚è‚½‚­‚ÄA‚±‚ñ‚È‚É‚È‚Á‚¿‚Ü‚Á‚½‚ñ‚¾ccB‚¢‚¢‚¾‚ëccA[r]
-²”ŒIIv[pcms]
+[ns]Kato[nse]
+I've become like this... because I want to become one with[r]you, Saeki...[l][er]
+I've become like this... Is it okay...[l][er]
+Saeki!![pcms]
 
 *v3100|
 [fc]
 [vo_sa s="sae0958"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñcc‚»‚ñ‚È‚ÉA‹»•±‚µ‚È‚¢‚Å‰º‚³‚¢ccB­[r]
-‚µA•|‚¢ccv[pcms]
+[ns]Saeki[nse]
+Kato-san... Please don't get so excited like that...[l][er]
+It's a little scary...[pcms]
 
 *7801|
 [fc]
-[ns]‰Á“¡[nse]
-u‰½‚¾‚æH@‚»‚ñ‚È‚É‹¯‚¦‚È‚­‚Ä‚à‚¢‚¢‚¶‚á‚Ë‚¥‚©I@[r]
-‚Í‚Í‚Í‚ÁA•Ï‚Èƒ„ƒc‚¾‚ÈI@‚»‚ê‚ÉA‚¨‘O‚¾‚Á‚ÄA‚à‚¤[r]
-“ü‚ê‚ç‚ê‚½‚¢‚ñ‚¾‚ëH@‚È‚ I@‚Í‚Í‚Í‚ÁIv[pcms]
+[ns]Kato[nse]
+What's the matter? You don't have to be so scared![l][er]
+Hahaha, you're such a weirdo! Besides, you want me to put it[r]in already, don't you?[l][er]
+Right?! Hahaha![pcms]
 
 *v3101|
 [fc]
 [vo_sa s="sae0959"]
-[ns]²”Œ[nse]
-u‚»‚ñ‚Ècc–AŒ¾‚í‚È‚¢‚Åccv[pcms]
+[ns]Saeki[nse]
+Don't say such things...[pcms]
 
 *7802|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¶‚á‚ A“ü‚ê‚é‚¼IH@‹ƒ‚­‚È‚æccH@‚¤‚é‚¹‚¥‚©[r]
-‚ç‚ÈA‚Í‚Í‚Ácc‚Í‚Í‚Í‚Í‚Áv[pcms]
+[ns]Kato[nse]
+Alright, I'm going to put it in![l][er]
+Don't cry, okay...? Shut up, will you?[l][er]
+Hahaha...[pcms]
+hahahaha[l][er]
 
 *7803|
 [fc]
-²”Œ‚ÌŠÛ‚­_‚ç‚©‚¢K‚ğ‰Ÿ‚³‚¦‚Â‚¯A’É‚¢’ö–u‹N‚µ‚½ƒ`[r]
-ƒ“ƒR‚ğA‚®‚µ‚å‚®‚µ‚å‚É”G‚ê‚½ŒÒŠÔ‚É‰Ÿ‚µ‚Â‚¯‚éB[pcms]
+I press down on Saeki's round and soft butt, and push my[r]painfully erect cock against her soaking wet crotch.[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
 
 [se0 storage="se059" loop=true]
 
@@ -159,35 +155,35 @@
 *v3102|
 [fc]
 [vo_sa s="sae0960"]
-[ns]²”Œ[nse]
-u‚¤‚Ÿ‚ÁccA’É‚¢‚ÁI@‚»‚ñ‚È–³—–î—‚ÍA‘Ê–Úcc[r]
-‚à‚Á‚Æ—D‚µ‚­ccA‚¬‚¡‚Áccv[pcms]
+[ns]Saeki[nse]
+Ahh... it hurts! Don't force it like that...[l][er]
+be more gentle... ahh...[pcms]
 
 *7804|
 [fc]
-²”Œ‚ÌƒIƒ}ƒ“ƒR‚ÍA^‚ÁÔ‚Éî‚êã‚ª‚Á‚Ä‚¢‚ÄA‚»‚ê‚É[r]
-Œõ‚Á‚ÄŒ©‚¦‚é‚Ù‚ÇAˆ¤‰t‚ğ•¬‚«o‚³‚¹‚Ä‚¢‚éB[pcms]
+Saeki's pussy is swollen and red, and it's so wet that it[r]glistens.[l][er]
+It's squirting out love juices.[pcms]
 
 *7805|
 [fc]
-‚È‚Ì‚ÉA‰´‚Ìƒ‚ƒm‚ÍA²”Œ‚Ì’†‚ÉA‚È‚©‚È‚©“ü‚Á‚Ä‚¢‚©[r]
-‚È‚¢B[pcms]
+However, my thing doesn't easily go inside Saeki.[pcms]
 
 *7806|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚êcc“ü‚ç‚Ë‚¥ccA‚Ç‚¤‚È‚Á‚Ä‚é‚ñ‚¾‚æccƒNƒ\[r]
-ƒbI@‚±‚ñ‚¾‚¯”G‚ê‚Ä‚é‚ñ‚¾AŠÈ’P‚É“ü‚é‚Æv‚Á‚½‚Ì‚É[r]
-‚ÁccƒNƒ\ƒbv[pcms]
+[ns]Kato[nse]
+Huh... It's not going in... What's going on...[l][er]
+Damn it! You're so wet, I thought it would go in easily...[l][er]
+Damn it![pcms]
 
 *v3103|
 [fc]
 [vo_sa s="sae0961"]
-[ns]²”Œ[nse]
-u‚ J‚ J‚ J‚ J‚ÁccA’É‚¢cc‚¢‚â‚ŸI@‚»‚ñ‚È[r]
-‚É—–\‚ÉA‚®‚£‚ÁI@‚ J‚ J‚ÁccB‚¤‚Ÿ‚ ‚ ‚ÁIv[pcms]
+[ns]Saeki[nse]
+Ahh... ahh... ahh... it hurts...[l][er]
+noo! Don't be so rough... guuh![l][er]
+Ahh... ughhh![pcms]
 
-;//SE:‘}“ü
+;//SE:æŒ¿å…¥
 
 [se1 storage="se058"]
 
@@ -206,302 +202,291 @@
 
 *7807|
 [fc]
-‚»‚ê‚Ü‚ÅA‚½‚¾a‚ğ‚±‚·‚é‚¾‚¯‚¾‚Á‚½‰´‚Ìƒ‚ƒm‚ªAƒkƒ‹[r]
-ƒŠ‚Æ‚¢‚¤Š´G‚Æ‹¤‚ÉA­‚µŒ˜‚³‚Ìc‚é²”Œ‚Ì’†‚ÉŠŠ‚è[r]
-‚ñ‚Å‚¢‚Á‚½B[pcms]
+Up until then, my thing, which had only been rubbing against[r]the groove, slipped into Saeki's slightly firm insides with[r]a slippery sensation.[pcms]
 
 *v3104|
 [fc]
 [vo_sa s="sae0962"]
-[ns]²”Œ[nse]
-u‚¤‚Ÿ‚Ÿ‚Ÿ‚ŸƒbI@‰Á“¡‚³‚ñ‚Ìcc’†‚É“ü‚Á‚ÄA—ˆ‚½cc[r]
-‚¤‚®‚ÁccA‚¤‚Ÿ‚ ‚ÁI@‚Ó‚Ÿ‚Ÿ‚ ‚Áccv[pcms]
+[ns]Saeki[nse]
+Uaaaah! Kato-san... you've entered inside me...[l][er]
+ugh... uaaah! Faaaah...[pcms]
 
 *7808|
 [fc]
-‚¿‚å‚Á‚ÆŒ˜‚¢²”Œ‚Ì’†‚ÍA’É‚¢‰´‚Ìƒ‚ƒm‚ğ’Á‚ß‚é—l‚É•ï[r]
-‚İ‚ñ‚Å‚­‚éB“ü‚èŒû‚Í‚«‚Â‚¢‚¯‚ÇA’†‚Í‚¿‚å‚¤‚Ç—Ç‚¢B[pcms]
+Saeki's insides, which are a little tight, envelop my[r]painful member as if to soothe it.[l][er]
+The entrance is tight, but the inside feels just right.[pcms]
 
 *7809|
 [fc]
-‚»‚ê‚ÉA’g‚©‚¢ccB[pcms]
+And it's warm...[pcms]
 
 *v3105|
 [fc]
 [vo_sa s="sae0963"]
-[ns]²”Œ[nse]
-u‚­‚£ccA’†‚ªcc‰Á“¡‚³‚ñ‚Ì‚ÅAˆê”t‚ÉA‚È‚Á‚Äcc[r]
-‚Í‚Ÿ‚Ÿ‚Áccv[pcms]
+[ns]Saeki[nse]
+Kuu... Inside... with Kato-san's, it's filling up...[l][er]
+haaah...[pcms]
 
 *7810|
 [fc]
-‚Å‚àccB[pcms]
+But...[pcms]
 
 *7811|
 [fc]
-‚±‚ê‚¾‚¯‚¶‚áAhŒƒ‚ª‘«‚è‚È‚¢B‚¢‚Â‚Ü‚ÅŒo‚Á‚Ä‚àAË[r]
-¸o—ˆ‚»‚¤‚à‚È‚¢BË¸o—ˆ‚È‚¢‚È‚ñ‚ÄA¶E‚µ‚¾ccB[pcms]
+This alone is not enough stimulation.[l][er]
+No matter how much time passes, it doesn't seem like I can[r]ejaculate.[l][er]
+Not being able to ejaculate is torture...[pcms]
 
 *7812|
 [fc]
-²”Œ‚Í’É‚İ‚ğŠ¬‚¦‚Ä‚¢‚é‚Ì‚©A‚¶‚Á‚Æ‚µ‚½‚Ü‚ÜccB[pcms]
+Saeki is enduring the pain, staying still...[pcms]
 
 *7813|
 [fc]
-‚±‚Ì‚Ü‚Ü‚¶‚áccB‰´‚ªA‹C‚¿‚æ‚­‚È‚ê‚È‚¢‚¶‚á‚È‚¢[r]
-‚©II[pcms]
+If it continues like this... I won't be able to feel good,[r]will I?![pcms]
 
 *7814|
 [fc]
-[ns]‰Á“¡[nse]
-u²”ŒA‚¶‚Á‚Æ‚µ‚Ä‚Ä‚à‹C‚¿‚æ‚­‚Ë‚¥‚ñ‚¾ccA“®‚­[r]
-‚¼IHv[pcms]
+[ns]Kato[nse]
+Saeki, it's not satisfying even if you stay still...[l][er]
+I'm going to move, okay?![pcms]
 
-;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
 
 [overflow_se storage="se061" loop=true]
 
 *v3106|
 [fc]
 [vo_sa s="sae0964"]
-[ns]²”Œ[nse]
-u‚¦ccA‚¿A‚¿‚å‚Á‚Æ‘Ò‚Á‚Ä‚­‚¾ccA‚¤‚Ÿ‚Ÿ‚ÁI@[r]
-‚ñ‚¬‚ÁccI@‚¬‚¡‚ÁII@‚ñ‚ ‚Ÿ‚Ÿ‚ÁI@‚¤‚í‚Ÿ‚Ÿ‚Ÿ[r]
-‚Ÿ‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Eh... w-wait a moment... ughhh![l][er]
+Ngi... gii!! Naaaahh! Uwaaaahhh!![pcms]
 
 *7815|
 [fc]
-²”Œ‚Ìñ‚ªA‘OŒã‚É—h‚ê‚é’öA—–\‚Éƒ‚ƒm‚ğo‚µ“ü‚ê‚·[r]
-‚éB’†‚ª‚±‚·‚ê‚ÄA‹C‚¿‚¢‚¢ccB[pcms]
+Saeki's head shakes back and forth as she is roughly[r]penetrated.[l][er]
+The friction inside feels good...[pcms]
 
 *7816|
 [fc]
-²”Œ‚Ì‹©‚Ñº‚ÍA‚³‚Á‚«‚Ì‚Æˆá‚Á‚ÄA”J‚ëS’n‚æ‚¢•¨‚É[r]
-•Ï‚í‚Á‚Ä‚¢‚½B[pcms]
+Saeki's screams, unlike before, had transformed into[r]something rather pleasant.[pcms]
 
 *7817|
 [fc]
-•ï‚İ‚Ü‚ê‚½‰´‚Ìƒ‚ƒm‚ÆA“ª‚Ì’†‚ª•¦“«‚µ‚Ä‚µ‚Ü‚¤‚ñ‚¶[r]
-‚á‚È‚¢‚©‚Á‚Ä‚­‚ç‚¢A”M‚­‚È‚Á‚Ä‚«‚½B[pcms]
+My thing that was enveloped, and my mind, it's getting so[r]hot that it feels like it's boiling.[pcms]
 
 *7818|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Í‚Í‚Í‚ÁI@‚¨‘OA‚â‚Á‚Ï‚èƒXƒQƒF‚æII@‚»‚ñ‚È‚É[r]
-’÷‚ß‚Â‚¯‚Ä—ˆ‚È‚­‚Ä‚¢‚¢‚Ì‚ÉII@‚Í‚Í‚Í‚ÁII[r]
-ƒXƒQƒFI@ƒXƒQƒFIIv[pcms]
+[ns]Kato[nse]
+Hahaha! You're amazing, after all!![l][er]
+You don't have to tighten up so much!![l][er]
+Hahaha! Incredible! Amazing!![pcms]
 
 *v3107|
 [fc]
 [vo_sa s="sae0965"]
-[ns]²”Œ[nse]
-u‚ñ‚¬‚ÁII@‚ J‚ J‚ J‚ J‚ÁccA‚¬‚¡‚¢‚¢‚ÁI[r]
-’É‚¢II@’É‚¢II@‚¤J‚ŸJ‚ŸJ‚ŸJ‚ŸJ‚ÁI@—[r]
-–\‚È‚Ìcc‘Ê–ÚA‚ÅA‚·‚Ácc‚¬‚¡‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Ngi!! Aaahhh... Giiii!! It hurts!![l][er]
+It hurts!! Uvaaaahhh! It's rough...[l][er]
+No, stop... Giii!![pcms]
 
 *7819|
 [fc]
-ƒIƒ}ƒ“ƒR‚Æ‰´‚ÌŠÔ‚©‚çƒCƒ„‚µ‚¢‰¹‚ª‘å‚«‚­–Â‚è‹¿‚­B‚»[r]
-‚Ì‰¹‚Í‰´‚Ì“ª‚ÆAƒ‚ƒm‚É‰Î‚ğ•t‚¯‚½B[pcms]
+A lewd sound resonates loudly between my pussy and me.[l][er]
+That sound ignites my mind and my desire.[pcms]
 
 *7820|
 [fc]
-‰¹‚Ì‚·‚é•”•ª‚ğ—Ç‚­Œ©‚é‚ÆA–A‚¾‚Á‚½ˆ¤‰t‚É¬‚¶‚Á‚ÄA[r]
-Ô‚¢‰t‘Ì‚ªˆì‚ê‚Ä‚¢‚½B[pcms]
+When I looked closely at the part where the sound was coming[r]from, I noticed that red liquid was overflowing, mixed with[r]the frothy love juices.[pcms]
 
 *7821|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚êH@‚¨‘OAŒŒƒB‚Å‚Ä‚ñ‚¼H@cc‚à‚µ‚©‚µ‚Äcc[r]
-‚¨‘OAƒRƒŒ‚ª‰‚ß‚ÄH@‚Í‚Í‚Í‚Ácc‚»‚¤‚©A‰‚ß‚Ä‚È[r]
-‚ñ‚¾‚ÁII@‚Í‚Í‚Í‚ÁII@‰´A‰‚ß‚Ä‚Ì‘Šè‚©Hv[pcms]
+[ns]Kato[nse]
+Huh? You're bleeding? ... Could it be...[l][er]
+is this your first time? Hahaha...[l][er]
+I see, it's your first time!! Hahaha!![l][er]
+Am I your first partner?[pcms]
 
 *v3108|
 [fc]
 [vo_sa s="sae0966"]
-[ns]²”Œ[nse]
-u‚¢J‚âJ‚ŸJ‚ŸJ‚ŸJcc’É‚¢‚¡cc‚ñ‚¬‚¡‚ÁccA[r]
-‚ÍA‚Í‚¶‚ßA‚Äcc‚ÅA‚·A‚ñ‚Ÿ‚ÁI@‚­‚ÁccB‚Í‚¶[r]
-‚ß‚ÄA‚ÈA‚ÌA‚Écc‚±‚ñA‚ÈccA‚¤‚Ÿ‚ÁIv[pcms]
+[ns]Saeki[nse]
+Iyaaa... it hurts... ngii... Th-this is my first time...[l][er]
+s-so... ah! Kuh... It's my first time, but...[l][er]
+like this... uah![pcms]
 
 *7822|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤‚¾‚Á‚½‚Ì‚©II@‰´‚àA‚¨‘O‚ª‰‚ß‚Ä‚Ì‘Šè‚¾‚æI[r]
-‚Í‚Í‚Í‚ÁII@‰‚ß‚Ä“¯m‚©II@‚Í‚Í‚Í‚Í‚ÁI@[r]
-‰´’B‰‚ß‚Ä“¯m‚¾II@—Ç‚©‚Á‚½‚ÈII@‚Í‚Í‚ÁIIv[pcms]
+[ns]Kato[nse]
+Is that so?! I'm also your first partner![l][er]
+Hahaha!! We're both first-timers![l][er]
+Hahaha! We're both experiencing it for the first time!![l][er]
+How wonderful!! Hahaha![pcms]
 
 *7823|
 [fc]
-ƒXƒQƒFŠğ‚µ‚¢II@²”Œ‚ªA‰´‚Ì‰‚ß‚Ä‚Ì‘Šè‚ÅA‰´‚ªA[r]
-²”Œ‚Ì‰‚ß‚Ä‚Ì‘ŠèII@[pcms]
+I'm so happy!! Saeki is my first partner, and I am Saeki's[r]first partner!![pcms]
 
 *7824|
 [fc]
-Šğ‚µ‚¢II[r]
-‚È‚ñ‚¾‚©A²”Œ‚ğŠ®‘S‚Éª•‚µ‚½‚İ‚½‚¢‚¾II[pcms]
+I'm so happy!! It feels like I've completely conquered[r]Saeki!![pcms]
 
 *v3109|
 [fc]
 [vo_sa s="sae0967"]
-[ns]²”Œ[nse]
-u‚¤‚Ÿ‚ŸccA‚¨• ‚ÌA’†‚ªccC‚ê‚ÄccA”M‚­‚È‚Á[r]
-‚ÄccA‚ ‚ ‚ÁccB‰Á“¡A‚³‚ñ‚ÌA‚àcc”M‚­‚Äcc[r]
-‚¤‚ ‚ÁccA‚ñ‚Í‚Ÿ‚Ÿ‚Áccv[pcms]
+[ns]Saeki[nse]
+Ahh... my stomach... it's rubbing...[l][er]
+and getting hot... aahh... Kato-san's...[l][er]
+is also hot... uahh... it feels so good...[pcms]
 
 *v3110|
 [fc]
 [vo_sa s="sae0968"]
-[ns]²”Œ[nse]
-u‚ ‚½A‚ÜA‚ªA‚ ‚Ÿ‚ÁccA“ª‚ªA‚­‚çA‚­‚ç‚µ‚ÄA[r]
-‚Í‚Ÿ‚Ÿ‚Ÿ‚ÁccA‚ñ‚ ‚Ÿ‚ ‚Áccv[pcms]
+[ns]Saeki[nse]
+Ahh, my head... it's spinning...[l][er]
+haaah... nnnaaahhh...[pcms]
 
 *7825|
 [fc]
-­‚µ‹­‚ß‚ÌƒsƒXƒgƒ“‰^“®‚ğ‚·‚é‚ÆA”M‚­‚Ê‚ß‚é²”Œ‚Ì’†[r]
-‚ªA‰´‚Ìƒ‚ƒm‚ğ‹­‚­C‚èã‚°‚éB[pcms]
+When I move with a slightly stronger piston motion, Saeki's[r]insides, hot and slippery, vigorously rub against my member.[pcms]
 
 *7826|
 [fc]
-‰´‚Ì˜‚Ì“®‚«‚ÆA²”Œ‚Ì˜‚Ì“®‚«‚Ìƒ^ƒCƒ~ƒ“ƒO‚ª’iX‡[r]
-‚Á‚Ä‚«‚ÄA“ñl‚ÌŠÔ‚ÌƒCƒ„‚ç‚µ‚¢‰¹‚ªAƒRƒ“ƒNƒŠ[ƒg‚Å[r]
-o—ˆ‚½•”‰®‚Ì’†‚ğ–Ø—ì‚·‚éB[pcms]
+The timing of my hip movements and Saeki's hip movements[r]gradually align, and the lewd sound between the two of us[r]echoes throughout the room made of concrete.[pcms]
 
 *v3111|
 [fc]
 [vo_sa s="sae0969"]
-[ns]²”Œ[nse]
-u‚Ó‚Ÿ‚ÁccA‚Ÿ‚Ÿ‚Ÿ‚ ‚Ÿ‚ ‚Ácc‚ ‚ÁA‚­A‚ ‚£‚ÁI[r]
-‚¤‚ŸA‚ñ‚Í‚Ÿ‚ÁIv[pcms]
+[ns]Saeki[nse]
+Fah... aaaaahhh... ahh, ku, auu![l][er]
+Ugh, nhaaahh![pcms]
 
 *7827|
 [fc]
-[ns]‰Á“¡[nse]
-u‰½‚¾‚æccB‰‚ß‚Ä‚ÅA‚±‚ñ‚È‚ÉŠ´‚¶‚ÄccA‚»‚ñ‚È[r]
-‚É‹C‚¿‚¢‚¢‚Ì‚©Hv[pcms]
+[ns]Kato[nse]
+What...? Is it really your first time?[l][er]
+Are you feeling this good...?[pcms]
 
 *v3112|
 [fc]
 [vo_sa s="sae0970"]
-[ns]²”Œ[nse]
-u‚¢‚á‚ŸccA‚¨• ‚Ì’†‚ªA™‘‚ç‚ê‚ÄccAº‚ªcco[r]
-‚Äcc‚µ‚Ü‚¤ccA‚¤‚Ÿ‚Ÿ‚Ÿcc‚Ó‚Ÿ‚ÁccA“ªA‚ªc[r]
-c•Ï‚Écc‚È‚Á‚Äccv[pcms]
+[ns]Saeki[nse]
+Ahh... my stomach... it's being stirred up...[l][er]
+my voice... is coming out... uahhh...[l][er]
+fahh... my head... feels... strange...[pcms]
 
 *7828|
 [fc]
-‰´‚àA“ª‚ª•Ï‚É‚È‚è‚»‚¤‚¾B‚Å‚àA‚±‚Ì‚Ü‚Ü‚¾‚Æ²”Œ‚É[r]
-•‰‚¯‚Ä‚µ‚Ü‚¤—l‚È‹C‚ª‚µ‚ÄA­‚µ‰÷‚µ‚­‚È‚Á‚Ä‚«‚½B[pcms]
+I feel like my head is going crazy too.[l][er]
+But if things continue like this, I feel like I'll end up[r]losing to Saeki, and it's making me a little frustrated.[pcms]
 
 *v3113|
 [fc]
 [vo_sa s="sae0971"]
-[ns]²”Œ[nse]
-u‚ ‚ÁA‚¤A‚ñ‚£ccA‚¤‚ ‚Ÿ‚ÁI@‚Ó‚ ‚ÁA‚ ‚Ÿ‚Áv[pcms]
+[ns]Saeki[nse]
+Ah, u, ngh... uahh!  Fuahh, aahh[pcms]
 
 *7829|
 [fc]
-[ns]‰Á“¡[nse]
-u²”ŒccA‚±‚Á‚¿A‹ó‚¢‚Ä‚é‚Èccv[pcms]
+[ns]Kato[nse]
+Saeki... over here, there's an opening...[pcms]
 
 *v3114|
 [fc]
 [vo_sa s="sae0972"]
-[ns]²”Œ[nse]
-u‚Ğ‚á‚£‚ÁI@‚»A‚»‚±‚Ícc‰˜‚¢I@‚ĞA‚ ‚Ÿ‚ÁI@[r]
-‚»‚±Aƒ_cc‚¢‚â‚Ÿ‚ÁI@‚â‚ ‚Ÿ‚ÁIv[pcms]
+[ns]Saeki[nse]
+Hyaa! Th-that place... it's dirty![l][er]
+H-ahh! There, d... nooo! Yaaahh![pcms]
 
 *7830|
 [fc]
-[ns]‰Á“¡[nse]
-u‰˜‚­‰½‚©‚È‚¢cc‚¨‘O‚ÉA‰˜‚¢Š‚È‚ñ‚©A‚È‚¢‚æA‚Í[r]
-‚Í‚Í‚Í‚Í‚Áccv[pcms]
+[ns]Kato[nse]
+There's nothing dirty about you...[l][er]
+There's no dirty place on you, hahaha...[pcms]
 
 *v3115|
 [fc]
 [vo_sa s="sae0973"]
-[ns]²”Œ[nse]
-u‚¤‚ñ‚ñ‚ñccA‚¤‚Ÿ‚Ÿ‚ ‚Ácc‚¢‚â‚Ÿ‚ŸII@‚±‚ñ‚È[r]
-–cc•Ï‘Ô‚ÌA‚·‚éA–cc‚Å‚·ƒbII@‚ñ‚Ÿ‚Ÿ‚Ÿ‚ÁI[r]
-‚¤‚£‚ñcc‚ñ‚Ÿ‚ ccv[pcms]
+[ns]Saeki[nse]
+Unnn... Uaaaahh... Nooo!! Doing something like this...[l][er]
+It's perverted...!! Naaahh! Uun...[l][er]
+Naaah...[pcms]
 
 *7831|
 [fc]
-K‚ÌŒŠ‚Éw‚ğ“ü‚½’¼Œã‚ÉAƒIƒ}ƒ“ƒR‚©‚çˆ¤‰t‚ª•¬‚«o‚µ[r]
-‚ÄA‰´‚Ì‘¾ŒÒ‚ğ”G‚ç‚µ‚½B²”Œ‚ÍA‚±‚Á‚¿ã‚¢‚Ì‚©‚ÈccB[pcms]
+After inserting my finger into her asshole, love juice[r]gushed out from her pussy and wetted my thighs.[l][er]
+Is Saeki weak to this...?[pcms]
 
 *7832|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Í‚Í‚Í‚Ácc‚à‚Á‚Æ˜M‚Á‚Ä‚â‚é‚æII@‚¨‘OA‚±‚Á‚¿[r]
-D‚«‚»‚¤‚¾‚©‚ç‚ÈccA‚Í‚Í‚Áv[pcms]
+[ns]Kato[nse]
+Hahaha... I'll tease you even more!![l][er]
+You seem to like this, don't you...[pcms]
+Haha[l][er]
 
 *v3116|
 [fc]
 [vo_sa s="sae0974"]
-[ns]²”Œ[nse]
-u‚¢‚â‚Ÿ‚ ‚Ÿcc•Ï‘Ô‚¡ccA‚¤‚Ÿ‚Ÿ‚Ácc‚ ‚Í‚Ÿ‚ÁccB[r]
-‚¤‚í‚Ÿ‚ ‚ ‚ÁccA‚ ‚Ácc‚ ‚Áccv[pcms]
+[ns]Saeki[nse]
+Nooo... pervert... uahhh... ahaha...[l][er]
+uwaaaahh... ahh... ahh...[pcms]
 
 *7833|
 [fc]
-[ns]‰Á“¡[nse]
-u‰½‚¾‚æccAŠ´‚¶‚Ä‚é•È‚ÉBl‚Ì–•Ï‘Ô‚Æ‚©Œ¾‚¤‚È‚æ[r]
-ccA‚¨‘O‚¾‚Á‚Ä•Ï‘Ô‚¶‚á‚Ë‚¥‚©II@‚Í‚Í‚Í‚Í‚Í‚Í‚Í[r]
-‚ÁIv[pcms]
+[ns]Kato[nse]
+What's this... even though you're feeling it.[l][er]
+Don't call others perverts... you're a pervert too!![l][er]
+Hahahaha![pcms]
 
 *v3117|
 [fc]
 [vo_sa s="sae0975"]
-[ns]²”Œ[nse]
-u‚»‚ñ‚ÈccA‚¤‚Ÿ‚Ÿ‚ÁccB‚â‚ßA‚Äcc‚¤‚Ÿ‚Ÿ‚ÁI[r]
-‚ñ‚¤‚£‚£‚¤‚£ccA‚¢‚â‚Ÿ‚ŸccA‚Ğ‚Ÿ‚Ÿ‚Ÿ‚ÁIIv[pcms]
+[ns]Saeki[nse]
+No... ughh... Stop... ughh! N-nooo...[l][er]
+ughhh... please... aahhh!![pcms]
 
 *7834|
 [fc]
-‰õŠy‚Å‚ä‚ª‚ñ‚¾²”Œ‚ÌŠç‚ÆA“ª‚Ì’†‚ğ‹ì‚¯‰ñ‚éšb‚¬º‚ª[r]
-‰´‚Ìƒ‚ƒm‚ğhŒƒ‚µ‚ÄA‚à‚¤ŒÀŠE‚ª—ˆ‚Ä‚µ‚Ü‚Á‚½B[pcms]
+Saeki's distorted face filled with pleasure, and the moans[r]echoing in her mind stimulated me, pushing me to my limit.[pcms]
 
 *v3118|
 [fc]
 [vo_sa s="sae0976"]
-[ns]²”Œ[nse]
-u‚Ÿ‚Ÿ‚ ‚ ‚ÁIH@‰Á“¡A‚³‚ñA‚ÌA‚ªA‚¨• ‚ÌA’†‚ÅA[r]
-–\‚êA‚Ä‚é‚ÁccA‚¤‚Ÿ‚Ÿ‚ÁccB‚»‚ê‚ÉccA‹ê‚µ[r]
-‚¢ccB‚Ü‚½A‘å‚«‚­‚È‚Á‚½A‚İA‚½‚¢cc‚¤‚Ÿ‚ÁIv[pcms]
+[ns]Saeki[nse]
+Aaahh!? Kato-san, it's... moving inside my stomach...[l][er]
+Ughh... It's... painful... It seems to have gotten bigger[r]again...[l][er]
+Ughh![pcms]
 
 *7835|
 [fc]
-‘å‚«‚­‚È‚è‚·‚¬‚½‰´‚Ìƒ‚ƒm‚ÍA²”Œ‚Ì’†‚ÉŒ„ŠÔ–³‚­‹l‚ß[r]
-‚Ü‚ê‚ÄA‹‡‹ü‰ß‚¬‚é’†‚ªA‹­—ó‚ÉC‚è—§‚Ä‚ç‚ê‚éB[pcms]
+My thing, which has become too big, is tightly packed inside[r]Saeki without any gaps, and the uncomfortably tight space is[r]intensely rubbed.[pcms]
 
 *7836|
 [fc]
-[ns]‰Á“¡[nse]
-u²”ŒI@‰´A‚à‚¤ccv[pcms]
+[ns]Kato[nse]
+Saeki! I can't hold back anymore...[pcms]
 
 *v3119|
 [fc]
 [vo_sa s="sae0977"]
-[ns]²”Œ[nse]
-u‚¤‚Ÿ‚Ÿ‚ÁccA‚Ğ‚Ÿ‚ÁI@‰Á“¡‚³‚ñ‚ÌA‚È‚çcc’†A[r]
-‚ÅccB‹M’j‚ÌA‘S‚Ä‚ğAó‚¯~‚ßA‚Ü‚·ccA‚Ó‚Ÿ‚Ÿ[r]
-‚Ÿ‚ÁII@‚ ‚Ácc‚ ‚ ‚ÁccA‚ ‚ ‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Uaaaahh... Hiaaah! Kato-san's...[l][er]
+inside... me. I will... accept all of you...[l][er]
+fuaaahhh!! Ahh... aahh... aahh!![pcms]
 
 *7837|
 [fc]
-²”Œ‚ÌŒ¾—t‚ğ‡}‚É‚µ‚½‚æ‚¤‚ÉA‰´‚Ì”M‚¢ƒ}ƒOƒ}‚ªˆê‹C[r]
-‚É•¬‚«o‚µ‚Ä‚µ‚½B[pcms]
+As if in response to Saeki's words, my hot magma erupted all[r]at once.[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
 
 [stop_se0]
 
-;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
 
 [stop_overflow_se]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 
 [se0 storage="se062"]
 
@@ -530,16 +515,16 @@
 
 *7838|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ŸA‚­‚ÁccIIv[pcms]
+[ns]Kato[nse]
+Ah, ku...!![pcms]
 
 *v3120|
 [fc]
 [vo_sa s="sae0978"]
-[ns]²”Œ[nse]
-u‚¤‚í‚Ÿ‚Ÿ‚ ‚ÁI@‚¨• ‚Ì’†‚ÅA‰Á“¡A‚³A‚ñ‚ÌA‚ª’µ[r]
-‚Ë‚ÄA‚é‚ÁII@‚¤‚Ÿ‚ ‚Ÿ‚ ‚ [[ƒbI@”M‚¢‚¡I@‚¢[r]
-‚â‚Ÿ‚ŸƒbIIv[pcms]
+[ns]Saeki[nse]
+Uwaaaah! Inside my stomach, Kato-san's...[l][er]
+it's bouncing around!! Uaaaahhhh![l][er]
+It's hot! Noooo!![pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -555,8 +540,7 @@
 
 *7839|
 [fc]
-‚Ü‚¾Œ˜‚­A‚«‚Â‚¢²”Œ‚Ì’†‚©‚çA‰´‚Ìƒ‚ƒm‚ğˆø‚«”²‚­‚Æ[r]
-¡o‚µ‚½¸‰t‚ªA‘å—Ê‚Éˆì‚ê‚Ä‚«‚½B[pcms]
+I pulled out my thing from Saeki, who was still tight, and[r]as I did, a large amount of semen spilled out.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -572,58 +556,57 @@
 
 *7840|
 [fc]
-‚Ü‚é‚Å”’‚¢ƒVƒ‡ƒ“ƒxƒ“‚ğ˜R‚ç‚µ‚½‚İ‚½‚¢‚É•¬‚«o‚µ‚Ä‚­[r]
-‚éB‚±‚ñ‚È‚Éo‚½‚Ì‚Í‰‚ß‚Ä‚¾ccB[pcms]
+It's gushing out as if I've leaked white pee.[l][er]
+This is the first time so much has come out...[pcms]
 
 *v3121|
 [fc]
 [vo_sa s="sae0979"]
-[ns]²”Œ[nse]
-u‚¤‚Ÿ‚Ÿ‚ŸccA‚Í‚Ÿ‚Ÿccv[pcms]
+[ns]Saeki[nse]
+Uaaaahh... haaa...[pcms]
 
 *7841|
 [fc]
-²”Œ‚Íg‘Ì‚ğáz¹‚³‚¹‚ÄA‚»‚Ì‚Ü‚Ü‚®‚Á‚½‚è‚Æ‚µ‚Ä‚µ‚Ü[r]
-‚Á‚½B‚»‚ê‚Å‚àA’†‚©‚çˆì‚êo‚é¸‰t‚Í~‚Ü‚é–‚Í‚È‚©[r]
-‚Á‚½B[pcms]
+Saeki's body convulsed and she slumped down, completely[r]exhausted.[l][er]
+However, the semen overflowing from within her did not stop.[pcms]
 
 *v3122|
 [fc]
 [vo_sa s="sae0980"]
-[ns]²”Œ[nse]
-u‚¤‚Ÿccv[pcms]
+[ns]Saeki[nse]
+Ugh...[pcms]
 
 *7842|
 [fc]
-¸‰t¬‚¶‚è‚Ìˆ¤‰t‚ª‚‚ê—‚¿‚Ä‚­‚é‚Ì‚ğŒ©‚ÄA‚Ü‚½“ª‚Ì[r]
-’†‚ğA’N‚©‚É—h‚³‚Ô‚ç‚ê‚½—l‚ÈŠ´‚¶‚ª‚µ‚½B[pcms]
+I watched as the mixture of semen and love juices dripped[r]down, and once again, it felt like someone was shaking my[r]mind.[pcms]
 
 *7843|
 [fc]
-‚»‚ê‚ÉA‰´‚Ìƒ‚ƒm‚Í‚Ü‚¾¡‚Ü‚é—lq‚Í‚È‚¢B[r]
-‚à‚¤ˆê“xA²”Œ‚Ì’†‚ğŠ´‚¶‚½‚¢ccB[pcms]
+And, my thing still shows no signs of calming down.[l][er]
+I want to feel Saeki's insides once again...[pcms]
 
 *v3123|
 [fc]
 [vo_sa s="sae0981"]
-[ns]²”Œ[nse]
-u‚Í‚Ÿ‚ÁccA‚Í‚Ÿ‚ÁccA‰Á“¡‚³‚ñccA„ccA•Ï[r]
-‚È–AŒ¾‚Á‚Ä‚Ü‚¹‚ñ‚Å‚µ‚½‚©ccA’p‚¸‚©‚µ‚¢–ccv[pcms]
+[ns]Saeki[nse]
+Haa... haa... Kato-san... Did I say something strange...?[l][er]
+Embarrassing things...[pcms]
 
 *7844|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ ccAŒ¾‚Á‚Ä‚È‚¢A’p‚¸‚©‚µ‚¢–‚È‚ñ‚©A‘S‘R‚È[r]
-‚¢A‚»‚ñ‚È–‚æ‚èccA‰´‚Ì‚ªA‚Ü‚¾¡‚Ü‚ç‚È‚¢‚ñ‚¾c[r]
-cB‚à‚¤ˆê‰ñA‚¢‚¢‚¾‚ëIH@‚È‚ A²”ŒIIv[pcms]
+[ns]Kato[nse]
+Ah... I didn't say anything embarrassing at all.[l][er]
+More importantly... mine still hasn't calmed down.[l][er]
+Can we do it one more time!? Hey, Saeki!![pcms]
 
 *v3124|
 [fc]
 [vo_sa s="sae0982"]
-[ns]²”Œ[nse]
-u‚¦‚ÁccI@­‚µA‹x‚Ü‚¹‚ÄccA‚¢‚â‚Ÿ‚ ƒbIv[pcms]
+[ns]Saeki[nse]
+Huh...! Let me rest for a bit...[l][er]
+Nooo![pcms]
 
-;//SE:‘}“ü
+;//SE:æŒ¿å…¥
 
 [se0 storage="se058"]
 
@@ -638,117 +621,114 @@
 
 *7845|
 [fc]
-‰´‚Í•Ô–‚ğ’®‚­‚±‚Æ‚à‚È‚È‚­A‚¢‚«‚È‚è‘}“ü‚µ‚½B[pcms]
+Without even waiting for a response, I suddenly inserted it.[pcms]
 
 *7846|
 [fc]
-ˆì‚êo‚é‘Ì‰t‚ÅA‚·‚Å‚Éƒkƒ‹ƒkƒ‹‚É‚È‚Á‚Ä‚¢‚½²”Œ‚Ì‚»[r]
-‚±‚ÍAŠÈ’P‚É‰´‚Ìƒ‚ƒm‚ğó‚¯“ü‚ê‚½B[pcms]
+Saeki's place, which was already slippery with overflowing[r]bodily fluids, easily accepted my thing.[pcms]
 
-;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
 
 [se0 storage="se061" loop=true]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
 
 [se1 storage="se059" loop=true]
 
 *v3125|
 [fc]
 [vo_sa s="sae0983"]
-[ns]²”Œ[nse]
-u‚¤‚Ÿ‚Ÿ‚ÁI@‚¤‚Ÿ‚ÁccA‚¢A¡ccA•qŠ´‚ÉA‚È‚Á[r]
-‚Ä‚ÄA‚Ÿ‚¤‚ÁccA‚Ğ‚Ÿ‚Áccv[pcms]
+[ns]Saeki[nse]
+Uaaaahh! Uaa... I'm... so sensitive right now...[l][er]
+Ahh... Hiaa...[pcms]
 
 *7847|
 [fc]
-[ns]‰Á“¡[nse]
-u•qŠ´‚ÉH@‚»‚¤‚È‚ñ‚¾ccA‚Í‚Í‚Í‚ÁII@‚¢‚¢‚¶‚á[r]
-‚ñI@‹C‚¿‚¢‚¢‚ñ‚¾‚ëIH@‚Í‚Í‚Í‚Í‚Í‚Í‚ÁIv[pcms]
+[ns]Kato[nse]
+Sensitive? Is that so... hahaha!![l][er]
+That's great! It feels good, right!?[l][er]
+Hahahaha![pcms]
 
 *v3126|
 [fc]
 [vo_sa s="sae0984"]
-[ns]²”Œ[nse]
-u‚¢‚á‚Ÿ‚Ÿ‚Ÿ‚ÁI@€‚ÊccI@€‚ñ‚¶‚á‚¤‚ÁI@‚Ğ‚Ÿ[r]
-‚Ÿ‚ ‚ÁII@‚ [[‚ÁI@€‚ñ‚¶‚á‚¤‚£‚£‚£Iv[pcms]
+[ns]Saeki[nse]
+Noooo! I'm... dying...! I'm gonna die![l][er]
+Hiaaaah!! Aaahhh! I'm gonna dieeee![pcms]
 
 *7848|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Í‚Í‚ÁI@‚¨‘OA‰½€‚Ê‚Æ‚©Œ¾‚Á‚Ä‚ñ‚ÌH@•Ï‚È‚±‚Æ[r]
-Œ¾‚Á‚Ä‚é‚¶‚á‚ñ‚©II@‚»‚ê‚æ‚è“¦‚°‚ñ‚È‚æI@˜‚ªˆø[r]
-‚¯‚é‚ñ‚¶‚á‚Ë‚¥‚©Iv[pcms]
+[ns]Kato[nse]
+Haha! Are you saying you're gonna die?[l][er]
+You're saying weird things!! But more importantly, don't run[r]away![l][er]
+Are you getting scared and backing down?![pcms]
 
 *v3127|
 [fc]
 [vo_sa s="sae0985"]
-[ns]²”Œ[nse]
-u‚¤‚Ÿ‚Ÿ‚ÁI@‚¾‚Á‚ÄccA‚¾‚Á‚ÄI@‚¢‚Ÿ‚Ÿ‚Ÿ‚Ácc[r]
-‚¤‚í‚Ÿ‚Ÿ‚Ÿ‚ÁccA‚¢‚â‚Ÿ‚Ÿ‚Ÿ‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Uaaaahh! Because... because! Iyaaaah...[l][er]
+uwaaaah... noooo!![pcms]
 
 *7849|
 [fc]
-‹©‚Ñ‚È‚ª‚ç“¦‚°‚æ‚¤‚Æ‚·‚é²”Œ‚Ì˜‚ğ‰Ÿ‚³‚¦‚Â‚¯‚ÄAX[r]
-‚É‰œ‚Ü‚ÅA‰´‚Ìƒ‚ƒm‚ğ‚Ë‚¶‚ŞB‚·‚é‚ÆAƒKƒ`ƒKƒ`‚Ì‰´[r]
-‚Ìƒ‚ƒm‚ªA²”Œ‚Ì’†‚Ì‰½‚©‚É“–‚½‚éB[pcms]
+I held down Saeki, who was trying to escape while screaming,[r]and pushed my thing even deeper.[l][er]
+Then, my rock-hard thing hit something inside Saeki.[pcms]
 
 *v3128|
 [fc]
 [vo_sa s="sae0986"]
-[ns]²”Œ[nse]
-u‚®‚ÁI@‚¤‚ ‚ÁI@‚ ‚ÁI@‚ ‚Ÿ‚ÁI@‚¢J‚ŸJƒbI[r]
-‚¤‚Ÿ‚Ÿ‚Ÿ‚ÁI@‚âJ‚ßJ‚ÅA‚ ‚ ‚Ÿ‚Ÿ‚Ÿ‚ÁI@‚¨J‚­[r]
-cc‚ÉA‚ ‚½‚ÁA‚ÄccA‚¢J‚ŸJƒbIv[pcms]
+[ns]Saeki[nse]
+Guh! Ugh! Ah! Aahh! I-I'm... nooo![l][er]
+Please... aahhh! Stop... it...[l][er]
+ah![pcms]
 
 *v3129|
 [fc]
 [vo_sa s="sae0987"]
-[ns]²”Œ[nse]
-u‚â‚Ÿ‚Ÿ‚Ÿ‚ ‚ÁI@‚ñ‚ÁA‚¬‚ÁccA‚¢‚â‚ŸƒbIv[pcms]
+[ns]Saeki[nse]
+Yaaahh! Ngh... Gii... Nooo![pcms]
 
 *7850|
 [fc]
-‰´‚Ìƒ‚ƒm‚ªA²”Œ‚Ì’†‚ğ™‘‚é‚½‚Ñ‚ÉA¼‚Á‚½‰¹‚ÆA”§‚ª[r]
-‚Ô‚Â‚©‚è‡‚¤­‚µŠ£‚¢‚½‰¹‚ª–Â‚è‹¿‚¢‚Ä‚¢‚éB[pcms]
+Every time my thing thrusts into Saeki, there is a wet sound[r]and a slightly dry sound as our skin collides.[pcms]
 
 *7851|
 [fc]
-[ns]‰Á“¡[nse]
-u‚È‚ A•·‚±‚¦‚é‚©H@‚¨‘O‚ÆA‰´‚ÌŠÔ‚©‚çƒCƒ„ƒ‰‚µ‚¢[r]
-‰¹‚µ‚Ä‚é‚¼ccH@‰½‚¾‚ë‚¤‚ÈAƒRƒŒII@‚Í‚Í‚ÁIv[pcms]
+[ns]Kato[nse]
+Hey, can you hear it? There's a lewd sound coming from[r]between you and me...[l][er]
+I wonder what it is!! Haha![pcms]
 
 *v3130|
 [fc]
 [vo_sa s="sae0988"]
-[ns]²”Œ[nse]
-uƒoƒJƒ@‚ÁI@‚Í‚Ÿ‚Ácc‚Í‚ ‚ÁccB‚»‚ñA‚ÈA‰¹c[r]
-c•·‚±‚¦A‚Ü‚¹‚ñ‚ÁI@Œ™‚¾‚Ÿ‚ŸII@‚»‚ñ‚È‚±‚ÆŒ¾‚í[r]
-‚È‚¢‚Å‰º‚³‚¢ƒbIIv[pcms]
+[ns]Saeki[nse]
+You idiot! Haa... haa... I-I can't hear...[l][er]
+that sound! I don't like it!! Please don't say things like[r]that!![pcms]
 
 *v3131|
 [fc]
 [vo_sa s="sae0989"]
-[ns]²”Œ[nse]
-u‚Ó‚Ÿ‚Ÿ‚ÁIH@‚ A‚ ‚Ÿ‚Ácc‚ ‚Áccv[pcms]
+[ns]Saeki[nse]
+Faaah!? A-ahh... Ahh...[pcms]
 
 *7852|
 [fc]
-‚Ü‚½²”Œ‚Ìg‘Ì‚ªk‚¦‚¾‚µ‚½B‚³‚Á‚«‚æ‚è‚¸‚Á‚ÆA‘å‚«[r]
-‚­k‚¦‚Ä‚¢‚éB‚»‚ê‚É‡‚í‚¹‚ÄA‚Ü‚é‚Å˜R‚ç‚µ‚½‚©‚Ì—l[r]
-‚ÉAˆ¤‰t‚ª”ò‚Ño‚µ‚Ä—ˆ‚½B[pcms]
+Saeki's body began to tremble again.[l][er]
+It was shaking much more intensely than before.[l][er]
+And in sync with that, as if she had leaked, her love juices[r]came gushing out.[pcms]
 
 *v3132|
 [fc]
 [vo_sa s="sae0990"]
-[ns]²”Œ[nse]
-u‚ÜA‚Ü‚½ƒbII@‚¢‚â‚ŸƒbII@‚³‚Á‚«‚İ‚½‚¢‚Écc[r]
-‰½‚ªo‚éƒbII@‚¤‚Ÿ‚Ÿ‚Ÿ‚ÁII@‚ [[[[‚ÁIIv[pcms]
+[ns]Saeki[nse]
+A-Again!! Noo!! Like earlier...[l][er]
+what's coming out?! Uwaaa!! Ahhhhh!![pcms]
 
 *7853|
 [fc]
-[ns]‰Á“¡[nse]
-u‚­‚Áccv[pcms]
+[ns]Kato[nse]
+*grunt*...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -765,24 +745,22 @@
 
 *7854|
 [fc]
-²”Œ‚Ì”ß–Â‚É‡‚í‚¹‚ÄA’†‚ªŒƒ‚µ‚­ûk‚µ‚ÄA‰´‚Ìƒ‚ƒm[r]
-‚ÆA‘å—Ê‚Ìˆ¤‰t‚ªŠO‚É‰Ÿ‚µo‚³‚ê‚½B[pcms]
+In response to Saeki's screams, her insides contracted[r]intensely, and my thing and a large amount of love juice[r]were pushed out.[pcms]
 
 *7855|
 [fc]
-ƒkƒ‹ƒŠ‚Æ‚µ‚½Š´G‚ÆA”M‚¢ˆ¤‰t‚ÌhŒƒ‚ğó‚¯‚ÄA‚Ü‚½ŒÀ[r]
-ŠE‚ğŒü‚©‚¦‚½BŠO‚É”ò‚Ño‚µ‚½‰´‚Ìƒ‚ƒm‚ªA¨‚¢‚æ‚­’µ[r]
-‚Ëã‚ª‚éB[pcms]
+With a slippery sensation and the stimulation of hot love[r]juices, I reached my limit once again.[l][er]
+My thing, which had jumped out, bounced back vigorously.[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
 
 [stop_se0]
 
-;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
 
 [stop_se1]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 
 [se0 storage="se062"]
 
@@ -811,16 +789,15 @@
 
 *7856|
 [fc]
-‰Ÿ‚µo‚³‚ê‚½‚Ì‚Æ“¯‚ÉA‰´‚Ìƒ‚ƒm‚©‚çA¸‰t‚ª•¬‚«o[r]
-‚µ‚ÄA²”Œ‚ÌK‚É~‚è’‚®B[pcms]
+At the same time as being pushed out, semen gushed out from[r]my thing and poured onto Saeki's butt.[pcms]
 
 *v3133|
 [fc]
 [vo_sa s="sae0991"]
-[ns]²”Œ[nse]
-u‚¤‚ ‚ ‚ ‚ ‚ÁII@‚¨K‚É”M‚¢‚Ì‚ªƒbII@‚¤‚Ÿ‚ ‚ [r]
-‚ cc‚ ‚ ‚ ‚ cc‚Í‚ŸccI@‚ñ‚Ÿ‚ ‚ I@‘òRŠ|‚©[r]
-‚Á‚Ä‚éƒbII@‚ ‚£‚£‚Áccv[pcms]
+[ns]Saeki[nse]
+Uwaaa!! It's hot on my butt!! Uwaaa...[l][er]
+ahhh... haa...! Naaaah! There's so much of it!![l][er]
+Ahh...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -837,10 +814,10 @@
 
 *7857|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Í‚ ‚ÁccA‚Í‚ ‚ÁccA‚¤‚Ÿ‚Ÿ‚ÁI@‚Ü‚½Ao‚éƒbIv[pcms]
+[ns]Kato[nse]
+Haa... haa... Uwaaa! It's coming out again![pcms]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 
 [se0 storage="se062"]
 
@@ -860,52 +837,51 @@
 *v3134|
 [fc]
 [vo_sa s="sae0992"]
-[ns]²”Œ[nse]
-u‚¢‚â‚Ÿ‚Ÿ‚Ÿ‚ ‚ÁII@‚ ‚Â‚¢‚¡‚¡ƒbII@‚¤‚Ÿccv[pcms]
+[ns]Saeki[nse]
+Noooo!! It's hot!! Ugh...[pcms]
 
 ;//whiteout
 
 [bg storage="effect_white"][trans_c cross time=500]
 
-;//ôFBGM008ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 
 [fadeoutbgm time=500]
 
 *7858|
 [fc]
-K‚ğ—¬‚ê—‚¿‚é¸‰t‚ÆA²”Œ‚Ìšb‚®º‚ÅAhŒƒ‚ğ—^‚¦‚Ä[r]
-‚¢‚È‚¢‚É‚à‚©‚©‚í‚ç‚¸A‚Ü‚½Ë¸‚µ‚Ä‚µ‚Ü‚Á‚½B[pcms]
+Despite not providing any stimulation, I ejaculated again[r]due to the semen flowing down Saeki's butt and her moaning[r]voice.[pcms]
 
 *7859|
 [fc]
-‰´‚ÌA‚Ô‚Á‰ó‚ê‚½‚Ì‚©‚ÈccB[pcms]
+Did I break her...?[pcms]
 
-;//‚±‚±‚Ü‚Å–{•Ò
+;//ã“ã“ã¾ã§æœ¬ç·¨
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
-;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
-;•s—v[eval exp="="sf.g_scn39 = 1"]
+;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
+;ä¸è¦[eval exp="="sf.g_scn39 = 1"]
 
-;//ƒEƒBƒ“ƒhƒEÁ‹
+;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//•‚ÉƒtƒF[ƒh
+;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 
-;BGM’â~
+;BGMåœæ­¢
 [fadeoutbgm time=500]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[07280]‚Ö
+;//[07280]ã¸
 [jump target=*07280_TOP storage="07280.ks"]
 
 

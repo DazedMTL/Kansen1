@@ -1,40 +1,40 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02075wEˆõºx
-;//BG:EˆõºF–éF“_“”
-;//“oêl•¨GålŒöE—DEƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02075ã€è·å“¡å®¤ã€
+;//BG:è·å“¡å®¤ï¼šå¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02075_TOP
-;[debug_win]‚È‚¤@02075[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02075 = 1"]
+;[debug_win]ãªã†ã€€02075[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02075 = 1"]
 
-;*SceneSet|wEˆõºx
+;*SceneSet|ã€è·å“¡å®¤ã€
 
 ;//[02075]
 
-;//flag:—Dƒ‹[ƒgƒtƒ[@‚Q@•\¦
-;//ôFBGM001
+;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼’ã€€è¡¨ç¤º
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//BG:bg012d
 [bg storage="bg12d"]
 [trans_c cross time=500]
 
-;//SE:”à‚ğŠJ‚¯‚é
+;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
 [se0 storage="se008"]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v687|
 [fc]
 [vo_ya s="yama0194"]
-[ns]RŠİ[nse]
-u„AEˆõº‚É‰‚ß‚Ä“ü‚Á‚½ccv[pcms]
+[ns]Yamagishi[nse]
+I entered the staff room for the first time...[pcms]
 
 ;//BG:bg012c
 [bg storage="bg12c"]
@@ -42,26 +42,25 @@
 
 *1609|
 [fc]
-[ns]‰Á“¡[nse]
-u‰´‚àcc‚¤‚íccv[pcms]
+[ns]Kato[nse]
+Me too... Uwa...[pcms]
 
 *1610|
 [fc]
-‰´‚Í‚±‚ÌŠwZ‚É“üŠw‚µ‚Ä‚©‚ç“ñ”NŠÔAˆê“x‚àEˆõº‚Ì’†[r]
-‚É“ü‚Á‚½‚±‚Æ‚ª‚È‚©‚Á‚½B[pcms]
+I have never entered the staff room once in the two years[r]since I enrolled in this school.[pcms]
 
 *1611|
 [fc]
-[ns]‰Á“¡[nse]
-u‚±‚ê‚ªEˆõº‚©ccv[pcms]
+[ns]Kato[nse]
+So this is the staff room...[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 ;[black_toplayer][trans_c cross time=500][hide_chara_int]
 
-;mm •‚Æ“¯‚É“§‰ß‚É‚µ‚Ä‚¨‚­
+;mm é»’ã¨åŒæ™‚ã«é€éã«ã—ã¦ãŠã
 [bg storage="effect_black"]
 [ChrSetEx layer=1 chbase="sae_c_a_01" opacity=204]
 [ChrSetXY layer=1 x=0 y=0]
@@ -72,42 +71,37 @@
 
 *1612|
 [fc]
-‚Ó‚ÆA“ñl‚ÌŠç‚ªv‚¢•‚‚©‚ñ‚¾B^–ç‚ÆA²”Œ‚ÌŠç‚ªB[pcms]
+Suddenly, the faces of two people came to mind.[l][er]
+Shinya and Saeki's faces.[pcms]
 
 *1613|
 [fc]
-‘O‚É^–ç‚©‚ç•·‚¢‚½˜b‚Å‚ÍA‚ ‚¢‚Â‚Æ²”Œ‚ÍEˆõº‚Ìí[r]
-˜A‚¾‚»‚¤‚¾Bæ¶’B‚É‚àAŠç‚ğŠo‚¦‚ç‚ê‚Ä‚¢‚é‚ç‚µ‚¢B[pcms]
+According to what Shinya told me before, it seems that both[r]Yuuji and Saeki are regulars in the staff room.[l][er]
+It seems that even the teachers remember their faces.[pcms]
 
 *1614|
 [fc]
-‚Ü‚ŸA‚ ‚Ì“ñl‚ª‚±‚±‚É—ˆ‚é——RA‰½‚Æ‚È‚­•ª‚©‚éccB[pcms]
+Well, I somehow understand the reason why those two come[r]here...[pcms]
 
 *1615|
 [fc]
-ƒeƒXƒg‚ÅÔ“_æ‚Á‚ÄŒÄ‚Ño‚³‚êAæ¶‚ÉƒCƒ^ƒYƒ‰‚µ‚½‚Ì[r]
-‚ªƒoƒŒ‚ÄŒÄ‚Ño‚³‚êAö‹Æ’†‚É[r]
-‚¨‚â‚ÂH‚×‚Ä‚é‚Ì‚ªŒ©‚Â‚©‚Á‚ÄŒÄ‚Ño‚³‚êccB[pcms]
+I failed a test and got called out, then got called out for[r]playing pranks on the teacher, and got called out for eating[r]snacks during class...[pcms]
 
 *1616|
 [fc]
-‚»‚¤‚â‚Á‚ÄŒÄ‚Ño‚³‚ê‚Ä‚¨à‹³‚³‚ê‚Ä‚é‚ÉA²”Œ‚ª¶[r]
-“k‰ï‚Ì—p–‚©‰½‚©‚ÅEˆõº‚É—ˆ‚½‚Ì‚ğA^–ç‚ÍŒ©‚©‚¯‚Ä[r]
-‚¢‚½‚ñ‚¾‚ë‚¤B[pcms]
+It seems that Shinya had seen Saeki coming to the staff room[r]while he was being called out and lectured for something,[r]probably for some student council business or something.[pcms]
 
 *1617|
 [fc]
-“¯‚¶Eˆõº‚Ìí˜A‚Å‚àA‚»‚¤‚È‚Á‚½——R‚ÍA[r]
-‚í‚©‚è‚â‚·‰ß‚¬‚é‚®‚ç‚¢ˆá‚¤‚İ‚½‚¢‚¾‚ÈccB[pcms]
+It seems that even though they are regulars in the same[r]staff room, the reasons for that are quite different, almost[r]too easy to understand...[pcms]
 
-;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
+;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
 [bg storage="bg12c"]
 [trans_c cross time=500]
 
 *1618|
 [fc]
-‹»–¡’ÃX‚Æ‚¢‚Á‚½—lq‚ÅAº“à‚ğƒLƒ‡ƒƒLƒ‡ƒŒ©‰ñ‚µ‚Ä[r]
-‚¢‚½RŠİ‚³‚ñ‚ªAº‚ğã‚°‚Ä•”‰®‚Ì‹÷‚ğw‚³‚µ‚½B[pcms]
+Yamagishi-san, who was looking around the room with great[r]interest, suddenly raised her voice and pointed to a corner[r]of the room.[pcms]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
@@ -115,90 +109,86 @@
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v688|
 [fc]
 [vo_ya s="yama0195"]
-[ns]RŠİ[nse]
-u‚·‚²`‚¢I@‰Á“¡ŒNAŒ©‚ÄŒ©‚ÄA‚Ù‚ç‚ ‚êIv[pcms]
+[ns]Yamagishi[nse]
+Wow~! Kato-kun, look, look, over there![pcms]
 
 *1619|
 [fc]
-RŠİ‚³‚ñ‚ªw‚³‚·æ‚ğŒ©‚é‚ÆA–{Ši“I‚È•ú‘—İ”õ‚ª•”‰®[r]
-‚Ì‹÷‚Éİ’u‚³‚ê‚Ä‚¢‚½B[pcms]
+When I looked at the direction Yamagishi-san was pointing, I[r]saw that there was a fully equipped broadcasting facility[r]installed in the corner of the room.[pcms]
 
 *1620|
 [fc]
-[ns]‰Á“¡[nse]
-uƒXƒQƒF‚È‚ ‚è‚áccBæ¶‚ªŒÄ‚Ño‚µ‚·‚é‚ÍA‚±‚±[r]
-‚©‚ç‚â‚Á‚Ä‚é‚ñ‚¾‚È[v[pcms]
+[ns]Kato[nse]
+Wow, that's amazing... So when the teacher calls someone[r]out, they do it from here, huh?[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v689|
 [fc]
 [vo_ri s="risa0209"]
-[ns]V“¹[nse]
-u‚ ‚ê‚ª‚ ‚é‚ÆA•ú‘—º‚Ü‚Å‚í‚´‚í‚´s‚©‚È‚­‚ÄÏ‚Ş‚©[r]
-‚çA¶“k‚ğŒÄ‚Ño‚µ‚â‚·‚­‚Ä•Ö—˜‚È‚Ì‚æv[pcms]
+[ns]Shindou[nse]
+Having that (broadcasting facility)[l][er]
+makes it convenient and easy to call out students without[r]having to go all the way to the broadcasting room.[pcms]
 
 *1621|
 [fc]
-‚¾‚©‚çŒÄ‚Î‚ê‚È‚¢‚æ‚¤‚É‹C‚ğ‚Â‚¯‚È‚³‚¢‚ËA‚Æ‚Å‚àŒ¾‚¢[r]
-‚½‚°‚ÉAV“¹æ¶‚ªÎ‚¤B[pcms]
+So make sure you don't get called out, okay?[l][er]
+Shindou-sensei laughs as if she wants to say that.[pcms]
 
 *1622|
 [fc]
-‚È‚é‚Ù‚ÇA^–ç‚ªí˜A‚É‚È‚é‚í‚¯‚¾ccB[pcms]
+I see, so Shinya became a regular...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v690|
 [fc]
 [vo_ri s="risa0210"]
-[ns]V“¹[nse]
-u‚³‚ŸA‚à‚¤o‚Ü‚µ‚å‚¤B‚±‚êˆÈãA‚±‚±‚É‚¢‚Ä‚àd•û[r]
-‚È‚¢‚ív[pcms]
+[ns]Shindou[nse]
+Now, let's go. There's no point in staying here any longer.[pcms]
 
 *1623|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ Aæ¶B‚ ‚Ìƒ}ƒCƒN‚ÅŒÄ‚Ño‚µ‚½‚ç‚Ç‚¤ƒX‚©H@•à[r]
-‚¢‚Ä‘{‚µ‰ñ‚é‚æ‚èA‚»‚Ì•û‚ª‘‚¢‚Æv‚¤‚ñƒX‚¯‚Çv[pcms]
+[ns]Kato[nse]
+Oh, sensei. What if we use that microphone to call someone[r]out?[l][er]
+I think it would be faster than walking around searching for[r]them.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v691|
 [fc]
 [vo_ri s="risa0211"]
-[ns]V“¹[nse]
-u‚»‚¤‚Ëcc‚Å‚à^–é’†‚¾‚µA‚¢‚­‚ç‚±‚±‚ªR‚Ì’†‚¾‚Æ[r]
-Œ¾‚Á‚Ä‚àA‘å‚«‚È‰¹‚ğo‚·‚Ì‚Í‹C‚ªˆø‚¯‚é‚ív[pcms]
+[ns]Shindou[nse]
+I see... But it's midnight, and even though we're in the[r]mountains, I hesitate to make a loud noise.[pcms]
 
 *1624|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤ƒX‚©‚Ÿccv[pcms]
+[ns]Kato[nse]
+Is that so...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v692|
 [fc]
 [vo_ri s="risa0212"]
-[ns]V“¹[nse]
-u‚¢‚È‚­‚È‚Á‚½‚Æ‚¢‚Á‚Ä‚àAZÉ“à‚É‚Í‚¢‚é‚Å‚µ‚å‚¤‚µA[r]
-‚à‚µ‚©‚µ‚½‚çA‚à‚¤‹’®Šoº‚É–ß‚Á‚Ä‚«‚Ä‚¢‚é‚©‚à’m[r]
-‚ê‚È‚¢‚íB‚¢‚Á‚½‚ñA‚ ‚¿‚ç‚É–ß‚Á‚Ä‚İ‚Ü‚µ‚å‚¤v[pcms]
+[ns]Shindou[nse]
+Even if they're gone, they might still be inside the school[r]building.[l][er]
+They might have already returned to the audio-visual room.[l][er]
+Let's go back there for now and check.[pcms]
 
 *1625|
 [fc]
-æ¶‚ÌŒ¾—t‚É‚¤‚È‚¸‚¢‚ÄA‰´’B‚ÍEˆõº‚ğ‚ ‚Æ‚É‚µA‹[r]
-’®Šoº‚ÖŒü‚©‚Á‚½B[pcms]
+Nodding in agreement with the teacher's words, we left the[r]staff room and headed towards the audio-visual room.[pcms]
+[l][er]
 
 ;//blackout
 
@@ -210,30 +200,30 @@
 
 ;;;[sysbt_meswin]
 
-;//¦ğŒ•ªŠò
-;//Eflag:—Dƒ‹[ƒgƒNƒŠƒA@‚ªOFF;//[02076]‚Ö
-;//Eflag:—Dƒ‹[ƒgƒNƒŠƒA@‚ªON;//[03020]‚Ö
+;//â€»æ¡ä»¶åˆ†å²
+;//ãƒ»flag:å„ªãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒOFF;//[02076]ã¸
+;//ãƒ»flag:å„ªãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒON;//[03020]ã¸
 
 [if exp="sf.g_yuu_clear==0"]
 	[jump target=*02076_TOP storage="02076.ks"]
 [endif]
 
-;BGM’â~
+;BGMåœæ­¢
 [fadeoutbgm time=500]
 
 
-*ZAP04|ƒUƒbƒsƒ“ƒO‘I‘ğˆ@’|“à
+*ZAP04|ã‚¶ãƒƒãƒ”ãƒ³ã‚°é¸æŠè‚¢ã€€ç«¹å†…
 
-;ƒoƒbƒNƒƒOƒLƒƒƒ‰w’è
-[eval exp="f.zap_sel_chara01 = '@’|“à'"]
-[eval exp="f.zap_sel_chara02 = '@ƒLƒƒƒ“ƒZƒ‹'"]
+;ãƒãƒƒã‚¯ãƒ­ã‚°ã‚­ãƒ£ãƒ©æŒ‡å®š
+[eval exp="f.zap_sel_chara01 = 'ã€€ç«¹å†…'"]
+[eval exp="f.zap_sel_chara02 = 'ã€€ã‚­ãƒ£ãƒ³ã‚»ãƒ«'"]
 
 [zap_set1]
 
 [eval exp="f.zap_bt01_x = 200"][eval exp="f.zap_bt01_y = 200"]
 [eval exp="f.zap_bt99_x = 320"][eval exp="f.zap_bt99_y = 540"]
 
-;ƒ{ƒ^ƒ“
+;ãƒœã‚¿ãƒ³
 [locate x="&f.zap_bt01_x" y="&f.zap_bt01_y"][button graphic="zap_take_"   target=*SEL00_take   recthit=true]
 [locate x="&f.zap_bt99_x" y="&f.zap_bt99_y"][button graphic="zap_cancel" target=*SEL00_cancel recthit=true]
 
@@ -242,7 +232,7 @@
 [s]
 ;-------------------------------------------------
 *SEL00_take
-[zap_hisout txt="ƒUƒbƒsƒ“ƒO"][zap_hisout txt="&f.zap_sel_chara01 "][zap_hisout txt="@‘I‘ğ"][hr][hr]
+[zap_hisout txt="ã‚¶ãƒƒãƒ”ãƒ³ã‚°"][zap_hisout txt="&f.zap_sel_chara01 "][zap_hisout txt="ã€€é¸æŠ"][hr][hr]
 [zap_clear]
 [image storage="zap_take"  layer=1 left="&f.zap_bt01_x" top="&f.zap_bt01_y" page=fore visible=true opacity=255]
 [image storage="zap_cancel" layer=2 left="&f.zap_bt99_x" top="&f.zap_bt99_y" page=fore visible=true opacity=255 clipleft=0 cliptop=0 clipwidth=160 clipheight=40]
@@ -253,7 +243,7 @@
 
 ;-------------------------------------------------
 *SEL00_cancel
-[zap_hisout txt="ƒUƒbƒsƒ“ƒO"][zap_hisout txt="&f.zap_sel_chara02 "][zap_hisout txt="@‘I‘ğ"][hr][hr]
+[zap_hisout txt="ã‚¶ãƒƒãƒ”ãƒ³ã‚°"][zap_hisout txt="&f.zap_sel_chara02 "][zap_hisout txt="ã€€é¸æŠ"][hr][hr]
 [zap_clear]
 [image storage="zap_take_" layer=1 left="&f.zap_bt01_x" top="&f.zap_bt01_y" page=fore visible=true opacity=255 clipleft=0 cliptop=0 clipwidth=400 clipheight=120]
 [black_toplayer][trans_c random time=1000][hide_chara_int]

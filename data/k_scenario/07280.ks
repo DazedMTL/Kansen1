@@ -1,18 +1,18 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN07280w‡–°x
-;//BG;’n‰ººFÁ“”
-;//“oêl•¨FålŒöE“µ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07280ã€ç¡çœ ã€
+;//BG;åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»ç³
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *07280_TOP
-;[debug_win]‚È‚¤@07280[debug_win_end]
+;[debug_win]ãªã†ã€€07280[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07280 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07280 = 1"]
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 
 ;//;//BG:bg23b
 
@@ -30,18 +30,17 @@
 *v3135|
 [fc]
 [vo_sa s="sae0993"]
-[ns]²”Œ[nse]
-u‚·‚£ccv[pcms]
+[ns]Saeki[nse]
+*sigh*...[pcms]
 
 *7861|
 [fc]
-‚ ‚ñ‚È‚Éšb‚¢‚Å‚¢‚½²”Œ‚ÍAI‚í‚Á‚Ä‚·‚®‚É‹C‚ğ¸‚¢A[r]
-‚»‚Ì‚Ü‚Ü–°‚Á‚Ä‚µ‚Ü‚Á‚½B[r]
-‰‚ß‚Ä‚¾‚Á‚½‚©‚çA”æ‚ê‚½‚Ì‚©B[pcms]
+Saeki, who was moaning so much, immediately lost[r]consciousness and fell asleep after it was over.[l][er]
+Maybe it was because it was her first time, she must have[r]been tired.[pcms]
 
 *7862|
 [fc]
-‰´‚à–Ò—ó‚É–°‚­‚È‚Á‚Ä‚«‚½B[pcms]
+I'm also becoming incredibly sleepy.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -57,8 +56,8 @@
 
 *7863|
 [fc]
-–°‚­‚Í‚È‚Á‚½‚¯‚ÇccB[r]
-—‚Ì“õ‚¢‚ªcc‹C‚É‚È‚éccB[pcms]
+I did become sleepy... but... the scent of a woman...[l][er]
+is bothering me...[pcms]
 
-;//[07290]‚Ö
+;//[07290]ã¸
 [jump target=*07290_H_TOP storage="07290_H.ks"]

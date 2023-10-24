@@ -1,24 +1,24 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02152wOŠK‹³º‚Öx
-;//BG:OŠK˜L‰ºFƒoƒŠƒP[ƒhF–é
-;//BG:OŠK‹³ºF–é
-;//“oêl•¨GålŒöE—DEƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02152ã€ä¸‰éšæ•™å®¤ã¸ã€
+;//BG:ä¸‰éšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰ï¼šå¤œ
+;//BG:ä¸‰éšæ•™å®¤ï¼šå¤œ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02152_H_TOP
-;[debug_win]‚È‚¤@02152_H[debug_win_end]
+;[debug_win]ãªã†ã€€02152_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 ;[if exp="tf.scene_mode == 0"][jump target=*02152][endif]
 ;[winset]
 
 ;	;;;[sysbt_meswin]
 ;
-;	;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;	;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 ;
-;	;//BGMEƒ‹[ƒvÄ¶
+;	;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;	[bgm003]
 ;
 ;	[bg storage="bg11d"]
@@ -31,16 +31,16 @@
 ;
 ;	[if exp="tf.scene_mode == 1"][jump target=*02152_1][endif]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *02152
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02152 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02152 = 1"]
 
-;*SceneSet|wOŠK‹³º‚Öx
+;*SceneSet|ã€ä¸‰éšæ•™å®¤ã¸ã€
 
-;//ôFBGM003
+;//â™ªï¼šBGM003
 
 [bgm003]
 
@@ -51,79 +51,72 @@
 
 *2773|
 [fc]
-V“¹æ¶‚ª‚¢‚é‹³º‚Ì‘O‚ÅA‰´‚Í”à‚Éè‚ğ‚©‚¯‚½‚Ü‚ÜA[r]
-ŠJ‚¯‚é‚Ì‚ğçSçO‚Á‚Ä‚¢‚½B[pcms]
+In front of the classroom where Teacher Shindou is, I[r]hesitated to open the door while my hand was on the[r]doorknob.[pcms]
 
 *2774|
 [fc]
-æ¶‚Íƒ‰ƒWƒI‚©‚ç‚Ìî•ñ‚ğ•·‚¢‚Ä‚¢‚é‚æ‚¤‚ÅA—«ƒAƒi[r]
-ƒEƒ“ƒT[‚ª’‚Á‚Ä‚¢‚éº‚ª•·‚±‚¦‚Ä‚­‚éB[pcms]
+It seems like Teacher Shindou is listening to information[r]from the radio, and I can hear the voice of a female[r]announcer speaking.[pcms]
 
 *2775|
 [fc]
-[ns]‰Á“¡[nse]
-uccccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦â€¦â€¦[l][er]
 
 *2776|
 [fc]
-V“¹æ¶‚ÌŠç‚ğŒ©‚é‚¾‚¯‚Å‚àA‚à‚Á‚ÆŒ¾‚¦‚ÎA“¯‚¶•”‰®[r]
-‚É‚¢‚é‚Ì‚³‚¦‚àA‹C‚Ü‚¸‚­v‚¦‚éB[pcms]
+Just seeing Teacher Shindou's face, or even being in the[r]same room with her, feels awkward.[pcms]
 
 *2777|
 [fc]
-‹C‚Ü‚¸‚³‚ğ‰ğÁ‚·‚é‚Ì‚ÉAæ¶‚É‚â‚½‚ç‚Æ˜b‚µ‚©‚¯‚é‚Ì[r]
-‚à”’X‚µ‚¢‚µA‚©‚Æ‚¢‚Á‚Ä‰½‚à’‚ç‚¸A•Ï‚É‹——£‚ğ’u‚­[r]
-‚Ì‚à‚¨‚©‚µ‚¢‚µccB[pcms]
+It's awkward to try to resolve the awkwardness by talking to[r]the teacher excessively, but it's also strange to not say[r]anything and keep a weird distance...[pcms]
 
 *2778|
 [fc]
-‚»‚ñ‚È‰´‚Ì–À‚¢‚ğŠ´‚¶æ‚Á‚½‚Ì‚©ARŠİ‚³‚ñ‚ª”à‚Éè‚ğ[r]
-L‚Î‚µA¬º‚Åš‘‚¢‚½B[pcms]
+Did Yamagishi-san sense my hesitation?[l][er]
+She reached out her hand to the door and whispered softly.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1064|
 [fc]
 [vo_ya s="yama0361"]
-[ns]RŠİ[nse]
-u„‚ª—lqŒ©‚é‚æv[pcms]
+[ns]Yamagishi[nse]
+I'll keep an eye on the situation.[pcms]
 
-;//SE:”à‚ğŠJ‚¯‚é
+;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
 
 [se0 storage="se008"]
 
 *2779|
 [fc]
-‰¹‚ğ—§‚Ä‚È‚¢‚æ‚¤‚É”à‚ğŠJ‚¯‚ÄARŠİ‚³‚ñ‚Í‹³º‚Ì’†‚É[r]
-“ª‚ğ“Ë‚Á‚ñ‚¾B[pcms]
+Yamagishi-san quietly opened the door and peeked her head[r]into the classroom.[pcms]
 
 *2780|
 [fc]
-‰´‚Íî‚¯‚È‚¢‹C‚¿‚Å‚¢‚Á‚Ï‚¢‚É‚È‚è‚È‚ª‚çARŠİ‚³‚ñ[r]
-‚ÌŒã‚ë‚É—§‚Á‚ÄA‘ål‚µ‚­‘Ò‚Á‚½B[pcms]
+I stood behind Yamagishi-san, feeling pathetic, and waited[r]quietly.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1065|
 [fc]
 [vo_ya s="yama0362"]
-[ns]RŠİ[nse]
-uæ¶AQ‚Ä‚é‚İ‚½‚¢B„’B‚à’†‚Å‹x‚à‚¤Hv[pcms]
+[ns]Yamagishi[nse]
+Teacher, it looks like you're sleeping.[l][er]
+Should we rest inside too?[pcms]
 
 *2781|
 [fc]
-RŠİ‚³‚ñ‚Ì’ñˆÄ‚ÉA‰´‚Í–³Œ¾‚Å‚¤‚È‚¸‚¢‚ÄA”E‚Ñ‘«‚Å‹³[r]
-º‚Ì’†‚É“ü‚Á‚½B[pcms]
+I silently nodded in agreement to Yamagishi-san's suggestion[r]and stealthily entered the classroom.[pcms]
 
 ;//BG:bg011d
 
@@ -133,50 +126,46 @@
 *v1066|
 [fc]
 [vo_ri s="risa0344"]
-[ns]V“¹[nse]
-uccccv[pcms]
+[ns]Shindou[nse]
+â€¦â€¦â€¦â€¦[l][er]
 
 *2782|
 [fc]
-˜L‰º‚É–Ê‚µ‚½•ÇÛ‚ÌÈ‚ÅAV“¹æ¶‚ÍŠ÷‚É‚¤‚Â‚Ô‚¹‚É‚È[r]
-‚èAÃ‚©‚ÉQ‘§‚ğ—§‚Ä‚Ä‚¢‚½B[pcms]
+At the seat near the wall facing the hallway, Teacher[r]Shindou was lying face down on the desk, quietly making[r]sleeping sounds.[pcms]
 
 *2783|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *2784|
 [fc]
-‰´‚Í”E‚Ñ‘«‚ÅV“¹æ¶‚ªQ‚Ä‚¢‚éÈ‚É‹ß‚Ã‚¢‚ÄA‚Â‚¯‚Á[r]
-‚Ï‚È‚µ‚É‚È‚Á‚Ä‚¢‚½ƒ‰ƒWƒI‚ÌƒXƒCƒbƒ`‚ğØ‚Á‚½B[pcms]
+I quietly approached the seat where Teacher Shindou was[r]sleeping and turned off the switch of the radio that had[r]been left on.[pcms]
 
 *2785|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚ê‚¶‚áA‰´’B‚à­‚µQ‚Ä‚¨‚±‚¤‚©v[pcms]
+[ns]Kato[nse]
+Well then, should we also take a little nap?[pcms]
 
 *02152_1
 
 *2786|
 [fc]
-‚¤‚È‚¸‚¢‚½RŠİ‚³‚ñ‚ÍAV“¹æ¶‚Ì‹ß‚­‚ÌÈ‚ÉÀ‚èA‰´[r]
-‚Í°‚É˜‚ğ‰º‚ë‚µ‚ÄA”w’†‚ğ•Ç‚É—a‚¯‚½B[pcms]
+Yamagishi-san, who nodded in agreement, sat in a seat near[r]Teacher Shindou, and I lowered myself to the floor, leaning[r]my back against the wall.[pcms]
 
 *2787|
 [fc]
-[ns]‰Á“¡[nse]
-uƒnƒ@ccv[pcms]
+[ns]Kato[nse]
+*sighs*[l][er]
 
 *2788|
 [fc]
-‰®ã‚Å’†“r”¼’[‚ÉQ‚Ä‚µ‚Ü‚Á‚½‚±‚Æ‚à‚ ‚Á‚ÄA‰´‚Í‚·‚®[r]
-‚É–°‹C‚ÉP‚í‚ê‚½B[pcms]
+Since I had dozed off halfway on the rooftop, I was[r]immediately overcome by drowsiness.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -184,5 +173,5 @@
 
 ;//blackout
 
-;//[02153]‚Ö
+;//[02153]ã¸
 [jump target=*02153_H_TOP storage="02153_H.ks"]

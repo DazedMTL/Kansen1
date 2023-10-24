@@ -1,20 +1,20 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02130w”š”­^‰Šãx
-;//BG:Šw‰€“ü‚èŒûF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöEƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02130ã€çˆ†ç™ºï¼ç‚ä¸Šã€
+;//BG:å­¦åœ’å…¥ã‚Šå£ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02130_TOP
-;[debug_win]‚È‚¤@02130[debug_win_end]
+;[debug_win]ãªã†ã€€02130[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02130 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02130 = 1"]
 
-;*SceneSet|w”š”­^‰Šãx
+;*SceneSet|ã€çˆ†ç™ºï¼ç‚ä¸Šã€
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 
 ;//[bgm009]
 
@@ -25,71 +25,67 @@
 
 *2448|
 [fc]
-[ns]‰Á“¡[nse]
-uæ¶A—‚¿’…‚¢‚Ä‚­‚¾‚³‚¢B‰ö‰ä‚µ‚Ä‚Ü‚¹‚ñ‚©Hv[pcms]
+[ns]Kato[nse]
+Teacher, please calm down. Are you injured?[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v965|
 [fc]
 [vo_ri s="risa0308"]
-[ns]V“¹[nse]
-u‚¦A‚¦‚¦A‘½•ªccv[pcms]
+[ns]Shindou[nse]
+U-um, y-yes, probably...[pcms]
 
 *2449|
 [fc]
-Œ©‚½ŒÀ‚èoŒŒ‚Í‚È‚¢‚©‚çAŒŒ‚ªo‚é‚æ‚¤‚È‰ö‰ä‚Í‚µ‚Ä‚¢[r]
-‚È‚¢‚æ‚¤‚¾‚ªA‘Ì‚Ì‚Ç‚±‚©‚ğ‹­‚­‘Å‚Á‚Ä‚¢‚é‚©‚à‚µ‚ê‚È[r]
-‚¢B[pcms]
+From what I can see, there doesn't seem to be any bleeding,[r]so it doesn't appear that there is a wound that is bleeding.[l][er]
+However, it's possible that she may have hit some part of[r]her body hard.[pcms]
 
 *2450|
 [fc]
-“ª‚ğ‘Å‚Á‚Ä‚½‚èAœÜ‚µ‚Ä‚È‚¯‚ê‚Î‚¢‚¢‚¯‚ÇccB[pcms]
+I hope she didn't hit her head or break any bones...[pcms]
 
 *2451|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¢‚Â‚Ü‚Å‚à‚±‚±‚É‚¢‚½‚çŠë‚È‚¢ƒX‚©‚çAæ‚è‚ ‚¦‚¸Z[r]
-É‚Ì’†‚É–ß‚Á‚ÄA‘Îô‚ğ—§‚Ä’¼‚µ‚Ü‚µ‚å‚¤v[pcms]
+[ns]Kato[nse]
+It's dangerous to stay here forever, so let's go back inside[r]the school building for now and reassess the situation.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v966|
 [fc]
 [vo_ri s="risa0309"]
-[ns]V“¹[nse]
-u‚Å‚àAÔ‚ªccv[pcms]
+[ns]Shindou[nse]
+But, the car...[pcms]
 
 *2452|
 [fc]
-[ns]‰Á“¡[nse]
-u‰´‚Ææ¶‚Ì“ñl‚¾‚¯‚¶‚áA“|‚ê‚½Ô‚ğŒ³‚É–ß‚·‚Ì‚Í–³[r]
-—‚Å‚·‚æBæ‚è‚ ‚¦‚¸’†‚Öccv[pcms]
+[ns]Kato[nse]
+It's impossible for just the two of us, me and the teacher,[r]to move the overturned car back to its original position.[l][er]
+For now, let's go inside...[pcms]
 
-;//SE:”š”­‰¹i‰“‚¢j
+;//SE:çˆ†ç™ºéŸ³ï¼ˆé ã„ï¼‰
 
 [se0 storage="se056"]
 
 *2453|
 [fc]
-V“¹æ¶‚Ì˜r‚ğˆø‚«AZÉ‚Ì’†‚Ö–ß‚ë‚¤‚Æ‚µ‚½uŠÔA’“[r]
-Ôê‚Ì•û‚©‚ç•¨¦‚¢Œ‰¹‚ª‹¿‚¢‚Ä‚«‚½B[pcms]
+As I pulled Shindou-sensei's arm and tried to go back inside[r]the school building, there was a tremendous roar coming from[r]the direction of the parking lot.[pcms]
 
 *2454|
 [fc]
-[ns]‰Á“¡[nse]
-u‚à‚µ‚©‚µ‚ÄAÔ‚ª”š”­‚µ‚½‚ñ‚¶‚áccv[pcms]
+[ns]Kato[nse]
+Could it be that the car exploded...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *2455|
 [fc]
-’“Ôê‚ªŒ©‚¦‚éˆÊ’u‚Ü‚Ås‚­‚ÆA‰¡‚É‚È‚Á‚Ä“|‚ê‚Ä‚¢‚é[r]
-V“¹æ¶‚ÌÔ‚ªA¨‚¢—Ç‚­‰Š‚ğã‚°‚Ä‚¢‚½B[pcms]
+When we reached a position where we could see the parking[r]lot, Shindou-sensei's car, which had fallen over and was[r]lying on its side, was vigorously engulfed in flames.[pcms]
 
-;//[02131]‚Ö
+;//[02131]ã¸
 [jump target=*02131_TOP storage="02131.ks"]

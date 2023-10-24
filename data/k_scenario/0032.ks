@@ -1,56 +1,52 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN0032w’¾–ÙA‚»‚ÌŒãE’TõŠJnFƒ‹[ƒg•ªŠòx
-;//BG:‹’®ŠoºF–é
-;//“oêl•¨GålŒöE—DE“µ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0032ã€æ²ˆé»™ã€ãã®å¾Œãƒ»æ¢ç´¢é–‹å§‹ï¼šãƒ«ãƒ¼ãƒˆåˆ†å²ã€
+;//BG:è¦–è´è¦šå®¤ï¼šå¤œ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *0032_TOP
-;[debug_win]‚È‚¤@0032[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0032 = 1"]
+;[debug_win]ãªã†ã€€0032[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0032 = 1"]
 
-;*SceneSet|w’¾–ÙA‚»‚ÌŒãE’TõŠJnx
+;*SceneSet|ã€æ²ˆé»™ã€ãã®å¾Œãƒ»æ¢ç´¢é–‹å§‹ã€
 
 ;//[0032]
 
-;//flag:ƒvƒƒ[ƒOƒUƒbƒsƒ“ƒOƒp[ƒg@ŠJ•ú@on
+;//flag:ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ã‚¶ãƒƒãƒ”ãƒ³ã‚°ãƒ‘ãƒ¼ãƒˆã€€é–‹æ”¾ã€€on
 
-;//flag:ƒvƒƒ[ƒOƒtƒ[@‰æ–Ê@•\¦@on
-;//flag:ƒvƒƒ[ƒOƒtƒ[@‚PD‚QD‚RD‚S@•\¦@on
+;//flag:ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ãƒ•ãƒ­ãƒ¼ã€€ç”»é¢ã€€è¡¨ç¤ºã€€on
+;//flag:ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ãƒ•ãƒ­ãƒ¼ã€€ï¼‘ï¼ï¼’ï¼ï¼“ï¼ï¼”ã€€è¡¨ç¤ºã€€on
 
 ;//BG:bg015d
 ;g[bg storage="bg15c"]
 ;g[trans_c cross time=500]
-;//ôFBGM007ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 [bgm007]
 
 *754|
 [fc]
-^–çA—S“ñAŒÜ\—’ƒTƒ“B[pcms]
+Shinya, Yuuji, Igarashi-san.[pcms]
 
 *755|
 [fc]
-‚ ‚¢‚Â‚ç‚Íˆê‘ÌA‚¢‚Â‹’®Šoº‚ğ”²‚¯o‚µ‚ÄA[r]
-‚»‚µ‚Ä‚Ç‚±‚Ös‚Á‚½‚ñ‚¾‚ë‚¤B[pcms]
+I wonder when and where those guys escaped from the[r]audiovisual room.[pcms]
 
 *756|
 [fc]
-­‚È‚­‚Æ‚àAŠwZ‚Ì’†‚É‚¢‚é‚Í‚¸‚¾B[r]
-‚±‚ÌŠÔ‚É’Ê‚é‚É‚ÍAŠX‚É‘±‚­R“¹‚ÍˆÃ‚­A[r]
-ŠëŒ¯‚·‚¬‚é‚©‚ç‚¾B[pcms]
+At the very least, they should be inside the school.[l][er]
+It's too dark and dangerous to pass through the mountain[r]path that leads to the town at this hour.[pcms]
 
 *757|
 [fc]
-”ÍˆÍ‚Í‚¿‚å‚Á‚ÆL‚¢‚¯‚ÇA[r]
-ŠwZ‚Ì•~’n“à‚ğ‘{‚¹‚ÎŒ©‚Â‚©‚é‚Í‚¸‚¾B[pcms]
+The area is a bit wide, but they should be found if we[r]search within the school grounds.[pcms]
 
 *758|
 [fc]
-[ns]‰Á“¡[nse]
-uæ¶‚ğ‘{‚·‚Â‚¢‚Å‚¾A‚¢‚È‚­‚È‚Á‚½‚â‚Â‚ç‚àˆê‚É‘{[r]
-‚»‚¤Bæ¶‚Éw¦‚ğó‚¯‚é‚È‚çA‘Sˆõ‘µ‚Á‚Ä‚¢‚½•û‚ª‚¢[r]
-‚¢‚¾‚ëHv[pcms]
+[ns]Kato[nse]
+While we're searching for the teacher, let's also search for[r]those who have gone missing.[l][er]
+It would be better if we were all together if we're[r]receiving instructions from the teacher, right?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=0 y=0]
@@ -62,14 +58,14 @@
 
 *759|
 [fc]
-RŠİ‚³‚ñ‚à²”Œ‚àA‰´‚Ì’ñˆÄ‚Éèõ‚¢‚½B[pcms]
+Both Yamagishi-san and Saeki nodded in agreement with my[r]proposal.[pcms]
 
 *760|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚ê‚¶‚áAOl‚Åè•ª‚¯‚µ‚Ä‘{‚»‚¤BV“¹æ¶‚ğŒ©‚Â[r]
-‚¯‚½‚çAó‹µ‚ğ•ñ‚µ‚Äw¦‚ğ‚à‚ç‚¤B‘¼‚Ì’N‚©‚ğŒ©‚Â[r]
-‚¯‚½‚çA‹’®Šoº‚Ö˜A‚ê‹A‚Á‚Ä‘Ò‹@v[pcms]
+[ns]Kato[nse]
+In that case, let's split up and search.[l][er]
+If we find Shindou-sensei, we'll report the situation and[r]get instructions.[l][er]
+If we find anyone else, let's bring them back to the[r]audiovisual room and wait.[pcms]
 
 [backlay_c][chara_int]
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
@@ -77,86 +73,83 @@
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v291|
 [fc]
 [vo_sa s="sae0081"]
-[ns]²”Œ[nse]
-u‚í‚©‚è‚Ü‚µ‚½v[pcms]
+[ns]Saeki[nse]
+Understood.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v292|
 [fc]
 [vo_ya s="yama0088"]
-[ns]RŠİ[nse]
-uƒIƒbƒP[Iv[pcms]
+[ns]Yamagishi[nse]
+Okay![pcms]
 
 *761|
 [fc]
-[ns]‰Á“¡[nse]
-u‚æ‚µA‚¶‚ás‚±‚¤‚©v[pcms]
+[ns]Kato[nse]
+Alright, let's go then.[pcms]
 
 ;//BG:bgbg005c
 
-;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
+;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
 [bg storage="bg05c"]
 [trans_c cross time=500]
 
 *762|
 [fc]
-‹’®Šoº‚ğo‚ÄARŠİ‚³‚ñ‚Æ²”Œ‚ª‚»‚ê‚¼‚ê•Ê‚Ì•ûŒü‚É[r]
-•à‚«n‚ß‚ÄA‚»‚Ìp‚ªŒ©‚¦‚È‚­‚È‚é‚Ü‚ÅA‰´‚Í‚»‚Ìê‚É[r]
-‚Æ‚Ç‚Ü‚Á‚Ä‚¢‚½B[pcms]
+After leaving the audiovisual room, Yamagishi-san and Saeki[r]started walking in different directions, and I stayed in[r]place until I couldn't see them anymore.[pcms]
 
 *763|
 [fc]
-[ns]‰Á“¡[nse]
-u‚³‚Äccv[pcms]
+[ns]Kato[nse]
+Well...[pcms]
 
 *764|
 [fc]
-Ol‚Åè•ª‚¯‚µ‚Ä‘{‚»‚¤A‚Æ‚ÍŒ¾‚Á‚½‚¯‚ÇA[r]
-‚»‚±‚É‚Í‰´‚Ìv˜f‚ª‚ ‚Á‚½B[pcms]
+Although I suggested that we split up and search, I had my[r]own intentions.[pcms]
 
 *765|
 [fc]
-‚ ‚Ìê‚Å‚ÍŒ¾‚¢o‚¹‚È‚¢v˜f‚ªB[pcms]
+There were hidden intentions that I couldn't express in that[r]situation.[pcms]
 
-;//A:‚±‚±‚ÅRŠİ‚³‚ñ‚ğ’Ç‚¢‚©‚¯‚ê‚ÎA“ñl‚«‚è‚É‚È‚ê‚éccB;//[02000]i—Dƒ‹[ƒgj‚Ö
-;//B:‹°‚ª‚è‚Ì²”Œ‚ÉA–é’†‚ÌŠwZ‚ğˆêl‚Å•à‚©‚¹‚é‚Ì‚Í‚©‚í‚¢‚»‚¤‚¾;//[05000]i“µƒ‹[ƒgj‚Ö
+;//A:ã“ã“ã§å±±å²¸ã•ã‚“ã‚’è¿½ã„ã‹ã‘ã‚Œã°ã€äºŒäººãã‚Šã«ãªã‚Œã‚‹â€¦â€¦ã€‚;//[02000]ï¼ˆå„ªãƒ«ãƒ¼ãƒˆï¼‰ã¸
+;//B:æãŒã‚Šã®ä½ä¼¯ã«ã€å¤œä¸­ã®å­¦æ ¡ã‚’ä¸€äººã§æ­©ã‹ã›ã‚‹ã®ã¯ã‹ã‚ã„ãã†ã ;//[05000]ï¼ˆç³ãƒ«ãƒ¼ãƒˆï¼‰ã¸
 
 *SEL00_0017
 
-*SEL01|‚±‚±‚ÅRŠİ‚³‚ñ‚ğ’Ç‚¢‚©‚¯‚ê‚Î^‹°‚ª‚è‚Ì²”Œ‚ÉA–é’†‚ÌŠwZ‚ğˆêl‚Å
+*SEL01|ã“ã“ã§å±±å²¸ã•ã‚“ã‚’è¿½ã„ã‹ã‘ã‚Œã°ï¼æãŒã‚Šã®ä½ä¼¯ã«ã€å¤œä¸­ã®å­¦æ ¡ã‚’ä¸€äººã§
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '‚±‚±‚ÅRŠİ‚³‚ñ‚ğ’Ç‚¢‚©‚¯‚ê‚ÎA“ñl‚«‚è‚É‚È‚ê‚écc'"]
-[eval exp="f.seltext04 = '‹°‚ª‚è‚Ì²”Œ‚ÉA–é’†‚ÌŠwZ‚ğˆêl‚Å•à‚©‚¹‚é‚Ì‚Í‚©‚í‚¢‚»‚¤‚¾'"]
+[eval exp="f.seltext02 = 'ã“ã“ã§å±±å²¸ã•ã‚“ã‚’è¿½ã„ã‹ã‘ã‚Œã°ã€äºŒäººãã‚Šã«ãªã‚Œã‚‹â€¦â€¦'"]
+[eval exp="f.seltext04 = 'æãŒã‚Šã®ä½ä¼¯ã«ã€å¤œä¸­ã®å­¦æ ¡ã‚’ä¸€äººã§æ­©ã‹ã›ã‚‹ã®ã¯ã‹ã‚ã„ãã†ã '"]
 
 
-[if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
-	;‘I‘ğˆ“à—e‚ğƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
+[if exp="tf.sys_sub == 0 || tf.é¸æŠè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
+	;é¸æŠè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[—š—ğo—Í•œ‹A]
+[å±¥æ­´å‡ºåŠ›å¾©å¸°]
 
-;‘I‘ğˆ•¶š“ü‚è‚«‚ç‚È‚¢‚©‚ç‹­ˆø‚É’²®
+;é¸æŠè‚¢æ–‡å­—å…¥ã‚Šãã‚‰ãªã„ã‹ã‚‰å¼·å¼•ã«èª¿æ•´
 [eval exp="sf.seltext_size = 24"]
 [eval exp="sf.sel_text_mt = 8"]
 
-;‘I‘ğˆƒx[ƒX
+;é¸æŠè‚¢ãƒ™ãƒ¼ã‚¹
 [selbase]
-;•¶š‚Ì¶ƒ}[ƒWƒ“
+;æ–‡å­—ã®å·¦ãƒãƒ¼ã‚¸ãƒ³
 [eval exp="sf.seltext_x = 80"]
 
 [sel02 target=*SEL00_0032_yuu]
@@ -168,17 +161,17 @@
 [sel_hisout txt="&f.seltext02"][hr]
 [fc]
 [selbt_clear]
-;‘I‘ğˆ•¶šƒTƒCƒY‚Æ‚©‰Šú’l‚É–ß‚µ
+;é¸æŠè‚¢æ–‡å­—ã‚µã‚¤ã‚ºã¨ã‹åˆæœŸå€¤ã«æˆ»ã—
 [eval exp="sf.seltext_size = 28"]
 [eval exp="sf.sel_text_mt = 6"]
 
 
-;mm ‚±‚±‚Ìƒ€[ƒr[Œ©‚Ä‚½‚çÄ¶‚µ‚È‚¢‚½‚ß‚©
+;mm ã“ã“ã®ãƒ ãƒ¼ãƒ“ãƒ¼è¦‹ã¦ãŸã‚‰å†ç”Ÿã—ãªã„ãŸã‚ã‹
 [if exp="sf.g_prologue_clear==1"]
 	[jump target=*SEL00_ZAP]
 [endif]
 
-;//ƒ€[ƒr[Ä¶
+;//ãƒ ãƒ¼ãƒ“ãƒ¼å†ç”Ÿ
 [call storage="movie_sub.ks" target=*Prologue_zap_open]
 
 [eval exp="sf.g_prologue_clear = 1"]
@@ -194,7 +187,7 @@
 [sel_hisout txt="&f.seltext04"][hr]
 [fc]
 [selbt_clear]
-;‘I‘ğˆ•¶šƒTƒCƒY‚Æ‚©‰Šú’l‚É–ß‚µ
+;é¸æŠè‚¢æ–‡å­—ã‚µã‚¤ã‚ºã¨ã‹åˆæœŸå€¤ã«æˆ»ã—
 [eval exp="sf.seltext_size = 28"]
 [eval exp="sf.sel_text_mt = 6"]
 
@@ -202,7 +195,7 @@
 	[jump target=*SEL01_ZAP]
 [endif]
 
-;//ƒ€[ƒr[Ä¶
+;//ãƒ ãƒ¼ãƒ“ãƒ¼å†ç”Ÿ
 [call storage="movie_sub.ks" target=*Prologue_zap_open]
 
 [eval exp="sf.g_prologue_clear = 1"]

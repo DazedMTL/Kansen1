@@ -1,20 +1,20 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02164we—F‚Æ‚ÌÄ‰ïx
-;//BG:‰®ãF’©
-;//“oêl•¨GålŒöE—DE’|“àE“µE“c’†E•ü”üEƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02164ã€è¦ªå‹ã¨ã®å†ä¼šã€
+;//BG:å±‹ä¸Šï¼šæœ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…ãƒ»ç³ãƒ»ç”°ä¸­ãƒ»æœ‹ç¾ãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02164_TOP
-;[debug_win]‚È‚¤@02164[debug_win_end]
+;[debug_win]ãªã†ã€€02164[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02164 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02164 = 1"]
 
-;*SceneSet|we—F‚Æ‚ÌÄ‰ïx
+;*SceneSet|ã€è¦ªå‹ã¨ã®å†ä¼šã€
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 
 ;//[bgm001]
 
@@ -23,85 +23,82 @@
 ;[bg storage="bg22d"]
 ;[trans_c cross time=500]
 
-;//SE:• ‚ª–Â‚é‰¹@¬‚³‚¢
+;//SE:è…¹ãŒé³´ã‚‹éŸ³ã€€å°ã•ã„
 
 [se0 storage="se036"]
 
 *2958|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚êH@¡‚Ìccv[pcms]
+[ns]Kato[nse]
+Huh? That just now...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;//SE:• ‚ª–Â‚é‰¹@‘å‚«‚¢
+;//SE:è…¹ãŒé³´ã‚‹éŸ³ã€€å¤§ãã„
 
 [se0 storage="se037"]
 
 *2959|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤‚íA‰´‚à‚¾v[pcms]
+[ns]Kato[nse]
+Ugh, me too.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *2960|
 [fc]
-•‚¯‚ª—ˆ‚½‚Ì‚ª‚í‚©‚Á‚ÄA‹Ù’£‚ª‰ğ‚¯‚½‚¹‚¢‚©A‰´’B‚Í[r]
-‹}‚É‹ó• ‚ğŠ´‚¶n‚ß‚Ä‚¢‚½B[pcms]
+We suddenly started feeling hungry, perhaps because we were[r]relieved to know that help had arrived.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1153|
 [fc]
 [vo_ya s="yama0441"]
-[ns]RŠİ[nse]
-u‚ ‚Í‚Í‚ÁI@‚¨‚ ‚¢‚±`Iv[pcms]
+[ns]Yamagishi[nse]
+Ahaha! It's a tie~![pcms]
 
 *2961|
 [fc]
-[ns]‰Á“¡[nse]
-uƒnƒnccv[pcms]
+[ns]Kato[nse]
+Haha...[pcms]
 
 *2962|
 [fc]
-l‚¦‚Ä‚İ‚ê‚ÎAğ“ú‚Ì’©‚©‚ç‰½‚àH‚×‚Ä‚¢‚È‚¢B[r]
-‚Å‚àARŠİ‚³‚ñ‚ÆÎ‚¢‡‚Á‚Ä‚¢‚é‚¾‚¯‚ÅA‚»‚ñ‚È‚±‚Æ‚Í[r]
-‚·‚®‚É–Y‚ê‚ç‚ê‚½B[pcms]
+Come to think of it, I haven't eaten anything since[r]yesterday morning.[l][er]
+But just by laughing together with Yamagishi-san, I quickly[r]forgot about such things.[pcms]
 
 *2963|
 [fc]
-‚¾‚ªA‚»‚ñ‚ÈK‚¹‚È‹C•ª‚àAŒ©Šo‚¦‚Ì‚ ‚éŠç‚Å‘Å‚¿Ó‚©[r]
-‚ê‚Ä‚µ‚Ü‚¤‚±‚Æ‚É‚È‚Á‚½B[pcms]
+However, that happy feeling was shattered by a familiar[r]face.[pcms]
 
-;//ôFBGM001ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM001ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 
 [fadeoutbgm time=500]
 
-;//SE:‹à–Ô‚ğ‚ä‚·‚é‰¹
+;//SE:é‡‘ç¶²ã‚’ã‚†ã™ã‚‹éŸ³
 
 [se0 storage="se032"]
 
-;//SE:˜L‰º‚ğ•à‚­‰¹
+;//SE:å»Šä¸‹ã‚’æ­©ãéŸ³
 
 [se0 storage="se067"]
 
-;//ôFBGM008ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 
 [bgm008]
 
-;—§‚¿
-;ƒŠƒT
+;ç«‹ã¡
+;ãƒªã‚µ
 
 [ChrSetEx layer=1 chbase="risa_a_e_01"]
 [ChrSetXY layer=1 x=180 y=0]
@@ -110,35 +107,35 @@
 
 *2964|
 [fc]
-[ns]‰Á“¡[nse]
-uV“¹Aæ¶ccv[pcms]
+[ns]Kato[nse]
+Shindou-sensei...[pcms]
 
-;—§‚¿
-;’|“à
+;ç«‹ã¡
+;ç«¹å†…
 
 [ChrSetEx layer=1 chbase="take_c_a_06"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 [wait_c time=500]
 
-;—§‚¿
-;“c’†
+;ç«‹ã¡
+;ç”°ä¸­
 
 [ChrSetEx layer=1 chbase="tanaka_b_a_10"]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 [wait_c time=500]
 
-;—§‚¿
-;•ü”ü
+;ç«‹ã¡
+;æœ‹ç¾
 
 [ChrSetEx layer=1 chbase="tomo_b_d_04"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 [wait_c time=500]
 
-;—§‚¿
-;“µ
+;ç«‹ã¡
+;ç³
 
 [ChrSetEx layer=1 chbase="sae_d_d_12"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -147,33 +144,31 @@
 
 *2965|
 [fc]
-”ñíŠK’i‚©‚çp‚ğŒ»‚µ‚½‚Ì‚ÍAV“¹æ¶‚Æ^–çA—S“ñ‚Æ[r]
-ŒÜ\—’ƒTƒ“cc‚»‚ê‚ÆA‹A‚Á‚½‚Æv‚Á‚Ä‚¢‚½²”ŒB[pcms]
+Emerging from the emergency staircase were Shindou-sensei,[r]Shinya, Yuuji, Yamagishi-san...[l][er]
+and Saeki, whom I thought had gone home.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *2966|
 [fc]
-‚İ‚ñ‚È‚»‚ê‚¼‚ê‚ÉA‚¨‚©‚µ‚ÈŠiD‚ğ‚µ‚Ä‚¢‚éB[r]
-p‚ğŒ©‚¹‚È‚©‚Á‚½ŠÔ‚É‰½‚ª‚ ‚Á‚½‚©A—eˆÕ‚É‘z‘œo—ˆ‚½B[pcms]
+Each of them was in a strange outfit.[l][er]
+It was easy to imagine what had happened while they were out[r]of sight.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_c_09"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1154|
 [fc]
 [vo_ya s="yama0442"]
-[ns]RŠİ[nse]
-uƒgƒ‚‚¿‚á‚ñcc“µ‚³‚ñ‚Ü‚Åccv[pcms]
+[ns]Yamagishi[nse]
+Tomo-chan... even Hitomi-san...[pcms]
 
 *2967|
 [fc]
-Œ»‚ê‚½ŒÜl‚ÉA“¯‚ÉƒtƒFƒ“ƒX‚Ì”àó‚Ì•”•ª‚ğ‰Ÿ‚µ‚Ü[r]
-‚êA”à‘O‚ÉÏ‚ñ‚Å‚ ‚Á‚½ƒxƒ“ƒ`‚àA‚¶‚í‚¶‚í‚Æ“®‚«n‚ß[r]
-‚½B[pcms]
+The five of them appeared and simultaneously pushed the[r]fence-like gate, causing the bench that was stacked in front[r]of the gate to slowly start moving.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_a_e_01"]
 [ChrSetXY layer=1 x=180 y=0]
@@ -181,32 +176,32 @@
 [trans_c cross time=150]
 [wait_c time=500]
 
-;—§‚¿
-;’|“à
+;ç«‹ã¡
+;ç«¹å†…
 
 [ChrSetEx layer=1 chbase="take_c_a_06"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 [wait_c time=500]
 
-;—§‚¿
-;“c’†
+;ç«‹ã¡
+;ç”°ä¸­
 
 [ChrSetEx layer=1 chbase="tanaka_b_a_10"]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 [wait_c time=500]
 
-;—§‚¿
-;•ü”ü
+;ç«‹ã¡
+;æœ‹ç¾
 
 [ChrSetEx layer=1 chbase="tomo_b_d_04"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 [wait_c time=500]
 
-;—§‚¿
-;“µ
+;ç«‹ã¡
+;ç³
 
 [ChrSetEx layer=1 chbase="sae_d_d_12"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -215,60 +210,55 @@
 *v1155|
 [fc]
 [vo_ya s="yama0443"]
-[ns]RŠİ[nse]
-u‚İcc‚İ‚ñ‚Èccv[pcms]
+[ns]Yamagishi[nse]
+E-Everyone...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *2968|
 [fc]
-[ns]‰Á“¡[nse]
-uƒNƒ\ccIIv[pcms]
+[ns]Kato[nse]
+Damn...!![pcms]
 
 *2969|
 [fc]
-ğ“ú‚Ü‚ÅAŒ–‰Ü‚µ‚½‚èAÎ‚¢‚ ‚Á‚Ä‚¢‚½’‡ŠÔ’B‚ªccB[r]
-‚½‚Á‚½ˆê”Ó‚ÅA‰´‚ÆRŠİ‚³‚ñˆÈŠO‚Ì’‡ŠÔ‚ÍA‚İ‚ñ‚ÈA‚¨[r]
-‚©‚µ‚­‚È‚Á‚Ä‚µ‚Ü‚Á‚Ä‚¢‚½B[pcms]
+Until yesterday, the friends who used to fight and laugh[r]together...[l][er]
+In just one night, everyone except me and Yamagishi-san had[r]become strange.[pcms]
 
 *2970|
 [fc]
-‚»‚µ‚ÄAw’‡ŠÔx‚¾‚Á‚½l’B‚ÍA‰´’B‚Ì–‚ğ‚Ü‚é‚ÅwŠl[r]
-•¨x‚ğ‚İ‚Â‚¯‚½b‚Ì—l‚ÉA‚¤‚È‚è‚È‚ª‚ç‹ß‚Ã‚¢‚Ä‚­‚éB[pcms]
+And then, the people who were once our comrades approached[r]us growling like beasts that had found their prey.[pcms]
 
 *2971|
 [fc]
-–¾‚ç‚©‚É‰´’B‚Ì–‚ğAwŠl•¨x‚Æ‚µ‚©Œ©‚Ä‚¢‚È‚¢‚©‚Â‚Ä[r]
-‚Ì’‡ŠÔ’B‚ÆA‰´’B‚ÌŠÔ‚Í‚Ç‚ñ‚Ç‚ñk‚Ü‚Á‚Ä‚¢‚­B[pcms]
+The distance between us and our former comrades, who clearly[r]only see us as prey, is rapidly shrinking.[pcms]
 
 *2972|
 [fc]
-”Ş‚ç‚Ì–Ú‚É‚ÍA‚à‚Í‚â—«‚Íc‚Á‚Ä‚¢‚È‚¢—l‚ÉŒ©‚¦‚½B[r]
-‚±‚Ì‚Ü‚Ü‚¶‚Á‚Æ‚µ‚Ä‚¢‚Ä‚ÍAw’‡ŠÔx’B‚ÉP‚í‚ê‚Ä‚µ‚Ü[r]
-‚¤B[pcms]
+In their eyes, it seemed like reason had completely[r]vanished.[l][er]
+If we stayed still like this, we would be attacked by our[r]comrades.[pcms]
 
 *2973|
 [fc]
-‚½‚¾‚¶‚Á‚ÆA”Ş‚ç‚É‚â‚ç‚ê‚é‚Ì‚ğ‘Ò‚Á‚Ä‚¢‚é–ó‚É‚Í‚¢‚©[r]
-‚È‚¢ccB‚Å‚àA”Ş‚ç‚ªP‚Á‚Ä‚«‚½‚çARŠİ‚³‚ñ‚ğç‚é[r]
-‚½‚ß‚ÉccB[pcms]
+I can't just sit here and wait for them to attack me...[l][er]
+But if they come at us, I have to protect Yamagishi-san...[pcms]
 
 *2974|
 [fc]
-RŠİ‚³‚ñ‚ğç‚éˆ×‚ÉA—§‚¿Œü‚©‚í‚È‚¯‚ê‚Î‚¢‚¯‚È‚¢I[pcms]
+I have to stand up and fight to protect Yamagishi-san![pcms]
 
 *2975|
 [fc]
-‚Å‚«‚éA‚Å‚«‚È‚¢‚Ì–â‘è‚¶‚á‚È‚¢B[pcms]
+It's not a matter of whether I can or cannot do it.[pcms]
 
 *2976|
 [fc]
-RŠİ‚³‚ñ‚Í‰´‚ª•K‚¸ç‚é‚Á‚ÄA–ñ‘©‚µ‚½‚ñ‚¾II@[r]
-‘Šè‚ª’N‚¾‚ë‚¤‚ªA‰½l‚¾‚ë‚¤‚ªccB[pcms]
+I promised Yamagishi-san that I will definitely protect[r]her!![l][er]
+No matter who the opponent is, no matter how many there[r]are...[pcms]
 
 *2977|
 [fc]
-ccâ‘ÎAç‚Á‚Ä‚İ‚¹‚éII[pcms]
+... I will definitely protect her!![pcms]
 
-;//[02165]‚Ö
+;//[02165]ã¸
 [jump target=*02165_TOP storage="02165.ks"]

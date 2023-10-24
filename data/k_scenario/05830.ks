@@ -1,15 +1,15 @@
 
-;//¡ËƒuƒƒbƒN05830wƒ‰ƒWƒI‚Rx
-;//;//BG:EˆõºF—[•ûFÁ“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05830ã€ãƒ©ã‚¸ã‚ªï¼“ã€
+;//;//BG:è·å“¡å®¤ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05830_TOP
-;[debug_win]‚È‚¤@05830[debug_win_end]
-;*SceneSet|wƒ‰ƒWƒI‚Rx
+;[debug_win]ãªã†ã€€05830[debug_win_end]
+;*SceneSet|ã€ãƒ©ã‚¸ã‚ªï¼“ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05830 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05830 = 1"]
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 
 [bgm008]
 
@@ -18,7 +18,7 @@
 [bg storage="bg12b"]
 [trans_c cross time=500]
 
-;//SE:”à‚ğŠJ‚¯‚éi¨‚¢‚æ‚­j
+;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹ï¼ˆå‹¢ã„ã‚ˆãï¼‰
 
 [se0 storage="se009"]
 
@@ -28,15 +28,14 @@
 
 *6223|
 [fc]
-Eˆõº‚Ì’†‚Él‚Ìp‚Í‚È‚­A˜b‚µº‚Æ‰¹Šy‚Ì”­MŒ¹‚ÍA[r]
-‚Â‚¯‚Á‚Ï‚È‚µ‚Å’u‚«‹‚è‚É‚³‚ê‚½ƒ‰ƒWƒI‚¾‚Á‚½B[pcms]
+There was no one in the staff room, and the source of the[r]voices and music was a radio that had been left on.[pcms]
 
 *6224|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚Ì’®‚¢‚Ä‚©‚çA‚»‚Ì‚Ü‚Ü‚¾‚Á‚½‚ñ‚¾‚Èccv[pcms]
+[ns]Kato[nse]
+Since I listened to it back then, it has remained the[r]same...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
@@ -44,139 +43,118 @@
 
 *6225|
 [fc]
-‚Æ‚ß‚Ç‚È‚­—¬‚ê‚Ä‚­‚éAƒ‰ƒWƒI‚ÌƒAƒiƒEƒ“ƒT[‚Ìº‚ÉA[r]
-‰´‚Í¨‚ğŒX‚¯‚½B[pcms]
+I listened intently to the voice of the radio announcer that[r]was flowing endlessly.[pcms]
 
-;//<SndPlay voice01ƒJƒ“ƒ}radio0000"]
+;//<SndPlay voice01ã‚«ãƒ³ãƒradio0000"]
 *6225a|
 [fc]
-[ns]ƒ‰ƒWƒI‚ÌƒAƒiƒEƒ“ƒT[[nse]
-uccŒ»İAŒ»ó’²¸‚ÆA”ñŠ´õÒ‚Ì‹~•‚ğ–Ú“I‚Æ‚µ‚½[r]
-©‰q‘à‚Ì•”‘à‚ªA—Áƒ–—ËR•ûŒüA“­”¼“‡’n‹æ‚ÖŒü‚©‚Á[r]
-‚Ä‚¢‚Ü‚·v[pcms]
+[ns]Radio Announcer[nse]
+... Currently, a Self-Defense Force unit is heading towards[r]the direction of Mount Suzukaryou with the purpose of[r]conducting a situation assessment and rescuing non-infected[r]individuals in the Shika Peninsula area.[pcms]
 
-;//<SndPlay voice01ƒJƒ“ƒ}radio0000"]
+;//<SndPlay voice01ã‚«ãƒ³ãƒradio0000"]
 *6225b|
 [fc]
-[ns]ƒ‰ƒWƒI‚ÌƒAƒiƒEƒ“ƒT[[nse]
-u‚±‚Ì•ú‘—‚ğ‚¨’®‚«‚É‚È‚Á‚½•û‚ÅA“®‚¯‚é•û‚ÍAŒ©°‚ç[r]
-‚µ‚Ì‚¢‚¢‚‘ä‚È‚ÇA‹~••”‘à‚ª”­Œ©‚µ‚â‚·‚¢êŠ‚ÖAŠ[r]
-‹}ˆÚ“®‚µ‚Ä‚­‚¾‚³‚¢v[pcms]
+[ns]Radio Announcer[nse]
+For those who are listening to this broadcast and are able[r]to move, please relocate to easily visible locations such as[r]high ground with a good view, where rescue teams can easily[r]find you.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2569|
 [fc]
 [vo_sa s="sae0680"]
-[ns]²”Œ[nse]
-u”ñŠ´õÒccv[pcms]
+[ns]Saeki[nse]
+Non-infected individuals...[pcms]
 
 *6226|
 [fc]
-²”Œ‚Í‰½‚©‚ğl‚¦‚é‚æ‚¤‚É•š‚µ–Ú‚ª‚¿‚É‚È‚èA‚»‚ÌŒ¾—t[r]
-‚ğƒ{ƒ\ƒb‚Æ™ê‚¢‚½B[pcms]
+Saeki lowered her gaze as if deep in thought, and murmured[r]those words softly.[pcms]
 
 *6227|
 [fc]
-‰´‚Ì“ª‚Ì’†‚Å‚àA²”Œ‚ªŒû‚É‚µ‚½‚Ì‚Æ“¯‚¶Œ¾—t‚ªˆø‚Á‚©[r]
-‚©‚Á‚Ä‚¢‚½B[pcms]
+The same words that Saeki spoke were stuck in my head.[pcms]
 
 *6228|
 [fc]
-”ñŠ´õÒcc[r]
-Š´õccB[r]
-ƒ„ƒoƒC–ò‚È‚ñ‚©‚ªŒ´ˆö‚¶‚á‚È‚¢‚Á‚Ä‚±‚Æ‚©ccB[pcms]
+Non-infected individuals... infection...[l][er]
+Does that mean it's not because of some dangerous drug...?[pcms]
 
-;//<SndPlay voice01ƒJƒ“ƒ}radio0000"]
+;//<SndPlay voice01ã‚«ãƒ³ãƒradio0000"]
 *6228a|
 [fc]
-[ns]ƒ‰ƒWƒI‚ÌƒAƒiƒEƒ“ƒT[[nse]
-ucc‘±•ñ‚Å‚·Bˆêğ“úA“Ë”@”­¶‚µ‚½–\“k‚ÍAŒ»İ‚à[r]
-‚»‚Ì”‚ğ‘‚µ‚Ä‚¢‚Ü‚·B—lq‚Ì‚¨‚©‚µ‚¢W’c‚ğŒ©‚©‚¯‚½[r]
-ê‡‚ÍA‹ß‚Ã‚©‚È‚¢‚æ‚¤’ˆÓ‚µ‚Ä‚­‚¾‚³‚¢v[pcms]
+[ns]Radio Announcer[nse]
+... This is an update. The number of rioters that suddenly[r]appeared two days ago continues to increase.[l][er]
+If you see a suspicious group, please be careful not to[r]approach them.[pcms]
 
-;//<SndPlay voice01ƒJƒ“ƒ}radio0000"]
+;//<SndPlay voice01ã‚«ãƒ³ãƒradio0000"]
 *6228b|
 [fc]
-[ns]ƒ‰ƒWƒI‚ÌƒAƒiƒEƒ“ƒT[[nse]
-u‚±‚ê‚ÉŠÖ‚µ‚Ä­•{‚ÍA–\“k‚Í×‹ÛA‚Ü‚½‚ÍƒEƒCƒ‹ƒX‚É[r]
-Š´õ‚µ‚Ä‚¢‚é‰Â”\«‚ğ¦´‚µAÚG‚ğ”ğ‚¯‚é‚æ‚¤‚É‚Æ‚Ì[r]
-”­•\‚ğs‚¢‚Ü‚µ‚½v[pcms]
+[ns]Radio Announcer[nse]
+Regarding this, the government has suggested the possibility[r]that the rioters are infected with bacteria or a virus, and[r]has made an announcement to avoid contact.[pcms]
 
-;//<SndPlay voice01ƒJƒ“ƒ}radio0000"]
+;//<SndPlay voice01ã‚«ãƒ³ãƒradio0000"]
 *6228c|
 [fc]
-[ns]ƒ‰ƒWƒI‚ÌƒAƒiƒEƒ“ƒT[[nse]
-u‚Ü‚½AŠ´õŒo˜H‚Æ‚µ‚ÄAŒûA”S–Œ‚©‚ç‚ÌN“ü‚âA–\[r]
-“k‚Ì‘Ì‰t‚ÉG‚ê‚é‚Æ‚¢‚Á‚½‚à‚Ì‚ª‹“‚°‚ç‚ê‚éA‚Æ”­•\‚µ[r]
-‚Ä‚¢‚Ü‚·v[pcms]
+[ns]Radio Announcer[nse]
+Furthermore, as a route of infection, it has been announced[r]that entry through wounds or mucous membranes, as well as[r]contact with the bodily fluids of rioters, are possible.[pcms]
 
 *6229|
 [fc]
-×‹ÛccƒEƒCƒ‹ƒXccB[r]
-‚İ‚ñ‚È‚ª‚¨‚©‚µ‚­‚È‚Á‚½‚Ì‚ÍAˆá‚¤lŠÔ‚©A‚»‚ê‚Æ‚à“®[r]
-•¨‚ÉA‚»‚ê‚ğŠ´õ‚³‚ê‚½‚Á‚Ä‚±‚Æ‚È‚Ì‚©ccH[pcms]
+Bacteria... Virus... Did everyone become strange because of[r]different humans, or is it because they were infected by[r]animals...?[pcms]
 
 *6230|
 [fc]
-‚Å‚àAˆê‘Ì‚¢‚ÂA‚Ç‚±‚©‚çccB[pcms]
+But, when and where exactly...?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2570|
 [fc]
 [vo_sa s="sae0681"]
-[ns]²”Œ[nse]
-uRŠİ‚³‚ñ’B‚ÌˆÙí‚Ès“®‚àA×‹Û‚âƒEƒCƒ‹ƒX‚ÉŠ´õ‚µ[r]
-‚½‚Ì‚ªŒ´ˆö‚È‚Ì‚Å‚µ‚å‚¤‚©ccv[pcms]
+[ns]Saeki[nse]
+Could the abnormal behavior of Yamagishi-san and the others[r]be caused by an infection with bacteria or a virus...?[pcms]
+[l][er]
 
 *6231|
 [fc]
-[ns]‰Á“¡[nse]
-u‘½•ª‚ÈccB‰½‚Æ‚©•‚¯‚Ä‚ ‚°‚½‚¢‚¯‚ÇAG‚é‚Ì‚àG[r]
-‚ç‚ê‚é‚Ì‚àŠë‚È‚¢‚İ‚½‚¢‚¾‚µccv[pcms]
+[ns]Kato[nse]
+Maybe... I want to help them somehow, but it seems dangerous[r]to touch or be touched...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2571|
 [fc]
 [vo_sa s="sae0682"]
-[ns]²”Œ[nse]
-u‹ß‚­‚ÉŠñ‚é‚Ì‚ÍŠëŒ¯‚¾‚Æv‚¢‚Ü‚·B‚Å‚·‚©‚çAÀ¿A[r]
-•‚¯‚é‚Ì‚Í–³—‚Æ‚¢‚¤‚±‚Æ‚Å‚·‚Ëccv[pcms]
+[ns]Saeki[nse]
+I think it's dangerous to get close.[l][er]
+So, in essence, it means it's impossible to help...[pcms]
 
 *6232|
 [fc]
-[ns]‰Á“¡[nse]
-ucc‚Æ‚É‚©‚­A‹ß‚Ã‚©‚È‚¢‚æ‚¤‚É‚·‚é‚µ‚©‚È‚¢‚İ‚½‚¢[r]
-‚¾‚Èccv[pcms]
+[ns]Kato[nse]
+... Anyway, it seems like the only option is to avoid[r]getting close...[pcms]
 
 *6233|
 [fc]
-e—F’B‚â‰—ö‚Ìl‚ğAŒ©Ì‚Ä‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‚Æ‚¢‚¤–[r]
-À‚ÉA‰´‚ÍˆÃ‚¢‹C‚¿‚É‚È‚Á‚½B[pcms]
+I felt a dark feeling when faced with the fact that I had to[r]abandon my close friends and my first love.[pcms]
 
 *6234|
 [fc]
-‚¾‚ª‰´‚Í‚Ü‚¾A‚±‚¤‚µ‚Ä–³–‚Å‚¢‚é‚µA‚±‚ê‚©‚ç‚à²”Œ[r]
-‚ğç‚é‚½‚ß‚ÉA“z‚ç‚Ì‚æ‚¤‚É‚¨‚©‚µ‚­‚È‚é‚í‚¯‚É‚Í‚¢‚©[r]
-‚È‚¢B[pcms]
+But I am still safe like this, and I can't afford to become[r]strange like them if I want to protect Saeki from now on.[pcms]
 
 *6235|
 [fc]
-‹~••”‘à‚ª–³–‚Å‚¢‚élŠÔ‚ğ‘{‚µ‚Ä‚¢‚éA‚Æ‚¢‚¤î•ñ‚É[r]
-–]‚İ‚ğ‘õ‚µA‚à‚¤ˆê“x‰®ã‚ğ–Úw‚·‚±‚Æ‚ğŒˆ‚ßA‰´’B‚Í[r]
-Eˆõº‚ğŒã‚É‚µ‚½B[pcms]
+We entrusted our hopes to the information that the rescue[r]team is searching for people who are safe, and decided to[r]head to the rooftop once again.[l][er]
+We left the staff room behind.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -187,5 +165,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05840]‚Ö
+;//[05840]ã¸
 [jump target=*05840_TOP storage="05840.ks"]

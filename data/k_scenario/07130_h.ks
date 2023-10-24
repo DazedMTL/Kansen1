@@ -1,52 +1,49 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN07130wŒÂº‚Qx
-;//;//BG:–³‚µiEVENT”wŒi‚Ì‚İj
-;//“oêl•¨F“µEŠ´õ“c’†E”¼’[Š´õƒ]ƒ“ƒr~‚R
-;//F“µ‹“_
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07130ã€å€‹å®¤ï¼’ã€
+;//;//BG:ç„¡ã—ï¼ˆEVENTèƒŒæ™¯ã®ã¿ï¼‰
+;//ç™»å ´äººç‰©ï¼šç³ãƒ»æ„ŸæŸ“ç”°ä¸­ãƒ»åŠç«¯æ„ŸæŸ“ã‚¾ãƒ³ãƒ“Ã—ï¼“
+;//ï¼šç³è¦–ç‚¹
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *07130_H_TOP
-;[debug_win]‚È‚¤@07130_H[debug_win_end]
+;[debug_win]ãªã†ã€€07130_H[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07130 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07130 = 1"]
 
-;//ôFBGM004
+;//â™ªï¼šBGM004
 [bgm004]
 
-;//;//BG:bg–³‚µ
+;//;//BG:bgç„¡ã—
 ;	/*
 ;	[ChrSetEx layer=1 chbase="sae_c_a_01"]
 ;	[ChrSetXY layer=1 x=200 y=0]
 ;	[ChrSetParts layer=1 chface="sae_c_a_02"]
 ;	[trans_c cross time=150]
 ;	*/
-;—§‚¿
+;ç«‹ã¡
 
 *v2912|
 [fc]
 [vo_sa s="sae0793"]
-[ns]²”Œ[nse]
-u‚Ğcc‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Ah...![pcms]
 
 *7208|
 [fc]
-L‚Ñ‚Ä‚­‚é’j’B‚Ìè‚©‚ç“¦‚ê‚æ‚¤‚ÆA—Í‚Ì“ü‚ç‚È‚¢‘Ì‚ğ[r]
-•K€‚É“®‚©‚µ‚½‚ªA„‚Í©‚çA‘Ü¬˜H‚Ö‚Æ“¦‚°‚ñ‚Å‚µ[r]
-‚Ü‚Á‚Ä‚¢‚½B[pcms]
+I desperately tried to move my weak body to escape from the[r]hands of the approaching men, but I ended up running into a[r]dead end myself.[pcms]
 
 *7209|
 [fc]
-‚Å‚àA‚»‚ê‚É‹C‚ª‚Â‚¢‚½‚ÍŠù‚Éè’x‚ê‚ÅA’j’B‚Ìè‚ª[r]
-„‚Ì‘Ì‚É”—‚Á‚Ä‚«‚Ä‚¢‚½B[pcms]
+But by the time I realized it, it was already too late, and[r]the men's hands were closing in on my body.[pcms]
 
 *v2913|
 [fc]
 [vo_sa s="sae0794"]
-[ns]²”Œ[nse]
-uŒ™‚Ÿ‚ÁII@G‚ç‚È‚¢‚ÅƒbIIv[pcms]
+[ns]Saeki[nse]
+No...! Don't touch me!![pcms]
 
 ;//H_CG
 
@@ -62,61 +59,54 @@
 *v2914|
 [fc]
 [vo_sa s="sae0795"]
-[ns]²”Œ[nse]
-u‚¢‚â‚ ‚ ‚ ‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚ÁIIIIIv[pcms]
+[ns]Saeki[nse]
+No...! Ahhhhhhhh!!![pcms]
 
 *7210|
 [fc]
-“¦‚°ê‚ğ¸‚¤‚Ç‚±‚ë‚©A’j’B‚ğ—U‚¤—l‚È‘Ì¨‚É‚È‚Á‚Ä‚µ[r]
-‚Ü‚Á‚½„‚ğA‰½–{‚à‚Ìè‚ªP‚¢AƒXƒgƒbƒLƒ“ƒO‚â‰º’…‚ğ[r]
-”‚¬æ‚ç‚ê‚Ä‚µ‚Ü‚Á‚½B[pcms]
+I not only lost my escape route, but also ended up in a[r]position that seemed to invite the men.[l][er]
+Multiple hands attacked me, stripping off my stockings and[r]underwear.[pcms]
 
 *v2915|
 [fc]
 [vo_sa s="sae0796"]
-[ns]²”Œ[nse]
-u‚¢‚â‚ ‚Ÿ‚ÁII@‚¨Šè‚¢II@‚â‚ß‚Ä‚¥‚ÁIIIIv[pcms]
+[ns]Saeki[nse]
+Nooo!! Please!! Stoppp!![pcms]
 
 *7211|
 [fc]
-‚¨K‚ğ’Í‚Ü‚êA–³—–î—¶‰E‚ÉL‚°‚ç‚ê‚éŠ´Šo‚ÉAŒã‚ë[r]
-‚ğU‚è•Ô‚é‚ÆA“c’†‚ª‰º”Ú‚½Î‚¢‚ğ•‚‚©‚×‚ÄA„‚Ì‚¨K[r]
-‚ÉŠç‚ğ‹ß‚Ã‚¯‚Ä‚¢‚é‚Æ‚±‚ë‚¾‚Á‚½B[pcms]
+I felt my butt being grabbed and forcibly spread apart, and[r]when I looked back, Tanaka had a lewd smile on his face,[r]getting closer to my butt with his face.[pcms]
 
 *7212|
 [fc]
-[ns]“c’†[nse]
-u‚ñ`cc‚ºA‚ñ‚ºA‚ñA‚Â‚©‚Á‚ÄA‚Ë[‚ÈA‚±A‚ÌA[r]
-‚ ‚È‚écc‚¨‚êA‚ªA‚¢A‚¿‚Î‚ñA‚Ì‚èA‚©‚ŸccH@[r]
-‚¤‚Ğ‚áA‚Ğ‚á‚Ğ‚áccv[pcms]
+[ns]Tanaka[nse]
+Mmm... I-I wonder if I'm the one who gets to use, um, this,[r]anus the most...?[l][er]
+Uhya, hyahya...[pcms]
 
 *7213|
 [fc]
-ƒAƒkƒX‚É¶’g‚©‚¢‘§‚ª“f‚«‚©‚¯‚ç‚ê‚é‚Ì‚ğŠ´‚¶A„‚Í”w[r]
-‹Ø‚Éˆ«Š¦‚ª‘–‚Á‚½B‚Å‚àA‚»‚ÌŸ‚ÉŠ´‚¶‚½Š´G‚É”ä‚×‚ê[r]
-‚ÎA‚»‚ñ‚È‚à‚Ì‚Í‚Ü‚¾‰Âˆ¤‚¢‚à‚Ì‚¾‚Á‚½B[pcms]
+I felt a warm breath being exhaled on my anus, and a chill[r]ran down my spine.[l][er]
+But compared to the sensation I felt next, that was still[r]something cute.[pcms]
 
 *7214|
 [fc]
-“c’†‚ÍA”‚«o‚µ‚ÌƒyƒjƒX‚ğA„‚ÌƒAƒkƒX‚É‚ ‚Ä‚ª‚Á‚½[r]
-‚©‚ç‚¾B[pcms]
+Tanaka positioned his exposed penis against my anus.[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
 
 [se0 storage="se059"]
 
 *v2916|
 [fc]
 [vo_sa s="sae0797"]
-[ns]²”Œ[nse]
-u‚Ğcc‚ÁII@‚¢A‚â‚Ÿcc‚ÁIIIIv[pcms]
+[ns]Saeki[nse]
+Ah...! No...!![pcms]
 
 *7215|
 [fc]
-‹°•|‚Å‚Ü‚Æ‚à‚Éº‚ğo‚¹‚È‚¢„‚ğŒ©‚ÄA“c’†‚Í‰º”Ú‚½Î[r]
-‚¢‚ğA‚³‚ç‚ÉX‚­˜c‚ß‚½B[pcms]
+Tanaka looked at me, unable to make a proper sound due to[r]fear, and his vulgar laughter became even more grotesque.[pcms]
 
-;//SE:‘}“ü
+;//SE:æŒ¿å…¥
 [se0 storage="se058"]
 
 ;//redflash
@@ -135,192 +125,188 @@
 *v2917|
 [fc]
 [vo_sa s="sae0798"]
-[ns]²”Œ[nse]
-u‚¢J‚¢J‚¢J‚¡‚¡‚¡‚ J‚ J‚ J‚ÁIIIIIIv[pcms]
+[ns]Saeki[nse]
+Noooooooo!!![pcms]
 
 *7216|
 [fc]
-“c’†‚ÌƒyƒjƒX‚É–³—–î—‰Ÿ‚µ“ü‚ç‚êA”M‚ğ”º‚Á‚½–Ò—ó‚È[r]
-’É‚İ‚ª‘Sg‚É‘–‚éB[pcms]
+Tanaka's penis was forcefully pushed into me, and an intense[r]pain accompanied by heat ran through my entire body.[pcms]
 
 *v2918|
 [fc]
 [vo_sa s="sae0799"]
-[ns]²”Œ[nse]
-u‚ªA‚Í‚Ácc‚ JA‚ª‚Ácc‚ JA‚ J‚ Jccv[pcms]
+[ns]Saeki[nse]
+G-gah... ah... gah... ah... ahh...[pcms]
 
 *7217|
 [fc]
-[ns]“c’†[nse]
-u‚¤‚ÍA‚Ÿcc‚·‚°‚¥‚«‚Â‚¢cc‚½‚Ü‚ñ‚Ë‚¥`ccv[pcms]
+[ns]Tanaka[nse]
+Uhaa... Ah... It's so tight...[l][er]
+It feels amazing~...[pcms]
 
 *7218|
 [fc]
-[ns]’jq¶“k‚x[nse]
-u‚ÈA‚ñ‚¾A‚æ‚§cc‚Ü‚½A‚¨‚ ‚¸A‚¯‚©A‚æ‚§ccv[pcms]
+[ns]Male Student Y[nse]
+W-What the... Why are you teasing me again...[pcms]
 
-;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
 [se0 storage="se061" loop=true]
 
 *7219|
 [fc]
-[ns]’jq¶“k‚v[nse]
-u‚ÍA‚â‚­A‚¨‚íA‚ê‚æ`cc‚Í‚âA‚­`ccv[pcms]
+[ns]Male Student W[nse]
+H-Hurry, finish... quickly...[pcms]
 
 *7220|
 [fc]
-“c’†‚Í‚³‚ç‚ÉA©•ª‚ÌƒyƒjƒX‚ğ‰½‚ÌçSçO‚à‚È‚­A„‚ÌƒA[r]
-ƒkƒX‚Ì’†‚Å‰•œ‚³‚¹‚½B[pcms]
+Tanaka, without any hesitation, continued to thrust his[r]penis back and forth inside my anus.[pcms]
 
 *7221|
 [fc]
-ƒAƒkƒX‚ğ”Æ‚³‚ê‚é’É‚İ‚Æ”M‚³A‹üJA‚»‚µ‚Ä’†‚©‚çˆ³”—[r]
-‚³‚ê‚é‚æ‚¤‚È‘§‹ê‚µ‚³‚ÉA„‚Í“f‚«‹C‚Ü‚ÅÃ‚µ‚Ä‚¢‚½B[pcms]
+I was feeling nauseous from the pain and heat of being[r]violated in my anus, the humiliation, and the suffocating[r]feeling of being pressed from within.[pcms]
 
 *7222|
 [fc]
-[ns]“c’†[nse]
-u‚¤A‚Ÿ``cc‚­‚¹A‚ÉA‚È‚è‚»A‚¤A‚¾‚È‚Ÿcc‚±[r]
-‚ÌA‚¯‚Â‚ÌA‚µA‚Ü‚è‚Í‚Ÿcc‚Ó‚Ö‚ÖA‚Öccv[pcms]
+[ns]Tanaka[nse]
+Ugh... ahhh... you're becoming quite the habit...[l][er]
+this tightness of your ass... hehehe...[l][er]
+heh...[pcms]
 
 *v2919|
 [fc]
 [vo_sa s="sae0800"]
-[ns]²”Œ[nse]
-u‚¤J‚¥‚ÁII@‚ JA‚¤J‚®‚£cc‚°‚¦‚¥‚Áccv[pcms]
+[ns]Saeki[nse]
+Ughh!! Ahh, ughh... geeehh...[pcms]
 
 *7223|
 [fc]
-[ns]’jq¶“k‚y[nse]
-u‚±A‚¦‚¾A‚¯A‚Å‚àA‚Ê‚¯‚»A‚¤‚¾A‚È‚Ÿccv[pcms]
+[ns]Male Student Z[nse]
+C-come on, let me go... I can't...[l][er]
+breathe...[pcms]
 
 *7224|
 [fc]
-[ns]’jq¶“k‚v[nse]
-u‚Ü‚¿‚«A‚ê‚ËA‚¥`cc‚¨‚ÈA‚É[A‚µ‚æ`ccv[pcms]
+[ns]Male Student W[nse]
+Wait, stop, wai~... I can't, brea~the...[pcms]
 
 *7225|
 [fc]
-‚ ‚Ô‚ê‚½’j’B‚ÍA–u‹N‚µ‚½‚Ü‚Ü‚ÌƒyƒjƒX‚ğè‚É‚Æ‚Á‚ÄA[r]
-˜M‚Ñn‚ß‚½B[pcms]
+The abandoned men, with their erect penises still in hand,[r]began to play with them.[pcms]
 
 *7226|
 [fc]
-‡”Ô‘Ò‚¿‚¾‚Æ‚Å‚àŒ¾‚¤‚ÌccH[r]
-‚ ‚Ìl’B‘Sˆõ‚ÉA”Æ‚³‚ê‚½‚çccB[r]
-„‚ÍA‰ó‚ê‚Ä‚µ‚Ü‚¤ccB[pcms]
+Are you saying I have to wait my turn...?[l][er]
+If I were violated by all of them...[l][er]
+I would be broken...[pcms]
 
 *7227|
 [fc]
-•‚¯‚ÄccB[r]
-‰Á“¡‚³‚ñcc‚ÁII[pcms]
+Help me... Kato-san...!![pcms]
 
 *7228|
 [fc]
-[ns]“c’†[nse]
-u‚â‚ÔA‚êA‚½A‚·‚Æ‚Á‚«‚ñA‚®‚ªcc‚¢A‚¢‚æA‚È‚Ÿ[r]
-cc‚ ‚Ÿ``cc‚¨‚êA‚ê‚¢A‚ÕA‚µ‚Ä‚éA‚ñ‚¾‚Ÿcc[r]
-‚àA‚¦‚é‚£`ccv[pcms]
+[ns]Tanaka[nse]
+ã‚‚ã€ãˆã‚‹ã…ã€œâ€¦â€¦ã€[pcms]
 
 *v2920|
 [fc]
 [vo_sa s="sae0801"]
-[ns]²”Œ[nse]
-u‚ñJ‚ÁA‚¤J‚®‚£‚ÁII@‚ JA‚¤J‚ J‚Ÿ‚ÁIIv[pcms]
+[ns]ä½ä¼¯[nse]
+ã€Œã‚“ã‚›ã£ã€ã†ã‚›ãã…ã£ï¼ï¼ã€€ã‚ã‚›ã€ã†ã‚›ã‚ã‚›ãã£ï¼ï¼ã€[pcms]
 
 *7229|
 [fc]
-“c’†‚É—–\‚É‚³‚êA‚¨• ‚Ì’†‚ğ‘~‚«‰ñ‚³‚ê‚é‚æ‚¤‚ÈŠ´Šo[r]
-‚ÉAˆÓ‚É”½‚µ‚Äº‚ªo‚Ä‚µ‚Ü‚¤B[pcms]
+ç”°ä¸­ã«ä¹±æš´ã«ã•ã‚Œã€ãŠè…¹ã®ä¸­ã‚’æ»ãå›ã•ã‚Œã‚‹ã‚ˆã†ãªæ„Ÿè¦š[r]
+ã«ã€æ„ã«åã—ã¦å£°ãŒå‡ºã¦ã—ã¾ã†ã€‚[pcms]
 
 *7230|
 [fc]
-Œˆ‚µ‚Ä‰õŠ´‚©‚ç‚Å‚Í‚È‚¢‚»‚Ìº‚àAü‚è‚Ì’j’B‚É‚Æ‚Á‚Ä[r]
-‚ÍA‹»•±Ş—¿‚É‚È‚é‚æ‚¤‚¾‚Á‚½B[pcms]
+æ±ºã—ã¦å¿«æ„Ÿã‹ã‚‰ã§ã¯ãªã„ãã®å£°ã‚‚ã€å‘¨ã‚Šã®ç”·é”ã«ã¨ã£ã¦[r]
+ã¯ã€èˆˆå¥®ææ–™ã«ãªã‚‹ã‚ˆã†ã ã£ãŸã€‚[pcms]
 
 *v2921|
 [fc]
 [vo_sa s="sae0802"]
-[ns]²”Œ[nse]
-u‚ñJ‚ñJ‚ÁII@‚¤J‚ J‚ÁA‚Í‚¤J‚£‚ÁII@‚ J[r]
-‚¨J‚§cc‚ÁIIv[pcms]
+[ns]ä½ä¼¯[nse]
+ã€Œã‚“ã‚›ã‚“ã‚›ã£ï¼ï¼ã€€ã†ã‚›ã‚ã‚›ã£ã€ã¯ã†ã‚›ã…ã£ï¼ï¼ã€€ã‚ã‚›[r]
+ãŠã‚›ã‰â€¦â€¦ã£ï¼ï¼ã€[pcms]
 
 *7231|
 [fc]
-[ns]’jq¶“k‚x[nse]
-u‚Ó‚Ö‚ÖA‚ÖA‚Öcc‚±‚¢A‚ÂA‚¯‚ÂA‚¨A‚©‚³‚êA‚Ä[r]
-cc‚©‚ñA‚¶A‚Ä‚éA‚ºccv[pcms]
+[ns]ç”·å­ç”Ÿå¾’ï¼¹[nse]
+ã€Œãµã¸ã¸ã€ã¸ã€ã¸â€¦â€¦ã“ã„ã€ã¤ã€ã‘ã¤ã€ãŠã€ã‹ã•ã‚Œã€ã¦[r]
+â€¦â€¦ã‹ã‚“ã€ã˜ã€ã¦ã‚‹ã€ãœâ€¦â€¦ã€[pcms]
 
 *7232|
 [fc]
-[ns]’jq¶“k‚y[nse]
-u‚æ‚¾A‚êA‚Ü‚ÅA‚½A‚ç‚µ‚Äcc‚æA‚ë‚±‚ñA‚ÅA‚é[r]
-‚ºcc‚±A‚Ì‚¨‚ñA‚È‚Ÿccv[pcms]
+[ns]ç”·å­ç”Ÿå¾’ï¼º[nse]
+ã€Œã‚ˆã ã€ã‚Œã€ã¾ã§ã€ãŸã€ã‚‰ã—ã¦â€¦â€¦ã‚ˆã€ã‚ã“ã‚“ã€ã§ã€ã‚‹[r]
+ãœâ€¦â€¦ã“ã€ã®ãŠã‚“ã€ãªãâ€¦â€¦ã€[pcms]
 
 *v2922|
 [fc]
 [vo_sa s="sae0803"]
-[ns]²”Œ[nse]
-u‚¢J‚ÁA‚Ğ‚®‚¤J‚£‚ÁII@‚®‚£A‚¤J‚®‚£‚ÁIIv[pcms]
+[ns]ä½ä¼¯[nse]
+ã€Œã„ã‚›ã£ã€ã²ãã†ã‚›ã…ã£ï¼ï¼ã€€ãã…ã€ã†ã‚›ãã…ã£ï¼ï¼ã€[pcms]
 
 *7233|
 [fc]
-[ns]’jq¶“k‚v[nse]
-u‚¢‚¢‚±A‚¦A‚¾A‚·‚È‚Ÿcc‚±‚¦A‚¾A‚¯‚ÅA‚æ‚ñA[r]
-‚©‚¢A‚¢‚¯A‚é‚æ‚§ccv[pcms]
+[ns]ç”·å­ç”Ÿå¾’ï¼·[nse]
+ã€Œã„ã„ã“ã€ãˆã€ã ã€ã™ãªãâ€¦â€¦ã“ãˆã€ã ã€ã‘ã§ã€ã‚ˆã‚“ã€[r]
+ã‹ã„ã€ã„ã‘ã€ã‚‹ã‚ˆã‰â€¦â€¦ã€[pcms]
 
 *7234|
 [fc]
-[ns]“c’†[nse]
-u‚ ‚Ÿ``cc‚¢A‚¢‚º‚¥``cc‚±A‚ÌA‚¯‚ÂA‚³‚¢[r]
-‚±A‚¤‚¾‚Ÿ```ccv[pcms]
+[ns]ç”°ä¸­[nse]
+ã€Œã‚ãã€œã€œâ€¦â€¦ã„ã€ã„ãœã‡ã€œã€œâ€¦â€¦ã“ã€ã®ã€ã‘ã¤ã€ã•ã„[r]
+ã“ã€ã†ã ãã€œã€œã€œâ€¦â€¦ã€[pcms]
 
 *v2923|
 [fc]
 [vo_sa s="sae0804"]
-[ns]²”Œ[nse]
-u‚Ğ‚¡‚ÁII@‚¬‚¢J‚¢J‚¡‚ÁII@‚¢J‚ÁA‚®‚£cc[r]
-‚¨J‚ J‚Ÿ‚ÁII@‚Í‚®‚¤J‚£‚ÁIIv[pcms]
+[ns]ä½ä¼¯[nse]
+ã€Œã²ãƒã£ï¼ï¼ã€€ãã„ã‚›ã„ã‚›ãƒã£ï¼ï¼ã€€ã„ã‚›ã£ã€ãã…â€¦â€¦[r]
+ãŠã‚›ã‚ã‚›ãã£ï¼ï¼ã€€ã¯ãã†ã‚›ã…ã£ï¼ï¼ã€[pcms]
 
 *7235|
 [fc]
-“c’†‚ÌŒÄ‹z‚ªr‚­‚È‚èA‚»‚ê‚É˜A‚ê‚ÄA‚É‚í‚©‚ÉƒyƒjƒX[r]
-‚Ì“®‚«‚ª‘¬‚­‚È‚Á‚Ä‚­‚éB“c’†‚ªˆê‘ÌA©•ª‚É‰½‚ğ‚·‚é[r]
-‚Â‚à‚è‚È‚Ì‚©‚ğA„‚Í’¼Š´“I‚É—‰ğ‚µ‚½B[pcms]
+ç”°ä¸­ã®å‘¼å¸ãŒè’ããªã‚Šã€ãã‚Œã«é€£ã‚Œã¦ã€ã«ã‚ã‹ã«ãƒšãƒ‹ã‚¹[r]
+ã®å‹•ããŒé€Ÿããªã£ã¦ãã‚‹ã€‚ç”°ä¸­ãŒä¸€ä½“ã€è‡ªåˆ†ã«ä½•ã‚’ã™ã‚‹[r]
+ã¤ã‚‚ã‚Šãªã®ã‹ã‚’ã€ç§ã¯ç›´æ„Ÿçš„ã«ç†è§£ã—ãŸã€‚[pcms]
 
 *7236|
 [fc]
-‚±‚ÌlccË¸‚·‚é‚Â‚à‚è‚¾‚íccB[r]
-‚¨K‚Ì’†‚ÉccB[r]
-Œ™ccŒ™‚æA‚»‚ñ‚È‚ÌccB[pcms]
+ã“ã®äººâ€¦â€¦å°„ç²¾ã™ã‚‹ã¤ã‚‚ã‚Šã ã‚â€¦â€¦ã€‚[r]
+ãŠå°»ã®ä¸­ã«â€¦â€¦ã€‚[r]
+å«Œâ€¦â€¦å«Œã‚ˆã€ãã‚“ãªã®â€¦â€¦ã€‚[pcms]
 
 *v2924|
 [fc]
 [vo_sa s="sae0805"]
-[ns]²”Œ[nse]
-u‚¤J‚¥‚ÁII@‚®‚¦J‚¥cc‚¨J‚ J‚ÁII@‚®‚¤J[r]
-‚¤J‚£‚Áccv[pcms]
+[ns]ä½ä¼¯[nse]
+ã€Œã†ã‚›ã‡ã£ï¼ï¼ã€€ããˆã‚›ã‡â€¦â€¦ãŠã‚›ã‚ã‚›ã£ï¼ï¼ã€€ãã†ã‚›[r]
+ã†ã‚›ã…ã£â€¦â€¦ã€[pcms]
 
 *7237|
 [fc]
-‚µ‚©‚µA‚Ü‚Æ‚à‚ÉŒ¾—t‚ğ”­‚¹‚È‚¢„‚ÉA“c’†‚Ìs“®‚ğ‹‘[r]
-”Û‚·‚é‚±‚Æ‚ª‚Å‚«‚é”¤‚ª‚È‚©‚Á‚½B[pcms]
+ã—ã‹ã—ã€ã¾ã¨ã‚‚ã«è¨€è‘‰ã‚’ç™ºã›ãªã„ç§ã«ã€ç”°ä¸­ã®è¡Œå‹•ã‚’æ‹’[r]
+å¦ã™ã‚‹ã“ã¨ãŒã§ãã‚‹ç­ˆãŒãªã‹ã£ãŸã€‚[pcms]
 
 *7238|
 [fc]
-[ns]“c’†[nse]
-u‚ ‚Ÿ``cc‚¢‚­A‚£``cc‚¯‚ÂA‚ÌA‚ÈA‚©‚ÉA[r]
-‚¾‚·A‚¼‚§cc‚¤J‚ J‚Ÿ```ccv[pcms]
+[ns]ç”°ä¸­[nse]
+ã€Œã‚ãã€œã€œâ€¦â€¦ã„ãã€ã…ã€œã€œâ€¦â€¦ã‘ã¤ã€ã®ã€ãªã€ã‹ã«ã€[r]
+ã ã™ã€ãã‰â€¦â€¦ã†ã‚›ã‚ã‚›ãã€œã€œã€œâ€¦â€¦ã€[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
 
 [stop_se0]
 
-;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
 
 [stop_se1]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 
 [se0 storage="se062"]
 
@@ -350,70 +336,70 @@
 *v2925|
 [fc]
 [vo_sa s="sae0806"]
-[ns]²”Œ[nse]
-u‚¢J‚Ğ‚¢J‚¢J‚¢J‚¡‚¡‚¡‚ÁIIIIv[pcms]
+[ns]ä½ä¼¯[nse]
+ã€Œã„ã‚›ã²ã„ã‚›ã„ã‚›ã„ã‚›ãƒãƒãƒã£ï¼ï¼ï¼ï¼ã€[pcms]
 
 *7239|
 [fc]
-’ïR‚à‚Å‚«‚¸A“c’†‚É‚¢‚¢‚æ‚¤‚ÉæøçW‚³‚êA‹“‚°‹åA’¼[r]
-’°‚ÉË¸‚³‚ê‚Ä‚µ‚Ü‚Á‚½B[pcms]
+æŠµæŠ—ã‚‚ã§ããšã€ç”°ä¸­ã«ã„ã„ã‚ˆã†ã«è¹‚èº™ã•ã‚Œã€æŒ™ã’å¥ã€ç›´[r]
+è…¸ã«å°„ç²¾ã•ã‚Œã¦ã—ã¾ã£ãŸã€‚[pcms]
 
 *7240|
 [fc]
-“c’†‚Ì”–‰˜‚¢¸‰t‚ªA‚¨• ‚Ì’†‚É—­‚Ü‚Á‚Ä‚¢‚­Š´Šo‚ğŠo[r]
-‚¦‚ÄA„‚Í‚Ü‚½A“f‚«‹C‚ğÃ‚µ‚½B[pcms]
+ç”°ä¸­ã®è–„æ±šã„ç²¾æ¶²ãŒã€ãŠè…¹ã®ä¸­ã«æºœã¾ã£ã¦ã„ãæ„Ÿè¦šã‚’è¦š[r]
+ãˆã¦ã€ç§ã¯ã¾ãŸã€åãæ°—ã‚’å‚¬ã—ãŸã€‚[pcms]
 
 *v2926|
 [fc]
 [vo_sa s="sae0807"]
-[ns]²”Œ[nse]
-u‚°‚Ù‚ÁI@‚°‚¥‚Ù‚ÁI@‚¤J‚¦J‚¥‚Áccv[pcms]
+[ns]ä½ä¼¯[nse]
+ã€Œã’ã»ã£ï¼ã€€ã’ã‡ã»ã£ï¼ã€€ã†ã‚›ãˆã‚›ã‡ã£â€¦â€¦ã€[pcms]
 
 *7241|
 [fc]
-[ns]“c’†[nse]
-u‚ÍA‚ ‚Ÿ```ccv[pcms]
+[ns]ç”°ä¸­[nse]
+ã€Œã¯ã€ã‚ãã€œã€œã€œâ€¦â€¦ã€[pcms]
 
 *7242|
 [fc]
-–‘«‚»‚¤‚É‘§‚ğ‚Â‚¢‚ÄA“c’†‚ªƒAƒkƒX‚©‚çƒyƒjƒX‚ğˆø‚«[r]
-”²‚­‚ÆA‚»‚ê‚Æ‹¤‚ÉƒXƒyƒ‹ƒ}‚ª‘~‚«o‚³‚êA˜R‚êo‚Ä‚«[r]
-‚½B[pcms]
+æº€è¶³ãã†ã«æ¯ã‚’ã¤ã„ã¦ã€ç”°ä¸­ãŒã‚¢ãƒŒã‚¹ã‹ã‚‰ãƒšãƒ‹ã‚¹ã‚’å¼•ã[r]
+æŠœãã¨ã€ãã‚Œã¨å…±ã«ã‚¹ãƒšãƒ«ãƒãŒæ»ãå‡ºã•ã‚Œã€æ¼ã‚Œå‡ºã¦ã[r]
+ãŸã€‚[pcms]
 
 *7243|
 [fc]
-ƒAƒkƒX‚©‚ç“c’†‚ÌƒXƒyƒ‹ƒ}‚ª˜R‚êo‚Ä‚¢‚­‚»‚ÌŠ´Šo‚ÍA[r]
-Š¦‹C‚ª‚·‚é’öA•s‰õ‚È‚à‚Ì‚¾‚Á‚½B[pcms]
+ã‚¢ãƒŒã‚¹ã‹ã‚‰ç”°ä¸­ã®ã‚¹ãƒšãƒ«ãƒãŒæ¼ã‚Œå‡ºã¦ã„ããã®æ„Ÿè¦šã¯ã€[r]
+å¯’æ°—ãŒã™ã‚‹ç¨‹ã€ä¸å¿«ãªã‚‚ã®ã ã£ãŸã€‚[pcms]
 
 *7244|
 [fc]
-[ns]’jq¶“k‚v[nse]
-u‚ ‚Ÿ`cc‚¯‚Â‚ A‚ÈA‚©‚çcc‚´[‚ß‚ñA‚à‚êA‚Ä[r]
-‚«A‚½‚Ÿccv[pcms]
+[ns]ç”·å­ç”Ÿå¾’ï¼·[nse]
+ã€Œã‚ãã€œâ€¦â€¦ã‘ã¤ã‚ã€ãªã€ã‹ã‚‰â€¦â€¦ã–ãƒ¼ã‚ã‚“ã€ã‚‚ã‚Œã€ã¦[r]
+ãã€ãŸãâ€¦â€¦ã€[pcms]
 
 *7245|
 [fc]
-[ns]’jq¶“k‚y[nse]
-u‚¤‚í‚Ÿ``cc‚·A‚°‚¥A‚¦‚ë‚§A‚¢ccv[pcms]
+[ns]ç”·å­ç”Ÿå¾’ï¼º[nse]
+ã€Œã†ã‚ãã€œã€œâ€¦â€¦ã™ã€ã’ã‡ã€ãˆã‚ã‰ã€ã„â€¦â€¦ã€[pcms]
 
 
 *7246|
 [fc]
-[ns]’jq¶“k‚x[nse]
-u‚ÈA‚É‚±A‚êcc‚º‚ñ‚ºA‚ñA‚Ê‚¯A‚é`ccv[pcms]
+[ns]ç”·å­ç”Ÿå¾’ï¼¹[nse]
+ã€Œãªã€ã«ã“ã€ã‚Œâ€¦â€¦ãœã‚“ãœã€ã‚“ã€ã¬ã‘ã€ã‚‹ã€œâ€¦â€¦ã€[pcms]
 
 *7247|
 [fc]
-ü‚è‚Ì’j’B‚ÍA“c’†‚ÌƒXƒyƒ‹ƒ}‚ª„‚ÌƒAƒkƒX‚©‚ç˜R‚ê‚é[r]
-‚Ì‚ğŒ©‚ÄA“‚­‹»•±‚ğø‚ç‚ê‚½—lq‚ÅA©•ª‚ÌƒyƒjƒX‚ğ[r]
-Œƒ‚µ‚­C‚èAŒÄ‹z‚ğr‚­‚µ‚Ä‚¢‚½B[pcms]
+å‘¨ã‚Šã®ç”·é”ã¯ã€ç”°ä¸­ã®ã‚¹ãƒšãƒ«ãƒãŒç§ã®ã‚¢ãƒŒã‚¹ã‹ã‚‰æ¼ã‚Œã‚‹[r]
+ã®ã‚’è¦‹ã¦ã€é…·ãèˆˆå¥®ã‚’ç…½ã‚‰ã‚ŒãŸæ§˜å­ã§ã€è‡ªåˆ†ã®ãƒšãƒ‹ã‚¹ã‚’[r]
+æ¿€ã—ãæ“¦ã‚Šã€å‘¼å¸ã‚’è’ãã—ã¦ã„ãŸã€‚[pcms]
 
 *7248|
 [fc]
-[ns]’jq¶“k‚x[nse]
-u‚¤‚ÍA‚Ÿ```ccv[pcms]
+[ns]ç”·å­ç”Ÿå¾’ï¼¹[nse]
+ã€Œã†ã¯ã€ãã€œã€œã€œâ€¦â€¦ã€[pcms]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 
 [se0 storage="se062"]
 
@@ -432,10 +418,10 @@
 
 *7249|
 [fc]
-[ns]’jq¶“k‚v[nse]
-u‚®A‚¤‚£ccv[pcms]
+[ns]ç”·å­ç”Ÿå¾’ï¼·[nse]
+ã€Œãã€ã†ã…â€¦â€¦ã€[pcms]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 
 [se0 storage="se062"]
 
@@ -454,10 +440,10 @@
 
 *7250|
 [fc]
-[ns]’jq¶“k‚y[nse]
-u‚ ``cc‚ÅA‚é‚ÅA‚éA‚Å‚é‚ÅA‚éccv[pcms]
+[ns]ç”·å­ç”Ÿå¾’ï¼º[nse]
+ã€Œã‚ã€œã€œâ€¦â€¦ã§ã€ã‚‹ã§ã€ã‚‹ã€ã§ã‚‹ã§ã€ã‚‹â€¦â€¦ã€[pcms]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 
 [se0 storage="se062"]
 
@@ -476,14 +462,14 @@
 
 *7251|
 [fc]
-Ol•ª‚ÌƒXƒyƒ‹ƒ}‚ª‚¨K‚É‚©‚¯‚ç‚ê‚éŠ´G‚ğÅŒã‚ÉA„[r]
-‚ÌˆÓ¯‚Í“râ‚¦‚½B[pcms]
+ä¸‰äººåˆ†ã®ã‚¹ãƒšãƒ«ãƒãŒãŠå°»ã«ã‹ã‘ã‚‰ã‚Œã‚‹æ„Ÿè§¦ã‚’æœ€å¾Œã«ã€ç§[r]
+ã®æ„è­˜ã¯é€”çµ¶ãˆãŸã€‚[pcms]
 
 *v2927|
 [fc]
 [vo_sa s="sae0808"]
-[ns]²”Œ[nse]
-u‚£cc‚®ccv[pcms]
+[ns]ä½ä¼¯[nse]
+ã€Œã…â€¦â€¦ãâ€¦â€¦ã€[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -497,28 +483,28 @@
 
 *7252|
 [fc]
-[ns]’jq¶“k‚x[nse]
-u‚ÈA‚ÉA‚Ë‚Ä‚ñA‚¾‚æA‚±‚¢‚Âcc‚ÂA‚Ü‚ñA‚Ë‚¥‚Ì[r]
-cc‚à‚Á‚ÆA‚¨‚©A‚µA‚Äcc‚Ğ‚ßA‚¢A‚«‚«‚½A‚©‚Á[r]
-‚½‚ÌA‚É‚æ‚§ccv[pcms]
+[ns]ç”·å­ç”Ÿå¾’ï¼¹[nse]
+ã€Œãªã€ã«ã€ã­ã¦ã‚“ã€ã ã‚ˆã€ã“ã„ã¤â€¦â€¦ã¤ã€ã¾ã‚“ã€ã­ã‡ã®[r]
+â€¦â€¦ã‚‚ã£ã¨ã€ãŠã‹ã€ã—ã€ã¦â€¦â€¦ã²ã‚ã€ã„ã€ãããŸã€ã‹ã£[r]
+ãŸã®ã€ã«ã‚ˆã‰â€¦â€¦ã€[pcms]
 
 *7253|
 [fc]
-[ns]’jq¶“k‚v[nse]
-u‚à‚¤A‚¢A‚¢‚âcc‚±A‚¦A‚Å‚ÈA‚¢A‚È‚çcc‚ê‚¢[r]
-‚Õ‚µA‚Ä‚àA‚µ‚çA‚¯A‚éA‚©‚çA‚Èccv[pcms]
+[ns]ç”·å­ç”Ÿå¾’ï¼·[nse]
+ã€Œã‚‚ã†ã€ã„ã€ã„ã‚„â€¦â€¦ã“ã€ãˆã€ã§ãªã€ã„ã€ãªã‚‰â€¦â€¦ã‚Œã„[r]
+ã·ã—ã€ã¦ã‚‚ã€ã—ã‚‰ã€ã‘ã€ã‚‹ã€ã‹ã‚‰ã€ãªâ€¦â€¦ã€[pcms]
 
 *7254|
 [fc]
-[ns]’jq¶“k‚y[nse]
-u‚Â‚¬A‚ÌA‚¨‚ñA‚È‚ÌA‚¯‚ÂA‚Ícc‚¨A‚ê‚ªA‚¢A[r]
-‚¿‚Î‚ñA‚ÌA‚è‚¾‚Ÿccv[pcms]
+[ns]ç”·å­ç”Ÿå¾’ï¼º[nse]
+ã€Œã¤ãã€ã®ã€ãŠã‚“ã€ãªã®ã€ã‘ã¤ã€ã¯â€¦â€¦ãŠã€ã‚ŒãŒã€ã„ã€[r]
+ã¡ã°ã‚“ã€ã®ã€ã‚Šã ãâ€¦â€¦ã€[pcms]
 
 
-; ‰ñ‘zƒ‚[ƒh’†‚È‚çA‰ñ‘zƒ‚[ƒh‰æ–Ê‚É–ß‚é
+; å›æƒ³ãƒ¢ãƒ¼ãƒ‰ä¸­ãªã‚‰ã€å›æƒ³ãƒ¢ãƒ¼ãƒ‰ç”»é¢ã«æˆ»ã‚‹
 [if exp="tf.scene_mode"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
-;//[07140]‚Ö
+;//[07140]ã¸
 [jump target=*07140_H_TOP storage="07140_H.ks"]

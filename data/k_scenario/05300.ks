@@ -1,16 +1,16 @@
 
-;//¡ËƒuƒƒbƒN05300w“c’†E•ü”ü‚ÆÄ‰ïx
-;//BG:“n‚è˜L‰ºF’©
-;//“oêl•¨GålŒöE“µEŠ´õ“c’†EŠ´õ•ü”üEƒ]ƒ“ƒr‚Rl
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05300ã€ç”°ä¸­ãƒ»æœ‹ç¾ã¨å†ä¼šã€
+;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šæœ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»æ„ŸæŸ“ç”°ä¸­ãƒ»æ„ŸæŸ“æœ‹ç¾ãƒ»ã‚¾ãƒ³ãƒ“ï¼“äºº
 
 *05300_TOP
-;[debug_win]‚È‚¤@05300[debug_win_end]
-;*SceneSet|w“c’†E•ü”ü‚ÆÄ‰ïx
+;[debug_win]ãªã†ã€€05300[debug_win_end]
+;*SceneSet|ã€ç”°ä¸­ãƒ»æœ‹ç¾ã¨å†ä¼šã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05300 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05300 = 1"]
 
-;//flag:“µƒ‹[ƒgƒtƒ[@‚T@•\¦
-;//ôFBGM001
+;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼•ã€€è¡¨ç¤º
+;//â™ªï¼šBGM001
 
 [bgm001]
 
@@ -19,7 +19,7 @@
 [bg storage="bg09a"]
 [trans_c cross time=500]
 
-;—§‚¿
+;ç«‹ã¡
 
 [ChrSetEx layer=1 chbase="tomo_d_d_04"]
 [ChrSetXY layer=1 x=40 y=0]
@@ -38,31 +38,27 @@
 
 *5249|
 [fc]
-[ns]‰Á“¡[nse]
-u—S“ñccHv[pcms]
+[ns]Kato[nse]
+Yuuji...?[pcms]
 
 *5250|
 [fc]
-ŠwH‚ğo‚ÄA•ÛŒ’º‚É–ß‚ë‚¤‚Æ•à‚«o‚µ‚½‚Æ‚±‚ë‚ÅA[r]
-³–Ê‚©‚ç—S“ñ‚ÆŒÜ\—’ƒTƒ“‚ª•à‚¢‚Ä‚­‚é‚Ì‚ªŒ©‚¦‚½B[pcms]
+I could see Yuuji and Igarashi-san walking towards me from[r]the front as I left the cafeteria and started walking back[r]to the infirmary.[pcms]
 
 *5251|
 [fc]
-•‚Íƒ{ƒƒ{ƒAƒtƒ‰ƒtƒ‰‚µ‚Ä‚¢‚Ä‘«‰º‚ª[r]
-‚¨‚Ú‚Â‚©‚È‚¢ccB[pcms]
+My clothes are tattered, I'm stumbling and my steps are[r]unsteady...[pcms]
 
 *5252|
 [fc]
-‚»‚ê‚ÉAÅ“_‚Ì‡‚Á‚Ä‚¢‚È‚¢‚æ‚¤‚ÈA[r]
-‹•‚ë‚È–Ú‚Â‚«ccB[pcms]
+And, a vacant gaze that doesn't seem to focus...[pcms]
 
 *5253|
 [fc]
-ccŒã‚ë‚É‚¢‚é“z‚ç‚Í‰½‚È‚ñ‚¾ccH[r]
-—S“ñ’B‚Ì—F’B‚©‚ÈccB[r]
-‚Å‚àA‚ ‚¢‚Â‚ç‚àA‚È‚ñ‚©•Ï‚¾ccB[pcms]
+... What are those people behind me...?[l][er]
+Are they Yuuji's friends...? But, they seem strange too...[pcms]
 
-;//ôFBGM001ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM001ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 
 [fadeoutbgm time=500]
 
@@ -75,17 +71,15 @@
 
 *5254|
 [fc]
-Œã‚ë‚É‚¢‚é’j’B‚àA—S“ñ‚ÆŒÜ\—’ƒTƒ“‚Æ“¯‚¶‚æ‚¤‚ÉA[r]
-—lq‚Ì‚¨‚©‚µ‚¢˜A’†‚¾‚Á‚½B[pcms]
+The men behind me were also strange individuals, just like[r]Yuuji and Igarashi-san.[pcms]
 
 *5255|
 [fc]
-‚»‚ê‚Å‚àA‘{‚µ‚Ä‚¢‚½“ñl‚ªŒ©‚Â‚©‚Á‚½‚ÆA[r]
-‘–‚Á‚ÄŒü‚©‚¨‚¤‚Æ‚µ‚½‰´‚ğA²”Œ‚ªQ‚Ä‚Äˆø‚«—¯‚ß‚½B[pcms]
+Even so, when Saeki saw that the two people I had been[r]searching for were found, she hurriedly stopped me as I[r]tried to run towards them.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//ôFBGM003ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM003ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 [bgm003]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
@@ -93,133 +87,126 @@
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2184|
 [fc]
 [vo_sa s="sae0451"]
-[ns]²”Œ[nse]
-u‘Ò‚Á‚Ä‚­‚¾‚³‚¢I@‚ ‚Ìl’B‚Ì‚ ‚Ì–ÚA[r]
-•’Ê‚¶‚á‚ ‚è‚Ü‚¹‚ñB‹ß‚Ã‚©‚È‚¢•û‚ªccv[pcms]
+[ns]Saeki[nse]
+Please wait! Those people's eyes, they're not normal.[l][er]
+It's better not to get closer...[pcms]
 
 *5256|
 [fc]
-[ns]‰Á“¡[nse]
-ucc‚Å‚àA–³‹‚·‚é‚í‚¯‚É‚à‚¢‚©‚È‚¢‚¾‚ëB[r]
-‚¸‚Á‚Æ‘{‚µ‚Ä‚½‚ñ‚¾‚µB‚Æ‚è‚ ‚¦‚¸Aº‚©‚¯‚Ä‚­‚év[pcms]
+[ns]Kato[nse]
+... But I can't just ignore them.[l][er]
+I've been searching for them all this time.[l][er]
+For now, I'll try calling out to them.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *5257|
 [fc]
-‚Á‚Ä‚¢‚½Hƒpƒ“‚Æ‹“û‚ğ²”Œ‚É”C‚¹A[r]
-‰´‚Í—S“ñ’B‚Ì‚à‚Æ‚Ö•à‚¢‚½B[pcms]
+I entrusted Saeki with the bread and milk I had, and walked[r]towards Yuuji and the others.[pcms]
 
 *5258|
 [fc]
-[ns]‰Á“¡[nse]
-u¡‚Ü‚Å‚Ç‚±s‚Á‚Ä‚½‚ñ‚¾‚æA—S“ñ‚¡v[pcms]
+[ns]Kato[nse]
+Where have you been all this time, Yuuji?[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_d_b_01"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2185|
 [fc]
 [vo_to s="tomo0250"]
-[ns]ŒÜ\—’[nse]
-u‚ [cc‚¨‚¿‚ñA‚¿A‚ñ‚¾‚Ÿcc‚¨‚¿A‚ñ‚¿‚ñA‚ªA[r]
-‚ ‚é‚¢A‚Ä‚­A‚é‚£ccv[pcms]
+[ns]Igarashi[nse]
+Ah... penis, it's... it's walking...[l][er]
+the penis is walking...[pcms]
 
 *5259|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ÍccHv[pcms]
+[ns]Kato[nse]
+Huh...?[pcms]
 
 *5260|
 [fc]
-‚½‚¾‚Å‚³‚¦—lq‚Ì‚¨‚©‚µ‚¢ŒÜ\—’ƒTƒ“‚©‚çA[r]
-—\‘z‚à‚µ‚Ä‚¢‚È‚©‚Á‚½Œ¾—t‚ğ‚©‚¯‚ç‚ê‚ÄA‰´‚Íƒ|ƒJƒ“[r]
-‚ÆŒû‚ğŠJ‚¯‚½‚Ü‚ÜA‚»‚Ìê‚ÉŒÅ‚Ü‚Á‚Ä‚µ‚Ü‚Á‚½B[pcms]
+I was frozen in place, my mouth hanging open, as I was[r]unexpectedly approached by Igarashi-san, who was already[r]acting strangely.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *5261|
 [fc]
-‚¢‚«‚È‚è‚È‚ÉŒ¾‚Á‚Ä‚ñ‚¾H@‚»‚ê‚ÉA’‚è•û‚ª‰½‚©ccB[pcms]
+What are you suddenly saying? And your way of speaking is...[l][er]
+something.[pcms]
 
 *5262|
 [fc]
-Œ¾‚Á‚Ä‚¢‚é“à—e‚à‚¨‚©‚µ‚¢‚ªA‚ë‚ê‚Â‚Ì‰ñ‚Á‚Ä‚¢‚È‚¢A[r]
-ğ‚ÉŒ‚Á‚Ä‚¢‚é‚æ‚¤‚È’‚è•û‚à•Ï‚¾BŒÜ\—’ƒTƒ“‚Í•’iA[r]
-‚±‚ñ‚È’‚è•û‚ğ‚µ‚È‚¢B[pcms]
+The content of what she's saying is strange, but her speech[r]is also odd, as if she's drunk and her tongue isn't working[r]properly.[l][er]
+Igarashi-san doesn't usually speak like this.[pcms]
 
 *5263|
 [fc]
-Œ©‚½–Ú‚©‚ç‘z‘œ‚µ‚½ˆÈã‚É•’Ê‚¶‚á‚È‚¢B[r]
-‚±‚ÌW’c‚ÌˆÙí‚È—lq‚ÉA[r]
-‰´‚Ì’†‚ÅA‹}Œƒ‚É•sˆÀŠ´‚ª–c‚ê‚ ‚ª‚éB[pcms]
+The abnormality of this group's behavior is far beyond what[r]I imagined from their appearance.[l][er]
+Within me, a sudden sense of unease swells up.[pcms]
 
 *5264|
 [fc]
-‚Ü‚³‚©‚±‚¢‚Â‚çccBƒNƒXƒŠ‚â‚Á‚Ä‚é‚Ì‚©ccH[pcms]
+Could it be... these guys... are they doing drugs...?[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_b_a_10"]
 [ChrSetXY layer=1 x=160 y=0]
 [ChrSetParts layer=1 chface="tanaka_b_a_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std358|
 [fc]
-[ns]“c’†[nse]
-u‚¨‚ÜA‚ñ‚±cc‚ A‚½‚ç‚µA‚¢A‚¨A‚Ü‚ñA‚±cc[r]
-‚Ö‚ÖA‚Öcc‚Ñ‚¶A‚ñ‚ÌA‚¨A‚ÜA‚ñ‚±A‚¾‚Ÿccv[pcms]
+[ns]Tanaka[nse]
+Pussy... oh, it's so wet... oh, pussy...[l][er]
+hehe, hehe... the beauty of a pussy...[pcms]
 
 *5265|
 [fc]
-—S“ñ‚ÍŠ´î‚Ì‚È‚¢AŒ©‚Ä‚¢‚é‚ªŒ©‚Ä‚¢‚È‚¢A‚»‚ñ‚È•—‚É[r]
-v‚¦‚é‹C–¡‚Ìˆ«‚¢–Ú‚ÅA‰´‚ÌŒã‚ë‚É‚¢‚é²”Œ‚ğŒ©‚Â‚ßA[r]
-ƒCƒb‚Ä‚µ‚Ü‚Á‚Ä‚¢‚éÎŠç‚ğ•‚‚©‚×‚½B[pcms]
+Yuuji, with emotionless eyes that seem to be looking but not[r]really looking, stared at Saeki behind me and had a creepy[r]smile on his face as if he had reached climax.[pcms]
 
 *5266|
 [fc]
-–¾‚ç‚©‚É•’Ê‚¶‚á‚È‚¢—S“ñ‚ÆŒÜ\—’ƒTƒ“‚Ì—lq‚ÉA[r]
-‰´‚Í•sˆÀ‚ğ’Ê‚è‰z‚µAŠëŒ¯‚ğŠ´‚¶‚Ä‚¢‚½B[pcms]
+I felt not just unease, but also a sense of danger from the[r]clearly abnormal behavior of Yuuji and Igarashi-san.[pcms]
 
 *5267|
 [fc]
-[ns]‰Á“¡[nse]
-uIIv[pcms]
+[ns]Kato[nse]
+!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *5268|
 [fc]
-²”Œ‚ğ˜A‚ê‚Ä“¦‚°‚æ‚¤‚Æ‚¢‚¤‰´‚Ìl‚¦‚ğA“Ç‚İæ‚Á‚½‚©[r]
-‚Ì‚æ‚¤‚ÉA—S“ñ’B‚Í‚±‚¿‚ç‚ÉŒü‚©‚¤‘«‚ğˆêÄ‚É‘¬‚ß‚½B[pcms]
+Yuuji and the others, as if they had read my thoughts about[r]trying to escape with Saeki, suddenly quickened their pace[r]towards us.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2186|
 [fc]
 [vo_sa s="sae0452"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñIIv[pcms]
+[ns]Saeki[nse]
+Kato-san!![pcms]
 
 *5269|
 [fc]
-[ns]‰Á“¡[nse]
-u“¦‚°‚ë‚ÁI@‚³‚¦ccv[pcms]
+[ns]Kato[nse]
+Run away! Saeki...[pcms]
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 [se0 storage="se021"]
 
 [quake_bg xy m]
@@ -228,50 +215,45 @@
 
 *5270|
 [fc]
-‰´’B‚ª‘–‚è‚¾‚»‚¤‚Æ‚µ‚Ä‚·‚®AW’c‚Ìˆêl‚ª“]‚ÑA[r]
-c‚è‚ÌlŠÔ‚à‚»‚¢‚Â‚É‚Â‚Ü‚¸‚¢‚Ä“|‚êA[r]
-—S“ñ’B‚Íƒ_ƒ“ƒSó‘Ô‚É‚È‚Á‚Ä‚¢‚½B[pcms]
+As soon as we tried to start running, one person in the[r]group tripped and the rest of them stumbled over that person[r]and fell down, leaving Yuuji and the others in a pile.[pcms]
 
 *5271|
 [fc]
-“]‚ñ‚¾‚±‚Æ‚ª‚¨‚©‚µ‚¢‚Ì‚©AŒÜ\—’ƒTƒ“‚ÍˆêlA[r]
-Î‚¢“]‚°‚Ä‚¢‚½B[pcms]
+Igarashi-san, alone, was laughing and rolling around as if[r]tripping was funny.[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_d_b_01"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2187|
 [fc]
 [vo_to s="tomo0251"]
-[ns]ŒÜ\—’[nse]
-u‚ ‚Ícc‚ ‚ÍA‚Í‚Ícc‚ ‚Í‚ÁA‚Í‚Íccv[pcms]
+[ns]Igarashi[nse]
+Ahaha... ahaha, hahaha... ahaha, hahaha...[pcms]
 
 *5272|
 [fc]
-[ns]‰Á“¡[nse]
-ucc²”ŒA¡‚Ì‚¤‚¿AZÉ‚Ì’†‚É“¦‚°‚é‚¼Iv[pcms]
+[ns]Kato[nse]
+... Saeki, let's escape into the school building while we[r]have the chance![pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2188|
 [fc]
 [vo_sa s="sae0453"]
-[ns]²”Œ[nse]
-u‚ÍA‚Í‚¢ccv[pcms]
+[ns]Saeki[nse]
+Y-Yes...[pcms]
 
 *5273|
 [fc]
-ƒ_ƒ“ƒSó‘Ô‚Ì‚Ü‚ÜA°‚Å‚Ì‚½‚¤‚¿‰ñ‚Á‚Ä‚¢‚é—S“ñ’B‚Ì‰¡[r]
-‚ğA‘–‚è”²‚¯‚æ‚¤‚Æ‚µ‚½uŠÔAŒÜ\—’ƒTƒ“‚ª‘Ì‚ğ‹N‚±‚µ[r]
-‚ÄA²”Œ‚Éè‚ğL‚Î‚µ‚½B[pcms]
+As I tried to run past Yuuji and the others, who were still[r]in a pile on the floor, Igarashi-san suddenly sat up and[r]reached out her hand towards Saeki.[pcms]
 
 
 [ChrSetEx layer=1 chbase="tomo_d_b_01"]
@@ -279,109 +261,105 @@
 [trans_c cross time=150]
 ;//
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2189|
 [fc]
 [vo_to s="tomo0252"]
-[ns]ŒÜ\—’[nse]
-u‚Ü‚Ÿ‚Ä‚¥[v[pcms]
+[ns]Igarashi[nse]
+Well, well...[pcms]
 
 *v2190|
 [fc]
 [vo_sa s="sae0454"]
-[ns]²”Œ[nse]
-u‚«‚á‚Ÿ‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Kyaa![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *5274|
 [fc]
-“Ë‘RAè‚ğL‚Î‚³‚ê‚½‚±‚Æ‚É‹Á‚¢‚ÄA²”Œ‚ªHƒpƒ“‚Æ‹[r]
-“û‚ğæ‚è—‚Æ‚·‚ÆA‚Ì‚½‚¤‚¿‰ñ‚Á‚Ä‚¢‚½“z‚ç‚ª‘SˆõA[r]
-‚»‚ê‚É”ò‚Ñ‚Â‚¢‚½B[pcms]
+Saeki was surprised when Igarashi suddenly reached out her[r]hand, causing her to drop the bread and milk.[l][er]
+The guys who were writhing on the floor all jumped at it.[pcms]
 
 [ChrSetEx layer=1 chbase="zom_04_a"]
 [ChrSetXY layer=1 x=250 y=0]
 [trans_c cross time=150]
 ;//
 
-;—§‚¿
+;ç«‹ã¡
 *std359|
 [fc]
-[ns]’jq¶“k‚`[nse]
-u‚ `cc‚­‚¢‚àA‚ñA‚¾‚Ÿ`ccv[pcms]
+[ns]Male Student A[nse]
+Ah... I'm eating, mmm...[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_b_a_10"]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 ;//
 
-;—§‚¿
+;ç«‹ã¡
 *std360|
 [fc]
-[ns]“c’†[nse]
-u‚¨A‚ê‚ñA‚¾‚¼A‚±A‚êcc‚æA‚±‚¹A‚æccv[pcms]
+[ns]Tanaka[nse]
+O-ren-da-zo-ko-re... yo-ko-se-yo...[pcms]
 
 [ChrSetEx layer=1 chbase="zom_03_a"]
 [ChrSetXY layer=1 x=280 y=0]
 [trans_c cross time=150]
 ;//
-;—§‚¿
+;ç«‹ã¡
 *std361|
 [fc]
-[ns]’jq¶“k‚c[nse]
-u‚Í‚Ÿ`cc‚Í‚Ÿ`ccv[pcms]
+[ns]Male Student D[nse]
+*Heavy breathing*... *Heavy breathing*...[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_d_b_01"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2191|
 [fc]
 [vo_to s="tomo0253"]
-[ns]ŒÜ\—’[nse]
-u‚ A‚Í‚Ÿcc‚ÈA‚É‚±A‚ê‚¥cc[r]
-‚¹A‚¢‚µA‚İA‚½‚Ÿ‚¢ccv[pcms]
+[ns]Igarashi[nse]
+Ah, haa... Wha, what is this...?[l][er]
+It's so stimulating...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *5275|
 [fc]
-’á‚¢‚¤‚È‚èº‚ÆAêˆá‚¢‚ÈÎ‚¢º‚Ì’†A“z‚ç‚Íƒ_ƒ“ƒSó[r]
-‘Ô‚Ì‚Ü‚ÜAƒrƒj[ƒ‹‚Ì‘Ü‚²‚ÆHƒpƒ“‚É‚©‚¶‚è‚Â‚«A‘¼l[r]
-‚Ì‘Ì‚É‚©‚©‚Á‚½‹“û‚ğär‚ß‚Æ‚Á‚ÄAH—¿‚ğ’D‚¢‡‚Á‚½B[pcms]
+Amidst the low moans and inappropriate laughter, they[r]remained in a pile like dumplings, biting into the bread[r]still in its plastic bag and licking the spilled milk off[r]each other's bodies, fighting over food.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2192|
 [fc]
 [vo_sa s="sae0455"]
-[ns]²”Œ[nse]
-u‚ÈccA‰½cc‚±‚Ìl’BccIHv[pcms]
+[ns]Saeki[nse]
+W-What... are these people...!?[pcms]
 
 *5276|
 [fc]
-[ns]‰Á“¡[nse]
-u‚µ‚Á‚©‚è‚µ‚ëA²”ŒI@“¦‚°‚é‚¼Iv[pcms]
+[ns]Kato[nse]
+Get a hold of yourself, Saeki![l][er]
+Let's run away![pcms]
 
 *5277|
 [fc]
-”w‹Ø‚ÌŠ¦‚­‚È‚é‚æ‚¤‚ÈˆÙ—l‚ÈŒõŒi‚ÉA–Ú‚ğŒ©ŠJ‚¢‚½‚Ü‚Ü[r]
-ŒÅ‚Ü‚Á‚Ä‚¢‚é²”Œ‚Ì˜r‚ğˆø‚«A‰´‚ÍZÉ‚Ì’†‚Ö‘–‚Á‚½B[pcms]
+I grabbed Saeki's arm, frozen with her eyes wide open at the[r]bizarre and spine-chilling sight, and ran into the school[r]building.[pcms]
 
 *5278|
 [fc]
-‘‚­V“¹æ¶‚É’m‚ç‚¹‚È‚¢‚ÆccB[r]
-‚¢‚âcc‚»‚Ì‘O‚ÉARŠİ‚³‚ñ‚Æ^–ç‚ğ‹N‚±‚µ‚ÄA[r]
-ˆê‚É˜A‚ê‚Äs‚Á‚½•û‚ª‚¢‚¢‚ÈccB[pcms]
+We need to inform Shindou-sensei quickly...[l][er]
+No, before that, it would be better to wake up Yamagishi-san[r]and Shinya and take them with us.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -389,12 +367,12 @@
 
 ;//blackout
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//¦ğŒ•ªŠò
-;//Eflag:“µƒ‹[ƒgƒNƒŠƒA@‚ªoff;//[05310]‚Ö
-;//Eflag:“µƒ‹[ƒgƒNƒŠƒA@‚ªon;//[06140]‚Ö
+;//â€»æ¡ä»¶åˆ†å²
+;//ãƒ»flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒoff;//[05310]ã¸
+;//ãƒ»flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒon;//[06140]ã¸
 
 [if exp="sf.g_hitomi_clear==1"]
 	;[jump target=*SEL00_05300_CLEAR_F]

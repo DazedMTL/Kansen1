@@ -1,20 +1,20 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02150wOŠK••½x
-;//BG:OŠK˜L‰ºFƒoƒŠƒP[ƒhF—[•û
-;//“oêl•¨GålŒöE—DEƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02150ã€ä¸‰éšå°é–ã€
+;//BG:ä¸‰éšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰ï¼šå¤•æ–¹
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02150_TOP
-;[debug_win]‚È‚¤@02150[debug_win_end]
+;[debug_win]ãªã†ã€€02150[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02150 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02150 = 1"]
 
-;*SceneSet|wOŠK••½x
+;*SceneSet|ã€ä¸‰éšå°é–ã€
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 
 [bgm007]
 
@@ -30,158 +30,143 @@
 
 *2732|
 [fc]
-‰´‚ÆRŠİ‚³‚ñ‚É­‚µ’x‚ê‚Ä‚â‚Á‚Ä‚«‚½V“¹æ¶‚ÍA’…‘Ö[r]
-‚¦‚é‚½‚ß‚È‚Ì‚¾‚ë‚¤A‚·‚®‚É‹ß‚­‚Ì‹³º‚É“ü‚Á‚½B[pcms]
+New teacher Shindou, who arrived a little later with me and[r]Yamagishi-san, went into the nearby classroom right away,[r]probably to change clothes.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *2733|
 [fc]
-ˆê‰AŒ©‚È‚¢‚æ‚¤‚É‚µ‚Ä‚¢‚½‚Â‚à‚è‚¾‚Á‚½‚ªA‰½‚µ‚ë‰½[r]
-‚à’…‚Ä‚¢‚È‚¢‚©‚çAˆêuAV“¹æ¶‚Ì‘Ì‚ª–Ú‚É“ü‚Á‚Ä‚µ[r]
-‚Ü‚Á‚½B[pcms]
+I had tried my best not to look, but since she wasn't[r]wearing anything at all, for a moment, I caught a glimpse of[r]Shindou-sensei's body.[pcms]
 
 *2734|
 [fc]
-“ª‚Ì’†‚Éc‚Á‚½V“¹æ¶‚Ì”§‚Ì”’‚³‚ÉA‰´‚Í‚³‚Á‚«‚ÌA[r]
-^–ç‚ÆŠİ“c‚Éæ¶‚ª”Æ‚³‚ê‚Ä‚¢‚éŒõŒi‚ğv‚¢o‚µ‚½B[pcms]
+I remembered the scene of Shindou-sensei being violated by[r]Shinya and Kishida earlier, when I saw the whiteness of her[r]skin that remained in my mind.[pcms]
 
 *2735|
 [fc]
-^–ç‚ÆŠİ“c‚É“Ë‚«ã‚°‚ç‚êA‘Ì‚ğk‚í‚¹Ašb‚®AV“¹æ[r]
-¶‚Ì‰‚ß‚©‚µ‚¢p‚ğccB[pcms]
+I trembled and gasped as Shindou-sensei's alluring figure[r]was pushed up by Shinya and Kishida.[pcms]
 
 *2736|
 [fc]
-[ns]‰Á“¡[nse]
-uƒnƒ@ccv[pcms]
+[ns]Kato[nse]
+*sigh*...[pcms]
 
 *2737|
 [fc]
-‰´‚Í©•ª‚Ì‰º‚ç‚È‚¢–Ï‘z‚ğA“ª‚ğU‚Á‚Ä’Ç‚¢o‚µ‚½B[pcms]
+I shook my head to drive away my foolish delusions.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1050|
 [fc]
 [vo_ya s="yama0350"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒNA‘åä•vH@’²qˆ«‚¢Hv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun, are you okay? Feeling unwell?[pcms]
 
 *2738|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ A‚¢‚âccRŠİ‚³‚ñ‚ÍH@‚Ç‚Á‚©A‰ö‰ä‚Æ‚©‚µ‚Ä[r]
-‚È‚¢Hv[pcms]
+[ns]Kato[nse]
+Ah, no... What about Yamagishi-san?[l][er]
+Did she get hurt or something?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1051|
 [fc]
 [vo_ya s="yama0351"]
-[ns]RŠİ[nse]
-u‚¤‚ñA•½‹Cccv[pcms]
+[ns]Yamagishi[nse]
+Yeah, I'm fine...[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_b_03"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1052|
 [fc]
 [vo_ri s="risa0341"]
-[ns]V“¹[nse]
-u‚²‚ß‚ñ‚È‚³‚¢ccv[pcms]
+[ns]Shindou[nse]
+I'm sorry...[pcms]
 
 *2739|
 [fc]
-’…‘Ö‚¦‚ğI‚¦‚½V“¹æ¶‚ªA‹³º‚©‚çp‚ğŒ»‚µ‚½B[pcms]
+Shindou-sensei, who had finished changing clothes, appeared[r]from the classroom.[pcms]
 
 *2740|
 [fc]
-‚³‚Á‚«Œ©‚½‚à‚Ì‚Ì‚¹‚¢‚ÅA‰´‚àRŠİ‚³‚ñ‚àAV“¹æ¶‚ğ[r]
-‚Ü‚Æ‚à‚ÉŒ©‚é‚±‚Æ‚ª‚Å‚«‚È‚©‚Á‚½B[pcms]
+Because of what I saw earlier, neither Yamagishi-san nor I[r]could look at Shindou-sensei properly.[pcms]
 
 *2741|
 [fc]
-‚»‚ê‚ÍV“¹æ¶‚à“¯‚¶‚È‚æ‚¤‚ÅA‚¤‚Â‚Ş‚¢‚½‚Ü‚ÜAŒû‚ğ[r]
-ŠJ‚¢‚½B[pcms]
+Shindou-sensei seemed to feel the same way, as she kept her[r]head down and spoke.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1053|
 [fc]
 [vo_ri s="risa0342"]
-[ns]V“¹[nse]
-u“ñŠK‚Ì”ñíŒû‚ÌŒ®‚Í•Â‚ß‚Ä‚«‚½‚©‚çA”ñíŠK’i‚ğã‚Á[r]
-‚Ä‚­‚é‚±‚Æ‚Í‚È‚¢‚Æv‚¤‚íBˆÈ‘O‚ÉA‚±‚ÌOŠK‚É‚àƒoƒŠ[r]
-ƒP[ƒh‚ğì‚Á‚Ä‚à‚ç‚Á‚Ä‚ ‚é‚µA‚µ‚Î‚ç‚­‚ÍˆÀ‘S‚æv[pcms]
+[ns]Shindou[nse]
+I locked the emergency exit on the second floor, so I don't[r]think she'll come up the emergency stairs.[l][er]
+We also had barricades set up on this third floor before, so[r]it should be safe for a while.[pcms]
 
 *2742|
 [fc]
-Eˆõº‚©‚ç“¦‚°‚Ä‚«‚½‚ ‚ÌA“ñŠK‚ÆOŠK‚Éˆê“x‚ÉƒoƒŠ[r]
-ƒP[ƒh‚ğì‚Á‚Ä‚¨‚¢‚½‚±‚Æ‚ªA¡‚É‚È‚Á‚ÄŒ÷‚ğ‘t‚µ‚½‚Æ[r]
-‚¢‚¤‚í‚¯‚¾B[pcms]
+When we escaped from the staff room, the fact that we had[r]set up barricades on both the second and third floors at the[r]same time has now proven to be effective.[pcms]
 
 *2743|
 [fc]
-‚ ‚Ì‚ÌAV“¹æ¶‚Ì‘–¾‚³‚ÉA‰´‚ÍS‚Ì’†‚ÅŠ´Ó‚µ‚Ä[r]
-‚¢‚½B[pcms]
+I was grateful for Shindou-sensei's intelligence at that[r]time, deep inside my heart.[pcms]
 
 *2744|
 [fc]
-[ns]‰Á“¡[nse]
-u‚µ‚Î‚ç‚­ˆÀ‘S‚È‚çA‚¿‚å‚Á‚Æ‰®ã‚És‚Á‚Ä‚«‚Ä‚¢‚¢‚Å[r]
-‚·‚©H@‹~••”‘à‚ª—ˆ‚Ä‚é‚©‚Ç‚¤‚©AŒ©‚És‚«‚½‚¢‚ñ‚Å[r]
-‚·v[pcms]
+[ns]Kato[nse]
+If it's safe for a while, can I go to the rooftop for a bit?[l][er]
+I want to see if the rescue team has arrived.[pcms]
 
 *2745|
 [fc]
-V“¹æ¶‚Í–³Œ¾‚ÅAƒXƒJ[ƒg‚Ìƒ|ƒPƒbƒg‚©‚çŒ®‚ğæ‚èo[r]
-‚µA‰´‚Éè“n‚µ‚½B[pcms]
+Shindou-sensei silently took out a key from her skirt pocket[r]and handed it to me.[pcms]
+[l][er]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1054|
 [fc]
 [vo_ya s="yama0352"]
-[ns]RŠİ[nse]
-u‚·‚®–ß‚Á‚Ä‚«‚Ü‚·B‚»‚Ì‚ ‚ÆA–h‰Î”à‚ÌŠÄ‹‚Æ‚©‚ÍA[r]
-„’B‚Å‚â‚è‚Ü‚·‚©‚çAæ¶‚Í‹x‚ñ‚Å‚¢‚Ä‚­‚¾‚³‚¢v[pcms]
+[ns]Yamagishi[nse]
+I'll be right back. After that, we'll take care of[r]monitoring the fire doors and such, so please rest, Sensei.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1055|
 [fc]
 [vo_ri s="risa0343"]
-[ns]V“¹[nse]
-u‚¦‚¦A‚»‚¤‚³‚¹‚Ä‚à‚ç‚¤‚íccB“ñl‚Æ‚àA‹C‚ğ‚Â‚¯[r]
-‚é‚Ì‚æv[pcms]
+[ns]Shindou[nse]
+Yes, I'll do that... Both of you, be careful.[pcms]
 
 *2746|
 [fc]
-”æ‚ê‚½—lq‚Å‚»‚¤Œ¾‚Á‚ÄAV“¹æ¶‚Í‚·‚®‚»‚Î‚Ì‹³º‚Ö[r]
-“ü‚èAƒhƒA‚ğ•Â‚ß‚½B[pcms]
+Shindou-sensei, looking tired, said that and immediately[r]entered the nearby classroom, closing the door.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -189,5 +174,5 @@
 
 ;//blackout
 
-;//[02151]‚Ö
+;//[02151]ã¸
 [jump target=*02151_TOP storage="02151.ks"]

@@ -1,20 +1,20 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN08170w—V‚Ñx
-;//;//BG:“n‚è˜L‰ºF–éFÁ“”
-;//“oêl•¨FålŒöE’|“àEƒŠƒTE•ü”ü
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08170ã€éŠã³ã€
+;//;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»ç«¹å†…ãƒ»ãƒªã‚µãƒ»æœ‹ç¾
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *08170_TOP
-;[debug_win]‚È‚¤@08170[debug_win_end]
+;[debug_win]ãªã†ã€€08170[debug_win_end]
 
-;*SceneSet|w—V‚Ñx
+;*SceneSet|ã€éŠã³ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08170 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08170 = 1"]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 
 ;//[bgm001]
 
@@ -25,100 +25,93 @@
 
 *9807|
 [fc]
-ŒÜ\—’ƒTƒ“‚Íw‚¤[‚½‚ñ‚ğ‹N‚±‚³‚È‚¢—l‚Éx‚ÆA‰´‚½‚¿[r]
-‚ğ˜A‚ê‚ÄA‘Ìˆç—p‹ïº‚©‚çŠO‚Éo‚½B[pcms]
+Igarashi-san led us out of the equipment room, saying Let's[r]make sure we don't wake up U-tan.[pcms]
 
 *9808|
 [fc]
-—D‚µ‚¢ccB[r]
-‚¢‚¢q‚¾ccB[r]
-–{“–A—S“ñ‚É‚Í‚à‚Á‚½‚¢‚È‚¢”Ş—‚¾ccB[pcms]
+Kind... She's a good girl... Truly, she's too good for[r]Yuuji...[pcms]
 
 *9809|
 [fc]
-‚ A‚»‚¤‚¾ccB[r]
-RŠİ‚³‚ñ’B‚ğ’T‚µ‚És‚­‚ñ‚¾‚Á‚¯H[pcms]
+Oh, right... We were supposed to go look for Yamagishi-san[r]and the others, weren't we?[pcms]
 
 *9810|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚Ì‚³ccRŠİ‚³‚ñ’B’T‚µ‚Éccv[pcms]
+[ns]Kato[nse]
+Hey... We were supposed to go look for Yamagishi-san and the[r]others, right?[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_d_b_01"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3601|
 [fc]
 [vo_to s="tomo0428"]
-[ns]ŒÜ\—’[nse]
-u‚ I@‚»‚¤‚¾‚ËII@cc—D‚¿‚á‚ñ’B‚ÆA‡—¬‚µ‚æ‚¤[r]
-‚æ`cc‚»‚ñ‚ÅAˆê‚É—V‚Ú‚¤‚æ`v[pcms]
+[ns]Igarashi[nse]
+Ah! That's right!! ... Let's meet up with Yuu-chan and the[r]others...  and let's play together~[pcms]
 
 *9811|
 [fc]
-—D‚¿‚á‚ñ’B‚Æ—V‚ÔH[r]
-‰½‚µ‚Ä—V‚Ô‚ñ‚¾ccH[r]
-—D‚¿‚á‚ñH[pcms]
+Play with Yuu-chan and the others?[l][er]
+What are we going to play...? Yuu-chan?[pcms]
 
 *9812|
 [fc]
-‚Ü‚ A‚¢‚¢‚©ccB[r]
-—V‚Ñ‚És‚±‚¤ccB[r]
-—V‚Ôcc—V‚ÔccB[pcms]
+Well, I guess it's fine... Let's go play...[l][er]
+Play... play...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3602|
 [fc]
 [vo_to s="tomo0429"]
-[ns]ŒÜ\—’[nse]
-u‚ ‚½‚µA—D‚¿‚á‚ñ’T‚µ‚És‚­`v[pcms]
+[ns]Igarashi[nse]
+I'm going to look for Yuu-chan~[l][er]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std663|
 [fc]
-[ns]’|“à[nse]
-uƒ{ƒN‚ÍA“µ‚ğ’T‚µ‚És‚­‚æccv[pcms]
+[ns]Takeuchi[nse]
+I'm going to go look for Hitomi...[pcms]
 
 *9813|
 [fc]
-‚¤[‚ñA‚Ç‚¤‚µ‚æ‚¤ccB[pcms]
+Hmm, what should I do...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//¦‘I‘ğˆ
-;//EŒÜ\—’ƒTƒ“‚ÆARŠİ‚³‚ñ‚ğ‘{‚µ‚És‚±‚¤;//[08180]‚Ö
-;//E^–ç‚É•t‚¢‚Äs‚±‚¤;//[08230]‚Ö
+;//â€»é¸æŠè‚¢
+;//ãƒ»äº”ååµã‚µãƒ³ã¨ã€å±±å²¸ã•ã‚“ã‚’æœã—ã«è¡Œã“ã†;//[08180]ã¸
+;//ãƒ»çœŸä¹Ÿã«ä»˜ã„ã¦è¡Œã“ã†;//[08230]ã¸
 
 
 
-*SEL01|ŒÜ\—’ƒTƒ“‚ÆARŠİ‚³‚ñ‚ğ‘{‚µ‚És‚±‚¤^^–ç‚É•t‚¢‚Äs‚±‚¤
+*SEL01|äº”ååµã‚µãƒ³ã¨ã€å±±å²¸ã•ã‚“ã‚’æœã—ã«è¡Œã“ã†ï¼çœŸä¹Ÿã«ä»˜ã„ã¦è¡Œã“ã†
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'ŒÜ\—’ƒTƒ“‚ÆARŠİ‚³‚ñ‚ğ‘{‚µ‚És‚±‚¤'"]
-[eval exp="f.seltext04 = '^–ç‚É•t‚¢‚Äs‚±‚¤'"]
+[eval exp="f.seltext02 = 'äº”ååµã‚µãƒ³ã¨ã€å±±å²¸ã•ã‚“ã‚’æœã—ã«è¡Œã“ã†'"]
+[eval exp="f.seltext04 = 'çœŸä¹Ÿã«ä»˜ã„ã¦è¡Œã“ã†'"]
 
 
-[if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
-	;‘I‘ğˆ“à—e‚ğƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
+[if exp="tf.sys_sub == 0 || tf.é¸æŠè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
+	;é¸æŠè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[—š—ğo—Í•œ‹A]
+[å±¥æ­´å‡ºåŠ›å¾©å¸°]
 
-;‘I‘ğˆƒx[ƒX
+;é¸æŠè‚¢ãƒ™ãƒ¼ã‚¹
 [selbase]
-;•¶š‚Ì¶ƒ}[ƒWƒ“
+;æ–‡å­—ã®å·¦ãƒãƒ¼ã‚¸ãƒ³
 [eval exp="sf.seltext_x = 200"]
 
 [sel02 target=*SEL00_yuu]

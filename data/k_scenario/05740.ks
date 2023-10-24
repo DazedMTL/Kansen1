@@ -1,15 +1,15 @@
 
-;//¡ËƒuƒƒbƒN05740w’Eo‚Qx
-;//BG:“n‚è˜L‰ºF—[•ûFÁ“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05740ã€è„±å‡ºï¼’ã€
+;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05740_TOP
-;[debug_win]‚È‚¤@05740[debug_win_end]
-;*SceneSet|w’Eo‚Qx
+;[debug_win]ãªã†ã€€05740[debug_win_end]
+;*SceneSet|ã€è„±å‡ºï¼’ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05740 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05740 = 1"]
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 
 [bgm009]
 
@@ -24,21 +24,18 @@
 
 *6144|
 [fc]
-‚¨‚©‚µ‚È“z‚ç‚ªŒ»‚ê‚½‚ÉA‚·‚®‚É“¦‚°‚é‘Ì¨‚ªæ‚ê‚é[r]
-‚æ‚¤‚ÉA‰´’B‚Íü‚è‚É[•ª’ˆÓ‚µ‚È‚ª‚çA‘«‘‚É˜L‰º‚ğ[r]
-i‚ñ‚¾B[pcms]
+We quickly walked down the hallway, being careful of our[r]surroundings, so that we could immediately take a defensive[r]position and escape when those strange people appeared.[pcms]
 
 *6145|
 [fc]
-[ns]‰Á“¡[nse]
-uZÉ‚ÌŠO‚Ü‚Å–³–‚Éo‚ç‚ê‚ê‚ÎA‚ ‚Æ‚ÍƒoƒX‚ÅŠX‚Ü‚Å[r]
-s‚¯‚Î‚¢‚¢B‚à‚µAƒoƒX‚ª—ˆ‚éŠÔ‚¶‚á‚È‚©‚Á‚½‚çA•à[r]
-‚¢‚ÄR‚ğ‰º‚è‚æ‚¤B‚»‚ê‚Å‚¢‚¢‚©Hv[pcms]
+[ns]Kato[nse]
+If we can safely make it outside the school building, then[r]all we need to do is take a bus to the town.[l][er]
+If it's not the time for the bus to arrive, we'll walk down[r]the mountain.[l][er]
+Is that okay?[pcms]
 
 *6146|
 [fc]
-‘å‚´‚Á‚Ï‚È‚»‚ÌŒv‰æ‚ÉA–À‚í‚¸‚É‚¤‚È‚¸‚¢‚½²”Œ‚Ìè‚ğ[r]
-æ‚Á‚ÄA‰´‚ÍZÉ‚Ì’†‚Ö‹ì‚¯‚ñ‚¾B[pcms]
+Taking Saeki's hand without hesitation in response to her[r]rough plan, I dashed into the school building.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -49,5 +46,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05750]‚Ö
+;//[05750]ã¸
 [jump target=*05750_TOP storage="05750.ks"]

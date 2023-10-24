@@ -1,24 +1,24 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN04012wˆÙl/‹¥sx
-;//BG:‘Ìˆç—p‹ïºF–é^“_“”
-;//“oêl•¨GålŒöE—DE•ü”üEƒ]ƒ“ƒr”–¼
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04012ã€ç•°äºº/å‡¶è¡Œã€
+;//BG:ä½“è‚²ç”¨å…·å®¤ï¼šå¤œï¼ç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»æœ‹ç¾ãƒ»ã‚¾ãƒ³ãƒ“æ•°å
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *04012_H_TOP
-;[debug_win]‚È‚¤@04012_H[debug_win_end]
+;[debug_win]ãªã†ã€€04012_H[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04012 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04012 = 1"]
 
-;*SceneSet|wˆÙl^‹¥sx
+;*SceneSet|ã€ç•°äººï¼å‡¶è¡Œã€
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 
 [bgm008]
 
-;//BG:bg–³‚µ
+;//BG:bgç„¡ã—
 
 ;;;[sysbt_meswin clear]
 
@@ -28,14 +28,13 @@
 
 ;;;[sysbt_meswin]
 
-;//SE:”à‚ğŠJ‚¯‚é
+;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
 
 [se0 storage="se008"]
 
 *3869|
 [fc]
-‘ÌˆçŠÙ‚Ì’†‚ÌAŒ©“n‚¹‚éŠ‚É‰Á“¡ŒN‚ª‚¢‚È‚©‚Á‚½‚©‚çA[r]
-„‚Í‘Ìˆç‘qŒÉ‚Ì’†‚É“ü‚Á‚½B[pcms]
+Since Kato-kun wasn't in a visible place inside the[r]gymnasium, I went into the sports equipment storage room.[pcms]
 
 ;//BG:bg016c
 
@@ -45,26 +44,22 @@
 *v1560|
 [fc]
 [vo_ya s="yama0606"]
-[ns]RŠİ[nse]
-u‰Á“¡‚­ccIIv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun...!![pcms]
 
 *3870|
 [fc]
-‰Á“¡ŒN‚ÍA‘Ìˆç‘qŒÉ‚É“ü‚Á‚½‚·‚®‚ÌŠ‚ÅA°‚É‚¤‚Â‚Ô‚¹[r]
-‚É“|‚ê‚Ä‚¢‚½B[pcms]
+Kato-kun was lying face down on the floor just inside the[r]sports equipment storage room.[pcms]
 
 *3871|
 [fc]
-‚»‚ÌŒü‚±‚¤‚ÅAƒgƒ‚‚¿‚á‚ñ‚ªƒ}ƒbƒg‚Ìã‚É“|‚ê‚Ä‚¢‚ÄA[r]
-ãX‚µ‚­‘§‚ğ‚µ‚Ä‚¢‚éB[pcms]
+On the other side, Tomo-chan is lying on the mat, weakly[r]breathing.[pcms]
 
 *3872|
 [fc]
-‚»‚µ‚Äƒgƒ‚‚¿‚á‚ñ‚Ì‚·‚®–T‚ÉA‚³‚Á‚«A”Ş—‚ğ”Æ‚µ‚Ä‚¢[r]
-‚½’jq“ñl‚ª—§‚Á‚Ä‚¢‚ÄA„‚ğ‹C‚¿‚Ìˆ«‚¢–Ú‚ÅŒ©‚Â‚ß[r]
-‚Ä‚¢‚½B[pcms]
+And right next to Tomo-chan, the two boys who had just[r]violated her were standing, staring at me with a disgusting[r]look.[pcms]
 
-;//H_CG:ƒ]ƒ“ƒr[ƒY
+;//H_CG:ã‚¾ãƒ³ãƒ“ãƒ¼ã‚º
 
 [ChrSetEx layer=3 chbase="zom_04_b"]
 [ChrSetXY layer=3 x=400 y=0]
@@ -72,8 +67,8 @@
 
 *3873|
 [fc]
-[ns]’jq¶“k‚i[nse]
-u‚®‚ÖA‚Ö‚Ö‚¥cc‚ ‚½‚çA‚µ‚¢A‚ÜA‚ñ‚±A‚¾ccv[pcms]
+[ns]Male Student J[nse]
+Guhe, hehee... Atara, shii, ma, nko, da...[pcms]
 
 [ChrSetEx layer=2 chbase="zom_03_b"]
 [ChrSetXY layer=2 x=0 y=0]
@@ -81,32 +76,30 @@
 
 *3874|
 [fc]
-[ns]’jq¶“k‚h[nse]
-u‚±A‚ñ‚ÇA‚Ícc‚¯‚ÂA‚ÉA‚¢‚êA‚ÄA‚İ‚æA‚¤‚©A[r]
-‚È‚Ÿccv[pcms]
+[ns]Male Student I[nse]
+Hm, maybe I should try putting it in her...[l][er]
+butt...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *3875|
 [fc]
-Š¦‚­‚È‚é‚æ‚¤‚ÈÎ‚¢Šç‚ÅA„‚ğ‚¢‚â‚ç‚µ‚¢–Ú‚ÅŒ©‰ñ‚µ‚È[r]
-‚ª‚çA”Ş‚ç‚Í‚ä‚Á‚­‚è‹ß‚Ã‚¢‚Ä‚­‚éB[pcms]
+With a chilling smile on their faces, they slowly approached[r]me while looking at me with lewd eyes.[pcms]
 
 *v1561|
 [fc]
 [vo_ya s="yama0607"]
-[ns]RŠİ[nse]
-u‚¢A‚âcc—ˆ‚È‚¢‚Åcc—ˆ‚È‚¢‚Å‚¥‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+N-No... Don't come... Don't come!![pcms]
 
-;//SE:l‚É‚Ô‚Â‚©‚é
+;//SE:äººã«ã¶ã¤ã‹ã‚‹
 [se0 storage="se025"]
 
 [quake_bg x m]
 
 *3876|
 [fc]
-“¦‚°‚æ‚¤‚ÆŒã‚¸‚³‚Á‚½„‚Ì‘Ì‚ÍA‰½‚©‚ÉÕ‚ç‚ê‚ÄA‚»‚ê[r]
-ˆÈã‚³‚ª‚ê‚È‚­‚È‚Á‚Ä‚µ‚Ü‚Á‚½B[pcms]
+My body, as I tried to escape and stepped back, was blocked[r]by something and couldn't move any further.[pcms]
 
 [ChrSetEx layer=5 chbase="zom_01_b"]
 [ChrSetXY layer=5 x=200 y=0]
@@ -115,19 +108,18 @@
 *v1562|
 [fc]
 [vo_ya s="yama0608"]
-[ns]RŠİ[nse]
-u‚Ğ‚ÁccIIv[pcms]
+[ns]Yamagishi[nse]
+Hii...!![pcms]
 
 *3877|
 [fc]
-‚ä‚Á‚­‚è‚ÆŒã‚ë‚ğU‚è•Ô‚é‚ÆA‚»‚±‚Å„‚Ì‘Ì‚ğÕ‚Á‚½‚Ì[r]
-‚ÍA‚³‚Á‚«˜L‰º‚Ì‹È‚ª‚èŠp‚É‚¢‚½‚ ‚Ì’jq‚¾‚Á‚½B[pcms]
+When I slowly turned around, the one who blocked my path was[r]the boy who was at the corner of the hallway earlier.[pcms]
 
 *v1563|
 [fc]
 [vo_ya s="yama0609"]
-[ns]RŠİ[nse]
-u‚¢A‚¢‚âcc‚¢‚â‚Ÿccv[pcms]
+[ns]Yamagishi[nse]
+N-No... Nooo...[pcms]
 
 [ChrSetEx layer=4 chbase="zom_04_b"]
 [ChrSetXY layer=4 x=400 y=0]
@@ -143,74 +135,68 @@
 
 *3878|
 [fc]
-”Ş‚ğæ“ª‚ÉA‘å¨‚Ì’jq‚ª‘Ìˆç‘qŒÉ‚Ì’†‚É‚È‚¾‚ê‚ñ‚Å[r]
-‚«‚ÄA„‚Éè‚ğL‚Î‚µ‚Ä‚­‚éB[pcms]
+A large group of boys, led by him, rushed into the gym[r]storage room and reached out their hands towards me.[pcms]
 
 *v1564|
 [fc]
 [vo_ya s="yama0610"]
-[ns]RŠİ[nse]
-u‚¢‚â‚ ‚ ‚Ÿ‚Ÿ‚ÁIIIIv[pcms]
+[ns]Yamagishi[nse]
+Noooo!!![pcms]
 
 *3879|
 [fc]
-[ns]’jq¶“k‚j[nse]
-u‚³‚­‚³A‚­A‚Ê‚°A‚æ‚§ccv[pcms]
+[ns]Male Student K[nse]
+Sa-ku-sa, ku, nu-ge, yoo...[pcms]
 
 *3880|
 [fc]
-[ns]’jq¶“k‚l[nse]
-u‚¢A‚ë‚¯A‚Ì‚Ë‚¥A‚Ï‚ñA‚Â‚¾A‚È‚Ÿccv[pcms]
+[ns]Male Student M[nse]
+I... want to see... your panties...[pcms]
 
 *3881|
 [fc]
-‰½–{‚à‚Ì˜r‚ÅA„‚Ì§•‚ª‚Í‚¬æ‚ç‚ê‚Ä‚¢‚Á‚ÄA‘Ì‚Ì”[r]
-‚«o‚µ‚É‚È‚Á‚½•”•ª‚ğG‚ç‚ê‚éB[pcms]
+My uniform was torn off by multiple arms, and the exposed[r]parts of my body were touched.[pcms]
 
 *v1565|
 [fc]
 [vo_ya s="yama0611"]
-[ns]RŠİ[nse]
-u‚â‚ß‚Ä‚¥I@‚¢‚â‚Ÿ‚ ‚ ‚ IIv[pcms]
+[ns]Yamagishi[nse]
+Stop it! Noooo!![pcms]
 
 *3882|
 [fc]
-[ns]’jq¶“k‚h[nse]
-u‚¤‚Ö‚ÖA‚¥cc‚±‚Ì‚¯A‚Âcc‚Õ‚èA‚Õ‚è‚µA‚ÄA‚é[r]
-‚º‚¥cc‚ `A‚Í‚âA‚­A‚¢A‚ê‚Ä‚¥ccv[pcms]
+[ns]Male Student I[nse]
+Uhuhu... this hair... it's so soft and bouncy...[l][er]
+Ahh, I want to enter quickly...[pcms]
 
 *3883|
 [fc]
-[ns]’jq¶“k‚k[nse]
-u‚Ğ‚çA‚¯‚æ‚§A‚ A‚µ‚¡cc‚Ü‚ñA‚±A‚³‚í‚çA‚¹A[r]
-‚ë‚æA‚§ccv[pcms]
+[ns]Male Student L[nse]
+Hira, keyoo, a, shii... man, ko, sawara, se, royo, o...[pcms]
 
 *v1566|
 [fc]
 [vo_ya s="yama0612"]
-[ns]RŠİ[nse]
-u‚¢‚â‚ÁI@‚â‚ß‚Ä‚¦‚¥‚ÁII@‰Á“¡ŒNI@‰Á“¡ŒNA•[r]
-‚¯‚Ä‚¥‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+Nooo! Stop it!! Katou-kun! Katou-kun, help meee!![pcms]
 
 *3884|
 [fc]
-‘å‚«‚Èº‚ÅA‰½‰ñ‹©‚ñ‚Å‚àA’jq’B‚Í‚â‚ß‚æ‚¤‚Æ‚Í‚µ‚È[r]
-‚©‚Á‚½‚µA‰Á“¡ŒN‚Í“|‚ê‚½‚Ü‚Ü‚ÅA•‚¯‚É—ˆ‚Ä‚Í‚­‚ê‚È[r]
-‚©‚Á‚½B[pcms]
+No matter how many times I screamed at the top of my lungs,[r]the boys didn't stop, and Katou-kun remained collapsed on[r]the ground without coming to help.[pcms]
 
 *v1567|
 [fc]
 [vo_ya s="yama0613"]
-[ns]RŠİ[nse]
-u‚±‚ñ‚È‚Ìcc‰R‚¾‚æI@‰Á“¡ŒNI@‹N‚«‚ÄII@‚¨‚«[r]
-‚Ä‚¥‚¦‚¦‚¦‚¦IIv[pcms]
+[ns]Yamagishi[nse]
+This can't be... It's a lie! Katou-kun![l][er]
+Wake up!! Waaake uuuup!![pcms]
 
 *v1568|
 [fc]
 [vo_ya s="yama0614"]
-[ns]RŠİ[nse]
-u‚¢‚â‚ ‚ ‚ ‚Ÿ‚Ÿ‚Ÿ‚ÁIIIIv[pcms]
+[ns]Yamagishi[nse]
+Noooo!!![pcms]
 
-;//[04013]‚Ö
+;//[04013]ã¸
 [jump target=*04013_H_TOP storage="04013_H.ks"]
 

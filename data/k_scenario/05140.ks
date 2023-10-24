@@ -1,15 +1,15 @@
 
-;//¡ËƒuƒƒbƒN05140wŒû˜_x
-;//BG:“Áê‹³º˜L‰ºF–éF“_“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05140ã€å£è«–ã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05140_TOP
-;[debug_win]‚È‚¤@05140[debug_win_end]
-;*SceneSet|wŒû˜_x
+;[debug_win]ãªã†ã€€05140[debug_win_end]
+;*SceneSet|ã€å£è«–ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05140 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05140 = 1"]
 
-;//ôFBGM001ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM001ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 [fadeoutbgm time=500]
 
 ;	/*
@@ -20,107 +20,99 @@
 
 *4906|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ñccHv[pcms]
+[ns]Kato[nse]
+Hm...?[pcms]
 
 *4907|
 [fc]
-²”Œ‚Æ•à‚«o‚µ‚Ä‚·‚®A‚Ç‚±‚©‚©‚çl‚Ì˜b‚µº‚ª•·‚±‚¦[r]
-‚Ä‚­‚é‚±‚Æ‚ÉA‰´‚Í‹C‚ª‚Â‚¢‚½B[pcms]
+As soon as I started walking with Saeki, I noticed the sound[r]of people talking coming from somewhere.[pcms]
 
 *4908|
 [fc]
-‰½‚¾‚ë‚¤ccB‰½‚©AŒ¾‚¢‡‚Á‚Ä‚¢‚é‚æ‚¤‚ÈccB[r]
-ŒûƒQƒ“ƒJH[pcms]
+I wonder... What could it be? It sounds like people[r]arguing...[l][er]
+A verbal fight, perhaps?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2083|
 [fc]
 [vo_sa s="sae0377"]
-[ns]²”Œ[nse]
-u‚Ç‚¤‚©‚µ‚Ü‚µ‚½Hv[pcms]
+[ns]Saeki[nse]
+Is something wrong?[pcms]
 
 *4909|
 [fc]
-[ns]‰Á“¡[nse]
-u‰½‚©•·‚±‚¦‚È‚¢‚©H@l‚Ì˜b‚µº‚İ‚½‚¢‚Èccƒzƒ‰A[r]
-‚±‚Ì‰¹ccv[pcms]
+[ns]Kato[nse]
+Can you hear something? It sounds like people talking...[l][er]
+Look, this sound...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2084|
 [fc]
 [vo_sa s="sae0378"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
-;//ôFBGM007ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 [bgm007]
 
 *4910|
 [fc]
-•sˆÀ‚°‚ÈŠç‚Å•Ó‚è‚ğŒ©‰ñ‚µ‚È‚ª‚çA²”Œ‚Í‰´‚Ì”w’†‚ÌŒã[r]
-‚ë‚Ög‚ğ‰B‚µ‚½B[pcms]
+Saeki, with an uneasy expression on her face, looked around[r]and hid herself behind my back.[pcms]
 
 *4911|
 [fc]
-•’Ê‚É‰´‚ÌŒã‚ë‚É‰B‚ê‚é²”Œ‚Ì‚»‚Ìp‚ªA–­‚É”÷Î‚Ü‚µ[r]
-‚­‚ÄA‰´‚Ív‚í‚¸Î‚Á‚Ä‚µ‚Ü‚Á‚½B[pcms]
+Saeki, who was hiding behind me in a completely normal way,[r]looked strangely adorable, and I couldn't help but laugh.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2085|
 [fc]
 [vo_sa s="sae0379"]
-[ns]²”Œ[nse]
-u‚íAÎ‚í‚È‚­‚Ä‚à‚¢‚¢‚Å‚µ‚å‚¤I@„‚É‚¾‚Á‚ÄA•|‚¢[r]
-‚à‚Ì‚Í‚ ‚é‚ñ‚Å‚·‚©‚çccv[pcms]
+[ns]Saeki[nse]
+Y-You don't have to laugh! Even I have things that scare me,[r]you know...[pcms]
 
 *4912|
 [fc]
-[ns]‰Á“¡[nse]
-u‚µ‚å‚¤‚ª‚È‚¢‚Èccƒzƒ‰v[pcms]
+[ns]Kato[nse]
+Well, it can't be helped... Look.[pcms]
 
 *4913|
 [fc]
-ŠK’i‚Ì‚Æˆá‚Á‚ÄA¡“x‚Í–{“–‚ÉŒq‚®‚Â‚à‚è‚ÅAX‚Ë‚½[r]
-Šç‚Å‚»‚Á‚Û‚ğŒü‚¢‚Ä‚¢‚é²”Œ‚ÉA‰´‚Íè‚ğ·‚µo‚µ‚½B[pcms]
+I reached out my hand to Saeki, who was pouting and looking[r]away with a sulky expression, this time with the intention[r]of truly connecting, unlike when we were on the stairs.[pcms]
 
 *4914|
 [fc]
-Œ³XA•|‚ª‚è‚Ì²”Œ‚ğƒtƒHƒ[‚·‚é‚½‚ß‚É’Ç‚Á‚Ä‚«‚½‚©[r]
-‚çA‚Æ‚¢‚¤‚Ì‚à‚ ‚é‚ªA”’‚É‘Î‚µ‚ÄƒnƒbƒLƒŠ“š‚¦‚ç‚ê[r]
-‚È‚©‚Á‚½‚±‚Æ‚Ö‚Ìß–Å‚Ú‚µA‚Æ‚¢‚¤‹C‚¿‚à‚ ‚Á‚½B[pcms]
+Originally, I followed Saeki because she is easily scared,[r]but there was also a feeling of wanting to make up for not[r]being able to give a clear answer to her confession.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2086|
 [fc]
 [vo_sa s="sae0380"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *4915|
 [fc]
-‰“—¶‚ª‚¿‚Éˆ¬‚Á‚Ä‚­‚é²”Œ‚Ìè‚ğA‚µ‚Á‚©‚è‚Æˆ¬‚è•Ô‚µ[r]
-‚ÄA‰´‚Í˜L‰º‚ğæ‚Ö‚Æi‚ñ‚¾B[pcms]
+I firmly grasped Saeki's hand, which was timidly reaching[r]out, and I continued walking ahead in the hallway.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
 [se0 storage="se067"]
 
-;//[05150]‚Ö
+;//[05150]ã¸
 [jump target=*05150_TOP storage="05150.ks"]

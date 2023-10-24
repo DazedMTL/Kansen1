@@ -1,17 +1,17 @@
 
-;//¡ËƒuƒƒbƒN05641wˆÀS‚µ‚Äx
-;//;//BG:’n‰ººFÁ“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05641ã€å®‰å¿ƒã—ã¦ã€
+;//;//BG:åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
-;//¦05643‚©‚ç05649‚Ü‚ÅŒ‡”Ô
+;//â€»05643ã‹ã‚‰05649ã¾ã§æ¬ ç•ª
 
 *05641_TOP
-;[debug_win]‚È‚¤@05641[debug_win_end]
-;*SceneSet|wˆÀS‚µ‚Äx
+;[debug_win]ãªã†ã€€05641[debug_win_end]
+;*SceneSet|ã€å®‰å¿ƒã—ã¦ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05641 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05641 = 1"]
 ;	/*
-;	;//ôFBGM007
+;	;//â™ªï¼šBGM007
 ;	[bgm007]
 ;	;	
 ;	;//;//BG:bg23b
@@ -26,52 +26,47 @@
 
 *5971|
 [fc]
-•sˆÀ‚»‚¤‚ÈŠç‚ğ‚±‚¿‚ç‚ÉŒü‚¯‚Ä‚¢‚é²”Œ‚ÉA‰´‚Íñ‚ğ‰¡[r]
-‚ÉU‚Á‚½B[pcms]
+I shook my head at Saeki, who was looking at me with an[r]uneasy expression.[pcms]
 
 *5972|
 [fc]
-[ns]‰Á“¡[nse]
-u²”Œ‚Í‚±‚±‚Éc‚êB‚Ü‚½‚ ‚¢‚Â‚ç‚ª—ˆ‚é‚©‚à’m‚ê‚È‚¢[r]
-‚©‚ç‚Èv[pcms]
+[ns]Kato[nse]
+Saeki, stay here. They might come back again.[pcms]
 
 *5973|
 [fc]
-‚à‚µ—â‘ ŒÉ‚Ì— ‚È‚Ç‚©‚çA‚ ‚¢‚Â‚ç‚ª‹}‚ÉA‚»‚ê‚à‘å¨[r]
-Œ»‚ê‚½‚çA‰´ˆêl‚Å‘Îˆ‚µ‚«‚ê‚È‚¢‚©‚à‚µ‚ê‚È‚¢B[pcms]
+If they suddenly appeared, especially in large numbers, from[r]behind the refrigerator or somewhere else, I might not be[r]able to handle them all by myself.[pcms]
 
 *5974|
 [fc]
-‘Îˆ‚µ‚«‚ê‚È‚¢A‚Æ‚¢‚¤‚±‚Æ‚ÍA²”Œ‚ªŒÜ\—’ƒTƒ“‚âV[r]
-“¹æ¶‚Ì‚æ‚¤‚È–Ú‚É‘˜‚¤A‚Æ‚¢‚¤‚±‚Æ‚¾B[pcms]
+If I can't handle them all, it means that Saeki might end up[r]experiencing the same thing as Igarashi-san and Shindou-[r]sensei.[pcms]
 
 *5975|
 [fc]
-‚»‚ñ‚È‚±‚Æ‚É‚È‚Á‚½‚çA‰´‚Í€‚ñ‚Å‚à€‚É‚«‚ê‚È‚¢B[r]
-‚»‚¤l‚¦‚ÄA—â‚½‚¢‚Æv‚í‚ê‚é‚©‚à‚µ‚ê‚È‚¢‚ªA‰´‚Í²[r]
-”Œ‚Éc‚é‚æ‚¤‚ÉŒ¾‚Á‚½B[pcms]
+If something like that were to happen, I wouldn't be able to[r]die even if I wanted to.[l][er]
+With that in mind, even though it might seem cold-hearted, I[r]told Saeki to stay behind.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2479|
 [fc]
 [vo_sa s="sae0638"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *5976|
 [fc]
-[ns]‰Á“¡[nse]
-uS”z‚·‚é‚È‚æB‚·‚®–ß‚Á‚Ä‚­‚é‚Á‚Äv[pcms]
+[ns]Kato[nse]
+Don't worry. I'll be back soon.[pcms]
 
 *5977|
 [fc]
-²”Œ‚ÉÎ‚Á‚Ä‚İ‚¹‚ÄA‰´‚Í”à‚Ö‚ÌŠK’i‚ğã‚Á‚½B[pcms]
+I smiled at Saeki and climbed the stairs to the door.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -82,5 +77,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05650]‚Ö
+;//[05650]ã¸
 [jump target=*05650_H_TOP storage="05650_H.ks"]

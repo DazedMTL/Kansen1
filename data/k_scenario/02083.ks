@@ -1,33 +1,33 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02083w–§x
-;//BG:“Áê‹³º˜L‰ºF–éF“_“”
-;//“oêl•¨GålŒöEƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02083ã€å¯†å‘Šã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02083_TOP
-;[debug_win]‚È‚¤@02083[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02083 = 1"]
+;[debug_win]ãªã†ã€€02083[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02083 = 1"]
 
-;*SceneSet|w–§x
+;*SceneSet|ã€å¯†å‘Šã€
 
 ;//[02083]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//BG:bg005c
 [bg storage="bg05c"]
 [trans_c cross time=500]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 [se0 storage="se005"]
 
 *1705|
 [fc]
-[ns]‰Á“¡[nse]
-uV“¹æ¶Iv[pcms]
+[ns]Kato[nse]
+Ms. Shindou![pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
@@ -35,74 +35,72 @@
 
 *1706|
 [fc]
-V“¹æ¶‚ÍA‚Ü‚¾‹’®Šoº‚©‚çŒ©‚¦‚éŠ‚ğ•à‚¢‚Ä‚¢‚ÄA[r]
-‰´‚Í‚·‚®‚É’Ç‚¢‚Â‚¢‚½B[pcms]
+Ms. Shindou was still walking in a place visible from the[r]audiovisual room, and I quickly caught up with her.[pcms]
 
 *1707|
 [fc]
-‚Å‚àAw“ñl‚ÍƒZƒbƒNƒX‚µ‚Ä‚Ü‚·x‚ÆƒXƒgƒŒ[ƒg‚ÉŒ¾‚¤[r]
-‚Ì‚ÍA‚â‚Á‚Ï‚è‹C‚ªˆø‚¯‚Ä‚µ‚Ü‚¤B[pcms]
+But, it still feels awkward to say The two of them are[r]having sex so straightforwardly.[pcms]
 
 *1708|
 [fc]
-‰´‚ÍŒÀ‚è‚È‚­”–‚ß‚½‚±‚Æ‚ğAV“¹æ¶‚É•ñ‚µ‚½B[pcms]
+I reported to Ms. Shindou that I had diluted it as much as[r]possible.[pcms]
 
 *1709|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ÌA“c’†ŒN’B‚Ì‚±‚Æ‚È‚ñƒX‚¯‚ÇAŠwZ‚Ì’†‚Ì‚Ç‚Á‚©[r]
-‚ÅA“ñl‚ÅQ‚Ä‚é‚Æv‚¤‚ñƒX‚æ‚Ëv[pcms]
+[ns]Kato[nse]
+Um, about Tanaka-kun and the others, I think they're[r]sleeping together somewhere in the school.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_b_03"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v710|
 [fc]
 [vo_ri s="risa0218"]
-[ns]V“¹[nse]
-u“c’†ŒN’B‚ªH@cc‚Å‚àA‚»‚ê‚ğ‚Ç‚¤‚µ‚Ä‹M•û‚ªHv[pcms]
+[ns]Shindou[nse]
+Tanaka-kun and the others? ...[l][er]
+But why are you the one reporting this?[pcms]
 
 *1710|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ [A‚¢‚âA‚»‚ê‚Íccv[pcms]
+[ns]Kato[nse]
+Ah, well, um...[pcms]
 
 *1711|
 [fc]
-’É‚¢Š‚ğ“Ë‚©‚ê‚Ä“š‚¦‚É‹l‚Ü‚Á‚Ä‚µ‚Ü‚Á‚½‰´‚ğAV“¹æ[r]
-¶‚ª•sR‚°‚ÉŒ©‚Â‚ß‚Ä‚¢‚éB[r]
-‚Ç‚¤‚â‚Á‚ÄØ‚è•Ô‚»‚¤ccB[pcms]
+I was at a loss for words, having been hit right where it[r]hurts, and Ms.[l][er]
+Shindou was looking at me suspiciously.[l][er]
+How should I respond...?[pcms]
 
-;//¦‘I‘ğˆ
-;//E“c’†ŒNAH‚¢‰ß‚¬‚Å• ‚ğ‰ó‚µ‚Ä‚¢‚½‚ñ‚Å‚·;//[02084]‚Ö
-;//E‘½•ªA“ñl‚Å¯‚Å‚àŒ©‚Ä‚é‚ñ‚Å‚·‚æA‰®ã‚Å;//[02085]‚Ö
+;//â€»é¸æŠè‚¢
+;//ãƒ»ç”°ä¸­å›ã€é£Ÿã„éãã§è…¹ã‚’å£Šã—ã¦ã„ãŸã‚“ã§ã™;//[02084]ã¸
+;//ãƒ»å¤šåˆ†ã€äºŒäººã§æ˜Ÿã§ã‚‚è¦‹ã¦ã‚‹ã‚“ã§ã™ã‚ˆã€å±‹ä¸Šã§;//[02085]ã¸
 
 *sel00
 
 
-*SEL01|“c’†ŒNAH‚¢‰ß‚¬‚Å^‘½•ªA“ñl‚Å
+*SEL01|ç”°ä¸­å›ã€é£Ÿã„éãã§ï¼å¤šåˆ†ã€äºŒäººã§
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '“c’†ŒNAH‚¢‰ß‚¬‚Å• ‚ğ‰ó‚µ‚Ä‚¢‚½‚ñ‚Å‚·'"]
-[eval exp="f.seltext04 = '‘½•ªA“ñl‚Å¯‚Å‚àŒ©‚Ä‚é‚ñ‚Å‚·‚æA‰®ã‚Å'"]
+[eval exp="f.seltext02 = 'ç”°ä¸­å›ã€é£Ÿã„éãã§è…¹ã‚’å£Šã—ã¦ã„ãŸã‚“ã§ã™'"]
+[eval exp="f.seltext04 = 'å¤šåˆ†ã€äºŒäººã§æ˜Ÿã§ã‚‚è¦‹ã¦ã‚‹ã‚“ã§ã™ã‚ˆã€å±‹ä¸Šã§'"]
 
 
-[if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
-	;‘I‘ğˆ“à—e‚ğƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
+[if exp="tf.sys_sub == 0 || tf.é¸æŠè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
+	;é¸æŠè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[—š—ğo—Í•œ‹A]
+[å±¥æ­´å‡ºåŠ›å¾©å¸°]
 
-;‘I‘ğˆƒx[ƒX
+;é¸æŠè‚¢ãƒ™ãƒ¼ã‚¹
 [selbase]
-;•¶š‚Ì¶ƒ}[ƒWƒ“
+;æ–‡å­—ã®å·¦ãƒãƒ¼ã‚¸ãƒ³
 [eval exp="sf.seltext_x = 150"]
 
 [sel02 target=*sel00_tooeat]

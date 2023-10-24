@@ -1,24 +1,24 @@
 
-;//¡ËƒuƒƒbƒN07360w©Ex
-;//BG:‰®ãF—[•ûFÁ“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07360ã€è‡ªæ®ºã€
+;//BG:å±‹ä¸Šï¼šå¤•æ–¹ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *07360_TOP
-;[debug_win]‚È‚¤@07360[debug_win_end]
-;*SceneSet|w©Ex
+;[debug_win]ãªã†ã€€07360[debug_win_end]
+;*SceneSet|ã€è‡ªæ®ºã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07360 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07360 = 1"]
 
 ;	/*
-;	;//flag:“µƒ‹[ƒgƒtƒ[@badend‚Tibad‚Tj•\¦@
-;	;//SE:ƒTƒCƒŒƒ“@ƒ‹[ƒv
+;	;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€badendï¼•ï¼ˆbadï¼•ï¼‰è¡¨ç¤ºã€€
+;	;//SE:ã‚µã‚¤ãƒ¬ãƒ³ã€€ãƒ«ãƒ¼ãƒ—
 ;	[se1 storage="se051" loop=true]
 ;	*/
 
-;//SE:ƒwƒŠƒRƒvƒ^[‚Ì‰¹@‹ß‚¢
+;//SE:ãƒ˜ãƒªã‚³ãƒ—ã‚¿ãƒ¼ã®éŸ³ã€€è¿‘ã„
 [se0 storage="se034"]
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 [overflow_se storage="se021"]
 [quake_bg xy m]
 
@@ -44,19 +44,19 @@
 
 *8462|
 [fc]
-‹óccB[pcms]
+Sora...[pcms]
 
 *8463|
 [fc]
-ƒoƒŠƒP[ƒh‚ª”j‚ç‚ê‚½‚Ì‚©A‘òR‚Ì‚¨‚©‚µ‚È[r]
-ƒ„ƒc‚ç‚ª‹ßŠñ‚Á‚Ä‚«‚ÄA‰´’B‚ğŒ©‰º‚ë‚µ‚Ä‚¢‚éB[pcms]
+The barricade must have been broken, as a bunch of strange[r]guys are approaching and looking down on us.[pcms]
 
 *8464|
 [fc]
-[ns]’jq¶“kƒÁ[nse]
-u‚ `cc‚¨A‚ñA‚Èv[pcms]
+[ns]Male Student Gamma[nse]
+Ah...[pcms]
+O, n, na[l][er]
 
-;//SE:eºiƒ‰ƒCƒtƒ‹j
+;//SE:éŠƒå£°ï¼ˆãƒ©ã‚¤ãƒ•ãƒ«ï¼‰
 [se0 storage="se038"]
 
 [evcg storage="EV_140_d"]
@@ -64,27 +64,28 @@
 
 *8465|
 [fc]
-—H[pcms]
+Female?[pcms]
 
 *8466|
 [fc]
-²”Œ‚Ì–‚©ccB[pcms]
+Is it about Saeki...?[pcms]
 
 *8467|
 [fc]
-‰´’B‚Ì’‡‚ğA“i‚ñ‚Å‚é‚ñ‚¾‚ëccB[r]
-‘A‚Ü‚µ‚¢‚ñ‚¾‚ë‚¤ccB[pcms]
+They must be jealous of our relationship...[l][er]
+They must be envious...[pcms]
 
 *8468|
 [fc]
-²”Œ‚ÍA‚¨‘O‚ç‚É‚Í“n‚³‚È‚¢B²”Œ‚Í‰i‰“‚É‰´‚Ì”Ş—‚¾B[pcms]
+Saeki will not be handed over to you guys.[l][er]
+Saeki will forever be my girlfriend.[pcms]
 
 *8469|
 [fc]
-[ns]’jq¶“k‚o[nse]
-u‚È‚ñA‚©A‚Æ‚ñA‚ÅA‚«A‚½ccv[pcms]
+[ns]Male Student P[nse]
+What... just happened...[pcms]
 
-;//SE:eºiƒ‰ƒCƒtƒ‹j
+;//SE:éŠƒå£°ï¼ˆãƒ©ã‚¤ãƒ•ãƒ«ï¼‰
 [se0 storage="se038"]
 
 [evcg storage="EV_140_e"]
@@ -92,24 +93,23 @@
 
 *8470|
 [fc]
-eº‚Æ‹¤‚ÉA‰´‚Ìü‚è‚ğˆÍ‚ñ‚Å‚¢‚éƒ„ƒc‚ç‚ªA’iX“|‚ê[r]
-‚Ä‚¢‚­B[r]
-‹ó‚ÌÔ‚³‚ªA‘N‚â‚©‚Èg‚É•Ï‚í‚Á‚Ä‚¢‚­B[pcms]
+With the sound of gunshots, the guys surrounding me[r]gradually collapse.[l][er]
+The redness of the sky changes into a vivid crimson.[pcms]
 
 *8471|
 [fc]
-‹ócc‚©B[pcms]
+Sora...?[pcms]
 
 *8472|
 [fc]
-ccˆ¬‚è‚µ‚ß‚½²”Œ‚Ìè‚ªA’iXŠÉ‚ñ‚Å‚«‚½ccB[pcms]
+Saeki's hand, which was tightly clenched, gradually[r]loosened...[pcms]
 
 *8473|
 [fc]
-[ns]’jq¶“kƒ¶[nse]
-u‚¿A‚ªA‚Å‚ÄA‚éccv[pcms]
+[ns]Male Student Î©[nse]
+C-Can you see it...?[pcms]
 
-;//SE:eºiƒ‰ƒCƒtƒ‹j
+;//SE:éŠƒå£°ï¼ˆãƒ©ã‚¤ãƒ•ãƒ«ï¼‰
 [se0 storage="se038"]
 
 [evcg storage="EV_140_f"]
@@ -117,57 +117,59 @@
 
 *8474|
 [fc]
-²”Œ‚ÌèccA‚±‚Ì‚Ü‚Ü‚¾‚Æ—£‚µ‚¿‚á‚¤‚ÈccB[pcms]
+Saeki's hand... If I keep this up, I'll let go...[pcms]
 
 *8475|
 [fc]
-[ns]’jq¶“k‚q[nse]
-u‚Ç‚¤A‚µA‚½ccv[pcms]
+[ns]Male Student R[nse]
+What... happened...[pcms]
 
 *8476|
 [fc]
-‚Í‚Ícc‚à‚¤A—Í‚Í‚¢‚ç‚È‚¢‚âccB[pcms]
+Haha... I don't need strength anymore...[pcms]
 
 [evcg storage="EV_140_g"]
 [trans_c cross time=500]
 
 *8477|
 [fc]
-cc—£‚µ‚¿‚á‚Á‚Ä‚àcc–ñ‘©‚µ‚½‚©‚çA‘åä•v‚¾cc‚«[r]
-‚Á‚ÆccB[pcms]
+... Even if we let go... Because we made a promise, it'll be[r]okay...[l][er]
+I'm sure...[pcms]
 
 *8478|
 [fc]
-ccˆÃ‚¢ccB[pcms]
+... It's dark...[pcms]
 
 *8479|
 [fc]
-–é‚É‚È‚Á‚½‚Ì‚©‚Ècc‹}‚ÉAˆÃ‚­‚È‚Á‚Ä‚«‚½ccB[pcms]
+I wonder if it's night already...[l][er]
+Suddenly, it's getting dark...[pcms]
 
 *8480|
 [fc]
-–é‚É‚È‚Á‚½‚¹‚¢‚©‚Ècc–°‚­‚È‚Á‚Ä‚«‚½ccB[pcms]
+Maybe it's because it's nighttime...[l][er]
+I'm starting to feel sleepy...[pcms]
 
 *8481|
 [fc]
-–°‚é‘O‚Écc²”Œ‚ÌŠç‚ªŒ©‚½‚¢ccB[pcms]
+Before I sleep... I want to see Saeki's face...[pcms]
 
 *8482|
 [fc]
-‚Å‚àAèAˆÈŠOcc“®‚©‚¹‚È‚¢ccB[pcms]
+But, I can't move anything except my hand...[pcms]
 
 *8483|
 [fc]
-¢‚Á‚½‚ÈccB[pcms]
+This is troublesome...[pcms]
 
 *8484|
 [fc]
-²”Œ‚ÌãY—í‚ÈŠçA‚Ü‚½Œ©‚½‚¢‚Ì‚É‚ÈccB[pcms]
+I want to see Saeki's beautiful face again...[pcms]
 
 *8485|
 [fc]
-[ns]’jq¶“k‚i[nse]
-u‚¨‚ñA‚ÈA‚Ö‚ÁA‚½ccv[pcms]
+[ns]Male Student J[nse]
+O-n, na, heh, ta...[pcms]
 
 [se0 storage="se038"]
 
@@ -176,13 +178,12 @@
 
 *8486|
 [fc]
-²”ŒccB‚Ü‚½Aˆ§‚¦‚écc‚æcc‚ÈccB[pcms]
+Saeki... We can meet again... right...?[pcms]
 
 *8487|
 [fc]
-[ns]’jq¶“k‚t[nse]
-u‚µ‚ñA‚¹A‚ñ‚ÈA‚¨‚ñA‚ÈA‚¾‚ÁA‚½‚ÌA‚ÉA‚à‚ÁA[r]
-‚½‚¢A‚Ë‚¥ccv[pcms]
+[ns]Male Student U[nse]
+Shi, se, nna, on, na, datto, tano, ni, mottai nee...[pcms]
 
 
 [stop_se0]
@@ -194,13 +195,13 @@
 
 
 
-;//SE:eºiƒ‰ƒCƒtƒ‹j
+;//SE:éŠƒå£°ï¼ˆãƒ©ã‚¤ãƒ•ãƒ«ï¼‰
 [se0 storage="se038"]
 [wait_c time=1000]
 
-;//¦ƒQ[ƒ€ƒI[ƒo[
+;//â€»ã‚²ãƒ¼ãƒ ã‚ªãƒ¼ãƒãƒ¼
 
-;//•‰æ–Ê
+;//é»’ç”»é¢
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 [badend]
@@ -212,10 +213,10 @@
 	[jump target=*SEL00_TITLE]
 [endif]
 
-;//ƒ€[ƒr[Ä¶
+;//ãƒ ãƒ¼ãƒ“ãƒ¼å†ç”Ÿ
 [call storage="movie_sub.ks" target=*hitomi_zap_open]
 
-;//flag:“µƒ‹[ƒgƒNƒŠƒA
+;//flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢
 [eval exp="sf.g_hitomi_clear = 1"]
 
 ;-------------------------------------------------

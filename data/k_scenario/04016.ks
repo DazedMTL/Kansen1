@@ -1,22 +1,22 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN04016w“Ë‘Rx
-;//BG:“Áê‹³º˜L‰ºF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöE—DE’|“àEƒ]ƒ“ƒr
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04016ã€çªç„¶ã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…ãƒ»ã‚¾ãƒ³ãƒ“
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *04016_TOP
-;[debug_win]‚È‚¤@04016[debug_win_end]
+;[debug_win]ãªã†ã€€04016[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04016 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04016 = 1"]
 
-;*SceneSet|w“Ë‘Rx
+;*SceneSet|ã€çªç„¶ã€
 
-;//flag:—Dƒ‹[ƒgƒtƒ[@‚W@•\¦
+;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼˜ã€€è¡¨ç¤º
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 
 ;//[bgm001]
 
@@ -27,30 +27,28 @@
 
 *3950|
 [fc]
-‚È‚ñ‚¾cc‚â‚Á‚Ï‚è•”Šˆ‚ ‚é‚ñ‚¶‚á‚È‚¢‚©A¡“úccB[r]
-‚»‚Ì’jq‚Ì–T‚Ü‚Å‚­‚é‚ÆA”Ş‚Í‚±‚¿‚ç‚É‹C‚ª‚Â‚¢‚ÄA‰´[r]
-’BOl‚ğär‚ß‚é‚æ‚¤‚ÉŒ©‰ñ‚µ‚Ä‚«‚½B[pcms]
+What... so there is club activities today after all.[l][er]
+As I approached the boy, he noticed me and looked us three[r]over as if looking down on us.[pcms]
 
 [ChrSetEx layer=1 chbase="zom_01_a"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std321|
 [fc]
-[ns]’jq¶“k[nse]
-uccv[pcms]
+[ns]male student[nse]
+â€¦â€¦[l][er]
 
 *3951|
 [fc]
-‚È‚ñ‚¾H@‚±‚¢‚ÂccB[pcms]
+What? This guy...[pcms]
 
 *3952|
 [fc]
-—lq‚Ì‚¨‚©‚µ‚¢”Ş‚ğ•sR‚Év‚¢‚È‚ª‚çA‰´‚ª‰¡‚ğ’Ê‚è‰ß[r]
-‚¬‚½uŠÔA^Œã‚ë‚©‚ç”ß–Â‚ªã‚ª‚Á‚½B[pcms]
+As I found it suspicious, I passed by the strange-looking[r]guy, and in that moment, a scream came from right behind me.[pcms]
 
-;//ôFBGM001ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM001ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 
 [fadeoutbgm time=500]
 
@@ -59,20 +57,20 @@
 [ChrSetParts layer=1 chface="yuu_c_e_14"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1608|
 [fc]
 [vo_ya s="yama0654"]
-[ns]RŠİ[nse]
-u‚«‚á‚ ‚Ÿ‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+Kyaaahh!![pcms]
 
 *3953|
 [fc]
-[ns]‰Á“¡[nse]
-uIHv[pcms]
+[ns]Kato[nse]
+!?[pcms]
 
-;//ôFBGM008ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 
 [bgm008]
 
@@ -80,112 +78,104 @@
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *3954|
 [fc]
-‹Á‚¢‚ÄŒã‚ë‚ğU‚è•Ô‚é‚ÆA‚»‚Ì’jq‚ÍRŠİ‚³‚ñ‚É’Í‚İ‚©[r]
-‚©‚èAŠç‚É•‚‚©‚×‚Ä‚¢‚é”–‹C–¡ˆ«‚¢ÎŠç‚ğ”Ş—‚É‹ß‚Ã‚¯[r]
-‚ÄA•@‚ğ‚Ğ‚­‚Â‚©‚¹‚Ä‚¢‚½B[pcms]
+When I turned around in surprise, that male student was[r]lunging at Yamagishi-san, bringing his creepy smile closer[r]to her face and wrinkling his nose.[pcms]
 
 *v1609|
 [fc]
 [vo_ya s="yama0655"]
-[ns]RŠİ[nse]
-u‚¢A‚â‚Ácc—£‚µ‚Äcc‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+N-No... Let go...!![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std323|
 [fc]
-[ns]’jq¶“k[nse]
-u‚®‚ÓA‚Ó‚Ócc‚¢‚¢‚ÉA‚¨‚¢A‚·A‚ñ‚È‚Ÿcc‚âA‚Ü[r]
-‚¬A‚µ‚ÍA‚Ÿccv[pcms]
+[ns]male student[nse]
+Guhu, fufu... it's good, hey, don't...[l][er]
+ya, ma, gi, shi is... ah...[pcms]
 
 *3955|
 [fc]
-•’Ê‚¶‚á‚È‚¢‚»‚¢‚Â‚Ì—lq‚ÉARŠİ‚³‚ñ‚©‚ç’j‚ğ—£‚»‚¤[r]
-‚ÆA‰´‚ÍQ‚Ä‚Ä”Ş—‚É‹ì‚¯Šñ‚Á‚½B[pcms]
+Worried about the unusual behavior of that person, I[r]hurriedly ran towards Yamagishi-san to try and separate her[r]from the man.[pcms]
 
 *3956|
 [fc]
-[ns]‰Á“¡[nse]
-uƒIAƒIƒCII@‰½‚µ‚Ä‚ñ‚¾IIv[pcms]
+[ns]Kato[nse]
+H-Hey!! What are you doing?![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std324|
 [fc]
-[ns]’jq¶“k[nse]
-u‚®A‚Ö‚Öcc‚ÜA‚ñ‚±A‚ÍA‚Ç‚ñA‚È‚É‚¨A‚¢A‚·A[r]
-‚é‚ñ‚¾‚Ÿccv[pcms]
+[ns]male student[nse]
+G-gu... hehe... wh-what kind of things are you doing to her[r]pussy...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_e_13"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_e_14"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1610|
 [fc]
 [vo_ya s="yama0656"]
-[ns]RŠİ[nse]
-u‚¢A‚â‚Ÿ‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+N-No...![pcms]
 
 *3957|
 [fc]
-[ns]‰Á“¡[nse]
-u—£‚¹‚æƒIƒCII@Œ™‚ª‚Á‚Ä‚é‚¾‚ë‚ÁIIv[pcms]
+[ns]Kato[nse]
+Let go, you bastard!! She's clearly resisting!![pcms]
 
-;//SE:‰£‚é
+;//SE:æ®´ã‚‹
 
 [se0 storage="se026"]
 
-;//Y‰æ–Ê—h‚ê
+;//ã€†ç”»é¢æºã‚Œ
 
 [quake_bg xy m]
 
 *3958|
 [fc]
-’j‚Ì‹¹‚®‚ç‚ğ’Í‚ñ‚Åv‚¢Ø‚èˆø‚Á’£‚Á‚½uŠÔA¢ŠE‚ª—h[r]
-‚ê‚Äã‰º‚ª“ü‚ê‘Ö‚í‚Á‚ÄA‰´‚Ì“ª‚ª‰½‚©ŒÅ‚¢•¨‚É’@‚«‚Â[r]
-‚¯‚ç‚ê‚½B[pcms]
+The moment I grabbed the man's collar and pulled with all my[r]strength, the world shook and flipped upside down, and[r]something hard struck my head.[pcms]
 
 *3959|
 [fc]
-[ns]‰Á“¡[nse]
-u‚£cc‚®ccv[pcms]
+[ns]Kato[nse]
+Ugh... guh...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_c_09"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1611|
 [fc]
 [vo_ya s="yama0657"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒNIHv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun!?[pcms]
 
 [ChrSetEx layer=1 chbase="zom_01_a"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std325|
 [fc]
-[ns]’jq¶“k[nse]
-u‚Ç‚¢A‚ÄA‚ëcc‚¨A‚ê‚ªA‚³‚«A‚ÉA‚âA‚Ü‚¬A‚µ[r]
-‚ÆA‚â‚éA‚ñ‚¾‚æccv[pcms]
+[ns]male student[nse]
+Move... let go... I'll do it to Yamagishi first...[pcms]
 
 *3960|
 [fc]
-RŠİ‚³‚ñ‚â’j‚Ìº‚ªAã‚©‚ç~‚Á‚Ä‚­‚é‚æ‚¤‚É•·‚±‚¦‚½[r]
-‚±‚Æ‚ÅA‰´‚Í©•ª‚ª°‚É“|‚ê‚Ä‚¢‚é‚±‚Æ‚ğ’m‚Á‚½B[pcms]
+I realized that I had fallen to the floor when I heard[r]Yamagishi-san's voice and a man's voice coming from above.[pcms]
 
 *3961|
 [fc]
-‘Ì‚É—Í‚ª“ü‚ç‚¸A–Ú‚Ì‘O‚ª‚Ç‚ñ‚Ç‚ñ”’‚­‚Ú‚â‚¯‚Ä‚­‚éB[pcms]
+My body lost all strength, and the world in front of me[r]gradually blurred into white.[pcms]
 
 ;//whiteout
 
@@ -194,25 +184,24 @@
 
 *3962|
 [fc]
-[ns]’|“à[nse]
-uƒ{Aƒ{ƒNAV“¹æ¶ŒÄ‚ñ‚Å‚­‚éIv[pcms]
+[ns]Takeuchi[nse]
+I-I'll go call Shindou-sensei![pcms]
 
 *3963|
 [fc]
-[ns]’jq¶“k[nse]
-u‚ÊA‚°‚æA‚¨‚çA‚Ÿcc‚Í‚âA‚­A‚Ü‚ñA‚±‚ÉA‚¢A[r]
-‚ê‚³A‚¹‚ëccv[pcms]
+[ns]male student[nse]
+N-no, stop! Don't... hurry, put it in her pussy...[l][er]
+make her moan...[pcms]
 
 *v1612|
 [fc]
 [vo_ya s="yama0658"]
-[ns]RŠİ[nse]
-u‚¢‚â‚ÁA—£‚µ‚ÄII@‰Á“¡ŒNI@‰Á“¡ŒN‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+No, let go!! Kato-kun! Kato-kun!![pcms]
 
 *3964|
 [fc]
-‰´‚É•‚¯‚ğ‹‚ß‚éRŠİ‚³‚ñ‚Ì”ß–Â‚ÍA‚Ç‚ñ‚Ç‚ñ‰“‚­‚È‚Á[r]
-‚Ä‚¢‚Á‚ÄA‚»‚Ì‚¤‚¿•·‚±‚¦‚È‚­‚È‚Á‚Ä‚µ‚Ü‚Á‚½B[pcms]
+Yamagishi-san's screams for help, gradually grew distant and[r]eventually became inaudible.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -221,9 +210,9 @@
 
 ;//blackout
 
-;//¦ğŒ•ªŠò
-;//Eflag:ålŒö–\‘–@‚ªOFF;//[04017]‚Ö
-;//Eflag:ålŒö–\‘–@‚ªON;//[04023]‚Ö
+;//â€»æ¡ä»¶åˆ†å²
+;//ãƒ»flag:ä¸»äººå…¬æš´èµ°ã€€ãŒOFF;//[04017]ã¸
+;//ãƒ»flag:ä¸»äººå…¬æš´èµ°ã€€ãŒON;//[04023]ã¸
 
 ;Android[if exp="sf.run_away==1"]
 [if exp="sf.g_run_away==1"]

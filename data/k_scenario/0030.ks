@@ -1,20 +1,20 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN0030w•ú‘—–ŒÌx
-;//BG:‹’®ŠoºF–é
-;//“oêl•¨GålŒöE—DE“µE•ü”üE’|“àE[ns]“c’†[nse]
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0030ã€æ”¾é€äº‹æ•…ã€
+;//BG:è¦–è´è¦šå®¤ï¼šå¤œ
+[ns]Tanaka[nse]
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *0030_TOP
-;[debug_win]‚È‚¤@0030[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0030 = 1"]
+;[debug_win]ãªã†ã€€0030[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0030 = 1"]
 
-;*SceneSet|w•ú‘—–ŒÌx
+;*SceneSet|ã€æ”¾é€äº‹æ•…ã€
 
 ;//[0030]
 
-;//ôFBGM005
+;//â™ªï¼šBGM005
 [bgm005]
 ;//BG:bg015c
 [bg storage="bg15d"]
@@ -22,10 +22,9 @@
 
 *706|
 [fc]
-O–{–Ú‚Ì‰f‰æ‚ªn‚Ü‚Á‚ÄA–°‚Á‚Ä‚¢‚é—«‚ªƒXƒNƒŠ[ƒ“[r]
-‚É‰f‚µo‚³‚ê‚é‚ÆA^–ç‚ª“Ë‘R‘å‚«‚Èº‚ğã‚°‚½B[pcms]
+As the third movie started and a sleeping woman was[r]projected onto the screen, Shinya suddenly let out a loud[r]voice.[pcms]
 
-;//SE:ƒKƒ^ƒb
+;//SE:ã‚¬ã‚¿ãƒƒ
 [se0 storage="se023"]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
@@ -33,100 +32,86 @@
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std148|
 [fc]
-[ns]’|“à[nse]
-u‚ ‚ÁA‚±‚ê‚©‚ŸIv[pcms]
+[ns]Takeuchi[nse]
+Ah, is this it?[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_a_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std149|
 [fc]
-[ns]’|“à[nse]
-uƒ{ƒNA‚±‚Ì‰f‰æ‚Ì‘åƒtƒ@ƒ“‚È‚ñ‚¾‚æ‚Ë‚¥`I[r]
-‚ ‚Ì‚Ë‚±‚Ì‰f‰æ‚Í‚ËAÀ‚Íƒzƒ‰[‚¶‚á‚È‚¢‚ñ‚¾B[r]
-‚Ç‚Á‚¿‚©‚Á‚Ä‚¢‚¤‚ÆlŠÔƒhƒ‰ƒ}‚Åccv[pcms]
+[ns]Takeuchi[nse]
+I'm a big fan of this movie, you know~![l][er]
+You see, this movie is actually not a horror film.[l][er]
+It's more like a human drama...[pcms]
 
 *707|
 [fc]
-ƒyƒ‰ƒyƒ‰‚Æ‰f‰æ‚Ì‰ğà‚ğn‚ß‚½^–ç‚ÉA[r]
-²”Œ‚Ì—â‚½‚¢º‚ª“B‚ğh‚·B[pcms]
+Hitomi's cold voice pierces through Shinya, who started[r]explaining the movie fluently.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v273|
 [fc]
 [vo_sa s="sae0076"]
-[ns]²”Œ[nse]
-u‚»‚Ì•Ó‚É‚µ‚Ä‚Í‚¢‚©‚ª‚Å‚·‚©ccH[r]
-‚Ü‚¾ŠÏ‚Ä‚¢‚È‚¢l‚à‚¢‚é‚Ì‚Å‚·‚©‚çA‚¢‚Ü“à—e‚ğ[r]
-˜b‚µ‚Ä‚µ‚Ü‚Á‚½‚çAŠy‚µ‚İ‚ª¸‚í‚ê‚é‚Å‚µ‚å‚¤ccHv[pcms]
+[ns]Saeki[nse]
+How about stopping there...? There are still people who[r]haven't watched it, so if we talk about the content now, the[r]excitement will be lost, right...?[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *708|
 [fc]
-ã‹@Œ™‚ÅŒê‚Á‚Ä‚¢‚½‚Æ‚±‚ë‚É…‚ğ·‚³‚ê‚ÄA[r]
-^–ç‚Í‚Ş‚­‚ê‚ÄA‚»‚ê‚Á‚«‚è–Ù‚Á‚Ä‚µ‚Ü‚Á‚½B[pcms]
+Shinya, who was happily talking, had his mood dampened when[r]someone interrupted him.[l][er]
+He sulked and fell silent after that.[pcms]
 
 *709|
 [fc]
-‚Å‚àA²”Œ‚ÌŒ¾‚¤‚±‚Æ‚Í‚à‚Á‚Æ‚à‚¾B[r]
-¡‰ñ‚ÍA^–ç‚ÌŒ¨‚ğ‚Â‚±‚Æ‚Í‚Å‚«‚È‚¢‚ÈB[pcms]
+But what Saeki says is reasonable.[l][er]
+This time, I can't take Shinya's side.[pcms]
 
 *710|
 [fc]
-^–ç‚à­‚µ‚ÍŠwK‚·‚ê‚Î‚¢‚¢‚Ì‚ÉB[r]
-‰½‚ğ‚·‚ê‚Î²”Œ‚Éà‹³‚ğH‚ç‚¤‚©A[r]
-‚à‚¤‚»‚ë‚»‚ë‚í‚©‚Á‚Ä‚à‚¢‚¢ ‚¾‚Æv‚¤‚ñ‚¾‚¯‚ÇccB[pcms]
+Shinya should learn a little. I think it's about time he[r]figures out what he needs to do to get scolded by Saeki.[pcms]
 
 *711|
 [fc]
-‰f‰æ‚Ì’†‚Å‚ÍAˆê“x€‚ñ‚¾lŠÔ‚ª¶‚«•Ô‚èA[r]
-¶‚«‚Ä‚¢‚élŠÔ‚ğP‚Á‚ÄH‚¢E‚µ‚Ä‚¢‚½B[pcms]
+In the movie, a person who had died once came back to life[r]and attacked and killed the living.[pcms]
 
 *712|
 [fc]
-€l‚Éˆø‚Á‚©‚©‚ê‚½‚èAŠš‚İ‚Â‚©‚ê‚½‚èA‘Ì‚ğH‚¢çØ[r]
-‚ç‚ê‚½‚è‚µ‚½lŠÔ‚ÍA‚µ‚Î‚ç‚­‚·‚é‚Æ€l‚Æ“¯‚¶‚æ‚¤‚É[r]
-‚È‚Á‚Ä‚µ‚Ü‚Á‚ÄAlŠÔ‚ğP‚¢n‚ß‚éB[pcms]
+People who were scratched, bitten, or torn apart by the dead[r]would eventually turn into the dead themselves and start[r]attacking humans.[pcms]
 
 *713|
 [fc]
-‚»‚¤‚â‚Á‚Ä‚Ç‚ñ‚Ç‚ñ‘‚¦‚Ä‚¢‚­€l‚ÉˆÍ‚Ü‚ê‚È‚ª‚ç‚àA[r]
-lŠÔ’B‚Í“ª‚ğg‚Á‚Ä‚µ‚½‚½‚©‚É¶‚«‰„‚Ñ‚Ä‚¢‚½B[pcms]
+Despite being surrounded by increasing numbers of dead[r]people, humans cleverly used their wits to survive.[pcms]
 
 *714|
 [fc]
-‚â‚ª‚ÄA¶‚«c‚Á‚½lŠÔ“¯m‚Ì‘ˆ‚¢‚ªn‚Ü‚éB[pcms]
+Eventually, a conflict between the surviving humans begins.[pcms]
 
 *715|
 [fc]
-‘¼‚ÌêŠ‚Å¶‚«c‚Á‚½lŠÔ’B‚ªA[r]
-ålŒö‚Æ‚»‚Ì’‡ŠÔ‚ª—§‚ÄâÄ‚à‚éêŠ‚ÖA[r]
-•¨‘‚ğ’D‚¢‚É‚­‚é‚Ì‚¾B[pcms]
+Other survivors from different places come to the location[r]where the protagonist and their companions barricade[r]themselves to steal supplies.[pcms]
 
 *716|
 [fc]
-ƒAƒƒŠƒJ‚Ì–\‘–‘°A‚Æ‚¢‚Á‚½•—‘Ì‚Ì˜A’†‚ªA[r]
-ålŒö‚½‚¿‚ÌŒ³‚ÖƒoƒCƒN‚âÔ‚ÅP‚Á‚Ä‚­‚é‚ªA[r]
-‚»‚¢‚Â‚ç‚ª•¨‘‚ğ’D‚¤‚±‚Æ‚Í‚Å‚«‚È‚©‚Á‚½B[pcms]
+A group of people resembling American biker gangs came[r]rushing towards the protagonist and their companions on[r]motorcycles and cars, but they were unable to steal any[r]supplies.[pcms]
 
 *717|
 [fc]
-‚È‚º‚È‚ç‚»‚Ìê–Ê‚ÅA“Ë‘RƒXƒNƒŠ[ƒ“‚ÉƒmƒCƒY‚ª‘–‚èA[r]
-•Ê‚Ì‰f‘œ‚ª‰f‚µo‚³‚ê‚½‚©‚ç‚¾B[pcms]
+Because at that moment, suddenly noise ran across the screen[r]and a different image was projected.[pcms]
 
-;//ôFBGM005ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM005ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 [fadeoutbgm time=500]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
@@ -134,26 +119,25 @@
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v274|
 [fc]
 [vo_ya s="yama0081"]
-[ns]RŠİ[nse]
-u‚È‚ÉA‚±‚êccv[pcms]
+[ns]Yamagishi[nse]
+What is this...[pcms]
 
 *718|
 [fc]
-‚»‚ê‚Í‰f‰æ‚Ì’†‚ÅA‘å¨‚Ì€l‚ª¶‚«‚½lŠÔ‚ğP‚¤ƒV[[r]
-ƒ“‚É‚æ‚­—‚½ŒõŒi‚¾‚Á‚½B[pcms]
+It was a scene that closely resembled the one in the movie,[r]where a large number of dead people attacked the living.[pcms]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;//H_CG:•êe‚ªƒŒƒCƒv‚³‚ê‚Ä‚¢‚éi‰ÁHj
-;ƒVƒXƒeƒ€ƒ{ƒ^ƒ“•ƒEƒBƒ“ƒhƒEÁ‹
+;//H_CG:æ¯è¦ªãŒãƒ¬ã‚¤ãƒ—ã•ã‚Œã¦ã„ã‚‹ï¼ˆåŠ å·¥ï¼‰
+;ã‚·ã‚¹ãƒ†ãƒ ãƒœã‚¿ãƒ³ï¼†ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
 [sysbt_meswin clear]
 
-;//ôFBGM007ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 [bgm007]
 
 
@@ -164,95 +148,82 @@
 *v275|
 [fc]
 [vo_mob s="vid_0001"]
-[ns]—[nse]
-u‚ñA‚®‚£cc‚Í‚ÁA‚Ÿ‚Õcc‚ñ‚Ş‚£ccIv[pcms]
+[ns]Female[nse]
+Mmm, guu... ha, ahpu... nmuu...![pcms]
 
 *719|
 [fc]
-‰½l‚à‚Ì’j’B‚ªAˆêl‚Ì—‚ÉŒQ‚ª‚Á‚ÄA©•ª‚Ì‹Ç•”‚ğ‘}[r]
-“ü‚µA™ø‚¦‚³‚¹A‘Ì‚ÉC‚è‚Â‚¯‚Ä‚¢‚éB[pcms]
+Several men are crowding around a single woman, inserting[r]their genitals, making her suck them, and rubbing against[r]her body.[pcms]
 
 *720|
 [fc]
-“§–¾‚È‚à‚Ì‚ÆA”’‚­‘÷‚Á‚½‚à‚ÌA[r]
-“ñí—Ş‚Ì”S‚è‹C‚Ì‚ ‚é‰t‘Ì‚ÉA—‚Ì‘Ì‚Í‚Ü‚İ‚ê‚Ä‚¢‚éB[pcms]
+The woman's body is covered in two types of sticky liquids,[r]one transparent and the other milky white.[pcms]
 
 *721|
 [fc]
-’j’B‚ÍŒ¾—t‚ç‚µ‚¢Œ¾—t‚ğ’‚ç‚¸AƒA[‚Æ‚©ƒE[‚Æ‚©‚¢‚¤[r]
-‚æ‚¤‚È™ï‚«º‚ğ‚ ‚°‚Ä‚¢‚é‚¾‚¯‚¾B[pcms]
+The men are not speaking any coherent words, but instead are[r]making moaning sounds like Ah and Ooh.[pcms]
 
 *722|
 [fc]
-‚»‚Ì’†‚ÌA—‚É‘}“ü‚µ‚Ä‚¢‚é’j‚Ì™ï‚«º‚ªAŸ‘æ‚É‘å‚«[r]
-‚­‚È‚èA‚»‚ê‚Æ“¯‚ÉA‰•œ‚µ‚Ä‚¢‚é˜‚Ì“®‚«‚à‚Ç‚ñ‚Ç[r]
-‚ñ‘¬‚­‚È‚Á‚Ä‚¢‚­B[pcms]
+The moaning voices of the men who are inserting themselves[r]into the woman gradually grow louder, and at the same time,[r]the movement of their hips thrusting back and forth becomes[r]faster and faster.[pcms]
 
 *v276|
 [fc]
 [vo_mob s="vid_0002"]
-[ns]—[nse]
-u‚ñ‚Ÿ‚ÁI@‚ñA‚Ş‚®‚£cc‚ñ‚À‚ãA‚¿‚ã‚Ô‚£cc‚®A[r]
-‚ñ‚®‚ÁA‚¦‚ŸccIIv[pcms]
+[ns]Female[nse]
+Ngh! N, muguu... nju, chubuu...[l][er]
+gu, nguu, ehh...!![pcms]
 
 *723|
 [fc]
-Œû‚É™ø‚¦‚³‚¹‚Ä‚¢‚½’j‚àA‚Ü‚é‚Å—‚Ì”é•”‚É‘}“ü‚µ‚Ä‚¢[r]
-‚é‚©‚Ì‚æ‚¤‚ÉA‹Ç•”‚ğ‰•œ‚³‚¹n‚ßA™ï‚«º‚ğ‘å‚«‚­‚µ[r]
-‚Ä‚¢‚­B[pcms]
+The man who had his mouth filled was now starting to move[r]his genitals back and forth as if he was inserting them into[r]the woman's genitals, his moans growing louder.[pcms]
 
 *v277|
 [fc]
 [vo_mob s="vid_0003"]
-[ns]—[nse]
-u‚¤‚Ÿ‚Ácc‚£‚¦‚ÁA‚Ÿ‚®cc‚À‚ã‚Õ‚ÁA‚®‚¿‚ã‚Ácc[r]
-‚ñ‚Ô‚£ccIIv[pcms]
+[ns]Female[nse]
+Ugh... ah, ah... mmm... slurp, squelch...[l][er]
+nghh...!![pcms]
 
 *724|
 [fc]
-Œû‚É‘}‚µ‚ñ‚Å‚¢‚½’j‚Ì“®‚«‚ª~‚Ü‚èA—‚ª‹ê‚µ‚İ‚ÉŠç[r]
-‚ğ˜c‚ß‚éB[pcms]
+The movement of the man who was inserted into her mouth[r]stops, and the woman's face contorts in pain.[pcms]
 
 *v278|
 [fc]
 [vo_mob s="vid_0004"]
-[ns]—[nse]
-u‚ñ‚Ş‚¤J‚£``‚ÁccIIv[pcms]
+[ns]Female[nse]
+Mmm, guu... ha, ahpu... nmuu...![pcms]
 
 *725|
 [fc]
-’j‚Í—‚Ì“ª‚ğ—¼è‚Å’Í‚İA˜‚ğ“Ë‚«o‚µ‚ÄA[r]
-Œû‚Ì‰œ[‚­‚É•úo‚µ‚ÄA‹Ç•”‚ğˆø‚«”²‚¢‚½B[pcms]
+The man grabbed the woman's head with both hands, thrust his[r]hips forward, released deep into her mouth, and pulled out[r]his genitals.[pcms]
 
 *v279|
 [fc]
 [vo_mob s="vid_0005"]
-[ns]—[nse]
-uƒKƒnƒbA‚¤‚ÁAƒQƒzƒbII@‚¤‚£‚ÁAƒSƒzƒbIv[pcms]
+[ns]Female[nse]
+Gahh, ugh, cough!! Ughh, *cough*![pcms]
 
 *726|
 [fc]
-‚æ‚Ù‚Ç‰œ‚Éo‚³‚ê‚½‚Ì‚©A—‚ÍŒû‚É•úo‚³‚ê‚½¸‰t‚ğA[r]
-šjˆô‚Æ‚Æ‚à‚É“f‚«o‚µ‚½B[pcms]
+The woman, as if she had been deeply penetrated, vomited out[r]the ejaculated semen from her mouth along with sobs.[pcms]
 
 *727|
 [fc]
-‘}“ü‚µ‚Ä‚¢‚½’j‚àA‘±‚¢‚Ä—‚Ì’†‚Å‰Ê‚Ä‚½‚æ‚¤‚ÅA[r]
-˜‚Ì‰•œ‚ğ“Ë‘R~‚ß‚½B[pcms]
+The man who was inserting himself also seemed to reach his[r]climax inside the woman, abruptly stopping the movement of[r]his hips.[pcms]
 
 *v280|
 [fc]
 [vo_mob s="vid_0006"]
-[ns]—[nse]
-u‚ cc‚ ‚Ácc‚£‚ ccv[pcms]
+[ns]Female[nse]
+Ah... ah... ugh...[pcms]
 
 *728|
 [fc]
-‘Ì“à‚É•úo‚³‚ê‚½—‚ÍA[r]
-™ï‚«‚È‚ª‚ç‰½“x‚©‘Ì‚ğáz¹‚³‚¹‚½ŒãA[r]
-‹C‚ğ¸‚¤‚©‚Ì‚æ‚¤‚É°‚É•ö‚ê—‚¿‚½B[pcms]
+The woman who had been ejaculated inside her body convulsed[r]a few times while moaning, and then collapsed to the floor[r]as if she had lost consciousness.[pcms]
 
-;ƒVƒXƒeƒ€ƒ{ƒ^ƒ“•ƒEƒBƒ“ƒhƒEÁ‹
+;ã‚·ã‚¹ãƒ†ãƒ ãƒœã‚¿ãƒ³ï¼†ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
 [sysbt_meswin clear]
 
 [evcg storage="HEV_001_e"]
@@ -268,40 +239,37 @@
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v281|
 [fc]
 [vo_ya s="yama0082"]
-[ns]RŠİ[nse]
-uccv[pcms]
+[ns]Yamagishi[nse]
+â€¦â€¦[l][er]
 
 *729|
 [fc]
-‰f‘œ‚ÌˆÙí‚³‚É¸‚Á‚Ä‚¢‚½³‹C‚ğA[r]
-‚æ‚¤‚â‚­æ‚è–ß‚µ‚½‚Ì‚©A²”Œ‚ª“{º‚ğ”­‚µ‚½B[pcms]
+Saeki, whether she had finally regained her sanity after[r]being overwhelmed by the abnormality of the scene, shouted[r]in anger.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v282|
 [fc]
 [vo_sa s="sae0077"]
-[ns]²”Œ[nse]
-uÁ‚µ‚ÄI@¡‚·‚®‚±‚ê‚ğÁ‚µ‚Ä‚­‚¾‚³‚¢I[r]
-‹}‚¢‚ÅA‰Á“¡‚³‚ñƒbIIv[pcms]
+[ns]Saeki[nse]
+Erase it! Please erase this right now![l][er]
+Hurry, Kato-san!![pcms]
 
 *730|
 [fc]
-‚ ‚Ü‚è‚Ì–‚É‚ ‚Á‚¯‚É‚Æ‚ç‚ê‚Ä‚¢‚½‰´‚àA[r]
-²”Œ‚Ì‚»‚Ìº‚É©•ª‚ğæ‚è–ß‚µ‚ÄA[r]
-Q‚Ä‚ÄƒfƒbƒL‚É‹ì‚¯Šñ‚é‚ÆAÄ¶‚ğ’†~‚µ‚½B[pcms]
+I, who was taken aback by the situation, regained my[r]composure at Saeki's voice and hurriedly rushed to the deck[r]to stop the playback.[pcms]
 
-;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 [jump target=*0031_TOP storage="0031.ks"]
 
 

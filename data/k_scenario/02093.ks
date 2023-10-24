@@ -1,21 +1,21 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02093w‹A‘î^‘I‘ğx
-;//BG:‹’®ŠoºF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöE—DE’|“à
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02093ã€å¸°å®…ï¼é¸æŠã€
+;//BG:è¦–è´è¦šå®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02093_TOP
-;[debug_win]‚È‚¤@02093[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02093 = 1"]
+;[debug_win]ãªã†ã€€02093[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02093 = 1"]
 
-;*SceneSet|w‹A‘îx
+;*SceneSet|ã€å¸°å®…ã€
 
 ;//[02093]
 
-;//flag:—Dƒ‹[ƒgƒtƒ[@‚U@•\¦
-;//ôFBGM001
+;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼–ã€€è¡¨ç¤º
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//BG:bg015c
 [bg storage="bg15c"]
@@ -23,58 +23,53 @@
 
 *1898|
 [fc]
-‚±‚¤‚µ‚ÄA‰f‰æŒ¤‹†•”‚Ì‰‚ß‚Ä‚Ì‡h‚ÍA‚¤‚â‚Ş‚â‚Ì‚Ü[r]
-‚ÜI‚í‚Á‚Ä‚µ‚Ü‚Á‚½B[pcms]
+And so, the first film club retreat ended in a mysterious[r]and unresolved manner.[pcms]
 
 *1899|
 [fc]
-‚Ç‚¤‚É‚àƒXƒbƒLƒŠ‚µ‚È‚¢I‚í‚è•û‚¾‚Á‚½‚ªARŠİ‚³‚ñ‚Æ[r]
-FX˜b‚·‚±‚Æ‚ª‚Å‚«‚ÄA‰´‚É‚Æ‚Á‚Ä‚Í—LˆÓ‹`‚È‡h‚¾‚Á[r]
-‚½B[pcms]
+It was an ending that didn't feel satisfying, but I was able[r]to talk about various things with Yamagishi-san, so it was a[r]meaningful retreat for me.[pcms]
+[l][er]
 
 *1900|
 [fc]
-“~‹x‚İ‚ÉA‚Ü‚½‡h‚ª‚ ‚é‚Æ‚¢‚¢‚ÈccB[r]
-‰f‰æ‚ÌÅ’†‚ÉH‚×‚é‚¨‰Ùq‚Æ‚©AƒŠƒNƒGƒXƒg‚µ‚½‚çì‚Á[r]
-‚Ä‚­‚ê‚é‚©‚ÈccB[pcms]
+I hope we have another retreat during winter break...[l][er]
+I wonder if they would make snacks for us to eat during the[r]movie, if we requested it...[pcms]
 
 *1901|
 [fc]
-–Ï‘z‚Ì¢ŠE‚ÉZ‚Á‚Ä‚¢‚½‰´‚ÍA^–ç‚ª‚©‚¯‚éº‚É×–‚‚ğ[r]
-‚³‚ê‚ÄAŒ»À‚Ö‚Æ–ß‚³‚ê‚½B[pcms]
+I was immersed in a world of fantasies when Shinya's voice[r]interrupted me and brought me back to reality.[pcms]
 
 *1902|
 [fc]
-[ns]‰Á“¡[nse]
-u‚È‚ñ‚¾‚Á‚ÄccHv[pcms]
+[ns]Kato[nse]
+What did you say...?[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std205|
 [fc]
-[ns]’|“à[nse]
-u‚¾‚©‚çƒoƒX‚ÌŠÔ‚¾‚æB‰½•ª‚Ì‚Éæ‚é‚ÌHv[pcms]
+[ns]Takeuchi[nse]
+So, it's time for the bus. Which one are you going to take?[pcms]
 
 *1903|
 [fc]
-[ns]‰Á“¡[nse]
-u‚³‚Ÿcc‚Æ‚è‚ ‚¦‚¸AƒoƒX’â‚Ü‚Ås‚­‚©Hv[pcms]
+[ns]Kato[nse]
+Well... for now, shall we go to the bus stop?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v795|
 [fc]
 [vo_ya s="yama0229"]
-[ns]RŠİ[nse]
-u‚ A„A•\‚Á‚Ä‚é‚æI@‘Ò‚Á‚ÄA‚¢‚Ü’²‚×‚é‚©[r]
-‚çv[pcms]
+[ns]Yamagishi[nse]
+Ah, I have the timetable! Wait, let me check it now.[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
@@ -82,124 +77,120 @@
 
 *1904|
 [fc]
-[ns]’|“à[nse]
-u‚³‚·‚ª—D‚¿‚á‚ñA—pˆÓ‚ª‚¢‚¢‚µ‹C‚ª—˜‚­‚È‚ ccv[pcms]
+[ns]Takeuchi[nse]
+As expected of Yuu-chan, you're well-prepared and[r]thoughtful...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v796|
 [fc]
 [vo_ya s="yama0230"]
-[ns]RŠİ[nse]
-u‚ ‚Í‚Íccv[pcms]
+[ns]Yamagishi[nse]
+Ahaha...[pcms]
 
 *1905|
 [fc]
-‚µ‚İ‚¶‚İŒ¾‚¤^–ç‚ğÎ‚Á‚Ä‚â‚è‰ß‚²‚µARŠİ‚³‚ñ‚Í[r]
-•\‚Æ˜rŒv‚ğŒğŒİ‚ÉŒ©‚½B[pcms]
+Yamagishi-san laughed off Shinya's heartfelt words and[r]alternated between looking at the timetable and her watch.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v797|
 [fc]
 [vo_ya s="yama0231"]
-[ns]RŠİ[nse]
-u‚ `ccŸ‚ÌƒoƒXAO\•ªŒã‚¾‚Ëv[pcms]
+[ns]Yamagishi[nse]
+Ah... The next bus is in thirty minutes.[pcms]
 
 *1906|
 [fc]
-[ns]‰Á“¡[nse]
-uO\•ª‚©[A—ˆ‚é‚Ü‚Å‰É‚¾‚Èccv[pcms]
+[ns]Kato[nse]
+Thirty minutes, huh... It's going to be boring until it[r]arrives...[pcms]
 
 *1907|
 [fc]
-ƒoƒX‚ª—ˆ‚é‚Ü‚Å‚ÌŠÔARŠİ‚³‚ñ‚Æ‰½‚©˜b‚µ‚Ä‚¢‚½‚¢‚ÆA[r]
-˜b‚Ìƒlƒ^‚ğl‚¦‚Ä‚¢‚é‰´‚ÉA”Ş—‚Í©•ª‚Ì‰É‚Â‚Ô‚µƒvƒ‰[r]
-ƒ“‚ğ”â˜I‚µ‚½B[pcms]
+While I was thinking of topics to talk about, wanting to[r]have a conversation with Yamagishi-san until the bus[r]arrived, she revealed her plan to pass the time.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v798|
 [fc]
 [vo_ya s="yama0232"]
-[ns]RŠİ[nse]
-u‚Ë‚¦‚Ë‚¦AƒoƒX‘Ò‚Á‚Ä‚éŠÔ‚ÉA‚İ‚ñ‚È‚ÅR‚Ìã‚Ì•û‚Ü[r]
-‚Å‚¨U•à‚µ‚És‚©‚È‚¢H@R‚ÌãY—í‚È‹ó‹CA‹z‚¢‚És‚±[r]
-‚¤‚æv[pcms]
+[ns]Yamagishi[nse]
+Hey hey, while we're waiting for the bus, why don't we all[r]take a walk up to the top of the mountain together?[l][er]
+Let's go breathe in the beautiful mountain air.[pcms]
 
 *1908|
 [fc]
-”Ş—‚Ì‚»‚Ì’ñˆÄ‚ğA^–ç‚Í•·‚­‚È‚è‹‘”Û‚µ‚½B[pcms]
+As soon as Shinya heard her suggestion, he rejected it.[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std206|
 [fc]
-[ns]’|“à[nse]
-u‚¦‚¥`A‹‚¢‚©‚ç‚â‚¾‚æ`ccBƒ{ƒN‚Í‚±‚±‚Å‘Ò‚Á‚Ä[r]
-‚é‚©‚çA“ñl‚Ås‚Á‚Ä‚«‚È‚æv[pcms]
+[ns]Takeuchi[nse]
+Ehh, it's hot so I don't want to go...[l][er]
+I'll wait here, so you two can go.[pcms]
 
 *1909|
 [fc]
-^–ç‚ÌAw“ñl‚Ås‚Á‚Ä‚«‚Èx‚ÌŒ¾—t‚ÉƒhƒL‚Á‚Æ‚µ‚½B[pcms]
+I was taken aback by Shinya's words, Go together just the[r]two of you.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v799|
 [fc]
 [vo_ya s="yama0233"]
-[ns]RŠİ[nse]
-u‚¦`A‚«‚Á‚Æ‹C‚¿‚¢‚¢‚æH@R‚Ì’†‚¾‚µA‚»‚ñ‚È‚É[r]
-‹‚­‚È‚¢‚Æv‚¤‚µA’|“àŒN‚às‚±‚¤‚æ`v[pcms]
+[ns]Yamagishi[nse]
+Eh~ It'll definitely feel good, you know?[l][er]
+We'll be in the mountains, so it won't be that hot.[pcms]
+Shinya-kun, let's go too~[l][er]
 
 *1910|
 [fc]
-cc“ñl‚«‚è‚æ‚èA‚İ‚ñ‚È‚Æˆê‚ª‚¢‚¢‚Ì‚ËccB[pcms]
+... Rather than being alone together, it's better to be with[r]everyone...[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std207|
 [fc]
-[ns]’|“à[nse]
-us‚Á‚Ä‚ç‚Á‚µ‚á`‚¢ccv[pcms]
+[ns]Takeuchi[nse]
+Have a good time~[l][er]
 
 *1911|
 [fc]
-Šù‚É‹‚³‚Éƒoƒe‹C–¡‚È^–ç‚ÍARŠİ‚³‚ñ‚Éƒqƒ‰ƒqƒ‰‚Æ—Í[r]
-‚È‚­è‚ğU‚Á‚½B[pcms]
+Shinya, who was already feeling exhausted from the heat,[r]weakly waved his hand at Yamagishi-san.[pcms]
 
 *1912|
 [fc]
-‚Å‚àAŠO‚©ccB‚à‚¤ƒNƒ\‹‚¢‚¾‚ë‚¤‚ÈccB[pcms]
+But, outside... It must be fucking hot already...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:ƒJ[ƒeƒ“‚ğŠJ‚­
+;//SE:ã‚«ãƒ¼ãƒ†ãƒ³ã‚’é–‹ã
 [se0 storage="se046"]
 
 ;//whiteflash
@@ -213,54 +204,54 @@
 
 *1913|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤‚§I@‚Ü‚Ô‚µ‚ÁIIv[pcms]
+[ns]Kato[nse]
+Whoa! It's so bright!![pcms]
 
 *1914|
 [fc]
-ŠO‚ÍA^‰Ä‚Ì‘¾—z‚ª—eÍ‚È‚­~‚è’‚¢‚Å‚¢‚éB‹‚»‚¤c[r]
-cB‚¢‚­‚çRŠİ‚³‚ñ‚Æ“ñl‚«‚è‚É‚È‚ê‚é‚ÆŒ¾‚Á‚Ä‚à‚È‚Ÿ[r]
-ccB‚Ç‚¤‚µ‚½‚à‚Ì‚©ccB[pcms]
+Outside, the merciless summer sun is shining down.[l][er]
+It looks hot... Even if I can be alone with Yamagishi-san, I[r]don't know...[l][er]
+What should I do...?[pcms]
+[l][er]
 
 *1915|
 [fc]
-‚»‚ÌRŠİ‚³‚ñ‚ÍA^–ç‚Ìd‘‚É¬‚³‚­‘§‚ğ‚Â‚¢‚ÄAˆÓŒ©[r]
-‚ğ‹‚ß‚é‚æ‚¤‚É‰´‚ğŒ©‚½B[pcms]
+Yamagishi-san, after seeing Shinya's gesture, took a small[r]breath and looked at me as if seeking my opinion.[pcms]
 
 *1916|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤‚¾‚È[ccv[pcms]
+[ns]Kato[nse]
+Yeah, I guess...[pcms]
 
-;//¦‘I‘ğˆ
-;//EU•àAs‚Á‚Ä‚İ‚æ‚¤‚©‚È
-;//flag:—‰Èº‘O‚Å—D‚Æ‰ï˜b@‚ªon ‚Ì;//[02094]‚Ö
-;//flag:—‰Èº‘O‚Å—D‚Æ‰ï˜b@‚ªOFF‚Ì;//[04014]‚Ö
-;//[02094]‚Ö
+;//â€»é¸æŠè‚¢
+;//ãƒ»æ•£æ­©ã€è¡Œã£ã¦ã¿ã‚ˆã†ã‹ãª
+;//flag:ç†ç§‘å®¤å‰ã§å„ªã¨ä¼šè©±ã€€ãŒon ã®æ™‚;//[02094]ã¸
+;//flag:ç†ç§‘å®¤å‰ã§å„ªã¨ä¼šè©±ã€€ãŒOFFã®æ™‚;//[04014]ã¸
+;//[02094]ã¸
 
-;//E^–ç‚Éˆê•[;//[02095]‚Ö
+;//ãƒ»çœŸä¹Ÿã«ä¸€ç¥¨;//[02095]ã¸
 
 
-*SEL01|U•àAs‚Á‚Ä‚İ‚æ‚¤‚©‚È^^–ç‚Éˆê•[
+*SEL01|æ•£æ­©ã€è¡Œã£ã¦ã¿ã‚ˆã†ã‹ãªï¼çœŸä¹Ÿã«ä¸€ç¥¨
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'U•àAs‚Á‚Ä‚İ‚æ‚¤‚©‚È'"]
-[eval exp="f.seltext04 = '^–ç‚Éˆê•['"]
+[eval exp="f.seltext02 = 'æ•£æ­©ã€è¡Œã£ã¦ã¿ã‚ˆã†ã‹ãª'"]
+[eval exp="f.seltext04 = 'çœŸä¹Ÿã«ä¸€ç¥¨'"]
 
 
-[if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
-	;‘I‘ğˆ“à—e‚ğƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
+[if exp="tf.sys_sub == 0 || tf.é¸æŠè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
+	;é¸æŠè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[—š—ğo—Í•œ‹A]
+[å±¥æ­´å‡ºåŠ›å¾©å¸°]
 
-;‘I‘ğˆƒx[ƒX
+;é¸æŠè‚¢ãƒ™ãƒ¼ã‚¹
 [selbase]
-;•¶š‚Ì¶ƒ}[ƒWƒ“
+;æ–‡å­—ã®å·¦ãƒãƒ¼ã‚¸ãƒ³
 [eval exp="sf.seltext_x = 250"]
 
 [sel02 target=*sel00_sanpo]
@@ -276,7 +267,7 @@
 
 ;;;[sysbt_meswin]
 
-;mm â‘Î’Ê‚é2050‚ÅƒIƒ“‚É‚È‚é‚©‚ç04014.ks‚É‚Í‚±‚±‚©‚çâ‘Îs‚¯‚È‚¢‚ñ‚¶‚áH
+;mm çµ¶å¯¾é€šã‚‹2050ã§ã‚ªãƒ³ã«ãªã‚‹ã‹ã‚‰04014.ksã«ã¯ã“ã“ã‹ã‚‰çµ¶å¯¾è¡Œã‘ãªã„ã‚“ã˜ã‚ƒï¼Ÿ
 [if exp="f.yuu_talk_on==0"]
 	;[jump target=*yuu_talk_off]
 	[jump target=*04014_TOP storage="04014.ks"]

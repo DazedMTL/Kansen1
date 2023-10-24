@@ -1,17 +1,17 @@
 
-;//¡ËƒuƒƒbƒN06050w‚²‹@Œ™Šİ“c‚Qx
-;//BG:‘Ìˆç‹³Š¯ºF–éF“_“”
-;//“oêl•¨GŠİ“cE—D
-;//‹“_FŠİ“c
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯06050ã€ã”æ©Ÿå«Œå²¸ç”°ï¼’ã€
+;//BG:ä½“è‚²æ•™å®˜å®¤ï¼šå¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›å²¸ç”°ãƒ»å„ª
+;//è¦–ç‚¹ï¼šå²¸ç”°
 
 
 *06050_H_TOP
-;[debug_win]‚È‚¤@06050_H[debug_win_end]
-;*SceneSet|w‚²‹@Œ™Šİ“c‚Qx
+;[debug_win]ãªã†ã€€06050_H[debug_win_end]
+;*SceneSet|ã€ã”æ©Ÿå«Œå²¸ç”°ï¼’ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_06050 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_06050 = 1"]
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 
 ;//[bgm007]
 
@@ -26,13 +26,11 @@
 
 *6517|
 [fc]
-”’‚¢B‚»‚ê‚ÉAX‚µ‚¢B[r]
-‘S‘Ì‚ªƒfƒJƒC‚¾‚¯‚ÌƒŠƒT‚Æ‚Í‘åˆá‚¢‚¾B[pcms]
+White. And, it's fresh. It's completely different from Lisa,[r]who is just big.[pcms]
 
 *6518|
 [fc]
-ƒAƒCƒc‚Í’E‚ª‚·‚Ì‚àS‘©‚·‚é‚Ì‚àˆê‹ê˜J‚¾‚Á‚½‚ªARŠİ[r]
-‚ÍŠy‚¾B[pcms]
+Dealing with Lisa was a struggle to undress and restrain,[r]but Yamagishi is easy.[pcms]
 
 ;//H_CG:
 
@@ -48,214 +46,214 @@
 *v2631|
 [fc]
 [vo_ya s="yama0874"]
-[ns]RŠİ[nse]
-u‚ñ‚ñccA‚ A‚ ‚êIHv[pcms]
+[ns]Yamagishi[nse]
+Mmm... Ah, what's this!?[pcms]
 
 *v2632|
 [fc]
 [vo_ya s="yama0875"]
-[ns]RŠİ[nse]
-u‰½‚±‚ê‚ÁH@‰½‚È‚Ì‚±‚êII@‚Í‚¸‚µ‚ÄI@‚â‚Ÿ‚ ‚ [r]
-`II@‰½‚Å„‚±‚ñ‚ÈŠiD‚È‚ÌIHv[pcms]
+[ns]Yamagishi[nse]
+What's this? What is this!! Take it off![l][er]
+Ahhh~!! Why am I dressed like this!?[pcms]
 
 *6519|
 [fc]
-[ns]Šİ“c[nse]
-uƒIƒCARŠİI@—]‚è–\‚ê‚é‚ÆA‚»‚Ì”’‚¢”§‚É‚ª•t‚­[r]
-‚¼ƒHH@ƒYƒ@ƒbƒnƒbƒnƒbƒnIIv[pcms]
+[ns]Kishida[nse]
+Hey, Yamagishi! If you keep struggling like that, you'll get[r]scars on that white skin of yours, you know?[l][er]
+Zaa hahahaha!![pcms]
 
 *v2633|
 [fc]
 [vo_ya s="yama0876"]
-[ns]RŠİ[nse]
-u‚¹Aæ¶IH@‚±‚ñ‚È‚ÌŒ™‚¾II@‚Ù‚Ç‚¢‚ÄII@’p[r]
-‚¸‚©‚µ‚¢‚æ‚§ccI@‚¢‚â‚Ÿ‚ ‚ ‚ II@ƒoƒJƒ@ƒbI@[r]
-•Ï‘ÔIv[pcms]
+[ns]Yamagishi[nse]
+T-Teacher!? I-I don't want this!![l][er]
+Untie me!! It's embarrassing...![l][er]
+Noooo!! You idiot! Pervert![pcms]
 
 *6520|
 [fc]
-ƒkƒbƒtƒtƒDcc[pcms]
+Nuffu...[pcms]
 
 *6521|
 [fc]
-‹©‚×‚Î‹©‚Ô‚¾‚¯A‰´‚Ìƒ€ƒXƒR‚ª‚³‚ç‚ÉŒ³‹C‚É‚È‚éB[pcms]
+The more you scream, the more my cock gets excited.[pcms]
 
 *6522|
 [fc]
-—Ü‚Ì¬‚¶‚Á‚½ºB[r]
-Å‹ß‚ÌƒŠƒT‚©‚ç‚Í•·‚¯‚È‚¢º‚¾B[r]
-Å‚‚¾Bâ‘ÎA‰´‚É‹ü•‚³‚¹‚Ä‚â‚éccB[pcms]
+A voice mixed with tears. It's a voice I can't hear from[r]recent Lisa.[l][er]
+It's the best. I will definitely make her submit to me...[pcms]
 
 *6523|
 [fc]
-‚¶‚í‚¶‚í‚ÆA‰õŠy‚É•Ï‚¦‚Ä‚â‚éB[r]
-ÅŒã‚É‚ÍA‰´‚Ì—¸ccB[pcms]
+I will slowly, gradually turn it into pleasure.[l][er]
+In the end, she will be my captive...[pcms]
 
 *6524|
 [fc]
-ƒkƒbƒtƒDccB[pcms]
+Nuffu...[pcms]
 
 *v2634|
 [fc]
 [vo_ya s="yama0877"]
-[ns]RŠİ[nse]
-u‚¤‚Ÿ‚ ccBæ¶A‚±‚ñ‚È‚ÌA•Ï‚¾‚æccB‚±‚Á‚¿‚É[r]
-—ˆ‚È‚¢‚ÅccBç’k‚Í‚â‚ß‚Ä‚­‚¾‚³‚¢Iv[pcms]
+[ns]Yamagishi[nse]
+Ugh... Teacher, this is weird...[l][er]
+Don't come over here... Please stop joking![pcms]
 
 *6525|
 [fc]
-[ns]Šİ“c[nse]
-uç’k‚Å¶“k‚ğ‘f‚Á—‡‚Éo—ˆ‚é‚©H@‚¨‘O‚É‚ÍA‚±‚ê‚©[r]
-‚çÅ‚‚Ì‰õŠ´‚ğ—^‚¦‚Ä‚â‚é‚¼II@ÅŒã‚É‚Íwæ¶cc[r]
-‚à‚Á‚Æ‰º‚³‚¢ccIx‚È‚ñ‚ÄŒ¾‚¤—l‚É‚µ‚Ä‚â‚é‚¼ƒHIHv[pcms]
+[ns]Kishida[nse]
+Do you think I can strip a student naked as a joke?[l][er]
+I'm going to give you the ultimate pleasure from now on!![l][er]
+In the end, you'll be begging me, Teacher...[l][er]
+please give me more...![pcms]
 
 *v2635|
 [fc]
 [vo_ya s="yama0878"]
-[ns]RŠİ[nse]
-u”n­‚È–Œ¾‚í‚È‚¢‚Å‰º‚³‚¢ccB‚Ç‚¤‚µ‚½‚ñ‚Å‚·‚©A[r]
-æ¶ccv[pcms]
+[ns]Yamagishi[nse]
+Please don't say such stupid things...[l][er]
+What's wrong, sensei...[pcms]
 
 *6526|
 [fc]
-”n­‚¾‚Ì•Ï‘Ô‚¾‚ÌAD‚«ŸèŒ¾‚Á‚Ä‚­‚ê‚é‚¶‚á‚Ë‚¦‚©B[r]
-‹³ˆç‚ª‚È‚Á‚Ä‚Ë‚¥‚ÈB[pcms]
+You're saying all sorts of stupid and perverted things.[l][er]
+Your education is lacking.[pcms]
 
 *6527|
 [fc]
-’|“à‚Æ‚¢‚¢ARŠİ‚Æ‚¢‚¢ccB[r]
-¡“xAƒRƒCƒc‚ç‚Ì’S”CAƒV‚ß‚Ä‚â‚ç‚ñ‚ÆccB[pcms]
+Whether it's Takeuchi or Yamagishi...[l][er]
+Next time, I'll make sure to discipline these two as their[r]homeroom teacher.[pcms]
 
 *6528|
 [fc]
-‚»‚Ì‘O‚ÉAƒRƒCƒc‚ğ‰x‚Î‚¹‚Ä‚â‚ç‚ñ‚Æ‚Èƒ@ccB[pcms]
+Before that, I'll make sure to pleasure this person...[pcms]
 
 *6529|
 [fc]
-‘«‰º‚É“]‚ª‚Á‚Ä‚¢‚éƒoƒCƒu‚ğE‚Á‚ÄARŠİ‚ÉŒ©‚¹‚Â‚¯‚éB[pcms]
+I pick up the vibrator that is rolling at my feet and show[r]it to Yamagishi.[pcms]
 
-;//SE:ƒoƒCƒu‚Ì‰¹
+;//SE:ãƒã‚¤ãƒ–ã®éŸ³
 [se0 storage="se065"]
 
 *6530|
 [fc]
-[ns]Šİ“c[nse]
-u‚¨‘O‚Ì‚à‚¤ˆêl‚Ì‘Šè‚ğA‚±‚ñ‚ÈŠ‚Ü‚ÅR”ò‚Î‚·‚È‚ñ[r]
-‚Äcc‰Âˆ£‘Š‚¾‚Æv‚í‚ñ‚Ì‚©H@‚¦‚¥IHv[pcms]
+[ns]Kishida[nse]
+Don't you think it's pitiful to kick your other partner away[r]like this...?[l][er]
+Huh!?[pcms]
 
 *v2636|
 [fc]
 [vo_ya s="yama0879"]
-[ns]RŠİ[nse]
-u‚Ğ‚ÁIH@‚»A‚»‚ñ‚È‚Ìcc‰½‚Ég‚¤‚ÌccB‚à‚¤ˆê[r]
-l‚Ì‘Šè‚Á‚Äcc‰½‚ğccv[pcms]
+[ns]Yamagishi[nse]
+Huh!? W-What are you going to use that for...?[l][er]
+And the other partner... What are you planning to do...?[pcms]
 
 *6531|
 [fc]
-[ns]Šİ“c[nse]
-u‰½‚ğ‚¾‚ŸH@•ª‚©‚Á‚Äƒ“‚¾‚ë‚¤‚ªII@¡‚©‚çA‚¨‘O[r]
-‚ÌƒIƒ}ƒ“ƒR‚ÉA‰´‚Ì‚ÆAƒRƒCƒc‚ª“ü‚Á‚Ä‚¢‚­‚ñ‚¾‚æII[r]
-ƒYƒAƒbƒnƒnƒnƒnƒbIIv[pcms]
+[ns]Kishida[nse]
+What do you mean? You should understand!![l][er]
+Right now, my and this one will enter your pussy!![l][er]
+Zua-hahahaha!![pcms]
 
 *v2637|
 [fc]
 [vo_ya s="yama0880"]
-[ns]RŠİ[nse]
-u‚»‚ñ‚ÈI@‚â‚ß‚Ä‰º‚³‚¢cc‚¨Šè‚¢‚µ‚Ü‚·‚ÁII@‚±[r]
-‚ñ‚È–A‚à‚¤A‚â‚ß‚ÄIIv[pcms]
+[ns]Yamagishi[nse]
+No! Please stop... I'm begging you!![l][er]
+Please, stop this already!![pcms]
 
 *6532|
 [fc]
-[ns]Šİ“c[nse]
-uƒYƒnƒnƒnƒbI@–{“–‚É‚¢‚¢º‚µ‚Ä‚é‚¶‚á‚Ë‚¥‚©ƒbII[r]
-‚¢‚¢‚¼‚§II@@‚¢‚¢‚¼‚§IIv[pcms]
+[ns]Kishida[nse]
+Zuhahaha! You're making such a good sound![l][er]
+That's great! That's great![pcms]
 
 *6533|
 [fc]
-‹ƒ‚«‚»‚¤‚ÅAk‚¦‚½ºA‚»‚ê‚ÉA‹¯‚¦‚½ŠçII@‚Ç‚ê‚ğ[r]
-æ‚Á‚Ä‚àAÅ‚‚¾II[pcms]
+The trembling voice on the verge of tears, and that[r]frightened face!![l][er]
+Whichever I choose, it's the best!![pcms]
 
 *6534|
 [fc]
-[ns]Šİ“c[nse]
-uƒkƒnƒ@ƒbccB‰‚ß‚Ä‚Å‚à‚Ë‚¥‚ñ‚¾‚ëIH@‚»‚ñ‚È‚É[r]
-‹¯‚¦‚é‚È‚æIH@ƒYƒAƒbƒnƒnƒnƒnIIv[pcms]
+[ns]Kishida[nse]
+Nuhah... It's not like it's your first time, right!?[l][er]
+Don't be so scared! Zua-hahahaha!![pcms]
 
 *v2638|
 [fc]
 [vo_ya s="yama0881"]
-[ns]RŠİ[nse]
-u‚È‚ÁccA‚¿Aˆá‚¤ccv[pcms]
+[ns]Yamagishi[nse]
+N-No... t-that's not...[pcms]
 
 *6535|
 [fc]
-‚Ù‚§ccBˆá‚¤cc‚©B[r]
-ˆ—‚©II@‚±‚ê‚ÍAÅ‚‚Ìã‹Ê‚¾II[pcms]
+Oh... Is that so? A virgin!! This is the finest prize!![pcms]
 
 *6536|
 [fc]
-[ns]Šİ“c[nse]
-uƒNƒNƒbII@—Ç‚©‚Á‚½‚È‚ŸccA‰‚ß‚Ä‚Ì‘Šè‚ª‰´—l[r]
-‚Å‚È‚ŸI@‰´‚È‚µ‚Å‚Í¶‚«‚ç‚ê‚ñg‘Ì‚É‚µ‚Ä‚â‚éIIv[pcms]
+[ns]Kishida[nse]
+Hehehe! How fortunate... that your first partner is me![l][er]
+I will make your body unable to live without me!![pcms]
 
 *v2639|
 [fc]
 [vo_ya s="yama0882"]
-[ns]RŠİ[nse]
-u‚¢‚â‚ÁI@—ˆ‚È‚¢‚ÅII@‚¢‚â‚Ÿ‚ II@‰Á“¡ŒNcc[r]
-‰Á“¡ŒNII@•‚¯‚Äcc•‚¯‚ÄIIv[pcms]
+[ns]Yamagishi[nse]
+No! Don't come near me!! Nooo!![l][er]
+Katou-kun... Katou-kun!! Help me...[l][er]
+Help me!![pcms]
 
 *6537|
 [fc]
-‰Á“¡ŒNH@‚ ‚ A‰fŒ¤‚Ì•”ˆõ‚©ccB‚ ‚ñ‚Èƒ„ƒc‚ªD‚«[r]
-‚È‚Ì‚©H[pcms]
+Katou-kun? Ah, a member of the Film Club...[l][er]
+Do you like that kind of person?[pcms]
 
 *6538|
 [fc]
-[ns]Šİ“c[nse]
-u‚Ù‚§‚¤H@‚¨‘Occ‰Á“¡‚ªD‚«‚È‚Ì‚©Hv[pcms]
+[ns]Kishida[nse]
+Oh? So you... like Katou?[pcms]
 
 *v2640|
 [fc]
 [vo_ya s="yama0883"]
-[ns]RŠİ[nse]
-ucc‚¦ccHv[pcms]
+[ns]Yamagishi[nse]
+... Eh...?[pcms]
 
 *v2641|
 [fc]
 [vo_ya s="yama0884"]
-[ns]RŠİ[nse]
-u‚©A‰Á“¡ŒN‚Ícc‚»‚ñ‚Èccv[pcms]
+[ns]Yamagishi[nse]
+K-Katou-kun is... like that...[pcms]
 
 *6539|
 [fc]
-RŠİ‚ªAŠç‚ğ^‚ÁÔ‚É‚µ‚Ä‚¤‚Â‚Ş‚¢‚½B•ª‚©‚è‚â‚·‚¢ƒ„[r]
-ƒc‚¾BwD‚«‚È‚ñ‚Å‚·x‚Á‚ÄŒ¾‚Á‚Ä‚é—l‚Èƒ‚ƒ“‚¶‚á‚Ë‚¥[r]
-‚©Bg‚¦‚é‚ÈAƒRƒŒ‚ÍB[pcms]
+Yamagishi blushed and looked down.[l][er]
+She's an easy one to read. It's like she's saying I like[r]you.[l][er]
+This could be useful.[pcms]
 
 *6540|
 [fc]
-[ns]Šİ“c[nse]
-u•ª‚©‚Á‚½ccB•ª‚©‚Á‚½‚¼ARŠİƒBccv[pcms]
+[ns]Kishida[nse]
+I understand... I understand, Yamagishi...[pcms]
 
 *v2642|
 [fc]
 [vo_ya s="yama0885"]
-[ns]RŠİ[nse]
-u‚¦Hv[pcms]
+[ns]Yamagishi[nse]
+Eh?[pcms]
 
 *6541|
 [fc]
-[ns]Šİ“c[nse]
-u‚¦H@‚¶‚áƒlƒF‚æccB‚¨‘O‚ÌƒUƒ}‚ğA‰Á“¡‚ÉŒ©‚¹‚Ä[r]
-‚â‚é‚©H@“–‘RAƒ„‚èI‚í‚Á‚½Œã‚Ì‚¨‘O‚Ìp‚ğ‚ÈIIv[pcms]
+[ns]Kishida[nse]
+Eh? Well then... Should I show Katou what you've become?[l][er]
+Of course, I'll show him your appearance after we're done[r]fucking!![pcms]
 
 *v2643|
 [fc]
 [vo_ya s="yama0886"]
-[ns]RŠİ[nse]
-u‚¢‚âccŒ™‚¾ccI@‚»‚ñ‚È‚ÌŒ™‚¾‚ŸII@•‚¯‚ÄI[r]
-•‚¯‚ÄIIv[pcms]
+[ns]Yamagishi[nse]
+No... I don't want this...! I don't want it!![l][er]
+Help me! Help me!![pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -269,15 +267,16 @@
 *v2644|
 [fc]
 [vo_ya s="yama0887"]
-[ns]RŠİ[nse]
-uccIH@‚¢‚â‚Ÿ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ IIv[pcms]
+[ns]Yamagishi[nse]
+...!? Noooooooo!![pcms]
 
 *6542|
 [fc]
-[ns]Šİ“c[nse]
-uÅ‚‚¾ccAÅ‚‚¾‚¼ARŠİƒBII@ƒOƒAƒ@IHv[pcms]
+[ns]Kishida[nse]
+This is the best... the absolute best, Yamagishi!![l][er]
+Guwaa!?[pcms]
 
-;//SE:‰£‚é
+;//SE:æ®´ã‚‹
 [se0 storage="se026"]
 
 [flash_re]
@@ -289,10 +288,9 @@
 
 *6543|
 [fc]
-‚ÈA‰½‚¾H[r]
-• ‚É‰½‚©H[pcms]
+W-What's wrong? Do you have something in your stomach?[pcms]
 
-;//[06060]‚Ö
+;//[06060]ã¸
 [jump target=*06060_H_TOP storage="06060_H.ks"]
 
 

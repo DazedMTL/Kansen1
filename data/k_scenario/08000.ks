@@ -1,14 +1,14 @@
 
-;//wŠ´õi‰¼‘èj|ålŒöŠ´õƒ‹[ƒgƒeƒLƒXƒgx
+;//ã€æ„ŸæŸ“ï¼ˆä»®é¡Œï¼‰âˆ’ä¸»äººå…¬æ„ŸæŸ“ãƒ«ãƒ¼ãƒˆãƒ†ã‚­ã‚¹ãƒˆã€
 
-;//¡ËƒuƒƒbƒN08000w“c’†‚ª‚»‚±‚Ü‚ÅŒ¾‚¤‚È‚çH‚×‚Ä‚İ‚æ‚¤B”ü–¡‚µ‚»‚¤‚¾‚µx
-;//BG:Šw‰€“àŠwHF—[•û
-;//“oêl•¨GålŒöE—DE“µE•ü”üE’|“àE“c’†
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08000ã€ç”°ä¸­ãŒãã“ã¾ã§è¨€ã†ãªã‚‰é£Ÿã¹ã¦ã¿ã‚ˆã†ã€‚ç¾å‘³ã—ãã†ã ã—ã€
+;//BG:å­¦åœ’å†…å­¦é£Ÿï¼šå¤•æ–¹
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­
 
 *08000_TOP
-;[debug_win]‚È‚¤@08000[debug_win_end]
+;[debug_win]ãªã†ã€€08000[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08000 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08000 = 1"]
 
 [eval exp="f.prologue_route = 0"]
 [eval exp="f.yuu_route1 = 0"]
@@ -21,17 +21,17 @@
 [eval exp="f.hitomi_route4 = 0"]
 [eval exp="f.infection_route = 1"]
 
-;*SceneSet|w“c’†‚ÌŠ©‚ßx
+;*SceneSet|ã€ç”°ä¸­ã®å‹§ã‚ã€
 
-;//flag:ålŒöŠ´õƒ‹[ƒgƒtƒ[@‰æ–Ê •\¦
-;//flag:ålŒöŠ´õƒ‹[ƒg@Start@•\¦
+;//flag:ä¸»äººå…¬æ„ŸæŸ“ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ç”»é¢ è¡¨ç¤º
+;//flag:ä¸»äººå…¬æ„ŸæŸ“ãƒ«ãƒ¼ãƒˆã€€Startã€€è¡¨ç¤º
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 [bgm001]
 
 ;//;//BG:bg14b
 
-;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
+;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
 [bg storage="bg14b"]
 [trans_c cross time=500]
 
@@ -41,21 +41,20 @@
 
 *8621|
 [fc]
-RŠİ‚³‚ñ‚Ìì‚Á‚½ƒXƒpƒQƒbƒeƒB‚ÆƒTƒ‰ƒ_B[r]
-²”Œ‚ÌƒJƒjƒ`ƒƒ[ƒnƒ“B[r]
-ŒÜ\—’ƒTƒ“‚Í—³“c—g‚°‚ÆA‚²”ÑE–¡‘X`B[pcms]
+Yamagishi-san made spaghetti and salad.[l][er]
+Saeki's crab fried rice. Igarashi-san has fried chicken and[r]rice with miso soup.[pcms]
 
 *8622|
 [fc]
-‚Ç‚ê‚àƒEƒ}‚»‚¤‚¾B[pcms]
+They all look delicious.[pcms]
 
 *8623|
 [fc]
-cc²”Œ‚Ì‚ÍAŒ©‚½–Úˆ«‚¢‚¯‚ÇccB[pcms]
+... Saeki's looks unappetizing though...[pcms]
 
 *8624|
 [fc]
-ƒzƒ“ƒgA‚Ç‚ê‚É‚µ‚æ‚¤ccB[pcms]
+Hmm, which one should I choose...[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_a_a_01"]
 [ChrSetXY layer=1 x=160 y=0]
@@ -64,10 +63,9 @@
 
 *8625|
 [fc]
-[ns]“c’†[nse]
-u‚È‚ñ‚¾‚æA‘×”VB‚¨‘OA‚»‚Ì‚Ü‚Ü‰´‚½‚¿‚ªH‚Á‚Ä‚éŠ[r]
-‚¸‚Á‚ÆŒ©‚Ä‚é‚Â‚à‚è‚©H@‚¹‚Á‚©‚­ƒgƒ‚ƒ~ƒ“‚Ìè—¿—A[r]
-Š©‚ß‚Ä‚â‚Á‚½‚Ì‚Éccv[pcms]
+[ns]Tanaka[nse]
+What's up, Yasuyuki? Do you intend to keep watching us eat[r]like that?[l][er]
+I went through the trouble of recommending Tomomin's[r]homemade dish to you...[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
@@ -77,347 +75,338 @@
 *v3357|
 [fc]
 [vo_to s="tomo0382"]
-[ns]ŒÜ\—’[nse]
-u‚»‚¤‚¾‚æA‘‚­H‚×‚æ‚¤‚æB‚²”Ñ—â‚ß‚¿‚á‚¤‚æHv[pcms]
+[ns]Igarashi[nse]
+That's right, let's eat quickly.[l][er]
+The rice will get cold, you know?[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *8626|
 [fc]
-‰½‚¾‚æccB[pcms]
+What's the matter...?[pcms]
 
 *8627|
 [fc]
-cc‰´‚ÍV¥‚³‚ñ‚Ì‰Æ‚É—V‚Ñ‚É—ˆ‚½–ó‚¶‚á‚È‚¢‚¼ccB[pcms]
+... I didn't come here to play at the newlyweds' house, you[r]know...[pcms]
 
 *8628|
 [fc]
-cc‚µ‚©‚µA‚±‚Ì”n­•v•w‚ÌŒ¾‚¤‚±‚Æ‚àA‚à‚Á‚Æ‚à‚¾B[pcms]
+... However, what this foolish couple is saying is also[r]reasonable.[pcms]
 
 *8629|
 [fc]
-‚»‚ê‚Å‚àA‚â‚Á‚Ï‚è”Y‚ŞccB[pcms]
+Still, I'm still troubled...[pcms]
 
 *8630|
 [fc]
-cc‚±‚ñ‚È•—‚É—D_•s’f‚¾‚©‚çA‘Ê–Ú‚È‚ñ‚¾‚ë‚¤‚ÈccB[pcms]
+... I guess it's because I'm so indecisive like this that[r]things don't work out...[pcms]
 
 *8631|
 [fc]
-RŠİ‚³‚ñA²”ŒAŒÜ\—’ƒTƒ“‚Ìè—¿—B[r]
-‚È‚ñ‚¾‚©A‚±‚Ì‹@‰ï‚ğ“¦‚·‚ÆA‚Ç‚ê‚à“ñ“x‚ÆH‚×‚ç‚ê‚È[r]
-‚¢—l‚È‹C‚ª‚·‚éB[pcms]
+Yamagishi-san, Saeki, and Igarashi-san's homemade dishes.[l][er]
+Somehow, if I miss this opportunity, it feels like I won't[r]be able to eat any of them ever again.[pcms]
 
 *8632|
 [fc]
-‚¤‚ [III[r]
-‚Ç‚¤‚µ‚æ‚¤ccB[pcms]
+Ughhh!!! What should I do...[pcms]
 
 *8633|
 [fc]
-‰´‚Ícc‰´‚Íˆê‘ÌA‚Ç‚¤‚µ‚½‚ç‚¢‚¢‚ñ‚¾‚ÁI[pcms]
+What should I... What on earth should I do![pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3358|
 [fc]
 [vo_ya s="yama0985"]
-[ns]RŠİ[nse]
-ucc‚­‚ñH@‚Ç‚¤‚µ‚½‚ÌHv[pcms]
+[ns]Yamagishi[nse]
+... kun? What's wrong?[pcms]
 
 *8634|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦ccHv[pcms]
+[ns]Kato[nse]
+Eh...?[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std455|
 [fc]
-[ns]’|“à[nse]
-u‚à‚Ócc‚à‚¤A‚Ç‚¤‚µ‚½‚ñ‚¾‚æ‘×”VB‘‚­H‚¦‚æv[pcms]
+[ns]Takeuchi[nse]
+Mofu... What's wrong, Yasuyuki?[l][er]
+Hurry up and eat.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3359|
 [fc]
 [vo_sa s="sae1153"]
-[ns]²”Œ[nse]
-uŒû‚ÉH‚×•¨‚ğ‹l‚ß‚½‚Ü‚Ü‚Å‚µ‚á‚×‚ç‚È‚¢IIv[pcms]
+[ns]Saeki[nse]
+Don't talk with food in your mouth!![pcms]
 
 *8635|
 [fc]
-²”Œ‚ÍA‚Ü‚é‚Å•êe‚Ì—l‚ÉA^–ç‚ğ¶‚éB[r]
-Œ©Šµ‚ê‚½•—Œi‚¾ccB[pcms]
+Saeki scolds Shinya just like a mother.[l][er]
+It's a familiar scene...[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_a_a_01"]
 [ChrSetXY layer=1 x=160 y=0]
 [ChrSetParts layer=1 chface="tanaka_a_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std456|
 [fc]
-[ns]“c’†[nse]
-u‚Ü‚Á‚½‚­A‚Ç‚¤‚µ‚½‚ñ‚¾‚æA‚¨‘OBƒzƒ‰AH‚¦Iv[pcms]
+[ns]Tanaka[nse]
+Geez, what's wrong with you? Come on, eat![pcms]
 
 *8636|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦ccH@”M‚Á‚ÂIIv[pcms]
+[ns]Kato[nse]
+Eh...? It's hot!![pcms]
 
 *8637|
 [fc]
-‚Ç‚ê‚ğH‚×‚æ‚¤‚©–À‚¢A”Y‚ñ‚Å‚¢‚é‰´‚Ì–j‚ÉA—S“ñ‚ª—³[r]
-“c—g‚°‚ğ‰Ÿ‚µ‚Â‚¯‚Ä‚«‚â‚ª‚Á‚½II[pcms]
+I was hesitating and agonizing over which one to eat, and[r]then Yuuji forcefully handed me a piece of fried chicken on[r]my cheek!![pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3360|
 [fc]
 [vo_ya s="yama0986"]
-[ns]RŠİ[nse]
-u‚ ‚Í‚Í‚ÁI@‰Á“¡ŒN‚Æ“c’†‚³‚ñA—öl“¯m‚İ‚½‚¢Iv[pcms]
+[ns]Yamagishi[nse]
+Ahaha! Kato-kun and Tanaka-san, you two look like a couple![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *8638|
 [fc]
-‰´‚Æ—S“ñ‚ª—ölH@ç’k‚¶‚á‚È‚¢B[r]
-RŠİ‚³‚ñ‚àA‚Æ‚ñ‚Å‚à‚È‚¢–‚¢‚¤‚È‚ ccB[pcms]
+Yuuji and I as lovers? That's not a joke.[l][er]
+Yamagishi-san, don't say such absurd things...[pcms]
 
 *8639|
 [fc]
-‚µ‚©‚µccB[r]
-‰½‚Ä–‚·‚é‚ñ‚¾A—S“ñ‚Ícc‚Ü‚Á‚½‚­ccB[pcms]
+However... What is Yuuji doing...[l][er]
+Honestly...[pcms]
 
 *8640|
 [fc]
-‚Å‚àA‚¹‚Á‚©‚­‚¾‚©‚çH‚Á‚Ä‚İ‚æ‚¤ccB[pcms]
+But, since I went through the trouble, I'll give it a try...[pcms]
 
 *8641|
 [fc]
-ƒ€ƒOccH[r]
-‚¨‚¨ccH[r]
-‚¤‚í‚ ccB[pcms]
+Muku...? Oh...? Uwaa...[pcms]
 
 *8642|
 [fc]
-‚±‚Ì—³“c—g‚°AƒEƒ}ƒCccB[pcms]
+This fried chicken is delicious...[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_c_a_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3361|
 [fc]
 [vo_to s="tomo0383"]
-[ns]ŒÜ\—’[nse]
-u‚¤[‚½‚ñAŠë‚È‚¢‚Å‚µ‚åI@‰Î‚µ‚¿‚á‚¤‚æH@‘×”V[r]
-‚­‚ñA‘åä•vHv[pcms]
+[ns]Igarashi[nse]
+U-tan, that's dangerous! You might get burned.[l][er]
+Are you okay, Yasuyuki-kun?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3362|
 [fc]
 [vo_sa s="sae1154"]
-[ns]²”Œ[nse]
-u“c’†æ”yccBH‚×•¨‚Å—V‚ñ‚Å‚Í‚¢‚¯‚È‚¢‚ÆA‚²—¼e[r]
-‚ÉŒ¾‚í‚ê‚Ü‚¹‚ñ‚Å‚µ‚½‚©Hv[pcms]
+[ns]Saeki[nse]
+Tanaka-senpai... Didn't your parents tell you not to play[r]with your food?[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_a_a_01"]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std457|
 [fc]
-[ns]“c’†[nse]
-u‚¤‚¤ccB‚·‚¢‚Ü‚¹‚ñ‚Å‚µ‚½ccBv[pcms]
+[ns]Tanaka[nse]
+Ugh... I'm sorry...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *8643|
 [fc]
-‚Ö‚±‚Ş‚­‚ç‚¢‚È‚çA‚â‚ß‚ë‚æccB[r]
-‚µ‚©‚µA‚±‚ñ‚È‚É‚µ‚¨‚ç‚µ‚¢—S“ñ‚Í’¿‚µ‚¢‚ÈB[pcms]
+If it's going to make you depressed, then stop...[l][er]
+But Yuuji being so submissive is unusual.[pcms]
 
 *8644|
 [fc]
-‚â‚Í‚èŒÜ\—’ƒTƒ“‚É¶‚ç‚ê‚é‚Ì‚ªˆê”Ô‚«‚­‚Ì‚©‚ÈB[pcms]
+I wonder if being scolded by Igarashi-san is the most[r]effective after all.[pcms]
 
 *8645|
 [fc]
-¡“xƒCƒ^ƒYƒ‰‚³‚ê‚½‚çAŒÜ\—’ƒTƒ“‚Éƒ`ƒNƒb‚Ä—S“ñ‚ğ¶[r]
-‚Á‚Ä‚à‚ç‚¨‚¤B[pcms]
+Next time I get pranked, I'll tell Igarashi-san and have her[r]scold Yuuji for me.[pcms]
 
 *8646|
 [fc]
-‚»‚ê‚É‚µ‚Ä‚àccB[pcms]
+Nevertheless...[pcms]
 
 *8647|
 [fc]
-‚½‚Á‚½ˆêŒÂ‚µ‚©H‚Á‚Ä‚È‚¢‚¯‚ÇccBŒÜ\—’ƒTƒ“‚Ì—¿—[r]
-‚ÍƒEƒ}‚¢B[pcms]
+I only had one, but... Igarashi-san's cooking is delicious.[pcms]
 
 *8648|
 [fc]
-RŠİ‚³‚ñ‚Ì‚âccA²”Œcc‚Ì‚àÉ‚µ‚¢‚¯‚ÇccB[r]
-ŒÜ\—’ƒTƒ“‚Ì—¿—‚ğH‚×‚æ‚¤‚Á‚ÆB[pcms]
+I want to try Yamagishi-san's...[l][er]
+no, Saeki's cooking too, but...[l][er]
+Igarashi-san's cooking is also tempting.[pcms]
 
 *8649|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Í‚Í‚ÁA‚à‚¤‚¢‚¢‚æB‰´‚È‚ç‘åä•v‚¾‚©‚çB—S“ñA‹–[r]
-‚·‘ã‚í‚è‚ÉAŒÜ\—’ƒTƒ“‚Ì—¿—H‚Á‚Ä‚¢‚¢‚æ‚ÈHv[pcms]
+[ns]Kato[nse]
+Haha, it's fine already. I'll be okay since it's me.[l][er]
+Yuuji, instead of forgiving you, can I have a taste of[r]Igarashi-san's cooking?[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_a_a_01"]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std458|
 [fc]
-[ns]“c’†[nse]
-u‚Ç‚¤‚¼A‚¨H‚×‰º‚³‚¢ccB‚²ål—lccv[pcms]
+[ns]Tanaka[nse]
+Please, go ahead and eat... Master...[pcms]
 
 *8650|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤‚Í‚Í‚Í‚ÁI@‚Å‚ÍAH‚Á‚Ä‚â‚ë‚¤IIv[pcms]
+[ns]Kato[nse]
+Uhahaha! Well then, I'll eat it!![pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_c_a_09"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3363|
 [fc]
 [vo_to s="tomo0384"]
-[ns]ŒÜ\—’[nse]
-u‚à[A‚ ‚½‚µ‚Ì—¿—‚Å—V‚Î‚È‚¢‚Å‚æ[v[pcms]
+[ns]Igarashi[nse]
+Geez, stop playing around with my cooking.[pcms]
 
 *8651|
 [fc]
-[ns]‰Á“¡[nse]
-u‚·‚¢‚Ü‚¹‚ñ‚Å‚µ‚½ccv[pcms]
+[ns]Kato[nse]
+I'm sorry...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *8652|
 [fc]
-¡“x‚Í‰´‚ª¶‚ç‚ê‚½ccB[pcms]
+This time, I was scolded...[pcms]
 
 *8653|
 [fc]
-‚±‚êˆÈã—V‚ñ‚Å‚¢‚é‚ÆAŒÜ\—’ƒTƒ“‚¾‚¯‚¶‚á‚È‚­A²”Œ[r]
-‚É‚Ü‚Åƒ`ƒNƒ`ƒN‚Æà‹³‚³‚ê‚Ä‚µ‚Ü‚¤B[pcms]
+If I keep playing around like this, not only will Igarashi-[r]san scold me, but Saeki will also give me a lecture.[pcms]
 
 *8654|
 [fc]
-Š©‚ß‚ç‚ê‚Ä‚¢‚½‚ñ‚¾B[r]
-ŒÜ\—’ƒTƒ“‚Ì—¿—‚ğH‚×‚æ‚¤B[pcms]
+I was recommended to try it. Let's eat Igarashi-san's[r]cooking.[pcms]
 
 *8655|
 [fc]
-‚»‚ê‚É‚µ‚Ä‚àAƒEƒ}‚»‚¤‚¾B[pcms]
+Even so, it looks delicious.[pcms]
 
 *8656|
 [fc]
-‚³‚Á‚«H‚Á‚½—³“c—g‚°A‰´‚ñ‚¿‚Å‚Íâ‘Î‚Éo‚Ä‚±‚È‚¢–¡[r]
-‚¾‚Á‚½‚ÈB‚·‚°‚¥ƒEƒ}‚©‚Á‚½B[r]
-‚à‚¤ˆêŒÂAH‚×‚æ‚¤B[pcms]
+The karaage I ate earlier had a taste that would never come[r]out at my place.[l][er]
+It was incredibly delicious. Let's have one more.[pcms]
 
 *8657|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤‚§ccv[pcms]
+[ns]Kato[nse]
+Uwo...[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_a_a_01"]
 [ChrSetXY layer=1 x=160 y=0]
 [ChrSetParts layer=1 chface="tanaka_a_a_07"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std459|
 [fc]
-[ns]“c’†[nse]
-u‚ñH@‚Ç‚¤‚µ‚½Hv[pcms]
+[ns]Tanaka[nse]
+Hm? What's wrong?[pcms]
 
 *8658|
 [fc]
-[ns]‰Á“¡[nse]
-uccccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦â€¦â€¦[l][er]
 
 *8659|
 [fc]
-‚·‚°‚¥cc‚â‚Á‚Ï‚èƒEƒ}‚¢ccB[r]
-—S“ñ‚Ì•ª‚Ü‚ÅH‚Á‚Ä‚µ‚Ü‚¤‚©ccH[pcms]
+Wow... It's really delicious after all.[l][er]
+Should I eat Tanaka's portion too...?[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_a_a_01"]
 [ChrSetXY layer=1 x=160 y=0]
 [ChrSetParts layer=1 chface="tanaka_a_a_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std460|
 [fc]
-[ns]“c’†[nse]
-u‚¨‚¢H@‘åä•v‚©H@A‚É‹l‚Ü‚ç‚¹‚Å‚à‚µ‚½‚©Hv[pcms]
+[ns]Tanaka[nse]
+Hey? Are you okay? Did you choke on something?[pcms]
 
 *8660|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ş‚®cc‚¤‚é‚³‚¢I@˜b‚µ‚©‚¯‚é‚ÈI@¡‚ÍŒÜ\—’ƒT[r]
-ƒ“‚Ì—¿—‚Ì–¡‚ÉW’†‚µ‚Ä‚é‚ñ‚¾II@×–‚‚µ‚È‚¢‚Å‚­‚ê[r]
-IIv[pcms]
+[ns]Kato[nse]
+Muku... Urusai! Hanashikakeru na![l][er]
+Ima wa Igarashi-san no ryouri no aji ni shuuchuu shiterun[r]da!![l][er]
+Jama shinaide kure!![pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_a_a_01"]
 [ChrSetXY layer=1 x=160 y=0]
 [ChrSetParts layer=1 chface="tanaka_a_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std461|
 [fc]
-[ns]“c’†[nse]
-u‚½‚Í‚Ícc‚»‚ñ‚È‚ÉƒEƒ}ƒC‚©H@‚â‚Á‚Ï‚è‚È‚ŸI@‚Í[r]
-‚Í‚ÁIv[pcms]
+[ns]Tanaka[nse]
+Haha... Is it really that delicious?[l][er]
+Just as I thought! Haha![pcms]
 
 *8661|
 [fc]
-[ns]‰Á“¡[nse]
-ucc‚¨‘O‚ğ—_‚ß‚Ä‚é‚ñ‚¶‚á‚È‚¢I@ŒÜ\—’ƒTƒ“‚Ì—¿—[r]
-‚ğ—_‚ß‚Ä‚é‚ñ‚¾Iv[pcms]
+[ns]Kato[nse]
+... I'm not praising you! I'm praising Igarashi-san's[r]cooking![pcms]
 
-;//SE:H–‚ÌƒJƒ`ƒƒƒJƒ`ƒƒ‰¹
+;//SE:é£Ÿäº‹ã®ã‚«ãƒãƒ£ã‚«ãƒãƒ£éŸ³
 [se0 storage="se014"]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
@@ -425,270 +414,268 @@
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3364|
 [fc]
 [vo_to s="tomo0385"]
-[ns]ŒÜ\—’[nse]
-u‚Í‚¢A‚¨–¡‘X`‚à‚Ç‚¤‚¼v[pcms]
+[ns]Igarashi[nse]
+Here, please have some miso soup.[pcms]
 
 *8662|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚ ‚è‚ª‚Æccƒ€ƒOccv[pcms]
+[ns]Kato[nse]
+Ah, thank you... Muku...[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_a_a_01"]
 [ChrSetXY layer=1 x=160 y=0]
 [ChrSetParts layer=1 chface="tanaka_a_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std462|
 [fc]
-[ns]“c’†[nse]
-u‚â‚Á‚Ï‚è‹C‚ª‚«‚­‚È‚ŸAƒgƒ‚ƒ~ƒ“v[pcms]
+[ns]Tanaka[nse]
+Tomomin, you really have a good sense, huh?[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_b_01"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3365|
 [fc]
 [vo_to s="tomo0386"]
-[ns]ŒÜ\—’[nse]
-u‚¦‚Ö‚Ö`B‚¤[‚½‚ñ‚àA—~‚µ‚¢Hv[pcms]
+[ns]Igarashi[nse]
+Ehehe~. Would you like some too, Utan?[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_a_a_01"]
 [ChrSetXY layer=1 x=160 y=0]
 [ChrSetParts layer=1 chface="tanaka_a_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std463|
 [fc]
-[ns]“c’†[nse]
-u‚Í[‚¢A‚­‚¾‚³[‚¢v[pcms]
+[ns]Tanaka[nse]
+Here you go.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *8663|
 [fc]
-‚¤‚¤ccB[pcms]
+Ugh...[pcms]
 
 *8664|
 [fc]
-•’i‚ÍƒCƒ‰ƒCƒ‰‚·‚é‚¾‚¯‚Ì“ñl‚Ì‚â‚è‚Æ‚è‚ªA¡‚Í‘S‚­[r]
-‹C‚É‚È‚ç‚È‚¢B[pcms]
+The usual back-and-forth between the two, which usually just[r]irritates me, doesn't bother me at all now.[pcms]
 
 *8665|
 [fc]
-–¡‘X`‚à”M‰ß‚¬‚¸A‰–h‰ß‚¬‚¸A‚¿‚å‚¤‚Ç‚¢‚¢B[r]
-Š®àø‚¶‚á‚È‚¢‚©ccB[pcms]
+The miso soup is not too hot, not too salty, just right.[l][er]
+It's perfect, isn't it...[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std464|
 [fc]
-[ns]’|“à[nse]
-u‚Ë‚¦A“µAƒ`ƒƒ[ƒnƒ“·‚Á‚Ä‚æv[pcms]
+[ns]Takeuchi[nse]
+Hey, Hitomi, could you serve me some fried rice?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3366|
 [fc]
 [vo_sa s="sae1155"]
-[ns]²”Œ[nse]
-u„‚Í‹M’j‚Ì•ÛŒìÒ‚¶‚á‚ ‚è‚Ü‚¹‚ñII@©•ª‚Å·‚Á‚½[r]
-‚ç‚¢‚¢‚¶‚á‚È‚¢‚Å‚·‚©IIv[pcms]
+[ns]Saeki[nse]
+I am not your guardian!! Can't you serve it yourself?![pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3367|
 [fc]
 [vo_ya s="yama0987"]
-[ns]RŠİ[nse]
-u‚ ‚Í‚Í‚Í‚ÁII@‚È‚ñ‚©A‚İ‚ñ‚È‚¨‚à‚µ‚ë[‚¢IIv[pcms]
+[ns]Yamagishi[nse]
+Ahahaha!! Everyone is so funny!![pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_a_a_01"]
 [ChrSetXY layer=1 x=160 y=0]
 [ChrSetParts layer=1 chface="tanaka_a_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std465|
 [fc]
-[ns]“c’†[nse]
-uƒXƒpƒQƒbƒeƒBA’¸‚«‚ÁIIv[pcms]
+[ns]Tanaka[nse]
+I'll have the spaghetti!![pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3368|
 [fc]
 [vo_to s="tomo0387"]
-[ns]ŒÜ\—’[nse]
-u—D‚¿‚á‚ñA‚±‚Ìƒ\[ƒXA‚Ç‚¤‚â‚Á‚Äì‚é‚ÌHv[pcms]
+[ns]Igarashi[nse]
+Yuu-chan, how do you make this sauce?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3369|
 [fc]
 [vo_sa s="sae1156"]
-[ns]²”Œ[nse]
-u‚ ‚ ƒbI@’|“à‚³‚ñII@æ‚è‚·‚¬‚Å‚·I@‘¼‚Ì•û‚Ì[r]
-•ª‚ª–³‚­‚È‚Á‚Ä‚µ‚Ü‚¢‚Ü‚·IIv[pcms]
+[ns]Saeki[nse]
+Ah! Takeuchi-san!! You're taking too much![l][er]
+The others won't have any left![pcms]
 
 *8666|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ ccB‚¢‚¢‚È‚ŸA‚±‚¤‚¢‚¤‚Ìccv[pcms]
+[ns]Kato[nse]
+Ahh... It's nice, isn't it, this kind of thing...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *8667|
 [fc]
-‚É‚¬‚â‚©‚ÅAƒz[ƒ€ƒhƒ‰ƒ}‚ÌˆêƒV[ƒ“‚İ‚½‚¢‚ÅAŠy‚µ‚¢B[pcms]
+It's lively and feels like a scene from a home drama, it's[r]enjoyable.[pcms]
 
 *8668|
 [fc]
-ŠF‚»‚ê‚¼‚ê‚ÉA—¿—‚ğŠy‚µ‚ñ‚Å‚¢‚éB[pcms]
+Everyone is enjoying their cooking in their own way.[pcms]
 
 *8669|
 [fc]
-‚»‚ê‚É‚µ‚Ä‚à—S“ñ‚ßcc‚±‚ñ‚È‚ÉƒEƒ}ƒC—¿—A‚¸‚Á‚Æ“Æ[r]
-‚èè‚ß‚µ‚Ä‚½‚Ì‚©cc‹–‚¹‚ñccB[pcms]
+But seriously, Yuuji... were you hogging all this delicious[r]food for yourself...?[l][er]
+Unforgivable...[pcms]
 
-;//SE:ƒoƒ“@Š÷‚ğ’@‚­
+;//SE:ãƒãƒ³ã€€æœºã‚’å©ã
 [se0 storage="se015"]
 
 *8670|
 [fc]
-[ns]‰Á“¡[nse]
-u—S“ñII@‚¨‘OccIIv[pcms]
+[ns]Kato[nse]
+Yuuji!! You...!![pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_a_a_01"]
 [ChrSetXY layer=1 x=160 y=0]
 [ChrSetParts layer=1 chface="tanaka_a_a_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std466|
 [fc]
-[ns]“c’†[nse]
-u‚ÈA‚È‚ñ‚¾‚æ“Ë‘RIv[pcms]
+[ns]Tanaka[nse]
+W-What's the sudden surprise?![pcms]
 
 *8671|
 [fc]
-[ns]‰Á“¡[nse]
-u‚±‚ñ‚È‚ÉƒEƒ}‚¢—¿—A“Æ‚èè‚ß‚µ‚â‚ª‚Á‚ÄII@M‚¶[r]
-‚ç‚ê‚Ë‚¥II@e—F‚¾‚Æv‚Á‚Ä‚½‚Ì‚ÉIIv[pcms]
+[ns]Kato[nse]
+You selfishly hogged all this delicious food!![l][er]
+I can't believe it!! I thought we were best friends!![pcms]
 
 *8672|
 [fc]
-‰ä‚È‚ª‚çA•Ï‚È–Œ¾‚Á‚Ä‚é‚Æv‚¤B[r]
-‚Å‚àA‚»‚Ì‚­‚ç‚¢ƒEƒ}ƒCB[pcms]
+I think I'm saying something strange.[l][er]
+But, it's delicious enough to say that.[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_a_a_01"]
 [ChrSetXY layer=1 x=160 y=0]
 [ChrSetParts layer=1 chface="tanaka_a_a_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std467|
 [fc]
-[ns]“c’†[nse]
-uƒnƒ@H@‚¨‘OA‚Ç‚¤‚µ‚½Hv[pcms]
+[ns]Tanaka[nse]
+Huh? What's wrong with you?[pcms]
 
 *8673|
 [fc]
-[ns]‰Á“¡[nse]
-ue—F‚¾‚Æv‚Á‚Ä‚é‚ñ‚È‚çA¡“xŒÜ\—’ƒTƒ“‚ª—¿—ì‚é[r]
-‚ÍŒÄ‚×‚æII@â‘Î‚¾‚¼IIv[pcms]
+[ns]Kato[nse]
+If you really consider me your best friend, then make sure[r]to invite me next time when Igarashi-san is cooking!![l][er]
+Absolutely!![pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_a_a_01"]
 [ChrSetXY layer=1 x=160 y=0]
 [ChrSetParts layer=1 chface="tanaka_a_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std468|
 [fc]
-[ns]“c’†[nse]
-u‚ [‚ [A‚í‚©‚Á‚½‚í‚©‚Á‚½B¡“x‚ÈA¡“xv[pcms]
+[ns]Tanaka[nse]
+Ahh, I got it, I got it. Next time, next time...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3370|
 [fc]
 [vo_ya s="yama0988"]
-[ns]RŠİ[nse]
-u‚Ó‚Ó‚ÁA„‚à‚¢‚¢‚©‚ÈHv[pcms]
+[ns]Yamagishi[nse]
+Hehe, can I join in too?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3371|
 [fc]
 [vo_sa s="sae1157"]
-[ns]²”Œ[nse]
-u‚íA„‚à‹X‚µ‚¢‚Å‚µ‚å‚¤‚©ccv[pcms]
+[ns]Saeki[nse]
+Umm, may I join in as well...?[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_b_01"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3372|
 [fc]
 [vo_to s="tomo0388"]
-[ns]ŒÜ\—’[nse]
-u‚»‚¤‚¾A‚İ‚ñ‚È‚ÅƒLƒƒƒ“ƒv‚É‚Å‚às‚±‚¤‚æI@‚«‚Á‚ÆA[r]
-Šy‚µ‚¢‚æHv[pcms]
+[ns]Igarashi[nse]
+I have an idea, let's all go camping together![l][er]
+It will definitely be fun, right?[pcms]
 
 *8674|
 [fc]
-ƒLƒƒƒ“ƒv‚©cc‚»‚ê‚àŠy‚µ‚»‚¤‚¾‚ÈBV“¹æ¶‚à—U‚Á‚ÄA[r]
-‰®ŠO‰f‰æŠÓÜ‚Æ‚©ƒAƒŠ‚©‚à‚ÈccB[r]
-‚»‚¤‚¾A¡“xAV“¹æ¶‚É’ñˆÄ‚µ‚Ä‚İ‚æ‚¤B[pcms]
+Camping, huh... That sounds fun too.[l][er]
+It might be nice to invite Shindou-sensei and maybe even[r]have an outdoor movie screening...[l][er]
+Yeah, let's suggest it to Shindou-sensei next time.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
 
-;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 
 [jump target=*08010_TOP storage="08010.ks"]

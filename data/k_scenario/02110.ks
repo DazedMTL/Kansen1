@@ -1,20 +1,20 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02110wó‹µ®—x
-;//BG:‹’®ŠoºF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöE—DEƒŠƒTEŠİ“cE’|“à
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02110ã€çŠ¶æ³æ•´ç†ã€
+;//BG:è¦–è´è¦šå®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»å²¸ç”°ãƒ»ç«¹å†…
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02110_TOP
-;[debug_win]‚È‚¤@02110[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02110 = 1"]
+;[debug_win]ãªã†ã€€02110[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02110 = 1"]
 
-;*SceneSet|wó‹µ®—x
+;*SceneSet|ã€çŠ¶æ³æ•´ç†ã€
 
 ;//[02110]
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 [bgm007]
 ;//BG:bg015a
 [bg storage="bg15a"]
@@ -24,79 +24,78 @@
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v849|
 [fc]
 [vo_ri s="risa0249"]
-[ns]V“¹[nse]
-u‘å¨ccHv[pcms]
+[ns]Shindou[nse]
+A lot of people...?[pcms]
 
 *2120|
 [fc]
-ˆã—Ã•i‚ğó‚¯æ‚è‚È‚ª‚çAV“¹æ¶‚Í‰´’B‚Ì•ñ‚ÉŒµ‚µ[r]
-‚¢Šç‚ğ‚µ‚½B[pcms]
+While receiving medical supplies, Dr.[l][er]
+Shindou had a stern expression on her face as she listened[r]to our report.[pcms]
+[l][er]
 
 *2121|
 [fc]
-[ns]‰Á“¡[nse]
-u‚±‚±‚Ö–ß‚Á‚Ä‚­‚é‚Éƒ`ƒ‰ƒb‚ÆŒ©‚½‚ñ‚Å‚·‚¯‚ÇAŒºŠÖ[r]
-‚ÌƒVƒƒƒbƒ^[‚Ì‚Æ‚±‚ÉAƒXƒSƒC”‚ªW‚Ü‚Á‚Ä‚Ü‚µ‚½B‚»[r]
-‚ê‚àA‘S•”ƒEƒ`‚Ì¶“k‚Å‚·v[pcms]
+[ns]Kato[nse]
+When I came back here, I caught a glimpse of it.[l][er]
+A huge number of them had gathered at the entrance shutter.[l][er]
+And all of them were our students.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v850|
 [fc]
 [vo_ri s="risa0250"]
-[ns]V“¹[nse]
-u‚È‚ñ‚Å‚·‚Á‚Äccv[pcms]
+[ns]Shindou[nse]
+What did you say...?[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_b_03"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v851|
 [fc]
 [vo_ri s="risa0251"]
-[ns]V“¹[nse]
-u‚ ‚çA‚±‚ê‚ÍHv[pcms]
+[ns]Shindou[nse]
+Oh, what's this?[pcms]
 
 *2122|
 [fc]
-‰´‚ª”»’f‚µ‚Ä‚Á‚Ä‚«‚½ƒI[ƒ_[ˆÈŠO‚Ì•¨‚ÉAV“¹æ¶[r]
-‚Í–Ú‚ğ—¯‚ß‚½B[pcms]
+Shindou-sensei's gaze fell upon something other than the[r]order I had decided and brought.[pcms]
 
 *2123|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤‚¢‚¤‚ÌA‚ ‚é‚Æ–ğ‚É—§‚Â‚©‚È‚Æv‚Á‚ÄA‚Á‚Ä‚«[r]
-‚½‚ñƒX‚¯‚Çcc‚¢‚è‚Ü‚¹‚ñ‚Å‚µ‚½Hv[pcms]
+[ns]Kato[nse]
+I thought it might come in handy to have something like[r]that, so I brought it...[l][er]
+but you don't need it?[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_d_04"]
 [ChrSetXY layer=1 x=180 y=0]
 [ChrSetParts layer=1 chface="risa_c_d_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v852|
 [fc]
 [vo_ri s="risa0252"]
-[ns]V“¹[nse]
-u‚¢‚¢‚¦A•‚©‚é‚íB‹C‚ª—˜‚­‚Ì‚Ëv[pcms]
+[ns]Shindou[nse]
+No, it's helpful. You're considerate, aren't you?[pcms]
 
 *2124|
 [fc]
-V“¹æ¶‚ªŠİ“c‚Ì‰‹}ˆ’u‚ğn‚ß‚Ä‚·‚®A‘‹‚É‰½‚©‚ª‚Ô[r]
-‚Â‚©‚é‰¹‚ª‚µ‚ÄARŠİ‚³‚ñ‚ª”ß–Â‚ğã‚°‚½B[pcms]
+As soon as Dr. Shindou started administering first aid to[r]Kishida, there was a sound of something hitting the window,[r]and Yamagishi-san let out a scream.[pcms]
 
-;//SE:ƒhƒA‚ğ’@‚­ƒ‹[ƒv
+;//SE:ãƒ‰ã‚¢ã‚’å©ããƒ«ãƒ¼ãƒ—
 [overflow_se storage="se027" loop=true]
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 [bgm008]
 
 [ChrSetEx layer=1 chbase="yuu_c_e_13"]
@@ -104,97 +103,93 @@
 [ChrSetParts layer=1 chface="yuu_c_e_14"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v853|
 [fc]
 [vo_ya s="yama0271"]
-[ns]RŠİ[nse]
-u‚«‚á‚ ‚ ‚ ‚ ‚ ‚ IIv[pcms]
+[ns]Yamagishi[nse]
+Kyaaaaaa!![pcms]
 
 *2125|
 [fc]
-[ns]‰Á“¡[nse]
-u‚È‚ÁIH@‰½‚¾Hv[pcms]
+[ns]Kato[nse]
+Huh!? What is it?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v854|
 [fc]
 [vo_ya s="yama0272"]
-[ns]RŠİ[nse]
-u‚ ‚ÁA‚ ‚êccIIv[pcms]
+[ns]Yamagishi[nse]
+Oh, that...!![pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std237|
 [fc]
-[ns]’|“à[nse]
-u‚±‚Á‚¿‚É‚à—ˆ‚½‚Ÿ‚ÁIv[pcms]
+[ns]Takeuchi[nse]
+They've come over here too![pcms]
 
 *2126|
 [fc]
-RŠİ‚³‚ñ‚ğP‚¨‚¤‚Æ‚µ‚½“z‚Æ‚Í•Ê‚ÌA‚â‚Í‚è¶‹C‚Ì‚È‚¢[r]
-–Ú‚ğ‚µ‚½’j‚ªA‰½‚©‚ğ™ï‚«‚È‚ª‚çA“ª‚ğ‘‹‚É‰½“x‚à‚Ô‚Â[r]
-‚¯‚Ä‚¢‚½B[pcms]
+A man with lifeless eyes, different from the one who tried[r]to attack Yamagishi-san, was repeatedly hitting his head[r]against the window while groaning something.[pcms]
 
 *2127|
 [fc]
-‚Ç‚¤‚â‚çA’†‚Ö“ü‚Á‚Ä‚±‚æ‚¤‚Æ‚µ‚Ä‚¢‚é‚æ‚¤‚¾B[r]
-‘_‚¢‚Í‚â‚Í‚èARŠİ‚³‚ñ‚È‚ñ‚¾‚ë‚¤‚©ccB[pcms]
+It seems like they're trying to get inside.[l][er]
+I wonder if their target is still Yamagishi-san...[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v855|
 [fc]
 [vo_ri s="risa0253"]
-[ns]V“¹[nse]
-u‰Á“¡ŒN’B‚ğP‚Á‚½‚Ì‚Á‚Äccv[pcms]
+[ns]Shindou[nse]
+Did they attack Kato-kun and the others...?[pcms]
 
 *2128|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚¢‚Â‚¶‚á‚È‚¢ƒX‚¯‚ÇA‚Å‚àA‚ ‚ ‚¢‚¤–Ú‚ğ‚µ‚½“z‚Å[r]
-‚·‚æB‚È‚ñ‚©Aƒ„ƒoƒC–ò‚Å‚à‚â‚Á‚Ä‚»‚¤‚Èccv[pcms]
+[ns]Kato[nse]
+It's not him, but he's the one with those eyes.[l][er]
+He seems like the type who would do some dangerous drugs or[r]something...[pcms]
 
-;//SE:ƒhƒA‚ğ’@‚­ƒ‹[ƒv@’â~
+;//SE:ãƒ‰ã‚¢ã‚’å©ããƒ«ãƒ¼ãƒ—ã€€åœæ­¢
 [stop_overflow_se]
 
 *2129|
 [fc]
-”–‹C–¡‚Ìˆ«‚³‚ÉA‰´’B‚ªŒ¾—t‚ğ¸‚Á‚½‚Ü‚ÜŒ©‚Â‚ß‚Ä‚¢‚é[r]
-‚ÆA’†‚Ö“ü‚é‚±‚Æ‚ğ’ú‚ß‚½‚æ‚¤‚ÅA’j‚Í‘‹‚ÌŠO‚©‚çp‚ğ[r]
-Á‚µ‚½B[pcms]
+The man seemed to give up on entering as we stared at him in[r]unease, and he disappeared from outside the window.[pcms]
 
 *2130|
 [fc]
-[ns]‰Á“¡[nse]
-ucc^–çA‘å¨‚¢‚½‚Á‚ÄA‚Ç‚Ì‚­‚ç‚¢‚¾Hv[pcms]
+[ns]Kato[nse]
+... Shinya, how many of them were there?[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std238|
 [fc]
-[ns]’|“à[nse]
-u‚í‚©‚ç‚È‚¢‚æA‚¿‚á‚ñ‚Æ”‚¦‚½‚í‚¯‚¶‚á‚È‚¢‚µccB[r]
-‚Å‚àA\l‚Æ‚©“ñ\l‚Á‚Ä”‚¶‚á‚È‚¢‚æv[pcms]
+[ns]Takeuchi[nse]
+I don't know, I didn't count them properly...[l][er]
+But it's not like there were ten or twenty of them.[pcms]
 
 *2131|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚ê‚¶‚áAŠO‚Öo‚é‚Ì‚ÍŠë‚È‚¢‚Èccv[pcms]
+[ns]Kato[nse]
+In that case, it's dangerous to go outside...[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_b_03"]
 [ChrSetXY layer=1 x=180 y=0]
@@ -202,9 +197,8 @@
 
 *2132|
 [fc]
-‰´‚Æ^–ç‚Ì‚â‚èæ‚è‚ğ•·‚¢‚ÄAV“¹æ¶‚Í‰½‚©‚ğl‚¦[r]
-‚Ş‚æ‚¤‚ÈŠç‚ğ‚µ‚Ä‚¢‚½B[pcms]
+After listening to my conversation with Shinya, Shindou-[r]sensei had a pensive expression on her face.[pcms]
 
-;//[02111]‚Ö
+;//[02111]ã¸
 [jump target=*02111_TOP storage="02111.ks"]
 

@@ -1,20 +1,20 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02081w‚»‚Á‚Æ‚µ‚Ä‚¨‚­x
-;//BG:‹’®ŠoºF–éF“_“”
-;//“oêl•¨GålŒöE—DEƒŠƒTE’|“àE“µ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02081ã€ãã£ã¨ã—ã¦ãŠãã€
+;//BG:è¦–è´è¦šå®¤ï¼šå¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»ç«¹å†…ãƒ»ç³
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02081_TOP
-;[debug_win]‚È‚¤@02081[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02081 = 1"]
+;[debug_win]ãªã†ã€€02081[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02081 = 1"]
 
-;*SceneSet|w‚»‚Á‚Æ‚µ‚Ä‚¨‚­x
+;*SceneSet|ã€ãã£ã¨ã—ã¦ãŠãã€
 
 ;//[02081]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//BG:bg015c
 ;//[bg storage="bg15c"]
@@ -22,37 +22,35 @@
 
 *1691|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨‘O‚ªŒ³‹C‚È‚¢‚©‚çA‰½‚©‚ ‚Á‚½‚Ì‚©‚È‚Á‚ÄA˜b‚µ‚Ä[r]
-‚½‚¾‚¯‚¾‚æv[pcms]
+[ns]Kato[nse]
+I just wanted to talk because you seemed down.[l][er]
+Did something happen?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v705|
 [fc]
 [vo_sa s="sae0086"]
-[ns]²”Œ[nse]
-ucc‰½‚àA‚ ‚è‚Ü‚¹‚ñv[pcms]
+[ns]Saeki[nse]
+... Nothing, happened.[pcms]
 
 *1692|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤‚©A‚È‚ç‚¢‚¢‚ñ‚¾v[pcms]
+[ns]Kato[nse]
+I see, then that's good.[pcms]
 
 *1693|
 [fc]
-²”Œ‚Í‚æ‚Á‚Û‚ÇQ‚Á‚Ä‚¢‚é‚æ‚¤‚ÅA‰´‚Í‹C‚Ì“Å‚Év‚¢n[r]
-‚ß‚Ä‚¢‚½B[pcms]
+Saeki seems really worn out, and I'm starting to feel sorry[r]for her.[pcms]
 
 *1694|
 [fc]
-‚±‚ñ‚È‚±‚Æ‚È‚çAOl‚Åè•ª‚¯‚µ‚Ä‚È‚ñ‚ÄŒ¾‚í‚È‚¢‚ÅA[r]
-‚İ‚ñ‚Èˆê‚É‘{‚µ‚És‚Á‚½•û‚ª—Ç‚©‚Á‚½‚ÈccB[pcms]
+If it's like this, instead of dividing the tasks among the[r]three of us, it would have been better if we all searched[r]together...[pcms]
 
-;//[02082]‚Ö
+;//[02082]ã¸
 [jump target=*02082_TOP storage="02082.ks"]
 

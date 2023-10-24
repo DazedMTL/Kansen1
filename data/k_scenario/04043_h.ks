@@ -1,37 +1,37 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN04043w’ú‚ßx
-;//BG:‰®ãF’©
-;//“oêl•¨GålŒöE—DE’|“àE“µE“c’†E•ü”üEƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04043ã€è«¦ã‚ã€
+;//BG:å±‹ä¸Šï¼šæœ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…ãƒ»ç³ãƒ»ç”°ä¸­ãƒ»æœ‹ç¾ãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *04043_H_TOP
-;[debug_win]‚È‚¤@04043_H[debug_win_end]
+;[debug_win]ãªã†ã€€04043_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 ;[if exp="tf.scene_mode == 0"][jump target=*04043][endif]
 ;[winset]
 
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *04043
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04043 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04043 = 1"]
 
-;*SceneSet|w’ú‚ßx
+;*SceneSet|ã€è«¦ã‚ã€
 
-;//flag:—Dƒ‹[ƒgƒtƒ[@badendibad‚Vj@•\¦
+;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€badendï¼ˆbadï¼—ï¼‰ã€€è¡¨ç¤º
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 
 ;//[bgm008]
 
@@ -40,48 +40,49 @@
 [bg storage="bg22d"]
 [trans_c cross time=500]
 
-;//SE:ƒwƒŠƒRƒvƒ^[‚Ì‰¹i‹ß‚¢j
+;//SE:ãƒ˜ãƒªã‚³ãƒ—ã‚¿ãƒ¼ã®éŸ³ï¼ˆè¿‘ã„ï¼‰
 [se0 storage="se034"]
 
 *v1932|
 [fc]
 [vo_ya s="yama0810"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒN‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun!![pcms]
 
 *4537|
 [fc]
-[ns]‰Á“¡[nse]
-u‚®‚¤‚£cc‚ÁIIv[pcms]
+[ns]Kato[nse]
+Guuuh...!![pcms]
 
 *4538|
 [fc]
-‰½‚¾IH@Œ‚‚½‚ê‚½IH@‰´‚ªIH@”M‚¢II@‘«II[r]
-‘«‚ªII@’É‚¢II@ƒNƒ\ƒbII@‰½‚ÅII@‚Ç‚¤‚È[r]
-‚Á‚Ä‚ñ‚¾IH@Œ‚‚½‚ê‚½II@G‚é‚ÈII@’É‚¦‚¥‚ÁII[pcms]
+What the!? I've been shot!? Me!?[l][er]
+It's hot!! My leg!! My leg hurts!![l][er]
+Damn it!! Why!? What's happening!?[l][er]
+I've been shot!! Don't touch me!![l][er]
+It hurts!![pcms]
 
 *v1933|
 [fc]
 [vo_ya s="yama0811"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒNII@‰Á“¡ŒN‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun!! Kato-kun!![pcms]
 
 *4539|
 [fc]
-[ns]‰Á“¡[nse]
-u‚®‚ÁI@‚ ‚ ‚Ÿ‚ŸIIv[pcms]
+[ns]Kato[nse]
+Guuuh... Aaahhh!![pcms]
 
 *4540|
 [fc]
-RŠİ‚³‚ñccII[r]
-‘‚­s‚©‚È‚«‚áccI[r]
-‚Å‚àA‘«‚ª“®‚©‚¹‚È‚¢ccB[pcms]
+Yamagishi-san...!! We need to go quickly...![l][er]
+But I can't move my legs...[pcms]
 
 *v1934|
 [fc]
 [vo_ya s="yama0812"]
-[ns]RŠİ[nse]
-u‚¨Šè‚¢cc‘‚­ccI@‘‚­—ˆ‚Ä‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+Please... hurry...! Come quickly!![pcms]
 
 [bg storage="bg22d"]
 [trans_c cross time=500]
@@ -90,155 +91,147 @@
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *4541|
 [fc]
-’É‚­‚ÄA‘«‚ª“®‚©‚È‚¢ccB[r]
-²”Œ‚Ìè‚ğA‚Ó‚è‚Ù‚Ç‚¯‚È‚¢ccB[pcms]
+It hurts, I can't move my legs...[l][er]
+I can't let go of Saeki's hand...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *4542|
 [fc]
-[ns]‰Á“¡[nse]
-u“¦‚°‚ÄccRŠİ‚³‚ñ‚¾‚¯‚Å‚àccv[pcms]
+[ns]Kato[nse]
+Run away... Yamagishi-san, at least you...[pcms]
 
 *v1935|
 [fc]
 [vo_ya s="yama0813"]
-[ns]RŠİ[nse]
-u‚â‚¾I@ˆê‚É‹A‚é‚Á‚Ä–ñ‘©‚µ‚½‚¶‚á‚È‚¢I@–ñ‘©‚â[r]
-‚Ô‚él‚È‚ñ‚ÄŒ™‚¢‚¾‚æII@”n­‚È–AŒ¾‚í‚È‚¢‚Å‚æIv[pcms]
+[ns]Yamagishi[nse]
+No way! We promised to go home together![l][er]
+I hate people who break promises!![l][er]
+Don't say stupid things![pcms]
 
 *v1936|
 [fc]
 [vo_ya s="yama0814"]
-[ns]RŠİ[nse]
-u‹A‚ë‚¤‚æccII@‚à‚¤A‹A‚ë‚¤IIv[pcms]
+[ns]Yamagishi[nse]
+Let's go home...!! Come on, let's go!![pcms]
 
 *4543|
 [fc]
-‚»‚¤‚¾cc•K‚¸ç‚é‚Á‚Äccˆê‚É‹A‚é‚Á‚Äcc–ñ‘©‚µ[r]
-‚½‚ñ‚¾ccB[pcms]
+That's right... We promised...[l][er]
+to protect each other... to go home together...[pcms]
 
 *4544|
 [fc]
-‰‚ß‚Ä‚Ìƒf[ƒg‚É‚Ç‚±‚És‚­‚©‚¾‚Á‚ÄA‚Ü‚¾Œˆ‚ß‚Ä‚È‚¢[r]
-‚Ì‚Écc‚±‚ñ‚È‚Æ‚±‚Åƒ‚ƒ^ƒ‚ƒ^‚µ‚Ä‚ç‚ê‚È‚¢ccI[pcms]
+We haven't even decided where to go on our first date yet...[l][er]
+We can't waste time like this...![pcms]
 
 *4545|
 [fc]
-ˆê‚Écc‚ ‚Ìq‚Æˆê‚É‹A‚é‚ñ‚¾‚ÁccII[pcms]
+Together... I'm going home with that child...!![pcms]
 
 *4546|
 [fc]
-[ns]‰Á“¡[nse]
-u‚®‚Ácc‚ ‚ ‚Ÿ‚Ÿ‚ÁIIv[pcms]
+[ns]Kato[nse]
+Guuuh... Aaahhh!![pcms]
 
 *4547|
 [fc]
-‰´‚Í•Ğ‘«‚ğ²”Œ‚Éˆø‚Á’£‚ç‚ê‚È‚ª‚çAc‚Á‚½è‘«‚Å‹­ˆø[r]
-‚É‘Ì‚ğã‚Öˆø‚«ã‚°‚½B[pcms]
+While Saeki pulled me by one leg, I forcefully pulled my[r]body up using my remaining limbs.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_d_d_12"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1937|
 [fc]
 [vo_sa s="sae0273"]
-[ns]²”Œ[nse]
-u‚í‚½A‚³A‚È‚¢cc‚íA‚½‚­A‚µA‚Ìcc‚à‚ÌA‚ÈA[r]
-‚Ì‚æccv[pcms]
+[ns]Saeki[nse]
+I... I can't... I can't let go...[l][er]
+of you...[pcms]
 
 *v1938|
 [fc]
 [vo_ya s="yama0815"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒNAƒnƒVƒS—ˆ‚½‚æII@‘‚­‚ ‚ª‚Á‚Ä‚«‚ÄIIv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun, I climbed the ladder!![l][er]
+Hurry up and come up!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *4548|
 [fc]
-RŠİ‚³‚ñ‚Ìº‚Éã‚ğŒ©‚é‚ÆA”Ş—‚ÍƒwƒŠ‚©‚ç~‚ë‚³‚ê‚½[r]
-“ê’òq‚É‚µ‚ª‚İ‚Â‚¢‚Ä‚¢‚½B[pcms]
+I looked up at Yamagishi-san's voice, and she was clinging[r]to the rope ladder that had been lowered from the[r]helicopter.[pcms]
 
 *4549|
 [fc]
-—Ç‚©‚Á‚½ccB[r]
-‚±‚ê‚ÅÅˆ«A”Ş—‚¾‚¯‚Í•‚©‚éccB[pcms]
+Thank goodness... With this, at least she will be saved from[r]the worst...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *4550|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚Áccv[pcms]
+[ns]Kato[nse]
+Ah...[pcms]
 
 *4551|
 [fc]
-RŠİ‚³‚ñ‚ªŠmÀ‚É•‚©‚Á‚½‚±‚Æ‚Å‹C‚ªŠÉ‚ñ‚¾‚¹‚¢‚©A‰´[r]
-‚Íè‚Ì—Í‚Ü‚ÅŠÉ‚ß‚Ä‚µ‚Ü‚Á‚Ä‚¢‚ÄA²”Œ’B‚É‰º‚Ü‚Åˆø‚«[r]
-‚¸‚è‰º‚ë‚³‚ê‚Ä‚µ‚Ü‚Á‚½B[pcms]
+Because I had relaxed my grip due to the relief of knowing[r]that Yamagishi-san was definitely saved, I had also loosened[r]my hand strength, and Saeki and the others ended up pulling[r]me down to the ground.[pcms]
 
 *v1939|
 [fc]
 [vo_ya s="yama0816"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒN‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun!![pcms]
 
 *4552|
 [fc]
-”w’†‚©‚ç‰®ã‚Ì°‚É—‚¿‚ÄA‹ó‚ğŒ©ã‚°‚é‚±‚Æ‚É‚È‚Á‚½[r]
-‰´‚ÍAŒƒ‚µ‚¢•—‚É—h‚ç‚³‚ê‚éƒwƒŠ‚ªA‹@‘Ì‚ğã¸‚³‚¹n[r]
-‚ß‚Ä‚¢‚é‚Ì‚É‹C‚ª‚Â‚¢‚½B[pcms]
+I fell from the rooftop to the floor below and found myself[r]looking up at the sky.[l][er]
+I noticed that the helicopter, which was being shaken by[r]strong winds, had started to ascend.[pcms]
 
 *4553|
 [fc]
-RŠİ‚³‚ñ‚à‚»‚ê‚É‹C‚ª‚Â‚¢‚½‚æ‚¤‚ÅA‹@‘Ì‚Ì‰¡‚©‚çg‚ğ[r]
-æ‚èo‚µ‚Ä‚¢‚é•ºm‚ÉŒü‚©‚Á‚ÄA‘åº‚Å‹©‚ñ‚Å‚¢‚éB[pcms]
+Yamagishi-san also seemed to have noticed that, and she was[r]leaning out from the side of the aircraft, shouting loudly[r]towards the soldier.[pcms]
 
 *v1940|
 [fc]
 [vo_ya s="yama0817"]
-[ns]RŠİ[nse]
-u‚â‚ÁA‘Ò‚Á‚ÄII@‚Ü‚¾‰Á“¡ŒN‚ªIIv[pcms]
+[ns]Yamagishi[nse]
+Wait!! Kato-kun is still...!![pcms]
 
-;//SE:ƒwƒŠƒRƒvƒ^[‚Ì‰¹i‹ß‚¢j
+;//SE:ãƒ˜ãƒªã‚³ãƒ—ã‚¿ãƒ¼ã®éŸ³ï¼ˆè¿‘ã„ï¼‰
 
 [se0 storage="se034"]
 
 *4554|
 [fc]
-RŠİ‚³‚ñ‚ÌŒÄ‚Ñ‚©‚¯‚à‹•‚µ‚­AƒwƒŠ‚Í‚Ç‚ñ‚Ç‚ñã¸‚µ‚Ä[r]
-‚¢‚«AŠwZ‚©‚ç—£‚ên‚ß‚½B[pcms]
+Yamagishi-san's call was in vain, and the helicopter[r]continued to ascend, moving further away from the school.[pcms]
 
 *v1941|
 [fc]
 [vo_ya s="yama0818"]
-[ns]RŠİ[nse]
-u‚¨Šè‚¢II@–ß‚Á‚ÄII@‚Ü‚¾‰Á“¡ŒN‚ª‚¢‚é‚ÌII@[r]
-‰Á“¡ŒN‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+Please!! Come back!! Kato-kun is still here!![l][er]
+Kato-kun!![pcms]
 
 *v1942|
 [fc]
 [vo_ya s="yama0819"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒN[[[[[[[[[II@‚¤‚í‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚Ÿ[r]
-‚Ÿ‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun!! Uwaaaaaaahhhhh!![pcms]
 
-;//SE:ƒwƒŠƒRƒvƒ^[‚Ì‰¹@‰“‚¢
+;//SE:ãƒ˜ãƒªã‚³ãƒ—ã‚¿ãƒ¼ã®éŸ³ã€€é ã„
 
 [se0 storage="se033"]
 
 *4555|
 [fc]
-²”Œ’B‚É‘Ì’†‚ğ‚Ü‚³‚®‚ç‚ê‚È‚ª‚çARŠİ‚³‚ñ‚Ìº‚Æp‚ª[r]
-‰“‚´‚©‚Á‚Ä‚¢‚­‚Ì‚ğA‰´‚Í•ğ‘R‚ÆŒ©‘—‚Á‚Ä‚¢‚½B[pcms]
+While being touched all over my body by Saeki and the[r]others, I watched in astonishment as Yamagishi-san's voice[r]and figure grew distant.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -247,7 +240,7 @@
 
 ;//blackout
 
-;//[04044]‚Ö
+;//[04044]ã¸
 [jump target=*04044_H_TOP storage="04044_H.ks"]
 
 

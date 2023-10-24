@@ -1,318 +1,301 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//;//¡ƒuƒƒbƒN0005w‰fŒ¤•”‚ÌŒÚ–âFƒŠƒT“oêx
-;//BGF—‰È€”õºF’‹
-;//;//“oêl•¨GålŒöE—DE“µE•ü”üE’|“àE“c’†EƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//;//â– ãƒ–ãƒ­ãƒƒã‚¯0005ã€æ˜ ç ”éƒ¨ã®é¡§å•ï¼šãƒªã‚µç™»å ´ã€
+;//BGï¼šç†ç§‘æº–å‚™å®¤ï¼šæ˜¼
+;//;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­ãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *0005_TOP
-;[debug_win]‚È‚¤@0005[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0005 = 1"]
+;[debug_win]ãªã†ã€€0005[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0005 = 1"]
 
-;*SceneSet|w‰fŒ¤•”‚ÌŒÚ–âx
+;*SceneSet|ã€æ˜ ç ”éƒ¨ã®é¡§å•ã€
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//;//BG:bg018a
 
-;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
+;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
 [bg storage="bg18a"]
 [trans_c cross time=500]
 ;/*
-;	;//;//SE:†‚ğ‚ß‚­‚é
+;	;//;//SE:ç´™ã‚’ã‚ãã‚‹
 ;	[se0 storage="se006"]
 ;*/
 
 *145a|
 [fc]
-[ns]‰Á“¡[nse]
-u‰f‰æŠÓÜ‰ïccHv[pcms]
+[ns]Kato[nse]
+A movie viewing party...?[pcms]
 
 *145|
 [fc]
-ŒÚ–â‚ÌV“¹æ¶‚©‚çè“n‚³‚ê‚½ƒvƒŠƒ“ƒg‚É‚ÍAü‚è‹C‚Ì[r]
-–³‚¢•¶š‚Å‚»‚¤ˆóü‚³‚ê‚Ä‚¢‚½B[pcms]
+The printout handed to me by advisor Shindou-sensei was[r]printed with simple, unadorned characters.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v40|
 [fc]
 [vo_ri s="risa0001"]
-[ns]V“¹[nse]
-u‚»‚¤B‰äX‰f‰æŒ¤‹†•”‚ÌA‰Ä‹x‚İ’†‚ÌŠˆ“®‚æv[pcms]
+[ns]Shindou[nse]
+Yes. It's the activity of our Film Research Club during[r]summer vacation.[pcms]
 
 *146|
 [fc]
-‚»‚Ì‰Ä‹x‚İ’†‚ÌŠˆ“®‚Æ‚ÍA”ªŒ‚ÌƒAƒ^ƒ}‚ÉŠwZ‚ÉW‚Ü‚Á[r]
-‚ÄAˆê”‘“ñ“úEH–•t‚«i‚½‚¾‚µ©†j‚Ì‰f‰æŠÓÜ‰ï‚ğ[r]
-s‚¤A‚Æ‚¢‚¤‚à‚Ì‚¾‚Á‚½B[pcms]
+The activity during summer vacation is to gather at school[r]at the beginning of August and hold a movie viewing party[r]for one night and two days with meals included (although we[r]have to cook ourselves).[pcms]
 
-;//;//SE:ƒKƒ^ƒb
+;//;//SE:ã‚¬ã‚¿ãƒƒ
 [se0 storage="se023"]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v41|
 [fc]
 [vo_sa s="sae0012"]
-[ns]²”Œ[nse]
-u‚ ‚Ìccæ¶ccv[pcms]
+[ns]Saeki[nse]
+Um... Sensei...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v42|
 [fc]
 [vo_sa s="sae0013"]
-[ns]²”Œ[nse]
-u•K‚¸h”‘‚µ‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‚Ì‚Å‚·‚©ccHv[pcms]
+[ns]Saeki[nse]
+Do we have to stay overnight for sure...?[pcms]
 
 *147|
 [fc]
-‚»‚¤¿–â‚µ‚½²”Œ‚ÌŠç‚Í•sˆÀ‚°‚¾B[pcms]
+Saeki's face, as she asked that question, looked anxious.[pcms]
 
 *148|
 [fc]
-‰´’B’j˜A’†‚ÍA•Ê‚É°‚ÅQ‚é‚±‚Æ‚É‚È‚Á‚Ä‚à\‚í‚È‚¢‚¯[r]
-‚ÇA—q‚É‚Í‚»‚¤‚¢‚¤ó‹µ‚Íh‚¢‚¾‚ë‚¤‚µ‚ÈB[pcms]
+We guys wouldn't mind sleeping on the floor or anything, but[r]it would be tough for the girls to be in that kind of[r]situation.[pcms]
 
 *149|
 [fc]
-‚µ‚©‚µA²”Œ‚àŒ‹\A—‚Ìq‚ç‚µ‚¢‚Æ‚±‚ ‚é‚ñ‚¾‚ÈB[pcms]
+However, Saeki also has quite a feminine side.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v43|
 [fc]
 [vo_ri s="risa0002"]
-[ns]V“¹[nse]
-uŠw‰€‚Åo‚µ‚Ä‚¢‚é’ÊŠwƒoƒX‚Í–é˜Z‚ÅI‚í‚è‚¾‚µA[r]
-‹Ù‹}‚Ìê‡ˆÈŠO‚É‚ÍA‹³t‚ª©•ª‚ÌÔ‚É¶“k‚ğæ‚¹‚Ä‚Í[r]
-‚¢‚¯‚È‚¢‚±‚Æ‚É‚È‚Á‚Ä‚¢‚é‚Ì‚æv[pcms]
+[ns]Shindou[nse]
+The school's commuter bus service ends at 6 PM, and teachers[r]are not allowed to give students rides in their cars except[r]in case of emergencies.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *150|
 [fc]
-•Ï‚È‰\‚ª‚½‚Á‚½‚ç¢‚éA‚Æ‚¢‚¤‚±‚Æ‚©‚ÈccB[pcms]
+I guess it means they would be troubled if strange rumors[r]started spreading...[pcms]
 
 *151|
 [fc]
-‚»‚ê‚Å‚àA‘Šè‚ªV“¹æ¶‚È‚ç‹t‚É‰\‚É‚È‚è‚½‚¢A[r]
-‚Æl‚¦‚é’jq¶“k‚Í‘½‚»‚¤‚¾B[pcms]
+However, if the person is Shindou-sensei, there are probably[r]many male students who would actually want to become the[r]subject of rumors.[pcms]
 
 *152|
 [fc]
-V“¹æ¶‚ÍŒµ‚µ‚¢‚±‚Æ‚Å’m‚ç‚ê‚Ä‚¢‚é‚¯‚ÇA‚·‚²‚¢”ül[r]
-‚ÅƒXƒ^ƒCƒ‹‚à‚¢‚¢‚©‚çA‚¢‚¶‚ß‚ç‚ê‚½‚¢Šè–]‚Ì‚ ‚é’jq[r]
-‚É‚Íâ‘å‚Èl‹C‚ğŒÖ‚Á‚Ä‚¢‚éB[pcms]
+Shindou-sensei is known for being strict, but she is[r]incredibly beautiful and has a great figure, so she is[r]extremely popular among boys who have a desire to be[r]bullied.[pcms]
 
 *153|
 [fc]
-‰´‚É‚Í‚l“I‚ÈŠè–]‚Í‚È‚¢B[pcms]
+I don't have any masochistic desires.[pcms]
 
 *154|
 [fc]
-‚Å‚àˆê“x‚ÍV“¹æ¶‚İ‚½‚¢‚È‘ål‚Ì—‚Æ‚Â‚«‚ ‚Á‚Ä‚İ‚½[r]
-‚¢A‚Æ‚¢‚¤Šè–]‚Í‚ ‚éB[pcms]
+But I do have a desire to date an adult woman like Shindou-[r]sensei at least once.[pcms]
 
 *155|
 [fc]
-V“¹æ¶‚ª©•ª‚Ì—öl‚É‘I‚Ô‚æ‚¤‚È’j‚Á‚ÄAˆê‘Ì‚Ç‚ñ‚È[r]
-‚â‚Â‚¾‚ë‚¤B‚«‚Á‚Æ‰´‚İ‚½‚¢‚ÈƒKƒL‚¶‚á‚È‚¢A[r]
-‚s‚ˆ‚…E‘ål‚Á‚ÄƒJƒ“ƒW‚Ì’j‚È‚ñ‚¾‚ë‚¤‚ÈccB[pcms]
+I wonder what kind of guy Shindou-sensei would choose as her[r]boyfriend.[l][er]
+He's definitely not someone like me, a kid.[l][er]
+He must be a man who gives off a mature vibe...[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v44|
 [fc]
 [vo_ri s="risa0003"]
-[ns]V“¹[nse]
-uH–‚ÉŠÖ‚µ‚Ä‚Å‚·‚ªA‰f‰æŒ¤‹†•”‚ÍA‘nİ‚³‚ê‚Ä‚Ü‚¾[r]
-ŠÔ‚à‚È‚¢•”Šˆ“®‚Å‚·B•”ˆõ“¯m‚Ìe–r‚ğ[‚ß‚éˆÓ–¡‚Å‚à[r]
-‹M•û‚½‚¿‚İ‚ñ‚È‚Å—pˆÓ‚µ‚Ä‚İ‚Ä‚Í‚Ç‚¤Hv[pcms]
+[ns]Shindou[nse]
+Regarding meals, the Film Research Club is a newly[r]established club.[l][er]
+How about all of you prepare together as a way to deepen the[r]bond between club members?[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_a_a_01"]
 [ChrSetXY layer=1 x=160 y=0]
 [ChrSetParts layer=1 chface="tanaka_a_a_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std27|
 [fc]
-[ns]“c’†[nse]
-u‚°[AƒƒV©•ª‚Åì‚ñ‚Ì‚©[ccB‰´Aì‚ê‚Ë[‚æv[pcms]
+[ns]Tanaka[nse]
+Ugh, do we have to cook our own meals...?[l][er]
+I can't cook.[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v45|
 [fc]
 [vo_to s="tomo0006"]
-[ns]ŒÜ\—’[nse]
-uS”z‚µ‚È‚­‚Ä‚àA‚ ‚½‚µ‚ªì‚Á‚Ä‚ ‚°‚é‚æv[pcms]
+[ns]Igarashi[nse]
+Don't worry, I'll make it for you.[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_a_a_01"]
 [ChrSetXY layer=1 x=160 y=0]
 [ChrSetParts layer=1 chface="tanaka_a_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std28|
 [fc]
-[ns]“c’†[nse]
-uƒzƒ“ƒgH@ƒgƒ‚ƒ~ƒ“‚Ìè—¿—H‚¦‚ñ‚ÌIH[r]
-ƒIƒŒAŠğ‚µ‚­‚Ä‹ƒ‚«‚»‚¤ccƒEƒDƒbccv[pcms]
+[ns]Tanaka[nse]
+Really? I can't eat Tomomin's homemade cooking!?[l][er]
+I'm so happy, I could cry... Ugh...[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v46|
 [fc]
 [vo_to s="tomo0007"]
-[ns]ŒÜ\—’[nse]
-u‚â‚¾‚ŸA‚à‚¤ôv[pcms]
+[ns]Igarashi[nse]
+No way, alreadyâ™ª[l][er]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v47|
 [fc]
 [vo_sa s="sae0014"]
-[ns]²”Œ[nse]
-u”n­‚İ‚½‚¢ccv[pcms]
+[ns]Saeki[nse]
+This is ridiculous...[pcms]
 
 *156|
 [fc]
-²”Œ‚Ì¬‚³‚È™ê‚«‚ÍAˆ¤‚µ‡‚¤“ñl‚É‚Í‚Ç‚¤‚â‚ç•·‚±‚¦[r]
-‚È‚©‚Á‚½‚æ‚¤‚¾B[pcms]
+It seems that Saeki's small murmurs were not heard by the[r]two who love each other.[pcms]
 
 *157|
 [fc]
-²”Œ‚¾‚¯‚¶‚á‚È‚­A‚ ‚Ì“ñl‚ğæ‚èŠª‚­ƒsƒ“ƒNF‚Ì‹ó‹C[r]
-‚É‚ÍA‚İ‚ñ‚È‚à‚¤H‹C–¡‚¾‚ë‚¤B[pcms]
+Everyone must be tired of the pink atmosphere surrounding[r]not only Saeki, but also those two.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v48|
 [fc]
 [vo_ya s="yama0024"]
-[ns]RŠİ[nse]
-u‰f‰æ‚Ìƒ^ƒCƒgƒ‹‚ª‘‚©‚ê‚Ä‚È‚¢‚ñ‚Å‚·‚¯‚ÇA[r]
-‚Ç‚ñ‚È‚à‚Ì‚ğŠÏ‚é‚ñ‚Å‚·‚©Hv[pcms]
+[ns]Yamagishi[nse]
+The movie title isn't written, so what kind of movie are we[r]going to watch?[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_b_03"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v49|
 [fc]
 [vo_ri s="risa0004"]
-[ns]V“¹[nse]
-u‚²‚ß‚ñ‚È‚³‚¢A‚Ü‚¾‘I‚ñ‚Å‚È‚¢‚ÌB[r]
-‹}‚ÉŒˆ‚Ü‚Á‚½‚±‚Æ‚¾‚Á‚½‚©‚çccv[pcms]
+[ns]Shindou[nse]
+I'm sorry, I haven't chosen yet.[l][er]
+It was a sudden decision...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v50|
 [fc]
 [vo_sa s="sae0015"]
-[ns]²”Œ[nse]
-uccH@‚±‚ê‚ÍAæ¶‚ªl‚¦‚½Šé‰æ‚Å‚Í‚È‚¢‚Ì‚Å‚·‚©Hv[pcms]
+[ns]Saeki[nse]
+...? Is this not a plan that the teacher came up with?[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v51|
 [fc]
 [vo_ri s="risa0005"]
-[ns]V“¹[nse]
-ucc–é’†‚ÉŠwZ‚ğg‚¤‚©‚çA‰‚ß‚Í‹–‰Â‚ª‰º‚è‚È‚©‚Á[r]
-‚½‚Ì‚æB‚»‚ê‚ª“Ë‘RA‹–‰Â‚³‚ê‚½‚Ìv[pcms]
+[ns]Shindou[nse]
+... At first, we weren't given permission to use the school[r]in the middle of the night.[l][er]
+But suddenly, it was granted.[pcms]
 
 *158|
 [fc]
-–é’†‚ÉŠwZ‚ğg‚Á‚Ä‚¢‚Ä¶“k‚É‰½‚©‚ ‚Á‚½‚çA[r]
-‘S•”ŠwZ‚ÌÓ”C‚Á‚Ä‚±‚Æ‚É‚È‚é‚ñ‚¾‚ë‚¤‚©‚çA[r]
-‹–‰Â‚ª‰º‚è‚È‚©‚Á‚½‚Ì‚à”[“¾‚ª‚¢‚­B[pcms]
+It's understandable that permission wasn't granted since if[r]something were to happen to the students while using the[r]school in the middle of the night, the school would be held[r]responsible for everything.[pcms]
 
 *159|
 [fc]
-‚½‚¾‚Å‚³‚¦AÅ‹ß‚Í‚Ç‚±‚à‚©‚µ‚±‚à•¨‘›‚¾‚µB[r]
-‚»‚ê‚È‚Ì‚ÉA‚È‚ñ‚Å‹}‚É‹–‰Â‚³‚ê‚½‚ñ‚¾ccH[pcms]
+Not only that, but everywhere has been dangerous lately.[l][er]
+And yet, why was permission suddenly granted...?[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_b_03"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v52|
 [fc]
 [vo_ri s="risa0006"]
-[ns]V“¹[nse]
-u“ú’ö‚à‹}‚¢‚ÅŒˆ‚ß‚½‚à‚Ì‚¾‚©‚çA—\’è‚ªd‚È‚Á‚Ä‚¢‚é[r]
-‚æ‚¤‚Å‚ ‚ê‚ÎA•sQ‰Á‚Å‚à\‚¢‚Ü‚¹‚ñB‘¼‚É¿–â‚ÍHv[pcms]
+[ns]Shindou[nse]
+Since the schedule was decided in a hurry, if there are any[r]conflicts with your plans, it's okay if you don't[r]participate.[l][er]
+Any other questions?[pcms]
 
 *160|
 [fc]
-‚ß‚¢‚ß‚¢‚Éñ‚ğ‰¡‚ÉU‚é‰´’B‚ğ‚İ‚ÄAV“¹æ¶‚ÍŒy‚­‚¤[r]
-‚È‚¸‚¢‚ÄAÅŒã‚Éw¦‚ğo‚µ‚½B[pcms]
+As we each shook our heads, Shindou-sensei nodded lightly[r]and gave us final instructions.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v53|
 [fc]
 [vo_ri s="risa0007"]
-[ns]V“¹[nse]
-uQ‰Á‚·‚él‚à‚µ‚È‚¢l‚àA¡“ú‚©‚çˆêTŠÔŒã‚Ü‚Å‚ÉA[r]
-‚»‚Ì|‚ğ’¼Ú‚©AƒvƒŠƒ“ƒg‚É‘‚¢‚Ä‚ ‚é”Ô†‚É“d˜b‚ğ‚µ[r]
-‚ÄA„‚É“`‚¦‚È‚³‚¢BˆÈãv[pcms]
+[ns]Shindou[nse]
+Whether you are participating or not, please directly inform[r]me or call the number written on the printout to let me know[r]by one week from today.[l][er]
+That's all.[pcms]
 
-;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 [jump target=*0006_TOP storage="0006.ks"]
 

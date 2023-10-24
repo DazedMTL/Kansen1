@@ -1,31 +1,31 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02171wŒÂº‚Å—D‚Æ‚Qx
-;//BG:•aºF—[•û
-;//“oêl•¨GålŒöE—D
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02171ã€å€‹å®¤ã§å„ªã¨ï¼’ã€
+;//BG:ç—…å®¤ï¼šå¤•æ–¹
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02171_H_TOP
-;[debug_win]‚È‚¤@02171_H[debug_win_end]
+;[debug_win]ãªã†ã€€02171_H[debug_win_end]
 
 [eval exp="sf.SRP10 = 1"][if exp="tf.scene_mode == 0"][jump target=*02171_H][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 *02171_H
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02171 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02171 = 1"]
 
-;*SceneSet|wŒÂº‚Å—D‚Æ‚Qx
+;*SceneSet|ã€å€‹å®¤ã§å„ªã¨ï¼’ã€
 
 
 ;;;[sysbt_meswin clear]
 
 *scene_start
 
-;//ôFBGM011
+;//â™ªï¼šBGM011
 [bgm011]
 
 ;//H_CG:
@@ -37,21 +37,20 @@
 
 *3092|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1202|
 [fc]
 [vo_ya s="yama0483"]
-[ns]RŠİ[nse]
-uccv[pcms]
+[ns]Yamagishi[nse]
+â€¦â€¦[l][er]
 
 *3093|
 [fc]
-‰´‚Æ—D‚ÌO‚ÍA‚¨Œİ‚¢‚É‹z‚¢Šñ‚¹‚ç‚ê‚é‚æ‚¤‚É‹ß‚Ã‚«A[r]
-Œy‚­G‚ê‚½B[pcms]
+Our lips, mine and Yuu's, drew closer to each other as if[r]being pulled together, and lightly touched.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -64,29 +63,27 @@
 
 *3094|
 [fc]
-ˆê“x—£‚ê‚½—D‚ÌO‚ğA‰´‚Í”Ş—‚Ì‘Ì‚²‚Æˆø‚«Šñ‚¹‚ÄA©[r]
-•ª‚ÌO‚ğ¡“x‚Í‚µ‚Á‚©‚è‚Æd‚Ë‚½B[pcms]
+I pulled Yuu's lips, which had once separated, closer to me[r]along with her body, and firmly pressed my own lips against[r]hers this time.[pcms]
 
 *v1203|
 [fc]
 [vo_ya s="yama0484"]
-[ns]RŠİ[nse]
-u‚ñ‚Ácc‚ñ‚£ccv[pcms]
+[ns]Yamagishi[nse]
+Mmm... Nngh...[pcms]
 
 *3095|
 [fc]
-ãæ‚ğO‚Ì’†‚ÖŠŠ‚è‚Ü‚¹‚ÄA—D‚Ìã‚É”‡‚í‚¹‚éB[pcms]
+I let my tongue slip into her lips and trace it along Yuu's[r]tongue.[pcms]
 
 *v1204|
 [fc]
 [vo_ya s="yama0485"]
-[ns]RŠİ[nse]
-u‚ñ‚ñ‚Áccv[pcms]
+[ns]Yamagishi[nse]
+Mmm...[pcms]
 
 *3096|
 [fc]
-‚¨Œİ‚¢‚Ìãæ‚ğ‚µ‚Î‚ç‚­C‚èŠñ‚¹‡‚Á‚ÄAÉ‚µ‚İ‚Â‚ÂA[r]
-‰´’B‚ÍO‚ğ—£‚µ‚½B[pcms]
+We rubbed our tongues against each other for a while,[r]reluctantly, and then we separated our lips.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -100,223 +97,216 @@
 *v1205|
 [fc]
 [vo_ya s="yama0486"]
-[ns]RŠİ[nse]
-u‚Ó‚Ÿcc‚Í‚Ÿccv[pcms]
+[ns]Yamagishi[nse]
+Fah... haa...[pcms]
 
 *3097|
 [fc]
-•ø‚«Šñ‚¹‚Ä‚¢‚é—D‚Ì‘Ì‚ÍAS‚È‚µ‚©A‚³‚Á‚«‚æ‚è‚à”M‚ğ[r]
-‘Ñ‚Ñ‚Ä‚¢‚é‚æ‚¤‚ÉŠ´‚¶‚ç‚ê‚½B[pcms]
+Yuu's body, which I was embracing, seemed to be radiating[r]even more heat than before.[pcms]
 
 *3098|
 [fc]
-‚»‚µ‚Ä‚»‚Ì”M‚ª“`‚í‚Á‚½‚©‚Ì‚æ‚¤‚ÉA”Ş—‚Ì–Ú‚ª”M‚­[r]
-‚ñ‚Å‚¢‚½B[pcms]
+And as if that heat had been transmitted, her eyes were hot[r]and moist.[pcms]
 
 *v1206|
 [fc]
 [vo_ya s="yama0487"]
-[ns]RŠİ[nse]
-u‚ ‚ÌA‚Ëccv[pcms]
+[ns]Yamagishi[nse]
+Um, you see...[pcms]
 
 *3099|
 [fc]
-[ns]‰Á“¡[nse]
-u‚È‚ÉHv[pcms]
+[ns]Kato[nse]
+What?[pcms]
 
 *v1207|
 [fc]
 [vo_ya s="yama0488"]
-[ns]RŠİ[nse]
-u„‚à‰Á“¡‚­‚ñ‚Ì‚±‚ÆA–¼‘O‚ÅŒÄ‚ñ‚Å‚à‚¢‚¢ccHv[pcms]
+[ns]Yamagishi[nse]
+Can I also call you by your name, Kato-kun...?[pcms]
 
 *3100|
 [fc]
-[ns]‰Á“¡[nse]
-u‚à‚¿‚ë‚ñccv[pcms]
+[ns]Kato[nse]
+Of course...[pcms]
 
 *v1208|
 [fc]
 [vo_ya s="yama0489"]
-[ns]RŠİ[nse]
-u‚¤‚Ó‚Ócc‘×”Vcc‚­‚ñv[pcms]
+[ns]Yamagishi[nse]
+Hehe... Taishi...  kun[pcms]
 
 *3101|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤cc‚¿‚å‚Á‚ÆÆ‚ê‚é‚¯‚Çcc‚Å‚àAŠğ‚µ‚¢‚æv[pcms]
+[ns]Kato[nse]
+Ugh... I'm a little embarrassed, but...[l][er]
+I'm happy.[pcms]
 
 *v1209|
 [fc]
 [vo_ya s="yama0490"]
-[ns]RŠİ[nse]
-u‘×”V‚­‚ñccv[pcms]
+[ns]Yamagishi[nse]
+Taishi-kun...[pcms]
 
 *3102|
 [fc]
-[ns]‰Á“¡[nse]
-u—Dccv[pcms]
+[ns]Kato[nse]
+Yuu...[pcms]
 
 *3103|
 [fc]
-‰´‚½‚¿‚Í‚Ç‚¿‚ç‚©‚ç‚Æ‚à‚È‚­AÄ‚ÑO‚ğd‚Ë‚½B‚³‚Á‚«[r]
-‚æ‚è‚à‚à‚Á‚Æ”ZŒú‚ÈƒLƒXB[pcms]
+We pressed our lips together once again, as if drawn to each[r]other.[l][er]
+A kiss even more intense than before.[pcms]
 
 *3104|
 [fc]
-ã‚ğ—‚Ü‚¹‚ ‚¢A‘Á‰t‚ğŒğŠ·‚µAO‚Å‚¨Œİ‚¢‚Ìˆ¤î‚ğ‘Š[r]
-è‚É—¬‚µ‚İA‚»‚ê‚ğŠm”F‚µ‚ ‚¤‚æ‚¤‚ÈƒLƒXB[pcms]
+A kiss where our tongues entwine, exchanging saliva, and[r]pouring our love into each other's lips, confirming it in[r]the process.[pcms]
 
 *v1210|
 [fc]
 [vo_ya s="yama0491"]
-[ns]RŠİ[nse]
-u‚ñ‚£cc‚ñ‚ñ‚Áccv[pcms]
+[ns]Yamagishi[nse]
+Mmm... nnn...[pcms]
 
 *3105|
 [fc]
-D‚«‚Èl‚Æ‚ÌƒLƒX‚ªA‚±‚ñ‚È‚É‚àK‚¹‚ğŠ´‚¶‚³‚¹‚é‚à‚Ì[r]
-‚¾‚Á‚Ä‚±‚Æ‚ğA‰´‚Í¶‚Ü‚ê‚Ä‚Í‚¶‚ß‚Ä’m‚Á‚½B[pcms]
+I realized for the first time in my life how a kiss with[r]someone you love can make you feel so happy.[pcms]
 
 *v1211|
 [fc]
 [vo_ya s="yama0492"]
-[ns]RŠİ[nse]
-u‚Í‚¤‚Ácc‚ñ‚Õ‚Áccv[pcms]
+[ns]Yamagishi[nse]
+Hau... npu...[pcms]
 
 *3106|
 [fc]
-‚»‚ê‚Í—D‚à“¯‚¶‚È‚ñ‚¶‚á‚È‚¢‚¾‚ë‚¤‚©B[r]
-‰´‚ÌO‚ğî”M“I‚É‹‚ß‚Ä‚¢‚éA—D‚Ì¬‚³‚È_‚ç‚©‚¢OB[pcms]
+I wonder if Yuu feels the same way.[l][er]
+Seeking my lips passionately, Yuu's small and soft lips.[pcms]
 
 *3107|
 [fc]
-Œİ‚¢‚ÌO‚ğˆø‚«—£‚·‚Ì‚É‚ÍA‘Š“–“w—Í‚ª‚¢‚Á‚½B[r]
-‚×‚è‚×‚è‚Æ‰¹‚ª‚·‚é‚ñ‚¶‚á‚È‚¢‚¾‚ë‚¤‚©A‚Æv‚¤‚Ù‚Ç‚É[r]
-ƒLƒX‚Ì¥—Í‚Í‹­‚©‚Á‚½B[pcms]
+The effort required to separate our lips was considerable.[l][er]
+The magnetic force of the kiss was so strong that I thought[r]I could hear a squeaking sound.[pcms]
 
 *v1212|
 [fc]
 [vo_ya s="yama0493"]
-[ns]RŠİ[nse]
-u‚Í‚Ÿcc‚ ‚Áccv[pcms]
+[ns]Yamagishi[nse]
+Haa... Ah...[pcms]
 
 *3108|
 [fc]
-‚È‚²‚èÉ‚µ‚»‚¤‚É‰´‚ÌO‚©‚ç—£‚ê‚½—D‚ÌO‚ªA‰´‚Ì¨Œ³[r]
-‚Å‚³‚³‚â‚­B[pcms]
+Yamagishi's lips, reluctantly parting from mine, whispered[r]in my ear.[pcms]
 
 *v1213|
 [fc]
 [vo_ya s="yama0494"]
-[ns]RŠİ[nse]
-u‘×”V‚­‚ñccv[pcms]
+[ns]Yamagishi[nse]
+Taishi-kun...[pcms]
 
 *3109|
 [fc]
-[ns]‰Á“¡[nse]
-u‚È‚ÉccHv[pcms]
+[ns]Kato[nse]
+What...?[pcms]
 
 *v1214|
 [fc]
 [vo_ya s="yama0495"]
-[ns]RŠİ[nse]
-u„‚Ëcc–{“–‚ÉA¶‚«c‚ê‚Ä‚æ‚©‚Á‚½‚È‚Á‚Äccv[pcms]
+[ns]Yamagishi[nse]
+You know... I really feel thankful that I was able to[r]survive...[pcms]
 
 *3110|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ A‰´‚à‚¾‚æccv[pcms]
+[ns]Kato[nse]
+Ah, me too...[pcms]
 
 *v1215|
 [fc]
 [vo_ya s="yama0496"]
-[ns]RŠİ[nse]
-u‚¤‚¤‚ñA‚»‚¤‚¶‚á‚È‚­‚Á‚Äccv[pcms]
+[ns]Yamagishi[nse]
+No, it's not like that...[pcms]
 
 *3111|
 [fc]
-‚ÆŒ¾‚Á‚ÄA—D‚Í‚¿‚å‚Á‚Æ’p‚¸‚©‚µ‚»‚¤‚É‚¤‚Â‚Ş‚¢‚½B[r]
-‚»‚Ì–j‚ªAS‚È‚µ‚©Ô‚­‚È‚Á‚Ä‚¢‚éB[r]
-—D‚ª‰´‚Ì¨Œ³‚ÅŒ¾—t‚ğ‘±‚¯‚½B[pcms]
+Yamagishi: And saying that, Yuu looked a little embarrassed[r]as she lowered her head.[l][er]
+Her cheeks, somehow, seemed to be turning red.[l][er]
+Yuu continued speaking in my ear.[pcms]
 
 *v1216|
 [fc]
 [vo_ya s="yama0497"]
-[ns]RŠİ[nse]
-u‚ ‚Ìl‚½‚¿‚ÉP‚í‚ê‚È‚¢‚ÅA‚«‚ê‚¢‚Èç[‚Ì‚Ü‚Ü‘×”V‚­[r]
-‚ñ‚Æ–ß‚Á‚Ä‚±‚ê‚Äcc‚æ‚©‚Á‚½‚È‚Á‚Äccv[pcms]
+[ns]Yamagishi[nse]
+I'm glad that I was able to come back to you, Taishi-kun,[r]without being attacked by those people and still have my[r]beautiful body intact...[l][er]
+thank goodness...[pcms]
 
 *3112|
 [fc]
-—D‚ÍA¨‚½‚Ô‚Ü‚Å^‚ÁÔ‚É‚È‚Á‚Ä‚¢‚½B[pcms]
+Yuu's cheeks were bright red, even up to her earlobes.[pcms]
 
 *v1217|
 [fc]
 [vo_ya s="yama0498"]
-[ns]RŠİ[nse]
-u‚¾‚Á‚Äcc‚Í‚¶‚ß‚Ä‚ÍAâ‘Î‚Éâ‘Î‚ÉD‚«‚Èl‚Æcc[r]
-‚Á‚Äcc‚»‚¤v‚Á‚Ä‚½‚©‚çccv[pcms]
+[ns]Yamagishi[nse]
+Because... I thought that my first time would definitely,[r]definitely be with someone I love...[pcms]
 
 *3113|
 [fc]
-—D‚Ì‹C‚¿‚ª’É‚¢‚Ù‚Ç“`‚í‚éB‚Æ“¯‚ÉA‚±‚êˆÈã—‚Ì[r]
-q‚ÉŒ¾‚í‚¹‚¿‚á‚¢‚¯‚È‚¢B[r]
-‰´‚à“¯‚¶‚±‚Æ‚ğl‚¦‚Ä‚é‚ñ‚¾‚©‚çB[pcms]
+Yuu's feelings are conveyed so strongly that it hurts.[l][er]
+At the same time, I shouldn't let her say any more.[l][er]
+Because I'm thinking the same thing too.[pcms]
 
 *3114|
 [fc]
-‚½‚Ô‚ñA‚¢‚Ü—D‚Í‚Ä‚é—E‹C‚ğ‘“®ˆõ‚µ‚Ä‰´‚É“`‚¦‚Ä‚é[r]
-‚Ì‚Éˆá‚¢‚È‚¢‚©‚çB[pcms]
+She must be mustering up all her courage right now to convey[r]her feelings to me, without a doubt.[pcms]
 
 *3115|
 [fc]
-¡‚±‚»A‰´‚Ì‹C‚¿‚ğA‘f’¼‚ÉŒû‚É‚·‚é‚Æ‚«‚¾B[pcms]
+Now is the time for me to honestly express my feelings.[pcms]
 
 *3116|
 [fc]
-—D‚ÌŒû‚©‚ç“`‚¦‚ç‚ê‚é‘O‚ÉB[pcms]
+Before Yuu can convey her feelings.[pcms]
 
 *3117|
 [fc]
-[ns]‰Á“¡[nse]
-u—Dcc‰´A—D‚ª—~‚µ‚¢B—D‚ğcc•ø‚«‚½‚¢B—D‚ğA—D[r]
-‚ÌS‚àAç[‚àcc‚Ü‚é‚²‚Æ‘S•”A‰´‚Ì‚à‚Ì‚É‚µ‚½‚¢cc[r]
-v[pcms]
+[ns]Kato[nse]
+Yuu... I want you. I want to hold you...[l][er]
+I want all of you, your heart and body...[l][er]
+I want to make them all mine...[pcms]
 
 *v1218|
 [fc]
 [vo_ya s="yama0499"]
-[ns]RŠİ[nse]
-u‚¤‚ñccv[pcms]
+[ns]Yamagishi[nse]
+Yeah...[pcms]
 
 *3118|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¢‚¢ccHv[pcms]
+[ns]Kato[nse]
+Is it...?[pcms]
 
 *v1219|
 [fc]
 [vo_ya s="yama0500"]
-[ns]RŠİ[nse]
-uŠğ‚µ‚¢A‘×”V‚­‚ñccv[pcms]
+[ns]Yamagishi[nse]
+I'm happy, Taishi-kun...[pcms]
 
 *3119|
 [fc]
-[ns]‰Á“¡[nse]
-u—Dccv[pcms]
+[ns]Kato[nse]
+Yuu...[pcms]
 
 *v1220|
 [fc]
 [vo_ya s="yama0501"]
-[ns]RŠİ[nse]
-u‘×”V‚­‚ñcc„‚ğcc‘S•”A‘×”V‚­‚ñ‚Ì‚à‚Ì‚É‚µ‚Äccv[pcms]
+[ns]Yamagishi[nse]
+Taishi-kun... Make me... all yours, Taishi-kun...[pcms]
 
 *3120|
 [fc]
-‚»‚¤Œ¾‚Á‚ÄA—D‚Í’…‚Ä‚¢‚é•¨‘S‚Ä‚ğæ‚è•¥‚Á‚½B[pcms]
+Yuu said that and took off all the clothes she was wearing.[pcms]
 
-;//[02172]‚Ö
+;//[02172]ã¸
 [jump target=*02172_H_TOP storage="02172_H.ks"]
 
 

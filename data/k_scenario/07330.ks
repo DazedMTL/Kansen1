@@ -1,16 +1,16 @@
 
-;//¡ËƒuƒƒbƒN07330wƒŠƒT‚ğ•ú’ux
-;//BG:“ñ‰ñ˜L‰ºF—[•ûFÁ“”
-;//“oêl•¨GålŒöE“µEŠ´õƒŠƒT
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07330ã€ãƒªã‚µã‚’æ”¾ç½®ã€
+;//BG:äºŒå›å»Šä¸‹ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»æ„ŸæŸ“ãƒªã‚µ
 
 *07330_TOP
-;[debug_win]‚È‚¤@07330[debug_win_end]
-;*SceneSet|wƒŠƒT‚ğ•ú’ux
+;[debug_win]ãªã†ã€€07330[debug_win_end]
+;*SceneSet|ã€ãƒªã‚µã‚’æ”¾ç½®ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07330 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07330 = 1"]
 ;	/*
-;	;//flag:“µƒ‹[ƒgƒtƒ[@‚P‚U@•\¦
-;	;//ôFBGM009
+;	;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼‘ï¼–ã€€è¡¨ç¤º
+;	;//â™ªï¼šBGM009
 ;	[bgm009]
 ;	*/
 ;//;//BG:bg06b
@@ -26,238 +26,231 @@
 
 ;;;[sysbt_meswin]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3293|
 [fc]
 [vo_sa s="sae1091"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñIH@”Ş‚ç‚ª’Ç‚¢‚Â‚¢‚Ä—ˆ‚«‚Ä‚µ‚Ü‚¢‚Ü‚·I[r]
-‘‚­IIv[pcms]
+[ns]Saeki[nse]
+Kato-san!? They're catching up![l][er]
+Hurry!![pcms]
 
 *8210|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ccA‚ ‚ ccv[pcms]
+[ns]Kato[nse]
+Ah... ah...[pcms]
 
 *8211|
 [fc]
-V“¹æ¶‚ÍA‚à‚¤è’x‚ê‚©‚à’m‚ê‚È‚¢B[r]
-‚Å‚àAŒ©Ì‚Ä‚é–ó‚É‚àccB[pcms]
+Shindou-sensei might already be too late.[l][er]
+But I can't just abandon them...[pcms]
 
 *8212|
 [fc]
-‚Ğ‚å‚Á‚Æ‚µ‚½‚çAæ¶‚Í¸_“I‚ÈƒVƒ‡ƒbƒN‚ğó‚¯‚ÄA‚½[r]
-‚¾æ‚è—‚µ‚Ä‚¢‚½‚¾‚¯‚©‚àccB[pcms]
+Maybe, the teacher might have just been mentally shocked and[r]was just panicking...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3294|
 [fc]
 [vo_sa s="sae1092"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñII@‚Ç‚¤‚µ‚½‚Ì‚Å‚·‚©IH@V“¹æ¶‚ğ•[r]
-‚¯‚é‚Ì‚È‚ç‚ÎA‘‚­‚µ‚Ä‚­‚¾‚³‚¢ƒbIv[pcms]
+[ns]Saeki[nse]
+Kato-san!! What's wrong!? If you're going to help Shindou-[r]sensei, do it quickly![pcms]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 [se0 storage="se005"]
 
 *8213|
 [fc]
-l‚¦‚ñ‚Å‚¢‚éŠÔ‚ÉA²”Œ‚ÍV“¹æ¶‚ÉŒü‚©‚Á‚ÄA‘–‚è[r]
-o‚»‚¤‚Æ‚µ‚Ä‚¢‚½B[pcms]
+While lost in thought, Saeki was about to start running[r]towards Shindou-sensei.[pcms]
 
 *8214|
 [fc]
-²”Œ‚ª“®‚«o‚µ‚½‚Ì‚Æ“¯‚ÉA“|‚ê‚½V“¹æ¶‚Ìè‚ª­[r]
-‚µ‚¾‚¯“®‚¢‚½B‚»‚Ì“®‚«‚ÍA‰´‚É‚Í‚Æ‚Ä‚à•s‹C–¡‚È•¨‚É[r]
-Œ©‚¦‚½B[pcms]
+At the same time Saeki started moving, Shindou-sensei, who[r]had collapsed, moved her hand slightly.[l][er]
+That movement seemed very eerie to me.[pcms]
+[l][er]
 
 *8215|
 [fc]
-[ns]‰Á“¡[nse]
-u‚â‚ß‚ë²”Œ‚ÁI@æ¶‚É‹ßŠñ‚é‚È‚ÁI@‰½‚©ccŒ™‚È[r]
-—\Š´‚ª‚·‚é‚ÁIIv[pcms]
+[ns]Kato[nse]
+Stop, Saeki! Don't get close to the teacher![l][er]
+I have a bad feeling about something!![pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3295|
 [fc]
 [vo_sa s="sae1093"]
-[ns]²”Œ[nse]
-u‚¦IHv[pcms]
+[ns]Saeki[nse]
+Eh!?[pcms]
 
 *8216|
 [fc]
-²”Œ‚Ì˜r‚ğ‚Â‚©‚İAæ¶‚Ì‚¢‚é•û‚Æ‚Í‹tA‰®ã‚ÖŒü‚©[r]
-‚¨‚¤‚Æ‚µ‚½B[pcms]
+Saeki grabbed my arm and tried to head towards the opposite[r]direction of where the teacher was, towards the rooftop.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3296|
 [fc]
 [vo_sa s="sae1094"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñAV“¹æ¶‚ÍIHv[pcms]
+[ns]Saeki[nse]
+Kato-san, what about Shindou-sensei!?[pcms]
 
 *8217|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ù‚Á‚Æ‚¢‚Ä“¦‚°‚é‚¼II@‚È‚ñ‚©AŒ™‚È—\Š´‚ª‚·‚é‚ñ[r]
-‚¾IIv[pcms]
+[ns]Kato[nse]
+Leave it and let's run!! I have a bad feeling about[r]something!![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3297|
 [fc]
 [vo_sa s="sae1095"]
-[ns]²”Œ[nse]
-u‚Å‚àAV“¹æ¶‚¾‚¯‚ÍARŠİ‚³‚ñ’B‚İ‚½‚¢‚É‚È‚Á‚Ä‚È[r]
-‚©‚Á‚½‚¶‚á‚È‚¢‚Å‚·‚©IIv[pcms]
+[ns]Saeki[nse]
+But, Shindou-sensei wasn't like Yamagishi-san and the[r]others, right?![pcms]
 
 *8218|
 [fc]
-‚»‚¤Œ¾‚¦‚ÎA²”Œ‚ÍŠwH‚Å‚Ìæ¶‚ğŒ©‚Ä‚¢‚È‚¢Bæ¶‚ª[r]
-‚¨‚©‚µ‚­‚È‚Á‚½‚Ì‚ğ’m‚Á‚Ä‚¢‚é‚Ì‚ÍA‰´‚¾‚¯‚¾B[pcms]
+Come to think of it, Saeki hasn't seen the teacher at the[r]cafeteria.[l][er]
+I'm the only one who knows that the teacher has become[r]strange.[pcms]
 
 *8219|
 [fc]
-[ns]‰Á“¡[nse]
-uccIIv[pcms]
+[ns]Kato[nse]
+...!![pcms]
 
-;—§‚¿
-;ƒŠƒT
+;ç«‹ã¡
+;ãƒªã‚µ
 [ChrSetEx layer=1 chbase="risa_e_e_01"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3298|
 [fc]
 [vo_sa s="sae1096"]
-[ns]²”Œ[nse]
-u‚ ‚Áccv[pcms]
+[ns]Saeki[nse]
+Ah...[pcms]
 
 *8220|
 [fc]
-Œ™‚È—\Š´‚ÍA“–‚½‚Á‚Ä‚¢‚½B[pcms]
+My bad feeling was right.[pcms]
 
 *8221|
 [fc]
-‚¢‚Â‚ÌŠÔ‚É‚©‹N‚«‚ ‚ª‚Á‚Ä‚¢‚½V“¹æ¶‚ÍA‹C–¡‚Ìˆ«‚¢[r]
-–Ú‚Â‚«‚Å‰´’B‚ğŒ©‚Â‚ßA’Ç‚¢‚©‚¯‚Ä—ˆ‚½B[pcms]
+Shindou-sensei, who had quietly stood up without us[r]noticing, stared at us with a creepy look in his eyes and[r]started chasing after us.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_e_e_01"]
 [ChrSetXY layer=1 x=180 y=0]
 [ChrSetParts layer=1 chface="risa_e_e_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3299|
 [fc]
 [vo_ri s="risa0664"]
-[ns]V“¹[nse]
-u‚ A‚È‚½A‚½‚¿ccA‚ÉA‚°A‚ÈA‚­‚ÄA‚¢‚¢A‚ÌA[r]
-‚æccA‚í‚½A‚µA‚ÉA‚¨A‚¿‚ñA‚¿A‚ñA‚¿‚å‚¤A‚¾[r]
-‚¢H@‚©A‚Æ‚¤A‚­A‚ñ‚ÌA‚¨‚¿A‚ñ‚¿A‚ñccv[pcms]
+[ns]Shindou[nse]
+Ah, you guys... don't... have to...[l][er]
+run away... I... want... your...[l][er]
+dicks... right? Let's... have fun with...[l][er]
+your dicks...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3300|
 [fc]
 [vo_sa s="sae1097"]
-[ns]²”Œ[nse]
-u‚¢‚â‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚ŸƒbIIv[pcms]
+[ns]Saeki[nse]
+Nooooooo!![pcms]
 
 *8222|
 [fc]
-[ns]‰Á“¡[nse]
-u‚â‚Á‚Ï‚è‚©ccII@“¦‚°‚é‚¼IIv[pcms]
+[ns]Kato[nse]
+I knew it...!! Let's run![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *8223|
 [fc]
-‚â‚Á‚Ï‚èAæ¶‚Í‚¨‚©‚µ‚­‚È‚Á‚½‚Ü‚Ü‚¾II[pcms]
+As I thought, the teacher is still acting strange!![pcms]
 
 *8224|
 [fc]
-w‚¨‚©‚µ‚­‚È‚Á‚½‚çŒ³‚É–ß‚·•û–@‚Í‚È‚¢x[pcms]
+There is no way to return things back to normal once they[r]have become strange.[pcms]
 
 *8225|
 [fc]
-‰´’B‚É‚»‚¤‹³‚¦‚Ä‚­‚ê‚½–{l‚ªccB[r]
-Š®‘S‚ÉA‚¨‚©‚µ‚­‚È‚Á‚Ä‚µ‚Ü‚Á‚Ä‚¢‚½ccB[pcms]
+The person who taught us that...[l][er]
+has completely become strange...[pcms]
 
 *8226|
 [fc]
-‚à‚¤ccæ¶‚Í•‚©‚ç‚È‚¢‚Ì‚©ccIH[r]
-Œµ‚µ‚­‚Äc‚İ‚ñ‚È‚Ì“²‚ê‚¾‚Á‚½æ¶ccB[pcms]
+Is there no hope left... for the teacher!?[l][er]
+He was strict... and everyone admired him...[pcms]
 
 *8227|
 [fc]
-‚İ‚ñ‚È‚Ì“²‚ê‚Ìæ¶‚ÍA‚Ç‚±‚©‚És‚Á‚Ä‚µ‚Ü‚Á‚½B[r]
-¡A‰´’B‚ğ’Ç‚¢‚©‚¯‚Ä‚­‚é‚Ì‚ÍAæ¶‚ÌŠOŒ©‚ğ‚µ‚½A‘S[r]
-‚­•Ê‚Ìw‰½‚©x‚¾ccB[pcms]
+The teacher who was everyone's admiration has disappeared[r]somewhere.[l][er]
+Now, what is chasing after us is something completely[r]different that has taken on the appearance of the teacher...[pcms]
 
 *8228|
 [fc]
-©‘R‚ÆA–Ú‚©‚ç—Ü‚ªˆì‚êo‚·B[pcms]
+Tears naturally overflow from my eyes.[pcms]
 
 *8229|
 [fc]
-¡“úˆê“ú‚ÅAe—F‚âA“²‚ê‚Ìl‚ªccB[r]
-²”Œ‚Æ‰´ˆÈŠOA‚İ‚ñ‚È‚¨‚©‚µ‚­‚È‚Á‚½B[pcms]
+Throughout the day today, my best friends and the person I[r]admired...[l][er]
+Except for Saeki and me, everyone has become strange.[pcms]
 
 *8230|
 [fc]
-cc‚Å‚à‚«‚Á‚ÆA‰½‚©è‚Í—L‚é‚Í‚¸‚¾B[r]
-‚İ‚ñ‚È‚ğŒ³‚É–ß‚·•û–@‚ªA‰½‚©ccB[pcms]
+... But surely, there must be a way.[l][er]
+There must be some method to return everyone back to[r]normal...[pcms]
 
 *8231|
 [fc]
-‰½‚©‚ ‚é‚Í‚¸‚¾II[pcms]
+There must be something!![pcms]
 
 *8232|
 [fc]
-[ns]‰Á“¡[nse]
-uæ¶II@–ß‚Á‚Ä‚­‚é‚©‚çII@â‘ÎA•‚¯‚É–ß‚Á‚Ä[r]
-‚­‚éIIv[pcms]
+[ns]Kato[nse]
+Teacher!! I'll come back for you!![l][er]
+I will definitely come back to help you!![pcms]
 
 *8233|
 [fc]
-æ¶‚Ì•û‚É‚ÍU‚èŒü‚©‚È‚¢—l‚É‚µ‚ÄA‘å‚«‚­‹©‚ñ‚¾B[pcms]
+I made sure not to look back at the teacher and shouted[r]loudly.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
 
-;//[07330]‚Ö
+;//[07330]ã¸
 ;//[jump target=*07330_TOP storage="07330.ks"]
 
-;//¡ËƒuƒƒbƒN07330w‰®ã‚Åx
-;//BG:‰®ãF—[•ûFÁ“”
-;//“oêl•¨GålŒöE“µEŠ´õ’|“àEŠ´õ[ns]“c’†[nse]
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07330ã€å±‹ä¸Šã§ã€
+;//BG:å±‹ä¸Šï¼šå¤•æ–¹ï¼šæ¶ˆç¯
+[ns]Tanaka[nse]
 
 ;//[07330]
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 
 [bgm009]
 
@@ -272,135 +265,133 @@
 
 *8234|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Í‚Ÿ‚ÁccA‚Í‚Ÿ‚Áccv[pcms]
+[ns]Kato[nse]
+Haa... haa... *[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3301|
 [fc]
 [vo_sa s="sae1098"]
-[ns]²”Œ[nse]
-u‚Í‚ÁccA‚Í‚Ÿ‚ŸccA—Ç‚©‚Á‚½A‚Å‚·‚ËccA’N‚à[r]
-‚¢‚È‚­‚Äccv[pcms]
+[ns]Saeki[nse]
+Hah... haa... thank goodness...[l][er]
+no one is here...[pcms]
 
 *8235|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ ccv[pcms]
+[ns]Kato[nse]
+Ah...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3302|
 [fc]
 [vo_sa s="sae1099"]
-[ns]²”Œ[nse]
-uccIIv[pcms]
+[ns]Saeki[nse]
+...!![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3303|
 [fc]
 [vo_sa s="sae1100"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñI@‚ ‚ê‚ğŒ©‚Ä‰º‚³‚¢Iv[pcms]
+[ns]Saeki[nse]
+Kato-san! Please look at that![pcms]
 
 *8236|
 [fc]
-²”Œ‚ª‘åº‚ğã‚°‚Äw‚³‚µ‚½‚Ì‚ÍA‰´’B‚ÌZ‚ŞŠX‚Ì•ûŒü[r]
-‚¾‚Á‚½BŠX‚©‚ç‚ÍA‰½–{‚à‚Ì‰Œ‚ª—§‚¿ã‚Á‚Ä‚¢‚½B[pcms]
+Saeki shouted loudly and pointed in the direction of our[r]town.[l][er]
+From the town, several plumes of smoke were rising.[pcms]
 
 *8237|
 [fc]
-‰´’B‚ÌŠX‚ª”R‚¦‚Ä‚¢‚éccB[r]
-ƒ‰ƒWƒI‚ÅŒ¾‚Á‚Ä‚¢‚½w–\“®x‚Á‚Ä–{“–‚¾‚Á‚½‚ñ‚¾ccB[r]
-‚©‚È‚è‚Ì”ÍˆÍ‚ÅA‰Î–‚ª‹N‚«‚Ä‚¢‚é‚İ‚½‚¢‚¾‚Á‚½B[pcms]
+Our town is burning... It was true what they said on the[r]radio about the riots...[l][er]
+It seems like fires have broken out over a considerable[r]area.[pcms]
 
 *8238|
 [fc]
-‚ ‚Ì—lq‚¶‚áccB‰´‚Ì‰Æ‚àccB[pcms]
+With that situation... my house too...[pcms]
 
 *8239|
 [fc]
-[ns]‰Á“¡[nse]
-uƒNƒ\ƒbI@‰½‚¾‚æcc‚ ‚êIIv[pcms]
+[ns]Kato[nse]
+Shit! What the hell... is that!![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3304|
 [fc]
 [vo_sa s="sae1101"]
-[ns]²”Œ[nse]
-u‚»‚ñ‚Èccv[pcms]
+[ns]Saeki[nse]
+No way...[pcms]
 
 *8240|
 [fc]
-‰´’B‚ÍŒ¾—t‚ğ¸‚Á‚Ä‚µ‚Ü‚Á‚½B‰f‰æ‚âAƒeƒŒƒr‚Å‚ÍŒ©Šµ[r]
-‚ê‚½AŠX‚Ì”R‚¦‚é—lqccB‰´‚à²”Œ‚àA‚Ç‚¤‚·‚é‚±‚Æ[r]
-‚ào—ˆ‚È‚¢‚ÅA‚½‚¾ŠX‚ª”R‚¦‚é—l‚ğ’­‚ß‚Ä‚¢‚½B[pcms]
+We were left speechless. The sight of the town burning,[r]something we were familiar with from movies and TV...[l][er]
+Both Saeki and I could do nothing but watch as the town[r]burned, feeling helpless.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3305|
 [fc]
 [vo_sa s="sae1102"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñccv[pcms]
+[ns]Saeki[nse]
+Kato-san...[pcms]
 
 *8241|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3306|
 [fc]
 [vo_sa s="sae1103"]
-[ns]²”Œ[nse]
-u„’BA‚±‚ê‚©‚ç‚Ç‚¤‚µ‚½‚ç‚¢‚¢‚Ì‚Å‚µ‚å‚¤‚©ccv[pcms]
+[ns]Saeki[nse]
+What should we do from now on...?[pcms]
 
 *8242|
 [fc]
-[ns]‰Á“¡[nse]
-uccccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦â€¦â€¦[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *8243|
 [fc]
-Z–å‚Ì‚ ‚½‚è‚ÍAƒCƒJƒŒ‚½ƒ„ƒc‚ç‚Åˆì‚ê‚©‚¦‚Á‚Ä‚¢‚½B[r]
-‚»‚ê‚ÉAŠw‰€‚Ì’†‚àAƒ„ƒc‚ç‚ª‘òR‚¢‚éB[pcms]
+The area around the school gate was overflowing with crazy[r]people.[l][er]
+And inside the school, there were also many of them.[pcms]
 
 *8244|
 [fc]
-Šw‰€‚©‚çŠO‚Éo‚é–‚à‚Ü‚Ü‚È‚ç‚È‚¢ã‚ÉA–ß‚é‚×‚«êŠ[r]
-‚àc‚ ‚Ì—lq‚Å‚ÍccB[pcms]
+We can't even leave the school grounds, and there's nowhere[r]to go back to...[l][er]
+with the situation like that...[pcms]
 
 *8245|
 [fc]
-‚±‚ñ‚ÈA‰´‚Í‰½‚ÄŒ¾‚¦‚Î‚¢‚¢‚ñ‚¾‚ë‚¤ccB[pcms]
+In a situation like this, what should I even say...[pcms]
 
-;//ôFBGM0098ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM0098ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 
 [fadeoutbgm time=500]
 
-;//SE:”à‚ğŠJ‚­
+;//SE:æ‰‰ã‚’é–‹ã
 
 [se0 storage="se024"]
 
@@ -409,44 +400,43 @@
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3307|
 [fc]
 [vo_sa s="sae1104"]
-[ns]²”Œ[nse]
-uccIv[pcms]
+[ns]Saeki[nse]
+...![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *8246|
 [fc]
-[ns]‰Á“¡[nse]
-u’N‚¾‚ÁIv[pcms]
+[ns]Kato[nse]
+Who's there![pcms]
 
 *8247|
 [fc]
-‹¯‚¦‚é²”Œ‚ğ‰´‚Ì”w’†‚É‰B‚µ‚ÄAg\‚¦‚éB[pcms]
+I hide the frightened Saeki behind my back and prepare[r]myself.[pcms]
 
 *8248|
 [fc]
-‚±‚ñ‚ÈŠ‚ÉAƒ„ƒc‚ç‚ª‘òR“ü‚Á‚Ä‚«‚½‚çA‰´ˆêl‚¶‚á‚Ç[r]
-‚¤‚É‚ào—ˆ‚È‚¢‚¾‚ë‚¤B[r]
-‚Å‚àAÅˆ«A²”Œ‚¾‚¯‚ÍccB[pcms]
+If these guys come in here, I won't be able to handle them[r]alone.[l][er]
+But at the very least, Saeki...[pcms]
 
 *8249|
 [fc]
-ƒhƒA‚Ì‰œ‚©‚çŒ»‚ê‚½‚Ì‚ÍA“ñ‚Â‚Ìl‰e‚¾‚Á‚½B[pcms]
+Two figures appeared from behind the door.[pcms]
 
 *8250|
 [fc]
-Œ©Šo‚¦‚Ì‚ ‚é“ñlccB[pcms]
+I recognize those two...[pcms]
 
 *8251|
 [fc]
-•Ï‚í‚è‰Ê‚Ä‚Ä‚µ‚Ü‚Á‚½A^–ç‚ÆA—S“ñ‚¾‚Á‚½ccB[pcms]
+It was Shinya and Yuuji, completely transformed...[pcms]
 
-;//ôFBGM008ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 
 [bgm008]
 
@@ -455,22 +445,22 @@
 [ChrSetParts layer=1 chface="tanaka_b_a_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std431|
 [fc]
-[ns]“c’†[nse]
-u‚Ğ‚ĞA‚ĞccA‚¨‚ñA‚ÈA‚ªA‚¢‚½A‚¼ccv[pcms]
+[ns]Tanaka[nse]
+Haha, h-huh... There's someone here...[pcms]
 
 [ChrSetEx layer=1 chbase="take_c_a_06"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std432|
 [fc]
-[ns]’|“à[nse]
-u‚ÜA‚ñA‚±A‚ª‚¢‚éccA‚Ü‚ñA‚±A‚¾cc‚âA‚ç‚¹[r]
-‚ëccA‚æccA‚ÜA‚ñA‚±A‚È‚ßA‚³‚¹A‚ë‚æccv[pcms]
+[ns]Takeuchi[nse]
+There's a pussy... a pussy... let me fuck...[l][er]
+it... let me lick that pussy...[pcms]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
@@ -479,198 +469,196 @@
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3308|
 [fc]
 [vo_sa s="sae1105"]
-[ns]²”Œ[nse]
-u’|“à‚³‚ñccA‚»‚ê‚ÉA“c’†æ”yccB[r]
-‚ ‚Ÿcc‚»‚ñ‚Èccv[pcms]
+[ns]Saeki[nse]
+Takeuchi-san... and Tanaka-senpai...[l][er]
+Ah... like that...[pcms]
 
 *8252|
 [fc]
-[ns]‰Á“¡[nse]
-u²”ŒccAâ‘ÎA‰´‚©‚ç—£‚ê‚é‚Èccv[pcms]
+[ns]Kato[nse]
+Saeki... absolutely, don't leave my side...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *8253|
 [fc]
-”w’†‚É’£‚è•t‚¢‚½‚Ü‚Ü‚Ì²”Œ‚ÍA‰½‚àŒ¾‚í‚È‚©‚Á‚½‚¯‚ÇA[r]
-—Í‹­‚­Œ¨‚ğˆ¬‚Á‚½‚»‚Ìè‚©‚çAŒˆˆÓ‚ª“`‚í‚Á‚Ä‚«‚½B[pcms]
+Saeki, who was clinging to my back, didn't say anything, but[r]I could feel her determination through the firm grip of her[r]hand on my shoulder.[pcms]
 
 *8254|
 [fc]
-²”Œ‚ÍA‰´‚ğ—Š‚Á‚Ä‚¢‚éccB[pcms]
+Saeki is relying on me...[pcms]
 
 *8255|
 [fc]
-²”Œ‚ÍAâ‘Î‚Éccƒ„ƒc‚ç‚Éwˆê–{G‚ê‚³‚¹‚È‚¢II[pcms]
+Saeki will absolutely not let those guys lay a finger on[r]her!![pcms]
 
 [ChrSetEx layer=1 chbase="take_c_a_06"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std433|
 [fc]
-[ns]’|“à[nse]
-u‚¨A‚Ü‚¦A‚¶‚áA‚Ü‚¾A‚æccA‚¨A‚ñ‚ÈA‚ğA‚æ‚±[r]
-‚¹A‚æcc‚¾A‚êA‚¾‚æA‚¨‚ÜA‚¦ccv[pcms]
+[ns]Takeuchi[nse]
+You, not yet... give me a woman...[l][er]
+let me have her... who are you...[l][er]
+you...[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_b_a_10"]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std434|
 [fc]
-[ns]“c’†[nse]
-u‚¤A‚º‚¥A‚ÈccA‚¨‚ÜA‚¦A‚»A‚ÌA‚¨‚ñA‚ÈA‚Ì[r]
-‚©‚êA‚µA‚©H@‚Ç‚¯A‚æcc‚¨‚êA‚ÉA‚»A‚ÌA‚¨A[r]
-‚ñ‚ÈA‚æA‚±‚¹A‚æccv[pcms]
+[ns]Tanaka[nse]
+Ugh, damn... you, are you really that kind of woman?[l][er]
+Get out of the way... give me that woman...[l][er]
+come on, show her to me...[pcms]
 
 *8256|
 [fc]
-[ns]’|“à[nse]
-uccv[pcms]
+[ns]Takeuchi[nse]
+â€¦â€¦[l][er]
 
 [ChrSetEx layer=1 chbase="tanaka_b_a_10"]
 [ChrSetXY layer=1 x=160 y=0]
 [ChrSetParts layer=1 chface="tanaka_b_a_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std435|
 [fc]
-[ns]“c’†[nse]
-u‚ `ccA‚ÇA‚¯‚ÁA‚ÄA‚¢‚Á‚ÄA‚ñ‚¾A‚æccA‚È[r]
-‚ñA‚¾A‚æA‚¨A‚Ü‚¦ccv[pcms]
+[ns]Tanaka[nse]
+Ahh... w-what the hell are you saying...[l][er]
+what the hell are you, you...[pcms]
 
 [ChrSetEx layer=1 chbase="take_c_d_06"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std436|
 [fc]
-[ns]’|“à[nse]
-u‚¾‚êA‚¾‚æccA‚ÈA‚ñ‚ÅA‚¶‚áA‚Ü‚·A‚éA‚ñ‚¾A[r]
-‚»A‚ÌA‚ÜA‚ñ‚±A‚ÚA‚­A‚É‚æ‚±A‚¹‚æccv[pcms]
+[ns]Takeuchi[nse]
+Who... why are you giving it to me...[l][er]
+that pussy... show it to me...[pcms]
 
 *8257|
 [fc]
-[ns]‰Á“¡[nse]
-u‰½Œ¾‚Á‚Ä‚é‚ñ‚¾‚æII@’N‚¾‚Á‚ÄH@‚¨‘O‚çA‰´‚Ì–[r]
-–Y‚ê‚½‚Ì‚©‚æ‚ÁIv[pcms]
+[ns]Kato[nse]
+What the hell are you saying!![l][er]
+Who do you think I am?! Have you all forgotten about me?![pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_b_a_10"]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std437|
 [fc]
-[ns]“c’†[nse]
-u‚µA‚ç‚Ë‚¥ccB‚¨‚ñA‚ÈA‚æ‚±cc‚¹v[pcms]
+[ns]Tanaka[nse]
+I... don't know... give me... her...[l][er]
+now...[pcms]
 
 [ChrSetEx layer=1 chbase="take_c_d_06"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std438|
 [fc]
-[ns]’|“à[nse]
-u‚ÜA‚¶cc‚ÅA‚¤‚´A‚¢A‚æccA‚¨‚ÜA‚¦A‚È‚ñA[r]
-‚©A‚µA‚ç‚ÈA‚¢cc‚©‚çccA‚ÆA‚É‚©A‚­A‚»‚ÌA[r]
-‚¨A‚ñA‚Ècc‚±‚ÁA‚¿‚ÉA‚æA‚±‚¹ccv[pcms]
+[ns]Takeuchi[nse]
+Seriously... you're annoying...[l][er]
+I don't know what you're up to...[l][er]
+but anyway, just show me that woman already...[pcms]
 
 *8258|
 [fc]
-e—F“ñl‚ÍA‚Ü‚é‚Å‰´‚Ì–‚È‚ñ‚©Å‰‚©‚ç’m‚ç‚È‚¢A‚Æ[r]
-‚¢‚Á‚½Š´‚¶‚ÌŒû‚Ô‚è‚¾‚Á‚½B[pcms]
+My two best friends were speaking as if they didn't know[r]anything about me from the beginning.[pcms]
 
 *8259|
 [fc]
-‚¢‚Â‚àˆê‚É—V‚ñ‚Å‚ÄccBˆê‚Éˆ«‚Ó‚´‚¯‚µ‚ÄccB[r]
-¬‚³‚¢ ‚©‚çA‚¸‚Á‚Æe—F‚¾‚Á‚½“ñl‚ªAƒ„ƒc‚ç‚İ‚½‚¢[r]
-‚ÉccB[pcms]
+We always played together... We fooled around together...[l][er]
+My two best friends, who have been my closest friends since[r]we were little, are acting like those guys...[pcms]
 
 *8260|
 [fc]
-[ns]‰Á“¡[nse]
-u^–ç‚ŸI@—S“ñ‚¡I@‚­‚»‚§‚§‚§ƒbIv[pcms]
+[ns]Kato[nse]
+Shinya! Yuuji! Damn it![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std439|
 [fc]
-[ns]’|“à[nse]
-u‚¨‚ÜA‚¦A‚¤‚éA‚³‚¢‚æccA‚¢A‚¢‚©A‚°‚ñA‚É‚µ[r]
-‚ëA‚æccv[pcms]
+[ns]Takeuchi[nse]
+Hey, you, move aside... give it to me already...[l][er]
+show it to me...[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_b_a_10"]
 [ChrSetXY layer=1 x=160 y=0]
 [ChrSetParts layer=1 chface="tanaka_b_a_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std440|
 [fc]
-[ns]“c’†[nse]
-u‚¨A‚ñA‚ÈA‚æ‚±A‚¹cc‚æccA‚àA‚¤A‚ª‚ÜA‚ñ[r]
-‚ÅA‚«A‚Ë‚¥A‚æccA‚¨‚ÜA‚¦A‚ÇA‚¯‚æccv[pcms]
+[ns]Tanaka[nse]
+O-n-na-yo-ko-se... yo... , mo-u ga-ma-n-de ki-ne-e yo...[l][er]
+, o-ma-e do-ke-yo...[pcms]
 
 *8261|
 [fc]
-we—Fx‚¾‚Á‚½ƒ„ƒc‚ç‚Ì“®‚«‚ªA‚Ù‚ñ‚Ì­‚µ‚¾‚¯‘‚­‚È[r]
-‚Á‚ÄA‰´‚ÌŒã‚ë‚Ì²”Œ‚ß‚ª‚¯‚Ä”—‚Á‚Ä‚«‚½B[pcms]
+The movements of those who were my best friends became just[r]a little faster, and they approached Saeki behind me.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3309|
 [fc]
 [vo_sa s="sae1106"]
-[ns]²”Œ[nse]
-u‚«‚á‚Ÿ‚Ÿ‚Ÿ‚ ‚ÁIv[pcms]
+[ns]Saeki[nse]
+Kyaaaah![pcms]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;mm ’|“à‚ª‰f‚Á‚Ä‚È‚¢‚©‚ç“\‚é
+;mm ç«¹å†…ãŒæ˜ ã£ã¦ãªã„ã‹ã‚‰è²¼ã‚‹
 [ChrSetEx layer=1 chbase="take_c_d_06"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
 *8262|
 [fc]
-[ns]‰Á“¡[nse]
-uƒNƒ\ƒbI@^–çccB‹–‚¹‚ÁIv[pcms]
+[ns]Kato[nse]
+Damn it! Shinya... I won't forgive you![pcms]
 
-;//SE:‰£‚é
+;//SE:æ®´ã‚‹
 [se0 storage="se026"]
 ;[flash_re]
 ;[bg storage="bg22b"]
 ;[trans_c cross time=150]
-[Ôƒtƒ‰]
+[èµ¤ãƒ•ãƒ©]
 
 [eval exp="f.chara_x = 100,f.chara_y = 0"]
 [quake_chara layer=1 lo xy m]
 
 ;//redflash
 
-;—§‚¿
+;ç«‹ã¡
 *std441|
 [fc]
-[ns]’|“à[nse]
-u‚®ccv[pcms]
+[ns]Takeuchi[nse]
+Ugh...[pcms]
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 [se0 storage="se021"]
 
 
@@ -687,59 +675,57 @@
 [backlay_c][chara_int][trans_c cross time=150]
 
 
-;—§‚¿
+;ç«‹ã¡
 *std442|
 [fc]
-[ns]“c’†[nse]
-u‚¤‚Ÿccv[pcms]
+[ns]Tanaka[nse]
+Ugh...[pcms]
 
 
 *8263|
 [fc]
-^–ç‚Ì• ‚ğv‚¢‚Á‚«‚èR‚é‚ÆA‚»‚Ì^Œã‚ë‚Å‚Ö‚ç‚Ö‚ç‚µ[r]
-‚Ä‚¢‚½—S“ñ‚àŠª‚«‚ñ‚Å‚Á”ò‚ñ‚Å‚¢‚Á‚½B[pcms]
+I kicked Shinya's stomach with all my might, and Yuuji, who[r]was grinning right behind him, got caught up in it and went[r]flying.[pcms]
 
 *8264|
 [fc]
-‘S‘R‰ÁŒ¸‚µ‚Ä‚È‚©‚Á‚½”¤‚ÌR‚è‚ÍA“ñl‚Í‘S‚­ƒ_ƒ[ƒW[r]
-‚ğ—^‚¦‚Ä‚¢‚é‚æ‚¤‚É‚ÍŒ©‚¦‚È‚©‚Á‚½B[pcms]
+The kick that was supposed to have no mercy at all didn't[r]seem to have any effect on the two of them at all.[pcms]
 
 *8265|
 [fc]
-—S“ñ‚à^–ç‚àA‚·‚®‚É‹N‚«‚ ‚ª‚Á‚½‚Ì‚ÉA‚±‚¿‚ç‚É‚ÍŒü[r]
-‚©‚Á‚Ä‚±‚È‚©‚Á‚½B[pcms]
+Yuuji and Shinya both quickly got up, but they didn't come[r]towards me.[pcms]
 
 *8266|
 [fc]
-“ñl‚ÍáÉ‚İ‡‚¤—l‚ÉŒü‚«‡‚¢AŒû˜_‚ğn‚ß‚½‚Ì‚¾B[pcms]
+The two of them faced each other, glaring at each other, and[r]began to argue.[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_b_a_10"]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std443|
 [fc]
-[ns]“c’†[nse]
-u‚Ğ‚Ğ‚Ğ‚Ğ‚Ğ‚ÁccA‚¨‚ÜA‚¦A‚Ì‚¹‚¢A‚ÅA‚¨‚êA‚Ü[r]
-‚ÅA‚±A‚¯‚½A‚¶‚áA‚Ë‚¥A‚©ccA‚ÇA‚¯‚æccA‚Å[r]
-‚Ôccv[pcms]
+[ns]Tanaka[nse]
+Hehehehe... It's all because of you...[l][er]
+I got involved in this mess...[l][er]
+Isn't that right? You... fatty...[pcms]
 
 [ChrSetEx layer=1 chbase="take_c_a_06"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std444|
 [fc]
-[ns]’|“à[nse]
-u‚ÈA‚ñA‚¾A‚ÆccA‚ ‚ÌA‚¨‚ñA‚ÈA‚ÍA‚ÚA‚­‚¾[r]
-‚¯A‚Ì‚àA‚Ì‚¾ccA‚¨‚ÜA‚¦A‚±‚»A‚Ç‚Á‚©A‚¢A‚¯[r]
-‚æcc‚¤‚Ÿ‚ŸccIv[pcms]
+[ns]Takeuchi[nse]
+W-What... is... this...? Th-That...[l][er]
+sound... it's only... for me...[l][er]
+It's... you... who should go somewhere else...[l][er]
+Ughh...![pcms]
 
-;//SE:‰£‚é
+;//SE:æ®´ã‚‹
 [se0 storage="se026"]
-;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
+;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
 [flash_re]
 
 [bg storage="bg22b"]
@@ -752,15 +738,15 @@
 [eval exp="f.chara_x = 160,f.chara_y = 0"]
 [quake_chara layer=1 lo x l]
 
-;—§‚¿
+;ç«‹ã¡
 *std445|
 [fc]
-[ns]“c’†[nse]
-u‚®‚ÁccA‚­A‚»‚§ccv[pcms]
+[ns]Tanaka[nse]
+Guh... Kuh, so...[pcms]
 
-;//SE:‰£‚é
+;//SE:æ®´ã‚‹
 [se0 storage="se026"]
-;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
+;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
 [flash_re]
 
 [bg storage="bg22b"]
@@ -774,29 +760,29 @@
 
 *8267|
 [fc]
-[ns]‰Á“¡[nse]
-u‚È‚Áccv[pcms]
+[ns]Kato[nse]
+Ngh...[pcms]
 
 *8268|
 [fc]
-^–ç‚Æc—S“ñ‚ªA‰£‚è‡‚¢‚ÌŒ–‰Ü‚ğn‚ß‚½ccB[r]
-¡‚Ü‚Å‚à‰½“x‚©Œ–‰Ü‚Í‚µ‚Ä‚½‚¯‚ÇA–{‹C‚Å‰£‚è‡‚¤“ñl[r]
-‚ÍA‰‚ß‚ÄŒ©‚½ccB[pcms]
+Shinya and Yuuji... started a fistfight...[l][er]
+I've seen them argue before, but this is the first time I've[r]seen them actually throw punches at each other...[pcms]
 
 [ChrSetEx layer=1 chbase="take_c_d_06"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std446|
 [fc]
-[ns]’|“à[nse]
-u‚¤‚ŸA‚ ccA‚ÚA‚­A‚¾‚¯A‚ÌA‚ÈA‚ñ‚¾ccA‚ [r]
-‚ÌA‚¨‚ñA‚Èv[pcms]
+[ns]Takeuchi[nse]
+Ugh, ah... It's... only... for...[l][er]
+me... That... sound... It's...[l][er]
+you... who should go somewhere else...[pcms]
 
-;//SE:‰£‚é
+;//SE:æ®´ã‚‹
 [se0 storage="se026"]
-;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
+;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
 [flash_re]
 
 [bg storage="bg22b"]
@@ -814,15 +800,15 @@
 [ChrSetParts layer=1 chface="tanaka_b_a_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std447|
 [fc]
-[ns]“c’†[nse]
-u‚¤A‚ª‚Áccv[pcms]
+[ns]Tanaka[nse]
+Ugh...[pcms]
 
-;//SE:‰£‚é
+;//SE:æ®´ã‚‹
 [se0 storage="se026"]
-;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
+;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
 [flash_re]
 
 [bg storage="bg22b"]
@@ -838,47 +824,46 @@
 
 *8269|
 [fc]
-“ñl‚Í‚¸‚Á‚Æ‰£‚è‡‚Á‚Ä‚¢‚éB[r]
-‚»‚Ì‚¤‚¿“ñl‚Ìg‘Ì‚Ì’†‚©‚çA¼‚Á‚½‚æ‚¤‚ÈcŠ£‚¢‚½[r]
-”j—ô‰¹‚ª•·‚±‚¦‚Ä‚«‚½B[pcms]
+The two of them kept punching each other.[l][er]
+From within their bodies, a sound that was wet...[l][er]
+yet dry, could be heard.[pcms]
 
 *8270|
 [fc]
-“ñl‚Ìw‚ªA•s©‘R‚È•ûŒü‚É‹È‚ª‚Á‚ÄccB[pcms]
+Their fingers bent in an unnatural direction...[pcms]
 
 *8271|
 [fc]
-—S“ñ‚Ì•û‚ÍAw‚Ì”ç‚ª”j‚ê‚ÄAƒsƒ“ƒNF‚Ì“÷‚Æccœ‚ª[r]
-”ò‚Ño‚¾‚µ‚Ä‚¢‚éccB[pcms]
+Yuuji's fingers were torn, revealing pink flesh and...[l][er]
+his bones were sticking out...[pcms]
 
 *8272|
 [fc]
-“ñl‚Í‚»‚Ì‚±‚Æ‚É‚Í‘S‘R‹C‚ª•t‚¢‚Ä‚¢‚È‚¢‚İ‚½‚¢‚ÉA‰£[r]
-‚è‡‚¢‚ğ‚â‚ß‚È‚©‚Á‚½B[pcms]
+They seemed completely unaware of that fact and didn't stop[r]fighting each other.[pcms]
 
 *8273|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨‘O‚çccA‚â‚ß‚ëccA‚È‚É‚µ‚Ä‚é‚ñ‚¾‚æccv[pcms]
+[ns]Kato[nse]
+You guys... stop... what are you doing...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3310|
 [fc]
 [vo_sa s="sae1107"]
-[ns]²”Œ[nse]
-u‚¢‚â‚Ÿ‚ŸII@‚È‚ñ‚Ä–‚ğIIv[pcms]
+[ns]Saeki[nse]
+Nooo!! What are you doing?![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:‰£‚é
+;//SE:æ®´ã‚‹
 [se0 storage="se026"]
-;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
+;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
 [flash_re]
 
 [bg storage="bg22b"]
@@ -888,163 +873,158 @@
 
 *8274|
 [fc]
-—S“ñ‚Ì•G‚ÌŠÖß‚ªcˆêŒÂc‘‚¦‚½ccB[pcms]
+Yuuji's knee joint... has... multiplied...[l][er]
+by one...[pcms]
 
 *8275|
 [fc]
-‚»‚ê‚ğ‡}‚É‚µ‚½‚İ‚½‚¢‚ÉA—S“ñ‚ªŒ¾—t‚ğ“f‚«o‚·B[pcms]
+It seems like Yuuji spits out words as if it were a signal.[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_b_a_10"]
 [ChrSetXY layer=1 x=160 y=0]
 [ChrSetParts layer=1 chface="tanaka_b_a_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std448|
 [fc]
-[ns]“c’†[nse]
-u‚­A‚»ccA‚à‚¤A‚¢A‚¢‚âccA‚ßA‚ñA‚Ç‚­‚¹A[r]
-‚¦cc‚­‚»A‚ÅA‚Ô‚ªA‚æccv[pcms]
+[ns]Tanaka[nse]
+K-su... Mou... I-ya... Men... Doku-se...[l][er]
+E... Kuso... De-bu ga yo...[pcms]
 
 [ChrSetEx layer=1 chbase="take_c_d_06"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std449|
 [fc]
-[ns]’|“à[nse]
-u‚¤‚éA‚¹‚¥ccA‚³‚ÁA‚³A‚ÆA‚Å‚ÄA‚¢‚¯A‚æcc[r]
-‚àA‚¤A‚ÇA‚±‚©A‚¢A‚¯A‚æccv[pcms]
+[ns]Takeuchi[nse]
+Uru, see... sa, sa, to, dete, ike, yo...[l][er]
+mo, u, do, koka, ike, yo...[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_b_a_10"]
 [ChrSetXY layer=1 x=160 y=0]
 [ChrSetParts layer=1 chface="tanaka_b_a_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std450|
 [fc]
-[ns]“c’†[nse]
-u‚­A‚»cc‚ß‚ñA‚ÇA‚­‚¹‚¥ccv[pcms]
+[ns]Tanaka[nse]
+K-su... Mou... I-ya... Men... Doku-se...[l][er]
+E... Kuso... De-bu ga yo...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *8276|
 [fc]
-‚ ‚ñ‚È‚É‚¤‚é‚³‚­A²”Œ‚É”—‚Á‚Ä‚¢‚½—S“ñ‚¾‚ªA^–ç‚Æ[r]
-‚Ì‰£‚è‡‚¢‚É”æ‚ê‚½‚Ì‚©AZÉ‚Ö‚Æ–ß‚Á‚Äs‚Á‚½B[pcms]
+Yuuji, who had been approaching Saeki so aggressively,[r]seemed tired from his fight with Shinya and returned to the[r]school building.[pcms]
 
-;//—™ŸºF‰º‹L‚r‚d‚ª•\‚É‚È‚¢‚½‚ß‚ÉŒ»İ‰¹‚ğ’£‚Á‚Ä‚¢‚Ü‚¹‚ñB
-;//SE:ƒKƒ‰ƒKƒ‰
+;//ï¼ æ‰æ¸•ï¼šä¸‹è¨˜ï¼³ï¼¥ãŒè¡¨ã«ãªã„ãŸã‚ã«ç¾åœ¨éŸ³ã‚’å¼µã£ã¦ã„ã¾ã›ã‚“ã€‚
+;//SE:ã‚¬ãƒ©ã‚¬ãƒ©
 [se0 storage="se024"]
 [quake_bg xy m]
 
 *8277|
 [fc]
-’¼Œã‚ÉA‘å‚«‚È‰¹‚ª‹¿‚¢‚½ccB[r]
-‚¨‚»‚ç‚­A—S“ñ‚ÍŠK’i‚ğ“]‚°—‚¿‚½‚ñ‚¾ccB[pcms]
+Immediately after, a loud noise echoed...[l][er]
+Probably, Yuuji fell down the stairs...[pcms]
 
 *8278|
 [fc]
-‚»‚µ‚Äc‚Á‚½^–ç‚ªAwƒ„ƒc‚çx‚Æ“¯‚¶—l‚ÈA‹C–¡‚Ìˆ«[r]
-‚¢Šç‚ğ‚µ‚ÄA‚Ü‚½‚±‚Á‚¿‚ÉŒü‚©‚¢A•à‚«o‚µ‚½B[pcms]
+And then, Shinya, who was left behind, had a creepy[r]expression similar to those guys and started walking towards[r]me again.[pcms]
 
 [ChrSetEx layer=1 chbase="take_c_a_06"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std451|
 [fc]
-[ns]’|“à[nse]
-u‚ĞA‚Ğ‚ĞccA‚ĞA‚ÆA‚èA‚«‚¦A‚½cccB‚ÂA‚¬[r]
-‚ÍA‚¨‚ÜA‚¦A‚ªA‚¢‚ÈA‚­A‚È‚êcc‚Îccv[pcms]
+[ns]Takeuchi[nse]
+H-hihi... hitori kieta... tsugi wa omae ga inaku nareba...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *8279|
 [fc]
-[ns]‰Á“¡[nse]
-u^–çccv[pcms]
+[ns]Kato[nse]
+Shinya...[pcms]
 
 *8280|
 [fc]
-Š®‘S‚ÉƒCƒb‚½Šç‚ğ‚µ‚ÄA‚¶‚è‚¶‚è‚ÆŠÔ‡‚¢‚ğ‹l‚ß‚Ä‚­‚é[r]
-^–çB[pcms]
+Shinya, with a completely ecstatic expression, slowly closes[r]the distance between us.[pcms]
 
 *8281|
 [fc]
-RŠİ‚³‚ñAŒÜ\—’‚³‚ñAV“¹æ¶A—S“ñA^–çB[pcms]
+Yuuji, Tomomi, Shindou-sensei, Yuuji, Shinya.[pcms]
 
 *8282|
 [fc]
-‚İ‚ñ‚ÈA“¯‚¶—l‚ÈŠç‚ğ‚µ‚ÄA‰´’B‚É”—‚Á‚Ä‚«‚½B[pcms]
+Everyone had the same expression on their faces as they[r]approached us.[pcms]
 
 *8283|
 [fc]
-Å“_‚Ì’è‚Ü‚ç‚È‚¢A‚Ü‚é‚ÅƒNƒXƒŠ‚Å‚à‚â‚Á‚Ä‚¢‚é‚æ‚¤‚È[r]
-cc‹C–¡‚Ìˆ«‚¢–Ú‚Â‚«ccB[pcms]
+A creepy gaze, as if they were under the influence of some[r]kind of drug...[l][er]
+with an unfocused and unsettling look.[pcms]
 
 *8284|
 [fc]
-‚»‚ê‚ÉA‚ ‚ê‚¾‚¯‰£‚è‡‚Á‚½Œã‚È‚Ì‚ÉA•½‹C‚ÈŠç‚ÅA—[r]
-‚ğcc²”Œ‚ğP‚¨‚¤‚Æ‚µ‚ÄccB[r]
-‚ ‚ê‚ÍA‚à‚¤ccB[pcms]
+And yet, even after fighting so violently, with a calm[r]expression, he tried to attack the girl...[l][er]
+Saeki. That was just...[pcms]
 
 *8285|
 [fc]
-^–ç‚ÌŒ`‚ğ‚µ‚½A•Ê‚Ìƒ‚ƒmccB[pcms]
+Another being in the form of Shinya...[pcms]
 
 *8286|
 [fc]
-cc‚à‚¤AŒ©‚Ä‚¢‚½‚­‚È‚¢ccB‚±‚ñ‚Èp‚ÍA‚à‚¤ccB[pcms]
+... I don't want to see it anymore...[l][er]
+This kind of appearance, anymore...[pcms]
 
 *8287|
 [fc]
-‚»‚ê‚ÉccB‰´‚ÌŒã‚ë‚Åk‚¦‚Ä‚¢‚é²”Œ‚É‚ÍAwˆê–{A[r]
-G‚ç‚¹‚Ä‚È‚é‚à‚Ì‚©‚æ‚ÁII[pcms]
+And... there's no way I'm going to let Saeki, who is[r]trembling behind me, even lay a finger on me!![pcms]
 
 *8288|
 [fc]
-²”Œ‚ÍA‰´‚ªç‚é‚ñ‚¾II[pcms]
+I will protect Saeki!![pcms]
 
 *8289|
 [fc]
-[ns]‰Á“¡[nse]
-uƒNƒ\ƒbII@‚à‚¤A‚Ç‚Á‚©s‚Á‚Ä‚­‚êccA‰´‚Ì‘O‚©[r]
-‚çAÁ‚¦‚Ä‚­‚ê‚ÁII@‚¤‚Ÿ‚Ÿ‚Ÿ‚ ‚ ‚ ‚ÁIv[pcms]
+[ns]Kato[nse]
+Damn it!! Just go away... Disappear from in front of me!![l][er]
+Uaaaahhhhh![pcms]
 
 *8290|
 [fc]
-‚©‚Â‚Äwe—Fx‚¾‚Á‚½ƒ‚ƒm‚ğ‚Ü‚Æ‚à‚ÉŒ©‚é–‚ªo—ˆ‚È‚­[r]
-‚È‚Á‚Ä‚µ‚Ü‚Á‚½‰´‚ÍAˆê‚à‘‚­‚±‚±‚©‚ç’Ç‚¢o‚»‚¤‚Æ[r]
-‚µ‚Äw‚»‚êx‚É”ò‚Ñ‚©‚©‚Á‚Ä‚¢‚Á‚½B[pcms]
+Unable to see the one who was once my best friend properly,[r]I quickly tried to drive it away from here and jumped at it.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3311|
 [fc]
 [vo_sa s="sae1108"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñIIv[pcms]
+[ns]Saeki[nse]
+Kato-san!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *8291|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤‚Ÿ‚Ÿ‚Ÿ‚ŸII@o‚Äs‚¯‚ÁII@‚±‚±‚©‚ç‚Å‚Ä‚¢‚¯[r]
-‚¥‚ÁII@‚­‚»‚§‚§‚§‚§‚§IIv[pcms]
+[ns]Kato[nse]
+Uaaaahhh!! Get out!! Get out of here!![l][er]
+Damn it!![pcms]
 
-;//SE:‰£‚é
+;//SE:æ®´ã‚‹
 [se0 storage="se026"]
-;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
+;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
 [flash_re]
 
 [bg storage="bg22b"]
@@ -1058,16 +1038,16 @@
 ;//redflash
 
 
-;—§‚¿
+;ç«‹ã¡
 *std452|
 [fc]
-[ns]’|“à[nse]
-u‚¨ccA‚ A‚ A‚ cc‚ÈA‚ñA‚¾ccA‚â‚ßA‚ëcc[r]
-‚æccv[pcms]
+[ns]Takeuchi[nse]
+O... Ah, ah, ah... W-what... s-stop...[l][er]
+it...[pcms]
 
-;//SE:‰£‚é
+;//SE:æ®´ã‚‹
 [se0 storage="se026"]
-;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
+;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
 [flash_re]
 [bg storage="bg22b"]
 [trans_c cross time=150]
@@ -1078,28 +1058,26 @@
 
 *8292|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤‚ ‚ ‚ ‚ ‚ ‚Ÿ‚Ÿ‚ŸII@o‚Äs‚¯II@o‚Äs‚¯‚¥[r]
-‚ÁIv[pcms]
+[ns]Kato[nse]
+Uaaaahhh!! Get out!! Get out of here!![pcms]
 
 *8293|
 [fc]
-¨‚¢”C‚¹‚É‰½“x‚à‰½“x‚à‰£‚è‚Â‚¯‚ÄA‚æ‚¤‚â‚­“ü‚èŒû‚Ü[r]
-‚Å’Ç‚¢‚â‚Á‚½B[pcms]
+I struck it over and over again with all my might, finally[r]driving it away to the entrance.[pcms]
 
 *8294|
 [fc]
-‚ ‚Æˆê•à‚ÅA^–ç‚ğ‚±‚±‚©‚ç’Ç‚¢o‚·–‚ªo—ˆ‚éB[r]
-‘Sg‚É—Í‚ğ‚ßAÅŒã‚ÌˆêŒ‚‚ğ‰Á‚¦‚æ‚¤‚Æ‚µ‚½B[pcms]
+I can drive Shinya away from here with just one more step.[l][er]
+I put all my strength into my body and prepared to deliver[r]the final blow.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std453|
 [fc]
-[ns]’|“à[nse]
-u‚®‚ŸccA‚­A‚»ccA‚¨‚ñA‚Ècc‚æA‚±‚¹ccA[r]
-‚»A‚±A‚Ç‚¯ccv[pcms]
+[ns]Takeuchi[nse]
+Guh... Kuh, so... on, na... yo, kose...[l][er]
+, so, ko, doke...[pcms]
 
-;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
+;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
 [flash_re]
 
 [bg storage="bg22b"]
@@ -1110,33 +1088,33 @@
 
 *8295|
 [fc]
-[ns]‰Á“¡[nse]
-u‚®‚Ÿ‚ÁIHv[pcms]
+[ns]Kato[nse]
+Guah!?[pcms]
 
 *8296|
 [fc]
-“Ë‘RA^–ç‚ª‰´‚ÉŠš‚İ‚Â‚¢‚½B[r]
-‚¢‚Â‚à‚ÌƒRƒCƒc‚ÍAâ‘Î‚É‚±‚ñ‚È–‚Í‚µ‚È‚¢B[pcms]
+Suddenly, Shinya bit me. This guy who is usually always like[r]this would never do something like that.[pcms]
 
 *8297|
 [fc]
-‚â‚Á‚Ï‚èAŠ®‘S‚É‚¨‚©‚µ‚­‚È‚Á‚Ä‚éccB[r]
-Šš‚İ‚Â‚­‚È‚ñ‚Äc‚±‚ê‚¶‚á‚Ü‚é‚Åcc“®•¨‚¾I[pcms]
+As I thought, they've completely lost it...[l][er]
+Biting me like that... It's just like...[l][er]
+an animal![pcms]
 
 *8298|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¿‚­‚µ‚å‚§‚§‚¨II@ƒNƒ\ƒbIIv[pcms]
+[ns]Kato[nse]
+Dammit!! Shit!![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std454|
 [fc]
-[ns]’|“à[nse]
-u‚âA‚ß‚ëccA‚¤‚Ÿccv[pcms]
+[ns]Takeuchi[nse]
+S-stop... ah... uh...[pcms]
 
-;//SE:‰£‚é
+;//SE:æ®´ã‚‹
 [se0 storage="se026"]
-;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
+;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
 [flash_re]
 
 [bg storage="bg22b"]
@@ -1148,170 +1126,165 @@
 
 *8299|
 [fc]
-’É‚İ‚©‚ç‚Ì“{‚è‚ÆA²”Œ‚ğç‚è‚½‚¢ˆêS‚ÅA©•ª‚Å‚à‹Á[r]
-‚­ˆÊA—Í‚Ì‚±‚à‚Á‚½‰´‚ÌŒ‚ÉA^–ç‚Í‚æ‚ë‚ß‚«‚È‚ª‚çŠO[r]
-‚Öo‚Äs‚Á‚½B[pcms]
+With anger stemming from the pain and a single-minded desire[r]to protect Saeki, I delivered a punch with an unexpectedly[r]strong force.[l][er]
+Shinya staggered and went outside.[pcms]
 
-;//SE:”à‚ğ•Â‚ß‚éi¨‚¢‚æ‚­j
+;//SE:æ‰‰ã‚’é–‰ã‚ã‚‹ï¼ˆå‹¢ã„ã‚ˆãï¼‰
 [se0 storage="se010"]
 
 *8300|
 [fc]
-[ns]‰Á“¡[nse]
-u‚â‚Á‚ÆccAŠO‚Éccv[pcms]
+[ns]Kato[nse]
+Finally... outside...[pcms]
 
-;//SE:”à‚ğ’@‚­‰¹@ƒ‹[ƒv
+;//SE:æ‰‰ã‚’å©ãéŸ³ã€€ãƒ«ãƒ¼ãƒ—
 [se0 storage="se027" loop=true]
 
 *8301|
 [fc]
-[ns]’|“à[nse]
-u‚ ‚¯A‚ëccA‚È‚©A‚ÉA‚¢‚êA‚ëccA‚»A‚ÌA‚¨[r]
-‚ñA‚Ècc‚ÍA‚ÚA‚­A‚ÌA‚à‚ÌA‚¾ccA‚ ‚¯A‚ëc[r]
-cA‚ÈA‚©A‚ÉA‚¢‚êA‚ëccv[pcms]
+[ns]Takeuchi[nse]
+Open... up... Enter... inside...[l][er]
+That sound... is... mine... Open...[l][er]
+up... Enter... inside...[pcms]
 
 *8302|
 [fc]
-‚â‚Á‚Æ‚Ìv‚¢‚Å‰Ÿ‚µo‚µ‚½^–ç‚ÍA‚Ü‚¾’ú‚ß‚¸‚É‚±‚¿‚ç[r]
-‚É“ü‚Á‚Ä‚±‚æ‚¤‚Æ‚µ‚Ä‚¢‚éB[pcms]
+Shinya, who was pushed out with great effort, is still not[r]giving up and trying to come back in here.[pcms]
 
 *8303|
 [fc]
-ƒ„ƒc‚ÉŠš‚Ü‚ê‚½Œ¨‚ª“‚­’É‚ŞB[r]
-‚±‚ÌƒUƒ}‚Å‚Íc‚Ü‚½‚±‚Á‚¿‚É“ü‚Á‚Ä—ˆ‚ç‚ê‚½‚çccB[r]
-‚à‚¤A‰Ÿ‚µ•Ô‚·–‚Ío—ˆ‚È‚¢‚¾‚ë‚¤ccB[pcms]
+My shoulder, which was bitten by that guy, hurts badly.[l][er]
+At this rate... if he comes back in here again...[l][er]
+I won't be able to push him away anymore...[pcms]
 
 *8304|
 [fc]
-â‘Î‚±‚Á‚¿‚É“ü‚ç‚¹‚é–ó‚É‚Í‚¢‚©‚È‚¢II[pcms]
+There's no way I can let him come in here!![pcms]
 
 *8305|
 [fc]
-[ns]‰Á“¡[nse]
-uƒEƒ‹ƒZƒFII@‚³‚Á‚³‚ÆA‚Ç‚±‚©‚ÉÁ‚¦‚¿‚Ü‚¦ƒbI@[r]
-²”Œ‚ÍccA²”Œ‚ÍA‰´‚Ì”Ş—‚¾II@‘¼‚Ìƒ„ƒc‚ç‚Éc[r]
-c‘¼‚Ìƒ„ƒc‚ç‚É‚Íâ‘ÎG‚ç‚¹‚Ë‚¥II@‚®‚ ‚Áccv[pcms]
+[ns]Kato[nse]
+Shut up!! Just disappear already![l][er]
+Saeki... Saeki is my girlfriend!![l][er]
+I won't let anyone else... I won't let anyone else touch[r]her!![l][er]
+Guah...[pcms]
 
 *8306|
 [fc]
-Šš‚Ü‚ê‚½Š‚ª”j‚¯‚ÄAŒŒ‚ª‚É‚¶‚İo‚Ä‚«‚Ä‚¢‚éB[pcms]
+The place where I was bitten has torn open and blood is[r]oozing out.[pcms]
 
 *8307|
 [fc]
-ƒNƒ\ƒbccII[pcms]
+Shit...!![pcms]
 
 *8308|
 [fc]
-[ns]’|“à[nse]
-u‚È‚ŸccA‚ ‚¯A‚ÄA‚­A‚ê‚æccA‚ÈA‚©A‚ÉA‚¢[r]
-‚êA‚Ä‚­‚êcc‚æv[pcms]
+[ns]Takeuchi[nse]
+Hey... o-open... up... let me...[l][er]
+in... put me... inside... please...[pcms]
 
 *8309|
 [fc]
-[ns]‰Á“¡[nse]
-u‚®‚ÁI@Á‚¦‚ëII@‚Ç‚Á‚©s‚¯‚¥‚ÁIIv[pcms]
+[ns]Kato[nse]
+Guh! Disappear!! Go somewhere else!![pcms]
 
 *8310|
 [fc]
-’É‚İ‚ª‘‚µ‚ÄA”à‚ğ‰Ÿ‚³‚¦‚é‚Ì‚ªh‚­‚È‚Á‚Ä‚«‚½ccB[r]
-‚à‚¤A‘Ï‚¦‚ç‚ê‚È‚¢‚©‚à‚µ‚ê‚È‚¢ccB[pcms]
+The pain is increasing, and it's becoming difficult to hold[r]onto the door...[l][er]
+I might not be able to endure it anymore...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_d_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_d_09"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3312|
 [fc]
 [vo_sa s="sae1109"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñccII@„‚àè“`‚¢‚Ü‚·IIv[pcms]
+[ns]Saeki[nse]
+Kato-san...!! I'll help too!![pcms]
 
 *8311|
 [fc]
-[ns]‰Á“¡[nse]
-u²”Œccv[pcms]
+[ns]Kato[nse]
+Saeki...[pcms]
 
 *8312|
 [fc]
-‰´‚ÌŒã‚ë‚Å‹¯‚¦‚Ä‚¢‚½‚¾‚¯‚¾‚Á‚½²”Œ‚ªccè“`‚Á‚Ä‚­[r]
-‚ê‚éccB[pcms]
+Saeki, who was just trembling behind me...[l][er]
+she's going to help...[pcms]
 
 *8313|
 [fc]
-²”ŒccB[r]
-‚¿‚å‚Á‚Æ‚µ‚½–‚Å‚·‚®‚É”ß–Â‚ğã‚°‚ÄA˜‚ğ”²‚©‚µ‚Ä‚¢[r]
-‚½²”Œ‚ªA¡‚Ícc•|‚ª‚é–‚à‚È‚­‰´‚ğè“`‚Á‚ÄccB[pcms]
+Saeki... Saeki, who used to scream and collapse at the[r]slightest thing, is now...[l][er]
+without fear, helping me...[pcms]
 
 *8314|
 [fc]
-‚»‚¤‚¾ccB[r]
-¡‚ÍA’É‚¢‚È‚ñ‚ÄŒ¾‚Á‚Ä‚¢‚éê‡‚¶‚á‚È‚¢II[pcms]
+That's right... Now is not the time to be saying it hurts!![pcms]
 
 *8315|
 [fc]
-²”Œ‚ğccB[r]
-²”Œ‚ğç‚é‚ñ‚¾II[pcms]
+Protect Saeki... Protect Saeki!![pcms]
 
 *8316|
 [fc]
-[ns]‰Á“¡[nse]
-u‚­‚Á‚»‚§II@‚¢‚¢‰ÁŒ¸‚ÉA‚Ç‚±‚©‚ÉÁ‚¦‚ë‚ÁI@‚±[r]
-‚±‚ÍA‚¨‘O‚Ì—ˆ‚éêŠ‚¶‚á‚Ë‚¦‚ÁIv[pcms]
+[ns]Kato[nse]
+Damn it!! Disappear already, somewhere else![l][er]
+This is not the place for you to come![pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_d_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_d_10"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3313|
 [fc]
 [vo_sa s="sae1110"]
-[ns]²”Œ[nse]
-u‚»‚¤‚Å‚·ƒbII@„‚àA‹M’j‚İ‚½‚¢‚Èl‚ÌŠç‚ÍAŒ©‚½[r]
-‚­‚ ‚è‚Ü‚¹‚ñƒbII@‘‚­A‚Ç‚±‚©‚És‚«‚È‚³‚¢ƒbII[r]
-‚³‚Á‚³‚ÆA‚±‚Ìê‚©‚ç—£‚ê‚È‚³‚¢ƒbIIIv[pcms]
+[ns]Saeki[nse]
+That's right!! I don't want to see the face of someone like[r]you!![l][er]
+Hurry up and go somewhere else!![l][er]
+Get away from here right now!![pcms]
 
 *8317|
 [fc]
-[ns]’|“à[nse]
-u‚¤ccA‚ÈA‚ñA‚¾‚æccA‚È‚ñA‚¾A‚æccA‚ĞA[r]
-‚Æ‚èA‚¶A‚ßA‚µ‚âA‚ª‚Á‚ÄccA‚­‚»ccA‚­A‚»‚§[r]
-ccA‚¿A‚­‚µ‚åA‚§ccv[pcms]
+[ns]Takeuchi[nse]
+Ugh... w-what... what the hell...[l][er]
+being left alone like this... damn...[l][er]
+damn it... shi-it...[pcms]
 
-;//SE:”à‚ğ’@‚­‰¹@’â~
+;//SE:æ‰‰ã‚’å©ãéŸ³ã€€åœæ­¢
 [stop_se0]
 
-;//ôFBGM008ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 [fadeoutbgm time=500]
 
 *8318|
 [fc]
-[ns]’|“à[nse]
-u‚­A‚»cc‚­A‚»‚Áccv[pcms]
+[ns]Takeuchi[nse]
+Ku... so... ku, s-so...[pcms]
 
 *8319|
 [fc]
-[ns]’|“à[nse]
-uccccv[pcms]
+[ns]Takeuchi[nse]
+â€¦â€¦â€¦â€¦[l][er]
 
 *8320|
 [fc]
-”à‚ğ’@‚­‰¹‚ª~‚İA‚±‚¿‚ç‚É‰Ÿ‚µ“ü‚ë‚¤‚Æ‚·‚é—Í‚àÁ‚¦[r]
-‚½B‚æ‚¤‚â‚­’ú‚ß‚½‚æ‚¤‚¾ccB[pcms]
+The sound of knocking on the door stopped, and the force[r]trying to push in here disappeared.[l][er]
+It seems like they finally gave up...[pcms]
 
 *8321|
 [fc]
-^–ç‚Í‚µ‚Î‚ç‚­‚ÌŠÔA‰´’B‚É‘Î‚·‚é”lº‚ğ“f‚«‘±‚¯‚Ä‚¢[r]
-‚½‚ªA‚»‚Ìº‚àAŸ‘æ‚É‰“‚Ì‚¢‚Ä‚¢‚Á‚½ccB[pcms]
+Shinya continued to hurl insults at us for a while, but his[r]voice gradually faded away...[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
 
-;//[07340]‚Ö
+;//[07340]ã¸
 [jump target=*07340_TOP storage="07340.ks"]

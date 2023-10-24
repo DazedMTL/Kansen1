@@ -1,155 +1,150 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02103wƒ‰ƒWƒIx
-;//BG:—‰ÈEˆõºF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöEƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02103ã€ãƒ©ã‚¸ã‚ªã€
+;//BG:ç†ç§‘è·å“¡å®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02103_TOP
-;[debug_win]‚È‚¤@02103[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02103 = 1"]
+;[debug_win]ãªã†ã€€02103[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02103 = 1"]
 
-;*SceneSet|wƒ‰ƒWƒIx
+;*SceneSet|ã€ãƒ©ã‚¸ã‚ªã€
 
 ;//[02103]
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 [bgm009]
 ;//BG:bg018a
 [bg storage="bg18a"]
 [trans_c cross time=500]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 [se0 storage="se005"]
 
 *2067|
 [fc]
-K‚¢ARŠİ‚³‚ñ‚âŠİ“c‚ğP‚Á‚½’j‚ÍA‚Ç‚±‚©‚Ös‚Á‚Ä‚µ[r]
-‚Ü‚Á‚½‚æ‚¤‚Åp‚Í‚È‚­A‰´‚Í“ï‚È‚­AV“¹æ¶‚Ì‚¢‚é—[r]
-‰Èº‚Ü‚Å’H‚è’…‚¢‚½B[pcms]
+Fortunately, it seems that the man who attacked Yamagishi-[r]san and Kishida has disappeared somewhere and there is no[r]sign of him.[l][er]
+I easily made my way to the science room where Shindou-[r]sensei was.[pcms]
 
 *2068|
 [fc]
-[ns]‰Á“¡[nse]
-uV“¹æ¶‚ÁIIv[pcms]
+[ns]Kato[nse]
+Sensei Shindou!![pcms]
 
 *2069|
 [fc]
-€”õº‚Ì”à‚ğA‰ó‚ê‚é‚®‚ç‚¢‚É¨‚¢‚æ‚­ŠJ‚¯‚Ä‰´‚Í‹©‚ñ[r]
-‚¾‚ªAV“¹æ¶‚ÍŠ÷‚ÉŒü‚©‚Á‚½‚Ü‚ÜA‚±‚¿‚ç‚ÉŠç‚ğŒü‚¯[r]
-‚È‚©‚Á‚½B[pcms]
+I forcefully opened the door to the preparation room, almost[r]breaking it, and shouted, but Shindou-sensei remained[r]focused on the desk and didn't turn her face towards me.[pcms]
+[l][er]
 
 *2070|
 [fc]
-[‚ÈŠç‚ğ‚µ‚Äƒ‰ƒWƒI‚É•·‚«“ü‚Á‚Ä‚¢‚é‚Ü‚Ü‚ÌV“¹æ¶[r]
-‚ÉA‰´‚Í•ñ‚ğ‚µ‚æ‚¤‚Æ‹ß‚Ã‚¢‚½B[pcms]
+I approached Shindou-sensei, who was still listening[r]intently to the radio with a serious expression on her face,[r]to give her a report.[pcms]
 
 *2071|
 [fc]
-[ns]‰Á“¡[nse]
-u‘å•Ï‚È‚ñ‚Å‚·A¡ccv[pcms]
+[ns]Kato[nse]
+It's urgent, right now...[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v838|
 [fc]
 [vo_ri s="risa0239"]
-[ns]V“¹[nse]
-u‚¦‚¦B’š“x‚¢‚¢‚íA‹M’j‚à•·‚¢‚Ä‚İ‚È‚³‚¢v[pcms]
+[ns]Shindou[nse]
+Yes. It's perfect timing. You should listen as well.[pcms]
 
 *2072|
 [fc]
-V“¹æ¶‚Í[‚ÈŠç‚ğ•ö‚³‚¸AŠ÷‚Ìã‚É’u‚¢‚Ä‚¢‚½ƒ‰ƒW[r]
-ƒI‚ğ‰´‚Ì•û‚ÖŒü‚¯‚ÄA‰¹‚ğ‘å‚«‚­‚µ‚½B[pcms]
+Shindou-sensei, without breaking her serious expression,[r]turned the radio that was placed on the desk towards me and[r]increased the volume.[pcms]
 
-;//ôFBGM009’â~
-;//ôFBGM–³‰¹
+;//â™ªï¼šBGM009åœæ­¢
+;//â™ªï¼šBGMç„¡éŸ³
 [fadeoutbgm time=500]
 
 *v839|
 [fc]
 [vo_mob s="radio0001"]
-[ns]ƒ‰ƒWƒI‚ÌƒAƒiƒEƒ“ƒT[[nse]
-ucc‚ÌŠ‚éŠ‚Å–\“®‚ª”­¶‚µ‚Ä‚¨‚èAŠOo‚·‚é‚Ì‚Í‘å[r]
-•ÏŠëŒ¯‚Å‚·B–\“k‚ªN“ü‚µ‚Ä‚­‚é‰Â”\«‚à‚ ‚è‚Ü‚·‚Ì‚ÅA[r]
-Œµd‚ÉŒË’÷‚Ü‚è‚ğ‚µ‚Ä‚­‚¾‚³‚¢BŒJ‚è•Ô‚µ‚Ü‚·ccv[pcms]
+[ns]Radio Announcer[nse]
+... Riots are occurring everywhere, and it is extremely[r]dangerous to go outside.[l][er]
+There is also a possibility of intruders breaking in, so[r]please make sure to secure your doors tightly.[l][er]
+I repeat...[pcms]
 
 *2073|
 [fc]
-[ns]‰Á“¡[nse]
-u‚È‚ñƒX‚©H@‚±‚êccv[pcms]
+[ns]Kato[nse]
+What is this...?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v840|
 [fc]
 [vo_ri s="risa0240"]
-[ns]V“¹[nse]
-u•·‚¢‚½’Ê‚è‚æB¡A“ú–{‚ÌŠe’n‚Å–\“®‚ª‹N‚±‚Á‚Ä‚¢‚é[r]
-‚ÌB‚»‚ê‚ğ“`‚¦‚É—ˆ‚½‚ñ‚¶‚á‚È‚¢‚ÌHv[pcms]
+[ns]Shindou[nse]
+Just as you heard. Riots are happening all over Japan right[r]now.[l][er]
+Isn't that why you came to tell me?[pcms]
 
-;//ôFBGM009ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM009ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 [bgm009]
 
 *2074|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¢‚¦A‚±‚ñ‚Èì‚è˜b‚Ì‚±‚Æ‚È‚ñ‚©‚¶‚á‚È‚¢ƒX‚æB¡A[r]
-ŠwZ‚É•Ï‚È“z‚ç‚ª“ü‚è‚ñ‚Å‚é‚ñ‚Å‚·BRŠİ‚³‚ñ‚âAŠİ[r]
-“cccæ¶‚àP‚í‚ê‚Äv[pcms]
+[ns]Kato[nse]
+No, this is not some made-up story.[l][er]
+Right now, there are strange people infiltrating the school.[l][er]
+Yamagishi-san and Kishida... even the teachers have been[r]attacked.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v841|
 [fc]
 [vo_ri s="risa0241"]
-[ns]V“¹[nse]
-uP‚í‚ê‚½ccHv[pcms]
+[ns]Shindou[nse]
+Attacked...?[pcms]
 
 *2075|
 [fc]
-ŠçF‚ğ•Ï‚¦‚½V“¹æ¶‚Ì˜r‚ğA‰´‚Í’Í‚ñ‚Åˆø‚¢‚½B[pcms]
+I grabbed Shindou-sensei's arm, whose face had changed[r]color, and pulled her.[pcms]
 
 *2076|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Æ‚É‚©‚­Aæ¶‚à‚±‚ñ‚ÈŠ‚Éˆêl‚Å‚¢‚½‚çŠë‚È‚¢‚Å‚·[r]
-‚©‚çA‰´‚Æˆê‚É—ˆ‚Ä‚­‚¾‚³‚¢B‘‚­Iv[pcms]
+[ns]Kato[nse]
+Anyway, it's dangerous for you to be alone in a place like[r]this, Sensei.[l][er]
+Please come with me. Hurry![pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [ChrSetParts layer=1 chface="risa_c_a_12"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v842|
 [fc]
 [vo_ri s="risa0242"]
-[ns]V“¹[nse]
-u‚ A‚¿‚å‚Á‚ÆA‰Á“¡ŒNIv[pcms]
+[ns]Shindou[nse]
+Ah, wait a minute, Kato-kun![pcms]
 
 *2077|
 [fc]
-‰´‚ÍV“¹æ¶‚ğˆø‚«‚¸‚é‚æ‚¤‚É‚µ‚ÄA—‰È€”õº‚ğŒã‚É[r]
-‚µ‚½B[pcms]
+I dragged Shindou-sensei and left the science preparation[r]room.[pcms]
 
 ;//blackout
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//[02104]‚Ö
+;//[02104]ã¸
 [jump target=*02104_TOP storage="02104.ks"]
 

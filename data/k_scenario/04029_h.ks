@@ -1,38 +1,38 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN04029wƒŠƒT‚ÌÅŒãx
-;//BG:Šw‰€“ü‚èŒûF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöEƒŠƒTEƒ]ƒ“ƒr
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04029ã€ãƒªã‚µã®æœ€å¾Œã€
+;//BG:å­¦åœ’å…¥ã‚Šå£ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µãƒ»ã‚¾ãƒ³ãƒ“
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *04029_H_TOP
-;[debug_win]‚È‚¤@04029_H[debug_win_end]
+;[debug_win]ãªã†ã€€04029_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 ;[if exp="tf.scene_mode == 0"][jump target=*04029][endif]
 ;[winset]
 
 
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *04029
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04029 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04029 = 1"]
 
-;*SceneSet|wƒŠƒT‚ÌÅŒãx
+;*SceneSet|ã€ãƒªã‚µã®æœ€å¾Œã€
 
-;//flag:—Dƒ‹[ƒgƒtƒ[@bad‚R@•\¦
+;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€badï¼“ã€€è¡¨ç¤º
 
-;//ôFBGM003
+;//â™ªï¼šBGM003
 
 [bgm003]
 
@@ -43,18 +43,16 @@
 
 *4190|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¾cc‘åä•v‚¾‚æ‚Èccv[pcms]
+[ns]Kato[nse]
+D... Is everything okay...?[pcms]
 
 *4191|
 [fc]
-K‚¢AˆÚ“®’†‚É‚¨‚©‚µ‚È“z‚ç‚ÍŒ»‚ê‚¸AEˆõŒºŠÖ‘O‚Ü‚Å[r]
-‚Í“ï‚È‚­’H‚è’…‚¢‚½B[pcms]
+Thank goodness, no strange people appeared during the move,[r]and we arrived at the staff entrance without any problems.[pcms]
 
 *4192|
 [fc]
-^–ç‚ª•Â‚ß‚½ƒVƒƒƒbƒ^[‚ÌƒƒbƒN‚ğ‰ğœ‚µ‚ÄA‰´‚ÍŒºŠÖ[r]
-‚ÌŠO‚Ö‚Æ”ò‚Ño‚µ‚½B[pcms]
+Shinya unlocked the shutter that Takeuchi had closed, and I[r]dashed out of the entrance.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -73,57 +71,53 @@
 
 *4193|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤‚í‚ÁIIv[pcms]
+[ns]Kato[nse]
+Uwah!![pcms]
 
 *4194|
 [fc]
-ŒºŠÖ‚ÌŠO‚Ö”ò‚Ño‚µ‚½“r’[A’†‚©‚ç‚ÍŒ©‚¦‚È‚¢Š‚É‚¢‚½[r]
-’N‚©‚ÉA‰´‚Í•ß‚Ü‚Á‚Ä‚µ‚Ü‚Á‚½B[pcms]
+As soon as I dashed out of the entrance, someone who was[r]hiding in a place I couldn't see from inside grabbed me.[pcms]
 
 *4195|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ècc‚ÁIIv[pcms]
+[ns]Kato[nse]
+N...![pcms]
 
 *4196|
 [fc]
-‰´‚Ì‘«‚â˜r‚ğ’Í‚ñ‚Å‚¢‚é‚»‚¢‚Â‚ç‚ÍA‚İ‚ñ‚ÈƒEƒ`‚Ì§•[r]
-‚ğ’…‚Ä‚¢‚ÄAƒCƒb‚½–Ú‚ğ‚µ‚Ä‚¢‚½B[pcms]
+The ones grabbing my legs and arms were all wearing our[r]uniforms and had a look of ecstasy on their faces.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [ChrSetParts layer=1 chface="risa_c_a_10"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1736|
 [fc]
 [vo_ri s="risa0408"]
-[ns]V“¹[nse]
-u‰Á“¡ŒN‚ÁIIv[pcms]
+[ns]Shindou[nse]
+Kato-kun!![pcms]
 
 *4197|
 [fc]
-V“¹æ¶‚Ìº‚ÉU‚è•Ô‚é‚ÆAo“ü‚èŒû‚Ì‹ß‚­‚É‚±‚¢‚Â‚ç[r]
-‚Ì’‡ŠÔ‚ªö‚ñ‚Å‚¢‚é‚Ì‚ÉA‰´‚Í‹C‚ª‚Â‚¢‚½B[pcms]
+When I turned around at Shindou-sensei's voice, I noticed[r]that these guys' comrades were hiding near the entrance.[pcms]
 
 *4198|
 [fc]
-‚ ‚¢‚Â‚çAV“¹æ¶‚ğP‚¤‹C‚¾II[pcms]
+Those guys, they intend to attack Shindou-sensei!![pcms]
 
 *4199|
 [fc]
-[ns]‰Á“¡[nse]
-uæ¶II@o‚Ä‚«‚¿‚áƒ_ƒ‚¾‚ÁIIv[pcms]
+[ns]Kato[nse]
+Sensei!! Don't come out!![pcms]
 
 *4200|
 [fc]
-‰´‚ª‹©‚ñ‚¾AV“¹æ¶‚Í‚à‚¤ŠO‚Éo‚Ä‚µ‚Ü‚Á‚Ä‚¢‚ÄA[r]
-ö‚ñ‚Å‚¢‚½’j‚Íæ¶‚Éæ‚è•t‚¢‚½B[pcms]
+When I shouted, Shindou-sensei had already gone outside, and[r]the man who was hiding approached her.[pcms]
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 
 [bgm008]
 
@@ -132,67 +126,66 @@
 [ChrSetParts layer=1 chface="risa_c_a_12"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1737|
 [fc]
 [vo_ri s="risa0409"]
-[ns]V“¹[nse]
-u‚«‚á‚ÁI@‚È‚ÁA‰½IHv[pcms]
+[ns]Shindou[nse]
+Kyaa! Wha-what!?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std330|
 [fc]
-[ns]’jq¶“k‚t[nse]
-u‚®‚Ö‚ÖA‚Ö‚Ö‚¥ccv[pcms]
+[ns]Male Student U[nse]
+Hehehe, hehe...[pcms]
 
 *4201|
 [fc]
-[ns]‰Á“¡[nse]
-uæ¶‚ÁII@‘‚­’†‚Ö“¦‚°‚ëIIv[pcms]
+[ns]Kato[nse]
+Sensei!! Hurry and run inside!![pcms]
 
 *v1738|
 [fc]
 [vo_ri s="risa0410"]
-[ns]V“¹[nse]
-u‚ ‚ cc‚ ‚ ‚ ‚ ccI@‚¢A‚¢‚â‚Ÿ‚ ‚ ‚ ccIv[pcms]
+[ns]Shindou[nse]
+Ah... Ahhh...! N-No...![pcms]
 
 *4202|
 [fc]
-‚ ‚½‚Ó‚½‚µ‚Ä‚¢‚é‚¤‚¿‚ÉAV‚½‚ÉŒ»‚ê‚½’j’B‚ÉˆÍ‚Ü‚êA[r]
-V“¹æ¶‚ÍŠ®‘S‚É•ß‚Ü‚Á‚Ä‚µ‚Ü‚Á‚½B[pcms]
+While in a state of panic, Shindou-sensei was completely[r]surrounded and captured by the newly appeared men.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std331|
 [fc]
-[ns]’jq¶“k‚u[nse]
-u‚â‚Á‚Æcc‚Ü‚ñA‚±‚ªA‚«A‚½‚Ÿ`ccv[pcms]
+[ns]Male Student V[nse]
+Finally... pussy, has come...[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [ChrSetParts layer=1 chface="risa_c_a_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1739|
 [fc]
 [vo_ri s="risa0411"]
-[ns]V“¹[nse]
-u‚¢‚â‚Ÿ‚ÁIIv[pcms]
+[ns]Shindou[nse]
+Nooo!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *4203|
 [fc]
-ŒQ‚ª‚Á‚Ä‚«‚½’j’B‚ÉAV“¹æ¶‚ª’n–Ê‚Éˆø‚«“|‚³‚ê‚éB[pcms]
+Shindou-sensei is dragged to the ground by the approaching[r]men.[pcms]
 
 *4204|
 [fc]
-‚È‚ñ‚Æ‚©•‚¯‚És‚±‚¤‚Æ‚à‚ª‚­‚ªA‘Ì‚ğ’Í‚Ş˜r‚ğU‚è•¥[r]
-‚¤‚±‚Æ‚ª‚Å‚«‚¸‚ÉA‰´‚à’n–Ê‚Öˆø‚«“|‚³‚ê‚Ä‚µ‚Ü‚Á‚½B[pcms]
+I struggled to try to go and help, but I couldn't shake off[r]the arms that grabbed my body, and I was dragged down to the[r]ground as well.[pcms]
+[l][er]
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 
 [se0 storage="se021"]
 
@@ -200,18 +193,18 @@
 
 *4205|
 [fc]
-[ns]‰Á“¡[nse]
-u‚­cc‚ÁII@æ¶IIv[pcms]
+[ns]Kato[nse]
+Kuh...!! Sensei!![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1740|
 [fc]
 [vo_ri s="risa0412"]
-[ns]V“¹[nse]
-u‚¢‚â‚ ‚ ‚Ÿ‚Ÿ‚ÁIIv[pcms]
+[ns]Shindou[nse]
+Noooo!![pcms]
 
-;//[04030]‚Ö
+;//[04030]ã¸
 [jump target=*04030_H_TOP storage="04030_H.ks"]
 
 

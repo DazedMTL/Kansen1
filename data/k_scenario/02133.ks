@@ -1,20 +1,20 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02133w‚½‚¢‚Ü‚Â2x
-;//BG:“Áê‹³º˜L‰ºF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöEƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02133ã€ãŸã„ã¾ã¤2ã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02133_TOP
-;[debug_win]‚È‚¤@02133[debug_win_end]
+;[debug_win]ãªã†ã€€02133[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02133 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02133 = 1"]
 
-;*SceneSet|w‚½‚¢‚Ü‚Â‚Qx
+;*SceneSet|ã€ãŸã„ã¾ã¤ï¼’ã€
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 
 ;//[bgm009]
 
@@ -25,59 +25,56 @@
 
 *2470|
 [fc]
-EˆõŒºŠÖ‚ÌƒVƒƒƒbƒ^[‚ğ~‚ë‚µAƒƒbƒN‚ğ‚©‚¯‚½‚Æ‚±‚ë[r]
-‚ÅA‘ÌˆçŠÙ‚É’Ê‚¶‚Ä‚¢‚é˜L‰º‚Ì•û‚©‚çA‰½l‚à‚Ì’j‚Ì™ï[r]
-‚«º‚ª•·‚±‚¦‚Ä‚«‚½B[pcms]
+I lowered the shutter at the staff entrance and locked it,[r]and just as I did, I heard the moans of several men coming[r]from the hallway that leads to the gymnasium.[pcms]
+[l][er]
 
 *2471|
 [fc]
-[ns]‰Á“¡[nse]
-u‚±‚¢‚Â‚çAˆê‘Ì‚Ç‚±‚©‚ç•¦‚¢‚Ä‚­‚é‚ñ‚¾ccv[pcms]
+[ns]Kato[nse]
+Where on earth are these guys coming from...[pcms]
 
 *2472|
 [fc]
-˜L‰º‚Ì‰A‚©‚çp‚ğŒ»‚µ‚½‚Ì‚ÍA•’Ê‚¶‚á‚È‚¢–Ú‚ğ‚µ‚½A[r]
-ƒEƒ`‚Ì§•‚ğ’…‚½“z‚ç‚¾‚Á‚½B[pcms]
+The ones who appeared from the shadows of the hallway were[r]guys with unusual eyes, wearing our school uniforms.[pcms]
 
-;//BG:bg003a+Š´õÒ‚R‘Ì
+;//BG:bg003a+æ„ŸæŸ“è€…ï¼“ä½“
 
-;mm ‚È‚ñ‚©‚¨‚©‚µ‚¢‚©‚ç’¼‚·‚È‚ñ‚Å3¨5‚É‘‚¦‚é‚ñ‚¾
-;mm ‚±‚Á‚¿‚ğ5‘Ì
+;mm ãªã‚“ã‹ãŠã‹ã—ã„ã‹ã‚‰ç›´ã™ãªã‚“ã§3â†’5ã«å¢—ãˆã‚‹ã‚“ã 
+;mm ã“ã£ã¡ã‚’5ä½“
 
 ;[bg storage="bg03a"]
-;Ô–Ñ
+;èµ¤æ¯›
 [ChrSetEx layer=5 chbase="zom_01_a"][ChrSetXY layer=5 x=200 y=0]
-;—
+;å¥³
 [ChrSetEx layer=4 chbase="zom_05_a"][ChrSetXY layer=4 x=0   y=0]
-;ƒtƒcƒƒ“
+;ãƒ•ãƒ„ãƒ¡ãƒ³
 [ChrSetEx layer=3 chbase="zom_04_a"][ChrSetXY layer=3 x=400 y=0]
-;ƒfƒu
+;ãƒ‡ãƒ–
 [ChrSetEx layer=2 chbase="zom_02_a"][ChrSetXY layer=2 x=520 y=0]
-;‹à’Z”¯
+;é‡‘çŸ­é«ª
 [ChrSetEx layer=1 chbase="zom_03_a"][ChrSetXY layer=1 x=0   y=0]
 [trans_c cross time=150]
 
 *2473|
 [fc]
-‚¾‚ª¡‚ÍA‹¯‚¦‚é•K—v‚àA“¦‚°‚é•K—v‚à‚È‚¢B[r]
-“z‚ç‚Ìã“_‚Í‚à‚¤‚í‚©‚Á‚Ä‚¢‚éB[pcms]
+But now, there is no need to be afraid or to run away.[l][er]
+I already know their weakness.[pcms]
 
 *2474|
 [fc]
-‚±‚¿‚ç‚É‹C‚ª‚Â‚«A•à‚¢‚Ä‚­‚é’j’B‚ÉŒü‚¯‚ÄA‰´‚Í”R‚¦[r]
-‚é¼–¾‚ğ“Ë‚«o‚µ‚½B[pcms]
+I noticed them approaching and extended a burning torch[r]towards the men walking towards me.[pcms]
 
 *2475|
 [fc]
-[ns]‰Á“¡[nse]
-u­‚µ‚Å‚à‹ß‚Ã‚¢‚Ä‚İ‚ëAÄ‚«E‚µ‚Ä‚â‚éIIv[pcms]
+[ns]Kato[nse]
+Come closer, even just a little, and I'll burn you to[r]death!![pcms]
 
 *2476|
 [fc]
-[ns]’jq¶“k‚`[nse]
-u‚¤‚§ccv[pcms]
+[ns]Male Student A[nse]
+Uwo...[pcms]
 
-;//¦zombie_001@‚T‘Ì
+;//â€»zombie_001ã€€ï¼•ä½“
 
 ;	[bg storage="bg03a"]
 ;	[ChrSetEx layer=5 chbase="zom_03_a"]
@@ -93,32 +90,32 @@
 ;	[trans_c cross time=500]
 
 
-;mm ‚±‚Á‚¿‚ğ3‘Ì@
-;Ô–Ñ
+;mm ã“ã£ã¡ã‚’3ä½“ã€€
+;èµ¤æ¯›
 [ChrSetEx layer=5 chbase="zom_01_a"][ChrSetXY layer=5 x=200 y=0]
-;—
+;å¥³
 ;[ChrSetEx layer=4 chbase="zom_05_a"][ChrSetXY layer=4 x=0   y=0]
 [chara_int4]
-;ƒtƒcƒƒ“
+;ãƒ•ãƒ„ãƒ¡ãƒ³
 [ChrSetEx layer=3 chbase="zom_04_a"][ChrSetXY layer=3 x=400 y=0]
-;ƒfƒu
+;ãƒ‡ãƒ–
 ;[ChrSetEx layer=2 chbase="zom_02_a"][ChrSetXY layer=2 x=520 y=0]
 [chara_int2]
-;‹à’Z”¯
+;é‡‘çŸ­é«ª
 [ChrSetEx layer=1 chbase="zom_03_a"][ChrSetXY layer=1 x=0   y=0]
 [trans_c cross time=150]
 
 
 *2477|
 [fc]
-[ns]’jq¶“k‚f[nse]
-u‚¤‚Ÿ`ccv[pcms]
+[ns]Male Student G[nse]
+Ugh~...[pcms]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;//¦zombie_002@‚R‘Ì
+;//â€»zombie_002ã€€ï¼“ä½“
 
-;mm ‚±‚±‚ÍŒ¸‚ç‚³‚È‚¢
+;mm ã“ã“ã¯æ¸›ã‚‰ã•ãªã„
 ;	[bg storage="bg03a"]
 ;	[ChrSetEx layer=1 chbase="zom_03_a"]
 ;	[ChrSetXY layer=1 x=0 y=0]
@@ -130,10 +127,10 @@
 
 *2478|
 [fc]
-[ns]’jq¶“k‚e[nse]
-u‚ÜA‚Ü‚ÔA‚µccv[pcms]
+[ns]Male Student F[nse]
+M-ma... mabu... shi...[pcms]
 
-;//¦bg008a+zombie_003@‚Q‘Ì
+;//â€»bg008a+zombie_003ã€€ï¼’ä½“
 
 ;	[bg storage="bg08a"]
 ;	[ChrSetEx layer=2 chbase="zom_01_a"]
@@ -143,16 +140,16 @@
 ;	[trans_c cross time=500]
 
 
-;Ô–Ñ
+;èµ¤æ¯›
 [ChrSetEx layer=5 chbase="zom_01_a"][ChrSetXY layer=5 x=200 y=0]
-;—
+;å¥³
 ;[ChrSetEx layer=4 chbase="zom_05_a"][ChrSetXY layer=4 x=0   y=0]
-;ƒtƒcƒƒ“
+;ãƒ•ãƒ„ãƒ¡ãƒ³
 ;[ChrSetEx layer=3 chbase="zom_04_a"][ChrSetXY layer=3 x=400 y=0]
 [chara_int3]
-;ƒfƒu
+;ãƒ‡ãƒ–
 ;[ChrSetEx layer=2 chbase="zom_02_a"][ChrSetXY layer=2 x=520 y=0]
-;‹à’Z”¯
+;é‡‘çŸ­é«ª
 [ChrSetEx layer=1 chbase="zom_03_a"][ChrSetXY layer=1 x=0   y=0]
 [trans_c cross time=150]
 
@@ -162,18 +159,16 @@
 
 *2479|
 [fc]
-‰Î‚ğ‹°‚ê‚ÄŒã‚¸‚³‚é‘å¨‚Ì’j’B‚Ì’†‚ğA‰´‚ÆV“¹æ¶‚Í[r]
-ŠK’i‚Ö‚ÆŒü‚©‚Á‚Ä•à‚­B[pcms]
+Hitomi and I walked towards the stairs through the crowd of[r]men who were retreating in fear of the fire.[pcms]
 
 *2480|
 [fc]
-[ns]‰Á“¡[nse]
-uƒnƒnƒbI@‚Ç‚¤‚¾A‚±‚ê‚È‚çP‚¦‚È‚¢‚¾‚ë‚¤Iv[pcms]
+[ns]Kato[nse]
+Haha! How about this? You won't be able to attack now,[r]right?[pcms]
 
 *2481|
 [fc]
-v‚¢‚Á‚«‚è‰£‚è‚Â‚¯‚Ä‚à‚Ü‚é‚ÅŒø‚©‚È‚©‚Á‚½“z‚ç‚ÌA‰Î[r]
-‚ğ•|‚ª‚Á‚ÄŒã‚¸‚³‚é—lq‚ÉA‰´‚Í—D‰zŠ´‚ğŠ´‚¶‚Ä‚¢‚½B[pcms]
+I felt a sense of superiority as I watched those guys, who[r]were completely unaffected even after being hit with all my[r]strength, retreat in fear of the fire.[pcms]
 
-;//[02134]‚Ö
+;//[02134]ã¸
 [jump target=*02134_TOP storage="02134.ks"]

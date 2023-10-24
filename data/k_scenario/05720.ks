@@ -1,15 +1,15 @@
 
-;//¡ËƒuƒƒbƒN05720w’EoŒv‰æx
-;//;//BG:’n‰ººGÁ“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05720ã€è„±å‡ºè¨ˆç”»ã€
+;//;//BG:åœ°ä¸‹å®¤ï¼›æ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05720_TOP
-;[debug_win]‚È‚¤@05720[debug_win_end]
-;*SceneSet|w’EoŒv‰æx
+;[debug_win]ãªã†ã€€05720[debug_win_end]
+;*SceneSet|ã€è„±å‡ºè¨ˆç”»ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05720 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05720 = 1"]
 
-;//ôFBGM010
+;//â™ªï¼šBGM010
 
 [bgm010]
 
@@ -18,7 +18,7 @@
 [bg storage="bg23a"]
 [trans_c cross time=500]
 
-;//SE:—â‘ ŒÉ‚Ìƒ‚[ƒ^[‰¹
+;//SE:å†·è”µåº«ã®ãƒ¢ãƒ¼ã‚¿ãƒ¼éŸ³
 
 [se0 storage="se044"]
 
@@ -28,90 +28,87 @@
 
 *6127|
 [fc]
-[ns]‰Á“¡[nse]
-ucc–²ccHv[pcms]
+[ns]Kato[nse]
+... Dream...?[pcms]
 
 *6128|
 [fc]
-”ò‚Ñ‚ñ‚Å‚«‚½’n‰ºº‚Ì•—Œi‚ÉA‰´‚Í‚æ‚¤‚â‚­A©•ª‚ª[r]
-¡‚Ü‚Å–°‚Á‚Ä‚¢‚½‚Ì‚¾‚Æ‹C‚ª‚Â‚¢‚½B[pcms]
+I finally realized that I had been sleeping all this time[r]when I saw the scenery of the basement that I jumped into.[pcms]
 
 *6129|
 [fc]
-‚¢‚Â‚ÌŠÔ‚ÉccB[r]
-‚Ç‚ê‚®‚ç‚¢Q‚Ä‚½‚ñ‚¾H@‰´ccB[pcms]
+When did this happen...? How long was I asleep?[l][er]
+Me...[pcms]
 
 *6130|
 [fc]
-ü‚è‚ğŒ©‰ñ‚·‚ÆA²”Œ‚ÍŠm‚©‚É‰´‚Ì—×‚Å–°‚Á‚Ä‚¢‚½B[pcms]
+When I looked around, Saeki was definitely sleeping next to[r]me.[pcms]
 
 *6131|
 [fc]
-[ns]‰Á“¡[nse]
-u‰½‚¾‚Á‚½‚ñ‚¾A‚ ‚Ì–²ccv[pcms]
+[ns]Kato[nse]
+What was that dream...[pcms]
 
 *6132|
 [fc]
-©•ª‚ªŒ©‚½–²‚É•sˆÀŠ´‚ğø‚ç‚êA‰´‚ÍQ‚Ä‚Ä²”Œ‚Ì‘Ì‚ğ[r]
-—h‚·‚èA–Ú‚ğŠo‚Ü‚³‚¹‚½B[pcms]
+I was filled with unease by the dream I had seen, so I[r]hurriedly shook Saeki's body to wake her up.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2554|
 [fc]
 [vo_sa s="sae0667"]
-[ns]²”Œ[nse]
-u‚ñccv[pcms]
+[ns]Saeki[nse]
+Mmm...[pcms]
 
 *6133|
 [fc]
-[ns]‰Á“¡[nse]
-uƒSƒƒ“‚ÈA‹N‚±‚µ‚¿‚Ü‚Á‚Äv[pcms]
+[ns]Kato[nse]
+Sorry, I woke you up.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2555|
 [fc]
 [vo_sa s="sae0668"]
-[ns]²”Œ[nse]
-u‰½‚©‚ ‚Á‚½‚Ì‚Å‚·‚©ccHv[pcms]
+[ns]Saeki[nse]
+Did something happen...?[pcms]
 
 *6134|
 [fc]
-[ns]‰Á“¡[nse]
-u‚½‚¾‚Ì‰´‚ÌƒJƒ“‚È‚ñ‚¾‚¯‚Çcc‰½‚©AŒ™‚È—\Š´‚ª‚·‚é[r]
-‚ñ‚¾‚æ‚ÈB‚¾‚©‚çA‚·‚®‚ÉŠwZ‚©‚ç—£‚ê‚æ‚¤‚Æv‚Á‚Äv[pcms]
+[ns]Kato[nse]
+It's just my intuition, but...[l][er]
+I have a bad feeling about something.[l][er]
+That's why I'm thinking of leaving school right away.[pcms]
 
 *6135|
 [fc]
-ƒ{ƒ“ƒ„ƒŠ‚Æ‚µ‚½•sˆÀŠ´‚©‚ço‚½’ñˆÄ‚ÉA²”Œ‚Í^–Ê–Ú‚È[r]
-Šç‚É‚È‚Á‚Ä“š‚¦‚½B[pcms]
+Saeki responded with a serious expression to the suggestion[r]that came from a vague sense of unease.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2556|
 [fc]
 [vo_sa s="sae0669"]
-[ns]²”Œ[nse]
-u„‚àA‚±‚êˆÈã‚±‚±‚É‚Í‹‚½‚­‚ ‚è‚Ü‚¹‚ñ‚µA‹M’j‚Æ[r]
-—£‚ê‚é‚Ì‚àŒ™‚Å‚·Bˆê‚És‚«‚Ü‚·v[pcms]
+[ns]Saeki[nse]
+I don't want to stay here any longer either, and I don't[r]want to be separated from you.[l][er]
+I'll go with you.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *6136|
 [fc]
-—Í‹­‚­Œ¾‚¤²”Œ‚ÉA‰´‚Í‚¤‚È‚¸‚¢‚Ä•Ô‚µAŠO‚Ö‘±‚­”à‚É[r]
-Œü‚©‚Á‚½B[pcms]
+I nodded in response to Saeki's strong words and headed[r]towards the door leading outside.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -122,5 +119,5 @@
 
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05730]‚Ö
+;//[05730]ã¸
 [jump target=*05730_TOP storage="05730.ks"]

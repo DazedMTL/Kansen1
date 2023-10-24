@@ -1,16 +1,16 @@
 
-;//¡ËƒuƒƒbƒN05210wÄŒû˜_x
-;//BG:“Áê‹³º˜L‰ºF–éG“_“”
-;//“oêl•¨GålŒöE“µEƒŠƒTE‰Á“¡
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05210ã€å†å£è«–ã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼›ç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»ãƒªã‚µãƒ»åŠ è—¤
 
 *05210_TOP
-;[debug_win]‚È‚¤@05210[debug_win_end]
-;*SceneSet|wÄŒû˜_x
+;[debug_win]ãªã†ã€€05210[debug_win_end]
+;*SceneSet|ã€å†å£è«–ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05210 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05210 = 1"]
 
 ;	/*
-;	;//ôFBGM001
+;	;//â™ªï¼šBGM001
 ;	[bgm001]
 ;	*/
 
@@ -18,107 +18,99 @@
 [bg storage="bg05c"]
 [trans_c cross time=500]
 
-;//SE:˜L‰º‚ğ•à‚­
+;//SE:å»Šä¸‹ã‚’æ­©ã
 
 
 ;;;[sysbt_meswin]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2116|
 [fc]
 [vo_sa s="sae0405"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *5052|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *5053|
 [fc]
-Œ‹‹ÇA‚¢‚¢Œ¾—t‚ªv‚¢•‚‚©‚Î‚¸A‰´’B‚ÌŠÔ‚É‚ÍA‹C‚Ü‚¸[r]
-‚¢‹ó‹C—¬‚ê‚½‚Ü‚Ü‚¾‚Á‚½B[pcms]
+In the end, no good words came to mind, and an awkward[r]silence hung between us.[pcms]
 
 *5054|
 [fc]
-‰´’B‚ÍA–³Œ¾‚Å‹’®Šoº‚ÖŒü‚©‚Á‚Ä•à‚¢‚Ä‚¢‚é‚ÆAŒƒ‚µ[r]
-‚­Œ¾‚¢‡‚¤º‚ªAŒã‚ë‚©‚ç‹ß‚Ã‚¢‚Ä‚«‚½B[pcms]
+As we walked in silence towards the audiovisual room, we[r]heard voices arguing loudly approaching from behind.[pcms]
 
 *v2117|
 [fc]
 [vo_ri s="risa0526"]
-[ns]V“¹[nse]
-u‚¢‚¢‚©‚°‚ñ‚É‚µ‚È‚³‚¢II@Ø‹’‚ª‚È‚¯‚ê‚Î–³‘Ê‚¾‚Æ[r]
-Œ¾‚Á‚Ä‚¢‚é‚Å‚µ‚å‚¤IIv[pcms]
+[ns]Shindou[nse]
+Cut it out already!! I'm saying it's pointless if you don't[r]have any evidence!![pcms]
 
 *5055|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¶‚á‚ ‚³‚ŸAØ‹’Œ©‚¹‚½‚çAƒ{ƒN‚ÌŒ¾‚¤‚±‚Æ•·‚­‚ñ‚¾[r]
-‚ÈIH@‚Ç‚¤‚È‚ñ‚¾‚ææ¶IIv[pcms]
+[ns]Kato[nse]
+Well then, if you show me the evidence, will you listen to[r]what I say?![l][er]
+What's the deal, Sensei?![pcms]
+[l][er]
 
 *5056|
 [fc]
-‰½–‚©‚ÆU‚è•Ô‚é‚ÆA^–ç‚ÆV“¹æ¶‚ªA‚Ü‚½‰½‚©‚ğŒ¾[r]
-‚¢‡‚¢‚È‚ª‚çA‚±‚¿‚ç‚ÖŒü‚©‚Á‚Ä•à‚¢‚Ä‚«‚Ä‚¢‚½B[pcms]
+When I turned around to see what was going on, Shinya and[r]Sensei Shindou were walking towards us, arguing with each[r]other about something.[pcms]
 
 *5057|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ü‚½‚â‚Á‚Ä‚é‚æccv[pcms]
+[ns]Kato[nse]
+You're doing it again...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2118|
 [fc]
 [vo_sa s="sae0406"]
-[ns]²”Œ[nse]
-u‚à‚µ‚©‚µ‚ÄA’‡‚ª‚¢‚¢‚Ì‚©‚µ‚çccv[pcms]
+[ns]Saeki[nse]
+I wonder if they have a good relationship...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *5058|
 [fc]
-Šm‚©‚ÉwƒPƒ“ƒJ‚·‚é‚Ù‚Ç’‡‚ª‚¢‚¢x‚Æ‚Í‚¢‚¤‚ªA^–ç‚Æ[r]
-V“¹æ¶‚ÌŠÔ‚É‚ÍA’‡‚ª‚¢‚¢‚Æ‚Í‚Æ‚Ä‚àv‚¦‚È‚¢’ö‚ÌA[r]
-Œ¯ˆ«‚È‹ó‹C‚ª—¬‚ê‚Ä‚¢‚½B[pcms]
+Certainly, it is said that 'they have such a good[r]relationship that they fight', but between Shinya and Sensei[r]Shindou, there was an extremely tense atmosphere that made[r]it hard to believe they were close.[pcms]
 
 *5059|
 [fc]
-‚»‚Ì‚¤‚¿A‘O‚ğ•à‚¢‚Ä‚¢‚é‰´’B‚É‹C‚ª‚Â‚¢‚½‚æ‚¤‚ÅA“ñ[r]
-l‚ÌŒ¾‚¢‡‚¤º‚ªƒpƒ^ƒb‚Æ~‚Ü‚Á‚½B[pcms]
+Eventually, it seemed like they noticed us walking ahead,[r]and the voices of the two arguing abruptly stopped.[pcms]
 
 *5060|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *5061|
 [fc]
-”w’†‚É–­‚ÈƒvƒŒƒbƒVƒƒ[‚ÆA‹C‚Ü‚¸‚¢•µˆÍ‹C‚ğŠ´‚¶‚½‰´[r]
-‚ÍAU‚èŒü‚©‚¸A‚»‚Ì‚Ü‚Ü‹’®Šoº‚Ü‚Ås‚Á‚Ä‚µ‚Ü‚¨‚¤[r]
-‚Æl‚¦‚½B[pcms]
+I felt a strange pressure on my back and an awkward[r]atmosphere.[l][er]
+Without turning around, I decided to continue walking[r]towards the audiovisual room.[pcms]
 
 [se1 storage="se067"]
 
 *5062|
 [fc]
-²”Œ‚à‚»‚¤l‚¦‚Ä‚¢‚½‚æ‚¤‚ÅA‰½‚àŒ¾‚í‚¸A‰´‚Æ•À‚ñ‚Å[r]
-‹’®Šoº‚Ö‚Æ•à‚¢‚½B[pcms]
+Saeki seemed to think the same way, and without saying[r]anything, she walked alongside me towards the audiovisual[r]room.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 ;//blackout
 
-;//[05220]‚Ö
+;//[05220]ã¸
 [jump target=*05220_TOP storage="05220.ks"]

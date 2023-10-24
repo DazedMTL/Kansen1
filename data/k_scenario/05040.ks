@@ -1,15 +1,15 @@
 
-;//¡ËƒuƒƒbƒN05040wˆêŠK‹³ºx
-;//BG:–³‚µ
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05040ã€ä¸€éšæ•™å®¤ã€
+;//BG:ç„¡ã—
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05040_TOP
-;[debug_win]‚È‚¤@05040[debug_win_end]
-;*SceneSet|wˆêŠK‹³ºx
+;[debug_win]ãªã†ã€€05040[debug_win_end]
+;*SceneSet|ã€ä¸€éšæ•™å®¤ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05040 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05040 = 1"]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 
 [bgm001]
 
@@ -23,14 +23,13 @@
 
 *4687|
 [fc]
-‰´‚Æ²”Œ‚ÍˆêŠK‚Ì•’Ê‹³º‚Ì•û‚Ö—ˆ‚Ä‚İ‚½‚ªA˜L‰º‚É‚à[r]
-‹³º‚É‚àA“”‚è‚ÍˆêØ“_‚¯‚ç‚ê‚Ä‚¢‚È‚©‚Á‚½B[pcms]
+Saeki and I tried going towards the regular classroom on the[r]first floor, but neither the hallway nor the classroom had[r]any lights turned on.[pcms]
+[l][er]
 
 *4688|
 [fc]
-˜L‰º‚Ì“d“”‚ÌƒXƒCƒbƒ`‚ğ’T‚µ‚Ä‚¢‚½‰´‚ÍA‚±‚Ì•Ó‚è‚É‚Í[r]
-’N‚à‚¢‚È‚¢‚©‚ç“ñŠK‚Ös‚±‚¤‚Æ²”Œ‚É‘£‚³‚ê‚ÄA“ñŠK‚É[r]
-‘±‚­ŠK’i‚ÖŒü‚©‚Á‚½B[pcms]
+Saeki urged me to go to the second floor since there was no[r]one around here, as I was searching for the light switch in[r]the hallway.[l][er]
+We headed towards the staircase leading to the second floor.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -39,108 +38,101 @@
 
 *4689|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚êA“_‚©‚È‚¢‚Èccv[pcms]
+[ns]Kato[nse]
+Huh, it's not turning on...[pcms]
 
 *4690|
 [fc]
-‰ó‚ê‚Ä‚¢‚é‚Ì‚©AŒuŒõ“”‚ªØ‚ê‚Ä‚¢‚é‚Ì‚©AƒXƒCƒbƒ`‚ğ[r]
-“ü‚ê‚Ä‚à“d“”‚Í“_‚©‚¸AŠK’i‚Í^‚ÁˆÃ‚È‚Ü‚ÜA•Ï‚í‚é‚±[r]
-‚Æ‚Í‚È‚©‚Á‚½B[pcms]
+Whether it was broken or the fluorescent lights were out,[r]the lights didn't turn on even when I flipped the switch.[l][er]
+The staircase remained pitch black, unchanged.[pcms]
 
 *4691|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ü‚ŸA‚¢‚¢‚©ccB‚½‚¢‚µ‚½‹——£‚¶‚á‚È‚¢‚ñ‚¾‚µA‚±[r]
-‚Ì‚Ü‚Üs‚±‚¤‚ºv[pcms]
+[ns]Kato[nse]
+Well, it's fine... It's not that far anyway, so let's just[r]keep going like this.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2026|
 [fc]
 [vo_sa s="sae0320"]
-[ns]²”Œ[nse]
-u‚Í‚¢ccv[pcms]
+[ns]Saeki[nse]
+Yes...[pcms]
 
 *4692|
 [fc]
-•sˆÀ‚°‚ÈŠç‚ğ‚·‚é²”Œ‚ğ˜A‚ê‚ÄA‰´‚Í^‚ÁˆÃ‚ÈŠK’i‚ğã[r]
-‚èn‚ß‚½B[pcms]
+I took Saeki, who had an uneasy expression, and started[r]climbing the pitch-black staircase.[pcms]
 
 *4693|
 [fc]
-[ns]‰Á“¡[nse]
-uH@‚È‚É’Í‚ñ‚Å‚é‚ñ‚¾‚æv[pcms]
+[ns]Kato[nse]
+? What are you holding onto?[pcms]
 
 *4694|
 [fc]
-ŠK’i‚ğã‚èn‚ß‚Ä‚©‚ç‚·‚®‚ÉAƒVƒƒƒc‚Ì˜‚Ì•”•ª‚ğ’Í‚Ü[r]
-‚ê‚½Š´‚¶‚ª‚µ‚ÄA‰´‚Í²”Œ‚ğU‚è•Ô‚Á‚½B[pcms]
+As soon as we started climbing the stairs, I felt someone[r]grab the waist of my shirt, so I turned around to look at[r]Saeki.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2027|
 [fc]
 [vo_sa s="sae0321"]
-[ns]²”Œ[nse]
-u‚µAd•û‚È‚¢‚¶‚á‚ ‚è‚Ü‚¹‚ñ‚©I@ˆÃ‚­‚Ä‚æ‚­Œ©‚¦‚È[r]
-‚¢‚Ì‚Å‚·‚©‚çccv[pcms]
+[ns]Saeki[nse]
+W-Well, it can't be helped, right?[l][er]
+It's dark and hard to see...[pcms]
 
 *4695|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ö‚¥‚Ö‚¥ccB‚Ç‚¤‚¹‚È‚çè‚¥ˆ¬‚ê‚æA‚Ù‚êv[pcms]
+[ns]Kato[nse]
+Hehe... If that's the case, why don't you hold my hand?[l][er]
+Come on.[pcms]
 
 *4696|
 [fc]
-ç’k‚Åo‚µ‚½è‚ğA²”Œ‚Ì­‚µ‚Ğ‚ñ‚â‚è‚Æ‚µ‚Ä_‚ç‚©‚¢[r]
-è‚ªA‰“—¶‚ª‚¿‚Éˆ¬‚Á‚Ä‚­‚éB[pcms]
+Saeki's slightly cool and soft hand, which she hesitantly[r]held out, grasped my jokingly extended hand.[pcms]
 
 *4697|
 [fc]
-w‚Ó‚´‚¯‚È‚¢‚ÅIx[pcms]
+Don't joke around![pcms]
 
 *4698|
 [fc]
-‚»‚¤“{‚èo‚·‚Æv‚Á‚Ä‚¢‚½‰´‚ÍA—\‘z‚µ‚Ä‚¢‚È‚©‚Á‚½²[r]
-”Œ‚Ìè‚ÌŠ´G‚ÉAƒhƒMƒ}ƒM‚µ‚Ä‚µ‚Ü‚Á‚½B[pcms]
+I, who thought she would get angry, became flustered by the[r]unexpected sensation of Saeki's hand that I hadn't[r]anticipated.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2028|
 [fc]
 [vo_sa s="sae0322"]
-[ns]²”Œ[nse]
-u‚ ‚ÌA‚·‚İ‚Ü‚¹‚ñA“o‚èØ‚é‚Ü‚Åccv[pcms]
+[ns]Saeki[nse]
+Um, excuse me, until we reach the top...[pcms]
 
 *4699|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚ ‚ A‘«‰ºŠë‚È‚¢‚©‚ç‚Èv[pcms]
+[ns]Kato[nse]
+Ah, ah, be careful of your footing.[pcms]
 
 *4700|
 [fc]
-•’iAã‚©‚ç‚Ì–Úü‚Åà‹³‚µ‚Ä‚­‚é²”Œ‚ÉAv‚¢‚ª‚¯‚¸[r]
-—Š‚ç‚ê‚½‚±‚Æ‚ÉA‰´‚Íˆ«‚¢‹C‚ª‚µ‚È‚¢‚Ç‚±‚ë‚©AŠğ‚µ‚¢[r]
-‚ÆŠ´‚¶‚Ä‚¢‚½B[pcms]
+I didn't feel bad at all, in fact, I felt happy when Saeki,[r]who usually lectures me from a superior position,[r]unexpectedly relied on me.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 ;//blackout
 
-;//[05050]‚Ö
+;//[05050]ã¸
 [jump target=*05050_TOP storage="05050.ks"]

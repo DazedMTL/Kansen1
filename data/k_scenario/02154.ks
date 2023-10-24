@@ -1,24 +1,24 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02154wƒŠƒT”­Çx
-;//BG:OŠK‹³ºF–é
-;//“oêl•¨GålŒöEƒŠƒTE—D
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02154ã€ãƒªã‚µç™ºç—‡ã€
+;//BG:ä¸‰éšæ•™å®¤ï¼šå¤œ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µãƒ»å„ª
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02154_TOP
-;[debug_win]‚È‚¤@02154[debug_win_end]
+;[debug_win]ãªã†ã€€02154[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02154 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02154 = 1"]
 
-;*SceneSet|wƒŠƒT”­Çx
+;*SceneSet|ã€ãƒªã‚µç™ºç—‡ã€
 
-;//ôFBGM006
+;//â™ªï¼šBGM006
 
 ;//[bgm006]
 
-;//H_CG:ƒŠƒT‚ªƒpƒCƒYƒŠ
+;//H_CG:ãƒªã‚µãŒãƒ‘ã‚¤ã‚ºãƒª
 
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
@@ -33,12 +33,12 @@
 
 *2805|
 [fc]
-ƒ‚ƒm‚É‚«‚©‚¯‚ç‚ê‚½‘§‚ÌŠ´GccB[r]
-ƒ‚ƒm‚ğ•ï‚İ‚Ş‹¹‚Ìˆ³—ÍccB[pcms]
+The sensation of breath blowing on an object...[l][er]
+The pressure of the chest enveloping the object...[pcms]
 
 *2806|
 [fc]
-‚»‚¤‚¾A–²‚É‚µ‚Ä‚ÍŠ´Šo‚ªƒŠƒAƒ‹‰ß‚¬‚éI[pcms]
+That's right, the sensation is too realistic for a dream![pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -51,27 +51,25 @@
 
 *2807|
 [fc]
-[ns]‰Á“¡[nse]
-u‚­cc‚ÁIIv[pcms]
+[ns]Kato[nse]
+Ku...!![pcms]
 
 *2808|
 [fc]
-Q‹N‚«‚Å‚¤‚Ü‚­“®‚©‚È‚¢‘Ì‚ğA‰´‚Íƒ€ƒŠƒ„ƒŠ‹N‚±‚µ‚ÄA[r]
-V“¹æ¶‚©‚ç“¦‚ê‚½B[pcms]
+I forcefully woke up my body that wasn't moving well after[r]waking up, and escaped from Shindou-sensei.[pcms]
 
 *v1070|
 [fc]
 [vo_ri s="risa0348"]
-[ns]V“¹[nse]
-u‚ cc‚»A‚êA‚í‚½A‚µ‚Ìcc‚¨‚¿‚ñA‚¿A‚ñcc‚Æ[r]
-‚ç‚ÈA‚¢‚Åccv[pcms]
+[ns]Shindou[nse]
+Ah... Tha-, that, is my... di-, ck...[l][er]
+Don't touch it...[pcms]
 
 *2809|
 [fc]
-‰´‚É‚É‚¶‚èŠñ‚éV“¹æ¶‚ÍA‰´’B‚ğP‚Á‚½“z‚ç‚âAæ¶[r]
-‚ğ”Æ‚µ‚Ä‚¢‚½Šİ“c‚Æ“¯‚¶–Ú‚ğ‚µ‚Ä‚¢‚½B[pcms]
+Shindou-sensei, who crawled towards me, had the same eyes as[r]the ones who attacked us and violated Sensei Kishida.[pcms]
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 
 [bgm009]
 
@@ -82,89 +80,90 @@
 
 *2810|
 [fc]
-[ns]‰Á“¡[nse]
-uRŠİ‚³‚ñ‚ÁIv[pcms]
+[ns]Kato[nse]
+Yamagishi-san![pcms]
 
 *2811|
 [fc]
-‰´‚Ío‚Ä‚¢‚½‚Ü‚Ü‚Ìƒ‚ƒm‚ğƒYƒ{ƒ“‚Ì’†‚É‰Ÿ‚µ‚İARŠİ[r]
-‚³‚ñ‚ğ‹N‚±‚»‚¤‚Æ‹©‚ñ‚¾B[pcms]
+I pushed the thing that was still out back into my pants and[r]shouted to wake up Yamagishi-san.[pcms]
 
 *2812|
 [fc]
-[ns]‰Á“¡[nse]
-uRŠİ‚³‚ñI@‹N‚«‚ë‚ÁIIv[pcms]
+[ns]Kato[nse]
+Yamagishi-san! Wake up!![pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1071|
 [fc]
 [vo_ya s="yama0363"]
-[ns]RŠİ[nse]
-u‚¦‚ÁIH@‚ÈA‚È‚ÉIHv[pcms]
+[ns]Yamagishi[nse]
+Eh!? W-What!?[pcms]
 
 *2813|
 [fc]
-‰´‚Ì‹©‚Ôº‚ÉA¡’©‚Ì‚æ‚¤‚ÉQ‚Ú‚¯‚é‚±‚Æ‚È‚­”ò‚Ñ‹N‚«[r]
-‚ÄARŠİ‚³‚ñ‚Í•Ó‚è‚ğŒ©‰ñ‚µ‚½B[r]
-ˆÙí‚È–Ú‚Â‚«‚ğ‚µ‚½V“¹æ¶‚ªcc‰´‚É”—‚Á‚Ä‚­‚éB[pcms]
+In response to my shouting voice, Yamagishi-san woke up[r]without any drowsiness like this morning and looked around.[l][er]
+Shindou-sensei, with an abnormal look in his eyes...[l][er]
+was approaching me.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_a_e_01"]
 [ChrSetXY layer=1 x=180 y=0]
 [ChrSetParts layer=1 chface="risa_a_e_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1072|
 [fc]
 [vo_ri s="risa0349"]
-[ns]V“¹[nse]
-u‚ÜA‚¿cc‚ÈA‚³‚¢cc‚©A‚ÆA‚¤cc‚­‚ñccv[pcms]
+[ns]Shindou[nse]
+Wai... wait... don't... touch...[l][er]
+me...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1073|
 [fc]
 [vo_ya s="yama0364"]
-[ns]RŠİ[nse]
-u‚¦ccH@‚¹ccæ¶ccIHv[pcms]
+[ns]Yamagishi[nse]
+Eh...? Se... Sensei...!?[pcms]
 
 *2814|
 [fc]
-[ns]‰Á“¡[nse]
-uV“¹æ¶‚ª‚¨‚©‚µ‚­‚È‚Á‚½I@ã‚Ö“¦‚°‚é‚ñ‚¾IIv[pcms]
+[ns]Kato[nse]
+Shindou-sensei has gone crazy![l][er]
+Let's run upstairs!![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1074|
 [fc]
 [vo_ya s="yama0365"]
-[ns]RŠİ[nse]
-u‚¤A‚¤‚ñIv[pcms]
+[ns]Yamagishi[nse]
+Y-Yeah![pcms]
 
 *2815|
 [fc]
-RŠİ‚³‚ñ‚Ìè‚ğˆø‚«A‰´‚Í‹³º‚ğ”ò‚Ño‚µ‚½B[pcms]
+I grabbed Yamagishi-san's hand and rushed out of the[r]classroom.[pcms]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 
 [se0 storage="se005"]
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -172,7 +171,7 @@
 
 ;//blackout
 
-;//[02155]‚Ö
+;//[02155]ã¸
 [jump target=*02155_TOP storage="02155.ks"]
 
 

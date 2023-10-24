@@ -1,20 +1,20 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02139w‹~•‚ğ‘Ò‚Âx
-;//BG:“ñŠK˜L‰ºFƒoƒŠƒP[ƒh‘OF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöEƒŠƒTE—DE‰Á“¡
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02139ã€æ•‘åŠ©ã‚’å¾…ã¤ã€
+;//BG:äºŒéšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰å‰ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µãƒ»å„ªãƒ»åŠ è—¤
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02139_TOP
-;[debug_win]‚È‚¤@02139[debug_win_end]
+;[debug_win]ãªã†ã€€02139[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02139 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02139 = 1"]
 
-;*SceneSet|w‹~•‚ğ‘Ò‚Âx
+;*SceneSet|ã€æ•‘åŠ©ã‚’å¾…ã¤ã€
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 
 [bgm009]
 
@@ -27,52 +27,50 @@
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std279|
 [fc]
-[ns]’|“à[nse]
-u‚¹‚ñ‚¹[cc‚¿‚å‚Á‚ÆA‚Ë‚Ä‚Ä‚à‚¢‚¢A‚Å‚·‚©H[r]
-‚È‚ñ‚©A‚·‚²‚­A‚Ë‚ŞA‚­‚Äccv[pcms]
+[ns]Takeuchi[nse]
+Sensei... Is it okay if I sleep a little?[l][er]
+I'm feeling really sleepy...[pcms]
 
 *2533|
 [fc]
-^–ç‚ÍŠz‚ğ‰Ÿ‚³‚¦‚ÄAƒ_ƒ‹‚»‚¤‚Èº‚Å‚»‚¤Œ¾‚Á‚½B[r]
-‚»‚¤‚¢‚¦‚ÎA‰Ä•—×‚ğ‚Ğ‚¢‚½‚Á‚ÄŒ¾‚Á‚Ä‚½‚ÈccB[pcms]
+Shinya pressed his forehead and said in a tired voice.[l][er]
+Come to think of it, he said he caught a summer cold...[pcms]
 
 *2534|
 [fc]
-¡“ú‚Í‚¨‚©‚µ‚È“z‚ç‚Ì‚¹‚¢‚Å–\‚ê‚½‚èA‚ ‚Á‚¿‚±‚Á‚¿‘–‚è[r]
-‰ñ‚Á‚½‚è‚µ‚½‚©‚ç‚ÈccB[r]
-”æ‚ê‚à‚·‚é‚©ccB[pcms]
+Today, because of those weirdos causing a ruckus and running[r]around here and there...[l][er]
+I'm feeling tired too...[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v989|
 [fc]
 [vo_ri s="risa0322"]
-[ns]V“¹[nse]
-u\‚¢‚Ü‚¹‚ñ‚æB‹M•û’B‚àA­‚µ‹x‚ñ‚Å‚¨‚«‚È‚³‚¢v[pcms]
+[ns]Shindou[nse]
+It's fine. You guys should rest a little too.[pcms]
 
 
 [black_toplayer winon][trans_c cross time=500][hide_chara_int]
 
 *2535|
 [fc]
-æ¶‚É‚»‚¤‘£‚³‚ê‚ÄA‰´’B‚Í^–ç‚ÌŒã‚É‚Â‚¢‚Ä‹ß‚­‚Ì‹³[r]
-º‚É“ü‚Á‚½B[pcms]
+At the teacher's urging, we followed Shinya and entered a[r]nearby classroom.[pcms]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;BGM’â~
+;BGMåœæ­¢
 [fadeoutbgm time=500][wb]
 [wait_c time=1000]
 
 
-;//[02140]‚Ö
+;//[02140]ã¸
 [jump target=*02140_TOP storage="02140.ks"]
 
 

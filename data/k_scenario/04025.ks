@@ -1,21 +1,21 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN04025w“µ‚Ì•œQ3x
-;//BG:“Áê‹³º˜L‰ºF’‹i’©Œ“—pj
-;//“oêl•¨G’|“àE“µEƒ]ƒ“ƒr
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04025ã€ç³ã®å¾©è®3ã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ç«¹å†…ãƒ»ç³ãƒ»ã‚¾ãƒ³ãƒ“
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *04025_TOP
-;[debug_win]‚È‚¤@04025[debug_win_end]
+;[debug_win]ãªã†ã€€04025[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04025 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04025 = 1"]
 
-;*SceneSet|w“µ‚Ì•œQ‚Rx
+;*SceneSet|ã€ç³ã®å¾©è®ï¼“ã€
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 
 ;//[bgm008]
 
@@ -26,36 +26,34 @@
 
 *4110|
 [fc]
-[ns]’|“à[nse]
-u‚­A—ˆ‚é‚È‚Á‚ÄI@‚­‚ÁccI@‚È‚ñ‚ÅŠJ‚©‚È‚¢‚ñ‚¾[r]
-‚æIIv[pcms]
+[ns]Takeuchi[nse]
+D-Don't come! Ugh...! Why won't it open!![pcms]
 
-;//SE:‚ª‚¿‚á‚ª‚¿‚á
+;//SE:ãŒã¡ã‚ƒãŒã¡ã‚ƒ
 
 
 *4111|
 [fc]
-‚È‚ñ‚ÅEˆõºAŒ®‚ª‚©‚©‚Á‚Ä‚é‚ñ‚¾‚æI[r]
-“µ‚ªo‚Ä‚«‚½‹³º‚ÍA•’Ê‚ÉƒhƒAŠJ‚¢‚½‚¶‚á‚È‚¢‚©II[pcms]
+Why is the staff room locked?![l][er]
+The classroom where Hitomi came out from, the door opened[r]normally, didn't it?![pcms]
 
 *4112|
 [fc]
-[ns]’|“à[nse]
-u‚­‚»‚ÁccA‚»‚¤‚¾Aæ¶ccv[pcms]
+[ns]Takeuchi[nse]
+Damn it... That's right, Sensei...[pcms]
 
 
 
 *4113|
 [fc]
-ƒ{ƒN‚ÍAV“¹æ¶‚Ì‚¢‚é—‰È€”õº‚Ì•û‚É“¦‚°‚æ‚¤‚Æ‚µ[r]
-‚½B[pcms]
+I tried to escape towards the science preparation room where[r]Shindou-sensei was.[pcms]
 
 *4114|
 [fc]
-[ns]’|“à[nse]
-u‚¤‚í‚Áccv[pcms]
+[ns]Takeuchi[nse]
+Uwah...[pcms]
 
-;//SE:l‚É‚Ô‚Â‚©‚é
+;//SE:äººã«ã¶ã¤ã‹ã‚‹
 
 [se0 storage="se025"]
 [quake_bg xy m]
@@ -67,55 +65,51 @@
 
 *4115|
 [fc]
-U‚èŒü‚«‚´‚Ü‚ÉA‚·‚®‚»‚Î‚Ü‚Å—ˆ‚Ä‚¢‚½“µ‚É‚Ô‚Â‚©‚èA[r]
-“]‚ñ‚Å‚µ‚Ü‚Á‚½B[pcms]
+As I turned around, I collided with Hitomi who was right[r]beside me and ended up falling down.[pcms]
 
 
 *4116|
 [fc]
-‚Ô‚Â‚©‚Á‚½‘Šècc“µ‚ÍA‰½‚à‚È‚©‚Á‚½‚©‚Ì‚æ‚¤‚ÉAƒ{[r]
-ƒN‚É‹ß‚Ã‚¢‚Ä‚­‚éB[pcms]
+The person I collided with... Hitomi approached me as if[r]nothing had happened.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1692|
 [fc]
 [vo_sa s="sae0265"]
-[ns]²”Œ[nse]
-u‚µ‚Ë‚Î‚¢‚¢‚Ì‚Éccv[pcms]
+[ns]Saeki[nse]
+I wish you would just die...[pcms]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
 ;//redflash
 
-[Ôƒtƒ‰]
+[èµ¤ãƒ•ãƒ©]
 
 ;g[bg storage="bg08a"]
 ;g[trans_c cross time=500]
 
 *4117|
 [fc]
-[ns]’|“à[nse]
-uIIv[pcms]
+[ns]Takeuchi[nse]
+!![pcms]
 
 *4118|
 [fc]
-‚È‚ñ‚¾ccH[r]
-‰½‚ªŒõ‚Á‚½‚ñ‚¾H@¡ccB[pcms]
+What...? What was that light? Right now...[pcms]
 
 *4119|
 [fc]
-[ns]’|“à[nse]
-u‚ ‚êccHv[pcms]
+[ns]Takeuchi[nse]
+Huh...?[pcms]
 
 *4120|
 [fc]
-‚È‚ñ‚¾A‚±‚êccB[r]
-‰½‚©‚¨• ‚ª”M‚¢‚Æv‚Á‚½‚çccB[pcms]
+What is this...? When I thought my stomach was feeling[r]hot...[pcms]
 
 *4121|
 [fc]
-‚¨• ‚ÉAƒ|ƒPƒbƒgccH[pcms]
+A pocket in my stomach...?[pcms]
 
 [se0 storage="se021"]
 
@@ -132,73 +126,71 @@
 
 *4122|
 [fc]
-[ns]’|“à[nse]
-u‚Í‚ÁA‚Í‚Ğ‚ÁccIIv[pcms]
+[ns]Takeuchi[nse]
+H-ha... haah...!![pcms]
 
 *v1693|
 [fc]
 [vo_sa s="sae0266"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *4123|
 [fc]
-‚È‚ÉA‚±‚êccAƒ{ƒN‚Ì‚¨• A‚Ç‚¤‚µ‚ÄH[pcms]
+What is this...? Why is my stomach...?[pcms]
 
 *4124|
 [fc]
-[ns]’|“à[nse]
-u‚Ó‚Í‚Ácc‚ÍA‚£ccv[pcms]
+[ns]Takeuchi[nse]
+Fuh... ha, u...[pcms]
 
 *4125|
 [fc]
-‚¨• ‚ÉA—Í‚ª“ü‚ç‚È‚¢ccB[r]
-’‚ê‚È‚¢‚æccB[pcms]
+I can't put any strength in my stomach...[l][er]
+I can't speak...[pcms]
 
 *4126|
 [fc]
-‚È‚ñ‚ÅccH[r]
-ƒ{ƒN‚Ì‚¨• A‚Ç‚¤‚¿‚á‚Á‚½‚ñ‚¾ccIH[pcms]
+Why...? What happened to my stomach...!?[pcms]
 
 *v1694|
 [fc]
 [vo_sa s="sae0267"]
-[ns]²”Œ[nse]
-uccƒtƒbcv[pcms]
+[ns]Saeki[nse]
+... Huh...[pcms]
 
 *4127|
 [fc]
-[ns]’|“à[nse]
-u‚£A‚­cc‚Ö‚Í‚Áccv[pcms]
+[ns]Takeuchi[nse]
+Ugh... ku... heh...[pcms]
 
 *4128|
 [fc]
-ƒ{ƒN‚ªA‚¨‘O‚ğ”Æ‚µ‚½‚©‚çccH[r]
-ƒ{ƒN‚Éd•Ô‚µ‚µ‚É–ß‚Á‚Ä‚«‚½‚Ì‚©ccH[pcms]
+Is it because I violated you...?[l][er]
+Did you come back to get revenge on me...?[pcms]
 
 *4129|
 [fc]
-[ns]’|“à[nse]
-u‚Ícc‚Ó‚Í‚Áccv[pcms]
+[ns]Takeuchi[nse]
+Haa... hah...[pcms]
 
 *4130|
 [fc]
-”M‚¢ccB[r]
-‚¨• ‚ªccB[pcms]
+It's hot... My stomach...[pcms]
 
 *4131|
 [fc]
-Š¦‚¢ccB[pcms]
+It's cold...[pcms]
 
 *v1695|
 [fc]
 [vo_sa s="sae0268"]
-[ns]²”Œ[nse]
-u‚Ó‚Ó‚Ócc‚Ó‚Ó‚Ó‚Ó‚Óccc‚ ‚Í‚Í‚Í‚Í‚Íccv[pcms]
+[ns]Saeki[nse]
+Hehehe... hehehehe... ahahahaha...[pcms]
 
 ;;;[sysbt_meswin clear]
 
-;ƒVƒXƒeƒ€ƒ{ƒ^ƒ“•ƒEƒBƒ“ƒhƒEÁ‹
+;ã‚·ã‚¹ãƒ†ãƒ ãƒœã‚¿ãƒ³ï¼†ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
 [sysbt_meswin clear]
 
 [evcg storage="EV_006_b"]
@@ -216,9 +208,9 @@
 
 ;//blackout
 
-;//ôFBGM008ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 
-;//[04017]‚Ö
+;//[04017]ã¸
 [jump target=*04017_TOP storage="04017.ks"]
 
 

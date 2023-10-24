@@ -1,15 +1,15 @@
 
-;//¡ËƒuƒƒbƒN05890w”šŒ‚x
-;//BG:’n‰ººFÁ“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05890ã€çˆ†æ’ƒã€
+;//BG:åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05890_TOP
-;[debug_win]‚È‚¤@05890[debug_win_end]
-;*SceneSet|w”šŒ‚x
+;[debug_win]ãªã†ã€€05890[debug_win_end]
+;*SceneSet|ã€çˆ†æ’ƒã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05890 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05890 = 1"]
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 ;//[bgm009]
 
 ;//BG:bg23b
@@ -17,7 +17,7 @@
 [bg storage="bg23a"]
 [trans_c cross time=500]
 
-;//SE:í“¬‹@‚ª”ò‚ñ‚Å‚¢‚­‰¹
+;//SE:æˆ¦é—˜æ©ŸãŒé£›ã‚“ã§ã„ãéŸ³
 [se0 storage="se017"]
 
 
@@ -25,18 +25,17 @@
 
 *6346|
 [fc]
-’n‰ºº‚ÌŠK’i‚ğ‰º‚è‚È‚ª‚çA”à‚Éè‚ğ‚©‚¯‚½‚Æ‚±‚ë‚ÅA[r]
-b‚‚¢‰¹‚ª˜A‘±‚µ‚Ä•·‚±‚¦‚Ä‚­‚é‚Ì‚ğA‰´‚Í¨‚É‚µ‚½B[pcms]
+As I descended the stairs to the basement and reached for[r]the door, I heard a series of high-pitched sounds.[pcms]
 
 *6347|
 [fc]
-[ns]‰Á“¡[nse]
-u‰½ccv[pcms]
+[ns]Kato[nse]
+What...[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;//SE:”š”­‰¹@‰“‚­‚©‚ç˜A‘±
+;//SE:çˆ†ç™ºéŸ³ã€€é ãã‹ã‚‰é€£ç¶š
 [se0 storage="se055"]
 
 [bg storage="bg23b"][trans_c cross time=301]
@@ -65,8 +64,8 @@
 
 *6348|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨‚ ‚Ÿ‚ÁIIIIv[pcms]
+[ns]Kato[nse]
+Ohhh!!![pcms]
 
 ;	/*
 ;	[ChrSetEx layer=1 chbase="sae_c_a_01"]
@@ -75,13 +74,13 @@
 ;	[trans_c cross time=150]
 ;	*/
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2595|
 [fc]
 [vo_sa s="sae0704"]
-[ns]²”Œ[nse]
-u‚«‚á‚ ‚ ‚Ÿ‚Ÿ‚ÁIIIIv[pcms]
+[ns]Saeki[nse]
+Kyaaaahhhhhh!!!!!![pcms]
 
 [sysbt_meswin clear]
 
@@ -102,12 +101,12 @@
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 [se0 storage="se021"]
 
 ;[quake_bg xy m]
 
-;//ôFBGM009ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM009ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 [fadeoutbgm time=500]
 
 [white_toplayer winon][trans_c cross time=100][hide_chara_int_w]
@@ -116,8 +115,8 @@
 
 *6352|
 [fc]
-[ns]‰Á“¡[nse]
-u‚®cc‚£ccv[pcms]
+[ns]Kato[nse]
+Gu... uh...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -132,5 +131,5 @@
 
 [wait_c time=1500]
 
-;//[05900]‚Ö
+;//[05900]ã¸
 [jump target=*05900_H_TOP storage="05900_H.ks"]

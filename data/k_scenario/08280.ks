@@ -1,20 +1,20 @@
 
-;//¡ËƒuƒƒbƒN08280w‚Ğ‚Æ‚èx
-;//BG:‹³ºF’©
-;//“oêl•¨FålŒö
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08280ã€ã²ã¨ã‚Šã€
+;//BG:æ•™å®¤ï¼šæœ
+;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬
 
 *08280_TOP
-;[debug_win]‚È‚¤@08280[debug_win_end]
+;[debug_win]ãªã†ã€€08280[debug_win_end]
 
-;*SceneSet|w‚Ğ‚Æ‚èx
+;*SceneSet|ã€ã²ã¨ã‚Šã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08280 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08280 = 1"]
 ;	/*
-;	;//ôFBGM008
+;	;//â™ªï¼šBGM008
 ;	[bgm008]
 ;	*/
 
-;//;//BG:bg–³‚µ
+;//;//BG:bgç„¡ã—
 
 
 
@@ -22,14 +22,11 @@
 
 *10490|
 [fc]
-ccccB[r]
-cccB[r]
-ccB[pcms]
+â€¦â€¦â€¦â€¦ã€‚ â€¦â€¦â€¦ã€‚ â€¦â€¦ã€‚[pcms]
 
 *10491|
 [fc]
-Ã‚©‚¾ccB[r]
-‚Ü‚Ô‚µ‚¢ccB[pcms]
+It's quiet... It's bright...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -46,57 +43,57 @@
 
 *10492|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¾‚êcc‚àcc‚¢‚ÈA‚¢ccv[pcms]
+[ns]Kato[nse]
+Who... is... not... here...[pcms]
 
 *10493|
 [fc]
-‚³‚Á‚«‚Ü‚Ål‚ª‘òR‹‚½‚Æv‚¤‚¯‚ÇccB[r]
-ŠFcc‚Ç‚±‚ÉccB[pcms]
+I think there were a lot of people here until just now...[l][er]
+Where did everyone go?[pcms]
 
 *10494|
 [fc]
-‰´ˆêlccB[pcms]
+I'm alone...[pcms]
 
 *10495|
 [fc]
-ˆêlccB[pcms]
+Alone...[pcms]
 
 *10496|
 [fc]
-‰´‚¾‚¯ccB[pcms]
+Only me...[pcms]
 
 *10497|
 [fc]
-‚³‚İ‚µ‚¢ccB[pcms]
+I'm lonely...[pcms]
 
 *10498|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¾‚êcc‚©A‚¢‚È‚¢cc‚Ìcc‚©Hv[pcms]
+[ns]Kato[nse]
+Is... there... no one... here?[pcms]
 
 *10499|
 [fc]
-‰´‚¾‚¯cc’u‚¢‚ÄccB[pcms]
+Only me... left...[pcms]
 
 *v3831|
 [fc]
 [vo_ya s="yama1076"]
-[ns]RŠİ[nse]
-u‚à[‚Ácc‰®ãccs‚Á‚Ä‚İ‚æ‚¤‚æccv[pcms]
+[ns]Yamagishi[nse]
+Mooo... Let's go to the rooftop and check it out...[pcms]
 
 *10500|
 [fc]
-‰½‚©Aº‚ªH[pcms]
+Did you hear something?[pcms]
 
 *10501|
 [fc]
-ŠO‚©ccH[pcms]
+Is someone outside...?[pcms]
 
 *10502|
 [fc]
-s‚Á‚Ä‚İ‚æ‚¤ccB[pcms]
+Let's go and check it out...[pcms]
 
-;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 [jump target=*08281_H_TOP storage="08281_H.ks"]
 

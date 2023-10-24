@@ -1,37 +1,37 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN04027w—‰¤x
-;//BG:“Áê‹³º˜L‰ºF’‹i’©Œ“—pj
-;//“oêl•¨GƒŠƒTE“µEƒ]ƒ“ƒr
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04027ã€å¥³ç‹ã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ãƒªã‚µãƒ»ç³ãƒ»ã‚¾ãƒ³ãƒ“
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *04027_H_TOP
-;[debug_win]‚È‚¤@04027_H[debug_win_end]
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;[debug_win]ãªã†ã€€04027_H[debug_win_end]
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 ;[if exp="tf.scene_mode == 0"][jump target=*04027][endif]
 ;[winset]
 
 
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *04027
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04027 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04027 = 1"]
 
-;*SceneSet|w—‰¤x
+;*SceneSet|ã€å¥³ç‹ã€
 
-;//flag:—Dƒ‹[ƒgƒtƒ[@zap‚T@•\¦
+;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€zapï¼•ã€€è¡¨ç¤º
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 
 [bgm007]
 
@@ -46,80 +46,79 @@
 *v1696|
 [fc]
 [vo_ri s="risa0373"]
-[ns]V“¹[nse]
-uccv[pcms]
+[ns]Shindou[nse]
+â€¦â€¦[l][er]
 
 *4133|
 [fc]
-‚â‚Á‚Ï‚èA‰Á“¡ŒN‚ª‚â‚Á‚½‚Æ‚Íl‚¦‚É‚­‚¢‚í‚ËccB[pcms]
+I find it hard to believe that Kato-kun did it after all...[pcms]
 
 *v1697|
 [fc]
 [vo_ri s="risa0374"]
-[ns]V“¹[nse]
-u‚Ü‚³‚©AŠİ“cæ¶‚ªccHv[pcms]
+[ns]Shindou[nse]
+Could it be, Mr. Kishida...?[pcms]
 
 *4134|
 [fc]
-‚ ‚Ì’j‚È‚ç‚â‚è‚©‚Ë‚È‚¢‚íB[r]
-RŠİ‚³‚ñ‚ğ‘_‚Á‚Ä‚¢‚é‚æ‚¤‚È–‚ğŒ¾‚Á‚Ä‚¢‚½‚µccB[pcms]
+That man is capable of doing it.[l][er]
+He said something that seemed like he was targeting[r]Yamagishi-san...[pcms]
 
 *v1698|
 [fc]
 [vo_ri s="risa0375"]
-[ns]V“¹[nse]
-uccæ‚èŠ¸‚¦‚¸‹~‹}Ô‚Ëv[pcms]
+[ns]Shindou[nse]
+... Anyway, call an ambulance.[pcms]
 
 *4135|
 [fc]
-ŠmØ‚ª‚È‚¢–‚ğA‚¢‚Â‚Ü‚Å‚àl‚¦‚Ä‚¢‚Ä‚àd•û‚È‚¢‚íB[r]
-¡‚ÍRŠİ‚³‚ñ‚Ì—e‘Ô‚Ì–‚ğl‚¦‚È‚­‚Ä‚ÍccB[pcms]
+There's no point in constantly thinking about things without[r]evidence.[l][er]
+Right now, we need to focus on Yamagishi-san's condition...[pcms]
 
 *v1699|
 [fc]
 [vo_ri s="risa0376"]
-[ns]V“¹[nse]
-u‚ ‚çA‚ ‚ê‚Íccv[pcms]
+[ns]Shindou[nse]
+Oh, that is...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1700|
 [fc]
 [vo_ri s="risa0377"]
-[ns]V“¹[nse]
-u²”Œ‚³‚ñI@‚Ç‚±‚Ös‚Á‚Ä‚¢‚½‚ÌH@ŠFAS”z‚µ‚Ä‚¢[r]
-‚½‚Ì‚æIv[pcms]
+[ns]Shindou[nse]
+Saeki-san! Where did you go? Everyone was worried about you![pcms]
 
 [ChrSetEx layer=5 chbase="sae_d_d_12"]
 [ChrSetXY layer=5 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1701|
 [fc]
 [vo_sa s="sae0269"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *v1702|
 [fc]
 [vo_ri s="risa0378"]
-[ns]V“¹[nse]
-u²”Œ‚³‚ñccHv[pcms]
+[ns]Shindou[nse]
+Saeki-san...?[pcms]
 
 *4136|
 [fc]
-‚ÈccB[r]
-‰½ŒÌA•‚ªccH@ˆê‘ÌA‰½‚ªccH[pcms]
+Ngh... Why is my clothes...? What on earth...?[pcms]
 
 *4137|
 [fc]
-‚»‚ê‚Écc€‚ñ‚¾—l‚È–Ú‚ğ‚µ‚Äc‚½‚¾„‚ğŒ©‚Â‚ß‚ÄccB[pcms]
+And... with eyes that seemed dead...[l][er]
+just staring at me...[pcms]
 
-;—§‚¿
-;—§‚¿
-;”wŒã‚Éƒ]ƒ“ƒr[ƒY
+;ç«‹ã¡
+;ç«‹ã¡
+;èƒŒå¾Œã«ã‚¾ãƒ³ãƒ“ãƒ¼ã‚º
 
 
 [ChrSetEx layer=5 chbase="sae_d_d_12"]
@@ -134,79 +133,75 @@
 
 *4138|
 [fc]
-•sR‚Év‚Á‚Ä‚¢‚é‚ÆA”Ş—‚ÌŒã•û‚©‚ç”lA‚±‚ÌŠwZ‚Ì[r]
-§•‚ğ’…‚½’jq‚ªŒ»‚ê‚½B[pcms]
+Suspiciously, several boys wearing the school uniform[r]appeared from behind her.[pcms]
 
 *4139|
 [fc]
-‰½‚àŒ¾‚í‚È‚¢²”Œ‚³‚ñ‚ÌŒã‚ë‚ÉA’jq¶“kccB[pcms]
+Behind the silent Saeki-san, there were male students...[pcms]
 
 *4140|
 [fc]
-‚Ü‚³‚©ccB[r]
-‚±‚Ìq’B‚É‰½‚©IH@‚Ü‚³‚©ccIH[pcms]
+No way... Something with these kids!?[l][er]
+No way...!?[pcms]
 
 [ChrSetEx layer=5 chbase="sae_e_a_14"]
 [ChrSetXY layer=5 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1703|
 [fc]
 [vo_sa s="sae0269"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *4141|
 [fc]
-‚ ‚Ü‚è‚É‚àˆÙí‚ÈŒõŒi‚ÉA„‚Í¬—‚µA‰½‚ğŒ¾‚Á‚Ä—Ç‚¢[r]
-‚Ì‚©•ª‚©‚ç‚È‚­‚È‚Á‚Ä‚µ‚Ü‚Á‚½B[pcms]
+I was so confused by the abnormal scene that I didn't know[r]what to say.[pcms]
 
 *4142|
 [fc]
-‰½ŒÌ²”Œ‚³‚ñ‚Ì•‚ª‚Í‚¾‚¯‚Ä‚¢‚éH[r]
-‰½ŒÌ²”Œ‚³‚ñ‚ÌŒã‚ë‚É’jq¶“k‚ª‚¢‚éH[pcms]
+Why is Saeki-san's clothes coming undone?[l][er]
+Why are there male students behind Saeki-san?[pcms]
 
 *4143|
 [fc]
-RŠİ‚³‚ñ‚ÍA‚à‚µ‚©‚µ‚Ä‚±‚Ìq’B‚ÉccB[r]
-²”Œ‚³‚ñ‚àccB[pcms]
+Could it be that Yamagishi-san...[l][er]
+and Saeki-san too... are involved with these kids?[pcms]
 
 *4144|
 [fc]
-‚Ü‚³‚©I[r]
-‚Ü‚³‚©IH[pcms]
+No way! No way!?[pcms]
 
 *v1704|
 [fc]
 [vo_ri s="risa0379"]
-[ns]V“¹[nse]
-u‚¦ccHv[pcms]
+[ns]Shindou[nse]
+Eh...?[pcms]
 
 *4145|
 [fc]
-„‚ğw·‚µ‚½‚Ü‚Ü‚Ì”Ş—‚ÌŒû‚ªA”÷‚©‚É“®‚¢‚½B[r]
-‰½‚ğŒ¾‚Á‚½‚Ì‚©A•·‚«æ‚ê‚È‚©‚Á‚½B[pcms]
+Her mouth, still pointing at me, moved slightly.[l][er]
+I couldn't hear what she said.[pcms]
 
 *4146|
 [fc]
-‚¯‚ê‚ÇA”Ş—‚Ì”wŒã‚Ì’jq¶“k‚ªA‚¢‚â‚ç‚µ‚¢Î‚İ‚ÉŠç[r]
-‚ğ˜c‚ß‚Ä„‚É”—‚Á‚Ä‚«‚½‚±‚Æ‚ÅA‚í‚©‚Á‚½‹C‚ª‚µ‚½B[pcms]
+However, when the male students behind her twisted their[r]faces into lewd smiles and approached me, I felt like I[r]understood.[pcms]
 
 *v1705|
 [fc]
 [vo_ri s="risa0380"]
-[ns]V“¹[nse]
-u‰½‚ğccv[pcms]
+[ns]Shindou[nse]
+What...[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[04028]‚Ö
+;//[04028]ã¸
 [jump target=*04028_H_TOP storage="04028_H.ks"]
 
 

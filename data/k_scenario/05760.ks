@@ -1,15 +1,15 @@
 
-;//¡ËƒuƒƒbƒN05760w‚¤‚È‚èºx
-;//;//BG:¸~Œû‘O˜L‰ºF—[•ûFÁ“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05760ã€ã†ãªã‚Šå£°ã€
+;//;//BG:æ˜‡é™å£å‰å»Šä¸‹ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05760_TOP
-;[debug_win]‚È‚¤@05760[debug_win_end]
-;*SceneSet|w‚¤‚È‚èºx
+;[debug_win]ãªã†ã€€05760[debug_win_end]
+;*SceneSet|ã€ã†ãªã‚Šå£°ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05760 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05760 = 1"]
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 [bgm009]
 
 ;//;//BG:bg03b
@@ -23,105 +23,92 @@
 
 *6161|
 [fc]
-’†‚É“¦‚°‚ñ‚Å‚«‚Ä‚·‚®AZÉ“à‚ªd‹ê‚µ‚¢‹ó‹C‚É•ï‚Ü[r]
-‚ê‚Ä‚¢‚é‚Ì‚ğŠ´‚¶‚½B[pcms]
+I immediately felt the heavy atmosphere enveloping the[r]inside of the school building as soon as I ran inside.[pcms]
 
 *6162|
 [fc]
-‚È‚ñ‚©A‘§‹ê‚µ‚¢ccB[r]
-‚»‚ê‚ÉA‹ó‹C‚ªƒlƒoƒlƒo‚µ‚Ä‚éŠ´‚¶‚ª‚·‚éccB[r]
-‰½‚¾H@‚±‚êccB[pcms]
+It feels suffocating... And the air feels sticky...[l][er]
+What is this...?[pcms]
 
 *6163|
 [fc]
-[ns]‰Á“¡[nse]
-uccŠwH‚Ì’n‰ºº‚É–ß‚ë‚¤B‚ ‚»‚±‚É‰B‚ê‚ÄAƒ`ƒƒƒ“[r]
-ƒX‚ğ‘Ò‚Â‚ñ‚¾v[pcms]
+[ns]Kato[nse]
+... Let's go back to the basement of the school cafeteria.[l][er]
+Let's hide there and wait for an opportunity.[pcms]
 
 *6164|
 [fc]
-‰´‚ªˆê‚É‚¢‚é‚Æ‚Í‚¢‚¦A—z‚ÌŒõ‚Ì“Í‚©‚È‚¢‚ ‚Ì’n‰ºº[r]
-‚ÍAlˆê”{•|‚ª‚è‚Ì²”Œ‚É‚Æ‚Á‚Ä‚ÍAˆÀS‚Å‚«‚éêŠ‚Å[r]
-‚Í‚È‚¢‚Ì‚¾‚ë‚¤B[pcms]
+Even though I'm with her, that basement where the sunlight[r]doesn't reach is not a reassuring place for Saeki, who is[r]particularly afraid.[pcms]
 
 *6165|
 [fc]
-’n‰ºº‚É”ğ“ï‚·‚é‚Æ‚¢‚¤‰´‚Ìl‚¦‚ÉA²”Œ‚Í­‚µŠç‚ğ‚µ[r]
-‚©‚ß‚½‚ªA¡AˆÀ‘S‚É‰B‚ê‚ç‚ê‚é‚Ì‚Í‚ ‚»‚±‚®‚ç‚¢‚¾B[pcms]
+Saeki frowned slightly at my idea of taking refuge in the[r]basement, but right now, that's about the only place where[r]we can hide safely.[pcms]
 
 *6166|
 [fc]
-l‚¦‚½’Ê‚è‚ÉA‚±‚±‚©‚ço‚ç‚ê‚Ä‚ê‚ÎA²”Œ‚ğ•sˆÀ‚É‚³[r]
-‚¹‚é‚±‚Æ‚à‚È‚©‚Á‚½‚ñ‚¾‚¯‚ÇccB‚±‚Ìó‹µ‚¶‚á‚µ‚å‚¤[r]
-‚ª‚È‚¢‚æ‚ÈccB[pcms]
+As I thought, if we could have gotten out of here, Saeki[r]wouldn't have been so worried...[l][er]
+But in this situation, there's no helping it...[pcms]
 
 *6167|
 [fc]
-²”Œ‚ğ˜A‚êA˜L‰º‚Ì“r’†‚É‚ ‚é‹È‚ª‚èŠp‚Ü‚Å—ˆ‚½A‰´[r]
-‚Í‰½‚©•·‚±‚¦‚½‹C‚ª‚µ‚ÄA‘«‚ğ~‚ß‚½B[pcms]
+When I reached the corner in the middle of the hallway with[r]Saeki, I felt like I heard something, so I stopped.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2560|
 [fc]
 [vo_sa s="sae0673"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñccHv[pcms]
+[ns]Saeki[nse]
+Kato-san...?[pcms]
 
 *6168|
 [fc]
-[ns]‰Á“¡[nse]
-u‚µ‚Áccv[pcms]
+[ns]Kato[nse]
+Shh...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *6169|
 [fc]
-–Ú‚Ì‘O‚ÌŠp‚ğ‹È‚ª‚Á‚½‚»‚Ìæ‚ÉAŠwH‚Í‚ ‚éB[r]
-‚±‚Ì˜L‰º‚ğ’Ê‚éˆÈŠO‚ÍAŠO‚©‚ç‰ñ‚ç‚È‚¯‚ê‚ÎA[r]
-ŠwH‚Ö‚Ís‚©‚ê‚È‚¢B[pcms]
+Just around the corner in front of us is the school[r]cafeteria.[l][er]
+Other than going through this hallway, there's no other way[r]to get to the cafeteria without going around from outside.[pcms]
 
 *6170|
 [fc]
-‚¾‚ª¡A‚±‚ÌŠp‚Ìæ‚©‚çA‰½‚©‚ª•·‚±‚¦‚Ä‚«‚Ä‚¢‚éB[pcms]
+But now, from just around the corner, I can hear something.[pcms]
 
 ;	/*
-;	;//ôFBGM005
+;	;//â™ªï¼šBGM005
 ;	[bgm005]
 ;	*/
 
 *6174|
 [fc]
-’á‚¢‰¹B[r]
-l‚Ì‚¤‚È‚èºB[r]
-‚»‚ê‚àˆêl‚â“ñl‚Å‚Í‚È‚¢A‚©‚È‚è‘½‚­‚ÌB[pcms]
+Low sounds. Human groans. And it's not just one or two[r]people, but quite a lot.[pcms]
 
 *6175|
 [fc]
-d‹ê‚µ‚¢‹ó‹C‚ÌŒ´ˆö‚ª‚±‚ê‚¾‚Æv‚¢“–‚½‚é‚Ì‚Æ“¯‚ÉA[r]
-Šp‚ÌŒü‚±‚¤‚Él‚Ì‹C”z‚ğŠ´‚¶‚é‚æ‚¤‚É‚È‚Á‚½B[pcms]
+At the same time that I realized this was the cause of the[r]heavy atmosphere, I began to sense the presence of people[r]beyond the corner.[pcms]
 
 *6176|
 [fc]
-‚ ‚¢‚Â‚ç‚¾ccB[r]
-ƒNƒ\cc“z‚ç‚ª‚¢‚½‚ñ‚¶‚áAŠwH‚Ö‚Ís‚©‚ê‚È‚¢ccB[pcms]
+Those guys... Damn it... If they're there, we can't go to[r]the cafeteria...[pcms]
 
 *6177|
 [fc]
-[ns]‰Á“¡[nse]
-ucc‚±‚Á‚¿‚¾A²”ŒIv[pcms]
+[ns]Kato[nse]
+... This way, Saeki![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *6178|
 [fc]
-‰´‚Í²”Œ‚Ìè‚ğæ‚èAŠp‚ğ‹È‚ª‚ç‚¸A‚»‚Ì‚Ü‚Ü^‚Á’¼‚®[r]
-‘–‚Á‚ÄA•’Ê‹³º“‚ÖŒü‚©‚Á‚½B[pcms]
+I took Saeki's hand and ran straight ahead without turning[r]the corner, heading towards the regular classroom building.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -132,5 +119,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05770]‚Ö
+;//[05770]ã¸
 [jump target=*05770_TOP storage="05770.ks"]

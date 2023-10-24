@@ -1,21 +1,21 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN03025wšq“fx
-;//BG:“Áê‹³º˜L‰ºF–éFÁ“”
-;//“oêl•¨G“µE‰Á“¡
-;//Y’|“à‹“_
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯03025ã€å˜”åã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ç³ãƒ»åŠ è—¤
+;//ã€†ç«¹å†…è¦–ç‚¹
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *03025_H_TOP
-;[debug_win]‚È‚¤@03025_H[debug_win_end]
+;[debug_win]ãªã†ã€€03025_H[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_03025 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_03025 = 1"]
 
-;*SceneSet|wšq“fx
+;*SceneSet|ã€å˜”åã€
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 
 [bgm007]
 
@@ -26,53 +26,48 @@
 
 *3478|
 [fc]
-‘O‚ğ•à‚¢‚Ä‚é“µ‚ÍA°‚É‘«‚ª’…‚¢‚Ä‚È‚¢‚İ‚½‚¢‚ÉAƒ†ƒ‰[r]
-ƒ†ƒ‰—h‚ê‚Ä‚¢‚éB[pcms]
+Hitomi, who is walking in front of me, is swaying back and[r]forth as if her feet are not touching the ground.[pcms]
 
 *3479|
 [fc]
-“µ‚Í‚±‚Ìæ‚É‚ ‚éAEˆõº‚ÉŒü‚©‚Á‚Ä•à‚¢‚Ä‚¢‚é‚İ‚½‚¢[r]
-‚¾‚Á‚½B[pcms]
+It seemed like Hitomi was walking towards the staff room up[r]ahead.[pcms]
 
 *3480|
 [fc]
-‚±‚¤‚Ó‚ñ‚µ‚·‚¬‚Ä‚é‚Ì‚©‚ÈccB[r]
-‚«‚à‚¿‚í‚é‚­‚È‚Á‚Ä‚«‚½ccB[r]
-‚È‚ñ‚©A‚ ‚½‚Ü‚ª‚®‚ç‚®‚ç‚·‚é‚µccB[pcms]
+I wonder if I'm getting too excited...[l][er]
+I'm starting to feel sick... My head feels dizzy...[pcms]
 
 *3481|
 [fc]
-‚Å‚àA‚Ú‚­‚Í‚â‚ç‚È‚«‚á‚È‚ç‚È‚¢B[r]
-‚¶‚á‚È‚«‚áA‚Ú‚­‚ª‚½‚¢‚Ö‚ñ‚È‚±‚Æ‚É‚È‚é‚ñ‚¾B[pcms]
+But I have to do it. Otherwise, I'll be in big trouble.[pcms]
 
 *3482|
 [fc]
-‚½‚¢‚Ö‚ñ‚È‚±‚Æ‚É‚È‚éA‚½‚¢‚Ö‚ñ‚È‚±‚Æ‚É‚È‚éB[r]
-‚½‚¢‚Ö‚ñ‚È‚±‚Æ‚É‚È‚Á‚¿‚á‚¤ccB[pcms]
+It's going to be a big problem, it's going to be a big[r]problem.[l][er]
+It's going to turn into a big problem...[pcms]
 
 *3483|
 [fc]
-‚Í‚â‚­‚µ‚È‚«‚áccB[pcms]
+I have to hurry...[pcms]
 
 *3484|
 [fc]
-‚È‚ñ‚¾‚ëccB[r]
-‚ ‚µ‚ª‚Ó‚é‚¦‚Ä‚éccB[r]
-‚©‚ç‚¾‚É‚¿‚©‚ç‚ª‚Í‚¢‚ç‚È‚¢ccB[pcms]
+I wonder what's wrong... My legs are trembling...[l][er]
+I feel weak in my body...[pcms]
 
 *3485|
 [fc]
-‚¢‚»‚¢‚Å‚é‚Ì‚ÉccB[pcms]
+Even though I'm in a hurry...[pcms]
 
 *3486|
 [fc]
-‚È‚©‚È‚©‚Ü‚¦‚É‚·‚·‚Ü‚È‚¢ccB[pcms]
+She's not moving forward easily...[pcms]
 
 *3487|
 [fc]
-‚Í‚â‚­‚µ‚È‚«‚áccB[pcms]
+I have to hurry...[pcms]
 
-;//[03026]‚Ö
+;//[03026]ã¸
 [jump target=*03026_H_TOP storage="03026_H.ks"]
 
 

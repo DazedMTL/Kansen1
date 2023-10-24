@@ -1,15 +1,15 @@
 
-;//¡ËƒuƒƒbƒN05810wŠ´õÒx
-;//;//BG:ˆêŠK˜L‰ºF—[•ûFÁ“”
-;//“oêl•¨GålŒöE“µEƒ]ƒ“ƒr”‘Ì
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05810ã€æ„ŸæŸ“è€…ã€
+;//;//BG:ä¸€éšå»Šä¸‹ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»ã‚¾ãƒ³ãƒ“æ•°ä½“
 
 *05810_TOP
-;[debug_win]‚È‚¤@05810[debug_win_end]
-;*SceneSet|wŠ´õÒx
+;[debug_win]ãªã†ã€€05810[debug_win_end]
+;*SceneSet|ã€æ„ŸæŸ“è€…ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05810 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05810 = 1"]
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 
 [bgm008]
 
@@ -18,7 +18,7 @@
 [bg storage="bg08a"]
 [trans_c cross time=500]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 
 [se0 storage="se005"]
 
@@ -28,28 +28,26 @@
 
 *6207|
 [fc]
-[ns]‰Á“¡[nse]
-uƒNƒ\ccƒbI@‰½‚Å‰º‚è‚Ä‚«‚¿‚Ü‚Á‚½‚ñ‚¾IH@‚ ‚Ì[r]
-‚Ü‚Üã‚És‚¯‚Î—Ç‚©‚Á‚½‚Ì‚Éccv[pcms]
+[ns]Kato[nse]
+Damn it...! Why did I get off?![l][er]
+I should have just stayed up there...[pcms]
 
 *6208|
 [fc]
-©•ª‚Ì‰ñ‚ç‚È‚¢“ª‚ğ’Q‚­‰´‚ÉA²”Œ‚Í‚È‚¾‚ß‚é‚æ‚¤‚ÉA[r]
-—‚¿’…‚¢‚½º‚ÅŒ¾‚¢•·‚©‚¹‚éB[pcms]
+Saeki calmly reassures me, who is lamenting my own inability[r]to think, with a soothing voice.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2565|
 [fc]
 [vo_sa s="sae0677"]
-[ns]²”Œ[nse]
-u‚±‚±‚É—§‚¿~‚Ü‚Á‚Ä‚¢‚é•û‚ªŠëŒ¯‚Å‚·B‚Æ‚É‚©‚­A¡[r]
-‚Í‚Ç‚±‚©‚Ì‹³º‚É”ğ“ï‚µ‚Ü‚µ‚å‚¤v[pcms]
+[ns]Saeki[nse]
+It's dangerous to stay here. Anyway, let's evacuate to a[r]classroom somewhere.[pcms]
 
 [ChrSetEx layer=3 chbase="zom_01_b"]
 [ChrSetXY layer=3 x=200 y=0]
@@ -61,16 +59,16 @@
 
 *6209|
 [fc]
-²”Œ‚É‘£‚³‚ê‚ÄA‚Ç‚±‚©“K“–‚È‹³º‚É“ü‚ë‚¤‚Æ•à‚«n‚ß[r]
-‚½‰´’B‚Ì‘O‚ÉA‚Ü‚½“Ë‘RA‚ ‚Ì‚¨‚©‚µ‚È“z‚ç‚ªŒ»‚ê‚½B[pcms]
+Saeki urged me, and as we started walking towards a suitable[r]classroom, suddenly, those strange guys appeared in front of[r]us again.[pcms]
+[l][er]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2566|
 [fc]
 [vo_sa s="sae0678"]
-[ns]²”Œ[nse]
-uIIv[pcms]
+[ns]Saeki[nse]
+!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
@@ -81,27 +79,25 @@
 *v2567|
 [fc]
 [vo_ri s="risa0593"]
-[ns]V“¹[nse]
-u‚©‚ÆA‚¤A‚­‚ñcc‚Í‚âA‚­A‚¨‚¿A‚ñ‚¿‚ñA‚¾‚µA[r]
-‚ÈA‚³‚¢cc‚¹‚ñA‚¹‚ÌA‚¢‚¤‚±A‚Æ‚ªcc‚«A‚¯‚ÈA[r]
-‚¢A‚ÌccHv[pcms]
+[ns]Shindou[nse]
+Kato-kun... you're so quick to expose your penis...[l][er]
+it's embarrassing to say this, but...[l][er]
+isn't it inappropriate...?[pcms]
 
 *6210|
 [fc]
-‹}‚ÉŒ»‚ê‚½“z‚ç‚ÉAŠK’i‚ğ‰º‚è‚Ä‚«‚½V“¹æ¶‚ª‰Á‚í‚Á[r]
-‚ÄA‰´’B‚Í‘OŒã‚ğ‹²‚Ü‚ê‚Ä‚µ‚Ü‚Á‚½B[pcms]
+Suddenly, Shindou-sensei, who had come down the stairs,[r]joined us as those guys appeared, and we were sandwiched[r]between them.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *6211|
 [fc]
-[ns]‰Á“¡[nse]
-uƒNƒ\cc‚Ç‚¤‚È‚Á‚Ä‚ñ‚¾‚æA‚±‚êIIv[pcms]
+[ns]Kato[nse]
+Damn it... What the hell is happening here!![pcms]
 
 *6212|
 [fc]
-ŠõX‚µ‚°‚È–Ú‚Å“z‚ç‚âV“¹æ¶‚ğáÉ‚İ‚Â‚¯A²”Œ‚Ì˜r‚ğ[r]
-ˆø‚«A‰´‚Í¸~Œû‚Ì•û‚Ö‘–‚Á‚½B[pcms]
+With a resentful glare at those guys and Shindou-sensei, I[r]grabbed Saeki's arm and ran towards the staircase.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -111,5 +107,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05820]‚Ö
+;//[05820]ã¸
 [jump target=*05820_TOP storage="05820.ks"]

@@ -1,25 +1,25 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN04019wÏ‹É“I‚È—Dx
-;//BG:•ÛŒ’ºF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöE—D
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04019ã€ç©æ¥µçš„ãªå„ªã€
+;//BG:ä¿å¥å®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
 
-;//š‚gEVENT_024
+;//â˜…ï¼¨EVENT_024
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *04019_H_TOP
-;[debug_win]‚È‚¤@04019_H[debug_win_end]
+;[debug_win]ãªã†ã€€04019_H[debug_win_end]
 [eval exp="sf.SRP18 = 1"][if exp="tf.scene_mode == 0"][jump target=*04019_H][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 *04019_H
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04019 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04019 = 1"]
 
-;*SceneSet|wÏ‹É“I‚È—Dx
+;*SceneSet|ã€ç©æ¥µçš„ãªå„ªã€
 
 
 
@@ -27,7 +27,7 @@
 
 *scene_start
 
-;//ôFBGM006
+;//â™ªï¼šBGM006
 [bgm006]
 
 ;//H_CG
@@ -39,205 +39,191 @@
 
 *4011|
 [fc]
-‚Ì‚µ‚©‚©‚Á‚½‚Ü‚ÜARŠİ‚³‚ñ‚Í‘Ì‚Ìã‚ğ”‡‚¢‚¸‚Á‚ÄA‰´[r]
-‚ÉŠç‚ğ‹ß‚Ã‚¯‚½B[pcms]
+Yamagishi-san, still straddling me, crawled on top of my[r]body and brought her face close to mine.[pcms]
+[l][er]
 
 *v1626|
 [fc]
 [vo_ya s="yama0664"]
-[ns]RŠİ[nse]
-uƒnƒ@ccƒnƒ@cc‚©‚Æ‚¤‚­‚ñccv[pcms]
+[ns]Yamagishi[nse]
+Haa... haa... Kato-kun...[pcms]
 
 *4012|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦A‚ÈA‚È‚Écc‚ñ‚Ş‚ÁIv[pcms]
+[ns]Kato[nse]
+Wha- What... Mmm![pcms]
 
 *4013|
 [fc]
-RŠİ‚³‚ñ‚Ìs“®‚ª—‰ğ‚Å‚«‚È‚¢‚Ü‚ÜA‰´‚Í”Ş—‚ÉO‚ğd[r]
-‚Ë‚ç‚ê‚½B[pcms]
+I couldn't understand Yamagishi-san's actions, but she[r]pressed her lips against mine.[pcms]
 
 *4014|
 [fc]
-O‚ğŠ„‚Á‚Ä“ü‚Á‚Ä‚«‚½RŠİ‚³‚ñ‚Ìãæ‚ªA‰´‚Ìã‚É—‚Ü[r]
-‚³‚êAŒû‚Ì’†‚Å‚È‚Ü‚ß‚©‚µ‚­å¿‚­B[pcms]
+Yamagishi-san's tongue, which had slipped into my parted[r]lips, entwined with mine and wriggled sensually inside my[r]mouth.[pcms]
+[l][er]
 
 *v1627|
 [fc]
 [vo_ya s="yama0665"]
-[ns]RŠİ[nse]
-u‚ñA‚Óccv[pcms]
+[ns]Yamagishi[nse]
+Mmm, fu...[pcms]
 
 *4015|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ñ‚ñ‚ÁccIv[pcms]
+[ns]Kato[nse]
+Mmm...![pcms]
 
 *4016|
 [fc]
-‰½‚ªŒ´ˆö‚Å‚±‚ñ‚È‚±‚Æ‚É‚È‚Á‚Ä‚¢‚é‚Ì‚©Al‚¦‚Ä‚Í‚İ‚é[r]
-‚ªA¬—‚µ‚½“ª‚Å‚Í„‘ªˆê‚Â‚Å‚«‚È‚©‚Á‚½B[pcms]
+I tried to think about what could be the cause of this[r]situation, but with my confused mind, I couldn't come up[r]with a single guess.[pcms]
 
 *4017|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ñA‚®ccv[pcms]
+[ns]Kato[nse]
+Mmm, ah...[pcms]
 
 *v1628|
 [fc]
 [vo_ya s="yama0666"]
-[ns]RŠİ[nse]
-u‚ñ‚Şcc‚ÓA‚£‚ñccv[pcms]
+[ns]Yamagishi[nse]
+Mmm... Fu, unh...[pcms]
 
 *4018|
 [fc]
-‚±‚êA‚Ç‚¤‚â‚Á‚ÄŒÄ‹z‚·‚é‚ñ‚¾IH[r]
-ŒûA—£‚µ‚Ä‚¢‚¢‚©‚ÈccB[r]
-‚Á‚Ä‚¢‚¤‚©A—£‚³‚È‚¢‚Æ€‚ÊccI[pcms]
+How am I supposed to breathe like this!?[l][er]
+Can you let go of my mouth...?[l][er]
+I mean, if you don't let go, I'm going to die...![pcms]
 
 *4019|
 [fc]
-‰´‚ÍRŠİ‚³‚ñ‚Ì‘Ì‚ğ‰Ÿ‚µ‚â‚Á‚ÄA”Ş—‚ÌO‚ğ©•ª‚ÌŒû‚©[r]
-‚çˆø‚«—£‚µ‚½B[pcms]
+I pushed Yamagishi-san's body away and separated her lips[r]from my own.[pcms]
 
 *4020|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Õ‚Í‚ÁI@ƒnƒ@ƒbccƒnƒ@ƒbccv[pcms]
+[ns]Kato[nse]
+Puh... Haa... Haa...[pcms]
 
 *v1629|
 [fc]
 [vo_ya s="yama0667"]
-[ns]RŠİ[nse]
-u‚ cc‚²‚ß‚ñ‚ËA‚í‚½‚µA‚Ğ‚Æ‚è‚Å‚±‚¤‚Ó‚ñ‚µ‚¿‚á‚Á[r]
-‚Äccv[pcms]
+[ns]Yamagishi[nse]
+Ah... I'm sorry, I got carried away by myself...[pcms]
 
 *4021|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¢‚âcc‚Å‚àA‰½‚Å‚±‚ñ‚Èccv[pcms]
+[ns]Kato[nse]
+No... but, why is this happening...[pcms]
 
 *v1630|
 [fc]
 [vo_ya s="yama0668"]
-[ns]RŠİ[nse]
-u‚í‚½‚µcc‚©‚Æ‚¤‚­‚ñ‚Ì‚±‚ÆA‚¸‚Á‚Æcc‚¸‚Á‚Æ‚·‚«[r]
-‚¾‚Á‚½‚ÌB‚Å‚àA‚­‚ç‚·‚à‚¿‚ª‚¤‚µA‚¢‚Ü‚Ü‚Å‚¢‚¢‚¾‚¹[r]
-‚È‚­‚Á‚Äccv[pcms]
+[ns]Yamagishi[nse]
+I... I've always... always liked you, Kato-kun.[l][er]
+But our social classes are different, and I couldn't confess[r]my feelings until now...[pcms]
 
 *4022|
 [fc]
-[ns]‰Á“¡[nse]
-uccccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦â€¦â€¦[l][er]
 
 *4023|
 [fc]
-“²‚ê‚Ì—‚Ìq‚©‚ç‚Ì“Ë‘R‚Ì”’‚ÉA¬—‚µ‚Ä‚¢‚½‰´‚Ì“ª[r]
-‚ÍA¡“x‚Í^‚Á”’‚É‚È‚Á‚½B[pcms]
+My head, which was already in confusion due to the sudden[r]confession from the girl I admired, now turned completely[r]blank.[pcms]
 
 *v1631|
 [fc]
 [vo_ya s="yama0669"]
-[ns]RŠİ[nse]
-u‚©‚Æ‚¤‚­‚ñccHv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun...?[pcms]
 
 *4024|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *v1632|
 [fc]
 [vo_ya s="yama0670"]
-[ns]RŠİ[nse]
-ucc‚»‚¤‚¾‚æ‚ËB‚¢‚«‚È‚è‚«‚·‚·‚é‚æ‚¤‚È‚¨‚ñ‚ÈA‚¢[r]
-‚â‚¾‚æ‚Ëccv[pcms]
+[ns]Yamagishi[nse]
+... That's right, isn't it? A woman who suddenly kisses like[r]that, I don't want that...[pcms]
 
 *4025|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦ccH@‚ A‚¢A‚¢‚âAˆá‚¤I@ˆá‚¤‚ñ‚¾I@‘S‘R[r]
-Œ™‚¶‚á‚È‚¢‚æIv[pcms]
+[ns]Kato[nse]
+Eh...? Ah, n-no, that's not it![l][er]
+It's not! I don't dislike it at all![pcms]
 
 *4026|
 [fc]
-ÀÛAŒ™‚¾‚Æ‚ÍŠ´‚¶‚Ä‚¢‚È‚©‚Á‚½B[r]
-‚È‚É‚¹A‘Šè‚Í‚¸‚Á‚Æ“²‚ê‚Ä‚¢‚½—‚Ìq‚È‚Ì‚¾‚©‚çB[pcms]
+Actually, I didn't feel disgusted.[l][er]
+After all, she was the girl I had admired for a long time.[pcms]
 
 *4027|
 [fc]
-‚½‚¾A“WŠJ‚ª‚ ‚Ü‚è‚É‚à‹}‰ß‚¬‚ÄA“ª‚ª‚Â‚¢‚Ä‚¢‚Á‚Ä‚È[r]
-‚¢‚¾‚¯‚¾B[pcms]
+However, the development was just too sudden, and my head[r]couldn't keep up.[pcms]
 
 *4028|
 [fc]
-[ns]‰Á“¡[nse]
-u‹t‚ÉŠğ‚µ‚¢‚æB‰´‚àRŠİ‚³‚ñ‚Ì‚±‚ÆA‰‚ß‚ÄŒ©‚½‚©[r]
-‚çD‚«‚¾‚Á‚½‚©‚çccv[pcms]
+[ns]Kato[nse]
+On the contrary, I'm happy. I've actually liked Yamagishi-[r]san since the first time I saw her...[pcms]
 
 *v1633|
 [fc]
 [vo_ya s="yama0671"]
-[ns]RŠİ[nse]
-u‚Ù‚ñ‚ÆH@‚¤‚ê‚µ‚¢ccv[pcms]
+[ns]Yamagishi[nse]
+Really? I'm happy...[pcms]
 
 *4029|
 [fc]
-RŠİ‚³‚ñ‚Í‚ä‚Á‚­‚è‚ÆA‚Ü‚½‰´‚ÉŠç‚ğ‹ß‚Ã‚¯‚ÄAO‚ğd[r]
-‚Ë‚½B[pcms]
+Yamagishi-san slowly approached me again and pressed her[r]lips against mine.[pcms]
 
 *v1634|
 [fc]
 [vo_ya s="yama0672"]
-[ns]RŠİ[nse]
-u‚ÍA‚Ÿcc‚ñ‚Şccv[pcms]
+[ns]Yamagishi[nse]
+Haa... nmu...[pcms]
 
 *4030|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ñ‚Şcc‚ñ‚ñ‚ÁIv[pcms]
+[ns]Kato[nse]
+Mmm... Nnn![pcms]
 
 *4031|
 [fc]
-ãæ‚ğ”‡‚í‚¹A—‚Ü‚¹‚È‚ª‚çARŠİ‚³‚ñ‚Í‚³‚ç‚ÉA‰´‚Ì[r]
-ŒÒŠÔ‚ğ•‚Å‚³‚·‚èn‚ß‚½B[pcms]
+Yamagishi-san continued to run her tongue along mine,[r]entwining them, and then she started to stroke my crotch.[pcms]
 
 *4032|
 [fc]
-[ns]‰Á“¡[nse]
-u‚âARŠİ‚³‚ñA‚»‚±‚ÍA‚ ‚Ìccv[pcms]
+[ns]Kato[nse]
+Y-Yamagishi-san, that's, um...[pcms]
 
 *v1635|
 [fc]
 [vo_ya s="yama0673"]
-[ns]RŠİ[nse]
-u‚¾‚Á‚ÄA‚¾‚¢‚·‚«‚È‚Ğ‚Æ‚ÆA‚Í‚â‚­‚Ş‚·‚Î‚ê‚½‚¢‚ñ‚¾[r]
-‚à‚ñcc‚¢‚âHv[pcms]
+[ns]Yamagishi[nse]
+Because, I want to get married to the person I love as soon[r]as possible...[l][er]
+Is that wrong?[pcms]
 
 *4033|
 [fc]
-X‚Ë‚½Šç‚ğ‚µ‚È‚ª‚çARŠİ‚³‚ñ‚Í‰´‚ÌŒÒŠÔ‚ğ‚³‚·‚è‘±‚¯[r]
-‚éB[pcms]
+While pouting, Yamagishi-san continues to stroke my crotch.[pcms]
 
 *4034|
 [fc]
-‚Â‚¢‚³‚Á‚«‚Ü‚Ål‚¦‚à‚µ‚È‚©‚Á‚½ŒõŒi‚ÆŠ´G‚ÅA‰´‚Ì“ª[r]
-‚Í‚¢‚Á‚Ï‚¢‚É‚È‚Á‚Ä‚¢‚½B[pcms]
+My head was filled with scenes and sensations that I hadn't[r]even considered until just a moment ago.[pcms]
 
 *4035|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤‚¤‚ñAŒ™‚¶‚á‚È‚¢‚æcc‰´‚àARŠİ‚³‚ñ‚ÆŒ‹‚Î‚ê‚½[r]
-‚¢ccv[pcms]
+[ns]Kato[nse]
+No, I don't mind... I also want to be with Yamagishi-san...[pcms]
 
 *v1636|
 [fc]
 [vo_ya s="yama0674"]
-[ns]RŠİ[nse]
-u‚Ó‚Ó‚Áccv[pcms]
+[ns]Yamagishi[nse]
+Hehe...[pcms]
 
-;//SE:ƒxƒ‹ƒg‚ğ‚Í‚¸‚·
+;//SE:ãƒ™ãƒ«ãƒˆã‚’ã¯ãšã™
 
 [se0 storage="se066"]
 
@@ -253,11 +239,10 @@
 
 *4036|
 [fc]
-RŠİ‚³‚ñ‚Í‰´‚Ìƒ‚ƒm‚©‚çè‚ğ—£‚µA©•ª‚Ì•‚ğ‘S•”’E‚¬[r]
-Ì‚Ä‚ÄA”’‚­ãY—í‚È”§‚ğN‚µ‚½B[r]
-‚»‚µ‚ÄA‘±‚¯‚Ä‰´‚ÌƒYƒ{ƒ“‚Ì‘O‚ğŠJ‚«A‚¸‚è‰º‚°‚½B[pcms]
+Yamagishi-san let go of my thing and discarded all of her[r]clothes, exposing her beautiful white skin.[l][er]
+Then, she proceeded to open and pull down the front of my[r]pants.[pcms]
 
-;//[04020]‚Ö
+;//[04020]ã¸
 [jump target=*04020_H_TOP storage="04020_H.ks"]
 
 

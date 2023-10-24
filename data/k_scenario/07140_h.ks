@@ -1,67 +1,63 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN07140wœfœrx
-;//;//BG:¸~Œû‘O˜L‰ºF–éGÁ“”
-;//“oêl•¨F“µ
-;//F“µ‹“_
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07140ã€å½·å¾¨ã€
+;//;//BG:æ˜‡é™å£å‰å»Šä¸‹ï¼šå¤œï¼›æ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼šç³
+;//ï¼šç³è¦–ç‚¹
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *07140_H_TOP
-;[debug_win]‚È‚¤@07140_H[debug_win_end]
+;[debug_win]ãªã†ã€€07140_H[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07140 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07140 = 1"]
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 
 [fadeoutbgm time=500]
 
-;//;//BG:bg–³‚µ
+;//;//BG:bgç„¡ã—
 
 *v2928|
 [fc]
 [vo_sa s="sae0809"]
-[ns]²”Œ[nse]
-u‚ñA‚£ccv[pcms]
+[ns]Saeki[nse]
+Mm, ah...[pcms]
 
 *7256|
 [fc]
-‚¢‚Â‚ÌŠÔ‚É–°‚Á‚Ä‚µ‚Ü‚Á‚Ä‚¢‚½‚Ì‚©AƒgƒCƒŒ‚Ì’†‚Å–Ú‚ğ[r]
-Šo‚Ü‚µ‚½B[pcms]
+I woke up in the bathroom, not knowing when I had fallen[r]asleep.[pcms]
 
 *7257|
 [fc]
-‚»‚ñ‚È‚É–°‚©‚Á‚½Šo‚¦‚Í‚È‚¢‚Ì‚¾‚¯‚ê‚ÇccB[r]
-‚æ‚Á‚Û‚Ç”æ‚ê‚Ä‚¢‚½‚Ì‚©‚µ‚çccB[pcms]
+I don't remember being so sleepy...[l][er]
+I must have been really tired...[pcms]
 
 *v2929|
 [fc]
 [vo_sa s="sae0810"]
-[ns]²”Œ[nse]
-uccccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦â€¦â€¦[l][er]
 
 *7258|
 [fc]
-“Ë‘RA‰½‚©‚ğv‚¢o‚µ‚©‚¯‚ÄA‘Ì‚Ék‚¦‚ª‘–‚éB[pcms]
+Suddenly, I start to remember something and a shiver runs[r]through my body.[pcms]
 
 *7259|
 [fc]
-æ‚è•Ô‚µ‚Ì‚Â‚©‚È‚¢–‚ª©•ª‚Ìg‚É‹N‚«‚Ä‚µ‚Ü‚Á‚½B[r]
-‚»‚ñ‚ÈƒCƒ[ƒW‚ªP‚Á‚Ä‚­‚éB[pcms]
+Irreversible things have happened to me.[l][er]
+Such images come rushing back.[pcms]
 
 *7260|
 [fc]
-©•ª‚É‰½‚ª‚ ‚Á‚½‚Ì‚©Av‚¢o‚»‚¤‚Æ‚·‚ê‚Î‚·‚é‚Ù‚ÇA[r]
-‚»‚ÌƒCƒ[ƒW‚Í‚Ú‚â‚¯‚Ä‚¢‚«A•sˆÀ‚Æ‹°•|‚ª‘å‚«‚­‚È‚Á[r]
-‚Ä‚¢‚­B[pcms]
+The more I try to remember what happened to me, the more the[r]images become blurred and my anxiety and fear grow stronger.[pcms]
 
 *7261|
 [fc]
-©•ª‚Ì’†‚©‚ç‚»‚ê‚ç‚ğ•¥@‚µ‚æ‚¤‚ÆA„‚ÍƒgƒCƒŒ‚ğ”ò‚Ñ[r]
-o‚µ‚½B[pcms]
+I rushed out of the bathroom, trying to erase those thoughts[r]from my mind.[pcms]
 
-;//ôFBGM004ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM004ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 
 [bgm004]
 
@@ -72,117 +68,108 @@
 
 *7262|
 [fc]
-“”‚èˆê‚Â‚È‚­A¶‰·‚¢‹ó‹C‚ª•Y‚¤˜L‰º‚Éo‚ÄAüˆÍ‚ğŒ©[r]
-‰ñ‚·B[pcms]
+I stepped out into the dimly lit hallway, where the warm air[r]hung in the atmosphere, and looked around me.[pcms]
 
 *7263|
 [fc]
-l‰e‚Í‚È‚­A•¨‰¹‚à‚µ‚È‚¢B[r]
-‚»‚Ì‚¹‚¢‚©A©•ª‚ÌŒÛ“®‚ª–­‚É‘å‚«‚­•·‚±‚¦‚Ä‚­‚éB[pcms]
+There was no one around, and there was no sound.[l][er]
+Perhaps because of that, I could strangely hear my own[r]heartbeat loudly.[pcms]
 
 *v2930|
 [fc]
 [vo_sa s="sae0811"]
-[ns]²”Œ[nse]
-uƒnƒ@ƒbccƒnƒ@ƒbccv[pcms]
+[ns]Saeki[nse]
+*Heavy breathing*... *Heavy breathing*...[pcms]
 
-;//SE:S”‰¹
+;//SE:å¿ƒæ‹éŸ³
 
 [se0 storage="se003"]
 
 *7264|
 [fc]
-‰½ŒÌ‚©‚µ‚çccB[r]
-‹}‚ÉAS‘Ÿ‚ª‚Í‚â‚­ccB[r]
-‚»‚ê‚Écc‚©‚ç‚¾‚ªA‚ ‚Â‚¢ccB[pcms]
+I wonder why... Suddenly, my heart is beating fast...[l][er]
+And... my body feels hot...[pcms]
 
 *7265|
 [fc]
-‚³‚ç‚ÉA‘Ì‚Ì’†‚ğ–³”‚Ì¬‚³‚¢’‚ª”‡‚¢‰ñ‚é—l‚ÈA‚¨‚¼[r]
-‚Ü‚µ‚¢Š´Šo‚ÉP‚í‚ê‚ÄA„‚Í‚»‚ê‚ğ—}‚¦‚æ‚¤‚Æ©•ª‚Ì‘Ì[r]
-‚ğ•ø‚«‚µ‚ß‚½B[pcms]
+Furthermore, I was attacked by a horrifying sensation as if[r]countless small insects were crawling inside my body, and I[r]hugged myself tightly in an attempt to suppress it.[pcms]
 
-;//SE:S”‰¹
+;//SE:å¿ƒæ‹éŸ³
 
 [se0 storage="se003"]
 
 *v2931|
 [fc]
 [vo_sa s="sae0812"]
-[ns]²”Œ[nse]
-u‚È‚ÉccH@‚È‚ñ‚È‚Ìcc‚±‚êccv[pcms]
+[ns]Saeki[nse]
+What...? What is this...?[pcms]
 
 *7266|
 [fc]
-©•ª‚Å‚Í‚È‚¢Aˆá‚¤’N‚©‚ª“ª‚Ì’†‚É“ü‚è‚ñ‚ÅA‚»‚ê‚É[r]
-ˆÓ¯‚ğ“h‚è‚Â‚Ô‚³‚ê‚Ä‚¢‚­‚æ‚¤‚ÈŠ´Šo‚É‹°•|‚ğŠo‚¦‚ÄA[r]
-„‚Í‘åº‚ğã‚°‚½B[pcms]
+I felt fear as if someone else, someone different from[r]myself, was entering my mind and gradually erasing my[r]consciousness.[l][er]
+I screamed out loud.[pcms]
 
-;//SE:S”‰¹
+;//SE:å¿ƒæ‹éŸ³
 
 [se0 storage="se003"]
 
 *v2932|
 [fc]
 [vo_sa s="sae0813"]
-[ns]²”Œ[nse]
-u‚â‚ß‚Ä‚¦‚¦‚¦‚¦‚¦‚¥‚¥‚¥‚¥‚¥ƒbIIIIIIIIIv[pcms]
+[ns]Saeki[nse]
+Stopppppppp!!!!!![pcms]
 
 *7267|
 [fc]
-‚»‚Ìê‚É‚µ‚á‚ª‚İ‚ñ‚ÅA‚µ‚Î‚ç‚­‘Ì‚ğ‹­‚Î‚ç‚¹‚Ä‚¢‚é[r]
-‚ÆAŸ‘æ‚É’‚ª”‡‚¢‰ñ‚é—l‚ÈŠ´Šo‚Í”–‚ê‚Ä‚¢‚«A‚»‚ê‚É[r]
-˜A‚ê‚Ä“®œ§‚àû‚Ü‚Á‚Ä‚¢‚Á‚½B[pcms]
+As I squatted down in that spot, my body tensed up for a[r]while.[l][er]
+Gradually, the sensation of insects crawling began to fade,[r]and along with it, my heart rate also calmed down.[pcms]
 
 *v2933|
 [fc]
 [vo_sa s="sae0814"]
-[ns]²”Œ[nse]
-uccHv[pcms]
+[ns]Saeki[nse]
+...?[pcms]
 
 *7268|
 [fc]
-¡“x‚ÍA‚‚Ü‚Á‚Ä‚¢‚½‘Ì‚Ì”M‚ªA‘Sg‚Å‚Í‚È‚­A‰º• •”[r]
-‚ÉW‚Ü‚Á‚Ä‚­‚é—l‚ÈŠ´Šo‚ªŒ»‚ê‚½B[pcms]
+This time, a sensation as if the heat that had been building[r]up in my body was gathering in my lower abdomen appeared.[pcms]
 
 *7269|
 [fc]
-‚¢‚Á‚½‚¢cc‚Ç‚¤‚µ‚½‚Á‚Ä‚¢‚¤‚ÌccH[r]
-‚í‚½‚­‚µ‚ÌA‚©‚ç‚¾‚ÍccB[pcms]
+What on earth... is happening...?[l][er]
+My body...[pcms]
 
 *7270|
 [fc]
-‰º• •”‚É‘±‚¢‚ÄA«Ší‚Ü‚Å”M‚ğ‚¿n‚ß‚éB[r]
-‚»‚µ‚Ä‚»‚Ì”M‚ÍA„‚Ì’†‚É‚ ‚éŠ´î‚ğ•¦‚«ã‚ª‚ç‚¹‚½B[pcms]
+The heat continues from my lower abdomen, spreading to my[r]genitals.[l][er]
+And that heat stirs up emotions within me.[pcms]
 
 *7271|
 [fc]
-‚¾‚©‚ê‚½‚¢ccB[r]
-‚ ‚Ì‚Ğ‚Æ‚ÉccB[pcms]
+I want to be embraced... By that person...[pcms]
 
 *7272|
 [fc]
-w‚ ‚Ìlx‚Æ‚¢‚Á‚Ä‚àA‚»‚ê‚ª‹ï‘Ì“I‚É’N‚È‚Ì‚©A[r]
-–¼‘O‚àŠç‚à•‚‚©‚ñ‚Å‚Í—ˆ‚È‚©‚Á‚½B[pcms]
+Even though I said that person, I couldn't think of who[r]exactly that was, their name or face didn't come to mind.[pcms]
 
 *7273|
 [fc]
-‚»‚ê‚Å‚àAw‚ ‚Ìlx‚É•ø‚©‚ê‚½‚¢B‚»‚ê‚àA‘‚¢“à‚ÉA[r]
-‚Æ‚¢‚¤v‚¢‚Í„‚ğx”z‚µAÅ‘‡Š´‚·‚çŠ´‚¶n‚ß‚Ä‚¢‚½B[pcms]
+However, the desire to be embraced by that person still[r]lingered within me.[l][er]
+It began to dominate my thoughts, and I even started to feel[r]a sense of impatience.[pcms]
 
 *v2934|
 [fc]
 [vo_sa s="sae0815"]
-[ns]²”Œ[nse]
-u‚¢‚»‚ª‚È‚¯‚ê‚Îccv[pcms]
+[ns]Saeki[nse]
+If you're not in a hurry...[pcms]
 
 *7274|
 [fc]
-„‚Íw‚ ‚Ìlx‚ğ‘{‚·‚½‚ßA—§‚¿ã‚ª‚èA•à‚«n‚ß‚½B[pcms]
+I stood up and started walking in order to search for that[r]person.[pcms]
 
 ;//blackout
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[07150]‚Ö
+;//[07150]ã¸
 [jump target=*07150_H_TOP storage="07150_H.ks"]

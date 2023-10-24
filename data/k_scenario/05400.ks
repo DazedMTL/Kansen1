@@ -1,20 +1,20 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN05400w“n‚è˜L‰ºE‹­Px
-;//;//BG:“n‚è˜L‰ºF’©FÁ“”
-;//“oêl•¨GålŒöE“µEƒ]ƒ“ƒr~‚R
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05400ã€æ¸¡ã‚Šå»Šä¸‹ãƒ»å¼·è¥²ã€
+;//;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šæœï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»ã‚¾ãƒ³ãƒ“Ã—ï¼“
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *05400_TOP
-;[debug_win]‚È‚¤@05400[debug_win_end]
-;*SceneSet|w“n‚è˜L‰ºE‹­Px
+;[debug_win]ãªã†ã€€05400[debug_win_end]
+;*SceneSet|ã€æ¸¡ã‚Šå»Šä¸‹ãƒ»å¼·è¥²ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05400 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05400 = 1"]
 
-;//flag:“µƒ‹[ƒgƒtƒ[@‚U@•\¦
-;//ôFBGM007
+;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼–ã€€è¡¨ç¤º
+;//â™ªï¼šBGM007
 
 [bgm007]
 
@@ -23,9 +23,9 @@
 [bg storage="bg08a"]
 [trans_c cross time=500]
 
-;//—™ŸºF‰º‹L‚r‚d‚ª•\‚É‚È‚¢‚½‚ß‚ÉŒ»İ‰¹‚ğ’£‚Á‚Ä‚¢‚Ü‚¹‚ñB
+;//ï¼ æ‰æ¸•ï¼šä¸‹è¨˜ï¼³ï¼¥ãŒè¡¨ã«ãªã„ãŸã‚ã«ç¾åœ¨éŸ³ã‚’å¼µã£ã¦ã„ã¾ã›ã‚“ã€‚
 
-;//SE:˜L‰º‚ğ•à‚­
+;//SE:å»Šä¸‹ã‚’æ­©ã
 
 ;//[se0 storage="se005"]
 
@@ -38,131 +38,129 @@
 
 ;;;[sysbt_meswin]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2265|
 [fc]
 [vo_sa s="sae0491"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *5442|
 [fc]
-²”Œ‚Í‰´‚ÌŠç‚ğŒ©‚æ‚¤‚Æ‚¹‚¸A˜r‚ğˆø‚¢‚Ä•à‚«‘±‚¯‚éB[r]
-‚Ç‚¤‚â‚ç²”Œ‚ÍA‘ÌˆçŠÙ‚Ì’†‚É‚ ‚éA‰^“®•”‚ª•’ig‚Á[r]
-‚Ä‚¢‚éƒVƒƒƒ[º‚ÉŒü‚©‚Á‚Ä‚¢‚é‚æ‚¤‚¾‚Á‚½B[pcms]
+Saeki continues to walk, not looking at my face and pulling[r]my arm.[l][er]
+It seems that Saeki is heading towards the shower room that[r]the sports club usually uses, which is located inside the[r]gymnasium.[pcms]
 
 *5443|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *5444|
 [fc]
-‰´‚Í‘Š•Ï‚í‚ç‚¸A²”Œ‚É‚©‚¯‚éŒ¾—t‚ğŒ©‚Â‚¯‚ç‚ê‚È‚¢‚Å[r]
-‚¢‚ÄAˆø‚Á’£‚ç‚ê‚é‚Ü‚Ü‚É•à‚¢‚Ä‚¢‚½B[pcms]
+I still couldn't find the words to say to Saeki, so I walked[r]along, being pulled by her.[pcms]
 
 ;//;//BG:bg09a
 
-;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
+;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
 [bg storage="bg09a"]
 [trans_c cross time=500]
 
 *5445|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ñccHv[pcms]
+[ns]Kato[nse]
+Hm...?[pcms]
 
-;//SE:”à‚ğŠJ‚¯‚é
+;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
 
 [se0 storage="se008"]
 
 *5446|
 [fc]
-ZÉ‚ğ”²‚¯A“n‚è˜L‰º‚Éo‚½‚Æ‚±‚ë‚ÅAl‚Ìº‚ª•·‚±‚¦[r]
-‚½‚æ‚¤‚È‹C‚ª‚µ‚½‰´‚ÍAŒã‚ë‚ğU‚è•Ô‚Á‚½B[pcms]
+I felt like I heard someone's voice as I passed through the[r]school building and reached the covered walkway, so I turned[r]around to look back.[pcms]
 
 *5447|
 [fc]
-[ns]‰Á“¡[nse]
-uIIv[pcms]
+[ns]Kato[nse]
+!![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std362|
 [fc]
-[ns]’jq¶“k‚b[nse]
-u‚ñ`ccH@‚È‚ñA‚©A‚±‚ÌA‚Ö‚ñcc‚µ‚åA‚ñ‚×A[r]
-‚ñA‚­‚¹‚¥A‚È‚Ÿccv[pcms]
+[ns]Male Student C[nse]
+Hm...? What's up with this place...[l][er]
+it feels kinda weird...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std363|
 [fc]
-[ns]’jq¶“k‚a[nse]
-u‚ A‚ÌA‚Ü‚ñA‚±cc‚µ‚å‚ñ‚×A‚ñA‚à‚çA‚µA‚½‚ñ[r]
-‚¶‚áA‚Ë‚¥A‚Ì‚©‚ŸccHv[pcms]
+[ns]Male Student B[nse]
+Ah, did you... receive a pussy...[l][er]
+and a blowjob too, huh...?[pcms]
 
 *5448|
 [fc]
-‚»‚±‚É‚Í—S“ñ‚âŒÜ\—’ƒTƒ“‚Æ—‚½A—lq‚Ì‚¨‚©‚µ‚È“z‚ç[r]
-‚ªA‚¢‚Â‚ÌŠÔ‚É‚©‹ß‚­‚Ü‚Å—ˆ‚Ä‚¢‚ÄA²”Œ‚ğ¬ƒoƒJ‚É‚·[r]
-‚é‚æ‚¤‚È‚±‚Æ‚ğŒû‚É‚µ‚½B[pcms]
+There were strange people there who resembled Yuuji and[r]Igarashi-san, and they had somehow come close.[l][er]
+They were saying disrespectful things about Saeki.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2266|
 [fc]
 [vo_sa s="sae0492"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *5449|
 [fc]
-[ns]‰Á“¡[nse]
-uƒNƒ\ccv[pcms]
+[ns]Kato[nse]
+Damn...[pcms]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 
 [se0 storage="se005"]
 
 *5450|
 [fc]
-”–‚çÎ‚¢‚ğ•‚‚©‚×‚ÄA‚±‚¿‚ç‚É‚É‚¶‚è‚æ‚Á‚Ä‚­‚é‚»‚¢‚Â[r]
-‚ç‚ÉŠëŒ¯‚ğŠ´‚¶AŠç‚ğ^‚ÁÔ‚É‚µ‚Ä‰Ÿ‚µ–Ù‚é²”Œ‚ğA¡[r]
-“x‚Í‰´‚ª˜r‚ğˆø‚¢‚ÄA‘ÌˆçŠÙ‚Ö‚Æ‘–‚èo‚µ‚½B[pcms]
+Saeki, who had a faint smile on her face, felt the danger[r]from those people creeping towards us and blushed, remaining[r]silent.[l][er]
+This time, I pulled her arm and we ran towards the[r]gymnasium.[l][er]
+Saeki, who had a faint smile on her face, felt the danger[r]from those people creeping towards us and blushed, remaining[r]silent.[l][er]
+This time, I pulled her arm and we ran towards the[r]gymnasium.[pcms]
+[l][er]
 
 *5451|
 [fc]
-[ns]‰Á“¡[nse]
-u‘–‚êA²”ŒIIv[pcms]
+[ns]Kato[nse]
+Run, Saeki!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std364|
 [fc]
-[ns]’jq¶“k‚b[nse]
-u‚ÜA‚Ä‚æA‚¨‚¢‚¡cc‚ÜA‚ñ‚±A‚È‚ßA‚Äcc‚«‚êA[r]
-‚¢‚ÉA‚µA‚Ä‚â‚éA‚©‚çA‚æ‚§ccv[pcms]
+[ns]Male Student C[nse]
+W-Wait, hey... I'm gonna lick your pussy...[l][er]
+and make you feel good... so...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std365|
 [fc]
-[ns]’jq¶“k‚c[nse]
-u‚ĞA‚ÆA‚è‚¶A‚ßA‚µ‚Ä‚ñA‚¶‚á‚ËA‚¥‚æcc‚ÜA‚Ä[r]
-‚æA‚¨A‚¢‚¡ccv[pcms]
+[ns]Male Student D[nse]
+D-Don't leave me alone... W-Wait, come on, wait...[l][er]
+please...[pcms]
 
 ;//blackout
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//¦ğŒ•ªŠò
-;//Eflag:“µƒ‹[ƒgƒNƒŠƒA@‚ªoff;//[05410]‚Ö
-;//Eflag:“µƒ‹[ƒgƒNƒŠƒA@‚ªon;//[06170]‚Ö
+;//â€»æ¡ä»¶åˆ†å²
+;//ãƒ»flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒoff;//[05410]ã¸
+;//ãƒ»flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒon;//[06170]ã¸
 
 [if exp="sf.g_hitomi_clear==1"]
 	;[jump target=*SEL00_05400_CLEAR]

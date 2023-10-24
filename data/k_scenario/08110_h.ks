@@ -1,40 +1,40 @@
 
-;//¡ËƒuƒƒbƒN08110w‘Ìˆç‹³Š¯ºx
-;//BG;–³‚µ
-;//BG:‘Ìˆç‹³Š¯ºF–éF“_“”
-;//“oêl•¨FålŒöE’|“àEƒŠƒTEŠİ“c
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08110ã€ä½“è‚²æ•™å®˜å®¤ã€
+;//BG;ç„¡ã—
+;//BG:ä½“è‚²æ•™å®˜å®¤ï¼šå¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»ç«¹å†…ãƒ»ãƒªã‚µãƒ»å²¸ç”°
 
 *08110_H_TOP
-;[debug_win]‚È‚¤@08110_H[debug_win_end]
+;[debug_win]ãªã†ã€€08110_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [eval exp="sf.SRP42 = 1"][if exp="tf.scene_mode == 0"][jump target=*08110][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
 [bgm001]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *08110
 
-;*SceneSet|w‘Ìˆç‹³Š¯ºx
+;*SceneSet|ã€ä½“è‚²æ•™å®˜å®¤ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08110 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08110 = 1"]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 
-;//;//BG:bg–³‚µ
-;//SE:ƒKƒ‰ƒKƒ‰
-;//;//BG:bg–³‚µ
+;//;//BG:bgç„¡ã—
+;//SE:ã‚¬ãƒ©ã‚¬ãƒ©
+;//;//BG:bgç„¡ã—
 
 ;//blackout
 ;g[backlay_c][chara_int][trans_c cross time=150]
@@ -49,8 +49,8 @@
 
 *9224|
 [fc]
-[ns]‰Á“¡[nse]
-uƒCƒeƒFI@’N‚¾‚æA‚±‚ñ‚ÈŠ‚Éƒoƒbƒg•ú’u‚µ‚½‚ÌIv[pcms]
+[ns]Kato[nse]
+Ouch! Who left a bat lying around in a place like this![pcms]
 
 ;	/*
 ;	[ChrSetEx layer=1 chbase="take_a_d_01"]
@@ -59,39 +59,37 @@
 ;	[trans_c cross time=150]
 ;	*/
 
-;—§‚¿
+;ç«‹ã¡
 
 *9225|
 [fc]
-[ns]’|“à[nse]
-uƒV[ƒbII@Šİ“c‚É‚Ç‚â‚³‚ê‚é‚¼II@‚¢‚«‚È‚èwƒE[r]
-ƒ‹ƒZƒFIx‚Æ‚©A“ª‚²‚È‚µ‚ÉŒ¾‚í‚ê‚½‚çƒCƒ„‚¾‚©‚ç‚³ccv[pcms]
+[ns]Takeuchi[nse]
+Shh!! I'm going to be teased by Kishida![l][er]
+It's because I don't want to be suddenly told You're[r]annoying![l][er]
+without any reason...[pcms]
 
 *9228|
 [fc]
-[ns]‰Á“¡[nse]
-uŠm‚©‚ÉAƒAƒCƒcA‚¢‚«‚È‚èƒLƒŒ‚é‚©‚ç‚Èccv[pcms]
+[ns]Kato[nse]
+Yeah, that guy does suddenly get angry...[pcms]
 
 *9229|
 [fc]
-‚µ‚Á‚©‚µƒCƒeƒFccBg‚Á‚½‚ç‚¿‚á‚ñ‚Æ•Ğ‚Ã‚¯‚Ä‚¨‚¯‚Á[r]
-‚Ä‚ÌI@–ì‹…•”‚Ì“z‚ç‚©H@‚»‚ê‚Æ‚àAŠİ“c‚ª—V‚ñ‚ÅA[r]
-‚Ù‚Á‚½‚ç‚©‚µ‚É‚µ‚½‚Ì‚©‚ÈB[pcms]
+Ouch... Seriously. If you use it, at least clean up[r]afterwards![l][er]
+Is it the baseball club guys? Or did Kishida play with it[r]and leave it behind?[pcms]
 
 *9230|
 [fc]
-‚»‚ê‚É‚µ‚Ä‚àŠİ“c‚Ì“zA‚±‚ñ‚ÈŠÔ‚É‰½‚â‚Á‚Ä‚â‚é‚ñ‚¾[r]
-ccB[pcms]
+By the way, what is Kishida doing at this time...[pcms]
 
 *9231|
 [fc]
-ccƒAƒCƒc‚Ì–‚¾‚©‚çA¶“k‚Ìƒuƒ‹ƒ}‚Æ‚©”í‚Á‚ÄAƒIƒi[r]
-ƒb‚Ä‚½‚è‚µ‚Ä‚ÈccB[pcms]
+... Knowing him, he's probably wearing the students'[r]bloomers and masturbating...[pcms]
 
 *9232|
 [fc]
-[ns]‰Á“¡[nse]
-uƒNƒNƒNƒbccv[pcms]
+[ns]Kato[nse]
+Hehehe...[pcms]
 
 ;	/*
 ;	[ChrSetEx layer=1 chbase="take_a_a_01"]
@@ -99,59 +97,60 @@
 ;	[trans_c cross time=150]
 ;	*/
 
-;—§‚¿
+;ç«‹ã¡
 
 *9233|
 [fc]
-[ns]’|“à[nse]
-u‚Ç‚¤‚µ‚½‚ÌH@‰½‚©AŒ©‚¦‚½Hv[pcms]
+[ns]Takeuchi[nse]
+What's wrong? Did you see something?[pcms]
 
 *9236|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¢‚âA‚³‚ŸccƒNƒNƒbccv[pcms]
+[ns]Kato[nse]
+Well, um... hehehe...[pcms]
 
 *9237|
 [fc]
-Šİ“c‚ªƒIƒiƒb‚Ä‚é‚ñ‚¶‚á‚Ë‚¥H@‚ÆŒ¾‚¨‚¤‚Æ‚µ‚½–îæA[r]
-ƒAƒCƒc‚ÌccŠİ“c‚Ì“{–Â‚èº‚ª•·‚±‚¦‚Ä‚«‚½B[pcms]
+Just as I was about to say Is Kishida masturbating?[l][er]
+, I heard his... Kishida's angry voice.[pcms]
 
 *9238|
 [fc]
-[ns]Šİ“c[nse]
-u‚È‚ñ‚¾‚©’m‚ç‚ËƒF‚¯‚ÇA‰´—l‚Éà‹³‚Í‚¶‚ß‚â‚ª‚Á‚ÄA[r]
-‰½—l‚Ì‚Â‚à‚è‚¾II@©•ª‚Ì—§êA–Y‚ê‚½‚Ì‚©IHv[pcms]
+[ns]Kishida[nse]
+I don't know what's going on, but he's starting to lecture[r]me, acting all high and mighty.[l][er]
+Who does he think he is!! Did he forget his own position!?[pcms]
 
 *v3455|
 [fc]
 [vo_ri s="risa0678"]
-[ns]V“¹[nse]
-u‚¢‚­‚ç‰½‚Å‚àA“‚·‚¬‚Ü‚·I@‰½‚àA‚ ‚ñ‚Ècc‚ ‚ñ[r]
-‚È“‚¢ˆ«‹Y‚µ‚È‚­‚Ä‚à‚¢‚¢‚¶‚á‚È‚¢‚Å‚·‚©IIv[pcms]
+[ns]Shindou[nse]
+This is just too much! There's no need for such...[l][er]
+such cruel pranks![pcms]
 
 *9239|
 [fc]
-‰½‚¾ccH@Šİ“c‚ÆA‚±‚Ìº‚ÍccV“¹æ¶ccH[r]
-Œ¾‚¢‘ˆ‚¢A‚µ‚Ä‚éccH[pcms]
+What...? Kishida and this voice...[l][er]
+Shindou-sensei...? Are they arguing...?[pcms]
 
 *9240|
 [fc]
-[ns]Šİ“c[nse]
-uƒYƒ@ƒbƒnƒbƒnƒbƒnII@‚¢‚¢‚¶‚á‚Ë[‚©II@ŠF‚ÉŒ©[r]
-‚ç‚ê‚Ä‹»•±‚µ‚½‚ñ‚¾‚ëƒHIH@ccƒ}ƒ]‚ª‚æƒbII@‚±[r]
-‚ÌAƒ}ƒ]“Ø‚ª‚æƒbII@ƒYƒnƒnƒnƒnƒnƒnƒbIIv[pcms]
+[ns]Kishida[nse]
+Zaa hahhahha!! Isn't it great?![l][er]
+I got excited being watched by everyone, right!?[l][er]
+... You masochist!! You maso pig!![l][er]
+Zuhahahahahaha!![pcms]
 
 ;//*|
-;mm ‚±‚ê‚È‚ñ‚¾‚ë’uŠ·ƒŠƒXƒg‚Åƒ‰ƒxƒ‹“ü‚Á‚Ä‚È‚©‚Á‚½‚µƒ{ƒCƒXƒtƒ@ƒCƒ‹‚à‚È‚¢
+;mm ã“ã‚Œãªã‚“ã ã‚ç½®æ›ãƒªã‚¹ãƒˆã§ãƒ©ãƒ™ãƒ«å…¥ã£ã¦ãªã‹ã£ãŸã—ãƒœã‚¤ã‚¹ãƒ•ã‚¡ã‚¤ãƒ«ã‚‚ãªã„
 *9240a|
 [fc]
 ;[vo_ri s="risa0000"]
-[ns]V“¹[nse]
-uccƒbIv[pcms]
+[ns]Shindou[nse]
+...![pcms]
 
 *9241|
 [fc]
-ccV“¹æ¶‚ªAƒ}ƒ]ccH[pcms]
+... Shindou-sensei is a masochist...?[pcms]
 
 ;	/*
 ;	[ChrSetEx layer=1 chbase="take_a_a_01"]
@@ -160,32 +159,31 @@
 ;	[trans_c cross time=150]
 ;	*/
 
-;—§‚¿
+;ç«‹ã¡
 
 *9242|
 [fc]
-[ns]’|“à[nse]
-u‰½H@‰½‚È‚ÌA‚±‚Ì‰ï˜bccH@’†‚ÅA‰½‚â‚Á‚Ä‚é‚ñ[r]
-‚¾‚ë‚¤ccHv[pcms]
+[ns]Takeuchi[nse]
+What? What is this conversation...?[l][er]
+What are they doing inside...?[pcms]
 
 *9245|
 [fc]
-[ns]‰Á“¡[nse]
-u‚æ‚µA”`‚¢‚Ä‚İ‚æ‚¤‚ºccv[pcms]
+[ns]Kato[nse]
+Alright, let's take a peek...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *9246|
 [fc]
-”`‚¢‚Ä‚­‚êA‚ÆŒ¾‚í‚ñ‚Î‚©‚è‚Ì”¼ŠJ‚«‚Ì”à‚©‚çA’†‚Ì—l[r]
-q‚ğ‰M‚Á‚Ä‚İ‚é‚ÆccB[pcms]
+As if beckoning me, I cautiously peered inside through the[r]slightly ajar door to see what was happening...[pcms]
 
 
 ;;;[sysbt_meswin clear]
 
 *scene_start
 
-;//ôFBGM003
+;//â™ªï¼šBGM003
 [bgm003]
 
 ;//H_CG:ON
@@ -198,296 +196,291 @@
 
 *9247|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ÈA‚È‚ñ‚¾‚±‚è‚áccv[pcms]
+[ns]Kato[nse]
+W-What's going on here...[pcms]
 
 *9248|
 [fc]
-–Ú‚Ì‘O‚ÅA‚ ‚è“¾‚È‚¢ŒõŒi‚ªccB[r]
-æ¶‚ªA‘f‚Á—‡‚ÅccIH@‰½‚â‚Á‚Ä‚é‚ñ‚¾H[pcms]
+In front of my eyes, an unimaginable scene...[l][er]
+The teacher is completely naked!?[l][er]
+What are they doing?[pcms]
 
 *9249|
 [fc]
-[ns]Šİ“c[nse]
-u‚Èƒ“‚¾‚ŸH@ƒ_ƒ“ƒ}ƒŠ‚©ƒ@IH@”F‚ß‚½—l‚È‚àƒ“‚¶‚á[r]
-‚Ë[‚©ƒbI@„Aƒ}ƒ]‚È‚ñ‚Å‚·II@‚Á‚Ä‚æƒHIIv[pcms]
+[ns]Kishida[nse]
+What's this? Are you silent!? It's like you're admitting it,[r]right?![l][er]
+I'm a masochist!! That's right!![pcms]
 
 *v3456|
 [fc]
 [vo_ri s="risa0679"]
-[ns]V“¹[nse]
-u‚»cc‚»‚ñ‚È‚ÁccB‚¤‚£ccv[pcms]
+[ns]Shindou[nse]
+Tha... that's... no... uhh...[pcms]
 
 *9250|
 [fc]
-V“¹æ¶‚ªA–Ú‚ğ‚»‚ç‚µ‚ÄA–³Œ¾‚É‚È‚Á‚½ccB[r]
-‚Á‚ÄA‚»‚ê‚æ‚è‚àccB[pcms]
+Shindou-sensei averted her eyes and fell silent...[l][er]
+But more importantly...[pcms]
 
 *9251|
 [fc]
-V“¹æ¶‚ªA‚ ‚è“¾‚È‚¢ŠiD‚ÅAŠİ“c‚Ì‘O‚ÉccII[r]
-à‹³cc‚³‚ê‚Ä‚écc‚Ì‚©H@‘S—‡cc‚ÅH[pcms]
+Shindou-sensei, in an unimaginable state, is in front of[r]Kishida...!![l][er]
+Is she being scolded... while completely naked...?[pcms]
 
 *9252|
 [fc]
-–ó‚ª•ª‚©‚ç‚Ë‚¥ccB[pcms]
+I don't understand...[pcms]
 
 *9253|
 [fc]
-[ns]’|“à[nse]
-uƒAƒŒA‚³cc—Ç‚­AŒ©‚éccƒ}ƒ]cc‚¾‚æ‚ÈccA‚ [r]
-‚ÌŠiD‚Íccv[pcms]
+[ns]Takeuchi[nse]
+What? That... I should take a good look...[l][er]
+Masochist... right? That appearance...[pcms]
 
 *9254|
 [fc]
-‚ ‚ A‚»‚¤‚©ccB[r]
-ƒAƒŒ‚ÍA‚r‚lƒvƒŒƒC‚©ccB[pcms]
+Ah, I see... That was a BDSM play...[pcms]
 
 *9255|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ cc‚Ç‚¤Œ©‚Ä‚àAƒ}ƒ]‚Ì‚·‚éŠiD‚¾ccB‚Å‚àA[r]
-V“¹æ¶ccƒ}ƒ]cc‚È‚Ì‚©Hv[pcms]
+[ns]Kato[nse]
+Ah... no matter how you look at it, it's a masochistic[r]appearance...[l][er]
+But, Shindou-sensei... is she...[l][er]
+a masochist?[pcms]
 
 *9256|
 [fc]
-‚â‚Á‚Ï‚èA‚³‚Á‚«‚ÌƒrƒfƒIAV“¹æ¶‚ÆAŠİ“c‚¾‚Á‚½‚ñ[r]
-‚¾ccB[pcms]
+As I thought, in the previous video, it was Shindou-sensei[r]and Kishida...[pcms]
 
 *9257|
 [fc]
-‚Å‚àA‰½‚Å‚±‚Ì“ñl‚ªH[r]
-‘S‘RA’Ş‚è‡‚í‚Ë‚¥‚æII[pcms]
+But why these two? They don't match at all!![pcms]
 
 *9258|
 [fc]
-[ns]‰Á“¡[nse]
-uƒNƒ\ƒbccII@‚È‚ñ‚ÅA‚ ‚ñ‚È“z‚Æccv[pcms]
+[ns]Kato[nse]
+Damn it...!! Why with that person...[pcms]
 
 *9259|
 [fc]
-[ns]’|“à[nse]
-uƒVƒbII@‚Î‚ê‚¿‚á‚¤‚æccB¡‚©‚çB‰e‚·‚é‚ñ‚¾‚©[r]
-‚çccBŒ©‚Â‚©‚Á‚½‚çAB‚ê‚È‚­‚È‚é‚¶‚á‚È‚¢‚©ccv[pcms]
+[ns]Takeuchi[nse]
+Shh!! It'll be exposed... We're about to start filming...[l][er]
+If we're found out, we won't be able to film anymore, you[r]know...[pcms]
 
 *9260|
 [fc]
-[ns]‰Á“¡[nse]
-u‚³AB‰eIH@‚¨‘OA‰½Œ¾‚Á‚Äcc‚ñ‚®‚ÁIv[pcms]
+[ns]Kato[nse]
+W-Wait, filming!? What are you saying...[l][er]
+nggh![pcms]
 
 *9261|
 [fc]
-[ns]’|“à[nse]
-u‚¤‚é‚³‚¢‚Á‚Ä‚Îccv[pcms]
+[ns]Takeuchi[nse]
+Shut up...[pcms]
 
 *9262|
 [fc]
-^–ç‚ÉŒû‚ğ‚Ó‚³‚ª‚ê‚Ä‚µ‚Ü‚Á‚½ccB[pcms]
+I was silenced by Shinya...[pcms]
 
 *9263|
 [fc]
-Šİ“c‚àV“¹æ¶‚àA‚¨Œİ‚¢–Ù‚Á‚Ä‚µ‚Ü‚Á‚ÄAÃ‚Ü‚è•Ô‚Á[r]
-‚Ä‚¢‚éBŠm‚©‚Éº‚Å‚Î‚ê‚Ä‚µ‚Ü‚¤Š‚¾‚Á‚½B[pcms]
+Kishida and Shindou-sensei both fell silent and the room[r]became quiet.[l][er]
+It was definitely a moment where our voices could have been[r]heard and exposed.[pcms]
 
 *9264|
 [fc]
-^–ç‚ªƒfƒWƒJƒ‚ğæ‚èo‚µAB‰e‚ğn‚ß‚½‚Ì‚Æ‚Ù‚Ú“¯[r]
-‚ÉAŠİ“c‚ª“®‚«n‚ß‚½B[pcms]
+As Shinya took out his digital camera and started filming,[r]almost at the same time, Kishida began to move.[pcms]
 
 *9265|
 [fc]
-[ns]Šİ“c[nse]
-uƒtƒ“‚ÁII@–Ù‚Á‚Ä‚Ä‚àA•ª‚©‚ç‚ËƒF‚Á‚ÄŒ¾‚Á‚Ä‚é‚¾[r]
-‚ëH@‰½‚Æ‚©Œ¾‚¦‚æccBŒ¾‚í‚ËƒF‚ÆA‚±‚Ì‚Ü‚Ü‚Ù‚Á‚Û[r]
-‚Á‚Ä‰´‚¾‚¯‹A‚Á‚¿‚Ü‚¤‚¼IHv[pcms]
+[ns]Kishida[nse]
+Hmph!! Even if you stay silent, you're saying you don't[r]understand, right?[l][er]
+Say something... If you don't, I'll just leave you behind[r]and go home by myself, you know!?[pcms]
 
 *v3457|
 [fc]
 [vo_ri s="risa0680"]
-[ns]V“¹[nse]
-u‚¦ccHv[pcms]
+[ns]Shindou[nse]
+Eh...?[pcms]
 
 *9266|
 [fc]
-[ns]Šİ“c[nse]
-u’N‚©—ˆ‚é‚©‚à‚ÈccB‚¨‘Oƒ“Š‚Ì•”ˆõ‚ª’T‚µ‚É—ˆ‚é‚Æ[r]
-‚©‚æƒHII@Œ©‚ç‚ê‚¿‚Ü‚¤‚ºccH@‚±‚ñ‚ÈA‚İ‚Á‚Æ‚à[r]
-‚Ë‚¥ŠiD‚µ‚Ä‚éŠ‚ğ‚æIIv[pcms]
+[ns]Kishida[nse]
+Someone might come... Like the members from your club coming[r]to look for you!![l][er]
+We'll be seen...? In such an embarrassing state like this!![pcms]
 
 *v3458|
 [fc]
 [vo_ri s="risa0681"]
-[ns]V“¹[nse]
-u‚»‚ê‚¾‚¯‚Ícc‚»‚ê‚¾‚¯‚ÍA‹–‚µ‚Ä‰º‚³‚¢II[r]
-Œ¾‚¢‚Ü‚·ccŒ¾‚¢‚Ü‚·‚©‚çccv[pcms]
+[ns]Shindou[nse]
+Please... Please forgive me for this![l][er]
+I'll say it... I'll say it, so...[pcms]
 
 *9267|
 [fc]
-•”ˆõ‚ª—ˆ‚é‚Á‚ÄccB[r]
-‚à‚¤”`‚¢‚Ä‚é‚ñ‚¾‚¯‚Ç‚³ccB[pcms]
+The club members are coming...[l][er]
+They're already peeking, you know...[pcms]
 
 *9268|
 [fc]
-[ns]’|“à[nse]
-u‚ ‚ ‚Ácc‚à‚¤I@‘×”V‚Ì“ª‚ª×–‚‚¾‚æccBŠÌS‚È[r]
-Š‚ª‰B‚ê‚¿‚á‚¤‚¶‚á‚È‚¢‚©ccv[pcms]
+[ns]Takeuchi[nse]
+Ahh... geez! Taiyuki's head is in the way...[l][er]
+It's hiding the important parts...[pcms]
 
 *9269|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ AƒSƒƒ“ccv[pcms]
+[ns]Kato[nse]
+Ah, sorry...[pcms]
 
 *9270|
 [fc]
-”`‚¢‚Ä‚¢‚é‚¾‚¯‚¶‚á‚È‚­‚ÄccB[r]
-B‰e‚Ü‚Å‚µ‚Ä‚é‚ñ‚¾‚¯‚Ç‚³ccB[pcms]
+Not only are they peeking... They're even filming, you[r]know...[pcms]
 
 *9271|
 [fc]
-Œ©‚Ä‚é‚¾‚¯‚¶‚ácc–Ê”’‚­‚È‚¢‚ÈccB[r]
-‚Å‚àA‚Ç‚¤‚µ‚æ‚¤ccB[pcms]
+Just watching... it's not interesting...[l][er]
+But, what should I do...?[pcms]
 
 *9272|
 [fc]
-[ns]Šİ“c[nse]
-u‰½‚¾ƒ@H@‚Ü‚½ƒ}ƒ“ƒR‚©‚ç`‚‚ç‚µ‚â‚ª‚Á‚Ä‚æ‚§H@[r]
-‘z‘œ‚µ‚½‚¾‚¯‚ÅAƒrƒVƒ‡ƒrƒVƒ‡‚Å‚·‚ÁI@‚Á‚Ä‚©‚ŸH@[r]
-ƒYƒ@ƒbƒnƒbƒnƒbƒnIIv[pcms]
+[ns]Kishida[nse]
+What the hell? You're dripping juice from your pussy again?[l][er]
+Just imagining it makes me all wet![l][er]
+Seriously? Zaa-hahahaha!![pcms]
 
 *v3459|
 [fc]
 [vo_ri s="risa0682"]
-[ns]V“¹[nse]
-uccIIv[pcms]
+[ns]Shindou[nse]
+...!![pcms]
 
 *9273|
 [fc]
-[ns]Šİ“c[nse]
-uƒ}ƒ“ƒR^‚ÁÔ‚É‚µ‚Ä‚æƒHI@ƒVƒ‡ƒ“ƒxƒ“˜R‚ç‚µ‚½‚İ‚½[r]
-‚¢‚É”G‚ç‚µ‚â‚ª‚Á‚ÄII@•Ï‘Ô‚ª‚æ‚ÁII@‚Ÿ‚ H@‰½[r]
-‚Æ‚©Œ¾‚Á‚½‚ç‚Ç‚¤‚È‚ñ‚¾H@‚±‚Ìcc•Ï‘Ô‚ÁIIv[pcms]
+[ns]Kishida[nse]
+Make your pussy all red! You're wetting it like you've peed[r]yourself!![l][er]
+You pervert!! Ahh? What will happen if you say something?[l][er]
+You... pervert!![pcms]
 
 *9274|
 [fc]
-‰“‚­‚ÄŒ©h‚¢‚¯‚ÇccAŠm‚©‚ÉAV“¹æ¶‚ÌŒÒŠÔ‚Ì‰ºc[r]
-c°‚ªcc…‚½‚Ü‚è‚İ‚½‚¢‚É‚È‚Á‚Ä‚éccB[pcms]
+It's hard to see from here, but...[l][er]
+it's true, there's a puddle on the floor under Shindou-[r]sensei's crotch...[pcms]
 
 *9275|
 [fc]
-Šİ“c‚ÌAƒQƒX‚ÈŒ¾—t‚É‹»•±‚µ‚Ä‚é‚Ì‚©‚ÈccB[r]
-‚¾‚Æ‚µ‚½‚çAŠm‚©‚É•Ï‘Ôcc‚¾‚ÈccB[pcms]
+I wonder if Shindou is getting excited by Kishida's vulgar[r]words...[l][er]
+If that's the case, she really is a pervert...[pcms]
 
 *v3460|
 [fc]
 [vo_ri s="risa0683"]
-[ns]V“¹[nse]
-u‚íccA„ccA‚Íccv[pcms]
+[ns]Shindou[nse]
+Ah... I... um...[pcms]
 
 *v3461|
 [fc]
 [vo_ri s="risa0684"]
-[ns]V“¹[nse]
-u„A‚ÍccB@„‚ÍAƒ}ƒ]‚Å‚·II@•”ˆõ’B‚ÉŠİ“c—l[r]
-‚Æ‚ÌƒZƒbƒNƒX‚ğŒ©‚ç‚ê‚ÄccA‚Í‚Ÿ‚ ‚ÁI@‚±A‹»•±‚µ[r]
-‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½cc‚¤‚Ÿ‚ ‚ ‚Áccv[pcms]
+[ns]Shindou[nse]
+I... um... I am... a masochist!![l][er]
+The club members saw me having sex with Kishida-sama...[l][er]
+and, haah! I... got excited...[l][er]
+uaaah...[pcms]
 
 *9276|
 [fc]
-‚¤‚í‚ŸccB‰½‚©AŒÒŠÔ‚©‚ç•¬‚«‚¾‚µ‚½‚¼ccB[r]
-ˆ¤‰t‚©ccH@Š´‚¶‚Ä‚é‚Ì‚©‚ÈccB[pcms]
+Uwaa... Something is gushing out from my crotch...[l][er]
+Is it love juice...? Am I feeling pleasure...?[pcms]
 
 *9277|
 [fc]
-[ns]Šİ“c[nse]
-uƒA‚ŸH@‚¨‘OA‰½Œ¾‚Á‚Ä‚é‚ñ‚¾H@”n­‚¶‚á‚Ë‚¥‚Ì‚©H[r]
-’N‚ª‚»‚ñ‚È–Œ¾‚¦ƒb‚Â‚Á‚½H@‚»‚ê‚ÉA‰½Ó‚Á‚Ä‚é[r]
-‚ñ‚¾H@ƒo[ƒJI@ƒKƒnƒnƒnƒnIIv[pcms]
+[ns]Kishida[nse]
+Huh? What the hell are you saying?[l][er]
+Are you an idiot? Who told you to say something like that?[l][er]
+And why are you apologizing? You moron![l][er]
+Hahaha![pcms]
 
 *v3462|
 [fc]
 [vo_ri s="risa0685"]
-[ns]V“¹[nse]
-uccII@cc‚»A‚»‚ê‚ÍccŠİ“ccc—l‚ªccv[pcms]
+[ns]Shindou[nse]
+...!! ... Th-that is... Kishida...[l][er]
+sama...[pcms]
 
 *9278|
 [fc]
-[ns]Šİ“c[nse]
-u‰´‚Ì‚¹‚¢‚É‚·‚é‚Ì‚©ƒ@H@ccM‚¶‚ç‚ê‚ËƒFcc”n­[r]
-‚İ‚½‚¢‚È–Œ¾‚¢‚È‚ª‚çA‘«‰º‚É…‚½‚Ü‚èì‚è‚â‚ª‚Á‚Ä‚æ[r]
-ƒHI@ƒYƒAƒbƒnƒnƒnƒnIIv[pcms]
+[ns]Kishida[nse]
+Are you blaming me? ... I can't believe this...[l][er]
+You're making a puddle at your feet while saying such stupid[r]things![l][er]
+Zaa-hahahaha!![pcms]
 
 *v3463|
 [fc]
 [vo_ri s="risa0686"]
-[ns]V“¹[nse]
-u‚­‚ÁccB‚ÅA‚Å‚ÍA‰½‚ÆccB‰½‚ÆŒ¾‚¦‚Î‹X‚µ‚¢‚Ì[r]
-‚Å‚·‚©ccv[pcms]
+[ns]Shindou[nse]
+Ku... Then, um, what... What should I say...?[pcms]
 
 *9279|
 [fc]
-[ns]Šİ“c[nse]
-u•Ê‚ÉccB‚¨‘O‚ª—]‚è‚É‚àŠŠŒm‚¾‚©‚çA‚©‚ç‚©‚Á‚Ä‚é[r]
-‚¾‚¯‚¾II@ƒYƒnƒnƒnƒnIIv[pcms]
+[ns]Kishida[nse]
+It's not like that... I'm just teasing you because you're so[r]ridiculous!![l][er]
+Zuhahahaha!![pcms]
 
 *v3464|
 [fc]
 [vo_ri s="risa0687"]
-[ns]V“¹[nse]
-u‚ĞA“‚¢ccv[pcms]
+[ns]Shindou[nse]
+H-How cruel...[pcms]
 
 *9280|
 [fc]
-ccB[r]
-ƒzƒ“ƒg‚É“‚¢“z‚¾‚ÈccB[r]
-‚Å‚àccB[pcms]
+... What a truly cruel person...[l][er]
+But...[pcms]
 
 *9281|
 [fc]
-‚ ‚ñ‚È–Œ¾‚í‚ê‚ÄAˆ¤‰t‚‚ç‚µ‚Ä‚éæ¶‚àA‚Ç‚¤‚©‚µ‚Ä[r]
-‚é‚Æv‚¤‚¯‚ÇccB‚â‚Á‚Ï‚èƒ}ƒ]‚È‚Ì‚©‚ÈccB[pcms]
+I think the teacher who says such things and drips love[r]juice is also messed up...[l][er]
+Maybe they really are a masochist...[pcms]
 
 *9282|
 [fc]
-[ns]’|“à[nse]
-u‚¤‚í[ccB•’i‚©‚ç‚»‚¤‚¾‚¯‚ÇA¡“ú‚ÌŠİ“c‚Á‚ÄA[r]
-‚à‚Ì¦‚­‹C‚É‚­‚í‚È‚¢‚Ècc‚»‚ê‚ÉA‚¹‚Á‚©‚­‚ÌƒXƒN[[r]
-ƒv‚ÌB‰e‚àŠİ“c‚ª×–‚‚Åãè‚­o—ˆ‚È‚¢‚µccv[pcms]
+[ns]Takeuchi[nse]
+Ugh... Kishida is really getting on my nerves today, even[r]more than usual...[l][er]
+And on top of that, because of Kishida, I can't get a good[r]shot of this scoop...[pcms]
 
 *9283|
 [fc]
-^–ç‚ÌŒ¾‚¤‚Æ‚¨‚è‚¾BV“¹æ¶‚ª‚©‚í‚¢‚»‚¤‚É‚È‚Á‚Ä‚«[r]
-‚½B‚»‚ê‚ÉA‚±‚Ì‚Ü‚ÜŒ©‚Ä‚é‚¾‚¯‚Á‚Ä‚Ì‚à‚È‚Ÿcc[pcms]
+It's just as Shinya said. I'm starting to feel sorry for[r]Shindou-sensei.[l][er]
+And just watching without doing anything...[l][er]
+doesn't feel right either...[pcms]
 
 *9284|
 [fc]
-[ns]‰Á“¡[nse]
-ucc‚»‚¤‚©AŠİ“c‚ğ‚â‚Á‚Â‚¯‚ê‚Î‚¢‚¢‚ñ‚¶‚á‚È‚¢‚©Hv[pcms]
+[ns]Kato[nse]
+... I see, maybe we should just defeat Kishida?[pcms]
 
 *9285|
 [fc]
-[ns]’|“à[nse]
-u‚Å‚àA‚Ç‚¤‚â‚é‚ÌH@‘fè‚¶‚á‚ “ñl‚ª‚©‚è‚Å‚àŸ‚¿[r]
-–Ú‚È‚¢‚æccv[pcms]
+[ns]Takeuchi[nse]
+But how do we do it? Even if we team up, we don't stand a[r]chance barehanded...[pcms]
 
 *9286|
 [fc]
-Šm‚©‚ÉA^–ç‚ÌŒ¾‚¤‚Æ‚¨‚è‚¾B‚Æ‚Ä‚à‚¶‚á‚È‚¢‚¯‚Ç‰´’B[r]
-‚É‚ÍŸ‚¿–Ú‚Í–³‚¢B[pcms]
+Indeed, Shinya is right. There's no way we can win, not in[r]the slightest.[pcms]
 
 *9287|
 [fc]
-‚ñH@‚»‚¤Œ¾‚¦‚ÎA‚³‚Á‚«Aƒoƒbƒg‚É‚Â‚Ü‚Ã‚¢‚½‚Á‚¯B[r]
-ƒAƒŒAg‚¦‚é‚ÈccB[pcms]
+Hm? Come to think of it, earlier I tripped over a bat.[l][er]
+That thing could be useful...[pcms]
 
 *9288|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¿‚å‚Á‚Æ‘Ò‚Á‚Ä‚ëccv[pcms]
+[ns]Kato[nse]
+Wait a minute...[pcms]
 
 *9289|
 [fc]
-[ns]’|“à[nse]
-u‚ ‚Ácc‚Ç‚±‚És‚­‚ÌHv[pcms]
+[ns]Takeuchi[nse]
+Ah... Where are you going?[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -503,14 +496,13 @@
 
 *9290|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦‚Á‚ÆAŠm‚©‚±‚Ì•Ó‚Å‚Â‚Ü‚Ã‚¢‚½‚ñ‚¾‚æ‚Ècc‚ A‚ [r]
-‚Á‚½‚ ‚Á‚½v[pcms]
+[ns]Kato[nse]
+Um, I think I tripped around here...[l][er]
+Ah, there it is, there it is.[pcms]
 
 *9291|
 [fc]
-‚±‚Ìƒoƒbƒg‚Åƒuƒb’@‚¢‚½‚çA‚¢‚­‚çŠİ“c‚Å‚à‚Ğ‚Æ‚½‚Ü‚è[r]
-‚à‚È‚¢‚¾‚ëccB[pcms]
+If we hit him with this bat, even Kishida won't stand a[r]chance...[pcms]
 
 ;//H_CG:ON
 
@@ -525,92 +517,88 @@
 
 *9292|
 [fc]
-[ns]’|“à[nse]
-u‚ ‚êH@‚È‚É‚»‚êAƒoƒbƒgHv[pcms]
+[ns]Takeuchi[nse]
+Huh? What's that, a bat?[pcms]
 
 *9293|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤BƒRƒŒ‚³‚¦—L‚ê‚Îccv[pcms]
+[ns]Kato[nse]
+Yeah. If we have this...[pcms]
 
 *9294|
 [fc]
-ƒoƒbƒg‚ğŒy‚­U‚Á‚ÄA^–ç‚ÉƒEƒBƒ“ƒN‚ğ‚µ‚½B[pcms]
+I lightly swung the bat and winked at Shinya.[pcms]
 
 *9295|
 [fc]
-[ns]’|“à[nse]
-u‚æ‚µA”C‚¹‚½II@ƒ{ƒN‚ÍB‰e‚Å–Z‚µ‚¢‚©‚çccv[pcms]
+[ns]Takeuchi[nse]
+Alright, leave it to me!! I'm busy with the filming, so...[pcms]
 
 *9296|
 [fc]
-‰´ˆêl‚Å‚â‚ê‚Á‚Ä‚Ì‚©‚æccB[r]
-‘åä•vcc‚©‚ÈccH[pcms]
+Are you telling me to do it alone...?[l][er]
+I wonder if it'll be alright...[pcms]
 
 *9297|
 [fc]
-[ns]Šİ“c[nse]
-u‚³ƒ@‚ÄA‚»‚ë‚»‚ëƒRƒCƒc‚ğ“Ë‚Á‚ñ‚Å‚â‚é‚©ƒ@H@‚¨[r]
-‘O‚à‰ä–‚Å‚«‚Ë‚¥‚¾‚ëHv[pcms]
+[ns]Kishida[nse]
+Well then, shall we give this guy a good beating soon?[l][er]
+You can't endure it either, can you?[pcms]
 
 *v3465|
 [fc]
 [vo_ri s="risa0688"]
-[ns]V“¹[nse]
-u‚¢ccƒCƒ„‚Å‚·cc¡‚Ícc¡“ú‚ÍA‘Ê–Ú‚Å‚·II@[r]
-‚»‚ñ‚È‹C•ª‚¶‚áccv[pcms]
+[ns]Shindou[nse]
+N-No... I don't want to... Not now...[l][er]
+Today is not good!! I'm not in the mood...[pcms]
 
 *9298|
 [fc]
-[ns]Šİ“c[nse]
-u‚ñƒ“‚ñ`H@•·‚±‚¦‚ËƒF‚È‚ŸII@‹C•ª‚ª‚È‚ñ‚¾‚Á‚Ä[r]
-H@cc‚»‚¤‚©A‚»‚¤‚©I@’†o‚µ‚µ‚Ä—~‚µ‚¢‚ñ‚¾‚ÈH[r]
-‚¦IH@‚»‚¤‚¾‚ëH@‚»‚¤‚È‚ñ‚¾‚ëIHv[pcms]
+[ns]Kishida[nse]
+Hm? I can't hear you! What's the matter with your mood?[l][er]
+... Oh, I see, I see! You want me to cum inside you, right?[l][er]
+Huh?! Isn't that it? That's what you want, right?![pcms]
 
 *9299|
 [fc]
-–Å’ƒ‹ê’ƒ‚¾ccB‰ï˜b‚É‚È‚Á‚Ä‚È‚¢ccB[r]
-‚»‚ê‚ÉccB’†o‚µ‚¾‚Á‚ÄH[pcms]
+This is a mess... It's not even a conversation...[l][er]
+And... Creampie too?[pcms]
 
 *9300|
 [fc]
-’†o‚µccB’†‚ÉAo‚·ccB[r]
-¦‚­‹C‚¿‚¢‚¢‚ç‚µ‚¢‚ÈA’†o‚µccB[pcms]
+Creampie... To cum inside... It seems to feel really good,[r]creampie...[pcms]
 
 *9301|
 [fc]
-’†o‚µ‚©II[r]
-‰´‚àA’†o‚µA‚µ‚Ä‚İ‚Ä‚¥II[pcms]
+Creampie?! I want to try creampie too!![pcms]
 
 *9302|
 [fc]
-[ns]‰Á“¡[nse]
-u^–çA‰´A’†o‚µ‚µ‚Ä‚­‚é‚¼Iv[pcms]
+[ns]Kato[nse]
+Shinya, I'm going to creampie you![pcms]
 
 *9303|
 [fc]
-[ns]’|“à[nse]
-u‚¦H@‚ÈA‚È‚ÉH@‚È‚ñ‚¾‚Á‚ÄHv[pcms]
+[ns]Takeuchi[nse]
+Eh? W-What? What did you say?[pcms]
 
 *9304|
 [fc]
-‰ä–‚Å‚«‚Ë‚¥I[r]
-V“¹æ¶‚ÉA’†o‚µ‚·‚é‚Ì‚Í‰´‚¾II[pcms]
+I can't hold back! I'm the one who will creampie Shindou-[r]sensei!![pcms]
 
 [se0 storage="se009"]
 [quake_bg xy m]
 
 *9305|
 [fc]
-[ns]‰Á“¡[nse]
-uŠİ“c‚Ÿ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ II[r]
-V“¹æ¶‚ğ‰´‚É‚æ‚±‚¹‚¥‚¦‚¦‚¦‚¦‚¦‚¦‚¦‚¦‚¦‚¦IIv[pcms]
+[ns]Kato[nse]
+Kishidaaaaaaaaaaaaaaa!! Give Shindou-sensei to[r]meeeeeeeeeee!![pcms]
 
 *v3466|
 [fc]
 [vo_ri s="risa0689"]
-[ns]V“¹[nse]
-u‚È‚ÁI@‰Á“¡ŒNIHv[pcms]
+[ns]Shindou[nse]
+What?! Kato-kun?![pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -623,13 +611,13 @@
 
 *9306|
 [fc]
-[ns]Šİ“c[nse]
-uƒ”ƒHIH@‚ÈA‰½‚¾IH@ccƒEƒKƒbIIv[pcms]
+[ns]Kishida[nse]
+Vo?! What, what is it?! ... Ughh!![pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;//SE:‰£‚é
+;//SE:æ®´ã‚‹
 [se0 storage="se026"]
 [quake_bg xy m]
 
@@ -643,53 +631,54 @@
 
 ;//redflash
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 [se0 storage="se021"]
 [quake_bg xy m]
 
 *9307|
 [fc]
-U‚èã‚°‚½ƒoƒbƒg‚ÍAŠİ“c‚ÌƒfƒJ‚¢Š{‚É–½’†‚µA‹‘Ì‚ª[r]
-’n‹¿‚«‚ğã‚°‚Ä“|‚ê‚½B[pcms]
+The swung bat hit Kishida's big chin and his massive body[r]fell with a resounding thud.[pcms]
 
 *9308|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Í‚Í‚Í‚ÁccA‚â‚Á‚½ccv[pcms]
+[ns]Kato[nse]
+Hahaha... I did it...[pcms]
 
 *9309|
 [fc]
-ƒoƒbƒg‚Ìæ‚Å“Ë‚¢‚ÄŒ©‚½‚ªA‹N‚«‚ ‚ª‚é—lq‚Í‚È‚¢B[r]
-‚â‚Á‚½‚ºI@‚±‚ê‚ÅccAV“¹æ¶‚ÍA‰´‚Ì•¨‚¾II[pcms]
+I tried poking him with the end of the bat, but he doesn't[r]seem to be getting up.[l][er]
+I did it! With this... Shindou-sensei is mine!![pcms]
 
 *9310|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Í‚Í‚Í‚ÁII@‚İ‚½‚©‚æ^–çIH@Šİ“cA‚â‚Á‚Â‚¯‚½[r]
-‚ºII@ƒXƒQƒF‚â‰´II@‚Í‚Í‚Í‚Í‚ÁIIv[pcms]
+[ns]Kato[nse]
+Hahaha!! Did you see that, Shinya?![l][er]
+I beat Kishida!! I'm amazing!![l][er]
+Hahaha![pcms]
 
 *9311|
 [fc]
-[ns]’|“à[nse]
-u‘×”VII@×–‚‚¾‚æII@ƒJƒƒ‰‚Ì‘O‚É—§‚Â‚È‚æIIv[pcms]
+[ns]Takeuchi[nse]
+Yasuyuki!! You're in the way!![l][er]
+Don't stand in front of the camera!![pcms]
 
 *9312|
 [fc]
-[ns]‰Á“¡[nse]
-ucc­‚µ‚Í—_‚ß‚ë‚æccv[pcms]
+[ns]Kato[nse]
+... Give me a little praise...[pcms]
 
 *v3467|
 [fc]
 [vo_ri s="risa0690"]
-[ns]V“¹[nse]
-u‚ A‹M’j’Bcc‚È‚ñ‚Ä–‚ğccv[pcms]
+[ns]Shindou[nse]
+Ah, you guys... What are you doing...[pcms]
 
 *9313|
 [fc]
-‚ A‚»‚¤‚¾AV“¹æ¶‚ğ–Y‚ê‚Ä‚½B[r]
-’†o‚µ‚µ‚È‚«‚áB[pcms]
+Oh, that's right, I forgot about Shindou-sensei.[l][er]
+I have to creampie her.[pcms]
 
-;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 [jump target=*08120_H_TOP storage="08120_H.ks"]
 
 

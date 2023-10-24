@@ -1,36 +1,36 @@
 
-;//¡ËƒuƒƒbƒN06180wƒ}ƒ]ƒqƒXƒgx
-;//BG;•ÛŒ’ºF’©FÁ“”
-;//BG:“Áê‹³º˜L‰ºF’©GÁ“”
-;//“oêl•¨GƒŠƒTEŠİ“cEƒ]ƒ“ƒr~‚S
-;//‹“_GƒŠƒT
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯06180ã€ãƒã‚¾ãƒ’ã‚¹ãƒˆã€
+;//BG;ä¿å¥å®¤ï¼šæœï¼šæ¶ˆç¯
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæœï¼›æ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ãƒªã‚µãƒ»å²¸ç”°ãƒ»ã‚¾ãƒ³ãƒ“Ã—ï¼”
+;//è¦–ç‚¹ï¼›ãƒªã‚µ
 
 *06180_H_TOP
-;[debug_win]‚È‚¤@06180_H[debug_win_end]
+;[debug_win]ãªã†ã€€06180_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [eval exp="sf.SRP34 = 1"][if exp="tf.scene_mode == 0"][jump target=*06180][endif]
 ;;[winset]
 [bgm007]
 [jump target=*scene_start]
 
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *06180
 
-;*SceneSet|wƒ}ƒ]ƒqƒXƒgx
+;*SceneSet|ã€ãƒã‚¾ãƒ’ã‚¹ãƒˆã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_06180 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_06180 = 1"]
 
-;//flag:“µƒ‹[ƒgƒtƒ[@zap‚U@•\¦
-;//ôFBGM007
+;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€zapï¼–ã€€è¡¨ç¤º
+;//â™ªï¼šBGM007
 [bgm007]
 
 ;//;//BG:bg13a
@@ -43,128 +43,130 @@
 
 *6837|
 [fc]
-“ñl‚ª‚¢‚½‚©‚çAŒ¾‚¢o‚¹‚È‚©‚Á‚½‚¯‚ÇccB[r]
-‚±‚Ì•”‰®cc­‚µA¸‰t‚Ì“õ‚¢‚ª‚·‚éB[pcms]
+Because there were two people, I couldn't bring it up...[l][er]
+This room... has a faint smell of semen.[pcms]
 
 *6838|
 [fc]
-‚±‚Ì•”‰®‚Å‚à‰½‚©ccH[r]
-‚Ü‚³‚©A’|“à‚ªARŠİ‚³‚ñ‚ğccH[pcms]
+Something in this room...? Could it be that Takeuchi did[r]something to Yamagishi-san...?[pcms]
 
 *6839|
 [fc]
-ğ“úARŠİ‚³‚ñ‚ğP‚Á‚½‚Ì‚ÍA‚à‚µ‚©‚µ‚Äcc’|“àIH[pcms]
+Yesterday, the one who attacked Yamagishi-san...[l][er]
+could it be Takeuchi!?[pcms]
 
 *v2773|
 [fc]
 [vo_ri s="risa0619"]
-[ns]V“¹[nse]
-u‚Ü‚³‚©A‚ËccB‚»‚ê‚Æ‚àccv[pcms]
+[ns]Shindou[nse]
+No way, right...? Or maybe...[pcms]
 
 *6840|
 [fc]
-‚»‚ê‚Æ‚àAƒ‰ƒWƒI‚ÅŒ¾‚Á‚Ä‚¢‚½W’c–\sH[pcms]
+Or maybe, the group assault they were talking about on the[r]radio?[pcms]
 
 *6841|
 [fc]
-‚¾‚Æ‚µ‚½‚çAŒÜ\—’‚³‚ñ‚âA“c’†ŒN‚ÍAƒ‰ƒWƒI‚ÅŒ¾‚Á‚Ä[r]
-‚¢‚½—l‚Écc–\s‚ğó‚¯‚ÄA–\“k‚Ì’‡ŠÔ‚É‰Á‚í‚Á‚½H[pcms]
+If that's the case, could it be that Yamagishi-san and[r]Tanaka-kun, like they mentioned on the radio...[l][er]
+were assaulted and joined the group of thugs?[pcms]
 
 *6842|
 [fc]
-cc‚»‚µ‚ÄARŠİ‚³‚ñ‚à–\“k‚©A“c’†ŒN’B‚ÉP‚í‚ê‚ÄA[r]
-”Ş‚ç‚Ì—l‚É‚È‚Á‚Ä‚µ‚Ü‚Á‚½H[pcms]
+... And Yamagishi-san, too, became a thug, attacked by[r]Tanaka-kun and the others, and ended up like them?[pcms]
 
 *v2774|
 [fc]
 [vo_ri s="risa0620"]
-[ns]V“¹[nse]
-u‚»‚ñ‚ÈA”n­‚Èccv[pcms]
+[ns]Shindou[nse]
+No way, that's ridiculous...[pcms]
 
 *6843|
 [fc]
-‚»‚ñ‚È‚Ìcc‚Ü‚é‚ÅA‚ ‚Ì‰f‰æ‚Ì—l‚ÈccB[pcms]
+Something like that... It's just like a scene from that[r]movie...[pcms]
 
 *6844|
 [fc]
-‚Å‚àA‚ ‚ê‚Íì‚è˜bccB[r]
-‚ ‚ñ‚È–‚ª‹N‚±‚é‚Í‚¸‚ª‚È‚¢B[pcms]
+But, that's just a made-up story...[l][er]
+There's no way something like that could happen.[pcms]
 
 *6845|
 [fc]
-‚»‚ê‚ÉA‰½ŒÌ’‡ŠÔ‚É‚È‚éH@“`õ•aH@‹¶Œ¢•a‚Ì—l‚ÈH[r]
-‰½‚ç‚©‚ÌƒEƒBƒ‹ƒXH@‚»‚ê‚Æ‚àA×‹ÛH@‚»‚ê‚È‚ç‹ó[r]
-‹CŠ´õ‚à‚ ‚è“¾‚éB[pcms]
+And why would they become comrades?[l][er]
+Is it a contagious disease? Like rabies?[l][er]
+Some kind of virus? Or maybe bacteria?[l][er]
+If so, airborne transmission is also possible.[pcms]
+[l][er]
 
 *6846|
 [fc]
-cc‚¶‚á‚ A„‚à‚·‚Å‚ÉH[pcms]
+... Then, am I already...?[pcms]
 
 *6847|
 [fc]
-cc¡‚Ì‚Æ‚±‚ëA©•ª‚Ìg‘Ì‚Å•Ï‚í‚Á‚½Š´‚¶‚Í‚È‚¢B[r]
-„‚ÍA‘åä•v‚È‚Ì‚©‚µ‚çccB[pcms]
+... For now, I don't feel any changes in my body.[l][er]
+I wonder if I'm okay...[pcms]
 
 *6848|
 [fc]
-‚»‚ê‚Æ‚àA”­Ç‚Ü‚Å‚ÉŒÂ‘Ì·‚ª—L‚é‚Æ‚µ‚½‚çccB[r]
-w¡‚Íx‚Ü‚¾‘åä•v‚È‚¾‚¯H[pcms]
+Or maybe, if there are individual differences until the[r]onset...[l][er]
+For now, am I just okay?[pcms]
 
 
 
 *v2775|
 [fc]
 [vo_ri s="risa0621"]
-[ns]V“¹[nse]
-u–\s‚³‚êA’‡ŠÔ‚É‰Á‚í‚éccB–\scc’‡ŠÔccBˆê[r]
-”Ôl‚¦‚â‚·‚¢‚Ì‚Ícc‘Ì‰tŠ´õcc‚©Hv[pcms]
+[ns]Shindou[nse]
+Assaulted and joining the group...[l][er]
+Assault... Comrades... The easiest thing to consider is...[l][er]
+Fluid transmission...?[pcms]
 
 *6849|
 [fc]
-„‚Ì„‘ª‚ª³‚µ‚¯‚ê‚ÎA”Ş‚ç–\“k‚ÆÚG‚µ‚½‚çccB[r]
-–œ‚ªˆêA–\“k‚É‹­Š­‚Å‚à‚³‚ê‚½‚çccB”Ş‚ç‚Ì—l‚É‚È‚Á[r]
-‚Ä‚µ‚Ü‚¤H[pcms]
+If my speculation is correct, if they came into contact with[r]the thugs...[l][er]
+If, by any chance, they were raped by the thugs...[l][er]
+Would they end up like them?[pcms]
 
 *6850|
 [fc]
-cc‚Ü‚¾•a‹C‚ÆŒˆ‚Ü‚Á‚½–ó‚Å‚Í‚È‚¢B‚à‚µ‚©‚µ‚½‚çA[r]
-W’cÃ–°‚Ì—l‚È•¨‚©‚à‚µ‚ê‚È‚¢‚µccB[pcms]
+... It's not yet determined that it's an illness.[l][er]
+Perhaps it's something like group hypnosis...[pcms]
 
 *6851|
 [fc]
-‚¢‚¸‚ê‚É‚µ‚Ä‚àAŒ´ˆö‚ª•ª‚©‚ç‚È‚¢B[pcms]
+In any case, the cause is unknown.[pcms]
 
 *6852|
 [fc]
-„‚ª‚¢‚­‚çl‚¦‚½Š‚Å‰ğŒˆo—ˆ‚»‚¤‚É‚È‚¢B‚Ş‚µ‚ëA‚±[r]
-‚Ìê‚©‚ç“¦‚°o‚·‚Ì‚ªæ‚Å‚Í‚È‚¢‚¾‚ë‚¤‚©B[pcms]
+No matter how much I think about it, it doesn't seem like I[r]can find a solution.[l][er]
+Rather, wouldn't it be better to escape from this place[r]first?[pcms]
 
 *v2776|
 [fc]
 [vo_ri s="risa0622"]
-[ns]V“¹[nse]
-u‚ ccv[pcms]
+[ns]Shindou[nse]
+Ah...[pcms]
 
 *6853|
 [fc]
-‚»‚¤‚¾‚íccB[pcms]
+That's right...[pcms]
 
 *6854|
 [fc]
-„‚ÍAÔ‚Å—ˆ‚Ä‚¢‚½BÔ‚Å“¦‚°‚ê‚ÎccB[pcms]
+I came by car. If I escape by car...[pcms]
 
 *v2777|
 [fc]
 [vo_ri s="risa0623"]
-[ns]V“¹[nse]
-u‚»‚¤‚æcc‚ ‚ÌÔ‚È‚çA‚İ‚ñ‚È‚Å“¦‚°‚ç‚ê‚éccv[pcms]
+[ns]Shindou[nse]
+That's right... If we have that car, we can all escape[r]together...[pcms]
 
 *6855|
 [fc]
-‰Á“¡ŒN’B‚ªƒgƒCƒŒ‚És‚Á‚Ä‚¢‚éŠÔ‚Éæ‚è‚És‚Á‚ÄccB[r]
-‹}‚ª‚È‚­‚Ä‚ÍB[pcms]
+I'll go get it while Kato-kun and the others are in the[r]bathroom...[l][er]
+I need to hurry.[pcms]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 
 [se0 storage="se005"]
 
@@ -176,48 +178,47 @@
 *v2778|
 [fc]
 [vo_ri s="risa0624"]
-[ns]V“¹[nse]
-uccIHv[pcms]
+[ns]Shindou[nse]
+...!?[pcms]
 
 *6856|
 [fc]
-Šİ“c‚ªcc“|‚ê‚Ä‚¢‚éB[r]
-‚Ü‚³‚©A”Ş‚à–\“k‚ÉP‚í‚ê‚ÄccH[pcms]
+Kishida is... collapsed. Could it be that he was also[r]attacked by the thugs...?[pcms]
 
 *6857|
 [fc]
-•‚ª”j‚ê‚ÄccB[r]
-‚»‚ê‚ÉA“ª‚ÉŒŒ‚ªŸø‚ñ‚Å‚¢‚éB‚â‚Í‚èP‚í‚ê‚Ä‚µ‚Ü‚Á‚½[r]
-‚ÌccH[pcms]
+His clothes are torn... And there's blood seeping from his[r]head.[l][er]
+He must have been attacked after all...?[pcms]
 
 *6858|
 [fc]
-‚»‚ñ‚È–‚æ‚èA•‚¯‚È‚¯‚ê‚ÎI[pcms]
+More importantly, we have to help![pcms]
 
 *v2779|
 [fc]
 [vo_ri s="risa0625"]
-[ns]V“¹[nse]
-u‚«AŠİ“c—lII@‚Ç‚¤‚µ‚½‚ñ‚Å‚·‚©IH[r]
-‘åä•v‚Å‚·‚©IHv[pcms]
+[ns]Shindou[nse]
+K-Kishida-sama!! What happened!?[l][er]
+Are you okay!?[pcms]
 
 [ChrSetEx layer=1 chbase="kisi_c_b_01"]
 [ChrSetXY layer=1 x=80 y=0]
 [ChrSetParts layer=1 chface="kisi_c_b_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *6858a|
 [fc]
-[ns]Šİ“c[nse]
-uƒŠccƒTcc‚©ccHv[pcms]
+[ns]Kishida[nse]
+Ri... sa... ka...?[pcms]
 
 *v2780|
 [fc]
 [vo_ri s="risa0626"]
-[ns]V“¹[nse]
-uŠİ“c—lccA‚±‚Ì‰ö‰ä‚Íccˆê‘Ìccv[pcms]
+[ns]Shindou[nse]
+Kishida-sama... this injury...[l][er]
+what on earth happened...[pcms]
 
 ;	/*
 ;	[ChrSetEx layer=1 chbase="kisi_b_b_01"]
@@ -226,76 +227,76 @@
 ;	[trans_c cross time=150]
 ;	*/
 
-;—§‚¿
+;ç«‹ã¡
 
 
 *6858b|
 [fc]
-[ns]Šİ“c[nse]
-u‚Ê‚ÓA‚Ó‚Á‚ÓA‚Ó‚Ó‚Óccv[pcms]
+[ns]Kishida[nse]
+Nufu, fufu, hahaha...[pcms]
 
 *v2781|
 [fc]
 [vo_ri s="risa0627"]
-[ns]V“¹[nse]
-uII@‚«AŠİ“ccc—lHv[pcms]
+[ns]Shindou[nse]
+!! K-Kishida... sama?[pcms]
 
 [ChrSetEx layer=1 chbase="kisi_b_b_01"]
 [ChrSetXY layer=1 x=140 y=0]
 [ChrSetParts layer=1 chface="kisi_b_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *6858c|
 [fc]
-[ns]Šİ“c[nse]
-u‚¢A‚¢A‚Æ‚±A‚ëA‚ÉA‚«A‚½cc‚¨A‚Ü‚¦A‚ÅA‚¢[r]
-‚¢A‚©ccv[pcms]
+[ns]Kishida[nse]
+I-I-I came... Is it... okay...[l][er]
+with you...?[pcms]
 
-;//ôFBGM007ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 
 [fadeoutbgm time=500]
 
 *6861|
 [fc]
-‚¨‘O‚Å‚¢‚¢‚©H[r]
-‰½‚Ì‚±‚Æ‚È‚ÌH@‚»‚ê‚ÉA‚¢‚Â‚É‚à‘‚µ‚ÄA–Ú‚Â‚«‚ª‚¨[r]
-‚©‚µ‚¢BˆÙí‚È–Ú‚Â‚«ccB[pcms]
+Is it okay with you? What are you talking about?[l][er]
+And, your gaze is strange as always.[l][er]
+An abnormal gaze...[pcms]
 
 *6862|
 [fc]
-‚µ‚©‚àA“c’†ŒN’B‚Ì—l‚ÈA‚½‚Ç‚½‚Ç‚µ‚¢Œû’²ccB[r]
-‚Ü‚³‚©Šİ“c‚Ü‚Å”Ş‚ç‚Ì’‡ŠÔ‚ÉH[pcms]
+Moreover, a hesitant tone like Tanaka-kun and the others...[l][er]
+Could it be that even Kishida has become their ally?[pcms]
 
 *6863|
 [fc]
-Šİ“c‚É‘Î‚µA‚¢‚Â‚à‚Æˆá‚¤w‹°•|x‚ğŠ´‚¶Av‚í‚¸Œã‚¸[r]
-‚³‚è‚µ‚Ä‚µ‚Ü‚Á‚½B[pcms]
+I felt a different kind of fear towards Kishida and[r]instinctively took a step back.[pcms]
 
 *v2782|
 [fc]
 [vo_ri s="risa0628"]
-[ns]V“¹[nse]
-u‚»A‚»‚ñ‚ÈccBŠİ“ccc—lccB‚ ‚ÁccIHv[pcms]
+[ns]Shindou[nse]
+S-Such... Kishida... sama... Ah...!?[pcms]
 
-;//SE:l‚É‚Ô‚Â‚©‚é
+;//SE:äººã«ã¶ã¤ã‹ã‚‹
 [se0 storage="se025"]
 [quake_bg xy m]
 
-;//ôFBGM008ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 [bgm008]
 
 *6864|
 [fc]
-ˆø‚«‰º‚ª‚Á‚½Œã‚ë‚É‚ÍA‰½ŒÌ‚©A•Ç‚ª‚ ‚Á‚½B[pcms]
+After stepping back, there was a wall for some reason.[pcms]
+[l][er]
 
 *6865|
 [fc]
-ˆê‘ÌA‰½‚ªccB[pcms]
+What on earth...[pcms]
 
 ;//H_CG:
-;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
+;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
 [ChrSetEx layer=5 chbase="zom_01_b"][ChrSetXY layer=5 x=200 y=0]
 [ChrSetEx layer=1 chbase="zom_04_b"][ChrSetXY layer=1 x=400 y=0]
 [ChrSetEx layer=2 chbase="zom_03_b"][ChrSetXY layer=2 x=0 y=0]
@@ -305,31 +306,30 @@
 *v2783|
 [fc]
 [vo_ri s="risa0629"]
-[ns]V“¹[nse]
-u‚Ğ‚ÁIH@‚ÈA‰½cc‹M’j’Bccv[pcms]
+[ns]Shindou[nse]
+Huh!? W-What... you guys...[pcms]
 
 *6866|
 [fc]
-•Ç‚¶‚á‚È‚­‚ÄAŠİ“c‚Æ“¯‚¶–Ú‚ğ‚µ‚½ccˆÙ—l‚È–Ú‚Â‚«‚ğ[r]
-‚µ‚½¶“k’BccIH[pcms]
+It's not a wall, but students with the same gaze as[r]Kishida...[l][er]
+Students with an abnormal look in their eyes...!?[pcms]
 
 *6867|
 [fc]
-[ns]’jq¶“k‚`[nse]
-u‚¹A‚ñ‚¹‚¢cc‚¾ccB‚µA‚ñ‚ÇA‚¤A‚¹‚ñ‚¹A‚¢c[r]
-cA‚ç‚ÁA‚«`cc‚Í‚âA‚­A‚âA‚è‚Ä‚¥ccv[pcms]
+[ns]Male Student A[nse]
+T-Teacher... I... Shindou-sensei...[l][er]
+I want to... do it quickly...[pcms]
 
 *6868|
 [fc]
-[ns]’jq¶“k‚a[nse]
-u‚¶‚åA‚¤A‚¾‚ÜA‚¾ccA‚È‚ñA‚©A‚¢A‚¾A‚¹‚éA[r]
-‚©A‚Èccv[pcms]
+[ns]Male Student B[nse]
+P-Please... c-could you... do something...?[pcms]
 
 *v2784|
 [fc]
 [vo_ri s="risa0630"]
-[ns]V“¹[nse]
-u‰½‚ğŒ¾‚Á‚Ä‚¢‚é‚ÌIH@‹ßŠñ‚ç‚È‚¢‚Åccv[pcms]
+[ns]Shindou[nse]
+What are you saying!? Don't come any closer...[pcms]
 
 [backlay_c][chara_int]
 [ChrSetEx layer=1 chbase="kisi_c_b_01"]
@@ -339,10 +339,10 @@
 
 *6869|
 [fc]
-[ns]Šİ“c[nse]
-u‚èA‚³ccA‚®‚ÖA‚Ö‚Ö‚Öccv[pcms]
+[ns]Kishida[nse]
+R-Ra... Sa... , Guhe, Hehehe...[pcms]
 
-;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
+;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
 [ChrSetEx layer=5 chbase="zom_01_b"][ChrSetXY layer=5 x=200 y=0]
 [ChrSetEx layer=1 chbase="zom_04_b"][ChrSetXY layer=1 x=400 y=0]
 [ChrSetEx layer=2 chbase="zom_03_b"][ChrSetXY layer=2 x=0 y=0]
@@ -351,29 +351,30 @@
 
 *6870|
 [fc]
-[ns]’jq¶“k‚b[nse]
-u‚à‚¤A‚ÜA‚ÄA‚È‚¢ccA‚â‚ÁA‚¿A‚Ü‚¨A‚¤A‚æv[pcms]
+[ns]Male Student C[nse]
+I can't... wait... anymore... I, I want to...[l][er]
+do it now...[pcms]
 
 *v2785|
 [fc]
 [vo_ri s="risa0631"]
-[ns]V“¹[nse]
-u‚â‚ß‚È‚³‚¢II@‹ß‚Ã‚©‚È‚¢‚ÅIIv[pcms]
+[ns]Shindou[nse]
+Stop!! Don't come any closer!![pcms]
 
 *6871|
 [fc]
-„‚Ìº‚ª•·‚±‚¦‚È‚¢‚Ì‚©A“¯‚É‰½–{‚à‚Ìè‚ªL‚Ñ‚Ä‚­[r]
-‚éB„‚ÍA‚±‚Ìq’B‚ÉAW’c‚ÅccB[pcms]
+Can't they hear my voice? At the same time, multiple hands[r]reach out towards me.[l][er]
+These children, all together...[pcms]
 
 *6872|
 [fc]
-‚»‚ñ‚È–‚Ícc‚ ‚Á‚Ä‚Í‚È‚ç‚È‚¢II[pcms]
+That should not happen!![pcms]
 
 *v2786|
 [fc]
 [vo_ri s="risa0632"]
-[ns]V“¹[nse]
-u‚¢‚â‚ŸII@‚â‚ß‚È‚³‚¢II@‚¢‚â‚Ÿ‚ ‚ ‚ ‚ IIv[pcms]
+[ns]Shindou[nse]
+Nooo!! Stop it!! Noooo!![pcms]
 
 [backlay_c][chara_int]
 [ChrSetEx layer=1 chbase="kisi_c_b_01"]
@@ -383,63 +384,61 @@
 
 *6873|
 [fc]
-[ns]Šİ“c[nse]
-uƒEƒHƒIƒIƒIƒIƒIƒIƒIII@ƒeƒƒFA‚çA‚¤‚²‚­A‚ÈI[r]
-ƒEƒOƒ@ƒAƒAƒAƒAƒAƒAƒAƒAƒAƒAƒAƒAIIv[pcms]
+[ns]Kishida[nse]
+Whoaaaa!! You, d-don't move! Uguuaaaaaaahhhhh!![pcms]
 
 *6874|
 [fc]
-[ns]’jq¶“k‚`[nse]
-u‚ ccv[pcms]
+[ns]Male Student A[nse]
+Ah...[pcms]
 
 *6875|
 [fc]
-[ns]’jq¶“k‚a[nse]
-uccv[pcms]
+[ns]Male Student B[nse]
+â€¦â€¦[l][er]
 
 *6876|
 [fc]
-¶“k’B‚Ì“®‚«‚ª~‚Ü‚Á‚½IH@¡‚Ì“à‚É“¦‚°‚ÄccB[pcms]
+The students' movements stopped!?[l][er]
+I need to escape now...[pcms]
 
 *6877|
 [fc]
-‚Å‚àAg‘Ì‚ª“®‚©‚È‚¢ccB[r]
-“¦‚°‚È‚¯‚ê‚Î‚¢‚¯‚È‚¢‚Ì‚ÉB‚»‚ê‚ÉAÔ‚ğæ‚Á‚Ä‚±‚È‚¯[r]
-‚ê‚Î‚È‚ç‚È‚¢‚Ì‚ÉccB[pcms]
+But my body won't move... I need to escape.[l][er]
+And I have to get the car...[pcms]
 
 *6878|
 [fc]
-‹°•|H@‚»‚ê‚Æ‚àccB[pcms]
+Fear? Or...[pcms]
 
 *6879|
 [fc]
-Šú‘ÒccIH[pcms]
+Anticipation...!?[pcms]
 
 *6880|
 [fc]
-[ns]Šİ“c[nse]
-u‚Ê‚Ó‚ÓA‚Ó‚Ó‚Ó‚ÓccA‚èAƒTccA‚»‚±A‚ÉA‚Ğ‚´[r]
-‚ÜA‚ÃA‚¯ccv[pcms]
+[ns]Kishida[nse]
+Nufufu, hahaha... Right there, on your knees...[pcms]
 
 *v2787|
 [fc]
 [vo_ri s="risa0633"]
-[ns]V“¹[nse]
-u‚ cc‚ ‚ ccv[pcms]
+[ns]Shindou[nse]
+Ah... Ahh...[pcms]
 
 *6881|
 [fc]
-‹°•|‚È‚Ì‚©AŠú‘Ò‚È‚Ì‚©cc‘S‘R•ª‚©‚ç‚È‚¢‚¯‚ÇccB[r]
-Šİ“c‚ÌŒ¾—t‚É‹t‚ç‚¦‚È‚¢ccB[pcms]
+I don't know if it's fear or anticipation...[l][er]
+I can't tell at all... But I can't go against Kishida's[r]words...[pcms]
 
 *6882|
 [fc]
-‚±‚ñ‚Èó‹µ‚È‚Ì‚ÉccŠİ“c‚ÌŒ¾—t‚É]‚Á‚Ä‚µ‚Ü‚¤ccB[r]
-‚â‚Á‚Ï‚èA„‚àccB[pcms]
+Even in this situation... I find myself obeying Kishida's[r]words...[l][er]
+I guess, I too...[pcms]
 
 *6883|
 [fc]
-‚·‚Å‚É‰½‚©‚ÉA“ª‚ªccZH‚³‚ê‚Ä‚¢‚éccH[pcms]
+Is my mind already being... eroded by something...?[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -458,405 +457,396 @@
 
 *6884|
 [fc]
-[ns]Šİ“c[nse]
-u‚¶‚áA‚ A‚Í‚¶A‚ßA‚é‚©ccƒeAƒƒF‚çA‚±A‚¢A[r]
-‚Â‚ÌA‚Ó‚­A‚Æ‚ÁA‚¿‚Ü‚¦ccB‚ÆA‚ê‚¥IIv[pcms]
+[ns]Kishida[nse]
+Well then, shall we... take off your clothes one by one...[l][er]
+And... there we go!![pcms]
 
 *6885|
 [fc]
-[ns]’jq¶“k‚`[nse]
-u‚ cc‚ ‚ `ccA‚ÓA‚­cc‚Ó‚­A‚ÆA‚éccv[pcms]
+[ns]Male Student A[nse]
+Ah... aah~... I-I... I'll... undress...[pcms]
 
 *6886|
 [fc]
-[ns]’jq¶“k‚c[nse]
-u‚¤‚Í‚ÁI@‚Ü‚Á‚Ä‚Ü‚µ‚½‚ÁII@‚¤‚Í‚Í‚Áv[pcms]
+[ns]Male Student D[nse]
+Oh yeah! I've been waiting for this!!  Uhahaha[pcms]
 
 *6887|
 [fc]
-[ns]’jq¶“k‚a[nse]
-u‚»A‚ê‚¶‚áccv[pcms]
+[ns]Male Student B[nse]
+Well then...[pcms]
 
 *6888|
 [fc]
-[ns]’jq¶“k‚b[nse]
-u‚Ó‚­cc‚¶‚áA‚Üccv[pcms]
+[ns]Male Student C[nse]
+Clothes... well then...[pcms]
 
 *6889|
 [fc]
-Šİ“cæ¶‚Ì†—ß‚ÅA–³”‚Ìè‚ªA„‚Ì•‚ÉL‚Ñ‚Ä‚­‚éB[pcms]
+At Kishida-sensei's command, countless hands reach out[r]towards my clothes.[pcms]
 
 *6890|
 [fc]
-cc‹°•|‚æ‚èccŠú‘Ò‚Ì•û‚ª‹­‚­‚È‚Á‚Ä‚¢‚éccB[pcms]
+... The anticipation is becoming stronger than the fear...[pcms]
 
 *6891|
 [fc]
-‚â‚Í‚èA„‚àcc‚¨‚©‚µ‚­‚È‚Á‚Ä‚µ‚Ü‚Á‚½H[pcms]
+Have I also... become strange?[pcms]
 
 *v2788|
 [fc]
 [vo_ri s="risa0634"]
-[ns]V“¹[nse]
-u‚¢‚â‚Ÿ‚ ‚ ‚ ‚ ‚ ‚ II@‚Í‚Ÿ‚Ácc‚Í‚ ‚ÁccI@[r]
-‚ ‚ ‚Ácc‚ ‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚ÁIIv[pcms]
+[ns]Shindou[nse]
+Noooo!! Haa... haa... Aaahh...[l][er]
+Aaahhh!![pcms]
 
-;//SE;•‚ª”j‚¯‚é
+;//SE;æœãŒç ´ã‘ã‚‹
 
 ;//HEV_:ON
 
 *6892|
 [fc]
-[ns]Šİ“c[nse]
-u‚¸‚Ÿ‚Á‚Í‚Á‚ÍccA‚â‚ÁA‚Ï‚èA‚¨‚ÜA‚¦A‚ÉA‚ÍA[r]
-‚»‚¤A‚¢A‚¤A‚´‚ÜA‚ªA‚¢‚¿A‚Î‚ñA‚ÉA‚ ‚¤A‚Ècc[r]
-‚¸‚Í‚Í‚Ácc‚¸‚Í‚Í‚Í‚Áccv[pcms]
+[ns]Kishida[nse]
+Zuhahaha... Y-You, after all, deserve to experience that[r]kind of situation the most...[l][er]
+Zuhahaha... Zuhahahaha...[pcms]
 
 *6893|
 [fc]
-[ns]’jq¶“k‚`[nse]
-u‚ŞA‚ËA‚Å‚©A‚¢ccA‚Í‚³A‚İA‚½A‚¢ccv[pcms]
+[ns]Male Student A[nse]
+B-Big... it's... stuck...[pcms]
 
 *v2789|
 [fc]
 [vo_ri s="risa0635"]
-[ns]V“¹[nse]
-u‚Í‚Ÿ‚Ácc‚Í‚ ‚ÁccA‚¢‚âcc‚¢‚â‚Ÿccv[pcms]
+[ns]Shindou[nse]
+Haa... haa... no... noo...[pcms]
 
 *6894|
 [fc]
-[ns]Šİ“c[nse]
-uƒeƒƒFA‚çA‚ÍA‚ÄA‚¾‚·A‚ñ‚¶‚áA‚Ë‚¥cc‚¼cc[r]
-‚¨A‚êA‚¾‚¯A‚±A‚¢‚ÂA‚ğA‚Â‚©A‚Á‚ÄA‚¢‚¢A‚ñA[r]
-‚¾ccv[pcms]
+[ns]Kishida[nse]
+You... don't you dare touch me...[l][er]
+I'm the only one who can do as I please...[pcms]
 
 *6895|
 [fc]
-[ns]’jq¶“k‚a[nse]
-u‚½A‚¦A‚ç‚êA‚ÈA‚¢ccv[pcms]
+[ns]Male Student B[nse]
+I... can't... take it...[pcms]
 
 *6896|
 [fc]
-[ns]’jq¶“k‚c[nse]
-u‚¤‚Í‚Í‚Í‚ÁA‚±‚¢‚Â‚É‚Ô‚Á‚©‚¯‚Ä‚â‚ë‚¤‚©I@‚¤‚Í‚Í[r]
-‚Í‚ÁIv[pcms]
+[ns]Male Student D[nse]
+Uhahaha, should I give this guy a bukkake![l][er]
+Uhahaha![pcms]
 
 *6897|
 [fc]
-„‚Ìü‚è‚ÉA¶“k‚ªcc¶“k‚ÌƒyƒjƒX‚ªA‘òRccB[pcms]
+There are students around me...[l][er]
+and their penises, so many of them...[pcms]
 
 *6898|
 [fc]
-ˆÙí‚ÈŒõŒi‚È‚Ì‚ÉAS‘Ÿ‚ª‚–Â‚éB[pcms]
+Even though it's an abnormal sight, my heart is racing.[pcms]
 
 *6899|
 [fc]
-šx‚¹•Ô‚é—l‚ÈA’j‚Ì“õ‚¢B„‚ğŒ©‚Äcc‹»•±‚µ‚Ä‚¢‚é¶[r]
-“k’BccB[pcms]
+The overwhelming scent of men.[l][er]
+The students looking at me... Excited...[pcms]
 
 *6900|
 [fc]
-Œ©‚ç‚ê‚ÄA‹»•±‚µ‚Ä‚¢‚écc„ccB[pcms]
+I'm being watched and I'm getting excited...[l][er]
+me...[pcms]
 
 *v2790|
 [fc]
 [vo_ri s="risa0636"]
-[ns]V“¹[nse]
-u‚Í‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚ŸccA‚±‚ñ‚È–A‚â‚ß‚Äcc‹M’j’Bcc[r]
-‚µ‚Ü‚Á‚ÄccA‚»‚ñ‚ÈAƒ‚ƒmccv[pcms]
+[ns]Shindou[nse]
+Haaaah... Please stop... You guys...[l][er]
+put that away... Don't show me that...[pcms]
 
 *6901|
 [fc]
-Œû‚Å‚Í‹‘”Û‚µ‚Â‚Â‚àA–{“–‚ÍAŠú‘Ò‚µ‚Ä‚¢‚éB”Ş‚ç‚ÌƒU[r]
-[ƒƒ“‚ğA‘Sg‚Éó‚¯‚Ä‚İ‚½‚¢ccB[pcms]
+While verbally refusing, deep down, I'm actually looking[r]forward to it.[l][er]
+I want to feel their semen all over my body...[pcms]
 
 *6902|
 [fc]
-‚Å‚àA‚»‚ñ‚È–‚ğ‚³‚ê‚½‚çccB[r]
-„‚Ì„‘ª‚ª‡‚Á‚Ä‚¢‚½‚çccB[pcms]
+But, if something like that were to happen...[l][er]
+If my speculation is correct...[pcms]
 
 *6903|
 [fc]
-„‚àA”Ş‚ç‚Ì—l‚ÉccB[pcms]
+Like them, I...[pcms]
 
 *6904|
 [fc]
-„‚Ì“ªA‚â‚Í‚è•Ï‚¾ccB[pcms]
+My head, it's still strange...[pcms]
 
 *6905|
 [fc]
-‚»‚¤‚æccB[r]
-‚±‚ñ‚ÈˆÙí‚È–‚Å‰x‚ñ‚Å‚¢‚éê‡‚Å‚Í‚È‚¢‚Ì‚æII[pcms]
+That's right... This is not the time to be delighted by[r]something abnormal like this!![pcms]
 
 *6906|
 [fc]
-“¦‚°‚È‚¯‚ê‚ÎII[pcms]
+I have to run away!![pcms]
 
 *v2791|
 [fc]
 [vo_ri s="risa0637"]
-[ns]V“¹[nse]
-u‚¢‚â‚Ÿ‚ ‚ II@‘Ê–Ú‚æII@‚±‚ñ‚È–I@„‚©‚ç—£[r]
-‚ê‚È‚³‚¢II@‚â‚ß‚È‚³‚¢Iv[pcms]
+[ns]Shindou[nse]
+Nooo!! Stop it!! Don't do this![l][er]
+Get away from me!! Stop![pcms]
 
 *6907|
 [fc]
-[ns]Šİ“c[nse]
-u‚¤‚éA‚¹‚¥cc‚¨‚ñA‚ÈA‚¾cc‚ÈA‚±A‚¢‚ÂA‚ğA[r]
-‚­‚íA‚¦A‚ÄA‚ëccv[pcms]
+[ns]Kishida[nse]
+Uru, see... On, na, da... Na, ko, itsu, wo, kuwa, e, te,[r]ro...[pcms]
 
 *v2792|
 [fc]
 [vo_ri s="risa0638"]
-[ns]V“¹[nse]
-u‚ ‚ŸI@‚ñ‚Ô‚ÁII@‚¤‚ ‚ŸccA‚Õ‚Í‚Ácc‚ñ‚ñ‚Á[r]
-ccv[pcms]
+[ns]Shindou[nse]
+Ah! Nbuu!! Uaa... puhah... nnn...[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
 
 [se0 storage="se059" loop=true]
 
 *6908|
 [fc]
-è’x‚êccIH[r]
-ˆú‚ç‚È–Ï‘z‚È‚Ç‚µ‚Ä‚¢‚½‚¹‚¢‚ÅA©‚ç“¦‚°‚éƒ`ƒƒƒ“ƒX‚ğ[r]
-¸‚Á‚Ä‚µ‚Ü‚Á‚½II[pcms]
+It's too late...! Because I was indulging in obscene[r]fantasies, I've lost the chance to escape on my own!![pcms]
 
 *6909|
 [fc]
-„‚ÍA”n­‚¾II[pcms]
+I'm such an idiot!![pcms]
 
 *6910|
 [fc]
-[ns]’jq¶“k‚`[nse]
-u‚¹A‚ñ‚¹‚¢A‚³‚ŸA‚¢‚ÂA‚àA‚¨‚êA‚½A‚¿A‚ğ‚³‚»[r]
-‚¤A‚İ‚½A‚¢A‚È‚ÓA‚­A‚«‚ÄA‚³ccB‚«‚åA‚¤‚±A[r]
-‚»A‚Å‚©A‚¢A‚Ş‚ËA‚É‚Ô‚ÁA‚©‚¯‚ÄA‚â‚éccv[pcms]
+[ns]Male Student A[nse]
+T-Teacher, now is the time to invite us all to see...[l][er]
+your fascinating, beautiful chest...[l][er]
+Today, I will firmly press against it...[pcms]
 
 *6911|
 [fc]
-[ns]’jq¶“k‚c[nse]
-u‚¤‚Í‚Í‚Í‚Í‚ÁII@‚¢‚ë‚ñ‚È‚Æ‚±‚ë‚É‚Ô‚Á‚©‚¯‚Ä‚â‚ñ[r]
-‚ºI@‚¤‚Í‚ÁI@‚¤‚Í‚Í‚ÁIv[pcms]
+[ns]Male Student D[nse]
+Uhahaha!! I'm gonna spray it all over the place![l][er]
+Uhah! Uhahaha![pcms]
 
 *6912|
 [fc]
-[ns]’jq¶“k‚a[nse]
-u‚±A‚¢‚ÂA‚Ü‚¦A‚©A‚çcc‚âA‚ç‚êcc‚½A‚©‚ÁA[r]
-‚½‚ñA‚¶‚áA‚Ë‚¥A‚©H@‚àA‚¤A‚Ê‚êA‚ÄA‚«‚ÄA‚é[r]
-‚¼ccv[pcms]
+[ns]Male Student B[nse]
+W-When did you... do this to me?[l][er]
+I-I'm already getting wet...[pcms]
 
 *v2793|
 [fc]
 [vo_ri s="risa0639"]
-[ns]V“¹[nse]
-u‚ñ‚Ô‚ÁI@‚¿‚ªccI@‚ñ‚®‚ÁI@‚ñ‚À‚ã‚ÁA‚¶‚ã‚Õ[r]
-‚ÁII@‚Õ‚Ÿ‚ÁA‚ñ‚Í‚Ÿ‚ÁII@‚ñ‚¤J‚£‚ÁII@cc[r]
-‚ñ‚ÔA‚À‚ã‚Õ‚ÁA‚®‚¶‚ã‚ÁIv[pcms]
+[ns]Shindou[nse]
+Nbuu! Chiga...! Nguu! Njyu, juppu!![l][er]
+Pah, nhaa!! Nu-vu! ... Nbu, juppu, gujyu![pcms]
 
 *6913|
 [fc]
-ˆá‚¤II[r]
-‚»‚ñ‚È–‚ÍA‚È‚¢II[pcms]
+No!! That's not true!![pcms]
 
 *6914|
 [fc]
-‚Å‚àcc‚Å‚àII[r]
-ŠF‚ÉŒ©‚ç‚ê‚Ä‚éII@[pcms]
+But... but!! Everyone is watching!![pcms]
 
 *6915|
 [fc]
-“ª‚ªcc^‚Á”’‚ÉccB[r]
-“¦‚°‚È‚¯‚ê‚Î‚¢‚¯‚È‚¢‚Ì‚ÉccB[pcms]
+My head... is completely blank...[l][er]
+I should be running away...[pcms]
 
 *6916|
 [fc]
-[ns]Šİ“c[nse]
-u‚¤‚§ccA‚È‚©A‚ÈA‚©A‚¢‚¢‚¶‚áA‚Ë‚¥cc‚©cc[r]
-‚ÌA‚ÇA‚ÅA‚µ‚ßA‚ÄA‚­‚éA‚È‚ñA‚Äcc‚æ‚§ccv[pcms]
+[ns]Kishida[nse]
+Woah... it's, it's, it's so good...[l][er]
+isn't it... the way you're teasing me like this...[pcms]
 
 *v2794|
 [fc]
 [vo_ri s="risa0640"]
-[ns]V“¹[nse]
-u‚¤‚£I@‚ñ‚®‚ÁI@‚¶‚ã‚Õ‚ÁII@‚®‚£‚¤‚¤I@‚ñ‚Ô[r]
-‚£‚ ‚ ‚ÁI@‚â‚ßcc‚â‚ß‚ÄccI@‚ñ‚Ô‚Ÿccv[pcms]
+[ns]Shindou[nse]
+Ugh! Ngh! Juppu!! Guuuu! Nbuuaaah![l][er]
+Stop... stop it...! Nbuha...[pcms]
 
 *6917|
 [fc]
-[ns]’jq¶“k‚b[nse]
-u‚·‚×A‚·A‚×‚¾ccA‚¹‚ñA‚¹‚¢‚ÌA‚©‚çA‚¾ccA[r]
-‚µ‚ëA‚­A‚ÄA‚·‚×A‚·‚×ccv[pcms]
+[ns]Male Student C[nse]
+S-su, su, beda... , sen, sei no, kara, da...[l][er]
+, shiroku, te, sube, sube...[pcms]
 
 *6918|
 [fc]
-[ns]’jq¶“k‚`[nse]
-u‚­A‚¿A‚×‚ÉA‚ªA‚Ü‚ÁA‚©A‚Åcc‚±A‚¤A‚Ó‚ñA[r]
-‚·‚éccv[pcms]
+[ns]Male Student A[nse]
+K-chi-beni-ga-ma-kade... ko-u-fun-suru...[pcms]
 
 *6919|
 [fc]
-[ns]’jq¶“k‚c[nse]
-u‚¤‚Í‚ ‚ÁI@‚Å‚¯‚¥‚Ş‚Ë‚¾‚ÁI@‚¨‚êA‚Ş‚Ë‚É‚Ô‚Á‚©[r]
-‚¯‚é‚ºI@‚¤‚Í‚Í‚Í‚ÁIv[pcms]
+[ns]Male Student D[nse]
+Uhaa! Such big breasts! I'm gonna spray it all over them![l][er]
+Uhahaha![pcms]
 
 *6920|
 [fc]
-‚ ‚ ‚ÁccB[r]
-ŠF‚ª„‚ğŒ©‚ÄA‹»•±‚µ‚Ä‚¢‚éII[r]
-‘òR‚Ì–Ú‚ªA„‚Ì•û‚ÉŒü‚¯‚ç‚ê‚ÄccB[pcms]
+Ahh... Everyone is looking at me and getting excited!![l][er]
+So many eyes are directed towards me...[pcms]
 
 *6921|
 [fc]
-‘òR‚ÌƒyƒjƒX‚ªA„‚Ì•û‚ÉŒü‚¯‚ç‚ê‚ÄccB[pcms]
+Many penises are directed towards me...[pcms]
 
 *6922|
 [fc]
-„‚àA‚à‚¤ccB[r]
-—âÃ‚Å‚Í‚¢‚ç‚ê‚È‚¢ccB[pcms]
+I... I can't stay calm anymore...[pcms]
 
 *6923|
 [fc]
-[ns]Šİ“c[nse]
-u‚¸‚Í‚ÍA‚ÍA‚¨A‚ê‚ÌA‚ª‚ÜA‚ñA‚¶A‚éA‚ªA‚Æ‚Ü[r]
-‚ç‚ËA‚¥ccA‚¨‚ÜA‚¦A‚ÌA‚­‚¿A‚¢A‚¢‚¼ccv[pcms]
+[ns]Kishida[nse]
+Zuhaha, ha, o, re no, ga ma, n, ji, ru, ga, toma ra nee...[l][er]
+omae no kuchi ii zo...[pcms]
 
 *v2795|
 [fc]
 [vo_ri s="risa0641"]
-[ns]V“¹[nse]
-u‚Ÿ‚ŞJcc‚ñJ‚ÁA‚Õ‚À‚ã‚ÁA‚®‚¿‚ã‚Ácc‚À‚ã‚Ô‚Á[r]
-‚ñ‚Í‚ŸccAŠİ“ccc—lcc‚À‚ã‚Ô‚Áv[pcms]
+[ns]Shindou[nse]
+Ahh... ngh... pudyu... guchu...[l][er]
+jyubunhaa... Kishida... sama... jyubu[pcms]
 
 *6924|
 [fc]
-[ns]’jq¶“k‚`[nse]
-u‚æ‚¾A‚êA‚ªcc‚Ş‚ËA‚½‚êA‚Äcc‚éA‚¦‚ëA‚¢‚È[r]
-ccv[pcms]
+[ns]Male Student A[nse]
+Yo-da-re-ga... mu-ne-ta-re-te...[l][er]
+ru, e-ro-i-na...[pcms]
 
 *6925|
 [fc]
-[ns]Šİ“c[nse]
-u‚¨‚§ccA‚³‚ÁA‚«A‚æ‚ècc‚Í‚°A‚µA‚­A‚È‚ÁA[r]
-‚ÄA‚«‚½cc‚¼ccA‚±‚¢A‚ÂA‚Ö‚ñA‚½A‚¢cc‚©c[r]
-cHv[pcms]
+[ns]Kishida[nse]
+Oh... it seems like you've become more...[l][er]
+bold... haven't you...? Are you...[l][er]
+feeling... excited...?[pcms]
 
 *v2796|
 [fc]
 [vo_ri s="risa0642"]
-[ns]V“¹[nse]
-u‚ñ‚¤J‚£‚ÁII@cc‚ñ‚ÔA‚À‚ã‚Õ‚ÁccA‚ñ‚ ‚Ác[r]
-c‚¢‚íA‚È‚¢‚ÅA‰º‚³‚¢ccA‚»‚ñ‚ÈccA‚Õ‚À‚ã‚ÁA[r]
-‚®‚¿‚ã‚Áccv[pcms]
+[ns]Shindou[nse]
+Nguu...! ... Nbu, jyupu... nghaa...[l][er]
+please, don't... do that... like that...[l][er]
+pjuu, gchu...[pcms]
 
 *6926|
 [fc]
-[ns]’jq¶“k‚c[nse]
-u‚±‚¢‚ÂA‚º‚Á‚½‚¢‚©‚ñ‚¶‚Ä‚é‚Á‚ÄI@‚¨‚Ü‚ñ‚±‚©‚ç‚Ú[r]
-‚½‚Ú‚½‚½‚ê‚Ä‚éII@‚¤‚Í‚Í‚ÁII@‚±‚¤‚¢‚¤‚ÌA‚·‚«[r]
-‚È‚ñ‚¾‚ëII@‚¹‚ñ‚¹‚¢II@‚¤‚Í‚Í‚Í‚ÁIIv[pcms]
+[ns]Male Student D[nse]
+This guy, he's definitely feeling it![l][er]
+His pussy is dripping wet!! Uhahaha!![l][er]
+He must love this kind of thing, right, Sensei?![l][er]
+Uhahahaha!![pcms]
 
 *6927|
 [fc]
-[ns]’jq¶“k‚a[nse]
-u‚·‚°A‚ÈA‚ñ‚©A‚¦‚ëA‚¢A‚É‚¨A‚¢A‚µ‚ÄA‚«A‚½[r]
-ccA‚¹‚ñA‚¹A‚¢‚ÌA‚©A‚çA‚¾A‚©‚çcc‚¦‚ëA‚¢[r]
-‚ÉA‚¨A‚¢ccv[pcms]
+[ns]Male Student B[nse]
+Wow, you smell so erotic... It's because you're a woman...[l][er]
+That's why... You smell erotic...[pcms]
 
 *v2797|
 [fc]
 [vo_ri s="risa0643"]
-[ns]V“¹[nse]
-u‚ñ‚Ô‚Ÿcc‚ñ‚Í‚Ÿ‚ÁccA‚¢‚â‚Ÿcc‚ñ‚À‚ã‚Áccv[pcms]
+[ns]Shindou[nse]
+Nbuha... Nhaa... Iyaa... Njyu...[pcms]
 
 *6928|
 [fc]
-ŠF‚É”l‚ç‚ê‚ÄccB[r]
-“ª‚ª^‚Á”’‚É‚È‚Á‚Ä‚«‚½ccB[pcms]
+I'm being insulted by everyone...[l][er]
+My mind is going blank...[pcms]
 
 *6929|
 [fc]
-‚à‚¤A„‚ª„‚¶‚á‚È‚¢‚İ‚½‚¢B‚±‚ñ‚È‚Ì‰‚ß‚ÄccB[pcms]
+It feels like I'm not myself anymore.[l][er]
+This is the first time experiencing something like this...[pcms]
 
 *6930|
 [fc]
-[ns]Šİ“c[nse]
-u‚¨A‚çccA‚»A‚ëA‚»‚ëA‚¾A‚·A‚¼ccA‚º‚ñA[r]
-‚ÔA‚Ì‚ßA‚æccA‚±A‚Ú‚µA‚½A‚çA‚Ô‚ÁA‚±A‚ë‚·[r]
-‚©‚çA‚Èccv[pcms]
+[ns]Kishida[nse]
+O... ra... so... ro... soro...[l][er]
+dasu zo... zenbu no me yo... koboshitara bukkorosu kara[r]na...[l][er]
+Kishida: O... ra... soon... it's about time to drink it[r]all...[l][er]
+if you spill it, I'll kill you, you know...[pcms]
+[l][er]
 
 *6931|
 [fc]
-[ns]’jq¶“k‚`[nse]
-u‚ ‚ `ccA‚¨A‚êA‚Å‚»A‚¤ccv[pcms]
+[ns]Male Student A[nse]
+Ahh... o-re... de-so-u...[pcms]
 
 *6932|
 [fc]
-[ns]’jq¶“k‚c[nse]
-u‚¤‚¤‚¤ccA‚¤‚Í‚Í‚ÁII@‚¨‚ê‚àA‚»‚ë‚»‚ë‚Ô‚Á‚©[r]
-‚¯‚Ä‚â‚ñ‚ºII@‚¤‚Í‚Í‚ÁIIv[pcms]
+[ns]Male Student D[nse]
+Uuu... Uhahaha!! I'm also about to give you a bukkake!![l][er]
+Uhahaha!![pcms]
 
 *v2798|
 [fc]
 [vo_ri s="risa0644"]
-[ns]V“¹[nse]
-u‚ñ‚£‚ÁII@‚Í‚£A‚ñ‚­‚£‚ÁII@‚­A‰º‚³‚¢I@„[r]
-‚ÉŠF‚ÌA‰º‚³‚¢II@‚ñ‚ñJ‚£‚ÁIIv[pcms]
+[ns]Shindou[nse]
+Nngh!! Hau, nkuu!! Ku, please![l][er]
+Give it to me, everyone! Nnguhh!![pcms]
 
 *v2799|
 [fc]
 [vo_ri s="risa0645"]
-[ns]V“¹[nse]
-u‚Ô‚Ÿ‚ÁI@‚íA„‚ÉA‚©‚¯‚Ä‚ÁI@‚ñ‚Ô‚ÁI@‘SgƒU[r]
-[ƒƒ“‚Ü‚İ‚ê‚É‚µ‚Ä‚¥‚ÁIv[pcms]
+[ns]Shindou[nse]
+Buaa! W-wait, please, cum on me![l][er]
+Nbuu! I want to be covered in semen all over my body![pcms]
 
 *6933|
 [fc]
-v‚í‚¸‚Í‚µ‚½‚È‚¢Œ¾—t‚ğccB[r]
-‚Å‚àA‚à‚¤‰ä–o—ˆ‚È‚¢II[pcms]
+I can't help but say something indecent...[l][er]
+But I can't hold back anymore!![pcms]
 
 *6934|
 [fc]
-‘òRccB[r]
-ŠF‚ÌƒU[ƒƒ“‚ğA„‚É‚©‚¯‚ÄII[pcms]
+So much... Cover me with everyone's semen!![pcms]
 
 *6935|
 [fc]
-[ns]Šİ“c[nse]
-u‚¸‚Í‚Í‚Ácc‚ÌA‚ßccA‚Ì‚ßcc‚æccA‚¢‚ÁA‚Ä[r]
-‚«A‚àA‚±‚ÚA‚·A‚Ècc‚æccv[pcms]
+[ns]Kishida[nse]
+Zuhaha... Drink... Drink it...[l][er]
+all... Don't spill... it...[pcms]
 
 *6936|
 [fc]
-[ns]’jq¶“k‚b[nse]
-u‚¶‚áA‚ A‚¨‚êA‚ßA‚ª‚ËA‚Éccv[pcms]
+[ns]Male Student C[nse]
+Well, um, my glasses...[pcms]
 
 *6937|
 [fc]
-[ns]’jq¶“k‚c[nse]
-u‚¨‚ê‚Í‚Ş‚Ë‚É‚©‚¯‚é‚ºII@‚¤‚Í‚Í‚ÁIIv[pcms]
+[ns]Male Student D[nse]
+I'm going to cum on your chest!![l][er]
+Uhahaha!![pcms]
 
 *6938|
 [fc]
-[ns]’jq¶“k‚`[nse]
-u‚¤‚Ÿ`cc‚Å‚é‚£ccv[pcms]
+[ns]Male Student A[nse]
+Ugh... It's coming out...[pcms]
 
 *v2800|
 [fc]
 [vo_ri s="risa0646"]
-[ns]V“¹[nse]
-u‚À‚ã‚Ô‚ÁI@’¸‘ÕII@‚ñ‚Ÿ‚ ‚ ‚ ‚ÁII@ŠF‚ÌI@[r]
-„‚É’¸‘ÕƒbII@‚ñ‚Í‚Ÿ‚ ‚ÁII@‚À‚ã‚éA‚¿‚ã‚®‚ÁI[r]
-Iv[pcms]
+[ns]Shindou[nse]
+Jyubu! Please give it to me!! Naaahhh!![l][er]
+Everyone's! Give it to me!! Nhahh!![l][er]
+Ju-juicy, slurp!![pcms]
 
 *6939|
 [fc]
-[ns]Šİ“c[nse]
-u‚¤‚§‚ ccA‚Ì‚ßA‚ÌA‚ßcc‚Ì‚ßA‚»A‚ç‚Ÿccv[pcms]
+[ns]Kishida[nse]
+Uwoah... Drink, drink... Drink, so, raa...[pcms]
 
 [stop_se0]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 
 [se0 storage="se062"]
 
@@ -886,16 +876,16 @@
 *v2801|
 [fc]
 [vo_ri s="risa0647"]
-[ns]V“¹[nse]
-uccI@‚ñ‚ñJ‚£‚ÁII@‚ñ‚ÁA‚ñ‚®cc‚ñA‚ŞJ‚£[r]
-ccA‚Ô‚¿‚ã‚£‚ÁII@‚Í‚Ÿ‚ ‚ ‚ ‚ÁIv[pcms]
+[ns]Shindou[nse]
+...! Nnguhh!! Nn, ngu... n, mugu...[l][er]
+buchuu!! Haaaahhh!![pcms]
 
 *6940|
 [fc]
-[ns]’jq¶“k‚c[nse]
-u‚¤‚Ÿ‚ÁIv[pcms]
+[ns]Male Student D[nse]
+Ugh![pcms]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 
 [se0 storage="se062"]
 
@@ -914,10 +904,10 @@
 
 *6941|
 [fc]
-[ns]’jq¶“k‚a[nse]
-u‚ ccv[pcms]
+[ns]Male Student B[nse]
+Ah...[pcms]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 
 [se0 storage="se062"]
 
@@ -937,9 +927,9 @@
 *v2802|
 [fc]
 [vo_ri s="risa0648"]
-[ns]V“¹[nse]
-u‚ ‚ [[[II@g‘Ì’†‚Écc‘òRcc‚Í‚Ÿ‚ ‚ ‚ÁI[r]
-‚ñ‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚ ‚ÁII@‚¤‚Ÿ‚ ‚ ‚ ‚ÁIIv[pcms]
+[ns]Shindou[nse]
+Ahhh!! All over my body... so much...[l][er]
+haaaahhhh! Naaaaahhhh!! Uwaaaahhh!![pcms]
 
 ;//whiteflash
 
@@ -954,50 +944,49 @@
 
 ;;;[sysbt_meswin]
 
-;//ôFBGM008ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 
 [fadeoutbgm time=500]
 
 *v2803|
 [fc]
 [vo_ri s="risa0649"]
-[ns]V“¹[nse]
-u‚Í‚Ÿ‚ÁII@‚Í‚Ÿ‚ ‚ ‚ÁII@‚ÈA‰½‚©—ˆ‚é‚ÁII@[r]
-“ª‚ªccA“ª‚ª^‚Á”’‚ÉccA‚¢‚â‚ŸA‚¢‚â‚Ÿ‚ ‚ ‚ II[r]
-ƒCƒN‚ÁI@‚¤‚ ‚ ‚ ‚ [[IIv[pcms]
+[ns]Shindou[nse]
+Haa!! Haaaahhh!! S-Something's coming!![l][er]
+My head... my head is going blank...[l][er]
+No, noooo!! I'm cumming! Uaaaahhh!![pcms]
 
 ;//whiteout
 
 [bg storage="effect_white"][trans_c cross time=500]
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 
 *6942|
 [fc]
-„ccB€‚ñ‚Å‚µ‚Ü‚Á‚½‚Ì‚©‚µ‚çccB[r]
-g‘Ì‚ª’ˆ‚É•‚‚¢‚½—l‚ÈccB[pcms]
+I... I wonder if I'm dead... It feels like my body is[r]floating in mid-air...[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
 
-;//‚±‚±‚Ü‚Å–{•Ò
+;//ã“ã“ã¾ã§æœ¬ç·¨
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
-;•s—v[eval exp="="sf.g_scn35 = 1"]
+;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
+;ä¸è¦[eval exp="="sf.g_scn35 = 1"]
 
-;//ƒEƒBƒ“ƒhƒEÁ‹
+;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
-;BGM’â~
+;BGMåœæ­¢
 [fadeoutbgm time=500]
 ;[black_toplayer][trans_c random][hide_chara_int]
 [zapfade]
@@ -1006,12 +995,12 @@
 
 
 
-;//•‚ÉƒtƒF[ƒh
+;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 
-;//[05410]‚Ö
+;//[05410]ã¸
 [jump target=*05410_H_TOP storage="05410_H.ks"]
 

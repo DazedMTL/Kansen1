@@ -1,42 +1,42 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN08180w—D‚Æ—V‚Ôx
-;//;//BG:“n‚è˜L‰ºF–éFÁ“”
-;//“oêl•¨FålŒöE’|“àEƒŠƒTE“c’†E•ü”ü
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08180ã€å„ªã¨éŠã¶ã€
+;//;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»ç«¹å†…ãƒ»ãƒªã‚µãƒ»ç”°ä¸­ãƒ»æœ‹ç¾
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *08180_H_TOP
-;[debug_win]‚È‚¤@08180_H[debug_win_end]
+;[debug_win]ãªã†ã€€08180_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 ;[if exp="tf.scene_mode == 0"][jump target=*08180][endif]
 ;[winset]
 
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
 [bgm001]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *08180
 
-;*SceneSet|w—D‚Æ—V‚Ôx
+;*SceneSet|ã€å„ªã¨éŠã¶ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08180 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08180 = 1"]
 
-;//flag:ålŒöŠ´õƒ‹[ƒgƒtƒ[@‚Q@•\¦
-;//flag:—D@on
+;//flag:ä¸»äººå…¬æ„ŸæŸ“ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼’ã€€è¡¨ç¤º
+;//flag:å„ªã€€on
 
 [eval exp="f.YUU_F = 1"]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 
 ;//[bgm001]
 
@@ -51,138 +51,138 @@
 
 *9814|
 [fc]
-RŠİ‚³‚ñ‚©ccB[pcms]
+Yamagishi-san...[pcms]
 
 *9815|
 [fc]
-”Ş—‚Ì–‚ğl‚¦‚é‚Æ‚Ü‚½ƒ`ƒ“ƒR‚ª–u‹N‚µ‚Ä‚­‚éB[pcms]
+When I think about her, my dick gets hard again.[pcms]
 
 *9816|
 [fc]
-ƒ„Aƒ„‚è‚Ä‚¥ccBRŠİ‚³‚ñ‚ÆƒZƒbƒNƒX‚µ‚Ä‚¥II[pcms]
+I-I want to... I want to have sex with Yamagishi-san!![pcms]
 
 *9817|
 [fc]
-‚æ‚µAŒÜ\—’ƒTƒ“‚ÆRŠİ‚³‚ñ‚ğ‘{‚µ‚És‚±‚¤B[r]
-Œ©‚Â‚¯‚½‚çAƒZƒbƒNƒX‚µ‚Ä—V‚Ú‚¤I[pcms]
+Alright, let's go look for Igarashi-san and Yamagishi-san.[l][er]
+Once we find them, let's have sex and have some fun![pcms]
 
 [ChrSetEx layer=1 chbase="tomo_d_b_01"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3603|
 [fc]
 [vo_to s="tomo0430"]
-[ns]ŒÜ\—’[nse]
-u—D‚¿‚á‚ñA‚Ç‚±‚É‚¢‚é‚©‚È‚Ÿ`v[pcms]
+[ns]Igarashi[nse]
+Yuu-chan, I wonder where she is~[l][er]
 
 *9818|
 [fc]
-[ns]‰Á“¡[nse]
-uŒÜ\—’ƒTƒ“I@ˆê‚É’T‚µ‚És‚±‚¤IIv[pcms]
+[ns]Kato[nse]
+Igarashi-san! Let's go search together!![pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std664|
 [fc]
-[ns]’|“à[nse]
-u‚¶‚á‚ Aƒ{ƒN‚Í“µ‚ğ’T‚µ‚És‚­‚æII@Œã‚ÅA¸~Œû[r]
-‚Å—‚¿‡‚¨‚¤‚©v[pcms]
+[ns]Takeuchi[nse]
+Alright, then I'll go look for Hitomi!![l][er]
+Let's meet up later at the entrance.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_a_b_03"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;//™ŸºF’|“à‚³‚ñ¨’|“àŒN
+;//æ‰æ¸•ï¼šç«¹å†…ã•ã‚“â†’ç«¹å†…å›
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3604|
 [fc]
 [vo_ri s="risa0789"]
-[ns]V“¹[nse]
-u‚»‚¤Œ¾‚¦‚Îcc„‚à²”Œ‚³‚ñ‚É—p–‚ª—L‚Á‚½‹C‚ª‚·‚é[r]
-‚íccB„‚Í’|“àŒN‚Æˆê‚És“®‚·‚é‚ív[pcms]
+[ns]Shindou[nse]
+Come to think of it... I feel like I had something to[r]discuss with Saeki-san too...[l][er]
+I'll be with Takeuchi-kun.[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std665|
 [fc]
-[ns]’|“à[nse]
-u‘×”VA’®‚¢‚Ä‚éH@‹’®Šoº‚Å—‚¿‡‚¤‚ñ‚¾‚¼Hv[pcms]
+[ns]Takeuchi[nse]
+Taiyuki, are you listening? Let's meet up in the audiovisual[r]room, okay?[pcms]
 
 *9819|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¿‚á‚ñ‚Æ’®‚¢‚Ä‚é‚æccB‚¨‘O‚±‚»‘åä•v‚©H@Å‰[r]
-‚Í‹³º‚Á‚ÄŒ¾‚Á‚Ä‚½‚¶‚á‚È‚¢‚©ccB‚ ‚êH@‚»‚ê‚àˆá[r]
-‚¤‚©H‚Ç‚±‚¾‚Á‚¯ccv[pcms]
+[ns]Kato[nse]
+I'm listening carefully... Are you okay?[l][er]
+Didn't you say we were going to the classroom at first?[l][er]
+Huh? Is that wrong too? Where was it again...[pcms]
 
 [ChrSetEx layer=1 chbase="risa_a_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3605|
 [fc]
 [vo_ri s="risa0790"]
-[ns]V“¹[nse]
-u“ñl‚Æ‚à‘åä•vH@¸~Œû‚Å‚µ‚å‚¤H@‚µ‚Á‚©‚è‚µ‚È[r]
-‚³‚¢‚Ëccv[pcms]
+[ns]Shindou[nse]
+Are both of you okay? We're meeting at the entrance, right?[l][er]
+Please make sure to be careful...[pcms]
 
 *9820|
 [fc]
-‚»‚¤Œ¾‚¦‚Î‚»‚¤‚¾‚Á‚½‚æ‚¤‚ÈH[r]
-‰½‚¾‚ë‚¤ccB‰´A‚Ç‚¤‚µ‚½‚ñ‚¾H[pcms]
+Come to think of it... Was that the case?[l][er]
+I wonder what it is... What's wrong with me?[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_d_b_01"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3606|
 [fc]
 [vo_to s="tomo0431"]
-[ns]ŒÜ\—’[nse]
-u‚à`II@‘‚­s‚±‚¤‚æ`IIv[pcms]
+[ns]Igarashi[nse]
+Come on~!! Let's go quickly~!![pcms]
 
 *9821|
 [fc]
-‚»‚¤‚¾I@RŠİ‚³‚ñ‚ğ’T‚µ‚És‚©‚È‚¢‚Æ‚ÈII[pcms]
+That's right! We have to go look for Yamagishi-san!![pcms]
 
 *9822|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ü‚ A—‚¿‡‚¤êŠ‚Í‚Ç‚±‚Å‚à‚¢‚¢‚¶‚á‚È‚¢‚©II@[r]
-‚¶‚á‚ As‚«‚Ü‚·‚©IIv[pcms]
+[ns]Kato[nse]
+Well, it doesn't matter where we meet up!![l][er]
+Alright, let's go!![pcms]
 
 *9823|
 [fc]
-‰½‚¾‚©AƒEƒLƒEƒL‚µ‚Ä‚«‚½II[r]
-‘‚­RŠİ‚³‚ñ‚ğ’T‚µ‚És‚±‚¤II[pcms]
+I'm starting to feel excited for some reason!![l][er]
+Let's go quickly and search for Yamagishi-san!![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3607|
 [fc]
 [vo_to s="tomo0432"]
-[ns]ŒÜ\—’[nse]
-u‚ ‚ÁI@‘Ò‚Á‚Ä‚æIIv[pcms]
+[ns]Igarashi[nse]
+Ah! Wait up!![pcms]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 [jump target=*08190_H_TOP storage="08190_H.ks"]
 
 

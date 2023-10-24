@@ -1,26 +1,26 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02146w–²x
-;//BG:–³‚µ
-;//“oêl•¨G
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02146ã€å¤¢ã€
+;//BG:ç„¡ã—
+;//ç™»å ´äººç‰©ï¼›
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02146_TOP
-;[debug_win]‚È‚¤@02146[debug_win_end]
+;[debug_win]ãªã†ã€€02146[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02146 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02146 = 1"]
 
-;*SceneSet|w–²x
+;*SceneSet|ã€å¤¢ã€
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 
 [fadeoutbgm time=500]
 
-;//H_CG:˜L‰º‚Å•ü”ü‚ª—ŒğiƒKƒEƒXƒtƒBƒ‹ƒ^j
+;//H_CG:å»Šä¸‹ã§æœ‹ç¾ãŒä¹±äº¤ï¼ˆã‚¬ã‚¦ã‚¹ãƒ•ã‚£ãƒ«ã‚¿ï¼‰
 
-;//<UpDate RasterƒJƒ“ƒ}2000>
+;//<UpDate Rasterã‚«ãƒ³ãƒ2000>
 
 [evcg storage="HEV_013"]
 [trans_c wipe time=1000]
@@ -29,43 +29,39 @@
 
 *2636|
 [fc]
-cc‚È‚ñ‚¾A‚±‚¢‚Â‚çB[pcms]
+... What are these guys?[pcms]
 
 *2637|
 [fc]
-‘¼l‚ªŒ©‚Ä‚é‘O‚Å—Œğ‚µ‚Ä‚â‚ª‚éccB[pcms]
+They're having an orgy right in front of everyone...[pcms]
 
 *2638|
 [fc]
-ccH[pcms]
+...?[pcms]
 
 *2639|
 [fc]
-—S“ñ‚ÆAŒÜ\—’ƒTƒ“cc‚È‚Ì‚©ccH[pcms]
+Yuuji and Igarashi-san... is that...?[pcms]
 
 *2640|
 [fc]
-ˆá‚¤ccB[r]
-—S“ñ‚àAŒÜ\—’ƒTƒ“‚àAl‘O‚Å‚±‚ñ‚È–‚·‚é‚æ‚¤‚ÈlŠÔ[r]
-‚¶‚á‚È‚¢ccB[pcms]
+No... Yuuji and Igarashi-san are not the kind of people who[r]would do something like this in public...[pcms]
 
 *2641|
 [fc]
-Î‚Á‚Ä‚éccB[r]
-Šy‚µ‚ñ‚Å‚é‚Ì‚©ccH[pcms]
+Are they laughing...? Are they enjoying themselves...?[pcms]
 
 *2642|
 [fc]
-l‘O‚Åƒ„‚é‚Ì‚ªA‚»‚ñ‚È‚É‹C‚¿‚¢‚¢‚Ì‚©ccH[pcms]
+Is it really that pleasurable to do it in front of[r]others...?[pcms]
 
 *2643|
 [fc]
-‚ ‚¢‚Â‚ç‚¾ccB[r]
-‰´’B‚ğP‚Á‚½A•Ï‚È–Ú‚ğ‚µ‚½“z‚çccB[pcms]
+Those guys... The ones who attacked us, with those strange[r]eyes...[pcms]
 
 *2644|
 [fc]
-‰´‚à“z‚ç‚ÉP‚í‚ê‚½‚çA‚±‚ñ‚È•—‚ÉccH[pcms]
+If I were also attacked by them, would I end up like[r]this...?[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -77,7 +73,7 @@
 
 ;//blackout
 
-;//[02147]‚Ö
+;//[02147]ã¸
 [jump target=*02147_H_TOP storage="02147_H.ks"]
 
 

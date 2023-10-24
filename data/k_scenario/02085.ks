@@ -1,20 +1,20 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02085w“ñl‚Å‰®ã‚Æ‚©‚Å—Á‚ñ‚Å‚¢‚é‚Ì‚¾‚ë‚¤x
-;//BG:“Áê‹³º˜L‰ºF–éF“_“”
-;//“oêl•¨GålŒöEƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02085ã€äºŒäººã§å±‹ä¸Šã¨ã‹ã§æ¶¼ã‚“ã§ã„ã‚‹ã®ã ã‚ã†ã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02085_TOP
-;[debug_win]‚È‚¤@02085[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02085 = 1"]
+;[debug_win]ãªã†ã€€02085[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02085 = 1"]
 
-;*SceneSet|w“ñl‚Å‰®ã‚Æ‚©‚Å—Á‚ñ‚Å‚¢‚é‚Ì‚¾‚ë‚¤x
+;*SceneSet|ã€äºŒäººã§å±‹ä¸Šã¨ã‹ã§æ¶¼ã‚“ã§ã„ã‚‹ã®ã ã‚ã†ã€
 
 ;//[02085]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//BG:bg005c
 ;//[bg storage="bg05c"]
@@ -24,27 +24,23 @@
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v716|
 [fc]
 [vo_ri s="risa0224"]
-[ns]V“¹[nse]
-u¯‚ğccHv[pcms]
+[ns]Shindou[nse]
+The stars...?[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *1722|
 [fc]
-—S“ñ‚ÆŒÜ\—’ƒTƒ“‚ªAŠwZ‚Ì‚Ç‚±‚©‚ÅƒZƒbƒNƒX‚ğ‚µ‚Ä‚¢[r]
-‚é‚Æ‚¢‚¤‚Ì‚ÍAŒ‹‹Ç‚Ì‚Æ‚±‚ëA‘O‚É—S“ñ‚©‚ç•·‚¢‚½˜b‚ğ[r]
-Œ³‚ÉA‰´‚ªŸè‚É‘z‘œ‚Å‚µ‚Ä‚¢‚é‚±‚Æ‚Å‚µ‚©‚È‚¢B[pcms]
+Yuuji and Igarashi-san having sex somewhere in the school is[r]ultimately just something I'm imagining on my own based on[r]what Yuuji told me before.[pcms]
 
 *1723|
 [fc]
-‰½‚ÌØ‹’‚à‚È‚¢‚Ì‚É‚»‚¤Œˆ‚ß‚Â‚¯‚ÄA–À‚ª‘S‚­ˆá‚¤‚à[r]
-‚Ì‚¾‚Á‚½‚çA‰´‚Í—S“ñ‚¾‚¯‚¶‚á‚È‚­AŒÜ\—’ƒTƒ“‚Ü‚Å[r]
-‚Â‚¯‚é‚±‚Æ‚É‚È‚éB[pcms]
+If I were to jump to conclusions without any evidence and[r]the truth turned out to be completely different, not only[r]would I hurt Yuuji, but I would also end up hurting[r]Igarashi-san.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
@@ -52,120 +48,109 @@
 
 *1724|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚Ì“ñl‚Á‚ÄA‚Â‚«‡‚Á‚Ä‚é‚¶‚á‚È‚¢ƒX‚©B‚¾‚©‚ç‚İ[r]
-‚ñ‚È‚É×–‚‚³‚ê‚È‚¢‚æ‚¤‚ÉA‰f‰æ‚Ì“r’†‚Å”²‚¯o‚µ‚ÄA[r]
-“ñl‚¾‚¯‚ÌŠÔ‚ğ‰ß‚²‚»‚¤‚Æv‚Á‚½‚ñ‚¶‚á‚È‚¢ƒX‚©‚Ëv[pcms]
+[ns]Kato[nse]
+Aren't those two dating? So, in order to not be disturbed by[r]everyone else, they probably decided to sneak out during the[r]movie and spend some time alone together, don't you think?[pcms]
 
 *1725|
 [fc]
-‘åØ‚È—Fl‚ğA“ñl‚à¸‚¤‚æ‚¤‚È‚±‚Æ‚ÍŒ¾‚¦‚È‚¢B[pcms]
+I can't say something that would cause me to lose two[r]important friends.[pcms]
 
 *1726|
 [fc]
-‰´‚Í“–‚½‚èá‚è‚Ì‚È‚¢˜b‚ğƒfƒbƒ`ã‚°‚ÄA“K“–‚É‚²‚Ü‚©[r]
-‚·‚±‚Æ‚ğl‚¦‚½B[pcms]
+I thought about making up a harmless story and casually[r]deceiving them.[pcms]
 
 *1727|
 [fc]
-[ns]‰Á“¡[nse]
-u‚±‚±‚Á‚ÄR‚Ì’†‚¾‚©‚çA‹ó‹C‚ªŸ‚ñ‚Å‚Ä¯‚ª‚½‚­‚³‚ñ[r]
-Œ©‚¦‚é‚Æv‚¤‚ñƒX‚æB‚ÅA“ñl‚Å‰®ã‚Ì°‚ÉQ‚»‚×‚Á‚Ä[r]
-¯‚ğŒ©‚Ä‚½‚í‚¯‚Å‚·‚æv[pcms]
+[ns]Kato[nse]
+Since we're in the mountains, the air is clear and you can[r]see a lot of stars.[l][er]
+So, the two of them were lying down on the rooftop floor,[r]looking at the stars together.[pcms]
 
 *1728|
 [fc]
-V“¹æ¶‚Í•sR‚°‚ÈŠç‚ğ•ö‚³‚¸A‰´‚ğŒ©‚Â‚ß‚Ä‚¢‚éB[pcms]
+Shindou-sensei, with an expression that didn't betray any[r]suspicion, was staring at me.[pcms]
 
 *1729|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚µ‚½‚çA‚¿‚å‚¤‚ÇQ‚â‚·‚¢‚®‚ç‚¢‚É—Á‚µ‚­‚È‚Á‚Ä‚«[r]
-‚½‚ñ‚ÅA‚»‚Ìê‚ÅQ‚Ä‚µ‚Ü‚Á‚½A‚Á‚ÄƒJƒ“ƒW‚¾‚Æv‚¤ƒX[r]
-‚æ‚Ë[v[pcms]
+[ns]Kato[nse]
+Then, it probably felt cool enough to sleep, so they ended[r]up falling asleep right there.[l][er]
+That's what I think, you know.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_b_03"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v717|
 [fc]
 [vo_ri s="risa0225"]
-[ns]V“¹[nse]
-u‚Å‚àA²”Œ‚³‚ñ‚ªã‚ÌŠK‚ğ‘S‚ÄŠm”F‚µ‚½‚Ì‚Å‚µ‚å‚¤H[r]
-‰®ã‚É“ñl‚ª‚¢‚½‚È‚çA‹C‚ª‚Â‚­‚Ì‚Å‚Í‚È‚¢‚ÌHv[pcms]
+[ns]Shindou[nse]
+But Saeki-san checked all the upper floors, right?[l][er]
+If there were two people on the rooftop, wouldn't she have[r]noticed?[pcms]
 
 *1730|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚¢‚Â‹°‚ª‚èƒX‚©‚çA‘½•ªA‰®ã‚Ü‚Å‚Ís‚¯‚È‚©‚Á‚½[r]
-‚Æv‚¢‚Ü‚·BƒgƒCƒŒ‚â‹³º‚¾‚Á‚ÄA‚¿‚á‚ñ‚ÆŒ©‚Ä‚é‚©‰ö[r]
-‚µ‚¢‚à‚ñ‚Å‚·‚æv[pcms]
+[ns]Kato[nse]
+Since he's a scaredy-cat, I don't think he could have made[r]it to the rooftop.[l][er]
+Even checking the bathrooms and classrooms, I'm suspicious[r]if he really looked properly.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v718|
 [fc]
 [vo_ri s="risa0226"]
-[ns]V“¹[nse]
-uˆÄŠOA‚»‚ñ‚È‚Æ‚±‚ë‚©‚à‚µ‚ê‚È‚¢‚í‚ËccB‚í‚©‚è‚Ü[r]
-‚µ‚½B‹M•û‚Í–ß‚Á‚ÄA‚İ‚ñ‚È‚É‚à‚¤‹x‚Ş‚æ‚¤‚ÉŒ¾‚Á‚Ä‚¨[r]
-‚¢‚ÄB“ñl‚Í„‚ª‘{‚µ‚Ä‚¨‚­‚ív[pcms]
+[ns]Shindou[nse]
+Unexpectedly, that might be the case...[l][er]
+I understand. You go back and tell everyone to go to sleep.[l][er]
+I will search for the two of them.[pcms]
 
 *1731|
 [fc]
-‚»‚¤Œ¾‚Á‚ÄV“¹æ¶‚Í¬‚³‚­‘§‚ğ‚Â‚¢‚ÄA‚±‚ÌŠwZ‚Ì’N[r]
-‚à‚ªŒ©‚½‚±‚Æ‚Ì‚È‚¢‚æ‚¤‚ÈAâ‚µ‚»‚¤‚ÈŠç‚ğŒ©‚¹‚½B[pcms]
+Saying that, Shindou-sensei let out a small sigh and showed[r]a lonely expression that no one in this school had ever seen[r]before.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_d_04"]
 [ChrSetXY layer=1 x=180 y=0]
 [ChrSetParts layer=1 chface="risa_c_d_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v719|
 [fc]
 [vo_ri s="risa0227"]
-[ns]V“¹[nse]
-u‚¢‚¢‚í‚ËAá‚¢‚É‚»‚ñ‚ÈŒoŒ±‚ª‚Å‚«‚ÄB”Ş‚ç‚ª‘A‚Ü[r]
-‚µ‚¢‚íccv[pcms]
+[ns]Shindou[nse]
+That's nice, being able to have such experiences when you're[r]young.[l][er]
+I envy them...[pcms]
 
 *1732|
 [fc]
-æ¶‚Ì‚»‚ÌŒ¾—t‚Æâ‚µ‚»‚¤‚ÈŠç‚ÉA‰´‚Ív‚í‚¸A”Ş‚Æ[r]
-‚¤‚Ü‚­‚¢‚Á‚Ä‚È‚¢‚Ì‚©‚ÆŠ¨‚®‚Á‚Ä‚µ‚Ü‚Á‚½B[pcms]
+I couldn't help but suspect, seeing the teacher's words and[r]lonely expression, that he might not be getting along well[r]with his boyfriend.[pcms]
 
 *1733|
 [fc]
-Ú‚µ‚­•·‚¢‚Ä‚İ‚½‚¢‚¯‚ÇA”Ş‚Ì‚±‚Æ‚ÅARŠİ‚³‚ñ‚Æ‰´[r]
-‚ªæ¶‚ğš’‚µ—§‚Ä‚½AƒGƒ‰ƒC“{‚ç‚ê‚½‚©‚ç‚ÈB‚±‚±‚Å[r]
-‰½‚©‚ğ•·‚­‚Ì‚ÍA‚â‚ß‚½•û‚ª‚¢‚¢‚¾‚ë‚¤B[pcms]
+I want to ask for more details, but when Yamagishi-san and I[r]teased the teacher about his boyfriend, we got scolded[r]pretty badly.[l][er]
+It's probably best to not ask anything here.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v720|
 [fc]
 [vo_ri s="risa0228"]
-[ns]V“¹[nse]
-u‹M•û‚àAÂt‚ÍŠy‚µ‚ß‚é‚¤‚¿‚ÉŠy‚µ‚ñ‚Å‚¨‚¢‚½•û‚ª‚¢[r]
-‚¢‚í‚æHv[pcms]
+[ns]Shindou[nse]
+You should enjoy your youth while you can, too.[pcms]
 
 *1734|
 [fc]
-[ns]‰Á“¡[nse]
-uƒnƒnccŠæ’£‚è‚Ü‚·[v[pcms]
+[ns]Kato[nse]
+Haha... I'll do my best.[pcms]
 
 *1735|
 [fc]
-•’Ê‚Å‚Íâ‘Î‚ÉŒ©‚ç‚ê‚È‚¢Awæ¶x‚¶‚á‚È‚¢V“¹æ¶[r]
-‚ªŒ©‚ç‚ê‚½‚æ‚¤‚È‹C‚ª‚µ‚ÄA‰´‚Í‚È‚ñ‚¾‚©Šğ‚µ‚©‚Á‚½B[pcms]
+I felt strangely happy, as if I had witnessed something that[r]I would never normally see, like a side of Shindou-sensei[r]that wasn't teacher.[pcms]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
@@ -179,6 +164,6 @@
 
 ;;;[sysbt_meswin]
 
-;//[02086]‚Ö
+;//[02086]ã¸
 [jump target=*02086_TOP storage="02086.ks"]
 

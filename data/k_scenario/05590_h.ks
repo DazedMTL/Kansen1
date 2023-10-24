@@ -1,17 +1,17 @@
 
-;//¡ËƒuƒƒbƒN05590w“µ‚ÆƒZƒbƒNƒXx
-;//;//BG:’n‰ººF“_“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05590ã€ç³ã¨ã‚»ãƒƒã‚¯ã‚¹ã€
+;//;//BG:åœ°ä¸‹å®¤ï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 
 *05590_H_TOP
-;[debug_win]‚È‚¤@05590_H[debug_win_end]
-;*SceneSet|w“µ‚ÆƒZƒbƒNƒXx
+;[debug_win]ãªã†ã€€05590_H[debug_win_end]
+;*SceneSet|ã€ç³ã¨ã‚»ãƒƒã‚¯ã‚¹ã€
 
-;//ôFBGM010
+;//â™ªï¼šBGM010
 ;//[bgm010]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05590 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05590 = 1"]
 
 ;//H_CG
 ;	/*
@@ -30,29 +30,26 @@
 *v2420|
 [fc]
 [vo_sa s="sae0579"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *5813|
 [fc]
-‰´‚ª§•‚Ìƒ{ƒ^ƒ“‚Éè‚ğ‚©‚¯‚Ä‚àA²”Œ‚ÍŒ™‚ª‚é‚±‚Æ‚à[r]
-‚È‚­A‚¶‚Á‚Æ“®‚©‚¸‚É‚¢‚½B[pcms]
+Even when I put my hand on the buttons of her school[r]uniform, Saeki didn't resist or move.[pcms]
 
 *5814|
 [fc]
-‚¾‚ªA¡‚Ü‚Å‚É—‚Ìq‚Ì•‚ğ’E‚ª‚¹‚½‚±‚Æ‚ª‚È‚¢‰´‚ÍA[r]
-©•ª‚ªl‚¦‚Ä‚¢‚é‚æ‚¤‚ÉAƒRƒg‚ği‚ß‚ç‚ê‚È‚¢‚Å‚¢‚½B[pcms]
+However, since I had never undressed a girl before, I[r]couldn't proceed with the situation as I had imagined.[pcms]
 
 *5815|
 [fc]
-[ns]‰Á“¡[nse]
-uƒSAƒSƒƒ“‚ÈAŠµ‚ê‚Ä‚È‚­‚Á‚Äccv[pcms]
+[ns]Kato[nse]
+S-Sorry, I'm not used to it...[pcms]
 
 *5816|
 [fc]
-v‚í‚¸Ó‚Á‚Ä‚µ‚Ü‚Á‚½‰´‚ÉA²”Œ‚Í—D‚µ‚­”÷Î‚ñ‚Åñ‚ğ[r]
-‰¡‚ÉU‚èA•‚ğ’E‚ª‚»‚¤‚Æ‚µ‚Ä‚¢‚éè‚ÉA©•ª‚Ìè‚ğd[r]
-‚Ë‚½B[pcms]
+Saeki gently smiled at me, who had unintentionally[r]apologized, and shook her head.[l][er]
+She placed her hand on top of mine, which was trying to[r]undress her.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_b_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -62,14 +59,13 @@
 *v2421|
 [fc]
 [vo_sa s="sae0580"]
-[ns]²”Œ[nse]
-u‹C‚É‚µ‚È‚¢‚Å‚­‚¾‚³‚¢ccv[pcms]
+[ns]Saeki[nse]
+Please don't worry about it...[pcms]
 
 *5817|
 [fc]
-‚»‚µ‚Ä²”Œ‚ÍA©•ª‚Å§•‚Ìƒ{ƒ^ƒ“‚ğŠO‚µn‚ß‚½B²”Œ[r]
-‚Íè‚ğ“r’†‚Å~‚ß‚ÄAî‚¯‚È‚¢v‚¢‚ğ‚µ‚Ä‚¤‚È‚¾‚ê‚Ä‚¢[r]
-‚½‰´‚ÉA’p‚¸‚©‚µ‚»‚¤‚É¬‚³‚Èº‚ÅŒ¾‚Á‚½B[pcms]
+And then, Saeki started to unbutton her school uniform by[r]herself.[l][er]
+Saeki stopped her hand halfway and, looking embarrassed and[r]feeling sorry for me, she said in a small voice.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_a_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -79,31 +75,30 @@
 *v2422|
 [fc]
 [vo_sa s="sae0581"]
-[ns]²”Œ[nse]
-u‚ ‚Ìcc‰Á“¡‚³‚ñcc“d‹CAÁ‚µ‚Ä‚¢‚½‚¾‚¯‚Ü‚¹‚ñ‚©[r]
-ccv[pcms]
+[ns]Saeki[nse]
+Um... Kato-san... Could you please turn off the lights...[pcms]
 
 *5818|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚íAˆ«‚¢ccv[pcms]
+[ns]Kato[nse]
+Ah, um, sorry...[pcms]
 
 [bg storage="bg23b"]
 [trans_c cross time=500]
 
 *5819|
 [fc]
-‰´‚ÍQ‚Ä‚Ä“d“”‚ÌƒXƒCƒbƒ`‚Ö‘–‚èA“”‚è‚ğÁ‚µ‚½B[pcms]
+I hurriedly ran to the light switch and turned off the[r]lights.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
 ;//blackout
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05600]‚Ö
+;//[05600]ã¸
 [jump target=*05600_H_TOP storage="05600_H.ks"]
 
 

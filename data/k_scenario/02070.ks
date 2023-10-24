@@ -1,21 +1,21 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02070wˆÙ•Ïx
-;//BG:‘Ìˆç—p‹ïºF–éF“_“”
-;//“oêl•¨GålŒöE—D
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02070ã€ç•°å¤‰ã€
+;//BG:ä½“è‚²ç”¨å…·å®¤ï¼šå¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02070_TOP
-;[debug_win]‚È‚¤@02070[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02070 = 1"]
+;[debug_win]ãªã†ã€€02070[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02070 = 1"]
 
-;*SceneSet|wˆÙ•Ïx
+;*SceneSet|ã€ç•°å¤‰ã€
 
 ;//[02070]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//BG:bg009e
 ;g[bg storage="bg09e"]
@@ -23,61 +23,58 @@
 
 *1478|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨[‚¢I@—S“ñ‚¡[‚ÁIIv[pcms]
+[ns]Kato[nse]
+Hey! Yuuji![pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v624|
 [fc]
 [vo_ya s="yama0148"]
-[ns]RŠİ[nse]
-uƒgƒ‚‚¿‚á`‚ñ‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Tomochan~![pcms]
 
 *1479|
 [fc]
-[ns]‰Á“¡[nse]
-uccccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦â€¦â€¦[l][er]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v625|
 [fc]
 [vo_ya s="yama0149"]
-[ns]RŠİ[nse]
-uccccv[pcms]
+[ns]Yamagishi[nse]
+â€¦â€¦â€¦â€¦[l][er]
 
 *1480|
 [fc]
-‚à‚¤ˆê“xº‚ğ‚©‚¯‚ÄA‚µ‚Î‚ç‚­‘Ò‚Á‚Ä‚İ‚½‚¯‚ÇA‘Ìˆç‘q[r]
-ŒÉ‚Ì’†‚©‚ç‚ÍA‚È‚ñ‚Ì•Ô–‚à‚È‚©‚Á‚½B[pcms]
+I called out again and waited for a while, but there was no[r]response from inside the sports equipment storage room.[pcms]
 
 *1481|
 [fc]
-Šİ“c‚àA—S“ñ‚ÆŒÜ\—’ƒTƒ“‚àAo‚Ä‚­‚é‹C”z‚Í‚È‚¢B[pcms]
+Kishida, Yuuji, and Igarashi-san don't seem to be coming[r]out.[pcms]
 
 *1482|
 [fc]
-‚Ğ‚Æ‚è‚Å‚É“d‹C‚ª‚Â‚­‚±‚Æ‚Í‚È‚¢‚¾‚ë‚¤‚©‚çA’N‚©‚ª‚±[r]
-‚±‚É—ˆ‚Ä“”‚è‚ğ“_‚¯‚ÄA‚»‚Ì‚Ü‚ÜÁ‚·‚Ì‚ğ–Y‚ê‚Äs‚Á‚Ä[r]
-‚µ‚Ü‚Á‚½‚Ì‚©A‚»‚ê‚Æ‚à’†‚ÅQ‚Ä‚µ‚Ü‚Á‚½‚Ì‚©ccB[pcms]
+I don't think the lights would turn on by themselves, so[r]either someone came here and turned them on but forgot to[r]turn them off, or maybe someone fell asleep inside...[pcms]
 
 *1483|
 [fc]
-[ns]‰Á“¡[nse]
-u‰´A‚¿‚å‚Á‚Æ’†Œ©‚Ä‚­‚év[pcms]
+[ns]Kato[nse]
+I'm going to take a look inside.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v626|
 [fc]
 [vo_ya s="yama0150"]
-[ns]RŠİ[nse]
-u‚ A‘Ò‚Á‚ÄA„‚às‚­‚Áv[pcms]
+[ns]Yamagishi[nse]
+Ah, wait, I'm going too.[pcms]
 
 ;//blackout
 
@@ -90,54 +87,52 @@
 
 ;;;[sysbt_meswin]
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 [bgm007]
 
 *1484|
 [fc]
-‰´’B‚Í‹°‚é‹°‚éA”E‚Ñ‘«‚Å‘Ìˆç‘qŒÉ‚Ì”à‚Ì‘O‚Ü‚Å‹ß‚Ã‚­[r]
-‚ÆA’†‚Ì—lq‚ğ‚¤‚©‚ª‚Á‚½B[pcms]
+We cautiously approached the door of the sports equipment[r]storage room, taking careful steps, and peeked inside to see[r]what was going on.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01" opacity=204]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v627|
 [fc]
 [vo_ya s="yama0151"]
-[ns]RŠİ[nse]
-u‚È‚É‚à•·‚±‚¦‚È‚¢‚Ëccv[pcms]
+[ns]Yamagishi[nse]
+I can't hear anything...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *1485|
 [fc]
-RŠİ‚³‚ñ‚ª‚»‚¤Œ¾‚¤‚Ì‚É‚¤‚È‚¸‚«‚È‚ª‚çA‰´‚Í‘qŒÉ‚Ì”à[r]
-‚Éè‚ğL‚Î‚µ‚½B[pcms]
+While nodding in agreement with Yamagishi-san's words, I[r]reached out my hand towards the door of the storage room.[pcms]
 
 *1486|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚êccHv[pcms]
+[ns]Kato[nse]
+Huh...?[pcms]
 
 *1487|
 [fc]
-”à‚ğ‚à‚¤­‚µ‚¾‚¯ŠJ‚¯‚ÄAŒ„ŠÔ‚©‚ç’†‚ğ”`‚«‚ñ‚Å‚İ‚é[r]
-‚ÆA‚»‚±‚É‚Í’N‚à‚¢‚È‚©‚Á‚½B[pcms]
+I opened the door a little more and peeked inside through[r]the gap, but there was no one there.[pcms]
+[l][er]
 
-;//SE:”à‚ğŠJ‚¯‚é
+;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
 [se0 storage="se008"]
 
 
 
 *1488|
 [fc]
-”q”²‚¯‚µ‚½‰´‚ÍA”à‚ğ‘SŠJ‚É‚µ‚ÄA’†‚Ö“¥‚İ‚ñ‚¾B[pcms]
+Feeling disappointed, I fully opened the door and stepped[r]inside.[pcms]
 
-;//BG:bg‘Ìˆç—p‹ïº@ƒ}ƒbƒg‚Ìã‚É¸‰t
+;//BG:bgä½“è‚²ç”¨å…·å®¤ã€€ãƒãƒƒãƒˆã®ä¸Šã«ç²¾æ¶²
 
 [bg storage="bg70"]
 [trans_c cross time=500]
@@ -147,223 +142,207 @@
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v628|
 [fc]
 [vo_ya s="yama0152"]
-[ns]RŠİ[nse]
-u‚¤cc‚È‚ÉA‚±‚Ì‚É‚¨‚¢ccv[pcms]
+[ns]Yamagishi[nse]
+Ugh... What is this smell...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *1489|
 [fc]
-‰´‚Ì‚ ‚Æ‚É‘±‚¢‚Ä’†‚É“ü‚Á‚Ä‚«‚½RŠİ‚³‚ñ‚ÍA•Ğè‚ÅŒû[r]
-Œ³‚ğ•¢‚Á‚Ä‚»‚¤Œ¾‚Á‚½B[pcms]
+Yamagishi-san, who followed after me and entered the room,[r]covered her mouth with one hand and said so.[pcms]
 
 *1490|
 [fc]
-‘Ìˆç‘qŒÉ‚Ì’†‚É[–‚µ‚Ä‚¢‚éA‚±‚ÌL‚¢‚Ì³‘ÌB[r]
-ƒCƒJL‚¢‚æ‚¤‚ÈA¶L‚­‚Ä‚·‚¦‚½L‚¢B[pcms]
+The true identity of the smell that fills the sports[r]equipment storage room.[l][er]
+It's a fishy smell, a raw and pungent odor.[pcms]
 
 *1491|
 [fc]
-‚»‚ê‚ÍA‚Ù‚Æ‚ñ‚Ç‚Ì’j‚É‚Æ‚Á‚ÄA”ñí‚É‚È‚¶‚İ‚Ì‚ ‚é‚ [r]
-‚ÌL‚¢‚¾‚Á‚½B[pcms]
+It was a smell that was very familiar to most men.[pcms]
 
 *1492|
 [fc]
-‚»‚¤A¸‰t‚ÌL‚¢‚¾B[pcms]
+Yes, it's the smell of semen.[pcms]
 
 *1493|
 [fc]
-‘qŒÉ‚Ì’†‚ğŒ©‰ñ‚·‚ÆAˆê•”‚ªˆÙ—l‚ÈŒõŒi‚É•Ï‚í‚Á‚Ä‚¢‚é[r]
-‚Æ‚±‚ë‚ª‚ ‚éB[pcms]
+As I looked around the inside of the storage room, there was[r]a part that had transformed into an unusual scene.[pcms]
 
 *1494|
 [fc]
-•ÇÛ‚ÉÏ‚İd‚Ë‚Ä’u‚¢‚Ä‚ ‚éAƒ}ƒbƒg‚Ì‚ ‚½‚è‚¾B[pcms]
+The area around the stacked mats placed against the wall.[pcms]
 
 *1495|
 [fc]
-ƒ}ƒbƒg‚É‚ÍAƒoƒPƒc‚Å‚à‚Ğ‚Á‚­‚è•Ô‚µ‚½‚Ì‚©‚Æv‚¤’öA[r]
-‘å‚«‚Èõ‚İ‚ªL‚ª‚Á‚Ä‚¢‚éB‘½•ªA‚±‚ÌL‚¢‚Ì”­¶Œ¹‚Í[r]
-‚ ‚»‚±‚¾‚ë‚¤B[pcms]
+The mats were covered in such large stains that it looked[r]like someone had overturned a bucket.[l][er]
+Most likely, the source of this smell is over there.[pcms]
 
 *1496|
 [fc]
-ˆÙ—l‚¾‚Æv‚Á‚½‚Ì‚ÍA‚ ‚Ìõ‚İ‚ª¸‰t‚É‚æ‚é‚à‚Ì‚¾‚Æ‚µ[r]
-‚½‚çA‚à‚Ì¦‚¢—Ê‚ğo‚µ‚½‚±‚Æ‚É‚È‚é‚©‚ç‚¾B[pcms]
+What I found unusual was that if those stains were caused by[r]semen, then it would mean an incredible amount was released.[pcms]
 
 *1497|
 [fc]
-‚³‚ç‚ÉAƒ}ƒbƒg‚Ìü‚è‚Ì°‚â‘Ìˆç—p‹ï‚ÉA‚Ü‚¾Œ`‚ğ—¯‚ß[r]
-‚½¸‰t‚ª•t’…‚µ‚Ä‚¢‚éB[pcms]
+Furthermore, there is still semen clinging to the floor and[r]sports equipment around the mats, retaining its form.[pcms]
 
 *1498|
 [fc]
-‚à‚µA—S“ñ‚ÆŒÜ\—’ƒTƒ“‚ª‚±‚±‚ÅƒZƒbƒNƒX‚ğ‚µ‚Ä‚¢‚½‚Æ[r]
-‚µ‚Ä‚àA’jˆêl‚Å‚±‚ñ‚È‚É‘å—Ê‚Ì¸‰t‚ğo‚·‚±‚Æ‚Í‚Å‚«[r]
-‚È‚¢‚Í‚¸‚¾B[pcms]
+Even if Yuuji and Igarashi-san were having sex here, there's[r]no way a man alone could produce such a large amount of[r]semen.[pcms]
 
 *1499|
 [fc]
-‚Ü‚é‚ÅA‰½l‚à‚Ì’j‚ª‰½‰ñ‚à‚±‚±‚ÅË¸‚µ‚½‚©‚Ì‚æ‚¤‚ÈA[r]
-‚»‚ê‚Ù‚Ç‚Ì—Ê‚Æ”ò‚ÑU‚è•û‚¾B[pcms]
+It's as if multiple men ejaculated here multiple times, with[r]such a large amount and scattered all over.[pcms]
 
 *1500|
 [fc]
-‚µ‚©‚àA‚Ü‚¾Œ`‚Ìc‚Á‚Ä‚¢‚é¸‰t‚ª‚ ‚é‚Æ‚¢‚¤‚±‚Æ‚ÍA[r]
-‚±‚±‚©‚çl‚ª‚¢‚È‚­‚È‚Á‚Ä‚©‚çA‚Ù‚Æ‚ñ‚ÇŠÔ‚ªŒo‚Á‚Ä[r]
-‚È‚¢‚Æ‚¢‚¤‚±‚Æ‚É‚È‚éB[pcms]
+Moreover, the fact that there is still semen with its form[r]intact means that not much time has passed since people left[r]here.[pcms]
 
 *1501|
 [fc]
-[ns]‰Á“¡[nse]
-u‚È‚ñ‚È‚ñ‚¾H@‚±‚êccv[pcms]
+[ns]Kato[nse]
+What is this...?[pcms]
 
 *1502|
 [fc]
-Šç‚ğ‚µ‚©‚ß‚Äñ‚ğ‚Ğ‚Ë‚Á‚Ä‚¢‚é‰´‚Ì‰¡‚ÅARŠİ‚³‚ñ‚à“¯[r]
-‚¶‚æ‚¤‚Éñ‚ğ‚Ğ‚Ë‚Á‚ÄA‚¤‚È‚Á‚Ä‚¢‚½B[pcms]
+Beside me, with a frown on my face and my head tilted,[r]Yamagishi-san also had her head tilted and was groaning.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v629|
 [fc]
 [vo_ya s="yama0153"]
-[ns]RŠİ[nse]
-u‚¤`‚ñcc‚Ç‚±‚©‚Åšk‚¢‚¾‚±‚Æ‚ª‚ ‚é‚æ‚¤‚È‹C‚ª‚·‚é[r]
-‚ñ‚¾‚¯‚Ç‚È‚ŸA‚±‚Ì‚É‚¨‚¢ccv[pcms]
+[ns]Yamagishi[nse]
+Hmm... I feel like I've smelled this somewhere before, this[r]scent...[pcms]
 
 *1503|
 [fc]
-”Ş—‚Ì‚»‚ÌŒ¾—t‚ÉA‰´‚Í‚ ‚ñ‚®‚è‚ÆŒû‚ğŠJ‚¯‚ÄA‚µ‚Î‚ç[r]
-‚­•Â‚ß‚ç‚ê‚È‚¢‚Å‚¢‚½B[pcms]
+Her words left me speechless, my mouth hanging open in[r]astonishment for a while.[pcms]
 
 *1504|
 [fc]
-[ns]‰Á“¡[nse]
-u–{“–‚ÉccH@–{“–‚ÉAšk‚¢‚¾‚±‚Æ‚ ‚é‚ÌHv[pcms]
+[ns]Kato[nse]
+Really...? Have you really smelled it before?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v630|
 [fc]
 [vo_ya s="yama0154"]
-[ns]RŠİ[nse]
-u‚¤‚ñB‚Å‚àA‚Ç‚±‚¾‚Á‚½‚Á‚¯‚È‚Ÿccv[pcms]
+[ns]Yamagishi[nse]
+Yeah. But, where was it...[pcms]
 
 *1505|
 [fc]
-”Ş—‚É‚ ‚Á‚³‚è‚Æm’è‚³‚êA‰´‚Í‚à‚¤•úSó‘Ô‚¾‚Á‚½B[r]
-‚Ç‚±‚©‚Åšk‚¢‚¾‚±‚Æ‚ ‚é‚Á‚Äcc[r]
-‚»‚ê‚Á‚Ä‚Ü‚³‚©Aƒxƒbƒh‚ÌãccH[pcms]
+She readily affirmed it, and I was already in a state of[r]shock.[l][er]
+I feel like I've smelled it somewhere before...[l][er]
+Could it be, on the bed...?[pcms]
+[l][er]
 
 *1506|
 [fc]
-‚¢‚âAƒxƒbƒh‚Ìã‚Æ‚ÍŒÀ‚ç‚ÈccB[pcms]
+No, it's not necessarily on the bed...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v631|
 [fc]
 [vo_ya s="yama0155"]
-[ns]RŠİ[nse]
-u‚ ‚ÁAv‚¢o‚µ‚½I@ŒI—Ñ‚¾I@‚¨‘c•ê‚¿‚á‚ñ‰Æ‚Ì— [r]
-‚ªŒI—Ñ‚Å‚ËA‚»‚±‚ÅŒIE‚¢‚µ‚½‚ÌL‚¢‚Æˆê‚È‚Ìv[pcms]
+[ns]Yamagishi[nse]
+Ah, I remember! It's Kuribayashi![l][er]
+Behind my grandmother's house, there is a chestnut forest,[r]and the smell is just like when I picked chestnuts there.[pcms]
 
 *1507|
 [fc]
-[ns]‰Á“¡[nse]
-ucc‚ A‚ [A‚»‚¤ccƒnƒnccv[pcms]
+[ns]Kato[nse]
+... Ah, ah... I see... Haha...[pcms]
 
 *1508|
 [fc]
-‚í‚´‚Æ‚â‚Á‚Ä‚ñ‚¶‚á‚È‚¢‚Ì‚©H@‚±‚ÌqccB[pcms]
+Is she doing it on purpose? This girl...[pcms]
 
 *1509|
 [fc]
-ˆÀS‚©‚ç‘å‚«‚­—­‘§‚ğ‚Â‚¢‚½‰´‚ğARŠİ‚³‚ñ‚ÍƒLƒ‡ƒgƒ“[r]
-‚Æ‚µ‚½Šç‚ÅŒ©‚Â‚ß‚Ä‚¢‚½B[pcms]
+Yamagishi-san was staring at me with a puzzled expression as[r]I let out a big sigh of relief.[pcms]
 
 *1510|
 [fc]
-[ns]‰Á“¡[nse]
-u‚à‚¤o‚æ‚¤‚©ccv[pcms]
+[ns]Kato[nse]
+Shall we leave already...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v632|
 [fc]
 [vo_ya s="yama0156"]
-[ns]RŠİ[nse]
-u‚Å‚àA‘Ìˆç‘qŒÉ‚Ì’†‚ÅŒI‚Ì–Ø‚ÌL‚¢‚ª‚·‚é‚È‚ñ‚ÄA•Ï[r]
-‚¾‚æ‚ËB‚»‚ê‚ÉA’N‚©‚ª–\‚ê‚½‚İ‚½‚¢‚ÉA’u‚¢‚Ä‚ ‚Á‚½[r]
-‚à‚Ì‚ª“|‚ê‚½‚èU‚ç‚Î‚Á‚½‚è‚µ‚Ä‚é‚µv[pcms]
+[ns]Yamagishi[nse]
+But it's strange to smell the scent of chestnut trees inside[r]the gym storage room.[l][er]
+And besides, it looks like someone made a mess, with things[r]knocked over and scattered around.[pcms]
 
 *1511|
 [fc]
-‚»‚¤‚¢‚¦‚Î‚»‚¤‚¾B‚»‚ê‚ÉA“ü‚èŒû‚Í“y‘«‚Å•à‚«‰ñ‚Á‚½[r]
-‚©‚Ì—l‚È‰˜‚ê‚ª‘òR‚ ‚Á‚½B[pcms]
+By the way, that's right. And there were a lot of dirt marks[r]as if someone had been walking around with their shoes on at[r]the entrance.[pcms]
 
 *1512|
 [fc]
-‚Ü‚é‚ÅA‘ål”‚ªˆêÄ‚É‚È‚¾‚ê‚ñ‚¾—l‚ÈccB[pcms]
+It's as if a large number of people rushed in all at once...[pcms]
 
 *1513|
 [fc]
-‚Å‚àA‰´’B‚É‚Í‚»‚±‚Ü‚Å‚ªŒÀŠE‚¾‚Á‚½B‘qŒÉ‚Ì’†‚ÌŒõŒi[r]
-‚Ì‘¼‚ÉAî•ñ‚Í‚È‚¢B‚±‚êˆÈãA‚±‚±‚Ål‚¦‚Ä‚½‚Á‚Äd[r]
-•û‚È‚¢B[pcms]
+But for us, that was the limit.[l][er]
+Besides the scene inside the warehouse, we had no other[r]information.[l][er]
+There was no point in thinking about it any further here.[pcms]
 
 *1514|
 [fc]
-[ns]‰Á“¡[nse]
-u‚±‚±‚ÅƒEƒƒEƒ‚µ‚Ä‚é‚æ‚èA‘¼‚ÌêŠ‚Ö‘{‚µ‚És‚Á‚½[r]
-•û‚ªA‰´‚Í‚¢‚¢‚Æv‚¤‚ñ‚¾‚¯‚ÇccRŠİ‚³‚ñ‚Í‚Ç‚¤Hv[pcms]
+[ns]Kato[nse]
+Instead of wandering around here, I think it would be better[r]to search in other places.[l][er]
+What do you think, Yamagishi-san?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v633|
 [fc]
 [vo_ya s="yama0157"]
-[ns]RŠİ[nse]
-u‚¤‚ñA„‚à‚»‚¤‚µ‚½•û‚ª‚¢‚¢‚Æv‚¤v[pcms]
+[ns]Yamagishi[nse]
+Yeah, I think it would be better to do that too.[pcms]
 
 *1515|
 [fc]
-[ns]‰Á“¡[nse]
-u‚æ‚µA‚»‚ê‚¶‚á‘¼‚ğ“–‚½‚Á‚Ä‚İ‚æ‚¤‚©v[pcms]
+[ns]Kato[nse]
+Alright, then let's try asking around elsewhere.[pcms]
 
 *1516|
 [fc]
-‘Ìˆç‘qŒÉ‚Ì“”‚è‚ğÁ‚µ‚ÄA‰´’B‚Í‘ÌˆçŠÙ‚ğ‚ ‚Æ‚É‚µ‚½B[pcms]
+We turned off the lights in the gym storage room and left[r]the gymnasium.[pcms]
 
 ;//blackout
 
@@ -376,6 +355,6 @@
 
 ;;;[sysbt_meswin]
 
-;//[02071]‚Ö
+;//[02071]ã¸
 [jump target=*02071_TOP storage="02071.ks"]
 

@@ -1,18 +1,18 @@
 
-;//¡ËƒuƒƒbƒN05900wI‰‰x
-;//BG:’n‰ººFÁ“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05900ã€çµ‚æ¼”ã€
+;//BG:åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05900_H_TOP
-;[debug_win]‚È‚¤@05900_H[debug_win_end]
+;[debug_win]ãªã†ã€€05900_H[debug_win_end]
 
 *05900
 
-;*SceneSet|wI‰‰x
+;*SceneSet|ã€çµ‚æ¼”ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05900 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05900 = 1"]
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 
 
 
@@ -21,34 +21,31 @@
 *v2596|
 [fc]
 [vo_sa s="sae0705"]
-[ns]²”Œ[nse]
-u‚¤‚Ácc‚®‚·cc‚©‚ÆA‚³cc‚Ó‚¦‚¥ccv[pcms]
+[ns]Saeki[nse]
+Ugh... guh... ka... sa... fuuee...[pcms]
 
 *6354|
 [fc]
-²”ŒccB[r]
-²”Œ‚ª‹ƒ‚¢‚Ä‚éccB[r]
-‚à‚¤”ß‚µ‚¢v‚¢‚Í‚³‚¹‚È‚¢‚Á‚ÄA¾‚Á‚½‚Ì‚ÉccB[pcms]
+Saeki... Saeki is crying... Even though I promised that I[r]wouldn't make her sad anymore...[pcms]
 
 *v2597|
 [fc]
 [vo_sa s="sae0706"]
-[ns]²”Œ[nse]
-u‚®‚·‚Ácc‚¤‚£cc‹N‚«A‚ÄA‰Á“¡‚³‚ñcc‚®‚·cc[r]
-‹N‚«‚ÄA‚­‚¾‚³‚¢ccv[pcms]
+[ns]Saeki[nse]
+*sniffle*... uhh... Kato-san, wake up...[l][er]
+*sniffle*... please wake up...[pcms]
 
 *6355|
 [fc]
-‹ƒ‚­‚ÈccB[r]
-‹ƒ‚©‚È‚¢‚Å‚­‚êA²”ŒccB[r]
-²”ŒccB[pcms]
+Don't cry... Please don't cry, Saeki...[l][er]
+Saeki...[pcms]
 
 *6356|
 [fc]
-[ns]‰Á“¡[nse]
-u²”Œccv[pcms]
+[ns]Kato[nse]
+Saeki...[pcms]
 
-;//ôFBGM011ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM011ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 
 [bgm011]
 
@@ -59,84 +56,82 @@
 
 *6357|
 [fc]
-–Ú‚ğŠJ‚¯‚é‚ÆA‚»‚±‚É‚ÍƒLƒ‡ƒgƒ“‚Æ‚µ‚Ä‚¢‚é²”Œ‚ÌŠç‚ª[r]
-‚ ‚Á‚½B[pcms]
+When I opened my eyes, there was Saeki's face, looking[r]bewildered.[pcms]
 
 *6358|
 [fc]
-[ns]‰Á“¡[nse]
-u²”ŒccHv[pcms]
+[ns]Kato[nse]
+Saeki...?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2598|
 [fc]
 [vo_sa s="sae0707"]
-[ns]²”Œ[nse]
-u—Ç‚©‚ÁA‚½cc‚à‚¤A–Ú‚ğŠo‚Ü‚³A‚È‚¢‚Ì‚©‚Æccv[pcms]
+[ns]Saeki[nse]
+Thank goodness... you finally woke up...[l][er]
+I thought you would never open your eyes...[pcms]
 
 *6359|
 [fc]
-²”Œ‚Í—¼è‚ÅŠç‚ğ•¢‚Á‚ÄA‚Ü‚½‹ƒ‚«n‚ß‚½B[r]
-‰´‚Í‘Ì‚Ì’É‚İ‚ğ‰ä–‚µ‚ÄA²”Œ‚Ì”w’†‚Éè‚ğL‚Î‚µA‚³[r]
-‚·‚Á‚Ä‚â‚éB[pcms]
+Saeki covered her face with both hands and started crying[r]again.[l][er]
+I endured the pain in my body and reached out to stroke[r]Saeki's back.[pcms]
 
 *6360|
 [fc]
-[ns]‰Á“¡[nse]
-uS”z‚³‚¹‚ÄAƒSƒƒ“‚Èv[pcms]
+[ns]Kato[nse]
+I'm sorry for worrying you.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2599|
 [fc]
 [vo_sa s="sae0708"]
-[ns]²”Œ[nse]
-u‚¤‚ÁA‚Ó‚¦‚¥cc‚¤‚£‚Ácc€‚ñ‚ÅA‚µ‚Ü‚Ácc‚®‚·[r]
-ccv‚Á‚½A‚¦‚®A‚Å‚·‚æccccv[pcms]
+[ns]Saeki[nse]
+Ugh... fuuee... uuh... I want to die...[l][er]
+guh... I thought, ugh, I promised...[pcms]
 
 *6361|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ Aˆ«‚©‚Á‚½v[pcms]
+[ns]Kato[nse]
+Ah, I'm sorry.[pcms]
 
 *6362|
 [fc]
-‹ó‚¢‚Ä‚¢‚é•û‚Ìè‚ÅA“ª‚âŠçA‘Ì‚ğG‚Á‚Ä‚İ‚½‚ªA—¬ŒŒ[r]
-‚à‚È‚­A‚Ç‚¤‚â‚ç‘å‚«‚¢‰ö‰ä‚Í‚µ‚Ä‚¢‚È‚¢‚æ‚¤‚¾‚Á‚½B[pcms]
+I tried touching her head, face, and body with the hand that[r]was free, but there was no bleeding, and it seemed that she[r]didn't have any major injuries.[pcms]
 
 *6363|
 [fc]
-[ns]‰Á“¡[nse]
-u‰´A‚Ç‚ê‚®‚ç‚¢‹C‚¡¸‚Á‚Ä‚½Hv[pcms]
+[ns]Kato[nse]
+How long was I unconscious?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2600|
 [fc]
 [vo_sa s="sae0709"]
-[ns]²”Œ[nse]
-u‚®‚·cc‚£cc\•ªA‚®‚ç‚¢‚ÅA‚·cc‚¤‚£‚Áccv[pcms]
+[ns]Saeki[nse]
+*sob*... uh... about ten minutes...[l][er]
+uhh...[pcms]
 
 *6364|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤‚©ccv[pcms]
+[ns]Kato[nse]
+I see...[pcms]
 
 *6365|
 [fc]
-“®‚­‚±‚Æ‚Í‚Å‚«‚»‚¤‚¾‚Á‚½‚ªAŠO‚Éo‚Ä—lq‚ğŠm‚©‚ß‚é[r]
-‚Ì‚ÍA²”Œ‚ª‹ƒ‚«‚â‚ñ‚Å‚©‚ç‚É‚µ‚æ‚¤‚ÆA‰´‚Íl‚¦‚½B[pcms]
+I felt like I could move, but I decided to wait until Saeki[r]stopped crying before going outside to check the situation.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -147,5 +142,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05910]‚Ö
+;//[05910]ã¸
 [jump target=*05910_H_TOP storage="05910_H.ks"]

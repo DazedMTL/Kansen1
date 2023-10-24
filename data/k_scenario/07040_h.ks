@@ -1,15 +1,15 @@
 
-;//¡ËƒuƒƒbƒN07040w§Šèx
-;//BG:‹³ºF–éFÁ“”
-;//“oêl•¨GålŒöEŠ´õ“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07040ã€æ‡‡é¡˜ã€
+;//BG:æ•™å®¤ï¼šå¤œï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»æ„ŸæŸ“ç³
 
 *07040_H_TOP
-;[debug_win]‚È‚¤@07040_H[debug_win_end]
-;*SceneSet|w§Šèx
+;[debug_win]ãªã†ã€€07040_H[debug_win_end]
+;*SceneSet|ã€æ‡‡é¡˜ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07040 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07040 = 1"]
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 
 [bgm007]
 
@@ -19,13 +19,12 @@
 
 *7051|
 [fc]
-‚Ç‚Ì‚­‚ç‚¢–°‚Á‚Ä‚¢‚½‚Ì‚©•ª‚©‚ç‚È‚¢‚¯‚ÇA’N‚©l‚Ì‹C[r]
-”z‚ğŠ´‚¶‚ÄA‰´‚Í–Ú‚ğŠo‚Ü‚µ‚½B[pcms]
+I don't know how long I had been sleeping, but I felt[r]someone's presence and woke up.[pcms]
 
 *7052|
 [fc]
-[ns]‰Á“¡[nse]
-u‚£ccv[pcms]
+[ns]Kato[nse]
+Ugh...[pcms]
 
 ;//BG:bg010d
 
@@ -34,107 +33,101 @@
 
 *7053|
 [fc]
-–Ú‚ğŠJ‚¯‚é‚ÆA‚»‚±‚É‚Íƒ{ƒƒ{ƒ‚Ì•‚ğ’…‚½—‚ª•G‚ğ‚Â[r]
-‚¢‚Ä‚¢‚ÄA‰´‚ÌŠç‚ğ”`‚«‚ñ‚Å‚¢‚½B[pcms]
+When I opened my eyes, there was a woman wearing tattered[r]clothes, kneeling down and peering into my face.[pcms]
 
 *7054|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 [ChrSetEx layer=1 chbase="sae_d_d_12"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2845|
 [fc]
 [vo_sa s="sae0726"]
-[ns]²”Œ[nse]
-u‚¨‚±‚µ‚Ä‚µ‚Ü‚Á‚ÄA‚²‚ß‚ñ‚È‚³‚¢ccv[pcms]
+[ns]Saeki[nse]
+I'm sorry for waking you up...[pcms]
 
 *7055|
 [fc]
-‰´‚ğ‹CŒ­‚¤‚æ‚¤‚È—‚Ì–Ú‚ğAŒ©‚Â‚ß•Ô‚·B‚»‚¤‚µ‚Ä‚µ‚Î[r]
-‚ç‚­‚ÌŠÔA‰´‚Í—‚ÆŒ©‚Â‚ß‡‚Á‚½B[pcms]
+I returned the gaze of the woman who looked at me with[r]concern.[l][er]
+And for a while, I locked eyes with her.[pcms]
 
 *7056|
 [fc]
-‚¾‚ê‚¾ccH@‚±‚Ì‚¨‚ñ‚ÈccB[r]
-‚«‚ê‚¢‚È‚©‚¨A‚µ‚Ä‚ñ‚È[ccB[r]
-‚Ù‚»‚­‚ÄA‚¢‚ë‚ª‚µ‚ë‚­‚ÄA‚©‚ç‚¾‚à‚«‚ê‚¢‚¾ccB[pcms]
+Who... is this woman? She has a beautiful face...[l][er]
+so delicate and fair, with a slender and graceful body...[pcms]
 
 *7057|
 [fc]
-ƒ{[ƒb‚ÆŒ©‚Æ‚ê‚Ä‚¢‚é‰´‚ÉA—‚Í”÷Î‚ñ‚¾B[pcms]
+The woman smiled at me as I stared absentmindedly.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_d_d_12"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2846|
 [fc]
 [vo_sa s="sae0727"]
-[ns]²”Œ[nse]
-u‚ ‚È‚½‚ğA‚³‚ª‚µ‚Ä‚¢‚½‚Ì‚Å‚·ccv[pcms]
+[ns]Saeki[nse]
+I was looking for you...[pcms]
 
 *7058|
 [fc]
-‚³‚ª‚µ‚Ä‚¢‚½ccH[pcms]
+Were you looking for me...?[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *7059|
 [fc]
-•sv‹c‚Év‚Á‚Ä‚¢‚é‚ÆA—‚Í‰´‚Ì¨Œ³‚ÉŒû‚ğ‹ß‚Ã‚¯A[r]
-š‘‚«‚©‚¯‚½B[pcms]
+As I was wondering about it, the woman approached my ear and[r]whispered.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2847|
 [fc]
 [vo_sa s="sae0728"]
-[ns]²”Œ[nse]
-u‚í‚½‚­‚µ‚ğcc‚¾‚¢‚Ä‚­‚¾‚³‚¢ccv[pcms]
+[ns]Saeki[nse]
+Please... take me...[pcms]
 
 *7060|
 [fc]
-‚¾‚¢‚Ä‚­‚êA‚¾‚Á‚ÄccH[pcms]
+Will you take me...?[pcms]
 
 *7061|
 [fc]
-‚¾‚ªA‚¨‚©‚µ‚¢‚Æv‚¤‚Ì‚Æ“¯‚ÉA‚±‚Ì—‚ÌŠè‚¢‚É‰‚¦[r]
-‚Ä‚â‚ç‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‚Æ‚àA‰´‚Í‚È‚º‚©v‚Á‚Ä‚¢‚½B[pcms]
+However, at the same time as I thought it was strange, I[r]somehow felt that I had to fulfill this woman's wish.[pcms]
 
 *7062|
 [fc]
-‚»‚ê‚É‚±‚Ì—‚ğŒ©‚½‚©‚çA–­‚É«—~‚ªø‚ç‚ê‚ÄAƒ`ƒ“[r]
-ƒ|‚ªáu‚¢‚Ä‚¢‚éB[pcms]
+Ever since I saw this woman, my sexual desire has been[r]strangely aroused, and my cock is throbbing.[pcms]
 
 *7063|
 [fc]
-©•ª‚Ìl‚¦‚Æ«—~‚É‘f’¼‚É]‚¨‚¤‚Æl‚¦A‚¸‚Á‚ÆŒ©‚Â‚ß[r]
-‚Ä‚¢‚é—‚ÉA‰´‚ÍÎ‚¢‚©‚¯‚½B[pcms]
+I thought about following my own thoughts and desires, so I[r]smiled at the woman I had been staring at for a while.[pcms]
 
 *7064|
 [fc]
-[ns]‰Á“¡[nse]
-u‚±‚¢‚æccv[pcms]
+[ns]Kato[nse]
+Come here...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_d_d_12"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2848|
 [fc]
 [vo_sa s="sae0729"]
-[ns]²”Œ[nse]
-u‚Í‚¢ccv[pcms]
+[ns]Saeki[nse]
+Yes...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -145,5 +138,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[07050]‚Ö
+;//[07050]ã¸
 [jump target=*07050_H_TOP storage="07050_H.ks"]

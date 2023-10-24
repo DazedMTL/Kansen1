@@ -1,20 +1,20 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02160w—é’x
-;//BG:‰®ãF–é
-;//“oêl•¨GålŒöE—D
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02160ã€éˆ´è™«ã€
+;//BG:å±‹ä¸Šï¼šå¤œ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02160_TOP
-;[debug_win]‚È‚¤@02160[debug_win_end]
+;[debug_win]ãªã†ã€€02160[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02160 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02160 = 1"]
 
-;*SceneSet|w—é’x
+;*SceneSet|ã€éˆ´è™«ã€
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 
 [fadeoutbgm time=500]
 
@@ -23,40 +23,35 @@
 ;[bg storage="bg22f"]
 ;[trans_c cross time=500]
 
-;//SE:’‚Ì‰¹@ƒ‹[ƒv
+;//SE:è™«ã®éŸ³ã€€ãƒ«ãƒ¼ãƒ—
 
 ;//[se0 storage="se018" loop=true]
 
 *2925|
 [fc]
-‰´‚Í©•ª‚Ì“ª‚ğARŠİ‚³‚ñ‚Ì“ª‚ÉŠñ‚è“Y‚í‚¹A‚»‚µ‚ÄA[r]
-”Ş—‚ÌŒ¨‚ğ•ø‚¢‚½B[pcms]
+I leaned my head against Yamagishi-san's head and then[r]embraced her shoulder.[pcms]
 
 *2926|
 [fc]
-[ns]‰Á“¡[nse]
-uccƒoƒNƒnƒc‚µ‚Ä€‚É‚»‚¤ccv[pcms]
+[ns]Kato[nse]
+... I feel like I'm going to explode and die...[pcms]
 
 *2927|
 [fc]
-v‚í‚¸Œû‚Éo‚µ‚Ä‚µ‚Ü‚¤’öA‰´‚ÌS‘Ÿ‚ÍŒƒ‚µ‚­‚–Â‚Á‚Ä[r]
-‚¢‚½B[pcms]
+My heart was pounding so loudly that I couldn't help but[r]blurt it out.[pcms]
 
 *2928|
 [fc]
-[ns]‰Á“¡[nse]
-uƒnƒ@`ƒbccv[pcms]
+[ns]Kato[nse]
+Haah~...[pcms]
 
 *2929|
 [fc]
-’·‚¢‚±‚ÆA“²‚ê‚é‚¾‚¯‚¾‚Á‚½q‚ª¡A‰´‚É‘Ì‚ğ—a‚¯‚ÄA[r]
-‰´‚¾‚¯‚É‚©‚í‚¢‚¢QŠç‚ğŒ©‚¹‚Ä‚¢‚éB[pcms]
+The child I've long admired, who I could only dream about,[r]is now entrusting their body to me and showing me their[r]adorable sleeping face, just for me.[pcms]
 
 *2930|
 [fc]
-S‘Ÿ‚Ì‰¹‚Å‹N‚±‚µ‚Ä‚µ‚Ü‚¤‚Ì‚Å‚Í‚È‚¢‚©A‚È‚Ç‚Æ‚¢‚ç‚È[r]
-‚¢S”z‚ğ‚µ‚È‚ª‚çA‚±‚êˆÈã‚È‚¢‚Æv‚¦‚é‚­‚ç‚¢‚Ì‚»‚Ì[r]
-K‚¹‚ğA‰´‚Í–Ú‚ğ•Â‚¶AŠš‚İ‚µ‚ß‚½B[pcms]
+I closed my eyes and savored the happiness that felt like it[r]couldn't get any better, all while worrying unnecessarily[r]that the sound of my pounding heart might wake her up.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -66,16 +61,16 @@
 
 ;[stop_se0]
 
-;SEƒtƒF[ƒhƒAƒEƒg ‚±‚êg—p‚µ‚½Œã‚Ìpcms‚ÌŒã‚ë‚Åstopse‚µ‚Ä‚­‚¾‚³‚¢Bƒ[ƒh‚·‚é‚Æ~‚ß‚½‚Ì‚É‚Ü‚½–Â‚Á‚Ä‚é‚©‚çB
+;SEãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ ã“ã‚Œä½¿ç”¨ã—ãŸå¾Œã®pcmsã®å¾Œã‚ã§stopseã—ã¦ãã ã•ã„ã€‚ãƒ­ãƒ¼ãƒ‰ã™ã‚‹ã¨æ­¢ã‚ãŸã®ã«ã¾ãŸé³´ã£ã¦ã‚‹ã‹ã‚‰ã€‚
 [fadeoutse buf=0 time=1000]
 
 [wait_c time=1500]
 
 ;//blackout
 
-;//SE:’‚Ì‰¹@’â~
+;//SE:è™«ã®éŸ³ã€€åœæ­¢
 
 
-;//[02161]‚Ö
+;//[02161]ã¸
 
 [jump target=*02161_TOP storage="02161.ks"]

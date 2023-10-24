@@ -1,55 +1,55 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN04036wålŒö—Sx
-;//BG:OŠK‹³ºF–é
-;//“oêl•¨GålŒöEƒŠƒTE—D
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04036ã€ä¸»äººå…¬ä¹±å¿ƒã€
+;//BG:ä¸‰éšæ•™å®¤ï¼šå¤œ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µãƒ»å„ª
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *04036_H_TOP
-;[debug_win]‚È‚¤@04036_H[debug_win_end]
+;[debug_win]ãªã†ã€€04036_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 ;[if exp="tf.scene_mode == 0"][jump target=*04036][endif]
 ;[winset]
 
 
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *04036
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04036 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04036 = 1"]
 
-;*SceneSet|wålŒö—Sx
+;*SceneSet|ã€ä¸»äººå…¬ä¹±å¿ƒã€
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 
 [fadeoutbgm time=500]
 
-;//BG:bg–³‚µ
+;//BG:bgç„¡ã—
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//SE:’‚Ì‰¹
+;//SE:è™«ã®éŸ³
 
 [se0 storage="se018"]
 
 *v1833|
 [fc]
 [vo_ya s="yama0730"]
-[ns]RŠİ[nse]
-u‚©‚ÁA‰Á“¡ŒNIHv[pcms]
+[ns]Yamagishi[nse]
+K-Kato-kun!?[pcms]
 
 ;//BG:bg011d
 
@@ -58,125 +58,119 @@
 
 *4377|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ñccv[pcms]
+[ns]Kato[nse]
+Hmm...[pcms]
 
 *4378|
 [fc]
-‘å‚«‚Èº‚É–Ú‚ğŠo‚Ü‚·‚ÆA‚©‚í‚¢‚¢—‚Ìq‚ª­‚µ—£‚ê‚½[r]
-‚Æ‚±‚ë‚É—§‚Á‚ÄA‰º”¼gŠÛo‚µ‚Å°‚ÉQ‚Ä‚¢‚é‰´‚ğŒ©‰º[r]
-‚ë‚µ‚Ä‚¢‚½B[pcms]
+When I woke up to a loud voice, I saw a cute girl standing a[r]little distance away, looking down at me lying on the floor[r]with my lower half exposed.[pcms]
 
 *4379|
 [fc]
-‚¾‚ê‚¾H@‚±‚Ì‚±ccB[r]
-‚Ç‚Á‚©‚Å‚ ‚Á‚½‚Á‚¯ccH[pcms]
+Who is this? This girl... Have I seen her somewhere[r]before...?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1834|
 [fc]
 [vo_ya s="yama0731"]
-[ns]RŠİ[nse]
-u‰½A‚µ‚Ä‚é‚ÌccHv[pcms]
+[ns]Yamagishi[nse]
+What are you doing...?[pcms]
 
 *4380|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ÍccHv[pcms]
+[ns]Kato[nse]
+Huh...?[pcms]
 
 *4381|
 [fc]
-ü‚è‚ğŒ©‰ñ‚·‚ÆccŒ©Šo‚¦‚Ì‚ ‚éAL‚¢•”‰®ccB[r]
-‚Ç‚±‚¾H@‚±‚±ccB[pcms]
+I looked around... and there was a familiar, spacious room.[l][er]
+Where am I? This place...[pcms]
 
 *4382|
 [fc]
-‰´‚Ì—×‚É‚ÍA‘å•¿‚È—‚ªQ‚Ä‚¢‚éccB[r]
-‚³‚Á‚«A‚±‚Ì—‚ÆƒZƒbƒNƒX‚µ‚Ä‚½‚ñ‚¾‚æ‚ÈccB[pcms]
+There is a large woman sleeping next to me...[l][er]
+Earlier, I had sex with this woman...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *4383|
 [fc]
 [vo_ya s="yama0732"]
-[ns]RŠİ[nse]
-uccIIv[pcms]
+[ns]Yamagishi[nse]
+...!![pcms]
 
 *4384|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *4385|
 [fc]
-‚±‚Ì‚±A‚¨‚ê‚Ì‚Ù‚¤‚ğ‚¶‚Á‚Æ‚İ‚Ä‚éB[r]
-‚¨‚ê‚ğ‚İ‚ÄA‚¨‚Ç‚ë‚¢‚Ä‚éB[pcms]
+This girl is staring at me intently.[l][er]
+She's looking at me and she seems surprised.[pcms]
 
 *4386|
 [fc]
-‚»‚¤‚©ccB[r]
-‚±‚Ì‚±A‚¨‚ê‚Æ‚¹‚Á‚­‚·‚µ‚½‚¢‚ñ‚¾‚ÈccB[pcms]
+I see... This girl wants to have sex with me...[pcms]
 
 [stop_se0]
 
-;//ôFBGM008ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 
 [bgm008]
 
 *4387|
 [fc]
-[ns]‰Á“¡[nse]
-u‚±‚¢‚æccv[pcms]
+[ns]Kato[nse]
+Come here...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1835|
 [fc]
 [vo_ya s="yama0733"]
-[ns]RŠİ[nse]
-u‚¦ccHv[pcms]
+[ns]Yamagishi[nse]
+Eh...?[pcms]
 
 *4388|
 [fc]
-‚³‚Á‚«‚â‚Á‚½‚¨‚ñ‚È‚ÍA‚µ‚å‚¶‚å‚¶‚á‚È‚©‚Á‚½B[r]
-‚±‚¢‚Â‚Í‚µ‚å‚¶‚å‚¾‚Æ‚¢‚¢‚ÈccB[r]
-‚µ‚å‚¶‚å‚¾‚æ‚ÈccB[pcms]
+I hope this girl is a virgin...[l][er]
+She must be a virgin, right...?[pcms]
 
 *4389|
 [fc]
-‰´‚Íƒ`ƒ“ƒ|‚ªŒÅ‚­’£‚è‚Â‚ß‚Ä‚­‚é‚Ì‚ğŠ´‚¶‚È‚ª‚çA–Ú‚Ì[r]
-‘O‚Ì—‚É”ò‚Ñ‚©‚©‚Á‚½B[pcms]
+I felt my penis getting harder and throbbing, and I jumped[r]onto the woman in front of me.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_e_13"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_e_14"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1836|
 [fc]
 [vo_ya s="yama0734"]
-[ns]RŠİ[nse]
-u‚«‚á‚ ‚Ÿ‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+Kyaaahh!![pcms]
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 
 [se0 storage="se021"]
 
@@ -185,7 +179,7 @@
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//[04037]‚Ö
+;//[04037]ã¸
 [jump target=*04037_H_TOP storage="04037_H.ks"]
 
 

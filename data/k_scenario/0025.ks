@@ -1,88 +1,82 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN0025wHŠír‚¢I—¹F‘I‘ğˆ”­¶x
-;//BG:Šw‰€“àŠwHF—[•û
-;//šSYSTEMFƒUƒbƒsƒ“ƒO‘I‘ğ‰æ–Êizap_001)
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0025ã€é£Ÿå™¨è’ã„çµ‚äº†ï¼šé¸æŠè‚¢ç™ºç”Ÿã€
+;//BG:å­¦åœ’å†…å­¦é£Ÿï¼šå¤•æ–¹
+;//â˜…SYSTEMï¼šã‚¶ãƒƒãƒ”ãƒ³ã‚°é¸æŠç”»é¢ï¼ˆzap_001)
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *0025_TOP
-;[debug_win]‚È‚¤@0025[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0025 = 1"]
+;[debug_win]ãªã†ã€€0025[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0025 = 1"]
 
-;*SceneSet|wHŠír‚¢I—¹x
+;*SceneSet|ã€é£Ÿå™¨è’ã„çµ‚äº†ã€
 
 ;//[0025]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//BG:bg014b
 
-;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
+;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
 [bg storage="bg14c"]
 [trans_c cross time=500]
 
 *601|
 [fc]
-—[H‚ÌŒã•Ğ•t‚¯‚ª‘S‚ÄI‚í‚Á‚Ä‚àAŠÓÜ‰ï‚ªn‚Ü‚éŒßŒã[r]
-”ª‚Ü‚Å‚ÍA‚Ü‚¾l\•ªˆÈã‚ ‚Á‚½B[pcms]
+Even after finishing all the cleanup after dinner, there was[r]still over forty minutes until the screening started at 8[r]o'clock in the evening.[pcms]
 
 *602|
 [fc]
-‚±‚êˆÈã‚·‚é‚±‚Æ‚ª‚È‚­Aè‚¿‚Ô‚³‚½‚É‚È‚Á‚Ä‚µ‚Ü‚Á[r]
-‚½‰´‚ÍA‚¾‚¾‚ÁL‚¢ŠwH‚Å“Æ‚èƒ|ƒcƒ“‚ÆA—]‚Á‚½ƒE[ƒ[r]
-ƒ“’ƒ‚ğƒ`ƒrƒ`ƒrˆù‚ñ‚Å‚¢‚½B[pcms]
+With nothing else to do, I became bored and lonely in the[r]spacious cafeteria, sipping on leftover oolong tea.[pcms]
 
 *603|
 [fc]
-RŠİ‚³‚ñ‚Æ²”Œ‚ÍƒgƒCƒŒ‚É‚Å‚às‚Á‚½‚Ì‚©A[r]
-‚¢‚Â‚ÌŠÔ‚É‚©“ñl‚Ìp‚Í‚È‚¢B[pcms]
+I wonder if Yamagishi-san and Saeki went to the restroom or[r]something, because before I knew it, their figures were[r]nowhere to be seen.[pcms]
 
 *604|
 [fc]
-—S“ñ‚ÆŒÜ\—’ƒTƒ“‚Ío‚Äs‚Á‚½‚Ü‚ÜA[r]
-‚Ü‚¾‹A‚Á‚Ä‚«‚Ä‚¢‚È‚¢B[r]
-^–ç‚à‚Ü‚¾AƒSƒ~Ì‚Ä‚És‚Á‚½‚Ü‚Ü‚¾B[pcms]
+Yuuji and Igarashi-san haven't come back since they left.[l][er]
+Shinya is still out, taking out the trash.[pcms]
 
 *605|
 [fc]
-‚ ‚¢‚Â‚çˆê‘ÌA‚Ç‚±‚É‰½‚ğ‚µ‚És‚Á‚Ä‚é‚ñ‚¾ccB[pcms]
+Where on earth did they go and what are they doing...?[pcms]
 
 *606|
 [fc]
-‚»‚¤‚¢‚¦‚ÎAV“¹æ¶‚Í‚Ç‚¤‚µ‚½‚ñ‚¾‚ë‚¤BŠÓÜ‰ï‚Ì€[r]
-”õ‚Æ‚¢‚Á‚½‚Á‚ÄAƒfƒbƒL‚âƒvƒƒWƒFƒNƒ^[‚Ìƒ`ƒFƒbƒN‚®[r]
-‚ç‚¢‚ÅA‚½‚¢‚µ‚½ŠÔ‚Í‚©‚©‚ç‚È‚¢‚Í‚¸‚¾B[pcms]
+Come to think of it, I wonder what Shindou-sensei is doing.[l][er]
+Even if it's preparation for the screening, it shouldn't[r]take much time, just checking the deck and projector.[pcms]
 
 *607|
 [fc]
-ˆê‰ñ‚®‚ç‚¢A‚±‚±‚ÖŠç‚ğo‚µ‚É—ˆ‚Ä‚à‚¢‚¢‚Ì‚ÉB[r]
-•Ê‚Ìd–‚Å‚à‚µ‚Ä‚é‚Ì‚©‚ÈccB[pcms]
+I wish they would come and show their faces here at least[r]once.[l][er]
+I wonder if they're doing some other work...[pcms]
 
-;//¦ƒUƒbƒsƒ“ƒO‘I‘ğ”­¶
-;//EƒŠƒT‹“_‚ğ‘I‘ğ;//[0100]‚Ö
-;//E‹“_Ø‚è‘Ö‚¦‚ğs‚í‚È‚¢;//[0026]‚Ö
+;//â€»ã‚¶ãƒƒãƒ”ãƒ³ã‚°é¸æŠç™ºç”Ÿ
+;//ãƒ»ãƒªã‚µè¦–ç‚¹ã‚’é¸æŠ;//[0100]ã¸
+;//ãƒ»è¦–ç‚¹åˆ‡ã‚Šæ›¿ãˆã‚’è¡Œã‚ãªã„;//[0026]ã¸
 
 ;//[SEL00_0025_mine]
 
-;BGM’â~
+;BGMåœæ­¢
 [fadeoutbgm time=500]
 
-;mm ƒUƒbƒsƒ“ƒO‘O‚É•’Ç‰Á
+;mm ã‚¶ãƒƒãƒ”ãƒ³ã‚°å‰ã«é»’è¿½åŠ 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
-*ZAP01|ƒUƒbƒsƒ“ƒO‘I‘ğˆ@V“¹
+*ZAP01|ã‚¶ãƒƒãƒ”ãƒ³ã‚°é¸æŠè‚¢ã€€æ–°é“
 
-;ƒoƒbƒNƒƒOƒLƒƒƒ‰w’è
-[eval exp="f.zap_sel_chara01 = '@V“¹'"]
-[eval exp="f.zap_sel_chara02 = '@ƒLƒƒƒ“ƒZƒ‹'"]
+;ãƒãƒƒã‚¯ãƒ­ã‚°ã‚­ãƒ£ãƒ©æŒ‡å®š
+[eval exp="f.zap_sel_chara01 = 'ã€€æ–°é“'"]
+[eval exp="f.zap_sel_chara02 = 'ã€€ã‚­ãƒ£ãƒ³ã‚»ãƒ«'"]
 
 [zap_set1]
 
 [eval exp="f.zap_bt01_x = 200"][eval exp="f.zap_bt01_y = 200"]
 [eval exp="f.zap_bt99_x = 320"][eval exp="f.zap_bt99_y = 540"]
 
-;ƒ{ƒ^ƒ“
+;ãƒœã‚¿ãƒ³
 [locate x="&f.zap_bt01_x" y="&f.zap_bt01_y"][button graphic="zap_risa_"   target=*SEL00_risa   recthit=true]
 [locate x="&f.zap_bt99_x" y="&f.zap_bt99_y"][button graphic="zap_cancel" target=*SEL00_cancel recthit=true]
 
@@ -92,7 +86,7 @@
 
 ;-------------------------------------------------
 *SEL00_risa
-[zap_hisout txt="ƒUƒbƒsƒ“ƒO"][zap_hisout txt="&f.zap_sel_chara01 "][zap_hisout txt="@‘I‘ğ"][hr][hr]
+[zap_hisout txt="ã‚¶ãƒƒãƒ”ãƒ³ã‚°"][zap_hisout txt="&f.zap_sel_chara01 "][zap_hisout txt="ã€€é¸æŠ"][hr][hr]
 [zap_clear]
 [image storage="zap_risa"   layer=1 left="&f.zap_bt01_x" top="&f.zap_bt01_y" page=fore visible=true opacity=255]
 [image storage="zap_cancel" layer=2 left="&f.zap_bt99_x" top="&f.zap_bt99_y" page=fore visible=true opacity=255 clipleft=0  cliptop=0 clipwidth=160 clipheight=40]
@@ -103,7 +97,7 @@
 
 ;-------------------------------------------------
 *SEL00_cancel
-[zap_hisout txt="ƒUƒbƒsƒ“ƒO"][zap_hisout txt="&f.zap_sel_chara02 "][zap_hisout txt="@‘I‘ğ"][hr][hr]
+[zap_hisout txt="ã‚¶ãƒƒãƒ”ãƒ³ã‚°"][zap_hisout txt="&f.zap_sel_chara02 "][zap_hisout txt="ã€€é¸æŠ"][hr][hr]
 [zap_clear]
 [image storage="zap_risa_" layer=1 left="&f.zap_bt01_x"  top="&f.zap_bt01_y" page=fore visible=true opacity=255 clipleft=0  cliptop=0 clipwidth=400 clipheight=120]
 [black_toplayer][trans_c random time=1000][hide_chara_int]

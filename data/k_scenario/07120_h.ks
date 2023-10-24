@@ -1,12 +1,12 @@
 
-;//¡ËƒuƒƒbƒN07120wŒÂºx
-;//BG:¸~Œû‘O˜L‰ºF–éGÁ“”
-;//BG;–³‚µiEVENT”wŒi‚ÅƒgƒCƒŒ‚Ì‚İj
-;//“oêl•¨F“µEŠ´õ“c’†E”¼’[Š´õƒ]ƒ“ƒr~‚R
-;//F“µ‹“_
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07120ã€å€‹å®¤ã€
+;//BG:æ˜‡é™å£å‰å»Šä¸‹ï¼šå¤œï¼›æ¶ˆç¯
+;//BG;ç„¡ã—ï¼ˆEVENTèƒŒæ™¯ã§ãƒˆã‚¤ãƒ¬ã®ã¿ï¼‰
+;//ç™»å ´äººç‰©ï¼šç³ãƒ»æ„ŸæŸ“ç”°ä¸­ãƒ»åŠç«¯æ„ŸæŸ“ã‚¾ãƒ³ãƒ“Ã—ï¼“
+;//ï¼šç³è¦–ç‚¹
 
 *07120_H_TOP
-;[debug_win]‚È‚¤@07120_H[debug_win_end]
+;[debug_win]ãªã†ã€€07120_H[debug_win_end]
 
 [eval exp="sf.SRP36 = 1"][if exp="tf.scene_mode == 0"][jump target=*07120_H][endif]
 ;;[winset]
@@ -14,15 +14,15 @@
 [jump target=*scene_start]
 
 *07120_H
-;*SceneSet|wŒÂºx
+;*SceneSet|ã€å€‹å®¤ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07120 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07120 = 1"]
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 
 ;//[bgm008]
 
-;//;//BG:bg–³‚µ
+;//;//BG:bgç„¡ã—
 
 
 
@@ -30,55 +30,50 @@
 
 *7163|
 [fc]
-‚±‚Ì’j’B‚ªA©•ª‚ğ‹­Š­‚·‚é‹C‚È‚Ì‚ÍŠÔˆá‚¢‚È‚¢B[pcms]
+These men definitely have the intention to rape me.[pcms]
 
 *7164|
 [fc]
-„‚Í–Ú‘O‚É”—‚é‹°•|‚ÉA•‚¯‚ğ‹‚ß‚éˆ×A“c’†‚Ìè‚ªŒû[r]
-‚©‚ç—£‚ê‚½uŠÔAº‚ğU‚èi‚Á‚Ä‹©‚ñ‚¾B[pcms]
+In the face of the approaching fear, I mustered my voice and[r]screamed for help as soon as Tanaka's hand left my mouth.[pcms]
 
 *v2896|
 [fc]
 [vo_sa s="sae0777"]
-[ns]²”Œ[nse]
-u’N‚©‚ ‚ ‚Ÿ‚Ÿ‚ÁIII@•‚¯‚ÄA‰Á“¡‚³‚Ÿ‚ñIIIv[pcms]
+[ns]Saeki[nse]
+Someone, helppp!!! Kato-san, help meeee!!![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std419|
 [fc]
-[ns]’jq¶“k‚x[nse]
-u‚®‚Ó‚ÓA‚Ócc‚¢‚¢‚±A‚¦A‚¾‚Ÿcc‚±‚¤A‚Ó‚ñA‚µ[r]
-‚Ä‚«A‚½A‚º‚¥ccv[pcms]
+[ns]Male Student Y[nse]
+Hehehe... good girl, huh... there...[l][er]
+huff... I've come to do this...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std420|
 [fc]
-[ns]’jq¶“k‚v[nse]
-u‚Í‚âA‚­A‚â‚ç‚¹A‚ëA‚æ‚§cc‚½A‚Ü‚Á‚¿‚á‚Á‚ÄA[r]
-‚­‚é‚µA‚¢‚ñ‚¾A‚©‚çA‚³‚Ÿccv[pcms]
+[ns]Male Student W[nse]
+Hurry up and let me do it... I can't take it anymore, so...[pcms]
 
 *v2897|
 [fc]
 [vo_sa s="sae0778"]
-[ns]²”Œ[nse]
-u‚¢‚â‚ ‚ ‚Ÿ‚Ÿ‚Ÿ‚ÁIIII@‰Á“¡‚³‚Ÿ‚ñƒbIIIIv[pcms]
+[ns]Saeki[nse]
+Noooo!!! Kato-san!!!![pcms]
 
 *7165|
 [fc]
-‚Å‚à„‚Ì‹©‚Ñº‚ÍA‚ ‚Ìl‚É“Í‚­‚±‚Æ‚ÍŒˆ‚µ‚Ä‚È‚­A’j[r]
-’B‚Ì‹»•±‚ğø‚é‚¾‚¯‚¾‚Á‚½B[pcms]
+But my screams never reached that person, and only served to[r]fuel the excitement of the men.[pcms]
 
 *v2898|
 [fc]
 [vo_sa s="sae0779"]
-[ns]²”Œ[nse]
-u‚¢‚â‚Ÿ‚ÁIIIIv[pcms]
+[ns]Saeki[nse]
+Noooo!!!![pcms]
 
 *7166|
 [fc]
-Œã‚ë‚©‚ç“c’†‚É•ø‚¦ã‚°‚ç‚êA„‚Íq‹Ÿ‚É‚¨‚µ‚Á‚±‚ğ‚³[r]
-‚¹‚é‚Ì‚æ‚¤‚ÈA‹üJ“I‚È‘Ì¨‚ğ‹­‚¢‚ç‚ê‚é‚±‚Æ‚Æ‚È‚Á[r]
-‚½B[pcms]
+I was lifted up by Tanaka from behind, and I was forced into[r]a humiliating position, similar to when I make a child pee.[pcms]
 
 ;	/*
 ;	[ChrSetEx layer=1 chbase="tanaka_b_a_10"]
@@ -86,19 +81,22 @@
 ;	[ChrSetParts layer=1 chface="tanaka_b_a_11"]
 ;	[trans_c cross time=150]
 ;	*/
-;—§‚¿
+;ç«‹ã¡
 
 *std421|
 [fc]
-[ns]“c’†[nse]
-u‚¹‚Á‚©A‚­A‚×‚ñA‚¶‚å‚ÉA‚«A‚½‚ñA‚¾A‚©‚çcc[r]
-‚µ‚å‚ñA‚×‚ñ‚·‚éA‚Æ‚±A‚İA‚½‚¢A‚È‚Ÿccv[pcms]
+[ns]Tanaka[nse]
+S-sekka, ku, ben, joni, ki, tan, da, kara...[l][er]
+shon, ben suru, toko, mi, tai naa...[l][er]
+Tanaka: I-I want to see the place where you pee...[l][er]
+because I'm curious...[pcms]
+[l][er]
 
 *v2899|
 [fc]
 [vo_sa s="sae0780"]
-[ns]²”Œ[nse]
-u‚¢‚â‚ ‚Ÿ‚ÁII@—£‚µ‚Ä‚¥‚ÁIIIIv[pcms]
+[ns]Saeki[nse]
+Nooo!! Let go!!![pcms]
 
 
 ;;;[sysbt_meswin clear]
@@ -114,141 +112,127 @@
 
 *7169|
 [fc]
-“c’†‚É•ø‚¦ã‚°‚ç‚ê‚½‚Ü‚ÜA„‚ÍƒgƒCƒŒ‚ÌŒÂº‚É˜A‚ê[r]
-‚Ü‚êA•ÖŠí‚É‘Î–Ê‚³‚¹‚ç‚ê‚½B[pcms]
+I was lifted up by Tanaka and taken into a restroom stall,[r]where I was made to face the toilet bowl.[pcms]
 
 *7170|
 [fc]
-„‚Æ•ÖŠí‚ÌŠÔ‚ÉŠç‚ğo‚µ‚ÄA•Ê‚Ì’j‚ªŒÒŠÔ‚ğ‚Ü‚³‚®‚èn[r]
-‚ß‚éB[pcms]
+A different man appeared between me and the toilet bowl, and[r]he began groping his crotch.[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
 
 [se0 storage="se059" loop=true]
 
 *v2900|
 [fc]
 [vo_sa s="sae0781"]
-[ns]²”Œ[nse]
-u‚Ğ‚¡‚ÁII@‚¢‚â‚ ‚Ÿ‚ÁIIIIv[pcms]
+[ns]Saeki[nse]
+Hii!! Nooo!![pcms]
 
 *7171|
 [fc]
-[ns]’jq¶“k‚v[nse]
-u‚¤A‚Ù‚§``cc‚±‚êA‚ÍA‚¢‚¢‚ÜA‚ñ‚±A‚¾‚È‚Ÿ`[r]
-cc‚ÕA‚É‚ÕA‚ÉA‚µ‚Ä‚éA‚¼‚§`ccv[pcms]
+[ns]Male Student W[nse]
+U, hoo~... This, is a good pussy...[l][er]
+Pu, nipu, ni, it's throbbing...[pcms]
 
 *v2901|
 [fc]
 [vo_sa s="sae0782"]
-[ns]²”Œ[nse]
-u‚¨Šè‚¢II@‚à‚¤‚â‚ß‚Ä‚¥‚ÁIIIIv[pcms]
+[ns]Saeki[nse]
+Please!! Stop it already!![pcms]
 
 *7172|
 [fc]
-Œ©‚Ä‚¢‚é‚¾‚¯‚Å‚Í•¨‘«‚è‚È‚­‚È‚Á‚½‚Ì‚©A‚Ü‚½•Ê‚Ì’j“ñ[r]
-l‚ªA„‚Ì—¼˜e‚É—§‚Á‚ÄƒyƒjƒX‚ğ˜I‚í‚É‚µA©‚ç˜M‚Ñ‚¾[r]
-‚µ‚½B[pcms]
+It seems that just watching wasn't enough for them, as two[r]other men stood on either side of me, exposing their penises[r]and began to play with themselves.[pcms]
 
 *v2902|
 [fc]
 [vo_sa s="sae0783"]
-[ns]²”Œ[nse]
-u‚¢A‚âcc‚¢‚â‚Ÿcc‚ÁIIIIv[pcms]
+[ns]Saeki[nse]
+No... nooo...!![pcms]
 
 *7173|
 [fc]
-[ns]’jq¶“k‚y[nse]
-u‚Í‚Ÿ``cc‚Í‚âA‚­A‚µ‚å‚ñ‚×‚ñA‚à‚çA‚·A‚Æ‚±[r]
-cc‚İ‚¹A‚ÄA‚­‚ê‚æA‚§ccv[pcms]
+[ns]Male Student Z[nse]
+Haa~... Haya, ku, shonben, mora, su, toko...[l][er]
+mise, te, kure yo, o...[pcms]
 
 *7174|
 [fc]
-[ns]’jq¶“k‚x[nse]
-u‚¿‚áA‚ñ‚ÆA‚à‚ç‚µA‚½‚çcc‚²‚ÙA‚¤‚Ñ‚Écc‚¨A[r]
-‚Ü‚ñA‚±‚ÉA‚Ô‚Á‚©A‚¯‚ÄA‚âA‚é‚©‚çA‚È`ccv[pcms]
+[ns]Male Student Y[nse]
+If you give it to me properly...[l][er]
+I'll, cough, spray it all over your pussy, you know~...[pcms]
 
 *v2903|
 [fc]
 [vo_sa s="sae0784"]
-[ns]²”Œ[nse]
-u‚Ğ‚ÁccIIv[pcms]
+[ns]Saeki[nse]
+Hii...!![pcms]
 
 *7175|
 [fc]
-“Ë‘RA„‚Í‚¨K‚É‚¨‚¼‚Ü‚µ‚¢Š´G‚ğŠo‚¦‚½B“c’†‚Ìƒyƒj[r]
-ƒX‚ª–u‹N‚µ‚ÄA„‚ÌƒAƒkƒX‚Ìü•Ó‚É‰Ÿ‚µ“–‚Ä‚ç‚ê‚½‚¹‚¢[r]
-‚¾‚Á‚½B[pcms]
+Suddenly, I felt a disgusting sensation on my butt.[l][er]
+It was because Tanaka's penis had become erect and was[r]pressed against the area around my anus.[pcms]
+[l][er]
 
 *7176|
 [fc]
-[ns]“c’†[nse]
-u‚à‚¦A‚éA‚È‚ŸA‚±‚ê‚¥cc‚Í‚âA‚­A‚à‚çA‚·‚ÆA[r]
-‚±A‚İA‚¹‚ë‚æccv[pcms]
+[ns]Tanaka[nse]
+Mo-e-ru-naa, ko-re-e... ha-ya-ku, mo-ra-su-to, ko-mi-se-ro-[r]yo...[pcms]
 
 *v2904|
 [fc]
 [vo_sa s="sae0785"]
-[ns]²”Œ[nse]
-u‚­A‚£cc‚ÁIIIIv[pcms]
+[ns]Saeki[nse]
+Ku... ugh......!!![pcms]
 
 *7177|
 [fc]
-‹­‚¢‚ç‚ê‚Ä‚¢‚éŠiD‚ÉA‚©‚Â‚Ä‚È‚¢’ö‚Ì‹üJ‚ğŠo‚¦A’j[r]
-’B‚Ì‹ü‚ª‘S‚Ä©•ª‚ÌŒÒŠÔ‚É’‚ª‚ê‚Ä‚¢‚é–‚ÉA€‚Ê’ö[r]
-‚Ì’p‚¸‚©‚µ‚³‚ğA„‚ÍŠ´‚¶‚Ä‚¢‚½B[pcms]
+I felt an unprecedented level of humiliation in the forced[r]position I was in, and the fact that all the men's gazes[r]were focused on my crotch filled me with an overwhelming[r]sense of shame.[pcms]
 
 *7178|
 [fc]
-‰Á“¡‚³‚ñ‚ÉA•‚¯‚É—ˆ‚Ä—~‚µ‚¢B‚Å‚àA‚±‚ñ‚È‚Æ‚±‚ë‚ğ[r]
-Œ©‚ç‚ê‚½‚­‚È‚¢‚©‚çA”Ş‚É‚Í‚±‚±‚Ö—ˆ‚Ä—~‚µ‚­‚È‚¢B[pcms]
+I want Kato-san to come and help me.[l][er]
+But I don't want him to see me in this situation, so I don't[r]want him to come here.[pcms]
 
 *7179|
 [fc]
-‘Š”½‚·‚él‚¦‚ª“ª‚Ì’†‚ğ‰ñ‚è‘±‚¯‚é’†A‚³‚Á‚«—p‚ğ‘«‚µ[r]
-‚½‚Î‚©‚è‚È‚Ì‚É‚àŠÖ‚í‚ç‚¸A„‚Í‚Ü‚½A”AˆÓ‚ğŠ´‚¶n‚ß[r]
-‚Ä‚¢‚½B[pcms]
+While conflicting thoughts continued to swirl in my head,[r]despite having just relieved myself earlier, I was starting[r]to feel the urge to urinate again.[pcms]
+[l][er]
 
 *7180|
 [fc]
-ŒÒŠÔ‚ğ‚Ü‚³‚®‚ç‚ê‚Ä‚¢‚é–‚ÆAü‚è‚ğˆÙí‚È’j’B‚ÉˆÍ[r]
-‚Ü‚êA‰½‚ğ‚³‚ê‚é‚©‚í‚©‚ç‚È‚¢‹°•|‚ªA”AˆÓ‚ğø‚Á‚Ä[r]
-‚¢‚½B[pcms]
+The fear of being surrounded by abnormal men and not knowing[r]what they would do, along with the fact that my crotch was[r]being groped, was fueling my urge to urinate.[pcms]
 
 *7181|
 [fc]
-‰ä–‚·‚é‚Ì‚æccII[r]
-‚±‚±‚Å˜R‚ç‚µ‚Ä‚µ‚Ü‚Á‚½‚çA‚±‚Ìl’B‚Ìv‚¤šâ‚É‚µ‚©‚È[r]
-‚ç‚È‚¢‚íccII[pcms]
+I have to hold it in...!! If I were to wet myself here, it[r]would only play into their hands...!![pcms]
 
 *7182|
 [fc]
-[ns]’jq¶“k‚x[nse]
-u‚¨‚¢`cc‚ÜA‚¾‚©A‚æ`cc‚³‚«A‚ÉA‚¢‚Á‚¿‚Ü‚Á[r]
-‚½A‚çcc‚Â‚Ü‚çA‚Ë‚¥A‚¾A‚ë‚¤‚ªA‚Ÿccv[pcms]
+[ns]Male Student Y[nse]
+Hey~... If you... cough, go ahead and...[l][er]
+finish first... it'll be boring, you know~...[pcms]
 
 *7183|
 [fc]
-[ns]’jq¶“k‚y[nse]
-u‚ÍA‚â‚­‚£`cc‚Í‚âA‚­A‚Ü‚ñA‚±A‚ÉA‚©‚¯‚³A[r]
-‚¹A‚ë‚æ‚§`ccv[pcms]
+[ns]Male Student Z[nse]
+Haa... yaakuu~... haya, ku, man, ko, ni, kake sa, se, ro[r]yoo~...[pcms]
 
 *v2905|
 [fc]
 [vo_sa s="sae0786"]
-[ns]²”Œ[nse]
-u’N‚©‚ ‚ ‚ ‚Ÿ‚Ÿ‚Ÿ‚ÁIIII@•‚¯‚Ä‚¥‚ÁIIIIv[pcms]
+[ns]Saeki[nse]
+Someone, heeeelp!!!!!! Save meeee!!!!!![pcms]
 
 *7184|
 [fc]
-[ns]’jq¶“k‚v[nse]
-u‚»‚ñA‚È‚ÉA‚¿A‚©‚çA‚¢‚ê‚½A‚çcc‚àA‚êA‚¿‚á[r]
-‚¤‚¼‚§`cc‚®‚Ó‚ÓA‚Ó‚Ó‚Óccv[pcms]
+[ns]Male Student W[nse]
+If you... put it in like that...[l][er]
+I'll... leak out~... hehehe, hahaha...[pcms]
 
 *7185|
 [fc]
-‰º”Ú‚½Î‚¢‚ğ˜R‚ç‚·’j‚ÉAƒXƒgƒbƒLƒ“ƒO‚Ìã‚©‚çƒNƒŠƒg[r]
-ƒŠƒX‚ğhŒƒ‚³‚êA„‚ÍˆêuA‘Ì‚Ì—Í‚ğ”²‚¢‚Ä‚µ‚Ü‚Á‚½B[pcms]
+The moment a man with a vulgar laugh stimulated my clitoris[r]over my stockings, I momentarily lost all strength in my[r]body.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -262,85 +246,77 @@
 *v2906|
 [fc]
 [vo_sa s="sae0787"]
-[ns]²”Œ[nse]
-u‚ ‚Ÿ‚ÁIIIIv[pcms]
+[ns]Saeki[nse]
+Aahhh!!!!!![pcms]
 
 *7186|
 [fc]
-‚»‚Ì‚¹‚¢‚ÅA—}‚¦‚Ä‚¢‚½‚¨‚µ‚Á‚±‚ª‚Ù‚ñ‚Ì­‚µA˜R‚êo[r]
-‚Ä‚µ‚Ü‚Á‚½B‚Å‚à‚»‚ê‚ÍA‰º’…‚âƒXƒgƒbƒLƒ“ƒO‚Éõ‚İ‚ğ[r]
-‚Â‚­‚é‚É‚ÍA[•ª‰ß‚¬‚é—Ê‚¾‚Á‚½B[pcms]
+Because of that, I couldn't hold back and a little bit of[r]urine leaked out.[l][er]
+But it was more than enough to stain my underwear and[r]stockings.[pcms]
 
 *7187|
 [fc]
-‚»‚µ‚ÄAü‚è‚Ì’j’B‚Ì‹»•±‚ğø‚é‚Ì‚É‚àA[•ª‰ß‚¬‚é—Ê[r]
-‚¾‚Á‚½B[pcms]
+And it was more than enough to fuel the excitement of the[r]men around me.[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
 
 [stop_se0]
 
 *7188|
 [fc]
-[ns]’jq¶“k‚x[nse]
-u‚Ğ‚á‚ÍA‚Í‚ÍA‚Í‚Ácc‚±‚¢A‚ÂA‚¿‚å‚Á‚ÆA‚àA‚ç[r]
-‚µA‚â‚ª‚Á‚½ccv[pcms]
+[ns]Male Student Y[nse]
+Hyaha, haha, ha... Koi, tsu, chotto, mo, rashi, yagatta...[pcms]
 
 *7189|
 [fc]
-[ns]’jq¶“k‚y[nse]
-u‚İ‚ç‚êA‚ÄA‚±A‚¤‚Ó‚ñA‚µA‚Äcc‚à‚çA‚µA‚½‚ñ[r]
-‚¶‚áA‚Ë‚¥A‚Ì‚©‚ŸccH@‚Ó‚Ö‚ÖA‚Ö‚Öcc‚·‚¯A‚×[r]
-‚ÈA‚Ü‚ñ‚±‚¾A‚È‚Ÿccv[pcms]
+[ns]Male Student Z[nse]
+Did you... see... it...? Did you...[l][er]
+see... me...? Hehehe, hehe... You got a good look at my[r]pussy, huh...?[pcms]
 
 *7190|
 [fc]
-[ns]’jq¶“k‚v[nse]
-u‚¿‚å‚ë‚¾A‚µA‚¶‚á‚È‚­A‚Äcc‚à‚Á‚ÆA‚¾‚µA‚ÄA[r]
-‚­‚êA‚æ‚§cc‚©A‚¨‚ÉA‚¨‚ÜA‚¦A‚ÌA‚µ‚å‚ñ‚×‚ñA[r]
-‚©A‚¯‚ÄA‚­‚ê‚¥`ccv[pcms]
+[ns]Male Student W[nse]
+Easy, not just that... give me more...[l][er]
+come on, pee for me... let it flow~...[pcms]
 
 *7191|
 [fc]
-‘Ê–Úcc‚±‚êˆÈã‚ÍccB[r]
-©•ª‚ğA¸‚Á‚Ä‚µ‚Ü‚¤ccII[pcms]
+No... I can't go any further...[l][er]
+I'll lose myself...!![pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
 
 [se0 storage="se059" loop=true]
 
 *v2907|
 [fc]
 [vo_sa s="sae0788"]
-[ns]²”Œ[nse]
-u‚Ÿcc‚­cc‚¢‚âA‚Ÿcc‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Ah... ku... no, ah...!![pcms]
 
 *7192|
 [fc]
-‚µ‚©‚µAŒÒŠÔ‚ğ‚Ü‚³‚®‚Á‚Ä‚¢‚é’j‚Ìw‚ªAŒÒŠÔˆÈŠO‚Ìê[r]
-Š‚ÖL‚Ñ‚Ä‚«‚½A„‚Ì©§‚ÍÆ‚­‚à‰ğ‚¯‚Ä‚µ‚Ü‚Á‚½B[pcms]
+However, when the man's fingers, which were exploring my[r]crotch, extended to a place other than my crotch, my self-[r]control crumbled.[pcms]
 
 *7193|
 [fc]
-[ns]’jq¶“k‚v[nse]
-u‚¯A‚Â‚ ‚ÈA‚ÍA‚½‚¦‚çA‚ê‚éA‚©‚È‚Ÿ`ccH@‚®[r]
-‚ĞA‚Ğ‚Ğ‚ĞA‚Ğ‚Ğccv[pcms]
+[ns]Male Student W[nse]
+C-Could it be... that I'm being teased...?[l][er]
+Guhi, hehehe, hehe...[pcms]
 
 *v2908|
 [fc]
 [vo_sa s="sae0789"]
-[ns]²”Œ[nse]
-u‚Ğ‚¡‚ÁII@‚¢‚â‚ ‚ ‚ ‚ ‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚ÁIIIIIv[pcms]
+[ns]Saeki[nse]
+Hii!! Noooo!!! Ahhhhhhhh!!!![pcms]
 
 *7194|
 [fc]
-‰º‚©‚çŠç‚ğo‚µ‚Ä‚¢‚é’j‚ÉAƒAƒkƒX‚Éw‚ğ‘}‚µ‚Ü‚êA[r]
-˜M‚ç‚ê‚½uŠÔA„‚Í‰º”¼g‚Ì—Í‚ğŠÉ‚ß‚Ä‚µ‚Ü‚Á‚ÄA•K€[r]
-‚Å—}‚¦‚Ä‚¢‚½‚à‚Ì‚ğA‘S‚Ä‰ğ‚«•ú‚Á‚Ä‚µ‚Ü‚Á‚½B[pcms]
+When the man, who had his face sticking out from below,[r]inserted his finger into my anus and played with it, in that[r]moment, I unintentionally relaxed the muscles in my lower[r]body and released everything that I had been desperately[r]holding back.[pcms]
 
 [stop_se0]
 
-;//SE:•ú”A
+;//SE:æ”¾å°¿
 
 [se0 storage="se064"]
 
@@ -356,25 +332,23 @@
 *v2909|
 [fc]
 [vo_sa s="sae0790"]
-[ns]²”Œ[nse]
-uŒ©‚È‚¢‚Å‚¦‚¦‚¦‚¦‚¥‚¥‚¥‚¥‚ÁIIIIIv[pcms]
+[ns]Saeki[nse]
+Don't lookkkkkk!!!!!![pcms]
 
 *7195|
 [fc]
-[ns]’jq¶“k‚x[nse]
-u‚ ```cc‚¨A‚ê‚àA‚à‚ê‚¿‚áA‚¤‚æ```cc‚Í[r]
-‚Ğ‚áA‚Ğ‚á‚Ğ‚áccv[pcms]
+[ns]Male Student Y[nse]
+Ahhhh... I... I can't hold it anymore...[l][er]
+ughhhh... hahaha...[pcms]
 
 *7196|
 [fc]
-[ns]’jq¶“k‚y[nse]
-u‚¨‚êA‚àA‚à‚êA‚é‚£```cc‚¤‚Ô‚ÔA‚Ô‚Ôccv[pcms]
+[ns]Male Student Z[nse]
+I-I'm, g-gonna... pee~... uhehe, hehe...[pcms]
 
 *7197|
 [fc]
-©•ª‚ÌƒyƒjƒX‚ğ˜M‚ñ‚Å‚¢‚½“ñl‚Ì’j‚ªA„‚ª‚¨‚µ‚Á‚±‚ğ[r]
-˜R‚ç‚µ‚½‚Ì‚ğŒ©‚Ä’B‚µ‚½‚æ‚¤‚ÅAˆêÄ‚ÉƒXƒyƒ‹ƒ}‚ğ•¬‚«[r]
-o‚³‚¹‚½B[pcms]
+The two men who were playing with their own penises seemed[r]to reach their climax when they saw me pee, and they[r]ejaculated simultaneously.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -399,36 +373,34 @@
 
 *7198|
 [fc]
-•ú‚½‚ê‚½ƒXƒyƒ‹ƒ}‚ÍA„‚ÌŒÒŠÔ‚ÌüˆÍ‚É”ò‚ÑU‚èA‘Ì‚ğ[r]
-“`‚Á‚Ä°‚Ö—‚¿‚Ä‚¢‚­B[pcms]
+The released sperm scattered around my crotch, traveled down[r]my body, and fell onto the floor.[pcms]
 
 *7199|
 [fc]
-ƒXƒyƒ‹ƒ}‚Ì‚Â”M‚ªA‰º’…‰z‚µ‚É“`‚í‚Á‚Ä‚­‚éB‚»‚ÌŠ´[r]
-G‚ªA—á‚¦‚æ‚¤‚à‚È‚¢‚®‚ç‚¢‚¨‚¼‚Ü‚µ‚©‚Á‚½B[pcms]
+The heat emanating from the sperm transmitted through my[r]underwear.[l][er]
+The sensation was indescribably disgusting.[pcms]
 
 *v2910|
 [fc]
 [vo_sa s="sae0791"]
-[ns]²”Œ[nse]
-u‚¢‚â‚Ÿccv[pcms]
+[ns]Saeki[nse]
+No...[pcms]
 
 *7200|
 [fc]
-â‘Î‚É‚â‚é‚Ü‚¢‚Æ—}‚¦‚Ä‚¢‚½–‚ğ‚â‚Á‚Ä‚µ‚Ü‚¢A„‚Í‹Ù[r]
-’£‚Ì…‚ªØ‚ê‚Ä‚µ‚Ü‚Á‚ÄA‘Sg‚©‚ç—Í‚ª”²‚¯‚Ä‚¢‚Á‚½B[pcms]
+I ended up doing something that I had been desperately[r]trying to hold back, and as a result, the tension in my body[r]snapped and all my strength drained away.[pcms]
 
 *v2911|
 [fc]
 [vo_sa s="sae0792"]
-[ns]²”Œ[nse]
-u‚¤‚£ccv[pcms]
+[ns]Saeki[nse]
+Ugh...[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 
 [bgm008]
 
@@ -443,27 +415,28 @@
 
 *7201|
 [fc]
-[ns]“c’†[nse]
-u‚âA‚·‚ñ‚Å‚ñA‚¶‚áA‚Ë[‚æcc‚¨A‚êA‚Ü‚¾A‚â‚Á[r]
-‚Ä‚Ë[‚ñA‚¾A‚¼ccv[pcms]
+[ns]Tanaka[nse]
+Y-You're wrong, I haven't done it yet...[l][er]
+I-I still haven't done it, okay...[pcms]
 
 *7202|
 [fc]
-[ns]’jq¶“k‚v[nse]
-u‚¨‚êA‚à‚§cc‚Ü‚ñA‚±A‚¢‚¶‚Á‚½A‚¾A‚¯‚¾A‚µ‚¡[r]
-cc‚Ô‚Á‚©A‚¯A‚Ä‚¥‚æ`v[pcms]
+[ns]Male Student W[nse]
+I... I've already... touched my...[l][er]
+pu... ssy... just a bit... it's about to...[l][er]
+burst...[pcms]
 
 *7203|
 [fc]
-[ns]’jq¶“k‚y[nse]
-u‚à‚Á‚ÆA‚¾‚³A‚¹A‚Ä‚­A‚ê‚æ‚§`cc‚±A‚ê‚¾A‚¯[r]
-‚¶‚áA‚½‚èA‚Ë‚¥ccv[pcms]
+[ns]Male Student Z[nse]
+More... let it out... please...[l][er]
+this alone isn't enough...[pcms]
 
 *7204|
 [fc]
-[ns]’jq¶“k‚x[nse]
-u‚ ``cc‚¨‚Ü‚ñA‚±‚ÉA‚ÈA‚©‚¾A‚µA‚µ‚Ä‚¥``[r]
-cc‚ ‚ÈA‚é‚ÅA‚àA‚¢‚¢A‚º‚¥ccv[pcms]
+[ns]Male Student Y[nse]
+Ahhh... I want to... touch your pussy...[l][er]
+It's fine even if you resist...[pcms]
 
-;//[07130]‚Ö
+;//[07130]ã¸
 [jump target=*07130_H_TOP storage="07130_H.ks"]

@@ -1,39 +1,39 @@
 
-;//¡ËƒuƒƒbƒN07110wN—ªx
-;//BG:–³‚µ
-;//BG:¸~Œû‘O˜L‰ºF–éGÁ“”
-;//“oêl•¨F“µEŠ´õ“c’†E”¼’[Š´õƒ]ƒ“ƒr~‚R
-;//F“µ‹“_
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07110ã€ä¾µç•¥ã€
+;//BG:ç„¡ã—
+;//BG:æ˜‡é™å£å‰å»Šä¸‹ï¼šå¤œï¼›æ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼šç³ãƒ»æ„ŸæŸ“ç”°ä¸­ãƒ»åŠç«¯æ„ŸæŸ“ã‚¾ãƒ³ãƒ“Ã—ï¼“
+;//ï¼šç³è¦–ç‚¹
 
 *07110_H_TOP
-;[debug_win]‚È‚¤@07110_H[debug_win_end]
+;[debug_win]ãªã†ã€€07110_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 ;[if exp="tf.scene_mode == 0"][jump target=*07110][endif]
 ;[winset]
 
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *07110
 
-;*SceneSet|wN—ªx
+;*SceneSet|ã€ä¾µç•¥ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07110 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07110 = 1"]
 
-;//flag:“µƒ‹[ƒgƒtƒ[@zap‚S@•\¦
-;//ôFBGM007
+;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€zapï¼”ã€€è¡¨ç¤º
+;//â™ªï¼šBGM007
 
 [bgm007]
 
-;//BG:bg–³‚µ
-;//SE:˜L‰º‚ğ‘–‚é
+;//BG:bgç„¡ã—
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 [se0 storage="se005"]
 
 
@@ -42,28 +42,25 @@
 *v2884|
 [fc]
 [vo_sa s="sae0765"]
-[ns]²”Œ[nse]
-u‚©A‰Á“¡‚³‚ñIH@‘Ò‚Á‚Ä‚­‚¾‚³‚¢Iv[pcms]
+[ns]Saeki[nse]
+K-Kato-san!? Please wait![pcms]
 
 *7134|
 [fc]
-„‚ÌŒ¾—t‚ğÅŒã‚Ü‚Å•·‚©‚¸A‰Á“¡‚³‚ñ‚ÍŒÜ\—’æ”y‚Ì‚à[r]
-‚Æ‚Ös‚Á‚Ä‚µ‚Ü‚Á‚½B[pcms]
+Kato-san didn't listen to my words until the end and went to[r]Igarashi-senpai's place.[pcms]
 
 *7135|
 [fc]
-ˆêl’u‚«‹‚è‚É‚³‚ê‚½‚±‚Æ‚ÅA‚»‚ê‚Ü‚Å‚ÍŠ´‚¶‚È‚©‚Á‚½[r]
-•s‹C–¡‚È’ö‚ÌÃ‚¯‚³‚É‹C‚Ã‚«A‚»‚ê‚Æ“¯‚É¶‚Ü‚ê‚½‹°[r]
-•|‚ªAŸ‘æ‚É‘å‚«‚­‚È‚Á‚Ä‚¢‚­B[pcms]
+I realized the eerie silence that I had not felt before,[r]being left alone, and at the same time, the fear that was[r]born from it gradually grew larger.[pcms]
 
 *7136|
 [fc]
-“Æ‚è‚Å–ß‚é‚Ì‚à•|‚¢‚¯‚ê‚ÇccB‚¾‚©‚ç‚Æ‚¢‚Á‚ÄA‚±‚±[r]
-‚É‚¸‚Á‚ÆâÄ‚à‚Á‚Ä‚¢‚é‚±‚Æ‚Í‚Å‚«‚È‚¢ccB[pcms]
+It's scary to go back alone...[l][er]
+But even so, I can't stay holed up here forever...[pcms]
 
 *7137|
 [fc]
-—p‘«‚µ‚ğÏ‚Ü‚¹‚½„‚ÍAˆÓ‚ğŒˆ‚µ‚ÄƒgƒCƒŒ‚ğŒã‚É‚µ‚½B[pcms]
+I finished using the restroom and made up my mind to leave.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -78,155 +75,138 @@
 
 *7138|
 [fc]
-—ˆ‚½‚Æ“¯—lA˜L‰º‚Í“”‚è‚ª“_‚³‚ê‚Ä‚¨‚ç‚¸A^‚ÁˆÃ‚È[r]
-‚Ü‚Ü‚¾‚Á‚½B[pcms]
+The hallway was still dark, just like when I arrived, with[r]no lights turned on.[pcms]
 
 *v2885|
 [fc]
 [vo_sa s="sae0766"]
-[ns]²”Œ[nse]
-u“”‚è‚®‚ç‚¢A“_‚¯‚Ä‚¢‚Á‚Ä‚­‚ê‚Ä‚à‚¢‚¢‚¶‚á‚ ‚è‚Ü‚¹[r]
-‚ñ‚©ccv[pcms]
+[ns]Saeki[nse]
+Couldn't you at least turn on the lights...[pcms]
 
 *7139|
 [fc]
-‚±‚¤‚¢‚¤‚É‚±‚»A–T‚É‹‚Ä—~‚µ‚¢‚Ì‚ÉccB[r]
-‚Ç‚¤‚µ‚Ä„‚Å‚Í‚È‚­‚ÄA‘¼‚Ì—‚Ì–‚ğS”z‚·‚é‚ÌccH[pcms]
+At times like this, I want you to be by my side...[l][er]
+Why are you worried about other women instead of me...?[pcms]
 
 *7140|
 [fc]
-‚»‚à‚»‚àA„‚ğ’u‚«‹‚è‚É‚µ‚Ä‚Ü‚ÅAs‚­•K—v‚ª‚ ‚é–[r]
-‚È‚ÌccH[r]
-‚±‚±‚©‚ç‘å‚«‚Èº‚ÅŒÄ‚×‚ÎÏ‚Ş–‚¶‚á‚È‚¢ccB[pcms]
+Is it really necessary to leave me behind like this?[l][er]
+Couldn't you just call out loudly from here?[pcms]
 
-;//ôFBGM007ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 
 [fadeoutbgm time=500]
 
 *7141|
 [fc]
-‚ ‚ñ‚È’á‘­‚È—A•ú‚Á‚Ä‚¨‚¯‚Î‚¢‚¢‚Ì‚ÉccB[pcms]
+You should just leave that vulgar woman alone...[pcms]
 
 *v2886|
 [fc]
 [vo_sa s="sae0767"]
-[ns]²”Œ[nse]
-u‘Ê–Ú‚æA‚»‚ñ‚È–‚ğl‚¦‚Ä‚Íccv[pcms]
+[ns]Saeki[nse]
+No, don't think about such things...[pcms]
 
 *7142|
 [fc]
-‚±‚ñ‚È–‚ğl‚¦‚Ä‚¢‚é‚Æ‰Á“¡‚³‚ñ‚É’m‚ê‚½‚çA[r]
-„‚ÍŒ™‚í‚ê‚Ä‚µ‚Ü‚¤ccB[pcms]
+If Kato-san were to find out that I'm thinking about such[r]things, she would hate me...[pcms]
 
 *7143|
 [fc]
-cc”Ş—‚ÉA‰Á“¡‚³‚ñ‚ğ’D‚í‚ê‚Ä‚µ‚Ü‚¤ccB[r]
-‚»‚ê‚¾‚¯‚ÍŒ™ccB[r]
-‚»‚ñ‚È‚ÌA‘Ï‚¦‚ç‚ê‚È‚¢ccB[pcms]
+... To have her taken away by Kato-san...[l][er]
+That's the one thing I can't bear...[l][er]
+I can't stand it...[pcms]
 
-;//ôFBGM005ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM005ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 
 [bgm005]
 
 *v2887|
 [fc]
 [vo_sa s="sae0768"]
-[ns]²”Œ[nse]
-uII@cc‰½H@¡‚Ìccv[pcms]
+[ns]Saeki[nse]
+!! ... What? What was that just now...[pcms]
 
 *7144|
 [fc]
-¡‚¢‚é˜L‰º‚ÆA‘ÌˆçŠÙ‚Ö‘±‚­˜L‰º‚ğŒq‚®‹È‚ª‚èŠpB[r]
-‚»‚ÌŠp‚ÌŒü‚±‚¤‚©‚çA’á‚¢A’j‚ÌšX‚èº‚Ì—l‚È‚à‚Ì‚ğA[r]
-„‚Í¨‚É‚µ‚½B[pcms]
+I heard something low, like a man's groaning voice, coming[r]from beyond the corner that connects the hallway I'm[r]currently in with the hallway leading to the gymnasium.[pcms]
 
 *v2888|
 [fc]
 [vo_sa s="sae0769"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *7145|
 [fc]
-‚Ü‚³‚©cc‰Á“¡‚³‚ñccH[pcms]
+Could it be... Kato-san...?[pcms]
 
 *7146|
 [fc]
-”ŞA„‚ğ‹Á‚©‚¹‚éˆ×‚ÉAŒÜ\—’æ”y‚ğŒ©‚Â‚¯‚½‚È‚ñ‚Ä‰R[r]
-‚ğ‚Â‚¢‚½‚Ì‚©‚µ‚çccB[pcms]
+I wonder if he lied about finding Igarashi-senpai just to[r]surprise me...[pcms]
 
 *v2889|
 [fc]
 [vo_sa s="sae0770"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *7147|
 [fc]
-q‹Ÿ‚¶‚İ‚½”Ş‚Ìs“®‚É•ğ‚êA—­‘§‚ğ‚Â‚­‚ÆA„‚Í©•ª‚ğ[r]
-æ‚èŠª‚­ó‹µ‚É‹°•|‚ğŠ´‚¶‚È‚­‚È‚Á‚½B[pcms]
+I sighed in exasperation at his childish behavior, and I no[r]longer felt fear in the situation surrounding me.[pcms]
 
 *7148|
 [fc]
-˜L‰º‚É“”‚è‚ğ“_‚¯‚È‚©‚Á‚½‚Ì‚àA[r]
-„‚Ì‹°•|S‚ğø‚éˆ×‚È‚Ì‚ËccB[pcms]
+Not turning on the lights in the hallway was also to fuel my[r]sense of fear...[pcms]
 
 *7149|
 [fc]
-’j‚Ìl‚ÍAŠô‚Â‚É‚È‚Á‚Ä‚àq‹Ÿ‚¶‚İ‚½‚Æ‚±‚ë‚ª‚ ‚éA[r]
-‚Æ‚Í•·‚­‚¯‚ê‚ÇccB[pcms]
+I've heard that no matter how old men get, they still have[r]childish aspects to them...[pcms]
 
 *v2890|
 [fc]
 [vo_sa s="sae0771"]
-[ns]²”Œ[nse]
-u—‰ğ‚É‹ê‚µ‚Ş‚íccv[pcms]
+[ns]Saeki[nse]
+It's hard to understand...[pcms]
 
 *7150|
 [fc]
-‚Å‚àA’·‚­ˆê‚É‚¢‚éˆ×‚É‚ÍA”Ş‚Ì‚»‚¤‚¢‚Á‚½•”•ª‚àA[r]
-ˆ¤‚¹‚é‚æ‚¤‚É‚È‚ç‚È‚­‚Ä‚Í‚ËccB[pcms]
+But in order to be together for a long time, I have to learn[r]to love those aspects of him as well...[pcms]
 
 *7151|
 [fc]
-º‚Ì•·‚±‚¦‚Ä‚­‚é‹È‚ª‚èŠp‚ÖA”Ş‚Ì–¼‘O‚ğŒÄ‚Ñ‚È‚ª‚çA[r]
-„‚Í•à‚¢‚ÄŒü‚©‚Á‚½B[pcms]
+I walked towards the corner where I could hear a voice,[r]calling out his name.[pcms]
 
 *v2891|
 [fc]
 [vo_sa s="sae0772"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñAˆ«‚Ó‚´‚¯‚Í‚»‚±‚Ü‚Åccv[pcms]
+[ns]Saeki[nse]
+Kato-san, enough with the pranks...[pcms]
 
 *7152|
 [fc]
-‹È‚ª‚èŠp‚ÌŒü‚±‚¤‚ğ”`‚­‚ÆA‚»‚±‚É‹‚½‚Ì‚Í‰Á“¡‚³‚ñ‚Å[r]
-‚Í‚È‚­AŒ©’m‚ç‚Ê’jq¶“k”l‚ÆA”Ş‚ç‚ğ—¦‚¢‚é“c’†æ[r]
-”y‚¾‚Á‚½B[pcms]
+When I peeked around the corner, it wasn't Kato-san who was[r]there, but several unfamiliar male students and leading them[r]was Senpai Tanaka.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 [ChrSetEx layer=1 chbase="tanaka_b_a_10"]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
 *7153|
 [fc]
-“c’†æ”y‚Ì§•‚ÍAŠX”j‚¯‚Ä‚¢‚ÄA‚»‚±‚©‚çŒ©‚¦‚é‘Ì[r]
-‚É‚ÍA‘å¬—lX‚È‚ğ•‰‚Á‚Ä‚¢‚½B[pcms]
+Senpai Tanaka's uniform was torn in various places, and from[r]there, I could see his body covered in wounds of different[r]sizes.[pcms]
 
 *v2892|
 [fc]
 [vo_sa s="sae0773"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *7154|
 [fc]
-–¾‚ç‚©‚É•’Ê‚Å‚Í‚È‚¢”Ş‚ç‚Ì•µˆÍ‹C‚ÉA„‚Íg‚ÌŠëŒ¯‚ğ[r]
-Š´‚¶A•‚¯‚ğŒÄ‚Ú‚¤‚Æ‚µ‚½‚ªA“c’†æ”y‚É‘f‘‚­Œû‚ğ‰Ÿ[r]
-‚³‚¦‚ç‚ê‚Ä‚µ‚Ü‚Á‚½B[pcms]
+I felt a sense of danger from their clearly abnormal[r]atmosphere, and tried to call for help, but Senpai Tanaka[r]quickly covered my mouth.[pcms]
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 
 [bgm008]
 
@@ -235,91 +215,87 @@
 [ChrSetParts layer=1 chface="tanaka_b_a_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std415|
 [fc]
-[ns]“c’†[nse]
-u‚³‚íA‚®‚ÌA‚Ícc‚¨A‚ê‚ªA‚¨‚©‚µA‚Ä‚éA‚³A‚¢[r]
-‚¿‚ã‚¤‚ÉA‚µ‚ëcc‚¶‚á‚ËA‚¥‚Æcc‚±A‚¤‚Ó‚ñA‚µA[r]
-‚Ë[‚¾A‚ëccHv[pcms]
+[ns]Tanaka[nse]
+Don't... touch me... I'm... acting strange...[l][er]
+in the middle of it... stop...[l][er]
+or else... hehe... don't you want to...[l][er]
+play... with me...?[pcms]
 
 *v2893|
 [fc]
 [vo_sa s="sae0774"]
-[ns]²”Œ[nse]
-uccII@ccIIv[pcms]
+[ns]Saeki[nse]
+...!! ...!![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std416|
 [fc]
-[ns]’jq¶“k‚w[nse]
-u‚ ‚½‚çA‚µ‚¢A‚ÜA‚ñ‚±‚¾‚Ÿcc‚à‚¤A‚ÜA‚¦‚Ì‚ÍA[r]
-‚¢‚¢A‚âcc‚±‚¢A‚ÂA‚ÉA‚¾‚»‚¤ccv[pcms]
+[ns]Male Student X[nse]
+It's a new pussy... I don't need the old one anymore...[l][er]
+Come, let's go together...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std417|
 [fc]
-[ns]’jq¶“k‚y[nse]
-u‚ ‚Ÿ``cc‚ªA‚Ü‚ñA‚Å‚«‚Ë‚¥A‚æ‚§`cc‚ÍA‚â[r]
-‚­A‚¾‚µA‚Ä‚¥`ccv[pcms]
+[ns]Male Student Z[nse]
+Ahhh... I... can't... pussy...[l][er]
+do it... quickly... release...[pcms]
 
 *7155|
 [fc]
-„‚ÌŒû‚Éè‚ğ‚ ‚Ä‚ª‚¢A•Ç‚É‰Ÿ‚µ‚Â‚¯‚ÄA“c’†æ”y‚ÍE[r]
-ˆõ—pƒgƒCƒŒ‚Ì•û‚ÖŠç‚ğŒü‚¯‚½B[pcms]
+He placed his hand over my mouth, pushed me against the[r]wall, and Senpai Tanaka turned his face towards the staff[r]restroom.[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_b_a_10"]
 [ChrSetXY layer=1 x=160 y=0]
 [ChrSetParts layer=1 chface="tanaka_b_a_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std418|
 [fc]
-[ns]“c’†[nse]
-u‚×‚ñ‚¶‚åA‚©‚Ÿcc‚¨A‚àA‚µ‚ë‚»‚¤A‚¾‚È‚Ÿccv[pcms]
+[ns]Tanaka[nse]
+Revenge, huh... It seems... interesting...[pcms]
 
 *7156|
 [fc]
-“c’†æ”y‚ÌŠç‚ªA‚¢‚â‚ç‚µ‚¢Î‚İ‚É˜c‚ŞB[pcms]
+Senpai Tanaka's face contorts into a lewd smile.[pcms]
 
 *7157|
 [fc]
-‚»‚µ‚Ä„‚ğˆø‚«‚¸‚é‚æ‚¤‚É‚µ‚ÄAEˆõ—pƒgƒCƒŒ‚Ì•û‚Ö‚Æ[r]
-•à‚«o‚µ‚½B[pcms]
+And then, dragging me along, he started walking towards the[r]staff restroom.[pcms]
 
 *7158|
 [fc]
-‚±‚Ìlcc‰½‚ğ‚·‚é‚Â‚à‚è‚È‚ÌccIH[r]
-q•ª‚İ‚½‚¢‚È”y‚ğˆø‚«˜A‚ê‚ÄccB[pcms]
+What is this person planning to do...!?[l][er]
+Bringing along a bunch of lackeys...[pcms]
 
 *v2894|
 [fc]
 [vo_sa s="sae0775"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *7159|
 [fc]
-‚Ü‚³‚©ccB[r]
-„‚ğccW’c‚ÅA‹­Š­‚·‚é‚Â‚à‚èccH[pcms]
+No way... Are you planning to...[l][er]
+gang rape me...?[pcms]
 
 *7160|
 [fc]
-“c’†‚Ìè‚©‚ç“¦‚ê‚æ‚¤‚ÆA”Ş‚Ì˜r‚ğˆø‚Á‘~‚¢‚½‚èAŒû‚ğ[r]
-‰Ÿ‚³‚¦‚Ä‚¢‚éè‚ÉŠš‚İ‚Â‚¢‚½‚è‚µ‚Ä‚İ‚é‚ªA‚Ü‚é‚ÅˆÓ‚É[r]
-‰î‚³‚¸A„‚ğˆø‚«‚¸‚Á‚Ä•à‚¢‚Ä‚¢‚­B[pcms]
+I tried to escape from Tanaka's grasp by scratching his arm[r]and biting the hand that was covering my mouth, but he paid[r]no attention and continued dragging me along as we walked.[pcms]
 
 *v2895|
 [fc]
 [vo_sa s="sae0776"]
-[ns]²”Œ[nse]
-uccII@ccIIv[pcms]
+[ns]Saeki[nse]
+...!! ...!![pcms]
 
 *7161|
 [fc]
-„‚ÍŒ‹‹ÇA‚³‚Á‚«‚Ü‚Å‚¢‚½Eˆõ—pƒgƒCƒŒ‚ÉA‹t–ß‚è‚ğ‚·[r]
-‚é‚±‚Æ‚É‚È‚Á‚½B[pcms]
+In the end, I ended up going back to the staff restroom[r]where I was just a moment ago.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -330,6 +306,6 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[07120]‚Ö
+;//[07120]ã¸
 [jump target=*07120_H_TOP storage="07120_H.ks"]
 

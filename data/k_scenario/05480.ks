@@ -1,15 +1,15 @@
 
-;//¡ËƒuƒƒbƒN05480wÃ‚Ü‚è•Ô‚éŠw‰€‚Qx
-;//BG:“Áê‹³º˜L‰ºF—[•ûGÁ“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05480ã€é™ã¾ã‚Šè¿”ã‚‹å­¦åœ’ï¼’ã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤•æ–¹ï¼›æ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05480_TOP
-;[debug_win]‚È‚¤@05480[debug_win_end]
-;*SceneSet|wÃ‚Ü‚è•Ô‚éŠw‰€‚Qx
+;[debug_win]ãªã†ã€€05480[debug_win_end]
+;*SceneSet|ã€é™ã¾ã‚Šè¿”ã‚‹å­¦åœ’ï¼’ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05480 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05480 = 1"]
 
-;//ôFBGM004
+;//â™ªï¼šBGM004
 [bgm004]
 
 ;//;//BG:bg05a
@@ -19,11 +19,11 @@
 
 *5549|
 [fc]
-‚»‚ê‚É‚µ‚Ä‚àA¨‚ª’É‚­‚È‚é‚­‚ç‚¢Ã‚©‚¾ccB[r]
-’iXˆÃ‚­‚È‚Á‚Ä‚«‚Ä‚é‚µccB[r]
-í‘ˆ‰f‰æ‚¶‚á‚È‚­‚ÄA‚â‚Á‚Ïƒzƒ‰[‰f‰æ‚¾‚ÈccB[pcms]
+By the way, it's so quiet that it's making my ears hurt...[l][er]
+It's getting darker and darker too...[l][er]
+It feels more like a horror movie than a war movie...[pcms]
 
-;//SE:ƒJƒ‰ƒX‚Ì‹ƒ‚«º
+;//SE:ã‚«ãƒ©ã‚¹ã®æ³£ãå£°
 [se0 storage="se042"]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
@@ -31,78 +31,76 @@
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2297|
 [fc]
 [vo_sa s="sae0519"]
-[ns]²”Œ[nse]
-u‚«‚á‚Ÿ‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Kyaa![pcms]
 
 *5550|
 [fc]
-[ns]‰Á“¡[nse]
-ucc’¹‚Ì–Â‚«º‚¾‚ëv[pcms]
+[ns]Kato[nse]
+... It's the sound of a bird, isn't it?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2298|
 [fc]
 [vo_sa s="sae0520"]
-[ns]²”Œ[nse]
-ucc‚ ‚Ìcc¡A‰½‚©•¨‰¹‚µ‚Ü‚¹‚ñ‚Å‚µ‚½ccHv[pcms]
+[ns]Saeki[nse]
+... Um... Did you hear something just now...?[pcms]
 
 *5551|
 [fc]
-[ns]‰Á“¡[nse]
-u‹C‚Ì‚¹‚¢‚¾‚Á‚Äccv[pcms]
+[ns]Kato[nse]
+It's just my imagination...[pcms]
 
 *5552|
 [fc]
-‰½‚©‚Æ‚¢‚¤‚Æ‹Á‚«A•|‚ª‚Á‚ÄAƒVƒƒƒc‚ğˆ¬‚éè‚É—Í‚ğ“ü[r]
-‚ê‚é²”Œ‚ğA‰´‚Í•ğ‚ê‚È‚ª‚ç‚àA‚©‚í‚¢‚¢‚ÆŠ´‚¶‚½B[pcms]
+I couldn't help but find Saeki, who was surprised, scared,[r]and gripping her shirt tightly with force, cute.[pcms]
 
 ;//;//BG:bg03a
-;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
+;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
 [bg storage="bg03a"]
 [trans_c cross time=500]
 
 *5553|
 [fc]
-‚»‚¤‚µ‚Ä‚µ‚Î‚ç‚­•à‚«‘±‚¯‚Ä‚©‚çA²”Œ‚ª‰´‚Ì”w’†‚ÌŒã[r]
-‚ë‚©‚ç˜b‚µ‚©‚¯‚Ä‚«‚½B[pcms]
+After walking for a while, Saeki approached me from behind.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2299|
 [fc]
 [vo_sa s="sae0521"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñccv[pcms]
+[ns]Saeki[nse]
+Kato-san...[pcms]
 
 *5554|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ñHv[pcms]
+[ns]Kato[nse]
+Hm?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2300|
 [fc]
 [vo_sa s="sae0522"]
-[ns]²”Œ[nse]
-uŠëŒ¯‚ğŠ´‚¶‚½‚çA‚·‚®‚É‚±‚±‚©‚ç“¦‚°‚Ü‚µ‚å‚¤B„’B[r]
-“ñl‚¾‚¯‚Å‚àccv[pcms]
+[ns]Saeki[nse]
+If we feel danger, let's run away from here immediately.[l][er]
+Even if it's just the two of us...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -111,29 +109,27 @@
 
 *5555|
 [fc]
-‰´‚Í—§‚¿~‚Ü‚èA•sˆÀ‚»‚¤‚ÈŠç‚Å‚±‚¿‚ç‚ğŒ©‚Â‚ß‚Ä‚¢‚é[r]
-²”Œ‚ğAŒ©‚Â‚ß•Ô‚·B[pcms]
+I stop and gaze back at Saeki, who is looking at me with an[r]anxious expression.[pcms]
 
 *5556|
 [fc]
-²”ŒARŠİ‚³‚ñA^–çA—S“ñAŒÜ\—’ƒTƒ“AV“¹æ¶B[r]
-‘Sˆõ‚ª–³–‚Å‚¢‚ç‚ê‚ê‚ÎA‚»‚ê‚ªˆê”Ô‚¢‚¢B[pcms]
+Saeki, Yamagishi-san, Shinya, Yuuji, Igarashi-san, and[r]Shindou-sensei.[l][er]
+It would be best if everyone could stay safe.[pcms]
 
 *5557|
 [fc]
-‚Å‚àA¡‚Ì‰´‚Í‘¼‚Ì’N‚æ‚è‚àA²”Œ‚Ì–‚ğ—Dæ‚µ‚ÄA[r]
-ç‚è‚½‚¢B‚»‚¤v‚Á‚Ä‚¢‚½B[pcms]
+But right now, more than anyone else, I want to prioritize[r]and protect Saeki.[l][er]
+That's what I've been thinking.[pcms]
 
 *5558|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨‘O‚Í‰´‚ªç‚éB[r]
-‚¾‚©‚ç²”Œ‚àA‰´‚ğM‚¶‚Ä‚Â‚¢‚Ä‚«‚Ä‚­‚êv[pcms]
+[ns]Kato[nse]
+I will protect you. So Saeki, please believe in me and stay[r]by my side.[pcms]
 
 *5559|
 [fc]
-‚ä‚Á‚­‚èA—Í‹­‚­‚¤‚È‚¸‚¢‚½²”Œ‚ÉA‰´‚à‚¤‚È‚¸‚¢‚Ä‚İ[r]
-‚¹‚ÄA‚Ü‚½“ñŠK‚Ì‹³º‚Ö‚Æ•à‚«o‚µ‚½B[pcms]
+Saeki nodded slowly and firmly.[l][er]
+I nodded in response and we started walking towards the[r]second floor classroom.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -141,8 +137,8 @@
 
 ;//blackout
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05490]‚Ö
+;//[05490]ã¸
 [jump target=*05490_H_TOP storage="05490_H.ks"]

@@ -1,21 +1,21 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02074wEˆõº‚È‚Ç‚ğ‰ñ‚éx
-;//BG:“Áê‹³º˜L‰ºF–éFÁ“”
-;//“oêl•¨GålŒöE—DEƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02074ã€è·å“¡å®¤ãªã©ã‚’å›ã‚‹ã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02074_TOP
-;[debug_win]‚È‚¤@02074[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02074 = 1"]
+;[debug_win]ãªã†ã€€02074[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02074 = 1"]
 
-;*SceneSet|wEˆõº‚È‚Ç‚ğ‰ñ‚éx
+;*SceneSet|ã€è·å“¡å®¤ãªã©ã‚’å›ã‚‹ã€
 
 ;//[02074]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 
 ;//BG:bg009e
@@ -26,180 +26,172 @@
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v676|
 [fc]
 [vo_ri s="risa0202"]
-[ns]V“¹[nse]
-u‚»‚ê‚ÅA‚ ‚È‚½’B‚Í‚Ç‚±‚ğ‘{‚µ‚Ä‚«‚½‚ÌHv[pcms]
+[ns]Shindou[nse]
+So, where did you guys search?[pcms]
 
 *1596|
 [fc]
-[ns]‰Á“¡[nse]
-uˆêŠK‚Í•’Ê‚Ì‹³º‚àA“Áê‹³º‚àA‚ß‚Ú‚µ‚¢‚Æ‚±‚ë‚Í[r]
-‘S•”Œ©‚Ü‚µ‚½B‚ ‚Æ‘ÌˆçŠÙ‚àv[pcms]
+[ns]Kato[nse]
+We searched the first floor, both regular classrooms and[r]special classrooms.[l][er]
+We checked out all the notable places.[l][er]
+And we also went to the gymnasium.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v677|
 [fc]
 [vo_ya s="yama0190"]
-[ns]RŠİ[nse]
-uã‚ÌŠK‚ÍA²”Œ‚³‚ñ‚ª‘{‚µ‚Ä‚¢‚é‚İ‚½‚¢‚Å‚·v[pcms]
+[ns]Yamagishi[nse]
+It seems Saeki-san is searching on the upper floor.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v678|
 [fc]
 [vo_ri s="risa0203"]
-[ns]V“¹[nse]
-u‚»‚¤ccBEˆõº‚Ís‚Á‚½Hv[pcms]
+[ns]Shindou[nse]
+I see... Did you go to the staff room?[pcms]
 
 *1597|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¢‚¦cc‚¢‚È‚­‚È‚Á‚½“z‚ÅAEˆõº‚É—p‚ª‚ ‚è‚»‚¤‚È[r]
-‚Ì‚Í‚¢‚È‚¢‚Æv‚Á‚½‚ñ‚Åv[pcms]
+[ns]Kato[nse]
+No... I didn't think there was anyone who disappeared and[r]would have a reason to be in the staff room.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v679|
 [fc]
 [vo_ri s="risa0204"]
-[ns]V“¹[nse]
-u‚»‚¤‚©‚µ‚çH@Eˆõº‚É‚ÍA¶“k‚ªŠì‚Ñ‚»‚¤‚È‚à‚Ì‚ª[r]
-‚½‚­‚³‚ñ‚ ‚é‚íB–vû‚³‚ê‚½Œg‘Ñ“d˜b‚âAFX‚ÈêŠ‚Ì[r]
-Œ®‚à‚»‚¤‚ËB‘å•ûA‚»‚Ì•Ó‚è‚ª‘_‚¢‚Å‚µ‚å‚¤v[pcms]
+[ns]Shindou[nse]
+Is that so? There are many things in the staff room that[r]students would be happy to find.[l][er]
+Confiscated cell phones and keys from various places, for[r]example.[l][er]
+Most likely, that's the target.[pcms]
 
 *1598|
 [fc]
-V“¹æ¶‚Ì‚»‚ÌŒ¾‚¢‚æ‚¤‚ÉARŠİ‚³‚ñ‚ªŠç‚ğŒµ‚µ‚­‚µ‚Ä[r]
-”½˜_‚·‚éB[pcms]
+Yamagishi-san sternly refutes Shindou-sensei's statement[r]with a serious expression.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v680|
 [fc]
 [vo_ya s="yama0191"]
-[ns]RŠİ[nse]
-u‚»‚ñ‚Ècc‚Ü‚¾‰½‚à‚í‚©‚ç‚È‚¢‚Ì‚ÉA“D–_ˆµ‚¢‚·‚é‚ñ[r]
-‚Å‚·‚©H@‚»‚ñ‚È•—‚ÉŒˆ‚ß‚Â‚¯‚é‚ÌA‚æ‚­‚È‚¢‚Æv‚¢‚Ü[r]
-‚·Iv[pcms]
+[ns]Yamagishi[nse]
+That's... even though we still don't know anything, are you[r]treating them like a thief?[l][er]
+I don't think it's good to jump to conclusions like that![pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v681|
 [fc]
 [vo_ri s="risa0205"]
-[ns]V“¹[nse]
-u‚ ccv[pcms]
+[ns]Shindou[nse]
+Ah...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v682|
 [fc]
 [vo_ya s="yama0192"]
-[ns]RŠİ[nse]
-u“c’†‚³‚ñ‚â’|“àŒN‚Í‚Ç‚¤‚©‚í‚©‚ç‚È‚¢‚¯‚ÇA[r]
-ƒgƒ‚‚¿‚á‚ñ‚ÍccŒÜ\—’‚³‚ñ‚Íâ‘Î‚É[r]
-‚»‚ñ‚È‚±‚Æ‚µ‚Ü‚¹‚ñIv[pcms]
+[ns]Yamagishi[nse]
+I don't know about Tanaka-san and Takeuchi-kun, but Tomo-[r]chan...[l][er]
+Igarashi-san would never do something like that![pcms]
 
 *1599|
 [fc]
-ƒTƒ‰ƒb‚Æ“‚¢‚±‚Æ‚ğŒ¾‚Á‚Ä‚¢‚éRŠİ‚³‚ñ‚¾‚Á‚½‚ªA[r]
-V“¹æ¶‚Í‚»‚¤Œ¾‚í‚ê‚ÄA–Ú‚ğ‚Â‚Ô‚Á‚Ä—­‘§‚ğ‚Â‚¢‚½B[pcms]
+Yamagishi-san, who casually said something harsh, made[r]Shindou-sensei close his eyes and sigh when he was told[r]that.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_b_03"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v683|
 [fc]
 [vo_ri s="risa0206"]
-[ns]V“¹[nse]
-u‚»‚¤cc‚»‚¤‚æ‚ËA‚²‚ß‚ñ‚È‚³‚¢BÅ‰‚©‚ç‹^‚Á‚Ä‚©[r]
-‚©‚é‚È‚ñ‚ÄA‹³t‚Ì‚·‚×‚«–‚Å‚Í‚È‚¢‚í‚Ëv[pcms]
+[ns]Shindou[nse]
+I see... Yes, you're right. I'm sorry.[l][er]
+It's not something a teacher should do, to suspect someone[r]from the beginning.[pcms]
 
 *1600|
 [fc]
-V“¹æ¶‚ÉÓ‚ç‚ê‚ÄA“ª‚Éã‚Á‚½ŒŒ‚ª~‚è‚½‚İ‚½‚¢‚ÅA[r]
-RŠİ‚³‚ñ‚ÍQ‚Ä‚Äæ¶‚É“ª‚ğ‰º‚°‚½B[pcms]
+After being apologized to by Shindou-sensei, it seemed like[r]the blood rushed to Yamagishi-san's head, and she hurriedly[r]bowed her head to the teacher.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v684|
 [fc]
 [vo_ya s="yama0193"]
-[ns]RŠİ[nse]
-u‚ A‚ ‚ÌA‚·‚İ‚Ü‚¹‚ñA„ccv[pcms]
+[ns]Yamagishi[nse]
+Um, um, I'm sorry, I...[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v685|
 [fc]
 [vo_ri s="risa0207"]
-[ns]V“¹[nse]
-u‚¤‚¤‚ñA‚¢‚¢‚Ì‚æccB¡“ú‚Í‚Ç‚¤‚©‚µ‚Ä‚¢‚é‚í‚ËA[r]
-„ccv[pcms]
+[ns]Shindou[nse]
+No, it's fine... I don't know what's gotten into me today...[pcms]
 
 *1601|
 [fc]
-‚¢‚Â‚à¶“k‚ğ—@‚·‘¤‚ÌV“¹æ¶‚ªARŠİ‚³‚ñ‚É—@‚³‚ê‚Ä[r]
-Œ¨‚ğ—‚Æ‚µ‚Ä‚¢‚ÄA‚¢‚Â‚à‚Æ‚Í‚Ü‚é‚Á‚«‚è‹t‚ÌŒõŒi‚ÉA[r]
-‰´‚Í¬‚³‚­‹êÎ‚µ‚½B[pcms]
+Shindou-sensei, who is usually the one advising students,[r]was now being advised by Yamagishi-san and had his shoulders[r]drooping.[l][er]
+It was a completely opposite scene from usual, and I[r]chuckled softly.[pcms]
 
 *1602|
 [fc]
-‚»‚ê‚«‚èARŠİ‚³‚ñ‚ÆV“¹æ¶‚Í–Ù‚Á‚Ä‚µ‚Ü‚¢A“ñl‚Ì[r]
-ŠÔ‚É‹C‚Ü‚¸‚¢‹ó‹C‚ª—¬‚ên‚ß‚½B[r]
-d‚¢ccB‚±‚Ì•µˆÍ‹C‚É‘Ï‚¦‚ç‚ê‚È‚¢ccB[pcms]
+After that, Yamagishi-san and Shindou-sensei fell silent,[r]and an awkward atmosphere began to fill the space between[r]them.[l][er]
+It felt heavy... I couldn't bear this atmosphere...[pcms]
 
 *1603|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚ ‚ÌccB‚»‚ë‚»‚ë”Ş‚ç‚ğ‘{‚µ‚Ü‚µ‚å‚¤‚æccB[r]
-EˆõºAs‚Á‚Ä‚İ‚æ‚¤‚æAƒzƒ‰Iv[pcms]
+[ns]Kato[nse]
+Ah, um... Maybe we should start looking for them soon...[l][er]
+Let's go to the staff room, come on![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *1604|
 [fc]
-“ñl‚ğ‹}‚©‚µAEˆõº‚Ö‚Æ•à‚«o‚µ‚½B[pcms]
+They hurried the two of them and started walking towards the[r]staff room.[pcms]
 
 ;//BG:bg003d
 [bg storage="bg03d"]
@@ -207,31 +199,28 @@
 
 *1605|
 [fc]
-Eˆõº‚Ì‘O‚Ü‚Å—ˆ‚é‚ÆAV“¹æ¶‚ª”à‚Éè‚ğ‚©‚¯‚½‚ªA[r]
-Œ®‚ª•Â‚Ü‚Á‚½‚Ü‚Ü‚Ì‚æ‚¤‚ÅŠJ‚©‚È‚©‚Á‚½B[pcms]
+When they arrived in front of the staff room, Shindou-sensei[r]reached for the door handle, but it seemed like the door was[r]locked and wouldn't open.[pcms]
 
 *1606|
 [fc]
-‚Æ‚¢‚¤‚±‚Æ‚ÍA‚±‚±‚É‚à—ˆ‚Ä‚¢‚È‚¢‚Ì‚©ccH[pcms]
+So, does that mean they haven't come here either...?[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_b_03"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v686|
 [fc]
 [vo_ri s="risa0208"]
-[ns]V“¹[nse]
-u’N‚à‚¢‚È‚¢‚Æ‚Ív‚¤‚¯‚ê‚ÇAˆê‰A’†‚ğŠm”F‚µ‚Ä‚¢‚«[r]
-‚Ü‚µ‚å‚¤v[pcms]
+[ns]Shindou[nse]
+I don't think anyone is here, but let's check inside just in[r]case.[pcms]
 
 *1607|
 [fc]
-‰´‚ÆRŠİ‚³‚ñ‚ª‚¤‚È‚¸‚­‚ÆAV“¹æ¶‚Íƒ|ƒPƒbƒg‚©‚çŒ®[r]
-‚ğæ‚èo‚µ‚ÄAEˆõº‚Ì”à‚ğŠJ‚¯‚½B[pcms]
+When Yamagishi-san and I nodded, Shindou-sensei took out a[r]key from his pocket and opened the door to the staff room.[pcms]
 
-;//[02075]‚Ö
+;//[02075]ã¸
 [jump target=*02075_TOP storage="02075.ks"]
 

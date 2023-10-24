@@ -1,16 +1,16 @@
 
-;//¡ËƒuƒƒbƒN08100w‹L‰¯x
-;//BG;“Áê‹³º˜L‰ºF–éFÁ“”
-;//BG:“n‚è˜L‰ºF–éFÁ“”
-;//“oêl•¨FålŒöE’|“à
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08100ã€è¨˜æ†¶ã€
+;//BG;ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
+;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»ç«¹å†…
 
 *08100_TOP
-;[debug_win]‚È‚¤@08100[debug_win_end]
-;*SceneSet|w‹L‰¯x
+;[debug_win]ãªã†ã€€08100[debug_win_end]
+;*SceneSet|ã€è¨˜æ†¶ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08100 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08100 = 1"]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 
 ;//[bgm001]
 
@@ -25,96 +25,92 @@
 
 *9195|
 [fc]
-^–ç‚Ìï–¡‚Ì˜b‚Í’·‚¢‚©‚ç‚ÈccB[r]
-“ú‚ª¸‚é‚Ü‚Å˜b‚µ‘±‚¯‚ç‚ê‚Ä‚µ‚Ü‚¤B[r]
-‘‚­æ¶‚ğŒ©‚Â‚¯‚½‚¢‚Ì‚ÉccB[pcms]
+Shinya's hobby stories are so long...[l][er]
+We could keep talking until the sun rises.[l][er]
+I want to find the teacher quickly...[pcms]
 
-;//SE:˜L‰º‚ğ•à‚­
+;//SE:å»Šä¸‹ã‚’æ­©ã
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std578|
 [fc]
-[ns]’|“à[nse]
-u‚Ü‚Á‚Ä‚æccB‚¢‚Â‚à‚¢‚Â‚àAƒ{ƒN‚ğ’u‚¢‚Ä‚¢‚­‚Ì‚â[r]
-‚ß‚Ä‚æIIv[pcms]
+[ns]Takeuchi[nse]
+Wait... Always, always leaving me behind, stop it!![pcms]
 
 *9196|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Í‚Í‚Í‚ÁAˆ«‚©‚Á‚½‚æII@‚»‚ê‚æ‚èAV“¹æ¶A‚Ç[r]
-‚±‚É‚¢‚Á‚½‚Ì‚©‚Èccv[pcms]
+[ns]Kato[nse]
+Hahaha, my bad!! But more importantly, I wonder where[r]Shindou-sensei went...[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std579|
 [fc]
-[ns]’|“à[nse]
-uƒzƒ“ƒgA‚Ç‚±‚É‚¢‚Á‚¿‚á‚Á‚½‚ñ‚¾‚ë‚¤‚ËccB‚à‚µ‚©[r]
-‚µ‚Ä‰Æ‹A‚Á‚¿‚á‚Á‚½‚Ì‚©‚ÈccB‚ A‚»‚ê‚Écc‚³‚Á‚«[r]
-‚Ìq‚àA‚Ç‚±s‚Á‚¿‚á‚Á‚½‚ñ‚¾‚ë‚¤‚Ëccv[pcms]
+[ns]Takeuchi[nse]
+I wonder where she went... Maybe she went home...[l][er]
+Oh, and also... Where did that girl from earlier go...[pcms]
 
 *9197|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤‚¾ccA‚à‚µ‚©‚µ‚½‚çA‚ ‚ÌqA‚Ü‚½ƒVƒƒƒ[º[r]
-‚É–ß‚Á‚Ä‚«‚Ä‚é‚©‚àccv[pcms]
+[ns]Kato[nse]
+I see... Maybe that girl has returned to the shower room[r]again...[pcms]
 
 *9198|
 [fc]
-‚Æ‚ÍŒ¾‚Á‚½•¨‚ÌA‚»‚ñ‚È‚É“s‡—Ç‚­s‚©‚È‚¢‚æ‚ÈccB[r]
-‰ä‚È‚ª‚ç‚²“s‡å‹`‚Èl‚¦•û‚¾B‚Å‚àccB‚à‚µ–ß‚Á‚Ä[r]
-‚«‚Ä‚½‚çA‚à‚¤ˆê“xAƒZƒbƒNƒX‚³‚¹‚Ä‚à‚ç‚¨‚¤I[pcms]
+However, things don't always go so conveniently...[l][er]
+It's quite a self-serving way of thinking, even for me.[l][er]
+But... If she were to come back, I'll have sex with her once[r]again![pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std580|
 [fc]
-[ns]’|“à[nse]
-u‚»‚¤‚¾‚ËI@–ß‚Á‚Ä‚«‚Ä‚é‚©‚à‚ËII@‘‘¬s‚Á‚Ä‚İ[r]
-‚æ‚¤‚æII@¡“x‚±‚»B‰e‰ïo—ˆ‚é‚æIIv[pcms]
+[ns]Takeuchi[nse]
+That's right! She might have come back!![l][er]
+Let's go right away!! We can finally have a photoshoot this[r]time!![pcms]
 
 *9199|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ AŠy‚µ‚İ‚¾II@‚µ‚Á‚©‚èB‚Á‚Ä‚­‚ê‚æII@ƒJ[r]
-ƒƒ‰ƒ}ƒ“IIv[pcms]
+[ns]Kato[nse]
+Ah, I'm looking forward to it!![l][er]
+Make sure to capture it properly!![l][er]
+Photographer!![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std581|
 [fc]
-[ns]’|“à[nse]
-u”C‚¹‚Æ‚¯‚ÁII@cc‚Á‚ÄA‚»‚ê‚¶‚áƒ{ƒNA‚Ü‚½‰½‚à[r]
-o—ˆ‚È‚¢‚¶‚á‚È‚¢‚©‚æIIv[pcms]
+[ns]Takeuchi[nse]
+Leave it to me!! ... Wait, if I do that, I won't be able to[r]do anything again!![pcms]
 
 *9200|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Í‚Í‚Í‚ÁII@ç’k‚¾‚æAç’kII@‚»‚çA‘–‚é‚¼I[r]
-I@ƒ_ƒbƒVƒ…‚¾‚æIIv[pcms]
+[ns]Kato[nse]
+Hahaha!! Just kidding, just kidding!![l][er]
+Alright, let's run!! It's a dash!![pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std582|
 [fc]
-[ns]’|“à[nse]
-u‚Ü‚½‚©‚æccB‚à‚¤ƒJƒ“ƒxƒ“‚µ‚Ä‚­‚ê‚æccv[pcms]
+[ns]Takeuchi[nse]
+Again? Give me a break already...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -131,112 +127,115 @@
 
 *9201|
 [fc]
-[ns]‰Á“¡[nse]
-u‰½“x‚à‰½“x‚àŒ¾‚Á‚Ä‚é‚¾‚ëII@‘‰‚¹‚È‚¢‚©‚ç‘Ê–Ú‚È[r]
-‚ñ‚¾‚æII@‚¨‘OA–¾“ú‚©‚çƒƒVH‚¤‚ÈIIv[pcms]
+[ns]Kato[nse]
+I've been telling you over and over again!![l][er]
+It's because you don't lose weight that it's not working!![l][er]
+Starting tomorrow, don't eat any meals!![pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std583|
 [fc]
-[ns]’|“à[nse]
-u‚Ğcc“‚·‚¬‚é‚æccBƒnƒ@ccƒnƒ@ccBd•û‚È‚¢[r]
-‚¾‚ëII@‘×”V‚àAˆê“xAƒ{ƒN‚İ‚½‚¢‚É‚È‚Á‚ÄA‚İ‚ëA[r]
-‚æccv[pcms]
+[ns]Takeuchi[nse]
+Huh... This is too cruel... *panting* There's no other[r]choice!![l][er]
+Taiyuki, try becoming like me, just once...[l][er]
+and see...[pcms]
 
 *9202|
 [fc]
-[ns]‰Á“¡[nse]
-uç’k‚Í‚»‚Ì‘ÌŒ^‚¾‚¯‚É‚µ‚Ä‚­‚ê‚æII@‚Í‚Í‚ÁIIv[pcms]
+[ns]Kato[nse]
+Please keep the jokes limited to your body shape!![l][er]
+Haha!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *9203|
 [fc]
-‚¢‚Â‚à‚Ì’Ê‚èA^–ç‚Í‘–‚é‚Ì‚ª’x‚¢B[pcms]
+As usual, Shinya is slow at running.[pcms]
 
 *9204|
 [fc]
-‚Å‚àA‹C‚Ì‚¹‚¢‚©ccB[r]
-^–ç‚Ì‘§‚ªA‚»‚ñ‚È‚Éã‚ª‚Á‚Ä‚È‚¢—l‚ÉŒ©‚¦‚éccB[pcms]
+But, maybe it's just my imagination...[l][er]
+Shinya's breathing doesn't seem to be that heavy...[pcms]
 
 *9205|
 [fc]
-‰´‚à‘S—Í‚Å‘–‚Á‚½”¤‚È‚Ì‚ÉA‚»‚ñ‚È‚É‹ê‚µ‚­‚È‚¢ccB[r]
-‚È‚ñ‚¾‚ë‚¤A‘Ì’²‚à¦‚­‚¢‚¢Š´‚¶‚ª‚·‚éB[r]
-‚Ü‚é‚ÅA‘Ìd‚ğŠ´‚¶‚È‚¢‚­‚ç‚¢Ag‘Ì‚ªŒy‚¢II[pcms]
+Even though I ran at full speed too, I don't feel as[r]tired...[l][er]
+I wonder why, my physical condition feels really good.[l][er]
+It's as if my body is so light that I don't even feel my[r]weight!![pcms]
 
 *9206|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Í‚Í‚Í‚ÁII@‚È‚ñ‚¾‚©‚à‚Ì¦‚­g‘Ì‚ªŒy‚¢‚¼Iv[pcms]
+[ns]Kato[nse]
+Hahaha!! Somehow, my body feels incredibly light![pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std584|
 [fc]
-[ns]’|“à[nse]
-u‚»A‚»‚¤Œ¾‚í‚ê‚ê‚ÎccBŠm‚©‚ÉA‚ ‚ñ‚Ü‚è‹ê‚µ‚­‚È[r]
-‚¢‚ÈccA‚Ç‚¤‚µ‚½‚ñ‚¾‚ë‚¤Aƒ{ƒNccv[pcms]
+[ns]Takeuchi[nse]
+W-Well, now that you mention it...[l][er]
+It's true, it's not that difficult...[l][er]
+I wonder what's happening to me...[pcms]
 
 *9207|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¢‚¢‚¶‚á‚Ë‚¥‚©II@‘Ì’²‚ª—Ç‚­‚ÄA“s‡ˆ«‚¢–‚È‚ñ[r]
-‚©‰½‚à‚È‚¢‚¾‚ëII@‚Í‚Í‚Í‚ÁII@Å‚‚¾IIv[pcms]
+[ns]Kato[nse]
+Isn't it great?! With good physical condition, there's[r]nothing inconvenient at all!![l][er]
+Hahaha! It's the best![pcms]
 
 *9208|
 [fc]
-Šy‚µ‚¢‚µAg‘Ì‚à¡‚Ü‚Å‚É‚È‚¢‚­‚ç‚¢A’²q‚ª‚¢‚¢I[r]
-‚È‚ñ‚¾‚©A¡‚Ì‰´‚È‚ç‰½‚Å‚ào—ˆ‚»‚¤‚¾II[pcms]
+It's fun, and my body feels better than ever before![l][er]
+Somehow, with my current self, it feels like I can do[r]anything!![pcms]
 
 *9209|
 [fc]
-cc‚Í‚Í‚Í‚ÁI@‚Ç‚¤‚µ‚½‚ñ‚¾H@‰´IH[r]
-‚³‚Á‚«‚Ì—‚Ìq‚ÌAO‚ğv‚¢o‚·‚¾‚¯‚ÅccB[r]
-‚»‚ê‚ÉARŠİ‚³‚ñ‚âA²”ŒccB[pcms]
+... Hahaha! What's wrong with me?[l][er]
+Just thinking about that girl's lips...[l][er]
+And also, Yamagishi-san and Saeki...[pcms]
 
 *9210|
 [fc]
-”Ş—’B‚ÌŠç‚ğv‚¢•‚‚©‚×‚é‚½‚Ñ‚ÉA‚»‚ê‚¾‚¯‚ÅA–u‹N‚µ[r]
-‚¿‚Ü‚¤‚º‚ÁI[r]
-‚ ‚Ì“ñl‚Æ‚àAƒZƒbƒNƒX‚µ‚Ä‚¥II[pcms]
+Every time I imagine their faces, just that alone makes me[r]get an erection![l][er]
+I want to have sex with both of them!![pcms]
 
 *9211|
 [fc]
-[ns]‰Á“¡[nse]
-u‘‚­AƒZƒbƒNƒX‚µ‚Ä‚¥‚æII@‰ä–‚Å‚«‚Ë‚¥IIv[pcms]
+[ns]Kato[nse]
+I want to have sex already!! I can't hold back!![pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std585|
 [fc]
-[ns]’|“à[nse]
-uƒuƒtƒtƒbII@‚Ç‚¤‚µ‚½‚ñ‚¾‚æA“Ë‘RII@‚Å‚à‚³A[r]
-ƒ{ƒN‚à‚»‚¤‚È‚ñ‚¾‚æII@‚ ‚Ìq‚¢‚é‚Æ‚¢‚¢‚È‚ŸIIv[pcms]
+[ns]Takeuchi[nse]
+Bwahaha!! What's gotten into you all of a sudden!![l][er]
+But you know, I feel the same way!![l][er]
+I hope she's there!![pcms]
 
 *9212|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤‚¾‚ÈII@‹}‚®‚¼IIv[pcms]
+[ns]Kato[nse]
+That's right!! Let's hurry!![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std586|
 [fc]
-[ns]’|“à[nse]
-u‚æ‚§[‚µII@s‚­‚¼‚§‚¨IIv[pcms]
+[ns]Takeuchi[nse]
+Alright!! Let's gooo!![pcms]
 
 [se0 storage="se005"]
 
@@ -250,7 +249,7 @@
 ;	
 ;	[black_toplayer][trans_c cross time=1001][hide_chara_int]
 ;	
-;	;//;//BG:bg–³‚µ
+;	;//;//BG:bgç„¡ã—
 ;	
 ;	[ChrSetEx layer=1 chbase="take_a_d_01"]
 ;	[ChrSetXY layer=1 x=100 y=0]
@@ -262,79 +261,79 @@
 ;	;;;[sysbt_meswin]
 ;	*/
 
-;—§‚¿
+;ç«‹ã¡
 
 *9213|
 [fc]
-[ns]’|“à[nse]
-u‚Ë‚¥‚Ë‚¥II@’N‚©‹‚È‚¢H@‚³‚Á‚«‚ÌqA‹‚È‚¢IHv[pcms]
+[ns]Takeuchi[nse]
+Hey, hey!! Is anyone here? That girl from earlier, is she[r]not here!?[pcms]
 
 *9216|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨[‚¢IIv[pcms]
+[ns]Kato[nse]
+Hey!![pcms]
 
 [stop_se0]
 
 *9217|
 [fc]
-•”º“‚ÍAÃ‚Ü‚è•Ô‚Á‚Ä‚¢‚éccB[r]
-’N‚à‚¢‚È‚¢cc‚©ccB[pcms]
+The club room building is silent...[l][er]
+Nobody is here... or so it seems...[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_a_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std588|
 [fc]
-[ns]’|“à[nse]
-u‚â‚Á‚Ï‚èA–ß‚Á‚Ä‚«‚Ä‚È‚¢‚Ëccv[pcms]
+[ns]Takeuchi[nse]
+Looks like she still hasn't come back...[pcms]
 
 *9218|
 [fc]
-‚ñH[r]
-‘Ìˆç‹³Š¯º‚Ì•û‚ÉA“”‚è‚ªH[pcms]
+Huh? There's light coming from the direction of the gym[r]instructor's office?[pcms]
 
 *9219|
 [fc]
-[ns]‰Á“¡[nse]
-u‘Ìˆç‹³Š¯º‚É“”‚è‚ª‚Â‚¢‚Ä‚éccBŠİ“c‚ª‚¢‚é‚Ì‚©‚È[r]
-ccB‚»‚¤‚¾II@Šİ“c‚à‹º‚µ‚Ä‚İ‚æ‚¤‚ºIIv[pcms]
+[ns]Kato[nse]
+The lights are on in the gym instructor's office...[l][er]
+Is Kishida there, I wonder... That's right!![l][er]
+Let's try intimidating Kishida too!![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std589|
 [fc]
-[ns]’|“à[nse]
-uŠİ“cA‚©ccB‚Å‚à‚³ccA‹º‚·‚Á‚ÄŒ¾‚Á‚Ä‚àcc‹t[r]
-ƒMƒŒ‚³‚ê‚»‚¤ccB—Íˆê”tƒuƒ“‰£‚ç‚ê‚½‚çccv[pcms]
+[ns]Takeuchi[nse]
+Kishida, huh... But, you know...[l][er]
+Even if we try to intimidate him...[l][er]
+He might just get angry at us...[l][er]
+If he retaliates with all his strength and punches us[r]hard...[pcms]
 
 *9220|
 [fc]
-‚¤ccB[r]
-Šm‚©‚ÉccB[pcms]
+Hmm... Indeed...[pcms]
 
 *9221|
 [fc]
-‚Å‚àccB[r]
-‚¢‚¢‚âII@‚Æ‚è‚ ‚¦‚¸s‚­‚ñ‚¾‚æII[r]
-‰´‚ªŒˆ‚ß‚½‚ñ‚¾II[pcms]
+But... No!! Let's just go for now!![l][er]
+I've made up my mind!![pcms]
 
 *9222|
 [fc]
-[ns]‰Á“¡[nse]
-u‰½‚Å‚à‚¢‚¢‚¾‚ëII@s‚­‚¼I@ƒzƒ‰IIv[pcms]
+[ns]Kato[nse]
+Anything will do!! Let's go! Come on!![pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std590|
 [fc]
-[ns]’|“à[nse]
-u‹­ˆø‚¾‚È‚Ÿccv[pcms]
+[ns]Takeuchi[nse]
+You're being forceful...[pcms]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
@@ -342,5 +341,5 @@
 
 
 
-;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 [jump target=*08110_H_TOP storage="08110_H.ks"]

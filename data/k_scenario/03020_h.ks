@@ -1,40 +1,40 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;¡ËƒuƒƒbƒN02075wEˆõºx‚©‚ç
-;ËƒuƒƒbƒN03020wZ“à©ˆÔx‰‰
-;Ë’|“à‹“_‚Ö
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02075ã€è·å“¡å®¤ã€ã‹ã‚‰
+;â‡’ãƒ–ãƒ­ãƒƒã‚¯03020ã€æ ¡å†…è‡ªæ…°ã€â™‚â™‚
+;â‡’ç«¹å†…è¦–ç‚¹ã¸
 ;
-;BG:‹³ºF–éF“_“”
-;“oêl•¨G’|“à
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;BG:æ•™å®¤ï¼šå¤œï¼šç‚¹ç¯
+;ç™»å ´äººç‰©ï¼›ç«¹å†…
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *03020_H_TOP
-;[debug_win]‚È‚¤@03020_H[debug_win_end]
+;[debug_win]ãªã†ã€€03020_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 ;[if exp="tf.scene_mode == 0"][jump target=*03020][endif]
 ;[winset]
 
 
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 [bgm008]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *03020
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_03020 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_03020 = 1"]
 
-;*SceneSet|wZ“à©ˆÔx
+;*SceneSet|ã€æ ¡å†…è‡ªæ…°ã€
 ;	/*
-;	;//flagF—Dƒ‹[ƒgƒtƒ[@zap‚Q@•\¦
-;	;//ôFBGM007
+;	;//flagï¼šå„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€zapï¼’ã€€è¡¨ç¤º
+;	;//â™ªï¼šBGM007
 ;	*/
 
 [bgm007]
@@ -46,21 +46,18 @@
 
 *3321|
 [fc]
-V“¹æ¶‚ÆŠİ“c‚ÌƒAƒIƒJƒ“‚ğŒ©‚½‚ÍA‰Æ‚É‹A‚Á‚Ä‚©‚ç[r]
-‚É‚µ‚æ‚¤‚Á‚ÄƒKƒ}ƒ“‚µ‚½‚Ì‚ÉA‰f‰æ‚Ì“r’†‚Å‚`‚u‚ª—¬‚ê[r]
-‚½‚¹‚¢‚ÅA‚Ü‚½‚µ‚½‚­‚È‚Á‚¿‚á‚Á‚½‚æccB[pcms]
+When I saw Shindou-sensei and Kishida's flirting, I tried to[r]hold back and wait until I got home, but during the movie,[r]an AV started playing and I couldn't resist anymore...[pcms]
 
 *3322|
 [fc]
-[ns]’|“à[nse]
-u‚Å‚à‚È‚Ÿcc‚Ç‚¤‚¹‚·‚é‚È‚çA•’i‚Å‚«‚È‚¢Š‚Å‚·‚é[r]
-•û‚ª‹C‚¿‚¢‚¢‚©‚à‚È‚Ÿccv[pcms]
+[ns]Takeuchi[nse]
+But you know... if we're going to do it anyway, it might[r]feel even better to do it in a place we normally can't...[pcms]
 
 *3323|
 [fc]
-‚Æ‚È‚é‚ÆAƒgƒCƒŒ‚¶‚á‚È‚­‚Á‚ÄccB[pcms]
+In that case, not the bathroom...[pcms]
 
-;//SE:”à‚ğŠJ‚¯‚é
+;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
 
 [se0 storage="se008"]
 
@@ -71,121 +68,116 @@
 
 *3324|
 [fc]
-[ns]’|“à[nse]
-u‚â‚Á‚Ï‚è‚±‚±‚¾‚æ‚Èv[pcms]
+[ns]Takeuchi[nse]
+As I thought, here, right?[pcms]
 
 *3325|
 [fc]
-‹³º‚Å‚·‚é‚Á‚Ä‚¾‚¯‚ÅAƒXƒSƒC‹»•±‚µ‚Ä‚­‚é‚È‚ŸccB[r]
-‚à‚¤ŒÀŠE‚¾‚æccB[pcms]
+Just the thought of doing it in the classroom gets me so[r]excited...[l][er]
+I can't take it anymore...[pcms]
 
 *3326|
 [fc]
-[ns]’|“à[nse]
-u‘‚­A‘‚­ccv[pcms]
+[ns]Takeuchi[nse]
+Hurry, hurry...[pcms]
 
-;//SE:ƒxƒ‹ƒg‚ğ‚Í‚¸‚·
+;//SE:ãƒ™ãƒ«ãƒˆã‚’ã¯ãšã™
 
 [se0 storage="se066"]
 
 *3327|
 [fc]
-[ns]’|“à[nse]
-u‚ ‚Ÿ‚»‚¤‚¾AƒfƒWƒJƒƒfƒWƒJƒccv[pcms]
+[ns]Takeuchi[nse]
+Ah, that's right, the digital camera...[pcms]
 
 *3328|
 [fc]
-‚¦[‚ÆA‚Ç‚ê‚É‚µcc‚à‚¤‚Ç‚ê‚Å‚à‚¢‚¢‚âB[r]
-‚±‚ê‚É“ü‚Á‚Ä‚é‚Ì‘S•”‚¨•óƒ‚ƒm‚¾‚µAƒXƒ‰ƒCƒhƒVƒ‡[‚Å[r]
-‘S•”Œ©‚æ‚¤B[pcms]
+Um, let's see... Well, it doesn't really matter which one.[l][er]
+Everything in here is a treasure, so let's watch them all in[r]a slideshow.[pcms]
 
 *3329|
 [fc]
-[ns]’|“à[nse]
-u‚æ‚µccv[pcms]
+[ns]Takeuchi[nse]
+Alright...[pcms]
 
 *3330|
 [fc]
-‚ `A‚È‚ñ‚©ƒhƒLƒhƒL‚·‚é‚£ccB[r]
-‚¢‚Â‚à•×‹­‚µ‚Ä‚é‹³º‚ÅAƒIƒiƒj[‚·‚é‚È‚ñ‚ÄccB[pcms]
+Ahh, it makes my heart race...[l][er]
+Masturbating in the classroom where I always study...[pcms]
 
 *3331|
 [fc]
-[ns]’|“à[nse]
-uƒt[ccƒ“ƒt[ƒbccƒn[ƒbccv[pcms]
+[ns]Takeuchi[nse]
+Hoo... Hoo... Haah...[pcms]
 
 *3332|
 [fc]
-‚È‚É‚±‚ê‚¥cc‹C‚¿‚æ‚·‚¬‚é‚æ‚§ccB[r]
-‚¢‚Â‚à‚æ‚è‹C‚¿‚¢‚¢‚ÁccB[pcms]
+What is this... It feels so good...[l][er]
+It's even better than usual...[pcms]
 
 *3333|
 [fc]
-[ns]’|“à[nse]
-uƒn[ƒbccƒn[ƒbccIv[pcms]
+[ns]Takeuchi[nse]
+Haa... Haa...![pcms]
 
 *3334|
 [fc]
-ƒKƒ}ƒ“‚µ‚Ä‚½‚¹‚¢‚©‚È‚ŸccB[r]
-‚È‚ñ‚©A‚à‚¤ƒCƒL‚»ccB[pcms]
+Maybe it's because I've been holding back...[l][er]
+Somehow, I feel like I'm about to...[pcms]
 
 *3335|
 [fc]
-[ns]’|“à[nse]
-uƒnƒ@[ƒbAƒnƒ@[ƒbcc‚ ccv[pcms]
+[ns]Takeuchi[nse]
+Haaah, haaah... ah...[pcms]
 
 *3336|
 [fc]
-ƒeƒBƒbƒVƒ…‚Á‚Ä‚È‚¢‚âccB[r]
-‚Ç‚¤‚µ‚æ‚¤ccB[pcms]
+I don't have any tissues... What should I do...[pcms]
 
 *3337|
 [fc]
-‚±‚Ìó‘Ô‚ÅƒgƒCƒŒ‚És‚­‚Ì‚Í‚¿‚å‚Á‚Æ‚ÈccB[r]
-‰½‚©‚Ì‚Í‚¸‚İ‚ÅA“r’†‚ÅƒCƒb‚¿‚á‚Á‚½‚ç‘ä‚È‚µ‚¾‚µA’N[r]
-‚©‚ÉŒ©‚Â‚©‚Á‚½‚ç‘å•Ï‚¾B[pcms]
+Going to the bathroom in this state is a bit...[l][er]
+risky. If I accidentally climax along the way, it would ruin[r]everything, and if someone were to find me, it would be a[r]big problem.[pcms]
 
 *3338|
 [fc]
-“Á‚É“µ‚È‚ñ‚©‚ÉŒ©‚Â‚©‚Á‚½‚çA‰½‚ğŒ¾‚í‚ê‚é‚©ccB[pcms]
+If someone like Hitomi were to find me, I wonder what she[r]would say...[pcms]
 
 *3339|
 [fc]
-[ns]’|“à[nse]
-u“µA‚©‚Ÿccv[pcms]
+[ns]Takeuchi[nse]
+Hitomi, huh...[pcms]
 
 *3340|
 [fc]
-ƒ€ƒJ‚Â‚­‚ñ‚¾‚æ‚ÈA‚ ‚¢‚ÂI[r]
-‚¢‚Á‚Â‚à‚¢‚Á‚Â‚àAƒ{ƒN‚É‚Î‚Á‚©‚èƒMƒƒ[ƒMƒƒ[“{‚Á‚Ä[r]
-‚³I[pcms]
+It's so annoying, that person![l][er]
+Always, always yelling at me![pcms]
 
 *3341|
 [fc]
-‘×”V‚É‚ÍA‚Ù‚Æ‚ñ‚Ç‰½‚àŒ¾‚í‚È‚¢‚µ‚³‚ŸB[r]
-‚â‚Á‚Ï‚è‚ ‚¢‚ÂA‘×”V‚ªD‚«‚È‚ñ‚¾‚ë‚¤‚ÈB[pcms]
+Yasuyuki hardly says anything to me.[l][er]
+I guess that person really likes Yasuyuki.[pcms]
 
 *3342|
 [fc]
-[ns]’|“à[nse]
-u‚­‚»‚§ccv[pcms]
+[ns]Takeuchi[nse]
+Damn it...[pcms]
 
 *3343|
 [fc]
-‚»‚¤‚¾ccB[pcms]
+That's right...[pcms]
 
 *3344|
 [fc]
-‚¢‚Â‚à‚Ì‚¨•Ô‚µ‚ÉA‚ ‚¢‚Â‚ÌŠ÷‚Éƒuƒb‚©‚¯‚Ä‚â‚ë‚¤I[r]
-‚Ç‚¤‚¹A“ñŠwŠú‚ªn‚Ü‚é‚Ü‚Å‚±‚±‚É‚Í—ˆ‚È‚¢‚ñ‚¾‚µA[r]
-Š£‚¢‚¿‚á‚¦‚Î‚í‚©‚ñ‚È‚¢‚¾‚ëB[pcms]
+As a usual payback, I'll pour something on their desk![l][er]
+They won't come here until the second semester anyway, so[r]they won't notice if it dries up.[pcms]
 
 *3345|
 [fc]
-[ns]’|“à[nse]
-u“µ‚ÌÈ‚Íccv[pcms]
+[ns]Takeuchi[nse]
+Hitomi's seat is...[pcms]
 
-;//[03021]‚Ö
+;//[03021]ã¸
 [jump target=*03021_H_TOP storage="03021_H.ks"]
 
 

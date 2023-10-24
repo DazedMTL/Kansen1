@@ -1,19 +1,19 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN07150wœfœr‚Qx
-;//;//BG:“Áê‹³º˜L‰ºF–éGÁ“”
-;//“oêl•¨FŠ´õ“µEŠ´õ•ü”ü
-;//F“µ‹“_
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07150ã€å½·å¾¨ï¼’ã€
+;//;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼›æ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼šæ„ŸæŸ“ç³ãƒ»æ„ŸæŸ“æœ‹ç¾
+;//ï¼šç³è¦–ç‚¹
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *07150_H_TOP
-;[debug_win]‚È‚¤@07150_H[debug_win_end]
+;[debug_win]ãªã†ã€€07150_H[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07150 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07150 = 1"]
 
-;//ôFBGM004
+;//â™ªï¼šBGM004
 
 [bgm004]
 
@@ -27,181 +27,166 @@
 
 *7276|
 [fc]
-w‚ ‚Ìlx‚ğ‘{‚µ‚Äœfœr‚¢•à‚¢‚Ä‚¢‚é‚ÆA—‚ªˆêlA³[r]
-–Ê‚©‚ç‹ß‚Ã‚¢‚Ä‚«‚½B[pcms]
+A woman approached me as I wandered around, searching for[r]that person.[pcms]
 
-;//—™ŸºF‰º‹L‚r‚d‚ª•\‚É‚È‚¢‚½‚ß‚ÉŒ»İ‰¹‚ğ’£‚Á‚Ä‚¢‚Ü‚¹‚ñB
+;//ï¼ æ‰æ¸•ï¼šä¸‹è¨˜ï¼³ï¼¥ãŒè¡¨ã«ãªã„ãŸã‚ã«ç¾åœ¨éŸ³ã‚’å¼µã£ã¦ã„ã¾ã›ã‚“ã€‚
 
-;//SE:˜L‰º‚ğ•à‚­
+;//SE:å»Šä¸‹ã‚’æ­©ã
 
 [se0 storage="se067"]
 
 *7277|
 [fc]
-‚±‚¿‚ç‚ğ”F‚ßAƒjƒ„‚¯‚½Î‚¢‚ğ•‚‚©‚×‚é‚»‚Ì—‚ÉA„‚Í[r]
-_Œo‚ğ‹t‚È‚Å‚³‚ê‚é—l‚ÈŠ´Šo‚ğ–¡‚í‚í‚³‚ê‚½B[pcms]
+I experienced a sensation that felt like my nerves were[r]being rubbed the wrong way by that woman, who smirked and[r]acknowledged me.[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_e_b_01"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2935|
 [fc]
 [vo_to s="tomo0341"]
-[ns]ŒÜ\—’[nse]
-u‚Ë[‚Ë[A‚«‚¢‚Ä[cc‚³‚Á‚«‚Ë[A‚·‚²‚¢‚«‚à‚¿‚¢[r]
-‚¢‚±‚Æ‚µ‚½‚ñ‚¾‚æccv[pcms]
+[ns]Igarashi[nse]
+Hey, hey, listen... Earlier, you know, I did something[r]really pleasurable...[pcms]
 
 *7278|
 [fc]
-Œ©‚Ä‚¢‚é‚¾‚¯‚Å¶—“IŒ™ˆ«‚ğŠ´‚¶‚³‚¹‚é‚µA‚¨‚Ü‚¯‚ÉA[r]
-‘Ì‚©‚ç‹¹‚Ìˆ«‚­‚È‚é‚æ‚¤‚ÈL‚¢‚ğ•Y‚í‚¹‚Ä‚¢‚éB[pcms]
+She not only gives off a sense of physiological disgust just[r]by looking at her, but she also emits a nauseating smell[r]from her body.[pcms]
 
 *7279|
 [fc]
-‰Õ—§‚¿A‹C•ª‚ğŠQ‚µ‚½„‚ÍA—‚ğ–³‹‚µ‚Ä‚»‚Ìê‚ğ—£‚ê[r]
-‚æ‚¤‚Æl‚¦‚½B[pcms]
+I felt irritated and offended, so I thought about ignoring[r]the woman and leaving the place.[pcms]
 
 *v2936|
 [fc]
 [vo_sa s="sae0816"]
-[ns]²”Œ[nse]
-uccHv[pcms]
+[ns]Saeki[nse]
+...?[pcms]
 
 *7280|
 [fc]
-‚µ‚©‚µA‘«‚ğ“¥‚İo‚»‚¤‚Æ‚µ‚½‚»‚ÌA—‚Ì‘Ì‚©‚ç•Y‚Á[r]
-‚Ä‚­‚éL‚¢‚Ì’†‚ÉA‰º• •”‚Ì”M‚ğ‚‚ß‚é‚à‚Ì‚ª‚ ‚é‚±‚Æ[r]
-‚É‹C‚ª‚Â‚¢‚½B[pcms]
+However, at that moment when I was about to take a step[r]forward, I noticed something that heightened the heat in my[r]lower abdomen amidst the smell emanating from the woman's[r]body.[pcms]
 
 *7281|
 [fc]
-‚à‚µ‚©‚µ‚Äcc‚±‚ê‚Íw‚ ‚Ì‚Ğ‚Æx‚ÌccB[r]
-‚Å‚ÍA‚±‚Ì‚¨‚ñ‚Èccw‚ ‚Ì‚Ğ‚Æx‚É‚¾‚©‚ê‚Ä‚¢‚½‚Æ‚¢[r]
-‚¤‚ÌccH[pcms]
+Could it be... this is that person's...[l][er]
+So, this woman... was involved with that person...?[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_e_d_01"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2937|
 [fc]
 [vo_to s="tomo0342"]
-[ns]ŒÜ\—’[nse]
-u‚ [cc‚à‚µ‚©‚µ‚ÄA‚¨‚¿‚ñ‚¿‚ñ‚³‚ª‚µ‚Ä‚é‚ÌccH[r]
-‚»‚ê‚È‚çA‚É‚©‚¢‚Ì‚«‚å‚¤‚µ‚Â‚Å‚Ë‚Ä‚é‚æccv[pcms]
+[ns]Igarashi[nse]
+Ah... Could it be that you're looking for a penis...?[l][er]
+If that's the case, I'm sleeping in the second classroom...[pcms]
 
 *7282|
 [fc]
-‚É‚©‚¢ccB[r]
-‚É‚©‚¢‚ÉAw‚ ‚Ì‚Ğ‚Æx‚ª‚¢‚éccB[pcms]
+There it is... There it is, that person is here...[pcms]
 
 *7283|
 [fc]
-w‚ ‚Ìlx‚É•ø‚©‚ê‚½‚Ì‚¾‚ë‚¤—‚ÉA„‚Í‰Õ—§‚¿‚ğ‰z‚¦[r]
-‚ÄEˆÓ‚ğ•ø‚¢‚Ä‚¢‚½B[pcms]
+I had not just irritation, but also a murderous intent[r]towards the woman who I believed had been embraced by that[r]person.[pcms]
 
 *7284|
 [fc]
-‚µ‚©‚µA“ñŠK‚Ì‹³ºA‚Æ‚¢‚¤î•ñ‚ğ‚à‚½‚ç‚µ‚½•”•ª‚ğ•][r]
-‰¿‚µ‚Ä‚â‚èA„‚Í—‚É•ø‚¢‚½EˆÓ‚ğ‚Ô‚Â‚¯‚é‚±‚Æ‚È‚­A[r]
-ŠK’i‚ÉŒü‚©‚¤ˆ×Aæù‚ğ•Ô‚µ‚½B[pcms]
+However, I appreciated the part where she provided[r]information about the second floor classroom, so without[r]directing my murderous intent towards the woman, I turned on[r]my heel to head towards the stairs.[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_e_b_01"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2938|
 [fc]
 [vo_to s="tomo0343"]
-[ns]ŒÜ\—’[nse]
-u‚Å‚à‚Ë[cc‚¢‚Á‚©‚¢A‚¾‚µ‚½‚¾‚¯‚Åcc‚Ë‚¿‚á‚Á‚½[r]
-‚ÌccB‚¾‚©‚ç‚Ë[A‚ ‚½‚µA‚¢‚Ücc‚×‚Â‚Ì‚¨‚¿‚ñ‚¿[r]
-‚ñA‚³‚ª‚µ‚Ä‚é‚ñ‚¾[ccv[pcms]
+[ns]Igarashi[nse]
+But you see... Just once, I...[l][er]
+got wet. So, you know, right now...[l][er]
+I'm looking for another penis...[pcms]
 
 *v2939|
 [fc]
 [vo_sa s="sae0817"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2940|
 [fc]
 [vo_to s="tomo0344"]
-[ns]ŒÜ\—’[nse]
-uccH@‚¦‚Öcc‚È‚Ÿ‚ÉccHv[pcms]
+[ns]Igarashi[nse]
+...? Ehe... what is it...?[pcms]
 
 *7285|
 [fc]
-‚µ‚Â‚±‚­„‚É‚Â‚«‚Ü‚Æ‚¤—‚ÉA„‚Í‰ä–‚ÌŒÀŠE‚ğŠ´‚¶‚ÄA[r]
-‘«‚ğ~‚ß‚½B[pcms]
+I felt my patience reach its limit with the woman who[r]persistently clung to me, so I stopped in my tracks.[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_e_d_01"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_e_d_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2941|
 [fc]
 [vo_to s="tomo0345"]
-[ns]ŒÜ\—’[nse]
-u‚Ë[cc‚¨‚È‚Ü‚¦A‚¨‚µ‚¦‚Ä[ccH@‚ ‚½‚µ‚Ë[A[r]
-‚¨‚ñ‚È‚Ì‚±‚à‚¢[‚©‚È[‚Á‚Äccv[pcms]
+[ns]Igarashi[nse]
+Hey... Can you tell me your name?[l][er]
+I was wondering if there are also girls here...[pcms]
 
 *v2942|
 [fc]
 [vo_sa s="sae0818"]
-[ns]²”Œ[nse]
-u‚»‚±‚ğA‚Ç‚«‚È‚³‚¢v[pcms]
+[ns]Saeki[nse]
+Move aside.[pcms]
 
-;//SE:l‚Æ‚Ô‚Â‚©‚é
+;//SE:äººã¨ã¶ã¤ã‹ã‚‹
 [se0 storage="se025"]
 
 [ChrSetEx layer=1 chbase="tomo_e_b_01"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2943|
 [fc]
 [vo_to s="tomo0346"]
-[ns]ŒÜ\—’[nse]
-u‚ ‚Áccv[pcms]
+[ns]Igarashi[nse]
+Ah...[pcms]
 
 [eval exp="f.chara_x = 240,f.chara_y = 0"]
 [quake_chara layer=1 lo xy s]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 [se0 storage="se021"]
 
 *7286|
 [fc]
-—Í”C‚¹‚É“Ë‚«”ò‚Î‚·‚ÆA—‚Í‘«‚ğ‚à‚Â‚ê‚³‚¹‚ÄA–³—l‚È[r]
-ŠiD‚Å°‚É”‡‚¢‚Â‚­‚Î‚Á‚½B[pcms]
+With a forceful push, the woman stumbled and crawled on the[r]floor in a disgraceful manner.[pcms]
 
 *v2944|
 [fc]
 [vo_sa s="sae0819"]
-[ns]²”Œ[nse]
-u‚­‚·ccv[pcms]
+[ns]Saeki[nse]
+Hehe...[pcms]
 
 *7287|
 [fc]
-Ô‚Éç€‚©‚ê‚½Š^‚Ì—l‚Èp‚Ì—‚ğA¸Î¬‚¶‚è‚Éˆê•Ë‚µ‚Ä[r]
-‚©‚çA„‚ÍÄ“xAŠK’i‚ğ–Úw‚µ‚Ä•à‚«n‚ß‚½B[pcms]
+After glancing at the woman who looked like a frog that had[r]been run over by a car, I chuckled and then started walking[r]towards the stairs again.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -213,7 +198,7 @@
 ;[trans_c random time=501]
 ;[zapfade]
 
-;//[07160]‚Ö
+;//[07160]ã¸
 [jump target=*07160_H_TOP storage="07160_H.ks"]
 
 

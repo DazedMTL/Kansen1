@@ -1,21 +1,21 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02030w’Tõæ‚ğ’ñˆÄ‚·‚éålŒöx
-;//BG:“Áê‹³ºF˜L‰ºF–éF“_“”
-;//“oêl•¨GålŒöE—D
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02030ã€æ¢ç´¢å…ˆã‚’ææ¡ˆã™ã‚‹ä¸»äººå…¬ã€
+;//BG:ç‰¹æ®Šæ•™å®¤ï¼šå»Šä¸‹ï¼šå¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02030_TOP
-;[debug_win]‚È‚¤@02030[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02030 = 1"]
+;[debug_win]ãªã†ã€€02030[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02030 = 1"]
 
-;*SceneSet|w’Tõæ‚ğ’ñˆÄ‚·‚éålŒöx
+;*SceneSet|ã€æ¢ç´¢å…ˆã‚’ææ¡ˆã™ã‚‹ä¸»äººå…¬ã€
 
 ;//[02030]
 
-;//flag:—Dƒ‹[ƒgƒtƒ[@‚P•\¦
-;//ôFBGM001
+;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼‘è¡¨ç¤º
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//BG:bg008c
 ;g[bg storage="bg08c"]
@@ -23,87 +23,79 @@
 
 *1324|
 [fc]
-[ns]‰Á“¡[nse]
-u‘½•ªA—S“ñ‚ÆŒÜ\—’ƒTƒ“‚ª‚¢‚é‚Ì‚ÍA‚Ç‚±‚©‚ÌƒgƒCƒŒ[r]
-‚©A‚¶‚á‚È‚«‚á‘ÌˆçŠÙ‚¶‚á‚È‚¢‚©‚ÈBV“¹æ¶‚Í—‰È€[r]
-”õº‚¾‚Æv‚¤v[pcms]
+[ns]Kato[nse]
+Maybe Yuuji and Igarashi-san are in the restroom or maybe[r]the gymnasium.[l][er]
+I think Shindou-sensei is in the science preparation room.[pcms]
 
 *1325|
 [fc]
-‚Â‚¢‚±‚ÌŠÔA^–ç‚Ì‰Æ‚ÉW‚Ü‚Á‚ÄAƒGƒƒ}ƒ“ƒKƒRƒŒƒNƒV[r]
-ƒ‡ƒ“‚ğŒ©‚Ä‚¢‚½—S“ñ‚ª˜b‚µ‚Ä‚¢‚½‚±‚Æ‚ğA‰´‚Ív‚¢o‚µ[r]
-‚Ä‚¢‚½B[pcms]
+I remembered what Yuuji was talking about when we gathered[r]at Shinya's house a little while ago and were looking at his[r]erotic manga collection.[pcms]
 
 *1326|
 [fc]
-w‘Ìˆç‘qŒÉ‚Á‚Ä‚Ì‚Íƒxƒ^‚¾‚æ‚È[x[r]
-wƒgƒCƒŒ‚ÌŒÂº‚©[A‚¯‚Á‚±[ƒCƒC‚©‚àx[pcms]
+The gymnasium is a clichÃ©, isn't it?[l][er]
+The individual stalls in the restroom...[l][er]
+that might be pretty good.[pcms]
 
 *1327|
 [fc]
-‚ ‚ê‚ÍAŸ‚ÉŠwZ‚Ì‚Ç‚ÌêŠ‚ÅƒZƒbƒNƒX‚ğ‚·‚é‚©‚ÌA”»[r]
-’fŞ—¿‚ğ’T‚µ‚Ä‚¢‚½‚ñ‚¾‚ë‚¤B[pcms]
+They were probably looking for clues on where to have sex[r]next at school.[pcms]
 
 *1328|
 [fc]
-‚Æ‚È‚ê‚ÎAwƒgƒCƒŒx‚©w‘ÌˆçŠÙx‚És‚Á‚½‚Í‚¸‚¾B[pcms]
+They must have gone to the 'restroom' or the 'gymnasium'[r]then.[pcms]
 
 *1329|
 [fc]
-V“¹æ¶‚ÍA‹}‚¬‚Ìd–‚ª‚ ‚é‚Á‚ÄŒ¾‚Á‚Ä‚½‚µA‚Ü‚¸ŠÔ[r]
-ˆá‚¢‚È‚­—‰È€”õº‚¾‚ë‚¤B[pcms]
+Shindou-sensei said she has urgent work, so without a doubt,[r]she must be in the science preparation room.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v574|
 [fc]
 [vo_ya s="yama0098"]
-[ns]RŠİ[nse]
-uV“¹æ¶‚ª—‰È€”õº‚É‚¢‚éA‚Á‚Ä‚¢‚¤‚Ì‚Í‚í‚©‚é‚¯[r]
-‚ÇAƒgƒ‚‚¿‚á‚ñ’B‚ªƒgƒCƒŒ‚©‘ÌˆçŠÙ‚Á‚Ä‚¢‚¤‚Ì‚ÍH@‰½[r]
-‚Å‚»‚ñ‚ÈŠ‚É‚¢‚é‚ÌHv[pcms]
+[ns]Yamagishi[nse]
+I understand that Shindou-sensei is in the science[r]preparation room, but why are Tomo-chan and the others in[r]the restroom or gymnasium?[l][er]
+What are they doing in such places?[pcms]
 
-;//SE:S”‰¹
+;//SE:å¿ƒæ‹éŸ³
 [se0 storage="se003"]
 
 *1330|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ [A‚¢‚âccv[pcms]
+[ns]Kato[nse]
+Ah, well...[pcms]
 
 *1331|
 [fc]
-‚µ‚Ü‚Á‚½ccŒû‚Éo‚·‚ñ‚¶‚á‚È‚©‚Á‚½ccB[r]
-“ñl‚ÍƒZƒbƒNƒX‚µ‚Ä‚Ü‚·A‚È‚ñ‚Ä³’¼‚ÉŒ¾‚¤‚í‚¯‚É‚à‚¢[r]
-‚©‚È‚¢‚µccB[pcms]
+Oh no... I shouldn't have said it out loud...[l][er]
+I can't honestly say that they're having sex...[pcms]
 
 *1332|
 [fc]
-‚È‚É‚æ‚èA‰ºƒlƒ^‚ğŒ¾‚Á‚½‚¹‚¢‚ÅRŠİ‚³‚ñ‚ÉŒ™‚í‚ê‚Å‚à[r]
-‚µ‚½‚çA–Ú‚à“–‚Ä‚ç‚ê‚È‚¢B[pcms]
+If I end up being disliked by Yamagishi-san because I made a[r]dirty joke, I won't be able to face her.[pcms]
 
 *1333|
 [fc]
-‚»‚¤‚¾cc‰ºƒlƒ^‚Æ‚¢‚¦‚Î^–ç‚¾‚¯‚ÇA‚ ‚¢‚Â‚Íˆê‘Ì‚Ç[r]
-‚±‚És‚Á‚½‚ñ‚¾H[pcms]
+That's right... Speaking of dirty jokes, it's only Shinya,[r]but where did he go?[pcms]
 
-;//¦ğŒ•ªŠò
-;//Eflag:—Dƒ‹[ƒgƒNƒŠƒA@‚ªoff;//[02040]‚Ö
-;//Eflag:—Dƒ‹[ƒgƒNƒŠƒA@‚ªon;//[03000]‚Ö
+;//â€»æ¡ä»¶åˆ†å²
+;//ãƒ»flag:å„ªãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒoff;//[02040]ã¸
+;//ãƒ»flag:å„ªãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒon;//[03000]ã¸
 
 [if exp="sf.g_yuu_clear==0"]
 	[jump target=*02040_TOP storage="02040.ks"]
 [endif]
 
-;//ƒNƒŠƒA‚µ‚Ä‚é
+;//ã‚¯ãƒªã‚¢ã—ã¦ã‚‹
 [jump target=*03000_TOP storage="03000.ks"]
 
 ;------------------------------------------------
-;//ƒNƒŠƒA‚µ‚Ä‚È‚¢
+;//ã‚¯ãƒªã‚¢ã—ã¦ãªã„
 *02030_off
 [jump target=*02040_TOP storage="02040.ks"]
 

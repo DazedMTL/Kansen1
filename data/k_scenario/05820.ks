@@ -1,15 +1,15 @@
 
-;//¡ËƒuƒƒbƒN05820wƒ‰ƒWƒI‚Qx
-;//;//BG:¸~Œû‘O˜L‰ºF—[•ûFÁ“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05820ã€ãƒ©ã‚¸ã‚ªï¼’ã€
+;//;//BG:æ˜‡é™å£å‰å»Šä¸‹ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05820_TOP
-;[debug_win]‚È‚¤@05820[debug_win_end]
-;*SceneSet|wƒ‰ƒWƒI‚Qx
+;[debug_win]ãªã†ã€€05820[debug_win_end]
+;*SceneSet|ã€ãƒ©ã‚¸ã‚ªï¼’ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05820 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05820 = 1"]
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 
 [bgm008]
 
@@ -24,58 +24,53 @@
 
 *6214|
 [fc]
-‰^‚Ì‚¢‚¢‚±‚Æ‚ÉA¸~Œû‚Ìü‚è‚É‚Í“z‚ç‚Ìp‚Íˆê‚Â‚à‚È[r]
-‚­A‚¤‚È‚èº‚ª•·‚±‚¦‚Ä‚­‚é‚±‚Æ‚à‚È‚©‚Á‚½B[pcms]
+Fortunately, there was not a single one of them around the[r]entrance, and there was no sound of growling either.[pcms]
 
 *6215|
 [fc]
-‰½‚æ‚è•sv‹c‚È‚Ì‚ÍAZ–å‚Ìü‚è‚É‚¢‚½‚ ‚Ì‘åŒQ‚àAãY[r]
-—íƒTƒbƒpƒŠ‚¢‚È‚­‚È‚Á‚Ä‚¢‚½‚±‚Æ‚¾B[pcms]
+What's even more mysterious is that the large group that was[r]around the school gate has completely disappeared.[pcms]
 
 *6216|
 [fc]
-‹}‚Éo‚Ä‚«‚½‚èA‚¢‚Â‚ÌŠÔ‚É‚©‚¢‚È‚­‚È‚Á‚Ä‚½‚èA‚ ‚¢[r]
-‚Â‚çˆê‘Ì‰½‚È‚ñ‚¾‚æccB[r]
-’´”\—Í‚Å‚à‚Á‚Ä‚ñ‚Ì‚©ccH[pcms]
+They suddenly appear and then disappear without a trace.[l][er]
+What the hell are they...? Do they have some kind of[r]supernatural power...?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2568|
 [fc]
 [vo_sa s="sae0679"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñccv[pcms]
+[ns]Saeki[nse]
+Kato-san...[pcms]
 
 *6217|
 [fc]
-ŒÄ‚Ñ‚©‚¯‚ç‚ê‚ÄŠç‚ğŒü‚¯‚é‚ÆA²”Œ‚Í•sˆÀ‚»‚¤‚ÈŠç‚ÅA[r]
-‚ ‚éŠ‚ğw‚³‚µ‚Ä‚¢‚½B[pcms]
+Saeki, with an anxious expression on her face, turned[r]towards me when I called out to her and pointed at a certain[r]place.[pcms]
 
 *6218|
 [fc]
-[ns]‰Á“¡[nse]
-uEˆõºccHv[pcms]
+[ns]Kato[nse]
+Staff room...?[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *6219|
 [fc]
-²”Œ‚ğŒ©‚ÄƒLƒ‡ƒgƒ“‚Æ‚µ‚Ä‚¢‚é‚ÆAEˆõº‚Ì•û‚©‚ç’N‚©[r]
-‚Ì˜b‚µº‚ÆA‰½‚©‚Ì‰¹Šy‚ª•·‚±‚¦‚Ä‚«‚Ä‚¢‚½B[pcms]
+As I looked at Saeki with a puzzled expression, I could hear[r]someone's voice and some music coming from the direction of[r]the staff room.[pcms]
 
 *6220|
 [fc]
-[ns]‰Á“¡[nse]
-u’N‚¾ccH@RŠİ‚³‚ñ’B‚©‚Èccv[pcms]
+[ns]Kato[nse]
+Who is it...? Is it Yamagishi-san and the others...?[pcms]
 
 *6221|
 [fc]
-‰´‚ÍƒhƒA‚É‹ß‚Ã‚¢‚Ä”–‚­ŠJ‚¯A’†‚Ì—lq‚ğ‰M‚Á‚½B[pcms]
+I approached the door and gently opened it, peering inside[r]to see what was happening.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -86,5 +81,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05830]‚Ö
+;//[05830]ã¸
 [jump target=*05830_TOP storage="05830.ks"]

@@ -1,18 +1,18 @@
 
 
-;//wŠ´õi‰¼‘èj|“µEƒƒCƒ“ƒ‹[ƒgƒeƒLƒXƒgx
+;//ã€æ„ŸæŸ“ï¼ˆä»®é¡Œï¼‰âˆ’ç³ãƒ»ãƒ¡ã‚¤ãƒ³ãƒ«ãƒ¼ãƒˆãƒ†ã‚­ã‚¹ãƒˆã€
 
-;//¡ËƒuƒƒbƒN05000w•|‚ª‚è“µx
-;//BG:‹’®ŠoºF–é
-;//“oêl•¨GålŒö
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05000ã€æ€–ãŒã‚Šç³ã€
+;//BG:è¦–è´è¦šå®¤ï¼šå¤œ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬
 
 *05000_TOP
-;[debug_win]‚È‚¤@05000[debug_win_end]
-;*SceneSet|w•|‚ª‚è“µx
+;[debug_win]ãªã†ã€€05000[debug_win_end]
+;*SceneSet|ã€æ€–ãŒã‚Šç³ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05000 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05000 = 1"]
 
-;mm ‚È‚ñ‚Å‚±‚±‚Åƒtƒ‰ƒO‚±‚ñ‚È‚ÉH‚È‚¢‚ÆƒoƒO‚é‚Ì‚©‚µ‚ç
+;mm ãªã‚“ã§ã“ã“ã§ãƒ•ãƒ©ã‚°ã“ã‚“ãªã«ï¼Ÿãªã„ã¨ãƒã‚°ã‚‹ã®ã‹ã—ã‚‰
 [eval exp="f.prologue_route = 0"]
 [eval exp="f.yuu_route1 = 0"]
 [eval exp="f.yuu_route2 = 0"]
@@ -24,11 +24,11 @@
 [eval exp="f.hitomi_route4 = 0"]
 [eval exp="f.infection_route = 0"]
 
-;//flag:“µƒ‹[ƒgƒtƒ[@‰æ–Ê@•\¦
+;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ç”»é¢ã€€è¡¨ç¤º
 
-;//flag:ƒvƒƒ[ƒOƒtƒ[@‚a@•\¦
+;//flag:ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ãƒ•ãƒ­ãƒ¼ã€€ï¼¢ã€€è¡¨ç¤º
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 
 [fadeoutbgm time=500]
 
@@ -45,59 +45,50 @@
 
 *4615|
 [fc]
-•|‚ª‚è‚ÌƒNƒZ‚ÉAˆÓ’n‚Á’£‚è‚È²”Œ‚Ì‚±‚Æ‚¾B[r]
-‰´‚¾‚¯‚È‚ç‚Ü‚¾‚µ‚àARŠİ‚³‚ñ‚Ü‚Å‚¢‚½‚Ì‚Å‚ÍAw‘S‘R[r]
-•|‚­‚È‚¢x‚È‚Ç‚ÆˆÓ’n‚ğ’£‚Á‚ÄAƒ€ƒ`ƒƒ‚ğ‚µ‚©‚Ë‚È‚¢B[pcms]
+Saeki is a scaredy-cat, but she's also stubborn.[l][er]
+It's not just me, but even Yamagishi-san is here, so if she[r]starts insisting that she's not scared at all, it could lead[r]to something reckless.[pcms]
 
 *4616|
 [fc]
-‹­‚ª‚é²”Œ‚ÉA‰\‚É‚È‚Á‚Ä‚¢‚éZ“à‚ÌS—ìƒXƒ|ƒbƒg‚É“¥[r]
-‚İ‚Ü‚ê‚ÄA‘å–‚É‚Å‚à‚È‚Á‚½‚çAŒãX‚â‚Á‚©‚¢‚È‚±‚Æ[r]
-‚É‚È‚é‚Ì‚Í–¾‚ç‚©‚¾B[pcms]
+It's clear that if Saeki, who is trying to act tough, ends[r]up stepping into the rumored haunted spot on campus and gets[r]into some kind of trouble, it will become a troublesome[r]situation later on.[pcms]
 
 *4617|
 [fc]
-[ns]‰Á“¡[nse]
-uŠÔˆá‚¢‚È‚­A‰fŒ¤‚Í”p•”‚É‚È‚é‚æ‚È[B‚»‚¤‚µ‚½‚çA[r]
-RŠİ‚³‚ñ‚Æ‚à‰ï‚¦‚È‚­‚È‚é‚µccv[pcms]
+[ns]Kato[nse]
+Without a doubt, the Film Club will disband.[l][er]
+And if that happens, I won't be able to see Yamagishi-san[r]anymore...[pcms]
 
 *4618|
 [fc]
-–T‚É‚¢‚é‚Ì‚ª‰´‚¾‚¯‚È‚çAƒNƒ‰ƒXƒ[ƒg‚Å‚à‚ ‚é‚µAŒ‹[r]
-\˜b‚·’‡‚Å‚à‚ ‚é‚µA²”Œ‚à•Ï‚É‹C‚ğ’£‚é‚±‚Æ‚Í‚È‚¢‚¾[r]
-‚ë‚¤B[pcms]
+If I'm the only one by her side, not only are we classmates,[r]but we also talk quite a bit, so Saeki shouldn't have to be[r]unnecessarily tense.[pcms]
 
 *4619|
 [fc]
-‚Æ‚Í‚¢‚¦AƒXƒgƒŒ[ƒg‚Éw‰´‚ª‚Â‚¢‚Ä‚¢‚Á‚Ä‚â‚é‚æx‚È[r]
-‚ñ‚ÄŒ¾‚¨‚¤‚à‚Ì‚È‚çA²”Œ‚ÍˆÓ’n‚ğ’£‚Á‚ÄwŒ‹\‚Å‚·x[r]
-‚Æ‘¦“š‚·‚é‚Éˆá‚¢‚È‚¢B[pcms]
+However, if I were to straightforwardly say I'll go with[r]you, Saeki would stubbornly reply with No, thank you without[r]a doubt.[pcms]
 
 *4620|
 [fc]
-‚»‚ê‚Å‰´‚ÍAˆê’Uƒoƒ‰‚¯‚Ä‚©‚çA‚ ‚Æ‚Å²”Œ‚ğ’Ç‚¢‚©‚¯[r]
-‚ÄA‚ ‚¢‚Â‚ğƒtƒHƒ[‚µ‚Ä‚â‚ë‚¤‚Æl‚¦‚½‚Ì‚¾B[pcms]
+So, I thought that I would temporarily separate from the[r]group and then later chase after Saeki to support her.[pcms]
 
 *4621|
 [fc]
-[ns]‰Á“¡[nse]
-u‚È‚ñ‚©‚à‚¤AƒJƒŒƒV•À‚Ì‹C‚Ìg‚¢‚æ‚¤‚¾‚æ‚Èccv[pcms]
+[ns]Kato[nse]
+It's like he's being as considerate as a boyfriend...[pcms]
 
 *4622|
 [fc]
-ƒJƒŒƒV‚©[ccB[r]
-‚»‚¤‚¢‚â²”Œ‚Á‚ÄAD‚«‚È’j‚Æ‚©‚¢‚é‚Ì‚©‚ÈccB[pcms]
+A boyfriend, huh... Come to think of it, I wonder if Saeki[r]has someone she likes...[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
 [stop_se1]
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 ;//blackout
-;//[05010]‚Ö
+;//[05010]ã¸
 [jump target=*05010_TOP storage="05010.ks"]
 
 

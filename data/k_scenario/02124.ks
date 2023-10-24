@@ -1,20 +1,20 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02124w‰®ã‚©‚çŒ©‚¦‚éŠXx
-;//BG:“ñŠK˜L‰ºFƒoƒŠƒP[ƒhF’‹i’©Œ“—pj
-;//BG:‰®ãF’‹
-;//“oêl•¨GålŒöE—D
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02124ã€å±‹ä¸Šã‹ã‚‰è¦‹ãˆã‚‹è¡—ã€
+;//BG:äºŒéšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//BG:å±‹ä¸Šï¼šæ˜¼
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02124_TOP
-;[debug_win]‚È‚¤@02124[debug_win_end]
+;[debug_win]ãªã†ã€€02124[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02124 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02124 = 1"]
 
-;*SceneSet|w‰®ã‚©‚çŒ©‚¦‚éŠXx
+;*SceneSet|ã€å±‹ä¸Šã‹ã‚‰è¦‹ãˆã‚‹è¡—ã€
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 
 [fadeoutbgm time=500]
 
@@ -23,7 +23,7 @@
 [bg storage="bg22a"]
 [trans_c cross time=500]
 
-;//SE:•—‚Ì‰¹
+;//SE:é¢¨ã®éŸ³
 
 [se0 storage="se019"]
 
@@ -31,105 +31,95 @@
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v948|
 [fc]
 [vo_ya s="yama0298"]
-[ns]RŠİ[nse]
-u‚³‚Á‚«‚Í‚ ‚è‚ª‚Æ‚¤‚ËA‰Á“¡ŒNB„‚Ì‘ã‚í‚è‚ÉAV“¹[r]
-æ¶‚ğ”[“¾‚³‚¹‚Ä‚­‚ê‚Äv[pcms]
+[ns]Yamagishi[nse]
+Thank you earlier, Kato-kun. You convinced Shindou-sensei in[r]my place.[pcms]
 
 *2397|
 [fc]
-‰®ã‚É’…‚­‚ÆARŠİ‚³‚ñ‚Í‚»‚¤Œ¾‚Á‚ÄA‚¢‚Â‚à‚ÌÎŠç‚ğ[r]
-‰´‚ÉŒ©‚¹‚½B[pcms]
+When we arrived at the rooftop, Yamagishi-san said that and[r]showed me her usual smile.[pcms]
 
 *2398|
 [fc]
-‹v‚µ‚Ô‚è‚ÉŒ©‚½‚æ‚¤‚È‹C‚ª‚·‚é‚»‚ÌÎŠç‚ÉA‰´‚ÍŠğ‚µ‚­[r]
-‚È‚Á‚ÄARŠİ‚³‚ñ‚ÉÎ‚¢•Ô‚µ‚½B[pcms]
+I felt happy seeing that smile, as if I hadn't seen it in a[r]long time, and I smiled back at Yamagishi-san.[pcms]
 
 *2399|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ [A‚¢‚âARŠİ‚³‚ñ‚àA‰´‚Æ“¯‚¶‚±‚Æl‚¦‚Ä‚é‚ñ‚¾[r]
-‚ë‚¤‚È‚Á‚ÄAv‚Á‚½‚©‚ç‚³cc‚ ‚ÁIHv[pcms]
+[ns]Kato[nse]
+Ah, well, I thought that Yamagishi-san might be thinking the[r]same thing as me...[l][er]
+Ah!?[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//ôFBGM003
+;//â™ªï¼šBGM003
 [bgm003]
 
 *2400|
 [fc]
-ƒtƒFƒ“ƒX‚É‹ß‚Ã‚¢‚ÄŠX‚Ì•û‚ğ’­‚ß‚é‚ÆAŠ‚éŠ‚©‚ç‰Œ‚ª[r]
-ã‚ª‚Á‚Ä‚¢‚é‚Ì‚ªŒ©‚¦‚½B[pcms]
+I approached the fence and looked towards the city, and I[r]could see smoke rising from various places.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v949|
 [fc]
 [vo_ya s="yama0299"]
-[ns]RŠİ[nse]
-u‚¯cc‰Œ‚ªccv[pcms]
+[ns]Yamagishi[nse]
+Ke... Smoke...[pcms]
 
 *2401|
 [fc]
-‰Î‚Ìè‚ÍŒ©‚¦‚È‚¢‚¯‚ÇA‰Î–‚ª‹N‚±‚Á‚Ä‚¢‚é‚Ì‚ÍŠÔˆá‚¢[r]
-‚È‚¢B–\“®‚ğ‹N‚±‚µ‚Ä‚¢‚élŠÔ’B‚ªAè“–‚½‚èŸ‘æ‚É•ú[r]
-‰Î‚µ‚Ä‚¢‚é‚ñ‚¾‚ë‚¤‚©ccB[pcms]
+The flames may not be visible, but there is no doubt that a[r]fire is occurring.[l][er]
+Are the people causing the riots setting fires[r]indiscriminately...?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v950|
 [fc]
 [vo_ya s="yama0300"]
-[ns]RŠİ[nse]
-ucc–{“–‚İ‚½‚¢‚¾‚ËAƒ‰ƒWƒI‚ÅŒ¾‚Á‚Ä‚é‚±‚Æccv[pcms]
+[ns]Yamagishi[nse]
+... It seems to be true, what they're saying on the radio...[pcms]
 
 *2402|
 [fc]
-—’_‚µ‚½‚æ‚¤‚ÈŠç‚ÅARŠİ‚³‚ñ‚ª¬‚³‚­™ê‚­B[r]
-ŠX‚Ì—lq‚ğ©•ª‚Ì–Ú‚ÅŠm”F‚µ‚½‚±‚Æ‚ÅA”Ş—‚Í¡‚Ìó‹µ[r]
-‚ğó‚¯“ü‚ê‚½‚æ‚¤‚¾‚Á‚½B[pcms]
+Yamagishi-san murmured softly with a disappointed[r]expression.[l][er]
+By confirming the state of the city with her own eyes, it[r]seemed like she had accepted the current situation.[pcms]
 
 *2403|
 [fc]
-‚»‚ÌŒãAƒtƒFƒ“ƒX‚É‰ˆ‚Á‚ÄAZÉ‚Ìü‚è‚Ì—lq‚ğŒ©‚Ä‚¢[r]
-‚­‚ÆAæ¶—p‚Ì’“Ôê‚ÉAŒ©Šo‚¦‚Ì‚ ‚éƒ~ƒjƒoƒ“‚ª’u‚¢[r]
-‚Ä‚ ‚é‚Ì‚ÉA‰´‚Í‹C‚ª‚Â‚¢‚½B[pcms]
+Afterwards, as I walked along the fence and observed the[r]surroundings of the school building, I noticed a familiar[r]minivan parked in the teacher's parking lot.[pcms]
 
 *2404|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚êAV“¹æ¶‚ÌÔ‚¾‚æ‚Èccv[pcms]
+[ns]Kato[nse]
+Huh, isn't that Shindou-sensei's car...?[pcms]
 
 *2405|
 [fc]
-V“¹æ¶‚Ì‚ ‚ÌÔ‚È‚çA‰´’B‘Sˆõæ‚ê‚é‚æ‚ÈccB[r]
-Ô‚Ü‚Å’H‚è’…‚¯‚ê‚ÎA–³–‚É‚±‚±‚ğo‚ç‚ê‚é‚ñ‚¶‚á‚È‚¢[r]
-‚©ccH[pcms]
+If that's Shindou-sensei's car, all of us can ride in it,[r]right?[l][er]
+If we can make it to the car, maybe we can safely get out of[r]here...?[pcms]
 
 *2406|
 [fc]
-‚»‚Ìl‚¦‚ğV“¹æ¶‚É’ñˆÄ‚µ‚Ä‚İ‚æ‚¤‚ÆŒˆ‚ßA‰´‚ÆRŠİ[r]
-‚³‚ñ‚Í‰®ã‚ğ‚ ‚Æ‚É‚µ‚½B[pcms]
+We decided to propose that idea to Shindou-sensei, and[r]Yamagishi-san and I left the rooftop.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -137,5 +127,5 @@
 
 ;//blackout
 
-;//[02125]‚Ö
+;//[02125]ã¸
 [jump target=*02125_TOP storage="02125.ks"]

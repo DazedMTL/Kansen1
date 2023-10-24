@@ -1,22 +1,22 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN0110wV”C‹³tƒŠƒTx
-;//BG:Eˆõº
-;//BG‘Ìˆç‹³ˆõº
-;//“oêl•¨GŠİ“cEƒŠƒT
-;//‹“_FƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0110ã€æ–°ä»»æ•™å¸«ãƒªã‚µã€
+;//BG:è·å“¡å®¤
+;//BGä½“è‚²æ•™å“¡å®¤
+;//ç™»å ´äººç‰©ï¼›å²¸ç”°ãƒ»ãƒªã‚µ
+;//è¦–ç‚¹ï¼šãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *0110_H_TOP
-;[debug_win]‚È‚¤@0110_H[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0110 = 1"]
+;[debug_win]ãªã†ã€€0110_H[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0110 = 1"]
 
-;*SceneSet|wV”C‹³tƒŠƒTx
+;*SceneSet|ã€æ–°ä»»æ•™å¸«ãƒªã‚µã€
 
 ;//[0110]
 
-;//ôFBGM007@
+;//â™ªï¼šBGM007ã€€
 ;//[bgm007]
 ;//BG:bg017d
 
@@ -29,26 +29,20 @@
 
 *1127|
 [fc]
-ğ”NlŒA‚±‚Ì—Áƒ–—ËŠw‰€‚ÉÌ—p‚³‚êA„‚Í‰»Šw‚Ì‹³t[r]
-‚Æ‚µ‚Ä•‹”C‚µ‚Ä‚«‚½B[pcms]
+Last April, I was hired at this Suzugaoka Academy and came[r]here as a chemistry teacher.[pcms]
 
 *1128|
 [fc]
-—R‚ ‚éŠwZ‚Ì‚¹‚¢‚È‚Ì‚©A¶“k‚ÍŠFA—ç‹V³‚µ‚­‚Ä–¾[r]
-‚é‚­˜N‚ç‚©Aæ”y‹³t’B‚àeØ‚ÅA‹³ˆç”MS‚Èl‚Î‚©‚è[r]
-‚¾‚Á‚½B[pcms]
+Thanks to the prestigious reputation of the school, all the[r]students are polite, cheerful, and bright.[l][er]
+The senior teachers are also kind and passionate about[r]education.[pcms]
 
 *1129|
 [fc]
-‘åŠw‚ğ‘²‹Æ‚µ‚Ä‚©‚ç“ñ”NA–]‚ñ‚Å‚¢‚½‹³E‚É‚Â‚¯‚È‚©‚Á[r]
-‚½‚Ì‚ÍA‚±‚ÌŠwZ‚ÉÌ—p‚³‚ê‚é‚½‚ß‚¾‚Á‚½A‚Æ‚³‚¦v‚Á[r]
-‚Ä‚¢‚½B[pcms]
+It had been two years since I graduated from university, and[r]I had even thought that the reason I couldn't get the[r]teaching position I desired was so that I could be hired at[r]this school.[pcms]
 
 *1130|
 [fc]
-•‘‘ä‚Ìã‚Å‚±‚ê‚©‚ç‚Ì–‚É‹¹‚ğ–c‚ç‚Ü‚¹‚½At‹x‚İ–¾‚¯[r]
-‚Ìn‹Æ®‚àI‚í‚èAEˆõº‚É–ß‚ë‚¤‚Æ‚µ‚½A‚ ‚Ì’j‚Í[r]
-‹ß‚Ã‚¢‚Ä‚«‚½B[pcms]
+After the opening ceremony, filled with anticipation for[r]what was to come on the stage, and as I was about to return[r]to the staff room after the spring break, that man[r]approached me.[pcms]
 
 ;//blackout
 
@@ -60,105 +54,103 @@
 
 ;;;[sysbt_meswin]
 
-;//BG:bg¸~Œû‘O˜L‰º@ƒZƒsƒA
+;//BG:bgæ˜‡é™å£å‰å»Šä¸‹ã€€ã‚»ãƒ”ã‚¢
 
 [bg storage="bg03a_s"]
 [trans_c cross time=500]
 
-;//SE:‘–‚é‰¹
+;//SE:èµ°ã‚‹éŸ³
 
-;ƒZƒsƒA
+;ã‚»ãƒ”ã‚¢
 
 [ChrSetEx layer=1 chbase="spi_kisi_a_a_01"]
 [ChrSetXY layer=1 x=140 y=0]
 [ChrSetParts layer=1 chface="spi_kisi_a_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std167|
 [fc]
-[ns]Šİ“c[nse]
-u‚ ‚ŸI@V“¹æ¶IIv[pcms]
+[ns]Kishida[nse]
+Ah! Shindou-sensei!![pcms]
 
 *v485|
 [fc]
 [vo_ri s="risa0112"]
-[ns]V“¹[nse]
-uŠİ“cæ¶cc‰½‚Å‚µ‚å‚¤‚©Hv[pcms]
+[ns]Shindou[nse]
+Kishida-sensei... What is it?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std168|
 [fc]
-[ns]Šİ“c[nse]
-ut‹x‚İ’†‚ÉAZ’·‚ªŠwZ‚Ì’†‚ğˆÄ“à‚µ‚½‚»‚¤‚Å‚·‚ÈI[r]
-‚¾‚ªA‚Ç‚¤‚â‚ç•”º“‚Ìà–¾‚ğ–Y‚ê‚Ä‚¢‚½‚æ‚¤‚¾v[pcms]
+[ns]Kishida[nse]
+It seems that during the spring break, the principal guided[r]everyone around the school![l][er]
+However, it seems that he forgot to explain about the club[r]building.[pcms]
 
 *v486|
 [fc]
 [vo_ri s="risa0113"]
-[ns]V“¹[nse]
-u•”º“ccHv[pcms]
+[ns]Shindou[nse]
+Club building...?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std169|
 [fc]
-[ns]Šİ“c[nse]
-u‚»‚¤‚Å‚·I@‰ä‚ªZ‚Í•¶•—¼“¹‚ğ|‚Æ‚µ‚Ä‚Ü‚µ‚Ä‚ÈI[r]
-•”Šˆ“®‚É‚à—Í‚ğ“ü‚ê‚Ä‚¨‚é‚Ì‚Å‚·I@“Á‚É•”º“‚Ìİ[r]
-”õ‚Í‘f°‚ç‚µ‚¢‚Å‚·‚¼IIv[pcms]
+[ns]Kishida[nse]
+That's right! Our school values both academics and[r]extracurricular activities![l][er]
+We put a lot of effort into club activities![l][er]
+Especially, the facilities in the club building are amazing![pcms]
 
 *v487|
 [fc]
 [vo_ri s="risa0114"]
-[ns]V“¹[nse]
-u‚»‚¤‚¢‚¦‚ÎA‚»‚¤‚¢‚¤‚¨˜b‚Í•·‚«‚Ü‚¹‚ñ‚Å‚µ‚½v[pcms]
+[ns]Shindou[nse]
+Come to think of it, I didn't hear about that.[pcms]
 
 [ChrSetEx layer=1 chbase="spi_kisi_a_b_01"]
 [ChrSetXY layer=1 x=80 y=0]
 [ChrSetParts layer=1 chface="spi_kisi_a_b_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std170|
 [fc]
-[ns]Šİ“c[nse]
-u‚Å‚ÍA„‚ªˆÄ“à‚µ‚Ü‚µ‚å‚¤I@‚³‚ŸI@‚Â‚¢‚Ä‚«‚Ä‚­[r]
-‚¾‚³‚¢IIv[pcms]
+[ns]Kishida[nse]
+Well then, let me guide you! Come on![l][er]
+Please follow me!![pcms]
 
 *v488|
 [fc]
 [vo_ri s="risa0115"]
-[ns]V“¹[nse]
-u‚Í‚¢A‚¨Šè‚¢‚µ‚Ü‚·v[pcms]
+[ns]Shindou[nse]
+Yes, please.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *1131|
 [fc]
-”MŒŒ‹³t‚ğŠG‚É•`‚¢‚½‚æ‚¤‚Èl‚¾B[pcms]
+He's like a person straight out of a passionate teacher[r]illustration.[pcms]
 
 *1132|
 [fc]
-‚ ‚ÌAŠİ“c‚Ì–‚ğ‰½‚à’m‚ç‚È‚©‚Á‚½„‚ÍA‚»‚ñ‚È•—‚É[r]
-Š¨ˆá‚¢‚µ‚Ä‚µ‚Ü‚Á‚½B[pcms]
+At that time, I didn't know anything about Kishida, so I[r]misunderstood him like that.[pcms]
 
 *1133|
 [fc]
-‚»‚ê‚ªA”ßŒ€‚ğµ‚­‚Æ‚à’m‚ç‚¸‚ÉB[pcms]
+Unbeknownst to me, that would lead to tragedy.[pcms]
 
 [ChrSetEx layer=1 chbase="spi_kisi_a_a_01"]
 [ChrSetXY layer=1 x=140 y=0]
 [ChrSetParts layer=1 chface="spi_kisi_a_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std171|
 [fc]
-[ns]Šİ“c[nse]
-u•”º“‚ÉŒü‚©‚¤‘O‚ÉA‰äX‘Ìˆç‹³t‚ª‹l‚ß‚Ä‚¢‚éA‘Ì[r]
-ˆç‹³Š¯º‚àˆê‰AŒ©‚Ä‚¢‚½‚¾‚«‚Ü‚µ‚å‚¤‚©Iv[pcms]
+[ns]Kishida[nse]
+Before heading to the club building, would you like to take[r]a look at the physical education instructor's office where[r]we, the physical education teachers, are stationed?[pcms]
 
-;//SE:”à‚ğŠJ‚¯‚é
+;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
 [se0 storage="se008"]
 
 [backlay_c][chara_int][trans_c cross time=150]
@@ -168,32 +160,30 @@
 
 *1134|
 [fc]
-ˆø‚«ŒË‚ğŠJ‚¯‚ÄAæ‚É“ü‚é‚æ‚¤‚Éè‚Å¦‚µA‚É‚±‚â‚©‚É[r]
-Î‚¤Šİ“c‚É‹°k‚µ‚È‚ª‚çA„‚Í‘Ìˆç‹³Š¯º‚ÖccB[pcms]
+I opened the sliding door and, feeling intimidated by[r]Kishida's gesture for me to enter first, I made my way to[r]the physical education instructor's office while he smiled[r]warmly.[pcms]
 
 *1135|
 [fc]
-b‚ÌƒeƒŠƒgƒŠ[‚ÖA‘«‚ğ“¥‚İ“ü‚ê‚½B[pcms]
+I stepped into the territory of the beast.[pcms]
 
 *v489|
 [fc]
 [vo_ri s="risa0116"]
-[ns]V“¹[nse]
-u¸—ç‚µ‚Üccv[pcms]
+[ns]Shindou[nse]
+Excuse me...[pcms]
 
 *1136|
 [fc]
-‘Ìˆç‹³t‚ª‹l‚ß‚Ä‚¢‚é”¤‚ÌA‘Ìˆç‹³Š¯ºB[r]
-‚Å‚àA’†‚Í”–ˆÃ‚­A’N‚à‚¢‚È‚©‚Á‚½B[pcms]
+The physical education instructor's office, where the[r]physical education teachers should be stationed.[l][er]
+However, it was dimly lit inside and there was no one there.[pcms]
 
 *1137|
 [fc]
-ˆø‚«ŒË‚ª•Â‚ß‚ç‚ê‚é‰¹‚É‘±‚­A{ù‚Ì‰¹B[pcms]
+The sound of the sliding door closing was followed by the[r]sound of it being locked.[pcms]
 
 *1138|
 [fc]
-Œã‚ë‚©‚ç•·‚±‚¦‚½‚»‚Ì‰¹‚ÉU‚è•Ô‚Á‚½‚É‚ÍA‚à‚¤‚ ‚Ì[r]
-’j‚ÌŒ‚ª–Ú‘O‚É”—‚Á‚Ä‚¢‚½B[pcms]
+When I turned around at the sound I heard from behind, that[r]man's fist was already approaching me.[pcms]
 
 ;//blackout
 
@@ -206,7 +196,7 @@
 
 ;;;[sysbt_meswin]
 
-;//[0111]‚Ö
+;//[0111]ã¸
 [jump target=*0111_H_TOP storage="0111_H.ks"]
 
 

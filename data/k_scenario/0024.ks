@@ -1,20 +1,20 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN0024wŒã‚©‚½‚Ã‚¯ŠJnF‡—¬x
-;//BG:Šw‰€“àŠwHF—[•û
-;//“oêl•¨GålŒöE—DE“µE•ü”üE’|“àE“c’†
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0024ã€å¾Œã‹ãŸã¥ã‘é–‹å§‹ï¼šåˆæµã€
+;//BG:å­¦åœ’å†…å­¦é£Ÿï¼šå¤•æ–¹
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *0024_TOP
-;[debug_win]‚È‚¤@0024[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0024 = 1"]
+;[debug_win]ãªã†ã€€0024[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0024 = 1"]
 
-;*SceneSet|wŒã‚©‚½‚Ã‚¯ŠJnx
+;*SceneSet|ã€å¾Œã‹ãŸã¥ã‘é–‹å§‹ã€
 
 ;//[0024]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//BG:bg014b
 
@@ -23,7 +23,7 @@
 [bg storage="bg14b"]
 [trans_c cross time=500]
 
-;//SE:HŠí‚ğô‚¤‰¹
+;//SE:é£Ÿå™¨ã‚’æ´—ã†éŸ³
 [se0 storage="se052"]
 
 
@@ -31,52 +31,50 @@
 
 *575|
 [fc]
-‘S‚Ä‚Ì—¿—‚ğH‚×s‚­‚µ‚½‰´‚½‚¿‚ÍAŒã•Ğ•t‚¯‚ğn‚ß‚½B[pcms]
+We, who had eaten all the food, began cleaning up.[pcms]
 
 *576|
 [fc]
-G—p’S“–‚Ì’jq‚ÍA‰´‚ÍHŠí‚ğô‚¢ê‚É‰º‚°‚éB[r]
-—S“ñ‚Í‚»‚ê‚ğô‚Á‚ÄA^–ç‚Í‚»‚ÌŠÔ‚ÉƒSƒ~Ì‚Ä‚ÆA[r]
-d–‚ğ•ª’S‚µ‚ÄŒã•Ğ•t‚¯‚ği‚ß‚½B[pcms]
+The guy in charge of miscellaneous tasks, I brought the[r]dishes to the sink.[l][er]
+Yuuji washed them, while Shinya took out the trash and we[r]divided the work to proceed with the cleanup.[pcms]
 
-;//SE:HŠí‚ğ‰^‚Ô‰¹
+;//SE:é£Ÿå™¨ã‚’é‹ã¶éŸ³
 
 *577|
 [fc]
-[ns]‰Á“¡[nse]
-u‚æ‚ÁA‚ÆccB—S“ñA‚±‚ê‚à‚æ‚ë‚µ‚­[v[pcms]
+[ns]Kato[nse]
+Yo... Yuuji, please take care of this too.[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v230|
 [fc]
 [vo_to s="tomo0035"]
-[ns]ŒÜ\—’[nse]
-u‚Í[‚¢v[pcms]
+[ns]Igarashi[nse]
+Yes.[pcms]
 
 *578|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ê‚ÁIH@ŒÜ\—’ƒTƒ“A‰½‚â‚Á‚Ä‚é‚ñ‚·‚©IHv[pcms]
+[ns]Kato[nse]
+Huh!? Yamagishi-san, what are you doing!?[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_c_a1_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v231|
 [fc]
 [vo_to s="tomo0036"]
-[ns]ŒÜ\—’[nse]
-u‚¤[‚½‚ñˆêl‚¶‚á‘å•Ï‚©‚È[‚Æv‚Á‚ÄA[r]
-‚¨è“`‚¢‚µ‚Ä‚é‚Ìv[pcms]
+[ns]Igarashi[nse]
+I thought it might be tough for Utan to do it alone, so I'm[r]helping out.[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_a_a_01"]
 [ChrSetXY layer=1 x=160 y=0]
@@ -85,13 +83,12 @@
 
 *579|
 [fc]
-ŒÜ\—’ƒTƒ“‚Ì‰¡‚ÅA—S“ñ‚ª‚µ‚½‚èŠç‚ğ‰´‚ÉŒü‚¯‚éB[pcms]
+Yuuji, with a smirk on his face, looks at me next to[r]Igarashi-san.[pcms]
 
 *580|
 [fc]
-[ns]‰Á“¡[nse]
-uŒÜ\—’ƒTƒ“ccB[r]
-‚ ‚ñ‚Ü‚èŠÃ‚â‚©‚·‚ÆAƒRƒCƒc’²q‚Éæ‚è‚Ü‚·‚æHv[pcms]
+[ns]Kato[nse]
+Igarashi-san... If you spoil him too much, he'll get carried[r]away, you know?[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
@@ -100,160 +97,150 @@
 
 *581|
 [fc]
-‰´‚Ì‹êŒ¾‚ÉŒÜ\—’ƒTƒ“‚Í”÷Î‚Ş‚¾‚¯‚ÅA‚Ü‚½HŠí‚ğô‚¢[r]
-n‚ß‚½B‚»‚Ì‰¡‚ÅA—S“ñ‚Íd–‚à‚µ‚È‚¢‚ÅA‚Ó‚´‚¯‚½Šç[r]
-‚ğ‰´‚ÉŒü‚¯‚Ä‚¢‚éB[pcms]
+Igarashi-san just smiled in response to my complaint and[r]started washing the dishes again.[l][er]
+Meanwhile, Yuuji, without doing any work, is making a silly[r]face at me.[pcms]
 
 *582|
 [fc]
-‚È‚ÉA‚±‚Ì”s–kŠ´ccB[pcms]
+What is this sense of defeat...?[pcms]
 
 *583|
 [fc]
-[ns]‰Á“¡[nse]
-uƒNƒ\ccv[pcms]
+[ns]Kato[nse]
+Damn...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v232|
 [fc]
 [vo_sa s="sae0062"]
-[ns]²”Œ[nse]
-u„‚àè“`‚¢‚Ü‚·v[pcms]
+[ns]Saeki[nse]
+I'll help too.[pcms]
 
 *584|
 [fc]
-²”Œ‚ª‚»‚¤Œ¾‚Á‚Äô‚¢ê‚É“ü‚é‚ÆA‘±‚¯‚ÄRŠİ‚³‚ñ‚àô[r]
-‚¢ê‚É“ü‚Á‚ÄAHŠíô‚¢—p‚ÌƒXƒ|ƒ“ƒW‚ğè‚Éæ‚Á‚½B[pcms]
+Saeki said that and entered the sink, then Yamagishi-san[r]also entered the sink and picked up a sponge for washing[r]dishes.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v233|
 [fc]
 [vo_ya s="yama0068"]
-[ns]RŠİ[nse]
-u‚Ù‚ç‚Ù‚çA‰Á“¡ŒN‚àè“`‚Á‚Ä`v[pcms]
+[ns]Yamagishi[nse]
+Come on, Kato-kun, help out too~[l][er]
 
 *585|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚¤A‚¤‚ñIv[pcms]
+[ns]Kato[nse]
+Ah, y-yeah![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *586|
 [fc]
-Œ‹‹ÇA‰´‚àô‚¢ê‚É“ü‚Á‚ÄA‘¨ŒÜl‚ÅHŠí‚ğô‚¤‚±‚Æ[r]
-‚É‚È‚Á‚Ä‚µ‚Ü‚Á‚½B[pcms]
+In the end, I ended up entering the sink as well, and all[r]five of us started washing the dishes together.[pcms]
 
 *587|
 [fc]
-[ns]‰Á“¡[nse]
-u‚È‚ñ‚©Aˆ«‚¢‚ËBŒã•Ğ•t‚¯‚Ü‚Å‚â‚ç‚¹‚¿‚á‚Á‚Äccv[pcms]
+[ns]Kato[nse]
+I'm sorry for making you do the cleanup too...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v234|
 [fc]
 [vo_ya s="yama0069"]
-[ns]RŠİ[nse]
-u‚¤‚¤‚ñB‚İ‚ñ‚È‚Å‚â‚Á‚½•û‚ª‘‚­I‚í‚é‚µA[r]
-Šy‚µ‚¢‚à‚ñB‚»‚¤v‚í‚È‚¢Hv[pcms]
+[ns]Yamagishi[nse]
+Nah. It's faster and more fun when we all do it together,[r]don't you think?[pcms]
 
 *588|
 [fc]
-[ns]‰Á“¡[nse]
-uƒnƒnA‚»‚ê‚à‚»‚¤‚¾‚Ëv[pcms]
+[ns]Kato[nse]
+Haha, that's true.[pcms]
 
 *589|
 [fc]
-‰´‚Æ‚µ‚Ä‚ÍARŠİ‚³‚ñ‚Æˆê‚É‚Å‚«‚é‚È‚çAHŠíô‚¢‚Å[r]
-‚à‰½‚Å‚àAŠy‚µ‚©‚Á‚½‚è‚·‚é‚ñ‚¾‚¯‚ÇccB[pcms]
+As for me, if I can do it together with Yamagishi-san, even[r]washing dishes or anything else, it would be fun...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *590|
 [fc]
-ô‚¢‚à‚Ì‚ğn‚ß‚Ä‚©‚ç­‚µ‚µ‚ÄA“Ë‘RA[r]
-ŒÜ\—’ƒTƒ“‚ª—S“ñ‚ğS”z‚µ‚¾‚µ‚½B[pcms]
+After we started washing the dishes, a little while later,[r]Yamagishi-san suddenly started worrying about Yuuji.[pcms]
 
 *591|
 [fc]
-[ns]‰Á“¡[nse]
-uccH@‚Ç‚¤‚©‚µ‚½‚ñ‚·‚©Hv[pcms]
+[ns]Kato[nse]
+...? Is something wrong?[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_c_a1_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v235|
 [fc]
 [vo_to s="tomo0037"]
-[ns]ŒÜ\—’[nse]
-uƒSƒƒ“‚İ‚ñ‚ÈA‚ ‚Æ‚¨Šè‚¢‚µ‚Ä‚à‚¢‚¢H@‚¤[‚½‚ñ‚ª[r]
-‹C‚¿ˆ«‚­‚È‚Á‚¿‚á‚Á‚½‚İ‚½‚¢‚Åccv[pcms]
+[ns]Igarashi[nse]
+Sorry, everyone. Can I ask for one more favor?[l][er]
+It seems that Yuuji is feeling sick...[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_a_a_01"]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std126|
 [fc]
-[ns]“c’†[nse]
-u‚¤‚Á‚Õccv[pcms]
+[ns]Tanaka[nse]
+*burp*...[pcms]
 
 *592|
 [fc]
-ŒÜ\—’ƒTƒ“‚Ì—¿—‚ğA‚Ğ‚Æ‚è‚Å•ø‚¦‚ÄH‚×‚Ä‚¢‚½‚¹‚¢‚¾[r]
-‚ë‚¤B“f‚«‹C‚ğ—}‚¦‚æ‚¤‚Æè‚ÅŒû‚ğÇ‚®—S“ñ‚ÉA‰´‚Íƒz[r]
-ƒgƒzƒg•ğ‚ê‚½B[pcms]
+It's probably because Igarashi-san ate her meal alone.[l][er]
+I was quite amazed when Yuuji, trying to suppress his[r]nausea, covered his mouth with his hand.[pcms]
 
 *593|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ğ‚Æ‚è‚Å‚ ‚ñ‚È‚ÉH‚¤‚©‚ç‚¾‚æB[r]
-‚Á‚½‚­Aq‹Ÿ‚¶‚á‚È‚¢‚ñ‚¾‚©‚çA‚à‚¤­‚µl‚¦‚ë‚æ‚Èv[pcms]
+[ns]Kato[nse]
+It's because you ate so much by yourself.[l][er]
+Geez, you're not a child, so think a little more.[pcms]
 
 *594|
 [fc]
-Œ¾‚¢•Ô‚·‹C—Í‚à–³‚¢‚Ì‚©A—S“ñ‚ÍŒû‚ğ‰Ÿ‚³‚¦‚½‚Ü‚ÜA[r]
-ƒˆƒƒˆƒ‚ÆŠwH‚Ìo“ü‚èŒû‚ÖŒü‚©‚Á‚½B[pcms]
+Yuuji, without the energy to retort, covered his mouth and[r]staggered towards the entrance of the school cafeteria.[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_c_a1_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v236|
 [fc]
 [vo_to s="tomo0038"]
-[ns]ŒÜ\—’[nse]
-u–{“–‚ÉƒSƒƒ“‚ËB[r]
-–¾“ú‚Ì’©‚ÍA‚ ‚½‚µ’B‚Å•Ğ•t‚¯‚â‚é‚©‚çIv[pcms]
+[ns]Igarashi[nse]
+I'm really sorry. We'll clean up together tomorrow morning![pcms]
 
 *595|
 [fc]
-‚»‚ê‚¾‚¯Œ¾‚Á‚ÄAŒÜ\—’ƒTƒ“‚Íæ‚ğs‚­—S“ñ‚É‹ì‚¯Šñ‚Á[r]
-‚¢‚­B[pcms]
+Saying just that, Igarashi-san hurriedly ran towards Yuuji[r]who was ahead.[pcms]
 
 [ChrSetEx layer=2 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=2 x=40 y=0]
@@ -265,30 +252,28 @@
 
 *596|
 [fc]
-[ns]‰Á“¡[nse]
-uccIIv[pcms]
+[ns]Kato[nse]
+...!![pcms]
 
 *597|
 [fc]
-‚æ‚ë‚ß‚¢‚Ä‚¢‚é‘Ì‚ğx‚¦‚ÄAS”z‚»‚¤‚É¨Œ³‚Å‰½‚©‚ğš‘[r]
-‚¢‚Ä‚¢‚éŒÜ\—’ƒTƒ“‚ÉA—S“ñ‚ª•’i‚Æ“¯‚¶‚æ‚¤‚ÈÎŠç‚Å[r]
-‰‚¦‚é‚Ì‚ğA‰´‚ÍŒ©‚Ä‚µ‚Ü‚Á‚½B[pcms]
+I saw Yuuji, supporting his staggering body, responding to[r]Yamagishi-san who was whispering something worriedly in his[r]ear, with the same smile as usual.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *598|
 [fc]
-[ns]‰Á“¡[nse]
-uƒAƒCƒcA‚à‚µ‚©‚µ‚Äccv[pcms]
+[ns]Kato[nse]
+Could it be...[pcms]
 
 *599|
 [fc]
-–{“–‚Í‹C‚¿ˆ«‚­‚È‚ñ‚©‚È‚¢‚ñ‚¶‚á‚È‚¢‚Ì‚©H[r]
-‰½‚©Šé‚ñ‚Å‚é‚ñ‚¶‚á‚È‚¢‚¾‚ë‚¤‚ÈccB[pcms]
+I wonder if he's not really feeling sick?[l][er]
+I hope he's not planning something...[pcms]
 
-;//¦ğŒ•ªŠò
-;//Eflag:ƒvƒƒ[ƒOƒUƒbƒsƒ“ƒOƒp[ƒg@ŠJ•ú@on‚Ì‚Æ‚«[0025]‚Ö
-;//Eflag:ƒvƒƒ[ƒOƒUƒbƒsƒ“ƒOƒp[ƒg@ŠJ•ú@‚ªOFF‚Ì‚Æ‚«[0026]‚Ö
+;//â€»æ¡ä»¶åˆ†å²
+;//ãƒ»flag:ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ã‚¶ãƒƒãƒ”ãƒ³ã‚°ãƒ‘ãƒ¼ãƒˆã€€é–‹æ”¾ã€€onã®ã¨ã[0025]ã¸
+;//ãƒ»flag:ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ã‚¶ãƒƒãƒ”ãƒ³ã‚°ãƒ‘ãƒ¼ãƒˆã€€é–‹æ”¾ã€€ãŒOFFã®ã¨ã[0026]ã¸
 
 [if exp="sf.g_prologue_clear==1"]
 	[jump target=*0025_TOP storage="0025.ks"]

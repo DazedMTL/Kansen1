@@ -1,19 +1,19 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN05540w“¦‘–‚Rx
-;//;//BG:“n‚è˜L‰ºF–éGÁ“”
-;//“oêl•¨GålŒöE“µ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05540ã€é€ƒèµ°ï¼“ã€
+;//;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šå¤œï¼›æ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *05540_TOP
-;[debug_win]‚È‚¤@05540[debug_win_end]
-;*SceneSet|w“¦‘–‚Rx
+;[debug_win]ãªã†ã€€05540[debug_win_end]
+;*SceneSet|ã€é€ƒèµ°ï¼“ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05540 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05540 = 1"]
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 
 [bgm009]
 
@@ -22,7 +22,7 @@
 [bg storage="bg04b"]
 [trans_c cross time=500]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 
 [se0 storage="se005"]
 
@@ -32,17 +32,15 @@
 
 *5679|
 [fc]
-‚Æ‚Á‚³‚É‚±‚¿‚ç‚Ö‘–‚Á‚Ä‚«‚Ä‚µ‚Ü‚Á‚½‚ªA‚±‚Ì‚ ‚Æ‚Ç‚¤[r]
-‚µ‚æ‚¤‚©A‰´‚Í‘S‚­l‚¦‚Ä‚¢‚È‚©‚Á‚½B[pcms]
+I ran over here on impulse, but I hadn't thought at all[r]about what to do next.[pcms]
 
 *5680|
 [fc]
-“n‚è˜L‰º‚©‚ç‚àŠO‚Öo‚ç‚ê‚é‚ªA“z‚ç‚Ì’†‚ğ“Ë‚ÁØ‚Á‚Ä[r]
-‚¢‚©‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‚Ì‚Í•Ï‚í‚ç‚È‚¢B[pcms]
+Although I can also go outside from the covered walkway, I[r]still have to push through their midst.[pcms]
 
 *5681|
 [fc]
-‰½‚Ìl‚¦‚à‚È‚¢‚Ü‚ÜA‰´‚Í“n‚è˜L‰º‚É”ò‚Ño‚µ‚½B[pcms]
+Without any thoughts, I dashed out onto the covered walkway.[pcms]
 
 ;//;//BG:bg09b
 
@@ -51,76 +49,73 @@
 
 *5682|
 [fc]
-“n‚è˜L‰º‚Éo‚ÄAŠwH‚Ìo“ü‚èŒû‚ª–Ú‚É“ü‚Á‚½uŠÔA[r]
-‰´‚Í‚ ‚Ì•”‰®‚Ì‚±‚Æ‚ğv‚¢o‚µ‚½B[pcms]
+As I stepped out onto the covered walkway and caught sight[r]of the entrance to the school cafeteria, I suddenly[r]remembered that room.[pcms]
 
 *5683|
 [fc]
-‚»‚¤‚¾ccB[r]
-‚ ‚ÌccŠwH‚Ì‰º‚É‚ ‚é‘qŒÉccB[r]
-‚ ‚»‚±‚È‚çccI[pcms]
+That's right... That... the warehouse beneath the school[r]cafeteria...[l][er]
+If it's there...![pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2379|
 [fc]
 [vo_sa s="sae0537"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñA—§‚¿~‚Ü‚Á‚Ä‚¢‚Ä‚ÍŠëŒ¯‚Å‚·B‘‚­‚Ç‚±‚©[r]
-‚Ög‚ğ‰B‚³‚È‚¢‚Æccv[pcms]
+[ns]Saeki[nse]
+Kato-san, it's dangerous to stop here.[l][er]
+We need to quickly hide somewhere...[pcms]
 
 *5684|
 [fc]
-[ns]‰Á“¡[nse]
-uccŠwH‚És‚±‚¤Bƒzƒ‰AŠwH‚Ì’²—ê‚Ì‰º‚ÉA’n‰º[r]
-º‚ª‚ ‚Á‚½‚¾‚ëH@‚ ‚»‚±‚É‰B‚ê‚é‚ñ‚¾v[pcms]
+[ns]Kato[nse]
+... Let's go to the school cafeteria.[l][er]
+Look, there was a basement beneath the cafeteria kitchen,[r]right?[l][er]
+Let's hide there.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2380|
 [fc]
 [vo_sa s="sae0538"]
-[ns]²”Œ[nse]
-u‚ ‚Ì’n‰ººA‚Å‚·‚©ccHv[pcms]
+[ns]Saeki[nse]
+That basement, you mean...?[pcms]
 
 *5685|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨‘O‚àŒ©‚½‚¾‚ëH@Z–å‚Ì‘O‚ª‚ ‚Ìó‘Ô‚¶‚áŠX‚Ö‚Ís[r]
-‚¯‚È‚¢‚µA‚»‚ê‚ÉAƒwƒ^‚ÉZÉ‚Ì’†‚ğ“¦‚°‰ñ‚é‚æ‚èA‚ [r]
-‚»‚±‚É‰B‚ê‚Ä‚½•û‚ªˆÀ‘S‚¾‚Æv‚¤‚ñ‚¾v[pcms]
+[ns]Kato[nse]
+You saw it too, right? With the state the front gate is in,[r]we can't go out to the town.[l][er]
+Besides, I think it's safer to hide there rather than[r]running around inside the school building.[pcms]
 
 *5686|
 [fc]
-‰´‚Ì’ñˆÄ‚ÉA²”Œ‚Í•sˆÀ‚»‚¤‚ÈŠç‚ğ‚µ‚½‚ªA‚·‚®‚É–Ú‚É[r]
-—Í‹­‚³‚ğæ‚è–ß‚µA‚¤‚È‚¸‚¢‚ÄŒ©‚¹‚½B[pcms]
+Saeki looked uneasy at my suggestion, but quickly regained[r]her composure and nodded with determination.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 ;//
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2381|
 [fc]
 [vo_sa s="sae0539"]
-[ns]²”Œ[nse]
-us‚«‚Ü‚µ‚å‚¤v[pcms]
+[ns]Saeki[nse]
+Let's go.[pcms]
 
 *5687|
 [fc]
-²”Œ‚É‚¤‚È‚¸‚«•Ô‚µ‚ÄA‰´‚ÍŠwH‚Ö‚Æ‘–‚Á‚½B[pcms]
+I nodded back at Saeki and ran towards the school cafeteria.[pcms]
 
 ;//blackout
 ;g[backlay_c][chara_int][trans_c cross time=150]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05550]‚Ö
+;//[05550]ã¸
 [jump target=*05550_TOP storage="05550.ks"]

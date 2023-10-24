@@ -1,15 +1,15 @@
 
-;//¡ËƒuƒƒbƒN05011wƒPƒc‚Â‚Ë‚èx
-;//BG:“Áê‹³º˜L‰ºF“_“”F–é
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05011ã€ã‚±ãƒ„ã¤ã­ã‚Šã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šç‚¹ç¯ï¼šå¤œ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05011_TOP
-;[debug_win]‚È‚¤@05011[debug_win_end]
-;*SceneSet|wƒPƒc‚Â‚Ë‚èx
+;[debug_win]ãªã†ã€€05011[debug_win_end]
+;*SceneSet|ã€ã‚±ãƒ„ã¤ã­ã‚Šã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05011 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05011 = 1"]
 
-;//ôFBGM005
+;//â™ªï¼šBGM005
 
 [bgm005]
 
@@ -23,62 +23,60 @@
 
 *4635|
 [fc]
-‰´‚Í©•ª‚ÌƒPƒc‚ğv‚¢‚Á‚«‚è‚Â‚Ë‚Á‚ÄA’É‚İ‚Å‹­§“I‚É[r]
-Î‚¢‚ğ—}‚¦‚½B[pcms]
+I pinched my own butt as hard as I could, forcibly[r]suppressing a laugh through the pain.[pcms]
+[l][er]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2002|
 [fc]
 [vo_sa s="sae0296"]
-[ns]²”Œ[nse]
-u‚»‚¤A—‚¿’…‚­‚Ì‚æcc‚¢‚Â‚à’Ê‚èA—âÃ‚É‘Îˆ‚·‚ê[r]
-‚Î‚¢‚¢‚Ìccl‚ğ‘{‚·‚¾‚¯‚æA‰½‚à–â‘è‚È‚¢‚ícc‚»‚¤[r]
-‚æAŠæ’£‚Á‚ÄA“µccv[pcms]
+[ns]Saeki[nse]
+Yes, calm down... Just handle it calmly as usual...[l][er]
+We just need to find the person, there's no problem...[l][er]
+That's right, do your best, Hitomi...[pcms]
 
 *4636|
 [fc]
-ƒKAƒKƒ“ƒo‚Á‚Ä“µ‚¡ccIH[r]
-‚È‚ñ‚¾‚»‚è‚áccII[pcms]
+H-Hitomi, do your best...!? What's going on...!![pcms]
 
 *4637|
 [fc]
-[ns]‰Á“¡[nse]
-u‚­‚ÁccIIv[pcms]
+[ns]Kato[nse]
+Kuh...!![pcms]
 
 *4638|
 [fc]
-ƒ_ƒ‚¾ccII[r]
-‚±‚¢‚Â‚Ìƒ{ƒP‚ÍA”Ú‹¯‚·‚¬‚éccII[r]
-‚àA‚à‚¤ƒ_ƒ‚¾‚Ÿcc‚ÁII[pcms]
+This is no good...!! This person's joke is too unfair...!![l][er]
+I-I can't take it anymore...!![pcms]
 
 *4639|
 [fc]
-[ns]‰Á“¡[nse]
-uƒuƒtƒbccIIv[pcms]
+[ns]Kato[nse]
+Buh...!![pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2003|
 [fc]
 [vo_sa s="sae0297"]
-[ns]²”Œ[nse]
-u‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Huh!![pcms]
 
 *4640|
 [fc]
-[ns]‰Á“¡[nse]
-uƒuƒ@ƒnƒnƒnƒnƒnƒbIIIIv[pcms]
+[ns]Kato[nse]
+Bwahahahaha!![pcms]
 
-;//[05020]‚Ö
+;//[05020]ã¸
 [jump target=*05020_TOP storage="05020.ks"]

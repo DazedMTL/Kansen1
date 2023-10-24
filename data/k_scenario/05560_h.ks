@@ -1,13 +1,13 @@
 
-;//¡ËƒuƒƒbƒN05560w’n‰º‚Px
-;//BG:’n‰ººFÁ“”
-;//BG:’n‰ººF“_“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05560ã€åœ°ä¸‹ï¼‘ã€
+;//BG:åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
+;//BG:åœ°ä¸‹å®¤ï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05560_H_TOP
-;[debug_win]‚È‚¤@05560_H[debug_win_end]
+;[debug_win]ãªã†ã€€05560_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 ;[if exp="tf.scene_mode == 0"][jump target=*05560][endif]
 ;[winset]
 
@@ -15,29 +15,29 @@
 
 
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *05560
 
-;*SceneSet|w’n‰º‚Px
+;*SceneSet|ã€åœ°ä¸‹ï¼‘ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05560 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05560 = 1"]
 
-;//ôFBGM004
+;//â™ªï¼šBGM004
 [bgm004]
 
 ;//;//BG:bg23b
 [bg storage="bg23b"]
 [trans_c cross time=500]
 
-;//—™ŸºF‰º‹L‚r‚d‚ª•\‚É‚È‚¢‚½‚ß‚ÉŒ»İ‰¹‚ğ’£‚Á‚Ä‚¢‚Ü‚¹‚ñB
-;//SE:”à‚ğŠJ‚­id‚¢j
+;//ï¼ æ‰æ¸•ï¼šä¸‹è¨˜ï¼³ï¼¥ãŒè¡¨ã«ãªã„ãŸã‚ã«ç¾åœ¨éŸ³ã‚’å¼µã£ã¦ã„ã¾ã›ã‚“ã€‚
+;//SE:æ‰‰ã‚’é–‹ãï¼ˆé‡ã„ï¼‰
 ;//[se0 storage="se008"]
 
 
@@ -46,169 +46,162 @@
 
 *5694|
 [fc]
-[ns]‰Á“¡[nse]
-u’†‚©‚çŒ®‚ª‚©‚¯‚ç‚ê‚é”à‚Å—Ç‚©‚Á‚½ccB‚±‚ê‚ÅAæ[r]
-‚è‚ ‚¦‚¸‚ÍˆÀS‚¾‚Èv[pcms]
+[ns]Kato[nse]
+Thank goodness for a door that can be locked from the[r]inside....[l][er]
+With this, at least I can feel safe for now.[pcms]
 
 [bg storage="bg23a"]
 [trans_c cross time=500]
 
 *5695|
 [fc]
-‰´‚ª•ÇÛ‚É˜‚ğ‰º‚ë‚·‚ÆA²”Œ‚à—×‚É˜‚ğ‰º‚ë‚µA•G‚ğ[r]
-•ø‚¦‚½B[pcms]
+As I sat down against the wall, Saeki also sat down next to[r]me and hugged her knees.[pcms]
 
 *5696|
 [fc]
-[ns]‰Á“¡[nse]
-u”à‚ğ‰½‚©‚Åƒuƒb‰ó‚³‚È‚¢ŒÀ‚èA’N‚à’†‚É“ü‚Á‚Ä‚±‚ê‚È[r]
-‚¢‚¾‚ëBæ‚è‚ ‚¦‚¸A–¾“ú‚Ü‚Å‚±‚±‚É‚¢‚æ‚¤‚ºv[pcms]
+[ns]Kato[nse]
+Unless someone breaks down the door, no one can come in.[l][er]
+Let's stay here until tomorrow, just to be safe.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2384|
 [fc]
 [vo_sa s="sae0542"]
-[ns]²”Œ[nse]
-u‚Í‚¢ccv[pcms]
+[ns]Saeki[nse]
+Yes...[pcms]
 
 *5697|
 [fc]
-™ê‚­‚æ‚¤‚É“š‚¦‚ÄA²”Œ‚Í‘å‚«‚¢—­‘§‚ğ‚Â‚«A•ø‚¦‚Ä‚¢[r]
-‚½•G‚ÉŠç‚ğ–„‚ß‚½B[pcms]
+Saeki let out a sigh and buried her face in her knees,[r]answering in a murmuring voice.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2385|
 [fc]
 [vo_sa s="sae0543"]
-[ns]²”Œ[nse]
-uccV“¹æ¶‚ª‹³‚¦q‚ğ‘Šè‚ÉA‚ ‚ñ‚È‚±‚Æ‚ğ‚·‚é‚È[r]
-‚ñ‚Äccv[pcms]
+[ns]Saeki[nse]
+... For Shindou-sensei to do such a thing with a student...[pcms]
 
 *5698|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚Ì‚¨‚©‚µ‚È“z‚ç‚ÉƒŒƒCƒv‚³‚ê‚é‚ÆA‚ ‚ñ‚È•—‚É‚È‚é[r]
-‚Æ‚©‚Á‚Äƒ‰ƒWƒI‚ÅŒ¾‚Á‚Ä‚½‚¯‚ÇA‰½‚È‚ñ‚¾‚ë‚¤‚ÈccB[r]
-Œ³‚É–ß‚·•û–@‚à‚È‚¢‚Á‚Ä‚¢‚¤‚µccv[pcms]
+[ns]Kato[nse]
+On the radio, they said that if you get raped by those[r]weirdos, you'll end up like that...[l][er]
+I wonder what that means... There's no way to go back to[r]normal either...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *5699|
 [fc]
-‚»‚¤Œ¾‚Á‚Ä‰´‚ª—­‘§‚ğ‚Â‚­‚ÆA²”Œ‚Í“Ë‘R‹ƒ‚«n‚ß‚½B[pcms]
+As I let out a sigh in response to her words, Saeki suddenly[r]started crying.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2386|
 [fc]
 [vo_sa s="sae0544"]
-[ns]²”Œ[nse]
-u‚®‚·cc‚£ccv[pcms]
+[ns]Saeki[nse]
+*sob*... uhh...[pcms]
 
 *5700|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨A‚¨‚¢A‚Ç‚¤‚µ‚½ccHv[pcms]
+[ns]Kato[nse]
+H-Hey, what's wrong...?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2387|
 [fc]
 [vo_sa s="sae0545"]
-[ns]²”Œ[nse]
-u„’Bcc–{“–‚ÉA•‚©‚é‚Ì‚Å‚·‚©ccH@„’B‚àAV[r]
-“¹æ¶‚Ì—l‚Éccv[pcms]
+[ns]Saeki[nse]
+Are we really going to be saved...?[l][er]
+Are we going to end up like Shindou-sensei too...?[pcms]
 
 *5701|
 [fc]
-[ns]‰Á“¡[nse]
-u‰½‚¾A‚¸‚¢‚Ô‚ñã‹C‚¾‚ÈB‚¢‚Â‚à‚ÌŒ³‹C‚Í‚Ç‚±s‚Á‚½[r]
-‚ñ‚¾Hv[pcms]
+[ns]Kato[nse]
+What's wrong? You're being quite pessimistic.[l][er]
+Where did your usual energy go?[pcms]
 
 *5702|
 [fc]
-—ã‚Ü‚»‚¤‚Æ–¾‚é‚­º‚ğ‚©‚¯‚Ä‚Í‚İ‚½‚ªA²”Œ‚Í•G‚ÉŠç‚ğ[r]
-–„‚ß‚½‚Ü‚ÜA‹ƒ‚«‚â‚Ş‚±‚Æ‚Í‚È‚©‚Á‚½B[pcms]
+I tried to cheer her up with a bright voice, but Saeki[r]continued to cry, burying her face in her knees without[r]stopping.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2388|
 [fc]
 [vo_sa s="sae0546"]
-[ns]²”Œ[nse]
-u‚¤‚£‚Ácc‚£cc‚®‚·cc‚¤‚¦‚¥ccv[pcms]
+[ns]Saeki[nse]
+Ugh... uhh... sniff... sob...[pcms]
 
 *5703|
 [fc]
-‰´‚Í‚©‚¯‚éŒ¾—t‚ªŒ©‚Â‚©‚ç‚¸A’n‰ºº‚Ì’†‚É‹¿‚­²”Œ‚Ì[r]
-‹ƒ‚­º‚ğA‚½‚¾•·‚¢‚Ä‚¢‚é‚µ‚©‚È‚©‚Á‚½B[pcms]
+I couldn't find the right words to say, so all I could do[r]was listen to Saeki's crying voice echoing in the basement.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2389|
 [fc]
 [vo_sa s="sae0547"]
-[ns]²”Œ[nse]
-u‚¤‚£cc‚®‚·cc‚Ó‚¦‚¥ccv[pcms]
+[ns]Saeki[nse]
+Ugh... uhh... sniff... sob...[pcms]
 
 *5704|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *5705|
 [fc]
-‚»‚Ì‚¤‚¿A²”Œ‚Í•G‚É–„‚ß‚½‚Ü‚Ü‚¾‚Á‚½Šç‚ğã‚°A¡“x[r]
-‚Í‰´‚Ì‹¹‚ÉAŠç‚ğ–„‚ß‚½B[pcms]
+Eventually, Saeki lifted her face that was buried in her[r]knees and this time, she buried her face in my chest.[pcms]
 
 *5706|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨A‚¨‚¢ccv[pcms]
+[ns]Kato[nse]
+H-Hey...[pcms]
 
 ;	/*
-;	;//ôFBGM004ƒtƒF[ƒhƒAƒEƒg
+;	;//â™ªï¼šBGM004ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 ;	[fadeoutbgm time=500]
 ;	*/
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2390|
 [fc]
 [vo_sa s="sae0548"]
-[ns]²”Œ[nse]
-u‚£cc‚®‚·cc‚¤‚£ccv[pcms]
+[ns]Saeki[nse]
+Ugh... uhh... sniff...[pcms]
 
 *5710|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *5711|
 [fc]
-¬‚³‚Èq‹Ÿ‚Ì‚æ‚¤‚É‚µ‚á‚­‚èã‚°‚é²”Œ‚ğŒ©‚ÄAw©•ª[r]
-‚Ìè‚Å²”Œ‚ğç‚Á‚Ä‚â‚è‚½‚¢Bç‚ç‚È‚¯‚ê‚Î‚È‚ç‚È‚¢x[r]
-‚Æ‹­‚­v‚Á‚½B[pcms]
+I strongly felt the desire to protect Saeki when I saw her[r]sobbing like a small child.[l][er]
+I want to protect Saeki with my own hands.[l][er]
+I must protect her.[pcms]
 
-;//[05570]‚Ö
+;//[05570]ã¸
 [jump target=*05570_H_TOP storage="05570_H.ks"]
 

@@ -1,17 +1,17 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN05370wƒgƒCƒŒ‚Qx
-;//;//BG:“Áê‹³º˜L‰ºF’©FÁ“”
-;//“oêl•¨GålŒö
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05370ã€ãƒˆã‚¤ãƒ¬ï¼’ã€
+;//;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæœï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *05370_H_TOP
-;[debug_win]‚È‚¤@05370_H[debug_win_end]
-;*SceneSet|wƒgƒCƒŒ‚Qx
+;[debug_win]ãªã†ã€€05370_H[debug_win_end]
+;*SceneSet|ã€ãƒˆã‚¤ãƒ¬ï¼’ã€
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 
 [bgm009]
 
@@ -20,103 +20,98 @@
 [bg storage="bg03a"]
 [trans_c cross time=500]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05370 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05370 = 1"]
 
 *5397|
 [fc]
-‚¾‚ª“ü‚Á‚Ä‰½•b‚à‚µ‚È‚¢‚¤‚¿‚ÉA²”Œ‚Í‰´‚ª‚±‚±‚É‚¢‚é[r]
-‚©‚Ç‚¤‚©Šm‚©‚ß‚é‚½‚ß‚ÉA’†‚©‚çº‚ğ‚©‚¯‚Ä‚«‚½B[pcms]
+However, within a few seconds of entering, Saeki called out[r]to me from inside to confirm whether I was here or not.[pcms]
+[l][er]
 
 *v2254|
 [fc]
 [vo_sa s="sae0480"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñA‚¿‚á‚ñ‚Æ‚¢‚Ü‚·‚©Hv[pcms]
+[ns]Saeki[nse]
+Kato-san, are you here?[pcms]
 
 *5398|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ A‚¢‚é‚æv[pcms]
+[ns]Kato[nse]
+Ah, I'm here.[pcms]
 
 *5399|
 [fc]
-‚»‚¤“š‚¦‚Ä‚©‚çA‚Ü‚½‰½•b‚àŒo‚½‚È‚¢‚¤‚¿‚ÉA²”Œ‚Í‰´[r]
-‚Éº‚ğ‚©‚¯‚Ä‚«‚½B[pcms]
+Shortly after I answered like that, Saeki called out to me.[pcms]
 
 *v2255|
 [fc]
 [vo_sa s="sae0481"]
-[ns]²”Œ[nse]
-u‚Ü‚¾‚Å‚·‚©‚çA‚¿‚á‚ñ‚Æ‚¢‚Ä‚­‚¾‚³‚¢‚Ëv[pcms]
+[ns]Saeki[nse]
+Please stay here properly since it's not time yet, okay?[pcms]
 
 *5400|
 [fc]
-[ns]‰Á“¡[nse]
-u‘åä•vA‚¿‚á‚ñ‚Æ‚¢‚é‚Á‚Äv[pcms]
+[ns]Kato[nse]
+Don't worry, I'm here.[pcms]
 
 *5401|
 [fc]
-–é’†‚Éˆêl‚ÅƒgƒCƒŒ‚És‚¯‚È‚¢q‹Ÿ‚©‚æccB[pcms]
+Are you a child who can't go to the bathroom alone at[r]night...?[pcms]
 
 *5402|
 [fc]
-cc‚¶‚á‚ A‰´‚Í‚»‚Ìq‹Ÿ‚É‚¹‚ª‚Ü‚ê‚Ä‚Â‚¢‚Ä‚¢‚Á‚½ƒp[r]
-ƒp‚Á‚Ä‚í‚¯‚©ccB[pcms]
+... So, I guess I'm the daddy who was begged by that child[r]and followed along...[pcms]
 
 *5403|
 [fc]
-ƒpƒp‚©ccB²”Œ‚Ì‚¨•ƒ‚³‚ñ‚Á‚Ä‚Ç‚ñ‚ÈŠ´‚¶‚È‚ñ‚¾‚ë‚¤[r]
-‚È[ccB‚â‚Á‚Ï”üŒ`‚ÅA¦‚¢ƒ}ƒWƒ‚ÅŒµ‚µ‚¢‚Ì‚©‚Èc[r]
-cB[pcms]
+I wonder what Saeki's dad is like...[l][er]
+Is he handsome and really serious and strict...?[pcms]
 
-;//ôFBGM009ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM009ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 
 *5404|
 [fc]
-‘Ò‚Á‚Ä‚¢‚éŠÔA‚»‚ñ‚È‚±‚Æ‚ğl‚¦‚Ä‚¢‚é‚ÆA“Ë‘RAƒgƒC[r]
-ƒŒ‚Ì’†‚©‚ç²”Œ‚Ìâ‹©‚ª•·‚±‚¦‚Ä‚«‚½B[pcms]
+While I was waiting and thinking about such things, suddenly[r]I heard Saeki's scream from inside the bathroom.[pcms]
 
 [fadeoutbgm time=500]
 
 *v2256|
 [fc]
 [vo_sa s="sae0482"]
-[ns]²”Œ[nse]
-u‚¢‚â‚ ‚ ‚Ÿ‚Ÿ‚ÁIIIIv[pcms]
+[ns]Saeki[nse]
+Noooo!!![pcms]
 
 *5405|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ÈA‚È‚ñ‚¾IHv[pcms]
+[ns]Kato[nse]
+W-What's happening!?[pcms]
 
 *5406|
 [fc]
-‰½‚ª‚ ‚Á‚½‚ñ‚¾ccH@‚Å‚à‚È‚ŸccBŠm”F‚µ‚æ‚¤‚É‚àA[r]
-’†‚Ö“ü‚é‚í‚¯‚É‚¢‚©‚È‚¢‚µccB[pcms]
+What happened...? But, well...[l][er]
+Even if I wanted to check, I can't go inside...[pcms]
 
 *5407|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ü‚ŸAƒSƒLƒuƒŠ‚Å‚ào‚½‚ñ‚¾‚ëccv[pcms]
+[ns]Kato[nse]
+Well, I guess a cockroach came out or something...[pcms]
 
-;//ôFBGM008ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 
 *v2257|
 [fc]
 [vo_sa s="sae0483"]
-[ns]²”Œ[nse]
-u‚©‚ÁA‰Á“¡‚³‚Ÿ‚ñ‚ÁIIv[pcms]
+[ns]Saeki[nse]
+K-Kato-san!![pcms]
 
 *5408|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *5409|
 [fc]
-²”Œ‚ÉŒÄ‚Î‚ê‚Ä‚àA’†‚Ö“ü‚é‚±‚Æ‚ğçSçO‚Á‚Ä‚¢‚½‚ªA‚à[r]
-‚µ‚©‚µ‚½‚ç‚¨‚©‚µ‚È“z‚ç‚ª’†‚É‚¢‚½‚Ì‚©‚à‚µ‚ê‚È‚¢A‚Æ[r]
-v‚¢’¼‚µA‰´‚Í‹}‚¢‚Å—qƒgƒCƒŒ‚Ö“¥‚İ‚ñ‚¾B[pcms]
+I hesitated to enter when Saeki called me, but I[r]reconsidered and thought that there might be some strange[r]people inside.[l][er]
+I quickly stepped into the women's restroom.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -124,9 +119,9 @@
 
 ;//blackout
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05390]‚Ö
+;//[05390]ã¸
 [jump target=*05390_H_TOP storage="05390_H.ks"]
 

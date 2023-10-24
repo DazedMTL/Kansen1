@@ -1,20 +1,20 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02053wˆêŠKƒgƒCƒŒ‚©‚çæ‚Éx
-;//BG:“Áê‹³º˜L‰ºF–éFÁ“”
-;//“oêl•¨GålŒöE—D
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02053ã€ä¸€éšãƒˆã‚¤ãƒ¬ã‹ã‚‰å…ˆã«ã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02053_TOP
-;[debug_win]‚È‚¤@02053[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02053 = 1"]
+;[debug_win]ãªã†ã€€02053[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02053 = 1"]
 
-;*SceneSet|wˆêŠKƒgƒCƒŒ‚©‚çæ‚Éx
+;*SceneSet|ã€ä¸€éšãƒˆã‚¤ãƒ¬ã‹ã‚‰å…ˆã«ã€
 
 ;//[02053]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//BG:bg008c
 ;g[bg storage="bg08c"]
@@ -25,113 +25,103 @@
 
 *1414|
 [fc]
-[ns]‰Á“¡[nse]
-u—‰Èº‚ÍA–ß‚Á‚Ä‚­‚é‚É‚Â‚¢‚Å‚ÉŠm”F‚Å‚«‚é‚©‚çA[r]
-æ‚ÉƒgƒCƒŒ‚©‚çs‚±‚¤‚©v[pcms]
+[ns]Kato[nse]
+Since we can check the science room on the way back, should[r]we go to the bathroom first?[pcms]
 
 *1415|
 [fc]
-RŠİ‚³‚ñ‚Ì˜b‚©‚çl‚¦‚é‚ÆAZÉ“à‚Éˆê‚Â‚µ‚©‚È‚¢ŠK’i[r]
-‚Ì“”‚è‚ª“_‚¯‚ç‚ê‚Ä‚¢‚é‚Æ‚¢‚¤‚±‚Æ‚ÍA²”Œ‚Íã‚ÌŠK‚Ö[r]
-s‚Á‚½‚Í‚¸‚¾B[pcms]
+Based on Yamagishi-san's story, if the light of the only[r]staircase inside the school building is turned on, Saeki[r]should have gone upstairs.[pcms]
 
 *1416|
 [fc]
-‘½•ªA^‚ÁˆÃ‚È‚Ü‚Ü‚Ì’Êí‹³º“‚Ì•û‚ÍA‘S‚­Šm”F‚µ‚È[r]
-‚©‚Á‚½‚©A‚Ç‚±‚©‚Ì‹³º‚É“d‹C‚ª“_‚¢‚Ä‚¢‚È‚¢‚©‚ğAƒ`[r]
-ƒ‰ƒb‚ÆŒ©‚½‚¾‚¯‚¾‚ë‚¤B[pcms]
+Maybe Saeki didn't check the regular classroom building that[r]was completely dark, or she just glanced to see if any[r]classrooms didn't have the lights on.[pcms]
 
 *1417|
 [fc]
-¶“k—p‚ÌƒgƒCƒŒ‚Ü‚Å‚ÍAŠm”F‚µ‚Ä‚¢‚È‚¢‚Éˆá‚¢‚È‚¢B[pcms]
+She must not have checked the student restroom.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v601|
 [fc]
 [vo_ya s="yama0125"]
-[ns]RŠİ[nse]
-u–é’†‚ÌƒgƒCƒŒ‚Á‚Ä‚â‚¾‚ËB‚È‚ñ‚©o‚»‚¤ccv[pcms]
+[ns]Yamagishi[nse]
+I don't like going to the bathroom at night.[l][er]
+I feel like something might come out...[pcms]
 
 *1418|
 [fc]
-[ns]‰Á“¡[nse]
-u‰½‚©ccv[pcms]
+[ns]Kato[nse]
+Something...[pcms]
 
 *1419|
 [fc]
-w‰½‚©‚ ‚Á‚Ä‚àA‰´‚ª•K‚¸ŒN‚ğç‚é‚æx[pcms]
+Even if something happens, I will definitely protect you.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *1420|
 [fc]
-ƒJƒbƒR‚æ‚­‚»‚ñ‚È‘äŒ‚ğƒLƒ‚æ‚¤‚ÆA“r’†‚Ü‚ÅŒû‚É‚µ‚½[r]
-‚Æ‚±‚ë‚ÅA‰´‚Í‚Ó‚Æ—âÃ‚É‚È‚Á‚½B[pcms]
+I suddenly became calm when I was about to say such a cool[r]line.[pcms]
 
 *1421|
 [fc]
-”Ş‚Å‚à‰½‚Å‚à‚È‚¢‰´‚ª‚»‚ñ‚È‚±‚ÆŒ¾‚Á‚Ä‚àA•’ÊAˆø[r]
-‚©‚ê‚é‚¾‚¯‚¾‚æ‚ÈccB[pcms]
+Even though I'm not her boyfriend or anything, if I were to[r]say something like that, normally she would just be put[r]off...[pcms]
 
 *1422|
 [fc]
-Åˆ«AwƒLƒ‚x‚Æ‚©v‚í‚ê‚ÄA‚±‚Ìæ‚¸‚Á‚Æ”ğ‚¯‚ç‚ê‚é[r]
-‚æ‚¤‚É‚È‚é‚©‚àccB[pcms]
+Worst case scenario, I might be thought of as creepy and she[r]might avoid me from now on...[pcms]
 
 *1423|
 [fc]
-‚»‚ê‚ğl‚¦‚é‚ÆAI‚í‚è‚Ü‚ÅŒ¾‚¤‹C‚É‚ÍA‚Æ‚Ä‚à‚È‚ê‚È[r]
-‚©‚Á‚½B[pcms]
+Considering that, I couldn't bring myself to say it until[r]the end.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v602|
 [fc]
 [vo_ya s="yama0126"]
-[ns]RŠİ[nse]
-uccHv[pcms]
+[ns]Yamagishi[nse]
+...?[pcms]
 
 *1424|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ [A‚¢‚âcc‚È‚ñ‚Å‚à‚È‚¢‚æAƒnƒnƒnccv[pcms]
+[ns]Kato[nse]
+Ah, no... It's nothing, hahaha...[pcms]
 
 *1425|
 [fc]
-Î‚Á‚Ä‚²‚Ü‚©‚·‰´‚ÉARŠİ‚³‚ñ‚Í•sR‚ÈŠç‚ğ‚µ‚Ä‚¢‚½‚ªA[r]
-‰´‚Í¡‚Ì‚±‚Æ‚ğ‚¤‚â‚Ş‚â‚É‚µ‚æ‚¤‚ÆARŠİ‚³‚ñ‚É—q[r]
-ƒgƒCƒŒ‚ÌŠm”F‚ğ‘£‚µ‚½B[pcms]
+Yamagishi-san gave me a suspicious look as I laughed it off,[r]but I tried to brush off what just happened and urged her to[r]check the girls' restroom.[pcms]
 
 *1426|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¶A‚¶‚á‚ A—qƒgƒCƒŒ‚Ì•û‚Í—Š‚Ş‚Ëv[pcms]
+[ns]Kato[nse]
+U-um, then, I'll leave the girls' restroom to you, okay?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v603|
 [fc]
 [vo_ya s="yama0127"]
-[ns]RŠİ[nse]
-u‚¤‚ñccv[pcms]
+[ns]Yamagishi[nse]
+Yeah...[pcms]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 [se0 storage="se005"]
 
 ;//blackout
@@ -139,7 +129,7 @@
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -147,16 +137,15 @@
 
 *1427|
 [fc]
-‰´‚Í“¦‚°‚é‚æ‚¤‚ÉA‘‘«‚Å’jqƒgƒCƒŒ‚Ì’†‚É“ü‚Á‚½B‚â[r]
-‚ª‚ÄƒgƒCƒŒ‚ÌŠO‚ÅŠç‚ğ‡‚í‚¹‚½‰´‚ÆRŠİ‚³‚ñ‚ÍA‚¨Œİ‚¢[r]
-‚É“¯‚¶‚±‚Æ‚ğ•ñ‚µ‡‚Á‚½B[pcms]
+I hurriedly entered the boys' restroom as if I was running[r]away.[l][er]
+Eventually, Yamagishi-san and I met outside the restroom and[r]we reported the same thing to each other.[pcms]
 
 *1428|
 [fc]
-’†‚É“ü‚Á‚½A“d‹C‚Í“_‚¢‚Ä‚¢‚È‚­‚Ä^‚ÁˆÃ‚¾‚Á‚½B[r]
-ŒÂº‚É‚àA‘|œ—p‹ï“ü‚ê‚É‚à’N‚à‚¢‚È‚¢B[pcms]
+When I entered, the lights were off and it was pitch black.[l][er]
+There was no one in the stalls or the cleaning supplies[r]room.[pcms]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//BG:bg008c
 [bg storage="bg08c"]
@@ -166,26 +155,25 @@
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v604|
 [fc]
 [vo_ya s="yama0128"]
-[ns]RŠİ[nse]
-u‘¼‚ÌŠ‚İ‚½‚¢‚Ëccv[pcms]
+[ns]Yamagishi[nse]
+It looks like the other places...[pcms]
 
 *1429|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚ê‚¶‚áA‘ÌˆçŠÙ‚Ì•û‚És‚Á‚Ä‚İ‚æ‚¤‚©v[pcms]
+[ns]Kato[nse]
+Well then, shall we go check the gymnasium?[pcms]
 
 *1430|
 [fc]
-‚¤‚È‚¸‚­RŠİ‚³‚ñ‚ÉA‰´‚Í‚¤‚È‚¸‚«•Ô‚µ‚ÄA‘ÌˆçŠÙ‚Ö‚Æ[r]
-Œü‚©‚Á‚½B[pcms]
+I nodded back at Yamagishi-san who nodded, and we headed[r]towards the gymnasium.[pcms]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;//[02054]‚Ö
+;//[02054]ã¸
 [jump target=*02054_TOP storage="02054.ks"]
 

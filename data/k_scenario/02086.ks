@@ -1,20 +1,20 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02086w‹’®ŠoºF‹x‘§:‡—¬x
-;//BG:‹’®ŠoºF–éF“_“”
-;//“oêl•¨GålŒöE—DE“µE’|“à
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02086ã€è¦–è´è¦šå®¤ï¼šä¼‘æ¯:åˆæµã€
+;//BG:è¦–è´è¦šå®¤ï¼šå¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»ç«¹å†…
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02086_TOP
-;[debug_win]‚È‚¤@02086[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02086 = 1"]
+;[debug_win]ãªã†ã€€02086[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02086 = 1"]
 
-;*SceneSet|w‹’®ŠoºF‹x‘§x
+;*SceneSet|ã€è¦–è´è¦šå®¤ï¼šä¼‘æ¯ã€
 
 ;//[02086]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//BG:bg015c
 [bg storage="bg15c"]
@@ -22,188 +22,173 @@
 
 *1737|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨[‚¢‚İ‚ñ‚ÈAæ¶‚ª‚à‚¤‹x‚ñ‚Å‚ë‚Á‚Äv[pcms]
+[ns]Kato[nse]
+Hey everyone, the teacher said to rest already.[pcms]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 [se0 storage="se005"]
 
 *1738|
 [fc]
-‹’®Šoº‚É–ß‚Á‚Ä‚»‚¤Œ¾‚¤‚ÆARŠİ‚³‚ñ‚ª‰´‚ÌŒ³‚É‹ì‚¯[r]
-Šñ‚Á‚ÄA¬º‚Åš‘‚¢‚½B[pcms]
+Yamagishi-san ran up to me and whispered in a low voice,[r]Let's go back to the audiovisual room.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v721|
 [fc]
 [vo_ya s="yama0202"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒNA‘Ò‚Á‚Ä‚½‚æ`Iv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun, I've been waiting for you~![pcms]
 
 *1739|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ÈA‰½H@‚Ç‚¤‚µ‚½‚ÌHv[pcms]
+[ns]Kato[nse]
+W-What? What's wrong?[pcms]
 
 *1740|
 [fc]
-•”‰®‚Ì’†‚ğŒ©‰ñ‚µ‚ÄA‹êÎ‚µ‚È‚ª‚çRŠİ‚³‚ñ‚Í‘±‚¯‚½B[pcms]
+Yamagishi-san looked around the room and continued with a[r]wry smile.[pcms]
 
-;//—™ŸºF’|“à‚³‚ñ¨’|“àŒNB
+;//ï¼ æ‰æ¸•ï¼šç«¹å†…ã•ã‚“â†’ç«¹å†…å›ã€‚
 
-;—§‚¿
+;ç«‹ã¡
 
 *v722|
 [fc]
 [vo_ya s="yama0203"]
-[ns]RŠİ[nse]
-u‚È‚ñ‚©‹‚Ã‚ç‚­‚Á‚ÄccB’|“àŒN‚ÍQ‚¿‚á‚¤‚µA“µ[r]
-‚³‚ñ‚Í‚ ‚ ‚¾‚µv[pcms]
+[ns]Yamagishi[nse]
+It's a bit awkward here... Takeuchi-kun is sleeping, and[r]Saeki-san is like that...[pcms]
 
 *1741|
 [fc]
-RŠİ‚³‚ñ‚É‚Â‚ç‚ê‚Ä•”‰®‚Ì’†‚ğŒ©‰ñ‚·‚ÆA^–ç‚ÍŠ÷‚É•¢[r]
-‚¢”í‚³‚é‚æ‚¤‚É‚µ‚Ä–°‚Á‚Ä‚¢‚ÄA²”Œ‚Í‘‹Û‚ÌÈ‚ÉÀ‚Á[r]
-‚ÄAˆÃ‚¢ŠO‚Ì•—Œi‚ğƒ{ƒ“ƒ„ƒŠ‚Æ’­‚ß‚Ä‚¢‚½B[pcms]
+When I looked around the room, following Yamagishi-san's[r]lead, I saw Takeuchi-kun sleeping with his head buried on[r]the desk, and Saeki-san sitting by the window, gazing[r]absentmindedly at the dark scenery outside.[pcms]
 
 *1742|
 [fc]
-“ñl‚ª‘Šè‚ğ‚µ‚Ä‚­‚ê‚È‚­‚Ä‘Ş‹ü‚¾‚Á‚½‚Ì‚©ARŠİ‚³‚ñ[r]
-‚Í‚³‚ç‚É‘±‚¯‚½B[pcms]
+Yamagishi-san continued, perhaps because she was bored with[r]no one to talk to.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v723|
 [fc]
 [vo_ya s="yama0204"]
-[ns]RŠİ[nse]
-u‚¿‚å‚Á‚ÆŒ©‚¿‚á‚Á‚½‚ñ‚¾‚¯‚ÇAV“¹æ¶‚Æ‚È‚É˜b‚µ‚Ä[r]
-‚½‚ÌHv[pcms]
+[ns]Yamagishi[nse]
+I happened to see it, but what were you talking about with[r]Shindou-sensei?[pcms]
 
 *1743|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ [A‚¢‚âAæ¶‚ª‘{‚µ‚â‚·‚¢‚©‚È‚Æv‚Á‚ÄA—S“ñ‚Æ[r]
-ŒÜ\—’ƒTƒ“‚ª‚¢‚»‚¤‚ÈŠ‚ğ‹³‚¦‚Ä‚½‚ñ‚¾v[pcms]
+[ns]Kato[nse]
+Ah, well, I was just telling them where Tanaka and Igarashi-[r]san might be so that the teacher can find them easily.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v724|
 [fc]
 [vo_ya s="yama0205"]
-[ns]RŠİ[nse]
-u‚È`‚ñ‚¾A‚»‚Á‚©‚ŸBæ¶‚Ì”Ş‚Ì‚±‚Æ‚Å‚à•·‚¢‚Ä‚é‚Ì[r]
-‚©‚È‚ŸA‚Á‚Äv‚Á‚Ä‚½‚ñ‚¾‚¯‚Çv[pcms]
+[ns]Yamagishi[nse]
+Ohhh, I see. I was wondering if you were asking about the[r]teacher's boyfriend or something.[pcms]
 
 *1744|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚ñ‚È‚±‚Æ•·‚¢‚½‚çA‚Ü‚½“{‚ç‚ê‚é‚Á‚Äv[pcms]
+[ns]Kato[nse]
+If you ask about that, I'll get scolded again.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v725|
 [fc]
 [vo_ya s="yama0206"]
-[ns]RŠİ[nse]
-u‚ ‚Í‚ÍA‚»‚ê‚à‚»‚¤‚¾‚ËB‚Å‚àA‚Ç‚ñ‚Èl‚È‚ñ‚¾‚ë‚¤[r]
-‚È`AV“¹æ¶‚Ì”Ş‚Á‚Äv[pcms]
+[ns]Yamagishi[nse]
+Ahaha, that's true.[pcms]
+But I wonder what kind of person Shindou-sensei's boyfriend[r]is~[l][er]
 
 *1745|
 [fc]
-[ns]‰Á“¡[nse]
-uŒ©‚½–Ú‚ª‚Ç‚¤‚±‚¤‚Á‚Ä‚æ‚èA—Š‚è‚ª‚¢‚Ì‚ ‚éƒIƒgƒR‚ğ[r]
-‘I‚ñ‚Å‚é‚Æv‚¤‚Èv[pcms]
+[ns]Kato[nse]
+Rather than judging by appearance, I think she chooses a[r]reliable man.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v726|
 [fc]
 [vo_ya s="yama0207"]
-[ns]RŠİ[nse]
-u‚Ö‚¥`A‚Ç‚¤‚µ‚ÄHv[pcms]
+[ns]Yamagishi[nse]
+Oh, really? Why?[pcms]
 
 *1746|
 [fc]
-[ns]‰Á“¡[nse]
-u‚È‚ñ‚©‚³AŠwZ‚Å‚Í—â‚½‚­‚ÄŒ˜‚¢ƒJƒ“ƒW‚È‚ñ‚¾‚¯‚ÇA[r]
-ƒIƒgƒR‚Ì‘O‚Å‚Í‚©‚í‚¢‚¢—‚É‚È‚Á‚Ä‚é‹C‚ª‚·‚é‚ñ‚¾v[pcms]
+[ns]Kato[nse]
+You know, at school, I feel like I come off as cold and[r]rigid, but in front of guys, I feel like I become a cute[r]girl.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v727|
 [fc]
 [vo_ya s="yama0208"]
-[ns]RŠİ[nse]
-u‚ ‚Í‚ÍI@‚»‚ñ‚ÈƒJƒ“ƒW‚·‚é`I@‚ `A–{“–‚É‚»‚¤[r]
-‚©‚àv[pcms]
+[ns]Yamagishi[nse]
+Ahaha! I might give off that kind of impression~![l][er]
+Ahh, it might really be true.[pcms]
 
 *1747|
 [fc]
-Î‚Á‚Ä‚¢‚éRŠİ‚³‚ñ‚ÌŒü‚±‚¤‚ÉA—¼˜r‚ğ–‚É‚µ‚ÄAŠ÷‚É[r]
-“Ë‚Á•š‚µ‚ÄQ‚Ä‚¢‚é²”Œ‚ªŒ©‚¦‚éB[pcms]
+Beyond the laughing Yamagishi-san, I can see Saeki lying on[r]the desk with both arms as a pillow, fast asleep.[pcms]
 [backlay_c][chara_int][trans_c cross time=150]
 
 
 *1748|
 [fc]
-ŠwZ‚ÌŠ÷‚ÅQ‚é‚È‚ñ‚ÄA•’i‚Ì²”Œ‚©‚ç‚Íl‚¦‚ç‚ê‚È‚¢[r]
-p‚¾B‚¢‚Â‚à‚È‚çA¡‚İ‚½‚¢‚Éƒ}ƒkƒP–Ê‚µ‚ÄQ‚Ä‚¢‚é^[r]
-–ç‚ğA•ú‰ÛŒã‚É’ˆÓ‚µ‚É‚­‚é‚®‚ç‚¢‚È‚Ì‚ÉB[pcms]
+It's an unexpected sight to see Saeki sleeping on the school[r]desk.[l][er]
+Normally, she would come after school to scold Takeuchi for[r]sleeping with a silly expression like he is now.[pcms]
 
 *1749|
 [fc]
-–é‚ÌŠwZ‚ğˆêl‚Å•à‚¢‚ÄA•|‚³‚É‘Ï‚¦‚é‚Ì‚É‘S‚Ä‚Ì‹C—Í[r]
-‚ğg‚Á‚½‚æ‚¤‚¾‚©‚çA‹C”æ‚ê‚µ‚Ä‚µ‚Ü‚Á‚½‚ñ‚¾‚ë‚¤B[pcms]
+She must have exhausted herself from walking alone in the[r]school at night and enduring the fear.[pcms]
 
 *1750|
 [fc]
-‚»‚¤l‚¦‚é‚ÆA²”Œ‚ÌQ‚Ä‚¢‚ép‚ª”÷Î‚Ü‚µ‚­Œ©‚¦‚Ä‚­[r]
-‚éB[pcms]
+Thinking that way, Saeki's sleeping figure looks adorable.[pcms]
 
 *1751|
 [fc]
-²”Œ‚Ì‚»‚Ìp‚ğ˜b‚Ìƒlƒ^‚É‚µ‚æ‚¤‚ÆARŠİ‚³‚ñ‚É–Ú‚ğ–ß[r]
-‚·‚ÆA‰´‚æ‚èæ‚É”Ş—‚ªŒû‚ğŠJ‚¢‚½B[pcms]
+When I turned my gaze back to Yamagishi-san, thinking of[r]using Saeki's sleeping figure as a topic of conversation,[r]she spoke before me.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v728|
 [fc]
 [vo_ya s="yama0209"]
-[ns]RŠİ[nse]
-uŠÓÜ‰ïA‚¿‚á‚ñ‚Æ‚µ‚½‚Ì‚ğÅŒã‚Ü‚ÅŒ©‚½‚©‚Á‚½‚È‚Ÿv[pcms]
+[ns]Yamagishi[nse]
+I wanted to watch the whole movie at the screening until the[r]end.[pcms]
 
-;//[02087]‚Ö
+;//[02087]ã¸
 [jump target=*02087_TOP storage="02087.ks"]
 
 

@@ -1,88 +1,86 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02097w’‹‚ÌˆÙlx
-;//BG:“Áê‹³º˜L‰ºF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöE—DE’|“à
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02097ã€æ˜¼ã®ç•°äººã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02097_TOP
-;[debug_win]‚È‚¤@02097[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02097 = 1"]
+;[debug_win]ãªã†ã€€02097[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02097 = 1"]
 
-;*SceneSet|w’‹‚ÌˆÙlx
+;*SceneSet|ã€æ˜¼ã®ç•°äººã€
 
 ;//[02097]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 
-;//CG:—D‚ª˜L‰º‚ğ‹ì‚¯‚Ä‚¢‚é
+;//CG:å„ªãŒå»Šä¸‹ã‚’é§†ã‘ã¦ã„ã‚‹
 [evcg storage="EV_001"]
 [trans_c cross time=500]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 [se0 storage="se005"]
 
 *v814|
 [fc]
 [vo_ya s="yama0248"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒNA‘«A‚Í‚â‚¢‚Ë[Iv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun, you're so fast with your legs![pcms]
 
 *1959|
 [fc]
-[ns]‰Á“¡[nse]
-uRŠİ‚³‚ñ‚±‚»Iv[pcms]
+[ns]Kato[nse]
+Yamagishi-san, you're the one who's fast![pcms]
 
 *1960|
 [fc]
-[ns]’|“à[nse]
-u‚Ü‚Á‚Ä‚æ`“ñl‚Æ‚àA‘‚·‚¬‚é‚æ`ccv[pcms]
+[ns]Takeuchi[nse]
+Wait a minute, both of you are too fast...[pcms]
 
 *1961|
 [fc]
-ƒhƒXƒhƒXcc‚»‚ñ‚È‹[‰¹‚ª—‡‚¤B[r]
-—S“ñ‚¶‚á‚È‚¢‚¯‚ÇA­‚µ‚Í‘‰‚¹‚ë‚Æ‹©‚Ñ‚»‚¤‚É‚È‚éB[pcms]
+Thump thump... That onomatopoeia suits you.[l][er]
+Even though I'm not Yuuji, I feel like shouting at you to[r]lose some weight.[pcms]
 
 *1962|
 [fc]
-[ns]‰Á“¡[nse]
-uƒ„ƒxA–{“–‚ÉƒMƒŠƒMƒŠ‚¾ccv[pcms]
+[ns]Kato[nse]
+Oh no, this is really cutting it close...[pcms]
 
 *v815|
 [fc]
 [vo_ya s="yama0249"]
-[ns]RŠİ[nse]
-u‚à‚¤‚ÁA‚¾‚©‚çŒ¾‚Á‚½‚Å‚µ‚å`Iv[pcms]
+[ns]Yamagishi[nse]
+Geez, I told you so~![pcms]
 
 *1963|
 [fc]
-Q‚Ä‚Ä‹’®Šoº‚ğo‚½‰´’B‚ÍA˜L‰º‚ğ–Òƒ_ƒbƒVƒ…‚µ‚ÄA[r]
-EˆõŒºŠÖ‚ÖŒü‚©‚Á‚½B[pcms]
+We hurriedly left the audiovisual room and dashed down the[r]hallway towards the staff entrance.[pcms]
 
 *1964|
 [fc]
-‚¢‚Â‚à‚È‚ç’ˆÓ‚³‚ê‚é‚Æ‚±‚ë‚¾‚¯‚ÇAæ¶‚ª‚Ù‚Æ‚ñ‚Ç‚¢[r]
-‚È‚¢‰Ä‹x‚İ‚Ì¡A•¶‹åŒ¾‚í‚È‚¢‚¾‚ë‚¤B[pcms]
+Normally, we would be scolded for this, but since it's[r]summer vacation and the teacher is hardly ever here, they[r]probably won't complain.[pcms]
 
 *1965|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨‚¢^–çI@ƒ_ƒbƒVƒ…‚¾‚æ‚ÁIIv[pcms]
+[ns]Kato[nse]
+Hey Shinya! Let's dash!![pcms]
 
 *1966|
 [fc]
-[ns]’|“à[nse]
-u‚±‚ê‚Å‚à‘S—Í‚¾‚Á‚Ä‚ÎIv[pcms]
+[ns]Takeuchi[nse]
+Even though it may not look like it, I'm giving it my all![pcms]
 
 *v816|
 [fc]
 [vo_ya s="yama0250"]
-[ns]RŠİ[nse]
-u‚ ‚Í‚Í‚ÁI@’u‚¢‚Ä‚Á‚¿‚á‚¤‚æ`IIv[pcms]
+[ns]Yamagishi[nse]
+Ahaha! I'm leaving you behind~!![pcms]
 
-;//SEFl‚Æ‚Ô‚Â‚©‚é‰¹
+;//SEï¼šäººã¨ã¶ã¤ã‹ã‚‹éŸ³
 
 [se0 storage="se025"]
 
@@ -97,18 +95,18 @@
 
 *1967|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨‚í‚Ÿ‚ÁIIv[pcms]
+[ns]Kato[nse]
+Oh no!![pcms]
 
 *1968|
 [fc]
-[ns]’jq¶“k[nse]
-u‚®‚Ÿ‚ÁccIIv[pcms]
+[ns]male student[nse]
+Guhh...!![pcms]
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 [se0 storage="se021"]
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 [fadeoutbgm time=500]
 ;//BG:bg003a
 [bg storage="bg03a"]
@@ -116,8 +114,7 @@
 
 *1969|
 [fc]
-˜L‰º‚ğ‘–‚è”²‚¯‚ÄA—×‚ÌEˆõŒºŠÖ‚Ö‰EÜ‚µ‚æ‚¤‚Æ‚µ‚½u[r]
-ŠÔA‰´‚Í‰½‚©‚É‚Ô‚Â‚©‚èA’e‚«”ò‚Î‚³‚ê‚½B[pcms]
+As I ran through the hallway and tried to make a right turn[r]towards the adjacent staff entrance, in that moment, I[r]collided with something and was sent flying.[pcms]
 
 [bgm007]
 
@@ -126,98 +123,92 @@
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v817|
 [fc]
 [vo_ya s="yama0251"]
-[ns]RŠİ[nse]
-u•½‹CIH@‰Á“¡ŒNIv[pcms]
+[ns]Yamagishi[nse]
+Are you okay, Kato-kun?[pcms]
 
 *1970|
 [fc]
-[ns]‰Á“¡[nse]
-uƒCƒbƒe‚¥`ccIIv[pcms]
+[ns]Kato[nse]
+Ouch...!![pcms]
 
 *1971|
 [fc]
-RŠİ‚³‚ñ‚É•‚¯‹N‚±‚³‚ê‚ÄA‰´‚Í‰‚ß‚Äl‚É‚Ô‚Â‚©‚Á‚½[r]
-‚Ì‚¾‚Æ‚í‚©‚Á‚½B[pcms]
+Yamagishi-san helped me up, and I realized that it was the[r]first time I had collided with someone.[pcms]
 
 *1972|
 [fc]
-ŒºŠÖ‚Ì°‚ÉAƒEƒ`‚Ì§•‚ğ’…‚½’j‚ª“|‚ê‚Ä‚¢‚éB[r]
-‚Ç‚¤‚â‚ç‰´‚ÍA‚ ‚Ì’jq¶“k‚É‚Ô‚Â‚©‚Á‚½‚ç‚µ‚¢B[pcms]
+There is a man wearing our school uniform lying on the floor[r]in the entrance.[l][er]
+It seems that I collided with that male student.[pcms]
 
 *1973|
 [fc]
-[ns]‰Á“¡[nse]
-u‚·‚¢‚Ü‚¹‚ñcc‘åä•v‚Å‚·‚©Hv[pcms]
+[ns]Kato[nse]
+I'm sorry... Are you okay?[pcms]
 
 *1974|
 [fc]
-—§‚¿ã‚ª‚Á‚Ä‚»‚¤Œ¾‚¤‚ÆA“|‚ê‚Ä‚¢‚½’jq‚Í‚Ì‚»‚Ì‚»‚Æ[r]
-‹N‚«‚ ‚ª‚èA‰´’B‚ÌŠç‚ğŒ©‰ñ‚µ‚½B[pcms]
+The boy who had fallen down slowly got up and looked around[r]at our faces as he said that.[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std214|
 [fc]
-[ns]’|“à[nse]
-u‚ ‚ÁA“ª‚©‚çŒŒ‚ªo‚Ä‚éIv[pcms]
+[ns]Takeuchi[nse]
+Ah, there's blood coming from your head![pcms]
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 ;[bgm007]
 
 *1975|
 [fc]
-^–ç‚ÌŒ¾—t‚É‚»‚Ì’jq‚ÌŠç‚ğŒ©‚é‚ÆA”Ş‚Ì–j‚ğ“`‚Á‚ÄA[r]
-Š{‚©‚çŒŒ‚ª“H‚è—‚¿‚Ä‚¢‚½B[pcms]
+When I looked at the boy's face in response to Shinya's[r]words, blood was dripping down his cheek and chin.[pcms]
 
 *1976|
 [fc]
-‚»‚ñ‚È‚É‹­‚­“Ë‚«”ò‚Î‚µ‚Ä‚µ‚Ü‚Á‚½‚Ì‚©B[r]
-‘å‚¯‚ª‚¶‚á‚È‚¯‚ê‚Î‚¢‚¢‚¯‚ÇB[pcms]
+Did I push you that hard? I hope you're not seriously[r]injured.[pcms]
 
 *1977|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤‚í[cc‚ ‚ÌA–{“–‚É‚²‚ß‚ñ‚È‚³‚¢ccv[pcms]
+[ns]Kato[nse]
+Uwaa... um, I'm really sorry...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v818|
 [fc]
 [vo_ya s="yama0252"]
-[ns]RŠİ[nse]
-u„A•ÛŒ’ºŠJ‚¯‚Ä‚à‚ç‚¦‚é‚æ‚¤‚ÉAV“¹æ¶‚ÉŒ¾‚Á‚Ä[r]
-‚­‚éIv[pcms]
+[ns]Yamagishi[nse]
+I'll go tell Shindou-sensei to open the infirmary for us![pcms]
 
 *1978|
 [fc]
-Q‚Ä‚Ó‚½‚ß‚­RŠİ‚³‚ñ‚ğƒWƒb‚ÆŒ©‚Â‚ß‚Ä‚¢‚½”Ş‚ÍA‹C–¡[r]
-‚Ìˆ«‚¢ÎŠç‚ğ•‚‚©‚×‚½B[pcms]
+He stared silently at the flustered Yamagishi-san, wearing a[r]creepy smile on his face.[pcms]
 
 [ChrSetEx layer=1 chbase="zom_01_a"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std215|
 [fc]
-[ns]’jq¶“k[nse]
-u‚â‚ÜA‚¬‚µ‚¾cc‚ç‚ÁA‚«`ccv[pcms]
+[ns]male student[nse]
+Yama... gishi... La... ki~...[pcms]
 
-;//¦EV_004@’†‰›ƒLƒƒƒ‰
+;//â€»EV_004ã€€ä¸­å¤®ã‚­ãƒ£ãƒ©
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -228,52 +219,51 @@
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v819|
 [fc]
 [vo_ya s="yama0252_"]
-[ns]RŠİ[nse]
-u‚¦ccHv[pcms]
+[ns]Yamagishi[nse]
+Eh...?[pcms]
 
 *1979|
 [fc]
-[ns]‰Á“¡[nse]
-uƒ‰ƒbƒL[A‚Á‚Äccv[pcms]
+[ns]Kato[nse]
+Lucky...[pcms]
 
 *1980|
 [fc]
-•sR‚ÈŠç‚ÅŒ©‚é‰´’B‚ÉA‚»‚¢‚Â‚Í‚ä‚Á‚­‚è‚Æ‹ß‚Ã‚«n‚ß[r]
-‚½B[pcms]
+The person slowly approached us with a suspicious look on[r]their face.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v820|
 [fc]
 [vo_ya s="yama0253"]
-[ns]RŠİ[nse]
-u‚Ècc‰½ccHv[pcms]
+[ns]Yamagishi[nse]
+Wha... what...?[pcms]
 
 *1981|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨A‚¨‚¢A‚¿‚å‚Á‚Æccv[pcms]
+[ns]Kato[nse]
+H-Hey, wait a minute...[pcms]
 
 [ChrSetEx layer=1 chbase="zom_01_a"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std216|
 [fc]
-[ns]’jq¶“k[nse]
-u‚®‚ÓA‚Ócc‚¤A‚Öccv[pcms]
+[ns]male student[nse]
+Gufu, fu... u, he...[pcms]
 
-;//[02098]‚Ö
+;//[02098]ã¸
 [jump target=*02098_TOP storage="02098.ks"]
 

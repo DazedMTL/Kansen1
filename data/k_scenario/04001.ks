@@ -1,20 +1,20 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN04001w“c’†‚Ì«•Èx
-;//BG:“n‚è˜L‰ºF–éFÁ“”
-;//“oêl•¨GålŒöE—D
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04001ã€ç”°ä¸­ã®æ€§ç™–ã€
+;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *04001_TOP
-;[debug_win]‚È‚¤@04001[debug_win_end]
+;[debug_win]ãªã†ã€€04001[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04001 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04001 = 1"]
 
-;*SceneSet|w“c’†‚Ì«•Èx
+;*SceneSet|ã€ç”°ä¸­ã®æ€§ç™–ã€
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 
 ;//[bgm001]
 
@@ -27,114 +27,102 @@
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1468|
 [fc]
 [vo_ya s="yama0553"]
-[ns]RŠİ[nse]
-u‚Ë‚¦‰Á“¡ŒNA‹’®Šoº‚©‚çˆê”Ô—£‚ê‚Ä‚é‚ÆA‚Ç‚¤‚µ‚Ä[r]
-‰ö‚µ‚¢‚ÌHv[pcms]
+[ns]Yamagishi[nse]
+Hey, Katou-kun, why do you find it suspicious that the[r]audiovisual room is the farthest away?[pcms]
 
 *3719|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦H@‚¦[‚ÆA‚»‚ê‚Íccv[pcms]
+[ns]Kato[nse]
+Eh? Um, well...[pcms]
 
 *3720|
 [fc]
-RŠİ‚³‚ñ‚Ì“Ë‘R‚Ì¿–â‚ÉA‰´‚Í“š‚¦‚É‹l‚Ü‚ç‚¹‚ç‚êA‚¤[r]
-‚Ü‚¢ƒSƒ}ƒJƒV‚ªv‚¢‚Â‚©‚¸‚É‚¢‚½B[pcms]
+Yamagishi-san's sudden question left me at a loss for words,[r]and I couldn't come up with a clever excuse.[pcms]
 
 *3721|
 [fc]
-‚¢‚Á‚»‚Ì‚±‚Æƒoƒ‰‚µ‚¿‚á‚¨‚¤‚©ccB[r]
-Ÿè‚É‚¢‚È‚­‚È‚é—S“ñ‚ªˆ«‚¢‚ñ‚¾‚µccB[pcms]
+Maybe I should just spill the beans...[l][er]
+It's Yuuji's fault for disappearing without permission...[pcms]
 
 *3722|
 [fc]
-‚Å‚àA‚ ‚Ü‚èƒXƒgƒŒ[ƒg‚ÉŒ¾‚Á‚ÄA©•ª‚Ü‚ÅŒ™‚í‚ê‚Ä‚µ[r]
-‚Ü‚Á‚Ä‚ÍŒ³‚àq‚à‚È‚¢B[pcms]
+But if I say it too directly, I might end up being hated[r]myself, and that wouldn't do anyone any good.[pcms]
 
 *3723|
 [fc]
-‰´‚Í–{“–‚Ì‚±‚Æ‚ğƒ{ƒJƒV‚Éƒ{ƒJƒV‚ÄA‚±‚¿‚ç‚ğŒ©‚Â‚ß‚Ä[r]
-‚¢‚éRŠİ‚³‚ñ‚É‰‚¦‚½B[pcms]
+I responded to Yamagishi-san, who was looking at me, by[r]obscuring the truth.[pcms]
 
 *3724|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ Aƒzƒ‰A“ñl‚«‚è‚É‚È‚è‚½‚©‚Á‚½‚©‚çA’N‚à—ˆ‚»‚¤[r]
-‚É‚È‚¢Š‚ğ‘I‚ñ‚¾‚ñ‚¶‚á‚È‚¢‚©‚Èv[pcms]
+[ns]Kato[nse]
+Ah, well, you see, I wanted to be alone with you, so I chose[r]a place where no one would likely come.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1469|
 [fc]
 [vo_ya s="yama0554"]
-[ns]RŠİ[nse]
-ucc‚à‚µ‚©‚µ‚Äƒgƒ‚‚¿‚á‚ñ’BA‘Ìˆç‘qŒÉ‚És‚Á‚½‚Ì‚©[r]
-‚Èccv[pcms]
+[ns]Yamagishi[nse]
+... Could it be that Tomo-chan and the others went to the[r]gym storage room...[pcms]
 
 *3725|
 [fc]
-[ns]‰Á“¡[nse]
-u‘Ìˆç‘qŒÉccHv[pcms]
+[ns]Kato[nse]
+The gym storage room...?[pcms]
 
 *3726|
 [fc]
-wƒxƒ^‚¾‚æ‚Èx‚ÆŒ¾‚¢‚È‚ª‚çAƒGƒƒ}ƒ“ƒK‚Ì’†‚ÌƒvƒŒƒC[r]
-‚Å—S“ñ‚ªˆê”Ô‹»•±‚µ‚Ä‚¢‚½‚Ì‚ÍA‘Ìˆç‘qŒÉ‚Ìƒ}ƒbƒg‚Ìã[r]
-‚ÅƒZƒbƒNƒX‚ğ‚µ‚Ä‚¢‚éƒV[ƒ“‚¾‚Á‚½B[pcms]
+Yuuji, while saying This is so cliche, was most excited by[r]the scene in the erotic manga where they have sex on the mat[r]in the gym storage room.[pcms]
 
 *3727|
 [fc]
-—S“ñ‚ª‚»‚ê‚ğŒÜ\—’ƒTƒ“‚É˜b‚µ‚Ä‚¢‚½‚Æ‚µ‚½‚çA”Ş—‚©[r]
-‚çRŠİ‚³‚ñ‚É“`‚í‚Á‚Ä‚¢‚é‚Ì‚©‚à‚µ‚ê‚È‚¢B[pcms]
+If Yuuji were to talk about it to Igarashi-san, it's[r]possible that she might have relayed it to Yamagishi-san.[pcms]
 
 *3728|
 [fc]
-‚»‚ê‚Åw‘Ìˆç‘qŒÉx‚ÆŒû‚É‚µ‚½‚Ì‚Å‚Í‚È‚¢‚¾‚ë‚¤‚©B[pcms]
+So, could it be that you mentioned the 'gym storage room'?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_c_09"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_c_10"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1470|
 [fc]
 [vo_ya s="yama0555"]
-[ns]RŠİ[nse]
-u‚ A‚ÅA‚Å‚àA“ñl‚Á‚«‚è‚É‚È‚é‚ñ‚¾‚Á‚½‚çA‰®ã‚Ì[r]
-•û‚ªƒƒ}ƒ“ƒ`ƒbƒN‚¾‚æ‚Ë`v[pcms]
+[ns]Yamagishi[nse]
+Ah, but if we were to be alone together, wouldn't the[r]rooftop be more romantic~[l][er]
 
 *3729|
 [fc]
-Šç‚ğÔ‚­‚µ‚ÄAQ‚Ä‚½’²q‚ÅŒ¾‚¢’¼‚·RŠİ‚³‚ñ‚ÉA‰´‚Í[r]
-[‚­‘Fõ‚µ‚½‚çŒ™‚í‚ê‚»‚¤‚È‹C‚ª‚µ‚ÄAƒcƒbƒR‚Ş‚Ì‚ğ‚â[r]
-‚ß‚½B[pcms]
+Yamagishi-san, who blushed and hastily corrected herself,[r]seemed flustered.[l][er]
+I felt like if I pried too deeply, she might dislike me, so[r]I decided to refrain from interjecting.[pcms]
 
 *3730|
 [fc]
-[ns]‰Á“¡[nse]
-u‰®ã‚Í²”Œ‚ªŠm”F‚µ‚Ä‚­‚ê‚é‚æB‚Æ‚è‚ ‚¦‚¸‘ÌˆçŠÙ‚Ì[r]
-’†‚ğŒ©‚Ä‚¢‚±‚¤v[pcms]
+[ns]Kato[nse]
+Saeki will check the rooftop. For now, let's go and check[r]inside the gymnasium.[pcms]
 
 *3731|
 [fc]
-‚¤‚È‚¸‚­RŠİ‚³‚ñ‚ğ”º‚Á‚ÄA‰´‚Í‘ÌˆçŠÙ‚Ì’†‚Ö“ü‚Á‚½B[pcms]
+I entered the gymnasium with Yamagishi-san, who nodded in[r]agreement.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -142,5 +130,5 @@
 
 ;//blackout
 
-;//[04002]‚Ö
+;//[04002]ã¸
 [jump target=*04002_TOP storage="04002.ks"]

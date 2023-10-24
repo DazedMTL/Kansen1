@@ -1,22 +1,22 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//;//¡ËƒuƒƒbƒN0010w‰f‰æŒ¤‹†•”F—D‚ÆålŒö‚Ìo‰ï‚¢F‰ñ‘zx
-;//BGF‹³ºFƒZƒsƒA
-;//;//“oêl•¨GålŒöE’|“à
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0010ã€æ˜ ç”»ç ”ç©¶éƒ¨ï¼šå„ªã¨ä¸»äººå…¬ã®å‡ºä¼šã„ï¼šå›æƒ³ã€
+;//BGï¼šæ•™å®¤ï¼šã‚»ãƒ”ã‚¢
+;//;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç«¹å†…
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *0010_TOP
-;[debug_win]‚È‚¤@0010[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0010 = 1"]
+;[debug_win]ãªã†ã€€0010[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0010 = 1"]
 
-;*SceneSet|w‰f‰æŒ¤‹†•”x
+;*SceneSet|ã€æ˜ ç”»ç ”ç©¶éƒ¨ã€
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
-;//;//BG:bg‹³º@ƒZƒsƒA
-;//;«‚Ì‰æ‘œ‚ğƒZƒsƒA‚Å—pˆÓ
+;//;//BG:bgæ•™å®¤ã€€ã‚»ãƒ”ã‚¢
+;//;â†“ã®ç”»åƒã‚’ã‚»ãƒ”ã‚¢ã§ç”¨æ„
 
 [bg storage="bg10b_s"]
 [trans_c wave time=500]
@@ -24,31 +24,25 @@
 
 *256|
 [fc]
-‰´‚ª‰fŒ¤‚É“ü•”‚µ‚½‚Ì‚ÍA^–ç‚É•t‚«“Y‚¢‚ğ—Š‚Ü‚ê‚½‚Ì[r]
-‚ª”­’[‚¾‚Á‚½B[pcms]
+I joined the Film Club because Shinya asked me to accompany[r]him.[pcms]
 
 *257|
 [fc]
-‹”NAV‚µ‚­•‹”C‚µ‚Ä‚«‚½V“¹æ¶‚ğŒ©‚½‚»‚Ì‚©‚çA[r]
-^–ç‚ÍS’êƒnƒ}‚Á‚Ä‚µ‚Ü‚Á‚½‚æ‚¤‚ÅA‰´‚Í–ˆ“ú‚Ì‚æ‚¤‚É[r]
-æ¶‚Ì–£—Í‚ğ‚«‚Ü‚ê‚Ä‚¢‚½B[pcms]
+Since I saw Shindou-sensei, who had newly transferred last[r]year, it seemed like Shinya was completely captivated.[l][er]
+Every day, I was being influenced by the teacher's charm.[pcms]
 
 *258|
 [fc]
-‚»‚ÌV“¹æ¶‚ªA¡”N‚É‚È‚Á‚Ä‰f‰æŒ¤‹†•”‚ğİ—§‚µA•”[r]
-ˆõ‚Ì•åW‚ğ‚µ‚Ä‚¢‚é‚±‚Æ‚ğ’m‚Á‚½^–ç‚ÍA‚»‚Ì“ú‚Ì•ú‰Û[r]
-Œã‚ÉA“ü•”è‘±‚«‚És‚­‚ÆŒ¾‚¢o‚µ‚½‚Ì‚¾B[pcms]
+Shinya, who learned that Shindou-sensei had established the[r]Film Club this year and was recruiting members, said that he[r]would go to complete the membership procedures after school[r]that day.[pcms]
+[l][er]
 
 *259|
 [fc]
-ˆê‚É—ˆ‚Ä‚­‚êA‚Æ‚¢‚¤^–ç‚ÌŒ¾—t‚Éa‚Á‚Ä‚¢‚½‰´‚ÍA[r]
-ƒnƒ“ƒo[ƒK[“ñ‚Â‚Å”ƒû‚³‚êA—‰È€”õº‚ÖŒü‚©‚Á‚½B[pcms]
+Reluctant to Shinya's words of Come with me, I was bribed[r]with two hamburgers and headed to the science preparation[r]room.[pcms]
 
 *260|
 [fc]
-‚»‚±‚Å‰´’B‚æ‚èæ‚É“ü•”‚Ìè‘±‚«‚ğ‚µ‚Ä‚¢‚½‚Ì‚ÍA“üŠw[r]
-®‚Ì“ú‚ÉŒ©‚©‚¯‚ÄA‚»‚Ìê‚Åw¶‚Ü‚ê‚Ä‰‚ß‚Äxˆê–Ú›[r]
-‚ê‚µ‚½‚ ‚Ìq\\RŠİ‚³‚ñ‚¾‚Á‚½B[pcms]
+The one who had completed the membership procedures before[r]us was that girl I saw on the day of the entrance ceremony,[r]the one I instantly fell in love with at first sight -[r]Yamagishi-san.[pcms]
 
 ;//[black_toplayer][trans_c cross time=1001][hide_chara_int]
 

@@ -1,24 +1,24 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02158wƒf[ƒg‚Ì\‚µ‚İx
-;//BG:‰®ãF–é
-;//“oêl•¨GålŒöE—D
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02158ã€ãƒ‡ãƒ¼ãƒˆã®ç”³ã—è¾¼ã¿ã€
+;//BG:å±‹ä¸Šï¼šå¤œ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02158_TOP
-;[debug_win]‚È‚¤@02158[debug_win_end]
+;[debug_win]ãªã†ã€€02158[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02158 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02158 = 1"]
 
-;*SceneSet|wƒf[ƒg‚Ì\‚µ‚İx
+;*SceneSet|ã€ãƒ‡ãƒ¼ãƒˆã®ç”³ã—è¾¼ã¿ã€
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 
 [fadeoutbgm time=500]
 
-;//SE:’‚Ì‰¹@ƒ‹[ƒv
+;//SE:è™«ã®éŸ³ã€€ãƒ«ãƒ¼ãƒ—
 
 [se0 storage="se018" loop=true]
 
@@ -32,53 +32,52 @@
 
 *2914|
 [fc]
-Å‰‚Ìƒf[ƒg‚Í‚Ç‚±‚ª‚¢‚¢‚©‚ÈccB[r]
-RŠİ‚³‚ñ‚Í‰f‰æD‚«‚¾‚µA‚â‚Á‚Ï‚èÅ‰‚Í‰f‰æ‚©‚ÈB[pcms]
+I wonder where would be a good place for our first date...[l][er]
+Yamagishi-san likes movies, so maybe we should start with a[r]movie after all.[pcms]
+[l][er]
 
 *2915|
 [fc]
-‚»‚ê‚Æ‚àAˆê‚É—V‚×‚é—V‰€’n‚©B[r]
-“ª‚ğŒ¨‚Éæ‚¹‚Ä‚«‚½RŠİ‚³‚ñ‚ÉA‰´‚ÍƒŠƒNƒGƒXƒg‚ğ•·‚¢[r]
-‚Ä‚İ‚½B[pcms]
+Or perhaps we could go to an amusement park where we can[r]have fun together.[l][er]
+With Yamagishi-san resting her head on my shoulder, I[r]decided to ask for her preference.[pcms]
 
 *2916|
 [fc]
-[ns]‰Á“¡[nse]
-u•‚©‚Á‚½‚ç‚³A“ñl‚Å‚Ç‚±‚©s‚±‚¤‚æBRŠİ‚³‚ñ‚ÍA[r]
-‚Ç‚±‚És‚«‚½‚¢Hv[pcms]
+[ns]Kato[nse]
+If it's okay with you, let's go somewhere together.[l][er]
+Yamagishi-san, where would you like to go?[pcms]
 
 *v1142|
 [fc]
 [vo_ya s="yama0430"]
-[ns]RŠİ[nse]
-uccv[pcms]
+[ns]Yamagishi[nse]
+â€¦â€¦[l][er]
 
 *2917|
 [fc]
-[ns]‰Á“¡[nse]
-uccRŠİ‚³‚ñHv[pcms]
+[ns]Kato[nse]
+... Yamagishi-san?[pcms]
 
 *v1143|
 [fc]
 [vo_ya s="yama0431"]
-[ns]RŠİ[nse]
-uccccv[pcms]
+[ns]Yamagishi[nse]
+â€¦â€¦â€¦â€¦[l][er]
 
 *2918|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚êccv[pcms]
+[ns]Kato[nse]
+Huh...[pcms]
 
 *2919|
 [fc]
-RŠİ‚³‚ñ‚ÌŠç‚ğ”`‚«‚Ş‚ÆA–°‚Á‚Ä‚µ‚Ü‚Á‚Ä‚¢‚½B[pcms]
+I peered into Yamagishi-san's face and she had fallen[r]asleep.[pcms]
 
 *2920|
 [fc]
-”’‚·‚é‚Æ‚¢‚¤ˆê‘åƒCƒxƒ“ƒg‚ªI‚í‚Á‚ÄA‹Ù’£‚Ì…‚ªØ[r]
-‚ê‚Ä‚µ‚Ü‚Á‚½‚Ì‚¾‚ë‚¤‚©ccB[pcms]
+I wonder if the tension thread has been cut after the big[r]event of confessing...[pcms]
 
-;//[02160]‚Ö
+;//[02160]ã¸
 [jump target=*02160_TOP storage="02160.ks"]
 
 

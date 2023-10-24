@@ -1,20 +1,20 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN05430w’N‚à‚¢‚È‚¢x
-;//;//BG:“Áê‹³º˜L‰ºF—[•ûGÁ“”
-;//;//BG:•ÛŒ’ºF—[•ûFÁ“”
-;//“oêl•¨GålŒöE“µ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05430ã€èª°ã‚‚ã„ãªã„ã€
+;//;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤•æ–¹ï¼›æ¶ˆç¯
+;//;//BG:ä¿å¥å®¤ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *05430_TOP
-;[debug_win]‚È‚¤@05430[debug_win_end]
-;*SceneSet|w’N‚à‚¢‚È‚¢x
+;[debug_win]ãªã†ã€€05430[debug_win_end]
+;*SceneSet|ã€èª°ã‚‚ã„ãªã„ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05430 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05430 = 1"]
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 
 [bgm007]
 
@@ -31,49 +31,46 @@
 
 *5479|
 [fc]
-ƒVƒƒƒ[º‚ÅŒ©‚¹‚½ãX‚µ‚³‚Í‚Ç‚±‚Ös‚Á‚½‚Ì‚©A²”Œ[r]
-‚Í‚¢‚Â‚à‚Ì‚ ‚¢‚Â‚É–ß‚Á‚Ä‚¢‚ÄA‰´‚ÉƒLƒƒƒ“ƒLƒƒƒ“‚ÆŠ«[r]
-‚«—§‚Ä‚½B[pcms]
+Saeki, who showed her vulnerability in the shower room, has[r]returned to her usual self and started barking at me.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_10"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2276|
 [fc]
 [vo_sa s="sae0502"]
-[ns]²”Œ[nse]
-u‘æˆêA‰½ŒÌ„‚ª‹M•û‚ğˆø‚Á’£‚Á‚Äs‚©‚È‚¯‚ê‚Î‚È‚ç‚È[r]
-‚¢‚Ì‚Å‚·‚©IH@‚ ‚ ‚¢‚Á‚½‚ÍA’j«‚ª˜A‚ê‚Äs‚Á‚Ä[r]
-‚­‚ê‚é‚Ì‚ª•’Ê‚Å‚µ‚å‚¤IIv[pcms]
+[ns]Saeki[nse]
+First of all, why do I have to take you with me?![l][er]
+In situations like that, it's normal for a man to take[r]someone along!![pcms]
+[l][er]
 
 *5480|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨‘O‚ª‹}‚ÉŒ¾‚¢o‚·‚©‚ç‚¾‚ëI@‚»‚ê‚ÉA‚±‚ñ‚È‚É[r]
-ccB‚ ‚°‚­‚ÉAƒVƒƒƒ[º‚ªg‚¦‚é‚È‚ñ‚ÄA‰´•·‚¢‚Ä[r]
-‚È‚¢‚¼Iv[pcms]
+[ns]Kato[nse]
+It's because you suddenly brought it up![l][er]
+And besides, in a situation like this...[l][er]
+On top of that, I never said anything about being able to[r]use the shower room![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2277|
 [fc]
 [vo_sa s="sae0503"]
-[ns]²”Œ[nse]
-u’m‚ç‚È‚­‚½‚Á‚ÄA‰½‚Æ‚©‚µ‚Ä‚â‚ë‚¤‚Æl‚¦‚Ä‚­‚ê‚Ä‚à[r]
-‚¢‚¢‚Ì‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚©IHv[pcms]
+[ns]Saeki[nse]
+Even if you didn't know, couldn't you at least think of a[r]way to help me out?![pcms]
 
 *5481|
 [fc]
-[ns]‰Á“¡[nse]
-uƒ“‚È‚±‚ÆŒ¾‚Á‚½‚Á‚Ä‚¨‘Occv[pcms]
+[ns]Kato[nse]
+Even if you say that...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:”à‚ğŠJ‚­
+;//SE:æ‰‰ã‚’é–‹ã
 [se0 storage="se008"]
 
 ;//;//BG:bg013a
@@ -83,64 +80,62 @@
 
 *5482|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚êccHv[pcms]
+[ns]Kato[nse]
+Huh...?[pcms]
 
 *5483|
 [fc]
-‰´’B‚ğ‘Ò‚Á‚Ä‚¢‚é‚Í‚¸‚ÌV“¹æ¶‚Ìp‚ÍA•ÛŒ’º‚Ì‚Ç‚±[r]
-‚É‚àŒ©‚ ‚½‚ç‚È‚©‚Á‚½B[pcms]
+I couldn't find Shindou-sensei, who should have been waiting[r]for us, anywhere in the infirmary.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2278|
 [fc]
 [vo_sa s="sae0504"]
-[ns]²”Œ[nse]
-u–ß‚Á‚Ä‚­‚é‚Ì‚ª’x‚¢‚©‚çA‘{‚µ‚Éo‚½‚Ì‚©‚à‚µ‚ê‚Ü‚¹[r]
-‚ñB„‚ª‚®‚¸‚®‚¸‚µ‚Ä‚¢‚½‚¹‚¢‚¾‚íccv[pcms]
+[ns]Saeki[nse]
+Maybe he went out to look for me because I took so long to[r]come back.[l][er]
+It's my fault for being slow...[pcms]
 
 *5484|
 [fc]
-[ns]‰Á“¡[nse]
-u²”Œ‚Ì‚¹‚¢‚¶‚á‚È‚¢AŠİ“c‚Ì‚¹‚¢‚¾B‹C‚É‚·‚é‚È‚æv[pcms]
+[ns]Kato[nse]
+It's not Saeki's fault, it's Kishida's fault.[l][er]
+Don't worry about it.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2279|
 [fc]
 [vo_sa s="sae0505"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *5485|
 [fc]
-‹C—‚¿‚µ‚½Šç‚ğŒ©‚¹‚½²”Œ‚¾‚Á‚½‚ªA‚·‚®‚É–Ú‚É—Í‚ğæ[r]
-‚è–ß‚µA‰´‚ÉŒü‚¯‚½B[pcms]
+Saeki, who had a downcast expression, quickly regained her[r]composure and turned towards me.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2280|
 [fc]
 [vo_sa s="sae0506"]
-[ns]²”Œ[nse]
-u‘{‚µ‚És‚«‚Ü‚µ‚å‚¤B—«ˆêl‚Å‚¢‚é‚É‚ÍAZÉ‚Ì’†[r]
-‚ÍŠëŒ¯‚·‚¬‚Ü‚·B–\“k‚Æ”«‡‚í‚¹‚Ä‚µ‚Ü‚Á‚½‚çAV“¹æ[r]
-¶‚É‚Í‘Îˆ‚µ‚«‚ê‚Ü‚¹‚ñv[pcms]
+[ns]Saeki[nse]
+Let's go search for him. It's too dangerous for a woman to[r]be alone inside the school building.[l][er]
+If we were to encounter any thugs, Shindou-sensei wouldn't[r]be able to handle them all by himself.[pcms]
 
 *5486|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤‚¾‚Ècc‹}‚²‚¤Iv[pcms]
+[ns]Kato[nse]
+Yeah... Let's hurry![pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -152,5 +147,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05440]‚Ö
+;//[05440]ã¸
 [jump target=*05440_TOP storage="05440.ks"]

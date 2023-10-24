@@ -1,18 +1,18 @@
 
-;//¡ËƒuƒƒbƒN07000wƒgƒCƒŒ‚Ö•t‚¢‚Ä‚ä‚­x
-;//BG:‹’®ŠoºF–éG“_“”
-;//BG:“Áê‹³º˜L‰ºF–éFÁ“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07000ã€ãƒˆã‚¤ãƒ¬ã¸ä»˜ã„ã¦ã‚†ãã€
+;//BG:è¦–è´è¦šå®¤ï¼šå¤œï¼›ç‚¹ç¯
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *07000_TOP
-;[debug_win]‚È‚¤@07000[debug_win_end]
-;*SceneSet|wƒgƒCƒŒ‚Ö•t‚¢‚Ä‚ä‚­x
+;[debug_win]ãªã†ã€€07000[debug_win_end]
+;*SceneSet|ã€ãƒˆã‚¤ãƒ¬ã¸ä»˜ã„ã¦ã‚†ãã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07000 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07000 = 1"]
 
-;//flag:“µƒ‹[ƒgƒtƒ[@‚S@•\¦
+;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼”ã€€è¡¨ç¤º
 ;	/*
-;	;//ôFBGM001
+;	;//â™ªï¼šBGM001
 ;	[bgm001]
 ;	*/
 ;//;//BG:bg15d
@@ -26,8 +26,8 @@
 
 *6946|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ccv[pcms]
+[ns]Kato[nse]
+Ah...[pcms]
 
 [backlay_c][chara_int4]
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
@@ -35,56 +35,56 @@
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2804|
 [fc]
 [vo_sa s="sae0714"]
-[ns]²”Œ[nse]
-uccHv[pcms]
+[ns]Saeki[nse]
+...?[pcms]
 
 *6947|
 [fc]
-[ns]‰Á“¡[nse]
-u‰½‚©ƒVƒ‡ƒ“ƒxƒ“‚µ‚½‚­‚È‚Á‚Ä‚«‚½ccB‚¿‚å‚¤‚Ç‚¢‚¢[r]
-‚âA²”ŒA˜A‚êƒVƒ‡ƒ“s‚±‚¤‚ºv[pcms]
+[ns]Kato[nse]
+I'm starting to feel like taking a piss...[l][er]
+It's perfect timing, Saeki. Let's go together.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 ;//
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2805|
 [fc]
 [vo_sa s="sae0715"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
-;//SE:”à‚ğŠJ‚­
+;//SE:æ‰‰ã‚’é–‹ã
 
 [se0 storage="se008"]
 
 *6948|
 [fc]
-[ns]‰Á“¡[nse]
-u‘‚­—ˆ‚È‚¢‚ÆA’u‚¢‚Ä‚­‚¼[v[pcms]
+[ns]Kato[nse]
+Hurry up or I'll leave you behind.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2806|
 [fc]
 [vo_sa s="sae0716"]
-[ns]²”Œ[nse]
-u‚ A‚ÜA‘Ò‚Á‚Ä‚­‚¾‚³‚¢Iv[pcms]
+[ns]Saeki[nse]
+Ah, w-wait, please![pcms]
 
-;//SE:”à‚ğŠJ‚­
+;//SE:æ‰‰ã‚’é–‹ã
 
 [se0 storage="se008"]
 
@@ -103,56 +103,52 @@
 [ChrSetParts layer=1 chface="sae_c_b_07"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2807|
 [fc]
 [vo_sa s="sae0717"]
-[ns]²”Œ[nse]
-u‚ A‚ ‚Ìcc‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·ccv[pcms]
+[ns]Saeki[nse]
+Ah, um... thank you very much...[pcms]
 
 *6949|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ A‚¢‚âA‚Ü‚Ÿccv[pcms]
+[ns]Kato[nse]
+Ah, well...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *6950|
 [fc]
-wƒVƒ‡ƒ“ƒxƒ“‚µ‚½‚­‚È‚Á‚Ä‚«‚½x‚Æ‚¢‚¤‚Ì‚ª‰‰‹Z‚¾‚Æ‚¢[r]
-‚¤‚Ì‚ÍA²”Œ‚É‚à‚í‚©‚Á‚½‚æ‚¤‚¾‚Á‚½‚ªA‚»‚¤‚Å‚àŒ¾‚í[r]
-‚È‚¢‚ÆAâ‘Î‚Éˆêl‚Ås‚±‚¤‚Æ‚·‚é‚¾‚ë‚¤B[pcms]
+Saeki seemed to understand that Kato's statement of I feel[r]like taking a piss was just an act.[l][er]
+But if she didn't say anything, he would definitely try to[r]go alone.[pcms]
 
 *6951|
 [fc]
-•|‚ª‚è‚ÌƒNƒZ‚ÉˆÓ’n‚Á’£‚è‚È²”Œ‚ªAw•|‚¢‚©‚çˆê‚É[r]
-ƒgƒCƒŒ‚É‚Â‚¢‚Ä‚«‚Äx‚È‚ñ‚ÄA‘¼l‚ÉA‚µ‚©‚à’j‚É—Š‚ß[r]
-‚é‚í‚¯‚ª‚È‚¢B[pcms]
+Saeki, who is timid but stubborn, would never ask someone[r]else, especially a man, to accompany her to the bathroom[r]just because she's scared.[pcms]
 
 *6952|
 [fc]
-”’‚É‘Î‚µ‚ÄAƒ{ƒ“ƒ„ƒŠ‚Æ‚µ‚½“š‚¦‚µ‚©o‚¹‚Ä‚¢‚È‚¢‚±[r]
-‚Æ‚É•‰‚¢–Ú‚ğŠ´‚¶‚Ä‚¢‚½‰´‚ÌA²”Œ‚Ö‚Ì‚¹‚ß‚Ä‚à‚Ì‹CŒ­[r]
-‚¢‚¾‚Á‚½B[pcms]
+It was my feeble attempt to show consideration towards[r]Saeki, feeling guilty for only being able to give a vague[r]response to her confession.[pcms]
 
 *6953|
 [fc]
-[ns]‰Á“¡[nse]
-u‚È‚é‚×‚­‘‚­I‚í‚ç‚¹‚Ä‚­‚êB‚È‚ñ‚©–°‚­‚Äccv[pcms]
+[ns]Kato[nse]
+Please finish as quickly as possible.[l][er]
+I'm feeling sleepy...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2808|
 [fc]
 [vo_sa s="sae0718"]
-[ns]²”Œ[nse]
-u‘Pˆ‚µ‚Ü‚·ccv[pcms]
+[ns]Saeki[nse]
+I'll handle it...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -163,5 +159,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[07010]‚Ö
+;//[07010]ã¸
 [jump target=*07010_H_TOP storage="07010_H.ks"]

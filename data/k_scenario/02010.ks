@@ -1,214 +1,206 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02010w’TõŠJnx
-;//BG:“Áê‹³º˜L‰ºF“_“”F–é
-;//“oêl•¨GålŒöE—D
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02010ã€æ¢ç´¢é–‹å§‹ã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šç‚¹ç¯ï¼šå¤œ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02010_TOP
-;[debug_win]‚È‚¤@02010[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02010 = 1"]
+;[debug_win]ãªã†ã€€02010[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02010 = 1"]
 
-;*SceneSet|w’TõŠJnx
+;*SceneSet|ã€æ¢ç´¢é–‹å§‹ã€
 
 ;//[02010]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 [bgm001]
 ;//BG:bg008c
 
 [bg storage="bg08b"]
 [trans_c cross time=500]
 
-;//SE:•à‚­
+;//SE:æ­©ã
 
 *1299|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¢‚½‚¢‚½ccv[pcms]
+[ns]Kato[nse]
+Ouch, ouch...[pcms]
 
 *1300|
 [fc]
-RŠİ‚³‚ñ‚ÍA“Áê‹³ºƒGƒŠƒA‚Æ’Êí‹³ºƒGƒŠƒA‚Æ‚ğŒq‚®[r]
-˜L‰º‚ğAü‚è‚ğŒ©‰ñ‚µ‚È‚ª‚ç•à‚¢‚Ä‚¢‚½B[pcms]
+Yamagishi-san was walking down the hallway that connects the[r]special classroom area and the regular classroom area,[r]looking around her as she walked.[pcms]
 
 *1301|
 [fc]
-[ns]‰Á“¡[nse]
-uRŠİ‚³‚ñv[pcms]
+[ns]Kato[nse]
+Yamagishi-san[l][er]
 
 [ChrSetEx layer=1 chbase="yuu_c_e_13"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_e_14"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v565|
 [fc]
 [vo_ya s="yama0089"]
-[ns]RŠİ[nse]
-u‚«‚á‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Kyaa![pcms]
 
 *1302|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚²A‚²‚ß‚ñA‚¦‚Æccv[pcms]
+[ns]Kato[nse]
+Ah, s-sorry, um...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v566|
 [fc]
 [vo_ya s="yama0090"]
-[ns]RŠİ[nse]
-u‚à[‚ÁAƒrƒbƒNƒŠ‚³‚¹‚È‚¢‚Å‚æ`I@‚Ç‚¤‚µ‚½‚ÌHv[pcms]
+[ns]Yamagishi[nse]
+M-Mou, don't scare me like that![l][er]
+What's wrong?[pcms]
 
 *1303|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤A‚¤‚ñARŠİ‚³‚ñ‚Æˆê‚É‘{‚µ‚És‚±‚¤‚©‚È[A‚È[r]
-‚ñ‚Äccv[pcms]
+[ns]Kato[nse]
+U-um, maybe I should go search together with Yamagishi-[r]san...[l][er]
+or something...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v567|
 [fc]
 [vo_ya s="yama0091"]
-[ns]RŠİ[nse]
-u‚¦H@Ol‚Åè•ª‚¯‚µ‚Ä‘{‚·‚ñ‚¶‚á‚È‚©‚Á‚½‚ÌHv[pcms]
+[ns]Yamagishi[nse]
+Eh? Weren't we supposed to split up and search together with[r]the three of us?[pcms]
 
 *1304|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚¤‚ñccv[pcms]
+[ns]Kato[nse]
+Ah, yeah...[pcms]
 
 *1305|
 [fc]
-‚â‚Á‚Ï‚èA•s©‘R‚¾‚æ‚ÈccB[r]
-Ol‚Åè•ª‚¯‚µ‚ÄA‚Á‚ÄŒ¾‚¢o‚µ‚½‰´‚ªARŠİ‚³‚ñ‚Æ[r]
-ˆê‚És‚±‚¤‚©‚ÈA‚È‚ñ‚ÄccB[pcms]
+After all, it feels unnatural, doesn't it...[l][er]
+Me suggesting that we split up and search together with the[r]three of us, and then saying that I should go with[r]Yamagishi-san...[pcms]
 
 *1306|
 [fc]
-Ÿè‚È“z‚¾‚Æv‚í‚ê‚½‚©‚ÈccB[r]
-‚à‚µ‚©‚µ‚½‚çA‚Â‚«‚Ü‚Æ‚Á‚Ä‚é‚æ‚¤‚Év‚í‚ê‚ÄAŒ™‚í‚ê[r]
-‚½‚©‚àccB[pcms]
+I wonder if she thought I was being pushy...[l][er]
+Maybe she thinks I'm following her around and dislikes me...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v568|
 [fc]
 [vo_ya s="yama0092"]
-[ns]RŠİ[nse]
-ucc‚Å‚àA‚¿‚å‚Á‚Æ•‚©‚Á‚½‚©‚àv[pcms]
+[ns]Yamagishi[nse]
+... But, maybe it was a little helpful.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std196|
 [fc]
-[ns]’|“à[nse]
-u‚¦ccHv[pcms]
+[ns]Takeuchi[nse]
+Eh...?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v569|
 [fc]
 [vo_ya s="yama0093"]
-[ns]RŠİ[nse]
-uÀ‚ğŒ¾‚¤‚Æ‚ËAˆêl‚Å‘{‚µ‚És‚­‚ÌA‚¿‚å‚Á‚Æ•|‚©‚Á[r]
-‚½‚ñ‚¾B“µ‚³‚ñA‘–‚Á‚Äæ‚És‚Á‚¿‚á‚¤‚µccv[pcms]
+[ns]Yamagishi[nse]
+To be honest, I was a little scared to search alone.[l][er]
+Hitomi-san, you were running ahead...[pcms]
 
 *1307|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚»A‚»‚Á‚©B‚¶‚á‚ A‚¿‚å‚¤‚Ç‚æ‚©‚Á‚½‚Ëv[pcms]
+[ns]Kato[nse]
+Ah, I-I see. Well, then, that's fortunate.[pcms]
 
 *1308|
 [fc]
-‚æ‚©‚Á‚½ccB[r]
-wè•ª‚¯‚µ‚Ä‘{‚»‚¤‚Á‚ÄŒˆ‚ß‚½‚ñ‚¾‚©‚çx‚Á‚ÄA’Ç‚¢•Ô[r]
-‚³‚ê‚é‚©‚Æv‚Á‚½ccB[pcms]
+Thank goodness... I thought she would reject me when I said,[r]Let's split up and search together.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v570|
 [fc]
 [vo_ya s="yama0094"]
-[ns]RŠİ[nse]
-u‚Å‚àA‚Ç‚¤‚¹‚È‚ç‰‚ß‚©‚çOl‚Ås‚¯‚Î‚æ‚©‚Á‚½‚Ëv[pcms]
+[ns]Yamagishi[nse]
+But, it would have been better if we had gone together with[r]the three of us from the beginning.[pcms]
 
 *1309|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦A‚ÇA‚Ç‚¤‚µ‚ÄHv[pcms]
+[ns]Kato[nse]
+Eh, w-why?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v571|
 [fc]
 [vo_ya s="yama0095"]
-[ns]RŠİ[nse]
-u‚¾‚Á‚Ä“µ‚³‚ñA„‚æ‚è•|‚ª‚Á‚Ä‚½‚æB©•ª‚ªs‚­•û‚É[r]
-‚ ‚é“d‹C‚ÍA‘S•”“_‚¯‚Äs‚Á‚Ä‚é‚µv[pcms]
+[ns]Yamagishi[nse]
+But, Hitomi-san seemed more scared than me.[l][er]
+She was turning on all the lights as she went in the[r]direction she was going.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *1310|
 [fc]
-RŠİ‚³‚ñ‚ªA“Vˆä‚ÌŒuŒõ“”‚ğw‚³‚·B[pcms]
+Yamagishi-san points at the ceiling fluorescent light.[pcms]
 
 *1311|
 [fc]
-ŠÓÜ‰ï‚ªn‚Ü‚é‘OA‹’®Šoº‚ÉŒü‚©‚Á‚Ä‚¢‚é‚ÍAŒuŒõ[r]
-“”‚Í‘S•”Á‚¦‚Ä‚¢‚½B[pcms]
+Before the viewing party started, when we were heading[r]towards the audio-visual room, all the fluorescent lights[r]were turned off.[pcms]
 
 *1312|
 [fc]
-’N‚ª“_‚¯‚½‚Ì‚©‚Æv‚Á‚½‚çA²”Œ‚©‚æccB[pcms]
+I thought, 'Who turned it on? ' and it was Saeki...[pcms]
 
 *1313|
 [fc]
-[ns]‰Á“¡[nse]
-u‰½‚à‚¢‚Ë[‚Á‚Â[‚ÌccB‘å‘ÌA–Ú‚Ì‘O‚Å‚ ‚ÌƒfƒJƒC[r]
-“{–Â‚èºo‚³‚ê‚½‚çA—H—ì‚Å‚à“¦‚°o‚·‚Á‚Äv[pcms]
+[ns]Kato[nse]
+There's nothing here... In the first place, if you're[r]suddenly yelled at with a loud voice right in front of you,[r]even a ghost would run away.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v572|
 [fc]
 [vo_ya s="yama0096"]
-[ns]RŠİ[nse]
-u‚ ‚Í‚ÍB‚Å‚àA‚à‚µ“r’†‚Å“µ‚³‚ñ‚Æ‡—¬‚µ‚½‚çA‚»‚±[r]
-‚©‚ç‚ÍOl‚Å‘{‚»‚¤‚æB‚â‚Á‚Ï‚èAˆêl‚¶‚á‚©‚í‚¢‚»‚¤[r]
-‚¾‚à‚ñv[pcms]
+[ns]Yamagishi[nse]
+Ahaha. But if we meet up with Hitomi-san along the way,[r]let's search together as a group of three.[l][er]
+It's really pitiful to be alone after all.[pcms]
 
 *1314|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤‚µ‚æ‚¤‚©B•|‚­‚Ä‹ƒ‚¢‚Ä‚½‚è‚µ‚È‚«‚á‚¢‚¢‚¯‚Ç‚È[r]
-ccv[pcms]
+[ns]Kato[nse]
+Let's do that. I hope she's not crying because she's[r]scared...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//[02020]‚Ö
+;//[02020]ã¸
 [jump target=*02020_TOP storage="02020.ks"]
 

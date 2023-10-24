@@ -1,30 +1,30 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02153w—U˜fx
-;//BG:OŠK‹³ºF–é
-;//“oêl•¨GålŒöEƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02153ã€èª˜æƒ‘ã€
+;//BG:ä¸‰éšæ•™å®¤ï¼šå¤œ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02153_H_TOP
-;[debug_win]‚È‚¤@02153_H[debug_win_end]
+;[debug_win]ãªã†ã€€02153_H[debug_win_end]
 
 [eval exp="sf.SRP09 = 1"][if exp="tf.scene_mode == 0"][jump target=*02153_H][endif]
 ;;[winset]
-;mm ƒCƒxƒ“ƒg‚©‚ç‚É‚·‚é
+;mm ã‚¤ãƒ™ãƒ³ãƒˆã‹ã‚‰ã«ã™ã‚‹
 [jump target=*scene_start]
 
 
 *02153_H
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02153 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02153 = 1"]
 
-;*SceneSet|w—U˜fx
+;*SceneSet|ã€èª˜æƒ‘ã€
 
-;//flag:—Dƒ‹[ƒgƒtƒ[@‚P‚R@•\¦
+;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼‘ï¼“ã€€è¡¨ç¤º
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 
 [fadeoutbgm time=500]
 
@@ -35,48 +35,44 @@
 
 *2790|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ñccv[pcms]
+[ns]Kato[nse]
+Hm...[pcms]
 
 *2791|
 [fc]
-‰º”¼g‚É‰½‚©‚ªæ‚Á‚Ä‚¢‚é‚æ‚¤‚Èd‚İ‚ğŠ´‚¶A–Ú‚ğŠo‚Ü[r]
-‚µ‚½B[pcms]
+I felt a weight as if something was on my lower body and[r]woke up.[pcms]
 
 *2792|
 [fc]
-‰½‚©ƒX[ƒX[‚·‚é‚ÈccB[r]
-‚»‚ê‚ÉA–­‚É’g‚©‚¢Š´‚¶‚à‚·‚éccB[pcms]
+Something feels cool... And strangely warm too...[pcms]
 
 *2793|
 [fc]
-‰´‚Í“ª‚ğ‹N‚±‚µA©•ª‚Ì‰º”¼g‚ÉQ‹N‚«‚Å‰à‚Ş–Ú‚ğ‚±‚ç[r]
-‚µ‚½B[pcms]
+I raised my head and squinted my still sleepy eyes at my[r]lower body.[pcms]
 
 *v1067|
 [fc]
 [vo_ri s="risa0345"]
-[ns]V“¹[nse]
-u‚ÓA‚Óccv[pcms]
+[ns]Shindou[nse]
+F-Fu...[pcms]
 
 *2794|
 [fc]
-ƒ{ƒ“ƒ„ƒŠ‚Æ‰à‚ª‚©‚Á‚Ä‚¢‚é‹ŠE‚Ì’†‚ÉAV“¹æ¶‚Ì”÷Î[r]
-‚ñ‚Å‚¢‚éŠç‚ÆA‚Í‚¾‚¯‚½”’‚¢‹¹‚ªŒ©‚¦‚½B[pcms]
+In my hazy and blurred vision, I could see the smiling face[r]of Shindou-sensei and her exposed white chest.[pcms]
 
 *2795|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦ccHv[pcms]
+[ns]Kato[nse]
+Huh...?[pcms]
 
 
-;//H_CG:ƒŠƒT‚ªƒpƒCƒYƒŠ
+;//H_CG:ãƒªã‚µãŒãƒ‘ã‚¤ã‚ºãƒª
 
 ;;;[sysbt_meswin clear]
 
 *scene_start
 
-;//ôFBGM006
+;//â™ªï¼šBGM006
 [bgm006]
 
 [evcg storage="HEV_036_a"]
@@ -87,91 +83,88 @@
 
 *2796|
 [fc]
-Q‹N‚«‚Æ‚¢‚¤‚±‚Æ‚à‚ ‚Á‚½‚ªA‚»‚êˆÈã‚É—‰ğ‚Ì‚Å‚«‚È[r]
-‚¢–Ú‚Ì‘O‚ÌŒõŒi‚ÉA‰´‚Í•ğ‘R‚Æ‚µ‚Ä‚µ‚Ü‚Á‚Ä‚¢‚½B[pcms]
+I was still groggy from waking up, but more than that, I was[r]dumbfounded by the scene in front of me that I couldn't[r]comprehend.[pcms]
 
 *2797|
 [fc]
-‚¾‚©‚çAV“¹æ¶‚ª‚»‚Ì‘å‚«‚È‹¹‚Å‰´‚Ìƒ‚ƒm‚ğ•ï‚İ‚ñ[r]
-‚Å‚¢‚é‚Æ‚¢‚¤ŒõŒi‚ğA‰´‚Í–²‚¾‚Æ‚µ‚©v‚¦‚È‚©‚Á‚½B[pcms]
+So, I could only think of the scene where Shindou-sensei was[r]enveloping my thing with her big chest as nothing but a[r]dream.[pcms]
 
 *v1068|
 [fc]
 [vo_ri s="risa0346"]
-[ns]V“¹[nse]
-u‚ñA‚Ócc‚íA‚©‚¢‚±A‚ÌA‚¨‚¿A‚ñA‚¿‚ñcc‚©A[r]
-‚½‚ŸA‚¢ccv[pcms]
+[ns]Shindou[nse]
+Mmm, fu... wa, kaiko, no, ochi, n, chin...[l][er]
+ka, taa, i...[pcms]
 
 *2798|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ícc‚£ccv[pcms]
+[ns]Kato[nse]
+Huh... uh...[pcms]
 
 *2799|
 [fc]
-_‚ç‚©‚­A’g‚©‚¢V“¹æ¶‚Ì‹¹‚Éƒ‚ƒm‚ğ•ï‚Ü‚êA‰´‚Ì‘Ì[r]
-‚Í’ˆ‚ğ•Y‚Á‚Ä‚¢‚é‚©‚Ì‚æ‚¤‚È•‚—VŠ´‚Éx”z‚³‚ê‚Ä‚¢‚½B[pcms]
+My body was dominated by a floating sensation as I was[r]enveloped by Shindou-sensei's soft and warm chest.[pcms]
 
 *2800|
 [fc]
-‚È‚ñ‚¾ccH@‚±‚ÌAƒtƒƒtƒ‚µ‚½Š´‚¶ccB[r]
-‚È‚ñ‚©A‹C‚¿‚¢‚¢cc‚¸‚Á‚ÆA‚±‚¤‚µ‚Ä‚¢‚½‚¢ccB[pcms]
+What is this...? This soft and fluffy feeling...[l][er]
+It feels good somehow... I want to stay like this forever...[pcms]
 
 *v1069|
 [fc]
 [vo_ri s="risa0347"]
-[ns]V“¹[nse]
-u‚Ö‚ÍA‚Ÿcc‚¨‚¢A‚µ‚»A‚¤cc‚±‚ÌA‚¨A‚¿‚ñ‚¿A[r]
-‚ñccv[pcms]
+[ns]Shindou[nse]
+Heh... Ah... Hey, Shiso... This...[l][er]
+Oh, my... D-dick...[pcms]
 
 *2801|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ó‚Ÿccv[pcms]
+[ns]Kato[nse]
+Fah...[pcms]
 
 *2802|
 [fc]
-V“¹æ¶‚Ì‘§‚ªƒAƒ\ƒR‚É‚©‚©‚Á‚Äcc‚È‚ñ‚©A‚­‚·‚®‚Á[r]
-‚½‚¢ccB[pcms]
+Shindou-sensei's breath is brushing against my genitals...[l][er]
+It feels ticklish...[pcms]
 
 *2803|
 [fc]
-[ns]‰Á“¡[nse]
-uccHv[pcms]
+[ns]Kato[nse]
+...?[pcms]
 
 *2804|
 [fc]
-‘§‚ª‚©‚©‚Á‚ÄA‚­‚·‚®‚Á‚½‚¢ccH[pcms]
+I feel breath on me, it tickles...?[pcms]
 
-;//‰ñ‘z‚È‚çƒWƒƒƒ“ƒvB‹­§‘I‘ğB
+;//å›æƒ³ãªã‚‰ã‚¸ãƒ£ãƒ³ãƒ—ã€‚å¼·åˆ¶é¸æŠã€‚
 
 [if exp="tf.scene_mode == 1"][jump target=*SEL00_END][endif]
 
-;//¦‘I‘ğˆ
-;//E–²‚É‚µ‚Ä‚ÍA‚¸‚¢‚Ô‚ñƒŠƒAƒ‹‚ÈŠ´G‚¾‚Ècc;//[02154]‚Ö
-;//E‚È‚ñ‚¾‚ë‚¤cc‚±‚êA³–²‚É‚È‚é‚Ì‚©‚Ècc;//[04034]‚Ö
+;//â€»é¸æŠè‚¢
+;//ãƒ»å¤¢ã«ã—ã¦ã¯ã€ãšã„ã¶ã‚“ãƒªã‚¢ãƒ«ãªæ„Ÿè§¦ã ãªâ€¦â€¦;//[02154]ã¸
+;//ãƒ»ãªã‚“ã ã‚ã†â€¦â€¦ã“ã‚Œã€æ­£å¤¢ã«ãªã‚‹ã®ã‹ãªâ€¦â€¦;//[04034]ã¸
 
 
-*SEL01|–²‚É‚µ‚Ä‚ÍA‚¸‚¢‚Ô‚ñƒŠƒAƒ‹‚ÈŠ´G‚¾‚È^‚È‚ñ‚¾‚ë‚¤cc‚±‚êA³–²‚É‚È‚é‚Ì‚©‚È
+*SEL01|å¤¢ã«ã—ã¦ã¯ã€ãšã„ã¶ã‚“ãƒªã‚¢ãƒ«ãªæ„Ÿè§¦ã ãªï¼ãªã‚“ã ã‚ã†â€¦â€¦ã“ã‚Œã€æ­£å¤¢ã«ãªã‚‹ã®ã‹ãª
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '–²‚É‚µ‚Ä‚ÍA‚¸‚¢‚Ô‚ñƒŠƒAƒ‹‚ÈŠ´G‚¾‚Ècc'"]
-[eval exp="f.seltext04 = '‚È‚ñ‚¾‚ë‚¤cc‚±‚êA³–²‚É‚È‚é‚Ì‚©‚Ècc'"]
+[eval exp="f.seltext02 = 'å¤¢ã«ã—ã¦ã¯ã€ãšã„ã¶ã‚“ãƒªã‚¢ãƒ«ãªæ„Ÿè§¦ã ãªâ€¦â€¦'"]
+[eval exp="f.seltext04 = 'ãªã‚“ã ã‚ã†â€¦â€¦ã“ã‚Œã€æ­£å¤¢ã«ãªã‚‹ã®ã‹ãªâ€¦â€¦'"]
 
 
-[if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
-	;‘I‘ğˆ“à—e‚ğƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
+[if exp="tf.sys_sub == 0 || tf.é¸æŠè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
+	;é¸æŠè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[—š—ğo—Í•œ‹A]
+[å±¥æ­´å‡ºåŠ›å¾©å¸°]
 
-;‘I‘ğˆƒx[ƒX
+;é¸æŠè‚¢ãƒ™ãƒ¼ã‚¹
 [selbase]
-;•¶š‚Ì¶ƒ}[ƒWƒ“
+;æ–‡å­—ã®å·¦ãƒãƒ¼ã‚¸ãƒ³
 [eval exp="sf.seltext_x = 150"]
 
 [sel02 target=*SEL00_02153_DREAM]

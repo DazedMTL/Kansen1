@@ -1,19 +1,19 @@
 
-;//¡ËƒuƒƒbƒN07050w‹L‰¯x
-;//BG:‹³ºF–éFÁ“”
-;//“oêl•¨GålŒöEŠ´õ“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07050ã€è¨˜æ†¶ã€
+;//BG:æ•™å®¤ï¼šå¤œï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»æ„ŸæŸ“ç³
 
 *07050_H_TOP
-;[debug_win]‚È‚¤@07050_H[debug_win_end]
+;[debug_win]ãªã†ã€€07050_H[debug_win_end]
 
-;*SceneSet|w‹L‰¯x
+;*SceneSet|ã€è¨˜æ†¶ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07050 = 1"]
-;//flag:“µƒ‹[ƒgƒtƒ[@bad‚P@•\¦
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07050 = 1"]
+;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€badï¼‘ã€€è¡¨ç¤º
 
 [eval exp="sf.g_queen = 1"]
-;//flag:—‰¤Š×—@on
-;//ôFBGM004
+;//flag:å¥³ç‹é™¥è½ã€€on
+;//â™ªï¼šBGM004
 
 [bgm004]
 
@@ -23,8 +23,7 @@
 
 *7066|
 [fc]
-‰´‚Ìã‚ÉŒ×‚èAƒ`ƒ“ƒ|‚Éè‚ğ“Y‚¦‚ÄA—‚Í©•ª‚Ìƒ}ƒ“ƒR[r]
-‚É‚ ‚Ä‚ª‚Á‚½B[pcms]
+The woman straddled me, placing her hand on my penis, and[r]positioned herself over her own pussy.[pcms]
 
 ;	/*
 ;	[ChrSetEx layer=1 chbase="sae_c_a_01"]
@@ -33,18 +32,18 @@
 ;	[trans_c cross time=150]
 ;	*/
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2849|
 [fc]
 [vo_sa s="sae0730"]
-[ns]²”Œ[nse]
-u‚±‚ê‚ÅA‚â‚Á‚Æccw‚ ‚Ì‚Ğ‚Æx‚Æccv[pcms]
+[ns]Saeki[nse]
+Finally... with 'that person'...[pcms]
 
 *7069|
 [fc]
-—‚ÍŠğ‚µ‚»‚¤‚ÉÎ‚¢‚È‚ª‚çA‚»‚Ì‚Ü‚Ü‘Ì‚ğ~‚ë‚µA[r]
-‰´‚Ìƒ`ƒ“ƒ|‚ğ‚­‚í‚¦‚ñ‚¾B[pcms]
+The woman happily laughed, lowered her body, and took my[r]penis into her mouth.[pcms]
+[l][er]
 
 ;//H_CG
 
@@ -57,242 +56,223 @@
 
 ;;;[sysbt_meswin]
 
-;//SE:‘}“ü
+;//SE:æŒ¿å…¥
 
 [se0 storage="se058"]
 
 *v2850|
 [fc]
 [vo_sa s="sae0731"]
-[ns]²”Œ[nse]
-u‚ñ‚¤J‚£‚ÁIIIIv[pcms]
+[ns]Saeki[nse]
+Nnghh!!![pcms]
 
 *7070|
 [fc]
-ƒ`ƒ“ƒ|‚ğª–{‚Ü‚ÅAˆê‹C‚É‚­‚í‚¦‚Ş‚ÆA—‚Í’·‚­‘§‚ğ[r]
-“f‚¢‚ÄA‚¤‚Á‚Æ‚è‚µ‚½Šç‚É‚È‚Á‚½B[pcms]
+The woman took my penis all the way to the base in one gulp,[r]then exhaled a long breath and had a blissful expression on[r]her face.[pcms]
+[l][er]
 
 *v2851|
 [fc]
 [vo_sa s="sae0732"]
-[ns]²”Œ[nse]
-u‚Ó‚Ó‚Ácc‚Â‚È‚ª‚Á‚½‚íccw‚ ‚Ì‚Ğ‚Æx‚Æccv[pcms]
+[ns]Saeki[nse]
+Hehe... we're connected now...[l][er]
+with 'that person'...[pcms]
 
 *7071|
 [fc]
-Œ³XA‚±‚Ì—‚ÌŒŠ‚Í‹·‚­‚Å‚«‚Ä‚¢‚é‚Ì‚©A‚©‚È‚è‚«‚Â‚­[r]
-’÷‚ß•t‚¯‚ç‚ê‚Ä‚¢‚éŠ´Šo‚ªAƒ`ƒ“ƒ|‚©‚ç“`‚í‚Á‚Ä‚­‚éB[pcms]
+Originally, this woman's hole must have been tight, because[r]I can feel a strong sensation of tightness squeezing my[r]penis.[pcms]
 
 *7072|
 [fc]
-‚¾‚ªA‚»‚ê‚ª‚¢‚¢‚ÆA‰´‚ÍŠ´‚¶‚Ä‚¢‚½B‚±‚Ì‚­‚í‚¦‚Ü[r]
-‚ê‚Ä‚¢‚éŠ´‚ªA–Ú‚Ì‘O‚Ì—‚Æƒ„ƒb‚Ä‚¢‚é‚±‚Æ‚ğÀŠ´‚³‚¹[r]
-‚Ä‚­‚ê‚éB[pcms]
+However, I felt that it was good.[l][er]
+This sensation of being engulfed makes me realize that I am[r]actually having sex with the woman in front of me.[pcms]
 
 *v2852|
 [fc]
 [vo_sa s="sae0733"]
-[ns]²”Œ[nse]
-u‚Ä‚ğ‚Â‚È‚¢‚Å‚àcc‚©‚Ü‚¢‚Ü‚¹‚ñ‚©ccHv[pcms]
+[ns]Saeki[nse]
+Would you mind... holding hands with me...?[pcms]
 
 *7073|
 [fc]
-—¼è‚ğ—‚Ì‘O‚ÉŒf‚°‚Ä‚İ‚¹‚é‚ÆA—‚Í‰´‚Ìè‚ğ‚µ‚Á‚©‚è[r]
-‚Æˆ¬‚èA‚¢‚«‚È‚èŒƒ‚µ‚­‘Ì‚ğã‰º‚³‚¹n‚ß‚½B[pcms]
+The woman firmly grasped my hands as I raised them in front[r]of her, and suddenly started moving her body vigorously up[r]and down.[pcms]
 
 *v2853|
 [fc]
 [vo_sa s="sae0734"]
-[ns]²”Œ[nse]
-u‚Í‚ÁA‚£cc‚ñ‚ÁA‚­cc‚Í‚Ÿcc‚ÁIv[pcms]
+[ns]Saeki[nse]
+Hah... ngh... ku... haa...![pcms]
 
 *7074|
 [fc]
-‘O‚à‚Á‚Ä€”õ‚Å‚à‚µ‚Ä‚¢‚½‚Ì‚©A‚¢‚«‚È‚è“ü‚ê‚½‚É‚àŠÖ[r]
-‚í‚ç‚¸A—‚Ìƒ}ƒ“ƒR‚Ì’†‚Í”M‚­‚Ê‚ß‚Á‚Ä‚¢‚½B[pcms]
+Even though I entered her suddenly without any preparation[r]beforehand, the woman's pussy was hot and slippery.[pcms]
 
 *7075|
 [fc]
-‚¿‚å‚Á‚ÆA‚©‚½‚¢‚©‚ñ‚¶‚ª‚·‚é‚ñ‚¾‚ÈccB[r]
-‚Å‚àA‚Ê‚é‚Ê‚é‚µ‚Ä‚Äcc‚«‚à‚¿‚¢‚¢ccB[pcms]
+It feels a little tight... But it's slippery...[l][er]
+Feels good...[pcms]
 
 *7076|
 [fc]
-‰‚ß‚Ä–¡‚í‚¤ƒ}ƒ“ƒR‚Ì’†‚ÌŠ´G‚ÉA‰´‚Í‘Sg‚ÉŠÉ‚¢áƒ‚ê[r]
-‚ª‘–‚Á‚Ä‚¢‚­‚æ‚¤‚ÉŠ´‚¶‚½B[pcms]
+I felt a gentle numbness running through my whole body as I[r]experienced the sensation inside her pussy for the first[r]time.[pcms]
 
 *v2854|
 [fc]
 [vo_sa s="sae0735"]
-[ns]²”Œ[nse]
-u‚ ‚ÁA‚ñ‚Ÿ‚ÁI@‚Í‚ÁA‚ñ‚£ccw‚ ‚Ì‚Ğ‚Æx‚Ì‚Ø‚É[r]
-‚·‚ªA‚È‚©‚ğA‚±‚·‚Á‚Äcc‚Ó‚ŸA‚Í‚Ÿ‚ñ‚ÁI@‚¤‚ŸA[r]
-‚ñ‚Ó‚£‚ÁIv[pcms]
+[ns]Saeki[nse]
+Ah, ngh! Hah, nuh... rubbing against 'that person's' penis[r]inside me...[l][er]
+fah, haaan! Ugh, nfuhh![pcms]
 
 *7077|
 [fc]
-‰õŠ´‚ğA—‚©‚ç—^‚¦‚ç‚ê‚é‚¾‚¯‚Å‚È‚­A©•ª‚©‚ç“¾‚½‚¢[r]
-‚Æl‚¦‚½‰´‚ÍA˜‚ğ“Ë‚«o‚µAƒ}ƒ“ƒR‚ğ“Ë‚«ã‚°‚½B[pcms]
+I, who wanted not only to receive pleasure from the woman[r]but also to obtain it myself, thrust my hips forward and[r]thrust up into her pussy.[pcms]
 
-;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
 
 [se0 storage="se060" loop=true]
 
 *v2855|
 [fc]
 [vo_sa s="sae0736"]
-[ns]²”Œ[nse]
-u‚ñ‚Ÿ‚¤‚ÁII@‚¤‚Ÿ‚ÁA‚ñ‚¤‚£‚ÁI@cc‚»‚ñ‚ÈA‚Í[r]
-‚°‚µ‚­‚³‚ê‚½‚çcc‚ ‚ÁA‚Ğ‚Ÿ‚ÁIv[pcms]
+[ns]Saeki[nse]
+Nghh!! Ahh, nuhh, unnuuhh! ...[l][er]
+If you do it so forcefully... Ahh, hiahh![pcms]
 
 *7078|
 [fc]
-[ns]‰Á“¡[nse]
-uƒnƒbccI@ƒnƒ@ƒbccIv[pcms]
+[ns]Kato[nse]
+Hah...! Haa...![pcms]
 
 *v2856|
 [fc]
 [vo_sa s="sae0737"]
-[ns]²”Œ[nse]
-u‚¤‚Ÿ‚ñ‚ÁI@cc‚¢‚â‚Ÿcc‚È‚©A‚¶‚ñ‚¶‚ñA‚·‚é‚£[r]
-cc‚ñ‚ÁA‚­‚Ÿcc‚Ó‚ ‚Ÿ‚ÁIv[pcms]
+[ns]Saeki[nse]
+Ugh! ... No... it's tingling inside...[l][er]
+ngh, qua... fuahh![pcms]
 
 *7079|
 [fc]
-Å‰‚Ì ‚æ‚è‚³‚ç‚É‚Ê‚ß‚Á‚Ä‚«‚½ƒ}ƒ“ƒR‚ÍA‰´‚ª“Ë‚«ã[r]
-‚°‚é“x‚É”S‚Á‚½”ÚàÎ‚È‰¹‚ğ—§‚ÄA‹»•±‚ğø‚Á‚½B[pcms]
+The pussy, which had become even slicker than before, made[r]lewd sounds every time I thrust into it, arousing me even[r]more.[pcms]
 
 *7080|
 [fc]
-[ns]‰Á“¡[nse]
-u‚«‚±‚¦‚é‚©ccH@‚Ü‚ñ‚±‚ªA‚â‚ç‚µ‚¢‚¨‚ÆA‚³‚¹‚Ä[r]
-‚é‚¼ccIv[pcms]
+[ns]Kato[nse]
+Can you hear it...? The pussy is making a lewd sound...![pcms]
 
 *v2857|
 [fc]
 [vo_sa s="sae0738"]
-[ns]²”Œ[nse]
-u‚Í‚¸‚©‚µ‚¢A‚±‚Æcc‚ñ‚£‚ÁA‚Ğ‚Ÿ‚ÁI@‚ ‚ÁA‚­‚£[r]
-cc‚¢‚í‚È‚¢‚ÅA‚­‚¾‚³‚¢cc‚ñ‚Í‚ÁA‚ A‚Ó‚Ÿ‚ÁIv[pcms]
+[ns]Saeki[nse]
+Embarrassing... ngh... hiaa! Ah, ku...[l][er]
+please don't say it... nhah, ah, fah![pcms]
 
 *7081|
 [fc]
-—‚ÌX‚Ë‚½‚æ‚¤‚É‚µ‚©‚ß‚½Šç‚ğŒ©‚ÄA‘O‚É‚à‚±‚ÌŠç‚ğŒ©[r]
-‚½‚±‚Æ‚ª‚ ‚é‹C‚ª‚·‚éA‚Æ‰´‚ÍŠ´‚¶‚½B[pcms]
+I felt like I had seen that pouting face of a woman before,[r]as I looked at her.[pcms]
 
 *7082|
 [fc]
-‚±‚Ì‚¨‚ñ‚ÈccB[r]
-‚â‚Á‚Ï‚èA‚¨‚ê‚Ì‚µ‚Á‚Ä‚é‚É‚ñ‚°‚ñ‚È‚Ì‚©ccH[pcms]
+Is this woman...? Could she really be someone I know...?[pcms]
 
 *7083|
 [fc]
-‚±‚Ì—‚ÉŠÖ‚·‚éî•ñ‚ğv‚¢‚¾‚»‚¤‚Æ‚µ‚Ä‚İ‚é‚ªA‰´‚Ì“ª[r]
-‚Ì’†‚É‚ÍA‹ï‘Ì“I‚È‚±‚Æ‚Í‰½ˆê‚Â•‚‚©‚ñ‚Å‚±‚È‚©‚Á‚½B[pcms]
+I tried to recall any information about this woman, but[r]nothing specific came to mind.[pcms]
 
 *7084|
 [fc]
-‚»‚Ì‚¤‚¿A‰´‚Ì“ª‚Í‚Ü‚½«—~‚Æ‰õŠ´‚É’D‚í‚ê‚ÄA—‚Æ‚Ì[r]
-ƒZƒbƒNƒX‚É–v“ª‚·‚é‚±‚Æ‚É‚È‚Á‚½B[pcms]
+Before long, my mind was once again consumed by desire and[r]pleasure, and I became completely absorbed in having sex[r]with the woman.[pcms]
 
 *v2858|
 [fc]
 [vo_sa s="sae0739"]
-[ns]²”Œ[nse]
-u‚ ‚ÁA‚Ğ‚ÁI@‚¤‚­‚ÁI@cc‚Ó‚Í‚ÁA‚Í‚Ÿ‚Ácc‚ñ[r]
-‚Í‚Ÿ‚ÁI@‚ñ‚¤‚£‚ÁIv[pcms]
+[ns]Saeki[nse]
+Ahh, hi! Uku! ... Fuhah, haa...[l][er]
+nhaa! Nuuu![pcms]
 
 *7085|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ü‚ñ‚±‚Ì‚È‚©cc‚â‚í‚ç‚©‚­‚È‚Á‚Ä‚«‚½‚Ècc‚«‚à‚¿[r]
-‚æ‚­‚È‚Á‚½‚¼ccv[pcms]
+[ns]Kato[nse]
+Inside the pussy... it's getting softer...[l][er]
+it feels good now...[pcms]
 
 *v2859|
 [fc]
 [vo_sa s="sae0740"]
-[ns]²”Œ[nse]
-u‚ñ‚ÁA‚­‚ŸA‚Í‚Ÿ‚ñ‚ÁI@cc‚Ó‚Ó‚ÁA‚¤‚ê‚µ‚¢cc[r]
-‚ñ‚ñ‚ÁI@‚Í‚£A‚ñ‚Í‚Ÿ‚ÁIv[pcms]
+[ns]Saeki[nse]
+Nn, qua, haaan! ... Fufu, I'm happy...[l][er]
+nnn! Hau, nhaa![pcms]
 
 *7086|
 [fc]
-‘Š•Ï‚í‚ç‚¸A”ÚàÎ‚È‰¹‚ğ—§‚Ä‘±‚¯‚Ä‚¢‚éƒ}ƒ“ƒR‚É–Ú‚ğ‚â[r]
-‚é‚ÆA‰´‚Ìƒ`ƒ“ƒ|‚Æ‚»‚Ìü‚è‚ªÔ‚­õ‚Ü‚Á‚Ä‚¢‚½B[pcms]
+As usual, I looked at the pussy that continued to make lewd[r]sounds, and my dick and its surroundings were dyed red.[pcms]
 
 *7087|
 [fc]
-‚¿‚ñ‚Û‚ÍA‚Ç‚±‚à‚¢‚½‚­‚È‚¢ccB[r]
-‚Ä‚±‚Æ‚ÍA‚Ü‚ñ‚±‚Ì‚È‚©‚©‚çccH[pcms]
+My dick doesn't hurt anywhere...[l][er]
+So, could it be inside the pussy...?[pcms]
 
 *7088|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨‚¢cc‚Ü‚ñ‚±‚©‚çA‚¿‚¡‚Å‚Ä‚é‚¼ccHv[pcms]
+[ns]Kato[nse]
+Hey... something's coming out of the pussy...?[pcms]
 
 *7089|
 [fc]
-‹C‚É‚È‚Á‚ÄŒ¾‚Á‚½‰´‚Ì‚»‚ÌŒ¾—t‚ÉA—‚Í‚¤‚ë‚½‚¦‚é‚±‚Æ[r]
-‚à‚È‚­A”÷Î‚ñ‚Å•Ô‚µ‚½B[pcms]
+The woman didn't show any signs of being flustered by my[r]curious words and simply smiled in response.[pcms]
 
 *v2860|
 [fc]
 [vo_sa s="sae0741"]
-[ns]²”Œ[nse]
-u‚»‚ñ‚È‚±‚ÆA‚Ç‚¤‚Å‚à‚¢‚¢‚±‚Æ‚Å‚·ccw‚ ‚Ì‚Ğ‚Æx[r]
-‚Æ‚Ş‚·‚Î‚ê‚ÄA‚±‚ñ‚È‚É‚à‚«‚à‚¿‚æ‚¢‚Ì‚Å‚·‚©‚çccv[pcms]
+[ns]Saeki[nse]
+It doesn't matter... Being connected with that person feels[r]so good...[pcms]
 
 *7090|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤‚©cc‚È‚ç‚¢‚¢ccv[pcms]
+[ns]Kato[nse]
+I see... then that's good...[pcms]
 
 *7091|
 [fc]
-—‚ª‹C‚É‚µ‚Ä‚¢‚È‚¢‚Ì‚È‚ç‚ÆA‰´‚Í‰õŠ´‚ğ‹‚ß‚ÄA\‚í[r]
-‚¸—‚ğ“Ë‚«ã‚°‚½B[pcms]
+If the woman didn't mind, I sought pleasure and thrust into[r]her without hesitation.[pcms]
 
 *v2861|
 [fc]
 [vo_sa s="sae0742"]
-[ns]²”Œ[nse]
-u‚ ‚£‚ÁII@‚­A‚ ‚Ÿ‚ÁI@‚ñA‚Í‚£A‚ñ‚¤‚£‚ÁI@[r]
-cc‚·A‚«cc‚·‚«‚¡I@cc‚Ğ‚ ‚Ÿ‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Ahh!! Ku, aahh! N, hau, nuu! ...[l][er]
+Su, ki... suki! ... Hiaahh!![pcms]
 
 *7092|
 [fc]
-[ns]‰Á“¡[nse]
-u‚·‚«ccHv[pcms]
+[ns]Kato[nse]
+Do you like it...?[pcms]
 
 *v2862|
 [fc]
 [vo_sa s="sae0743"]
-[ns]²”Œ[nse]
-u‚ ‚ÁI@‚Í‚ÁA‚¤‚Ÿ‚ÁI@cc‚·‚«A‚Å‚·cc‚ ‚È‚½[r]
-‚ÌA‚·‚×‚ÄA‚ªcc‚ÁI@‚­‚Ÿ‚ÁA‚Ğ‚£‚ÁI@‚ñ‚Í‚ÁI[r]
-‚Í‚ÁA‚£‚­‚ÁIv[pcms]
+[ns]Saeki[nse]
+Ahh! Haa, uahh! ... I like it...[l][er]
+everything about you...! Kuahh, hiu![l][er]
+Nhaa! Haa, uku![pcms]
 
 *7093|
 [fc]
-wD‚«x‚ÆŒ¾‚í‚ê‚½‚±‚Æ‚ÅA‰´‚Í‚Ü‚½A‚±‚Ì—‚ÉŠÖ‚·‚é[r]
-‚±‚Æ‚ğv‚¢o‚µ‚»‚¤‚É‚È‚Á‚½B[pcms]
+Being told I like you made me remember something about this[r]woman again.[pcms]
 
 *7094|
 [fc]
-‚¾‚ªA“ª‚Ì’†‚É•‚‚©‚ñ‚¾î•ñ‚ÍA‚·‚®‚Éƒ{ƒ„‚¯‚ÄÁ‚¦‚æ[r]
-‚¤‚Æ‚·‚éB[pcms]
+However, the information that came to mind quickly becomes[r]blurry and tries to disappear.[pcms]
 
 *7095|
 [fc]
-‚±‚¤‚·‚ê‚ÎA•‚‚©‚Ñã‚ª‚Á‚½î•ñ‚ğ“ª‚Ì’†‚É—¯‚ß‚ç‚ê‚é[r]
-‚Ì‚Å‚Í‚È‚¢‚©‚Æl‚¦A‰´‚Í‘Ì‚ğ‹N‚±‚µA—‚Ì”’‚­A×‚¢[r]
-‘Ì‚ğ•ø‚«‚µ‚ß‚½B[pcms]
+I thought that if I did this, I might be able to keep the[r]surfaced information in my head.[l][er]
+So, I sat up and embraced the woman's white, slender body.[pcms]
 
 *v2863|
 [fc]
 [vo_sa s="sae0744"]
-[ns]²”Œ[nse]
-u‚ ‚ÁccIv[pcms]
+[ns]Saeki[nse]
+Ahh...![pcms]
 
 ;//H_CG
 
@@ -308,262 +288,238 @@
 *v2864|
 [fc]
 [vo_sa s="sae0745"]
-[ns]²”Œ[nse]
-ucc‚©‚Æ‚¤A‚³‚ñccv[pcms]
+[ns]Saeki[nse]
+... Kato-san...[pcms]
 
 *7096|
 [fc]
-‚»‚ÌA—‚ªŒû‚É‚µ‚½Œ¾—t‚ÅA‰´‚Ì“ª‚Ì’†‚ÉAƒnƒbƒLƒŠ[r]
-‚Æ‚µ‚½î•ñ‚ª•‚‚©‚Ñã‚ª‚Á‚½B[pcms]
+At that moment, the words spoken by the woman brought a[r]clear piece of information to my mind.[pcms]
 
 *7097|
 [fc]
-‚©‚Æ‚¤ccB[r]
-‚¨‚ê‚ÌA‚È‚Ü‚¦ccB[r]
-‚»‚µ‚Äcc‚±‚Ì‚¨‚ñ‚È‚ÍccB[pcms]
+Kato... My name... And... This woman...[pcms]
 
 *7098|
 [fc]
-[ns]‰Á“¡[nse]
-u‚³‚¦‚«ccv[pcms]
+[ns]Kato[nse]
+Saeki...[pcms]
 
 *7099|
 [fc]
-‚³‚¦‚«A‚Ğ‚Æ‚İccB[r]
-‚±‚í‚ª‚è‚ÅA‚¢‚¶‚Á‚Ï‚è‚ÅA‚è‚å‚¤‚è‚ª‚Ö‚½‚ÅccB[r]
-‚¨‚ê‚ÉA‚·‚«‚¾‚Æ‚±‚­‚Í‚­‚µ‚½‚¨‚ñ‚ÈccB[pcms]
+Saeki, Hitomi... She's timid, stubborn, and bad at[r]cooking...[l][er]
+A woman who confessed her love to me...[pcms]
 
 *7100|
 [fc]
-‚»‚¤‚¢‚¦‚Îcc‚±‚­‚Í‚­‚Ì‚Ö‚ñ‚¶A‚³‚¦‚«‚ÉA‚Ü‚¾‚µ‚Ä[r]
-‚È‚©‚Á‚½‚ÈccB[r]
-‚È‚Ì‚ÉA‚±‚ñ‚È‚±‚Æ‚ÉccB[pcms]
+Come to think of it... I still haven't given Saeki a[r]response to her confession...[l][er]
+And yet, something like this happened...[pcms]
 
 *v2865|
 [fc]
 [vo_sa s="sae0746"]
-[ns]²”Œ[nse]
-uw‚ ‚Ì‚Ğ‚Æx‚ÍA‚©‚Æ‚¤‚³‚ñ‚¾‚Á‚½‚Ì‚Å‚·‚Ëccv[pcms]
+[ns]Saeki[nse]
+'That person' was Kato-san, huh...[pcms]
 
 *7101|
 [fc]
-²”Œ‚ª™ê‚­‚Ì‚Æ“¯‚ÉA©•ª‚ÌŒ¨‚Ì•Ó‚è‚ÉA”M‚¢‰t‘Ì‚ª[r]
-—¬‚ê‚é‚Ì‚ğŠ´‚¶‚½B[pcms]
+At the same time Saeki murmured, I felt a hot liquid flowing[r]around my shoulder.[pcms]
 
 *7102|
 [fc]
-[ns]‰Á“¡[nse]
-u‚²‚ß‚ñ‚Ècc‚±‚ñ‚È‚Ó‚¤‚ÉA‚¨‚Ü‚¦‚ğccv[pcms]
+[ns]Kato[nse]
+I'm sorry... for doing this to you like this...[pcms]
 
 *v2866|
 [fc]
 [vo_sa s="sae0747"]
-[ns]²”Œ[nse]
-u‚¢‚¢‚¦cc‚¤‚ê‚µ‚¢‚Ì‚Å‚·cc‚©‚Æ‚¤‚³‚ñ‚ªA‚í‚½‚­[r]
-‚µ‚ÌA‚Í‚¶‚ß‚Ä‚Ì‚Ğ‚Æ‚É‚È‚Á‚Ä‚­‚ê‚½‚±‚Æ‚ªccv[pcms]
+[ns]Saeki[nse]
+No... I'm happy... that you, Kato-san, became my first...[pcms]
 
 *7103|
 [fc]
-²”Œ‚Í˜r‚É—Í‚ğ‚ß‚ÄA‰´‚Ì‘Ì‚ğ‹­‚­•ø‚«‚µ‚ß‚Ä‚­‚éB[r]
-‰´‚àA²”Œ‚Ì‘Ì‚É‰ñ‚µ‚½˜r‚É—Í‚ğ‚ß‚ÄA‹­‚­•ø‚«‚µ‚ß[r]
-•Ô‚µ‚½B[pcms]
+Saeki tightened her grip on my arm and embraced me tightly.[l][er]
+I also put strength into the arm wrapped around Saeki's body[r]and returned the tight embrace.[pcms]
 
 *v2867|
 [fc]
 [vo_sa s="sae0748"]
-[ns]²”Œ[nse]
-ucc‚í‚½‚­‚µ‚±‚»A‚²‚ß‚ñ‚È‚³‚¢cc‚·‚×‚Ä‚ğA‚ ‚È[r]
-‚½‚É‚³‚³‚°‚ç‚ê‚È‚­‚Äccv[pcms]
+[ns]Saeki[nse]
+... I'm sorry... for not being able to give everything to[r]you...[pcms]
 
 *7104|
 [fc]
-[ns]‰Á“¡[nse]
-u‚È‚ñ‚Ì‚±‚Æ‚¾ccHv[pcms]
+[ns]Kato[nse]
+What are you talking about...?[pcms]
 
 *v2868|
 [fc]
 [vo_sa s="sae0749"]
-[ns]²”Œ[nse]
-u‚¢‚¦cc‚È‚ñ‚Å‚à‚ ‚è‚Ü‚¹‚ñccv[pcms]
+[ns]Saeki[nse]
+No... It's nothing...[pcms]
 
 *7105|
 [fc]
-–Ù‚Á‚Ä—Ü‚ğ—¬‚µ‘±‚¯‚é²”Œ‚ÉA‰´‚Í¡‚ªŒ¾‚¤‚¾‚ÆA[r]
-”’‚É‘Î‚·‚é“š‚¦‚ğ•Ô‚µ‚½B[pcms]
+I returned the answer to Saeki, who was silently shedding[r]tears, thinking that now was the time to speak up about my[r]confession.[pcms]
 
 *7106|
 [fc]
-[ns]‰Á“¡[nse]
-u‚³‚¦‚«cc‚¢‚Ü‚Ü‚ÅA‚Ö‚ñ‚¶‚Å‚«‚È‚©‚Á‚½‚¯‚Çcc‚¨[r]
-‚êcc‚¨‚ê‚àA‚¨‚Ü‚¦‚Ì‚±‚ÆA‚·‚«‚¾‚©‚çccv[pcms]
+[ns]Kato[nse]
+Saeki... I haven't been able to respond until now, but...[l][er]
+I... I also love you...[pcms]
 
 *v2869|
 [fc]
 [vo_sa s="sae0750"]
-[ns]²”Œ[nse]
-u‚©‚Æ‚¤‚³‚ñccv[pcms]
+[ns]Saeki[nse]
+Kato-san...[pcms]
 
 *7107|
 [fc]
-²”Œ‚Ì˜r‚ÉA‚³‚ç‚É—Í‚ª‚ß‚ç‚ê‚½‚Ì‚Æ“¯‚ÉA‰´‚Ì‘Ì[r]
-‚ğ“`‚¤—Ü‚Ì—Ê‚ªA‘½‚­‚È‚Á‚½‚æ‚¤‚ÉŠ´‚¶‚½B[pcms]
+I felt a surge of strength in Saeki's arm, and at the same[r]time, it seemed like the amount of tears flowing down my[r]body had increased.[pcms]
 
 *v2870|
 [fc]
 [vo_sa s="sae0751"]
-[ns]²”Œ[nse]
-ucc‚³‚¢‚²‚Ü‚ÅA‚µ‚Ä‚­‚¾‚³‚¢cc‚í‚½‚­‚µ‚Ì‚·‚×‚Ä[r]
-‚ğA‚©‚Æ‚¤‚³‚ñ‚Ì‚à‚Ì‚É‚µ‚Ä‚Ù‚µ‚¢‚Ì‚Å‚·ccv[pcms]
+[ns]Saeki[nse]
+... Please, until the end... I want you to make me yours, to[r]have all of me, Kato-san...[pcms]
 
 *7108|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ ccv[pcms]
+[ns]Kato[nse]
+Ah...[pcms]
 
 *7109|
 [fc]
-‚»‚ÌŠè‚¢‚É‰‚¦‚é‚½‚ßA‰´‚Í‚³‚Á‚«‚Ü‚Å‚Æ“¯‚¶‚æ‚¤‚ÉA[r]
-©•ª‚Ìƒ‚ƒm‚Å²”Œ‚ÌƒAƒ\ƒR‚ğ“Ë‚«ã‚°‚½B[pcms]
+In order to fulfill that wish, I continued to thrust into[r]Saeki's pussy with my own just like before.[pcms]
 
 *v2871|
 [fc]
 [vo_sa s="sae0752"]
-[ns]²”Œ[nse]
-u‚ñ‚­‚£‚ÁII@‚ñ‚Í‚ÁA‚Í‚Ÿ‚ÁA‚£‚ ‚ñ‚ÁII@cc[r]
-‚­A‚Í‚Ÿcc‚ĞA‚­cc‚ñ‚¤‚£‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Nkuu!! Nhaa, haa, uann!! ... Ku, haa...[l][er]
+Hi, ku... Nuuu!![pcms]
 
 *7110|
 [fc]
-[ns]‰Á“¡[nse]
-u‚³‚¦‚«cc‚¸‚Á‚ÆA‚ ‚¢‚µ‚Ä‚é‚©‚çccv[pcms]
+[ns]Kato[nse]
+Saeki... I've loved you all along...[pcms]
 
 *v2872|
 [fc]
 [vo_sa s="sae0753"]
-[ns]²”Œ[nse]
-u‚ñ‚ÁA‚Ğ‚ ‚Ÿ‚ÁII@cc‚í‚½‚­‚µ‚àA‚©‚Æ‚¤‚³‚ñ‚Ì[r]
-‚±‚Æ‚ğcc‚¤‚Ÿ‚ÁA‚Ó‚ ‚Ÿ‚ÁII@cc‚µ‚å‚¤‚ª‚¢A‚ [r]
-‚¢‚µ‚Â‚Ã‚¯‚Ü‚·‚©‚çcc‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Nn, hiaa!! ... I also... love you, Kato-san...[l][er]
+Uaah, fuaa!! ... I will continue to love you...!![pcms]
 
 *7111|
 [fc]
-²”Œ‚ÌƒAƒ\ƒR‚ª’f‘±‚µ‚Ä’÷‚ß•t‚¯‚Ä‚­‚é‚æ‚¤‚É‚È‚é‚ÆA[r]
-ƒ‚ƒm‚Ìæ’[‚É‰œ‚Ì•Ç‚ª“–‚½‚é‚æ‚¤‚É‚È‚Á‚½B[pcms]
+When Saeki's pussy started intermittently tightening, the[r]tip of my thing began to hit against the back wall.[pcms]
 
 *7112|
 [fc]
-[ns]‰Á“¡[nse]
-u‚È‚ñ‚©A‚ ‚½‚Á‚Ä‚é‚¼ccH@‚³‚¦‚«ccv[pcms]
+[ns]Kato[nse]
+Something is hitting me...? Saeki...[pcms]
 
 *v2873|
 [fc]
 [vo_sa s="sae0754"]
-[ns]²”Œ[nse]
-u‚Í‚£A‚ñ‚£‚ÁI@‚­‚¤‚£‚ÁII@cc‚¾‚Á‚Äcc‚ ‚È[r]
-‚½A‚ª‚Ÿcc‚Ó‚Ÿ‚ÁA‚ñ‚Í‚£‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Hau, nnuu! Kuuu!! ... datte...[l][er]
+anata, gaa... fuaa, nhaa!![pcms]
 
 *7113|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ cc‚£cc‚­A‚­‚­cc‚¨‚Ü‚¦‚ªA‚¢‚ñ‚ç‚ñ‚È‚¾‚¯[r]
-‚¾‚ëccHv[pcms]
+[ns]Kato[nse]
+Ah... ugh... heh, heh... You're just lewd, aren't you...?[pcms]
 
 *v2874|
 [fc]
 [vo_sa s="sae0755"]
-[ns]²”Œ[nse]
-u‚Ğ‚¤‚£‚ÁII@‚ÓA‚ŸA‚­‚£‚ñ‚ÁII@cc‚¿‚ªcc[r]
-‚»‚ñ‚ÈA‚±‚Æcc‚Í‚ÁA‚­A‚ñ‚Ó‚£‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Hiuu!! Fu, a, kuun!! ... Different...[l][er]
+something like that... haa, ku, nfuu!![pcms]
 
 *7114|
 [fc]
-ƒ`ƒ“ƒ|‚Ìæ‚É“–‚½‚Á‚Ä‚¢‚é‚»‚Ì•Ç‚ÉA‰´‚Í˜‚ğå¿‚©‚¹A[r]
-ƒKƒ}ƒ“`‚ğ“h‚è‚½‚­‚é‚æ‚¤‚É‚µ‚ÄAƒ}ƒ“ƒR‚Ì‰œ‚ğÓ‚ß—§[r]
-‚Ä‚½B[pcms]
+I moved my hips against that wall that my thing was hitting,[r]as if smearing it with my pre-cum, and relentlessly attacked[r]the depths of her pussy.[pcms]
 
 *v2875|
 [fc]
 [vo_sa s="sae0756"]
-[ns]²”Œ[nse]
-u‚ ‚ÁA‚Ğ‚á‚¤‚£‚ÁII@cc‚ A‚½cc‚ ‚½‚Á‚Äcc[r]
-‚ĞA‚­cc‚ñ‚Ó‚Ÿ‚ÁA‚Í‚£‚ñ‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Ah, hyaauu!! ... A, ta... touching...[l][er]
+hi, ku... nfahh, haun!![pcms]
 
 *7115|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ü‚ñ‚±‚Ì‚¨‚­cc‚±‚·‚ç‚ê‚é‚Ì‚ªA‚¢‚¢‚Ì‚©ccH@[r]
-‚¤‚ê‚µ‚»‚¤‚ÉA‚¿‚ñ‚ÛA‚µ‚ß‚Â‚¯‚Ä‚é‚¼ccv[pcms]
+[ns]Kato[nse]
+Is it... good to have your pussy rubbed like this...?[l][er]
+You seem happy, squeezing my dick tightly...[pcms]
 
 *v2876|
 [fc]
 [vo_sa s="sae0757"]
-[ns]²”Œ[nse]
-u‚ÍA‚Ğ‚¢‚¡cc‚ÁII@‚¢‚¢A‚Å‚·‚£cc‚»A‚êA‚·[r]
-‚«‚¡cc‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Haa, hii...!! It feels good...[l][er]
+I-I like that...!![pcms]
 
 *7116|
 [fc]
-—‚Ì‚«‚Â‚¢ƒ}ƒ“ƒR‚É‚µ‚²‚©‚ê‘±‚¯Aƒpƒ“ƒpƒ“‚É–c‚ê‚ ‚ª[r]
-‚é’öAƒ^ƒ}‚Ì’†‚É‚ÍƒU[ƒƒ“‚ª—­‚ß‚ç‚ê‚Ä‚¢‚½B[pcms]
+The tight pussy of the woman continued to be stroked, and as[r]it swelled up, semen was accumulated inside the balls.[pcms]
 
 *7117|
 [fc]
-ŒÀŠE‚ª‚·‚®‚»‚±‚Ü‚Å—ˆ‚Ä‚¢‚é‰´‚Ì‘Ì‚ÍA—‚Ìƒ}ƒ“ƒR‚Ì’†[r]
-‚É‘S•”ƒuƒ`T‚¯‚é‚½‚ßA¡‚Ü‚ÅˆÈã‚ÉŒƒ‚µ‚­“Ë‚«ã‚°n[r]
-‚ß‚½B[pcms]
+My body, which was reaching its limit, began thrusting even[r]more vigorously inside the woman's pussy, in order to[r]release everything inside.[pcms]
 
 *v2877|
 [fc]
 [vo_sa s="sae0758"]
-[ns]²”Œ[nse]
-u‚Ğ‚£‚ÁA‚Í‚£‚ñ‚ÁII@cc‚­‚£A‚¾A‚ß‚¥cc‚à‚ê[r]
-‚ÄA‚µ‚Ü‚¢‚Ü‚·‚£cc‚¨‚µ‚Á‚±A‚Å‚é‚£cc‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Hiuu, haun!! ... Kuu, da, me...[l][er]
+it's leaking... I'm going to pee...!![pcms]
 
 *7118|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨‚ê‚àcc‚Å‚»‚¤‚¾cc‚È‚©‚ÉA‚½‚Á‚Õ‚ècc‚¾‚µ‚Ä[r]
-‚â‚é‚©‚ç‚È‚ŸccIIv[pcms]
+[ns]Kato[nse]
+Me too... I'm going to... release plenty...[l][er]
+inside you...!![pcms]
 
 *v2878|
 [fc]
 [vo_sa s="sae0759"]
-[ns]²”Œ[nse]
-u‚¾‚µ‚Ä‚¥cc‚¨‚à‚¢A‚«‚ècc‚í‚½‚­‚µ‚ÌA‚È‚©‚ÉA[r]
-‚¾‚µ‚Ä‚­‚¾‚³‚¢cc‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Please... release it... deep inside me...!![pcms]
 
 *7119|
 [fc]
-ŒÀŠE‚Í‚·‚®‚É‚â‚Á‚Ä‚«‚ÄA‰´‚Í‚»‚êˆÈãAƒU[ƒƒ“‚ğ—­[r]
-‚ß‚Ş‚Ì‚ğ‚â‚ßA•¬‚«o‚µ‚Ä‚­‚é¨‚¢‚É”C‚¹‚½B[pcms]
+My limit was quickly approaching, and I stopped holding back[r]my semen any longer, letting it burst out with force.[pcms]
 
 *7120|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤‚Ÿcc‚ÅA‚écc‚ÁIIv[pcms]
+[ns]Kato[nse]
+Ugh... I'm... coming...!![pcms]
 
 *v2879|
 [fc]
 [vo_sa s="sae0760"]
-[ns]²”Œ[nse]
-u‚Ğ‚Ÿ‚ÁA‚ñA‚®A‚¤‚£‚ÁII@‚ĞA‚®‚£‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Ahh, ngh, guu...!! Hi, guu...!![pcms]
 
 *7121|
 [fc]
-ƒ`ƒ“ƒ|‚ğ“Ë‚«o‚µAª–{‚Ü‚Å—‚É“Ë‚«h‚µ‚ÄAƒ}ƒ“ƒR‚Ì[r]
-ˆê”Ô‰œ[‚¢êŠ‚ÅA‰´‚Í‚½‚ß‚ñ‚¾ƒU[ƒƒ“‚ğ“f‚«o‚µ[r]
-‚Ä‚â‚Á‚½B[pcms]
+I thrust my dick forward, piercing it deep into the woman,[r]all the way to the base.[l][er]
+At the deepest part of her pussy, I released the accumulated[r]semen.[pcms]
 
 *7122|
 [fc]
-[ns]‰Á“¡[nse]
-u‚®A‚Ÿcc‚ÁIIv[pcms]
+[ns]Kato[nse]
+Guh... ah...!![pcms]
 
-;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
 
 [stop_se0]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 
 [se0 storage="se062"]
 
@@ -593,43 +549,38 @@
 *v2880|
 [fc]
 [vo_sa s="sae0761"]
-[ns]²”Œ[nse]
-u‚Ğ‚ÁII@‚ ‚¤‚£‚ÁIIIIv[pcms]
+[ns]Saeki[nse]
+Hiuu!! Aauu!![pcms]
 
 *7123|
 [fc]
-ƒ`ƒ“ƒ|‚ª–¬‘Å‚Á‚ÄAƒ}ƒ“ƒR‚Ì‰œ‚ÖƒU[ƒƒ“‚ğ’‚¬‚ñ‚Å[r]
-‚¢‚­B[pcms]
+My cock throbbed, as I poured my semen deep into her pussy.[pcms]
 
 *7124|
 [fc]
-‚»‚Ì‰õŠ´‚É‘Ì‚ğ‚Ğ‚­‚Â‚©‚¹‚È‚ª‚çA—‚ÍƒVƒ‡ƒ“ƒxƒ“‚ğ˜R[r]
-‚ç‚µA‰´‚Ì‘Ì‚ğ”G‚ç‚µ‚½B[pcms]
+With her body trembling with pleasure, the woman wet[r]herself, soaking my body.[pcms]
 
 *v2881|
 [fc]
 [vo_sa s="sae0762"]
-[ns]²”Œ[nse]
-u‚¤‚ŸA‚ cc‚¨‚µ‚Á‚±A‚Å‚Ä‚é‚£ccv[pcms]
+[ns]Saeki[nse]
+Ugh, ah... I... I'm peeing...[pcms]
 
 *7125|
 [fc]
-[ns]‰Á“¡[nse]
-u‚­A‚Ícc‚Ÿccv[pcms]
+[ns]Kato[nse]
+Ku, ha... ah...[pcms]
 
 *v2882|
 [fc]
 [vo_sa s="sae0763"]
-[ns]²”Œ[nse]
-u‚ A‚Ícc‚»‚ñ‚È‚¢‚«‚¨‚¢‚ÅA‚µ‚á‚¹‚¢‚³‚ê‚½‚çcc[r]
-‚ ‚Ó‚ê‚ÄA‚µ‚Ü‚¢‚Ü‚·cc‚ñA‚Ğ‚¡cc‚¨‚­‚Ì‚©‚×‚ÉA[r]
-‚ ‚½‚Á‚Ä‚é‚£ccv[pcms]
+[ns]Saeki[nse]
+Ah, ha... If you thrust with that much force...[l][er]
+I'll overflow... Mm, hii... It's hitting the back wall...[pcms]
 
 *7126|
 [fc]
-ƒ`ƒ“ƒ|‚Æƒ}ƒ“ƒR‚ÌŒ„ŠÔ‚©‚çAÀÛ‚É‰´‚ÌƒU[ƒƒ“‚ª˜R‚ê[r]
-‚Ä‚«‚½ A—‚Í—Ís‚«‚½‚©‚Ì‚æ‚¤‚ÉA‘Ì‚Ìã‚É“|‚ê‚ñ[r]
-‚Å‚«‚½B[pcms]
+When my semen actually leaked out from the gap between my[r]cock and her pussy, the woman collapsed onto my body as if[r]she had run out of strength.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -651,40 +602,39 @@
 
 *7127|
 [fc]
-‚µ‚Î‚ç‚­‚ÌŠÔA‰´‚Ì‘Ì‚Ìã‚ÅŒÄ‹z‚ğr‚­‚µ‚Ä‚¢‚½—‚ÍA[r]
-‚â‚ª‚Ä‹N‚«‚ ‚ª‚Á‚ÄA‚¢‚â‚ç‚µ‚¢Î‚İ‚ğ•‚‚©‚×‚½B[pcms]
+The woman who had been breathing heavily on top of my body[r]for a while, eventually got up and had a lewd smile on her[r]face.[pcms]
+[l][er]
 
 *v2883|
 [fc]
 [vo_sa s="sae0764"]
-[ns]²”Œ[nse]
-u‚à‚¤A‚¢‚¿A‚Çcc‚Ë‚¥A‚¢‚¢‚ÅA‚µ‚å‚¤ccH@‚à[r]
-‚¤‚¢A‚¿‚Çccv[pcms]
+[ns]Saeki[nse]
+One more time... Hey, shall we...?[l][er]
+One more time...[pcms]
 
 *7128|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ cc‚É‚ñA‚µA‚ñA‚·‚é‚ÜA‚Åcc‚È‚©‚¾A‚µA[r]
-‚µ‚ÄA‚â‚é‚ºccv[pcms]
+[ns]Kato[nse]
+Ah... I'll make sure to... do it until the end...[l][er]
+I'll give it my all...[pcms]
 
 *7129|
 [fc]
-‚³‚¦‚«cc‚ÆccB[r]
-–Ú‚Ì‘O‚Ì—cc‚³‚¦A‚«cc‚ÆccB[pcms]
+Saeki... to... The woman in front of me...[l][er]
+Saeki... to...[pcms]
 
 *7130|
 [fc]
-–Ú‚Ì‘O‚Ì—‚ÆA‰´‚Í‘Ì‚ª“®‚©‚È‚­‚È‚é‚Ü‚Å[r]
-–O‚«‚é‚±‚Æ–³‚­‰õŠy‚ğ‹‚ß‡‚Á‚½B[pcms]
+The woman in front of me and I sought pleasure without[r]getting tired until our bodies couldn't move anymore.[pcms]
 
 *7131|
 [fc]
-’iXA–Ú‚Ì‘O‚Ì—‚ªA’N‚¾‚©•ª‚©‚ç‚È‚­‚È‚Á‚Ä‚«‚½B[r]
-‚Å‚àccB[pcms]
+Gradually, I couldn't recognize the woman in front of me[r]anymore.[l][er]
+But...[pcms]
 
 *7132|
 [fc]
-‚¾‚ê‚Å‚àcc‚¢‚¢‚âccB[pcms]
+Anyone... it doesn't matter...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -693,30 +643,30 @@
 ;g[backlay_c][chara_int][trans_c cross time=150]
 
 
-;//‚±‚±‚Ü‚Å–{•Ò
+;//ã“ã“ã¾ã§æœ¬ç·¨
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
-;•s—v[eval exp="="sf.g_scn36 = 1"]
+;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
+;ä¸è¦[eval exp="="sf.g_scn36 = 1"]
 
-;//ƒEƒBƒ“ƒhƒEÁ‹
+;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//•‚ÉƒtƒF[ƒh
+;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 
-;//¦ƒQ[ƒ€ƒI[ƒo[
+;//â€»ã‚²ãƒ¼ãƒ ã‚ªãƒ¼ãƒãƒ¼
 
 ;;;[sysbt_meswin clear]
 
@@ -730,7 +680,7 @@
 	[jump target=*BADEND]
 [endif]
 
-;sf.g_queen“¥‚ñ‚ÅŠJ‚­‚â‚Â
+;sf.g_queenè¸ã‚“ã§é–‹ãã‚„ã¤
 [call storage="movie_sub.ks" target=*badend_open]
 
 [eval exp="sf.g_badend1 = 1"]

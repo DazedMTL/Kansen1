@@ -1,20 +1,20 @@
 
-;//¡ËƒuƒƒbƒN06060wŠ´õÒ’Bx
-;//;//BG:‘Ìˆç‹³Š¯ºF–éF“_“”
-;//“oêl•¨GŠİ“cE—DEƒ]ƒ“ƒr~‚T
-;//‹“_FŠİ“c
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯06060ã€æ„ŸæŸ“è€…é”ã€
+;//;//BG:ä½“è‚²æ•™å®˜å®¤ï¼šå¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›å²¸ç”°ãƒ»å„ªãƒ»ã‚¾ãƒ³ãƒ“Ã—ï¼•
+;//è¦–ç‚¹ï¼šå²¸ç”°
 
-;//EVENT‚b‚fFŠ´õÒ@EV004
+;//EVENTï¼£ï¼§ï¼šæ„ŸæŸ“è€…ã€€EV004
 
 *06060_H_TOP
-;[debug_win]‚È‚¤@06060_H[debug_win_end]
+;[debug_win]ãªã†ã€€06060_H[debug_win_end]
 [eval exp="sf.SRP30 = 1"][if exp="tf.scene_mode == 0"][jump target=*06060_H][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 *06060_H
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_06060 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_06060 = 1"]
 
 
 
@@ -22,7 +22,7 @@
 
 *scene_start
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 [bgm008]
 
 ;//H_CG:
@@ -36,46 +36,47 @@
 *v2645|
 [fc]
 [vo_ya s="yama0888"]
-[ns]RŠİ[nse]
-u‚¢‚â‚ŸII@‚¢‚â‚Ÿ‚ ‚ ‚ ‚ II@‚¤‚í‚ ‚ IIv[pcms]
+[ns]Yamagishi[nse]
+Nooo!! Noooo!! Uwaaa!![pcms]
 
 *6545|
 [fc]
-‰½‚¾ccƒRƒCƒc‚çccII[r]
-‚¢‚Â‚ÌŠÔ‚ÉII[pcms]
+What... are these guys...!! When did they...?![pcms]
 
 *6546|
 [fc]
-‚»‚ê‚ÉA‰´‚Ì• ‚É‰½‚µ‚â‚ª‚Á‚½IH[pcms]
+And what the hell did you do to my stomach!?[pcms]
 
 *6547|
 [fc]
-[ns]’jq¶“k‚`[nse]
-u‚ÍA‚ÍccA‚âA‚ÜA‚¬‚µA‚¾ccv[pcms]
+[ns]Male Student A[nse]
+H-Ha... Ya-ma-gi-shi-da...[pcms]
 
 *6548|
 [fc]
-[ns]’jq¶“k‚a[nse]
-u‚âA‚ÜA‚¬‚µA‚Í‚¾A‚©ccv[pcms]
+[ns]Male Student B[nse]
+Ya-ma-gi-shi-da... naked...[pcms]
 
 *v2646|
 [fc]
 [vo_ya s="yama0889"]
-[ns]RŠİ[nse]
-u‰½A‰½‚È‚ÌIH@‚â‚Ÿ‚ ‚ II@‚±‚Á‚¿‚É—ˆ‚È‚¢‚Å‚¥[r]
-II@o‚Äs‚Á‚Ä‚¥IIv[pcms]
+[ns]Yamagishi[nse]
+What, what is this!? Nooo!! Don't come over here!![l][er]
+Get out!![pcms]
 
 *6549|
 [fc]
-[ns]’jq¶“k‚c[nse]
-u‚¤‚Í‚Í‚Í‚ÁI@Šİ“c‚¾I@Šİ“cII@ƒEƒbƒ[ƒFIIv[pcms]
+[ns]Male Student D[nse]
+Uhahaha! It's Kishida! Kishida!![l][er]
+How disgusting!![pcms]
 
 *6550|
 [fc]
-[ns]Šİ“c[nse]
-uƒOƒDccBƒeƒƒF‚çA‰½‚¾I@‚®‚Ÿ‚ ‚ ƒbIv[pcms]
+[ns]Kishida[nse]
+Guh... What the hell are you guys doing![l][er]
+Gaaaah![pcms]
 
-;//SE:‰£‚é
+;//SE:æ®´ã‚‹
 [se0 storage="se026"]
 
 [flash_re]
@@ -88,26 +89,26 @@
 
 *6551|
 [fc]
-‰½‚¾H@ƒRƒCƒc‚Ì”n­—Í‚ÍII[r]
-‚±‚Ì‰´—l‚ª‚±‚ñ‚Èƒ„ƒc‚ÉIH[pcms]
+What? This idiot's strength!! Me, the great me, to someone[r]like this!?[pcms]
 
 *6552|
 [fc]
-[ns]Šİ“c[nse]
-uƒEƒIƒHƒIƒIƒII@‰½‚¾I@ƒNƒ\ƒHII@ƒeƒƒFccv[pcms]
+[ns]Kishida[nse]
+Uwoooo! What the hell! You bastaaard!![l][er]
+You...[pcms]
 
 *6553|
 [fc]
-[ns]’jq¶“k‚b[nse]
-u‚¤A‚¤ccA‚ÍA‚çcc‚Ö‚Á‚½ccv[pcms]
+[ns]Male Student C[nse]
+U-u... My... stomach... it's empty...[pcms]
 
 *6554|
 [fc]
-[ns]Šİ“c[nse]
-u‚â‚ß‚ëI@—£‚ê‚ëII@‰½‚¾cc‰½‚È‚ñ‚¾‚¨‘O‚çII[r]
-ƒEƒKƒbIIv[pcms]
+[ns]Kishida[nse]
+Stop! Stay away!! What... what the hell are you guys!![l][er]
+Ughh!![pcms]
 
-;//SE:‰£‚é
+;//SE:æ®´ã‚‹
 [se0 storage="se026"]
 
 [flash_re]
@@ -116,39 +117,40 @@
 [trans_c cross time=300]
 
 [quake_bg xy m]
-;//SE;ƒhƒTƒb
+;//SE;ãƒ‰ã‚µãƒƒ
 [se0 storage="se021"]
 
 
 *6555|
 [fc]
-ƒEƒ`‚Ì¶“k‚ÉA‚±‚ñ‚È—Í‚Ì‹­‚¢ƒ„ƒc‚ªcIH[r]
-ƒNƒ\ƒbII@˜e• ‚ªƒbII[pcms]
+My students, someone with such strong power...!?[l][er]
+Damn it!! My side...!![pcms]
 
-;//¦ƒ{ƒCƒX–³‚µ
+;//â€»ãƒœã‚¤ã‚¹ç„¡ã—
 *6555a|
 [fc]
-[ns]—q¶“k[nse]
-uccccv[pcms]
+[ns]Female student[nse]
+â€¦â€¦â€¦â€¦[l][er]
 
 *6556|
 [fc]
-[ns]Šİ“c[nse]
-u‚ÈA‰½‚µ‚â‚ª‚éƒbI@‚â‚ß‚ëƒHII@‚®‚Ÿ‚ ‚ ƒbIv[pcms]
+[ns]Kishida[nse]
+W-What are you doing?! Stop it!![l][er]
+Aaargh![pcms]
 
 *v2647|
 [fc]
 [vo_ya s="yama0890"]
-[ns]RŠİ[nse]
-uæ¶II@‚¢‚â‚Ÿ‚ ‚ ‚ IIv[pcms]
+[ns]Yamagishi[nse]
+Teacher!! Noooo!![pcms]
 
 *6557|
 [fc]
-[ns]Šİ“c[nse]
-uRŠİII@•‚¯‚ëƒbI@‰½‚Æ‚©‚µ‚ëƒHII@ƒEƒOƒ@ƒA[r]
-ƒAƒbIIv[pcms]
+[ns]Kishida[nse]
+Yamagishi!! Help me!! Do something!![l][er]
+Aaargh!![pcms]
 
-;//SE:‰£‚é
+;//SE:æ®´ã‚‹
 [se0 storage="se026"]
 
 [flash_re]
@@ -162,8 +164,8 @@
 
 *6558|
 [fc]
-’N‚¾cc‹ÊAR‚è‚â‚ª‚Á‚½‚ÌcI[r]
-€‚Êcc€‚ÊII[pcms]
+Who... kicked me in the balls...![l][er]
+I'm gonna die... I'm gonna die!![pcms]
 
 ;//blackout
 
@@ -180,14 +182,14 @@
 *v2648|
 [fc]
 [vo_ya s="yama0891"]
-[ns]RŠİ[nse]
-u‚±A‚±‚Á‚¿‚Écc—ˆ‚È‚¢‚ÅccB—ˆ‚È‚¢‚ÅccIIv[pcms]
+[ns]Yamagishi[nse]
+D-Don't come over here... Don't come...!![pcms]
 
 *v2649|
 [fc]
 [vo_ya s="yama0892"]
-[ns]RŠİ[nse]
-uƒCƒ„ƒ@ƒAƒAƒAƒAƒAIIv[pcms]
+[ns]Yamagishi[nse]
+Nooooooo!![pcms]
 
-;//[06070]‚Ö
+;//[06070]ã¸
 [jump target=*06070_H_TOP storage="06070_H.ks"]

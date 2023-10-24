@@ -1,18 +1,18 @@
 
-;//¡ËƒuƒƒbƒN06010w•s‹@Œ™Šİ“cc’|“à”­Œ©x
-;//BG:¸~Œû‘O˜L‰º^–éFÁ“”
-;//“oêl•¨GŠİ“cE’|“à
-;//‹“_FŠİ“c
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯06010ã€ä¸æ©Ÿå«Œå²¸ç”°â€¦ç«¹å†…ç™ºè¦‹ã€
+;//BG:æ˜‡é™å£å‰å»Šä¸‹ï¼å¤œï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›å²¸ç”°ãƒ»ç«¹å†…
+;//è¦–ç‚¹ï¼šå²¸ç”°
 
 *06010_TOP
-;[debug_win]‚È‚¤@06010[debug_win_end]
-;*SceneSet|w•s‹@Œ™Šİ“cc’|“à”­Œ©x
+;[debug_win]ãªã†ã€€06010[debug_win_end]
+;*SceneSet|ã€ä¸æ©Ÿå«Œå²¸ç”°â€¦ç«¹å†…ç™ºè¦‹ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_06010 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_06010 = 1"]
 
-;//flag:“µƒ‹[ƒgƒtƒ[@zap‚P@•\¦
+;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€zapï¼‘ã€€è¡¨ç¤º
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 
 [bgm007]
 
@@ -27,78 +27,77 @@
 
 *6396|
 [fc]
-[ns]Šİ“c[nse]
-uƒNƒ\ƒHccv[pcms]
+[ns]Kishida[nse]
+Damn it...[pcms]
 
 *6397|
 [fc]
-‚Ç‚¤‚È‚Á‚Ä‚ñ‚¾H@‚±‚±ˆêTŠÔAŠP‚ªo‚é‚â‚ç‰º—Ÿ‚·‚é[r]
-‚â‚çAƒƒN‚Èƒ‚ƒ“‚¶‚á‚È‚¢B[pcms]
+What's happening? For the past week, I've been coughing and[r]having diarrhea.[l][er]
+It's not good at all.[pcms]
+[l][er]
 
 *6398|
 [fc]
-[ns]Šİ“c[nse]
-uƒNƒ\I@ƒCƒ‰ƒCƒ‰‚·‚éII@‚±‚è‚á‚ AƒAƒCƒc‚ğ”Æ‚µ[r]
-‚ÄƒXƒgƒŒƒX”­U‚µ‚ÄccƒQƒzƒbIIv[pcms]
+[ns]Kishida[nse]
+Damn it! It's so frustrating!![l][er]
+I should relieve my stress by violating that person...[pcms]
+*cough*[l][er]
 
 *6399|
 [fc]
-ƒNƒbƒ\ƒHI@‚Ü‚½ŠP‚©II@ƒ^ƒ`‚Ìˆ«‚¢‰Ä•—×‚É‚È‚Á‚¿[r]
-‚Ü‚Á‚½B‚¹‚Á‚©‚­‚‚¢‹à•¥‚Á‚Ä–ò”ƒ‚Á‚½‚Á‚Ä‚Ì‚ÉA‘S‚­[r]
-Œø‚«‚â‚µ‚È‚¢B[pcms]
+Damn it! I'm coughing again!! I've caught a nasty summer[r]cold.[l][er]
+Even though I spent a lot of money on medicine, it's not[r]working at all.[pcms]
+[l][er]
 
 *6400|
 [fc]
-[ns]Šİ“c[nse]
-u‚±‚è‚á‚ Aˆê‰ñ‚â“ñ‰ñ‚¶‚áû‚Ü‚ç‚ñ‚ÈA[r]
-ƒkƒtƒDI@ƒIƒHHv[pcms]
+[ns]Kishida[nse]
+This won't be settled with just one or two times, *moan*[r]Ohh?[pcms]
 
 *6401|
 [fc]
-ƒAƒCƒc‚ÌS‚ß‚Á‚½‚ç‚µ‚­‚æ‚ª‚ép‚ğv‚¢o‚µ‚½‚¾‚¯‚ÅA[r]
-ƒ}ƒCEƒTƒ“‚ª–Ú‚ğŠo‚Ü‚µ‚¿‚Ü‚Á‚½B[pcms]
+Just by remembering their pitiful and pathetic figure, my[r]sun woke up.[pcms]
 
 *6402|
 [fc]
-‚»‚ê‚É‚µ‚Ä‚àA•ª’·‚¢–ƒLƒoƒb‚Ä‚½ƒ‚ƒ“‚¾B‚à‚¤–é’†[r]
-‚¶‚á‚È‚¢‚©B[pcms]
+That being said, I've been getting excited for quite a long[r]time.[l][er]
+It's already midnight, isn't it?[pcms]
 
 *6403|
 [fc]
-•ÛŒ’º‚Å‘Ò‚Á‚Ä‚ëA‚Æ–½—ß‚µ‚Ä‚¨‚¢‚½‚ªA‰º—Ÿ‚Ì‚¨‚©‚°[r]
-‚Å‚±‚ñ‚ÈŠÔ‚É‚È‚Á‚¿‚Ü‚Á‚½I[pcms]
+I ordered them to wait in the infirmary, but thanks to the[r]diarrhea, it's already become this late![pcms]
 
 *6404|
 [fc]
-‚Ü‚¾‘Ò‚Á‚Ä‚é‚¾‚ë‚¤‚©H@[r]
-‚Ü‚ Aƒ„ƒc‚Í‰´‚ÌŒ¾‚¢‚È‚è‚¾‚©‚ç‚ÈccB[r]
-‘Ò‚Á‚Ä‚È‚¢‚æ‚¤‚È‚çA‚»‚ê‚Í‚»‚ê‚ÅccAƒNƒNƒbI[pcms]
+I wonder if they're still waiting?[l][er]
+Well, they're obedient to me, so...[l][er]
+If they're not waiting, then...[l][er]
+hehehe.[pcms]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 [se0 storage="se005"]
 
 *6405|
 [fc]
-[ns]Šİ“c[nse]
-u‚ñHv[pcms]
+[ns]Kishida[nse]
+Hm?[pcms]
 
 *6406|
 [fc]
-’N‚¾A‚±‚ñ‚ÈŠÔ‚ÉB‰fŒ¤‚Ì“z‚ç‚©H@ƒAƒCƒc‚ç‚à”MS[r]
-‚È‚±‚Á‚½‚ÈB‰f‰æ‚È‚ñ‚¼A”‘‚Ü‚è‚ª‚¯‚ÅŒ©‚é‚æ‚¤‚Èƒ‚ƒ“[r]
-‚©‚ŸH[pcms]
+Who is it, at this hour? Is it the film club people?[l][er]
+They're really enthusiastic. Are movies something you stay[r]overnight to watch?[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std385|
 [fc]
-[ns]’|“à[nse]
-uƒnƒ@ƒbccƒnƒAƒbccƒQƒzƒQƒzƒbII@‚È‚ñ‚¾‚æcc[r]
-‚Ü‚½ŠP‚ªo‚Ä‚«‚½ccv[pcms]
+[ns]Takeuchi[nse]
+*Haa... Haa... Cough, cough!! What the...[l][er]
+I'm coughing again...[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
@@ -107,73 +106,68 @@
 
 [wait_c time=1000]
 
-;//¦—§‚¿ƒLƒƒƒ‰Á‹
+;//â€»ç«‹ã¡ã‚­ãƒ£ãƒ©æ¶ˆå»
 [backlay_c][chara_int][trans_c cross time=150]
 
 *6407|
 [fc]
-ƒtƒ“ccB’|“à‚©B‰½‚ğƒjƒ„ƒjƒ„‚µ‚Ä‚â‚ª‚é‚ñ‚¾B‰´—l[r]
-‚É‹C‚ª•t‚©‚È‚¢’öA‰½‚©Šy‚µ‚¢–‚Å‚à‚ ‚é‚Ì‚©H[pcms]
+Hmph... Takeuchi, huh? What are you grinning about?[l][er]
+Is there something fun happening that I'm not aware of?[pcms]
 
 *6408|
 [fc]
-ƒ„ƒc‚à•—×‚©H@‘S‚­A‚ ‚ñ‚Èƒ„ƒc‚Æ“¯‚¶‚È‚ñ‚ÄAÅˆ«[r]
-‚¾B[pcms]
+Is that guy also sick? Seriously, being the same as that guy[r]is the worst.[pcms]
 
 *6409|
 [fc]
-cc‚µ‚©‚µŒ©‹ê‚µ‚¢• ‚¾‚ÈB‰´—l‚Ìö‹Æ‚ğƒTƒ{‚Á‚Ä‚Î‚©[r]
-‚è‚¢‚é‚©‚ç‚ ‚ ‚È‚é‚ñ‚¾B[pcms]
+... But what an unsightly belly.[l][er]
+It's because you're always skipping my classes that you end[r]up like that.[pcms]
 
 *6410|
 [fc]
-‰½‚æ‚èAƒ„ƒc‚Íˆêl‚Å‰½ˆ‚És‚±‚¤‚Á‚Ä‚ñ‚¾H@•’i‚©[r]
-‚ç‰½l‚¦‚Ä‚é‚©•ª‚©‚ç‚ñƒ„ƒc‚¾‚ªA‚¹‚Á‚©‚­‡h‚¾‚Á‚Ä[r]
-‚Ì‚ÉAˆêl‚Å‰½‚â‚Á‚Ä‚é‚ñ‚¾B[pcms]
+What's with that guy, thinking he can go anywhere alone?[l][er]
+I never know what he's thinking, but even though it's a[r]training camp, what is he doing all by himself?[pcms]
 
 *6411|
 [fc]
-’iXƒCƒ‰ƒCƒ‰‚µ‚Ä‚«‚½ccB[pcms]
+I'm starting to get irritated...[pcms]
 
 *6412|
 [fc]
-[ns]Šİ“c[nse]
-uƒEƒHƒIƒIƒIƒIII@ƒNƒ\ƒbIv[pcms]
+[ns]Kishida[nse]
+Woahhhh!! Shit![pcms]
 
 ;	/*
-;	;//SE:•Ç‚ğ‰£‚é
+;	;//SE:å£ã‚’æ®´ã‚‹
 ;	[se0 storage="se028"]
 ;	*/
 
 *6416|
 [fc]
-ƒNƒ\ƒbI[r]
-ƒ„ƒc‚Ìƒcƒ‰Œ©‚½‚¨‚©‚°‚ÅAƒ}ƒCEƒTƒ“‚ªˆŞ‚¦‚¿‚Ü‚Á‚½II[r]
-‚¹‚Á‚©‚­‹C•ª‚ªƒmƒb‚Ä—ˆ‚Ä‚½‚Á‚Ä‚Ì‚É‚æ‚§I[pcms]
+Shit! Thanks to seeing that guy's face, my sun went limp!![l][er]
+Just when I was getting in the mood![pcms]
 
 *6417|
 [fc]
-cc‚»‚ê‚ÉAƒ„ƒc‚Ì‚ ‚ÌŠğ‚µ‚»‚¤‚ÈŠçI@â‘ÎA‰½‚©‚µ[r]
-‚æ‚¤‚Æ‚µ‚Ä‚â‚ª‚éI[pcms]
+... And that happy face of his![l][er]
+He's definitely up to something![pcms]
 
 *6418|
 [fc]
-cc‚ ‚ I[r]
-ƒ„ƒ‚¾I@ƒ„ƒI@ƒŠƒT‚Æ‚Í‚¢‚Â‚Å‚àƒ„‚ê‚éI[pcms]
+... Ah! Stop! Stop! I can have sex with Risa anytime![pcms]
 
 *6419|
 [fc]
-’|“à‚Ì”n­‚ªA‰½‚ğ‚µ‚æ‚¤‚Æ‚µ‚Ä‚¢‚é‚Ì‚©Šm”F‚µ‚È‚¯‚ê[r]
-‚ÎB[pcms]
+I need to confirm what that idiot Takeuchi is trying to do.[pcms]
 
 *6420|
 [fc]
-’Ç‚¢‚©‚¯‚ÄAƒVƒ‚Ä‚â‚éccB[r]
-‰´—l‚ğƒCƒ‰ƒCƒ‰‚³‚¹‚½–AŒã‰÷‚³‚¹‚Ä‚â‚éccB[pcms]
+I'll chase after him and make him pay...[l][er]
+I'll make him regret irritating me...[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
 
-;//[06020]‚Ö
+;//[06020]ã¸
 [jump target=*06020_TOP storage="06020.ks"]

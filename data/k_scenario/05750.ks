@@ -1,15 +1,15 @@
 
-;//¡ËƒuƒƒbƒN05750w’Eo‚Rx
-;//BG:Šw‰€“ü‚èŒûF—[•ûFÁ“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05750ã€è„±å‡ºï¼“ã€
+;//BG:å­¦åœ’å…¥ã‚Šå£ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05750_TOP
-;[debug_win]‚È‚¤@05750[debug_win_end]
-;*SceneSet|w’Eo‚Rx
+;[debug_win]ãªã†ã€€05750[debug_win_end]
+;*SceneSet|ã€è„±å‡ºï¼“ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05750 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05750 = 1"]
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 
 [bgm009]
 
@@ -24,80 +24,76 @@
 
 *6148|
 [fc]
-‚¨‚©‚µ‚È“z‚ç‚Éo‚­‚í‚·‚±‚Æ‚à‚È‚­A‰´’B‚Í–³–‚ÉZÉ[r]
-‚ÌŠO‚Ü‚Å‚â‚Á‚Ä‚«‚½B[pcms]
+We safely made it outside the school building without[r]encountering any strange people.[pcms]
 
 *6149|
 [fc]
-ƒoƒX‚ÌŠÔ‚ğŠm”F‚µ‚È‚¢‚Æ‚ÈccB[r]
-‚·‚®‚É—ˆ‚é‚Æ‚¢‚¢‚¯‚ÇccB[pcms]
+I need to check the bus schedule...[l][er]
+I hope it comes soon...[pcms]
 
 *6150|
 [fc]
-[ns]‰Á“¡[nse]
-u•\Œ©‚Ä‚­‚é‚©‚çA²”Œ‚Í‚±‚±‚É‚¢‚Ä‚­‚êBˆÀ‘S‚È[r]
-‚æ‚¤‚È‚çŒÄ‚Ô‚æv[pcms]
+[ns]Kato[nse]
+I'll go check the bus schedule, so Saeki, please stay here.[l][er]
+If it's safe, I'll call you.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2557|
 [fc]
 [vo_sa s="sae0670"]
-[ns]²”Œ[nse]
-u‹C‚ğ‚Â‚¯‚Ä‚­‚¾‚³‚¢‚Ëccv[pcms]
+[ns]Saeki[nse]
+Please be careful...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *6151|
 [fc]
-‰´‚ÍZ–å‚É‹ì‚¯Šñ‚èAŒ©‚¦‚é”ÍˆÍ‚É“z‚ç‚ª‚¢‚È‚¢‚©A•Ó[r]
-‚è‚ğŒ©‰ñ‚µ‚ÄŠm”F‚µ‚½B[pcms]
+I ran to the school gate and looked around to see if there[r]were any of them within sight.[pcms]
 
 *6152|
 [fc]
-[ns]‰Á“¡[nse]
-u‚æ‚µA’N‚à‚¢‚È‚¢‚ÈccB‚¨[‚¢I@‘åä•vA’N‚à‚¢[r]
-‚È‚¢‚ºIv[pcms]
+[ns]Kato[nse]
+Alright, there's no one here...[l][er]
+Hey! It's safe, there's no one around![pcms]
 
 *6153|
 [fc]
-‰´‚ÌŒÄ‚Ñ‚©‚¯‚ÉAˆêuA²”Œ‚Í‘–‚è‚¾‚»‚¤‚Æ‚µ‚½‚ªA‚·[r]
-‚®‚É—§‚¿~‚Ü‚Á‚ÄA‚±‚¿‚ç‚ğw‚³‚µ‚½B[pcms]
+In response to my call, Saeki seemed to start running for a[r]moment, but quickly stopped and pointed in my direction.[pcms]
+[l][er]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2558|
 [fc]
 [vo_sa s="sae0671"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñII@Œã‚ëIIv[pcms]
+[ns]Saeki[nse]
+Kato-san!! Behind you!![pcms]
 
 *6154|
 [fc]
-[ns]‰Á“¡[nse]
-uccHv[pcms]
+[ns]Kato[nse]
+...?[pcms]
 
 *6155|
 [fc]
-²”Œ‚ÉŒ¾‚í‚ê‚é‚Ü‚ÜŒã‚ë‚ğU‚è•Ô‚èA‚»‚Ì—‰ğ•s”\‚ÈŒõ[r]
-Œi‚ÉA‰´‚Í©•ª‚Ì–Ú‚ğ‹^‚í‚¸‚É‚Í‚¢‚ç‚ê‚È‚©‚Á‚½B[pcms]
+I couldn't help but turn around as Saeki instructed, and I[r]couldn't believe what I saw.[pcms]
 
 *6156|
 [fc]
-ŠmÀ‚É’N‚à‚¢‚È‚¢‚±‚Æ‚ğŠm”F‚µ‚½‚Ì‚ÉA‚»‚±‚É‚Í‚ ‚Ì‚¨[r]
-‚©‚µ‚È“z‚ç‚Ì‘åŒQ‚ªŒ»‚ê‚Ä‚¢‚½‚Ì‚¾B[pcms]
+I had confirmed that there was definitely no one there, but[r]a large group of those strange people had appeared.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 [ChrSetEx layer=5 chbase="zom_01_b"][ChrSetXY layer=5 x=200 y=0]
 [ChrSetEx layer=3 chbase="zom_05_b"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=4 chbase="zom_04_b"][ChrSetXY layer=4 x=400 y=0]
@@ -107,31 +103,29 @@
 
 *6157|
 [fc]
-‚ÈA‰½‚Å‚¾ccH[r]
-‚³‚Á‚«‚Ü‚ÅA’N‚à‚¢‚È‚©‚Á‚½‚Ì‚ÉccB[r]
-‚±‚¢‚Â‚çAˆê‘Ì‚Ç‚±‚©‚çccB[pcms]
+W-Why...? Just a moment ago, there was no one here...[l][er]
+Where did these people come from...?[pcms]
 
 *6158|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2559|
 [fc]
 [vo_sa s="sae0672"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñ“¦‚°‚ÄII@‘‚­IIv[pcms]
+[ns]Saeki[nse]
+Kato-san, run away!! Quickly!![pcms]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
 *6159|
 [fc]
-©•ª‚ğŒÄ‚Ôº‚ÅA¬—‚©‚ç‰ä‚É•Ô‚Á‚½‰´‚ÍAQ‚Ä‚Ä²”Œ[r]
-‚ª‚¢‚é•û‚Ö‘–‚Á‚Ä–ß‚Á‚½B[pcms]
+In response to the voice calling my name, I regained my[r]composure from the chaos and hurriedly ran back towards[r]where Saeki was.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -139,8 +133,8 @@
 
 ;//blackout
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05760]‚Ö
+;//[05760]ã¸
 [jump target=*05760_TOP storage="05760.ks"]

@@ -1,16 +1,16 @@
 
-;//¡ËƒuƒƒbƒN05150w•ÛŒ’º‚Å‚ÌŒû˜_x
-;//BG:“Áê‹³º˜L‰ºF–éF“_“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05150ã€ä¿å¥å®¤ã§ã®å£è«–ã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05150_TOP
-;[debug_win]‚È‚¤@05150[debug_win_end]
-;*SceneSet|w•ÛŒ’º‚Å‚ÌŒû˜_x
+;[debug_win]ãªã†ã€€05150[debug_win_end]
+;*SceneSet|ã€ä¿å¥å®¤ã§ã®å£è«–ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05150 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05150 = 1"]
 
 ;	/*
-;	;//ôFBGM007
+;	;//â™ªï¼šBGM007
 ;	[bgm007]
 ;	*/
 
@@ -25,101 +25,100 @@
 
 *4920|
 [fc]
-[ns]‰Á“¡[nse]
-u‚±‚±‚©‚ç•·‚±‚¦‚Ä‚­‚éccv[pcms]
+[ns]Kato[nse]
+I can hear it from here...[pcms]
 
 *4921|
 [fc]
-‘ÌˆçŠÙ‚Ö‚Æ‘±‚­“n‚è˜L‰º‚Ìè‘OB•ÛŒ’º‚Ì‘O‚Ü‚Å—ˆ‚½‚Æ[r]
-‚±‚ë‚ÅA•·‚±‚¦‚Ä‚­‚éº‚ª‘å‚«‚­‚È‚Á‚½B[pcms]
+I arrived at the front of the corridor that leads to the[r]gymnasium.[l][er]
+Just before reaching the health room, the voices I hear[r]became louder.[pcms]
+[l][er]
 
 *4922|
 [fc]
-²”Œ‚Ìè‚ÉA—Í‚ª‚±‚à‚éB‰´‚àS‘Ÿ‚Ì“®‚«‚ª‘¬‚­‚È‚Á‚Ä[r]
-‚«‚Ä‚¢‚½B[pcms]
+Saeki's hand was filled with strength.[l][er]
+My own heart rate started to quicken as well.[pcms]
+[l][er]
 
 *4923|
 [fc]
-w•ÛŒ’º‚©‚ç•·‚±‚¦‚éºx‚È‚ñ‚Ä‰\A¡‚Ü‚Å•·‚¢‚½‚±‚Æ[r]
-‚ª‚È‚¢ccB[pcms]
+I've never heard rumors like Voices coming from the health[r]room before...[pcms]
 
 *4924|
 [fc]
-‚à‚µ‚©‚µ‚ÄA–{“–‚É—H—ì‚È‚Ì‚©ccH[r]
-‰´‚à‚Æ‚¤‚Æ‚¤AwŒ©‚¦‚élx‚É‚È‚Á‚¿‚Ü‚¤‚Ì‚©ccB[pcms]
+Could it be that they're really ghosts...?[l][er]
+Am I finally becoming one of the people who can see them...?[pcms]
 
 *4925|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚êccH@‚±‚Ìºccv[pcms]
+[ns]Kato[nse]
+Huh...? This voice...[pcms]
 
 *4926|
 [fc]
-ƒhƒA‚É¨‚ğ‹ß‚Ã‚¯‚Ä‚İ‚é‚ÆA•ÛŒ’º‚Ì’†‚©‚çA’j‚Æ—‚Ì[r]
-Œ¾‚¢‡‚Á‚Ä‚¢‚éº‚ª•·‚±‚¦‚Ä‚­‚éB[pcms]
+I bring my ear closer to the door and I can hear the voices[r]of a man and a woman arguing inside the health room.[pcms]
 
 *4927|
 [fc]
-‚µ‚©‚à‚»‚Ìº‚ÍA‚Ç‚¿‚ç‚à•·‚«Šo‚¦‚Ì‚ ‚é‚à‚Ì‚¾‚Á‚½B[pcms]
+Moreover, both of those voices were familiar to me.[pcms]
 
 [fadeoutbgm time=500]
 
 *4928|
 [fc]
-[ns]‰Á“¡[nse]
-u^–ç‚ÆccV“¹æ¶ccHv[pcms]
+[ns]Kato[nse]
+Shinya and... Sensei Shindou...?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std335|
 [fc]
 ;[vo_sa s="sae0000"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 [bgm001]
 
 *4929|
 [fc]
-’m‚Á‚Ä‚¢‚élŠÔ‚Ìº‚¾‚Æ‚í‚©‚Á‚ÄˆÀS‚µ‚½‚Ì‚©A‰´‚ÌŒã[r]
-‚ë‚Å²”Œ‚ª’·‚¢—­‘§‚ğ‚Â‚¢‚½B[pcms]
+Saeki let out a long sigh behind me, as if relieved to[r]recognize the voices of people she knew.[pcms]
 
 *4930|
 [fc]
-‰½‚ğŒ¾‚¢‡‚Á‚Ä‚ñ‚¾ccH@‚æ‚­•·‚±‚¦‚È‚¢‚ÈccB[pcms]
+What are they arguing about...?[l][er]
+I can't hear it well...[pcms]
 
 *4931|
 [fc]
-‘Šè‚Í’m‚Á‚Ä‚¢‚élŠÔ‚ÅA‚µ‚©‚à‘{‚µ‚Ä‚¢‚½lŠÔ‚¾B‚í[r]
-‚´‚í‚´•·‚«¨‚ğ—§‚Ä‚Ä‚¢‚é•K—v‚Í‚È‚¢B[pcms]
+The person they are arguing with is someone they know, and[r]moreover, someone they were looking for.[l][er]
+There's no need to eavesdrop on purpose.[pcms]
 
 *4932|
 [fc]
-[ns]‰Á“¡[nse]
-u“ü‚é‚¼v[pcms]
+[ns]Kato[nse]
+I'm going in.[pcms]
 
 *4933|
 [fc]
-‚Ç‚¤‚¹^–ç‚ªAŸè‚É‚¢‚È‚­‚È‚Á‚½‚±‚Æ‚ğAV“¹æ¶‚É[r]
-“{‚ç‚ê‚Ä‚¢‚é‚¾‚¯‚¾‚ë‚¤B[r]
-“ü‚Á‚Ä‚¢‚Á‚Ä‚à–â‘è‚È‚¢”¤‚¾B[pcms]
+Anyway, it's probably just Shinya getting scolded by Sensei[r]Shindou for disappearing on his own.[l][er]
+There shouldn't be any problem with going in.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;//SE:”à‚ğŠJ‚¯‚é
+;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
 [se0 storage="se008"]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 ;//blackout
 
-;//[05160]‚Ö
+;//[05160]ã¸
 [jump target=*05160_TOP storage="05160.ks"]

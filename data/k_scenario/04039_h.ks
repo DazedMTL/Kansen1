@@ -1,42 +1,42 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN04039wƒ‰ƒWƒI‰ñûx
-;//BG:‰®ãF’©
-;//“oêl•¨GålŒöE—D
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04039ã€ãƒ©ã‚¸ã‚ªå›åã€
+;//BG:å±‹ä¸Šï¼šæœ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *04039_H_TOP
-;[debug_win]‚È‚¤@04039_H[debug_win_end]
+;[debug_win]ãªã†ã€€04039_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 ;[if exp="tf.scene_mode == 0"][jump target=*04039][endif]
 ;[winset]
-;mm ‚à‚Æ‚à‚Æ‚±‚±‚©‚ç‚¶‚á‚È‚¢‚İ‚½‚¢
+;mm ã‚‚ã¨ã‚‚ã¨ã“ã“ã‹ã‚‰ã˜ã‚ƒãªã„ã¿ãŸã„
 
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *04039
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04039 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04039 = 1"]
 
-;*SceneSet|wƒ‰ƒWƒI‰ñûx
+;*SceneSet|ã€ãƒ©ã‚¸ã‚ªå›åã€
 
-;//flag:—Dƒ‹[ƒgbadendibad‚Uj@•\¦
+;//flag:å„ªãƒ«ãƒ¼ãƒˆbadendï¼ˆbadï¼–ï¼‰ã€€è¡¨ç¤º
 
-;//ôFBGM001ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM001ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 
 [fadeoutbgm time=500]
 [wait_c time=500]
-;//ôFBGM009ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM009ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 
 [bgm009]
 
@@ -47,92 +47,86 @@
 
 *4465|
 [fc]
-‚µ‚Î‚ç‚­‚ÌŠÔA“ñl‚ÅŠX‚Ìã‹ó‚ğ’­‚ß‚Ä‚¢‚½‚ªA”òs‹@[r]
-‚àAƒwƒŠƒRƒvƒ^[‚àA‚È‚©‚È‚©‰´’B‚Ì‚¢‚é•û‚Ö‚Í”ò‚ñ‚Å[r]
-‚±‚È‚¢B[pcms]
+We had been gazing at the sky above the city together for a[r]while, but neither airplanes nor helicopters were flying[r]towards our location.[pcms]
 
 *4466|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ü‚¾‚©‚æccv[pcms]
+[ns]Kato[nse]
+Are they still not here...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1902|
 [fc]
 [vo_ya s="yama0781"]
-[ns]RŠİ[nse]
-u‰Ä‹x‚İ‚¾‚µAŠwZ‚É‚Í’N‚à‚¢‚È‚¢‚Á‚ÄAv‚Á‚Ä‚é‚Ì‚©[r]
-‚àccv[pcms]
+[ns]Yamagishi[nse]
+Maybe they think that since it's summer vacation, there's no[r]one at school...[pcms]
 
 *4467|
 [fc]
-•sˆÀ‚»‚¤‚ÈŠç‚ğ‚·‚éRŠİ‚³‚ñ‚ÉA‹C‚ª•´‚ê‚ê‚Î‚ÆA‰´‚Í[r]
-ˆê‚Â’ñˆÄ‚ğ‚µ‚½B[pcms]
+I made a suggestion to Yamagishi-san, who had an uneasy[r]expression, in an attempt to distract her.[pcms]
 
 *4468|
 [fc]
-[ns]‰Á“¡[nse]
-uRŠİ‚³‚ñAƒ‰ƒWƒIæ‚è‚És‚Á‚Ä‚İ‚È‚¢Hv[pcms]
+[ns]Kato[nse]
+Yamagishi-san, how about going to get the radio?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1903|
 [fc]
 [vo_ya s="yama0782"]
-[ns]RŠİ[nse]
-uƒ‰ƒWƒIHv[pcms]
+[ns]Yamagishi[nse]
+Radio?[pcms]
 
 *4469|
 [fc]
-[ns]‰Á“¡[nse]
-uƒ‰ƒWƒI‚ğ•·‚¢‚Ä‚İ‚ÄA‚±‚Ì‘›‚¬‚ª‚à‚¤û‚Ü‚Á‚Ä‚é‚æ‚¤[r]
-‚È‚çAˆÀS‚µ‚Ä‹~•‚ğ‘Ò‚Á‚Ä‚ç‚ê‚é‚¾‚ëHv[pcms]
+[ns]Kato[nse]
+Why don't we try listening to the radio?[l][er]
+If it sounds like the commotion has settled down, we can[r]wait for rescue with peace of mind, right?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1904|
 [fc]
 [vo_ya s="yama0783"]
-[ns]RŠİ[nse]
-u‚Å‚àcc‚ ‚Ìƒ‰ƒWƒIAOŠK‚Ì‹³º‚É’u‚«‚Á‚Ï‚È‚µ‚È‚ñ[r]
-‚¾‚æH@æ‚è‚És‚­“r’†‚ÅA‚Ü‚½•Ï‚Èl’B‚ÉP‚í‚ê‚½‚ç[r]
-‚Ç‚¤‚·‚é‚ÌHv[pcms]
+[ns]Yamagishi[nse]
+But... that radio is left in the third-floor classroom, you[r]know?[l][er]
+What if we get attacked by strange people again on the way[r]to get it?[pcms]
 
 *4470|
 [fc]
-[ns]‰Á“¡[nse]
-uƒ_ƒbƒVƒ…‚Ås‚¯‚Î‘åä•v‚¾‚Á‚ÄB‚»‚ê‚ÉA‰´‚ª‚Â‚¢‚Ä[r]
-‚é‚æv[pcms]
+[ns]Kato[nse]
+It'll be fine if we go quickly.[l][er]
+Besides, I'll be with you.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1905|
 [fc]
 [vo_ya s="yama0784"]
-[ns]RŠİ[nse]
-u‚¤‚ñccv[pcms]
+[ns]Yamagishi[nse]
+Yeah...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 
 [se0 storage="se005"]
 
 *4471|
 [fc]
-•sˆÀŠç‚Ì‚Ü‚Ü‚ÌRŠİ‚³‚ñ‚Ìè‚ğˆø‚¢‚ÄA‰´‚ÍZÉ“à‚É‘±[r]
-‚¢‚Ä‚¢‚éo“ü‚èŒû‚ÖŒü‚©‚Á‚½B[pcms]
+Holding Yamagishi-san's hand, who still had an uneasy[r]expression, I headed towards the entrance that leads to the[r]school building.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -144,7 +138,7 @@
 
 ;//blackout
 
-;//[04040]‚Ö
+;//[04040]ã¸
 [jump target=*04040_H_TOP storage="04040_H.ks"]
 
 

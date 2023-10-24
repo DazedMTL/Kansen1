@@ -1,27 +1,27 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN04031w‚½‚¢‚Ü‚Â3x
-;//BG:“Áê‹³º˜L‰ºF’‹i’©Œ“—pj
-;//BG:Šw‰€“ü‚èŒûF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöEƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04031ã€ãŸã„ã¾ã¤3ã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//BG:å­¦åœ’å…¥ã‚Šå£ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *04031_TOP
-;[debug_win]‚È‚¤@04031[debug_win_end]
+;[debug_win]ãªã†ã€€04031[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04031 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04031 = 1"]
 
-;*SceneSet|w‚½‚¢‚Ü‚Â‚Rx
+;*SceneSet|ã€ãŸã„ã¾ã¤ï¼“ã€
 
-;//flag:—Dƒ‹[ƒgƒtƒ[@bad‚S@•\¦
+;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€badï¼”ã€€è¡¨ç¤º
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 
 ;//[bgm009]
 
-;//bg008a+zombie_003@ˆê‘Ì
+;//bg008a+zombie_003ã€€ä¸€ä½“
 
 ;	[ChrSetEx layer=1 chbase="zom_01_a"]
 ;	[ChrSetXY layer=1 x=200 y=0]
@@ -32,36 +32,37 @@
 
 *4251|
 [fc]
-;mm 02135‚Æ‡‚í‚¹‚Äw‚±‚¢‚Âx‚É‚µ‚Ä‚¨‚­
-;‚±‚ê‚ğg‚¦‚ÎA–Ê”’‚¢‚æ‚¤‚É‚ ‚¢‚Â‚ç‚ğ’Ç‚¢•¥‚¦‚éB[r]
-‚±‚ê‚ğg‚¦‚ÎA–Ê”’‚¢‚æ‚¤‚É‚±‚¢‚Â‚ç‚ğ’Ç‚¢•¥‚¦‚éB[r]
-RŠİ‚³‚ñ‚Æ^–ç‚É‚à‚½‚¹‚ê‚ÎA‘SˆõA–³–‚É‚±‚±‚©‚ç[r]
-“¦‚°o‚¹‚é”¤‚¾B
+;mm 02135ã¨åˆã‚ã›ã¦ã€ã“ã„ã¤ã€ã«ã—ã¦ãŠã
+With this, we can easily drive them away.[l][er]
+With this, we can easily drive these guys away.[l][er]
+If we give Yamagishi-san and Shinya one too, everyone will[r]be safe from here on out.[pcms]
+[l][er]
+é€ƒã’å‡ºã›ã‚‹ç­ˆã ã€‚
 [pcms]
 
 *4252|
 [fc]
-[ns]‰Á“¡[nse]
-uæ¶A‚±‚Ì¼–¾ARŠİ‚³‚ñ‚Æ^–ç‚Ì•ª‚à‚Á‚Ä‚¢‚«‚Ü[r]
-‚¹‚ñ‚©H@•Ší‚Í‘½‚¢•û‚ª‚¢‚¢‚Æv‚¤‚ñƒX‚¯‚Çv[pcms]
+[ns]Kato[nse]
+Sensei, why don't we bring these torches for Yamagishi-san[r]and Shinya too?[l][er]
+I think it's better to have more weapons.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_f_f_03"]
 [ChrSetXY layer=1 x=130 y=0]
 [ChrSetParts layer=1 chface="risa_f_f_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1766|
 [fc]
 [vo_ri s="risa0439"]
-[ns]V“¹[nse]
-u‚»‚¤‚Ëcc“ñl‚Ì•ª‚à‚Á‚Äs‚«‚Ü‚µ‚å‚¤v[pcms]
+[ns]Shindou[nse]
+Yes... Let's bring enough for the two of them too.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -71,10 +72,9 @@
 
 *4253|
 [fc]
-‰´‚Ææ¶‚ÍA“ï‚È‚­RŠİ‚³‚ñ‚Æ^–ç‚Ì•ª‚Ì¼–¾‚ğè‚É“ü[r]
-‚êA“ñŠK‚ÌˆÀ‘S’n‘Ñ‚Ö‚Æ‘–‚Á‚½B[pcms]
+Sensei and I easily obtained torches for Yamagishi-san and[r]Shinya, and we ran to the safe zone on the second floor.[pcms]
 
-;//[04032]‚Ö
+;//[04032]ã¸
 [jump target=*04032_H_TOP storage="04032_H.ks"]
 
 

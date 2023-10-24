@@ -1,20 +1,20 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02142w‹”N‚Ì‘z‚¢F‘I‘ğx
-;//BG:‰®ãF—[•û
-;//“oêl•¨GålŒöE—D
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02142ã€å»å¹´ã®æƒ³ã„ï¼šé¸æŠã€
+;//BG:å±‹ä¸Šï¼šå¤•æ–¹
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02142_TOP
-;[debug_win]‚È‚¤@02142[debug_win_end]
+;[debug_win]ãªã†ã€€02142[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02142 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02142 = 1"]
 
-;*SceneSet|w‹”N‚Ì‘z‚¢x
+;*SceneSet|ã€å»å¹´ã®æƒ³ã„ã€
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 
 ;[fadeoutbgm time=500]
 
@@ -23,67 +23,61 @@
 [bg storage="bg22e"]
 [trans_c cross time=1000]
 
-;//SE:’‚Ì‰¹ƒ‹[ƒv
+;//SE:è™«ã®éŸ³ãƒ«ãƒ¼ãƒ—
 
 [se0 storage="se018" loop=true]
 
 *2595|
 [fc]
-‰½‚à’‚ç‚¸A‚µ‚Î‚ç‚­Œ©ã‚°‚½‚Ü‚Ü‚¾‚Á‚½‹ó‚ªA’iX‚Æ[r]
-ƒIƒŒƒ“ƒWF‚Éõ‚Ü‚è‚¾‚µ‚½B[pcms]
+The sky, which had been silent and gazing up for a while,[r]gradually began to be dyed orange.[pcms]
 
 *2596|
 [fc]
-‚»‚Ì‹ó‚ÌF‚ÉA‰´‚Í‹”NA‚±‚±‚Å‹ô‘RŒ©‚©‚¯‚½ŒõŒi‚ğv[r]
-‚¢o‚µ‚½B[pcms]
+The color of the sky reminded me of a scene I happened to[r]see here last year.[pcms]
 
 *2597|
 [fc]
-RŠİ‚³‚ñ‚ªA–¼‘O‚àŠç‚à’m‚ç‚È‚¢i‰´‚ª’m‚ç‚È‚¢‚¾‚¯‚È[r]
-‚ñ‚¾‚¯‚Çccj’jq‚É”’‚³‚ê‚Ä‚¢‚é‚Æ‚±‚ë‚¾B[pcms]
+Yamagishi-san is being confessed to by a guy whose name and[r]face I don't know (or rather, I'm the only one who doesn't[r]know...).[pcms]
 
 *2598|
 [fc]
-w„A‹C‚É‚È‚é’jq‚ª‚¢‚é‚Ìx[pcms]
+I have a guy I'm interested in.[pcms]
 
 *2599|
 [fc]
-‚ ‚ÌARŠİ‚³‚ñ‚Í‘Šè‚Ì’jq‚É‚»‚¤Œ¾‚Á‚½B[r]
-‚»‚Ìw‹C‚É‚È‚é’jqx‚Æ‚¢‚¤‚Ì‚ÍAŒ‹‹Ç’N‚¾‚Á‚½‚Ì‚¾‚ë[r]
-‚¤‚©B[pcms]
+I wonder who that guy she's interested in was that[r]Yamagishi-san mentioned back then.[pcms]
 
 *2600|
 [fc]
-RŠİ‚³‚ñ‚Æ“ñl‚«‚è‚Ì¡A•·‚¢‚Ä‚İ‚éƒ`ƒƒƒ“ƒX‚¾‚Æ‚Ív[r]
-‚¤‚ªA‚»‚¤‚¢‚¤ó‹µ‚Å‚à‚È‚¢‚æ‚¤‚È‹C‚à‚·‚é‚µccB[pcms]
+I think now is a chance to ask Yamagishi-san while we're[r]alone, but it doesn't seem like the right situation for[r]that...[pcms]
 
 [stop_se0]
 
-;//¦‘I‘ğˆ
-;//Eƒ_ƒ‚à‚Æ‚Å•·‚¢‚Ä‚İ‚æ‚¤;//[02143]‚Ö
-;//E‚â‚Á‚Ï‚è‚â‚ß‚Ä‚¨‚±‚¤;//[02144]‚Ö
+;//â€»é¸æŠè‚¢
+;//ãƒ»ãƒ€ãƒ¡ã‚‚ã¨ã§èã„ã¦ã¿ã‚ˆã†;//[02143]ã¸
+;//ãƒ»ã‚„ã£ã±ã‚Šã‚„ã‚ã¦ãŠã“ã†;//[02144]ã¸
 
 
-*SEL01|ƒ_ƒ‚à‚Æ‚Å^‚â‚Á‚Ï‚è‚â‚ß‚Ä‚¨‚±‚¤
+*SEL01|ãƒ€ãƒ¡ã‚‚ã¨ã§ï¼ã‚„ã£ã±ã‚Šã‚„ã‚ã¦ãŠã“ã†
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'ƒ_ƒ‚à‚Æ‚Å•·‚¢‚Ä‚İ‚æ‚¤'"]
-[eval exp="f.seltext04 = '‚â‚Á‚Ï‚è‚â‚ß‚Ä‚¨‚±‚¤'"]
+[eval exp="f.seltext02 = 'ãƒ€ãƒ¡ã‚‚ã¨ã§èã„ã¦ã¿ã‚ˆã†'"]
+[eval exp="f.seltext04 = 'ã‚„ã£ã±ã‚Šã‚„ã‚ã¦ãŠã“ã†'"]
 
 
-[if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
-	;‘I‘ğˆ“à—e‚ğƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
+[if exp="tf.sys_sub == 0 || tf.é¸æŠè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
+	;é¸æŠè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[—š—ğo—Í•œ‹A]
+[å±¥æ­´å‡ºåŠ›å¾©å¸°]
 
-;‘I‘ğˆƒx[ƒX
+;é¸æŠè‚¢ãƒ™ãƒ¼ã‚¹
 [selbase]
-;•¶š‚Ì¶ƒ}[ƒWƒ“
+;æ–‡å­—ã®å·¦ãƒãƒ¼ã‚¸ãƒ³
 [eval exp="sf.seltext_x = 250"]
 
 [sel02 target=*SEL00_02142_DAME]

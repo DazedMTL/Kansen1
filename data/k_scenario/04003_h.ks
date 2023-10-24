@@ -1,18 +1,18 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN04003w‹¶—‚Ì‰ƒx
-;//BG:‘Ìˆç—p‹ïºF–é^“_“”
-;//“oêl•¨GålŒöE—DE•ü”üEƒ]ƒ“ƒr‘½”E‹Câ‚µ‚Ä‚¢
-;//‚é[ns]“c’†[nse]
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04003ã€ç‹‚ä¹±ã®å®´ã€
+;//BG:ä½“è‚²ç”¨å…·å®¤ï¼šå¤œï¼ç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»æœ‹ç¾ãƒ»ã‚¾ãƒ³ãƒ“å¤šæ•°ãƒ»æ°—çµ¶ã—ã¦ã„
+[ns]Tanaka[nse]
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *04003_H_TOP
-;[debug_win]‚È‚¤@04003_H[debug_win_end]
+;[debug_win]ãªã†ã€€04003_H[debug_win_end]
 
-;mm ‚±‚Ì‰ñ‘z‚ ‚½‚Ü‚©‚Ô‚Á‚Ä‚é‚µŠÔ‚É’ÊíƒV[ƒ“’·‚¢‚©‚ç04013‚©‚ç‚Å‚¢‚¢‚ñ‚¶‚á‚È‚¢‚©‚È‚Ÿ
-;	;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;mm ã“ã®å›æƒ³ã‚ãŸã¾ã‹ã¶ã£ã¦ã‚‹ã—é–“ã«é€šå¸¸ã‚·ãƒ¼ãƒ³é•·ã„ã‹ã‚‰04013ã‹ã‚‰ã§ã„ã„ã‚“ã˜ã‚ƒãªã„ã‹ãªã
+;	;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 ;	[eval exp="sf.SRP16 = 1"][if exp="tf.scene_mode == 0"][jump target=*04003][endif]
 ;	;;[winset]
 ;	[bgm002]
@@ -21,32 +21,32 @@
 
 ;;;[sysbt_meswin]
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *04003
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04003 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04003 = 1"]
 
-;*SceneSet|w‹¶—‚Ì‰ƒx
+;*SceneSet|ã€ç‹‚ä¹±ã®å®´ã€
 
-;//ôFBGM002
+;//â™ªï¼šBGM002
 
 [bgm002]
 
-;//SE:”à‚ğŠJ‚¯‚é
+;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
 
 [se0 storage="se008"]
 
 *3739|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Èccv[pcms]
+[ns]Kato[nse]
+N...[pcms]
 
 ;	/*
 ;	[ChrSetEx layer=1 chbase="yuu_c_c_09"]
@@ -54,18 +54,17 @@
 ;	[trans_c cross time=150]
 ;	*/
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1471|
 [fc]
 [vo_ya s="yama0556"]
-[ns]RŠİ[nse]
-u‚«‚á‚ ‚ ‚ ‚ ‚ Iv[pcms]
+[ns]Yamagishi[nse]
+Kyaaaaaa![pcms]
 
 *3742|
 [fc]
-‘Ìˆç‘qŒÉ‚Ì”à‚ğŠJ‚¯‚½‰´‚ÍA‚»‚Ìê‚ÌŒõŒi‚É©•ª‚Ì–Ú‚ğ[r]
-‹^‚Á‚½B[pcms]
+I opened the door to the gym storage room and couldn't[r]believe my eyes at the scene in front of me.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
@@ -82,174 +81,172 @@
 
 ;;;[sysbt_meswin]
 
-;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
 
 [se1 storage="se061" loop=true]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
 
 [se0 storage="se059" loop=true]
 
 *v1472|
 [fc]
 [vo_to s="tomo0192"]
-[ns]ŒÜ\—’[nse]
-u‚ñ‚ñ‚ÁI@‚°‚Í‚ÁccI@‚¨‚ËA‚ªcc‚ñ‚Ş‚£I@‚ñ[r]
-‚®‚Ácc‚¤‚¦‚¥‚ÁA‚°‚Ù‚ÁI@cc‚àA‚â‚ßccv[pcms]
+[ns]Igarashi[nse]
+Nnn! Geha...! Onee, ga... nmuu![l][er]
+Nguu... uee, geho! ... Mo, yame...[pcms]
 
 *3743|
 [fc]
-[ns]’jq¶“k‚i[nse]
-u‚­A‚¿cc‚Í‚ÈA‚·‚ñ‚¶‚á‚ËA‚¥‚æccv[pcms]
+[ns]Male Student J[nse]
+D-Don't... touch... me like that...[pcms]
 
 *3744|
 [fc]
-[ns]’jq¶“k‚h[nse]
-u‚¤A‚ ‚Ÿ``cc‚ÜA‚ñ‚±‚§`cc‚Ü‚ñA‚±‚¾‚Ÿ`v[pcms]
+[ns]Male Student I[nse]
+Ugh, ahh... pu... ssy... puh, it's...[l][er]
+pussy...[pcms]
 
 *3745|
 [fc]
-‰´’B‚Ì‘O‚ÉŒ»‚ê‚½M‚¶‚ª‚½‚¢ŒõŒi‚ÍAŒÜ\—’ƒTƒ“‚ª—S“ñ[r]
-‚Å‚Í‚È‚¢’j‚É”Æ‚³‚ê‚Ä‚¢‚é‚Æ‚¢‚¤‚à‚Ì‚¾‚Á‚½B[pcms]
+The unbelievable scene that appeared before us was Igarashi-[r]san being violated by a man who wasn't Yuuji.[pcms]
 
 *3746|
 [fc]
-”à‚ªŠJ‚©‚ê‚½‚Ì‚É‚àA‰´’B‚ªŒ©‚Ä‚¢‚é‚Ì‚É‚àA‘S‚­‹C‚É[r]
-‚©‚¯‚¸A’j’B‚ÍŒÜ\—’ƒTƒ“‚ğ”Æ‚µ‘±‚¯‚éB[pcms]
+Despite the door being opened and us watching, the men[r]continued to violate Igarashi-san without any concern.[pcms]
 
 *3747|
 [fc]
-[ns]’jq¶“k‚i[nse]
-u‚à‚Á‚Æ‚¨A‚­‚ÜA‚ÅA‚­‚íA‚¦‚ëA‚¨‚çA‚Ÿccv[pcms]
+[ns]Male Student J[nse]
+More... bear... with... me... ero...[l][er]
+I... ahh...[pcms]
 
 *v1473|
 [fc]
 [vo_ya s="yama0557"]
-[ns]RŠİ[nse]
-u‚ cc‚ ‚ ‚ ccv[pcms]
+[ns]Yamagishi[nse]
+Ah... Ahhh...[pcms]
 
 *v1474|
 [fc]
 [vo_to s="tomo0193"]
-[ns]ŒÜ\—’[nse]
-u‚ñ‚§‚Ácc‚£‚®A‚ñ‚®‚£cc‚ÁI@‚°‚Ù‚ÁA‚ª‚Í‚ÁI[r]
-‚½‚·‚¯A‚Äcc‚ñ‚Ô‚£‚ÁIv[pcms]
+[ns]Igarashi[nse]
+Nghh... ugh, ngguu...! Geho, gahaa![l][er]
+Help, someone... nbuu![pcms]
 
 *3748|
 [fc]
-[ns]’jq¶“k‚h[nse]
-u‚®A‚É‚ã‚®A‚É‚ãA‚µ‚Äcc‚®‚¿‚ã‚®A‚¿‚ã‚Åcc‚«[r]
-‚à‚¿‚¢A‚¡A‚±‚Ì‚Ü‚ñA‚±‚§`ccv[pcms]
+[ns]Male Student I[nse]
+G-nyugu, nyu, shite... guchugu, chu de...[l][er]
+kimochii, i, kono manko...[pcms]
 
 *v1475|
 [fc]
 [vo_ya s="yama0558"]
-[ns]RŠİ[nse]
-u‚ cc‚ ‚È‚½’BI@‰½‚µ‚Ä‚é‚ÌII@ƒgƒ‚‚¿‚á‚ñ‚ğc[r]
-c—£‚µ‚È‚³‚¢Iv[pcms]
+[ns]Yamagishi[nse]
+Ah... you guys! What are you doing!![l][er]
+Let go of Tomo-chan![pcms]
 
 *v1476|
 [fc]
 [vo_to s="tomo0194"]
-[ns]ŒÜ\—’[nse]
-u‚Ô‚ ‚ÁccA‚Ğ‚Ácc—D‚¿‚ácc‚ñI@‚½‚·cc‚¯‚Ä[r]
-I@‚ñ‚Ô‚ ‚ÁIv[pcms]
+[ns]Igarashi[nse]
+Buahh... hi... Yuu-chan! Tasu...[l][er]
+kete! Nbuahh![pcms]
 
 *v1477|
 [fc]
 [vo_to s="tomo0195"]
-[ns]ŒÜ\—’[nse]
-u‚ñ‚Á‚®A‚ñ‚Ô‚ÁI@‚ñ‚¤‚£I@‚°‚Ù‚°‚Ù‚ÁI@‚ª‚Ó‚Á[r]
-cc‚¢A‚â‚Ÿcc‚Ê‚¢A‚Ä‚¥ccv[pcms]
+[ns]Igarashi[nse]
+Nghh... ngguu! Nuuh! Geho geho![l][er]
+Gafu... i, nooo... nui, teee...[pcms]
 
 *3749|
 [fc]
-‹ê‚µ‚»‚¤‚É™ï‚«AŠç‚ğ˜c‚ß‚éŒÜ\—’ƒTƒ“‚ÌŒü‚±‚¤‚ÉA[r]
-—S“ñ‚ª°‚É“|‚ê‚Ä‚¢‚é‚Ì‚ªŒ©‚¦‚½B[pcms]
+I could see Yuuji collapsed on the floor beyond Igarashi-[r]san, who was groaning in pain and contorting her face.[pcms]
 
 *3750|
 [fc]
-‚±‚¢‚Â‚ç‚ÉP‚í‚ê‚½‚Ì‚©ccH[pcms]
+Did they attack her...?[pcms]
 
 *3751|
 [fc]
-[ns]‰Á“¡[nse]
-uRŠİ‚³‚ñAæ¶I@V“¹æ¶‚É•ñ‚¹‚Ä‚«‚ÄIIv[pcms]
+[ns]Kato[nse]
+Yamagishi-san, sensei! Come and inform Shindou-sensei!![pcms]
 
 *v1478|
 [fc]
 [vo_ya s="yama0559"]
-[ns]RŠİ[nse]
-u‚ ccA‚ ccv[pcms]
+[ns]Yamagishi[nse]
+Ah... ah...[pcms]
 
 *3752|
 [fc]
-[ns]‰Á“¡[nse]
-uRŠİ‚³‚ñ‚ÁIv[pcms]
+[ns]Kato[nse]
+Yamagishi-san![pcms]
 
 *v1479|
 [fc]
 [vo_ya s="yama0560"]
-[ns]RŠİ[nse]
-u‚¦A‚ A‚¦‚Æccv[pcms]
+[ns]Yamagishi[nse]
+Um, ah, well...[pcms]
 
 *3753|
 [fc]
-[ns]‰Á“¡[nse]
-uV“¹æ¶‚É•ñ‚¹‚ÄAŒx@ŒÄ‚ñ‚Å‚à‚ç‚¤‚ñ‚¾IIv[pcms]
+[ns]Kato[nse]
+Inform Shindou-sensei and call the police!![pcms]
 
 *v1480|
 [fc]
 [vo_ya s="yama0561"]
-[ns]RŠİ[nse]
-u‚¤A‚¤‚ñA‚í‚©‚Á‚½ccv[pcms]
+[ns]Yamagishi[nse]
+U-uh, okay...[pcms]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 
 [overflow_se storage="se005"]
 
 *3754|
 [fc]
-ŒÜ\—’ƒTƒ“‚©‚ç–Ú‚ª—£‚¹‚È‚¢—lq‚ÅARŠİ‚³‚ñ‚Í”•àŒã[r]
-‚¸‚³‚Á‚Ä‚©‚çA‘ÌˆçŠÙ‚Ìo“ü‚èŒû‚Ö‘–‚Á‚½B[pcms]
+Yamagishi-san, who couldn't take her eyes off Igarashi-san,[r]took a few steps back and then ran towards the entrance of[r]the gymnasium.[pcms]
 
 *3755|
 [fc]
-[ns]’jq¶“k‚h[nse]
-u‚¤A‚ ‚Ÿ``cc‚ÜA‚ñ‚±‚§`cc‚¢‚¢`ccv[pcms]
+[ns]Male Student I[nse]
+Ugh, ahh... pussy... feels so good...[pcms]
 
 *v1481|
 [fc]
 [vo_to s="tomo0196"]
-[ns]ŒÜ\—’[nse]
-u‚¤‚Ÿ‚ ‚ ‚ ccB‚à‚¤cc‚â‚ß‚Äccv[pcms]
+[ns]Igarashi[nse]
+Ugh, ahh... stop... please...[pcms]
 
 *3756|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨‘O‚çII@‚¢‚¢‰ÁŒ¸‚Év[pcms]
+[ns]Kato[nse]
+You guys!! Cut it out already![pcms]
 
-;//SE:‰£‚é
+;//SE:æ®´ã‚‹
 
 [overflow_se storage="se026"]
 
 ;//redflash
 
-[Ôƒtƒ‰]
+[èµ¤ãƒ•ãƒ©]
 
 ;g[evcg storage="HEV_016_d"]
 ;g[trans_c cross time=500]
 
-;//Y‰æ–Ê—h‚ç‚µ
+;//ã€†ç”»é¢æºã‚‰ã—
 
 [quake_bg xy m]
 
 *3758|
 [fc]
-[ns]‰Á“¡[nse]
-u‚®‚ ‚ÁIIv[pcms]
+[ns]Kato[nse]
+Guahh!![pcms]
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 
 [overflow_se storage="se021"]
 
@@ -268,32 +265,32 @@
 
 ;//blackout
 
-;//ôFBGM002ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM002ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 
 [fadeoutbgm time=500]
 
 *3759|
 [fc]
-[ns]’jq¶“k‚j[nse]
-u‚¶‚áA‚Üc‚¾ccv[pcms]
+[ns]Male Student K[nse]
+Well, I... still...[pcms]
 
 *3760|
 [fc]
-[ns]’jq¶“k‚k[nse]
-u‚¨‚ê‚ÉA‚àcc‚æA‚±‚¹A‚¥ccv[pcms]
+[ns]Male Student L[nse]
+Give me... more... please...[pcms]
 
 *3761|
 [fc]
-[ns]’jq¶“k‚l[nse]
-u‚ `ccv[pcms]
+[ns]Male Student M[nse]
+Ahh...[pcms]
 
 
 
 [if exp="tf.scene_mode == 1"][jump target=*04011][endif]
 
-;//¦ğŒ•ªŠò
-;//Eflag:‰ƒ‚ğŒ©‚é@‚ªOFF@;//[04004]‚Ö
-;//Eflag:‰ƒ‚ğŒ©‚é@‚ªON‚Ì@‘I‘ğˆ”­¶@;//[04010]‚Ö
+;//â€»æ¡ä»¶åˆ†å²
+;//ãƒ»flag:å®´ã‚’è¦‹ã‚‹ã€€ãŒOFFã€€;//[04004]ã¸
+;//ãƒ»flag:å®´ã‚’è¦‹ã‚‹ã€€ãŒONã®æ™‚ã€€é¸æŠè‚¢ç™ºç”Ÿã€€;//[04010]ã¸
 
 ;[if exp="sf.banqest==1"]
 [if exp="sf.g_banqest==1"]
@@ -301,7 +298,7 @@
 	;[jump target=*04010_TOP storage="04010.ks"]
 [endif]
 
-;ƒVƒXƒeƒ€ƒ{ƒ^ƒ“•ƒEƒBƒ“ƒhƒEÁ‹
+;ã‚·ã‚¹ãƒ†ãƒ ãƒœã‚¿ãƒ³ï¼†ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
 [sysbt_meswin clear]
 [wait_c time=1500]
 [jump target=*04004_H_TOP storage="04004_H.ks"]

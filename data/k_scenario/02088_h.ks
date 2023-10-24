@@ -1,49 +1,49 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02088wâ–]‚Ìn‚Ü‚èx‰‰ƒTƒuƒ^ƒC•ÏX
-;//BG:–³‚µ
-;//“oêl•¨F–³‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02088ã€çµ¶æœ›ã®å§‹ã¾ã‚Šã€â™‚â™‚ã‚µãƒ–ã‚¿ã‚¤å¤‰æ›´
+;//BG:ç„¡ã—
+;//ç™»å ´äººç‰©ï¼šç„¡ã—
 
-;//š‚gEVENT_009@wâ–]‚Ìn‚Ü‚èx
-;//‘ÌˆÊF—«ƒŠƒ|[ƒ^[‚ª•ø‚¦ã‚°‚ç‚ê‚ÄA‚QŒŠ‘}“ü
-;//@@@ƒ]ƒ“ƒr‚Ìˆêl‚ª—«ƒŠƒ|[ƒ^[‚ğ”wŒã‚©‚ç‚lšŠJ‹r‚Å‚¿ã‚°‚Ä‚¢‚éB
-;//@@@‚à‚¤ˆêl‚ÍA—«ƒŠƒ|[ƒ^[‚Ì³–Ê‚©‚ç—«Ší‚É‘}“ü
-;//@@@—«‚ÍA‹ƒ‚¢‚Ä‚¢‚éB
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;//â˜…ï¼¨EVENT_009ã€€ã€çµ¶æœ›ã®å§‹ã¾ã‚Šã€
+;//ä½“ä½ï¼šå¥³æ€§ãƒªãƒãƒ¼ã‚¿ãƒ¼ãŒæŠ±ãˆä¸Šã’ã‚‰ã‚Œã¦ã€ï¼’ç©´æŒ¿å…¥
+;//ã€€ã€€ã€€ã‚¾ãƒ³ãƒ“ã®ä¸€äººãŒå¥³æ€§ãƒªãƒãƒ¼ã‚¿ãƒ¼ã‚’èƒŒå¾Œã‹ã‚‰ï¼­å­—é–‹è„šã§æŒã¡ä¸Šã’ã¦ã„ã‚‹ã€‚
+;//ã€€ã€€ã€€ã‚‚ã†ä¸€äººã¯ã€å¥³æ€§ãƒªãƒãƒ¼ã‚¿ãƒ¼ã®æ­£é¢ã‹ã‚‰å¥³æ€§å™¨ã«æŒ¿å…¥
+;//ã€€ã€€ã€€å¥³æ€§ã¯ã€æ³£ã„ã¦ã„ã‚‹ã€‚
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02088_H_TOP
-;[debug_win]‚È‚¤@02088_H[debug_win_end]
+;[debug_win]ãªã†ã€€02088_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [eval exp="sf.SRP06 = 1"][if exp="tf.scene_mode == 0"][jump target=*02088][endif]
 ;;[winset]
-;mm ƒCƒxƒ“ƒg‚©‚ç‚É‚·‚é
+;mm ã‚¤ãƒ™ãƒ³ãƒˆã‹ã‚‰ã«ã™ã‚‹
 [jump target=*scene_start]
 
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
 [bg storage="bg50a"]
 [trans_c cross time=500]
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *02088
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02088 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02088 = 1"]
 
-;*SceneSet|wâ–]‚Ìn‚Ü‚èx
+;*SceneSet|ã€çµ¶æœ›ã®å§‹ã¾ã‚Šã€
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 [bgm009]
-;//BG:—v”­’@Vh
+;//BG:è¦ç™ºæ³¨ã€€æ–°å®¿
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [if exp="tf.scene_mode == 1"][jump target=*02088_1][endif]
 
 ;[zapfade]
@@ -57,45 +57,36 @@
 
 *1781|
 [fc]
-‘’©B[r]
-–ÚŠo‚ßA“®‚«o‚·‘O‚Ì”É‰ØŠX‚ÉA[r]
-‘›X‚µ‚¢ˆê’c‚ª‚â‚Á‚Ä‚«‚Ä‚¢‚½B[pcms]
+Early morning. In the bustling downtown area before people[r]start waking up and moving, a noisy group had arrived.[pcms]
 
 *1782|
 [fc]
-ƒeƒŒƒr‹Ç‚ÌæŞw‚Å‚ ‚é”Ş‚ç‚ÍA‚¢‚ÂŠëŒ¯‚ÉŒ©•‘‚í‚ê‚é[r]
-‚©‚í‚©‚ç‚È‚¢A‚Æ‚¢‚¤‹Ù’£Š´‚Ì’†A©•ª’B‚Ìd–‚ğŠJn[r]
-‚µ‚½B[pcms]
+The group, who were the TV station's press corps, began[r]their work in a state of tension, not knowing when they[r]might be faced with danger.[pcms]
 
 *v743|
 [fc]
 [vo_mob s="reporter0001"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u„‚Í¡A“Ë‘RA‘å¨‚Ì–\“k‚ªŒ»‚êAlX‚ğP‚¤‚Æ‚¢‚¤[r]
-–Œ‚Ì‹N‚«‚½”É‰ØŠX‚É—ˆ‚Ä‚¢‚Ü‚·v[pcms]
+[ns]Female Reporter[nse]
+I am now in the bustling downtown area where an incident has[r]occurred, suddenly, with a large group of rioters appearing[r]and attacking people.[pcms]
 
 *v744|
 [fc]
 [vo_mob s="reporter0002"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u–Œ‚ÌÄ”­‚ğŒx‰ú‚µ‚Ä‚¢‚é‚Ì‚©Al‚Ìp‚Í‚È‚­AÜ[r]
-”‘ä‚Ì©“®Ô‚ª’Ê‚é‚¾‚¯‚ÅAS‚È‚µ‚©‹Ù”—Š´‚É•ï‚Ü‚ê‚Ä[r]
-‚¢‚é‚æ‚¤‚ÈA‚»‚ñ‚È‹ó‹C‚ª•Y‚Á‚Ä‚¢‚Ü‚·v[pcms]
+[ns]Female Reporter[nse]
+The absence of people and the occasional passing of a few[r]cars create an atmosphere of tension, as if everyone is on[r]high alert, perhaps wary of a recurrence of the incident.[pcms]
 
 *1783|
 [fc]
-—«ƒŒƒ|[ƒ^[‚Æ‚»‚Ìˆê’c‚ÍAŠÕU‚Æ‚µ‚½ŠX‚ÌŒõŒi‚ğŒ©[r]
-‰ñ‚µ‚È‚ª‚çA‚ä‚Á‚­‚è‚Æ‚µ‚½‘«æ‚è‚Å‘Oi‚µ‚Ä‚¢‚­B[pcms]
+The female reporter and her group slowly moved forward,[r]surveying the desolate scenery of the town.[pcms]
 
 *v745|
 [fc]
 [vo_mob s="reporter0003"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u¡‚Ü‚Å‚É–ÚŒ‚‚³‚ê‚Ä‚¢‚é–\“k‚É‚ÍA˜VlAáÒA’j—[r]
-‚ª“ü‚èŒğ‚¶‚Á‚Ä‚¢‚é‚æ‚¤‚Å‚·Bˆê‘Ì‚±‚ÌŠX‚ÉA¡A[r]
-‰½‚ª‹N‚±‚Á‚Ä‚¢‚é‚Ì‚Å‚µ‚å‚¤‚©v[pcms]
+[ns]Female Reporter[nse]
+It seems that the rioters who have been witnessed so far[r]include elderly people, young people, and both men and[r]women.[l][er]
+What on earth is happening in this town right now?[pcms]
 
-;//SE:”š‰¹
+;//SE:çˆ†éŸ³
 [se0 storage="se056"]
 
 [bg storage="bg50b"]
@@ -103,50 +94,47 @@
 
 *1784|
 [fc]
-“Ë‘RA‹ó‚ªÔ‚­”R‚¦A•Ó‚è‚ÉŒ‰¹‚ª‹¿‚«“n‚éB[pcms]
+Suddenly, the sky burns red and a thunderous roar echoes[r]around.[pcms]
 
 *v746|
 [fc]
 [vo_mob s="reporter0004"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u”š”­‰¹‚Å‚·I@•·‚±‚¦‚Ü‚µ‚½‚Å‚µ‚å‚¤‚©I@”š”­‰¹‚ª[r]
-‚µ‚Ü‚µ‚½I@‚±‚Ì‹ß‚­‚ÅA‰½‚ç‚©‚Ì”š”­‚ª‹N‚«‚½–Í—l‚Å[r]
-‚·I@–\“k‚Ìd‹Æ‚Å‚µ‚å‚¤‚©Iv[pcms]
+[ns]Female Reporter[nse]
+An explosion! Did you hear that?[l][er]
+There was an explosion! It seems that some kind of explosion[r]has occurred nearby![l][er]
+Could it be the work of the rioters?[pcms]
 
 *1785|
 [fc]
-‚±‚Ìæ‚Éi‚Ş‚©‚Ç‚¤‚µ‚æ‚¤‚©A—«ƒŒƒ|[ƒ^[‚ÍƒfƒBƒŒ[r]
-ƒNƒ^[‚É–Ú‚ğŒü‚¯Aw¦‚ğ‹Â‚¢‚¾B[pcms]
+The female reporter, unsure whether to proceed further or[r]not, turned her gaze towards the director and sought[r]instructions.[pcms]
 
 *1786|
 [fc]
-‚»‚ÌA”Ş—‚ÍƒfƒBƒŒƒNƒ^[‚Ì”wŒã‚ÉA•sR‚È‰e‚ª•¡”[r]
-Œ»‚ê‚é‚Ì‚ğŒ©‚éB[pcms]
+At that moment, she saw multiple suspicious figures[r]appearing behind the director.[pcms]
 
 *1787|
 [fc]
-”Ş—’B‚ÌæŞ‘ÎÛ‚Å‚ ‚éA–\“k‚Ì’j’B‚¾‚Á‚½B[pcms]
+They were the men of the rioters, who were the subjects of[r]their coverage.[pcms]
 
 *v747|
 [fc]
 [vo_mob s="reporter0005"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚ ‚ÁccIv[pcms]
+[ns]Female Reporter[nse]
+Ah...![pcms]
 
-;//SE:ƒKƒ^ƒKƒ^
+;//SE:ã‚¬ã‚¿ã‚¬ã‚¿
 [se0 storage="se024"]
 
 *1788|
 [fc]
-[ns]ƒfƒBƒŒƒNƒ^[[nse]
-uccH@‰½‚µ‚Äcc‚¤‚í‚ ‚Ÿ‚ÁIIv[pcms]
+[ns]Director[nse]
+...? What are you... aahh!![pcms]
 
 *1789|
 [fc]
-Œ»‚ê‚½•¡”‚Ì–\“k‚ÍAu‚­ŠÔ‚ÉƒfƒBƒŒƒNƒ^[‚Ì‘Ì‚©‚çA[r]
-“÷‚ğAŒŒŠÇ‚ğAœ‚ğŠš‚İ‚¿‚¬‚Á‚½B[pcms]
+Multiple rioters appeared and in an instant, they tore apart[r]the director's body, devouring his flesh, veins, and bones.[pcms]
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 [se0 storage="se021"]
 
 [flash_re]
@@ -160,21 +148,20 @@
 
 *1790|
 [fc]
-[ns]ƒfƒBƒŒƒNƒ^[[nse]
-u‚®‚ ‚ ‚ ‚ ‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚ÁIIv[pcms]
+[ns]Director[nse]
+Guuaaaahhhhh!![pcms]
 
 *1791|
 [fc]
-[ns]–\“k‚`[nse]
-uƒ€ƒOcc‚¶‚ác‚¶‚á‚Ücc‚¾ccv[pcms]
+[ns]Thug A[nse]
+Muku... It's... it's a bother...[pcms]
 
 *1792|
 [fc]
-Šš‚İ‚¿‚¬‚Á‚½‚à‚Ì‚ğ–¡‚í‚¤—l‚É‚ä‚Á‚­‚è‚ÆA‰¹‚ğ—§‚Ä‚Ä[r]
-™ğš‚µAˆù‚İ‚ñ‚¾–\“k‚ÍAÄ‚ÑƒfƒBƒŒƒNƒ^[‚Éæ‚è‚Â[r]
-‚«A‘Ì‚Ìˆê•”‚ğŠš‚İ‚¿‚¬‚Á‚Ä‚¢‚­B[pcms]
+The rioter, savoring the torn flesh, slowly chewed with a[r]loud sound and swallowed.[l][er]
+They then once again approached the director and began to[r]tear apart another part of his body.[pcms]
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 [se0 storage="se021"]
 
 [flash_re]
@@ -187,59 +174,56 @@
 
 *1793|
 [fc]
-[ns]‰¹º‹Zt[nse]
-u‚ ‚Ÿ‚ÁI@‚¤‚ ‚ ‚ ‚Ÿ‚Ÿ‚Ÿ‚ÁIIIIv[pcms]
+[ns]Sound engineer[nse]
+Ahh! Uwaaaahhhh!!![pcms]
 
 *1794|
 [fc]
-[ns]ƒJƒƒ‰ƒ}ƒ“[nse]
-u‚¬‚¡‚â‚ ‚ ‚ ‚ ‚ ‚ ‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚ŸIIIIIv[pcms]
+[ns]Photographer[nse]
+Giiyaaaaaaaahhhhhhhhh!!!!!![pcms]
 
 *1795|
 [fc]
-Ÿ‘æ‚É”‚ğ‘‚â‚µ‚Ä‚¢‚­–\“k’B‚ÉAæŞƒNƒ‹[‚ªŸX‚Æ[r]
-P‚í‚êA–\“k’B‚Ì• ‚ğ–‚½‚·“÷‰ò‚É•Ï‚í‚Á‚Ä‚¢‚­B[pcms]
+The rioters, gradually increasing in number, attacked the[r]crew one after another, transforming into chunks of meat to[r]satisfy the rioters' hunger.[pcms]
 
 *v748|
 [fc]
 [vo_mob s="reporter0006"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚Ğ‚Ácc‚Ğ‚¢‚¡cc‚ÁIIv[pcms]
+[ns]Female Reporter[nse]
+H-hii... hiiii...![pcms]
 
 *1796|
 [fc]
-• ‚ª–‚½‚³‚ê‚ÄlS’n‚Â‚¢‚½‚Ì‚©A–\“k‚ÍA¡“x‚Í—«[r]
-ƒŒƒ|[ƒ^[‚É–Ú‚ğ‚Â‚¯A‚¶‚è‚¶‚è‚Æ”Ş—‚É‚É‚¶‚èŠñ‚Á‚Ä[r]
-‚¢‚­B[pcms]
+The rioters, their hunger satisfied, now turned their[r]attention to the female reporter and slowly approached her,[r]inching closer and closer.[pcms]
 
 *1797|
 [fc]
-[ns]–\“k‚a[nse]
-u‚¨A‚ñ‚Ècc‚¤‚Ü‚»A‚¤ccv[pcms]
+[ns]Thug B[nse]
+W-Woman... looks tasty, ugh...[pcms]
 
 *1798|
 [fc]
-[ns]–\“k‚b[nse]
-u‚ `cc‚½‚Á‚Ä‚«A‚½‚Ÿccv[pcms]
+[ns]Thug C[nse]
+Ahh... I'm coming, ahh...[pcms]
 
 *v749|
 [fc]
 [vo_mob s="reporter0007"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚¡‚âcc‚¢‚â‚Ÿccv[pcms]
+[ns]Female Reporter[nse]
+No... no...[pcms]
 
 *v750|
 [fc]
 [vo_mob s="reporter0008"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚àcc‚à‚µ‚©‚µ‚Äcc‚±‚ê‚ªccv[pcms]
+[ns]Female Reporter[nse]
+C-Could it be... this is...[pcms]
 
 *1799|
 [fc]
-ƒ}ƒCƒN‚ğæ‚è—‚Æ‚µAŒã‚¸‚³‚é—«B[r]
-‚¾‚ª”•ài‚ñ‚¾‚Æ‚±‚ë‚ÅA‚»‚Ì‘Ş˜H‚ÍÇ‚ª‚ê‚½B[pcms]
+The woman, who dropped the microphone, stepped back.[l][er]
+However, after taking a few steps forward, her escape route[r]was blocked.[pcms]
 
-;//SE:l‚É‚Ô‚Â‚©‚é
+;//SE:äººã«ã¶ã¤ã‹ã‚‹
 [se0 storage="se025"]
 
 [quake_bg xy m]
@@ -247,49 +231,46 @@
 *v751|
 [fc]
 [vo_mob s="reporter0009"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-ucc‚ÁIIv[pcms]
+[ns]Female Reporter[nse]
+...![pcms]
 
 *1800|
 [fc]
-—«‚Ìs‚­è‚ğÕ‚Á‚½‚Ì‚ÍA‚Ü‚½•Ê‚ÌA”l‚Ì–\“k‚Ì’j[r]
-‚¾‚Á‚½B[pcms]
+The ones who blocked the path of the woman were several[r]other male thugs.[pcms]
 
 *1801|
 [fc]
-[ns]–\“k‚c[nse]
-u‚¨‚êA‚ªcc‚¢A‚¿‚ÎA‚ñccv[pcms]
+[ns]Thug D[nse]
+I... ga... ichiba... n...[pcms]
 
 *1802|
 [fc]
-—«‚ğ‰HŒğ‚¢’÷‚ß‚É‚µ‚½’j‚ÍAŠù‚É‰º”¼g‚ğ˜Io‚³‚¹‚Ä[r]
-‚¢‚ÄAd‚­’£‚è‚Â‚ß‚½“÷–_‚ğC‚è‚Â‚¯‚éB[pcms]
+The man who had restrained the woman tightly had already[r]exposed his lower half, rubbing his stiff and tense flesh[r]rod against her.[pcms]
 
 *v752|
 [fc]
 [vo_mob s="reporter0010"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚¢‚â‚ÁA—£‚µ‚ÄIIv[pcms]
+[ns]Female Reporter[nse]
+No, let go!![pcms]
 
 *1803|
 [fc]
-‘Ì‚ğ•K€‚Å‚æ‚¶‚èA”wŒã‚Ì’j‚©‚ç“¦‚ê‚½‚Ì‚à‘©‚ÌŠÔA³[r]
-–Ê‚©‚ç‹ß‚Ã‚¢‚Ä‚«‚Ä‚¢‚½’j’B‚ÉA—«‚Í‚ ‚Á‚³‚è‚Æ•ß‚ç[r]
-‚¦‚ç‚êA’…‚Ä‚¢‚é‚à‚Ì‚ğ”j‚èæ‚ç‚ê‚Ä‚µ‚Ü‚Á‚½B[pcms]
+The woman, who had desperately wriggled her body to escape[r]from the man behind her, was caught without resistance by[r]the men approaching from the front.[l][er]
+They quickly seized her and tore off her clothes.[pcms]
 
 *v753|
 [fc]
 [vo_mob s="reporter0011"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚«‚á‚ ‚Ÿ‚Ÿ‚ÁII@’N‚©‚ÁI@’N‚©•‚¯‚Ä‚¥‚ÁIIv[pcms]
+[ns]Female Reporter[nse]
+Kyaaa!! Someone! Someone help meee!![pcms]
 
-;//H_CG•\¦
+;//H_CGè¡¨ç¤º
 
 ;;;[sysbt_meswin clear]
 
 *scene_start
 
-;//ôFBGM002
+;//â™ªï¼šBGM002
 [bgm002]
 
 [evcg storage="HEV_009_a"]
@@ -301,37 +282,34 @@
 
 *1804|
 [fc]
-’j‚Ìˆêl‚É•ø‚¦ã‚°‚ç‚ê‚ÄA—«‚Ì«ŠíA‚»‚µ‚Äãè–å‚ª[r]
-˜I‚í‚É‚È‚éB[pcms]
+The woman was lifted up by one of the men, exposing her[r]genitals and anus.[pcms]
 
 *1805|
 [fc]
-—«‚ğ•ø‚¦ã‚°‚Ä‚¢‚é–\“k‚ªA“÷–_‚ğ—«‚Ìãè–å‚Ö‚ ‚Ä[r]
-‚ª‚Á‚½B[pcms]
+The thug who was holding the woman lifted her up and pressed[r]his meat rod against her anus.[pcms]
 
 *1806|
 [fc]
-[ns]–\“k‚c[nse]
-u‚Ó‚ÖA‚ÖccƒPƒc‚ÍA‚àA‚ç‚Á‚½‚Ÿccv[pcms]
+[ns]Thug D[nse]
+Fuh, heh... I got your ass...[pcms]
 
 *v754|
 [fc]
 [vo_mob s="reporter0012"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚¢‚â‚ ‚Ÿ‚Ÿ‚ÁII@‚â‚ß‚Ä[[[[‚ÁIIII@‚ A[r]
-‹M•û’BII@‰½‚ğ‚·‚é‚ñ‚Å‚·‚©IIv[pcms]
+[ns]Female Reporter[nse]
+Nooo!! Stopppp!! Hey, you guys!![l][er]
+What are you doing?![pcms]
 
 *1807|
 [fc]
-ƒŠƒ|[ƒ^[‚Ì‹©‚Ñ‚ÍA’j’B‚Ì¨‚É‚Í“Í‚¢‚Ä‚¢‚È‚¢B[r]
-ccƒeƒŒƒr‚Ì‘O‚Ì‹’®ÒˆÈŠO‚É‚ÍccII[pcms]
+The reporter's screams did not reach the ears of the men...[l][er]
+except for the viewers watching on TV...!![pcms]
 
 *1808|
 [fc]
-‰½‚Ì€”õ‚ào—ˆ‚Ä‚¢‚È‚¢ãè–å‚ÉA”Ş—‚ğ•ø‚¦ã‚°‚½–\“k[r]
-‚Ì“÷–_‚ª‚Ë‚¶‚Ü‚ê‚Ä‚¢‚­B[pcms]
+The meat rod of the thug, who lifted her up, is being thrust[r]into her unprepared anus.[pcms]
 
-;//SE:‘}“ü
+;//SE:æŒ¿å…¥
 [se0 storage="se058"]
 
 ;//redflash
@@ -350,76 +328,72 @@
 *v755|
 [fc]
 [vo_mob s="reporter0013"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚¢‚Ácc‚ÁII@‚¬‚¢‚¢‚¡‚¡‚¡‚¡‚ÁIIIIv[pcms]
+[ns]Female Reporter[nse]
+Ahh...! G-giiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii!![pcms]
 
 *1809|
 [fc]
-­‚µA‚Ü‚½­‚µ‚ÆA—«‚Ìãè–åü‚è‚ª—ô‚¯‚Ä‚¢‚«A—¬‚ê[r]
-o‚µ‚½ŒŒ’ª‚ª’j‚Ì“÷–_‚É“`‚Á‚Ä‚¢‚­B[pcms]
+A little bit, and then a little more, the area around the[r]woman's anus tears apart, and the flowing blood spreads[r]along the man's meat rod.[pcms]
 
 *1810|
 [fc]
-[ns]–\“k‚c[nse]
-u‚¤‚Öcc‚ ‚Á‚½A‚¯‚¥ccv[pcms]
+[ns]Thug D[nse]
+Ugh... there it is...[pcms]
 
 *v756|
 [fc]
 [vo_mob s="reporter0014"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚¢‚ÁA’É‚Ÿ‚¢‚ÁII@‚â‚ß‚Ácc”²‚¢‚Ä‚¥IIIv[pcms]
+[ns]Female Reporter[nse]
+Ouch... it hurts!! Stop... take it out!!![pcms]
 
 *1811|
 [fc]
-—«‚Ì‘i‚¦‚É‘S‚­¨‚ğ‘İ‚³‚¸A’j‚Í“©Œ‚µ‚½Î‚İ‚ğ•‚‚©[r]
-‚×A—Í”C‚¹‚Éãè–å“à‚ğ‰•œ‚³‚¹‚éB[pcms]
+The man, completely ignoring the woman's pleas, had a[r]blissful smile on his face as he forcefully thrust in and[r]out of her anus.[pcms]
 
-;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
 [overflow_se storage="se061" loop=true]
 
 *v757|
 [fc]
 [vo_mob s="reporter0015"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚Ğ‚ÁccI@‚¬‚ÁccI@‚®‚¤‚£cc‚ÁIv[pcms]
+[ns]Female Reporter[nse]
+Hii...! Gii...! Guu...![pcms]
 
 *1812|
 [fc]
-[ns]–\“k‚c[nse]
-u‚¤A‚Ícc‚µA‚Ü‚é‚£ccv[pcms]
+[ns]Thug D[nse]
+Ugh... haa... stop...[pcms]
 
 *v758|
 [fc]
 [vo_mob s="reporter0016"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚¢‚ÁccI@‚ĞA‚¬‚¢‚¡ccII@‚»cc‚»‚ñ‚ÈIIv[pcms]
+[ns]Female Reporter[nse]
+Ahh...! H-hii...!! S-such... such a thing!![pcms]
 
 *1813|
 [fc]
-’f‘±“I‚È”ß–Â‚ğã‚°‚é—«‚ÉA‚³‚ç‚É•Ê‚Ì–\“k‚ªæ‚è‚Â[r]
-‚«A‚¢‚«‚è—§‚Â“÷–_‚ğ«Ší‚É‚ ‚Ä‚ª‚Á‚½B[pcms]
+Another thug approached the woman who was screaming[r]intermittently, and pressed his erect meat rod against her[r]genitals.[pcms]
 
 *v759|
 [fc]
 [vo_mob s="reporter0017"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚Ğ‚ÁccIIv[pcms]
+[ns]Female Reporter[nse]
+Huh...!![pcms]
 
 *1814|
 [fc]
-[ns]–\“k‚`[nse]
-u‚ÜA‚ñ‚±cc‚¢‚½‚¾A‚«ccv[pcms]
+[ns]Thug A[nse]
+Pu... pussy... I'll have a taste...[pcms]
 
 *v760|
 [fc]
 [vo_mob s="reporter0018"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚â‚ÁA‚â‚ßccIIv[pcms]
+[ns]Female Reporter[nse]
+Stop...![pcms]
 
 *1815|
 [fc]
-‚ ‚Ä‚ª‚í‚ê‚½“÷–_‚ÍA–¢‚¾Š£‚¢‚½‚Ü‚Ü‚Ì—«Ší‚ÉA‹­ˆø[r]
-‚É‰Ÿ‚µ‚Ü‚ê‚Ä‚¢‚­B[pcms]
+The thrusting meat rod was forcefully pushed into the still[r]dry female genitals.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -437,7 +411,7 @@
 
 ;;;[sysbt_meswin]
 
-;//SE:‘}“ü
+;//SE:æŒ¿å…¥
 [se1 storage="se058"]
 
 ;//redflash
@@ -447,221 +421,208 @@
 *v761|
 [fc]
 [vo_mob s="reporter0019"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚Ğ‚¢‚¡‚ÁccIIv[pcms]
+[ns]Female Reporter[nse]
+Hii...![pcms]
 
 *1816|
 [fc]
-[ns]–\“k‚`[nse]
-u‚Í‚¢‚ÁA‚½‚¼‚§`ccv[pcms]
+[ns]Thug A[nse]
+Here we go~...[pcms]
 
 *v762|
 [fc]
 [vo_mob s="reporter0020"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚¢‚â‚ ‚Ÿ‚Ÿ‚ÁIIv[pcms]
+[ns]Female Reporter[nse]
+No, ahhh!![pcms]
 
 *1817|
 [fc]
-³–Ê‚Æ”wŒãA“ñl‚Ì’j‚É“Ë‚«ã‚°‚ç‚êAƒ{[ƒ‹‚Ì—l‚É‘Ì[r]
-‚ª’µ‚Ë‚é“x‚ÉA—«‚Ì”ß’É‚Èº‚ª˜R‚ê‚éB[pcms]
+The woman's agonizing voice escapes every time her body[r]bounces like a ball, being thrust by two men from the front[r]and behind.[pcms]
 
 *v763|
 [fc]
 [vo_mob s="reporter0021"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚¢‚Ácc‚®‚Ácc‚¤‚£‚Áccv[pcms]
+[ns]Female Reporter[nse]
+Ahh... guh... uuhh...[pcms]
 
 *1818|
 [fc]
-[ns]–\“k‚c[nse]
-u‚ `cc‚Ù‚®‚êA‚Ä‚«A‚½‚Ÿccv[pcms]
+[ns]Thug D[nse]
+Ahh... relax, enemy, ahh...[pcms]
 
 *v764|
 [fc]
 [vo_mob s="reporter0022"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚¢A‚â‚Ÿcc‚à‚£A‚â‚ßcc”²‚¢‚Ä‚¥ccIv[pcms]
+[ns]Female Reporter[nse]
+N-No... please... stop... pull out...![pcms]
 
 *1819|
 [fc]
-[ns]–\“k‚`[nse]
-u‚±A‚Ì‚Ü‚ñ‚±cc‚¯‚Á‚±A‚¤A‚¢‚¡`ccv[pcms]
+[ns]Thug A[nse]
+This... pussy... it's quite...[l][er]
+gooood~...[pcms]
 
 *1820|
 [fc]
-“©‘R‚Æ‚·‚é“ñl‚Ì’j‚ÉG”­‚³‚êAŒŠ‚É‚ ‚Ô‚ê‚½’j’B‚ªA[r]
-˜Io‚³‚¹‚½‰º”¼g‚ğk‚í‚¹‚È‚ª‚çAè‚Æw‚Å—«‚Ì‘Ì‚Ì[r]
-‚ ‚ç‚ä‚é•”•ª‚ğ‚Ü‚³‚®‚èn‚ß‚½B[pcms]
+The men, inspired by the two men who were in a state of[r]bliss, began to explore every part of the woman's body with[r]their hands and fingers, while the men who were left out[r]trembled their exposed lower bodies.[pcms]
 
 *v765|
 [fc]
 [vo_mob s="reporter0023"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚¢A‚â‚Ÿcc‚â‚ßccv[pcms]
+[ns]Female Reporter[nse]
+N-No... please... stop...[pcms]
 
 *1821|
 [fc]
-[ns]–\“k‚e[nse]
-u‚­‚èA‚Æ‚è‚·cc‚Ú‚Á‚«‚µA‚Ä‚é‚¼ccv[pcms]
+[ns]Thug F[nse]
+C-come on... get hard...![pcms]
 
 *v766|
 [fc]
 [vo_mob s="reporter0024"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚¤‚Ÿ‚ cc‚Èccv[pcms]
+[ns]Female Reporter[nse]
+Ugh... na...[pcms]
 
 *1822|
 [fc]
-ŠìF‚ğ•‚‚©‚×‚½’j‚ÉA[ŒŒ‚µn‚ß‚½‰AŠj‚ğA‰Ÿ‚µ’×‚·—l[r]
-‚È‹­‚³‚Å“E‚Ü‚êA‚Ë‚¶‚èã‚°‚ç‚ê‚ÄA—«‚ª‘Ì‚ğ‘å‚«‚­[r]
-’µ‚Ë‚³‚¹‚éB[pcms]
+The man with a delighted expression firmly grasped the[r]swollen clitoris, crushing it with a force that made the[r]woman's body bounce forcefully.[pcms]
 
 *v767|
 [fc]
 [vo_mob s="reporter0025"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚¬‚¢‚¡‚ÁIIv[pcms]
+[ns]Female Reporter[nse]
+Giiii!![pcms]
 
 *1823|
 [fc]
-[ns]–\“k‚`[nse]
-u‚®A‚£cc‚Ü‚ñ‚±A‚µA‚Ü‚éccv[pcms]
+[ns]Thug A[nse]
+Guh... uhh... pussy... it's...[l][er]
+tight...[pcms]
 
 *1824|
 [fc]
-[ns]–\“k‚c[nse]
-u‚¯‚ÂA‚µ‚Ü‚Á‚ÄA‚é‚¼cc‚¢‚ñ‚ç‚ñA‚¾cc‚±‚ÌA‚¨[r]
-‚ñA‚È‚Ÿccv[pcms]
+[ns]Thug D[nse]
+Close your ass... it's lewd...[l][er]
+this sound...[pcms]
 
 *v768|
 [fc]
 [vo_mob s="reporter0026"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚Ğ‚ÁI@‚®‚£cc‚¤‚Ÿ‚ÁA‚ ‚Ÿccv[pcms]
+[ns]Female Reporter[nse]
+Hii! Guu... Ugh, aah...[pcms]
 
 *1825|
 [fc]
-‹ŠE‚É–¶‚ª‚©‚©‚Á‚Ä‚¢‚«AüˆÍ‚Ì‰¹‚ª¬‚³‚­‚È‚Á‚Ä‚¢‚­[r]
-’†‚ÅAŒQ‚ª‚é’j’B‚ÌŒü‚±‚¤‚ÉA’n–Ê‚É“]‚ª‚Áƒnƒ“ƒfƒBƒJ[r]
-ƒƒ‰‚ª©•ª‚Ì•û‚ğŒü‚¢‚Ä‚¢‚é‚Ì‚ğA—«‚Í”F‚ß‚½B[pcms]
+The woman noticed, amidst the mist that was clouding her[r]vision and the diminishing sounds around her, a handheld[r]camera lying on the ground, facing towards her, beyond the[r]gathering men.[pcms]
 
 *v769|
 [fc]
 [vo_mob s="reporter0027"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚¤A‚®cc‚ ‚ÁA‚­ccv[pcms]
+[ns]Female Reporter[nse]
+Ugh... guh... ahh... ku...[pcms]
 
 *1826|
 [fc]
-‚à‚µA‚ ‚Ìƒnƒ“ƒfƒBƒJƒƒ‰‚ªA’n–Ê‚Ö—‰º‚µ‚½Œã‚Å‚àŒÌ[r]
-á‚¹‚¸A“®‚«‚ğ~‚ß‚Ä‚¢‚È‚©‚Á‚½‚çccB[pcms]
+If that handheld camera hadn't been damaged and had[r]continued recording even after falling to the ground...[pcms]
 
 *1827|
 [fc]
-ŒQ‚ª‚é’j’B‚É”Æ‚³‚ê‘±‚¯‚é©•ª‚Ìp‚ªA¢ŠÔ‚É¶’†Œp‚³[r]
-‚ê‚Ä‚¢‚é‰Â”\«‚Év‚¢Š‚èA—«‚ÌˆÓ¯‚Í‹}Œƒ‚ÉŒ»À‚É[r]
-ˆø‚«–ß‚³‚ê‚½B[pcms]
+The woman suddenly realized the possibility that her[r]continued violation by the gathering men was being live-[r]streamed to the world, and her consciousness was abruptly[r]brought back to reality.[pcms]
 
 *v770|
 [fc]
 [vo_mob s="reporter0028"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚¢‚â‚ÁA‚¢‚â‚ ‚ ‚Ÿ‚Ÿ‚ÁIIIIv[pcms]
+[ns]Female Reporter[nse]
+No, nooooohhhh!!!!!![pcms]
 
 *1828|
 [fc]
-[ns]–\“k‚c[nse]
-u‚ `cc‚¨‚ñA‚È‚ÌA‚³‚¯A‚ÔA‚±‚¦cc‚±‚¤‚ÓA‚ñ[r]
-‚·A‚é‚£ccv[pcms]
+[ns]Thug D[nse]
+Ahh... o-on, na-no, sa-ke, bu, koe...[l][er]
+kou-fu, n-su, ruu...[pcms]
 
 *v771|
 [fc]
 [vo_mob s="reporter0029"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚¨Šè‚¢‚¡I@ƒJƒƒ‰A~‚ßcc‚¢‚â‚Ÿ‚ÁII@‚İ‚ÁŠÏ[r]
-‚ç‚ê‚¿‚á‚¤‚¤II@ŠÏ‚ç‚ê‚é‚ÁIIv[pcms]
+[ns]Female Reporter[nse]
+Please! Stop the camera... Noooo!![l][er]
+I'm being watched!! I'm being seen!![pcms]
 
 *1829|
 [fc]
-[ns]–\“k‚`[nse]
-u‚¢‚â‚ŸA‚¶‚á‚ËA‚¥‚æcc‚ÜA‚ñ‚±A‚Ê‚ç‚µA‚Ä‚éA[r]
-‚­‚¹‚µ‚âA‚ª‚Á‚Äccv[pcms]
+[ns]Thug A[nse]
+No, don't... do that... pussy...[l][er]
+it's wet... and slippery...[pcms]
 
 *1830|
 [fc]
-Î‚¢‚É•Ì‚İ‚ğŠÜ‚Ü‚¹AŒƒ‚µ‚­‚È‚é’j‚Ì‰•œ‚ÉŒÄ‰‚·‚é‚æ[r]
-‚¤‚ÉA“÷–_‚Æ«Ší‚ÌŠÔ‚©‚çA¼‚Á‚Ä”S‚è‹C‚Ì‚ ‚éA”ÚàÎ[r]
-‚È‰¹‚ª‚µn‚ß‚Ä‚¢‚½B[pcms]
+Laughter mixed with contempt, in response to the intense[r]back and forth of the man, a lewd sound began to emerge from[r]between the penis and the genitals, wet and sticky.[pcms]
 
 *1831|
 [fc]
-[ns]–\“k‚`[nse]
-u‚¨‚çA‚Ÿcc‚Ü‚ñ‚±‚ÌA‚È‚©A‚Ê‚é‚ÊA‚é‚¶‚áA‚Ë‚¥[r]
-‚©‚Ÿccv[pcms]
+[ns]Thug A[nse]
+Hey... isn't your pussy wet and slippery?[pcms]
 
 *v772|
 [fc]
 [vo_mob s="reporter0030"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚Ğ‚ÁA‚­cc‚¢‚âA‚ŸccŒ¾‚í‚È‚¢‚Å‚¥III@‚¢‚â[r]
-‚Ÿ‚ ‚ ‚ IIv[pcms]
+[ns]Female Reporter[nse]
+H-huh... no, ah... don't say that!![l][er]
+Noooo!!![pcms]
 
 *1832|
 [fc]
-[ns]–\“k‚c[nse]
-u‚¤‚ `cc‚»A‚ñ‚È‚ÉA‚¯‚ÂA‚µ‚ß‚½A‚çccv[pcms]
+[ns]Thug D[nse]
+Ugh... If you tighten your butt that much...[pcms]
 
 *1833|
 [fc]
-—«‚Ì’†‚ğ‰•œ‚·‚é“ñl‚Ì’j‚ÌŒÄ‹z‚ªA‹É‚İ‚Ì¡‘O‚É‚Ü[r]
-‚Å’B‚µ‚½‚±‚Æ‚ÅAŸ‘æ‚Ér‚­AŒƒ‚µ‚­‚È‚Á‚Ä‚¢‚­B[pcms]
+The breathing of the two men, who were moving back and forth[r]inside the woman, gradually became rough and intense as they[r]approached the climax.[pcms]
 
 *1834|
 [fc]
-[ns]–\“k‚`[nse]
-u‚ `cc‚¢A‚­‚Ÿ`ccv[pcms]
+[ns]Thug A[nse]
+Ahh... i, kuwa~...[pcms]
 
 *1835|
 [fc]
-[ns]–\“k‚c[nse]
-u‚È‚©A‚¾A‚µA‚µ‚æA‚§ccv[pcms]
+[ns]Thug D[nse]
+Inside, let's...[pcms]
 
 *v773|
 [fc]
 [vo_mob s="reporter0031"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚È‚ÁI@’†II@’†‚ÍIIIII@‘Ê–Ú‚ÁI@‘Ê–Ú‚Á[r]
-IIIv[pcms]
+[ns]Female Reporter[nse]
+What! Inside!! Inside!!!! Nooo![l][er]
+Nooo![pcms]
 
 *1836|
 [fc]
-’j’B‚ª‘Ì‚ğ‹­‚­A‘¬‚­‘Å‚¿•t‚¯‚é‰¹A“÷–_‚ª—«Ší‚ğ‘~[r]
-‚«‰ñ‚·¼‚Á‚½‰¹Aâ‚¦â‚¦‚É‚È‚éŒÄ‹z‚Ì‰¹A‹ê‚µ‚»‚¤‚É[r]
-šb‚®—«‚Ìº‚ªA•Ó‚è‚É‹¿‚­B[pcms]
+The sound of the men forcefully and quickly thrusting their[r]bodies, the wet sound of their flesh stirring up the female[r]genitalia, the sound of their breath becoming ragged, and[r]the voice of the woman gasping in agony resound in the[r]surroundings.[pcms]
 
 *v774|
 [fc]
 [vo_mob s="reporter0032"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚Ğ‚ÁA‚®ccƒnƒ@ƒbA‚¤‚Ÿ‚Ácc‚¤A‚®‚£cc”²‚¢‚Ä[r]
-I@‚¨Šè‚¢II@‚ ‚ ‚ÁII@ƒeƒŒƒr‚ğÁ‚µ‚Ä‚­‚¾‚³‚¢[r]
-‚ÁII@”²‚¢‚Ä‚¥II@’N‚©AƒJƒƒ‰‚ğ~‚ß‚Ä‚¥IIv[pcms]
+[ns]Female Reporter[nse]
+H-huh... guh... haa... uah... ugh...[l][er]
+Take it out! Please!! Ahh!! Please turn off the TV!![l][er]
+Take it out!! Someone, stop the camera!![pcms]
 
 *1837|
 [fc]
-[ns]–\“k‚`[nse]
-u‚ `cc‚¢‚­`cc‚ `ccv[pcms]
+[ns]Thug A[nse]
+Ahh... I'm coming... ahh...[pcms]
 
 *1838|
 [fc]
-[ns]–\“k‚c[nse]
-u‚ÅA‚écc‚¤‚ A‚ŸA‚Å‚éA‚£ccv[pcms]
+[ns]Thug D[nse]
+I'm... gonna... ahh, gonna... cum...[l][er]
+uhh...[pcms]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 [overflow_se storage="se062"]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 [se1 storage="se062"]
 
 ;//whiteflash
@@ -685,54 +646,51 @@
 *v775|
 [fc]
 [vo_mob s="reporter0033"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚¤‚Ÿ‚ÁA‚ ‚ÁA‚®cc‚Ğ‚®‚£‚ÁIIv[pcms]
+[ns]Female Reporter[nse]
+Ugh, ah, guh... hnnn!![pcms]
 
 *1839|
 [fc]
-ŒÀŠE‚É’B‚µ‚½’j’B‚ÍA–Ú‚ğ‹•‚ë‚É‚³‚¹‚é‚Ì‚Æ“¯‚ÉA—[r]
-«‚Ì’†A‰œ[‚­‚Å“÷–_‚ğ”š‚º‚³‚¹‚½B[pcms]
+The men, who had reached their limit, with vacant eyes, made[r]their cocks explode deep inside the woman.[pcms]
 
-;//´…—ƒŠƒ|[ƒ^[¨ƒŒƒ|[ƒ^[
-;//‚µ‚©‚à‰¹º‚È‚¢H
-;//—«ƒŠƒ|[ƒ^[
+;//æ¸…æ°´ï¼ ãƒªãƒãƒ¼ã‚¿ãƒ¼â†’ãƒ¬ãƒãƒ¼ã‚¿ãƒ¼
+;//ã—ã‹ã‚‚éŸ³å£°ãªã„ï¼Ÿ
+;//å¥³æ€§ãƒªãƒãƒ¼ã‚¿ãƒ¼
 
 *v776|
 [fc]
 [vo_mob s="reporter0034"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-uƒCƒ„ƒ@ƒAƒAƒAƒAƒAƒAIIv[pcms]
+[ns]Female Reporter[nse]
+Noooooooo!![pcms]
 
 *1840|
 [fc]
-[ns]–\“k‚c[nse]
-u‚®A‚Ÿccv[pcms]
+[ns]Thug D[nse]
+Guh, ah...[pcms]
 
 *1841|
 [fc]
-[ns]–\“k‚`[nse]
-u‚ ‚Ÿ`````ccv[pcms]
+[ns]Thug A[nse]
+Ahhhhhhhh...[pcms]
 
 *v777|
 [fc]
 [vo_mob s="reporter0035"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚¤‚ ‚Ÿcc‚Ÿccv[pcms]
+[ns]Female Reporter[nse]
+Ugh... ahh...[pcms]
 
 *1842|
 [fc]
-‘Ì‚Ì‹@”\‚ª‰ó‚ê‚Ä‚¢‚é‚Ì‚Å‚Í‚È‚¢‚©‚Æv‚¦‚é’ö‚ÌA•¨¦[r]
-‚¢—Ê‚Ì¸‰t‚ªA—«‚Ì’°“àA‚»‚µ‚ÄäS“à‚É’‚¬‚Ü‚ê‚Ä[r]
-‚¢‚­B[pcms]
+A tremendous amount of semen, to the point where it seems[r]like their bodies are breaking down, is being poured into[r]the woman's intestines and vagina.[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
 [se1 storage="se059"]
 
 *v778|
 [fc]
 [vo_mob s="reporter0036"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚®cc‚¤‚£ccv[pcms]
+[ns]Female Reporter[nse]
+Guh... ugh...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -745,79 +703,76 @@
 
 *1843|
 [fc]
-áz¹‚·‚é—«‚Ì‘Ì‚É‰Ÿ‚µo‚³‚ê‚½‚Ì‚©A“÷–_‚ÆäSEãè–å[r]
-‚ÌŒ„ŠÔ‚©‚çA¸‰t‚ªˆì‚êo‚µ‚Ä‚­‚éB[pcms]
+Semen is overflowing from the gap between the penis and the[r]vagina and anus, as if it was being pushed out of the[r]convulsing woman's body.[pcms]
 
 *1844|
 [fc]
-‘Ì“àAäSAãè–å‚ÉŠ´‚¶‚é¸‰t‚Ì”M‚ÉA”Ş—‚Ì–Ú‚Í‹•‚ë‚Æ[r]
-‚È‚èA‘Sg‚Ì—Í‚ª”²‚¯‚½B[pcms]
+The heat of the semen that she feels inside her body,[r]vagina, and anus causes her eyes to become vacant and her[r]entire body to go limp.[pcms]
+[l][er]
 
 *1845|
 [fc]
-‚Æ‚ß‚Ç‚È‚­”‚ğ‘‚â‚µA©•ª‚ÉŒQ‚ª‚Á‚Ä‚­‚é’j’B‚ÉA©[r]
-•ª‚Ì¶–½‚ÌˆÀ‘S‚·‚ç’ú‚ß‚½‚±‚Æ‚ÅA¡‚â—«‚ÌˆÓ¯‚Í“¦[r]
-”ğ‚µ‚Ä‚µ‚Ü‚Á‚Ä‚¢‚½B[pcms]
+The women, who were relentlessly increasing in number, had[r]reached a point where they had given up even their own[r]safety, as the men swarmed around them.[l][er]
+As a result, their consciousness had now escaped into[r]avoidance.[pcms]
 
 *v779|
 [fc]
 [vo_mob s="reporter0037"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚£ccv[pcms]
+[ns]Female Reporter[nse]
+Ugh...[pcms]
 
 *1846|
 [fc]
-[ns]–\“k‚e[nse]
-u‚Â‚¬A‚Ícc‚¨‚êA‚ÉA‚â‚ç‚¹A‚ëccv[pcms]
+[ns]Thug F[nse]
+Next, let me... do it...[pcms]
 
 *1847|
 [fc]
-[ns]–\“k‚a[nse]
-u‚¨‚ê‚¾A‚¼cc‚Â‚¬ccv[pcms]
+[ns]Thug B[nse]
+It's my turn... next...[pcms]
 
 *1848|
 [fc]
-‰ä‚à‰ä‚à‚Æ—«‚Ì‘Ì‚Éæ‚è‚Â‚­’j’B‚ÉA—«‚Ì‘Ì‚ªŠ®‘S[r]
-‚É–„‚à‚ê‚éB[pcms]
+The men who are clinging to the woman's body are completely[r]engulfing her.[pcms]
 
 *v780|
 [fc]
 [vo_mob s="reporter0038"]
-[ns]—«ƒŒƒ|[ƒ^[[nse]
-u‚»cc‚»‚ñ‚Ècc‚¢‚â‚Ÿ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ Iv[pcms]
+[ns]Female Reporter[nse]
+Tha... that... noooo![pcms]
 
 *1849|
 [fc]
-ƒnƒ“ƒfƒBƒJƒƒ‰‚ÍAŒQ‚ª‚é’j«‚É‚æ‚è“¥‚İ‰ó‚³‚êccB[r]
-SŒ€‚Ì¶’†Œp‚Í’†’f‚³‚ê‚½B[pcms]
+The handheld camera was trampled and destroyed by the[r]swarming men...[l][er]
+The live broadcast of the tragedy was interrupted.[pcms]
 
 ;//blackout
 
 ;;;[sysbt_meswin clear]
 
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 ;[if exp="tf.scene_mode == 1"][jump target=*02088_2][endif]
 
 
 *02088_2
 
-;//‚±‚±‚Ü‚Å–{•Ò
+;//ã“ã“ã¾ã§æœ¬ç·¨
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
-;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
-;•s—v[eval exp="="sf.g_scn06 = 1"]
+;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
+;ä¸è¦[eval exp="="sf.g_scn06 = 1"]
 
-;//ƒEƒBƒ“ƒhƒEÁ‹
+;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//•‚ÉƒtƒF[ƒh
+;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
@@ -826,9 +781,9 @@
 ;[black_toplayer][trans_c cross time=501][hide_chara_int]
 [zapfade]
 
-;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 
-;//[02090]‚Ö
+;//[02090]ã¸
 
 [jump target=*02090_TOP storage="02090.ks"]
 

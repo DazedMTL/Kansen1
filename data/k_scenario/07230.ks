@@ -1,16 +1,16 @@
 
-;//¡ËƒuƒƒbƒN07230w•ïˆÍx
-;//BG:“Áê‹³º˜L‰ºF—[•û
-;//BG:¸~Œû‘O˜L‰ºF—[•û
-;//“oêl•¨GålŒöE“µEƒ]ƒ“ƒr‘½”
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07230ã€åŒ…å›²ã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤•æ–¹
+;//BG:æ˜‡é™å£å‰å»Šä¸‹ï¼šå¤•æ–¹
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»ã‚¾ãƒ³ãƒ“å¤šæ•°
 
 *07230_TOP
-;[debug_win]‚È‚¤@07230[debug_win_end]
-;*SceneSet|w•ïˆÍx
+;[debug_win]ãªã†ã€€07230[debug_win_end]
+;*SceneSet|ã€åŒ…å›²ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07230 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07230 = 1"]
 ;	/*
-;	;//ôFBGM009
+;	;//â™ªï¼šBGM009
 ;	[bgm009]
 ;	*/
 ;//;//BG:bg06b
@@ -24,81 +24,80 @@
 
 *7619|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Í‚Ÿ‚Ácc‚Í‚Ÿ‚ÁccA’Ç‚¢‚©‚¯‚ÄA—ˆ‚È‚¢‚ÈA‚Í‚Ÿ[r]
-‚Áccv[pcms]
+[ns]Kato[nse]
+Haa... haa... They didn't come chasing after me, haa...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3044|
 [fc]
 [vo_sa s="sae0902"]
-[ns]²”Œ[nse]
-u‚Í‚ÁccA‚Í‚ ‚Ÿ‚ÁccB‚»‚¤‚Å‚·‚ËA¡‚ÌŠ‚Ícc[r]
-‚µ‚©‚µA‰½‚È‚ÌA‚ ‚Ìqccv[pcms]
+[ns]Saeki[nse]
+Haa... haa... That's right, for now...[l][er]
+But what's with that child...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3045|
 [fc]
 [vo_sa s="sae0903"]
-[ns]²”Œ[nse]
-ucc“Ë‘Rcc‚ ‚ñ‚È–‚ğ‚·‚é‚È‚ñ‚ÄIv[pcms]
+[ns]Saeki[nse]
+... Suddenly... doing something like that![pcms]
 
 *7620|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *7621|
 [fc]
-cc“Ë‘RA‚¾‚Á‚½B[pcms]
+... It was sudden.[pcms]
 
 *7622|
 [fc]
-RŠİ‚³‚ñ‚Í‚ ‚ñ‚È–‚ğ‚·‚éq‚¶‚á‚È‚¢B[r]
-cc‚Æv‚Á‚Ä‚¢‚½B[r]
-‚Æ‚¢‚¤‚æ‚èA•’Ê‚Í‚ ‚ñ‚È–‚Ícco—ˆ‚È‚¢B[pcms]
+Yamagishi-san is not the kind of child who would do[r]something like that...[l][er]
+Or so I thought. In fact, normally...[l][er]
+she wouldn't be able to do something like that.[pcms]
 
 *7623|
 [fc]
-‚à‚µ‚©‚µ‚ÄccRŠİ‚³‚ñ‚àcc[r]
-‚¨‚©‚µ‚­‚È‚Á‚½‚Ì‚©ccIH[pcms]
+Could it be... Yamagishi-san...[l][er]
+has also gone mad...!?[pcms]
 
 *7624|
 [fc]
-‹³º‚Ì’†‚ÅAæ¶‚ªP‚í‚ê‚Ä‚¢‚ÄccB[r]
-^–ç‚ª“Ë‘R‹N‚«‚ ‚ª‚Á‚Äcc²”Œ‚É”—‚Á‚Ä‚«‚½B[r]
-‚İ‚ñ‚Èccƒ‰ƒWƒI‚ÅŒ¾‚Á‚Ä‚¢‚½—l‚ÉccB[pcms]
+In the classroom, the teacher was being attacked...[l][er]
+Shinya suddenly stood up and approached Saeki.[l][er]
+Everyone... just like they said on the radio...[pcms]
 
 *7625|
 [fc]
-‚İ‚ñ‚È‚¢‚Á‚Ø‚ñ‚É‚¨‚©‚µ‚­‚È‚Á‚½‚Ì‚©IH[pcms]
+Did everyone suddenly go crazy!?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_d_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_d_09"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3046|
 [fc]
 [vo_sa s="sae0904"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñIH@‰½‚ğ•ğ‚¯‚Ä‚¢‚é‚Ì‚Å‚·‚©ƒbI@æ‚Ù‚Ç[r]
-‚Æ‚¢‚¢A‹M’j‚É‚Í‹Ù’£Š´‚ª‚È‚³‰ß‚¬‚é‚Ì‚Å‚·A‚¾‚©‚ç‚ [r]
-‚Ì—l‚Ècc‚¢‚â‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚ŸIIv[pcms]
+[ns]Saeki[nse]
+Kato-san!? What are you spacing out for?![l][er]
+Just like earlier, you lack a sense of urgency, that's[r]why...[l][er]
+Noooooo!![pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_d_08"]
 [ChrSetXY layer=1 x=100 y=0]
@@ -107,90 +106,88 @@
 
 *7626|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ç‚¤‚µcc‚¤‚í‚ÁIv[pcms]
+[ns]Kato[nse]
+What's wro... Uwah![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 
 [bgm008]
 
 ;//H_CG:
 
-;mm ƒŒƒCƒ„‚¨‚©‚µ‚¢‚©‚ç’¼‚·
+;mm ãƒ¬ã‚¤ãƒ¤ãŠã‹ã—ã„ã‹ã‚‰ç›´ã™
 
-;Ô–Ñ
+;èµ¤æ¯›
 [ChrSetEx layer=5 chbase="zom_01_b"]
 [ChrSetXY layer=5 x=200 y=0]
 [trans_c cross time=150]
 
 *7627|
 [fc]
-[ns]’jq¶“k‚`[nse]
-u‚ÖA‚ÖccA‚¨‚ñA‚Ècc‚¾B‚ÑA‚¶‚ñA‚ªA‚¢‚éA[r]
-‚¼ccv[pcms]
+[ns]Male Student A[nse]
+H-He... he... on, na... da. Bi, jin, ga, iru, zo...[pcms]
 
-;‹à’Z”¯
+;é‡‘çŸ­é«ª
 [ChrSetEx layer=1 chbase="zom_03_b"]
 [ChrSetXY layer=1 x=0 y=0]
 [trans_c cross time=150]
 
 *7628|
 [fc]
-[ns]’jq¶“k‚a[nse]
-u‚ `ccA‚©‚¢A‚¿‚åA‚¤cc‚¾ccv[pcms]
+[ns]Male Student B[nse]
+Ahh... ka-i... cho-u... da...[pcms]
 
-;ƒtƒcƒƒ“
+;ãƒ•ãƒ„ãƒ¡ãƒ³
 [ChrSetEx layer=3 chbase="zom_04_b"]
 [ChrSetXY layer=3 x=400 y=0]
 [trans_c cross time=150]
 
-;—
+;å¥³
 [ChrSetEx layer=4 chbase="zom_05_b"]
 [ChrSetXY layer=4 x=0 y=0]
 [trans_c cross time=150]
 
-;ƒfƒu
+;ãƒ‡ãƒ–
 [ChrSetEx layer=2 chbase="zom_02_b"]
 [ChrSetXY layer=2 x=520 y=0]
 [trans_c cross time=150]
 
 *7629|
 [fc]
-cc‚¢‚Â‚ÌŠÔ‚ÉIH@‚±‚Ì‚Ü‚Ü‚¶‚áˆÍ‚Ü‚ê‚¿‚Ü‚¤II@[pcms]
+... When did this happen!? If this continues, we'll be[r]surrounded!![pcms]
 
 *7630|
 [fc]
-“Ë‘RŒ»‚ê‚½‚¨‚©‚µ‚Èƒ„ƒc‚ç‚ÍA–¾‚ç‚©‚É²”Œ‚ğ‘_‚Á‚Ä‚¢[r]
-‚éB[r]
-‘‚­“¦‚°‚È‚¢‚ÆII[pcms]
+The strange guys who suddenly appeared are clearly targeting[r]Saeki.[l][er]
+We need to escape quickly!![pcms]
 
 *7631|
 [fc]
-[ns]‰Á“¡[nse]
-u²”ŒI@à‹³‚ÍŒã‚¾‚ÁI@‘–‚ê‚ÁII@‘½•ª‚à‚¤AŠw[r]
-‰€‘S‘Ì‚ªƒ„ƒoƒCII@ŠO‚Öo‚é‚¼I@‚±‚±‚©‚ço‚é‚ñ‚¾[r]
-IIv[pcms]
+[ns]Kato[nse]
+Saeki! There's no time for lecturing![l][er]
+Run!! The whole school is probably in danger!![l][er]
+Let's get out of here! We need to escape from this place!![pcms]
 
 *7632|
 [fc]
-²”Œ‚Ìè‚ğæ‚èA¸~Œû‚ÖŒü‚©‚¢‘–‚èo‚µ‚½B[pcms]
+Saeki took my hand and we started running towards the[r]staircase.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 [se0 storage="se005"]
 
 ;//;//BG:bg03b
 
-;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
+;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
 [bg storage="bg03b"]
 [trans_c cross time=500]
 
-;//SE:ƒhƒA‚ğ’@‚­
+;//SE:ãƒ‰ã‚¢ã‚’å©ã
 [se0 storage="se027"]
 
 
@@ -199,87 +196,84 @@
 
 *7633|
 [fc]
-¸~Œû˜L‰º‚ÅA‰´’B‚Í‘«‚ğ~‚ß‚½B[pcms]
+We stopped in the hallway near the staircase.[pcms]
 
 *7634|
 [fc]
-‚»‚±‚É‚Ícc“¦‚°o‚»‚¤‚Æ‚µ‚Ä‚¢‚½¸~Œû‚Ì“ü‚èŒû‚Ì‘‹[r]
-‚ÉA‘òR‚Ì•Ï‚Èƒ„ƒc‚ç‚ª‚Ö‚Î‚è•t‚¢‚Ä‚¢‚½B[pcms]
+There... on the window of the entrance to the staircase[r]where we were trying to escape, there were a bunch of[r]strange guys clinging onto it.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3047|
 [fc]
 [vo_sa s="sae0905"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñccAŠw‰€‚Ì“ü‚èŒû‚àAl‚ªccv[pcms]
+[ns]Saeki[nse]
+Kato-san... even the entrance of the school is filled with[r]people...[pcms]
 
 *7635|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚ ‚ ccv[pcms]
+[ns]Kato[nse]
+Ah, ah...[pcms]
 
 *7636|
 [fc]
-‚ ‚Ìl”‚Ì’†‚ğA‹ì‚¯”²‚¯‚é–‚Ío—ˆ‚È‚¢‚¾‚ë‚¤B‚±‚±[r]
-‚©‚çŠO‚Éo‚é‚Ì‚ÍA©Esˆ×‚É“™‚µ‚¢B[pcms]
+It's impossible to run through that crowd of people.[l][er]
+Trying to escape from here would be like committing suicide.[pcms]
 
 *7637|
 [fc]
-‚Å‚àccˆê‘Ì‚Ç‚±‚É“¦‚°‚½‚ç‚¢‚¢‚ñ‚¾H[pcms]
+But... where on earth should we run to?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3048|
 [fc]
 [vo_sa s="sae0906"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñI@Œã‚ë‚©‚çA”Ş‚ç‚ª’Ç‚¢‚©‚¯‚Ä—ˆ‚Ä‚¢‚Ü‚·Iv[pcms]
+[ns]Saeki[nse]
+Kato-san! They're chasing us from behind![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *7638|
 [fc]
-²”Œ‚ªw‚³‚·æ‚É‚ÍA‚³‚Á‚«Œ©‚½‚æ‚è‚à”‚ª‘‚¦‚½‚¨[r]
-‚©‚µ‚Èƒ„ƒc‚ç‚ª”—‚Á‚Ä—ˆ‚Ä‚¢‚½B‰´ˆêl‚Å—§‚¿Œü‚©‚Á‚ÄA[r]
-‚Ç‚¤‚É‚©o—ˆ‚él”‚¶‚á‚È‚¢B[pcms]
+There were more strange guys approaching from the direction[r]Saeki was pointing than when I last saw them.[l][er]
+It's not a number of people that I can handle alone and[r]somehow overcome.[pcms]
 
 *7639|
 [fc]
-ˆê‘Ì‚Ç‚¤‚·‚ê‚ÎccB[pcms]
+What on earth should we do...?[pcms]
 
 *7640|
 [fc]
-“¦‚°‚éccB[r]
-“¦‚°‚ŞccH[pcms]
+Run away... Escape...?[pcms]
 
 *7641|
 [fc]
-‰´‚ÍA‚ ‚éêŠ‚ğv‚¢o‚µ‚½B“¦‚°‚ñ‚Åcc‰B‚ê‚é‚Ì[r]
-‚ÉÅ‚à“K‚µ‚½êŠ‚ğB[pcms]
+I remembered a certain place. A place where we could[r]escape...[l][er]
+and hide, the most suitable place for it.[pcms]
 
 *7642|
 [fc]
-[ns]‰Á“¡[nse]
-ucc’n‰ºº‚¾I@ŠwH‚Ì‰º‚É“¦‚°‚é‚¼IIv[pcms]
+[ns]Kato[nse]
+... The basement! Let's escape under the cafeteria!![pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_d_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_d_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3049|
 [fc]
 [vo_sa s="sae0907"]
-[ns]²”Œ[nse]
-u‚ÍA‚Í‚¢Iv[pcms]
+[ns]Saeki[nse]
+Yes, yes![pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -288,7 +282,7 @@
 [se0 storage="se005"]
 
 ;//;//BG:bg04b
-;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
+;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
 [bg storage="bg04b"]
 [trans_c cross time=500]
 
@@ -298,15 +292,14 @@
 
 *7643|
 [fc]
-²”Œ‚Ìè‚ğˆø‚«A’Ç‚¢‚©‚¯‚Ä—ˆ‚Ä‚¢‚½“z‚ç‚Ì’†‚ğ“Ë‚ÁØ[r]
-‚Á‚Ä‘–‚Á‚½B­‚µ–³’ƒ‚ğ‚µ‚½‚¯‚ÇAK‚¢‚É‚µ‚Ä“ñl‚Æ‚à[r]
-–³–‚¾‚Á‚½B[pcms]
+Saeki pulled my hand and we ran through the midst of the[r]guys who were chasing us.[l][er]
+We took a bit of a risk, but thankfully both of us were[r]unharmed.[pcms]
 
 *7644|
 [fc]
-Œx‰ú‚µ‚È‚ª‚ç˜L‰º‚ği‚ñ‚¾B[r]
-‚µ‚©‚µA‚±‚±‚É‚Í•Ï‚È“z‚ç‚Ìp‚Í‚È‚©‚Á‚½B[r]
-‚Æ‚ÍŒ¾‚Á‚Ä‚àA‚Ü‚¾ˆÀS‚Ío—ˆ‚È‚¢B[pcms]
+We proceeded down the hallway cautiously.[l][er]
+However, there were no signs of those strange guys here.[l][er]
+That being said, we still couldn't let our guard down.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -315,28 +308,28 @@
 
 *7645|
 [fc]
-[ns]‰Á“¡[nse]
-u‚±‚±‚©‚çŠwH‚Ì’n‰º‚Ü‚Åˆê‹C‚É‘–‚é‚¼I@ŠwH‚É•Ï‚È[r]
-ƒ„ƒc‚ç‚ª‚¢‚Ä‚àA–³‹‚µ‚ë‚æH@‹©‚ñ‚¾‚èA‹¯‚¦‚½‚è‚·[r]
-‚é‚ñ‚¶‚á‚È‚¢‚¼IHv[pcms]
+[ns]Kato[nse]
+Let's run straight to the basement of the cafeteria from[r]here![l][er]
+Even if there are weird guys in the cafeteria, ignore them,[r]okay?[l][er]
+Don't scream or get scared, got it!?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3050|
 [fc]
 [vo_sa s="sae0908"]
-[ns]²”Œ[nse]
-u•ª‚©‚è‚Ü‚µ‚½IIv[pcms]
+[ns]Saeki[nse]
+Understood!![pcms]
 
 *7646|
 [fc]
-‰´’B‚ÍŠç‚ğŒ©‡‚í‚¹‚ÄA‚¤‚È‚¸‚«‡‚Á‚½B[r]
-²”Œ‚Ì–Ú‚É‚ÍA—Í‹­‚³‚ª–ß‚Á‚Ä‚«‚Ä‚¢‚½B[pcms]
+We looked at each other and nodded in agreement.[l][er]
+In Saeki's eyes, I could see a renewed sense of[r]determination.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -349,5 +342,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[07240]‚Ö
+;//[07240]ã¸
 [jump target=*07240_TOP storage="07240.ks"]

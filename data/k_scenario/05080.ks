@@ -1,21 +1,21 @@
 
-;//¡ËƒuƒƒbƒN05080w–é‚ÌOŠK˜L‰ºx
-;//BG:–³‚µ
-;//BG:OŠK˜L‰ºF–éFÁ“”^“_“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05080ã€å¤œã®ä¸‰éšå»Šä¸‹ã€
+;//BG:ç„¡ã—
+;//BG:ä¸‰éšå»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯ï¼ç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05080_TOP
-;[debug_win]‚È‚¤@05080[debug_win_end]
-;*SceneSet|w–é‚ÌOŠK˜L‰ºx
+;[debug_win]ãªã†ã€€05080[debug_win_end]
+;*SceneSet|ã€å¤œã®ä¸‰éšå»Šä¸‹ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05080 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05080 = 1"]
 
 ;	/*
-;	;//ôFBGM001
+;	;//â™ªï¼šBGM001
 ;	[bgm001]
 ;	
 ;	;//BG:bg006c
-;	;//Æ–¾‚Í—‚¿‚Ä‚¢‚é‚Ì‚Å06d
+;	;//ç…§æ˜ã¯è½ã¡ã¦ã„ã‚‹ã®ã§06d
 ;	
 ;	[bg storage="bg06d"]
 ;	[trans_c cross time=500]
@@ -26,29 +26,29 @@
 
 *4766|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Æ‚è‚ ‚¦‚¸A‰´‚ªŒ©‚Ä‚İ‚é‚©‚çv[pcms]
+[ns]Kato[nse]
+For now, let me take a look.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2043|
 [fc]
 [vo_sa s="sae0337"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
-;//SE:”à‚ğŠJ‚¯‚é
+;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
 [se0 storage="se008"]
 
 *4767|
 [fc]
-–Ù‚Á‚Ä‚¤‚È‚¸‚­²”Œ‚É‚¤‚È‚¸‚«•Ô‚µ‚ÄA‰´‚ÍƒhƒA‚ğ”¼•ª[r]
-ŠJ‚¯A“ª‚¾‚¯‚g‘g‚Ì‹³º‚Ì’†‚É“Ë‚Á‚ñ‚¾B[pcms]
+Saeki, who nodded silently, nodded back at me.[l][er]
+I opened the door halfway and stuck my head into Class H.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -65,25 +65,24 @@
 
 *4768|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *4769|
 [fc]
-‚Ü‚ŸA—H—ì‚È‚ñ‚©‚¢‚é‚í‚¯‚È‚¢‚¯‚Ç‚ÈccB‰´‚Ìì‚è˜b[r]
-‚¾‚µccB[pcms]
+Well, there's no way there are ghosts or anything...[l][er]
+It's just my made-up story...[pcms]
 
 *4770|
 [fc]
-¶‚«‚Ä‚¢‚élŠÔ‚à‚¢‚È‚¢‚±‚Æ‚ğŠm”F‚µ‚ÄA‰´‚ÍƒhƒA‚ÌŒ„[r]
-ŠÔ‚©‚ç“ª‚ğˆø‚«”²‚¢‚½B[pcms]
+I confirmed that there were no living humans, and I pulled[r]my head out from the gap in the door.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:”à‚ğ•Â‚ß‚é
+;//SE:æ‰‰ã‚’é–‰ã‚ã‚‹
 [se0 storage="se008"]
 
 ;//BG:bg006c
@@ -96,37 +95,37 @@
 
 *4771|
 [fc]
-[ns]‰Á“¡[nse]
-u’N‚à‚¢‚È‚¢‚ÈB—H—ì‚à—S“ñ’B‚àv[pcms]
+[ns]Kato[nse]
+There's no one here. Neither ghosts nor Yuuji and the[r]others.[pcms]
 
 *4772|
 [fc]
-‰´‚ÌŒ¾—t‚ÉA²”Œ‚Í‘å‚«‚­‘§‚ğ‚Â‚¢‚ÄA‹¯‚¦‚Ä‹­‚Î‚Á‚Ä[r]
-‚¢‚½Šç‚ğŒ³‚É–ß‚µ‚½B[pcms]
+Saeki took a deep breath at my words and returned her face[r]to its usual expression, no longer showing fear or tension.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2044|
 [fc]
 [vo_sa s="sae0338"]
-[ns]²”Œ[nse]
-uOŠK‚Å‚à‚È‚¢‚æ‚¤‚Å‚·‚Ëccv[pcms]
+[ns]Saeki[nse]
+It doesn't seem to be on the third floor...[pcms]
 
 *4773|
 [fc]
-[ns]‰Á“¡[nse]
-uêŠ‚ğ•Ï‚¦‚é‚©ccB‚¶‚áAs‚±‚¤‚ºv[pcms]
+[ns]Kato[nse]
+Should we change locations...?[l][er]
+Well then, let's go.[pcms]
 
 [se1 storage="se067"]
 
 *4774|
 [fc]
-‰´’B‚Í‚g‘g‚Ì‘O‚©‚ç—£‚êA—ˆ‚½“¹‚ğ–ß‚èn‚ß‚½B[pcms]
+We moved away from Class H and started to make our way back[r]along the path we came.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -146,13 +145,11 @@
 
 *4775|
 [fc]
-OŠK‚Ì˜L‰º‚ÍA‚¢‚Â‚àŒ©‚Ä‚¢‚é“ñŠK‚Ì˜L‰º‚Æ‚ÍA‚Ç‚±‚Æ[r]
-‚È‚­•µˆÍ‹C‚â‹ó‹C‚ªˆá‚¤‚æ‚¤‚Év‚¦‚éB[pcms]
+The third floor corridor seems to have a somewhat different[r]atmosphere and air compared to the second floor corridor[r]that we always see.[pcms]
 
 *4776|
 [fc]
-ˆê”Ôã‚ÌŠK‚¾‚©‚ç‚È‚Ì‚©A‚È‚ñ‚¾‚©‰º‚ÌŠK‚É‚¢‚élŠÔ‚æ[r]
-‚è‚©A—DˆÊ‚É—§‚Á‚½‚æ‚¤‚È‹C‚ª‚µ‚Ä‚­‚é‚Ì‚¾B[pcms]
+It feels like we have gained an advantage, perhaps because[r]we are on the top floor or because we feel superior to the[r]people on the lower floors.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -160,62 +157,59 @@
 
 *4777|
 [fc]
-[ns]‰Á“¡[nse]
-u‚È‚ŸA‚È‚ñ‚©‚³AOŠK‚É‚¢‚é‚ÆˆÌ‚­‚È‚Á‚½‚æ‚¤‚È‹C‚ª[r]
-‚µ‚È‚¢‚©H@©•ª‚ªˆê”Ôã‚É‚¢‚é‚¼I@‚Á‚Ä‚¢‚¤v[pcms]
+[ns]Kato[nse]
+Hey, don't you feel like we've become important when we're[r]on the third floor?[l][er]
+We're at the very top![pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2045|
 [fc]
 [vo_sa s="sae0339"]
-[ns]²”Œ[nse]
-u‚Ü‚é‚ÅA—V‹ï‚Ìˆê”Ô‚‚¢Š‚Éã‚Á‚½A¬‚³‚¢q‹Ÿ‚Ì‚æ[r]
-‚¤‚Å‚·‚Ëv[pcms]
+[ns]Saeki[nse]
+It's like a small child who has climbed to the highest point[r]of a playground.[pcms]
 
 *4778|
 [fc]
-—Í‚ğ“ü‚ê‚ÄŒ¾‚¤‰´‚ğŒ©‚ÄA¬‚³‚­Î‚Á‚½²”Œ‚Ì‚»‚ÌÎŠç[r]
-‚ÉA‰´‚ÌS‘Ÿ‚Ì“®‚«‚ª­‚µ‘¬‚­‚È‚éB[pcms]
+As Saeki looked at me, who was speaking with determination,[r]she smiled softly.[l][er]
+That smile of hers made my heart beat a little faster.[pcms]
 
 *4779|
 [fc]
-²”Œ‚Á‚ÄAÎ‚¤‚Æ‚©‚í‚¢‚¢‚ñ‚¾‚È[ccB[r]
-Î‚Á‚Ä‚é‚Æ‚±‚È‚ñ‚ÄA‚Ù‚Æ‚ñ‚ÇŒ©‚½‚±‚Æ‚È‚©‚Á‚½‚©‚çA[r]
-‹C‚ª‚Â‚©‚È‚©‚Á‚½ccB[pcms]
+Saeki, she's cute when she smiles...[l][er]
+I didn't realize it because I hardly ever saw her smile...[pcms]
 
 *4780|
 [fc]
-©•ªˆÈŠO‚É‚àA‚±‚Ì‚±‚Æ‚É‹C‚ª‚Â‚¢‚Ä‚¢‚é’j‚ªA‚¢‚é‚©[r]
-‚à‚µ‚ê‚È‚¢B[pcms]
+There might be other men who have noticed this, besides[r]myself.[pcms]
 
 *4781|
 [fc]
-‚»‚¤l‚¦‚é‚ÆA‰´‚Í­‚µ‰÷‚µ‚¢‹C‚ª‚µ‚½B‚Å‚«‚ê‚ÎA©[r]
-•ª‚¾‚¯‚Ì”é–§‚É‚µ‚Ä‚¨‚«‚½‚¢‚Æ‚Ü‚ÅA‰´‚Íl‚¦‚Ä‚¢‚½B[pcms]
+Thinking that way, I felt a little frustrated.[l][er]
+If possible, I wanted to keep it as my own secret, that's[r]what I thought.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2046|
 [fc]
 [vo_sa s="sae0340"]
-[ns]²”Œ[nse]
-u•’Ê‹³º“‚Å‚Í‚È‚¢‚Æ‚µ‚½‚çA‚ ‚Æ‚Ícc‘ÌˆçŠÙ‚Ì•û[r]
-‚Å‚µ‚å‚¤‚©ccv[pcms]
+[ns]Saeki[nse]
+If it's not the regular classroom building, then...[l][er]
+maybe it's the gymnasium...[pcms]
 
 *4782|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
@@ -223,51 +217,48 @@
 
 *4783|
 [fc]
-OŠK‚Ì˜L‰º‚ğ•à‚¢‚Ä‚¢‚ÄAv‚¢o‚µ‚½‚±‚Æ‚ª‚ ‚Á‚½B[pcms]
+While walking in the third floor corridor, I remembered[r]something.[pcms]
 
 *4784|
 [fc]
-‚±‚ÌŠwZ‚ÍAÅ‰‚Ì”NˆÈ~Ai‹‰‚µ‚Ä‚àAƒNƒ‰ƒX‘Ö‚¦‚Í[r]
-‚È‚¢B[pcms]
+In this school, there are no class changes even after the[r]first year.[pcms]
 
 *4785|
 [fc]
-‚Æ‚¢‚¤‚±‚Æ‚ÍA²”Œ‚ÌÎŠç‚Ì‚±‚Æ‚ğA‘¼‚Ì’j‚É’m‚ç‚ê‚é[r]
-‰Â”\«‚à’á‚­‚È‚éA‚Æ‚¢‚¤‚±‚Æ‚¾B[pcms]
+That means there is a low possibility of other men knowing[r]about Saeki's smile.[pcms]
 
 *4786|
 [fc]
-‚»‚Ì‘ã‚í‚èARŠİ‚³‚ñ‚Æ‚Íˆá‚¤ƒNƒ‰ƒX‚Ì‚Ü‚Ü‚É‚È‚é‚í‚¯[r]
-‚¾‚¯‚ÇccB[pcms]
+On the other hand, it means that I'll remain in a different[r]class from Yamagishi-san...[pcms]
 
-;//¦‘I‘ğˆ
-;//E‚Å‚àA¡‚ÌƒNƒ‰ƒX‚Ì•û‚ª‹S’n‚¢‚¢‚µ‚È;//[05081]‚Ö
-;//E‰´‚¾‚¯‚Ìê–åƒNƒ‰ƒX‚Æ‚©‚Å‚«‚È‚¢‚©‚Ècc;//[05082]‚Ö
+;//â€»é¸æŠè‚¢
+;//ãƒ»ã§ã‚‚ã€ä»Šã®ã‚¯ãƒ©ã‚¹ã®æ–¹ãŒå±…å¿ƒåœ°ã„ã„ã—ãª;//[05081]ã¸
+;//ãƒ»ä¿ºã ã‘ã®å°‚é–€ã‚¯ãƒ©ã‚¹ã¨ã‹ã§ããªã„ã‹ãªâ€¦â€¦;//[05082]ã¸
 
 
 *SEL_05080
 
 
-*SEL01|‚Å‚àA¡‚ÌƒNƒ‰ƒX‚Ì•û‚ª‹S’n‚¢‚¢‚µ‚È^‰´‚¾‚¯‚Ìê–åƒNƒ‰ƒX‚Æ‚©‚Å‚«‚È‚¢‚©‚È
+*SEL01|ã§ã‚‚ã€ä»Šã®ã‚¯ãƒ©ã‚¹ã®æ–¹ãŒå±…å¿ƒåœ°ã„ã„ã—ãªï¼ä¿ºã ã‘ã®å°‚é–€ã‚¯ãƒ©ã‚¹ã¨ã‹ã§ããªã„ã‹ãª
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '‚Å‚àA¡‚ÌƒNƒ‰ƒX‚Ì•û‚ª‹S’n‚¢‚¢‚µ‚È'"]
-[eval exp="f.seltext04 = '‰´‚¾‚¯‚Ìê–åƒNƒ‰ƒX‚Æ‚©‚Å‚«‚È‚¢‚©‚Ècc'"]
+[eval exp="f.seltext02 = 'ã§ã‚‚ã€ä»Šã®ã‚¯ãƒ©ã‚¹ã®æ–¹ãŒå±…å¿ƒåœ°ã„ã„ã—ãª'"]
+[eval exp="f.seltext04 = 'ä¿ºã ã‘ã®å°‚é–€ã‚¯ãƒ©ã‚¹ã¨ã‹ã§ããªã„ã‹ãªâ€¦â€¦'"]
 
 
-[if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
-	;‘I‘ğˆ“à—e‚ğƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
+[if exp="tf.sys_sub == 0 || tf.é¸æŠè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
+	;é¸æŠè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[—š—ğo—Í•œ‹A]
+[å±¥æ­´å‡ºåŠ›å¾©å¸°]
 
-;‘I‘ğˆƒx[ƒX
+;é¸æŠè‚¢ãƒ™ãƒ¼ã‚¹
 [selbase]
-;•¶š‚Ì¶ƒ}[ƒWƒ“
+;æ–‡å­—ã®å·¦ãƒãƒ¼ã‚¸ãƒ³
 [eval exp="sf.seltext_x = 200"]
 
 [sel02 target=*SEL_IMA]

@@ -552,7 +552,7 @@
 [eval exp="sf.text_r = 0"]
 
 ;デフォルトのフォントサイズ
-[deffont size=24]
+[deffont size=20]
 
 ;クリック待ちグリフ表示位置 Config.tjs glyphFixedTopも一応要変更
 ;[eval exp="sf.glyph_x = 980"]

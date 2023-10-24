@@ -1,20 +1,20 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02082wŠÓÜ‰ï‚ÌI‚í‚èx
-;//BG:‹’®ŠoºF–éF“_“”
-;//“oêl•¨GålŒöE—DEƒŠƒTE’|“àE“µ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02082ã€é‘‘è³ä¼šã®çµ‚ã‚ã‚Šã€
+;//BG:è¦–è´è¦šå®¤ï¼šå¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»ç«¹å†…ãƒ»ç³
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02082_TOP
-;[debug_win]‚È‚¤@02082[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02082 = 1"]
+;[debug_win]ãªã†ã€€02082[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02082 = 1"]
 
-;*SceneSet|wŠÓÜ‰ï‚ÌI‚í‚èx
+;*SceneSet|ã€é‘‘è³ä¼šã®çµ‚ã‚ã‚Šã€
 
 ;//[02082]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//BG:bg015c
 ;//[bg storage="bg15c"]
@@ -24,120 +24,112 @@
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v706|
 [fc]
 [vo_ri s="risa0216"]
-[ns]V“¹[nse]
-u‚ ‚Æ‚Í“c’†ŒN‚ÆŒÜ\—’‚³‚ñ‚ËB‹M•û’BA–{“–‚É“ñl‚ğ[r]
-Œ©‚Ä‚¢‚È‚¢‚ÌH@S“–‚½‚è‚à‚È‚¢Hv[pcms]
+[ns]Shindou[nse]
+And then there's Tanaka-kun and Igarashi-san.[l][er]
+Have you two really not seen them?[l][er]
+No idea at all?[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *1695|
 [fc]
-RŠİ‚³‚ñA^–çA²”Œ‚ÌOl‚ÍAæ¶‚ÌŒ¾—t‚É–³Œ¾‚Åèõ[r]
-‚¢‚½‚ªA‰´‚¾‚¯B–†‚È”½‰‚ğ‚µ‚½B[pcms]
+Yamagishi-san, Shinya, and Saeki all nodded silently in[r]response to the teacher's words, but I was the only one who[r]gave a vague reaction.[pcms]
 
 *1696|
 [fc]
-S“–‚½‚è‚Í‚ ‚éB‚Å‚àA‚Æ‚Ä‚à‚¶‚á‚È‚¢‚¯‚ÇA¡‚±‚±‚Å[r]
-Œ¾‚¦‚é‚æ‚¤‚È‚±‚Æ‚¶‚á‚È‚¢B[pcms]
+I have an idea. But, there's no way I can say it here and[r]now.[pcms]
 
 *1697|
 [fc]
-—‚Ìq“ñl‚Ì‘O‚ÅA‚µ‚©‚à—‚Ìæ¶‚Éw‚ ‚Ì“ñl‚ÍŠwZ[r]
-‚Ì‚Ç‚±‚©‚ÅƒZƒbƒNƒX‚µ‚Ä‚¢‚é‚Æv‚¢‚Ü‚·x‚È‚ñ‚ÄAŒ¾‚¦[r]
-‚é‚í‚¯‚ª‚È‚¢B[pcms]
+There's no way I can say something like I think those two[r]are having sex somewhere in the school in front of two[r]girls, especially a female teacher.[pcms]
 
 *1698|
 [fc]
-‚Å‚àAŒx@‚ªo‚Ä‚«‚½‚è‚Æ‚©A‘å–‚É‚È‚é‘O‚É•ñ‚µ‚Ä[r]
-‚¨‚¢‚½•û‚ª‚¢‚¢‚æ‚¤‚È‹C‚à‚·‚é‚µccB[pcms]
+But, it feels like it might be better to report it before it[r]becomes a big deal, like if the police were to get[r]involved...[pcms]
 
 *1699|
 [fc]
-—S“ñ’B‚Ì‚±‚Æ‚ğŒ¾‚¨‚¤‚©‚Ç‚¤‚µ‚æ‚¤‚©–À‚Á‚Ä‚¢‚é‚ÆAV[r]
-“¹æ¶‚Í¬‚³‚­‘§‚ğ‚Â‚¢‚ÄA‰´’B‚ÉŒ¾‚Á‚½B[pcms]
+As I hesitated on whether or not to talk about Yuuji and the[r]others, Shindou-sensei let out a small sigh and spoke to us.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v707|
 [fc]
 [vo_ri s="risa0217"]
-[ns]V“¹[nse]
-u­‚µZ“à‚ğŒ©‰ñ‚Á‚Ä‚«‚Ü‚·B‹M•û’B‚Í‚µ‚Î‚ç‚­A‚±‚±[r]
-‚É‚¢‚È‚³‚¢v[pcms]
+[ns]Shindou[nse]
+I'll take a look around the school for a bit.[l][er]
+You all stay here for a while.[pcms]
 
-;//SE:‚©‚½‚Á
+;//SE:ã‹ãŸã£
 [se0 storage="se022"]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v708|
 [fc]
 [vo_sa s="sae0087"]
-[ns]²”Œ[nse]
-u‚ ccv[pcms]
+[ns]Saeki[nse]
+Ah...[pcms]
 
 *1700|
 [fc]
-‹’®Šoº‚ğo‚Äs‚±‚¤‚Æ‚·‚éV“¹æ¶‚ÉA²”Œ‚ª‰½‚©‚ğ[r]
-Œ¾‚¢‚©‚¯‚½‚ªAŒ‹‹Ç‰½‚àŒ¾‚í‚¸‚ÉŒû‚ğ•Â‚¶‚½B[pcms]
+Saeki was about to say something to Shindou-sensei as she[r]tried to leave the audiovisual room, but in the end, she[r]closed her mouth without saying anything.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v709|
 [fc]
 [vo_ya s="yama0201"]
-[ns]RŠİ[nse]
-u‚Ë‚¦’|“àŒNA–{“–‚Éƒgƒ‚‚¿‚á‚ñ’BAŒ©‚È‚©‚Á‚½Hv[pcms]
+[ns]Yamagishi[nse]
+Hey, Takeuchi-kun, you really didn't see Tomo-chan and the[r]others?[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std204|
 [fc]
-[ns]’|“à[nse]
-u‚¾‚©‚ç’m‚ç‚È‚¢‚Á‚Ä‚Îccv[pcms]
+[ns]Takeuchi[nse]
+I'm telling you, I don't know...[pcms]
 
 *1701|
 [fc]
-ˆ¤‘z‚Ì‚È‚¢•Ô–‚ğ^–ç‚É‚³‚ê‚Ä’ú‚ß‚½‚Ì‚©ARŠİ‚³‚ñ‚Í[r]
-è‹ß‚ÈˆÖq‚É˜‚ğŠ|‚¯‚ÄA”æ‚ê‚½Šç‚Å‚¤‚È‚¾‚ê‚½B[pcms]
+Yamagishi-san, feeling discouraged by Shinya's[r]unenthusiastic response, sat down on a nearby chair and[r]lowered her head with a tired expression.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *1702|
 [fc]
-Ol‚Æ‚à”æ‚ê‚Ä‚¢‚é‚æ‚¤‚ÅA‚±‚±‚©‚ç“®‚­‚Â‚à‚è‚ÍAŒ©[r]
-‚½ŒÀ‚è‚Å‚Í‚È‚¢‚İ‚½‚¢‚¾B[pcms]
+It seems like all three of them are tired and don't seem to[r]have any intention of moving from here, at least from what I[r]can see.[pcms]
 
 *1703|
 [fc]
-‚È‚çA‰´‚ªV“¹æ¶‚ğ’Ç‚¢‚©‚¯‚Ä‚àA’N‚à‚Â‚¢‚Ä‚±‚È‚¢[r]
-‚¾‚ë‚¤B—S“ñ’B‚Ì‚±‚Æ‚ğæ¶‚É•ñ‚·‚é‚È‚ç¡‚¾B[pcms]
+If that's the case, even if I were to chase after Shindou-[r]sensei, no one would follow.[l][er]
+If we're going to report about Yuuji and the others to the[r]teacher, it should be now.[pcms]
 
 *1704|
 [fc]
-‰´‚Í‹’®Šoº‚ğo‚ÄAV“¹æ¶‚ğ’Ç‚Á‚½B[pcms]
+I left the audiovisual room and followed Shindou-sensei.[pcms]
 
-;//[02083]‚Ö
+;//[02083]ã¸
 [jump target=*02083_TOP storage="02083.ks"]
 

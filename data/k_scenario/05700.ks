@@ -1,15 +1,15 @@
 
-;//¡ËƒuƒƒbƒN05700w‡–°x
-;//BG:’n‰ººFÁ“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05700ã€ç¡çœ ã€
+;//BG:åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05700_TOP
-;[debug_win]‚È‚¤@05700[debug_win_end]
-;*SceneSet|w‡–°x
+;[debug_win]ãªã†ã€€05700[debug_win_end]
+;*SceneSet|ã€ç¡çœ ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05700 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05700 = 1"]
 
-;//ôFBGM010
+;//â™ªï¼šBGM010
 [bgm010]
 
 ;//;//BG:bg23b
@@ -23,38 +23,34 @@
 
 *6109|
 [fc]
-—×‚ÉÀ‚Á‚Ä‚¢‚é²”Œ‚Ì‘¶İ‚ğŠ´‚¶‚È‚ª‚çA‰´‚Í‚³‚Á‚«‚Ì[r]
-˜b‚µ‚ğv‚¢o‚µ‚Ä‚¢‚½B[pcms]
+While feeling the presence of Saeki sitting next to me, I[r]was recalling the conversation from earlier.[pcms]
 
 *6110|
 [fc]
-‚»‚¤‚¢‚¦‚ÎA‚»‚ñ‚È‚±‚Æ‚ ‚Á‚½‚È[ccB[r]
-‚·‚Á‚©‚è–Y‚ê‚Ä‚½ccB[pcms]
+Come to think of it, that did happen...[l][er]
+I completely forgot...[pcms]
 
 *6111|
 [fc]
-‚ ‚ÌA‹ô‘RŒ©‚©‚¯‚Ä•‚¯‚É“ü‚Á‚½‚Í‚¢‚¢‚¯‚ÇAÀ‚Í“à[r]
-SƒhƒLƒhƒL‚ÅA•‚¯‚½‘Šè‚ª’N‚©‚Æ‚©A‚»‚±‚Ü‚Å“ª‰ñ‚ç[r]
-‚È‚©‚Á‚½‚©‚ç‚ÈccB[pcms]
+At that time, it was a coincidence that I happened to see[r]and come to help, but to be honest, my heart was pounding.[l][er]
+I didn't really think about who the person I helped was or[r]anything like that...[pcms]
 
 *6112|
 [fc]
-‚ ‚ÌˆÍ‚Ü‚ê‚Ä‚½—‚ÌqA²”Œ‚¾‚Á‚½‚ñ‚¾‚ÈccB[r]
-‚ ‚Ì‚Ì‚±‚Æ‚ğŠo‚¦‚Ä‚ê‚ÎA‚à‚Á‚Æ‘‚­A²”Œ‚Æ’‡—Ç‚­[r]
-‚È‚ê‚Ä‚½‚©‚à‚È[ccB[pcms]
+That girl who was surrounded, it was Saeki...[l][er]
+If I had remembered that incident, maybe I could have become[r]friends with Saeki earlier...[pcms]
 
 *6113|
 [fc]
-‚»‚¤‚·‚ê‚ÎA‚à‚Á‚Æ‘‚­A²”Œ‚Ì‚±‚Æ‚ğD‚«‚É‚È‚ê‚½‚©[r]
-‚à‚µ‚ê‚È‚¢ccB[pcms]
+Maybe if I had done that, I could have fallen in love with[r]Saeki earlier...[pcms]
 
 *6114|
 [fc]
-ƒSƒƒ“‚ÈA²”ŒccB[pcms]
+I'm sorry, Saeki...[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
 
-;//[05710]‚Ö
+;//[05710]ã¸
 [jump target=*05710_TOP storage="05710.ks"]

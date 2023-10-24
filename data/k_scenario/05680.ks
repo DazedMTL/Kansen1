@@ -1,19 +1,19 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN05680wˆÙí•ñx
-;//;//BG:’n‰ººFÁ“”
-;//“oêl•¨GålŒöE“µ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05680ã€ç•°å¸¸å ±å‘Šã€
+;//;//BG:åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *05680_TOP
-;[debug_win]‚È‚¤@05680[debug_win_end]
-;*SceneSet|wˆÙí•ñx
+;[debug_win]ãªã†ã€€05680[debug_win_end]
+;*SceneSet|ã€ç•°å¸¸å ±å‘Šã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05680 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05680 = 1"]
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 
 [bgm007]
 
@@ -22,7 +22,7 @@
 [bg storage="bg23a"]
 [trans_c cross time=500]
 
-;//SE:”à‚ğ•Â‚ß‚é
+;//SE:æ‰‰ã‚’é–‰ã‚ã‚‹
 
 [se0 storage="se010"]
 
@@ -35,149 +35,140 @@
 
 ;;;[sysbt_meswin]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2499|
 [fc]
 [vo_sa s="sae0641"]
-[ns]²”Œ[nse]
-u—Ç‚©‚Á‚½A–³–‚Åccv[pcms]
+[ns]Saeki[nse]
+Thank goodness, you're safe...[pcms]
 
 *6048|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ ccv[pcms]
+[ns]Kato[nse]
+Aah...[pcms]
 
 *6049|
 [fc]
-’n‰ºº‚Ö–ß‚é‚ÆA•sˆÀ‚»‚¤‚ÈŠç‚ğ‚µ‚½²”Œ‚ª‹ì‚¯Šñ‚Á‚Ä[r]
-‚«‚ÄA‰´‚ğoŒ}‚¦‚½B[pcms]
+When I returned to the basement, Saeki, with an anxious[r]expression on her face, rushed over and greeted me.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2500|
 [fc]
 [vo_sa s="sae0642"]
-[ns]²”Œ[nse]
-u•¨¦‚¢Î‚¢º‚ª•·‚±‚¦‚Ä‚¢‚Ü‚µ‚½‚¯‚ê‚ÇA‰½‚¾‚Á‚½‚ñ[r]
-‚Å‚·‚©H@‚ ‚Ìºccv[pcms]
+[ns]Saeki[nse]
+I heard an incredibly loud laughter, what was that?[l][er]
+That voice...[pcms]
 
 *6050|
 [fc]
-[ns]‰Á“¡[nse]
-uRŠİ‚³‚ñ‚¾‚æA‚ ‚êccv[pcms]
+[ns]Kato[nse]
+It's Yamagishi-san, what's that...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2501|
 [fc]
 [vo_sa s="sae0643"]
-[ns]²”Œ[nse]
-uRŠİ‚³‚ñccHv[pcms]
+[ns]Saeki[nse]
+Yamagishi-san...?[pcms]
 
-;//SE:—â‘ ŒÉ‚Ìƒ‚[ƒ^[‰¹
+;//SE:å†·è”µåº«ã®ãƒ¢ãƒ¼ã‚¿ãƒ¼éŸ³
 [se0 storage="se044"]
 
 *6051|
 [fc]
-‰´‚Í’²—ê‚ÌƒJƒEƒ“ƒ^[‰z‚µ‚É‚Ì‚¼‚«Œ©‚½ARŠİ‚³‚ñA[r]
-ŒÜ\—’ƒTƒ“AV“¹æ¶‚ÌŠïs‚ğA²”Œ‚É˜b‚µ‚Ä•·‚©‚¹‚½B[pcms]
+I peeked through the counter of the kitchen and told Saeki[r]about the strange behavior of Yamagishi-san, Igarashi-san,[r]and Shindou-sensei.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2502|
 [fc]
 [vo_sa s="sae0644"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *6052|
 [fc]
-‰´‚Ì˜b‚·“à—e‚ÉA²”Œ‚ÍŒ¾—t‚ğ¸‚Á‚½B[pcms]
+Saeki was at a loss for words at what I was about to say.[pcms]
 
 *6053|
 [fc]
-–³—‚à‚È‚¢B‰´‚Å‚³‚¦ARŠİ‚³‚ñ‚ªˆÓ–¡‚à‚È‚­Î‚¤p‚ğ[r]
-v‚¢o‚·‚ÆAƒ]ƒb‚Æ‚µ‚Ä’¹”§‚ª—§‚Â‚®‚ç‚¢‚È‚Ì‚¾B[pcms]
+It's understandable. Even I, when I recall Yamagishi-san's[r]inexplicable laughter, feel a chill run down my spine.[pcms]
 
 *6054|
 [fc]
-[ns]‰Á“¡[nse]
-uŒ´ˆö‚ªƒNƒXƒŠ‚©‰½‚È‚Ì‚©‚í‚©‚ç‚È‚¢‚¯‚ÇA‰½‚©‚¨‚©‚µ[r]
-‚È‚±‚Æ‚ÉŠª‚«‚Ü‚ê‚Ä‚é‚Ì‚ÍŠm‚©‚İ‚½‚¢‚¾‚Èccv[pcms]
+[ns]Kato[nse]
+I don't know if it's because of drugs or something else, but[r]it seems like they're definitely involved in something[r]strange...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *6055|
 [fc]
-•|‚­‚È‚Á‚½‚Ì‚©A–T‚ÉŠñ‚Á‚ÄƒVƒƒƒc‚Ì‚ğ’Í‚ñ‚Å‚«‚½²[r]
-”Œ‚ğA‰´‚Í•ø‚«Šñ‚¹‚ÄAˆÀS‚³‚¹‚æ‚¤‚Æk‚¦‚é”w’†‚ğ‚³[r]
-‚·‚Á‚Ä‚â‚Á‚½B[pcms]
+Saeki, who seemed scared, approached me and grabbed the hem[r]of my shirt.[l][er]
+I embraced her and gently stroked her trembling back to[r]reassure her.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2503|
 [fc]
 [vo_sa s="sae0645"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *6056|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ñccH@‚Ç‚¤‚µ‚½Hv[pcms]
+[ns]Kato[nse]
+Hm...? What's wrong?[pcms]
 
 *6057|
 [fc]
-˜r‚Ì’†‚Ì²”Œ‚Ì‹ü‚ªA‰´‚Ìè‚ÉŒü‚¯‚ç‚ê‚Ä‚¢‚é‚±‚Æ‚É[r]
-‹C‚ª‚Â‚¢‚ÄA©•ª‚Ì–Ú‚à“¯‚¶Š‚ÖŒü‚¯‚Ä‚İ‚é‚ÆA‚»‚±‚É[r]
-‚Íˆ¬‚è’×‚³‚ê‚½Hƒpƒ“‚ª‚ ‚Á‚½B[pcms]
+Saeki, who was in my arms, noticed that her gaze was[r]directed towards my hand.[l][er]
+When I followed her gaze, I saw a squashed piece of bread in[r]my hand.[pcms]
+[l][er]
 
 *6058|
 [fc]
-[ns]‰Á“¡[nse]
-uƒSƒƒ“cc‹}‚ÉRŠİ‚³‚ñ’B‚ªo‚Ä‚«‚½‚©‚çccƒrƒbƒN[r]
-ƒŠ‚µ‚ÄA‚±‚¤AƒMƒ…ƒb‚Æccv[pcms]
+[ns]Kato[nse]
+Sorry... I got startled when Yamagishi-san and the others[r]suddenly appeared...[l][er]
+So, I instinctively... hugged you tightly...[pcms]
 
 *6059|
 [fc]
-î‚¯‚È‚¢Šç‚ÅA‚·‚Ü‚È‚»‚¤‚ÉŒ¾‚¤‰´‚ğŒ©‚ÄA²”Œ‚Í¬‚³[r]
-‚­Î‚Á‚½B[pcms]
+Saeki looked at me with a pitiful expression and smiled[r]softly as if to say It's okay.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2504|
 [fc]
 [vo_sa s="sae0646"]
-[ns]²”Œ[nse]
-u‚±‚ê‚Í‰Á“¡‚³‚ñ‚ªŠëŒ¯‚ğŒÚ‚İ‚¸A„‚Ìˆ×‚É‚Á‚Ä‚«‚Ä[r]
-‚­‚ê‚½•¨‚Å‚·BŒ`‚ª­‚µ•Ï‚í‚Á‚½‚®‚ç‚¢A–â‘è‚É‚à‚È‚è[r]
-‚Ü‚¹‚ñv[pcms]
+[ns]Saeki[nse]
+This is something Kato-san brought for me without[r]considering the danger.[l][er]
+It's not a problem even if it's a little squashed.[pcms]
 
 *6060|
 [fc]
-‹C‚ğŒ­‚¢A”÷Î‚İ‚©‚¯‚Ä‚­‚ê‚é²”Œ‚É‘Î‚µ‚ÄA‰´‚Í\‚µ[r]
-–ó‚È‚¢‹C‚¿‚Åˆê”t‚¾‚Á‚½B[pcms]
+I was filled with a sense of apology towards Saeki, who was[r]considerate and smiled at me.[pcms]
 
 *6061|
 [fc]
-²”Œ‚Ì‚±‚ÆA•|‚ª‚è‚Á‚Ä‚©‚ç‚©‚¦‚È‚¢‚ÈccB[r]
-l‚Ì‚±‚ÆŒ¾‚¦‚È‚¢‚à‚ñ‚È[ccB[pcms]
+I can't tease Saeki for being scared...[l][er]
+I can't say anything about other people either...[pcms]
 
 *6062|
 [fc]
-‰´’B‚Í°‚É˜‚ğ‰º‚ë‚µAˆ¬‚è’×‚µ‚Ä‚µ‚Ü‚Á‚½Hƒpƒ“‚ğ‘Ü[r]
-‚©‚çæ‚èo‚µ‚ÄAƒ‚ƒ\ƒ‚ƒ\‚ÆH‚×n‚ß‚½B[pcms]
+We sat down on the floor, took out the squashed bread from[r]the bag, and started eating it with a crunching sound.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -188,7 +179,7 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05690]‚Ö
+;//[05690]ã¸
 [jump target=*05690_TOP storage="05690.ks"]
 
 

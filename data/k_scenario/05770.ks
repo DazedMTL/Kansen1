@@ -1,15 +1,15 @@
 
-;//¡ËƒuƒƒbƒN05770w‹³º‘¤‚Öx
-;//BG:“Áê‹³º˜L‰ºF—[•ûFÁ“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05770ã€æ•™å®¤å´ã¸ã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05770_TOP
-;[debug_win]‚È‚¤@05770[debug_win_end]
-;*SceneSet|w‹³º‘¤‚Öx
+;[debug_win]ãªã†ã€€05770[debug_win_end]
+;*SceneSet|ã€æ•™å®¤å´ã¸ã€
 
 
 ;	/*
-;	;//ôFBGM005
+;	;//â™ªï¼šBGM005
 ;	[bgm009]
 ;	*/
 
@@ -18,9 +18,9 @@
 [bg storage="bg08a"]
 [trans_c cross time=500]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05770 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05770 = 1"]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 [se0 storage="se005"]
 
 
@@ -29,35 +29,32 @@
 
 *6183|
 [fc]
-[ns]‰Á“¡[nse]
-uˆêŠK‚Ì•’Ê‹³º‚ÉA‰B‚ê‚ç‚ê‚é‚æ‚¤‚È‚Æ‚±A[r]
-‚ ‚Á‚½‚©‚Èccv[pcms]
+[ns]Kato[nse]
+I wonder if there's a place in the regular classroom on the[r]first floor where we can hide...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_d_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 ;//
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2561|
 [fc]
 [vo_sa s="sae0674"]
-[ns]²”Œ[nse]
-u‰®ã‚Ös‚Á‚½•û‚ª‚¢‚¢‚©‚à‚µ‚ê‚Ü‚¹‚ñB‹‹…“ƒ‚Ì—l‚È[r]
-g‚ğ‰B‚¹‚é•¨‚à‘½­‚ ‚è‚Ü‚·‚µA‚¢‚´‚Æ‚È‚ê‚ÎA”ğ“ï—p[r]
-ƒVƒ…[ƒ^[‚ÅZ’ë‚Ü‚Å‰º‚è‚ç‚ê‚Ü‚·v[pcms]
+[ns]Saeki[nse]
+It might be better to go to the rooftop.[l][er]
+There are some things there where we can hide, like the[r]water tower, and if necessary, we can use the emergency[r]chute to go down to the schoolyard.[pcms]
 
 *6184|
 [fc]
-‰®ã‚©ccB[r]
-ã‚©‚ç‚È‚çAZÉ‚Ìü‚è‚É“z‚ç‚ª‚¢‚é‚©‚Ç‚¤‚©‚àˆê–Ú‚Å[r]
-‚í‚©‚é‚µA‚¢‚¢‚©‚à‚µ‚ê‚È‚¢ccB[pcms]
+The rooftop, huh... If we're up there, we can easily see if[r]those guys are around the school building.[l][er]
+It might be a good idea...[pcms]
 
 *6185|
 [fc]
-[ns]‰Á“¡[nse]
-u‚æ‚µcc‰®ã‚¾Iv[pcms]
+[ns]Kato[nse]
+Alright... the rooftop![pcms]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
@@ -65,14 +62,14 @@
 
 
 
-;—§‚¿
+;ç«‹ã¡
 
 ;//blackout
 ;g[backlay_c][chara_int][trans_c cross time=150]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05780]‚Ö
+;//[05780]ã¸
 [jump target=*05780_TOP storage="05780.ks"]
 
 

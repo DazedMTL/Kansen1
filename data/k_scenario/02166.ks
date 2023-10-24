@@ -1,22 +1,22 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02166wâ–]FğŒ•ªŠòx
-;//BG:‰®ãF’©
-;//“oêl•¨GålŒöE—DE’|“àE“µE“c’†E•ü”üEƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02166ã€çµ¶æœ›ï¼šæ¡ä»¶åˆ†å²ã€
+;//BG:å±‹ä¸Šï¼šæœ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…ãƒ»ç³ãƒ»ç”°ä¸­ãƒ»æœ‹ç¾ãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02166_TOP
-;[debug_win]‚È‚¤@02166[debug_win_end]
+;[debug_win]ãªã†ã€€02166[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02166 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02166 = 1"]
 
-;*SceneSet|wâ–]x
+;*SceneSet|ã€çµ¶æœ›ã€
 
-;//flag:—Dƒ‹[ƒgƒtƒ[@‚P‚T@•\¦
+;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼‘ï¼•ã€€è¡¨ç¤º
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 
 ;//[bgm008]
 
@@ -29,90 +29,86 @@
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std300|
 [fc]
-[ns]’|“à[nse]
-u‚Ü‚Á‚ÄA‚æ‚§cc‚äA‚¤‚¿‚áA‚Ÿ‚ñccƒ{AƒN‚Ì‚¿A[r]
-‚ñ‚Ûcc‚µ‚á‚ÔA‚Ä‚æA‚§ccv[pcms]
+[ns]Takeuchi[nse]
+Wait, hey... Yu, ucha, ahn... Bo, ku no chi, npo...[l][er]
+Shabu, te yo, o...[pcms]
 
 [ChrSetEx layer=1 chbase="risa_a_e_01"]
 [ChrSetXY layer=1 x=180 y=0]
 [ChrSetParts layer=1 chface="risa_a_e_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1159|
 [fc]
 [vo_ri s="risa0353"]
-[ns]V“¹[nse]
-u‚©‚ÆA‚­‚ñcc‚¹A‚ñ‚¹‚ÌA‚¨‚Ü‚ñA‚±cc‚àA‚¤A[r]
-‚®‚µ‚åA‚®A‚µ‚å‚ÈA‚Ìcc‚©A‚Æ‚¤‚­A‚ñ‚ÌA‚¨A‚¿[r]
-‚ñ‚¿A‚ñ‚Åcc‚¨‚ÜA‚ñ‚±A‚Ó‚³‚¢A‚Åccv[pcms]
+[ns]Shindou[nse]
+Kato-kun... Sensei's pussy... It's already so wet and[r]sticky...[l][er]
+Please put your penis inside me...[l][er]
+Fill my pussy...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *2987|
 [fc]
-ŒûX‚É‰º”Ú‚½Œ¾—t‚ğ“f‚«‚È‚ª‚çAŒÜl‚Í‚ä‚Á‚­‚è‚ÆA‚±[r]
-‚¿‚ç‚Ö‹ß‚Ã‚¢‚Ä‚­‚éB[pcms]
+The five of them slowly approach us, while spewing vulgar[r]words from their mouths.[pcms]
 
 *2988|
 [fc]
-[ns]‰Á“¡[nse]
-uƒNƒ\ƒbI@‚Ü‚¾—ˆ‚È‚¢‚Ì‚©‚æIIv[pcms]
+[ns]Kato[nse]
+Damn it! They still haven't come yet!![pcms]
 
 *2989|
 [fc]
-‹~••”‘à‚ÌƒwƒŠƒRƒvƒ^[‚Í‚Ü‚¾AŠX‚Ìã‹ó‚ğ”ò‚Ñ‰ñ‚Á‚Ä[r]
-‚¢‚ÄA‚±‚¿‚ç‚É—ˆ‚é—lq‚Í‚È‚¢B[pcms]
+The rescue helicopter is still flying around the sky above[r]the town and there doesn't seem to be any sign of it coming[r]here.[pcms]
+[l][er]
 
 *2990|
 [fc]
-”½‘Î‘¤‚Ìo“ü‚èŒû‚Ì‰®ª‚Éã‚Á‚½RŠİ‚³‚ñ‚ªAS”z‚»‚¤[r]
-‚ÈŠç‚Å‰´‚ğŒ©‚Ä‚¢‚éB[pcms]
+Yamagishi-san, who climbed onto the roof of the opposite[r]entrance, is looking at me with a worried expression.[pcms]
 
-;//¦ŠG–³‚µ
+;//â€»çµµç„¡ã—
 
 *v1160|
 [fc]
 [vo_ya s="yama0447"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒNII@Šë‚È‚¢‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun!! It's dangerous!![pcms]
 
 *2991|
 [fc]
-RŠİ‚³‚ñ‚ª‹©‚Ô‚Ì‚Æ“¯‚ÉAƒVƒƒƒc‚Ì‹¹‚Ì•Ó‚è‚ğ’Í‚Ü‚ê[r]
-‚é‚Ì‚ğŠ´‚¶‚½B[pcms]
+I felt my shirt being grabbed around the chest area at the[r]same time Yamagishi-san shouted.[pcms]
 
 *2992|
 [fc]
-[ns]‰Á“¡[nse]
-uIIv[pcms]
+[ns]Kato[nse]
+!![pcms]
 
 [ChrSetEx layer=1 chbase="tomo_b_d_04"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1161|
 [fc]
 [vo_to s="tomo0155"]
-[ns]ŒÜ\—’[nse]
-u‚â‚·‚äA‚«‚­‚ñA‚Ìcc‚Ç‚ñA‚ÈA‚¨‚¿‚ñA‚¿A‚ñ‚È[r]
-‚Ìcc‚ËA‚¥A‚È‚ßA‚³A‚¹‚Äcc‚¹A‚¢‚µA‚Ì‚ÜA‚¹[r]
-‚ÄA‚¥ccv[pcms]
+[ns]Igarashi[nse]
+Yasuyu, Kiku-kun, no... Don, na, ochin, chi, nna no...[l][er]
+Ne, e, name, sa, sete... Se, ishi, no ma, sete, e...[pcms]
 
 *2993|
 [fc]
-[ns]‰Á“¡[nse]
-uŒÜ\—’ƒTƒ“cc‚²‚ß‚ñ‚ÁIIv[pcms]
+[ns]Kato[nse]
+Igarashi-san... I'm sorry!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:‰£‚é
+;//SE:æ®´ã‚‹
 
 [se0 storage="se026"]
 
@@ -127,29 +123,28 @@
 
 *2994|
 [fc]
-‰´‚ÍŒÜ\—’ƒTƒ“‚Ì˜r‚ğ’@‚¢‚Ä•¥‚¢A‚³‚ç‚É• ‚ğR‚è”ò‚Î[r]
-‚µ‚½B[pcms]
+I slapped Igarashi-san's arm away and kicked her in the[r]stomach.[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_b_a_10"]
 [ChrSetXY layer=1 x=160 y=0]
 [ChrSetParts layer=1 chface="tanaka_b_a_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std301|
 [fc]
-[ns]“c’†[nse]
-u‚ÖA‚¦‚Öcc‚ä‚¤‚¿‚áA‚ñ‚ÌA‚Ü‚ñA‚±cc‚Ç‚ñA‚È[r]
-‚É‚¨A‚¢‚·A‚ñA‚Ìccv[pcms]
+[ns]Tanaka[nse]
+H-Heh... Yuu-chan's... pussy...[l][er]
+Don't say such obscene things...[pcms]
 
 *2995|
 [fc]
-[ns]‰Á“¡[nse]
-u‚±‚Ìcc‚ÁIIv[pcms]
+[ns]Kato[nse]
+This...![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:‰£‚é
+;//SE:æ®´ã‚‹
 
 [se0 storage="se026"]
 
@@ -164,10 +159,9 @@
 
 *2996|
 [fc]
-¡“x‚ÍA‰´‚Ì‰¡‚ğ’Ê‚è”²‚¯‚æ‚¤‚Æ‚µ‚½—S“ñ‚Éƒ^ƒbƒNƒ‹‚µ[r]
-‚ÄA’e‚«”ò‚Î‚·B[pcms]
+This time, I tackled Yuuji who was trying to pass by me and[r]sent him flying.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 [ChrSetEx layer=1 chbase="tanaka_b_a_10"]
 [ChrSetXY layer=1 x=160 y=0]
 [ChrSetParts layer=1 chface="tanaka_b_a_11"]
@@ -175,227 +169,214 @@
 
 *2997|
 [fc]
-‚¾‚ªA°‚É“|‚ê‚ñ‚Å‚àA—S“ñ‚Í‚·‚®‚É‹N‚«‚ ‚ª‚Á‚ÄA[r]
-‚Ü‚½•à‚«n‚ß‚½B[pcms]
+However, even though he fell to the floor, Yuuji quickly got[r]up and started walking again.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 [ChrSetEx layer=1 chbase="tomo_b_d_04"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
 *2998|
 [fc]
-‚³‚Á‚«’e‚«”ò‚Î‚µ‚½ŒÜ\—’ƒTƒ“‚àAŠù‚É‹N‚«‚ ‚ª‚Á‚ÄA[r]
-‰´‚ğ–Úw‚µ‚Ä‹ß‚Ã‚¢‚Ä‚«‚Ä‚¢‚éB[pcms]
+Igarashi-san, whom I had just sent flying earlier, had[r]already gotten up and was approaching me.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *2999|
 [fc]
-[ns]‰Á“¡[nse]
-uŠ®‘S‚ÉAƒAƒCƒc‚ç‚İ‚½‚¢‚Éccv[pcms]
+[ns]Kato[nse]
+Completely, just like those guys...[pcms]
 
 *3000|
 [fc]
-Œã‚ë‚ğU‚è•Ô‚é‚ÆA‚ ‚Æ‰½•à‚às‚©‚È‚¢Š‚Ü‚ÅA‚à‚¤ˆê[r]
-‚Â‚Ìo“ü‚èŒû‚É‹ß‚Ã‚¢‚Ä‚¢‚½B[pcms]
+When I turned around, I realized that I was only a few steps[r]away from the other entrance.[pcms]
 
 *3001|
 [fc]
-[ns]‰Á“¡[nse]
-uƒNƒ\ccv[pcms]
+[ns]Kato[nse]
+Damn...[pcms]
 
 *3002|
 [fc]
-‰®ª‚Ìã‚Éã‚éƒnƒVƒS‚Íˆê‚ÂB[r]
-‚Æ‚¢‚¤‚±‚Æ‚ÍAˆêl‚¸‚Â‚µ‚©ã‚ê‚È‚¢ccB[pcms]
+There is only one ladder to climb on the roof.[l][er]
+That means only one person can climb at a time...[pcms]
 
 *3003|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤‚©A‚»‚Ìè‚ªccv[pcms]
+[ns]Kato[nse]
+I see, so that's your plan...[pcms]
 
 *3004|
 [fc]
-‰´‚Í‰®ª‚Ìã‚É‘±‚­ƒnƒVƒS‚Ö‘–‚Á‚½B[pcms]
+I ran towards the ladder that leads to the roof.[pcms]
 
 *3005|
 [fc]
-‰®ª‚É‚Íˆêl‚¸‚Â‚µ‚©“o‚ê‚È‚¢B[r]
-‚Â‚Ü‚èA‰´‚ªæ‚É‰®ª‚Éã‚Á‚Ä‚µ‚Ü‚¦‚ÎAŒÜl‘Sˆõ‚ğ‘Š[r]
-è‚É‚µ‚È‚­‚Ä‚¢‚¢‚±‚Æ‚É‚È‚éB[pcms]
+Only one person can climb onto the roof.[l][er]
+In other words, if I can get to the roof first, I won't have[r]to deal with all five of them.[pcms]
 
 *3006|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚ê‚ÁIv[pcms]
+[ns]Kato[nse]
+There![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 [ChrSetEx layer=1 chbase="sae_d_d_12"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
 *3007|
 [fc]
-ƒnƒVƒS‚É”ò‚Ñ‚Â‚«A”’iã‚Á‚½‚Æ‚±‚ë‚ÅA‚¢‚Â‚ÌŠÔ‚É‚±[r]
-‚±‚Ü‚Å‹ß‚Ã‚¢‚Ä‚¢‚½‚Ì‚©A²”Œ‚ª‰´‚Ì‘«‚ğ’Í‚ñ‚Å‚¢‚½B[pcms]
+I jumped onto the ladder and climbed a few steps, but before[r]I knew it, Saeki had gotten so close and grabbed onto my[r]leg.[pcms]
 
-;//¦ŠG–³‚µ
+;//â€»çµµç„¡ã—
 
 *v1162|
 [fc]
 [vo_ya s="yama0448"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒN‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun!![pcms]
 
 *3008|
 [fc]
-[ns]‰Á“¡[nse]
-u‚­‚ÁccIv[pcms]
+[ns]Kato[nse]
+Ugh...![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1163|
 [fc]
 [vo_sa s="sae0088"]
-[ns]²”Œ[nse]
-u‚ ‚Ì‚ĞA‚Æ‚¾‚¯A‚¸A‚é‚¢cc‚í‚½A‚­A‚µ‚àA‚¨‚©[r]
-‚µA‚Ä‚­A‚¾‚³A‚¢cc‚©‚ÆA‚¤‚³‚ñccv[pcms]
+[ns]Saeki[nse]
+That day, just the two of us...[l][er]
+it was strange... I felt something...[l][er]
+different... towards you, Kato-kun...[pcms]
 
 *3009|
 [fc]
-[ns]‰Á“¡[nse]
-u—£‚¹A²”Œ‚ÁIIv[pcms]
+[ns]Kato[nse]
+Let go, Saeki!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *3010|
 [fc]
-‘«‚ğ’Í‚Ş²”Œ‚Ìè‚ğAR‚è”ò‚Î‚µ‚ÄŠO‚·‚ªA‚»‚ÌŠÔ‚É‹ß[r]
-‚Ã‚¢‚Ä‚«‚Ä‚¢‚½‘¼‚Ìll‚ªAŸX‚É‰´‚Ì‘Ì‚Éè‚ğL‚Î‚µ[r]
-n‚ß‚½B[pcms]
+I kicked Saeki's hand that was grabbing onto my leg and[r]managed to shake her off, but in that moment, the other four[r]who had been getting closer began reaching out for my body[r]one after another.[pcms]
 
 [ChrSetEx layer=1 chbase="take_c_a_06"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std306|
 [fc]
-[ns]’|“à[nse]
-uƒ{AƒN‚ªcc‚ä‚¤A‚¿‚á‚ñA‚Æ‚·‚éA‚ñA‚¾ccv[pcms]
+[ns]Takeuchi[nse]
+My, my heart... it's pounding, Yuu-chan...[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_b_d_04"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1164|
 [fc]
 [vo_to s="tomo0156"]
-[ns]ŒÜ\—’[nse]
-u‚â‚·‚ä‚«‚­‚ñcc‚¨‚Á‚ÏA‚¢A‚ÅA‚µ‚Ä‚ A‚°A‚é‚©[r]
-‚çcc‚¢A‚Ï‚¢A‚Ì‚Ü‚¹A‚Ä‚¥ccv[pcms]
+[ns]Igarashi[nse]
+Yasuyuki-kun... I'll, I'll give you a b-breast, so...[l][er]
+let me, let me put it in your mouth...[pcms]
 
 [ChrSetEx layer=1 chbase="risa_a_e_01"]
 [ChrSetXY layer=1 x=180 y=0]
 [ChrSetParts layer=1 chface="risa_a_e_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1165|
 [fc]
 [vo_ri s="risa0354"]
-[ns]V“¹[nse]
-u‚í‚½A‚µ‚Ìcc‚íA‚½‚µA‚ÌA‚¨‚¿‚ñA‚¿A‚ñcc‚Í[r]
-‚âA‚­‚¿‚å‚¤A‚¾A‚¢ccv[pcms]
+[ns]Shindou[nse]
+My... my... my penis... it's getting...[l][er]
+hard... quickly...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *3011|
 [fc]
-[ns]‰Á“¡[nse]
-u‚â‚ß‚ë‚ÁI@—£‚¹IIv[pcms]
+[ns]Kato[nse]
+Stop it! Let go!![pcms]
 
 *3012|
 [fc]
-ŸX‚ÆL‚Ñ‚Ä‚­‚éAwe—Fx‚âAw“²‚ê‚Ìlx‚¾‚Á‚½l[r]
-’B‚Ìè‚ğR‚è”ò‚Î‚µAŠO‚·‚±‚Æ‚É’Ç‚í‚êA‰´‚Íˆê’i‚àƒn[r]
-ƒVƒS‚ğã‚ê‚¸‚É‚¢‚½B[pcms]
+I kicked away the hands of the people who were approaching[r]one after another, the close friends and the person I[r]admired, and I was busy trying to shake them off, unable to[r]climb even a single step of the ladder.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *3013|
 [fc]
-[ns]‰Á“¡[nse]
-uƒNƒ\ƒbI@—£‚¹‚ÁI@‚±‚Ì‚ÁIv[pcms]
+[ns]Kato[nse]
+Damn it! Let go! You...![pcms]
 
 *v1166|
 [fc]
 [vo_ya s="yama0449"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒNI@ƒwƒŠƒRƒvƒ^[‚ª‚±‚Á‚¿‚É”ò‚ñ‚Å‚«‚Ä‚é‚ÁI[r]
-‘‚­ã‚ª‚Á‚Ä‚«‚ÄIIv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun! A helicopter is flying towards us![l][er]
+Hurry up and come up here!![pcms]
 
 *3014|
 [fc]
-[ns]‰Á“¡[nse]
-uIIv[pcms]
+[ns]Kato[nse]
+!![pcms]
 
-;//SE:ƒwƒŠƒRƒvƒ^[‚Ì‰¹@‹ß‚¢
+;//SE:ãƒ˜ãƒªã‚³ãƒ—ã‚¿ãƒ¼ã®éŸ³ã€€è¿‘ã„
 [se0 storage="se034"]
 
 *3015|
 [fc]
-Šm‚©‚ÉAƒwƒŠƒRƒvƒ^[‚Ìƒvƒƒyƒ‰‚Ì‰ñ“]‰¹‚ªA‚±‚¿‚ç‚Ö[r]
-‚Ç‚ñ‚Ç‚ñ‹ß‚Ã‚¢‚Ä‚«‚Ä‚¢‚éB[pcms]
+Indeed, the sound of the helicopter's propellers is getting[r]closer and closer to us.[pcms]
 
 *v1167|
 [fc]
 [vo_ya s="yama0450"]
-[ns]RŠİ[nse]
-u‚±‚Á‚¿I@‚±‚Á‚¿‚Å‚·[‚ÁI@‘‚­•‚¯‚Ä[‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+Over here! This way! Hurry and help us!![pcms]
 
 *3016|
 [fc]
-RŠİ‚³‚ñ‚ğŒ©‚Â‚¯‚½‚Ì‚©AƒwƒŠƒRƒvƒ^[‚Í‚·‚®‹ß‚­‚Ü‚Å[r]
-‚â‚Á‚Ä‚«‚ÄA’ˆ‚É—¯‚Ü‚Á‚½B[pcms]
+Did you find Yamagishi-san? The helicopter came very close[r]and hovered in the air.[pcms]
 
 *3017|
 [fc]
-‚±‚ê‚Åcc‚±‚ê‚ÅARŠİ‚³‚ñ‚à‰´‚à•‚©‚éII[pcms]
+With this... with this, both Yamagishi-san and I will be[r]saved!![pcms]
 
 *3018|
 [fc]
-‚±‚¿‚ç‚Ö‹@‘Ì‚Ì‘¤–Ê‚ğŒü‚¯‚½ƒwƒŠƒRƒvƒ^[‚©‚çA•ºm‚ª[r]
-e‚ğ\‚¦‚Äg‚ğæ‚èo‚µA‰´‚ÉŒQ‚ª‚éŒÜl‚ÉeŒû‚ğŒü‚¯[r]
-‚½B[pcms]
+The soldier on the helicopter, which had turned its side[r]towards us, leaned out with a gun in hand and pointed the[r]muzzle at the five people crowding around me.[pcms]
 
 *3019|
 [fc]
-[ns]‰Á“¡[nse]
-u‘‚­‚Ácc‰½‚Æ‚©‚µ‚Ä‚­‚ê‚ÁIIv[pcms]
+[ns]Kato[nse]
+Hurry... do something!![pcms]
 
-;//SE:eºiƒ‰ƒCƒtƒ‹j
+;//SE:éŠƒå£°ï¼ˆãƒ©ã‚¤ãƒ•ãƒ«ï¼‰
 [se0 storage="se038"]
 
 [bg storage="effect_red"][trans_c cross time=100]
 
 *3020|
 [fc]
-Š‰‚¢‚½”j—ô‰¹‚ª‹¿‚¢‚½uŠÔA‰´‚Í‘«‚ÉÕŒ‚‚ğŠ´‚¶AŒŒ‚ª[r]
-”ò‚ÑU‚é‚ÌŒ©‚½B[pcms]
+At the moment when a dry bursting sound echoed, I felt an[r]impact on my leg and saw blood splattering.[pcms]
 
 *3021|
 [fc]
-[ns]‰Á“¡[nse]
-u‚®‚ ‚ ‚ ‚ ‚ ‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚ÁIIIIIIIIv[pcms]
+[ns]Kato[nse]
+Guuaaaahhhhhhhhhhhh!!!!!![pcms]
 
-;//¦ğŒ•ªŠò
-;//Eflag:ƒf[ƒg‚Ì–ñ‘©‚ğ‚µ‚Ä‚¢‚È‚¢B@‚ªON;//[02167]‚Ö
-;//Eflag:ƒf[ƒg‚Ì–ñ‘©‚ğ‚µ‚Ä‚¢‚È‚¢B@‚ªOFF;//[04043]‚Ö
+;//â€»æ¡ä»¶åˆ†å²
+;//ãƒ»flag:ãƒ‡ãƒ¼ãƒˆã®ç´„æŸã‚’ã—ã¦ã„ãªã„ã€‚ã€€ãŒON;//[02167]ã¸
+;//ãƒ»flag:ãƒ‡ãƒ¼ãƒˆã®ç´„æŸã‚’ã—ã¦ã„ãªã„ã€‚ã€€ãŒOFF;//[04043]ã¸
 
 [if exp="f.NO_DATE==0"]
 	;[jump target=*SEL00_2166_NO_DATE]

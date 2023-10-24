@@ -1,18 +1,18 @@
 
-;//¡ËƒuƒƒbƒN06040w‚²‹@Œ™Šİ“cx
-;//BG:‘Ìˆç‹³Š¯ºF–éFÁ“”
-;//BG:‘Ìˆç‹³Š¯ºF–éF“_“”
-;//“oêl•¨GŠİ“cE—D
-;//‹“_FŠİ“c
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯06040ã€ã”æ©Ÿå«Œå²¸ç”°ã€
+;//BG:ä½“è‚²æ•™å®˜å®¤ï¼šå¤œï¼šæ¶ˆç¯
+;//BG:ä½“è‚²æ•™å®˜å®¤ï¼šå¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›å²¸ç”°ãƒ»å„ª
+;//è¦–ç‚¹ï¼šå²¸ç”°
 
 *06040_H_TOP
-;[debug_win]‚È‚¤@06040_H[debug_win_end]
+;[debug_win]ãªã†ã€€06040_H[debug_win_end]
 
-;*SceneSet|w‚²‹@Œ™Šİ“cx
+;*SceneSet|ã€ã”æ©Ÿå«Œå²¸ç”°ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_06040 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_06040 = 1"]
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 
 ;//[bgm007]
 
@@ -21,7 +21,7 @@
 [bg storage="bg17d"]
 [trans_c cross time=500]
 
-;//SE:”à‚ğŠJ‚¯‚é
+;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
 
 [se0 storage="se008"]
 
@@ -34,18 +34,18 @@
 
 ;;;[sysbt_meswin]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2620|
 [fc]
 [vo_ya s="yama0863"]
-[ns]RŠİ[nse]
-u‚¤‚íI@‚±‚±‚àˆÃ‚¢ccv[pcms]
+[ns]Yamagishi[nse]
+Wow! It's dark here too...[pcms]
 
 *6498|
 [fc]
-[ns]Šİ“c[nse]
-u‚»‚è‚á‚ A“”‚è•t‚¯‚Ä‚È‚¢‚©‚ç‚Èv[pcms]
+[ns]Kishida[nse]
+Well, that's because the lights aren't on.[pcms]
 
 ;//;//BG:bg17c
 
@@ -57,101 +57,99 @@
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2621|
 [fc]
 [vo_ya s="yama0864"]
-[ns]RŠİ[nse]
-u‚Ö[ccA‚±‚ñ‚È•—‚É‚È‚Á‚Ä‚½‚ñ‚¾ccv[pcms]
+[ns]Yamagishi[nse]
+Oh... it's become like this, huh...[pcms]
 
 *6499|
 [fc]
-[ns]Šİ“c[nse]
-u‚ ‚ A‚¨‘O‚Í‚±‚±‚É—ˆ‚½‚Ì‚ÍA‰‚ß‚Ä‚©v[pcms]
+[ns]Kishida[nse]
+Ah, is this your first time coming here?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2622|
 [fc]
 [vo_ya s="yama0865"]
-[ns]RŠİ[nse]
-u‚»‚¤‚Å‚·ccA‚±‚±‚©‚çA‘ÌˆçŠÙ‚Ì’†‚àŒ©‚ç‚ê‚é‚ñ‚Å[r]
-‚·‚ËccB‚Ö[Iv[pcms]
+[ns]Yamagishi[nse]
+Oh... from here, you can see inside the gymnasium too...[l][er]
+Wow![pcms]
 
 *6500|
 [fc]
-RŠİ‚ÍA‹»–¡’ÃX‚ÅAwéx‚Ì’†‚ğŒ©‰ñ‚µ‚Ä‚¢‚éB[pcms]
+Yamagishi is eagerly looking around inside the castle.[pcms]
 
 *6501|
 [fc]
-[ns]Šİ“c[nse]
-u‰½‚à‚È‚¢‚¼v[pcms]
+[ns]Kishida[nse]
+There's nothing here.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2623|
 [fc]
 [vo_ya s="yama0866"]
-[ns]RŠİ[nse]
-u‚¦H@‚¢‚âA‰½‚©’T‚µ‚Ä‚¢‚½–ó‚Å‚Íccv[pcms]
+[ns]Yamagishi[nse]
+Huh? No, I wasn't looking for anything...[pcms]
 
 *6502|
 [fc]
-[ns]Šİ“c[nse]
-u‚»‚¤‚©ccƒYƒAƒbƒnƒnI@‚ ‚ñ‚Ü‚èƒLƒ‡ƒƒLƒ‡ƒ‚µ‚Ä[r]
-‚½‚©‚ç‚Èƒ@I@‚¨‚¨A‚±‚ñ‚È•¨‚È‚çA‚ ‚é‚ª‚ÈIv[pcms]
+[ns]Kishida[nse]
+I see... Zua-haha! You were looking around so much![l][er]
+Oh, if it's something like this, I have it![pcms]
 
 *6503|
 [fc]
-’|“à‚©‚ç’D‚Á‚½ƒfƒWƒJƒ‚Ì‰æ‘œ‚ğŒ©‚¹‚Ä‚â‚ë‚¤B‚Ç‚ñ‚È[r]
-”½‰‚ğ‚·‚é‚Ì‚©AŠy‚µ‚İ‚¾I[pcms]
+I'll show you the pictures I took from Takeuchi.[l][er]
+I'm looking forward to seeing your reaction![pcms]
 
 *6504|
 [fc]
-[ns]Šİ“c[nse]
-uƒzƒŒI@‚Ç‚¤v‚¤Hv[pcms]
+[ns]Kishida[nse]
+Hey! What do you think?[pcms]
 
 *6505|
 [fc]
-RŠİ‚Ì–Ú‚ªAƒfƒWƒJƒ‚Ì‰æ‘œ‚É“B•t‚¯‚É‚È‚Á‚Ä‚¢‚éB–Ê[r]
-”’‚êƒF”½‰‚¾II[pcms]
+Yamagishi's eyes are glued to the digital camera images.[l][er]
+What an interesting reaction!![pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2624|
 [fc]
 [vo_ya s="yama0867"]
-[ns]RŠİ[nse]
-u‚ÈA‰½‚Å‚·‚©cc‚±‚ê‚ÍccB‰½‚ÅV“¹æ¶‚ªA‚±‚ñ[r]
-‚Èccv[pcms]
+[ns]Yamagishi[nse]
+W-What is this...? Why is Shindou-sensei involved in[r]something like this...?[pcms]
 
 *6506|
 [fc]
-[ns]Šİ“c[nse]
-u•Ê‚ÉA•|‚¢‰æ‘œ‚Å‚à‚ ‚é‚Ü‚¢‚µB‰½‚ğŒã‚¸‚³‚è‚µ‚Ä‚¢[r]
-‚é‚ñ‚¾Hv[pcms]
+[ns]Kishida[nse]
+It's not like there are any scary images or anything.[l][er]
+What are you hesitating for?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2625|
 [fc]
 [vo_ya s="yama0868"]
-[ns]RŠİ[nse]
-u‚¾A‚¾‚Á‚Äcc‚»‚êccAV“¹æ¶‚ªA‰½‚Å‚»‚ñ‚Èc[r]
-cv[pcms]
+[ns]Yamagishi[nse]
+B-But... that... Why is Shindou-sensei involved in something[r]like this...?[pcms]
 
-;//SE:ƒKƒ“iƒƒbƒJ[‚É‚Ô‚Â‚©‚éj
+;//SE:ã‚¬ãƒ³ï¼ˆãƒ­ãƒƒã‚«ãƒ¼ã«ã¶ã¤ã‹ã‚‹ï¼‰
 [se0 storage="se053"]
 
 [ChrSetEx layer=1 chbase="yuu_c_e_13"]
@@ -159,92 +157,91 @@
 [ChrSetParts layer=1 chface="yuu_c_e_14"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2626|
 [fc]
 [vo_ya s="yama0869"]
-[ns]RŠİ[nse]
-u‚«‚á‚ ‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Kyaa![pcms]
 
 *6507|
 [fc]
-[ns]Šİ“c[nse]
-uƒkƒbƒtƒDccB“¦‚°‚È‚­‚Ä‚à‚¢‚¢‚¾‚ë‚¤IHv[pcms]
+[ns]Kishida[nse]
+Nuffu... You don't have to run away, you know!?[pcms]
 
 *6508|
 [fc]
-‚¶‚è‚¶‚è‚ÆARŠİ‚Æ‚Ì‹——£‚ğk‚ß‚Ä‚¢‚­B[pcms]
+Slowly but surely, the distance between Yamagishi and me is[r]getting closer.[pcms]
 
 *6509|
 [fc]
-RŠİ‚Ì”w’†‚ÍƒƒbƒJ[‚¾ccB‚±‚êˆÈã‚³‚ª‚ê‚È‚¢ccB[pcms]
+Yamagishi's back is against the locker...[l][er]
+I can't go any lower than this...[pcms]
 
 *6510|
 [fc]
-•K€‚ÉŒã‚¸‚³‚è‚µ‚æ‚¤‚ÆA‘«‚ğ‚à‚ª‚©‚¹‚Ä‚¢‚éƒEƒ`‚Éƒ[r]
-ƒbƒJ[‚ªŠJ‚¢‚ÄA’†‚©‚ç‰´‚Ì—V‚Ñ“¹‹ï‚ª”ò‚Ño‚µ‚Ä‚«‚½B[pcms]
+As I desperately tried to step back, my feet got tangled up[r]and just as the locker opened, my playthings came flying out[r]from inside.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_c_09"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2627|
 [fc]
 [vo_ya s="yama0870"]
-[ns]RŠİ[nse]
-u‰½‚±‚êH@‚ÄAèùH@‚»‚ê‚ÉccA‚¢A‚¢‚â‚Ÿ‚ ‚ [r]
-‚ IIv[pcms]
+[ns]Yamagishi[nse]
+What's this? H-Handcuffs? And...[l][er]
+N-No wayyy!![pcms]
 
 *6511|
 [fc]
-ƒkƒtƒbccB[r]
-v‚Á‚½’Ê‚è‚¾B‚È‚©‚È‚©‚¢‚¢º‚Å–Â‚­‚¶‚á‚Ë‚¥‚©I[pcms]
+Nuffu... Just as I thought. You're making such a nice sound![pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_e_13"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 ;//
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2628|
 [fc]
 [vo_ya s="yama0871"]
-[ns]RŠİ[nse]
-uæ¶II@„A„‚Í‰½‚àcc‰½‚àŒ©‚Ä‚¢‚Ü‚¹‚ñ‚©‚çI[r]
-‰½‚àŒ©‚Ä‚È‚¢‚Å‚·‚©‚çccIv[pcms]
+[ns]Yamagishi[nse]
+Sensei!! I-I didn't see anything...[l][er]
+I didn't see anything at all![pcms]
 
 *6512|
 [fc]
-–{“–‚ÉA‚¢‚¢º‚¾I@‚½‚Ü‚ç‚Ë‚¥II[pcms]
+Really, such a good voice! It's irresistible!![pcms]
 
 *6513|
 [fc]
-[ns]Šİ“c[nse]
-uƒYƒ@ƒbƒnƒbƒnII@RŠİƒBIIv[pcms]
+[ns]Kishida[nse]
+Zaaahhhaahha!! Yamagishi![pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_e_13"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_e_14"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2629|
 [fc]
 [vo_ya s="yama0872"]
-[ns]RŠİ[nse]
-u‚«‚á‚Ÿ‚ ‚ ‚ ‚ ‚ IIv[pcms]
+[ns]Yamagishi[nse]
+Kyaaaahhhhh!![pcms]
 
 *6514|
 [fc]
-[ns]Šİ“c[nse]
-uƒEƒ‹ƒZƒFIv[pcms]
+[ns]Kishida[nse]
+You're annoying![pcms]
 
-;//SE:•½è
+;//SE:å¹³æ‰‹
 [se0 storage="se048"]
 ;[backlay_c][chara_int][trans_c cross time=150]
 [flash_wh]
@@ -259,23 +256,24 @@
 [quake_chara layer=1 lo xy m]
 
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2630|
 [fc]
 [vo_ya s="yama0873"]
-[ns]RŠİ[nse]
-u‚¤ccv[pcms]
+[ns]Yamagishi[nse]
+Uhh...[pcms]
 
-;//SE;ƒhƒTƒb
+;//SE;ãƒ‰ã‚µãƒƒ
 [se0 storage="se021"]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *6515|
 [fc]
-ccÅ‹ß‚Ìá‚¢ƒ„ƒc‚ÍA­‚µ¬“Ë‚­‚Æ‚·‚®ƒRƒŒ‚¾ccB[r]
-‚Ü‚ AD“s‡‚¾‚ª‚ÈccBƒkƒbƒtƒDccB[pcms]
+... These young ones nowadays, they get all worked up with[r]just a little push...[l][er]
+Well, it's convenient for me though...[l][er]
+Nuffu...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -286,7 +284,7 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[06050]‚Ö
+;//[06050]ã¸
 [jump target=*06050_H_TOP storage="06050_H.ks"]
 
 

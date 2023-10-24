@@ -1,154 +1,148 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN0017w’N‚Ìì‚Á‚½—¿—‚ªˆê”Ô”ü–¡‚µ‚¢‚©H@‰‰ñƒvƒŒƒCx
-;//BG:Šw‰€“àŠwHF—[•û
-;//“oêl•¨GålŒöE—DE“µE•ü”üE’|“àE“c’†
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0017ã€èª°ã®ä½œã£ãŸæ–™ç†ãŒä¸€ç•ªç¾å‘³ã—ã„ã‹ï¼Ÿã€€åˆå›ãƒ—ãƒ¬ã‚¤ã€
+;//BG:å­¦åœ’å†…å­¦é£Ÿï¼šå¤•æ–¹
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 
 *0017_TOP
-;[debug_win]‚È‚¤@0017[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0017 = 1"]
+;[debug_win]ãªã†ã€€0017[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0017 = 1"]
 
-;*SceneSet|w’N‚Ìì‚Á‚½—¿—‚ªˆê”Ô”ü–¡‚µ‚¢‚©Hx
+;*SceneSet|ã€èª°ã®ä½œã£ãŸæ–™ç†ãŒä¸€ç•ªç¾å‘³ã—ã„ã‹ï¼Ÿã€
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//BG:bg014b
 
-;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
+;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
 [bg storage="bg14b"]
 [trans_c cross time=500]
 
 *456|
 [fc]
-—[H‚Ì€”õ‚ª‘S‚Ä®‚¢A‰´’B‚ÍÈ‚É’…‚¢‚½‚Ì‚¾‚ªA‚»‚±[r]
-‚ÉV“¹æ¶‚Ìp‚Í‚È‚©‚Á‚½B[pcms]
+The preparations for dinner were all set, and we took our[r]seats, but Shindou-sensei was nowhere to be seen.[pcms]
+[l][er]
 
 *457|
 [fc]
-²”Œ‚Ì˜b‚É‚æ‚ê‚ÎAV“¹æ¶‚Í‰´’B‚ªŠwZ‚É’…‚¢‚½‚É[r]
-‚Í—[H‚ğÏ‚Ü‚¹‚Ä‚¢‚½‚»‚¤‚ÅA‚±‚ÌŠÔ‚Í‹’®Šoº‚Ì‹@[r]
-Ş‚Ì€”õ‚ğ‚µ‚Ä‚¢‚éA‚Æ‚¢‚¤‚±‚Æ‚¾‚Á‚½B[pcms]
+According to Saeki's story, it seems that Shindou-sensei had[r]already finished dinner by the time we arrived at school,[r]and at this time, they were preparing the equipment in the[r]audiovisual room.[pcms]
 
 *458|
 [fc]
-‚¹‚Á‚©‚­‚¾‚©‚çAV“¹æ¶‚Æ‚àˆê‚ÉH‚×‚½‚©‚Á‚½B[pcms]
+I wanted to eat together with Shindou-sensei since we were[r]all here.[pcms]
 
 *459|
 [fc]
-w”Ş‚¢‚é‚ñ‚Å‚·‚©x‚Æ‚©AFX’®‚«‚½‚©‚Á‚½‚Ì‚ÉB[r]
-c”O‚¾‚ÈB[pcms]
+I wanted to ask various things like 'Do you have a[r]boyfriend?[l][er]
+' It's a shame.[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_a_a_01"]
 [ChrSetXY layer=1 x=160 y=0]
 [ChrSetParts layer=1 chface="tanaka_a_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std95|
 [fc]
-[ns]“c’†[nse]
-u‚»‚ê‚¶‚á[‚İ‚È‚³‚ñI@‚¢[‚½[‚¾[‚«[‚Ü‚·Iv[pcms]
+[ns]Tanaka[nse]
+Alright everyone! Let's dig in![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//RŠİE²”ŒEŒÜ\—’‰¹ºƒAƒŠ
+;//å±±å²¸ãƒ»ä½ä¼¯ãƒ»äº”ååµéŸ³å£°ã‚¢ãƒª
 ;[vo_ya s="yama0052"]
 ;[vo_sa s="sae0044"]
 ;[vo_to s="tomo0028"]
-;[vo_to s="tomo0028"]¦Grep—pƒ_ƒ~[
-;mm ‡‚í‚¹ƒ{ƒCƒX‚ ‚Æ‚Å1ƒtƒ@ƒCƒ‹‚É
+;[vo_to s="tomo0028"]â€»Grepç”¨ãƒ€ãƒŸãƒ¼
+;mm åˆã‚ã›ãƒœã‚¤ã‚¹ã‚ã¨ã§1ãƒ•ã‚¡ã‚¤ãƒ«ã«
 *v193|
 [fc]
 [vo_mob s="mix0001"]
-[ns]ˆê“¯[nse]
-u‚¢[‚½[‚¾[‚«[‚Ü‚·Iv[pcms]
+[ns]everyone[nse]
+Itadakimasu![pcms]
 
-;//SE:H–‚ÌƒJƒ`ƒƒƒJƒ`ƒƒ‰¹
+;//SE:é£Ÿäº‹ã®ã‚«ãƒãƒ£ã‚«ãƒãƒ£éŸ³
 [se0 storage="se014"]
 
 *460|
 [fc]
-¬ŠwZ‚Ì‹‹HŠÔ•—‚Ìˆ¥A‚ÅA‰´’B‚Ì”Ó`‚Ín‚Ü‚Á‚½B[pcms]
+Our dinner began with a greeting reminiscent of elementary[r]school lunchtime.[pcms]
 
 *461|
 [fc]
-ƒe[ƒuƒ‹‚É‚ÍA—q‚ªì‚Á‚½‚Å‚«‚½‚Ä‚Ì—¿—‚ªFX‚Æ•À[r]
-‚×‚ç‚ê‚Ä‚¢‚ÄA‚Ç‚ê‚à’†X‚¨‚¢‚µ‚»‚¤‚¾B[pcms]
+On the table, there were various freshly made dishes[r]prepared by the girls, and all of them looked quite[r]delicious.[pcms]
 
 *462|
 [fc]
-RŠİ‚³‚ñ‚Ì‚Í—m•—‚ÉƒXƒpƒQƒbƒeƒB‚ÆƒTƒ‰ƒ_AŒÜ\—’ƒTƒ“[r]
-‚Í—³“c—g‚°‚É‚²”ÑE–¡‘X`‚ÆA‰Æ’ë—¿—•—‚¾B[pcms]
+Yamagishi-san's dish is a Western-style spaghetti and salad,[r]while Igarashi-san's dish is a home-cooked style with fried[r]chicken, rice, and miso soup.[pcms]
 
 *463|
 [fc]
-©M‚Ì–³‚³‚»‚¤‚ÈŠç‚ğ‚µ‚Ä‚¢‚é²”Œ‚Ì‘O‚É‚ ‚é‚Ì‚ÍA“ñ[r]
-í—Ş‚Ìƒ`ƒƒ[ƒnƒ“B‘åM‚É‚½‚¾“ü‚ê‚½‚¾‚¯A‚Æ‚¢‚Á‚½Œ©[r]
-‚½–Ú‚Í­XƒAƒŒ‚¾‚¯‚ÇA‚¢‚¢“õ‚¢‚ª‚µ‚Ä‚­‚éB[pcms]
+In front of Saeki, who has a face that lacks confidence,[r]there are two types of fried rice.[l][er]
+The appearance is a bit lacking, as if it was just put on a[r]large plate, but it smells good.[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std96|
 [fc]
-[ns]’|“à[nse]
-u‰½‚µ‚Ä‚ñ‚ÌH@—S“ñv[pcms]
+[ns]Takeuchi[nse]
+What are you doing, Yuuji?[pcms]
 
 *464|
 [fc]
-^–ç‚Ìº‚É—S“ñ‚ğŒ©‚é‚ÆAŒÜ\—’ƒTƒ“‚Ì—³“c—g‚°‚ªæ‚Á[r]
-‚½M‚ªAƒ\ƒƒ\ƒ‚ÆˆÚ“®‚µ‚Ä‚¢‚éÅ’†‚¾‚Á‚½B[pcms]
+Yuuji looked at Shinya's voice and noticed that Igarashi-[r]san's plate with tempura was slowly moving.[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std97|
 [fc]
-[ns]’|“à[nse]
-u‚Ğ‚Æ‚èè‚ß‚·‚é‹CIH@ƒYƒ‹ƒC‚æI@ƒ{ƒN‚¾‚Á‚Ä•ü”ü[r]
-‚³‚ñ‚Ìè—¿—H‚×‚½‚¢IIv[pcms]
+[ns]Takeuchi[nse]
+Are you planning to hog it all for yourself!?[l][er]
+That's not fair! I want to eat Tomomi-san's homemade cooking[r]too!![pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_a_a_01"]
 [ChrSetXY layer=1 x=160 y=0]
 [ChrSetParts layer=1 chface="tanaka_a_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std98|
 [fc]
-[ns]“c’†[nse]
-uƒgƒ‚ƒ~ƒ“‚Ìè—¿—‚ğH‚¤‚È‚ñ‚ÄAl\˜Z‰­µç–œ”N‘[r]
-‚¢‚ñ‚¾‚æI@ƒvƒ‰ƒ“ƒNƒgƒ“‚©‚ç‚â‚è’¼‚µ‚Ä‚±‚¢IIv[pcms]
+[ns]Tanaka[nse]
+Eating Tomomi's homemade cooking is something that won't[r]happen for another 4.[l][er]
+67 billion years! Go back to being a plankton and start[r]over!![pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_c_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_c_c_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v194|
 [fc]
 [vo_to s="tomo0029"]
-[ns]ŒÜ\—’[nse]
-u‚¦‚Ö‚Öcc‚Å‚àA“ñl‚Æ‚àAŒ–‰Ü‚µ‚È‚¢‚Å‚æccv[pcms]
+[ns]Igarashi[nse]
+Ehehe... But, both of you, please don't fight...[pcms]
 
 *465|
 [fc]
-^–ç‚Íƒe[ƒuƒ‹‚É• ‚Î‚¢‚É‚È‚Á‚Ä‚Ü‚ÅM‚É”¢‚ğL‚Î‚µA[r]
-—S“ñ‚Í“Í‚©‚¹‚Ü‚¢‚ÆA‚³‚ç‚ÉM‚ğ‰“‚­‚É‰Ÿ‚µ‚â‚éB[pcms]
+Shinya stretched his chopsticks towards the plate, even[r]going so far as to lie on his stomach on the table.[l][er]
+Yuuji, not wanting him to reach it, pushed the plate even[r]further away.[pcms]
 
-;//SE:H–‚ÌƒJƒ`ƒƒƒJƒ`ƒƒ‰¹
+;//SE:é£Ÿäº‹ã®ã‚«ãƒãƒ£ã‚«ãƒãƒ£éŸ³
 [se0 storage="se014"]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
@@ -156,65 +150,62 @@
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std99|
 [fc]
-[ns]’|“à[nse]
-uâ‘ÎH‚×‚Ä‚â‚é‚¤‚¤‚¤‚£‚£‚£‚£IIIIv[pcms]
+[ns]Takeuchi[nse]
+I'm definitely going to eat itttttt!!!!!![pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_a_a_01"]
 [ChrSetXY layer=1 x=160 y=0]
 [ChrSetParts layer=1 chface="tanaka_a_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std100|
 [fc]
-[ns]“c’†[nse]
-u‚³‚¹‚é‚©‚ ‚ ‚ ‚Ÿ‚Ÿ‚Ÿ‚ŸIIIIv[pcms]
+[ns]Tanaka[nse]
+There's no way I'll let youuuuuuuu!!!!!![pcms]
 
 *466|
 [fc]
-‚Ü‚é‚Åq‹Ÿ‚ÌƒPƒ“ƒJ‚Ì‚æ‚¤‚È‚â‚èæ‚è‚ÍA‰´‚É‚Í‚à‚¤Œ©[r]
-–O‚«‚½ŒõŒi‚¾‚¯‚ÇARŠİ‚³‚ñ‚É‚Í‘åƒEƒP‚¾‚Á‚½B[pcms]
+The exchange, which was like a childish fight, was a scene[r]that I had grown tired of, but it was a big hit for[r]Yamagishi-san.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v195|
 [fc]
 [vo_ya s="yama0053"]
-[ns]RŠİ[nse]
-u‚ ‚Í‚Í‚ÍI@‚È‚ñ‚©ŒZ’í‚İ‚½‚¢AƒtƒtƒbA‚ ‚Í‚ÍIv[pcms]
+[ns]Yamagishi[nse]
+Ahahaha! They're like brothers, hehe, ahahaha![pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v196|
 [fc]
 [vo_sa s="sae0045"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *467|
 [fc]
-²”Œ‚Í•ğ‚êŠç‚ÅA“ñl‚Ì‚ ‚Ü‚è‚Ì—c’t‚³‚ÉA‚à‚¤‘åº‚ğ[r]
-o‚·‹C—Í‚à¸‚Á‚½‚ç‚µ‚¢B[pcms]
+Saeki seemed to have lost the energy to even raise her[r]voice, with a look of exasperation on her face at the[r]immaturity of the two.[pcms]
 
 *468|
 [fc]
-•ğ‚ê‚½•\î‚©‚çA‚Ó‚ÆA—J‚¢‚ğ‘Ñ‚Ñ‚½A‘ål‚Ì—l‚È•\î[r]
-‚É‚È‚é²”Œ‚ğA‰´‚¾‚¯‚ªŒ©‚Ä‚¢‚½B[pcms]
+Only I could see Saeki's expression, which changed from a[r]look of exasperation to a somewhat melancholic, adult-like[r]expression.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=0 y=0]
@@ -224,12 +215,12 @@
 
 *469|
 [fc]
-‘ÎÆ“I‚È”½‰‚ğŒ©‚¹‚éRŠİ‚³‚ñ‚Æ²”ŒB[pcms]
+Yamagishi-san and Saeki showed contrasting reactions.[pcms]
 
 *470|
 [fc]
-RŠİ‚³‚ñ‚Ì‚ ‚Ç‚¯‚È‚¢ÎŠçB[r]
-²”Œ‚Ì•ğ‚ê‚½—l‚ÈA‘ål‚Ñ‚½•\îB[pcms]
+Yamagishi-san's innocent smile.[l][er]
+Saeki's exasperated, mature expression.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
@@ -239,7 +230,7 @@
 
 *471|
 [fc]
-RŠİ‚³‚ñ‚Í‚¢‚Â‚à‚Ì—l‚É‚©‚í‚¢‚ç‚µ‚¢B[pcms]
+Yamagishi-san is as cute as always.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -247,20 +238,19 @@
 
 *472|
 [fc]
-²”Œ‚ÍA–Ù‚Á‚Ä‚¢‚é‚Æ‚©‚È‚èãY—í‚¾B[pcms]
+Saeki is quite beautiful when she's silent.[pcms]
 
 *473|
 [fc]
-‰´‚ÍA‚»‚ê‚Ü‚ÅˆÓ¯‚µ‚½–‚Ì–³‚©‚Á‚½A‘ål‚Ñ‚½•\î‚ğ[r]
-‚·‚é²”Œ‚Ì•û‚ÉŒ©‚Æ‚ê‚Ä‚µ‚Ü‚Á‚Ä‚¢‚½B[pcms]
+I found myself captivated by Saeki, who had a mature[r]expression that I had never noticed before.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *474|
 [fc]
-cc‚ªAŸ‚ÌuŠÔ‰ä‚É•Ô‚éB[pcms]
+... However, in the next moment, I regain my composure.[pcms]
 
-;//SE:Š÷‚ğ‚½‚½‚­
+;//SE:æœºã‚’ãŸãŸã
 [se0 storage="se015"]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
@@ -268,13 +258,13 @@
 [ChrSetParts layer=1 chface="tomo_c_a_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v197|
 [fc]
 [vo_to s="tomo0030"]
-[ns]ŒÜ\—’[nse]
-u‚à‚¤A“ñl‚Æ‚àI@‚¢‚¢‚©‚°‚ñ‚É‚µ‚È‚³‚¢Iv[pcms]
+[ns]Igarashi[nse]
+Enough, both of you! Cut it out already![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
@@ -288,52 +278,49 @@
 
 *475|
 [fc]
-ŒÜ\—’ƒTƒ“‚É“{‚ç‚ê‚½“ñl‚ÍAˆê’UA‘ˆ‚¢‚ğ‚â‚ß‚ÄÈ‚É[r]
-’…‚«‚Í‚µ‚½‚ªAM‚ğ‹²‚ñ‚ÅáÉ‚İ‡‚¢‚ğ‘±‚¯‚Ä‚¢‚éB[pcms]
+The two who were scolded by Igarashi-san temporarily stopped[r]their fight and sat back down, but they continued to glare[r]at each other across the plates.[pcms]
 
 *476|
 [fc]
-•´‘ˆ’n‹æ‚É’u‚©‚ê‚Ä‚¢‚éŒÜ\—’ƒTƒ“‚Ì—¿—‚Éè‚ğL‚Î‚·[r]
-‚æ‚è‚ÍARŠİ‚³‚ñ‚©²”Œ‚Ì—¿—‚ğ‘I‚ñ‚¾•û‚ªA‚·‚®‚ÉH[r]
-–‚É‚ ‚è‚Â‚¯‚»‚¤‚¾B[pcms]
+It seems like choosing Yamagishi-san or Saeki's cooking[r]would allow me to have a meal more quickly, rather than[r]reaching out for Igarashi-san's cooking in the conflict[r]zone.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *477|
 [fc]
-‚³‚Ÿ‚ÄA’N‚Ì—¿—‚ğH‚×‚æ‚¤‚©ccB[pcms]
+Now then, whose cooking should I eat...?[pcms]
 
-;//[‘I‘ğˆ]
+;//[é¸æŠè‚¢]
 *SEL00_0017
 
-;//A:‚à‚¿‚ë‚ñRŠİ‚³‚ñ‚ªì‚Á‚½‚Ì‚ğH‚×‚é;//[0020]
-;//B:‚©‚í‚¢‚»‚¤‚¾‚©‚ç²”Œ‚ªì‚Á‚½‚Ì‚ğH‚×‚Ä‚â‚é;//[0023]
+;//A:ã‚‚ã¡ã‚ã‚“å±±å²¸ã•ã‚“ãŒä½œã£ãŸã®ã‚’é£Ÿã¹ã‚‹;//[0020]
+;//B:ã‹ã‚ã„ãã†ã ã‹ã‚‰ä½ä¼¯ãŒä½œã£ãŸã®ã‚’é£Ÿã¹ã¦ã‚„ã‚‹;//[0023]
 
 ;;;;[sysbt_meswin clear]
 
 
-;mm ‚±‚±•¶š—ñ‘I‘ğˆ‚¶‚á‚È‚¢‚Ì‚©‚ÈH
+;mm ã“ã“æ–‡å­—åˆ—é¸æŠè‚¢ã˜ã‚ƒãªã„ã®ã‹ãªï¼Ÿ
 
-*SEL01|‚à‚¿‚ë‚ñRŠİ‚³‚ñ‚ª^‚©‚í‚¢‚»‚¤‚¾‚©‚ç²”Œ‚ª
+*SEL01|ã‚‚ã¡ã‚ã‚“å±±å²¸ã•ã‚“ãŒï¼ã‹ã‚ã„ãã†ã ã‹ã‚‰ä½ä¼¯ãŒ
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '‚à‚¿‚ë‚ñRŠİ‚³‚ñ‚ªì‚Á‚½‚Ì‚ğH‚×‚é'"]
-[eval exp="f.seltext04 = '‚©‚í‚¢‚»‚¤‚¾‚©‚ç²”Œ‚ªì‚Á‚½‚Ì‚ğH‚×‚Ä‚â‚é'"]
+[eval exp="f.seltext02 = 'ã‚‚ã¡ã‚ã‚“å±±å²¸ã•ã‚“ãŒä½œã£ãŸã®ã‚’é£Ÿã¹ã‚‹'"]
+[eval exp="f.seltext04 = 'ã‹ã‚ã„ãã†ã ã‹ã‚‰ä½ä¼¯ãŒä½œã£ãŸã®ã‚’é£Ÿã¹ã¦ã‚„ã‚‹'"]
 
 
-[if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
-	;‘I‘ğˆ“à—e‚ğƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
+[if exp="tf.sys_sub == 0 || tf.é¸æŠè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
+	;é¸æŠè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[—š—ğo—Í•œ‹A]
+[å±¥æ­´å‡ºåŠ›å¾©å¸°]
 
-;‘I‘ğˆƒx[ƒX
+;é¸æŠè‚¢ãƒ™ãƒ¼ã‚¹
 [selbase]
-;•¶š‚Ì¶ƒ}[ƒWƒ“
+;æ–‡å­—ã®å·¦ãƒãƒ¼ã‚¸ãƒ³
 [eval exp="sf.seltext_x = 130"]
 
 [sel02 target=*SEL00_yuu]

@@ -1,84 +1,79 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02102wŠ´õÒx
-;//BGF–³‚µ@ƒCƒ[ƒW
-;//“oêl•¨Gƒ]ƒ“ƒr’B
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02102ã€æ„ŸæŸ“è€…ã€
+;//BGï¼šç„¡ã—ã€€ã‚¤ãƒ¡ãƒ¼ã‚¸
+;//ç™»å ´äººç‰©ï¼›ã‚¾ãƒ³ãƒ“é”
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02102_TOP
-;[debug_win]‚È‚¤@02102[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02102 = 1"]
+;[debug_win]ãªã†ã€€02102[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02102 = 1"]
 
-;*SceneSet|wŠ´õÒx
+;*SceneSet|ã€æ„ŸæŸ“è€…ã€
 
 ;//[02102]
 
 ;[trans_c random time=501]
 [zapfade]
 
-;//ôFBGM008ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 [bgm008]
 
-;//H_CGregular  ‚Í ³‹K•\Œ»‚Å‚·B³‹K•\Œ»‚ğg—p‚µ‚½‚Æ‚«‚Í•K‚¸‚¢‚ê‚Ä‚­‚¾‚³‚¢Bƒ]ƒ“ƒr[ƒY
+;//H_CGregular  ã¯ æ­£è¦è¡¨ç¾ã§ã™ã€‚æ­£è¦è¡¨ç¾ã‚’ä½¿ç”¨ã—ãŸã¨ãã¯å¿…ãšã„ã‚Œã¦ãã ã•ã„ã€‚ã‚¾ãƒ³ãƒ“ãƒ¼ã‚º
 [evcg storage="EV_004"]
 [trans_c cross time=500]
 
 *2055|
 [fc]
-‰Á“¡‚âŠİ“c‚ğP‚Á‚½’jq¶“k’B‚ÍA–Ú‚Ì‘O‚©‚ç–Ú“I‚Ì‘Î[r]
-Û‚ªÁ‚¦‚½ˆ×A•Ê‚Ì‘ÎÛ‚ğ‹‚ß‚Äœpœj‚µ‚Ä‚¢‚½B[pcms]
+The male students who attacked Kato and Kishida were[r]wandering around, searching for another target after their[r]intended targets disappeared from their sight.[pcms]
 
 *2056|
 [fc]
-[ns]’jq¶“k‚a[nse]
-u‚¨‚ñA‚È‚Ÿcc‚¢‚ËA‚¥‚Ì‚©ccv[pcms]
+[ns]Male Student B[nse]
+Hey, you know... are there any...[l][er]
+around here?[pcms]
 
 *2057|
 [fc]
-[ns]’jq¶“k‚d[nse]
-u‚ÍA‚ç‚Ö‚ÁA‚½ccv[pcms]
+[ns]Male Student E[nse]
+Harahe, ta...[pcms]
 
 *2058|
 [fc]
-”Ş‚ç‚Ì”]‘‚ÍA‚»‚Ì‹@”\‚Ì‚Ù‚Æ‚ñ‚Ç‚ªˆÙí‚ğ‚«‚½‚µA¡[r]
-‚â–{”\‚Ì‚İ‚ªŠˆ“®‚µ‚Ä‚¢‚½B[pcms]
+Their brains, with most of their functions disrupted, were[r]now only driven by instinct.[pcms]
 
 *2059|
 [fc]
-‚»‚êŒÌA¡A”Ş‚ç‚ğx”z‚µ‚Ä‚¢‚é‚Ì‚ÍAc‚³‚ê‚½–{”\‚Ì[r]
-•”•ª‚©‚ç“`’B‚³‚ê‚éAŒ´n“I‚È—~–]‚ğ–‚½‚·‚±‚Æ‚¾B[pcms]
+Therefore, now, what is dominating them is fulfilling[r]primitive desires that are transmitted from the remaining[r]part of their instincts.[pcms]
 
 *2060|
 [fc]
-‚Â‚Ü‚èA¶–½ˆÛ‚Ìˆ×‚Ì•ßH‚ÆAâ‚¦ŠÔ‚È‚­•¦‚«ã‚ª‚é[r]
-«Õ“®‚Ì‰ğÁ‚Å‚ ‚éB[pcms]
+In other words, it is the satisfaction of the primal desires[r]that constantly well up within them, driven by the need for[r]survival and the relentless urge for sexual gratification.[pcms]
 
 *2061|
 [fc]
-[ns]’jq¶“k‚`[nse]
-u‚â‚Ü‚¬A‚µ‚¡cc‚ÇA‚±A‚¢‚Á‚½ccv[pcms]
+[ns]Male Student A[nse]
+Yamagi, shii... doko itta...[pcms]
 
 *2062|
 [fc]
-[ns]’jq¶“k‚b[nse]
-u‚©A‚©‚¢A‚¿‚åcc‚¤A‚«‚åA‚¤‚±‚»cc‚¨‚êccv[pcms]
+[ns]Male Student C[nse]
+W-W-Welcome... I-I'm...[pcms]
 
 *2063|
 [fc]
-[ns]’jq¶“k‚c[nse]
-u‚¤‚Í‚Í‚Í‚ÁII@‚¨‚ñ‚ÈII@‚¨‚ñ‚È‚Ÿ‚Ÿ‚ŸIIIIIv[pcms]
+[ns]Male Student D[nse]
+Uhahaha!! Woman!! Womaaaan!!!!!![pcms]
 
 *2064|
 [fc]
-[ns]—q¶“kƒÃ[nse]
-uccv[pcms]
+[ns]Female Student Epsilon[nse]
+â€¦â€¦[l][er]
 
 *2065|
 [fc]
-”Ş‚ç‚Íœpœj‚ğ‘±‚¯‚éB[r]
-–‚½‚³‚ê‚È‚¢‰ì‚¦‚ğ–ü‚µA–³s‘ ‚Ì«Õ“®‚ğ’‚¬‚Şˆ×[r]
-‚ÌAŠl•¨‚ğ‹‚ß‚ÄB[pcms]
+They continue to wander, searching for prey to satisfy their[r]insatiable hunger and to pour in their boundless sexual[r]impulses.[pcms]
 
 ;//blackout
 
@@ -92,6 +87,6 @@
 
 ;;;[sysbt_meswin]
 
-;//[02103]‚Ö
+;//[02103]ã¸
 [jump target=*02103_TOP storage="02103.ks"]
 

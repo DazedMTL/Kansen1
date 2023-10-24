@@ -1,20 +1,20 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02106w•ÛŒ’ºx
-;//BG:•ÛŒ’ºF’‹i’©Œ“—pj
-;//“oêl•¨GålŒö
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02106ã€ä¿å¥å®¤ã€
+;//BG:ä¿å¥å®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02106_TOP
-;[debug_win]‚È‚¤@02106[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02106 = 1"]
+;[debug_win]ãªã†ã€€02106[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02106 = 1"]
 
-;*SceneSet|w•ÛŒ’ºx
+;*SceneSet|ã€ä¿å¥å®¤ã€
 
 ;//[02106]
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 ;//[bgm009]
 ;//BG:bg013a
 [bg storage="bg13a"]
@@ -22,53 +22,50 @@
 
 *2094|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦[‚ÆccƒIƒLƒVƒh[ƒ‹‚ÆccƒK[ƒ[‚Í‚±‚ê‚©BOŠp[r]
-‹Ğ‚Á‚Ä‚Ç‚±‚É‚ ‚é‚ñ‚¾Hv[pcms]
+[ns]Kato[nse]
+Um... Oxidol and gauze... are these.[l][er]
+Where can I find a triangular bandage?[pcms]
 
 *2095|
 [fc]
-•ÛŒ’‚Ìæ¶‚ÌŠ÷A–ò•i‚Ì“ü‚Á‚Ä‚¢‚é’I‚È‚ÇA‚¢‚ë‚ñ‚ÈŠ[r]
-‚ğ‹™‚Á‚ÄA‰´‚Í–Ú“I‚Ì‚à‚Ì‚ğè‚É“ü‚ê‚½B[pcms]
+I searched through various places like the school nurse's[r]desk and the shelf with medicine, and I finally got what I[r]was looking for.[pcms]
 
 *2096|
 [fc]
-[ns]‰Á“¡[nse]
-u‚±‚ê‚Å‚æ‚µA‚ÆB‚Å‚àA‚±‚ê‚¾‚¯‚Å‰‹}ˆ’u‚Å‚«‚é‚Ì[r]
-‚©‚Èccv[pcms]
+[ns]Kato[nse]
+With this, it should be fine. But I wonder if I can perform[r]first aid with just these...[pcms]
 
 *2097|
 [fc]
-Šİ“c‚Ì‚ ‚Ì‰ö‰ä‚Ì‰‹}ˆ’u‚ğ‚·‚é‚Ì‚ÉA‚±‚Ì’ö“x‚Ì“¹‹ï[r]
-‚¾‚¯‚Å‚ÍŠÔ‚É‡‚í‚È‚¢‹C‚ª‚·‚éB[r]
-‘¼‚É‚à‰½‚©‚Á‚Ä‚¢‚Á‚½•û‚ªccB[pcms]
+I feel like these tools alone won't be enough to provide[r]first aid for Kishida's injury.[l][er]
+I should bring something else as well...[pcms]
 
-;//¦‘I‘ğˆ
-;//E¼•z‚ª‚ ‚é‚Æ‚¢‚¢‚ñ‚¾‚¯‚Çcc;//[02107]‚Ö
-;//E’É‚İ~‚ß‚Í‚ ‚Á‚½•û‚ª‚¢‚¢‚æ‚È;//[02108]‚Ö
-
+;//â€»é¸æŠè‚¢
+;//ãƒ»æ¹¿å¸ƒãŒã‚ã‚‹ã¨ã„ã„ã‚“ã ã‘ã©â€¦â€¦;//[02107]ã¸
+;//ãƒ»ç—›ã¿æ­¢ã‚ã¯ã‚ã£ãŸæ–¹ãŒã„ã„ã‚ˆãª;//[02108]ã¸
 
 
-*SEL01|¼•z‚ª‚ ‚é‚Æ‚¢‚¢‚ñ‚¾‚¯‚Çcc^’É‚İ~‚ß‚Í‚ ‚Á‚½•û‚ª‚¢‚¢‚æ‚È
+
+*SEL01|æ¹¿å¸ƒãŒã‚ã‚‹ã¨ã„ã„ã‚“ã ã‘ã©â€¦â€¦ï¼ç—›ã¿æ­¢ã‚ã¯ã‚ã£ãŸæ–¹ãŒã„ã„ã‚ˆãª
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '¼•z‚ª‚ ‚é‚Æ‚¢‚¢‚ñ‚¾‚¯‚Çcc'"]
-[eval exp="f.seltext04 = '’É‚İ~‚ß‚Í‚ ‚Á‚½•û‚ª‚¢‚¢‚æ‚È'"]
+[eval exp="f.seltext02 = 'æ¹¿å¸ƒãŒã‚ã‚‹ã¨ã„ã„ã‚“ã ã‘ã©â€¦â€¦'"]
+[eval exp="f.seltext04 = 'ç—›ã¿æ­¢ã‚ã¯ã‚ã£ãŸæ–¹ãŒã„ã„ã‚ˆãª'"]
 
 
-[if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
-	;‘I‘ğˆ“à—e‚ğƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
+[if exp="tf.sys_sub == 0 || tf.é¸æŠè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
+	;é¸æŠè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[—š—ğo—Í•œ‹A]
+[å±¥æ­´å‡ºåŠ›å¾©å¸°]
 
-;‘I‘ğˆƒx[ƒX
+;é¸æŠè‚¢ãƒ™ãƒ¼ã‚¹
 [selbase]
-;•¶š‚Ì¶ƒ}[ƒWƒ“
+;æ–‡å­—ã®å·¦ãƒãƒ¼ã‚¸ãƒ³
 [eval exp="sf.seltext_x = 220"]
 
 [sel02 target=*sel00_shippu]

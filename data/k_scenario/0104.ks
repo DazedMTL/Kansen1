@@ -1,28 +1,28 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN0104wƒRƒXƒ`ƒ…[ƒ€EƒvƒŒƒCx
-;//šƒUƒbƒsƒ“ƒO‘I‘ğ”­¶
-;//Ë“c’†‹“_‚Ö
-;//ËƒuƒƒbƒN0104wƒRƒXƒ`ƒ…[ƒ€EƒvƒŒƒCx‚©‚ç
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0104ã€ã‚³ã‚¹ãƒãƒ¥ãƒ¼ãƒ ãƒ»ãƒ—ãƒ¬ã‚¤ã€
+;//â˜…ã‚¶ãƒƒãƒ”ãƒ³ã‚°é¸æŠç™ºç”Ÿ
+;//â‡’ç”°ä¸­è¦–ç‚¹ã¸
+;//â‡’ãƒ–ãƒ­ãƒƒã‚¯0104ã€ã‚³ã‚¹ãƒãƒ¥ãƒ¼ãƒ ãƒ»ãƒ—ãƒ¬ã‚¤ã€ã‹ã‚‰
 
-;//BG:“Áê‹³º˜L‰ºF–é
-;//BG:“n‚è˜L‰ºF–é
-;//“oêl•¨G“c’†E•ü”ü
-;//‹“_F[ns]“c’†[nse]
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œ
+;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šå¤œ
+;//ç™»å ´äººç‰©ï¼›ç”°ä¸­ãƒ»æœ‹ç¾
+[ns]Tanaka[nse]
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *0104_TOP
-;[debug_win]‚È‚¤@0104[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0104 = 1"]
+;[debug_win]ãªã†ã€€0104[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0104 = 1"]
 
-;*SceneSet|wƒRƒXƒ`ƒ…[ƒ€EƒvƒŒƒCx
+;*SceneSet|ã€ã‚³ã‚¹ãƒãƒ¥ãƒ¼ãƒ ãƒ»ãƒ—ãƒ¬ã‚¤ã€
 
 ;//[0104]
 
-;//flag:ƒvƒƒ[ƒOƒtƒ[@zap‚R@•\¦
-;//ôFBGM001
+;//flag:ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ãƒ•ãƒ­ãƒ¼ã€€zapï¼“ã€€è¡¨ç¤º
+;//â™ªï¼šBGM001
 [bgm001]
 ;//BG:bg004c
 [bg storage="bg04c"]
@@ -30,129 +30,124 @@
 
 *943|
 [fc]
-[ns]“c’†[nse]
-uƒnƒCA¬Œ÷‚Æv[pcms]
+[ns]Tanaka[nse]
+Yes, success and...[pcms]
 
 *944|
 [fc]
-‘¼‚Ìƒ„ƒc‚ç‚ª‰f‰æ‚ÉŒ©“ü‚Á‚Ä‚¢‚é‚Ì‚ğŠm”F‚µ‚ÄA[r]
-ƒIƒŒ‚ÍŒv‰æ‚ğÀs‚·‚é‚½‚ß‚ÉA[r]
-ƒgƒ‚ƒ~ƒ“‚Æ‹’®Šoº‚ğ”²‚¯o‚µ‚½B[pcms]
+After confirming that the others were engrossed in the[r]movie, I sneaked out of the audiovisual room with Tomomin to[r]execute our plan.[pcms]
+[l][er]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v381|
 [fc]
 [vo_to s="tomo0041"]
-[ns]ŒÜ\—’[nse]
-u‚æ‚©‚Á‚½ccB‹C‚Ã‚©‚ê‚È‚¢‚Åccv[pcms]
+[ns]Igarashi[nse]
+Thank goodness... Don't notice me...[pcms]
 
 *945|
 [fc]
-[ns]“c’†[nse]
-u‚İ‚ñ‚ÈŒ‹\A‰f‰æD‚«‚È‚ñ‚¾‚È[B[r]
-‘×”V‚È‚ñ‚ÄƒGƒ‰ƒC‚Ì‚ß‚è‚ñ‚Å‚½‚à‚ñ‚Èv[pcms]
+[ns]Tanaka[nse]
+Everyone seems to really like movies.[l][er]
+Taiyuki was especially engrossed in it.[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_c_a1_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v382|
 [fc]
 [vo_to s="tomo0042"]
-[ns]ŒÜ\—’[nse]
-ucc‚Ë‚¥A‚¤[‚½‚ñB–{“–‚É‚·‚é‚ÌccHv[pcms]
+[ns]Igarashi[nse]
+... Hey, U-tan. Are we really going to do it...?[pcms]
 
 *946|
 [fc]
-•à‚«o‚µ‚½ƒIƒŒ‚Ìè‚ğƒgƒ‚ƒ~ƒ“‚ªˆ¬‚Á‚ÄA[r]
-‚³‚ç‚É˜r‚ğ•ø‚¦‚éB[pcms]
+Tomomin took my hand as I started walking, and then she[r]wrapped her arm around mine.[pcms]
 
 *947|
 [fc]
-‚ [A‚¨‚Á‚Ï‚¢_‚ç‚¯‚¥ccB[r]
-‚±‚ê‚â‚ç‚ê‚é‚ÆA‚Ç[‚µ‚Ä‚à[r]
-ƒqƒW‚Å‚¢‚¶‚Á‚¿‚á‚¤‚ñ‚¾‚æ‚È[B[pcms]
+Ah, soft breasts... When this happens, I just can't help but[r]touch them with my elbow.[pcms]
 
 *948|
 [fc]
-[ns]“c’†[nse]
-u‚¦[H@‚»‚Ì‚½‚ß‚É—ˆ‚½‚æ‚¤‚Èƒ‚ƒ“‚¶‚á‚ñA¡“úv[pcms]
+[ns]Tanaka[nse]
+Huh? Didn't we come here for that purpose today?[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_c_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v383|
 [fc]
 [vo_to s="tomo0043"]
-[ns]ŒÜ\—’[nse]
-u‚á‚ñA‚à‚£ccƒ}ƒWƒ‚É•·‚¢‚Ä‚æB[r]
-‚µ‚Ä‚é‚É’N‚©‚ÉŒ©‚Â‚©‚Á‚½‚ç‚Ç‚¤‚·‚é‚ÌH[r]
-Šİ“c‚¾‚Á‚Ä‚¢‚é‚ñ‚¾‚æHv[pcms]
+[ns]Igarashi[nse]
+Yaaan, seriously... Listen to me seriously.[l][er]
+What are we going to do if someone catches us in the act?[l][er]
+Kishida is here too, you know?[pcms]
 
 *949|
 [fc]
-[ns]“c’†[nse]
-uƒw[ƒL‚¾‚Á‚ÄI@’N‚à—ˆ‚È‚¢‚æv[pcms]
+[ns]Tanaka[nse]
+Don't worry! No one will come.[pcms]
 
 *950|
 [fc]
-ƒgƒ‚ƒ~ƒ“‚Ìƒeƒ“ƒVƒ‡ƒ“‚ª—‚¿‚Ä‚«‚Ä‚écc‚¯‚ÇAƒIƒŒ‚Í[r]
-‚»‚ñ‚È‚Ì‹C‚É‚µ‚È‚¢B‰Ÿ‚¹‚ÎŒ¾‚¤‚±‚Æ•·‚¢‚Ä‚­‚ê‚é‚ÌA[r]
-‚í‚©‚Á‚Ä‚é‚©‚ç‚ÈB[pcms]
+Tomomin's mood is dropping... but I don't really care about[r]that.[l][er]
+I know she'll listen to me if I push her, so it's fine.[pcms]
 
 *951|
 [fc]
-[ns]“c’†[nse]
-u‚¢‚Â‚à‚İ‚½‚¢‚Éºo‚é‚ÌƒKƒ}ƒ“‚µ‚È‚­‚Ä‚¢‚¢‚Á‚ÄA[r]
-ƒgƒ‚ƒ~ƒ“‚¾‚Á‚ÄƒmƒŠ‹C‚¾‚Á‚½‚¶‚á‚ñB‚ËAs‚±Hv[pcms]
+[ns]Tanaka[nse]
+You don't have to hold back your voice like usual, Tomomin[r]was in the mood for it too, right?[l][er]
+Come on, let's go?[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_c_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_c_c_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v384|
 [fc]
 [vo_to s="tomo0044"]
-[ns]ŒÜ\—’[nse]
-u‚¤‚ñccv[pcms]
+[ns]Igarashi[nse]
+Yeah...[pcms]
 
 *952|
 [fc]
-Œ»ê‚És‚Á‚¿‚Ü‚¦‚ÎA‚±‚Á‚¿‚Ìƒ‚ƒ“‚¾B[r]
-ŠwZ‚Å‚·‚é‚Í‚¢‚Â‚à‚»‚¤‚¾‚µ‚ÈI[pcms]
+If we go to the scene, it's our turf.[l][er]
+It's always like that when we do it at school, right?[pcms]
 
 *953|
 [fc]
-[ns]“c’†[nse]
-us‚±s‚±‚ÁIv[pcms]
+[ns]Tanaka[nse]
+Let's go, let's go![pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v385|
 [fc]
 [vo_to s="tomo0045"]
-[ns]ŒÜ\—’[nse]
-u‚ ‚ÁA‚¿‚åA‚¤[‚½‚ñI@ˆø‚Á’£‚ç‚È‚¢‚Å‚æ`Iv[pcms]
+[ns]Igarashi[nse]
+Ah, hey, U-tan! Don't pull me like that~![pcms]
 
 ;//BG:bg009e
 [bg storage="bg09e"]
@@ -160,161 +155,149 @@
 
 *954|
 [fc]
-[ns]“c’†[nse]
-u‘Ì‘€’…‚Ìƒgƒ‚ƒ~ƒ“‚àƒCƒC‚¯‚ÇA[r]
-‚â‚Á‚ÏƒXƒN[ƒ‹…’…‚Ìƒgƒ‚ƒ~ƒ“‚Æ‚µ‚½‚©‚Á‚½‚È‚Ÿ`v[pcms]
+[ns]Tanaka[nse]
+Tomomin in her gym clothes is nice, but I really wanted to[r]see Tomomin in a school swimsuit~[l][er]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_c_a1_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v386|
 [fc]
 [vo_to s="tomo0046"]
-[ns]ŒÜ\—’[nse]
-u‚²‚ß‚ñ‚ËA‚¤[‚½‚ñccv[pcms]
+[ns]Igarashi[nse]
+I'm sorry, U-tan...[pcms]
 
 *955|
 [fc]
-Å‹ßAƒIƒŒ‚ÍƒRƒXƒvƒŒ‚ÆƒCƒƒNƒ‰‚Á‚Û‚¢ƒvƒŒƒC‚Éƒnƒ}‚Á[r]
-‚Ä‚ÄAƒGƒbƒ`‚·‚é‚Í–ˆ‰ñA[r]
-ƒgƒ‚ƒ~ƒ“‚É‚Í‰½‚©ƒRƒXƒ`ƒ…[ƒ€‚ğ’…‚Ä‚à‚ç‚Á‚Ä‚¢‚éB[pcms]
+Lately, I've been really into cosplay and role-playing in a[r]kind of image club style, so every time we have sex, I[r]always have Tomomin wear some kind of costume.[pcms]
 
 *956|
 [fc]
-¡“ú‚àƒzƒ“ƒg‚ÍAƒXƒN[ƒ‹…’…‚Ìƒgƒ‚ƒ~ƒ“‚Æ[r]
-ƒv[ƒ‹‚Ì’†‚ÅƒGƒbƒ`A‚ğƒƒCƒ“‚É‚·‚é‹C‚¾‚Á‚½‚ñ‚¾B[pcms]
+Today, I actually had the intention of making Tomomin in her[r]school swimsuit the main focus and having sex with her in[r]the pool.[pcms]
 
 *957|
 [fc]
-‚È‚Ì‚Éƒgƒ‚ƒ~ƒ“AƒXƒN…–Y‚ê‚Ä‚«‚¿‚á‚Á‚Ä‚³[ccB[pcms]
+But Tomomin forgot her school swimsuit...[pcms]
 
 *958|
 [fc]
-‚½‚Ü‚ÉƒkƒP‚Ä‚ñ‚¾‚æ‚È[A‚±‚ÌƒRccB[pcms]
+This girl sometimes gets really horny, huh...[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v387|
 [fc]
 [vo_to s="tomo0047"]
-[ns]ŒÜ\—’[nse]
-u‚Å‚à‘ÌˆçŠÙ‚Æ‘qŒÉ‚ÌƒJƒMA‚¿‚á‚ñ‚Ææ‚ê‚é‚Æ‚¢‚¢‚Ëv[pcms]
+[ns]Igarashi[nse]
+But it would be nice if we could get the keys to the gym and[r]the warehouse.[pcms]
 
 *959|
 [fc]
-[ns]“c’†[nse]
-uŠİ“c‚Ìƒ„ƒ[A‹A‚Á‚Ä‚é‚ÆƒCƒC‚¯‚Ç‚È‚Ÿv[pcms]
+[ns]Tanaka[nse]
+It would be nice if Kishida's dumbass went home.[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_c_a_09"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v388|
 [fc]
 [vo_to s="tomo0048"]
-[ns]ŒÜ\—’[nse]
-u‚Ë[B‰½‚µ‚É—ˆ‚½‚ñ‚¾‚ë‚¤‚ËAƒAƒCƒcv[pcms]
+[ns]Igarashi[nse]
+Hey. I wonder why they came here.[pcms]
 
 *960|
 [fc]
-[ns]“c’†[nse]
-u_“¹•”‚Ì“ÁŒP‚Å‚à‚â‚Á‚Ä‚½‚ñ‚¶‚á‚È[‚¢H[r]
-‚ [ƒ„ƒ_ƒ„ƒ_A‹‹ê‚µ‚¢‚¤‚¦‚ÉL‚­‚ÄƒuƒTƒCƒN‚È’j‚Ív[pcms]
+[ns]Tanaka[nse]
+Weren't they doing special training in the Judo Club?[l][er]
+Ah, no way, no way. On top of being sweaty and smelly, ugly[r]guys are...[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_c_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v389|
 [fc]
 [vo_to s="tomo0049"]
-[ns]ŒÜ\—’[nse]
-u‚»‚ñ‚È‚Éƒzƒ“ƒg‚Ì‚±‚ÆŒ¾‚Á‚½‚çA‚Â‚¢‚¿‚á‚¤‚æHv[pcms]
+[ns]Igarashi[nse]
+If you say things like that for real, I'll get hurt, you[r]know?[pcms]
 
 *961|
 [fc]
-[ns]“c’†[nse]
-u‚¤‚Ğ‚á‚Ğ‚áv[pcms]
+[ns]Tanaka[nse]
+Uhahaha[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *962|
 [fc]
-‘Ì‘€’…‚Í–Y‚ê‚¸‚É‚Á‚Ä‚«‚½‚İ‚½‚¢‚¾‚Á‚½‚©‚çAƒIƒŒ‚Í[r]
-‘æ“ñŠó–]‚¾‚Á‚½Aƒuƒ‹ƒ}‚Ìƒgƒ‚ƒ~ƒ“‚Æ‘Ìˆç‘qŒÉ‚ÅƒGƒbƒ`[r]
-‚ğƒƒCƒ“‚É‚·‚é‚±‚Æ‚É‚µ‚½B[pcms]
+Since it seems like Tomomin didn't forget to bring her gym[r]clothes, I decided to make my second choice and have sex[r]with her in the PE storage room, focusing on her bloomers.[pcms]
 
 *963|
 [fc]
-À‚ÍƒƒV‚Ì•Ğ•t‚¯‚ğ”²‚¯o‚µ‚½‚ÉA[r]
-“ñl‚Å‚»‚Ì‘Š’k‚ğ‚µ‚Ä‚½B[pcms]
+Actually, when I slipped away from cleaning up after dinner,[r]the two of us were discussing that.[pcms]
 
 *964|
 [fc]
-‚¿‚È‚İ‚Éƒgƒ‚ƒ~ƒ“‚É‚Í‚à‚¤A‚ ‚Ì‚É‘Ì‘€’…‚É’…‘Ö‚¦‚³[r]
-‚¹‚Ä‚ ‚éccB§•‚Ì‰º‚ÍA‘Ìˆç’…pccB[pcms]
+By the way, I already had Tomomin change into her gym[r]clothes at that time...[l][er]
+Underneath her uniform, she's wearing her PE attire...[pcms]
 
 *965|
 [fc]
-êŠ‚³‚¦Šm•Û‚·‚ê‚Î‚·‚®‚É‚Å‚à‚Å‚«‚éA‚Á‚ÄƒƒP‚¾B[r]
-€”õ‚ÉèŠÔæ‚Á‚Ä‚éŠÔ‚ÉA’N‚©‚É—ˆ‚ç‚ê‚½‚ç¢‚é‚µ‚ÈB[pcms]
+If we secure a location, we can do it right away.[l][er]
+It would be troublesome if someone came while we were taking[r]our time with the preparations.[pcms]
 
 *966|
 [fc]
-‚»‚ê‚ÉA—]Œv‚ÈŠ‚ÌŠÔ‚ğí‚ê‚ÎA[r]
-ƒGƒbƒ`‚ğŠy‚µ‚ŞŠÔ‚ª‘‚¦‚éA‚Æ‚¢‚¤ŒvZ‚à‚ ‚Á‚½B[pcms]
+Besides, there was also the calculation that by cutting out[r]unnecessary time elsewhere, we would have more time to enjoy[r]sex.[pcms]
 
 *967|
 [fc]
-[ns]“c’†[nse]
-u‚Å‚à‚È[A‚Ç‚¤‚â‚Á‚Äæ‚Á‚Ä‚«‚½‚çƒCƒC‚Æv‚¤H[r]
-‘Ìˆç‘qŒÉ‚Æ‚©‚ÌƒJƒMv[pcms]
+[ns]Tanaka[nse]
+But, how do you think we can get it?[l][er]
+Like the key to the PE storage room or something.[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v390|
 [fc]
 [vo_to s="tomo0050"]
-[ns]ŒÜ\—’[nse]
-u‚¤[‚ñcc—‚Æ‚µ•¨‚µ‚¿‚á‚Á‚ÄA[r]
-’T‚µ‚Ä‚È‚¢‚Ì‘Ìˆç‘qŒÉ‚¾‚¯‚È‚ñ‚Å‚·‚¯‚ÇA[r]
-ƒJƒMØ‚è‚Ä‚à‚¢‚¢‚Å‚·‚©H@‚È‚ñ‚Ä‚Ç‚¤Hv[pcms]
+[ns]Igarashi[nse]
+Hmm... I accidentally dropped something and I'm only looking[r]for it in the PE storage room.[l][er]
+Can I borrow the key? How about that?[pcms]
 
 *968|
 [fc]
-[ns]“c’†[nse]
-uccv[pcms]
+[ns]Tanaka[nse]
+â€¦â€¦[l][er]
 
 *969|
 [fc]
-‚»‚¤‚¾‚Á‚½ccB[r]
-ƒgƒ‚ƒ~ƒ“‚ÄƒkƒP‚Ä‚é‚ñ‚¶‚á‚È‚­‚ÄA[r]
-‚¿‚å‚Á‚Æ“ª‚ÌƒlƒW‚ªŠÉ‚ñ‚Å‚é‚ñ‚¾‚Á‚½ccB[pcms]
+Oh, right... Tomomin isn't just easy to get with, she's a[r]bit loose in the head...[pcms]
 
 *970|
 [fc]
-‚â‚Á‚ÏAl‚ª‚¢‚È‚­‚È‚Á‚½Œ„‚ğ‚Â‚¢‚ÄA[r]
-ƒpƒb‚Ææ‚Á‚Ä‚­‚é‚µ‚©‚È‚¢‚©ccB[r]
-ƒJƒM‚Ì‚ ‚éêŠ‚ÍŠo‚¦‚Ä‚é‚µccB[pcms]
+Yeah, I guess the only option is to seize the opportunity[r]when no one is around and quickly grab it...[l][er]
+I remember where the key is...[pcms]
 
 ;//blackout
 
@@ -328,14 +311,13 @@
 
 *971|
 [fc]
-‘Ìˆç‹³Š¯º‚Í“”‚è‚ª“_‚¢‚Ä‚È‚­‚ÄA[r]
-ŠO‚©‚çŒ©‚éŒÀ‚è‚¾‚Æ’†‚É’N‚à‚¢‚È‚¢‚æ‚¤‚¾‚Á‚½B[pcms]
+The lights were off in the PE instructor's office, and from[r]the outside, it seemed like there was no one inside.[pcms]
 
 *972|
 [fc]
-‚±‚ê‚ÅƒhƒA‚ÌƒJƒM‚ª•Â‚Ü‚Á‚Ä‚È‚«‚áccB[pcms]
+If the door isn't locked with this...[pcms]
 
-;//[0105]‚Ö
+;//[0105]ã¸
 [jump target=*0105_TOP storage="0105.ks"]
 
 

@@ -1,18 +1,18 @@
 
-;//¡ËƒuƒƒbƒN0016w—[H‰ïx
-;//BG:Šw‰€“àŠwHF—[•û
-;//“oêl•¨GålŒöE—DE“µE•ü”üE’|“àE“c’†
-;//[“ñT–ÚˆÈ~AƒXƒ^[ƒg‚Éƒvƒƒ[ƒO‚ğƒXƒLƒbƒv‚µ‚½
-;//ê‡‚ÍA‚±‚±‚©‚çƒXƒ^[ƒg]
-;//[–{•Ò‚Ö]
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0016ã€å¤•é£Ÿä¼šã€
+;//BG:å­¦åœ’å†…å­¦é£Ÿï¼šå¤•æ–¹
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­
+;//[äºŒé€±ç›®ä»¥é™ã€ã‚¹ã‚¿ãƒ¼ãƒˆæ™‚ã«ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ã‚’ã‚¹ã‚­ãƒƒãƒ—ã—ãŸ
+;//å ´åˆã¯ã€ã“ã“ã‹ã‚‰ã‚¹ã‚¿ãƒ¼ãƒˆ]
+;//[æœ¬ç·¨ã¸]
 
 *0016_TOP
-;[debug_win]‚È‚¤@0016[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0016 = 1"]
+;[debug_win]ãªã†ã€€0016[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0016 = 1"]
 
-;*SceneSet|w—[H‰ïx
+;*SceneSet|ã€å¤•é£Ÿä¼šã€
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 [bgm001]
 ;//BG:bg014b
 [bg storage="bg14b"]
@@ -20,203 +20,185 @@
 
 *441|
 [fc]
-‹’®Šoº‚É‰×•¨‚ğ’u‚¢‚ÄAŠwH‚É—ˆ‚½‰´’B‚ÍA[r]
-‘‘¬—[H‚Ì€”õ‚É‚Æ‚è‚©‚©‚Á‚½B[pcms]
+We put our belongings in the audiovisual room and headed to[r]the cafeteria, where we immediately started preparing for[r]dinner.[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std91|
 [fc]
-[ns]’|“à[nse]
-u–¾“ú‚Ì’©‚Ì•ªA—â‘ ŒÉ‚É“ü‚ê‚Ä‚¨‚­‚æv[pcms]
+[ns]Takeuchi[nse]
+I'll put tomorrow morning's portion in the refrigerator.[pcms]
 
 *442|
 [fc]
-ƒQƒzƒQƒz‚¤‚é‚³‚©‚Á‚½^–ç‚¾‚ªA–ò‚ªŒø‚¢‚Ä‚«‚½‚Ì‚©A[r]
-‚æ‚¤‚â‚­‚¢‚Â‚à‚ÌŒ³‹C‚ğæ‚è–ß‚µ‚Ä‚¢‚½B[pcms]
+Shinya, who had been coughing loudly, finally regained his[r]usual energy, perhaps because the medicine was starting to[r]take effect.[pcms]
 
 *443|
 [fc]
-¡“ú‚Ì—[H•ª‚Æ–¾“ú‚Ì’©H•ª‚ÌHŞA‚µ‚©‚à‚»‚ê‚ª˜Zl[r]
-•ª‚Æ‚à‚È‚é‚ÆŒ‹\‚È—Ê‚È‚Ì‚ÅA•Û‘¶‚É‚Í‘å‚«–Ú‚Ì—â‘ ŒÉ[r]
-‚ª•K—v‚¾B[pcms]
+We need a large refrigerator for storing today's dinner[r]ingredients and tomorrow's breakfast ingredients, especially[r]since it's enough for six people.[pcms]
 
 *444|
 [fc]
-‚»‚Ì‚½‚ßAV“¹æ¶‚ÍŠwH‚ğg‚¦‚é‚æ‚¤‚ÉA[r]
-ŠwZ‚É\¿‚µ‚Ä‚­‚ê‚Ä‚¢‚½B[pcms]
+Therefore, Teacher Shindou had applied to the school so that[r]we could use the cafeteria.[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v189|
 [fc]
 [vo_to s="tomo0027"]
-[ns]ŒÜ\—’[nse]
-u’²–¡—¿‚àFX‚ ‚é‚µAL‚¢‚µA‰Æ’ë‰Èº‚æ‚è[r]
-g‚¢‚â‚·‚»‚¤‚¾‚Ëv[pcms]
+[ns]Igarashi[nse]
+There are various seasonings, and it's spacious too.[l][er]
+It seems more convenient than the home economics room,[r]doesn't it?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v190|
 [fc]
 [vo_ya s="yama0051"]
-[ns]RŠİ[nse]
-u‚Ë`I@„AŠwH‚Ì’²—º‚Á‚ÄA[r]
-ˆê‰ñg‚Á‚Ä‚İ‚½‚©‚Á‚½‚ñ‚¾`v[pcms]
+[ns]Yamagishi[nse]
+Hey~![pcms]
+I've always wanted to try using the cooking room in the[r]school cafeteria~[l][er]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v191|
 [fc]
 [vo_sa s="sae0042"]
-[ns]²”Œ[nse]
-u‚Í‚Ÿccv[pcms]
+[ns]Saeki[nse]
+*sigh*...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *445|
 [fc]
-ŒÜ\—’ƒTƒ“‚àRŠİ‚³‚ñ‚àA•’i‚©‚ç‰Æ‚Å—¿—‚ğ‚µ‚Ä‚¢‚é[r]
-‚»‚¤‚ÅA’jq‚ÌŠ´’Q‚Ìº‚Æ‹¤‚ÉA–êˆê’v‚Å—q‚ª—¿—[r]
-’S“–‚Æ‚¢‚¤‚±‚Æ‚É‚È‚Á‚½B[pcms]
+Both Igarashi-san and Yamagishi-san seem to cook at home[r]regularly, so with the boys' admiration, it was unanimously[r]decided that the girls would be in charge of cooking.[pcms]
 
 *446|
 [fc]
-²”Œ‚Ícc‰½‚©‚½‚ß‘§‚ğ‚Â‚¢‚Ä‚¢‚éccB[pcms]
+Saeki... is sighing for some reason...[pcms]
 
 *447|
 [fc]
-RŠİ‚³‚ñ‚ÍA—¼e‚ª–Z‚µ‚¢l‚Å‰Æ‚ğ‹ó‚¯‚ª‚¿‚¾‚©‚çA[r]
-•’i‚©‚ç‚²”Ñ‚Ì—pˆÓ‚Í©•ª‚Å‚µ‚Ä‚¢‚é‚ÆA[r]
-â‚µ‚»‚¤‚ÉÎ‚Á‚½B[pcms]
+Yamagishi-san smiled sadly and said, My parents are busy and[r]often away from home, so I usually prepare meals by myself.[pcms]
 
 *448|
 [fc]
-’N‚à‚¢‚È‚¢A”–ˆÃ‚¢‰Æ‚Ì’†‚ÅARŠİ‚³‚ñ‚ªˆêl‚ÅH–‚ğ[r]
-‚µ‚Ä‚¢‚é‚Ì‚ğv‚¢•‚‚©‚×‚ÄA‰´‚Í‹¹‚ª’É‚­‚È‚Á‚½B[pcms]
+I imagined Yamagishi-san eating alone in the dim and empty[r]house, and my heart ached.[pcms]
 
 *449|
 [fc]
-‰´‚É“d˜b‚µ‚Ä‚­‚ê‚ê‚ÎARŠİ‚³‚ñ‚Ì‰Æ‚Ü‚Åƒ}ƒbƒn‚Ì‘¬“x[r]
-‚Å‚·‚Á”ò‚ñ‚Å‚¢‚­‚Ì‚ÉccB[pcms]
+If you called me, I would fly at Mach speed to Yamagishi-[r]san's house...[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std92|
 [fc]
-[ns]’|“à[nse]
-u‚Ë‚¥‘×”VA“µ‚Á‚Ä—¿—‚Å‚«‚é‚Ì‚©‚Èv[pcms]
+[ns]Takeuchi[nse]
+Hey, Yasuyuki, I wonder if Hitomi can cook.[pcms]
 
 *450|
 [fc]
-ˆê‚Éƒe[ƒuƒ‹‚ğ@‚¢‚Ä‚¢‚½^–ç‚ªA[r]
-²”Œ‚Ì•û‚ğ“‚İŒ©‚È‚ª‚ç•·‚¢‚Ä‚«‚½B[pcms]
+Shinya, who was wiping the table together, asked while[r]stealing glances at Saeki.[pcms]
 
 *451|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤[‚ñccB‚ ‚¢‚Â‚¾‚¯A©•ª‚Ì—¿——ğ‚ğŒê‚ç‚È‚©‚Á[r]
-‚½‚©‚ç‚ÈB‚à‚µ‚©‚µ‚½‚çA‚Å‚«‚È‚¢‚Ì‚©‚à‚È[v[pcms]
+[ns]Kato[nse]
+Hmm... That guy didn't talk about his cooking experience.[l][er]
+Maybe he can't cook after all.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *452|
 [fc]
-‚»‚¤A–â‘è‚Í²”Œ‚¾B—¿—’S“–‚ª—q‚ÆŒˆ‚Ü‚Á‚½A[r]
-‚¢‚¢‚Æ‚àˆ«‚¢‚Æ‚àŒ¾‚í‚È‚¢‚ÅA[r]
-ƒWƒb‚Æ‰½‚©‚ğl‚¦‚ñ‚Å‚é‚İ‚½‚¢‚¾‚Á‚½B[pcms]
+Yes, the problem is Saeki. When it was decided that the[r]girls would be in charge of cooking, she didn't say whether[r]it was good or bad, but she seemed to be lost in thought[r]about something.[pcms]
 
 *453|
 [fc]
-ŒÜ\—’ƒTƒ“‚ÆRŠİ‚³‚ñ‚Ì—¿——ğ‚ğ•·‚«A‚»‚ÌƒCƒLƒIƒC‚Å[r]
-—q‚ğ—¿—’S“–‚ÆŒˆ‚ß‚Ä‚µ‚Ü‚Á‚½‚Ì‚ÅA©•ª‚Í—¿—‚ª‚Å[r]
-‚«‚È‚¢A‚ÆŒ¾‚¢‚»‚Ñ‚ê‚Ä‚µ‚Ü‚Á‚½‚Ì‚¾‚ë‚¤‚©B[pcms]
+I wonder if Igarashi-san and Yamagishi-san's cooking[r]experience was asked about, and because of that momentum, it[r]was decided that the girls would be in charge of cooking.[l][er]
+Did I forget to say that I can't cook?[pcms]
 
 *454|
 [fc]
-‚»‚ê‚ÉA‚³‚Á‚«‚à‚½‚ß‘§•t‚¢‚Ä‚½‚µccB[pcms]
+Besides, she sighed earlier too...[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_a_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std93|
 [fc]
-[ns]’|“à[nse]
-u‚ ‚ ‚¢‚¤‚³A•’iˆÌ‚»‚¤‚É‚µ‚Ä‚é—‚ÉŒÀ‚Á‚ÄA—¿—‚È[r]
-‚ñ‚©‘S‘R‚Å‚«‚È‚©‚Á‚½‚è‚·‚é‚ñ‚¾‚æ‚Ë‚¥v[pcms]
+[ns]Takeuchi[nse]
+You know, it's often the case that women who act all high[r]and mighty can't cook at all.[pcms]
 
 *455|
 [fc]
-‰´’B‚ª‚¢‚éƒe[ƒuƒ‹‚©‚çA~–[‚Ì’†‚Ì²”Œ‚Ü‚Å‚ÍŠ„‚Æ‹—[r]
-—£‚ª‚ ‚Á‚½‚Ì‚ÉA‚ ‚¢‚Â‚Ì¨‚É‚Í‚Ç‚¤‚â‚ç•·‚±‚¦‚½‚æ‚¤[r]
-‚ÅAË”²‚­‚æ‚¤‚È‰s‚¢‹ü‚ğ”ò‚Î‚µ‚Ä‚«‚½B[pcms]
+Even though there was quite a distance from our table to[r]Saeki in the kitchen, it seemed like she heard it, and she[r]shot me a sharp gaze as if piercing through.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v192|
 [fc]
 [vo_sa s="sae0043"]
-[ns]²”Œ[nse]
-u‰½‚©Œ¾‚¢‚Ü‚µ‚½IHv[pcms]
+[ns]Saeki[nse]
+Did you say something!?[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std94|
 [fc]
-[ns]‰Á“¡•’|“à[nse]
-u‚¢‚¦A•Ê‚Éccv[pcms]
+[ns]Kato & Takeuchi[nse]
+No, not really...[pcms]
 
 ;//blackout
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//¦ğŒ•ªŠò
-;//Eflag:—Dƒ‹[ƒgƒNƒŠƒA{flag:“µƒ‹[ƒgƒNƒŠƒA@flag‚ª
-;//‚Ç‚¿‚ç‚àON‚Ì@;//[0018]‚Ö
-;//Eflag:—Dƒ‹[ƒgƒNƒŠƒAAflag:“µƒ‹[ƒgƒNƒŠƒA@‚Ì‚¢‚¸
-;//‚ê‚©‚ªOFF‚Ì@ ;//[0017]‚Ö
-;//Eflag:—Dƒ‹[ƒgƒNƒŠƒAAflag:“µƒ‹[ƒgƒNƒŠƒA@‚Ç‚¿‚ç
-;//‚àOFF‚Ì@@@ ;//[0017]‚Ö
+;//â€»æ¡ä»¶åˆ†å²
+;//ãƒ»flag:å„ªãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ï¼‹flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€flagãŒ
+;//ã©ã¡ã‚‰ã‚‚ONã®æ™‚ã€€;//[0018]ã¸
+;//ãƒ»flag:å„ªãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ã®ã„ãš
+;//ã‚Œã‹ãŒOFFã®æ™‚ã€€ ;//[0017]ã¸
+;//ãƒ»flag:å„ªãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ã©ã¡ã‚‰
+;//ã‚‚OFFã®æ™‚ã€€ã€€ã€€ ;//[0017]ã¸
 
 
-;mm ‚±‚ê2”Ô‚ß‚ÌğŒ‚¢‚ç‚ñ‚æ‚È
+;mm ã“ã‚Œ2ç•ªã‚ã®æ¡ä»¶ã„ã‚‰ã‚“ã‚ˆãª
 [if    exp="sf.g_yuu_clear == 1 && sf.g_hitomi_clear == 1"]
 	[jump target=*0018_TOP storage="0018.ks"]
 [elsif exp="sf.g_yuu_clear == 1 || sf.g_hitomi_clear == 1"]

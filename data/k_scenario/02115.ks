@@ -1,20 +1,20 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02115wƒ‰ƒWƒI‚Qx
-;//BG:EˆõºF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöE—DEƒŠƒTEŠİ“cE’|“à
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02115ã€ãƒ©ã‚¸ã‚ªï¼’ã€
+;//BG:è·å“¡å®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»å²¸ç”°ãƒ»ç«¹å†…
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02115_TOP
-;[debug_win]‚È‚¤@02115[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02115 = 1"]
+;[debug_win]ãªã†ã€€02115[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02115 = 1"]
 
-;*SceneSet|wƒ‰ƒWƒI‚Qx
+;*SceneSet|ã€ãƒ©ã‚¸ã‚ªï¼’ã€
 
 ;//[02115]
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 [bgm007]
 ;//BG:bg012a
 ;//[bg storage="bg12a"]
@@ -25,141 +25,131 @@
 *v875|
 [fc]
 [vo_mob s="radio0002"]
-[ns]ƒ‰ƒWƒI‚ÌƒAƒiƒEƒ“ƒT[[nse]
-u¡A‘“à‘Sˆæ‚Å–\“®‚ª”­¶‚µ‚Ä‚¢‚é–Í—l‚Å‚·B‚»‚ê‚©[r]
-‚çA–\“®‚É‰Á‚Á‚Ä‚¢‚élŠÔ‚É‚æ‚é–\sA“Á‚É—«‚É‘Î‚·[r]
-‚é–\ssˆ×‚ª‘½”Šm”F‚³‚ê‚Ä‚¨‚è‚Ü‚·v[pcms]
+[ns]Radio Announcer[nse]
+Currently, it appears that riots are occurring throughout[r]the country.[l][er]
+In addition, numerous cases of violence, particularly[r]against women, by those participating in the riots have been[r]confirmed.[pcms]
+[l][er]
 
 *2200|
 [fc]
-‰´‚Ì—\‘z‚É”½‚µ‚ÄAƒ‰ƒWƒI‚©‚ç‚Í–\“®‚ÉŠÖ‚·‚éƒjƒ…[ƒX[r]
-‚ª—¬‚ê‚Ä‚«‚½B[pcms]
+Contrary to my expectations, news about riots started to[r]flow from the radio.[pcms]
 
 *2201|
 [fc]
-ƒAƒiƒEƒ“ƒT[‚Ìº‚ÍA‚½‚Ü•·‚¢‚Ä‚¢‚é–ì‹…’†Œp‚ÌÀ‹µ[r]
-‚Ì‚æ‚¤‚ÉA‹»•±‚µ‚½’²q‚¾‚Á‚½B[pcms]
+The voice of the announcer was excited, like the play-by-[r]play commentary I occasionally hear during baseball[r]broadcasts.[pcms]
 
 *v876|
 [fc]
 [vo_mob s="radio0003"]
-[ns]ƒ‰ƒWƒI‚ÌƒAƒiƒEƒ“ƒT[[nse]
-u‚Ü‚½Aˆê•”’nˆæ‚Å‚Í–\“®’Áˆ³‚Ì‚½‚ßA©‰q‘à‚ªo“®‚µ[r]
-‚Ä‚¢‚Ü‚·v[pcms]
+[ns]Radio Announcer[nse]
+Furthermore, in some areas, the Self-Defense Forces have[r]been deployed to suppress the riots.[pcms]
 
 *2202|
 [fc]
-[ns]‰Á“¡[nse]
-u©‰q‘àccHv[pcms]
+[ns]Kato[nse]
+Self-Defense Forces...?[pcms]
 
 *2203|
 [fc]
-ƒ‰ƒWƒI‚©‚ç—¬‚ê‚Ä‚­‚éî•ñ‚ª–{•¨‚È‚çA©‰q‘à‚ªo‚Ä‚­[r]
-‚é’öA–‘Ô‚Íˆ«‚­‚È‚Á‚Ä‚¢‚é‚æ‚¤‚¾B[pcms]
+If the information flowing from the radio is true, it seems[r]that the situation has worsened to the point where the Self-[r]Defense Forces are coming out.[pcms]
 
 *v877|
 [fc]
 [vo_mob s="radio0004"]
-[ns]ƒ‰ƒWƒI‚ÌƒAƒiƒEƒ“ƒT[[nse]
-u‚±‚ê‚©‚ç“Ç‚İã‚°‚é’nˆæ‚Ì•û‚ÍA©‰q‘à‚Ìw¦‚É]‚Á[r]
-‚ÄA‘¬‚â‚©‚É‹~Œì{İ‚Ö”ğ“ï‚µ‚Ä‚­‚¾‚³‚¢B¼•‘’n‹æA[r]
-–îƒ–“‡’n‹æA—Áƒ–—Ë’n‹æccv[pcms]
+[ns]Radio Announcer[nse]
+Residents in the areas I am about to announce, please follow[r]the instructions of the Self-Defense Forces and evacuate to[r]the nearest relief facility immediately.[l][er]
+Nishimai District, Yagashima District, Suzukari District...[pcms]
 
 *2204|
 [fc]
-‰´‚Íˆá‚¤ƒ‰ƒWƒI‹Ç‚Éƒ`ƒ…[ƒjƒ“ƒO‚ğ‡‚í‚¹‚Ä‚İ‚½B‚µ‚©[r]
-‚µA—¬‚ê‚Ä‚­‚é“à—e‚Í—‚½‚èŠñ‚Á‚½‚è‚¾‚Á‚½B[pcms]
+I tried tuning in to a different radio station.[l][er]
+However, the content that was coming through was more or[r]less the same.[pcms]
 
 *2205|
 [fc]
-‚µ‚©‚àA‰Æ‚â‚±‚ÌŠwZ‚Ì‚ ‚é—Áƒ–—Ë’n‹æ‚É”ğ“ïŠ©‚ªo[r]
-‚Ä‚¢‚é‚±‚Æ‚ÅA‰´‚ÍŒ™‚Å‚àAƒ‰ƒWƒI‚Ì“à—e‚ğM‚¶‚´‚é‚ğ[r]
-“¾‚È‚©‚Á‚½B[pcms]
+Moreover, with the evacuation advisory issued for the[r]Ryogaoka district where my house and this school are[r]located, I couldn't help but believe the contents of the[r]radio.[pcms]
 
 *2206|
 [fc]
-‚½‚¾‚»‚¤‚È‚é‚ÆA‹}‚É‰Æ‚Ì‚±‚Æ‚ªS”z‚É‚È‚Á‚Ä‚­‚éB¡[r]
-‚Ì‚±‚ÌŠÔA•ê‚³‚ñ‚µ‚©‰Æ‚É‚¢‚È‚¢‚©‚ç‚ÈccB[pcms]
+But in that case, I suddenly become worried about my house.[l][er]
+At this time, the only one at home is my mom...[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v878|
 [fc]
 [vo_ri s="risa0266"]
-[ns]V“¹[nse]
-u‰Á“¡ŒN‚Æ’|“àŒNA‚¿‚å‚Á‚Æ‚¢‚¢‚©‚µ‚çv[pcms]
+[ns]Shindou[nse]
+Kato-kun and Takeuchi-kun, can I talk to you for a moment?[pcms]
 
 *2207|
 [fc]
-Šİ“c‚Ì‰‹}ˆ’u‚ğ‘±‚¯‚Ä‚¢‚½V“¹æ¶‚ÍAˆê’i—‚Â‚¢‚½[r]
-‚Ì‚©è‚ğ~‚ß‚ÄA‰´‚Æ^–ç‚ğŒÄ‚ñ‚¾B[pcms]
+Shindou-sensei, who had been continuing with Kishida's first[r]aid treatment, stopped and called out to me and Shinya.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v879|
 [fc]
 [vo_ri s="risa0267"]
-[ns]V“¹[nse]
-u“ñl‚ÅZ“à‚ğŒ©‰ñ‚Á‚Ä‚«‚Ä‚à‚ç‚¦‚È‚¢‚©‚µ‚çBZ“à‚Ì[r]
-‚Ç‚±‚ÉA‚Ç‚ñ‚Èl‚ªA‰½l‚¢‚é‚©AŠm”F‚¾‚¯‚µ‚Ä‚«‚Ä‚Ù[r]
-‚µ‚¢‚Ìv[pcms]
+[ns]Shindou[nse]
+Could you two go around the school and check?[l][er]
+I just want you to confirm where and how many people are[r]inside the school.[pcms]
 
 *2208|
 [fc]
-[ns]‰Á“¡[nse]
-uŠm”F‚¾‚¯A‚Å‚·‚©ccv[pcms]
+[ns]Kato[nse]
+Just a confirmation, huh...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v880|
 [fc]
 [vo_ri s="risa0268"]
-[ns]V“¹[nse]
-u‚»‚¤AŠm”F‚¾‚¯B‚³‚Á‚«‚Ì¶“k‚Ì‚æ‚¤‚Èl‚ğŒ©‚©‚¯‚Ä[r]
-‚àA—§‚¿Œü‚©‚í‚È‚¢‚±‚ÆB‚»‚ê‚©‚çˆêl‚Ås“®‚¹‚¸‚ÉA[r]
-•K‚¸“ñl‚Ås“®‚·‚é‚±‚ÆB‚¢‚¢‚í‚ËHv[pcms]
+[ns]Shindou[nse]
+Yes, just a confirmation. Even if you see someone like the[r]student from earlier, do not confront them.[l][er]
+Also, make sure to not act alone and always move in pairs.[l][er]
+Got it?[pcms]
 
 *2209|
 [fc]
-[ns]‰Á“¡[nse]
-u‚í‚©‚è‚Ü‚µ‚½Bs‚±‚¤‚ºA^–çv[pcms]
+[ns]Kato[nse]
+Understood. Let's go, Shinya.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_c_09"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v881|
 [fc]
 [vo_ya s="yama0280"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒNcc‹C‚ğ•t‚¯‚Äccv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun... Be careful...[pcms]
 
 *2210|
 [fc]
-[ns]‰Á“¡[nse]
-u‘åä•vcc‚¶‚á‚ As‚Á‚Ä‚­‚é‚æv[pcms]
+[ns]Kato[nse]
+Don't worry... Alright, I'll go and check.[pcms]
 
 *2211|
 [fc]
-‰½‚àŒ¾‚í‚¸A•§’¸–Ê‚Å‚Â‚¢‚Ä‚­‚é^–ç‚Æ‹¤‚ÉA‰´‚ÍEˆõ[r]
-º‚ğo‚½B[pcms]
+Without saying anything, Shinya, who followed me with a[r]gloomy expression, and I left the staff room.[pcms]
 
 ;//blackout
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//[02116]‚Ö
+;//[02116]ã¸
 [jump target=*02116_TOP storage="02116.ks"]

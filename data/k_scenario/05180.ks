@@ -1,18 +1,18 @@
 
-;//¡ËƒuƒƒbƒN05180w¿–âÓ‚ßx
-;//BG:“n‚è˜L‰ºF–é
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05180ã€è³ªå•è²¬ã‚ã€
+;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šå¤œ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05180_TOP
-;[debug_win]‚È‚¤@05180[debug_win_end]
-;*SceneSet|w¿–âÓ‚ßx
+;[debug_win]ãªã†ã€€05180[debug_win_end]
+;*SceneSet|ã€è³ªå•è²¬ã‚ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05180 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05180 = 1"]
 
-;//flag:“µƒ‹[ƒgƒtƒ[@‚Q@•\¦
+;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼’ã€€è¡¨ç¤º
 
 ;	/*
-;	;//ôFBGM001
+;	;//â™ªï¼šBGM001
 ;	[bgm001]
 ;	*/
 
@@ -25,217 +25,202 @@
 
 *4979|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ñccHv[pcms]
+[ns]Kato[nse]
+Hm...?[pcms]
 
 [stop_se1]
 
 *4980|
 [fc]
-‘ÌˆçŠÙ‚Ö‘±‚­“n‚è˜L‰º‚ğ•à‚¢‚Ä‚¢‚éÅ’†A‰´‚Í‘Ìˆç‘qŒÉ[r]
-‚Ì‘‹‚©‚ç“”‚è‚ª˜R‚ê‚Ä‚¢‚é‚±‚Æ‚É‹C‚ª‚Â‚¢‚ÄA‚»‚µ‚Ä‚ [r]
-‚é‚±‚Æ‚ğv‚¢o‚µ‚Ä‚¢‚½B[pcms]
+While walking through the corridor that leads to the[r]gymnasium, I noticed light leaking from the window of the[r]equipment storage room and remembered something.[pcms]
 
 *4981|
 [fc]
-‚Â‚¢‚±‚ÌŠÔA^–ç‚Ì‰Æ‚ÉW‚Ü‚Á‚½‚ÉA‚ ‚¢‚Â‚ÌƒGƒƒ}[r]
-ƒ“ƒKƒRƒŒƒNƒVƒ‡ƒ“‚ğŒ©‚Ä‚¢‚½—S“ñ‚ªAw‘Ìˆç‘qŒÉ‚Íƒxƒ^[r]
-‚¾‚¯‚ÇAˆê“x‚Íƒ„ƒb‚Ä‚İ‚½‚¢‚æ‚È[x‚Æ˜b‚µ‚Ä‚¢‚½B[pcms]
+When we gathered at Shinya's house the other day, Yuuji, who[r]was looking at his erotic manga collection, said, The[r]equipment storage room is clichÃ©, but I'd like to do it[r]there at least once.[pcms]
 
 *4982|
 [fc]
-‚ ‚ê‚ÍAŸ‚ÉŠwZ‚Ì‚Ç‚ÌêŠ‚ÅƒZƒbƒNƒX‚ğ‚·‚é‚©‚Ì”»’f[r]
-Ş—¿‚ğAƒGƒƒ}ƒ“ƒK‚Ì’†‚É’T‚µ‚Ä‚¢‚½‚Éˆá‚¢‚È‚¢B[pcms]
+That was definitely Yuuji searching for clues in his erotic[r]manga about where to have sex next at school.[pcms]
 
 *4983|
 [fc]
-‚±‚Ì‘Ìˆç‘qŒÉ‚Ì“”‚è‚ªA—S“ñ‚ÆŒÜ\—’ƒTƒ“‚ª‚¢‚éˆó‚¾‚Æ[r]
-‚·‚ê‚ÎA‘S‚Ä‚Ì‚Â‚¶‚Â‚Ü‚ª‡‚¤B[pcms]
+If we assume that the light in this equipment storage room[r]is a sign that Yuuji and Igarashi-san are here, then[r]everything makes sense.[pcms]
 
 *4984|
 [fc]
-[ns]‰Á“¡[nse]
-u‘½•ª‚ ‚»‚±‚¾cc‚ ‚¢‚Â‚çA‘Ìˆç‘qŒÉ‚É‚¢‚é‚¼v[pcms]
+[ns]Kato[nse]
+They're probably there... Those two are in the equipment[r]storage room.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2097|
 [fc]
 [vo_sa s="sae0387"]
-[ns]²”Œ[nse]
-u‚Å‚ÍAs‚Á‚Ä‚İ‚Ü‚µ‚å‚¤v[pcms]
+[ns]Saeki[nse]
+Well then, let's go and check it out.[pcms]
 
 *4985|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¿‚åA‚¿‚å‚Á‚Æ‘Ò‚ÄI@‘Ìˆç‘qŒÉ‚Ì•û‚Í‰´‚ªs‚­‚©‚ç[r]
-‚³A²”Œ‚ÍŠwH‚Ì’†‚ğŒ©‚Ä‚«‚Ä‚­‚ê‚æv[pcms]
+[ns]Kato[nse]
+Wait, wait a minute! I'll go to the equipment storage room,[r]so Saeki, can you check inside the cafeteria?[pcms]
 
 *4986|
 [fc]
-—S“ñ’B‚ª‚ ‚»‚±‚É‚¢‚é‚Æ‚¢‚¤A‰´‚Ì„‘ª‚ª“–‚½‚Á‚Ä‚¢‚é[r]
-‚È‚çA‚Ü‚¸ŠÔˆá‚¢‚È‚­A‚ ‚¢‚Â‚ç‚ÍƒZƒbƒNƒX‚ğ‚µ‚Ä‚¢‚é[r]
-^‚ÁÅ’†‚¾‚ë‚¤B[pcms]
+If my guess that Yuuji and the others are there is correct,[r]then without a doubt, they are in the middle of having sex.[pcms]
 
 *4987|
 [fc]
-‚»‚ñ‚È‚Æ‚±‚É²”Œ‚ğ˜A‚ê‚Äs‚Á‚½‚è‚µ‚½‚çccB[r]
-‰½‚ª‹N‚«‚é‚©‚È‚ñ‚ÄAl‚¦‚½‚­‚à‚È‚¢ccB[pcms]
+If I were to take Saeki to a place like that...[l][er]
+I don't even want to think about what would happen...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2098|
 [fc]
 [vo_sa s="sae0388"]
-[ns]²”Œ[nse]
-u‰½ŒÌ‚Å‚·H@‚ ‚»‚±‚É‚¢‚é‚Æ•ª‚©‚Á‚Ä‚¢‚é‚Ì‚È‚çAŠw[r]
-H‚Ì’†‚ğŒ©‚é•K—v‚Í‚È‚¢‚Ì‚Å‚ÍHv[pcms]
+[ns]Saeki[nse]
+Why? If you already know they're there, isn't it unnecessary[r]to check inside the cafeteria?[pcms]
 
 *4988|
 [fc]
-–¾‚ç‚©‚É•sR‚È‘Ô“x‚Ì‰´‚ÉA²”Œ‚ÍŠç‚ğ‚µ‚©‚ß‚ÄA‹^‚¢[r]
-‚Ì–Ú‚ğ‰´‚ÉŒü‚¯‚½B[pcms]
+Saeki frowned at me, giving me a suspicious look in response[r]to my clearly suspicious behavior.[pcms]
 
 *4989|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¢‚âAâ‘Î‚ ‚»‚±‚É‚¢‚é‚Á‚Ä‚í‚¯‚¶‚á‚È‚¢B‘½•ª‚¾A[r]
-‘½•ªB‚¾‚©‚çˆê‰AŠwH‚àŒ©‚Ä‚¨‚¢‚½•û‚ª‚¢‚¢‚Æv‚¤‚ñ[r]
-‚¾‚æ‚ÈB‚ÈHv[pcms]
+[ns]Kato[nse]
+No, it's not like they're definitely there.[l][er]
+It's just a possibility, maybe.[l][er]
+That's why I think it's better to check the cafeteria just[r]in case.[l][er]
+Right?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2099|
 [fc]
 [vo_sa s="sae0389"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *4990|
 [fc]
-ƒLƒƒƒ“ƒLƒƒƒ“Œ¾‚¢o‚·‘O‚ÉA²”Œ‚ğŠwH‚Ì•û‚Ö‰Ÿ‚µ‚â‚Á[r]
-‚ÄAƒ€ƒŠƒ„ƒŠ‚±‚Ìê‚ğæ‚èØ‚ë‚¤‚Æ‚µ‚½uŠÔA¡ˆê”Ô•·[r]
-‚«‚½‚­‚È‚¢º‚ª•·‚±‚¦‚Ä‚«‚Ä‚µ‚Ü‚Á‚½B[pcms]
+Before Saeki could start complaining, I forcefully pushed[r]her towards the cafeteria, trying to get through this[r]situation.[l][er]
+But just as I did, at the moment when I least wanted to hear[r]it, I heard a voice that I didn't want to hear.[pcms]
 
-;//¦—vƒ{ƒCƒX‰ÁH@‰“‚­‚©‚çB
+;//â€»è¦ãƒœã‚¤ã‚¹åŠ å·¥ã€€é ãã‹ã‚‰ã€‚
 
 *v2100|
 [fc]
 [vo_to s="tomo0249"]
-[ns]ŒÜ\—’[nse]
-u[font size=20]‚Ó‚ŸA‚ñ‚¤‚£‚ÁI@cc‚»‚ñ‚È‚Æ‚±A‚È‚ß‚¿‚ácc[r]
-‚Ğ‚ ‚Ÿ‚ÁI[font size=24]v[pcms]
+[ns]Igarashi[nse]
+[fontsize=20]Ah, nghh! ... Don't lick me there...[l][er]
+hiaahh![pcms]
+[fontsize=24][l][er]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2101|
 [fc]
 [vo_sa s="sae0390"]
-[ns]²”Œ[nse]
-uIIv[pcms]
+[ns]Saeki[nse]
+!![pcms]
 
 *4992|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ccv[pcms]
+[ns]Kato[nse]
+Ah...[pcms]
 
 *4993|
 [fc]
-•·‚±‚¦‚Ä‚«‚½ŒÜ\—’ƒTƒ“‚Ìº‚ÅA‰´‚Æ²”Œ‚ÌŠÔ‚Ì‹ó‹C‚ª[r]
-•X‚è‚Â‚¢‚½B[pcms]
+The atmosphere between me and Saeki froze upon hearing[r]Igarashi-san's voice.[pcms]
 
 *4994|
 [fc]
-—S“ñcc‚Ç‚±är‚ß‚½‚ñ‚¾‚æccB[r]
-ŒÜ\—’ƒTƒ“‚àºƒfƒJƒC‚Á‚ÄccB[pcms]
+Yuuji... Where did you lick me...[l][er]
+Igarashi-san's voice is loud too...[pcms]
 
 *4995|
 [fc]
-‹°‚é‹°‚é²”Œ‚ğŒ©‚é‚ÆA•X‚Á‚½‹ó‹C‚æ‚è‚à—â‚½‚¢–Ú‚ÅA[r]
-‰´‚Ì‚±‚Æ‚ğáÉ‚İ‚Â‚¯‚Ä‚¢‚½B[pcms]
+Saeki looked at me fearfully, and with eyes colder than the[r]frozen air, she glared at me.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2102|
 [fc]
 [vo_sa s="sae0391"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *4996|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¢‚âA²”Œ‚É‚Í‚¿‚å‚Á‚ÆhŒƒ‚ª‹­‚¢‚©‚È[‚Æv‚Á‚ÄA[r]
-‰´ˆêl‚Ås‚±‚¤‚Æccv[pcms]
+[ns]Kato[nse]
+No, I thought it might be a bit too stimulating for Saeki,[r]so I was thinking of going alone...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_09"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2103|
 [fc]
 [vo_sa s="sae0392"]
-[ns]²”Œ[nse]
-ucc‚±‚êˆÈãA‚Â‚«‡‚¢‚«‚ê‚Ü‚¹‚ñB„‚Í‚à‚¤A©‘î[r]
-‚É–ß‚è‚Ü‚·v[pcms]
+[ns]Saeki[nse]
+... I can't handle this anymore.[l][er]
+I'm going back home.[pcms]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 [se0 storage="se005"]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *4997|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨A‚¨‚¢A²”ŒIv[pcms]
+[ns]Kato[nse]
+H-Hey, Saeki![pcms]
 
 *4998|
 [fc]
-‰´‚ÌŒÄ‚Ñ‚©‚¯‚ğ–³‹‚µA‰¹‚ª•·‚±‚¦‚Ä‚«‚»‚¤‚È¨‚¢‚ÅA[r]
-²”Œ‚Í‘‘«‚ÅZÉ‚Ì’†‚ÖÁ‚¦‚Ä‚¢‚Á‚½B[pcms]
+Saeki ignored my call and quickly disappeared into the[r]school building as if she could hear the sound.[pcms]
 
 *4999|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ü‚Á‚½‚­cc‰½‚à‚±‚Ìƒ^ƒCƒ~ƒ“ƒO‚Åºo‚·‚±‚Æ‚È‚¢‚¾[r]
-‚ëccB‘å‘ÌA‚±‚ñ‚ÈŠ‚Åƒ„ƒb‚Ä‚ñ‚È‚æ‚Èccv[pcms]
+[ns]Kato[nse]
+Geez... There's no need to speak up at a time like this...[l][er]
+Besides, who does it in a place like this...[pcms]
 
 *5000|
 [fc]
-‘Ìˆç‘qŒÉ‚Ì‘‹‚ğáÉ‚ñ‚Åƒ{ƒ„‚¢‚Ä‚©‚çA‰´‚Í²”Œ‚ğ’Ç‚Á‚Ä[r]
-‘–‚Á‚½B[pcms]
+After muttering while staring at the window of the gym[r]storage room, I chased after Saeki.[pcms]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 [se0 storage="se005"]
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 ;//blackout
 
-;//¦ğŒ•ªŠò
-;//Eflag:“µƒ‹[ƒgƒNƒŠƒA@‚ªoff;//[05190]‚Ö
-;//E“µƒ‹[ƒgƒNƒŠƒA@‚ªon;//[06080]‚Ö
+;//â€»æ¡ä»¶åˆ†å²
+;//ãƒ»flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒoff;//[05190]ã¸
+;//ãƒ»ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒon;//[06080]ã¸
 
 [if exp="sf.g_hitomi_clear==1"]
 	;[jump target=*SEL00_05180_END]

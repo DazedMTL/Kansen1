@@ -1,21 +1,21 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN0105w‘Ìˆç—p‹ïº‚ÌŒ®“üèx
-;//BG:‘Ìˆç‹³ˆõºF–é^Á“”
-;//“oêl•¨G“c’†E•ü”ü
-;//‹“_F[ns]“c’†[nse]
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0105ã€ä½“è‚²ç”¨å…·å®¤ã®éµå…¥æ‰‹ã€
+;//BG:ä½“è‚²æ•™å“¡å®¤ï¼šå¤œï¼æ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ç”°ä¸­ãƒ»æœ‹ç¾
+[ns]Tanaka[nse]
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *0105_TOP
-;[debug_win]‚È‚¤@0105[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0105 = 1"]
+;[debug_win]ãªã†ã€€0105[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0105 = 1"]
 
-;*SceneSet|w‘Ìˆç—p‹ïº‚ÌŒ®“üèx
+;*SceneSet|ã€ä½“è‚²ç”¨å…·å®¤ã®éµå…¥æ‰‹ã€
 
 ;//[0105]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 
 ;//[bgm001]
 
@@ -24,149 +24,145 @@
 [bg storage="bg17d"]
 [trans_c cross time=500]
 
-;//SE:”à‚ğŠJ‚¯‚é
+;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
 [se0 storage="se008"]
 
 *974|
 [fc]
-[ns]“c’†[nse]
-u‚æ‚©‚Á‚½[AƒJƒM•Â‚Ü‚Á‚Ä‚È‚­‚ÄccB[r]
-Šİ“c‚ªƒoƒJ‚Å•‚©‚Á‚½‚Èv[pcms]
+[ns]Tanaka[nse]
+Thank goodness, the door wasn't locked...[l][er]
+I'm glad Kishida is an idiot.[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_c_a1_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v391|
 [fc]
 [vo_to s="tomo0051"]
-[ns]ŒÜ\—’[nse]
-uƒoƒJ‚Á‚ÄƒJƒM•Â‚ß‚È‚¢‚ÌHv[pcms]
+[ns]Igarashi[nse]
+You don't lock the door, you idiot?[pcms]
 
 *975|
 [fc]
-[ns]“c’†[nse]
-uƒzƒ‰A‚¢‚Á‚Â‚àŒûŠJ‚¯‚Ä‚éƒ„ƒc‚¢‚é‚¶‚á‚ñH[r]
-‚»‚¤‚¢‚¤‚Ì‚Á‚Ä‘å‘ÌƒoƒJ‚È‚ñ‚¾‚æ‚ËB[r]
-‚¾‚©‚çƒoƒJ‚Á‚ÄAw•Â‚ß‚éx‚Á‚Ä‚±‚Æ‚ª‚Å‚«‚È‚¢‚ñ‚¾‚æv[pcms]
+[ns]Tanaka[nse]
+Hey, you know those people who always have their mouths[r]open?[l][er]
+Usually, they're idiots. That's why idiots can't close[r]things.[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v392|
 [fc]
 [vo_to s="tomo0052"]
-[ns]ŒÜ\—’[nse]
-u‚Ö‚¥`v[pcms]
+[ns]Igarashi[nse]
+Oh~[l][er]
 
 *976|
 [fc]
-Î‚Á‚Ä”[“¾‚µ‚¿‚á‚Á‚Ä‚éƒgƒ‚ƒ~ƒ“‚ÍƒJƒƒCƒCB[r]
-‚»‚ê‚Í‚»‚¤‚ÆA‚Æ‚Á‚Æ‚ÆƒJƒM’T‚µ‚Ä“¦‚°‚Ë[‚Æ‚ÈB[pcms]
+Tomomin, who is laughing and accepting it, is cute.[l][er]
+By the way, we better find the key quickly and get out of[r]here.[pcms]
 
 *977|
 [fc]
-ƒJƒM‚Ì‚ ‚éêŠ‚Í‚í‚©‚Á‚Ä‚ñ‚¾B[r]
-“ñŠÔ‚©‚¯‚ÄA‹­§“I‚É[r]
-‚±‚Ì•”‰®‚Ì’†‚ğŒ©‚³‚¹‚ç‚ê‚½‚ñ‚¾‚©‚ç‚ÈB[pcms]
+I know where the key is. We were forced to search this room[r]for two hours, after all.[pcms]
 
-;//SE:ƒJƒ^ƒb
+;//SE:ã‚«ã‚¿ãƒƒ
 [se0 storage="se022"]
 
 *978|
 [fc]
-[ns]“c’†[nse]
-u‚ [A‚ ‚Á‚½‚ ‚Á‚½A‚±‚ê‚¾B[r]
-Šİ“c‚Ìà‹³‚àA‚½‚Ü‚É‚Í–ğ‚É—§‚Â‚Èv[pcms]
+[ns]Tanaka[nse]
+Ah, here it is. Kishida's lecturing actually comes in handy[r]sometimes.[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_c_a1_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v393|
 [fc]
 [vo_to s="tomo0053"]
-[ns]ŒÜ\—’[nse]
-u‚¦AŠİ“c‚Éà‹³‚³‚ê‚½‚ÌH@‚±‚±‚ÅHv[pcms]
+[ns]Igarashi[nse]
+Eh, Kishida lectured you? Here?[pcms]
 
 *979|
 [fc]
-[ns]“c’†[nse]
-u‚»A‚µ‚©‚àƒ}ƒ“ƒc[ƒ}ƒ“‚Åv[pcms]
+[ns]Tanaka[nse]
+A-And it was one-on-one too.[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_c_a_09"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v394|
 [fc]
 [vo_to s="tomo0054"]
-[ns]ŒÜ\—’[nse]
-u‚°`Iv[pcms]
+[ns]Igarashi[nse]
+Ge~![pcms]
 
 *980|
 [fc]
-[ns]“c’†[nse]
-u‘Ìˆç‚ÌŠÔ‚ÉƒeƒLƒg[‚É‚â‚Á‚Ä‚½‚ç‚³AŠİ“c‚É‚±‚±‚É[r]
-˜A‚ê‚Ü‚ê‚½‚ñ‚¾‚æ‚ËB‚»‚ñ‚Å“Å‚É‚à–ò‚É‚à‚È‚ç‚Ë[à[r]
-‹³‚ğ“ñŠÔ‚àƒ^ƒŒ—¬‚µ‚â‚ª‚Á‚Ä‚æ[Bƒzƒ“ƒg€‚Ë‚æ‚Èv[pcms]
+[ns]Tanaka[nse]
+So, during gym class, I was just fooling around and then[r]Kishida dragged me in here.[l][er]
+And then he went on a two-hour long lecture that was[r]completely useless.[l][er]
+Seriously, he can go die for all I care.[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_c_a_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v395|
 [fc]
 [vo_to s="tomo0055"]
-[ns]ŒÜ\—’[nse]
-uƒAƒnƒnA‚æ‚¿‚æ‚¿v[pcms]
+[ns]Igarashi[nse]
+Ahaha, wobbling[l][er]
 
 *981|
 [fc]
-ƒJƒƒC‚­Î‚Á‚½ƒgƒ‚ƒ~ƒ“‚É“ª‚ğ•‚Å‚ç‚ê‚é‚ÆA[r]
-ƒIƒŒ‚Í‚¢‚Â‚àA‚±‚ÌƒR‚ğ•ø‚«‚µ‚ß‚½‚­‚È‚éB[pcms]
+When Tomomin, who laughed cutely, strokes my head, I always[r]feel like hugging this girl.[pcms]
 
 *982|
 [fc]
-‚»‚µ‚ÄA‚µ‚½‚­‚È‚é‚ñ‚¾ccB[pcms]
+And, I want to do it...[pcms]
 
 *983|
 [fc]
-[ns]“c’†[nse]
-uƒgƒ‚ƒ~ƒ“cc‚à‚Á‚ÆˆÔ‚ß‚ÄccHv[pcms]
+[ns]Tanaka[nse]
+Tomomin... comfort me more...?[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_c_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_c_a1_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v396|
 [fc]
 [vo_to s="tomo0056"]
-[ns]ŒÜ\—’[nse]
-ucc‚¤‚ñA‚»‚ê‚¶‚á‘‚­s‚±ccv[pcms]
+[ns]Igarashi[nse]
+... Yeah, let's go quickly...[pcms]
 
 *984|
 [fc]
-ƒIƒŒ‚Íƒgƒ‚ƒ~ƒ“‚Ìè‚ğæ‚Á‚ÄA‘Ìˆç‘qŒÉ‚ÖŒü‚©‚Á‚½B[pcms]
+I took Tomomin's hand and headed towards the gym storage[r]room.[pcms]
+[l][er]
 
 ;//blackout
 
@@ -178,6 +174,6 @@
 
 ;;;[sysbt_meswin]
 
-;//[0106]‚Ö
+;//[0106]ã¸
 [jump target=*0106_TOP storage="0106.ks"]
 

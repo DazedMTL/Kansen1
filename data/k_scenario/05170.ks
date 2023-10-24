@@ -1,16 +1,16 @@
 
-;//¡ËƒuƒƒbƒN05170w‘ÌˆçŠÙ‚Öx
-;//BG:“Áê‹³º˜L‰ºF–éF“_“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05170ã€ä½“è‚²é¤¨ã¸ã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05170_TOP
-;[debug_win]‚È‚¤@05170[debug_win_end]
-;*SceneSet|w‘ÌˆçŠÙ‚Öx
+;[debug_win]ãªã†ã€€05170[debug_win_end]
+;*SceneSet|ã€ä½“è‚²é¤¨ã¸ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05170 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05170 = 1"]
 
 ;	/*
-;	;//ôFBGM001
+;	;//â™ªï¼šBGM001
 ;	[bgm001]
 ;	
 ;	;//BG:bg004c
@@ -23,130 +23,119 @@
 
 *4961|
 [fc]
-‚±‚Ì‚Ü‚Ü‚±‚±‚É‚¢‚Ä‚àd•û‚È‚¢A‚Ü‚¾Œ©‚Â‚©‚Á‚Ä‚¢‚È‚¢[r]
-—S“ñ’B‚ğ‘{‚µ‚És‚±‚¤‚ÆA‰´‚Æ²”Œ‚Í•ÛŒ’º‚ğo‚½B[pcms]
+There's no point in staying here like this.[l][er]
+Let's go search for Yuuji and the others who haven't been[r]found yet, Saeki and I left the infirmary.[pcms]
 
 *4962|
 [fc]
-[ns]’|“à[nse]
-u‚­‚»‚§‚ÁI@‚­‚»‚Á‚½‚êII@‚­‚»‚ÁI@‚­‚»‚ÁIv[pcms]
+[ns]Takeuchi[nse]
+Damn it! You piece of shit!! Damn it![l][er]
+Damn it![pcms]
 
 *4963|
 [fc]
-p‚ÍŒ©‚¦‚È‚¢‚ªA‚³‚Á‚«‰´’B‚ª—ˆ‚½•û‚©‚çA^–ç‚ª‘åº[r]
-‚Å‹©‚Ô‚Ì‚ª•·‚±‚¦‚Ä‚­‚éB[pcms]
+I can't see him, but I can hear Shinya shouting loudly from[r]the direction we came from earlier.[pcms]
 
 *4964|
 [fc]
-[ns]‰Á“¡[nse]
-u‰½‚ğ“{‚Á‚Ä‚é‚ñ‚¾H@‚ ‚¢‚Âccv[pcms]
+[ns]Kato[nse]
+What are you so angry about? That guy...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2094|
 [fc]
 [vo_sa s="sae0384"]
-[ns]²”Œ[nse]
-u‚ ‚ÌlA‚Ç‚±‚Ös‚Á‚Ä‚à‘¼l‚É–À˜f‚ğ‚©‚¯‚Ä‚¢‚é‚Ì‚Å[r]
-‚·‚Ëv[pcms]
+[ns]Saeki[nse]
+That person, no matter where they go, they always cause[r]trouble for others.[pcms]
 
 *4965|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤‚©ccH@²”Œ‚ªŒ¾‚¤‚Ù‚Çƒqƒh‚­‚È‚¢‚ÆA‰´‚Ív[r]
-‚¤‚¯‚Ç‚Èv[pcms]
+[ns]Kato[nse]
+Is that so...? I don't think he's as bad as Saeki says he[r]is.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2095|
 [fc]
 [vo_sa s="sae0385"]
-[ns]²”Œ[nse]
-u¡‚¾‚Á‚ÄAV“¹æ¶‚ğ‚ ‚ñ‚È‚É“{‚ç‚¹‚Ä‚¢‚½‚¶‚á‚ ‚è[r]
-‚Ü‚¹‚ñ‚©I@‰½ŒÌ‚ ‚ñ‚Èl‚ª‚±‚ÌŠwZ‚É‚¢‚é‚Ì‚©A„‚É[r]
-‚Í•sv‹c‚Åd•û‚ ‚è‚Ü‚¹‚ñIv[pcms]
+[ns]Saeki[nse]
+Even now, he managed to anger Shindou-sensei so much![l][er]
+I can't help but wonder why someone like him is at this[r]school![pcms]
 
 *4966|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤[‚ñccv[pcms]
+[ns]Kato[nse]
+Hmm...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *4967|
 [fc]
-²”ŒA‚æ‚Á‚Û‚Ç^–ç‚Ì‚±‚Æ‚ªŒ™‚¢‚È‚ñ‚¾‚È‚ŸccB[pcms]
+Saeki really seems to dislike Shinya a lot...[pcms]
 
 *4968|
 [fc]
-~‚Ü‚ç‚È‚¢²”Œ‚ÌƒOƒ`‚ğA‰´‚Í“K“–‚É•·‚«—¬‚µ‚È‚ª‚çA[r]
-•Ó‚è‚ğŒ©‰ñ‚µ‚½B[pcms]
+While casually ignoring Saeki's endless complaints, I looked[r]around the area.[pcms]
 
 *4969|
 [fc]
-V“¹æ¶‚Í—‰È€”õº‚É–ß‚Á‚½‚æ‚¤‚ÅA•ÛŒ’º‚©‚ç‹³º[r]
-“ñ‚Â—£‚ê‚½—‰Èº‚ÉA‚³‚Á‚«‚Ü‚Å“_‚¢‚Ä‚¢‚È‚©‚Á‚½“”‚è[r]
-‚ª“_‚¯‚ç‚ê‚Ä‚¢‚½B[pcms]
+It seems that Shindou-sensei has returned to the science[r]preparation room, and the light that was off until just now[r]in the science room, which is two classrooms away from the[r]infirmary, has been turned on.[pcms]
 
 *4970|
 [fc]
-^–ç‚Í‚Ü‚½Ÿè‚ÉÁ‚¦‚Ä‚µ‚Ü‚Á‚½‚ªAZÉ‚Ì’†‚É‚¢‚é‚Ì[r]
-‚Å‚ ‚ê‚ÎA•ú‚Á‚Ä‚¨‚¢‚Ä‚à–â‘è‚È‚¢‚¾‚ë‚¤B[r]
-• ‚ªŒ¸‚é‚©A‹A‚éŠÔ‚É‚È‚ê‚ÎA–ß‚Á‚Ä‚­‚é”¤‚¾B[pcms]
+Shinya disappeared again on his own, but if he's inside the[r]school building, it should be fine to leave him alone.[l][er]
+If he gets hungry or it's time to go home, he should come[r]back.[pcms]
 
 *4971|
 [fc]
-‚ ‚Æ‚ÍA—S“ñ‚ÆŒÜ\—’ƒTƒ“‚¾‚ÈccB[r]
-‘½•ªA‘ÌˆçŠÙ‚É‚¢‚é‚Æv‚¤‚¯‚ÇccB[pcms]
+And then, there's Yuuji and Igarashi-san...[l][er]
+I think they're probably in the gymnasium...[pcms]
 
 *4972|
 [fc]
-ˆÄŠOARŠİ‚³‚ñ‚ª‚à‚¤Œ©‚Â‚¯‚Ä‚ÄAOl‚ÅŠwH‚ÅƒWƒ…[[r]
-ƒX‚Å‚àˆù‚ñ‚Å‚½‚è‚µ‚Ä‚ÈccB[pcms]
+Surprisingly, it seems that Yamagishi-san has already found[r]them, and the three of them are probably drinking juice[r]together at the school cafeteria...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2096|
 [fc]
 [vo_sa s="sae0386"]
-[ns]²”Œ[nse]
-u‚à‚¤‘ål‚È‚Ì‚Å‚·‚©‚çA‚à‚Á‚Æ‘¼l‚Ì–‚ğl‚¦‚Äs“®[r]
-‚µ‚Ä‚Ù‚µ‚¢‚à‚Ì‚Å‚·v[pcms]
+[ns]Saeki[nse]
+Since he's already an adult, I wish he would think more[r]about others and act accordingly.[pcms]
 
 *4973|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ A‚»‚¤‚¾‚ÈccB‚¶‚á‚ ‚»‚ë‚»‚ëAc‚è‚Ì“ñl‚ğ[r]
-‘{‚µ‚És‚±‚¤‚©v[pcms]
+[ns]Kato[nse]
+Ah, I see... Then, shall we go search for the remaining two[r]people soon?[pcms]
 
 *4974|
 [fc]
-‚Ü‚¾• ‚Ì’‚ª¡‚Ü‚ç‚È‚¢‚Ì‚©A•s‹@Œ™‚»‚¤‚ÈŠç‚Ì‚Ü‚Ü‚Å[r]
-‚¢‚é²”Œ‚ğ˜A‚ê‚ÄA‰´‚Í‘ÌˆçŠÙ‚Ì•û‚ÖŒü‚©‚Á‚½B[pcms]
+Saeki, who was still sulking with an unhappy expression,[r]accompanied me as we headed towards the gymnasium.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
 [se1 storage="se067"]
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 ;//blackout
 
-;//[05180]‚Ö
+;//[05180]ã¸
 [jump target=*05180_TOP storage="05180.ks"]

@@ -1,20 +1,20 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02168w’Eox
-;//BG:‹óF’©
-;//“oêl•¨GålŒöE—DE‹~••”‘à‘àˆõ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02168ã€è„±å‡ºã€
+;//BG:ç©ºï¼šæœ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»æ•‘åŠ©éƒ¨éšŠéšŠå“¡
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02168_TOP
-;[debug_win]‚È‚¤@02168[debug_win_end]
+;[debug_win]ãªã†ã€€02168[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02168 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02168 = 1"]
 
-;*SceneSet|w’Eox
+;*SceneSet|ã€è„±å‡ºã€
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 
 [fadeoutbgm time=500]
 
@@ -23,92 +23,90 @@
 [bg storage="bg20a"]
 [trans_c cross time=500]
 
-;//SE:ƒwƒŠƒRƒvƒ^[‚Ì’†
+;//SE:ãƒ˜ãƒªã‚³ãƒ—ã‚¿ãƒ¼ã®ä¸­
 
 [se0 storage="se035a" loop=true]
 
 *3042|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤ccv[pcms]
+[ns]Kato[nse]
+Ugh...[pcms]
 
 *3043|
 [fc]
-‚¢‚Â‚ÌŠÔ‚É‹C‚ğ¸‚Á‚Ä‚¢‚½‚Ì‚©A‰´‚ÍŒ‰¹‚ÆU“®‚Ì’†A[r]
-–Ú‚ğŠo‚Ü‚µ‚½B[pcms]
+I woke up amidst the thunderous noise and vibrations, not[r]knowing when I had lost consciousness.[pcms]
 
 *3044|
 [fc]
-‚Ç‚¤‚â‚ç‰´‚ÍA°‚ÉQ‚©‚³‚ê‚Ä‚¢‚é‚ç‚µ‚©‚Á‚½B[r]
-Ô‚©‰½‚©‚Éæ‚Á‚Ä‚¢‚é‚Ì‚¾‚ë‚¤‚©ccB[pcms]
+It seems like I was laid down on the floor.[l][er]
+I wonder if I'm riding in a car or something...[pcms]
 
 *3045|
 [fc]
-¶è‚ğˆ¬‚ç‚ê‚Ä‚¢‚éŠ´G‚ÉA‚»‚¿‚ç‚ÖŠç‚ğŒü‚¯‚é‚ÆAR[r]
-Šİ‚³‚ñ‚Ì‹ƒ‚¢‚Ä‚¢‚éŠç‚ª‚ ‚Á‚½B[pcms]
+I felt the sensation of my left hand being held, so I turned[r]my face towards it, and there was Yamagishi-san's crying[r]face.[pcms]
 
-;//¦ŠG–³‚µ
+;//â€»çµµç„¡ã—
 
 *v1177|
 [fc]
 [vo_ya s="yama0458"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒNccIv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun...![pcms]
 
 *3046|
 [fc]
-[ns]‰Á“¡[nse]
-uRŠİ‚³‚ñccv[pcms]
+[ns]Kato[nse]
+Yamagishi-san...[pcms]
 
-;//¦ŠG–³‚µ
+;//â€»çµµç„¡ã—
 
 *v1178|
 [fc]
 [vo_ya s="yama0459"]
-[ns]RŠİ[nse]
-u•‚©‚Á‚½‚ñ‚¾‚æA„’Bccv[pcms]
+[ns]Yamagishi[nse]
+Thank goodness we're safe...[pcms]
 
 *3047|
 [fc]
-[ns]‰Á“¡[nse]
-u•‚©‚Á‚½ccv[pcms]
+[ns]Kato[nse]
+Thank goodness...[pcms]
 
-;//¦ŠG–³‚µ
+;//â€»çµµç„¡ã—
 
 *v1179|
 [fc]
 [vo_ya s="yama0460"]
-[ns]RŠİ[nse]
-u‚¤‚ñA•‚©‚Á‚½‚Ìccˆê‚É‹A‚ê‚é‚ñ‚¾‚æccv[pcms]
+[ns]Yamagishi[nse]
+Yeah, we're saved... We can go home together...[pcms]
 
 *3048|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *3049|
 [fc]
-—Ç‚©‚Á‚½cc–ñ‘©‚Í‚¿‚á‚ñ‚Æç‚ê‚½‚í‚¯‚¾ccB[r]
-ˆÀS‚µ‚½‚¹‚¢‚©A‹}‚É–°‚­‚È‚Á‚Ä‚«‚½ccB[pcms]
+Thank goodness... We were able to keep our promise...[l][er]
+I feel relieved, and suddenly I'm getting sleepy...[pcms]
 
 *3050|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
-;//¦ŠG–³‚µ
+;//â€»çµµç„¡ã—
 
 *v1180|
 [fc]
 [vo_ya s="yama0461"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒNccH@‰Á“¡ŒNI@‚Ë‚¥‰Á“¡ŒN‚Á‚Ä‚ÎI@‹N‚«[r]
-‚Ä‚æI@‰Á“¡ŒN‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun...? Kato-kun! Hey, Kato-kun![l][er]
+Wake up! Kato-kun!![pcms]
 
 *3051|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 ;[fadeoutbgm time=500]
 
@@ -121,16 +119,16 @@
 ;;;[sysbt_meswin]
 
 ;//blackout
-;SEƒtƒF[ƒhƒAƒEƒg ‚±‚êg—p‚µ‚½Œã‚Ìpcms‚ÌŒã‚ë‚Åstopse‚µ‚Ä‚­‚¾‚³‚¢Bƒ[ƒh‚·‚é‚Æ~‚ß‚½‚Ì‚É‚Ü‚½–Â‚Á‚Ä‚é‚©‚çB
+;SEãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ ã“ã‚Œä½¿ç”¨ã—ãŸå¾Œã®pcmsã®å¾Œã‚ã§stopseã—ã¦ãã ã•ã„ã€‚ãƒ­ãƒ¼ãƒ‰ã™ã‚‹ã¨æ­¢ã‚ãŸã®ã«ã¾ãŸé³´ã£ã¦ã‚‹ã‹ã‚‰ã€‚
 [fadeoutse buf=0 time=1000]
 
 *v1181|
 [fc]
 [vo_ya s="yama0462"]
-[ns]RŠİ[nse]
-u‚¢‚á‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ II@‰Á“¡ŒNIIv[pcms]
+[ns]Yamagishi[nse]
+Yaaaaaaaah!! Kato-kun!![pcms]
 
-;ƒVƒXƒeƒ€ƒ{ƒ^ƒ“•ƒEƒBƒ“ƒhƒEÁ‹
+;ã‚·ã‚¹ãƒ†ãƒ ãƒœã‚¿ãƒ³ï¼†ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
 [sysbt_meswin clear]
 
 [wait_c time=1500]
@@ -139,5 +137,5 @@
 ;;;[sysbt_meswin clear]
 
 
-;//[02169]‚Ö
+;//[02169]ã¸
 [jump target=*02169_TOP storage="02169.ks"]

@@ -1,25 +1,25 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//;//¡ËƒuƒƒbƒN09010w—D‚Ì‘z‚¢x
-;//BGFƒoƒX’â
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯09010ã€å„ªã®æƒ³ã„ã€
+;//BGï¼šãƒã‚¹åœ
 
-;//;//“oêl•¨F—D
+;//;//ç™»å ´äººç‰©ï¼šå„ª
 
-;//‚±‚ÌƒuƒƒbƒN‚Ìƒ{ƒCƒXƒtƒ@ƒCƒ‹‚Í@¦ƒ}[ƒN‚ÌŒã‚ë‚ÌNo
-;//.‚ğg—p‚µ‚Ä‰º‚³‚¢B
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;//ã“ã®ãƒ–ãƒ­ãƒƒã‚¯ã®ãƒœã‚¤ã‚¹ãƒ•ã‚¡ã‚¤ãƒ«ã¯ã€€â€»ãƒãƒ¼ã‚¯ã®å¾Œã‚ã®No
+;//.ã‚’ä½¿ç”¨ã—ã¦ä¸‹ã•ã„ã€‚
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *09010_TOP
-;[debug_win]‚È‚¤@09010[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_09010 = 1"]
+;[debug_win]ãªã†ã€€09010[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_09010 = 1"]
 
-;*SceneSet|w—D‚Ì‘z‚¢x
+;*SceneSet|ã€å„ªã®æƒ³ã„ã€
 
 ;//;//[09010]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 [bgm001]
 ;//;//BG:bg19
 [bg storage="bg19"]
@@ -30,111 +30,107 @@
 
 *10796|
 [fc]
-¡“ú‚Í‡h‚Ì“úB[pcms]
+Today is the day of the training camp.[pcms]
 
 *10797|
 [fc]
-‘Ò‚¿‚É‘Ò‚Á‚½cc‚Á‚Ä–ó‚Å‚à‚È‚¢‚¯‚ÇA[r]
-Šy‚µ‚İ‚É‚µ‚Ä‚¢‚½B[pcms]
+I've been looking forward to it, not like I've been waiting[r]anxiously or anything.[pcms]
 
 *10798|
 [fc]
-ƒgƒ‚‚¿‚á‚ñ‚âA‘¼‚Ì‚İ‚ñ‚È‚Æˆê‚ÌA‡hB[pcms]
+Tomochan, it's the training camp with everyone else.[pcms]
 
 *10799|
 [fc]
-‚İ‚ñ‚È‚Å‰f‰æŠÓÜB[r]
-‰½‚æ‚èwŠwZ‚É”‘‚Ü‚éx‚È‚ñ‚ÄA[r]
-‚»‚¤‚»‚¤ŒoŒ±o—ˆ‚é‚à‚Ì‚¶‚á‚È‚¢B[pcms]
+Watching a movie together with everyone.[l][er]
+Above all, it's not often that we get to experience[r]something like Staying overnight at school.[pcms]
 
 *10800|
 [fc]
-‚Ç‚¤‚¹A‰Æ‚É‚¢‚Ä‚àˆêlB[pcms]
+Anyway, even if I stay at home, I'll be alone.[pcms]
 
 *10801|
 [fc]
-—[H‚àA‚İ‚ñ‚È‚ÆˆêB[r]
-‰f‰æ‚àA‚İ‚ñ‚È‚Æˆê‚ÉŒ©‚éB[pcms]
+We'll have dinner together with everyone.[l][er]
+We'll also watch a movie together with everyone.[pcms]
 
 *v3998|
 [fc]
 [vo_ya s="yama1141"]
-[ns]RŠİ[nse]
-u“ö‚â‚©‚ÅAŠy‚µ‚¢‚¾‚ë‚¤‚È‚Ÿ`v[pcms]
+[ns]Yamagishi[nse]
+It'll be lively and fun, won't it~[l][er]
 
-;//¦yama1141.wav
+;//â€»yama1141.wav
 
 *10802|
 [fc]
-‚İ‚ñ‚È‚Æˆê‚Ì•û‚ªA‘S‘R‚¢‚¢B[pcms]
+Being together with everyone is much better.[pcms]
 
 *v3999|
 [fc]
 [vo_ya s="yama1142"]
-[ns]RŠİ[nse]
-ucc‚İ‚ñ‚Èˆêcc‚©ccv[pcms]
+[ns]Yamagishi[nse]
+... Everyone together... huh...[pcms]
 
-;//¦yama1142.wav
+;//â€»yama1142.wav
 
 *10803|
 [fc]
-–{“–‚ÍA‚İ‚ñ‚È‚Æˆê‚¶‚á‚È‚­‚Ä‚à‚¢‚¢B[pcms]
+Actually, it's fine even if I'm not with everyone.[pcms]
 
 *10804|
 [fc]
-w”Şx‚ª‚»‚Î‚É‚¢‚Ä‚­‚ê‚ê‚ÎA‚»‚ê‚¾‚¯‚Å‚¢‚¢B[pcms]
+If 'he' is by my side, that's all I need.[pcms]
 
 *10805|
 [fc]
-‹”N‚Ì¡‚­‚ç‚¢‚©‚çA‚»‚ñ‚È‚É‰ï˜b‚µ‚Ä‚È‚¢w”Şx[r]
-‚»‚Ìw”Şx‚ÍA„‚Ì–‚ğ‚Ç‚¤v‚Á‚Ä‚é‚ñ‚¾‚ë‚¤B[pcms]
+Since around this time last year, I haven't had much[r]conversation with him.[l][er]
+I wonder what he thinks of me.[pcms]
 
 *10806|
 [fc]
-cc‹”N‚Ìw”Şx‚Ì¿–âB[r]
-wD‚«‚È’jq‚Æ‚©A‚¢‚é‚ÌHx[pcms]
+... Last year, 'he' asked me. 'Do you have a favorite boy? '[pcms]
 
 *10807|
 [fc]
-‚ ‚Ì‚ÍA‚¢‚È‚©‚Á‚½B[pcms]
+At that time, I wasn't there.[pcms]
 
 *10808|
 [fc]
-‚Å‚àA¡‚ÍccB[pcms]
+But, now...[pcms]
 
 *v4000|
 [fc]
 [vo_ya s="yama1143"]
-[ns]RŠİ[nse]
-u‚ ‚Í‚Íccv[pcms]
+[ns]Yamagishi[nse]
+Ahaha...[pcms]
 
-;//¦yama1143.wav
+;//â€»yama1143.wav
 
 *10809|
 [fc]
-‚±‚Ì‡h‚ÅA‚à‚Á‚Æ’‡—Ç‚­‚È‚ê‚é‚Æ‚¢‚¢‚ÈB[pcms]
+I hope we can become closer during this training camp.[pcms]
 
 *10810|
 [fc]
-‹”N‚æ‚è‚àA¡‚æ‚è‚àB[r]
-‚à‚Á‚Æ’‡—Ç‚­‚È‚Á‚ÄccB[r]
-‚¸‚Á‚ÆA„‚Ì‚»‚Î‚É‚¢‚Ä—~‚µ‚¢‚ÈccB[pcms]
+I want us to become closer than last year, than we are[r]now...[l][er]
+I want you to always be by my side...[pcms]
 
 *v4001|
 [fc]
 [vo_ya s="yama1144"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒNccv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun...[pcms]
 
-;//¦yama1144.wav
+;//â€»yama1144.wav
 
 *10811|
 [fc]
-ƒoƒX’â‚É‚Í‚à‚¤A‚İ‚ñ‚È‚ª‘Ò‚Á‚Ä‚¢‚éB[pcms]
+Everyone is already waiting at the bus stop.[pcms]
 
 *10812|
 [fc]
-‹}‚ª‚È‚«‚áccB[pcms]
+I have to hurry...[pcms]
 
 
 ;;;[sysbt_meswin clear]
@@ -147,5 +143,5 @@
 
 ;;;[sysbt_meswin]
 
-;//;//[0009]‚Ö
+;//;//[0009]ã¸
 [jump target=*0009_TOP storage="0009.ks"]

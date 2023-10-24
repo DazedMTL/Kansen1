@@ -1,20 +1,20 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN04040wƒ‰ƒWƒI‰ñû2x
-;//BG:OŠK˜L‰ºFƒoƒŠƒP[ƒhF’©
-;//“oêl•¨GålŒöE—D
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04040ã€ãƒ©ã‚¸ã‚ªå›å2ã€
+;//BG:ä¸‰éšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰ï¼šæœ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *04040_H_TOP
-;[debug_win]‚È‚¤@04040_H[debug_win_end]
+;[debug_win]ãªã†ã€€04040_H[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04040 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04040 = 1"]
 
-;*SceneSet|wƒ‰ƒWƒI‰ñû‚Qx
+;*SceneSet|ã€ãƒ©ã‚¸ã‚ªå›åï¼’ã€
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 
 [bgm009]
 
@@ -25,106 +25,107 @@
 
 *4473|
 [fc]
-OŠK‚É‰º‚è‚Ä‚­‚é‚ÆA–h‰Î”à‚ª”¼•ªŠJ‚¢‚Ä‚¢‚½B[pcms]
+When I went down to the third floor, I noticed that the fire[r]door was halfway open.[pcms]
 
 *4474|
 [fc]
-ğ“úAV“¹æ¶‚ª‰®ã‚©‚ç—§‚¿‹‚Á‚½‚ ‚ÆA‚±‚±‚ğŠJ‚¯[r]
-‚Ä‚¢‚Á‚½‚Ì‚¾‚ë‚¤‚©ccB[pcms]
+Yesterday, after Shindou-sensei left the rooftop, I wonder[r]if they were the one who opened this door...[pcms]
 
 *4475|
 [fc]
-‚»‚ê‚Æ‚àA•Ê‚Ì“z‚ªccH[pcms]
+Or, could it have been someone else...?[pcms]
 
 *4476|
 [fc]
-[ns]‰Á“¡[nse]
-u•Ï‚È“z‚ç‚ª’†‚É‚¢‚ÄA‚±‚Á‚¿‚ÉŒü‚©‚Á‚Ä‚«‚½‚çA‹}‚¢‚Å[r]
-‰®ã‚É“¦‚°‚é‚ñ‚¾B‚¢‚¢‚ËHv[pcms]
+[ns]Kato[nse]
+If there are weird people inside and they start coming[r]towards us, let's quickly escape to the rooftop.[l][er]
+Got it?[pcms]
 
-;//SE:ƒKƒ^ƒb
+;//SE:ã‚¬ã‚¿ãƒƒ
 
 [se0 storage="se023"]
 
 *4477|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ècc‚È‚ñ‚¾Iv[pcms]
+[ns]Kato[nse]
+W-What is it?![pcms]
 
 *4478|
 [fc]
-‚ÈA‰½‚Ì‰¹‚¾ccH[pcms]
+What... what was that sound...?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_c_09"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1906|
 [fc]
 [vo_ya s="yama0785"]
-[ns]RŠİ[nse]
-u‚«‚á‚ ‚ ‚ II@’N‚©cc‚¢‚éIHv[pcms]
+[ns]Yamagishi[nse]
+Kyaaa!! Is someone... there?![pcms]
 
 *4479|
 [fc]
-RŠİ‚³‚ñ‚à‰¹‚É‹C‚ª•t‚¢‚½‚Ì‚©A”ß–Â‚ğã‚°‚½B[pcms]
+Yamagishi-san also noticed the sound and let out a scream.[pcms]
 
 *4480|
 [fc]
-ƒNƒ\ƒbccB‚±‚ñ‚È‚ÉII[r]
-‰½‚Ì‰¹‚¾ccI@ƒAƒCƒc‚ç‚ªA‹ß‚­‚É‚¢‚é‚Ì‚©ccH[pcms]
+Shit... at a time like this!! What was that sound...![l][er]
+Are they nearby...?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1907|
 [fc]
 [vo_ya s="yama0786"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒNccI@‚â‚Á‚Ï‚èA–ß‚ë‚¤‚æccI@Šë‚È‚¢‚æIv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun...! Let's go back after all...![l][er]
+It's dangerous![pcms]
 
 *4481|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ÅA‚Å‚àccA‚ ‚ê‚Á‚«‚èA‰¹A•·‚±‚¦‚È‚¢‚µccv[pcms]
+[ns]Kato[nse]
+B-But... since then, I haven't heard any more sounds...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1908|
 [fc]
 [vo_ya s="yama0787"]
-[ns]RŠİ[nse]
-uŠm‚©‚ÉA‚»‚¤‚¾‚¯‚ÇccA‚Å‚àccB•|‚¢‚æccv[pcms]
+[ns]Yamagishi[nse]
+That's true, but... still... I'm scared...[pcms]
 
 *4482|
 [fc]
-[ns]‰Á“¡[nse]
-u’†‚ğ”`‚¢‚ÄA’N‚©‚ª‚¢‚½‚çccB‚·‚®‚É“¦‚°‚æ‚¤I@[r]
-’N‚à‹‚È‚©‚Á‚½‚çcc‚»‚Ì‚Æ‚«‚ÍAƒ‰ƒWƒI‚ğæ‚Á‚Äccv[pcms]
+[ns]Kato[nse]
+If we peek inside and someone is there...[l][er]
+let's escape immediately! If no one is there...[l][er]
+then we'll take the radio...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1909|
 [fc]
 [vo_ya s="yama0788"]
-[ns]RŠİ[nse]
-u‚¤cc‚¤‚ñccB•ª‚©‚Á‚½ccB‹C‚ğ•t‚¯‚æ‚¤‚Ëccv[pcms]
+[ns]Yamagishi[nse]
+Uhh... yeah... I understand...[l][er]
+Let's be careful, okay...[pcms]
 
 *4483|
 [fc]
-RŠİ‚³‚ñ‚ª‚¤‚È‚¸‚­‚Ì‚ğŠm”F‚µ‚ÄA‰´‚Íƒ‰ƒWƒI‚Ì’u‚¢‚Ä[r]
-‚ ‚é‹³º‚Ö“ü‚Á‚½B[pcms]
+I confirmed Yamagishi-san's nod and entered the classroom[r]where the radio was placed.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -132,7 +133,7 @@
 
 ;//blackout
 
-;//[04041]‚Ö
+;//[04041]ã¸
 [jump target=*04041_H_TOP storage="04041_H.ks"]
 
 

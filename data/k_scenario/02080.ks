@@ -1,20 +1,20 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02080w“µ‚É×Œ¯‚É‚³‚ê‚éx
-;//BG:‹’®ŠoºF–éF“_“”
-;//“oêl•¨GålŒöE—DEƒŠƒTE’|“àE“µ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02080ã€ç³ã«é‚ªé™ºã«ã•ã‚Œã‚‹ã€
+;//BG:è¦–è´è¦šå®¤ï¼šå¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»ç«¹å†…ãƒ»ç³
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02080_TOP
-;[debug_win]‚È‚¤@02080[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02080 = 1"]
+;[debug_win]ãªã†ã€€02080[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02080 = 1"]
 
-;*SceneSet|w“µ‚É×Œ¯‚É‚³‚ê‚éx
+;*SceneSet|ã€ç³ã«é‚ªé™ºã«ã•ã‚Œã‚‹ã€
 
 ;//[02080]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//BG:bg015c
 ;g[bg storage="bg15c"]
@@ -22,43 +22,41 @@
 
 *1684|
 [fc]
-‹ß‚­‚És‚Á‚ÄA‚»‚¤Œ¾‚¢‚È‚ª‚çŒ¨‚ğ’@‚­‰´‚Ìè‚ğA[r]
-²”Œ‚Í¦‚¢¨‚¢‚Å•¥‚Á‚½B[pcms]
+Saeki forcefully brushed away my hand that was tapping her[r]shoulder while saying Let's go nearby.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v703|
 [fc]
 [vo_sa s="sae0085"]
-[ns]²”Œ[nse]
-u‰˜‚ç‚í‚µ‚¢ccv[pcms]
+[ns]Saeki[nse]
+Disgusting...[pcms]
 
 *1685|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ÈA‚È‚ñ‚¾‚æA‚»‚ñ‚È‚É“{‚ñ‚È‚­‚½‚Á‚Äccv[pcms]
+[ns]Kato[nse]
+W-What's the matter? You don't have to get so angry...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v704|
 [fc]
 [vo_ya s="yama0200"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒNA‚»‚Á‚Æ‚µ‚Æ‚¢‚Ä‚ ‚°‚æHv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun, why don't you leave her alone?[pcms]
 
 *1686|
 [fc]
-¬º‚Åš‘‚­RŠİ‚³‚ñ‚ÉA‰´‚Í˜r‚ğˆø‚©‚ê‚½‚Ğ‚å‚¤‚µ‚ÉA[r]
-‚±‚Á‚¿‚ğŒ©‚Ä‚¢‚½^–ç‚Æ–Ú‚ª‡‚Á‚½B[pcms]
+I made eye contact with Shinya, who was looking at me, as[r]Yamagishi-san whispered softly and pulled my arm.[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
@@ -67,20 +65,18 @@
 
 *1687|
 [fc]
-¡‚Ü‚Å‚ÉŒü‚¯‚ç‚ê‚½‚±‚Æ‚Ì‚È‚¢A“GˆÓ‚É–‚¿‚½–ÚB^–ç[r]
-‚Í‚·‚®‚É–Ú‚ğˆí‚ç‚µ‚ÄA‚»‚Á‚Û‚ğŒü‚¢‚Ä‚µ‚Ü‚Á‚½B[pcms]
+Shinya quickly averted his gaze and turned away, faced with[r]eyes filled with an unprecedented hostility.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *1688|
 [fc]
-[ns]‰Á“¡[nse]
-uccHv[pcms]
+[ns]Kato[nse]
+...?[pcms]
 
 *1689|
 [fc]
-^–ç‚Ì–Ú‚àA²”Œ‚Ì‘Ô“x‚àA—‰ğ‚·‚é‚±‚Æ‚ª‚Å‚«‚¸‚ÉA[r]
-‰´‚Í¢˜f‚·‚é‚Î‚©‚è‚¾‚Á‚½B[pcms]
+I was just bewildered, unable to understand Shinya's gaze[r]and Saeki's attitude.[pcms]
 
-;//[02082]‚Ö
+;//[02082]ã¸
 [jump target=*02082_TOP storage="02082.ks"]

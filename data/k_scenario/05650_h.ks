@@ -1,33 +1,33 @@
 
-;//¡ËƒuƒƒbƒN05650wH—¿x
-;//BG:’n‰ººFÁ“”
-;//BG:ŠwHF’©GÁ“”
-;//“oêl•¨GålŒö
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05650ã€é£Ÿæ–™ã€
+;//BG:åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
+;//BG:å­¦é£Ÿï¼šæœï¼›æ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬
 
 *05650_H_TOP
-;[debug_win]‚È‚¤@05650_H[debug_win_end]
+;[debug_win]ãªã†ã€€05650_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 ;[if exp="tf.scene_mode == 0"][jump target=*05650][endif]
 ;[winset]
 
 
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *05650
 
-;*SceneSet|wH—¿x
+;*SceneSet|ã€é£Ÿæ–™ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05650 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05650 = 1"]
 ;	/*
-;	;//ôFBGM007
+;	;//â™ªï¼šBGM007
 ;	[bgm007]
 ;	;	
 ;	;//;//BG:bg23b
@@ -41,13 +41,12 @@
 
 *5992|
 [fc]
-”à‚ÌŒ„ŠÔ‚©‚çü‚è‚ğŒ©‰ñ‚µA’N‚à‚¢‚È‚¢‚±‚Æ‚ğŠm”F‚µ‚Ä[r]
-‚©‚çA‰´‚Í²”Œ‚ÉˆêŒ¾‚¢‚¢’u‚¢‚ÄAÃ‚©‚ÉŠO‚Öo‚½B[pcms]
+I looked around from the gap in the door, confirmed that no[r]one was there, and then quietly left after saying a word to[r]Saeki.[pcms]
 
 *5993|
 [fc]
-[ns]‰Á“¡[nse]
-uâ‘ÎA‚»‚±‚ğ“®‚­‚È‚æv[pcms]
+[ns]Kato[nse]
+Absolutely, don't move from there.[pcms]
 
 ;//;//BG:bg14a
 
@@ -56,59 +55,55 @@
 
 *5994|
 [fc]
-l‚Ìp‚ª‚È‚­AŠwH‚Ì’†‚ÍƒVƒ“‚ÆÃ‚Ü‚è‚©‚¦‚Á‚Ä‚¢‚éB[pcms]
+There was no one around, and the cafeteria was silent and[r]still.[pcms]
 
 *5995|
 [fc]
-‚¾‚ª‰´‚Í—pS[‚­A~–[‚ÌŠO‚©‚çŒ©‚Â‚¯‚ç‚ê‚È‚¢‚æ‚¤‚É[r]
-p¨‚ğ’á‚­‚µA‚³‚ç‚É‰¹‚ğ—§‚Ä‚È‚¢‚æ‚¤‚É‚µ‚Ä~–[‚Ì’†[r]
-‚ği‚ñ‚¾B[pcms]
+However, I proceeded cautiously, keeping my posture low so[r]as not to be noticed from outside the kitchen, and moved[r]silently inside the kitchen.[pcms]
 
 *5996|
 [fc]
-‚Ü‚é‚Å‹@–§‘—Ş‚ğ“‚İ‚É‚«‚½ƒXƒpƒC‚İ‚½‚¢‚¾‚ÈccB[r]
-w—’éx•Ã‰º‚Ì’³•ñˆõA‚Á‚Ä‚Æ‚±‚©ccB[pcms]
+It's like I'm a spy who came to steal confidential[r]documents...[l][er]
+Like a secret agent of the Empress Majesty...[pcms]
 
 *5997|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦[‚Á‚Æccv[pcms]
+[ns]Kato[nse]
+Um...[pcms]
 
 *5998|
 [fc]
-—â‘ ŒÉ‚É’H‚è’…‚«A”à‚ğŠJ‚¯‚Ä’†‚ğŒ©‰ñ‚·‚ÆAHƒpƒ“‚ª[r]
-“ñ–‡‚¾‚¯“ü‚Á‚½‘Ü‚ªc‚Á‚Ä‚¢‚½B[pcms]
+I reached the refrigerator, opened the door and looked[r]inside.[l][er]
+There was a bag with only two slices of bread left.[pcms]
 
 *5999|
 [fc]
-[ns]‰Á“¡[nse]
-uƒWƒƒƒ€‚©‰½‚©‚ª‚ ‚Á‚½‚ç—Ç‚©‚Á‚½‚ñ‚¾‚¯‚Ç‚È[ccv[pcms]
+[ns]Kato[nse]
+I wish there was some jam or something...[pcms]
 
-;//SE:ƒKƒ^ƒb
+;//SE:ã‚¬ã‚¿ãƒƒ
 
 [se0 storage="se023"]
 
 *6000|
 [fc]
-‚»‚Ì‘Ü‚ğè‚Éæ‚Á‚ÄA’n‰ºº‚Ö–ß‚ë‚¤‚Æ‚µ‚½uŠÔA‰½‚©[r]
-‚ªAŠwH‚ÌˆÖq‚Ì‚Ç‚ê‚©‚É‚Ô‚Â‚©‚Á‚½‚æ‚¤‚È‰¹‚ğA‰´‚Í[r]
-¨‚É‚µ‚½B[pcms]
+As I reached out to grab the bag and tried to return to the[r]basement, in that moment, I heard a sound as if something[r]had collided with one of the chairs in the cafeteria.[pcms]
 
 *6001|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *6002|
 [fc]
-‚Ü‚½—ˆ‚½‚Ì‚©ccH@‚ ‚¢‚Â‚çccB[r]
-ƒNƒ\cc¡“®‚¢‚½‚ç‹C‚Ã‚©‚ê‚éccB[pcms]
+They're here again... Those guys...[l][er]
+Damn it... If I move now, they'll notice...[pcms]
 
-;//ôFBGM007ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 
 [fadeoutbgm time=500]
 
-;//[05660]‚Ö
+;//[05660]ã¸
 [jump target=*05660_H_TOP storage="05660_H.ks"]
 
 

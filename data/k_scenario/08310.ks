@@ -1,29 +1,29 @@
 
-;//¡ËƒuƒƒbƒN08310wû‘©x
-;//BGFÂ‹ó
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08310ã€åæŸã€
+;//BGï¼šé’ç©º
 
-;//“oêl•¨F–³‚µ
+;//ç™»å ´äººç‰©ï¼šç„¡ã—
 
 *08310_TOP
-;[debug_win]‚È‚¤@08310[debug_win_end]
+;[debug_win]ãªã†ã€€08310[debug_win_end]
 
-;*SceneSet|wû‘©x
+;*SceneSet|ã€åæŸã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08310 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08310 = 1"]
 
-;//flag:ålŒöŠ´õƒ‹[ƒgƒtƒ[@ƒGƒ“ƒfƒBƒ“ƒO@•\¦
+;//flag:ä¸»äººå…¬æ„ŸæŸ“ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ã‚¨ãƒ³ãƒ‡ã‚£ãƒ³ã‚°ã€€è¡¨ç¤º
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 
 ;	/*
-;	;//SE:ƒTƒCƒŒƒ“ƒ‹[ƒv
+;	;//SE:ã‚µã‚¤ãƒ¬ãƒ³ãƒ«ãƒ¼ãƒ—
 ;	[se1 storage="se051"]
 ;	*/
 
 ;;;[sysbt_meswin clear]
 
 
-;//SE:í“¬‹@‚Ì‰¹
+;//SE:æˆ¦é—˜æ©Ÿã®éŸ³
 [se1 storage="se017"]
 
 [bg storage="bg20b"]
@@ -34,84 +34,84 @@
 
 *10781|
 [fc]
-ç‚Ì‘¾—z‚ª”R‚¦‚éŒõ‚Æ”MB[r]
-•—‚Ì‰ò‚ª‹‚Á‚½ŒãB[pcms]
+The light and heat of a thousand suns.[l][er]
+After the gust of wind has passed.[pcms]
 
 *10782|
 [fc]
-Š¢‰ğ‚µ‚½Šw‰€‚©‚çB[r]
-‚©‚Â‚ÄwŠw‰€x‚¾‚Á‚½AŠ¢âI‚Ì’†‚©‚çB[pcms]
+From the crumbling school. From the debris that was once a[r]'school'.[pcms]
 
 *10783|
 [fc]
-’j‚Ì”ß’É‚È‹©‚Ñº‚ª•·‚±‚¦‚Ä‚­‚éB[pcms]
+I can hear the desperate scream of a man.[pcms]
 
 *10784|
 [fc]
-‚»‚ê‚ÍAƒ‰ƒWƒI‚Ì‰¹B[pcms]
+It is the sound of a radio.[pcms]
 
 *10785|
 [fc]
-”M‚ÅA•—‚ÅB[r]
-ŠÉ‚â‚©‚É‚ä‚ª‚ñ‚¾ƒ‰ƒWƒI‚©‚çB[pcms]
+With heat, with wind. From a slightly distorted radio.[pcms]
 
 *10786|
 [fc]
-‚ä‚ª‚ñ‚Å‚µ‚Ü‚Á‚Ä‚àA‰¹‚ªo‚éB[r]
-ƒ‰ƒWƒI‚©‚çA”ò‚Ño‚·‰¹B[pcms]
+Even if it's distorted, sound comes out.[l][er]
+The sound jumps out from the radio.[pcms]
 
 *10787|
 [fc]
-‚»‚ê‚ÍAƒmƒCƒY‚Æ”lº‚ÆA‹à‘®‚Ì‚Ô‚Â‚©‚è‡‚¤‰¹B[r]
-b‚‚¢AƒWƒFƒbƒg‹@‚ÌƒGƒ“ƒWƒ“‚Ì‰¹B[pcms]
+It is the sound of noise, curses, and the clash of metal.[l][er]
+A high-pitched sound, like the engine of a jet plane.[pcms]
 
 *10788|
 [fc]
-•@…¬‚¶‚è‚ÌA—ÜºB[r]
-’j‚Ì‹©‚ÑºB[pcms]
+A voice mixed with runny nose and tears.[l][er]
+The voice of a man screaming.[pcms]
 
 *10789|
 [fc]
-”ß’É‚Ècc‹©‚ÑºB[pcms]
+A sorrowful... scream.[pcms]
 
-;//SE:ƒ‰ƒWƒI‚Ìƒ`ƒ…[ƒjƒ“ƒO‰¹
+;//SE:ãƒ©ã‚¸ã‚ªã®ãƒãƒ¥ãƒ¼ãƒ‹ãƒ³ã‚°éŸ³
 [se1 storage="se041" loop=true]
 
 *10790|
 [fc]
-[ns]’j[nse]
-u‘Sü”g”‚É‘Î‚µA‹Ù‹}‘—MccIIv[pcms]
+[ns]Man[nse]
+Emergency transmission to all frequencies...!![pcms]
 
 *10791|
 [fc]
-[ns]’j[nse]
-ucc—Áƒ–—Ë‘SˆæA—§‚¿“ü‚è‹Ö~‹æˆæ‚Éw’èI@‰¡‘«’n[r]
-‹æ‘SˆæA—§‚¿“ü‚è‹Ö~’nˆæ‚Éw’èI@ğR’n‹æ‘SˆæA—§[r]
-‚¿“ü‚è‹Ö~’nˆæ‚Éw’èIv[pcms]
+[ns]Man[nse]
+... Ryogaoka area is designated as a restricted zone![l][er]
+Yokohashi district is designated as a restricted area![l][er]
+Sakeyama district is designated as a restricted area![pcms]
 
 *10792|
 [fc]
-[ns]’j[nse]
-uƒNƒ\ƒbII@–¾“cŒ§ccR•ûŒ§A‚Ù‚Úcc‰ó–ÅIv[pcms]
+[ns]Man[nse]
+Shit!! Meita Prefecture... Yamakata Prefecture, almost...[l][er]
+devastated![pcms]
 
 *10793|
 [fc]
-[ns]’j[nse]
-u’{¶ccv[pcms]
+[ns]Man[nse]
+Bastard...[pcms]
 
 *10794|
 [fc]
-[ns]’j[nse]
-ucc‚Ÿ‚ ccI@’Ç‰Áî•ñAç‘äs‚É‹Ù‹}”ğ“ïŠ©I[r]
-™–ØŒ§‘Sˆæ‹Ù‹}”ğ“ïŠ©II@’n—tŒ§‚É‹Ù‹}”ğ“ïŠ©I[r]
-ŒJ‚è•Ô‚·IIv[pcms]
+[ns]Man[nse]
+... Aah...! Additional information, emergency evacuation[r]advisory for Sendai City![l][er]
+Emergency evacuation advisory for the entire Kusakigi[r]Prefecture!![l][er]
+Emergency evacuation advisory for Chiba Prefecture![l][er]
+I repeat!![pcms]
 
 *10795|
 [fc]
-[ns]’j[nse]
-u©‰q‘à‚æ‚è‹Ù‹}’Ê’BI@©‰q‘à‚æ‚è‹Ù‹}’Ê’BII@‹Ù[r]
-‹}‚Ìƒ}ƒjƒ…ƒAƒ‹‚É‘¥‚èA“Š‡–{•”‚É‚æ‚éA’ÊM—p“d”g[r]
-‚Ì‘Sü”g”‚ÌŠÇ—‚ğŠJnIIv[pcms]
+[ns]Man[nse]
+Emergency transmission from the Self-Defense Forces![l][er]
+Emergency transmission from the Self-Defense Forces!![l][er]
+In accordance with the emergency manual, the headquarters[r]will begin managing all frequencies of communication waves![pcms]
 
 [stop_se0]
 [stop_se1]
@@ -126,8 +126,8 @@
 
 [wait_c time=2000]
 
-;//ålŒöŠ´õƒ‹[ƒg@‚±‚±‚Ü‚Å
-;//¦ƒXƒ^ƒbƒtƒ[ƒ‹‚Ö
+;//ä¸»äººå…¬æ„ŸæŸ“ãƒ«ãƒ¼ãƒˆã€€ã“ã“ã¾ã§
+;//â€»ã‚¹ã‚¿ãƒƒãƒ•ãƒ­ãƒ¼ãƒ«ã¸
 
 [fadeoutbgm time=500]
 [fadeoutbgm time=500]
@@ -137,18 +137,18 @@
 [stopse_all]
 [wait_c time=1000]
 
-;ƒXƒLƒbƒv‚µ‚Ä‚½‚ç‚Æ‚ñ‚¶‚á‚¤‚©‚çƒXƒLƒbƒv‚Ì‰ğœ
+;ã‚¹ã‚­ãƒƒãƒ—ã—ã¦ãŸã‚‰ã¨ã‚“ã˜ã‚ƒã†ã‹ã‚‰ã‚¹ã‚­ãƒƒãƒ—ã®è§£é™¤
 [cancelskip]
 [video visible=true left=0 top=0 width=800 height=600]
 [openvideo storage="kansen_ed.mpg"]
 [playvideo]
 [black_toplayer][trans_c cross time=0][hide_chara_int]
-;ƒ€[ƒr[‚Ì‰¹—Ê•ÏX
+;ãƒ ãƒ¼ãƒ“ãƒ¼ã®éŸ³é‡å¤‰æ›´
 [if exp="sf.bgmplay == 1"]
 	;[video volume="&kag.bgm.currentBuffer.volume2"]
 	;[video volume=60]
-	;‚±‚ê‚Åbgm‚Æ“¯‚¶‚É‚È‚é‚©‚ÈH
-	;‚»‚Ì‚Ü‚Ü‚¾‚Æ‚¿‚å‚Á‚Æ‘å‚«‚¢‚©‚ç‚¿‚å‚Á‚Æ‰º‚°‚é
+	;ã“ã‚Œã§bgmã¨åŒã˜ã«ãªã‚‹ã‹ãªï¼Ÿ
+	;ãã®ã¾ã¾ã ã¨ã¡ã‚‡ã£ã¨å¤§ãã„ã‹ã‚‰ã¡ã‚‡ã£ã¨ä¸‹ã’ã‚‹
 	[eval exp="tf.movie_vol = (sf.dummy_bgmopt/1000)-5"]
 	[video volume="&tf.movie_vol"]
 [elsif exp="sf.bgmplay == 0"]

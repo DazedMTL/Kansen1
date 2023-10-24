@@ -1,14 +1,14 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN05390w¸‹Öx
-;//;//BG:–³‚µ
-;//“oêl•¨GålŒöE“µEŠ´õŠİ“c
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05390ã€å¤±ç¦ã€
+;//;//BG:ç„¡ã—
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»æ„ŸæŸ“å²¸ç”°
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *05390_H_TOP
-;[debug_win]‚È‚¤@05390_H[debug_win_end]
+;[debug_win]ãªã†ã€€05390_H[debug_win_end]
 
 [eval exp="sf.SRP24 = 1"][if exp="tf.scene_mode == 0"][jump target=*05390_H][endif]
 ;;[winset]
@@ -16,11 +16,11 @@
 [jump target=*scene_start]
 
 *05390_H
-;*SceneSet|w¸‹Öx
+;*SceneSet|ã€å¤±ç¦ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05390 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05390 = 1"]
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 
 [bgm008]
 
@@ -30,13 +30,12 @@
 
 *5411|
 [fc]
-’j‚Ì’á‚­A‹C–¡‚Ìˆ«‚¢Î‚¢º‚ªAƒgƒCƒŒ‚Ì’†‚©‚ç•·‚±‚¦[r]
-‚Ä‚­‚éB[pcms]
+A low, creepy laughter of a man can be heard coming from[r]inside the toilet.[pcms]
 
 *5412|
 [fc]
-[ns]‰Á“¡[nse]
-u²”Œ‚ÁIIv[pcms]
+[ns]Kato[nse]
+Saeki!![pcms]
 
 
 [backlay_c][chara_int][trans_c cross time=150]
@@ -54,19 +53,18 @@
 
 *5413|
 [fc]
-ƒgƒCƒŒ‚Ì’†‚É“ü‚é‚ÆA²”Œ‚Í°‚É‚Ö‚½‚è‚İAŒÂº‚Ì’†[r]
-‚©‚çL‚Ñ‚éè‚ğA‘å‚«‚­ŠJ‚¢‚½–Ú‚ÅŒ©‚Â‚ß‚Ä‚¢‚½B[pcms]
+When Saeki entered the toilet, she collapsed on the floor[r]and stared at the hand reaching out from the stall with wide[r]open eyes.[pcms]
 
 *v2258|
 [fc]
 [vo_sa s="sae0484"]
-[ns]²”Œ[nse]
-uccII@ccIIv[pcms]
+[ns]Saeki[nse]
+...!! ...!![pcms]
 
 *5414|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨‚¢I@‘åä•v‚©IIv[pcms]
+[ns]Kato[nse]
+Hey! Are you okay!![pcms]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
@@ -81,32 +79,29 @@
 
 *5415|
 [fc]
-–T‚ÖŠñ‚é‚ÆA²”Œ‚ÌK‚Ì‰º‚É…—­‚Ü‚è‚ª‚Å‚«‚Ä‚¢‚ÄA¡[r]
-‚à°‚ÉL‚ª‚è‚Â‚Â‚ ‚Á‚½B“Ë‘RP‚í‚ê‚½‚±‚Æ‚É‚æ‚é‹°•|[r]
-‚ÅA²”Œ‚Í˜R‚ç‚µ‚Ä‚µ‚Ü‚Á‚½‚æ‚¤‚¾‚Á‚½B[pcms]
+When I approached, there was a puddle forming beneath[r]Saeki's butt, and it was still spreading on the floor.[l][er]
+It seemed that Saeki had accidentally wet herself due to the[r]fear of being suddenly attacked.[pcms]
 
 *5416|
 [fc]
-[ns]Šİ“c[nse]
-u‚Ê‚ÓA‚Ó‚Á‚ÓA‚Ó‚Ó‚Óccv[pcms]
+[ns]Kishida[nse]
+Nufu, fufu, hahaha...[pcms]
 
 *5417|
 [fc]
-‚Ç‚±‚©‚ÅŒ©‚½‹C‚ª‚·‚é‚»‚Ì˜r‚Ì‚¿å‚ÍAŠİ“c‚¾‚Á‚½B[r]
-ŒÂº‚Ì°‚ğ”‡‚¢‚¸‚è‚È‚ª‚çAŠİ“c‚Í‚Ü‚¾A²”Œ‚ğ‹‚ß‚é[r]
-‚æ‚¤‚Éè‚ğL‚Î‚µ‚Ä‚¢‚éB[pcms]
+The owner of that arm, who I felt like I've seen somewhere[r]before, was Kishida.[l][er]
+Crawling on the floor of the stall, Kishida is still[r]reaching out with his hand as if seeking Saeki.[pcms]
 
 *5418|
 [fc]
-[ns]‰Á“¡[nse]
-uƒeƒƒFccƒbIIv[pcms]
+[ns]Kato[nse]
+You...!![pcms]
 
 *5419|
 [fc]
-‰´‚Í‚Æ‚Á‚³‚ÉAƒgƒCƒŒ‚Ì•Ç‚É—§‚Ä‚©‚¯‚Ä‚ ‚Á‚½ƒfƒbƒLƒu[r]
-ƒ‰ƒV‚ğè‚É‚µ‚ÄAŠİ“c‚Ì“ª‚ğƒƒbƒ^‘Å‚¿‚É‚µ‚½B[pcms]
+I quickly grabbed the toilet brush that was leaning against[r]the wall and struck Kishida's head with full force.[pcms]
 
-;//SE:‰£‚é
+;//SE:æ®´ã‚‹
 [se0 storage="se026"]
 
 ;//redflash
@@ -120,15 +115,15 @@
 
 *5420|
 [fc]
-[ns]Šİ“c[nse]
-u‚Ó‚®‚Ácc‚Ô‚ÁA‚¤J‚£‚Ácc‚¨J‚Áccv[pcms]
+[ns]Kishida[nse]
+Ugh... ugh, ughh... ohh...[pcms]
 
 *5421|
 [fc]
-[ns]‰Á“¡[nse]
-u‚­‚ÁII@‚±‚Ì‚ÁII@ƒNƒY–ì˜YII@€‚Ë‚ÁIIv[pcms]
+[ns]Kato[nse]
+Ugh!! You!! You bastard!! Die!![pcms]
 
-;//SE:‰£‚é
+;//SE:æ®´ã‚‹
 [se0 storage="se026"]
 
 ;//redflash
@@ -142,10 +137,10 @@
 
 *5422|
 [fc]
-[ns]Šİ“c[nse]
-u‚¤‚Ô‚£ccv[pcms]
+[ns]Kishida[nse]
+Ugh...[pcms]
 
-;//SE:‰£‚é
+;//SE:æ®´ã‚‹
 [se0 storage="se026"]
 
 ;//redflash
@@ -157,124 +152,115 @@
 
 [quake_bg xy m]
 
-;//ôFBGM008ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 
 [fadeoutbgm time=500]
 
 *5423|
 [fc]
-‚Ğ‚Æ‚µ‚«‚èƒuƒb’@‚­‚ÆA²”Œ‚ÉŒü‚©‚Á‚ÄL‚Î‚µ‚Ä‚¢‚½è[r]
-‚ª°‚É—‚¿AŠİ“c‚Í“®‚©‚È‚­‚È‚Á‚½B[pcms]
+After giving Kishida a good beating, the hand that he had[r]been reaching out towards Saeki fell to the floor, and[r]Kishida became motionless.[pcms]
 
 *5424|
 [fc]
-[ns]‰Á“¡[nse]
-uƒnƒ@ƒbccI@ƒnƒ@ƒbccI@ƒNƒ\‚ªcc‚ÁIIv[pcms]
+[ns]Kato[nse]
+Haa...! Haa...! You bastard...!![pcms]
 
 *5425|
 [fc]
-ƒfƒbƒLƒuƒ‰ƒV‚ğ°‚É•ú‚è“Š‚°A‰´‚Í²”Œ‚Ì–T‚É‚µ‚á‚ª‚İ[r]
-‚±‚ñ‚¾B[pcms]
+I threw the toilet brush onto the floor and crouched down[r]next to Saeki.[pcms]
 
-;//ôFBGM007ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 [bgm007]
 
 *5426|
 [fc]
-[ns]‰Á“¡[nse]
-u‘åä•v‚©ccHv[pcms]
+[ns]Kato[nse]
+Are you okay...?[pcms]
 
 *v2259|
 [fc]
 [vo_sa s="sae0485"]
-[ns]²”Œ[nse]
-uccccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦â€¦â€¦[l][er]
 
 *5427|
 [fc]
-Šç‚ğ”`‚«‚Ş‚ÆA²”Œ‚Ì–Ú‚É’iX‚Æ—Ü‚ª—­‚Ü‚Á‚Ä‚¢‚«A[r]
-¡‚É‚à‹ƒ‚«o‚µ‚»‚¤‚ÈŠç‚É‚È‚Á‚½B[pcms]
+As I peered into her face, tears gradually welled up in[r]Saeki's eyes, and her expression became one that seemed on[r]the verge of bursting into tears.[pcms]
 
 *v2260|
 [fc]
 [vo_sa s="sae0486"]
-[ns]²”Œ[nse]
-uŒ©‚ç‚ê‚½ccŒ©‚ç‚ê‚½‚Ÿccv[pcms]
+[ns]Saeki[nse]
+I was seen... I was seen...[pcms]
 
 *5428|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ cc‚íAˆ«‚¢ccv[pcms]
+[ns]Kato[nse]
+Ah... I-I'm sorry...[pcms]
 
 *5429|
 [fc]
-—§‚¿ã‚ª‚Á‚Ä­‚µ—£‚êA‰´‚Í²”Œ‚ğŒ©‚È‚¢‚æ‚¤‚ÉAŠç‚ğ[r]
-‚æ‚»‚ÉŒü‚¯‚½B[pcms]
+I stood up and moved away a little, avoiding looking at[r]Saeki, I turned my face away.[pcms]
 
 *v2261|
 [fc]
 [vo_sa s="sae0487"]
-[ns]²”Œ[nse]
-uâ‘Î‚ÉŒ©‚ç‚ê‚½‚­‚È‚©‚Á‚½‚Ì‚Éccv[pcms]
+[ns]Saeki[nse]
+I absolutely didn't want to be seen...[pcms]
 
 *5430|
 [fc]
-¬•Ö‚ğ˜R‚ç‚µ‚Ä‚µ‚Ü‚Á‚½‚Æ‚±‚ë‚ğŒ©‚ç‚ê‚é‚È‚ñ‚ÄA‚±‚ê[r]
-ˆÈã–³‚¢‚­‚ç‚¢‚Ì‹üJ‚¾‚ë‚¤B[pcms]
+It's the ultimate humiliation to be seen while peeing.[pcms]
 
 *5431|
 [fc]
-‚»‚ê‚ÉA²”Œ‚É‚Æ‚Á‚ÄA”’‚µ‚½‘Šè‚Ìc‰´cc‚âA[r]
-Šİ“c‚ÍA˜R‚ç‚µ‚Ä‚µ‚Ü‚Á‚½‚Æ‚±‚ë‚ğŒ©‚ç‚ê‚é‘Šè‚Æ[r]
-‚µ‚Ä‚ÍA‚±‚êˆÈãÅˆ«‚ÈlŠÔ‚Í‚¢‚È‚¢‚¾‚ë‚¤B[pcms]
+Moreover, for Saeki, there is no one worse than me...[l][er]
+or Kishida... as the person who confessed to her and[r]witnessed her having an accident.[pcms]
 
 *5432|
 [fc]
-‚»‚ê‚ª‚í‚©‚Á‚½‚©‚çA‰´‚Í²”Œ‚É‚©‚¯‚éŒ¾—t‚ğŒ©‚Â‚¯‚é[r]
-‚±‚Æ‚ª‚Å‚«‚È‚©‚Á‚½B[pcms]
+Because I understood that, I couldn't find the words to say[r]to Saeki.[pcms]
 
 *v2262|
 [fc]
 [vo_sa s="sae0488"]
-[ns]²”Œ[nse]
-uƒVƒƒƒ[—‚Ñ‚½‚¢ccv[pcms]
+[ns]Saeki[nse]
+I want to take a shower...[pcms]
 
 *5433|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦[‚Æcc‹}‚ÉŒ¾‚í‚ê‚Ä‚à‚Èccv[pcms]
+[ns]Kato[nse]
+Um... even if you suddenly tell me that...[pcms]
 
 *5434|
 [fc]
-‚±‚¤‚¢‚¤A‚Ç‚¤‘Îˆ‚·‚ê‚Î‚¢‚¢‚Ì‚©A‰´‚Í‘S‚­‚í‚©‚ç[r]
-‚È‚©‚Á‚½B[pcms]
+I had no idea how to handle a situation like this.[pcms]
 
 *5435|
 [fc]
-–Ú‚Ì‘O‚Å—‚Ìq‚É‚¨˜R‚ç‚µ‚³‚ê‚½ŒoŒ±‚È‚ñ‚ÄA‚ ‚é‚í‚¯[r]
-‚ª‚È‚¢B‘Îˆ‚Ìd•û‚È‚ÇA•ª‚©‚é‚Í‚¸‚ª‚È‚¢B[pcms]
+There's no way I have any experience of a girl peeing right[r]in front of me.[l][er]
+I have no idea how to handle a situation like this.[pcms]
 
 *5436|
 [fc]
-‚±‚ê‚©‚ç‚Ç‚¤‚·‚ê‚Î‚¢‚¢‚Ì‚©A“ª‚ğ”Y‚Ü‚¹‚Ä‚¢‚é‚ÆA²[r]
-”Œ‚Í‰´‚Ì˜r‚ğ’Í‚ñ‚Å—§‚¿ã‚ª‚Á‚½B[pcms]
+As I was pondering what to do next, Saeki grabbed my arm and[r]stood up.[pcms]
 
 *v2263|
 [fc]
 [vo_sa s="sae0489"]
-[ns]²”Œ[nse]
-uƒVƒƒƒ[º‚ÉA˜A‚ê‚Äs‚Á‚Ä‚­‚¾‚³‚¢ccv[pcms]
+[ns]Saeki[nse]
+Please take me to the shower room...[pcms]
 
 *5437|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Å‚àAV“¹æ¶‚ª‘Ò‚Á‚Ä‚é‚ºH@‚·‚®‚É–ß‚Á‚Ä‚±‚¢‚Á[r]
-‚ÄŒ¾‚Á‚Äcc‚¨A‚¨‚¢Iv[pcms]
+[ns]Kato[nse]
+But, Shindou-sensei is waiting, you know?[l][er]
+She told us to come back quickly...[l][er]
+H-hey![pcms]
 
 *5438|
 [fc]
-ÅŒã‚Ü‚ÅŒ¾‚¢I‚í‚ç‚È‚¢‚¤‚¿‚ÉA²”Œ‚Í‰´‚Ì˜r‚ğˆø‚«A[r]
-•à‚«o‚µ‚½B[pcms]
+Before I could finish speaking, Saeki grabbed my arm and[r]started walking.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -282,7 +268,7 @@
 
 ;//blackout
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -291,19 +277,18 @@
 
 *5439|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨‚¢A²”ŒI@‚Ç‚±s‚­‚ñ‚¾‚æIv[pcms]
+[ns]Kato[nse]
+Hey, Saeki! Where are you going?![pcms]
 
 *v2264|
 [fc]
 [vo_sa s="sae0490"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *5440|
 [fc]
-~‚ß‚é‚Ì‚ğ•·‚©‚¸A•à‚«‘±‚¯‚é²”Œ‚ÉA‰´‚Íˆø‚«‚¸‚ç‚ê[r]
-‚é‚æ‚¤‚É‚µ‚ÄƒgƒCƒŒ‚©‚ço‚½B[pcms]
+I was dragged out of the bathroom by Saeki, who continued[r]walking without listening to me trying to stop her.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -313,35 +298,35 @@
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;//‚±‚±‚Ü‚Å–{•Ò
+;//ã“ã“ã¾ã§æœ¬ç·¨
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
-;•s—v[eval exp="="sf.g_scn25 = 1"]
+;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
+;ä¸è¦[eval exp="="sf.g_scn25 = 1"]
 
-;//ƒEƒBƒ“ƒhƒEÁ‹
+;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
 ;//<SystemIcon OFF>[freeimage layer=0 page=fore][freeimage layer=0 page=back]
 ;//<WinFrame OFF>
 ;//
 
-;//•‚ÉƒtƒF[ƒh
+;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 
-;BGM’â~
+;BGMåœæ­¢
 [fadeoutbgm time=500]
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 [wait_c time=1000]
 
-;//[05400]‚Ö
+;//[05400]ã¸
 [jump target=*05400_TOP storage="05400.ks"]
 

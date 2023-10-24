@@ -1,19 +1,19 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN05250w•ÛŒ’º‚Öx
-;//;//BG:“Áê‹³º˜L‰ºF’©GÁ“”
-;//“oêl•¨GålŒöE“µE’|“à
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05250ã€ä¿å¥å®¤ã¸ã€
+;//;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæœï¼›æ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»ç«¹å†…
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *05250_TOP
-;[debug_win]‚È‚¤@05250[debug_win_end]
-;*SceneSet|w•ÛŒ’º‚Öx
+;[debug_win]ãªã†ã€€05250[debug_win_end]
+;*SceneSet|ã€ä¿å¥å®¤ã¸ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05250 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05250 = 1"]
 
-;//ôFBGM003
+;//â™ªï¼šBGM003
 
 [bgm003]
 
@@ -22,7 +22,7 @@
 [bg storage="bg05a"]
 [trans_c cross time=500]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 
 [se0 storage="se005"]
 
@@ -33,35 +33,33 @@
 *v2146|
 [fc]
 [vo_sa s="sae0419"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñI@‚»‚ñ‚È‚ÉQ‚Ä‚È‚­‚Ä‚à‚Áccv[pcms]
+[ns]Saeki[nse]
+Kato-san! You don't have to be in such a rush...[pcms]
 
 *5147|
 [fc]
-²”Œ‚ªŒÄ‚Ñ‚©‚¯‚é‚Ì‚ğ”w’†‚Å•·‚«‚È‚ª‚çA‚»‚ê‚Å‚à‰´‚Í[r]
-~‚Ü‚ç‚¸A‘–‚è‘±‚¯‚½B[pcms]
+While listening to Saeki calling out from behind, I[r]continued running without stopping.[pcms]
 
 *5148|
 [fc]
-[ns]‰Á“¡[nse]
-uƒNƒ\ccƒbIIv[pcms]
+[ns]Kato[nse]
+Damn it...!![pcms]
 
 *5149|
 [fc]
-V“¹æ¶‚ÌŒ¯‚µ‚¢Šç‚ÆAw“|‚ê‚Ä‚¢‚½x‚Æ‚¢‚¤Œ¾—t‚ÅA[r]
-‰´‚Ì’†‚É•sˆÀŠ´‚ªL‚ª‚Á‚Ä‚¢‚½B[pcms]
+The stern expression on Shindou-sensei's face and the words[r]collapsed had spread a sense of unease within me.[pcms]
 
 *5150|
 [fc]
-RŠİ‚³‚ñ‚É‰½‚ª‚ ‚Á‚½‚ñ‚¾ccB[pcms]
+What happened to Yamagishi-san...?[pcms]
 
 *5151|
 [fc]
-‰ö‰ä‚ğ‚µ‚Ä“|‚ê‚Ä‚½‚Ì‚©ccB[pcms]
+Did she get injured and collapse...?[pcms]
 
 *5152|
 [fc]
-‚»‚ê‚Æ‚àA’N‚©‚É‰½‚©‚³‚ê‚½‚Ì‚©ccB[pcms]
+Or, did someone do something to her...?[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -71,5 +69,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05260]‚Ö
+;//[05260]ã¸
 [jump target=*05260_TOP storage="05260.ks"]

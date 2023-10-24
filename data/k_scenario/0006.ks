@@ -1,81 +1,79 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//;//¡ƒuƒƒbƒN0006wŒ™‚í‚êÒ‹³tEŠİ“c“oêx
-;//BGF“Áê‹³º˜L‰ºF’‹
-;//;//“oêl•¨GålŒöE—DE“µE•ü”üE’|“àE“c’†EŠİ“c
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//;//â– ãƒ–ãƒ­ãƒƒã‚¯0006ã€å«Œã‚ã‚Œè€…æ•™å¸«ãƒ»å²¸ç”°ç™»å ´ã€
+;//BGï¼šç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼
+;//;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³ãƒ»æœ‹ç¾ãƒ»ç«¹å†…ãƒ»ç”°ä¸­ãƒ»å²¸ç”°
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *0006_TOP
-;[debug_win]‚È‚¤@0006[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0006 = 1"]
+;[debug_win]ãªã†ã€€0006[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0006 = 1"]
 
-;*SceneSet|wŒ™‚í‚êÒ‹³tx
+;*SceneSet|ã€å«Œã‚ã‚Œè€…æ•™å¸«ã€
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//;//BG:bg003a
 
-;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
+;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
 [bg storage="bg03a"]
 [trans_c cross time=500]
 
-;//;//SE:ƒKƒ„
+;//;//SE:ã‚¬ãƒ¤
 [se0 storage="se001" loop=true]
 
 *162|
 [fc]
-‚Æ‚è‚ ‚¦‚¸ƒEƒ`‚ÌƒNƒ‰ƒX‚ÉW‚Ü‚Á‚ÄA‰f‰æŠÓÜ‰ï‚É‚Â‚¢[r]
-‚Ä˜b‚·‚±‚Æ‚É‚È‚èA‰´’B‚Í‹³º‚ÖŒü‚©‚Á‚Ä‚¢‚½B[pcms]
+For now, we gathered in our class and started discussing[r]about the movie screening event, and we headed towards the[r]classroom.[pcms]
 
 *163|
 [fc]
-[ns]’j«‹³t[nse]
-uZ’·AŠ®‘S‚ÉŠİ“cæ¶‚Ééx‚³‚ê‚Ä‚Ü‚·‚æcv[pcms]
+[ns]Male teacher[nse]
+Principal, we've been completely deceived by Mr.[l][er]
+Kishida...[pcms]
 
 *164|
 [fc]
-[ns]—«‹³t[nse]
-u–é’†‚ÌŠwZ‚ğg‚¢‚½‚¢cc‚¾‚È‚ñ‚ÄA‚ ‚Ì–\—Í‹³t‚Ì[r]
-‚±‚Æ‚¾‚©‚çAâ‘Î‚È‚É‚©ˆ«I‚İ‚µ‚Ä‚é‚ÉŒˆ‚Ü‚Á‚Ä‚é‚ív[pcms]
+[ns]Female teacher[nse]
+Wanting to use the school in the middle of the night...[l][er]
+knowing that violent teacher, he must be up to something[r]suspicious for sure.[pcms]
 
 *165|
 [fc]
-[ns]’j«‹³t[nse]
-u‚Å‚·‚æ‚Ë‚¥cv[pcms]
+[ns]Male teacher[nse]
+That's right, isn't it...[pcms]
 
 *166|
 [fc]
-‹³º‚ÖŒü‚©‚¤“r’†AEˆõº‚©‚ço‚Ä‚«‚½‚ç‚µ‚¢“ñl‚Ìæ[r]
-¶‚ªA‚»‚ñ‚È˜b‚ğ‚µ‚Ä‚¢‚é‚Ì‚ª‚·‚êˆá‚¢‚´‚Ü‚É•·‚±‚¦‚½B[pcms]
+While on our way to the classroom, we happened to overhear[r]two teachers who seemed to have come out of the staff room,[r]talking about such things as we passed by.[pcms]
 
 *167|
 [fc]
-[ns]‰Á“¡[nse]
-uŠİ“cccHv[pcms]
+[ns]Kato[nse]
+Kishida...?[pcms]
 
 *168|
 [fc]
-Šİ“c‚Æ‚¢‚¦‚ÎA‚±‚Ì—Áƒ–—ËŠw‰€‚Ì‹³t‚Ì’†‚ÅAÅ‚à¶“k[r]
-‚©‚çŒ™‚í‚ê‚Ä‚¢‚é’j‚¾B[pcms]
+Speaking of Kishida, he is the most disliked male teacher[r]among the students at this Suzugaoka Academy.[pcms]
 
 [fadeoutbgm time=500]
 [stop_se0]
 
 *169|
 [fc]
-‚»‚Ì’j‚ªA–é’†‚ÌŠwZ‚ğg‚¢‚½‚ª‚Á‚Ä‚¢‚éccH[r]
-–é’†ccB[pcms]
+That man wants to use the school in the middle of the[r]night...?[l][er]
+At night...[pcms]
 
-;//ôFBGM001ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM001ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 
 [fadeoutbgm time=500]
 
-;//ôFBGM007ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 [bgm007]
 
-;//;//SE:”à‚ğŠJ‚¯‚é
+;//;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
 [se0 storage="se008"]
 
 [ChrSetEx layer=1 chbase="kisi_a_a_01"]
@@ -85,18 +83,19 @@
 
 *170|
 [fc]
-[ns]’j«‹³t[nse]
-u‚»‚ê‚Å‚ÍZ’·‚ÁA¸—ç‚¢‚½‚µ‚Ü‚Ÿ[‚Á‚·IIv[pcms]
+[ns]Male teacher[nse]
+Well then, Principal, if you'll excuse me!![pcms]
 
 *171|
 [fc]
-[ns]‰Á“¡[nse]
-ucc‚Ü‚³‚Éw‰\‚ğ‚·‚ê‚ÎxA‚¾‚Èv[pcms]
+[ns]Kato[nse]
+... Indeed, where there's smoke, there's fire, isn't it?[pcms]
 
 *172|
 [fc]
-ƒfƒJƒCº‚ğ’£‚èã‚°‚ÄAã‹@Œ™‚È‚Ì‚©AÎŠç‚ÅEˆõº‚©[r]
-‚çp‚ğŒ»‚µ‚½‚Ì‚ÍA‚Ü‚³‚É‚»‚ÌŠİ“c‚¾‚Á‚½B[pcms]
+Kishida, with a loud voice and in high spirits, emerged from[r]the staff room with a smile on his face.[l][er]
+Kishida, with a loud voice and in high spirits, emerged from[r]the staff room with a smile on his face.[pcms]
+[l][er]
 
 [ChrSetEx layer=1 chbase="kisi_a_a_01"]
 [ChrSetXY layer=1 x=140 y=0]
@@ -104,122 +103,109 @@
 
 *173|
 [fc]
-‰´‚½‚¿‚Ìp‚ğ–Ú‚É‚µ‚½‚Æ‚½‚ñA‚»‚ÌŠç‚É’£‚è•t‚¢‚Ä‚¢‚½[r]
-Z’·Œü‚¯‚Ìì‚èÎ‚¢‚ªA‚½‚¿‚Ü‚¿‘¸‘å‚Å•s‹@Œ™‚»‚¤‚È’ê[r]
-ˆÓ’n‚Ìˆ«‚¢•\î‚É•Ï‚í‚Á‚½B[pcms]
+As soon as he saw us, the forced smile on his face that was[r]meant for the principal quickly turned into a condescending[r]and unpleasant expression.[pcms]
 
 *174|
 [fc]
-©•ª‚æ‚è—§ê‚ªã‚ÌlŠÔ‚É‚Í‚â‚½‚ç‚Ö‚Â‚ç‚¤‚­‚¹‚ÉA[r]
-©•ª‚æ‚è—§ê‚ª‰º‚ÌlŠÔccB[pcms]
+He's always fawning over people in higher positions than[r]himself, but when it comes to people in lower positions than[r]him...[pcms]
 
 *175|
 [fc]
-—á‚¦‚Î¶“kcc[r]
-‚É‚ÍA—§ê‚ğ‚‚É‚â‚½‚çˆĞ’£‚è‚¿‚ç‚·B[pcms]
+For example, he excessively flaunts his authority, using his[r]position as a shield, especially towards the students.[pcms]
 
 *176|
 [fc]
-‚»‚¤‚¢‚¤‚Æ‚±‚ë‚àAŠİ“c‚ª‚İ‚ñ‚È‚©‚çŒ™‚í‚ê‚Ä‚¢‚é——R[r]
-‚Ì‚Ğ‚Æ‚Â‚¾B[pcms]
+That's also one of the reasons why Kishida is disliked by[r]everyone.[pcms]
 
 *177|
 [fc]
-‚¨Šè‚¢‚¾‚©‚ç‚Ù‚Á‚Æ‚¢‚Ä‚­‚êA‚Æ‚¢‚¤‰´‚ÌŠè‚¢‚à‚Ş‚È‚µ[r]
-‚­AŠİ“c‚ª‰´‚½‚¿‚Ì•û‚É‹ß‚Ã‚¢‚Ä‚«‚½B[pcms]
+Kishida approached us, ignoring my plea to leave us alone.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std29|
 [fc]
-[ns]Šİ“c[nse]
-uƒIƒCI@‹M—l‚ç‚¢‚Â‚Ü‚Åc‚Á‚Ä‚é‚ñ‚¾IH[r]
-—p‚ª‚È‚¢‚ñ‚È‚çAƒEƒƒEƒ‚µ‚Ä‚È‚¢‚Å‘‚­‹A‚êIv[pcms]
+[ns]Kishida[nse]
+Hey! How long are you guys gonna stick around!?[l][er]
+If you don't have any business here, stop loitering and go[r]home already![pcms]
 
 *178|
 [fc]
-Šİ“c‚Í“{‚è‚È‚ª‚ç‚àA–¾‚ç‚©‚ÉŠğ‚µ‚»‚¤‚¾‚Á‚½B[pcms]
+Kishida, while angry, clearly seemed happy.[pcms]
 
 *179|
 [fc]
-‚¢‚Ü‚Ü‚ÅZ’·‚ÉƒyƒRƒyƒR‚Ö‚Â‚ç‚Á‚Ä‚¢‚½ŸT•®‚ğA[r]
-‚Ô‚Â‚¯‚é‘Šè‚ªŒ©‚Â‚©‚Á‚½‚©‚ç‚¾‚ë‚¤B[pcms]
+It's probably because he found someone to vent his pent-up[r]frustration of always groveling to the principal.[pcms]
 
 *180|
 [fc]
-‚Ç‚¤‚µ‚Ä‚±‚ñ‚ÈlŠÔ‚É‹³t‚ª‚Â‚Æ‚Ü‚é‚Ì‚©A[r]
-‰´‚Ì–Ú‚©‚çŒ©‚Ä‚à•sv‹c‚Æ‚µ‚©v‚¦‚È‚¢B[pcms]
+It's strange to me, even from my perspective, how someone[r]like him can be fit to be a teacher.[pcms]
 
 *181|
 [fc]
-‰´‚ª’m‚Á‚Ä‚é‚¾‚¯‚Å‚àA‚±‚Ì‘Ìˆç‹³t‚ÉŠÖ‚·‚é‰\‚É‚ÍA[r]
-–\—Í–Œ‚ğ‰½“x‚à‹N‚±‚µ‚Ä‚¢‚é‚Æ‚©ccB[pcms]
+From what I know, there are rumors about this physical[r]education teacher being involved in multiple violent[r]incidents...[pcms]
 
 *182|
 [fc]
-‰½l‚à‚Ì—¶“k‚ğ—Í‚¸‚­‚Å”Æ‚µ‚Ä”DP‚³‚¹‚Ä‚¢‚é‚Æ‚©A[r]
-ƒƒN‚È‚à‚Ì‚ª‚È‚¢B[pcms]
+There are rumors that he forcefully violates multiple female[r]students and impregnates them.[l][er]
+He's a despicable person.[pcms]
 
 *183|
 [fc]
-—q‚ªw‘Ìˆç‚ÌAŠİ“c‚ª‚¢‚â‚ç‚µ‚¢–Ú‚ÅŒ©‚Ä‚¢‚½x‚Æ[r]
-˜b‚µ‚Ä‚¢‚½‚Ì‚ğ•·‚¢‚½‚±‚Æ‚à‚ ‚éB[pcms]
+I've also heard that some girls have said, During PE class,[r]Kishida would look at us with a lewd gaze.[pcms]
 
 *184|
 [fc]
-‰´‚½‚¿‚Æ˜A‚ê‚¾‚Á‚Ä•à‚¢‚Ä‚¢‚½RŠİ‚³‚ñ‚Æ²”Œ‚ğŒ©‚ÄA[r]
-Šİ“c‚Ì•§’¸–Ê‚ªA‚Æ‚½‚ñ‚ÉƒXƒPƒx‚»‚¤‚Èì‚èÎ‚¢‚Æ”L‚È[r]
-‚Åº‚É•Ï‚í‚Á‚½B[pcms]
+I saw Yamagishi-san and Saeki walking with us, and Kishida's[r]stern expression suddenly changed to a lecherous fake smile[r]and a soft voice as if he was petting a cat.[pcms]
 
 [ChrSetEx layer=1 chbase="kisi_a_b_01"]
 [ChrSetXY layer=1 x=80 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std30|
 [fc]
-[ns]Šİ“c[nse]
-uƒIƒCRŠİA²”ŒI@‚¨‘O‚½‚¿‚¾‚¯‚È‚çA“Á•Ê‚Éæ¶‚ª[r]
-‘—‚Á‚Ä‚â‚Á‚Ä‚à‚¢‚¢‚¼IHv[pcms]
+[ns]Kishida[nse]
+Hey, Yamagishi and Saeki! If it's just you two, would you[r]like me to give you a special ride home as the teacher!?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v54|
 [fc]
 [vo_sa s="sae0016"]
-[ns]²”Œ[nse]
-uŒ‹\‚Å‚·v[pcms]
+[ns]Saeki[nse]
+No, thank you.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v55|
 [fc]
 [vo_ya s="yama0025"]
-[ns]RŠİ[nse]
-u‚ A‚ ‚½‚µ‚àA‚İ‚ñ‚È‚Æ‹A‚é‚Ì‚Åccv[pcms]
+[ns]Yamagishi[nse]
+Ah, I'll go home with everyone too...[pcms]
 
 [ChrSetEx layer=1 chbase="kisi_a_b_01"]
 [ChrSetXY layer=1 x=80 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std31|
 [fc]
-[ns]Šİ“c[nse]
-u‚È‚ñ‚¾c”O‚¾‚ÈB‚Å‚àAæ¶A‘Ìˆç‹³Š¯º‚É‚¢‚é‚©‚ç[r]
-‹C‚ª•Ï‚í‚Á‚½‚ç‚¢‚Â‚Å‚à—ˆ‚Ä‚¢‚¢‚¼I@ƒnƒbƒnƒbƒnƒbƒnIv[pcms]
+[ns]Kishida[nse]
+What a shame. But, girls, since I'll be in the PE teacher's[r]office, feel free to come anytime if you change your mind![l][er]
+Hahaha![pcms]
 
 *185|
 [fc]
-¨á‚è‚È‚Î‚¢‚ğc‚µAŠİ“c‚Í‹‚Á‚Ä‚¢‚Á‚½B[pcms]
+Kishida left, leaving behind an annoying loud laughter.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
@@ -227,31 +213,27 @@
 
 *186|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ÌƒNƒY–ì˜Yccv[pcms]
+[ns]Kato[nse]
+That scumbag...[pcms]
 
-;//ôFBGM007ƒtƒF[ƒhƒAƒEƒg
-;//ôFBGM001ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
+;//â™ªï¼šBGM001ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 
 [bgm001]
 
 *187|
 [fc]
-RŠİ‚³‚ñ‚ğŒ©‚½‚ÌA‚¢‚â‚ç‚µ‚­ƒMƒ‰‚Â‚«A‰˜‚­‘÷‚Á‚½[r]
-Šİ“c‚Ì‚ ‚Ì–ÚccB[pcms]
+That lecherous, gleaming, and filthy gaze of Kishida when he[r]saw Yamagishi-san...[pcms]
 
 *188|
 [fc]
-‚Æ‚Ä‚à‚¶‚á‚È‚¢‚¯‚ÇA‹³t‚ª¶“k‚ğŒ©‚é–Ú‚Â‚«‚Æ‚Ív‚¦[r]
-‚È‚¢B[pcms]
+I can't believe that's the way a teacher looks at students.[pcms]
 
 *189|
 [fc]
-RŠİ‚³‚ñ‚ªAí“ú ‚ ‚Ì‹ü‚É‚³‚ç‚³‚ê‚Ä‚¢‚é‚Ì‚©‚Æv[r]
-‚¤‚ÆAŠİ“c‚É‘Î‚µ‚ÄA‰´‚Í¡‚Ü‚ÅˆÈã‚ÌŒ™ˆ«Š´‚ÆA[r]
-¬‚³‚­‚È‚¢EˆÓ‚ğ•ø‚¢‚½B[pcms]
+When I think about how Yamagishi-san is constantly subjected[r]to that gaze, I feel a stronger sense of disgust and even a[r]significant amount of anger towards Kishida.[pcms]
 
-;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 [jump target=*0007_TOP storage="0007.ks"]
 
 

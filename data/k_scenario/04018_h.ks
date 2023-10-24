@@ -1,38 +1,38 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN04018w—D‚Ì”­Çx
-;//BG:•ÛŒ’ºF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöE—D
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04018ã€å„ªã®ç™ºç—‡ã€
+;//BG:ä¿å¥å®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *04018_H_TOP
-;[debug_win]‚È‚¤@04018_H[debug_win_end]
+;[debug_win]ãªã†ã€€04018_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 ;[if exp="tf.scene_mode == 0"][jump target=*04018][endif]
 ;[winset]
 
 
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
 ;g[bgm007]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *04018
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04018 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04018 = 1"]
 
-;*SceneSet|w—D‚Ì”­Çx
+;*SceneSet|ã€å„ªã®ç™ºç—‡ã€
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 
 ;//[bgm007]
 
@@ -43,156 +43,143 @@
 
 *3990|
 [fc]
-[ns]‰Á“¡[nse]
-uccccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦â€¦â€¦[l][er]
 
 *3991|
 [fc]
-‰´‚ª‹Câ‚µ‚Ä‚éŠÔ‚ÉARŠİ‚³‚ñ‚ª‚ ‚Ì’j‚É‹­Š­‚³‚ê‚Ä‚½[r]
-‚È‚ñ‚ÄccII[pcms]
+While I was unconscious, Yamagishi-san was being raped by[r]that man...!![pcms]
 
 *3992|
 [fc]
-‹Câ‚µ‚½‚Ì‚Í‰´‚Ì‚¹‚¢‚¶‚á‚È‚¢B[r]
-‚»‚ê‚Å‚àA©•ª‚Ì‚Ó‚ª‚¢‚È‚³‚ÉA‰Õ—§‚¿‚Æ•‚¬‚µ‚è‚Íû[r]
-‚Ü‚ç‚È‚©‚Á‚½B[pcms]
+It's not my fault that I passed out.[l][er]
+However, I couldn't help but feel frustrated and grind my[r]teeth at my own incompetence.[pcms]
 
 *3993|
 [fc]
-[ns]‰Á“¡[nse]
-uƒNƒ\ccƒbIIv[pcms]
+[ns]Kato[nse]
+Damn it...!![pcms]
 
 *v1621|
 [fc]
 [vo_ya s="yama0659"]
-[ns]RŠİ[nse]
-u‚ñccƒnƒ@ccƒnƒ@cc‚£ccv[pcms]
+[ns]Yamagishi[nse]
+Nn... Haa... Haa... Ugh...[pcms]
 
 *3994|
 [fc]
-“ª‚ğ•ø‚¦A‚¤‚È‚¾‚ê‚é‰´‚Ì¨‚ÉARŠİ‚³‚ñ‚Ì¬‚³‚­™ï‚­[r]
-º‚ª•·‚±‚¦‚Ä‚«‚½B[pcms]
+I held my head in my hands, and as I hung my head in[r]frustration, I could hear Yamagishi-san's small moans.[pcms]
 
 *3995|
 [fc]
-RŠİ‚³‚ñA‚¤‚È‚³‚ê‚Ä‚éccB[r]
-—–\‚³‚ê‚½‚Ì‚±‚Æ‚ğA–²‚É‚İ‚Ä‚é‚Ì‚©‚ÈccB[pcms]
+I wonder if Yamagishi-san is having a nightmare...[l][er]
+about the time she was violated...[pcms]
 
-;//SE:ƒJ[ƒeƒ“‚ğŠJ‚­
+;//SE:ã‚«ãƒ¼ãƒ†ãƒ³ã‚’é–‹ã
 
 [se0 storage="se046"]
 
 *3996|
 [fc]
-‰´‚Í‚¢‚½‚½‚Ü‚ê‚È‚­‚È‚Á‚ÄARŠİ‚³‚ñ‚ªQ‚Ä‚¢‚éƒxƒbƒh[r]
-‚ğˆÍ‚ŞƒJ[ƒeƒ“‚ğ‚ß‚­‚èA’†‚Ö“ü‚Á‚½B[pcms]
+I couldn't bear it any longer, so I pulled back the curtains[r]surrounding Yamagishi-san's sleeping bed and entered inside.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_d_11"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1622|
 [fc]
 [vo_ya s="yama0660"]
-[ns]RŠİ[nse]
-u‚©‚Æ‚¤‚­‚ñccv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun...[pcms]
 
 *3997|
 [fc]
-Q‚Ä‚¢‚é‚Æv‚Á‚½RŠİ‚³‚ñ‚ÍAƒxƒbƒh‚Ìã‚É‰¡À‚è‚ğ‚µ[r]
-‚ÄA‘Ò‚¿‚©‚Ü‚¦‚Ä‚¢‚½‚æ‚¤‚ÉA“ü‚Á‚Ä‚«‚½‰´‚ğŒ©‚Ä”÷Î[r]
-‚ñ‚¾B[pcms]
+Yamagishi-san, who I thought was sleeping, was sitting[r]cross-legged on the bed, as if waiting for me, and smiled[r]when she saw me enter.[pcms]
 
 *3998|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚¦‚Á‚Æcc‘åä•vHv[pcms]
+[ns]Kato[nse]
+Um, uh... Are you okay?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1623|
 [fc]
 [vo_ya s="yama0661"]
-[ns]RŠİ[nse]
-u‚¤‚ñA‚Ö‚¢‚«ccv[pcms]
+[ns]Yamagishi[nse]
+Yeah, I'm okay...[pcms]
 
 *3999|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚ÌccƒSƒƒ“A•‚¯‚ç‚ê‚È‚­‚Äccv[pcms]
+[ns]Kato[nse]
+I... I'm sorry, I couldn't help you...[pcms]
 
 *4000|
 [fc]
-RŠİ‚³‚ñ‚Íƒxƒbƒh‚©‚ç‰º‚èA‚¤‚Â‚Ş‚­‰´‚ğA“Ë‘R•ø‚«‚µ[r]
-‚ß‚Ä‚«‚½B[pcms]
+Yamagishi-san got off the bed and suddenly hugged me as I[r]hung my head down.[pcms]
 
 *4001|
 [fc]
-[ns]‰Á“¡[nse]
-u‚âARŠİ‚³‚ñIHv[pcms]
+[ns]Kato[nse]
+Y-Yamagishi-san!?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1624|
 [fc]
 [vo_ya s="yama0662"]
-[ns]RŠİ[nse]
-u‚í‚½‚µA‚¤‚ê‚µ‚©‚Á‚½cc‚©‚Æ‚¤‚­‚ñ‚ªA‚í‚½‚µ‚Ì‚±[r]
-‚ÆA‚½‚·‚¯‚æ‚¤‚Æ‚µ‚Ä‚­‚ê‚Äccv[pcms]
+[ns]Yamagishi[nse]
+I was happy... that you, Kato-kun, tried to help me...[pcms]
 
 *4002|
 [fc]
-RŠİ‚³‚ñ‚Ì‚»‚ÌŒ¾—t‚ÉA‰´‚Í”Ş—‚ğ•‚¯‚ç‚ê‚È‚©‚Á‚½‚±[r]
-‚Æ‚ªA—]Œv‚ÉS‹ê‚µ‚­Š´‚¶‚½B[pcms]
+I felt even more guilty when Yamagishi-san said those words,[r]knowing that I couldn't help her.[pcms]
 
 *4003|
 [fc]
-‚ ‚ÌAˆø‚«—£‚»‚¤‚Æ‚·‚é‚ñ‚¶‚á‚È‚­A‰£‚è“|‚µ‚Ä‚Å‚à[r]
-’j‚ğ~‚ß‚ê‚Î—Ç‚©‚Á‚½‚ÆA‰´‚Í‚Ü‚½‰÷‚â‚ñ‚¾B[pcms]
+At that time, I regretted once again that instead of trying[r]to separate them, I should have stopped the man even if it[r]meant beating him up.[pcms]
 
 *4004|
 [fc]
-[ns]‰Á“¡[nse]
-uccccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦â€¦â€¦[l][er]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1625|
 [fc]
 [vo_ya s="yama0663"]
-[ns]RŠİ[nse]
-u‚Ù‚ñ‚Æ‚¾‚æH@‚¾‚©‚ç‚ËA‚Ó‚½‚è‚Á‚«‚è‚É‚È‚ê‚é‚ÌA[r]
-‚Ü‚Á‚Ä‚½‚Ìccv[pcms]
+[ns]Yamagishi[nse]
+It's true, you know? That's why I've been waiting for us to[r]be alone together...[pcms]
 
 *4005|
 [fc]
-RŠİ‚³‚ñ‚Ìêˆá‚¢‚ÈŒ¾—t‚ÉA‰´‚Í”Ş—‚Ì—lq‚ª‚¨‚©‚µ‚¢[r]
-‚±‚Æ‚É‹C‚ª‚Â‚¢‚½B[pcms]
+I noticed something strange about Yamagishi-san's out-of-[r]place words.[pcms]
 
 *4006|
 [fc]
-‚»‚¤‚¢‚¦‚Î’‚è•û‚àA•Ï‚É‚ä‚Á‚­‚è‚Å‚¨‚©‚µ‚¢B[pcms]
+Come to think of it, her way of speaking is also strangely[r]slow and odd.[pcms]
 
 *4007|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ë‚¦ARŠİ‚³cc‚¤‚í‚ÁIv[pcms]
+[ns]Kato[nse]
+Hey, Yamagishi-sa... Uwaah![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 [backlay_c][chara_int][trans_c cross time=150]
 
 *4008|
 [fc]
-‘Ì‚ÉŠª‚©‚ê‚½RŠİ‚³‚ñ‚Ì˜r‚ÉA—Í‚ª‚ß‚ç‚ê‚é‚Ì‚ğŠ´‚¶[r]
-‚½uŠÔA‰´‚Íƒxƒbƒh‚Ìã‚É‰Ÿ‚µ“|‚³‚ê‚½B[pcms]
+The moment I felt the strength in Yamagishi-san's arms[r]wrapped around my body, I was pushed down onto the bed.[pcms]
 
 *4009|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¿‚åA‚¿‚å‚Á‚ÆARŠİ‚³‚ñIHv[pcms]
+[ns]Kato[nse]
+W-Wait, wait a minute, Yamagishi-san!?[pcms]
 
-;//[04019]‚Ö
+;//[04019]ã¸
 [jump target=*04019_H_TOP storage="04019_H.ks"]
 

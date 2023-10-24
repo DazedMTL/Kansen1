@@ -1,15 +1,15 @@
 
-;//¡ËƒuƒƒbƒN05070wŠK’ix
-;//BG:–³‚µ
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05070ã€éšæ®µã€
+;//BG:ç„¡ã—
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05070_TOP
-;[debug_win]‚È‚¤@05070[debug_win_end]
-;*SceneSet|wŠK’ix
+;[debug_win]ãªã†ã€€05070[debug_win_end]
+;*SceneSet|ã€éšæ®µã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05070 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05070 = 1"]
 ;	/*
-;	;//ôFBGM001
+;	;//â™ªï¼šBGM001
 ;	[bgm001]
 ;	*/
 ;//BG:bg006d
@@ -24,15 +24,14 @@
 
 *4739|
 [fc]
-OŠK‚Ö—ˆ‚Ä‚İ‚½‚ªA‚â‚Á‚Ï‚è˜L‰º‚É‚à‹³º‚É‚àA“”‚è‚Í[r]
-“_‚¯‚ç‚ê‚Ä‚¢‚È‚­‚Ä^‚ÁˆÃ‚¾‚Á‚½B[pcms]
+I came to the third floor, but as expected, both the hallway[r]and the classrooms were completely dark with no lights on.[pcms]
 
 ;	/*
 ;	;;;[sysbt_meswin clear]
 ;	
 ;	
 ;	;//BG:bg006c
-;	;//Æ–¾‚ÍÁ‚¦‚Ä‚¢‚é‚Ì‚Å06d
+;	;//ç…§æ˜ã¯æ¶ˆãˆã¦ã„ã‚‹ã®ã§06d
 ;	
 ;	[bg storage="bg06d"]
 ;	[trans_c cross time=500]
@@ -43,159 +42,147 @@
 
 *4743|
 [fc]
-[ns]‰Á“¡[nse]
-u—S“ñ‚ÆŒÜ\—’ƒTƒ“‚ÌƒNƒ‰ƒX‚ª‚ ‚é‚©‚çA‚¢‚é‚Æ‚µ‚½‚ç[r]
-‚ ‚Ì“ñl‚Í‚±‚±‚¾‚Æv‚¤‚ñ‚¾‚¯‚Ç‚È[v[pcms]
+[ns]Kato[nse]
+Since Yuuji and Igarashi-san have their classes here, if[r]they are here, I think they would be in this area.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2037|
 [fc]
 [vo_sa s="sae0331"]
-[ns]²”Œ[nse]
-u‰½ŒÌ‚Å‚·H@ŠmØ‚Å‚à‚ ‚é‚ñ‚Å‚·‚©Hv[pcms]
+[ns]Saeki[nse]
+Why is that? Do you have any evidence?[pcms]
 
 *4744|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ A—S“ñ‚Ì‚±‚Æ‚¾‚©‚çccv[pcms]
+[ns]Kato[nse]
+Ah, knowing Yuuji...[pcms]
 
 *4745|
 [fc]
-•’ig‚Á‚Ä‚é‹³º‚ÅƒZƒbƒNƒX‚µ‚½‚ç‹»•±‚·‚éA‚Æ‚©l[r]
-‚¦‚Ä‚»‚¤‚¾‚©‚çB[pcms]
+It seems like he would be excited at the thought of having[r]sex in the classroom he usually uses.[pcms]
 
 *4746|
 [fc]
-‚Æ‚¢‚¢‚©‚¯‚ÄA‰´‚ÍQ‚Ä‚ÄŒû‚ğ•Â‚¶‚½B‚»‚ñ‚È‚±‚Æ‚ğ²[r]
-”Œ‚ÉŒ¾‚¨‚¤‚à‚Ì‚È‚çA‚¢‚Â‚à‚Ì“{†‚Å¨‚ğ”j‰ó‚³‚ê‚©‚Ë[r]
-‚È‚¢B[pcms]
+I started to say something, but quickly shut my mouth in a[r]panic.[l][er]
+If I were to say something like that to Saeki, I might have[r]my ears destroyed by her usual angry shout.[pcms]
 
 *4747|
 [fc]
-ˆá‚¤˜b‚Å‰½‚Æ‚©‚²‚Ü‚©‚»‚¤‚ÆA‰´‚Í•K€‚Å“ª‚ğƒtƒ‹‰ñ“][r]
-‚³‚¹‚½B[pcms]
+I desperately racked my brain, trying to come up with a way[r]to divert the conversation to a different topic.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2038|
 [fc]
 [vo_sa s="sae0332"]
-[ns]²”Œ[nse]
-uccHv[pcms]
+[ns]Saeki[nse]
+...?[pcms]
 
 *4748|
 [fc]
-[ns]‰Á“¡[nse]
-ucc—S“ñ‚Ì‚±‚Æ‚¾‚©‚çA‰Ä‚¾‚µA‚¹‚Á‚©‚­–é‚ÌŠwZ‚É[r]
-‚¢‚é‚ñ‚¾‚©‚çAŠÌ‚µ‚µ‚æ‚¤‚Æ‚©‚Á‚Äl‚¦‚ÄAZÉ‚Ì’†[r]
-‚ğ•à‚«‰ñ‚Á‚Ä‚é‚ñ‚¾‚Æv‚¤‚ñ‚¾‚æ‚Èv[pcms]
+[ns]Kato[nse]
+... Knowing Yuuji, since it's summer and we're in the school[r]at night, I think he might be thinking of doing a test of[r]courage or something, walking around inside the school[r]building.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2039|
 [fc]
 [vo_sa s="sae0333"]
-[ns]²”Œ[nse]
-uŠÌ‚µccHv[pcms]
+[ns]Saeki[nse]
+Test of courage...?[pcms]
 
 *4749|
 [fc]
-[ns]‰Á“¡[nse]
-u‚±‚ÌOŠK‚Ì‚g‘g‚É‚³A‰½‰ñ‚à‘‹‚©‚ç”ò‚Ñ~‚è‚é—q¶[r]
-“k‚Ì—ì‚ªo‚éA‚Á‚Ä‰\‚ª‚ ‚é‚ñ‚¾v[pcms]
+[ns]Kato[nse]
+There's a rumor that the ghost of a female student who jumps[r]out of the window multiple times appears in Class H on the[r]third floor.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2040|
 [fc]
 [vo_sa s="sae0334"]
-[ns]²”Œ[nse]
-u‘‹‚©‚çA‰½‰ñ‚àccHv[pcms]
+[ns]Saeki[nse]
+Jumping out of the window, multiple times...?[pcms]
 
 *4750|
 [fc]
-[ns]‰Á“¡[nse]
-uóŒ±ƒmƒCƒ[ƒ[‚¾‚Á‚½‚ç‚µ‚¢‚ñ‚¾‚æ‚ÈA‚»‚ÌqBö‹Æ[r]
-’†A“Ë‘RwŒï‚Ì‚Ú‚è‚ª”ò‚ñ‚Å‚¢‚Á‚¿‚á‚¤Ix‚Á‚ÄŒ¾‚¢‚¾[r]
-‚µ‚ÄA‘‹‚©‚ç”ò‚Ñ~‚è‚½‚ç‚µ‚¢v[pcms]
+[ns]Kato[nse]
+It seems like she had exam anxiety.[l][er]
+During class, she suddenly said, The carp streamers are[r]flying away![l][er]
+and jumped out of the window.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2041|
 [fc]
 [vo_sa s="sae0335"]
-[ns]²”Œ[nse]
-uccIHv[pcms]
+[ns]Saeki[nse]
+...!?[pcms]
 
 *4751|
 [fc]
-[ns]‰Á“¡[nse]
-u¡‚Å‚àA‚»‚ÌŒï‚Ì‚Ú‚è‚Æ‚â‚ç‚ğ•ß‚Ü‚¦‚æ‚¤‚Æ‚µ‚Ä‚éB[r]
-‚Å‚àA‚»‚ñ‚È‚à‚ÌÅ‰‚©‚ç‚È‚¢‚ñ‚¾‚©‚çA•ß‚Ü‚¦‚ç‚ê‚é[r]
-”¤‚ª‚È‚¢B‚ÅA‰½‰ñ‚à‘‹‚©‚ç”ò‚Ñ~‚è‘±‚¯‚Ä‚é‚í‚¯‚¾v[pcms]
+[ns]Kato[nse]
+Even now, he's still trying to catch that carp streamer.[l][er]
+But since it never existed in the first place, there's no[r]way he can catch it.[l][er]
+So, she keeps jumping out of the window over and over again.[pcms]
 
 *4752|
 [fc]
-‚Ü‚é‚Á‚«‚è‰´‚Ì‚Å‚Á‚¿‚ ‚°‚ÅAƒ€ƒŠ‚ª‚ ‚é‚È‚Æ©•ª‚Å‚à[r]
-v‚Á‚½‚ªA²”Œ‚ğ‚²‚Ü‚©‚·‚É‚Í[•ª‚¾‚Á‚½‚æ‚¤‚¾B[pcms]
+It was completely made up by me, and even I thought it was[r]impossible, but it seemed to be enough to deceive Saeki.[pcms]
 
 *4753|
 [fc]
-²”Œ‚Í•š‚µ–Ú‚ª‚¿‚É‚È‚Á‚Ä–Ù‚Á‚Ä‚µ‚Ü‚¢A©•ª‚Ìg‚ğ‰B[r]
-‚·‚æ‚¤‚ÉA‰´‚Ì–T‚Ö‚É‚¶‚èŠñ‚Á‚Ä‚­‚éB[pcms]
+Saeki lowered her gaze and fell silent, as if trying to hide[r]herself, she slowly crept closer to me.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2042|
 [fc]
 [vo_sa s="sae0336"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *4754|
 [fc]
-²”Œ‚ª‚±‚ñ‚È‚É‹ß‚­‚É‚¢‚é‚Æ‚¢‚¤‚±‚Æ‚ÉA‚¢‚Ü‚¢‚¿ƒsƒ“[r]
-‚Æ‚±‚È‚¢‚ªA‚»‚ê‚Å‚à”ül‚Èq‚É‹ßŠñ‚ç‚ê‚é‚Æ‚¢‚¤‚Ì‚Í[r]
-ˆ«‚¢‹C‚Í‚µ‚È‚¢B[pcms]
+Saeki being this close to me doesn't quite register, but I[r]can't say I mind being approached by a beautiful girl.[pcms]
 
 *4755|
 [fc]
-‚¢‚Â‚à‚Í—â‚½‚¢”ül‚Æ‚¢‚¤ˆóÛ‚Ì²”Œ‚¾‚ªA‹¯‚¦‚Ä‚¢‚é[r]
-—lq‚Ì¡‚Í‚©‚í‚¢‚­Œ©‚¦‚éB[pcms]
+Saeki, who usually gives off the impression of being cold[r]and beautiful, now looks cute with a frightened expression.[pcms]
 
 *4756|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *4757|
 [fc]
-²”Œ‚ª‚©‚í‚¢‚¢ccH[pcms]
+Saeki is cute...?[pcms]
 
 *4758|
 [fc]
-‚È‚ñ‚©A‚¨‚©‚µ‚¢‚È‰´ccB[r]
-‚â‚Á‚Ï‚èA‚³‚Á‚«è‚ğŒq‚¢‚¾‚¹‚¢‚È‚Ì‚©ccH[pcms]
+Something feels strange to me...[l][er]
+Could it be because we held hands earlier...?[pcms]
 
 ;	/*
 ;	;;;[sysbt_meswin clear]
@@ -207,6 +194,6 @@
 ;	;//blackout
 ;	*/
 ;	
-;//[05080]‚Ö
+;//[05080]ã¸
 [jump target=*05080_TOP storage="05080.ks"]
 

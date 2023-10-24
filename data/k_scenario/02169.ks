@@ -1,24 +1,24 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02169w‚»‚ê‚©‚çx
-;//BG:–³‚µ
-;//“oêl•¨G–³‚µ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02169ã€ãã‚Œã‹ã‚‰ã€
+;//BG:ç„¡ã—
+;//ç™»å ´äººç‰©ï¼›ç„¡ã—
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02169_TOP
-;[debug_win]‚È‚¤@02169[debug_win_end]
+;[debug_win]ãªã†ã€€02169[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02169 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02169 = 1"]
 
-;*SceneSet|w‚»‚ê‚©‚çx
+;*SceneSet|ã€ãã‚Œã‹ã‚‰ã€
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 
 [fadeoutbgm time=500]
 
-;//BG:bg–³‚µ
+;//BG:bgç„¡ã—
 
 [wait_c time=1500]
 
@@ -29,40 +29,33 @@
 
 *3053|
 [fc]
-‰´‚ÆRŠİ‚³‚ñ‚ª‹~o‚³‚ê‚Ä‚©‚çA“ñTŠÔ‚ª‰ß‚¬‚½B[pcms]
+Two weeks have passed since Yuu and I were rescued.[pcms]
 
 *3054|
 [fc]
-‚»‚ÌŠÔ‚ÉA‰´‚âRŠİ‚³‚ñ‚Ì‰ÆA‚»‚µ‚ÄŠwZ‚ª‚ ‚Á‚½—Áƒ–[r]
-—Ë’n‹æˆê‘Ñ‚ÍA”šŒ‚‚É‚æ‚Á‚ÄÄ‚¯–ìŒ´‚Æ‚È‚Á‚Ä‚µ‚Ü‚Á‚Ä[r]
-‚¢‚½B[pcms]
+During that time, my house, Yamagishi-san's house, and the[r]entire area of Suzugaoka District where our school is[r]located had turned into a scorched wasteland due to the[r]bombings.[pcms]
 
 *3055|
 [fc]
-‹~••”‘à‚Ì‘æˆêŸ‹~•‚ªI—¹‚µ‚½i‰´‚ª‘«‚ğŒ‚‚½‚ê‚½j[r]
-—‚“úA‚±‚Ì‘‚Éí’“‚µ‚Ä‚¢‚é‘¼‘‚ÌŒR‘à‚ªA­•{‚Ì—v¿[r]
-‚ğó‚¯‚ÄA—Áƒ–—Ë’n‹æˆê‘Ñ‚ğ”šŒ‚‚µ‚½‚©‚ç‚¾‚Á‚½B[pcms]
+The day after the first round of rescue operations by the[r]rescue team had ended (when I got shot in the leg)[l][er]
+, the military forces from another country stationed in this[r]country, upon the request of the government, bombed the[r]entire area of Suzugaoka District.[pcms]
 
 *3056|
 [fc]
-‚»‚µ‚Ä‰´‚ÍA‹~Œì{İ‚ÌŒÂº‚ğŠ„‚è“–‚Ä‚ç‚ê‚ÄA‚»‚±‚Å[r]
-‘«‚Ì¡—Ã‚ğó‚¯‚Ä‚¢‚½B[pcms]
+And I was assigned to a private room in the medical[r]facility, where I received treatment for my leg.[pcms]
 
 *3057|
 [fc]
-‚ ‚ê‚ÍŒëË‚¾‚Á‚½‚ç‚µ‚­A‚»‚Ì‚¨˜l‚Ñ‚ÉŒÂº‚ğŠ„‚è“–‚Ä[r]
-‚ç‚ê‚½‚Ì‚Å‚Í‚È‚¢‚©‚ÆA‰´‚Ív‚Á‚Ä‚¢‚½B[pcms]
+I thought that it was probably a case of friendly fire, and[r]as an apology for that, I was assigned to a private room.[pcms]
 
 *3058|
 [fc]
-ŒëË‚³‚ê‚½Ò‚Ì‹­‚İ‚ÅA‰Æ‘°‚Ìs•û‚ğ©‰q‘à‚Ìl‚É•·‚¢[r]
-‚Ä‚İ‚½‚ªA‚±‚±‚âA‹ß‚­‚Ì‹~Œì{İ‚É‚Í”ğ“ï‚µ‚Ä‚¢‚È‚¢[r]
-‚æ‚¤‚ÅAs•û•s–¾‚Æ‚¢‚¤‚±‚Æ‚¾‚Á‚½B[pcms]
+With the strength of being a victim of friendly fire, I[r]tried asking the Self-Defense Force personnel about the[r]whereabouts of my family, but it seems that they haven't[r]taken refuge here or in nearby medical facilities.[l][er]
+They were reported as missing.[pcms]
 
 *3059|
 [fc]
-‚Å‚àA‚ ‚Ì‚Ì‰´’B‚Æ“¯‚¶‚æ‚¤‚ÉA‚Ç‚±‚©‚Å‹~•‚ğ‘Ò‚Á[r]
-‚Ä‚¢‚é‚Éˆá‚¢‚È‚¢‚ÆA‰´‚Í‚»‚¤M‚¶‚Ä‚â‚Ü‚È‚©‚Á‚½B[pcms]
+But, just like us at that time, I couldn't help but believe[r]that they were somewhere waiting to be rescued.[pcms]
 
-;//[02170]‚Ö
+;//[02170]ã¸
 [jump target=*02170_H_TOP storage="02170_H.ks"]

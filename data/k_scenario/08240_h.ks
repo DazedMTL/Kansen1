@@ -1,38 +1,38 @@
 
-;//¡ËƒuƒƒbƒN08240w“µ‚Æ—V‚Ôx
-;//;//BG:‘Ìˆç—p‹ïºF–éFÁ“”
-;//;//BG:“n‚è˜L‰ºF–éFÁ“”
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08240ã€ç³ã¨éŠã¶ã€
+;//;//BG:ä½“è‚²ç”¨å…·å®¤ï¼šå¤œï¼šæ¶ˆç¯
+;//;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
 
 *08240_H_TOP
-;[debug_win]‚È‚¤@08240_H[debug_win_end]
+;[debug_win]ãªã†ã€€08240_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 ;[if exp="tf.scene_mode == 0"][jump target=*08240][endif]
 ;[winset]
 
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
 [bgm001]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *08240
 
-;*SceneSet|w“µ‚Æ—V‚Ôx
+;*SceneSet|ã€ç³ã¨éŠã¶ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08240 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08240 = 1"]
 
-;//flag:ålŒöŠ´õƒ‹[ƒgƒtƒ[@‚R@•\¦
-;//flag:“µ@on
+;//flag:ä¸»äººå…¬æ„ŸæŸ“ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼“ã€€è¡¨ç¤º
+;//flag:ç³ã€€on
 
 [eval exp="f.HITOMI_F = 1"]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//;//BG:bg09e
 
@@ -45,165 +45,164 @@
 
 *10038|
 [fc]
-²”Œ‚©ccB[pcms]
+Saeki...[pcms]
 
 *10039|
 [fc]
-²”Œ‚Ì–‚ğl‚¦‚é‚ÆA‚Ü‚½ƒ`ƒ“ƒR‚ª–u‹N‚µ‚Ä‚­‚éccI[r]
-‚ ‚ÌAˆÌ‚»‚¤‚È—‚ğccBãY—í‚ÈŠç‚ªcc‹ƒ‚«‚¶‚á‚­[r]
-‚éŠAŒ©‚Ä‚İ‚½‚¢II[pcms]
+Whenever I think about Saeki, my dick gets hard...![l][er]
+I want to see that arrogant woman...[l][er]
+Her beautiful face... I want to see her crying and begging[r]for mercy!![pcms]
 
 *10040|
 [fc]
-‚æ‚µA^–ç‚Æ²”Œ‚ğ‘{‚µ‚És‚±‚¤B[r]
-’T‚µ‚ÄA‚¢‚À‚ß‚Ä—V‚Ú‚¤I[pcms]
+Alright, let's go look for Shinya and Saeki.[l][er]
+Let's find them and have some fun teasing them![pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std671|
 [fc]
-[ns]’|“à[nse]
-u“µA‚Ç‚±‚É‚¢‚é‚Ì‚©‚È`v[pcms]
+[ns]Takeuchi[nse]
+I wonder where Hitomi is~[l][er]
 
 *10041|
 [fc]
-[ns]‰Á“¡[nse]
-u^–çII@‰´‚Æˆê‚És‚±‚¤‚ºIv[pcms]
+[ns]Kato[nse]
+Shinya!! Let's go together![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std672|
 [fc]
-[ns]’|“à[nse]
-u‚¶‚á‚ Aˆê‚És‚±‚¤II@æ¶AŒã‚ÅA¸~Œû‚Å—[r]
-‚¿‡‚¨‚¤‚©v[pcms]
+[ns]Takeuchi[nse]
+Alright, let's go together!! Teacher, let's meet up later at[r]the entrance.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_a_c_04"]
 [ChrSetXY layer=1 x=180 y=0]
 [ChrSetParts layer=1 chface="risa_a_c_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3691|
 [fc]
 [vo_ri s="risa0791"]
-[ns]V“¹[nse]
-u•ª‚©‚Á‚½‚íccEˆõº‚ËHv[pcms]
+[ns]Shindou[nse]
+I understand... The staff room, right?[pcms]
 
 *10042|
 [fc]
-[ns]‰Á“¡[nse]
-u‰½Œ¾‚Á‚Ä‚é‚ñ‚¾‚æccæ¶ccB‘Ìˆç‹³Š¯º‚¾‚æHv[pcms]
+[ns]Kato[nse]
+What are you saying, Sensei...?[l][er]
+It's the Physical Education Instructor's office, you know?[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_d_b_01"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3692|
 [fc]
 [vo_to s="tomo0461"]
-[ns]ŒÜ\—’[nse]
-u‚İ‚ñ‚Èˆá‚¤‚æ`cc¸~Œû‚¾‚æ`ccv[pcms]
+[ns]Igarashi[nse]
+Everyone, you're all wrong~...[l][er]
+It's the entrance~...[pcms]
 
 [ChrSetEx layer=1 chbase="risa_a_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3693|
 [fc]
 [vo_ri s="risa0792"]
-[ns]V“¹[nse]
-ucc‚µ‚Á‚©‚è‚µ‚È‚¢‚Æ‚Ëcc‚¶‚á‚ AŒÜ\—’‚³‚ñA„[r]
-‚½‚¿‚ÍARŠİ‚³‚ñ‚ğ‘{‚µ‚És‚«‚Ü‚µ‚å‚¤‚©ccv[pcms]
+[ns]Shindou[nse]
+... We need to stay focused...[l][er]
+Then, Igarashi-san, shall we go and search for Yamagishi-[r]san?[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_d_b_01"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3694|
 [fc]
 [vo_to s="tomo0462"]
-[ns]ŒÜ\—’[nse]
-u‚Í[‚¢I@—D‚¿‚á‚ñcc‚Ç‚±‚©‚È`Iv[pcms]
+[ns]Igarashi[nse]
+Alright! Yuu-chan... where could she be~![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *10043|
 [fc]
-“ñl‚Íè‚ğŒq‚¬‚È‚ª‚çA“Áê‹³º‚Ì•û‚Ö‚Æ•à‚¢‚Ä‚¢‚­B[pcms]
+The two of them walked hand in hand towards the special[r]classroom.[pcms]
 
 *10044|
 [fc]
-[ns]‰Á“¡[nse]
-ucc‚Ü‚é‚Åcceq‚¾‚Èccv[pcms]
+[ns]Kato[nse]
+... It's almost like... a parent and child...[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std673|
 [fc]
-[ns]’|“à[nse]
-u‚»‚¤‚¾‚Ëccv[pcms]
+[ns]Takeuchi[nse]
+That's right...[pcms]
 
 *10045|
 [fc]
-[ns]‰Á“¡[nse]
-u‰´’B‚às‚­‚©ccv[pcms]
+[ns]Kato[nse]
+Shall we go too...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std674|
 [fc]
-[ns]’|“à[nse]
-u‚¿‚å‚Á‚Æ‹x‚ñ‚Å‚©‚ç‚É‚µ‚æ‚¤‚æcc[r]
-‰½‚¾‚©–°‚­‚Á‚Äccv[pcms]
+[ns]Takeuchi[nse]
+Let's take a break first... I'm feeling a bit sleepy...[pcms]
 
 *10046|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ cc‚»‚¤‚Å‚·‚©ccv[pcms]
+[ns]Kato[nse]
+Ah... I see...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *10047|
 [fc]
-‚»‚¤‚¢‚âA‰´‚à‚¿‚å‚Á‚Æ–°‚¢B[r]
-‚½‚Ü‚É‚ÍƒRƒCƒc‚ÌŒ¾‚¤‚±‚Æ‚àA•·‚¢‚Ä‚â‚ë‚¤ccB[pcms]
+Come to think of it, I'm feeling a bit sleepy too.[l][er]
+Once in a while, I'll listen to what this guy has to say...[pcms]
 
 *10048|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¶‚á‚ A‹N‚«‚½‚ç‚·‚®‚Éo‚©‚¯‚é‚¼Iv[pcms]
+[ns]Kato[nse]
+Alright, let's go as soon as we wake up![pcms]
 
 *10049|
 [fc]
-[ns]’|“à[nse]
-u‚ñ‚ª‚ÁccIv[pcms]
+[ns]Takeuchi[nse]
+Ngah...![pcms]
 
 *10050|
 [fc]
-‚¢‚Ñ‚«‚Å•Ô–‚©‚æccB[r]
-^–ç‚ÍA‚à‚¤–°‚è‚É—‚¿‚Ä‚¢‚½ccB[pcms]
+He responded with a snore... Shinya had already fallen[r]asleep...[pcms]
 
 *10051|
 [fc]
-‰´A‚Ç‚¤‚·‚è‚á‚¢‚¢‚ñ‚¾‚æccB[pcms]
+What should I do...[pcms]
 
 ;//blackout
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 [jump target=*08250_H_TOP storage="08250_H.ks"]
 
 

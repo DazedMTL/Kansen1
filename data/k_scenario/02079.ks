@@ -1,20 +1,20 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02079w“µ‚Ì—Üx
-;//BG:‹’®ŠoºF–éF“_“”
-;//“oêl•¨GålŒöE—DEƒŠƒTE’|“àE“µ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02079ã€ç³ã®æ¶™ã€
+;//BG:è¦–è´è¦šå®¤ï¼šå¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»ç«¹å†…ãƒ»ç³
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02079_TOP
-;[debug_win]‚È‚¤@02079[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02079 = 1"]
+;[debug_win]ãªã†ã€€02079[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02079 = 1"]
 
-;*SceneSet|w“µ‚Ì—Üx
+;*SceneSet|ã€ç³ã®æ¶™ã€
 
 ;//[02079]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//BG:bg015c
 ;//[bg storage="bg15c"]
@@ -22,35 +22,35 @@
 
 *1677|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ç‚¤‚µ‚½²”ŒA‚â‚¯‚É‘ål‚µ‚¢‚ÈBƒOƒbƒ^ƒŠ‚·‚é’öA[r]
-–é‚ÌŠwZ‚Í•|‚©‚Á‚½‚©Hv[pcms]
+[ns]Kato[nse]
+What's wrong, Saeki? You're unusually quiet.[l][er]
+Were you scared of the night school to the point of[r]exhaustion?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v700|
 [fc]
 [vo_sa s="sae0083"]
-[ns]²”Œ[nse]
-u‚»‚ñ‚È‚±‚Æ‚Í‚ ‚è‚Ü‚¹‚ñv[pcms]
+[ns]Saeki[nse]
+That's not true.[pcms]
 
 *1678|
 [fc]
-‚©‚ç‚©‚¤‰´‚ÉA²”Œ‚ÍãX‚µ‚­‰‚¦‚ÄA•@‚ğ‚·‚·‚Á‚½B[pcms]
+Saeki weakly responded to my teasing and sniffled.[pcms]
 
 *1679|
 [fc]
-‚»‚¤‚¢‚¦‚ÎA²”Œ‚Í‚È‚ñ‚¾‚©•@º‚¾BŠç‚ğ‚æ‚­Œ©‚é‚ÆA[r]
-–Ú‚Ìü‚è‚ª‹ƒ‚¢‚½‚ ‚Æ‚Ì—l‚ÉÔ‚­‚È‚Á‚Ä‚¢‚éB[pcms]
+Come to think of it, Saeki's voice sounds nasal.[l][er]
+When I look closely at her face, the area around her eyes is[r]red as if she had been crying.[pcms]
 
 *1680|
 [fc]
-‚Ü‚³‚©‚±‚¢‚ÂA•|‚·‚¬‚Ä‹ƒ‚¢‚½‚Æ‚©ccH[pcms]
+Could it be that she was so scared that she cried...?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -60,66 +60,64 @@
 *v701|
 [fc]
 [vo_ya s="yama0199"]
-[ns]RŠİ[nse]
-u‚È‚ñ‚©A“µ‚³‚ñ‚ç‚µ‚­‚È‚¢‚Ëv[pcms]
+[ns]Yamagishi[nse]
+It's not like you, Hitomi-san.[pcms]
 
 *1681|
 [fc]
-‚¢‚Â‚ÌŠÔ‚É‚©‰¡‚É—ˆ‚Ä‚¢‚½RŠİ‚³‚ñ‚ªA‰´‚Ì¨‚Ì‚»‚Î‚Å[r]
-š‘‚¢‚½B[pcms]
+Yamagishi-san, who had come next to me without me noticing,[r]whispered in my ear.[pcms]
 
 *1682|
 [fc]
-[ns]‰Á“¡[nse]
-u‚æ‚Á‚Û‚Çƒ_ƒ‚İ‚½‚¢‚¾‚È[A•|‚¢‚Ì‚ªv[pcms]
+[ns]Kato[nse]
+It seems like it's really bad, huh?[l][er]
+Are you scared?[pcms]
 
 *1683|
 [fc]
-¬º‚Åš‘‚«‡‚¤‰´’B‚É‹C‚ª‚Â‚¢‚½²”Œ‚ÍA‘½­—‚¿’…‚¢[r]
-‚Ä’²q‚ª–ß‚Á‚½‚Ì‚©A‚¢‚Â‚à‚Ì—â‚½‚¢–Ú‚Å‰´‚ğáÉ‚İ‚Â‚¯[r]
-‚½B[pcms]
+Saeki, who noticed us whispering quietly, seemed to have[r]calmed down a bit and regained her composure.[l][er]
+She glared at me with her usual cold eyes.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v702|
 [fc]
 [vo_sa s="sae0084"]
-[ns]²”Œ[nse]
-ul‚ÌŠç‚ğŒ©‚Ä‚±‚»‚±‚»˜b‚ğ‚·‚é‚È‚ñ‚ÄA¸—ç‚Å‚Í‚ ‚è[r]
-‚Ü‚¹‚ñ‚©IHv[pcms]
+[ns]Saeki[nse]
+Isn't it rude to whisper while looking at someone's face!?[pcms]
 
-;//¦‘I‘ğˆ
-;//E‚¨A—’é•œŠˆ‚©H;//[02080]‚Ö
-;//EƒSƒƒ“ƒSƒƒ“Aˆ«‹C‚Í‚È‚¢‚ñ‚¾;//[02081]‚Ö
+;//â€»é¸æŠè‚¢
+;//ãƒ»ãŠã€å¥³å¸å¾©æ´»ã‹ï¼Ÿ;//[02080]ã¸
+;//ãƒ»ã‚´ãƒ¡ãƒ³ã‚´ãƒ¡ãƒ³ã€æ‚ªæ°—ã¯ãªã„ã‚“ã ;//[02081]ã¸
 
 *sel00
 
 
-*SEL01|—’é•œŠˆ‚©H^ƒSƒƒ“ƒSƒƒ“
+*SEL01|å¥³å¸å¾©æ´»ã‹ï¼Ÿï¼ã‚´ãƒ¡ãƒ³ã‚´ãƒ¡ãƒ³
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '‚¨A—’é•œŠˆ‚©H'"]
-[eval exp="f.seltext04 = 'ƒSƒƒ“ƒSƒƒ“Aˆ«‹C‚Í‚È‚¢‚ñ‚¾'"]
+[eval exp="f.seltext02 = 'ãŠã€å¥³å¸å¾©æ´»ã‹ï¼Ÿ'"]
+[eval exp="f.seltext04 = 'ã‚´ãƒ¡ãƒ³ã‚´ãƒ¡ãƒ³ã€æ‚ªæ°—ã¯ãªã„ã‚“ã '"]
 
 
-[if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
-	;‘I‘ğˆ“à—e‚ğƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
+[if exp="tf.sys_sub == 0 || tf.é¸æŠè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
+	;é¸æŠè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[—š—ğo—Í•œ‹A]
+[å±¥æ­´å‡ºåŠ›å¾©å¸°]
 
-;‘I‘ğˆƒx[ƒX
+;é¸æŠè‚¢ãƒ™ãƒ¼ã‚¹
 [selbase]
-;•¶š‚Ì¶ƒ}[ƒWƒ“
+;æ–‡å­—ã®å·¦ãƒãƒ¼ã‚¸ãƒ³
 [eval exp="sf.seltext_x = 250"]
 
 [sel02 target=*sel00_jotei]

@@ -1,165 +1,159 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//šƒUƒbƒsƒ“ƒO‘I‘ğ”­¶
-;//ËƒŠƒT‹“_‚Ö
-;//ËƒuƒƒbƒN0109w—ê‘®x‚©‚ç
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â˜…ã‚¶ãƒƒãƒ”ãƒ³ã‚°é¸æŠç™ºç”Ÿ
+;//â‡’ãƒªã‚µè¦–ç‚¹ã¸
+;//â‡’ãƒ–ãƒ­ãƒƒã‚¯0109ã€éš·å±ã€ã‹ã‚‰
 
-;//¡ËƒuƒƒbƒN0109w—ê‘®x
-;//BG:•ÛŒ’ºF–é^“_“”
-;//“oêl•¨GƒŠƒT
-;//‹“_FƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0109ã€éš·å±ã€
+;//BG:ä¿å¥å®¤ï¼šå¤œï¼ç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ãƒªã‚µ
+;//è¦–ç‚¹ï¼šãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *0109_H_TOP
-;[debug_win]‚È‚¤@0109_H[debug_win_end]
+;[debug_win]ãªã†ã€€0109_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 ;[if exp="tf.scene_mode == 0"][jump target=*0109][endif]
 ;[winset]
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *0109
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0109 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0109 = 1"]
 
-;*SceneSet|w—ê‘®x
+;*SceneSet|ã€éš·å±ã€
 
-;//flag:ƒvƒƒ[ƒOƒtƒ[@zap‚S@•\¦
-;//ôFBGM007
+;//flag:ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ãƒ•ãƒ­ãƒ¼ã€€zapï¼”ã€€è¡¨ç¤º
+;//â™ªï¼šBGM007
 [bgm007]
 ;//BG:bg013d
 [bg storage="bg13d"]
 [trans_c cross time=500]
 
-;//SE:”à‚ğŠJ‚¯‚é
+;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
 [se0 storage="se008"]
 
 *v479|
 [fc]
 [vo_ri s="risa0106"]
-[ns]V“¹[nse]
-u‚Ü‚¾A‚Ì‚æ‚¤‚Ëccv[pcms]
+[ns]Shindou[nse]
+Not yet, it seems...[pcms]
 
 *1110|
 [fc]
-–½—ß’Ê‚è•ÛŒ’º‚É—ˆ‚½‚à‚Ì‚ÌAŠİ“c‚Ìp‚Í‚È‚¢B[r]
-„‚ÍˆÀ“g‚µ‚Ä¬‚³‚­‘§‚ğ‚Â‚«Aƒxƒbƒh‚Ì’[‚É˜‚ğ‰º‚ë‚µ[r]
-‚½B[pcms]
+I came to the infirmary as instructed, but Kishida was[r]nowhere to be found.[l][er]
+I let out a small sigh of relief and sat down on the edge of[r]the bed.[pcms]
+[l][er]
 
 *v480|
 [fc]
 [vo_ri s="risa0107"]
-[ns]V“¹[nse]
-u‚ñccv[pcms]
+[ns]Shindou[nse]
+Hm...[pcms]
 
 *1111|
 [fc]
-ƒgƒCƒŒ‚Åƒ[ƒ^[‚ğæ‚èo‚µA˜R‚ê‚¾‚µ‚»‚¤‚¾‚Á‚½Šİ“c[r]
-‚Ì¸‰t‚ğ‘S‚Ä@‚Á‚Ä‚«‚½‚ªAƒ[ƒ^[‚à¸‰t‚à‚Ü‚¾’†‚É[r]
-c‚Á‚Ä‚¢‚é‚æ‚¤‚Év‚¦‚ÄAä\•”‚Éˆá˜aŠ´‚ğŠ´‚¶‚éB[pcms]
+I took out the rotor in the bathroom and wiped away all of[r]Kishida's semen that was about to leak out.[l][er]
+But it seems like both the rotor and the semen are still[r]inside me, giving me a sense of discomfort in my buttocks.[pcms]
+[l][er]
 
 *1112|
 [fc]
-ˆá˜aŠ´‚ğŠ´‚¶‚é‚Ì‚ÍA‚»‚Ì‚¹‚¢‚¾‚¯‚Å‚Í‚È‚¢B[pcms]
+It's not just because of that that I feel a sense of[r]discomfort.[pcms]
 
 *1113|
 [fc]
-Šİ“c‚É‰º’…‚ğ‚Á‚Äs‚©‚ê‚Ä‚µ‚Ü‚Á‚½‚Ü‚Ü‚ÅAƒXƒJ[ƒg[r]
-‚Ì‰º‚É‰½‚à—š‚¢‚Ä‚¢‚È‚¢‚¹‚¢‚à‚ ‚éB[pcms]
+I'm still in the state of having my underwear taken by[r]Kishida, and it's also because I'm not wearing anything[r]under my skirt.[pcms]
 
 *v481|
 [fc]
 [vo_ri s="risa0108"]
-[ns]V“¹[nse]
-u’…‘Ö‚¦‚½‚¢ccv[pcms]
+[ns]Shindou[nse]
+I want to change my clothes...[pcms]
 
 *1114|
 [fc]
-‰º’…‚¾‚¯‚Å‚Í‚È‚­A’…‚Ä‚¢‚é•¨‘S‚Ä‚ğ‘Ö‚¦‚½‚©‚Á‚½B[pcms]
+I wanted to change not only my underwear, but also[r]everything I was wearing.[pcms]
 
 *1115|
 [fc]
-ƒ}ƒCƒNƒƒ~ƒj‚âA‘å‚«‚­‚È‚Á‚Ä‚µ‚Ü‚Á‚½‹¹‚ğ–Ú—§‚½‚¹‚é[r]
-ƒuƒ‰ƒEƒX‚ÍA„‚Ìï–¡‚É‡‚í‚È‚¢‚©‚çB[pcms]
+I don't like micro-minis or blouses that make my enlarged[r]breasts stand out because they don't match my taste.[pcms]
 
 *1116|
 [fc]
-Šİ“c‚Ìï–¡‚Å’…‚¹‚ç‚ê‚Ä‚¢‚éA‚±‚¤‚¢‚¤•‘•‚Ì‚¹‚¢‚ÅA[r]
-¶“k‚â‘¼‚ÌEˆõ‚É—Ç‚­‚È‚¢‰\‚ğ—§‚Ä‚ç‚ê‚Ä‚¢‚é‚±‚Æ‚ğA[r]
-„‚Í’m‚Á‚Ä‚¢‚½B[pcms]
+I knew that because of the clothing I was being made to wear[r]by Kishida's preference, rumors were circulating among the[r]students and other staff members that were not favorable to[r]me.[pcms]
 
 *1117|
 [fc]
-‚Å‚à„‚ÍAŠİ“c‚É›j‚ç‚ê‚é–‚àŠÜ‚ß‚ÄA¡‚Ì‚±‚Ìó‹µ‚ğ[r]
-ó‚¯“ü‚êA‚µ‚©‚à­‚È‚©‚ç‚¸‰x‚Ñ‚ğŠ´‚¶‚Ä‚µ‚Ü‚Á‚Ä‚¢‚éB[pcms]
+But I, including being toyed with by Kishida, have accepted[r]the current situation and, moreover, I can't help but feel a[r]certain amount of pleasure.[pcms]
 
 *1118|
 [fc]
-’jq¶“k‚â’j«‹³—@‚ÌAär‚ß‰ñ‚·—l‚È‹üB[r]
-—q¶“k‚â—«‹³—@‚ÌA•Ì‚Ş‚æ‚¤‚È‹üB[pcms]
+The male students and male teachers' gaze that lingers with[r]a sense of superiority.[l][er]
+The female students and female teachers' gaze that looks[r]down upon me.[pcms]
 
 *1119|
 [fc]
-‚»‚µ‚ÄAŠİ“c‚É‚æ‚éæøçWccB[r]
-‚È‚ºA„‚Í‚±‚ñ‚ÈlŠÔ‚É‚È‚Á‚Ä‚µ‚Ü‚Á‚½‚ÌccH[pcms]
+And the violation by Kishida...[l][er]
+Why did I become this kind of person...?[pcms]
 
 *v482|
 [fc]
 [vo_ri s="risa0109"]
-[ns]V“¹[nse]
-u‘S•”AŠİ“c‚Ì‚¹‚¢‚æccv[pcms]
+[ns]Shindou[nse]
+It's all Kishida's fault...[pcms]
 
 *1120|
 [fc]
-“¦‚°‚¾‚»‚¤‚Æv‚¦‚Î“¦‚°o‚¹‚éŒ»ó‚©‚çA‚»‚ê‚Å‚à“¦‚°[r]
-o‚³‚¸A‚Ş‚µ‚ëÓ‚ß‹ê‚ğ–]‚ñ‚Å‚¢‚éB[pcms]
+Despite being in a situation where I could escape if I[r]wanted to, I don't run away.[l][er]
+Instead, I actually desire to be punished.[pcms]
 
 *1121|
 [fc]
-‚»‚ñ‚ÈA„‚Ì’†‚É–°‚Á‚Ä‚¢‚½”í‹sšnD‚ğ–ÚŠo‚ß‚³‚¹‚½‚Ì[r]
-‚ÍAŠÔˆá‚¢‚È‚­Šİ“c‚Ìè‚É‚æ‚é‚à‚ÌccB[pcms]
+That's right, without a doubt, it was Kishida's hands that[r]awakened the masochistic desires hidden within me...[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
 [se1 storage="se059"]
 
 *v483|
 [fc]
 [vo_ri s="risa0110"]
-[ns]V“¹[nse]
-u‚ cc‚Ü‚½ccv[pcms]
+[ns]Shindou[nse]
+Ah... again...[pcms]
 
 *1122|
 [fc]
-‚ ‚Ì“ú‚Ì–‚ğv‚¢o‚µ‚ÄA”M‚­‚È‚èA”G‚ê‚Ä‚«‚½‘Ì‚ğA[r]
-„‚Í‹­‚­•ø‚¦‚éB[pcms]
+I hold onto my body, which has become hot and wet, as I[r]remember that day.[pcms]
 
 *v484|
 [fc]
 [vo_ri s="risa0111"]
-[ns]V“¹[nse]
-u‚ÍA‚ ‚Ÿccv[pcms]
+[ns]Shindou[nse]
+Ah...[pcms]
 
 *1123|
 [fc]
-¡‚Å‚à‚Í‚Á‚«‚è‚ÆŠo‚¦‚Ä‚¢‚éB[pcms]
+I still remember it vividly.[pcms]
 
 *1124|
 [fc]
-‘S‚Ä‚ªn‚Ü‚Á‚½cc‚ ‚Ì’n–‚Ì—l‚ÈccB[pcms]
+It all began... that hellish...[l][er]
+situation.[pcms]
 
 *1125|
 [fc]
-cc‚»‚µ‚ÄŠÃ”ü‚Èˆê“ú‚ğB[pcms]
+... And a sweet day.[pcms]
 
-;//[0110]‚Ö
+;//[0110]ã¸
 [jump target=*0110_H_TOP storage="0110_H.ks"]
 
 

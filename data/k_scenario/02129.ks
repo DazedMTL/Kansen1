@@ -1,12 +1,12 @@
 
-;//¡ËƒuƒƒbƒN02129wƒGƒ‹ƒOƒ‰ƒ“ƒhx
-;//BG:Šw‰€“ü‚èŒûF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöEƒŠƒT
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02129ã€ã‚¨ãƒ«ã‚°ãƒ©ãƒ³ãƒ‰ã€
+;//BG:å­¦åœ’å…¥ã‚Šå£ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µ
 
 *02129_TOP
-;[debug_win]‚È‚¤@02129[debug_win_end]
+;[debug_win]ãªã†ã€€02129[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02129 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02129 = 1"]
 
 [eval exp="f.prologue_route = 0"]
 [eval exp="f.yuu_route1 = 0"]
@@ -19,9 +19,9 @@
 [eval exp="f.hitomi_route4 = 0"]
 [eval exp="f.infection_route = 0"]
 
-;*SceneSet|wƒŠƒT‚ÌÔx
+;*SceneSet|ã€ãƒªã‚µã®è»Šã€
 
-;//ôFBGM003
+;//â™ªï¼šBGM003
 
 [bgm003]
 
@@ -32,24 +32,20 @@
 
 *2432|
 [fc]
-K‚¢AˆÚ“®’†‚É‚¨‚©‚µ‚È“z‚ç‚ÍŒ»‚ê‚¸AEˆõŒºŠÖ‘O‚Ü‚Å[r]
-‚Í“ï‚È‚­’H‚è’…‚¢‚½B[pcms]
+Fortunately, no strange people appeared during the move, and[r]we arrived at the staff entrance without any difficulty.[pcms]
 
 *2433|
 [fc]
-^–ç‚ª•Â‚ß‚½ƒVƒƒƒbƒ^[‚ÌƒƒbƒN‚ğ‰ğœ‚µ‚æ‚¤‚Æ‚µ‚ÄA[r]
-‰´‚Í‰®ã‚Ös‚Á‚½‚Ég‚Á‚½”ñíŠK’i‚Ì”à‚ÌŒ®‚ğAƒYƒ{[r]
-ƒ“‚Ìƒ|ƒPƒbƒg‚É“ü‚ê‚½‚Ü‚Ü‚¾‚Á‚½‚Ì‚ğv‚¢o‚µ‚½B[pcms]
+I remembered that I had left the key to the emergency[r]staircase door in my pants pocket when I went to the[r]rooftop, trying to unlock the shutter that Shinya had[r]closed.[pcms]
 
 *2434|
 [fc]
-[ns]‰Á“¡[nse]
-u‚·‚ñ‚Ü‚¹‚ñæ¶A‚±‚ê•Ô‚µ‚Ä‚Ü‚¹‚ñ‚Å‚µ‚½v[pcms]
+[ns]Kato[nse]
+I'm sorry, Sensei. I didn't return this.[pcms]
 
 *2435|
 [fc]
-V“¹æ¶‚É”ñíŠK’i‚Ì”à‚ÌŒ®‚ğè“n‚µA‰´‚ÍƒƒbƒN‚ğ[r]
-‰ğœ‚µ‚ÄAƒVƒƒƒbƒ^[‚ğˆø‚«ã‚°‚½B[pcms]
+I handed the key to the emergency staircase door to Sensei[r]Shindou, and I unlocked the lock and raised the shutter.[pcms]
 
 ;//BG:bg002a
 
@@ -60,28 +56,27 @@
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v961|
 [fc]
 [vo_ri s="risa0304"]
-[ns]V“¹[nse]
-u‹M’j‚Í‚±‚±‚Å‘Ò‚Á‚Ä‚¢‚ÄB„‚É‰½‚©‚ ‚Á‚½‚çA‚·‚®Z[r]
-É“à‚É–ß‚è‚È‚³‚¢v[pcms]
+[ns]Shindou[nse]
+Wait here. If anything happens to me, immediately return to[r]the school building.[pcms]
 
 *2436|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦A‚Å‚àA‚»‚ê‚¶‚áæ¶‚ªccv[pcms]
+[ns]Kato[nse]
+Eh, but if that's the case, Sensei...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v962|
 [fc]
 [vo_ri s="risa0305"]
-[ns]V“¹[nse]
-u„‚Ì‚±‚Æ‚Í‹C‚É‚µ‚È‚­‚Ä‚¢‚¢‚©‚çA‚·‚®‚ÉƒVƒƒƒbƒ^[[r]
-‚ğ•Â‚ß‚ÄƒƒbƒN‚·‚é‚Ì‚æB‚¢‚¢‚í‚ËHv[pcms]
+[ns]Shindou[nse]
+You don't have to worry about me, just close and lock the[r]shutter right away.[l][er]
+Got it?[pcms]
 
 [se0 storage="se005"]
 
@@ -89,84 +84,77 @@
 
 *2437|
 [fc]
-‚»‚ê‚¾‚¯Œ¾‚¤‚ÆAV“¹æ¶‚ÍEˆõê—p‚Ì’“Ôê‚Ö‘–‚Á‚Ä[r]
-‚¢‚Á‚½B[pcms]
+With just those words, Sensei Shindou ran towards the staff-[r]only parking lot.[pcms]
 
 *2438|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤‚Ü‚­‚±‚±‚©‚ço‚ç‚ê‚é‚Æ‚¢‚¢‚¯‚Ç‚Èccv[pcms]
+[ns]Kato[nse]
+I hope we can get out of here smoothly...[pcms]
 
 *2439|
 [fc]
-‚µ‚Î‚ç‚­‚·‚é‚ÆƒGƒ“ƒWƒ“‚ğ‚©‚¯‚é‰¹‚ª‚µ‚ÄA‘±‚¢‚Ä”r‹C[r]
-‰¹‚ª•·‚±‚¦‚Ä‚«‚½B[pcms]
+After a while, I heard the sound of the engine starting,[r]followed by the sound of exhaust.[pcms]
 
 *2440|
 [fc]
-‚»‚Ì‰¹‚ÉŠó–]‚ªŒ©‚¦‚ÄAˆÀS‚µ‚½Ÿ‚ÌuŠÔA‹}ƒuƒŒ[ƒL[r]
-‚Ì‰¹‚Æ‹¤‚ÉAŒÅ‚¢•¨“¯m‚ªC‚ê‚é‚æ‚¤‚È‰¹‚ª•·‚±‚¦‚½B[pcms]
+In that moment of hope and relief when I heard that sound,[r]the next instant, along with the sound of sudden braking, I[r]heard a noise like the scraping of two hard objects.[pcms]
 
-;//SE:‹}ƒuƒŒ[ƒL
+;//SE:æ€¥ãƒ–ãƒ¬ãƒ¼ã‚­
 
 [se0 storage="se029"]
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 
 [bgm009]
 
 *2441|
 [fc]
-[ns]‰Á“¡[nse]
-uæ¶ccIIv[pcms]
+[ns]Kato[nse]
+Sensei...!![pcms]
 
 *2442|
 [fc]
-©•ª‚É‰½‚©‚ ‚Á‚½‚çZÉ‚Ì’†‚É–ß‚êA‚ÆV“¹æ¶‚ÉŒ¾‚í[r]
-‚ê‚Ä‚Í‚¢‚½‚ªA‰´‚É‚Íæ¶‚ğ•ú‚Á‚Ä‚¨‚­‚±‚Æ‚È‚Ç‚Å‚«‚È[r]
-‚©‚Á‚½B[pcms]
+Although Sensei Shindou told me to go back to the school[r]building if anything happened to him, I couldn't just leave[r]him behind.[pcms]
 
 *2443|
 [fc]
-’“Ôê‚ÉŒü‚©‚Á‚Ä‘–‚è‚¾‚»‚¤‚Æ‚µ‚½‚»‚ÌAŒš•¨‚Ì‰A‚©[r]
-‚çAV“¹æ¶‚ª‚æ‚ë‚ß‚«‚È‚ª‚çp‚ğŒ»‚µ‚½B[pcms]
+At the moment when Sensei Shindou was about to start running[r]towards the parking lot, he appeared from the shadow of the[r]building, stumbling.[pcms]
 
 *2444|
 [fc]
-[ns]‰Á“¡[nse]
-uæ¶I@‘åä•v‚Å‚·‚©IHv[pcms]
+[ns]Kato[nse]
+Sensei! Are you okay!?[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [ChrSetParts layer=1 chface="risa_c_a_12"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v963|
 [fc]
 [vo_ri s="risa0306"]
-[ns]V“¹[nse]
-uccÔ‚ªcc‰¡“]‚µ‚Äccv[pcms]
+[ns]Shindou[nse]
+... The car... flipped over...[pcms]
 
 *2445|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨A‰¡“]IHv[pcms]
+[ns]Kato[nse]
+Oh, it flipped over!?[pcms]
 
 *2446|
 [fc]
-‚³‚Á‚«•·‚±‚¦‚½AŒÅ‚¢•¨“¯m‚ªC‚ê‚é‚æ‚¤‚È‰¹‚ÍA‰¡“][r]
-‚µ‚½Ô‚ª’n–Ê‚ğŠŠ‚é‰¹‚¾‚Á‚½‚Ì‚©ccH[pcms]
+Did the sound I heard earlier, like the scraping of two hard[r]objects, actually come from the car flipping over and[r]sliding on the ground...?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v964|
 [fc]
 [vo_ri s="risa0307"]
-[ns]V“¹[nse]
-u¶“k‚ªA“Ë‘Rcc”ò‚Ño‚µ‚Ä‚«‚Äcc‰Ô’d‚ÉAæ‚èã[r]
-‚°‚Äccv[pcms]
+[ns]Shindou[nse]
+Suddenly, a student... jumped out...[l][er]
+and rode onto the flower bed...[pcms]
 
-;//[02130]‚Ö
+;//[02130]ã¸
 [jump target=*02130_TOP storage="02130.ks"]

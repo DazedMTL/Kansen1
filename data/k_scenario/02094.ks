@@ -1,20 +1,20 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02094w‚â‚Í‚èŠO‚Éo‚é‚Ì‚Í‚¨‚Á‚­‚¤‚¾x
-;//BG:‹’®ŠoºF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöE—DE’|“à
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02094ã€ã‚„ã¯ã‚Šå¤–ã«å‡ºã‚‹ã®ã¯ãŠã£ãã†ã ã€
+;//BG:è¦–è´è¦šå®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02094_TOP
-;[debug_win]‚È‚¤@02094[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02094 = 1"]
+;[debug_win]ãªã†ã€€02094[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02094 = 1"]
 
-;*SceneSet|w‚â‚Í‚èŠO‚Éo‚é‚Ì‚Í‚¨‚Á‚­‚¤‚¾x
+;*SceneSet|ã€ã‚„ã¯ã‚Šå¤–ã«å‡ºã‚‹ã®ã¯ãŠã£ãã†ã ã€
 
 ;//[02094]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//BG:bg015a
 ;//[bg storage="bg15a"]
@@ -22,95 +22,90 @@
 
 *1917|
 [fc]
-U•à‚ª‚Ä‚çAR‚ÌãY—í‚È‹ó‹C‚ğ–‹i‚µ‚Ä‚İ‚é‚Á‚Ä‚Ì‚àA[r]
-‚½‚Ü‚É‚Í‚¢‚¢‚©‚ÈB‚È‚ñ‚ÆŒ¾‚Á‚Ä‚àA—×‚ÉRŠİ‚³‚ñ‚ª‚¢[r]
-‚é‚í‚¯‚¾‚µccB[pcms]
+Taking a walk and enjoying the beautiful mountain air once[r]in a while sounds nice.[l][er]
+After all, Yamagishi-san is right next to me...[pcms]
 
 *1918|
 [fc]
-‚»‚¤l‚¦‚½‰´‚ÍARŠİ‚³‚ñ‚Ì’ñˆÄ‚Éæ‚é‚±‚Æ‚É‚µ‚½B[pcms]
+I decided to go along with Yamagishi-san's suggestion,[r]thinking that way.[pcms]
 
 *1919|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¶‚á‚ AU•às‚±ccv[pcms]
+[ns]Kato[nse]
+Well then, let's go for a walk...[pcms]
 
 *1920|
 [fc]
-Œ¾‚¢‚È‚ª‚ç‘‹‚ÌŠO‚É–Ú‚ğ‚â‚Á‚½‰´‚ÍA–Ú‚ª’É‚­‚È‚é‚®‚ç[r]
-‚¢‚É”’‚­Aá¿‚µ‚¢—z‚ÌŒõ‚ÉA“r’†‚ÅŒ¾—t‚ğ~‚ß‚½B[pcms]
+While saying that, I looked out the window and was struck by[r]the blindingly bright white sunlight.[l][er]
+It was so intense that it made my eyes hurt, causing me to[r]stop mid-sentence.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v800|
 [fc]
 [vo_ya s="yama0234"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒNA‰×•¨‚Á‚Äs‚­H@‚»‚ê‚Æ‚à’u‚¢‚Ä‚¢‚­Hv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun, should I carry your luggage or leave it behind?[pcms]
 
 *1921|
 [fc]
-ƒjƒRƒjƒRŠç‚Å•·‚¢‚Ä‚­‚éRŠİ‚³‚ñ‚ÉA‰´‚Íƒoƒc‚Ìˆ«‚³‚ğ[r]
-Š´‚¶‚È‚ª‚çA”Ş—‚Ì’ñˆÄ‚ğƒLƒƒƒ“ƒZƒ‹‚µ‚½B[pcms]
+I canceled her suggestion while feeling guilty about it, as[r]Yamagishi-san asked me with a smile on her face.[pcms]
 
 *1922|
 [fc]
-[ns]‰Á“¡[nse]
-uccƒSƒƒ“A‚â‚Á‚Ï‚èU•à‚Í‚â‚ß‚Æ‚­ccv[pcms]
+[ns]Kato[nse]
+... Sorry, I think I'll pass on the walk after all...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v801|
 [fc]
 [vo_ya s="yama0235"]
-[ns]RŠİ[nse]
-u‚¦`‚ÁI@‚Ç‚¤‚µ‚ÄHv[pcms]
+[ns]Yamagishi[nse]
+Ehh~! Why?[pcms]
 
 *1923|
 [fc]
-‚Ó‚­‚ê‚Á–Ê‚ğì‚Á‚Ä‚İ‚¹‚éRŠİ‚³‚ñ‚ÉA—z‚ÌŒõ‚ğó‚¯‚Ä[r]
-ƒMƒ‰ƒMƒ‰‚Æ‹P‚­•\‚ÌŒõŒi‚ğw‚³‚µ‚½B[pcms]
+I pointed to the scene outside, where Yamagishi-san was[r]pouting and the front was shining brightly under the[r]sunlight.[pcms]
 
 *1924|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¾‚Á‚Äƒzƒ‰A‚·‚²‚¢‹‚»‚¤‚È‚ñ‚¾‚à‚ñAŠOccv[pcms]
+[ns]Kato[nse]
+But you see, it looks really hot outside...[pcms]
 
 *1925|
 [fc]
-‚·‚Ü‚È‚»‚¤‚ÉŒ¾‚¤‰´‚ğARŠİ‚³‚ñ‚Í‚Ù‚Á‚Ø‚½‚ğ–c‚ç‚Ü‚¹[r]
-‚ÄáÉ‚İ‚Â‚¯‚½B[pcms]
+Yamagishi-san glared at me with puffed-up cheeks as I[r]apologized.[pcms]
 
 *1926|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ [cc‚»‚ê‚É‚³A—z‚É“–‚½‚Á‚Ä‚é‚ÆÄ‚¯‚¿‚á‚¤‚æH[r]
-‡ŠOü‚Í”§‚Éˆ«‚¢‚Á‚Ä‚¢‚¤‚µA‚±‚±‚ÅŠÔ‚Ü‚Å‘Ò‚Á‚Ä‚½[r]
-•û‚ª‚¢‚¢‚æA‚ËHv[pcms]
+[ns]Kato[nse]
+Ah... And besides, if we stay in the sun, we'll get[r]sunburned, right?[l][er]
+They say UV rays are bad for the skin, so it's better to[r]wait here until the appointed time, don't you think?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v802|
 [fc]
 [vo_ya s="yama0236"]
-[ns]RŠİ[nse]
-ucc•sŒ’N‚È‚ñ‚¾‚©‚çA“ñl‚Æ‚àv[pcms]
+[ns]Yamagishi[nse]
+... It's not healthy, so both of you...[pcms]
 
-;//[02095]‚Ö
+;//[02095]ã¸
 [jump target=*02095_TOP storage="02095.ks"]
 
 

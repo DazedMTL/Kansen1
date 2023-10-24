@@ -1,26 +1,26 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02104wn‚Ü‚èx
-;//BG:‹’®ŠoºF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöE—DE’|“àEŠİ“cEƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02104ã€å§‹ã¾ã‚Šã€
+;//BG:è¦–è´è¦šå®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…ãƒ»å²¸ç”°ãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02104_TOP
-;[debug_win]‚È‚¤@02104[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02104 = 1"]
+;[debug_win]ãªã†ã€€02104[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02104 = 1"]
 
-;*SceneSet|wn‚Ü‚èx
+;*SceneSet|ã€å§‹ã¾ã‚Šã€
 
 ;//[02104]
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 ;//[bgm009]
 ;//BG:bg015a
 [bg storage="bg15a"]
 [trans_c cross time=500]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 [se0 storage="se005"]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
@@ -28,133 +28,128 @@
 [ChrSetParts layer=1 chface="risa_c_a_12"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v843|
 [fc]
 [vo_ri s="risa0243"]
-[ns]V“¹[nse]
-uŠİ“c‚³ccŠİ“cæ¶A‚Ç‚¤‚È‚³‚Á‚½‚ñ‚Å‚·‚©IHv[pcms]
+[ns]Shindou[nse]
+Kishida-sa... Kishida-sensei, what's wrong!?[pcms]
 
 *2079|
 [fc]
-V“¹æ¶‚ÍŠİ“c‚ğŒ©‚é‚È‚èŠç‚ğÂ‚­‚µ‚ÄA‹ì‚¯Šñ‚Á‚½B[pcms]
+As soon as Sensei Shindou saw Kishida, her face turned pale[r]and she rushed over.[pcms]
 
 *2080|
 [fc]
-–°‚Á‚Ä‚¢‚é‚Ì‚©A‚»‚ê‚Æ‚à‹Câ‚µ‚Ä‚¢‚é‚Ì‚©AŠİ“c‚Í‰½[r]
-‚àŒ¾‚í‚¸Ar‚¢ŒÄ‹z‚ğŒJ‚è•Ô‚µ‚Ä‚¢‚é‚¾‚¯‚¾B[pcms]
+Kishida is just repeating rough breaths without saying[r]anything, whether she's asleep or unconscious.[pcms]
 
 *2081|
 [fc]
-Šİ“c‚Ì–T‚ç‚É•G‚ğ‚Â‚¢‚ÄAV“¹æ¶‚Í‚»‚Ì‘Ì‚ğG‚èn‚ß‚½B[pcms]
+Shindou-sensei knelt beside Kishida and began touching her[r]body.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v844|
 [fc]
 [vo_ri s="risa0244"]
-[ns]V“¹[nse]
-u“‚¢‰ö‰äccBŠš‚Ü‚ê‚½­‚Ü‚Å‚ ‚é‚æ‚¤‚¾‚¯‚ÇAˆê‘Ì[r]
-‰½‚ª‚ ‚Á‚½‚ÌHv[pcms]
+[ns]Shindou[nse]
+Such a terrible injury... There are even bite marks.[l][er]
+What on earth happened?[pcms]
 
 *2082|
 [fc]
-[ns]‰Á“¡[nse]
-u‰´’B‚àÚ‚µ‚­‚ÍccB‚½‚¾AƒEƒ`‚Ì¶“k‚ÉˆÍ‚Ü‚ê‚Ä‚â[r]
-‚ç‚ê‚½A‚Æ‚µ‚©v[pcms]
+[ns]Kato[nse]
+We don't know the details either...[l][er]
+But it seems like she was attacked by our students.[pcms]
 
 *2083|
 [fc]
-è‚ª‹¹‚Ì•Ó‚è‚É—ˆ‚½‚ÌAŠİ“c‚Ì‚­‚®‚à‚Á‚½™ï‚«º‚ÉA[r]
-V“¹æ¶‚Í[‚ÈŠç‚ğ‚µ‚½B[pcms]
+When Kishida let out a muffled moan as Shindou-sensei's hand[r]reached her chest area, Shindou-sensei's expression turned[r]serious.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v845|
 [fc]
 [vo_ri s="risa0245"]
-[ns]V“¹[nse]
-u‚±‚ê‚Ícc˜]œ‚ªÜ‚ê‚Ä‚¢‚é‚©‚à‚µ‚ê‚È‚¢‚í‚Ëv[pcms]
+[ns]Shindou[nse]
+This... might be a broken rib.[pcms]
 
 *2084|
 [fc]
-[ns]‰Á“¡[nse]
-uƒ„ƒoƒC‚ñ‚Å‚·‚©Hv[pcms]
+[ns]Kato[nse]
+Is it serious?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v846|
 [fc]
 [vo_ri s="risa0246"]
-[ns]V“¹[nse]
-u‚±‚Ì‚Ü‚Ü‰½‚à‚¹‚¸‚É•ú‚Á‚Ä‚¨‚¢‚½‚çAŒÄ‹z¢“ï‚É‚È‚Á[r]
-‚ÄAÅŒã‚É‚Í€‚ñ‚Å‚µ‚Ü‚¤‚ív[pcms]
+[ns]Shindou[nse]
+If we leave her alone like this without doing anything, she[r]will have difficulty breathing and eventually die.[pcms]
 
 *2085|
 [fc]
-w€‚ñ‚Å‚µ‚Ü‚¤xA‚Æ‚¢‚¤V“¹æ¶‚ÌŒ¾—t‚ÉA–T‚É‚¢‚½[r]
-RŠİ‚³‚ñ‚ª‘å‚«‚­‘§‚ğ‹z‚¢‚ñ‚¾B[pcms]
+When Shindou-sensei said, She will die, Yamagishi-san, who[r]was nearby, took a deep breath.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v847|
 [fc]
 [vo_ri s="risa0247"]
-[ns]V“¹[nse]
-u‹}‚¢‚Å‰‹}ˆ’u‚ğ‚µ‚È‚¢‚ÆccB‰Á“¡ŒNA•ÛŒ’º‚©‚ç[r]
-ƒIƒLƒVƒh[ƒ‹‚ÆƒK[ƒ[A‚»‚ê‚©‚çOŠp‹Ğ‚ğ‚Á‚Ä‚«‚Ä‚¿[r]
-‚å‚¤‚¾‚¢v[pcms]
+[ns]Shindou[nse]
+We need to administer first aid quickly...[l][er]
+Kato-kun, please bring hydrogen peroxide, gauze, and a[r]triangular bandage from the infirmary.[pcms]
 
 *2086|
 [fc]
-[ns]‰Á“¡[nse]
-uŒ®‚ÍH@ŠJ‚¢‚Ä‚é‚ñ‚Å‚·‚©H@•ÛŒ’ºv[pcms]
+[ns]Kato[nse]
+What about the key? Is it open?[l][er]
+The infirmary.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v848|
 [fc]
 [vo_ri s="risa0248"]
-[ns]V“¹[nse]
-u‚¦‚¦B‚ ‚ÆAŒºŠÖ‘O‚ÌŒöO“d˜b‚ÅA‹~‹}Ô‚ğŒÄ‚ñ‚Å‚«[r]
-‚Äv[pcms]
+[ns]Shindou[nse]
+Yes. Also, please call an ambulance from the public[r]telephone in front of the entrance.[pcms]
 
 *2087|
 [fc]
-[ns]‰Á“¡[nse]
-u‚í‚©‚è‚Ü‚µ‚½B‚¨‚¢A^–ç‚àˆê‚É—ˆ‚Ä‚­‚êv[pcms]
+[ns]Kato[nse]
+Understood. Hey, Shinya, come with me too.[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std231|
 [fc]
-[ns]’|“à[nse]
-uƒIƒbƒP[v[pcms]
+[ns]Takeuchi[nse]
+Okay.[pcms]
 
 *2088|
 [fc]
-‰´‚Í^–ç‚ğ”º‚Á‚ÄA•ÛŒ’º‚Ö‚Æ‘–‚Á‚½B[pcms]
+I ran to the infirmary with Shinya.[pcms]
 
 ;//blackout
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//[02105]‚Ö
+;//[02105]ã¸
 [jump target=*02105_TOP storage="02105.ks"]
 

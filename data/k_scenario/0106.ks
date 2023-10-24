@@ -1,162 +1,154 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN0106w‘Ìˆç—p‹ïºx
-;//BG:‘Ìˆç—p‹ïºF–é^Á“”^Œ–¾‚©‚è
-;//“oêl•¨G“c’†E•ü”ü
-;//‹“_F[ns]“c’†[nse]
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0106ã€ä½“è‚²ç”¨å…·å®¤ã€
+;//BG:ä½“è‚²ç”¨å…·å®¤ï¼šå¤œï¼æ¶ˆç¯ï¼æœˆæ˜ã‹ã‚Š
+;//ç™»å ´äººç‰©ï¼›ç”°ä¸­ãƒ»æœ‹ç¾
+[ns]Tanaka[nse]
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *0106_TOP
-;[debug_win]‚È‚¤@0106[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0106 = 1"]
+;[debug_win]ãªã†ã€€0106[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0106 = 1"]
 
-;*SceneSet|w‘Ìˆç—p‹ïºx
+;*SceneSet|ã€ä½“è‚²ç”¨å…·å®¤ã€
 
 ;//[0106]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 
 ;//BG:bg016d
 
-;//SE:‘–‚é‰¹
+;//SE:èµ°ã‚‹éŸ³
 [se0 storage="se005"]
 
 *985|
 [fc]
-[ns]“c’†[nse]
-u‘‚­‚ÁA‘‚­‚ÁIv[pcms]
+[ns]Tanaka[nse]
+Hurry up, hurry up![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v397|
 [fc]
 [vo_to s="tomo0057"]
-[ns]ŒÜ\—’[nse]
-u‚¿‚å‚Á‚Æ‘Ò‚Á‚Ä‚Á‚Ä‚Î‚Ÿccv[pcms]
+[ns]Igarashi[nse]
+Wait a minute...[pcms]
 
 [bg storage="bg16d"]
 [trans_c cross time=500]
 
 *986|
 [fc]
-‘Ìˆç‘qŒÉ‚Ì”à‚ğ•Â‚ß‚ÄA‚¢‚´ƒuƒ‹ƒ}‚Ìƒgƒ‚ƒ~ƒ“‚Æ‚ÌƒGƒb[r]
-ƒ`‚ª–Ú‘O‚É”—‚é‚ÆAƒIƒŒ“Iƒ‰ƒ“ƒLƒ“ƒO‚ÍƒXƒN…‚Æƒuƒ‹ƒ}[r]
-‚ª‹t“]‚µ‚Ä‚¢‚½B[pcms]
+As I closed the door of the gym storage room, the moment of[r]having sex with Tomomin in her bloomers was approaching.[l][er]
+Surprisingly, my personal ranking of swimsuits and bloomers[r]had reversed.[pcms]
 
 *987|
 [fc]
-‘‚­ƒgƒ‚ƒ~ƒ“‚Ìƒuƒ‹ƒ}p‚ªŒ©‚½‚­‚ÄA‚Ç‚¤‚µ‚Ä‚à”Ş—‚ª[r]
-§•‚ğ’E‚®‚Ì‚ğ‹}‚©‚µ‚Ä‚µ‚Ü‚¤B[pcms]
+I couldn't help but rush her to take off her uniform because[r]I wanted to see Tomomin in her bloomers as soon as possible.[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_e_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_e_a1_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v398|
 [fc]
 [vo_to s="tomo0058"]
-[ns]ŒÜ\—’[nse]
-u‚Í‚¢A’E‚°‚½‚æv[pcms]
+[ns]Igarashi[nse]
+Okay, I took it off.[pcms]
 
 *988|
 [fc]
-[ns]“c’†[nse]
-uƒqƒ…[ƒbI@‚ [‚ÁA‚â‚Á‚ÏƒXƒN…‚æ‚è[r]
-ƒuƒ‹ƒ}‚Ì•û‚ªƒCƒC‚©‚à‚µ‚ñ‚È[‚¢IIv[pcms]
+[ns]Tanaka[nse]
+Huh! Ah, maybe bloomers are better than swimsuits after all![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v399|
 [fc]
 [vo_to s="tomo0059"]
-[ns]ŒÜ\—’[nse]
-u‚à‚£ccB‚»‚ñ‚È‚ÉƒWƒƒWƒŒ©‚È‚¢‚Å‚æA’p‚¸‚©‚µ‚¢[r]
-‚©‚çccv[pcms]
+[ns]Igarashi[nse]
+Geez... Don't stare at me like that, it's embarrassing...[pcms]
 
 *989|
 [fc]
-‚¢‚â[‚ÁII@‚â‚Á‚Ï‚èƒgƒ‚ƒ~ƒ“‚ÍƒCƒC‚ÁII[r]
-Šç‚ÍƒƒŠŒn‚È‚Ì‚ÉA‘Ì‚ÍƒAƒ_ƒ‹ƒgŒn‚Á‚Ä‚Ì‚ª[r]
-ƒ\ƒ\‚é‚ñ‚¾‚æ‚È[I[pcms]
+Ohh!! Tomomin is definitely amazing!![l][er]
+Even though her face is loli-like, her body has an adult-[r]like appeal that's so enticing![pcms]
 
 *990|
 [fc]
-‘Ìˆç‚ÌŠÔ‚ÍA’jq‚à—q‚à“¯‚¶êŠ‚Å‚â‚Á‚Ä‚é‚©‚çA[r]
-ƒgƒ‚ƒ~ƒ“‚Ìƒuƒ‹ƒ}p‚ğŒ©‚é‚±‚Æ‚ªƒPƒbƒR[‚ ‚Á‚½‚¯‚ÇA[r]
-‰“‚­‚©‚çŒ©‚é‚Ì‚Æˆá‚¤ccB[pcms]
+During physical education class, both boys and girls are in[r]the same place, so I had plenty of opportunities to see[r]Tomomin in her bloomers, but it's different from seeing her[r]from afar...[pcms]
 
 *991|
 [fc]
-ŠÔ‹ß‚¾‚ÆAƒgƒ‚ƒ~ƒ“‚Ì‚¨‚Á‚Ï‚¢‚Ì‘å‚«‚³‚ª‚æ‚­‚í‚©‚éB[r]
-‘Ì‚ª‚¿‚Á‚¿‚á‚¢‚©‚çA—]Œv‘å‚«‚­Œ©‚¦‚é‚ñ‚¾‚æ‚ÈB[pcms]
+When it's up close, you can really see the size of Tomomin's[r]breasts.[l][er]
+Because her body is small, they look even bigger.[pcms]
 
 *992|
 [fc]
-‚±‚ÌƒAƒ“ƒoƒ‰ƒ“ƒX‚ÈƒJƒ“ƒW‚ªccB[pcms]
+This unbalanced feeling...[pcms]
 
 *993|
 [fc]
-[ns]“c’†[nse]
-uƒgƒ‚ƒ~ƒ“AƒGƒ‚¢ccv[pcms]
+[ns]Tanaka[nse]
+Tomomin, you're sexy...[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_e_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v400|
 [fc]
 [vo_to s="tomo0060"]
-[ns]ŒÜ\—’[nse]
-u‚â‚¾‚Ÿcc‚Ü‚¾‚È‚ñ‚É‚à‚µ‚Ä‚È‚¢‚Ì‚Éccv[pcms]
+[ns]Igarashi[nse]
+Nooo... We haven't done anything yet...[pcms]
 
 *994|
 [fc]
-ƒgƒ‚ƒ~ƒ“‚ªƒIƒŒ‚ÌƒYƒ{ƒ“‚ªƒeƒ“ƒg‚ğ’£‚Á‚Ä‚é‚Ì‚ğŒ©‚ÄA[r]
-Šç‚ğÔ‚­‚·‚éB[pcms]
+Tomomin blushes when she sees my pants pitching a tent.[pcms]
 
 *995|
 [fc]
-’†g‚Í‰½“x‚àŒ©‚Ä‚ñ‚Ì‚ÉccB[r]
-‚±‚¤‚¢‚¤ƒJƒƒCƒC‚Æ‚±‚àD‚«‚È‚ñ‚¾‚æ‚È[ccB[pcms]
+Even though I've seen her inside many times...[l][er]
+I also love these cute aspects of her...[pcms]
 
 *996|
 [fc]
-ƒ_ƒ‚¾cc‚à‚¤ƒKƒ}ƒ“‚Å‚«‚Ë[cc‚ÁII[pcms]
+I can't take it anymore... I can't hold back...!![pcms]
 
 *997|
 [fc]
-[ns]“c’†[nse]
-uƒgƒ‚ƒ~ƒ“‚ÁIIv[pcms]
+[ns]Tanaka[nse]
+Tomomin!![pcms]
 
 [ChrSetEx layer=1 chbase="tomo_e_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_e_a1_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v401|
 [fc]
 [vo_to s="tomo0061"]
-[ns]ŒÜ\—’[nse]
-u‚«‚á‚Ÿ‚ñ‚ÁIv[pcms]
+[ns]Igarashi[nse]
+Kyaaan![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 [se0 storage="se021"]
 
 [quake_bg xy m]
 
-;//[0107]‚Ö
+;//[0107]ã¸
 [jump target=*0107_H_TOP storage="0107_H.ks"]
 
 

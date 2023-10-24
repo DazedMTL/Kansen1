@@ -1,20 +1,20 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02145w‡–‚x
-;//BG:‰®ãF—[•û
-;//“oêl•¨GålŒöE—D
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02145ã€ç¡é­”ã€
+;//BG:å±‹ä¸Šï¼šå¤•æ–¹
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02145_TOP
-;[debug_win]‚È‚¤@02145[debug_win_end]
+;[debug_win]ãªã†ã€€02145[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02145 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02145 = 1"]
 
-;*SceneSet|w‡–‚x
+;*SceneSet|ã€ç¡é­”ã€
 
-;//ôFBGM0–³‚µ
+;//â™ªï¼šBGM0ç„¡ã—
 
 [fadeoutbgm time=500]
 
@@ -23,31 +23,29 @@
 ;[bg storage="bg22e"]
 ;[trans_c cross time=500]
 
-;//SE:’‚Ì‰¹ƒ‹[ƒv
+;//SE:è™«ã®éŸ³ãƒ«ãƒ¼ãƒ—
 
 ;[se0 storage="se018" loop=true]
 
-;//SE:•—‚Ì‰¹
+;//SE:é¢¨ã®éŸ³
 
 [se1 storage="se019"]
 
 *2632|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ [A‹C‚¿‚¢‚¢ccv[pcms]
+[ns]Kato[nse]
+Ahh, it feels good...[pcms]
 
 *2633|
 [fc]
-—S“ñ’B‚ğ‘{‚µ‚ÄA–¾‚¯•û‚Ü‚Åƒoƒ^ƒoƒ^‚µ‚Ä‚¢‚Ä‚ ‚Ü‚èQ[r]
-‚Ä‚¢‚È‚©‚Á‚½‚µA‚à‚¤‚·‚®‹~•‚ª—ˆ‚é‚Æ‚¢‚¤î•ñ‚ÉA‹Ù[r]
-’£‚ª‰ğ‚¯‚½‚Æ‚¢‚¤‚±‚Æ‚à‚ ‚Á‚½B[pcms]
+We were searching for Yuuji and the others, and we were busy[r]until dawn, so I didn't get much sleep.[l][er]
+But there was also a sense of relief knowing that rescue[r]would be coming soon.[pcms]
 
 *2634|
 [fc]
-—z‚ª—‚¿‚é‚É‚Â‚ê‚Ä—Á‚µ‚­‚È‚é•—‚ÌS’n‚æ‚³‚ÉA‰´‚ÍƒE[r]
-ƒgƒEƒg‚µn‚ß‚Ä‚¢‚½B[pcms]
+As the sun set and the cool breeze began to feel pleasant, I[r]started to doze off.[pcms]
 
-;//SE:’‚Ì‰¹@’â~
+;//SE:è™«ã®éŸ³ã€€åœæ­¢
 
 
 ;;;[sysbt_meswin clear]
@@ -66,5 +64,5 @@
 
 ;//blackout
 
-;//[02146]‚Ö
+;//[02146]ã¸
 [jump target=*02146_TOP storage="02146.ks"]

@@ -1,29 +1,29 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN04011w—D‚É”—‚éŠë‹@x
-;//BG:–³‚µ
-;//“oêl•¨G—DEƒ]ƒ“ƒr”–¼
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04011ã€å„ªã«è¿«ã‚‹å±æ©Ÿã€
+;//BG:ç„¡ã—
+;//ç™»å ´äººç‰©ï¼›å„ªãƒ»ã‚¾ãƒ³ãƒ“æ•°å
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *04011_TOP
-;[debug_win]‚È‚¤@04011_H[debug_win_end]
+;[debug_win]ãªã†ã€€04011_H[debug_win_end]
 
 *04011_H_TOP
-;[debug_win]‚È‚¤@04011_H[debug_win_end]
+;[debug_win]ãªã†ã€€04011_H[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04011 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04011 = 1"]
 
-;*SceneSet|w—D‚É”—‚éŠë‹@x
+;*SceneSet|ã€å„ªã«è¿«ã‚‹å±æ©Ÿã€
 
-;//flag:—Dƒ‹[ƒgƒtƒ[@zap‚S@•\¦
+;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€zapï¼”ã€€è¡¨ç¤º
 
-;//ôFBGM002
+;//â™ªï¼šBGM002
 
 [bgm002]
 
-;//BG:bg–³‚µ
+;//BG:bgç„¡ã—
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
@@ -32,40 +32,35 @@
 
 *3855|
 [fc]
-‰Á“¡ŒN‚É‚»‚¤Œ¾‚í‚ê‚é‚Ü‚ÅA„‚Ì‘«‚Í“®‚©‚È‚©‚Á‚½B[pcms]
+Until Kato-kun said that, my legs didn't move.[pcms]
+[l][er]
 
 *3856|
 [fc]
-‚¿‚Á‚¿‚á‚¢ ‚©‚çA–{“–‚Ì‚¨o‚¿‚á‚ñ‚İ‚½‚¢‚Év‚Á‚Ä‚¢[r]
-‚½ƒgƒ‚‚¿‚á‚ñ‚ªA‚¤‚¿‚ÌŠwZ‚Ì’jq‚É‚Ş‚è‚â‚è”Æ‚³‚ê‚Ä[r]
-‚¢‚é‚Ì‚ğŒ©‚ÄA‘«‚ª‚·‚­‚ñ‚Å‚µ‚Ü‚Á‚Ä‚¢‚½‚©‚çB[pcms]
+Since I was little, I always thought of Tomo-chan as a real[r]older sister.[l][er]
+So when I saw her being forcefully violated by the boys at[r]our school, my legs froze up.[pcms]
 
 *3857|
 [fc]
-“c’†‚³‚ñ‚ÆƒGƒbƒ`‚µ‚Ä‚¢‚é‚±‚Æ‚ÍA‚½‚Ü‚Éƒgƒ‚‚¿‚á‚ñ[r]
-‚©‚ç•·‚¢‚Ä‚½B[pcms]
+I occasionally heard from Tomo-chan that she was having sex[r]with Tanaka-san.[pcms]
 
 *3858|
 [fc]
-ƒgƒ‚‚¿‚á‚ñ‚Ì˜b‚©‚ç‘z‘œ‚µ‚½Aˆ¤‚·‚él‚Æ‚ÌƒGƒbƒ`‚ÍA[r]
-‚à‚Á‚ÆãY—í‚È‚à‚Ì‚¾‚Á‚½‚Í‚¸ccB[pcms]
+I imagined from Tomo-chan's stories that sex with someone[r]you love should have been something more beautiful...[pcms]
 
 *3859|
 [fc]
-‚Å‚àA‚³‚Á‚«Œ©‚½A’m‚ç‚È‚¢’jq‚Æƒgƒ‚‚¿‚á‚ñ‚ÌƒGƒbƒ`[r]
-‚ÍA—‚Ìq‚É‚Æ‚Á‚Ä‚ÍA‚½‚¾‚Ì‰–â‚Æ‚µ‚©Œ¾‚¦‚È‚¢‚æ‚¤[r]
-‚È‚à‚Ì‚¾‚Á‚½B[pcms]
+But, what I saw earlier, Tomo-chan having sex with a[r]stranger, it felt like nothing but torture for a girl.[pcms]
 
 *v1553|
 [fc]
 [vo_ya s="yama0599"]
-[ns]RŠİ[nse]
-uƒgƒ‚‚¿‚á‚ñcc‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+Tomo-chan...!![pcms]
 
 *3860|
 [fc]
-V“¹æ¶‚Éƒgƒ‚‚¿‚á‚ñ‚ğ•‚¯‚Ä‚à‚ç‚¤‚½‚ß‚ÉA„‚Í—‰È[r]
-º‚ÖŒü‚©‚Á‚Ä•K€‚É‘–‚Á‚½B[pcms]
+I desperately ran towards the science room to ask Shindou-[r]sensei to help Tomo-chan.[pcms]
 
 ;//BG:bg004a
 
@@ -74,92 +69,85 @@
 
 *3861|
 [fc]
-“n‚è˜L‰º‚ğ‰ß‚¬‚é‚ÆA‹È‚ª‚èŠp‚ÌŠ‚ÉA’N‚©’jq‚ª—§‚Á[r]
-‚Ä‚¢‚é‚Ì‚ª‚í‚©‚Á‚½B[pcms]
+I passed through the corridor and when I turned the corner,[r]I saw a boy standing there.[pcms]
 
-;//SE:S”‰¹
+;//SE:å¿ƒæ‹éŸ³
 
 [se0 storage="se003"]
 
 *v1554|
 [fc]
 [vo_ya s="yama0600"]
-[ns]RŠİ[nse]
-u’N‚¾‚ë‚¤cc’|“àŒNHv[pcms]
+[ns]Yamagishi[nse]
+I wonder who it is... Shinya-kun?[pcms]
 
 *3862|
 [fc]
-‘–‚é‚Ì‚ğ‚â‚ß‚ÄA‚»‚Ì’jq‚Ì—lq‚ğ‰M‚¢‚È‚ª‚çA‚ä‚Á‚­[r]
-‚è‚Æ•à‚¢‚Ä‚¢‚­‚ÆA”Ş‚Í„‚ª‚¢‚é‚±‚Æ‚É‹C‚ª‚Â‚¢‚ÄAU[r]
-‚è•Ô‚Á‚½B[pcms]
+I stopped running and walked slowly, while observing the[r]boy's behavior.[l][er]
+He noticed my presence and turned around.[pcms]
 
-;//H_CG:ƒ]ƒ“ƒr[ƒY
+;//H_CG:ã‚¾ãƒ³ãƒ“ãƒ¼ã‚º
 
 ;//EV_010.BMP = EV_002_a.BMP
 [evcg storage="EV_002_a"]
 [trans_c cross time=500]
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 
 [bgm008]
 
 *v1555|
 [fc]
 [vo_ya s="yama0601"]
-[ns]RŠİ[nse]
-ucc‚Ğ‚ÁIHv[pcms]
+[ns]Yamagishi[nse]
+... Huh!?[pcms]
 
 *3863|
 [fc]
-[ns]’jq¶“k‚f[nse]
-u‚¨‚ñA‚È‚¾cc‚¨A‚ñ‚ÈA‚¾‚Ÿ`ccv[pcms]
+[ns]Male Student G[nse]
+Oh, Nada... On, na, daa~...[pcms]
 
 *3864|
 [fc]
-‚»‚Ì”Ş‚Ì–Ú‚ÍA‘O‚É„‚â‰Á“¡ŒN‚ğP‚Á‚½l‚Æ“¯‚¶‚ÅA•[r]
-’Ê‚Ìl‚¶‚á‚È‚¢‚Ì‚ª‚í‚©‚Á‚½B[pcms]
+I could tell from his eyes that he was the same person who[r]attacked me and Kato-kun before, and that he wasn't a normal[r]person.[pcms]
 
 *3865|
 [fc]
-‚»‚µ‚ÄA‚»‚Ì”Ş‚ÌŒã‚ëA˜L‰º‚Ì‹È‚ª‚èŠp‚ÌŒü‚±‚¤‚©‚çA[r]
-“¯‚¶–Ú‚ğ‚µ‚½’jq‚ª‰½l‚ào‚Ä‚«‚ÄA„‚Ì•û‚Ö‚ä‚Á‚­‚è[r]
-‚Æ•à‚¢‚Ä‚­‚éB[pcms]
+And then, behind him, several boys with the same eyes[r]emerged from beyond the corner of the corridor and slowly[r]walked towards me.[pcms]
 
 *v1556|
 [fc]
 [vo_ya s="yama0602"]
-[ns]RŠİ[nse]
-uccIIv[pcms]
+[ns]Yamagishi[nse]
+...!![pcms]
 
 *v1557|
 [fc]
 [vo_ya s="yama0603"]
-[ns]RŠİ[nse]
-u‚¤A‚¤‚ícc‚¤‚í‚ŸccIv[pcms]
+[ns]Yamagishi[nse]
+U-uh... Uwaa...![pcms]
 
 *3866|
 [fc]
-“ª‚Ì’†‚ÉA‚³‚Á‚«‚Ìƒgƒ‚‚¿‚á‚ñ‚ª•‚‚©‚ñ‚Å‚­‚éB[r]
-‚ ‚Ìl’B‚É•ß‚Ü‚Á‚½‚çA„‚àccB[pcms]
+In my mind, Tomo-chan from earlier comes to mind.[l][er]
+If I were to be caught by those people, I...[pcms]
 
 *v1558|
 [fc]
 [vo_ya s="yama0604"]
-[ns]RŠİ[nse]
-u‚¢‚â‚Ÿ‚ ‚ ‚ Iv[pcms]
+[ns]Yamagishi[nse]
+Noooo![pcms]
 
 *3867|
 [fc]
-‚±‚êˆÈã‚Í‚à‚¤i‚ß‚È‚¢B[r]
-„‚Í‚»‚¤l‚¦‚ÄA‰Á“¡ŒN‚É‚»‚ê‚ğ•ñ‚¹‚é‚½‚ß‚ÉA—ˆ‚½“¹[r]
-‚ğˆø‚«•Ô‚µ‚½B[pcms]
+I couldn't go any further. Thinking that, I turned back on[r]the path I came from to inform Kato-kun.[pcms]
 
 *v1559|
 [fc]
 [vo_ya s="yama0605"]
-[ns]RŠİ[nse]
-u‚Í‚ÁA‚Í‚ÁA‚Í‚ÁccB‚©A‰Á“¡ŒNI@‚©‚Æ‚¤‚­[‚ñ[r]
-IIv[pcms]
+[ns]Yamagishi[nse]
+H-ha, h-ha, h-ha... K-Kato-kun![l][er]
+Katou-kun!![pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -171,6 +159,6 @@
 
 ;//blackout
 
-;//[04012]‚Ö
+;//[04012]ã¸
 [jump target=*04012_H_TOP storage="04012_H.ks"]
 

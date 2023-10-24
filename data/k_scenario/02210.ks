@@ -1,41 +1,41 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02200w‹ƒ‚¢‚Ä‚½Hx
-;//BG:‹’®ŠoºF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöE—DE’|“à
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02200ã€æ³£ã„ã¦ãŸï¼Ÿã€
+;//BG:è¦–è´è¦šå®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02210_TOP
-;[debug_win]‚È‚¤@02210[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02210 = 1"]
+;[debug_win]ãªã†ã€€02210[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02210 = 1"]
 
-;*SceneSet|w‹ƒ‚¢‚Ä‚½Hx
+;*SceneSet|ã€æ³£ã„ã¦ãŸï¼Ÿã€
 
 ;//[02210]
 
 *3236|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤‚¢‚âğ“úA‹ƒ‚¢‚Ä‚½‚Èccv[pcms]
+[ns]Kato[nse]
+Come to think of it, you were crying yesterday...[pcms]
 
 *3237|
 [fc]
-²”Œ‚Íğ“ú‚Ì–éA‚±‚±‚É–ß‚Á‚Ä‚«‚½A‹ƒ‚¢‚Ä‚¢‚½B[r]
-‰½‚©‚ ‚Á‚½‚Ì‚©‚ÈccB[pcms]
+Saeki was crying when she came back here last night.[l][er]
+I wonder if something happened...[pcms]
 
 *3238|
 [fc]
-Œ‹‹ÇA‚ ‚ÌŒã‰½‚à’‚ç‚È‚©‚Á‚½ccB[pcms]
+In the end, she didn't say anything after that...[pcms]
 
 *3239|
 [fc]
-‰½‚©‚ ‚Á‚½‚Ì‚©‚ÈccB[pcms]
+I wonder if something happened...[pcms]
 
-;//flag:“µ‚ğS”z‚·‚é on
+;//flag:ç³ã‚’å¿ƒé…ã™ã‚‹ on
 
 [eval exp="sf.g_anxiety = 1"]
 
-;//[02230]‚Ö
+;//[02230]ã¸
 [jump target=*02230_TOP storage="02230.ks"]
 

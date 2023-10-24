@@ -1,35 +1,35 @@
 
-;//¡ËƒuƒƒbƒN06110w•sˆÀx
-;//;//BG:“Áê‹³º˜L‰ºF–éFÁ“”
-;//;//BG:“n‚è˜L‰ºF–éFÁ“”
-;//“oêl•¨GƒŠƒT
-;//‹“_FƒŠƒT
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯06110ã€ä¸å®‰ã€
+;//;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
+;//;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ãƒªã‚µ
+;//è¦–ç‚¹ï¼šãƒªã‚µ
 
 *06110_H_TOP
-;[debug_win]‚È‚¤@06110_H[debug_win_end]
+;[debug_win]ãªã†ã€€06110_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 ;[if exp="tf.scene_mode == 0"][jump target=*06110][endif]
 ;[winset]
 
 
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *06110
 
-;*SceneSet|w•sˆÀx
+;*SceneSet|ã€ä¸å®‰ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_06110 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_06110 = 1"]
 
-;//flag:“µƒ‹[ƒgƒtƒ[@zap‚R@•\¦
-;//ôFBGM007
+;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€zapï¼“ã€€è¡¨ç¤º
+;//â™ªï¼šBGM007
 
 [bgm007]
 
@@ -45,120 +45,117 @@
 *v2693|
 [fc]
 [vo_ri s="risa0594"]
-[ns]V“¹[nse]
-uƒnƒ@ccv[pcms]
+[ns]Shindou[nse]
+*sigh*...[pcms]
 
 *6659|
 [fc]
-‰½‚È‚Ì‚©‚µ‚çA‚ ‚Ìq‚ÍccB‚¢‚­‚ç‚È‚ñ‚Å‚àA‚ ‚ñ‚È[r]
-‚É‚µ‚Â‚±‚¢‚Æ‚Ív‚í‚È‚©‚Á‚½B[pcms]
+I wonder what's up with that child...[l][er]
+I didn't expect them to be so persistent.[pcms]
 
 *6660|
 [fc]
-‚»‚ê‚ÉccB[pcms]
+Moreover...[pcms]
 
 *6661|
 [fc]
-‚â‚Í‚èA‚ ‚ÌŒ©‚ç‚ê‚Ä‚¢‚½ccB[r]
-Œ©‚ç‚ê‚Äcc‚¢‚½ccB[pcms]
+As I thought, I was being watched at that time...[l][er]
+I was being... watched...[pcms]
 
 *v2694|
 [fc]
 [vo_ri s="risa0595"]
-[ns]V“¹[nse]
-u‚Í‚Ÿ‚Ÿccv[pcms]
+[ns]Shindou[nse]
+Sigh...[pcms]
 
 *6662|
 [fc]
-Šİ“c‚Æ‚Ìsˆ×‚ğA’|“à‚É”`‚©‚ê‚Ä‚¢‚½B[pcms]
+I was being watched by Takeuchi while engaging in activities[r]with Kishida.[pcms]
 
 *6663|
 [fc]
-–ìb‚Ì—l‚ÈŠİ“c‚ÉAD‚«‚È—l‚É˜M‚Î‚êccB[r]
-‚»‚ê‚ğA’|“à‚É”`‚©‚êccB[pcms]
+I was toyed with by Kishida, who was like a beast, in any[r]way he liked...[l][er]
+And then, I was watched by Takeuchi...[pcms]
 
 *v2695|
 [fc]
 [vo_ri s="risa0596"]
-[ns]V“¹[nse]
-u‚Ó‚Áccv[pcms]
+[ns]Shindou[nse]
+*sigh*...[pcms]
 
 *6664|
 [fc]
-Šİ“c‚Ì‹­ˆø‚³B’|“à‚Ì•Î·“I‚È‘Ô“xcc‚»‚µ‚ÄAŒ©‚ç‚ê[r]
-‚Ä‚¢‚½–‚Ég–ã‚¦‚µ‚»‚¤‚É‚È‚éA„B[pcms]
+Kishida's forcefulness. Takeuchi's obsessive attitude...[l][er]
+And the fact that I was being watched, it makes me squirm in[r]discomfort.[pcms]
 
 *6665|
 [fc]
-„‚ğŠÜ‚ß‚½A‚»‚ê‚¼‚ê‚É‘Î‚µ‚Ä‚Ì“{‚è‚Æ‹¤‚ÉccB[r]
-‚»‚ê‚Æ‹¤‚ÉA•Ê‚ÌŠ´î‚ªcc—N‚«ã‚ª‚éB[pcms]
+Along with the anger towards each of them, including[r]myself...[l][er]
+Along with that, another emotion...[l][er]
+wells up.[pcms]
 
 *v2696|
 [fc]
 [vo_ri s="risa0597"]
-[ns]V“¹[nse]
-u‚Ó‚Ó‚Áccv[pcms]
+[ns]Shindou[nse]
+Hehe...[pcms]
 
 *6666|
 [fc]
-„‚àA‚Ç‚¤‚©‚µ‚Ä‚¢‚éB“¯—»‚É‚¢‚¢‚æ‚¤‚É˜M‚Î‚êA‹³‚¦[r]
-q‚É”`‚©‚êA‚ ‚Ü‚Â‚³‚¦A‹L˜^‚ğc‚³‚ê‚Ä‚µ‚Ü‚Á‚½B[pcms]
+I am also messed up. I was played with by my colleague,[r]peeped on by my student, and to make matters worse,[r]everything was recorded.[pcms]
 
 *6667|
 [fc]
-’|“à‚ÌŒû‚Ô‚è‚©‚çA”Ş‚ª‚ ‚Ìê‚É‹‚½‚Ì‚ÍŠÔˆá‚¢‚È‚¢B[r]
-”Ş‚Ì”]— ‚É‚ÍA„‚Ì’s‘Ô‚ªÄ‚«•t‚¢‚Ä‚¢‚é‚¾‚ë‚¤B[pcms]
+From Takeuchi's tone, there is no doubt that he was present[r]in that situation.[l][er]
+My indecent behavior must be etched in his mind.[pcms]
 
 *6668|
 [fc]
-‚»‚Ì–‚ğ‘z‘œ‚µ‚ÄA‰x‚Ñ‚ğŠo‚¦‚Ä‚¢‚é„B[r]
-cc‚Ç‚¤‚©‚µ‚Ä‚¢‚éB[pcms]
+I imagine that and feel pleasure...[l][er]
+I must be messed up.[pcms]
 
 *6669|
 [fc]
-cc‚»‚¤Œ¾‚¦‚ÎAŠİ“c‚Í•ÛŒ’º‚É—ˆ‚È‚©‚Á‚½B[pcms]
+... Come to think of it, Kishida didn't come to the[r]infirmary.[pcms]
 
 *6670|
 [fc]
-‘¼‚Ì–ñ‘©‚ğç‚é‚±‚Æ‚ÍŠF–³‚¾‚ªA‚±‚ÆAsˆ×‚ÉŠÖ‚µ‚Ä‚Ì[r]
-–ñ‘©‚ğ”j‚Á‚½–‚Ì‚È‚¢‚ ‚Ì’j‚ªA—ˆ‚È‚©‚Á‚½B[pcms]
+He never keeps any other promises, but that man who has[r]never broken a promise when it comes to actions, didn't[r]come.[pcms]
 
 *v2697|
 [fc]
 [vo_ri s="risa0598"]
-[ns]V“¹[nse]
-u‚à‚µ‚©‚µ‚Äccv[pcms]
+[ns]Shindou[nse]
+Could it be...[pcms]
 
 *6671|
 [fc]
-Šİ“c‚ÍARŠİ‚³‚ñ‚Æ²”Œ‚³‚ñ‚É‘Î‚µ‚ÄA‹­‚¢‹»–¡‚ğ‚Á[r]
-‚Ä‚¢‚½B[r]
-²”Œ‚³‚ñ‚Í‘åä•v‚¾‚ë‚¤A‰Á“¡ŒN‚Æ‹¤‚És“®‚µ‚Ä‚¢‚éB[pcms]
+Kishida had a strong interest in Yamagishi-san and Saeki-[r]san.[l][er]
+Saeki-san should be fine, she's with Kato-kun.[pcms]
 
 *6672|
 [fc]
-‚µ‚©‚µARŠİ‚³‚ñ‚ÍA‚ ‚Ìê‚É‹‚È‚©‚Á‚½B[pcms]
+However, Yamagishi-san was not there in that situation.[pcms]
 
 *v2698|
 [fc]
 [vo_ri s="risa0599"]
-[ns]V“¹[nse]
-u‚Ü‚³‚©ccB‚Å‚àA”Ş‚È‚çcc‚à‚µ‚©‚·‚é‚Æccv[pcms]
+[ns]Shindou[nse]
+No way... But, if it's him... Maybe...[pcms]
 
 *6673|
 [fc]
-•sˆÀ‚ª‹­‚­‚È‚éB[r]
-”Ş‚È‚ç‚â‚è‚©‚Ë‚È‚¢B‹³‚¦q‚Éè‚ğo‚µ‚©‚Ë‚È‚¢B[pcms]
+I'm becoming more anxious. If it's him, he might do it.[l][er]
+He might get involved with a student.[pcms]
 
 *6674|
 [fc]
-„‚Ì‘«‚ÍA©‘R‚É”Ş‚Ì•”‰®‚ÖŒü‚©‚¤B[r]
-‰½‚à‚È‚¯‚ê‚Î‚¢‚¢B[r]
-‚µ‚©‚µA‰½‚©‚ ‚Á‚½‚çccB[pcms]
+My legs naturally head towards his room.[l][er]
+I hope nothing happens. But if something does...[pcms]
 
 *6675|
 [fc]
-‚à‚µ‚©‚µ‚ÄA‚·‚Å‚ÉARŠİ‚³‚ñ‚ÍccB[pcms]
+Could it be that Yamagishi-san is already...?[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -169,7 +166,7 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[06120]‚Ö
+;//[06120]ã¸
 [jump target=*06120_H_TOP storage="06120_H.ks"]
 
 

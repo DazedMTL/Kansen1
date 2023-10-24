@@ -1,40 +1,40 @@
 
 
 
-;//¡ËƒuƒƒbƒN03029w—‰¤ŠoÁx‰‰
-;//BG:—qƒgƒCƒŒF–éFÁ“”
-;//“oêl•¨G“µE”¼’[Š´õƒ]ƒ“ƒr~‚R
-;//Y“µ‹“_
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯03029ã€å¥³ç‹è¦šé†’ã€â™‚â™‚
+;//BG:å¥³å­ãƒˆã‚¤ãƒ¬ï¼šå¤œï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ç³ãƒ»åŠç«¯æ„ŸæŸ“ã‚¾ãƒ³ãƒ“Ã—ï¼“
+;//ã€†ç³è¦–ç‚¹
 
 *03029_H_TOP
-;[debug_win]‚È‚¤@03029_H[debug_win_end]
+;[debug_win]ãªã†ã€€03029_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [eval exp="sf.SRP14 = 1"][if exp="tf.scene_mode == 0"][jump target=*03029][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *03029
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_03029 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_03029 = 1"]
 
-;*SceneSet|w—‰¤ŠoÁx
+;*SceneSet|ã€å¥³ç‹è¦šé†’ã€
 
-;//flag:—Dƒ‹[ƒgƒtƒ[@zap‚RD‚R@•\¦
+;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€zapï¼“ï¼ï¼“ã€€è¡¨ç¤º
 
 *scene_start
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 [bgm007]
 
 ;//H_CG:
@@ -46,116 +46,110 @@
 
 *3557|
 [fc]
-‰‚ß‚ÍŒ»À‚©‚ç“¦”ğ‚µ‚Ä‚¢‚½„‚àAŠÔ‚ªŒo‚Â‚É‚Â‚ê‚Ä[r]
-‹­Š­‚³‚ê‚½‚±‚Æ‚ÉAÀŠ´‚ª•¦‚«n‚ß‚Ä‚¢‚½B[pcms]
+At first, I was escaping from reality, but as time passed, I[r]began to feel the reality of being raped.[pcms]
 
 *v1382|
 [fc]
 [vo_sa s="sae0166"]
-[ns]²”Œ[nse]
-u‚¤‚Ácc‚¤A‚­cc‚¤‚£‚Áccv[pcms]
+[ns]Saeki[nse]
+Ugh... uh, ku... uuu...[pcms]
 
 *3558|
 [fc]
-‚ ‚ñ‚ÈlŠÔ‚Ì‹û‚É‹­Š­‚³‚ê‚Ä‚µ‚Ü‚Á‚½‚Æ‚¢‚¤‰÷‚µ‚³‚ÆA[r]
-”ß‚µ‚³‚ÉA—Ü‚ªo‚Ä‚­‚éB[pcms]
+I feel a mix of frustration and sadness, as tears well up,[r]from being raped by such a worthless human scum.[pcms]
 
 *3559|
 [fc]
-‚Ç‚¤‚µ‚ÄA‚±‚ñ‚È‚±‚Æ‚ÉccB[r]
-„‚ªcc‰½‚ğ‚µ‚½‚Æ‚¢‚¤‚ÌccH[r]
-„‚ª‰½‚ğ‚µ‚½‚Æ‚¢‚¤‚ÌccII[pcms]
+Why... why is this happening...?[l][er]
+What did I do...? What did I do...?![pcms]
 
 *3560|
 [fc]
-‚»‚¤‚¾ccB[r]
-’†‚Écc‚ ‚ÌlŠÔ‚Ì‹û‚Écc’†o‚µ‚³‚ê‚ÄccB[pcms]
+Yes... Inside... being creampied by that human scum...[pcms]
 
 *v1383|
 [fc]
 [vo_sa s="sae0167"]
-[ns]²”Œ[nse]
-u‚¤‚Ácc‘‚­cc‚È‚ñ‚Æ‚©‚µ‚È‚­‚Ä‚Íccv[pcms]
+[ns]Saeki[nse]
+Ugh... I need to do something quickly...[pcms]
 
 *3561|
 [fc]
-‘‚­cc‘‚­¸q‚ğæ‚èo‚³‚È‚¢‚ÆccB[pcms]
+Quickly... I need to extract the semen quickly...[pcms]
 
 *v1384|
 [fc]
 [vo_sa s="sae0168"]
-[ns]²”Œ[nse]
-u‰½‚æcc‰½‚æcc‚±‚ê‚ÍccB‚¤‚£ccv[pcms]
+[ns]Saeki[nse]
+What... What is this...? Ugh...[pcms]
 
 *3562|
 [fc]
-¸‰t‚ÆAŒŒ‚Åƒhƒƒhƒ‚É‚È‚Á‚½äSoB[r]
-v‚í‚¸A–Ú‚ğ”w‚¯‚½‚­‚È‚éB[pcms]
+The vaginal cavity covered in semen and blood, thick and[r]sticky.[l][er]
+I can't help but want to avert my eyes.[pcms]
 
 *3563|
 [fc]
-‚Å‚àccB[r]
-‚±‚Ì‚Ü‚Ü‚É‚µ‚Ä’u‚­–ó‚É‚Í‚¢‚©‚È‚¢ccB[r]
-æ‚èo‚³‚È‚¢‚ÆccB[pcms]
+But... I can't just leave it like this...[l][er]
+I have to take it out...[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
 
 [se0 storage="se059" loop=true]
 
 *v1385|
 [fc]
 [vo_sa s="sae0169"]
-[ns]²”Œ[nse]
-uo‚³‚È‚¢‚Æcc‘S•”AŠO‚Éo‚³‚È‚¢‚Æccv[pcms]
+[ns]Saeki[nse]
+I have to let it out... I have to let it all out...[pcms]
 
 *v1386|
 [fc]
 [vo_sa s="sae0170"]
-[ns]²”Œ[nse]
-u‚ñ‚Ÿ‚ cc‚Ó‚Ÿ‚ ‚ ‚ ccB[r]
-‚Ç‚¤‚µ‚Äcc‚Ç‚¤‚µ‚Äcco‚Ä‚«‚Äcc‘‚­ccv[pcms]
+[ns]Saeki[nse]
+Ngh... Ahh... Why... Why won't it come out...[l][er]
+Hurry...[pcms]
 
 *3564|
 [fc]
-©ˆÔ‚æ‚è‚àccB[r]
-Œƒ‚µ‚­A—–\‚ÉAäSo‚ğw‚Åˆø‚Á‘~‚«‰ñ‚·B[pcms]
+More than masturbation... violently and roughly, I scratch[r]and stir my vaginal cavity with my fingers.[pcms]
 
 *v1387|
 [fc]
 [vo_sa s="sae0171"]
-[ns]²”Œ[nse]
-u‘S•”o‚³‚È‚¢‚ÆccB‘‚­cc‚ñ‚¤‚£‚¤‚ÁccB[r]
-‚Í‚ ‚Á‚Ácc‚¤‚¤‚£‚¤ccv[pcms]
+[ns]Saeki[nse]
+I have to let it all out... Quickly...[l][er]
+Unghhh... Haaaah... Uuuughhh...[pcms]
 
 *v1388|
 [fc]
 [vo_sa s="sae0172"]
-[ns]²”Œ[nse]
-u‘S•”AãY—í‚Éæ‚èo‚³‚È‚¢‚ÆccBq‹Ÿ‚ªccB[r]
-”DPcc‚µ‚Ä‚µ‚Ü‚¤ccv[pcms]
+[ns]Saeki[nse]
+I have to take it all out cleanly...[l][er]
+If not... I might get pregnant...[pcms]
 
 *v1389|
 [fc]
 [vo_sa s="sae0173"]
-[ns]²”Œ[nse]
-u‚ñ‚Ÿ‚ ‚ ‚ÁccB‚Í‚Ácc‚Í‚ÁccA[r]
-o‚Ä‚«‚Äcc‘‚­ccB‚Í‚Áccv[pcms]
+[ns]Saeki[nse]
+Ngh... Ahh... Haa... Haa... Come out...[l][er]
+quickly... Haa...[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
 
 [stop_se0]
 
 *3565|
 [fc]
-[ns]’jq¶“k‚d[nse]
-u‚ñ`A‚±A‚±‚©A‚çcc‚¨‚ñA‚ÈA‚ÌA‚É‚¨A‚¢‚ªA[r]
-‚·A‚é‚È‚Ÿ`ccv[pcms]
+[ns]Male Student E[nse]
+Mmm, fr-from here... I-I'm going to...[l][er]
+enter you slowly...[pcms]
 
 *v1390|
 [fc]
 [vo_sa s="sae0174"]
-[ns]²”Œ[nse]
-uccIIv[pcms]
+[ns]Saeki[nse]
+...!![pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -168,39 +162,38 @@
 
 *3566|
 [fc]
-[ns]’jq¶“k‚c[nse]
-u‚¢A‚½‚Ÿ`cc‚Ü‚ñA‚±A‚İ‚ÂA‚¯A‚½‚¼‚§`ccv[pcms]
+[ns]Male Student D[nse]
+I-I... found... your... pussy...[pcms]
 
 *v1391|
 [fc]
 [vo_sa s="sae0175"]
-[ns]²”Œ[nse]
-u‚Ğ‚Ácc‚¢A‚¢‚âccv[pcms]
+[ns]Saeki[nse]
+Huh... no...[pcms]
 
 *v1392|
 [fc]
 [vo_sa s="sae0176"]
-[ns]²”Œ[nse]
-u‚¾cc’N‚È‚Ìcc‰½‚Å‚·‚©ccv[pcms]
+[ns]Saeki[nse]
+Who... who is it... what is it...[pcms]
 
 *3567|
 [fc]
-‰½cc‚±‚Ìl’BccB[r]
-‚Ç‚¤‚µ‚Ä‚±‚±‚ÉccB[pcms]
+What... are these people...? Why are they here...?[pcms]
 
 *3568|
 [fc]
-[ns]’jq¶“k‚e[nse]
-u‚±‚¢A‚ÂccƒXƒgƒbccƒLƒ“ƒOcc‚â‚Ô‚êA‚Äcc[r]
-‚¿A‚ñ‚Û‚ÙA‚µ‚ª‚Á‚ÄA‚éA‚¼‚§`ccv[pcms]
+[ns]Male Student F[nse]
+Come, tsu... Stop... My stockings...[l][er]
+are torn... My penis is throbbing so much~...[pcms]
 
 *v1393|
 [fc]
 [vo_sa s="sae0177"]
-[ns]²”Œ[nse]
-u‚Ğ‚¡cc‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Hii...!![pcms]
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 
 [se0 storage="se021"]
 
@@ -217,112 +210,105 @@
 
 ;;;[sysbt_meswin]
 
-;//ôFBGM002
+;//â™ªï¼šBGM002
 
 [bgm002]
 
 *v1394|
 [fc]
 [vo_sa s="sae0178"]
-[ns]²”Œ[nse]
-u‚Í‚Ácc‚Í‚Áccv[pcms]
+[ns]Saeki[nse]
+Haa... haa...[pcms]
 
 *3569|
 [fc]
-[ns]’jq¶“k‚c[nse]
-u‚ÙA‚»‚¢A‚ ‚µA‚Écc‚·‚Æ‚Á‚«A‚ñ‚®cc[r]
-‚¤‚ÖA‚Ö‚Öccv[pcms]
+[ns]Male Student D[nse]
+H-here, your legs... stockings...[l][er]
+ngh... uhh... hehe...[pcms]
 
 *3570|
 [fc]
-’N‚È‚ÌccH[r]
-‰½ŒÌcc‚±‚±‚ÉA¶“k‚ªccIH[pcms]
+Who is it...? Why... are there students here...!?[pcms]
 
 *3571|
 [fc]
-‚¢‚âcc‚â‚ß‚ÄccII[r]
-G‚ç‚È‚¢‚Åcc‚ÁII[pcms]
+No... stop...!! Don't touch me...!![pcms]
 
 *3572|
 [fc]
-[ns]’jq¶“k‚e[nse]
-u‚Ó‚ÖA‚Ö‚¥cc‚¨‚¨‚«A‚³A‚¿‚å‚¤A‚ÇA‚¢‚¢‚Ècc[r]
-‚±A‚ÌA‚¨‚Á‚ÏA‚¢ccv[pcms]
+[ns]Male Student F[nse]
+Fufu, wow... they're big, so firm and nice...[l][er]
+these breasts...[pcms]
 
 *v1395|
 [fc]
 [vo_sa s="sae0179"]
-[ns]²”Œ[nse]
-u‚Í‚Ácc‚Ğ‚­‚Ácc‚Í‚Áccv[pcms]
+[ns]Saeki[nse]
+Hah... hiku... hah...[pcms]
 
 *3573|
 [fc]
-º‚ªcco‚È‚¢ccII[r]
-’N‚©•‚¯‚Äcc‚ÁII[pcms]
+I can't... speak...!! Someone, help me...!![pcms]
 
 *3574|
 [fc]
-[ns]’jq¶“k‚d[nse]
-u‚ÈA‚ñ‚ÉA‚àA‚¢‚íA‚È‚¢A‚È‚Ÿcc[r]
-‚±A‚Ì‚¨A‚ñA‚È‚Ÿccv[pcms]
+[ns]Male Student E[nse]
+D-Don't... say... anything... about this...[pcms]
 
 *v1396|
 [fc]
 [vo_sa s="sae0180"]
-[ns]²”Œ[nse]
-u‚Í‚ÁA‚Í‚ÁA‚Ğ‚ÁA‚Í‚Áccv[pcms]
+[ns]Saeki[nse]
+Hah, hah, hiku, hah...[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
 
 [se0 storage="se059"]
 
 *3575|
 [fc]
-‰º•~‚«‚É‚È‚Á‚Ä‚¢‚é’jq‚ªA[r]
-–u‹N‚µ‚½ƒyƒjƒX‚ÅƒAƒkƒX‚ğ‚È‚¼‚éB[pcms]
+The male student who is pinned down traces the anus with his[r]erect penis.[pcms]
 
 *3576|
 [fc]
-‚Ê‚ß‚Á‚Ä‚¢‚ÄA‹C‚¿‚Ìˆ«‚¢‚»‚ÌŠ´G‚ÉA”ß–Â‚ğ‚ ‚°‚æ[r]
-‚¤‚Æv‚Á‚Ä‚àA„‚Ìº‚ÍA‚©‚çˆêŒü‚Éo‚Ä‚±‚æ‚¤‚Æ‚µ‚È[r]
-‚©‚Á‚½B[pcms]
+The slimy and repulsive sensation made me want to scream,[r]but my voice wouldn't come out of my throat no matter how[r]hard I tried.[pcms]
 
 *3577|
 [fc]
-[ns]’jq¶“k‚d[nse]
-u‚¯‚ÂA‚ÅA‚â‚Á‚ÄA‚İA‚Ä‚¥A‚È‚Ÿcc[r]
-‚¢‚êA‚¿A‚Ü‚¨‚¤A‚©A‚È‚Ÿ`ccv[pcms]
+[ns]Male Student E[nse]
+I... I want to... try... your butt...[l][er]
+can I...?[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
 
 [se0 storage="se059"]
 
 *v1397|
 [fc]
 [vo_sa s="sae0181"]
-[ns]²”Œ[nse]
-u‚Ğ‚ÁA‚Ğ‚Í‚ÁA‚Í‚ÁA‚Ğ‚ÁccIIv[pcms]
+[ns]Saeki[nse]
+H-hi, hah, ha...![pcms]
 
 *3578|
 [fc]
-‰½ŒÌA„‚¾‚¯‚±‚ñ‚È–Ú‚É‘˜‚¤H[pcms]
+Why do I have to go through this alone?[pcms]
 
 *3579|
 [fc]
-[ns]’jq¶“k‚d[nse]
-u‚¤‚ÍA‚Ÿ```ccv[pcms]
+[ns]Male Student E[nse]
+Uhaa, ahhh~...[pcms]
 
 *v1398|
 [fc]
 [vo_sa s="sae0182"]
-[ns]²”Œ[nse]
-u‚ĞA‚®‚¤‚£‚ÁII@‚¤A‚¤‚í‚Ÿ‚ ‚ IIv[pcms]
+[ns]Saeki[nse]
+H-huh, guuuh!! Uwaaahh!![pcms]
 
 *3580|
 [fc]
-‚¢‚âcc‚¨K‚É‚È‚ñ‚Äcc‚â‚ß‚Ä‚¥cc‚ÁII[pcms]
+No... not my butt... please stop...!![pcms]
 
-;//SE:‘}“ü
+;//SE:æŒ¿å…¥
 
 [se0 storage="se058"]
 
@@ -341,120 +327,114 @@
 
 *3581|
 [fc]
-[ns]’jq¶“k‚d[nse]
-u‚¤‚ÖA‚Ö‚¥cc‚©‚ñ‚½A‚ñ‚ÉA‚ÍA‚¢‚Á‚½A‚È‚Ÿcc[r]
-‚±‚¢A‚ÂA‚¯‚ÂA‚¹‚ñA‚àA‚ñ‚©‚ŸccHv[pcms]
+[ns]Male Student E[nse]
+Uhe, hee... Kan-ta, n-ni, ha, itta, naa...[l][er]
+Koi, tsu, ketsu, sen, mo, nkaa...?[pcms]
 
 *v1399|
 [fc]
 [vo_sa s="sae0183"]
-[ns]²”Œ[nse]
-u‚¢J‚¡‚ÁII@‚Ğ‚ÁA‚Í‚£‚ÁccII[r]
-‚¨A‚¨‚µA‚¨‚µ‚èccˆá‚¤‚Ácc‰˜‚¢‚ÁII[r]
-‚»‚Á‚¿‚ÍAˆá‚¤‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Eeek!! Hii, hauu...!! O-o-shi, oshiri...[l][er]
+chigauu... kitanaii!! Socchi wa, chigauu!![pcms]
 
 *3582|
 [fc]
-‚¨• ‚Ì’†‚ğŒ©’m‚ç‚Ê’jq‚ÌƒyƒjƒX‚ª‰•œ‚·‚é‚Æ‚¢‚¤A[r]
-—á‚¦‚æ‚¤‚à‚È‚¢•s‰õ‚ÈŠ´G‚ÆA[r]
-ƒAƒkƒX‚ª—ô‚¯‚éŒƒ‚µ‚¢’É‚İ‚ÅA‘Ì‚ªŒÅ‚­‹­‚Î‚éB[pcms]
+The sensation of an unfamiliar boy's penis going back and[r]forth inside my stomach, along with an indescribable feeling[r]of discomfort, and the intense pain of my anus tearing,[r]caused my body to stiffen and tense up.[pcms]
 
-;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
 
 [se1 storage="se061" loop=true]
 
 *3583|
 [fc]
-‚»‚ê‚ğA•Ê‚È——R‚Å‚»‚¤‚È‚Á‚½‚ÆŠ¨ˆá‚¢‚µ‚½”Ş‚ÍA[r]
-Šì‚ñ‚ÅŒƒ‚µ‚­‘Ì‚ğ‚Ô‚Â‚¯‚Ä‚­‚éB[pcms]
+Thinking that it happened for a different reason, he happily[r]thrusts his body violently.[pcms]
 
 *3584|
 [fc]
-[ns]’jq¶“k‚d[nse]
-u‚±‚¢A‚ÂA‚â‚Á‚ÏA‚ècc‚¯‚ÂA‚¹A‚ñ‚àA‚ñA‚¾‚Ÿ[r]
-cc‚¤‚ê‚µA‚»A‚¤‚ÉA‚¿A‚ñ‚ÛA‚µ‚ßA‚ÂA‚¯‚ÄA‚«[r]
-‚â‚ªA‚éccv[pcms]
+[ns]Male Student E[nse]
+Come on, let me... touch your ass...[l][er]
+I want to... feel it... tightly...[pcms]
 
 *v1400|
 [fc]
 [vo_sa s="sae0184"]
-[ns]²”Œ[nse]
-u‚¢‚âccˆá‚¤cc‚®‚£‚¤Iv[pcms]
+[ns]Saeki[nse]
+No... that's not it... guuh![pcms]
 
 *3585|
 [fc]
-[ns]’jq¶“k‚c[nse]
-u‚±A‚±A‚±‚¢cc‚Â‚ÌA‚Ü‚ñcc‚±A‚µ‚å‚ñ‚×cc‚ñ[r]
-‚âA‚çA‚¹‚¢cc‚µ‚ÌA‚É‚¨A‚¢‚·‚écc‚­A‚­A‚­‚¹[r]
-‚¥cc‚âA‚â‚ècc‚Ü‚ñcc‚©cc‚±A‚¢‚Âccv[pcms]
+[ns]Male Student D[nse]
+C-come... to my... pussy... Onee-shota...[l][er]
+let's... do it... together... like...[l][er]
+adults...[pcms]
 
 *v1401|
 [fc]
 [vo_sa s="sae0185"]
-[ns]²”Œ[nse]
-u‚ĞA‚®‚ÁII@‚»‚ñ‚È‚ ‚ÁII[r]
-‚¿A‚ªccˆá‚Ácc‚Ğ‚Í‚ÁccII[r]
-ˆá‚¤‚ÁI@Œ¾‚í‚È‚¢‚ÅccŒ¾‚í‚È‚¢‚Åccv[pcms]
+[ns]Saeki[nse]
+H-huh!! Don't... don't say that...[l][er]
+it's... not... haa... different...[l][er]
+not like that! Don't say it...[l][er]
+don't say it...[pcms]
 
 *3586|
 [fc]
-„‚ÌˆÓu‚¶‚á‚È‚¢‚Ì‚ÉA‚Ç‚¤‚µ‚Äcc‚Ç‚¤‚µ‚ÄA[r]
-‚±‚ñ‚È‚±‚Æ‚Ü‚ÅŒ¾‚í‚ê‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‚ÌccH[pcms]
+Why... why do I have to be told such things...[l][er]
+when it's not my will...?[pcms]
 
 *3587|
 [fc]
-‚ ‚Ì’j‚ªcc‚ ‚ÌlŠÔ‚Ì‹û‚ªA‘S‚Ä‚ÌŒ´ˆö‚È‚Ì‚ÉccB[pcms]
+That man... that piece of human garbage...[l][er]
+is the cause of everything...[pcms]
 
 *3588|
 [fc]
-[ns]’jq¶“k‚d[nse]
-u‚¯‚ÂA‚ÅA‚âA‚é‚Ì‚àA‚¢‚¢A‚È‚Ÿcc[r]
-‚«‚àA‚¿A‚¢‚¢‚¼A‚§cc‚Ó‚ÖA‚Ö‚¥ccv[pcms]
+[ns]Male Student E[nse]
+It's good to do it from behind...[l][er]
+It feels good, you know... Fufu, heh...[pcms]
 
 *v1402|
 [fc]
 [vo_sa s="sae0186"]
-[ns]²”Œ[nse]
-u‚Ğ‚ÁA‚Í‚ÁA‚Ÿ‚®‚ÁccII@‚¤‚®‚ÁII[r]
-‚¤‚ ‚Ÿ‚ I@‚¨K‚ªA‚ß‚­‚ê‚é‚ÁII@Œ™‚Ÿ‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Hii, haa, agu...!! Uguu!! Uaaa![l][er]
+My butt... it's exposed!! I hate it![pcms]
 
 *3589|
 [fc]
-[ns]’jq¶“k‚d[nse]
-u‚±A‚¢‚Âcc‚©A‚ñ‚¶A‚Äcc‚éccv[pcms]
+[ns]Male Student E[nse]
+Wh-when... did you... notice...?[pcms]
 
 *v1403|
 [fc]
 [vo_sa s="sae0187"]
-[ns]²”Œ[nse]
-u‚Í‚ÁA‚Ó‚Í‚ÁA‚Ğ‚­‚ÁA‚®‚£cc‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Hah, fuha, hiku, guu...!![pcms]
 
 *3590|
 [fc]
-‚¢‚Â‚ÌŠÔ‚É‚¿o‚µ‚Ä‚«‚½‚Ì‚©A•Ê‚Ì’jq‚ª‘|œ‚Ég‚¤[r]
-ƒ‚ƒbƒv‚ğè‚É‚Á‚ÄA•¿‚ğ„‚Ìƒ”ƒ@ƒMƒi‚Ö‚ ‚Ä‚ª‚¢A‹¹[r]
-‚Ìˆ«‚­‚È‚é‚æ‚¤‚ÈÎŠç‚ğì‚Á‚Ä‚¢‚½B[pcms]
+At some point, another male student appeared out of nowhere,[r]holding a mop that was meant for cleaning, and pressed the[r]handle against my vagina, wearing a smile that made my chest[r]feel sick.[pcms]
 
 *3591|
 [fc]
-[ns]’jq¶“k‚c[nse]
-u‚Ç‚ÌA‚­A‚ç‚¢A‚Í‚¢A‚éA‚©A‚È‚Ÿccv[pcms]
+[ns]Male Student D[nse]
+How much longer...[pcms]
 
 *v1404|
 [fc]
 [vo_sa s="sae0188"]
-[ns]²”Œ[nse]
-u‚Í‚ÁA‚Í‚Ğ‚Ácc‚¢A‚â‚Ácc‚â‚ŸccA[r]
-‚»A‚»‚ñ‚È•¨A‚âA‚â‚ß‚Äcc‰ó‚ê‚éccII[r]
-‰ó‚ê‚¿‚á‚¤IIv[pcms]
+[ns]Saeki[nse]
+Hah... haa... no, sto... stop...[l][er]
+don't... that thing... please...[l][er]
+it'll break...!! It'll break!![pcms]
 
 *3592|
 [fc]
-[ns]’jq¶“k‚c[nse]
-u‚ ‚Í‚ÁA‚ ‚Í‚Í‚Ácc[r]
-‚ÈA‚È‚Écc‚ªA‚±‚í‚êcc‚é‚ñ‚¾cc‚æccv[pcms]
+[ns]Male Student D[nse]
+Ahaha, wh-what... will... break...?[pcms]
 
-;//SE:‘}“ü
+;//SE:æŒ¿å…¥
 
 [overflow_se storage="se058"]
 
@@ -465,71 +445,63 @@
 
 ;//redflash
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
 
 [se0 storage="se059" loop=true]
 
 *3593|
 [fc]
-’jq‚ÍX‚¢Šç‚ğAˆê‘wX‚­˜c‚ß‚ÄA[r]
-„‚Ìƒ”ƒ@ƒMƒi‚Ì’†‚Ö‚ÆAƒ‚ƒbƒv‚Ì•¿‚ğ“Ë‚«“ü‚ê‚½B[pcms]
+The male student contorted his already ugly face even more,[r]and forcefully thrust the handle of the mop into my vagina.[pcms]
 
 *v1405|
 [fc]
 [vo_sa s="sae0189"]
-[ns]²”Œ[nse]
-u‚¢cc‚¢‚¬‚¡‚¡‚¢‚¢‚¢‚¢Iv[pcms]
+[ns]Saeki[nse]
+I... i-giiiiiiii![pcms]
 
 *3594|
 [fc]
-[ns]’jq¶“k‚c[nse]
-u‚¤‚Ö‚ÖA‚Ö‚Ö‚¥ccv[pcms]
+[ns]Male Student D[nse]
+Uhuhu, hehe...[pcms]
 
 *v1406|
 [fc]
 [vo_sa s="sae0190"]
-[ns]²”Œ[nse]
-u‚¬‚¬‚¢J‚¢‚¡‚¡‚ÁIIIIv[pcms]
+[ns]Saeki[nse]
+Gigi... iiii!!![pcms]
 
 *3595|
 [fc]
-‚±‚êˆÈã‚Í“ü‚ç‚È‚¢‚Æ‚¢‚¤Š‚Ü‚Å—ˆ‚Ä‚àA[r]
-‚±‚Ì’jq‚Í‰½“x‚àƒ‚ƒbƒv‚Ì•¿‚ğ‚Ğ‚Ë‚Á‚ÄA[r]
-‚³‚ç‚É‰œ‚Ö‚Æ‰Ÿ‚µ‚ŞB[pcms]
+Even though we had reached the point where it couldn't go[r]any further, this male student twisted the handle of the mop[r]multiple times and pushed it even deeper.[pcms]
 
 *3596|
 [fc]
-äS“à‚Éc‚Á‚Ä‚¢‚éA’|“à‚ªo‚µ‚½¸‰t‚ª‘~‚«o‚³‚ê‚ÄA[r]
-¼‚Á‚½”ÚàÎ‚È‰¹‚ğ—§‚Ä‚éB[pcms]
+The semen that Shinya released inside my vagina is being[r]scooped out, making a wet and obscene sound.[pcms]
 
 *v1407|
 [fc]
 [vo_sa s="sae0191"]
-[ns]²”Œ[nse]
-u‚Í‚ÁA‚®A‚ J‚Ÿ‚ÁccII@‚¨‚¨‚¨‚ÁI[r]
-‰œ‚É‚ÁII@‚®‚Ÿ‚ J‚Ácc‰œ‚É“–‚½‚éƒbIIv[pcms]
+[ns]Saeki[nse]
+Hah, guh, ahh...!! Oooh! Deeper!![l][er]
+Guhaa... hitting the back!![pcms]
 
 *3597|
 [fc]
-‰½ŒÌccH[r]
-‰½ŒÌ„‚ª‚±‚ñ‚È–Ú‚ÉccB[pcms]
+Why...? Why am I going through something like this...?[pcms]
 
 *3598|
 [fc]
-‰½ŒÌA„‚ª‚±‚ñ‚È–Ú‚É‘˜‚í‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‚ÌIH[r]
-„‚ªA‰½‚ğ‚µ‚½‚ÆŒ¾‚¤‚ÌIH[pcms]
+Why do I have to go through something like this!?[l][er]
+What did I do to deserve this!?[pcms]
 
 *3599|
 [fc]
-ccccB[r]
-ccB[r]
-’|“àB[pcms]
+.......... Shinya.[pcms]
 
 *3600|
 [fc]
-‚»‚¤‚æcc‘S‚ÄccB[r]
-‘S‚ÄA”Ş“zccII[r]
-’|“àII[pcms]
+That's right... everything... Everything, that guy...!![l][er]
+Shinya!![pcms]
 
 [flash_re]
 
@@ -540,23 +512,22 @@
 
 *3601|
 [fc]
-[ns]’jq¶“k‚c[nse]
-u‚È‚ñA‚¾A‚±‚êA‚ÅA‚¨A‚í‚èA‚©‚Ÿcc[r]
-‚Â‚ÜA‚ñA‚Ë‚¥‚ÈA‚Ÿccv[pcms]
+[ns]Male Student D[nse]
+What... is... this... the end...?[l][er]
+It's not satisfying at all...[pcms]
 
 *v1408|
 [fc]
 [vo_sa s="sae0192"]
-[ns]²”Œ[nse]
-u‚¤J‚®‚ ‚Ÿ‚ÁII@‚Ècc‚È‚ñ‚Åcc[r]
-‚ J‚ÁA‚¢J‚¬‚¡‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Uguuahh!! Wh... why... agh, it hurts!![pcms]
 
 *v1409|
 [fc]
 [vo_sa s="sae0193"]
-[ns]²”Œ[nse]
-u‚ J‚ÁA‚È‚ñ‚Åcc„‚ªcc‚±‚ñ‚È–Ú‚Écc[r]
-‚¢J‚¬‚¡‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Ahh, why... am I... going through something like this...[l][er]
+gii!![pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -569,139 +540,132 @@
 
 *3602|
 [fc]
-‰œ‚Ö‰Ÿ‚µ‚Ş‚Ì‚ğ’ú‚ß‚½‚Ì‚©A¡“x‚Íƒ‚ƒbƒv‚Ì•¿‚ğo‚µ[r]
-“ü‚ê‚µA“¯‚ÉAƒyƒjƒX‚ğ‘¾‘Ú‚ÉC‚è‚Â‚¯n‚ß‚½B[pcms]
+He gave up pushing it deeper and instead started sliding the[r]handle of the mop in and out, while at the same time rubbing[r]his penis against her thighs.[pcms]
 
 *v1410|
 [fc]
 [vo_sa s="sae0194"]
-[ns]²”Œ[nse]
-u‚ª‚Ácc‚ ‚¤‚£‚¤cc”M‚¢cc‚¢‚â‚Ÿccv[pcms]
+[ns]Saeki[nse]
+Gah... Aauu... It's hot... Nooo...[pcms]
 
 *3603|
 [fc]
-[ns]’jq¶“k‚c[nse]
-u‚¤A‚Í‚Ÿcc‚·A‚Æ‚Á‚«‚ñA‚®A‚Écc‚¿A‚ñ‚ÛA[r]
-‚±‚·A‚èA‚Â‚¯‚éA‚Æcc‚«‚àA‚¿A‚¢‚¢`ccv[pcms]
+[ns]Male Student D[nse]
+Ugh, haa... s-so tight, guh, ngh...[l][er]
+rubbing, the, d-dick, against...[l][er]
+feels, so, good~...[pcms]
 
 *v1411|
 [fc]
 [vo_sa s="sae0195"]
-[ns]²”Œ[nse]
-u‚ÍA‚¤J‚£cc‚£‚®A‚Í‚ÁA‚¤‚ J‚Ÿccv[pcms]
+[ns]Saeki[nse]
+Haa, ugh... uhh, haa, ughh... ahh...[pcms]
 
 *3604|
 [fc]
-‚ ‚Ì’j‚³‚¦cc’|“à‚³‚¦‹‚È‚¯‚ê‚ÎccII[pcms]
+If only that man... Takeuchi...[l][er]
+wasn't here...!![pcms]
 
 *3605|
 [fc]
-[ns]’jq¶“k‚d[nse]
-u‚¯A‚Â‚ÌA‚È‚©A‚ªA‚Ê‚é‚ÊA‚éA‚µ‚ÄA‚«‚½‚Ÿcc[r]
-‚Ü‚ñA‚±A‚İ‚½A‚¢‚ÅA‚«A‚à‚¿A‚¢‚¡`cccv[pcms]
+[ns]Male Student E[nse]
+T-the inside... it's getting slippery...[l][er]
+I want to see your pussy... it feels so good~...[pcms]
 
 *v1412|
 [fc]
 [vo_sa s="sae0196"]
-[ns]²”Œ[nse]
-u‚Í‚ÁA‚Í‚ÁA‚Í‚ÁA‚ñ‚®‚£I[r]
-‚½A‚¯A‚¤cc‚¤‚Ÿ‚ ‚Áccv[pcms]
+[ns]Saeki[nse]
+Haa, haa, haa, nguu! Ta, ke, u...[l][er]
+uaa...[pcms]
 
 *3606|
 [fc]
-‚ ‚Ì’j‚ªA„‚ğccB[r]
-‚±‚ñ‚ÈŠ‚ÅccA‚ ‚ñ‚È–‚³‚¦‚µ‚Ä‚¢‚È‚¯‚ê‚ÎII[pcms]
+If only that man... Takeuchi...[l][er]
+wasn't here...!![pcms]
 
 *v1413|
 [fc]
 [vo_sa s="sae0197"]
-[ns]²”Œ[nse]
-u‚ñ‚¤J‚ÁA‚£‚ cc‚Í‚ŸA‚ñA‚®‚Ş‚£ccv[pcms]
+[ns]Saeki[nse]
+Nuvu... ugh... haa, n, gumuu...[pcms]
 
 *3607|
 [fc]
-[ns]’jq¶“k‚e[nse]
-u‚ ‚Ÿ`cc‚àA‚¤A‚ª‚ÜA‚ñA‚Å‚«‚ËA‚¥`ccv[pcms]
+[ns]Male Student F[nse]
+Ahh... I... can't... hold it in anymore...[pcms]
 
 *3608|
 [fc]
-“ñl‚Ì’jq‚ª“¯‚É‹­Š­‚ğs‚¤—lq‚É‹»•±‚µ‚½‚Ì‚©A‚ [r]
-‚Ô‚ê‚Ä‚¢‚½’jq‚ªA„‚Ì‹¹‚É•‚ğ—§‚Ä‚È‚ª‚çA©•ª‚Ìè[r]
-‚ÅƒyƒjƒX‚ğ‚±‚·‚èn‚ß‚½B[pcms]
+One of the boys who was left out, seemingly excited by the[r]sight of the two boys committing rape simultaneously, began[r]rubbing his penis with his own hand while biting into my[r]chest.[pcms]
 
 *3609|
 [fc]
-[ns]’jq¶“k‚e[nse]
-u‚Ş‚ÓA‚£`cc‚ÇA‚±‚ÉA‚Ô‚Á‚©A‚¯A‚æ‚¤‚©A‚È‚Ÿ[r]
-cc‚â‚Á‚ÏA‚èA‚©‚¨A‚©‚ŸccHv[pcms]
+[ns]Male Student F[nse]
+Mufu, u~... Where should I... release it?[l][er]
+Maybe... on your face... after all...?[pcms]
 
 *v1414|
 [fc]
 [vo_sa s="sae0198"]
-[ns]²”Œ[nse]
-u‚Í‚ÁA‚£‚®A‚Ÿ‚¤‚ñ‚ÁI[r]
-‚Ó‚ÁA‚ñ‚®‚£cc‚¢‚¢‚¢ccv[pcms]
+[ns]Saeki[nse]
+Haa, ugu, ahhn! Fuu, nguu... iii...[pcms]
 
 *3610|
 [fc]
-‘Ì‚ÌŠ‚éŠ‚ğ‚¢‚¢‚æ‚¤‚É”Æ‚³‚ê‚ÄA[r]
-„‚Í‚à‚¤A’ïR‚·‚é‹C‚à‚¨‚«‚È‚­‚È‚Á‚Ä‚¢‚½B[pcms]
+My body was violated in every possible way, and I had lost[r]all will to resist.[pcms]
 
 *3611|
 [fc]
-‚»‚ê‚Ç‚±‚ë‚©A’jq’B‚ÉŠ®‘S‚Ég‚ğˆÏ‚Ë‚Ä‚¢‚é‚¤‚¿‚ÉA[r]
-„‚Í”Æ‚³‚ê‚Ä‚¢‚é‚±‚Æ‚ÉA‰x‚Ñ‚ğŠ´‚¶n‚ß‚Ä‚¢‚½B[pcms]
+On the contrary, as I completely surrendered myself to the[r]boys, I began to feel pleasure in being violated.[pcms]
 
 *v1415|
 [fc]
 [vo_sa s="sae0199"]
-[ns]²”Œ[nse]
-u‚ñ‚£‚ÁII@‚ñ‚ÁA‚Ó‚Ÿ‚ÁA‚Í‚£‚ñ‚ÁII[r]
-‚­‚ŸA‚ñ‚ ‚Ÿ‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Nngh!! Nn, fahh, haun!! Kwa, naahh!![pcms]
 
 *3612|
 [fc]
-[ns]’jq¶“k‚d[nse]
-u‚ÜA‚½A‚«‚ÂA‚­A‚È‚Á‚½A‚¼cc‚ÜA‚¶‚ÅA‚¿‚ñA[r]
-‚ÛA‚ÅA‚¯‚ÂA‚Ù‚¶‚çA‚êA‚é‚Ìcc‚·‚«‚ÈA‚ñ‚¾‚ÈA[r]
-‚±A‚ÌA‚Ö‚ñ‚½A‚¢A‚¨A‚ñ‚È‚Ÿccv[pcms]
+[ns]Male Student E[nse]
+It's... getting... tight again...[l][er]
+Seriously, my ass is being probed with a dick...[l][er]
+You really like this, don't you, you perverted woman...[pcms]
 
 *v1416|
 [fc]
 [vo_sa s="sae0200"]
-[ns]²”Œ[nse]
-u‚ñ‚Ÿ‚ ‚ I@‚¨cc‚¨‚µcc‚èccI@‚Ó‚Ÿ‚ ccIv[pcms]
+[ns]Saeki[nse]
+Nghh! My... my ass...! Ahh...![pcms]
 
 *3613|
 [fc]
-[ns]’jq¶“k‚c[nse]
-u‚Ù‚»A‚¢A‚Ì‚Écc‚ÓA‚Æ‚àA‚àA‚â‚íA‚çA‚¯‚¥`[r]
-cc‚·A‚Æ‚Á‚«A‚ñ‚®A‚ÍA‚¢‚½A‚Ó‚ÆA‚àA‚àcc‚³[r]
-‚¢A‚±‚§`ccv[pcms]
+[ns]Male Student D[nse]
+It's... so... tight... T-Tomomi, you're so soft...[l][er]
+I-I can't... hold it in anymore...[l][er]
+I'm going to... release it...[pcms]
 
 *v1417|
 [fc]
 [vo_sa s="sae0201"]
-[ns]²”Œ[nse]
-u‚Ó‚Ÿ‚ÁA‚ ‚ÁA‚­‚¤‚£‚Ácc‚­‚ŸA‚¤‚ ‚Ÿ‚ÁII[r]
-‚ñ‚®A‚¤‚£A‚ñ‚Í‚Ÿ‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Ahh, ah, kuuhh... kaa, uaaahh!![l][er]
+Ngu, uu, nhaahh!![pcms]
 
 *v1418|
 [fc]
 [vo_sa s="sae0202"]
-[ns]²”Œ[nse]
-u‚Ğ‚Ÿ‚ ‚ ‚ ‚ ccIv[pcms]
+[ns]Saeki[nse]
+Hiaaaa...![pcms]
 
 *3614|
 [fc]
-ƒAƒkƒX‚Ì’†‚ğAƒyƒjƒX‚ÅC‚ç‚ê‚ÄA‘~‚«‰ñ‚³‚ê‚éŠ´G‚ÉA[r]
-v‚í‚¸˜‚ª•‚‚¢‚Ä‚µ‚Ü‚¤B[pcms]
+The sensation of my anus being rubbed and stirred by a penis[r]makes my hips involuntarily lift.[pcms]
 
 *3615|
 [fc]
-‚Ç‚¤‚µ‚ÄccH[r]
-–¼‘O‚à’m‚ç‚È‚¢’jq‚ÉA–³—–î—”Æ‚³‚ê‚Ä‚¢‚é‚Ì‚ÉccB[r]
-‚Ç‚¤‚µ‚Äcc‚±‚ñ‚È‚ÉA‹C‚¿‚¢‚¢‚ÌccH[pcms]
+Why...? Even though I'm being violated by a boy whose name I[r]don't even know...[l][er]
+Why... does it feel so good...?[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -717,96 +681,94 @@
 *v1419|
 [fc]
 [vo_sa s="sae0203"]
-[ns]²”Œ[nse]
-u‚Ó‚Ÿ‚ÁA‚Í‚Ÿ‚ñ‚ÁII@‚Ó‚Ó‚Ácc‚¤‚Ó‚Ócc‚ñ‚£A[r]
-‚ñ‚ÁA‚ŸA‚¤‚ ‚Ÿ‚ÁIIv[pcms]
+[ns]Saeki[nse]
+F-ahh, haaan!! Fufu... ufufu...[l][er]
+ngh, nghh, ahh, uaaahh!![pcms]
 
 *v1420|
 [fc]
 [vo_sa s="sae0204"]
-[ns]²”Œ[nse]
-u‚Ó‚Ó‚Ó‚Ó‚Ácc‚Í‚Ÿ‚ ccI[r]
-‚ ‚Â‚¡‚¢ccI@‚Ó‚Ÿ‚ ‚ ‚ ‚ÁIv[pcms]
+[ns]Saeki[nse]
+Fufufu... haaa...! It's hot...![l][er]
+Ahhh![pcms]
 
 *3616|
 [fc]
-[ns]’jq¶“k‚d[nse]
-u‚í‚çA‚¢A‚ÈA‚ª‚çA‚æ‚ª‚Á‚ÄA‚éA‚ºcc[r]
-‚»A‚ñ‚È‚ÉA‚¯‚ÂA‚Ì‚ A‚ÈA‚ªA‚¢‚¢A‚©‚ŸccHv[pcms]
+[ns]Male Student E[nse]
+W-wait, why are you enjoying it so much...?[l][er]
+H-how can your ass feel that good...?[pcms]
 
 *v1421|
 [fc]
 [vo_sa s="sae0205"]
-[ns]²”Œ[nse]
-u‚ ‚Í‚ÁA‚Ó‚ ‚Ÿ‚ÁII@‚ñ‚Ó‚Ó‚ÁA‚ñ‚£‚ÁII@cc[r]
-‚¢‚¢‚ÌA‚¨K‚¡cc‹C‚¿‚¢‚¢‚Ì‚§cc‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Ahh, fuahh!! Nfufu, nfuuhh!! ...[l][er]
+It feels good, my ass... it feels so good...!![pcms]
 
 *3617|
 [fc]
-[ns]’jq¶“k‚c[nse]
-u‚ ``cc‚¢‚«‚»A‚¤‚¾‚Ÿcc‚·A‚Æ‚Á‚«A‚ñ‚®‚£`[r]
-cc‚¤‚Ÿ`A‚¢A‚¡`ccv[pcms]
+[ns]Male Student D[nse]
+Ahhh... I'm... going to... cum...![l][er]
+S-so tight... nghh... ughh... ahh...[pcms]
 
 *3618|
 [fc]
-[ns]’jq¶“k‚e[nse]
-u‚ËA‚¥`cc‚ÇA‚±‚ªA‚¢‚¡ccH[r]
-‚Ç‚±A‚ÉA‚©‚¯‚ÄA‚ÙA‚µA‚¢‚Ì‚§ccHv[pcms]
+[ns]Male Student F[nse]
+H-hey... w-where... feels good...?[l][er]
+Where do you want me to... c-cum...?[pcms]
 
 *v1422|
 [fc]
 [vo_sa s="sae0206"]
-[ns]²”Œ[nse]
-u‚Ğ‚ÁA‚¬‚¡‚ÁII@‚¢J‚¤J‚£‚ÁII@‚ñ‚®‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Hii... gii!! Iu... uuu!! Nguu!![pcms]
 
 *3619|
 [fc]
-“ûñ‚É‹­‚­Šš‚İ‚Â‚©‚ê‚ÄA’É‚İ‚Æˆê‚ÉA[r]
-”w‹Ø‚É‰õŠ´‚ª‘–‚Á‚ÄAˆÓ¯‚ªNO‚Æ‚µ‚Ä‚­‚éB[pcms]
+My nipples are bitten hard, and along with the pain, a[r]pleasurable sensation runs through my spine, causing my[r]consciousness to become hazy.[pcms]
 
 *v1423|
 [fc]
 [vo_sa s="sae0207"]
-[ns]²”Œ[nse]
-u‚Ó‚Ÿ‚ ‚ I@‚ÇA‚Ç‚±A‚Écc‚Å‚àccB[r]
-‚Í‚ÁA‚Í‚ÁA‚Í‚Ácc‚¤‚Ÿ‚ ‚ ‚ ccv[pcms]
+[ns]Saeki[nse]
+Faaaah! Wh-where... anywhere...[l][er]
+Haa, haa, haa... Uaaaah...[pcms]
 
 *v1424|
 [fc]
 [vo_sa s="sae0208"]
-[ns]²”Œ[nse]
-u‚Ğ‚ÁA‚Í‚ÁA‚Ğ‚ ‚Ÿ‚ÁII@‚ ‚¤‚£‚ÁA[r]
-‚¤A‚®‚£‚ÁA‚ J‚ ‚Ÿ‚ÁIIv[pcms]
+[ns]Saeki[nse]
+H-ha, ha, hiaahh!! Auuu, u, guuhh, ahhhh!![pcms]
 
 *3620|
 [fc]
-[ns]’jq¶“k‚d[nse]
-u‚ ‚Ÿ``cc‚¢‚«A‚»A‚¤‚¾‚Ÿ``cc‚¯A‚Â‚ÉA‚¾[r]
-‚µA‚Äcc‚¨‚ÜA‚¦A‚àA‚¢‚©‚¹A‚Ä‚âA‚é‚º‚¥cc‚Ö[r]
-‚ñA‚½‚¢A‚¨A‚ñ‚È‚Ÿccv[pcms]
+[ns]Male Student E[nse]
+Ahh... I'm... g-gonna... cum...[l][er]
+thrusting... and... releasing...[l][er]
+it... I'll make you come too...[l][er]
+you perverted woman...[pcms]
 
 *v1425|
 [fc]
 [vo_sa s="sae0209"]
-[ns]²”Œ[nse]
-u‚ñ‚ÁA‚Ó‚Ÿ‚ÁII@‚ñ‚¤J‚£‚ÁII@‚Ÿ‚®‚£‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Nn, fahh!! Nuvu!! Aguu!![pcms]
 
 *3621|
 [fc]
-ƒAƒkƒX‚Ì’†‚ÉË¸‚È‚ñ‚ÄccB[r]
-‚»‚ñ‚Èccb‚ª‚·‚é‚İ‚½‚¢‚È‚±‚ÆccB[r]
-‚Å‚àccB[pcms]
+Ejaculating inside the anus...[l][er]
+That's... like something a beast would do...[l][er]
+But...[pcms]
 
 *3622|
 [fc]
-ƒAƒkƒX‚Ì’†‚ÉË¸‚³‚ê‚½‚çcc[r]
-‚Ç‚ê‚®‚ç‚¢A‹C‚¿‚¢‚¢‚Ì‚©‚µ‚çccB[pcms]
+I wonder... how good it would feel to be ejaculated inside[r]the anus...[pcms]
 
 *3623|
 [fc]
-[ns]’jq¶“k‚d[nse]
-u‚¨A‚ç‚Ÿcc‚¯‚ÂA‚ÉA‚¾‚³‚êA‚ÄA‚¢‚Á‚¿‚ÜA‚¦‚æ[r]
-cc‚Ö‚ñ‚½A‚¢A‚¨A‚ñ‚ÈA‚Ÿccv[pcms]
+[ns]Male Student E[nse]
+Oh... I'm... gonna... cum... inside...[l][er]
+your ass... you perverted woman...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -824,45 +786,43 @@
 *v1426|
 [fc]
 [vo_sa s="sae0210"]
-[ns]²”Œ[nse]
-u‚¢J‚ÁA‚Ğ‚¢J‚¢‚¡‚ÁII@‚¨K‚¡‚ÁII@‚¨K‚ÉA[r]
-‚ ‚Í‚ÁII@‚­A‰º‚³‚¢A‚¨K‚É‰º‚³‚¢‚ÁIHv[pcms]
+[ns]Saeki[nse]
+Ahh, it's intense!! My ass!! In my ass, ahah!![l][er]
+Please, in my ass, please!?[pcms]
 
 *3624|
 [fc]
-v‚í‚¸Œû‘–‚Á‚Ä‚µ‚Ü‚Á‚½A‚Í‚µ‚½‚È‚¢Œ¾—tB[pcms]
+I unintentionally blurted out indecent words.[pcms]
 
 *3625|
 [fc]
-‚»‚ê‚É”½‰‚µ‚½‚©‚Ì—l‚ÉA‚¨• ‚Ì’†‚Ìˆ³”—‚ªA[r]
-‚¢‚Á‚»‚¤‹­‚­‚È‚éB[pcms]
+As if in response to that, the pressure inside my stomach[r]becomes even stronger.[pcms]
 
 *3626|
 [fc]
-„A‚Ç‚¤‚µ‚Ä‚µ‚Ü‚Á‚½‚ÌccIH[r]
-cc‹­Š­‚³‚ê‚Ä‚¢‚é‚Æ‚¢‚¤‚Ì‚ÉII[pcms]
+What have I done...!?... Even though I'm being raped!![pcms]
 
 *3627|
 [fc]
-cc‰x‚ñ‚Å‚¢‚éH[pcms]
+... Are you enjoying this?[pcms]
 
 *3628|
 [fc]
-[ns]’jq¶“k‚d[nse]
-u‚¢A‚¢‚¢‚ñ‚¾‚Ècc‚¢‚¢‚ñcc‚¾A‚æ‚ÈA‚¾cc[r]
-‚¾‚µ‚Äcc‚àcc‚ `ccv[pcms]
+[ns]Male Student E[nse]
+I-It's... it's okay... it's...[l][er]
+right, right... release it... mmm~...[pcms]
 
 *v1427|
 [fc]
 [vo_sa s="sae0211"]
-[ns]²”Œ[nse]
-u‚¤‚Ÿ‚ÁII@‚íA‚í‚½A„‚ÁII@„‚Ì’†‚É‰º‚³‚¢II[r]
-‚½‚­‚³‚ñA‘òR‰º‚³‚¢‚Á‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Ahh!! I-I, me!! Please inside me!![l][er]
+Give me a lot, a lot of it!![pcms]
 
-;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
 [stop_se1]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 [overflow_se storage="se062"]
 
 ;;;[sysbt_meswin clear]
@@ -890,48 +850,47 @@
 
 *3629|
 [fc]
-[ns]’jq¶“k‚d[nse]
-u‚¤‚ `cc‚ÅA‚Å‚¿A‚Ü‚Á‚½ccv[pcms]
+[ns]Male Student E[nse]
+Ugh... I, I'm gonna... cum...[pcms]
 
 *v1428|
 [fc]
 [vo_sa s="sae0212"]
-[ns]²”Œ[nse]
-uccII@‚¤‚Ÿ‚ ‚ ‚ ‚ II@‚ ‚Â‚¢‚¡‚¢‚¢‚¢I[r]
-‚¨• ‚Ì’†‚ ‚Â‚¡‚¢Iv[pcms]
+[ns]Saeki[nse]
+...!! Uwaaaah!! It's hot!! It's hot inside my stomach![pcms]
 
 ;//whiteflash
 
 *3630|
 [fc]
-ƒAƒkƒX‚Ì’†‚Å’jq‚ÌƒyƒjƒX‚ª–¬‘Å‚Á‚ÄA[r]
-—\‘z‚à‚µ‚Ä‚¢‚È‚©‚Á‚½”M‚ğ‚à‚Á‚½ƒXƒyƒ‹ƒ}‚ªA[r]
-’°“à‚É‘å—Ê‚É—¬‚ê‚ñ‚Å‚­‚éB[pcms]
+The penis of the male student throbs inside the anus, and an[r]unexpectedly hot spellma flows in large quantities into the[r]intestines.[pcms]
 
 *v1429|
 [fc]
 [vo_sa s="sae0213"]
-[ns]²”Œ[nse]
-u‚ A‚Ÿcco‚³‚ê‚Ä‚écc‚¨K‚Ì’†‚Écc[r]
-Ë¸‚³‚ê‚Ä‚é‚£cc‚¤‚ŸA‚ `cc”M‚¢‚¡ccv[pcms]
+[ns]Saeki[nse]
+Ah, ah... I'm being released...[l][er]
+Inside my butt... I'm being ejaculated inside...[l][er]
+Ugh, ah~... It's hot...[pcms]
 
 *3631|
 [fc]
-[ns]’jq¶“k‚d[nse]
-u‚¯‚ÂA‚ÌA‚ A‚È‚ªA‚¤A‚²‚¢A‚Äcc‚´[‚ßA‚ñA[r]
-‚Ì‚İ‚±A‚ñ‚ÅA‚éA‚º‚¥cc‚Ó‚ÖA‚Ö‚Ö‚¥ccv[pcms]
+[ns]Male Student E[nse]
+My ass... it's so tight... it's...[l][er]
+amazing... I can't hold on anymore...[l][er]
+I'm gonna... cum... ah, ah~...[pcms]
 
 *v1430|
 [fc]
 [vo_sa s="sae0214"]
-[ns]²”Œ[nse]
-u‚¤A‚®cc‚ñ‚¤J‚£ccv[pcms]
+[ns]Saeki[nse]
+Ugh... guh...[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
 
 [stop_se0]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 
 [se0 storage="se062"]
 
@@ -941,8 +900,9 @@
 
 *3632|
 [fc]
-[ns]’jq¶“k‚c[nse]
-u‚ ‚Ÿ``cc‚ÅA‚écc‚Å‚éA‚£`A‚¤‚Ÿ``ccv[pcms]
+[ns]Male Student D[nse]
+Ahh... I'm... I'm gonna... cum...[l][er]
+gonna... ah~... ughhh...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -967,33 +927,32 @@
 
 *3633|
 [fc]
-‘±‚¯—lAƒXƒgƒbƒLƒ“ƒO‚É«Ší‚ğC‚è‚Â‚¯‚Ä‚¢‚½’jq‚ªA[r]
-‚»‚ê‚¾‚¯‚Åâ’¸‚ÉŠ‚Á‚½‚æ‚¤‚ÅA„‚Ì‘¾‘Úˆê–Ê‚ÉA”M‚¢[r]
-¸‰t‚ğT‚«U‚ç‚µ‚½B[pcms]
+The boy who continued to rub his genitals against my[r]stockings seemed to reach climax just from that, and he[r]scattered hot semen all over my thighs.[pcms]
 
 *v1431|
 [fc]
 [vo_sa s="sae0215"]
-[ns]²”Œ[nse]
-u‚Ó‚Ÿ‚ ‚ ‚ ‚ ccB‚¢‚¢cc‹C‚¿‚¢‚¢ccv[pcms]
+[ns]Saeki[nse]
+Faaaahhhh... It feels... good...[pcms]
 
 *3634|
 [fc]
-[ns]’jq¶“k‚c[nse]
-u‚¤A‚Ÿcc‚ ccv[pcms]
+[ns]Male Student D[nse]
+Ugh, ah... ah...[pcms]
 
 *v1432|
 [fc]
 [vo_sa s="sae0216"]
-[ns]²”Œ[nse]
-u‚ ‚Í‚ŸccƒXƒyƒ‹ƒ}A‚ ‚Á‚½‚©‚Ÿ‚¢cc‚ ‚Í‚Í‚ÁIv[pcms]
+[ns]Saeki[nse]
+Ahh... The sperm is so warm...[l][er]
+Ahahaha![pcms]
 
 *3635|
 [fc]
-[ns]’jq¶“k‚e[nse]
-u‚¨‚ŸA‚ ```ccv[pcms]
+[ns]Male Student F[nse]
+Ohh, ahhh~...[pcms]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 
 [se0 storage="se062"]
 
@@ -1022,98 +981,94 @@
 
 *3636|
 [fc]
-—§‚Ä‘±‚¯‚ÉA‚¨• ‚É‚à”M‚¢‚Ù‚Æ‚Î‚µ‚è‚ğŠ´‚¶‚éB[r]
-©•ª‚Ìè‚Å«Ší‚ğ˜M‚ñ‚Å‚¢‚½’jq‚©‚ç‚Ì•¨‚¾‚Á‚½B[pcms]
+I feel a hot surge in my stomach one after another.[l][er]
+It's from the boy who was playing with his own genitals.[pcms]
 
 *3637|
 [fc]
-[ns]’jq¶“k‚e[nse]
-u‚¤‚Ÿcc‚ cc‚¨A‚Í‚Ÿccv[pcms]
+[ns]Male Student F[nse]
+Ugh... ah... oh, haa...[pcms]
 
 *v1433|
 [fc]
 [vo_sa s="sae0217"]
-[ns]²”Œ[nse]
-u‚Í‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚ cc‚¨• ‚Ü‚Åcc‚Í‚Ÿccv[pcms]
+[ns]Saeki[nse]
+Haaaahhh... All the way to my stomach...[l][er]
+haaah...[pcms]
 
 *v1434|
 [fc]
 [vo_sa s="sae0218"]
-[ns]²”Œ[nse]
-u‚Ó‚Ó‚Ácc‚±‚ñ‚È‚É‚½‚­‚³‚ñcc‚¤‚ê‚µ‚¢ccv[pcms]
+[ns]Saeki[nse]
+Hehe... so much... I'm happy...[pcms]
 
 *3638|
 [fc]
-‚¨• ‚ÉL‚ª‚Á‚½¸‰t‚ğw‚Å‚·‚­‚¢æ‚Á‚ÄA[r]
-Šç‚Ì‘O‚Å˜M‚ñ‚Å‚İ‚éB[pcms]
+I scoop up the semen that spread across my stomach with my[r]fingers and play with it in front of my face.[pcms]
 
 *v1435|
 [fc]
 [vo_sa s="sae0219"]
-[ns]²”Œ[nse]
-u‚·‚²‚­cc‚Ç‚ë‚Á‚Æ‚µ‚Ä‚écc‚Ó‚Ó‚Áccv[pcms]
+[ns]Saeki[nse]
+It's so... sticky... hehe...[pcms]
 
 *3639|
 [fc]
-”Z‚¢A‚Æ‚¢‚¤‚±‚Æ‚È‚Ì‚¾‚ë‚¤‚©B[r]
-…‹C‚Ì­‚È‚¢¸‰t‚ªAw‚ÌŠÔ‚Å…‚ğˆø‚­B[pcms]
+The semen is thick, I suppose.[l][er]
+The semen, with little moisture, forms strings between my[r]fingers.[pcms]
+[l][er]
 
 *v1436|
 [fc]
 [vo_sa s="sae0220"]
-[ns]²”Œ[nse]
-u‚¥‚ ``ccv[pcms]
+[ns]Saeki[nse]
+Ehhhhhh......[pcms]
 
 *3640|
 [fc]
-‚»‚µ‚Ä¶L‚¢“õ‚¢‚Å•@‚ğ‚­‚·‚®‚éA[r]
-‚Ü‚¾”M‚Ìc‚Á‚Ä‚¢‚é¸‰t‚ğA„‚Íã‚Ìã‚Ö“H‚ç‚¹‚½B[pcms]
+And with a pungent smell that tickles my nose, I let the[r]still warm semen drip onto my tongue.[pcms]
 
 *v1437|
 [fc]
 [vo_sa s="sae0221"]
-[ns]²”Œ[nse]
-u‚Ó‚Ó‚Ó‚Ó‚Ó‚Ácc‚¤‚Ácc‚Ó‚Ó‚Ácc‚ ‚Í‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Hehehe... uhh... hehe... aha!![pcms]
 
 *3641|
 [fc]
-•Ï‚È–¡‚ª‚·‚éccB[pcms]
+It tastes strange...[pcms]
 
 *3642|
 [fc]
-cc•Ï‚È–¡I[r]
-‚Å‚àcc‚Ü‚½cc—~‚µ‚¢ccB[pcms]
+... Strange taste! But... I want it again...[pcms]
 
 *3643|
 [fc]
-„cc‚Ç‚¤‚µ‚Ä‚µ‚Ü‚Á‚½‚ÌccH[pcms]
+What have I done...?[pcms]
 
 *3644|
 [fc]
-v‚í‚¸AÎ‚¢‚ª‚±‚İã‚°‚Ä‚­‚éB[pcms]
+I can't help but laugh.[pcms]
 
 *3645|
 [fc]
-‚±‚ñ‚È‚¨‚©‚µ‚È–‚ÉŠª‚«‚Ü‚ê‚½‚ÆŒ¾‚¤‚Ì‚ÉA[r]
-—á‚¦‚æ‚¤‚Ì‚È‚¢‚—gŠ´‚É•ï‚Ü‚êA[r]
-A‚Ì‰œ‚Ìº‚ğAE‚·‚±‚Æ‚ªo—ˆ‚È‚¢B[pcms]
+Even though I say that I've been caught up in such a strange[r]situation, I am enveloped in an indescribable sense of[r]exhilaration, and I can't suppress the voice deep in my[r]throat.[pcms]
 
 *3646|
 [fc]
-’|“à‚É‹­Š­‚³‚êA’jq¶“k‚É‚æ‚Á‚Ä‚½‚©‚Á‚Ä[r]
-›j‚ç‚ê‚½‚ÆŒ¾‚¤‚Ì‚ÉccB[pcms]
+Even though I say that I was raped by Takeuchi and tormented[r]by the male students...[pcms]
 
 *3647|
 [fc]
-’|“àccB[pcms]
+Takeuchi...[pcms]
 
 *3648|
 [fc]
-’|“àcc’|“àccA’|“àII[pcms]
+Takeuchi... Takeuchi... Takeuchi!![pcms]
 
 *3649|
 [fc]
-“ª‚Ì’†‚Åw’|“àx‚Ì–¼‚ªAŠç‚ªAŒJ‚è•Ô‚µ•‚‚©‚ñ‚Å‚­‚éB[pcms]
+The name 'Takeuchi' keeps repeating in my head, his face[r]keeps appearing.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -1128,43 +1083,43 @@
 *v1438|
 [fc]
 [vo_sa s="sae0222"]
-[ns]²”Œ[nse]
-u‚Ó‚Ócc‚ ‚Í‚Ácc‚ ‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚ÁII[r]
-‚ ‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚Í‚ÍIIIIv[pcms]
+[ns]Saeki[nse]
+Hehe... ahaha... ahahahaahahahaha!![l][er]
+Ahahahahahahahahahahahaha!![pcms]
 
 ;;;[sysbt_meswin clear]
 
 
 
-;//‚±‚±‚Ü‚Å–{•Ò
+;//ã“ã“ã¾ã§æœ¬ç·¨
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
-;•s—v[eval exp="="sf.g_scn14 = 1"]
+;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
+;ä¸è¦[eval exp="="sf.g_scn14 = 1"]
 
-;//ƒEƒBƒ“ƒhƒEÁ‹
+;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//•‚ÉƒtƒF[ƒh
+;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
 ;[black_toplayer][trans_c random][hide_chara_int]
 [zapfade]
 
-;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 
-;//¦‘I‘ğˆiHj
-;//E;//[02091]‚Ö
-;//E;//[03031]‚Ö
+;//â€»é¸æŠè‚¢ï¼ˆï¼Ÿï¼‰
+;//ãƒ»;//[02091]ã¸
+;//ãƒ»;//[03031]ã¸
 
 [jump target=*02091_TOP storage="02091.ks"]
 

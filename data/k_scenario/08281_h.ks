@@ -1,32 +1,32 @@
 
-;//¡ËƒuƒƒbƒN08281w‚¨‚­‚¶‚å‚¤x¦ƒuƒƒbƒN’Ç‰Á
-;//BG:“ñŠK˜L‰ºF’©
-;//“oêl•¨FålŒöE—DE•ü”üEƒŠƒT
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08281ã€ãŠãã˜ã‚‡ã†ã€â€»ãƒ–ãƒ­ãƒƒã‚¯è¿½åŠ 
+;//BG:äºŒéšå»Šä¸‹ï¼šæœ
+;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»å„ªãƒ»æœ‹ç¾ãƒ»ãƒªã‚µ
 
 *08281_H_TOP
-;[debug_win]‚È‚¤@08281_H[debug_win_end]
+;[debug_win]ãªã†ã€€08281_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 ;[if exp="tf.scene_mode == 0"][jump target=*08281][endif]
 ;[winset]
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
 [bgm008]
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *08281
 
-;*SceneSet|w‚¨‚­‚¶‚å‚¤x
+;*SceneSet|ã€ãŠãã˜ã‚‡ã†ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08281 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08281 = 1"]
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 
 ;//[bgm008]
 
@@ -40,86 +40,85 @@
 
 *10504|
 [fc]
-‚Ü‚½AŒõ‚ªccB[pcms]
+And then, Hikari...[pcms]
 
 *10505|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ücc‚Ôcc‚µ‚¢ccv[pcms]
+[ns]Kato[nse]
+Ma... bu... shi... i...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_a_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3832|
 [fc]
 [vo_ya s="yama1077"]
-[ns]RŠİ[nse]
-u‚ cc‰Á“¡ŒNccBˆê‚ÉA‰®ãAs‚±‚¤‚æccŠOA[r]
-‹C‚¿‚æ‚³‚»‚¤cc“µ‚³‚ñ‚Æ‚©A’|“à‚³‚ñ’BA‚Ç‚±‚©s[r]
-‚Á‚¿‚á‚Á‚½‚µccv[pcms]
+[ns]Yamagishi[nse]
+Ah... Kato-kun... Let's go to the rooftop together...[l][er]
+It seems nice outside... Hitomi-san and Takeuchi-san went[r]somewhere...[pcms]
 
 *10506|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨‚­cc‚¶‚åcc‚¤ccHv[pcms]
+[ns]Kato[nse]
+O... ku... jo... u...?[pcms]
 
 [ChrSetEx layer=1 chbase="risa_a_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3833|
 [fc]
 [vo_ri s="risa0804"]
-[ns]V“¹[nse]
-u‰®ãcc‹‚¢‚ícc‚Å‚àccŠJ•ú“I‚Åcc‚¢‚¢‚©‚àccv[pcms]
+[ns]Shindou[nse]
+The rooftop... It's hot... but...[l][er]
+it feels liberating... It might be nice...[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_a_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 ;[ChrSetParts layer=0 chface="tomo_a_a_01"]
-;mm ªŠY“–ƒtƒ@ƒCƒ‹–³‚µ
+;mm â†‘è©²å½“ãƒ•ã‚¡ã‚¤ãƒ«ç„¡ã—
 [ChrSetParts layer=1 chface="tomo_a_a1_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3834|
 [fc]
 [vo_to s="tomo0468"]
-[ns]ŒÜ\—’[nse]
-uŠJ•ú“IccB‚¢‚¢‚©‚àcc‚¶‚á‚ As‚±‚¤Hv[pcms]
+[ns]Igarashi[nse]
+Liberating... It might be nice...[l][er]
+So, shall we go?[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *10507|
 [fc]
-¬•¿‚Èq‚ªA‰´‚Ìè‚ğˆø‚¢‚ÄccB[r]
-‹‚¢ccB‚Ü‚Ô‚µ‚¢ccB[pcms]
+A petite girl takes my hand...[l][er]
+It's hot... It's dazzling...[pcms]
 
 *10508|
 [fc]
-‚Å‚àccB[r]
-l‚¦‚é‚Ì‚à–Ê“|‚­‚³‚¢ccB[pcms]
+But... Thinking is such a hassle...[pcms]
 
 *10509|
 [fc]
-‚Â‚¢‚Äs‚Á‚Ä‚İ‚é‚©ccB[pcms]
+Shall I go along with them and see...?[pcms]
 
 *10510|
 [fc]
-á¿‚µ‚¢ccB[r]
-–Ú‚ªccŠJ‚¯‚ç‚ê‚È‚¢ccB[pcms]
+It's dazzling... I can't... open my eyes...[pcms]
 
 ;//blackout
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 [jump target=*08282_H_TOP storage="08282_H.ks"]
 
 

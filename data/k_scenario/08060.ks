@@ -1,15 +1,15 @@
 
-;//¡ËƒuƒƒbƒN08060w•Ï’²x
-;//BG;“Áê‹³º˜L‰ºF–éFÁ“”
-;//“oêl•¨GålŒöE’|“à
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08060ã€å¤‰èª¿ã€
+;//BG;ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç«¹å†…
 
 *08060_TOP
-;[debug_win]‚È‚¤@08060[debug_win_end]
-;*SceneSet|w•Ï’²x
+;[debug_win]ãªã†ã€€08060[debug_win_end]
+;*SceneSet|ã€å¤‰èª¿ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08060 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08060 = 1"]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 
 ;//;//BG:bg04d
@@ -27,30 +27,28 @@
 
 [stop_se0]
 
-;—§‚¿
+;ç«‹ã¡
 *std521|
 [fc]
-[ns]’|“à[nse]
-u—S“ñ‚Á‚Ä‚³‚ŸccA‚¢‚Â‚à‚ ‚ñ‚È‚É‚¢‚¢v‚¢‚µ‚Ä‚½‚Ì[r]
-‚©‚ÈB‘A‚Ü‚µ‚¢‚Á‚ÄŒ¾‚¤‚æ‚èA‘‚½‚ç‚µ‚¢‚âccv[pcms]
+[ns]Takeuchi[nse]
+I wonder if Yuuji has always been so lucky...[l][er]
+It's not so much envy as it is irritating.[pcms]
 
 *9014|
 [fc]
-[ns]‰Á“¡[nse]
-uŠm‚©‚É‚»‚¤‚¾‚æ‚È‚Ÿcc‚µ‚©‚à‚³AƒAƒCƒc‚Ìê‡AD[r]
-‚«“¯m‚¾‚à‚ñ‚Ècc‘A‚Ü‚µ‚¢‚æccv[pcms]
+[ns]Kato[nse]
+Yeah, that's true... And on top of that, they're in love[r]with each other...[l][er]
+I'm so jealous...[pcms]
 
 *9015|
 [fc]
-‚³‚Á‚«‚Ìq‚à‰Âˆ¤‚©‚Á‚½‚¯‚ÇA‚â‚Á‚Ï‚èAÅ‰‚Ì‘Šè‚Í[r]
-RŠİ‚³‚ñ‚ª—Ç‚©‚Á‚½B[r]
-cc‚»‚ê‚ÉA²”Œ‚àˆ«‚­‚È‚¢B[pcms]
+The girl from earlier was cute too, but in the end,[r]Yamagishi-san was the best as the first partner.[l][er]
+... And Saeki is not bad either.[pcms]
 
 *9016|
 [fc]
-‘Šè‚ªA‚ ‚Ì“ñl‚Ì‚Ç‚Á‚¿‚©‚¾‚Á‚½‚çccB[r]
-‚à‚Á‚Æ‚æ‚©‚Á‚½‚Ì‚ÉccB[r]
-‚¿‚å‚Á‚Æc”O‚¾B[pcms]
+If the partner was either of those two...[l][er]
+It would have been better... It's a little disappointing.[pcms]
 
 ;//;//BG:bg03d
 
@@ -61,54 +59,52 @@
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std522|
 [fc]
-[ns]’|“à[nse]
-u‚ ‚Ì‚³A¡“úA‚İ‚ñ‚È‹’®Šoº‚ÅQ‚é–‚É‚È‚Á‚Ä‚é‚¶[r]
-‚á‚ñv[pcms]
+[ns]Takeuchi[nse]
+Hey, you know, everyone is supposed to sleep in the[r]audiovisual room today.[pcms]
 
 *9017|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤‚¾‚Èv[pcms]
+[ns]Kato[nse]
+Yeah, that's true.[pcms]
 
 [fadeoutbgm time=500]
 
-;—§‚¿
+;ç«‹ã¡
 *std523|
 [fc]
-[ns]’|“à[nse]
-u‚Á‚Ä–‚ÍA—D‚¿‚á‚ñ‚âA“µ‚àA“¯‚¶•”‰®‚È‚ñ‚¾‚æ‚Èv[pcms]
+[ns]Takeuchi[nse]
+So that means Yuu-chan and Hitomi are in the same room too,[r]huh.[pcms]
 
-;//SE:S”‰¹
+;//SE:å¿ƒæ‹éŸ³
 [se0 storage="se003" loop=true]
 
 *9018|
 [fc]
-[ns]‰Á“¡[nse]
-uccI@‚»‚¤‚¾‚Èv[pcms]
+[ns]Kato[nse]
+...! That's right.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std524|
 [fc]
-[ns]’|“à[nse]
-uccP‚Á‚¿‚á‚¨‚¤‚©ccIIv[pcms]
+[ns]Takeuchi[nse]
+... Should I attack...!![pcms]
 
 *9019|
 [fc]
-[ns]‰Á“¡[nse]
-uccII@‚ÈA‰½Œ¾‚¢o‚·‚ñ‚¾‚æA“Ë‘RIIv[pcms]
+[ns]Kato[nse]
+...!! W-What are you saying all of a sudden!![pcms]
 
 *9020|
 [fc]
-‚³‚·‚ª‚É‚»‚ê‚Ío—ˆ‚È‚¢‚¾‚ëccB[r]
-‚¢‚Â‚à‚¢‚Â‚àAƒRƒCƒc‚ÌŒ¾“®‚É‚Í‹Á‚©‚³‚ê‚éB[pcms]
+I can't do that, can I...? I'm always surprised by this[r]person's words and actions.[pcms]
 
 *9021|
 [fc]
-‚Å‚àAŠm‚©‚ÉccƒRƒCƒc‚ÌŒ¾‚¤‚±‚Æ‚à•ª‚©‚ç‚È‚­‚àccB[r]
-cc‚¢‚â‚¢‚âA‘Ê–Ú‚¾‚ëA‚»‚ñ‚È‚ÌB[pcms]
+But, certainly... I don't understand what this person is[r]saying either...[l][er]
+No, no, that's not right.[pcms]
 
 [bgm001]
 [stop_se0]
@@ -118,34 +114,33 @@
 [ChrSetParts layer=1 chface="take_a_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std525|
 [fc]
-[ns]’|“à[nse]
-uccƒnƒ@cc‚»‚ñ‚È‚±‚ÆAo—ˆ‚½‚ç‚È‚Ÿccv[pcms]
+[ns]Takeuchi[nse]
+... Haah... If only I could do something like that...[pcms]
 
 *9022|
 [fc]
-[ns]‰Á“¡[nse]
-ucc‚ÅAo—ˆ‚é–ócc‚È‚¢‚¾‚ëccv[pcms]
+[ns]Kato[nse]
+... So, there's no way... I could do something like that...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std526|
 [fc]
-[ns]‰Á“¡•’|“à[nse]
-uƒnƒ@ccv[pcms]
+[ns]Kato & Takeuchi[nse]
+*sigh*...[pcms]
 
 *9023|
 [fc]
-‘Ê–Ú‚¾ccB[r]
-‰´‚Ü‚ÅA^–ç‚Ì•a‹C‚ªŠ´õ‚Á‚½ccB[pcms]
+It's no good... Even I have caught Shinya's illness...[pcms]
 
 *9024|
 [fc]
-RŠİ‚³‚ñ‚ÌQ‚İ‚ğP‚¤Š‚ğA‘z‘œ‚µ‚Ä‚µ‚Ü‚Á‚½ccB[r]
-˜b‘è‚ğ•Ï‚¦‚½•û‚ª—Ç‚³‚»‚¤‚¾‚ÈB[pcms]
+I couldn't help but imagine attacking Yamagishi-san while[r]she's asleep...[l][er]
+It seems like it would be better to change the subject.[pcms]
 
 ;//;//BG:bg05d
 
@@ -154,87 +149,88 @@
 
 *9025|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤Œ¾‚¦‚Î‚³ccv[pcms]
+[ns]Kato[nse]
+Speaking of which...[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std527|
 [fc]
-[ns]’|“à[nse]
-uƒQƒz‚ÁII@ƒQƒzƒQƒz‚ÁII@‚ÈA‰½‚¾IH@‹}‚ÉŠP[r]
-‚ªII@ƒQƒz‚ÁI@‚­A–ò‚Ì‚ñAƒQƒz‚ÁI@‚¾‚Ì‚Éccv[pcms]
+[ns]Takeuchi[nse]
+Cough!! Cough cough!! W-What's this!?[l][er]
+I suddenly started coughing!! Cough![l][er]
+I-I need to take my medicine, cough![l][er]
+And yet...[pcms]
 
 *9026|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨‘OA–ò‚àŒø‚©‚È‚¢’öƒAƒŒ‚È‚ñ‚¶‚áccv[pcms]
+[ns]Kato[nse]
+You, are you really that messed up that even medicine[r]doesn't work on you...[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std528|
 [fc]
-[ns]’|“à[nse]
-u‚¤A‚¤‚é‚³‚¢I@ƒQƒzƒbIv[pcms]
+[ns]Takeuchi[nse]
+Ugh, shut up! Cough![pcms]
 
 *9027|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Í‚Í‚ÁII@‰Ä•—×ˆø‚­“z‚ÍccƒQƒzƒQƒzƒbII@‚ [r]
-‚êccHv[pcms]
+[ns]Kato[nse]
+Haha!! Those who catch a summer cold...[l][er]
+*cough cough*... Huh...?[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std529|
 [fc]
-[ns]’|“à[nse]
-u‚È‚ñ‚¾‚æA‘×”V‚à‚¶‚á‚ñcc‚¨‘O‚àƒAƒŒ‚¾‚ëccHv[pcms]
+[ns]Takeuchi[nse]
+What's the matter, Taiyuki... You're also like that,[r]right...?[pcms]
 
 *9028|
 [fc]
-‚¨‚©‚µ‚¢‚ÈccB‚³‚Á‚«‚Ü‚Å‰½‚Æ‚à–³‚©‚Á‚½‚Ì‚ÉBƒVƒƒ[r]
-ƒ[‚©‚ÈB‚³‚Á‚«‚ÌƒVƒƒƒ[‚ÅA“ª”G‚ê‚¿‚á‚Á‚½‚Ü‚ñ‚Ü[r]
-‚¾‚Á‚½‚à‚ñ‚ÈccB[pcms]
+It's strange... Just a moment ago, I was perfectly fine.[l][er]
+Maybe it's because of the shower.[l][er]
+My head is still wet from earlier...[pcms]
 
 *9029|
 [fc]
-‚Å‚àA¡‚Í‰Ä‚¾‚¼H[r]
-‚¢‚­‚ç–é‚Æ‚Í‚¢‚¦A‚»‚ñ‚È‚ÉŠ¦‚¢–ó‚Å‚à‚È‚¢B[r]
-‰½‚¾‚ë‚¤ccB[pcms]
+But it's summer now, you know?[l][er]
+Even though it's nighttime, it's not that cold.[l][er]
+I wonder what it is...[pcms]
 
 *9030|
 [fc]
-[ns]‰Á“¡[nse]
-u‰´‚Í‚¨‘O‚Æ‚Íˆá‚¤‚ñ‚¾‚æccB‚±‚ê‚ÍAƒVƒƒƒ[‚Å—â[r]
-‚¦‚½‚©‚ç‚¾ccƒQƒz‚ÁIIv[pcms]
+[ns]Kato[nse]
+I'm different from you... This is because I got chilled from[r]the shower...[l][er]
+Cough![pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std530|
 [fc]
-[ns]’|“à[nse]
-u‚ [A‚Í‚¢‚Í‚¢B•ª‚©‚Á‚½‚æBÃ‚©‚É‚µ‚ë‚æA‚à‚¤[r]
-‹’®Šoº‚¾‚¼ccv[pcms]
+[ns]Takeuchi[nse]
+Ah, alright, I got it. Quiet down, we're already in the[r]audiovisual room...[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
 
-;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 [jump target=*08070_TOP storage="08070.ks"]

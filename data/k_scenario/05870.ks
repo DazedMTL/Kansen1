@@ -1,15 +1,15 @@
 
-;//¡ËƒuƒƒbƒN05870w•s’ˆÓx
-;//BG:“Áê‹³º˜L‰ºF—[•û
-;//“oêl•¨GålŒöE“µEŠ´õƒŠƒTEƒ]ƒ“ƒr
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05870ã€ä¸æ³¨æ„ã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤•æ–¹
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»æ„ŸæŸ“ãƒªã‚µãƒ»ã‚¾ãƒ³ãƒ“
 
 *05870_TOP
-;[debug_win]‚È‚¤@05870[debug_win_end]
-;*SceneSet|w•s’ˆÓx
+;[debug_win]ãªã†ã€€05870[debug_win_end]
+;*SceneSet|ã€ä¸æ³¨æ„ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05870 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05870 = 1"]
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 
 [bgm009]
 
@@ -18,7 +18,7 @@
 [bg storage="bg04b"]
 [trans_c cross time=500]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 
 [se0 storage="se005"]
 
@@ -28,84 +28,79 @@
 
 *6308|
 [fc]
-ŠwH‚Ö‘±‚­˜L‰º‚Ü‚Å‚­‚é‚ÆA‚»‚±‚É‚Í‚¨‚©‚µ‚È“z‚ç‚ªA[r]
-‰½l‚àƒEƒ‚Â‚¢‚Ä‚¢‚½B[pcms]
+When I reached the hallway leading to the school cafeteria,[r]there were strange people wandering around.[pcms]
 
 *6309|
 [fc]
-‚¾‚ª“z‚ç‚Ì“®‚«‚Í’x‚­A‚±‚¿‚ç‚ÌƒXƒs[ƒh‚É‚Â‚¢‚Ä‚­‚é[r]
-‚±‚Æ‚ª‚Å‚«‚È‚¢‚±‚Æ‚ÍA‚à‚¤Ø–¾Ï‚İ‚¾B[pcms]
+However, it has already been proven that they are slow and[r]cannot keep up with our speed.[pcms]
 
 *6310|
 [fc]
-[ns]‰Á“¡[nse]
-u“Ë‚ÁØ‚é‚¼A²”ŒIIv[pcms]
+[ns]Kato[nse]
+I'm cutting through, Saeki!![pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2588|
 [fc]
 [vo_sa s="sae0699"]
-[ns]²”Œ[nse]
-u‚Í‚¢Iv[pcms]
+[ns]Saeki[nse]
+Yes![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *6311|
 [fc]
-“z‚ç‚ÉG‚ê‚ç‚ê‚È‚¢‚æ‚¤‚ÉA‘S‘¬—Í‚ÅŠÔ‚ğ‚·‚è”²‚¯‚éB[r]
-“z‚ç‚ª‚Â‚¢‚Ä‚«‚Ä‚¢‚È‚¢‚±‚Æ‚ğAŒã‚ë‚ğU‚è•Ô‚Á‚ÄŠm”F[r]
-‚µ‚½‚»‚Ì\\\B[pcms]
+As to not be touched by them, we slip through at full speed.[l][er]
+At that moment, when I looked back to confirm that they[r]weren't following us...[pcms]
 
-;//SE:l‚É‚Ô‚Â‚©‚é
+;//SE:äººã«ã¶ã¤ã‹ã‚‹
 [se0 storage="se025"]
 [quake_bg xy m]
 
 *6312|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤‚Ÿ‚ÁIIv[pcms]
+[ns]Kato[nse]
+Ugh!![pcms]
 
 *6313|
 [fc]
-‰´‚Í‰½‚©_‚ç‚©‚¢‚à‚Ì‚É‚Ô‚Â‚©‚èAƒoƒ‰ƒ“ƒX‚ğ•ö‚µ‚Ä°[r]
-‚É“|‚ê‚ñ‚¾B[pcms]
+I collided with something soft and lost my balance, falling[r]to the floor.[pcms]
 
 *6314|
 [fc]
-[ns]‰Á“¡[nse]
-uƒCƒeƒeccv[pcms]
+[ns]Kato[nse]
+Ouch...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2589|
 [fc]
 [vo_sa s="sae0700"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñI@‘åä•v‚Å‚·‚©IHv[pcms]
+[ns]Saeki[nse]
+Kato-san! Are you okay!?[pcms]
 
 *6315|
 [fc]
-²”Œ‚Éx‚¦‚ç‚ê‚È‚ª‚ç—§‚¿ã‚ª‚èA©•ª‚ª‰½‚É‚Ô‚Â‚©‚Á[r]
-‚½‚Ì‚©‚Æ•Ó‚è‚ğŒ©‰ñ‚·‚ÆA‚»‚±‚É‚Íƒtƒ‰‚Â‚«‚È‚ª‚ç—§‚¿[r]
-ã‚ª‚éAV“¹æ¶‚Ìp‚ª‚ ‚Á‚½B[pcms]
+With Saeki's support, I stood up and looked around to see[r]what I had collided with.[l][er]
+There, I saw the figure of Shindou-sensei, struggling to[r]stand up.[pcms]
 
 *6316|
 [fc]
-[ns]‰Á“¡[nse]
-uV“¹æ¶ccv[pcms]
+[ns]Kato[nse]
+Sensei Shindou...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 [ChrSetEx layer=1 chbase="risa_e_e_01"]
 [ChrSetXY layer=1 x=180 y=0]
 [ChrSetParts layer=1 chface="risa_e_e_02"]
@@ -113,59 +108,54 @@
 
 *6317|
 [fc]
-V“¹æ¶‚Í–³Œ¾‚Å‰´‚ğŒ©‚Â‚ßA”–‚­Î‚Á‚Ä‚¢‚½B[pcms]
+Sensei Shindou silently stared at me and gave a faint smile.[pcms]
 
 *6318|
 [fc]
-V“¹æ¶ccB[pcms]
+Sensei Shindou...[pcms]
 
 *6319|
 [fc]
-”ül‚ÅA¦‚¢ƒXƒ^ƒCƒ‹‚ª—Ç‚­‚ÄA•µˆÍ‹C‚ªƒZƒNƒV[‚ÅA[r]
-—â‚½‚¢Š´‚¶‚Ì‚·‚éA‘ål‚Ì—‚ÌlccB[pcms]
+A beautiful, incredibly well-shaped, sexy and cold-feeling[r]adult woman...[pcms]
 
 *6320|
 [fc]
-‚ ‚ñ‚Èl‚ª©•ª‚Ì—öl‚¾‚Á‚½‚ç‚ÆA“²‚ê‚½‚±‚Æ‚à‚ ‚Á‚½[r]
-—«‚ªA“¯‚¶lŠÔ‚Æ‚Ív‚¦‚È‚¢’ö‚É•Ï‚í‚Á‚Ä‚µ‚Ü‚Á‚½‚Ì[r]
-‚ªA‰´‚É‚Í“‚­c”O‚¾‚Á‚½B[pcms]
+I was deeply disappointed to see that the woman I had once[r]admired, fantasizing about what it would be like if she were[r]my girlfriend, had changed so drastically that she seemed[r]like a completely different person to me.[pcms]
 
 *6321|
 [fc]
-‚Å‚«‚é‚±‚Æ‚È‚çAŒ³‚É–ß‚Á‚Ä‚Ù‚µ‚¢ccB[r]
-‚¢‚Â‚à‚ÌAV“¹æ¶‚ÉccB[pcms]
+If possible, I want her to go back to how she used to be...[l][er]
+The usual Shindou-sensei...[pcms]
 
 *6322|
 [fc]
-‚Å‚àA‚à‚¤ccB[pcms]
+But, already...[pcms]
 
 *6323|
 [fc]
-”–‚­Î‚Á‚½‚Ü‚ÜAV“¹æ¶‚ª‚ä‚Á‚­‚è‚Æ‚±‚¿‚ç‚Ö‹ß‚Ã‚«[r]
-n‚ß‚½uŠÔA‰´‚Í¦‚¢¨‚¢‚Å²”Œ‚É˜r‚ğˆø‚Á’£‚ç‚êA“{[r]
-†‚ğ—‚Ñ‚¹‚ç‚ê‚½B[pcms]
+As Shindou-sensei slowly approached with a faint smile, I[r]was suddenly pulled by Saeki with great force and scolded.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_10"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2590|
 [fc]
 [vo_sa s="sae0701"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñII@‚»‚ñ‚Èl‚Æˆê‚É€‚Ê‚Â‚à‚è‚È‚ñ‚Å‚·[r]
-‚©IH@‚»‚ñ‚È–Aâ‘Î‚É‹–‚µ‚Ü‚¹‚ñƒbIIv[pcms]
+[ns]Saeki[nse]
+Kato-san!! Are you planning to die together with that[r]person!?[l][er]
+I absolutely won't allow such a thing!![pcms]
 
 *6324|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
-;—§‚¿
-;V“¹
+;ç«‹ã¡
+;æ–°é“
 [ChrSetEx layer=1 chbase="risa_e_e_01"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
@@ -173,7 +163,7 @@
 
 *6325|
 [fc]
-V“¹æ¶ccB[pcms]
+Sensei Shindou...[pcms]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
@@ -186,5 +176,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05880]‚Ö
+;//[05880]ã¸
 [jump target=*05880_TOP storage="05880.ks"]

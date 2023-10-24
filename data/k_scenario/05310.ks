@@ -1,20 +1,20 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN05310w’ÇŒ‚x
-;//;//BG:“Áê‹³º˜L‰ºF’©FÁ“”
-;//;//BG:•ÛŒ’ºF’©FÁ“”
-;//“oêl•¨GålŒöE“µ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05310ã€è¿½æ’ƒã€
+;//;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæœï¼šæ¶ˆç¯
+;//;//BG:ä¿å¥å®¤ï¼šæœï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *05310_TOP
-;[debug_win]‚È‚¤@05310[debug_win_end]
-;*SceneSet|w’ÇŒ‚x
+;[debug_win]ãªã†ã€€05310[debug_win_end]
+;*SceneSet|ã€è¿½æ’ƒã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05310 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05310 = 1"]
 
-;//ôFBGM003
+;//â™ªï¼šBGM003
 
 [bgm003]
 
@@ -23,7 +23,7 @@
 [bg storage="bg13a"]
 [trans_c cross time=500]
 
-;//SE:”à‚ğŠJ‚­i¨‚¢‚æ‚­j
+;//SE:æ‰‰ã‚’é–‹ãï¼ˆå‹¢ã„ã‚ˆãï¼‰
 
 [se0 storage="se009"]
 
@@ -33,103 +33,94 @@
 
 *5280|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚êccHv[pcms]
+[ns]Kato[nse]
+Huh...?[pcms]
 
 *5281|
 [fc]
-‹ì‚¯‚ñ‚¾•ÛŒ’º‚É‚ÍARŠİ‚³‚ñ‚à^–ç‚à‚¢‚È‚©‚Á‚½B[pcms]
+When I rushed into the infirmary, neither Yamagishi-san nor[r]Shinya were there.[pcms]
 
 *5282|
 [fc]
-“ñl‚ªQ‚Ä‚¢‚½”¤‚Ìƒxƒbƒh‚É‹ß‚Ã‚¢‚Ä‚İ‚é‚ÆA[r]
-‰½‚©‚Ì‰t‘Ì‚É‚æ‚éõ‚İ‚ªAƒV[ƒc‚Ì‚ ‚¿‚±‚¿‚É‚Å‚«‚Ä‚¢‚ÄA[r]
-ü‚è‚É¶L‚¢L‚¢‚ª•Y‚Á‚Ä‚¢‚éB[pcms]
+When I approached the bed where the two of them were[r]supposed to be sleeping, I noticed stains from some kind of[r]liquid on the sheets here and there, and there was a strong[r]unpleasant smell in the air.[pcms]
 
 *5283|
 [fc]
-‚»‚ÌL‚¢‚ÉA²”Œ‚ÍŒûŒ³‚ğ‰Ÿ‚³‚¦‚ÄŠç‚ğ‚µ‚©‚ß‚½B[pcms]
+Saeki covered her mouth and frowned at the smell.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_07"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2193|
 [fc]
 [vo_sa s="sae0456"]
-[ns]²”Œ[nse]
-u‰½‚ÌL‚¢‚©‚µ‚çA‚±‚êccv[pcms]
+[ns]Saeki[nse]
+I wonder what smell this is...[pcms]
 
 *5284|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *5285|
 [fc]
-²”Œ‚É‚Í‚í‚©‚ç‚È‚¢‚æ‚¤‚¾‚Á‚½‚ªA[r]
-‰´‚É‚Í‚»‚ÌL‚¢‚ÉŠo‚¦‚ª‚ ‚Á‚½B[pcms]
+Saeki didn't seem to know, but I had a familiar memory of[r]that smell.[pcms]
 
 *5286|
 [fc]
-‚±‚êccB¸q‚ÌL‚¢‚¶‚á‚È‚¢‚Ì‚©ccH[r]
-‚È‚ñ‚Å‚±‚ñ‚È‚Æ‚±‚ÅccB[pcms]
+This... Could it be the smell of semen...?[l][er]
+Why is it here...?[pcms]
 
 *5287|
 [fc]
-‚Ü‚³‚©cc^–ç‚ªRŠİ‚³‚ñ‚ğP‚Á‚½‚Á‚Ä‚¢‚¤‚Ì‚©ccH[r]
-‚»‚ñ‚ÈƒoƒJ‚Ècc‚»‚ñ‚È‚±‚Æ‚ª‚Å‚«‚é‚æ‚¤‚È“x‹¹‚ªA[r]
-‚ ‚¢‚Â‚É‚ ‚é‚Í‚¸‚ª‚È‚¢ccB[pcms]
+No way... Are you saying that Shinya attacked Yamagishi-[r]san...?[l][er]
+That's ridiculous... There's no way he would have the[r]audacity to do something like that...[pcms]
 
 *5288|
 [fc]
-à–¾‚Ì‚Â‚©‚È‚¢ó‹µ‚É¬—‚µ‚Ä‚¢‚é‚ÆA˜L‰º‚©‚çŒÜ\—’[r]
-ƒTƒ“‚ÌÎ‚¤º‚ª•·‚±‚¦‚Ä‚«‚½B[pcms]
+I was confused by the inexplicable situation, when I heard[r]Yamagishi-san's laughter coming from the hallway.[pcms]
 
 *v2194|
 [fc]
 [vo_to s="tomo0254"]
-[ns]ŒÜ\—’[nse]
-u‚¤‚Ó‚Ácc‚ ‚ÍA‚Í‚Ícc‚â‚·A‚äA‚«‚­‚£A‚ñcc[r]
-‚Ç‚±A‚¢‚Á‚½A‚Ì‚§ccv[pcms]
+[ns]Igarashi[nse]
+Ufufu... Ahaha... Yasu, yu, biku~, n...[l][er]
+Where did he go~?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2195|
 [fc]
 [vo_sa s="sae0457"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñccv[pcms]
+[ns]Saeki[nse]
+Kato-san...[pcms]
 
 *5289|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *5290|
 [fc]
-“ñl‚ª‚Ç‚±‚Ös‚Á‚½‚Ì‚©‚Í‚í‚©‚ç‚È‚¢B[r]
-‚¾‚ª‚±‚±‚É‰B‚ê‚ÄA“ñl‚ª–ß‚Á‚Ä‚­‚é‚Ì‚ğ‘Ò‚Â‚Ì‚ÍA[r]
-ŠëŒ¯‚É‚à’ö‚ª‚ ‚éB[pcms]
+I don't know where the two of them went.[l][er]
+But hiding here and waiting for them to come back is too[r]dangerous.[pcms]
 
 *5291|
 [fc]
-—S“ñ’B‚Ì—lq‚ª‚¨‚©‚µ‚¢‚Ì‚ªA–{“–‚ÉƒNƒXƒŠ‚É‚æ‚é‚à‚Ì[r]
-‚È‚çA‚±‚±‚É‰B‚ê‚Ä‚¢‚é‚Ì‚ğŒ©‚Â‚¯‚ç‚êA•ß‚Ü‚Á‚½ŒãA[r]
-‰½‚ğ‚³‚ê‚é‚©‚í‚©‚Á‚½‚à‚Ì‚Å‚Í‚È‚¢B[pcms]
+If Yuuji and the others' strange behavior is really due to[r]drugs, if they find us hiding here and catch us, I don't[r]know what they will do to us.[pcms]
 
 *5292|
 [fc]
-•ÛŒ’º‚ğo‚é‘O‚É˜L‰º‚Ì—lq‚ğ‰M‚¤‚½‚ßA‰´‚Í²”Œ‚Ìæ[r]
-‚É—§‚¿A‰¹‚ª‚µ‚È‚¢‚æ‚¤‚ÉƒhƒA‚ğÃ‚©‚ÉŠJ‚¯‚½B[pcms]
+Before leaving the infirmary, I stood in front of Saeki and[r]quietly opened the door to peek into the hallway.[pcms]
 
 
 
@@ -137,8 +128,8 @@
 
 ;//blackout
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05320]‚Ö
+;//[05320]ã¸
 [jump target=*05320_TOP storage="05320.ks"]

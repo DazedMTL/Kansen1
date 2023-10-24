@@ -1,21 +1,21 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02040w‘I‘ğx
-;//BG:“Áê‹³ºF˜L‰ºF–éF“_“”
-;//“oêl•¨GålŒöE—D
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02040ã€é¸æŠã€
+;//BG:ç‰¹æ®Šæ•™å®¤ï¼šå»Šä¸‹ï¼šå¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02040_TOP
-;[debug_win]‚È‚¤@02040[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02040 = 1"]
+;[debug_win]ãªã†ã€€02040[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02040 = 1"]
 
-;*SceneSet|w‘I‘ğx
+;*SceneSet|ã€é¸æŠã€
 
 ;//[02040]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 [bgm001]
 ;//BG:bg008c
 
@@ -30,89 +30,87 @@
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v575|
 [fc]
 [vo_ya s="yama0099"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒNccHv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun...?[pcms]
 
 *1334|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦‚ÁH@‚ ‚ A‚¢‚âcc‚ ‚ÁI@ƒzƒ‰I@Š¨‚¾‚æA[r]
-—c‚È‚¶‚İ‚ÌŠÔ‚É’Ê—p‚·‚é‚Á‚Ä‚¢‚¤Š¨A‚ ‚êIv[pcms]
+[ns]Kato[nse]
+Huh? Ah, no... Ah! Look! It's intuition, the kind that works[r]between childhood friends, that's it![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v576|
 [fc]
 [vo_ya s="yama0100"]
-[ns]RŠİ[nse]
-u—c‚È‚¶‚İ‚ÌŠÔ‚É’Ê—p‚·‚éŠ¨ccH@•·‚¢‚½‚±‚Æ‚È‚¢‚¯[r]
-‚Çccv[pcms]
+[ns]Yamagishi[nse]
+Intuition that works between childhood friends...?[l][er]
+I've never heard of that...[pcms]
 
 *1335|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¢‚âA‚»‚ÌA‚»‚¤I@‰´’B‚ÌZ‚ñ‚Å‚é’nˆæ‚É‚Í‚ ‚é‚ñ[r]
-‚¾‚æA‚»‚¤‚¢‚¤‚Ì‚ªB‚¾‚©‚ç‚Ü‚ŸA‹C‚É‚µ‚È‚¢‚Åv[pcms]
+[ns]Kato[nse]
+No, um, yeah! It exists in the area where we live, that kind[r]of thing.[l][er]
+So, well, don't worry about it.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v577|
 [fc]
 [vo_ya s="yama0101"]
-[ns]RŠİ[nse]
-u‚¤‚ñccv[pcms]
+[ns]Yamagishi[nse]
+Yeah...[pcms]
 
 *1336|
 [fc]
-[ns]‰Á“¡[nse]
-u‚³[‚ÄA‚Ç‚±‚©‚çs‚±‚¤‚©‚È[‚Á‚Æv[pcms]
+[ns]Kato[nse]
+Well then, where should we go from here?[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *1337|
 [fc]
-‚²‚Ü‚©‚µ‚«‚ê‚Ä‚¢‚È‚¢‹C‚ª‚µ‚½‚¯‚ÇA‰´‚Í‚»‚ê‚É\‚í‚¸[r]
-s‚«æ‚ğ‘I‚ñ‚ÅAˆÚ“®‚ğn‚ß‚½B[pcms]
+I felt like I couldn't hide it, but I chose a destination[r]and started moving without paying attention to it.[pcms]
 
-;//¦‘I‘ğˆ
-;//E‚Ü‚¸—‰Èº€”õº‚ÌV“¹æ¶‚Ì‚Æ‚±‚¾‚ë‚¤;//[02050]‚Ö
-;//E‚Æ‚è‚ ‚¦‚¸ˆêŠK‚ÌƒgƒCƒŒ‚©‚çs‚Á‚Ä‚İ‚æ‚¤‚©;//[02053]‚Ö
-;//Eˆê”Ô—£‚ê‚Ä‚é‘ÌˆçŠÙ‚ª‰ö‚µ‚¢‚È;//[04000]‚Ö
+;//â€»é¸æŠè‚¢
+;//ãƒ»ã¾ãšç†ç§‘å®¤æº–å‚™å®¤ã®æ–°é“å…ˆç”Ÿã®ã¨ã“ã ã‚ã†;//[02050]ã¸
+;//ãƒ»ã¨ã‚Šã‚ãˆãšä¸€éšã®ãƒˆã‚¤ãƒ¬ã‹ã‚‰è¡Œã£ã¦ã¿ã‚ˆã†ã‹;//[02053]ã¸
+;//ãƒ»ä¸€ç•ªé›¢ã‚Œã¦ã‚‹ä½“è‚²é¤¨ãŒæ€ªã—ã„ãª;//[04000]ã¸
 
 *sel00_02040
 
 
-*SEL01|‚Ü‚¸—‰Èº€”õº^‚Æ‚è‚ ‚¦‚¸ˆêŠK‚ÌƒgƒCƒŒ^ˆê”Ô—£‚ê‚Ä‚é‘ÌˆçŠÙ
+*SEL01|ã¾ãšç†ç§‘å®¤æº–å‚™å®¤ï¼ã¨ã‚Šã‚ãˆãšä¸€éšã®ãƒˆã‚¤ãƒ¬ï¼ä¸€ç•ªé›¢ã‚Œã¦ã‚‹ä½“è‚²é¤¨
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext01 = '‚Ü‚¸—‰Èº€”õº‚ÌV“¹æ¶‚Ì‚Æ‚±‚¾‚ë‚¤'"]
-[eval exp="f.seltext03 = '‚Æ‚è‚ ‚¦‚¸ˆêŠK‚ÌƒgƒCƒŒ‚©‚çs‚Á‚Ä‚İ‚æ‚¤‚©'"]
-[eval exp="f.seltext05 = 'ˆê”Ô—£‚ê‚Ä‚é‘ÌˆçŠÙ‚ª‰ö‚µ‚¢‚È'"]
+[eval exp="f.seltext01 = 'ã¾ãšç†ç§‘å®¤æº–å‚™å®¤ã®æ–°é“å…ˆç”Ÿã®ã¨ã“ã ã‚ã†'"]
+[eval exp="f.seltext03 = 'ã¨ã‚Šã‚ãˆãšä¸€éšã®ãƒˆã‚¤ãƒ¬ã‹ã‚‰è¡Œã£ã¦ã¿ã‚ˆã†ã‹'"]
+[eval exp="f.seltext05 = 'ä¸€ç•ªé›¢ã‚Œã¦ã‚‹ä½“è‚²é¤¨ãŒæ€ªã—ã„ãª'"]
 
-[if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
-	;‘I‘ğˆ“à—e‚ğƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
+[if exp="tf.sys_sub == 0 || tf.é¸æŠè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
+	;é¸æŠè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
 	[sel_hisout txt="&f.seltext01"][hr]
 	[sel_hisout txt="&f.seltext03"][hr]
 	[sel_hisout txt="&f.seltext05"][hr]
 [endif]
 [hr]
 
-[—š—ğo—Í•œ‹A]
+[å±¥æ­´å‡ºåŠ›å¾©å¸°]
 
-;‘I‘ğˆƒx[ƒX
+;é¸æŠè‚¢ãƒ™ãƒ¼ã‚¹
 [selbase]
-;•¶š‚Ì¶ƒ}[ƒWƒ“
+;æ–‡å­—ã®å·¦ãƒãƒ¼ã‚¸ãƒ³
 [eval exp="sf.seltext_x = 150"]
 
 [sel01 target=*sel00_risa]

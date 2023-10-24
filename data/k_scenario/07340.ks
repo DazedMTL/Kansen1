@@ -1,15 +1,15 @@
 
-;//¡ËƒuƒƒbƒN07340wŒûx
-;//BG:‰®ãF—[•ûFÁ“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07340ã€å‚·å£ã€
+;//BG:å±‹ä¸Šï¼šå¤•æ–¹ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *07340_TOP
-;[debug_win]‚È‚¤@07340[debug_win_end]
-;*SceneSet|wŒûx
+;[debug_win]ãªã†ã€€07340[debug_win_end]
+;*SceneSet|ã€å‚·å£ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07340 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07340 = 1"]
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 
 ;//;//BG:bg22b
 
@@ -18,7 +18,7 @@
 
 [bgm004]
 
-;//SE:•—‚Ì‚Ó‚­‰¹
+;//SE:é¢¨ã®ãµãéŸ³
 [se0 storage="se019"]
 
 
@@ -27,8 +27,8 @@
 
 *8323|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Í‚Ÿccv[pcms]
+[ns]Kato[nse]
+*sigh*[l][er]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
@@ -38,81 +38,77 @@
 *v3314|
 [fc]
 [vo_sa s="sae1111"]
-[ns]²”Œ[nse]
-u‚â‚Á‚ÆA‹‚È‚­‚È‚è‚Ü‚µ‚½‚Ëccv[pcms]
+[ns]Saeki[nse]
+Finally, they're gone...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *8324|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ ccA‚Á‚ÂIIv[pcms]
+[ns]Kato[nse]
+Ah...![pcms]
 
 *8325|
 [fc]
-ˆÀS‚µ‚½‚¹‚¢‚©AŠš‚Ü‚ê‚½Œ¨‚Ì’É‚İ‚ª–ß‚Á‚Ä‚«‚½B[r]
-Šš‚İ‚Â‚©‚ê‚½Œ¨‚ÍAƒVƒƒƒc‚ª”j‚¯‚ÄA‚ªŠÛŒ©‚¦‚É‚È‚Á[r]
-‚Ä‚¢‚½B[pcms]
+Thanks to the relief, the pain in my bitten shoulder came[r]back.[l][er]
+The shoulder that was bitten had torn my shirt and the wound[r]was clearly visible.[pcms]
 
 *8326|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤‚íccv[pcms]
+[ns]Kato[nse]
+Ugh...[pcms]
 
 *8327|
 [fc]
-‚­‚Á‚»[ccB[r]
-‚±‚ñ‚È‚ÌŒ©‚È‚«‚á‚æ‚©‚Á‚½ccB[r]
-‚Ü‚·‚Ü‚·’É‚­‚È‚Á‚Ä—ˆ‚½‚¶‚á‚Ë‚¥‚©ccB[pcms]
+Damn it... I wish I didn't have to see this...[l][er]
+It's getting even more painful...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3315|
 [fc]
 [vo_sa s="sae1112"]
-[ns]²”Œ[nse]
-uŒŒ‚ªA‚±‚ñ‚È‚Éccv[pcms]
+[ns]Saeki[nse]
+So much blood...[pcms]
 
 [fadeoutbgm time=500]
 
 *8328|
 [fc]
-[ns]‰Á“¡[nse]
-u‘åä•vccA‚¤‚£ƒbccA‚±‚ñ‚È‚ÌA‚Ù‚Á‚Æ‚¯‚Î¡‚é[r]
-‚æccv[pcms]
+[ns]Kato[nse]
+It's okay... ugh... something like this, it'll heal if I[r]leave it alone...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *8329|
 [fc]
-‹­‚ª‚é‰´‚ğA²”Œ‚ª–Ú‚ğ‚Ü‚¹‚ÄŒ©‚Â‚ß‚Ä‚­‚éB[r]
-²”Œ‚àA‚±‚ñ‚ÈŠç‚·‚é‚ñ‚¾ccB[pcms]
+Saeki gazes at me with teary eyes as I try to act tough.[l][er]
+Saeki also has this kind of expression...[pcms]
 
 *8330|
 [fc]
-‚â‚Á‚Ï‚è‚©‚í‚¢‚¢ccB[pcms]
+She's still cute...[pcms]
 
 *8331|
 [fc]
-‰´‚¾‚¯‚É‚µ‚©Œ©‚¹‚½––³‚¢‚ñ‚¾‚ë‚¤‚©ccB‚±‚ñ‚ÈŠçB[r]
-‚¾‚Æ‚µ‚½‚çAŠğ‚µ‚¢‚ÈccB[pcms]
+I wonder if she only shows this face to me...[l][er]
+If that's the case, I'm happy...[pcms]
 
 *8332|
 [fc]
-‚¸‚Á‚Æ‚±‚ñ‚È•—‚¾‚Á‚½‚çcc‚à‚Á‚Æ‘‚­’‡—Ç‚­‚È‚Á‚Ä‚½[r]
-‚Ì‚ÉccB[pcms]
+If it had been like this all along...[l][er]
+we would have become close much sooner...[pcms]
 
 *8333|
 [fc]
-cc‚Í‚ÍccB[r]
-“s‡‚Ì‚¢‚¢l‚¦‚©‚ÈccB[pcms]
+... Haha... I wonder if it's just a convenient thought...[pcms]
 
-;//ôFBGM010ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM010ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 [bgm010]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
@@ -120,256 +116,244 @@
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3316|
 [fc]
 [vo_sa s="sae1113"]
-[ns]²”Œ[nse]
-u‚»‚ñ‚ÈccA‘Ê–Ú‚Å‚·A‚ ‚Ì•sŒ‰‚È’j‚©‚çŠš‚Ü‚ê‚½‚Ì[r]
-‚Å‚·‚æH@‚Î‚¢‹Û‚ª“ü‚Á‚Ä‚µ‚Ü‚Á‚½‚çA‘å•Ï‚È–‚É‚È‚Á[r]
-‚Ä‚µ‚Ü‚¢‚Ü‚·ccA•ú’u‚Ío—ˆ‚Ü‚¹‚ñccv[pcms]
+[ns]Saeki[nse]
+No... it's not okay. I was bitten by that filthy man, you[r]know?[l][er]
+If bacteria gets in, it could become a serious problem...[l][er]
+I can't just leave it alone...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *8334|
 [fc]
-²”Œ‚Í‚»‚¤Œ¾‚¢‚È‚ª‚çA‰´‚ÌŒû‚ÉŠç‚ğ‹ß‚Ã‚¯‚Äcc‰´[r]
-‚ÌŒû‚ğAär‚ßn‚ß‚½ccB[pcms]
+Saeki said that while getting closer to my wound...[l][er]
+she started licking my wound...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3317|
 [fc]
 [vo_sa s="sae1114"]
-[ns]²”Œ[nse]
-u‚ñ‚ÁccA‚¿‚ã‚ÁccB‚Ó‚Ÿccv[pcms]
+[ns]Saeki[nse]
+Mmm... *kiss*... Ahh...[pcms]
 
 *8335|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨A‚¨‚¢ccA‚â‚ß‚ë‚æcc‰˜‚¢‚©‚çccv[pcms]
+[ns]Kato[nse]
+H-Hey... stop it... it's dirty...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3318|
 [fc]
 [vo_sa s="sae1115"]
-[ns]²”Œ[nse]
-u‚¿‚ã‚ÁccA‚ñ‚ ‚ÁccB‰˜‚¢‚È‚ñ‚Äcc‚»‚ñ‚Ècc[r]
-‹M’j‚ÌAŒŒ‚Å‚·ccB‰˜‚­‚È‚ñ‚©A‚ ‚è‚Ü‚¹‚ñ‚æccB[r]
-‚»‚ê‚ÉA¡‚Ì„‚Éo—ˆ‚é–‚ÍA‚±‚Ì‚­‚ç‚¢‚µ‚©ccv[pcms]
+[ns]Saeki[nse]
+*kiss*... *moan*... It's not dirty...[l][er]
+This is your blood... There's nothing dirty about it...[l][er]
+Besides, this is the only thing I can do for you right[r]now...[pcms]
 
 *8336|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨‚¢ccv[pcms]
+[ns]Kato[nse]
+Hey...[pcms]
 
 *8337|
 [fc]
-ˆê¶Œœ–½‚ÉŒû‚ğär‚ß‚Ä‚¢‚é²”Œ‚ğ‚İ‚ÄA‰½ŒÌ‚©q‹Ÿ‚Ì[r]
- ‚Ì–‚ğv‚¢o‚µ‚½B[pcms]
+I watched Saeki diligently licking my wound, and for some[r]reason, it reminded me of something from my childhood.[pcms]
 
 *8338|
 [fc]
-¬‚³‚¢ A¦‚­’‡‚Ì‚æ‚©‚Á‚½—‚ÌqccB[pcms]
+When I was little, there was a girl I was really close[r]with...[pcms]
 
 *8339|
 [fc]
-‰´‚ª‰ö‰ä‚µ‚½‚±‚ñ‚È•—‚É‚µ‚Ä‚­‚ê‚½—‚Ìq‚ª‚¢‚½‚Á‚¯[r]
-‚È‚ŸccB‚ ‚Ìq‚àA²”Œ‚İ‚½‚¢‚É”¯‚ª’·‚­‚ÄAãY—í‚È[r]
-Šç‚µ‚Ä‚½‚ñ‚¾‚æ‚ÈB[pcms]
+I wonder if there was a girl who took care of me like this[r]when I got injured...[l][er]
+That girl, like Saeki, had long hair and a beautiful face.[pcms]
 
 *8340|
 [fc]
-‚Å‚àA‚ ‚Ìq‚Ícc‹}‚É‚¢‚È‚­‚È‚Á‚½B[pcms]
+But, that girl... suddenly disappeared.[pcms]
 
 *8341|
 [fc]
-‚ ‚Ìq‚ÍA•a‹C‚Å€‚ñ‚¶‚á‚Á‚½‚Á‚Ä•·‚¢‚½B[pcms]
+I heard that girl died from an illness.[pcms]
 
 *8342|
 [fc]
-w‘å‚«‚­‚È‚Á‚½‚çAŒ‹¥‚µ‚æ‚¤‚Ëx[r]
-‚È‚ñ‚Ä–ñ‘©A‚µ‚Ä‚½‚ñ‚¾‚æ‚ÈccB[pcms]
+We made a promise, saying Let's get married when we grow up,[r]didn't we...[pcms]
 
 *8343|
 [fc]
-cc‚ ‚Ìq‚Í–{“–‚Í¶‚«‚Ä‚¢‚ÄccB[r]
-‚ ‚Ìq‚ÍAÀ‚Í²”Œ‚¾‚Á‚½ccB[r]
-‚Á‚ÄA‚»‚ñ‚È–cc‚È‚¢‚æ‚ÈccB[pcms]
+... That girl was actually alive...[l][er]
+That girl, she was actually Saeki...[l][er]
+No way... that can't be true...[pcms]
 
 *8344|
 [fc]
-‚Í‚Í‚Ícc‚Ü‚³‚©‚ÈccB[r]
-‘S‘RAŠÖŒW‚È‚¢‚æ‚ÈccB[pcms]
+Hahaha... No way... It's completely unrelated, right...[pcms]
 
 *8345|
 [fc]
-²”Œ‚Í²”Œ‚¾B[r]
-‚±‚ÌŠw‰€‚É“ü‚Á‚ÄA‰‚ß‚Äo‰ï‚Á‚½q‚¾ccB[pcms]
+Saeki is Saeki. She's the first person I met after entering[r]this school...[pcms]
 
 *8346|
 [fc]
-cc‰½‚Å‹}‚ÉccB[r]
-‚±‚ñ‚È–Av‚¢o‚µ‚½‚ñ‚¾‚ë‚¤B[pcms]
+... Why all of a sudden... Why did I remember something like[r]this?[pcms]
 
 *8347|
 [fc]
-²”Œ‚ª‹}‚ÉA‚±‚ñ‚È–‚·‚é‚©‚çcc‚©‚ÈccB[pcms]
+Saeki suddenly... doing something like this...[l][er]
+I wonder...[pcms]
 
 *8348|
 [fc]
-[ns]‰Á“¡[nse]
-u²”ŒccB‚à‚¤‚¢‚¢‚æccBŠğ‚µ‚¢‚¯‚ÇccA‚â‚Á‚Ï[r]
-‚èccv[pcms]
+[ns]Kato[nse]
+Saeki... It's okay now... I'm happy, but...[l][er]
+still...[pcms]
 
 *8349|
 [fc]
-–Ú‚É‚¤‚Á‚·‚ç‚Æ—Ü‚ğ—­‚ß‚Äˆê¶Œœ–½‚É‰´‚Ì‚ğär‚ß‚é²[r]
-”Œ‚ğŒ©‚ÄA‰½‚¾‚©‚à‚Ì¦‚­ˆ£‚µ‚­‚È‚Á‚½B[pcms]
+I felt a deep sadness as I watched Saeki, with tears welling[r]up in her eyes, diligently licking my wounds.[pcms]
 
 *8350|
 [fc]
-Œ™‚ÈŠ´‚¶‚Í‚È‚¢B[r]
-‚Å‚à‰½‚¾‚©A‹¹‚ªØ‚È‚­‚ÄcŒ©‚Ä‚ç‚ê‚È‚¢ccB[pcms]
+I don't have a bad feeling. But somehow, my heart feels[r]painful...[l][er]
+I can't bear to watch...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3319|
 [fc]
 [vo_sa s="sae1116"]
-[ns]²”Œ[nse]
-u‚ñ‚ÁccA‚»‚¤A‚Å‚·‚©ccv[pcms]
+[ns]Saeki[nse]
+Mmm... Is that so...[pcms]
 
 *8351|
 [fc]
-²”Œ‚Í­‚µc”O‚»‚¤‚É”÷Î‚ñ‚ÅA‰´‚©‚ç—£‚ê‚½B[pcms]
+Saeki smiled slightly with a hint of disappointment and[r]moved away from me.[pcms]
 
 *8352|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚è‚ª‚Æ‚¤A‚Èccv[pcms]
+[ns]Kato[nse]
+Thank you...[pcms]
 
 *8353|
 [fc]
-—×‚É²”Œ‚ª‚¢‚éB[r]
-‚»‚ê‚¾‚¯‚Å\•ª‚¾ccB[pcms]
+Saeki is next to me. That alone is enough...[pcms]
 
 *8354|
 [fc]
-‚»‚ê‚¾‚¯‚Åcc‚¢‚¢‚ñ‚¾ccB[pcms]
+That alone... is enough...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *8355|
 [fc]
-‚«‚Á‚ÆA‰´‚És‚­‚·²”Œ‚ªˆ£‚µ‚­Œ©‚¦‚½‚ñ‚¾B[r]
-‰´‚ÍA‘Î“™‚É•t‚«‡‚¦‚é²”Œ‚ªccˆê”ÔccD‚«‚È‚ñ‚¾[r]
-ccB[pcms]
+I must have seen Saeki, who devotes herself to me, as being[r]sad.[l][er]
+I... love Saeki the most when we can be equals and spend[r]time together.[pcms]
 
 *8356|
 [fc]
-‚Ü‚¾ŒŒ‚Í­‚µo‚Ä‚¢‚½‚¯‚ÇA²”Œ‚Ì‹C‚¿‚ªŠğ‚µ‚­‚ÄA[r]
-’É‚İ‚ª˜a‚ç‚¢‚¾—l‚È‹C‚ª‚µ‚½B[pcms]
+I could still see a little blood, but Saeki's feelings made[r]me happy, and it felt like the pain had eased.[pcms]
 
 *8357|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤‚¾ccBƒAƒCƒc‚ç‚ª“ü‚Á‚Ä‚±‚È‚¢‚æ‚¤‚ÉA“ü‚èŒû[r]
-‚ğ‚Ó‚³‚²‚¤ccBƒxƒ“ƒ`‚ğÏ‚İd‚Ë‚é‚¾‚¯‚Å‚àA­‚µ‚Í[r]
-ƒ}ƒV‚¾‚ëccv[pcms]
+[ns]Kato[nse]
+I got it... Let's block the entrance so they can't come[r]in...[l][er]
+Just stacking benches should make it a little better...[pcms]
 
 *8358|
 [fc]
-‹N‚«‚ ‚ª‚ë‚¤‚Æ‚·‚é‰´‚ğA²”Œ‚ª~‚ß‚Ä—§‚¿ã‚ª‚éB[pcms]
+Saeki stops me as I try to get up and stands up herself.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3320|
 [fc]
 [vo_sa s="sae1117"]
-[ns]²”Œ[nse]
-u‹M’j‚Í‹x‚ñ‚Å‚¢‚Äcc„‚ª‚â‚Á‚Ä‚¨‚«‚Ü‚·‚©‚çccv[pcms]
+[ns]Saeki[nse]
+You rest... I'll take care of it for you...[pcms]
 
 *8359|
 [fc]
-[ns]‰Á“¡[nse]
-u‘åä•v‚©H@Œ‹\d‚¢‚¼AƒAƒŒccv[pcms]
+[ns]Kato[nse]
+Are you okay? That thing is quite heavy...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3321|
 [fc]
 [vo_sa s="sae1118"]
-[ns]²”Œ[nse]
-u„‚àA­‚µ‚Í‰Á“¡‚³‚ñ‚Ì–ğ‚É—§‚¿‚½‚¢‚ñ‚Å‚·ccA„[r]
-‚É”C‚¹‚Äccv[pcms]
+[ns]Saeki[nse]
+I also want to be of some help to you, Kato-san...[l][er]
+Leave it to me...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *8360|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ccv[pcms]
+[ns]Kato[nse]
+Ah...[pcms]
 
 *8361|
 [fc]
-‚»‚¤Œ¾‚Á‚ÄA²”Œ‚Í‚·‚®‚Éƒxƒ“ƒ`‚ÉŒü‚©‚Á‚Ä‹ì‚¯o‚µ‚Ä[r]
-‚¢‚Á‚½B[pcms]
+Saying that, Saeki immediately ran towards the bench.[pcms]
 
 *8362|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Í‚Ÿccv[pcms]
+[ns]Kato[nse]
+*sigh*...[pcms]
 
 *8363|
 [fc]
-w­‚µ‚Í–ğ‚É—§‚¿‚½‚¢xcc‚©B[r]
-‚»‚ÌŒ¾—t‚ÉA‚Ü‚½‹¹‚ª‚¿‚­‚Á‚Æ’É‚­‚È‚éB[pcms]
+I want to be of some help, even just a little...[l][er]
+Those words make my heart ache again.[pcms]
 
 *8364|
 [fc]
-–T‚É‚¢‚Ä‚­‚ê‚é‚¾‚¯‚Åcc‚»‚ê‚¾‚¯‚Å‚¢‚¢‚Ì‚ÉccB[pcms]
+Just being by my side... that's all I need...[pcms]
 
-;//SE:ƒKƒ‰ƒKƒ‰
+;//SE:ã‚¬ãƒ©ã‚¬ãƒ©
 [se0 storage="se024"]
 
 *8365|
 [fc]
-²”ŒccB[pcms]
+Saeki...[pcms]
 
 *8366|
 [fc]
-‚Í‚ÍccB[r]
-×‚¢g‘Ì‚ÅA•K€‚Éƒxƒ“ƒ`‚ğ‚¿ã‚°‚Ä‚éccB[pcms]
+Ha... She's lifting the bench with her slender body,[r]desperately...[pcms]
 
 *8367|
 [fc]
-‰Âˆ¤‚¢‚ÈccB[pcms]
+She's so cute...[pcms]
 
 *8368|
 [fc]
-‚â‚Á‚Ï‚èA²”Œ‚ÌŒ¾—t‚ÉŠÃ‚¦‚Ä‹x‚ñ‚Å‚¢‚æ‚¤B[pcms]
+I'll rely on Saeki's words and take a rest after all.[pcms]
 
 *8369|
 [fc]
-‚±‚Ì‚Ü‚Ü²”Œ‚ğŒ©‚Ä‚¢‚æ‚¤ccB[pcms]
+I'll just keep watching Saeki like this...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -380,5 +364,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[07350]‚Ö
+;//[07350]ã¸
 [jump target=*07350_TOP storage="07350.ks"]

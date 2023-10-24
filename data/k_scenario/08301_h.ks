@@ -1,68 +1,68 @@
 
-;//¡ËƒuƒƒbƒN08301w‚¨‚Æx¦ƒuƒƒbƒN’Ç‰Á
-;//BGF‹³ºF’©
-;//BG:“ñŠK˜L‰º
-;//BG:“Áê‹³º˜L‰º
-;//BG:¸~Œû@
-;//BG:Eˆõº
-;//“oêl•¨FålŒöE’|“àE—DE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08301ã€ãŠã¨ã€â€»ãƒ–ãƒ­ãƒƒã‚¯è¿½åŠ 
+;//BGï¼šæ•™å®¤ï¼šæœ
+;//BG:äºŒéšå»Šä¸‹
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹
+;//BG:æ˜‡é™å£ã€€
+;//BG:è·å“¡å®¤
+;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»ç«¹å†…ãƒ»å„ªãƒ»ç³
 
 *08301_H_TOP
-;[debug_win]‚È‚¤@08301_H[debug_win_end]
+;[debug_win]ãªã†ã€€08301_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [eval exp="sf.SRP50 = 1"][if exp="tf.scene_mode == 0"][jump target=*08301][endif]
 ;;[winset]
 [jump target=*scene_start]
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *08301
 
-;*SceneSet|w‚¨‚Æx
+;*SceneSet|ã€ãŠã¨ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08301 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08301 = 1"]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 
 [bgm001]
 
-;//;//BG:bg–³‚µ
+;//;//BG:bgç„¡ã—
 
-;//SE:”à‚ğŠJ‚­
+;//SE:æ‰‰ã‚’é–‹ã
 
 [se0 storage="se008"]
 
 *v3926|
 [fc]
 [vo_ya s="yama1107"]
-[ns]RŠİ[nse]
-u‚ `cc„AƒoƒX‚ÌŠÔŒ©‚Ä‚­‚é‚ËIIv[pcms]
+[ns]Yamagishi[nse]
+Ah... I'm going to check the bus schedule![pcms]
 
 *v3927|
 [fc]
 [vo_sa s="sae1297"]
-[ns]²”Œ[nse]
-u‚Å‚ÍA„‚Í‰®ã‚És‚«‚Ü‚·v[pcms]
+[ns]Saeki[nse]
+Well then, I will go to the rooftop.[pcms]
 
-;//SE:”à‚ğ•Â‚ß‚é
+;//SE:æ‰‰ã‚’é–‰ã‚ã‚‹
 
 ;//[se0 storage="se010"]
 
 *10661|
 [fc]
-[ns]’|“à[nse]
-u‚ñ‚ª‚ÁI@‚®‚£[ccA‚®‚£[ccv[pcms]
+[ns]Takeuchi[nse]
+Ngh! Guu... guu...[pcms]
 
 *10662|
 [fc]
-‚Î‚·H@‚¨‚­‚¶‚å‚¤H[pcms]
+Bus? Rooftop?[pcms]
 
 ;//;//BG:bg10a
 
@@ -71,132 +71,130 @@
 
 *10663|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤‚ícc‚Ü‚Ô‚µ‚¢cc‚ ‚êHv[pcms]
+[ns]Kato[nse]
+Uwa... It's so bright... Huh?[pcms]
 
 *10664|
 [fc]
-‚Í‚ç‚Ì‚Å‚½‚¨‚Æ‚±‚ªcc‚ß‚ğ‚Æ‚¶‚Ä‚éB[r]
-‚¨‚ñ‚È‚Ì‚±‚ªA‚¢‚È‚¢B[pcms]
+The bald man... is closing his eyes.[l][er]
+There is no girl.[pcms]
 
 *10665|
 [fc]
-‚Î‚·‚©‚ÈH@‚¨‚­‚¶‚å‚¤‚©‚ÈH[r]
-cc‚È‚ñ‚¾‚ë‚¤B‚»‚êB[pcms]
+Bus? Rooftop?... I wonder what that is.[pcms]
 
 *10666|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Å‚Á‚Ï‚çv[pcms]
+[ns]Kato[nse]
+Depara[l][er]
 
 *10667|
 [fc]
-‚ ‚Ì‚Å‚Á‚Ï‚ç‚ğ‚İ‚Ä‚é‚Æ‚È‚ñ‚¾‚©‚¢‚ç‚¢‚ç‚·‚éB‚©‚¨‚à[r]
-‚«‚É‚¢‚ç‚È‚¢B‚±‚±‚É‚¢‚½‚­‚È‚¢B‚¨‚ñ‚È‚Ì‚±‚¢‚È‚¢B[pcms]
+Looking at that bald man makes me feel irritated.[l][er]
+I don't like his face either. I don't want to be here.[l][er]
+There are no girls around.[pcms]
 
 *10668|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ç‚±‚©A‚¢‚±‚¤ccv[pcms]
+[ns]Kato[nse]
+Let's go somewhere...[pcms]
 
-;//BG;“ñŠK˜L‰º
+;//BG;äºŒéšå»Šä¸‹
 
 [bg storage="bg06a"]
 [trans_c cross time=500]
 
 *10669|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ü‚Ô‚µ‚¢ccv[pcms]
+[ns]Kato[nse]
+It's bright...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3928|
 [fc]
 [vo_ya s="yama1108"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒNAƒoƒXA—ˆ‚¿‚á‚¤‚æH@‹}‚ª‚È‚¢‚Æccv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun, the bus is coming! We need to hurry...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_a_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3929|
 [fc]
 [vo_sa s="sae1298"]
-[ns]²”Œ[nse]
-u„‚ÆA‰®ã‚És‚«‚Ü‚¹‚ñ‚©H@‚¨˜b‚·‚é–‚ª‚ ‚Á‚½‚æ[r]
-‚¤‚È‹C‚ª‚·‚é‚ñ‚Å‚·ccv[pcms]
+[ns]Saeki[nse]
+Would you like to come with me to the rooftop?[l][er]
+I feel like there's something I wanted to talk to you[r]about...[pcms]
 
 *10670|
 [fc]
-ƒoƒXH[r]
-‚¨‚­‚¶‚å‚¤H[r]
-‚Ü‚½‚¾ccB‚È‚ñ‚¾‚æA‚»‚êccB[pcms]
+Bus? Rooftop? Again... What's that...?[pcms]
 
 *10671|
 [fc]
-‚ß‚ñ‚Ç‚­‚³‚¢B[pcms]
+Such a hassle.[pcms]
 
 *10672|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ç‚ÁA‚¿A‚àA‚¢‚©A‚È‚¢ccv[pcms]
+[ns]Kato[nse]
+I... can't go anywhere...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_a_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3930|
 [fc]
 [vo_ya s="yama1109"]
-[ns]RŠİ[nse]
-u‚»‚¤H@‚ ‚Í‚Í‚ÁccA‚¶‚á‚ A‚µ‚©‚½‚È‚¢‚ËIv[pcms]
+[ns]Yamagishi[nse]
+Is that so? Ahaha... Well, I guess there's no helping it[r]then![pcms]
 
 [ChrSetEx layer=1 chbase="sae_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_a_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3931|
 [fc]
 [vo_sa s="sae1299"]
-[ns]²”Œ[nse]
-ud•û‚È‚¢‚Å‚·‚ËccB‚Å‚ÍA„‚ÍAˆêl‚Å‰®ã‚És‚«[r]
-‚Ü‚·ccv[pcms]
+[ns]Saeki[nse]
+I guess there's no helping it...[l][er]
+Well then, I'll go to the rooftop alone...[pcms]
 
 *10673|
 [fc]
-[ns]‰Á“¡[nse]
-u‚µ‚©‚½A‚È‚¢v[pcms]
+[ns]Kato[nse]
+I guess there's no helping it.[pcms]
 
-;//SE:ƒKƒ“ƒb
+;//SE:ã‚¬ãƒ³ãƒƒ
 [se0 storage="se023"]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *10674|
 [fc]
-‚©‚ç‚¾‚ªA‚¤‚Ü‚­‚¤‚²‚©‚È‚¢B‚Ü‚Á‚·‚®A‚ ‚é‚¯‚È‚¢B[r]
-‚©‚×‚ÉA‚È‚ñ‚Ç‚àA‚Ô‚Â‚©‚éB[pcms]
+My body doesn't move well. I can't walk straight.[l][er]
+I keep bumping into walls.[pcms]
 
 *10675|
 [fc]
-‚Å‚àA‚¢‚½‚­‚È‚¢B[pcms]
+But, it doesn't hurt.[pcms]
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 
 [se0 storage="se021"]
 
@@ -204,48 +202,47 @@
 
 *10676|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚êHv[pcms]
+[ns]Kato[nse]
+Ah, huh?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_a_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3932|
 [fc]
 [vo_ya s="yama1110"]
-[ns]RŠİ[nse]
-u‚ ‚Í‚Í‚ÁI@‰Á“¡ŒN‚ª“]‚ñ‚¾‚ŸI@‚ ‚Í‚Í‚Í‚Í‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Ahaha! Kato-kun fell down! Ahahahaha![pcms]
 
 [ChrSetEx layer=1 chbase="sae_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_a_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3933|
 [fc]
 [vo_sa s="sae1300"]
-[ns]²”Œ[nse]
-u‚ ‚ç‚ ‚çcc‚Ç‚¤‚µ‚½‚Ì‚Å‚·‚©Hv[pcms]
+[ns]Saeki[nse]
+Oh my... What's the matter?[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *10677|
 [fc]
-‚ ‚µ‚ª‚©‚ç‚Ü‚Á‚½B‚İ‚¬‚ ‚µ‚ÆA‚Ğ‚¾‚è‚ ‚µ‚ªA‚Ô‚Â‚©[r]
-‚Á‚½B[pcms]
+My legs got tangled. My right leg and left leg collided.[pcms]
 
 *10678|
 [fc]
-[ns]‰Á“¡[nse]
-u‚æ‚Ácc‚ A‚êHv[pcms]
+[ns]Kato[nse]
+Yo... Ah, huh?[pcms]
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 
 [se0 storage="se021"]
 
@@ -253,228 +250,227 @@
 
 *10679|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚êH@‚È‚ñA‚ÅHv[pcms]
+[ns]Kato[nse]
+Ah, huh? What, why?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3934|
 [fc]
 [vo_ya s="yama1111"]
-[ns]RŠİ[nse]
-u‚Ù‚ç‚Ÿcc‚µ‚Á‚©‚è‚µ‚Ä‚æccv[pcms]
+[ns]Yamagishi[nse]
+Hey... Pull yourself together...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_a_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3935|
 [fc]
 [vo_sa s="sae1301"]
-[ns]²”Œ[nse]
-uè‚ğ‘İ‚µ‚Ü‚µ‚å‚¤cc‚³‚ A’Í‚Ü‚Á‚Äv[pcms]
+[ns]Saeki[nse]
+Let me lend you a hand... Come on, grab hold.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *10680|
 [fc]
-‚È‚ñ‚¾‚©A‚¤‚ê‚µ‚¢‚ÈB‚¨‚ñ‚È‚Ì‚±‚Ó‚½‚è‚ªA‚¨‚ê‚É‚­[r]
-‚Á‚Â‚¢‚Ä‚­‚éB[pcms]
+Somehow, I feel happy. Two girls are clinging to me.[pcms]
 
 *10681|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Í‚ÍA‚Í‚Í‚Ícc‚¤‚ê‚µA‚¢v[pcms]
+[ns]Kato[nse]
+Haha, hahaha... I'm happy.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_a_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3936|
 [fc]
 [vo_sa s="sae1302"]
-[ns]²”Œ[nse]
-u‚Ó‚Ó‚Ócc„‚àA‚È‚ñ‚¾‚©Šğ‚µ‚¢ccv[pcms]
+[ns]Saeki[nse]
+Hehehe... I also feel somehow happy...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_a_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3937|
 [fc]
 [vo_ya s="yama1112"]
-[ns]RŠİ[nse]
-u„‚àccŠğ‚µ‚¢A‚ ‚Í‚Í‚Í‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+I also... am happy, ahahaha![pcms]
 
 *10682|
 [fc]
-‚Ó‚½‚è‚É‚Ä‚ğ‚Â‚È‚ª‚ê‚ÄA‚â‚Á‚Æ‚¨‚«‚ç‚ê‚½B‚Ó‚ç‚Ó‚ç[r]
-‚·‚é‚ËB[pcms]
+We held hands together and finally managed to stand up.[l][er]
+I feel a bit dizzy.[pcms]
 
 *10683|
 [fc]
-‚¤‚ê‚µ‚¢‚©‚ç‚©‚ÈB[pcms]
+Maybe it's because I'm happy.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3938|
 [fc]
 [vo_ya s="yama1113"]
-[ns]RŠİ[nse]
-u‚Ë‚¥cc‰Á“¡ŒN‚ÍA‚Ç‚±‚És‚±‚¤‚Æ‚µ‚Ä‚½‚ÌHv[pcms]
+[ns]Yamagishi[nse]
+Hey... Kato-kun, where were you trying to go?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3939|
 [fc]
 [vo_sa s="sae1303"]
-[ns]²”Œ[nse]
-u‚Ğ‚Æ‚è‚Å‚Í“ï‚µ‚¢‚Ì‚Å‚Í‚È‚¢‚Å‚·‚©H@‚»‚ñ‚ÈŠ´‚¶‚Å[r]
-ccv[pcms]
+[ns]Saeki[nse]
+Isn't it difficult to do it alone?[l][er]
+Like that...[pcms]
 
 *10684|
 [fc]
-[ns]‰Á“¡[nse]
-u‚­‚çA‚¢A‚Æ‚±‚ëccB‚±A‚±A‚Ü‚Ô‚µA‚¢ccv[pcms]
+[ns]Kato[nse]
+It's... dark... so... bright...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3940|
 [fc]
 [vo_ya s="yama1114"]
-[ns]RŠİ[nse]
-u¡“úA“V‹C‚¢‚¢‚à‚ñ‚Ë`ccv[pcms]
+[ns]Yamagishi[nse]
+Today, the weather is nice, isn't it~...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3941|
 [fc]
 [vo_sa s="sae1304"]
-[ns]²”Œ[nse]
-u‚»‚¤‚Å‚·‚Ëcc‰Á“¡‚³‚ñ‚ÌŒ¾‚¤‚æ‚¤‚ÉAá¿‚µ‚¢‚Å‚·‚í[r]
-‚Ëccv[pcms]
+[ns]Saeki[nse]
+Yes, that's right... As Kato-san said, it's bright, isn't[r]it...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3942|
 [fc]
 [vo_ya s="yama1115"]
-[ns]RŠİ[nse]
-uŠOs‚­‚Ìcc‚È‚ñ‚¾‚©AƒCƒ„‚É‚È‚Á‚¿‚á‚Á‚½ccv[pcms]
+[ns]Yamagishi[nse]
+Going outside... somehow, I feel reluctant...[pcms]
 
 *10685|
 [fc]
-‚»‚Æcc‚»‚Æ‚Í‚¾‚ß‚¾B‚Ü‚Ô‚µ‚¢A‚»‚ê‚ÉA‚»‚ç‚É‚½‚¢[r]
-‚æ‚¤‚ª‚ ‚Á‚ÄA‚ ‚Â‚¢B[pcms]
+Outside... outside is no good.[l][er]
+It's bright, and besides, there's the sun in the sky, it's[r]hot.[pcms]
 
 *10686|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚Æcc‚ ‚ÂA‚¢cc‚Ü‚ÔA‚µA‚¢cc‚¢A‚âv[pcms]
+[ns]Kato[nse]
+Outside... hot... bright... blinding...[l][er]
+no, no.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3943|
 [fc]
 [vo_ya s="yama1116"]
-[ns]RŠİ[nse]
-u‚¤[‚ñA„‚àAƒoƒX‚È‚ñ‚©‚Ç‚¤‚Å‚à—Ç‚­‚È‚Á‚Ä‚«‚½‚È[r]
-‚ŸccB‚»‚ê‚ÉAá¿‚µ‚¢‚Ì‚àŠm‚©‚ÉƒCƒ„‚¾‚Ëccv[pcms]
+[ns]Yamagishi[nse]
+Hmm, I'm starting to not care about the bus anymore...[l][er]
+And yeah, it's definitely unpleasant to be blinded by the[r]brightness too...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_a_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3944|
 [fc]
 [vo_sa s="sae1305"]
-[ns]²”Œ[nse]
-u„‚àA‰®ã‚¢‚­‚ÌA‚â‚ß‚Ü‚·B‚»‚¤‚¾‚íccAˆêŠK‚Ì[r]
-Eˆõº‚Ì‘¤‚È‚çA‚»‚ñ‚È‚Éá¿‚µ‚­‚È‚¢‚Ì‚Å‚ÍHv[pcms]
+[ns]Saeki[nse]
+I'll also stop going to the rooftop.[l][er]
+That's right... If we stay near the first-floor staff room,[r]it won't be so bright, right?[pcms]
 
 *10687|
 [fc]
-‚¢‚Á‚©‚¢B‚µ‚å‚­‚¢‚ñ‚µ‚ÂB‚È‚ÉA‚»‚êB‚Å‚àA‚Ü‚Ô‚µ[r]
-‚­‚È‚¢‚È‚çA‚¢‚Á‚Ä‚İ‚æ‚¤‚©‚ÈB[pcms]
+Alright. The staff room. What's that?[l][er]
+But if it's not too bright, maybe I should go check it out.[pcms]
 
 *10688|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¶‚áA‚ A‚»‚±ccA‚¢‚­v[pcms]
+[ns]Kato[nse]
+Well then, um, there... I'll go.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3945|
 [fc]
 [vo_ya s="yama1117"]
-[ns]RŠİ[nse]
-u‚¶‚á‚ A‚İ‚ñ‚È‚Ås‚±‚¤‚æI@‚ËHv[pcms]
+[ns]Yamagishi[nse]
+Well then, let's all go together![l][er]
+Right?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_a_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3946|
 [fc]
 [vo_sa s="sae1306"]
-[ns]²”Œ[nse]
-u‚»‚¤‚Å‚·‚ËccBs‚«‚Ü‚µ‚å‚¤‚©v[pcms]
+[ns]Saeki[nse]
+Yes, that's right... Shall we go?[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *10689|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ccv[pcms]
+[ns]Kato[nse]
+Ah...[pcms]
 
 *10690|
 [fc]
-‚¨‚ñ‚È‚Ì‚±‚ªA‚¨‚ê‚ğ‚Ğ‚Á‚Ï‚Á‚Ä‚­‚ê‚Ä‚éB‚ç‚­‚¾B[r]
-‚¸‚é‚¸‚éA‚¸‚é‚¸‚éccB‚ ‚µ‚¤‚²‚©‚³‚È‚­‚Ä‚àA‚Ü‚¦[r]
-‚É‚·‚·‚ŞB[pcms]
+The girl is pulling me along. It's easy.[l][er]
+Dragging, dragging... Even if I don't move my legs, I can[r]still move forward.[pcms]
 
 ;//;//BG:bg08a
 
@@ -486,106 +482,107 @@
 [ChrSetParts layer=1 chface="yuu_a_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3947|
 [fc]
 [vo_ya s="yama1118"]
-[ns]RŠİ[nse]
-u‚¤‚í‚Ÿ`ccB‚±‚±A—Á‚µ‚¢‚Ëv[pcms]
+[ns]Yamagishi[nse]
+Uwaa~... It's cool here, isn't it?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_a_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3948|
 [fc]
 [vo_sa s="sae1307"]
-[ns]²”Œ[nse]
-u‚»‚¤‚Å‚·‚ËccB‘‹‚à‚È‚¢‚Å‚·‚µ‚Ëccv[pcms]
+[ns]Saeki[nse]
+That's right... There are no windows here...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_a_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3949|
 [fc]
 [vo_ya s="yama1119"]
-[ns]RŠİ[nse]
-u‚Ë‚¥cc‚±‚±‚ÅAƒGƒbƒ`‚µ‚æ‚¤‚©Hv[pcms]
+[ns]Yamagishi[nse]
+Hey... should we have sex here?[pcms]
 
 *10691|
 [fc]
-‚¦‚Á‚¿ccH@‚ ‚ A‚¹‚Á‚­‚·‚Ì‚±‚Æ‚¾‚ÈH[r]
-‚·‚¸‚µ‚¢‚µA‚â‚è‚½‚¢‚ÈB[pcms]
+Sex...? Ah, you mean having sex?[l][er]
+It's cool here, and I want to do it.[pcms]
 
 *10692|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¹‚ÁA‚­‚·v[pcms]
+[ns]Kato[nse]
+Se-, kusu[l][er]
 
 [ChrSetEx layer=1 chbase="sae_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_a_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3950|
 [fc]
 [vo_sa s="sae1308"]
-[ns]²”Œ[nse]
-u‚Å‚ÍA‚±‚±‚ÅA’v‚µ‚Ü‚µ‚å‚¤‚©Hv[pcms]
+[ns]Saeki[nse]
+Well then, shall we do it here?[pcms]
 
 *10693|
 [fc]
-[ns]‰Á“¡[nse]
-u‚âA‚év[pcms]
+[ns]Kato[nse]
+I-I'll do it.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_a_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3951|
 [fc]
 [vo_ya s="yama1120"]
-[ns]RŠİ[nse]
-u‚ ‚Í‚Í‚Í‚ÁII@‚¶‚á‚ A‚µ‚æ‚Á‚©I@cc‚Å‚àA“ñ[r]
-l‚¢‚Á‚Ø‚ñ‚É‚ÍA“ü‚ê‚ç‚ê‚È‚¢‚Ëccv[pcms]
+[ns]Yamagishi[nse]
+Ahahaha!! Alright, let's do it![l][er]
+... But we can't do it with both of us at the same time,[r]huh...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_a_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3952|
 [fc]
 [vo_sa s="sae1309"]
-[ns]²”Œ[nse]
-u‚ ‚çA‘}“ü‚³‚ê‚È‚­‚Æ‚à‹C‚¿‚æ‚­‚È‚ê‚Ü‚·‚í‚æHv[pcms]
+[ns]Saeki[nse]
+Oh my, even without insertion, I can still feel pleasure,[r]you know?[pcms]
 
 *10694|
 [fc]
-cc‚È‚É‚·‚é‚«‚È‚ñ‚¾‚ë‚¤ccB[r]
-‚È‚ñ‚¾‚ë‚¤B‚Ç‚¤‚·‚é‚ñ‚¾‚ë‚¤B‚½‚Ì‚µ‚İ‚¾‚ÈccB[pcms]
+... I wonder what we're going to do...[l][er]
+I wonder. What are we going to do?[l][er]
+I'm looking forward to it...[pcms]
 
 
 ;;;[sysbt_meswin clear]
 
 *scene_start
 
-;//ôFBGM006
+;//â™ªï¼šBGM006
 [bgm006]
 
 ;//HCG:ON
@@ -596,289 +593,295 @@
 ;;;[sysbt_meswin]
 
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
 
 [se0 storage="se059"]
 
 *v3953|
 [fc]
 [vo_ya s="yama1121"]
-[ns]RŠİ[nse]
-u‚ñ‚ñ‚ñ‚ñcc‚±‚êcc‚¶‚í‚¶‚ícc‹C‚¿‚¢‚¢‚Ëccv[pcms]
+[ns]Yamagishi[nse]
+Mmm... This... slowly... feels good, doesn't it...[pcms]
 
 *v3954|
 [fc]
 [vo_sa s="sae1310"]
-[ns]²”Œ[nse]
-u‚Ó‚Ÿcc‰Á“¡‚³‚ñ‚ÌŒ˜‚¢‚Ì‚ªcc‚±‚·‚ê‚Äcc‹C‚¿[r]
-‚¢‚¢ccv[pcms]
+[ns]Saeki[nse]
+Ah... Kato-san's hard one... rubbing against me...[l][er]
+feels good...[pcms]
 
 *10695|
 [fc]
-‚©‚¿‚©‚¿‚Ì‚¿‚ñ‚±‚ªA‚¨‚ñ‚È‚Ì‚±‚Ì‚¨‚Ü‚ñ‚±‚É‚Í‚³‚Ü‚ê[r]
-‚ÄA‚Ê‚é‚Ê‚é‚³‚ê‚ÄA‚¨‚ê‚à‚«‚à‚¿‚¢‚¢B[pcms]
+My hard cock is being sandwiched between a girl's pussy,[r]getting all slippery, and it feels so good for me too.[pcms]
 
 *10696|
 [fc]
-‚Ş‚©‚µA‚¾‚ê‚©‚ÆA‚±‚ñ‚È‚Ì‚İ‚½‚ÈB‚¾‚ê‚¾‚Á‚½‚©‚ÈB[pcms]
+I wonder if I've seen something like this before, with[r]someone in the past.[l][er]
+I wonder who it was.[pcms]
 
 *v3955|
 [fc]
 [vo_ya s="yama1122"]
-[ns]RŠİ[nse]
-u‚Ó‚¤‚£‚£‚£‚£cc‚¤‚í‚Ÿcc“ü‚ê‚Ä‚È‚¢‚Ì‚ÉccA‹C[r]
-‚¿‚¢‚¢‚ËccB„‚ÆA²”Œ‚³‚ñ‚©‚çA‚¿‚ñ‚¿‚ñ‚ª‚Í‚¦[r]
-‚Ä‚«‚½‚İ‚½‚¢cc‚Ó‚Ó‚Áv[pcms]
+[ns]Yamagishi[nse]
+Fuuuu... Uwaa... Even though it's not inside...[l][er]
+It feels good, doesn't it? It seems like both Saeki-san and[r]I have gotten hard down there...[l][er]
+Hehe.[pcms]
 
 *v3956|
 [fc]
 [vo_sa s="sae1311"]
-[ns]²”Œ[nse]
-u‚Ó‚ÓccƒCƒ„‚ç‚µ‚¢cc‰Á“¡‚³‚ñ‚ÌƒyƒjƒX‚ªA„‚½‚¿[r]
-‚ÌŠÔ‚©‚çŠç‚ğo‚µ‚½‚èAˆø‚Á‚ñ‚¾‚ècc–{“–A¶‚¦‚Ä[r]
-‚«‚½‚İ‚½‚¢ccv[pcms]
+[ns]Saeki[nse]
+Hehe... How naughty... Kato-san's penis, peeking out and[r]then hiding between us...[l][er]
+It really feels like it's growing...[pcms]
 
 *10697|
 [fc]
-‚Ó‚½‚è‚ª‚ ‚Â‚­‚È‚Á‚Ä‚«‚½B‚Ê‚é‚Ê‚é‚ÅA‚ ‚Â‚¢B[pcms]
+The two of us are getting hot.[l][er]
+It's slippery and hot.[pcms]
 
 *v3957|
 [fc]
 [vo_ya s="yama1123"]
-[ns]RŠİ[nse]
-u‚Ğ‚Ÿ‚ÁIH@ƒNƒŠƒgƒŠƒXA‚±‚·‚ê‚Ä‚éccB‚Ñ‚è‚Ñ‚è[r]
-‚Á‚ÄA‚·‚éccv[pcms]
+[ns]Yamagishi[nse]
+Hya!? My clitoris is being rubbed...[l][er]
+It feels tingly...[pcms]
 
 *v3958|
 [fc]
 [vo_sa s="sae1312"]
-[ns]²”Œ[nse]
-u„‚Ì‚àcc‚±‚·‚ê‚Äcc‚Ü‚Ç‚ë‚Á‚±‚µ‚¢ccB‚Å‚àA[r]
-‹C‚¿‚¢‚¢ccv[pcms]
+[ns]Saeki[nse]
+Mine too... rubbing against...[l][er]
+it's a bit sleepy... but it feels good...[pcms]
 
 *v3959|
 [fc]
 [vo_ya s="yama1124"]
-[ns]RŠİ[nse]
-u‚ñ‚Ÿ‚ ‚ cc“ü‚ê‚½‚¢ccA“ü‚ê‚½‚¢‚æccv[pcms]
+[ns]Yamagishi[nse]
+Ahh... I want it... I want you to put it in...[pcms]
 
 *v3960|
 [fc]
 [vo_sa s="sae1313"]
-[ns]²”Œ[nse]
-u‘Ê–Ú‚Å‚·ccB‰Á“¡‚³‚ñ‚ÍAˆêl‚µ‚©‹‚È‚¢‚Ì‚Å‚·‚©[r]
-‚çccA“Æ‚èè‚ß‚ÍA—Ç‚­‚È‚¢‚Å‚·‚æB‚ñ‚Ÿ‚ ccv[pcms]
+[ns]Saeki[nse]
+No... Kato-san... because there's only one of you...[l][er]
+it's not good to have you all to myself...[l][er]
+ah...[pcms]
 
 *10698|
 [fc]
-‚¢‚ê‚Ä‚Ù‚µ‚¢‚¯‚ÇA‚¶‚Ô‚ñ‚Å‚¤‚²‚­‚Ì‚Í‚ß‚ñ‚Ç‚­‚³‚¢B[r]
-‚Å‚àA‚±‚Ì‚¶‚í‚¶‚í‚­‚é‚Ì‚àA‚¢‚¢‚ÈB[pcms]
+I want you to put it in, but it's troublesome to do it[r]myself.[l][er]
+But this slow and gradual feeling is also nice.[pcms]
 
 *v3961|
 [fc]
 [vo_ya s="yama1125"]
-[ns]RŠİ[nse]
-u‚Ó‚Ÿ‚ÁI@‚ñ‚Ÿ‚ cc‚ñ‚ñcc‚¤‚í‚Ÿ‚Ÿccv[pcms]
+[ns]Yamagishi[nse]
+Fuah! Nnaa... Nnn... Uwaa...[pcms]
 
 *v3962|
 [fc]
 [vo_sa s="sae1314"]
-[ns]²”Œ[nse]
-u‚ñ‚¤‚ÁccI@‚¿‚åA‚¿‚å‚Á‚Æ‚¾‚¯A“ü‚Á‚Äcc‚ ‚¤[r]
-‚£‚¤ccB‚Õ‚¿‚ã‚Ácc‚Ä‰¹‚ğ—§‚Ä‚Äcc‚Í‚Ÿ‚ ccv[pcms]
+[ns]Saeki[nse]
+Nngh...! J-Just a little bit, enter...[l][er]
+Ahh... *squish*... making that sound...[l][er]
+Haaah...[pcms]
 
 *10699|
 [fc]
-‚Í‚¢‚Á‚½‚ñ‚¾ccB‚»‚Ì‚Ü‚Ü‚É‚µ‚Ä‚­‚ê‚ê‚Î‚¢‚¢‚Ì‚ÉB[pcms]
+It went in... I wish you would just leave it like that.[pcms]
 
 *10700|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚êccA‚¿‚ñA‚±A‚Écc‚µ‚ëA‚¢A‚¦‚«A‚ªA[r]
-‚Â‚¢A‚ÄA‚éccv[pcms]
+[ns]Kato[nse]
+Ah, that... your penis... it's sticking out...[l][er]
+and it's erect...[pcms]
 
 *v3963|
 [fc]
 [vo_sa s="sae1315"]
-[ns]²”Œ[nse]
-u‚¢‚â‚ŸccA‚»‚ñ‚È–AŒ¾‚í‚È‚¢‚Å‰º‚³‚¢cc‚¨• ‚Ì[r]
-’†Aáu‚¢‚Äccˆì‚ê‚Ä‚µ‚Ü‚¤‚ñ‚Å‚·ccv[pcms]
+[ns]Saeki[nse]
+No... please don't say things like that...[l][er]
+my stomach is aching... it's overflowing...[pcms]
 
 *v3964|
 [fc]
 [vo_ya s="yama1126"]
-[ns]RŠİ[nse]
-u‚ñ‚Ó‚ÁccB‚ ‚Í‚ÍccA“µ‚³‚ñAŠ´‚¶‚Ä‚é‚ñ‚¾ccB[r]
-„‚àcc‚ñ‚ñ‚ñ‚ÁI@‚ ‚Í‚Ÿ‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Nfu... Ahaha... Hitomi-san, you're feeling it...[l][er]
+Me too... Nnnn! Ahaha![pcms]
 
 *10701|
 [fc]
-‚Ç‚Á‚¿‚Ì‚¨‚ñ‚È‚Ì‚±‚©‚ç‚àA‚¢‚Á‚Ï‚¢‚µ‚é‚ª‚ ‚Ó‚ê‚Ä‚­[r]
-‚éB‚¨‚ê‚Ì‚¿‚ñ‚±‚©‚çA‚İ‚¸‚İ‚½‚¢‚È‚¨‚Æ‚ª‚·‚éB[pcms]
+From both girls, there's an abundance of love overflowing.[l][er]
+From my penis, a sound like water trickling.[pcms]
 
 *10702|
 [fc]
-‚¨‚ñ‚È‚Ì‚±‚½‚¿‚ªA‚±‚µ‚ğ‚¤‚²‚©‚·‚ÆA‚¨‚Á‚Ï‚¢‚à‚ä‚ê[r]
-‚éA‚â‚í‚ç‚©‚»‚¤‚¾‚ÈB‚³‚í‚Á‚½‚çA‚«‚à‚¿‚¢‚¢‚æ‚ÈB[pcms]
+When girls move their hips, their breasts also sway, they[r]look so soft.[l][er]
+I bet it feels good to touch them.[pcms]
 
 *v3965|
 [fc]
 [vo_sa s="sae1316"]
-[ns]²”Œ[nse]
-u‚Í‚Ÿ‚ÁccA‹¹ccA‹C‚¿‚¢‚¢ccB‚ñ‚ñ‚Áccv[pcms]
+[ns]Saeki[nse]
+Haa... my chest... feels good...[l][er]
+mmm...[pcms]
 
 *v3966|
 [fc]
 [vo_ya s="yama1127"]
-[ns]RŠİ[nse]
-u„‚àcc‚¨‚Á‚Ï‚¢A‹C‚¿‚¢‚¢‚æccB‚»‚ê‚ÉAƒIƒ}[r]
-ƒ“ƒR‚àA‰Á“¡ŒN‚ÌH‚×‚Ä‚é‚İ‚½‚¢cc‚ñ‚Ÿ‚Ÿ‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+I also... my breasts feel good...[l][er]
+And, my pussy feels like Kato-kun is eating it...[l][er]
+Ahh![pcms]
 
 *v3967|
 [fc]
 [vo_sa s="sae1317"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñ‚ÌAæ‚Á‚Û‚ªccˆø‚Á‚©‚©‚Á‚ÄccA‚ ‚Ÿ‚ [r]
-‚ÁI@‚¤‚Ÿ‚ ‚ ccA‹C‚¿‚¢‚¢cc‚Í‚Ÿ‚ ‚ ccv[pcms]
+[ns]Saeki[nse]
+Kato-san's... tip is... rubbing against...[l][er]
+aahh! Uwaaah... it feels good...[l][er]
+haaah...[pcms]
 
 *10703|
 [fc]
-‚Í‚Ícc‚½‚×‚Ä‚é‚İ‚½‚¢‚©ccB‚Ù‚ñ‚Æ‚¾A‚½‚×‚ç‚ê‚Ä[r]
-‚é‚İ‚½‚¢B‚Ï‚­‚Ï‚­‚Í‚³‚ñ‚ÅA‚â‚³‚µ‚­‚½‚×‚ç‚ê‚Ä‚é‚İ[r]
-‚½‚¢B[pcms]
+Haha... It's like you're eating...[l][er]
+It really looks like you're being eaten.[l][er]
+With gentle bites, it looks like you're being eaten.[pcms]
 
 *10704|
 [fc]
-[ns]‰Á“¡[nse]
-u‚à‚ÁA‚ÆA‚Â‚æA‚­A‚Í‚³A‚ñ‚ÅccB‚Â‚æA‚­ccv[pcms]
+[ns]Kato[nse]
+S-squeeze... harder... squeeze harder...[pcms]
 
 *v3968|
 [fc]
 [vo_sa s="sae1318"]
-[ns]²”Œ[nse]
-u‚ÍA‚Í‚¢ccB‚ ‚ ‚ÁccBRŠİ‚³‚ñccA‚à‚Á‚Æ‚­[r]
-‚Á‚Â‚¢‚Äccv[pcms]
+[ns]Saeki[nse]
+Y-Yes... Ahh... Yamagishi-san...[l][er]
+Please get closer...[pcms]
 
 *v3969|
 [fc]
 [vo_ya s="yama1128"]
-[ns]RŠİ[nse]
-u‚¤‚ñccA“µ‚³‚ñcc‚à‚Á‚ÆA‚«‚ã‚ÁA‚Ä‚µ‚æcc‚Ë[r]
-Hv[pcms]
+[ns]Yamagishi[nse]
+Yes... Hitomi-san... Can you squeeze...[l][er]
+more tightly...?[pcms]
 
 *v3970|
 [fc]
 [vo_sa s="sae1319"]
-[ns]²”Œ[nse]
-u‚Í‚Ÿ‚ ‚ ccARŠİ‚³‚ñA’g‚©‚¢ccA‚»‚ê‚ÉA‰Á“¡[r]
-‚³‚ñ‚Ì‚àcc’g‚©‚¢ccv[pcms]
+[ns]Saeki[nse]
+Haaah... Yamagishi-san, it's warm...[l][er]
+and, Kato-san's too... it's warm...[pcms]
 
 *v3971|
 [fc]
 [vo_ya s="yama1129"]
-[ns]RŠİ[nse]
-u‚¤‚ñcc‚ ‚Á‚½‚©‚¢ccB‹C‚¿‚¢‚¢‚Ëccv[pcms]
+[ns]Yamagishi[nse]
+Mmm... It's warm... Feels good, doesn't it...[pcms]
 
 *10705|
 [fc]
-‚Ó‚½‚è‚Í‚«‚à‚¿‚æ‚³‚»‚¤B[r]
-‚¨‚ê‚à‚«‚à‚¿‚¢‚¢B[pcms]
+They both seem to feel good. I also feel good.[pcms]
 
 *v3972|
 [fc]
 [vo_sa s="sae1320"]
-[ns]²”Œ[nse]
-u‚Í‚Ÿ‚Ácc‚Í‚ ‚ÁccA’g‚©‚¢cc“ª‚ªA‚­‚ç‚­‚ç‚µ[r]
-‚Ä‚«‚Ü‚µ‚½ccv[pcms]
+[ns]Saeki[nse]
+Haa... haa... It's warm... My head is starting to feel[r]dizzy...[pcms]
 
 *v3973|
 [fc]
 [vo_ya s="yama1130"]
-[ns]RŠİ[nse]
-u„‚àcc‚Í‚Ÿcc“µ‚³‚ñcc‚¢‚¢‚É‚¨‚¢ccB”¯‚Ì–ÑA[r]
-‚³‚ç‚³‚ç‚ÅAãY—íccv[pcms]
+[ns]Yamagishi[nse]
+Me too... *sigh*... Hitomi-san...[l][er]
+you smell so good... Your hair is silky and beautiful...[pcms]
 
 *v3974|
 [fc]
 [vo_sa s="sae1321"]
-[ns]²”Œ[nse]
-u‚Ó‚Ó‚Ócc—L‚è“ï‚¤‚²‚´‚¢‚Ü‚·ccB‚ñ‚ñ‚ÁccA‚ [r]
-‚ cc‚Ü‚½A“ª‚ªcc‚Ó‚í‚Ó‚ícc‚µ‚Äccv[pcms]
+[ns]Saeki[nse]
+Hehehe... Thank you very much...[l][er]
+Mmm... Ahh... My head feels...[l][er]
+light and fluffy...[pcms]
 
 *10706|
 [fc]
-‚Ó‚½‚è‚Æ‚àA‚¢‚¢‚É‚¨‚¢B‚ ‚Á‚½‚©‚¢B‚«‚à‚¿‚¢‚¢B[r]
-‚È‚ñ‚©A‚±‚µ‚Ì‚ ‚½‚èA‚ ‚Â‚­‚È‚Á‚Ä‚«‚½B[pcms]
+Both of them have a nice scent.[l][er]
+It's warm. It feels good. Somehow, the area around my waist[r]is getting hot.[pcms]
 
 *v3975|
 [fc]
 [vo_ya s="yama1131"]
-[ns]RŠİ[nse]
-u‚ ‚ ‚Ácc‰Á“¡ŒN‚Ì‚¿‚ñ‚¿‚ñA¡A‚Ò‚­‚Á‚Ä‚¢‚Á‚½‚æ[r]
-ccB‚ ‚ÁA‚ ‚ÁccA‚Ü‚½cc‚Ò‚­‚Á‚Äccv[pcms]
+[ns]Yamagishi[nse]
+Ahh... Kato-kun's penis just twitched...[l][er]
+Ah, ah... it's twitching again...[pcms]
 
 *v3976|
 [fc]
 [vo_sa s="sae1322"]
-[ns]²”Œ[nse]
-u‚ñ‚ñ‚ñcc”M‚¢cc‰Á“¡‚³‚ñ‚ÌA”M‚¢‚Ì‚ªcc“®‚­‚½[r]
-‚ÑccA„‚ÌƒNƒŠƒgƒŠƒX‚Écc‚ ‚½‚Á‚Äcc‚ñ‚Ÿ‚ ‚ v[pcms]
+[ns]Saeki[nse]
+Mmm... It's hot... Kato-san's, it's so hot...[l][er]
+Every time it moves... it hits my clit...[l][er]
+Ahh...[pcms]
 
 *v3977|
 [fc]
 [vo_ya s="yama1132"]
-[ns]RŠİ[nse]
-ug‘Ì‚ªŸè‚Écck‚¦‚écc‚Ó‚£‚¤‚¤‚ÁI@‚ ‚Ÿ‚Ÿ‚Ÿ[r]
-‚Ÿ‚Áccv[pcms]
+[ns]Yamagishi[nse]
+My body... is trembling on its own...[l][er]
+Fuuuu! Ahhhhhh...[pcms]
 
 *v3978|
 [fc]
 [vo_sa s="sae1323"]
-[ns]²”Œ[nse]
-uˆø‚Á‚©‚©‚é‚£ccA‰Á“¡‚³‚ñ‚Ì”j—ô‚µ‚»‚¤‚È‚Ì‚ªcc[r]
-ˆø‚Á‚©‚©‚Á‚Äcc‚¤‚Ÿ‚ ‚ ‚ ‚ cc‚¤‚ ‚ ‚ ‚ÁIv[pcms]
+[ns]Saeki[nse]
+It's catching... Kato-san's about to burst...[l][er]
+It's catching... Uwaaaaa... Uwaaaaa![pcms]
 
 *v3979|
 [fc]
 [vo_ya s="yama1133"]
-[ns]RŠİ[nse]
-u‚ A‚ A‚ A‚ ccA‚íA„‚ÌA“ª‚àA‚ÍA”j—ô‚µ‚»[r]
-‚¤cc‚ ‚Ÿ‚Ÿ‚Ÿ‚ÁI@‚Ó‚Ÿ‚ ‚ ‚Áccv[pcms]
+[ns]Yamagishi[nse]
+Ah, ah, ah, ah... My head... it feels like it's going to[r]explode...[l][er]
+Ahhhh! Fuuuu![pcms]
 
 *10707|
 [fc]
-‚à‚¤A‚Å‚»‚¤B[pcms]
+I'm about to cum.[pcms]
 
 *v3980|
 [fc]
 [vo_sa s="sae1324"]
-[ns]²”Œ[nse]
-u‚Ó‚ ‚ÁH@‰Á“¡‚³‚ñ‚ÌAˆê’i‚Æcc‘å‚«‚­î‚ê‚Äcc[r]
-‚ ‚¤‚ÁccBæ‚ªA‚Ï‚­‚Ï‚­ŠJ‚¢‚Äccv[pcms]
+[ns]Saeki[nse]
+Fuah? Kato-san's... swelling even more...[l][er]
+Ahh... The tip is opening wide...[pcms]
 
 *v3981|
 [fc]
 [vo_ya s="yama1134"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒNccBo‚µ‚Äcc„‚É‚©‚¯‚ÄccH@‚ ‚Á‚Â‚¢[r]
-‚Ì‘òRcco‚µ‚ÄccHv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun... Release it... On me...?[l][er]
+Give me lots of it...? It's so hot...[l][er]
+Release it...?[pcms]
 
 *v3982|
 [fc]
 [vo_sa s="sae1325"]
-[ns]²”Œ[nse]
-u‚ñ‚Ÿ‚ cc„‚É‚àcc‰º‚³‚¢ccA„‚É‚àccv[pcms]
+[ns]Saeki[nse]
+Ahh... Please... give it to me too...[l][er]
+give it to me...[pcms]
 
 *10708|
 [fc]
-‚ª‚Ü‚ñ‚·‚é‚ÌA‚ß‚ñ‚Ç‚­‚³‚¢B‚¨‚ñ‚È‚Ì‚±‚ª‚¢‚¢‚Á‚Ä‚¢[r]
-‚Á‚Ä‚é‚©‚çA‚Ô‚Á‚©‚¯‚Ä‚â‚ë‚¤B[pcms]
+It's annoying to hold back. Since the girls are saying they[r]want it, I'll give them a bukkake.[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
 
 [stop_se0]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 
 [se0 storage="se062"]
 
@@ -910,23 +913,24 @@
 *v3983|
 [fc]
 [vo_sa s="sae1326"]
-[ns]²”Œ[nse]
-u‚ ‚ ‚ ‚ ‚Ácc”M‚¢‚ÁI@”M‚¢‚ÌA‚¨• ‚É‚Æ‚Ñ‚¿‚Á‚Ä[r]
-‚é‚ÁII@‚Ó‚Ÿ‚ ‚ cc”M‚¢‚¡ccv[pcms]
+[ns]Saeki[nse]
+Ahhhh... It's hot! It's so hot, it's throbbing in my[r]stomach!![l][er]
+Fuuuu... It's hot...[pcms]
 
 *v3984|
 [fc]
 [vo_ya s="yama1135"]
-[ns]RŠİ[nse]
-u‚ ‚Í‚Ÿ‚ÁI@‚±‚Á‚¿‚É‚àcc‚ ‚ ‚Ÿ‚ŸccI@‚½‚­‚³[r]
-‚ñ”ò‚ñ‚Å‚«‚Ä‚é‚ÁI@‚ñ‚ñ‚Ÿ‚ ‚ ccv[pcms]
+[ns]Yamagishi[nse]
+Ahh... It's coming over here too...[l][er]
+Ahhh...! It's flying all over...[l][er]
+Nnnaaaahh...[pcms]
 
 *v3985|
 [fc]
 [vo_sa s="sae1327"]
-[ns]²”Œ[nse]
-u‚ ‚ ‚Ÿ‚ÁIH@‰½‚¾‚©cc“ª‚ª^‚Á”’‚ÉccII@‚¢[r]
-‚â‚Ÿ‚ cc‚ ‚ ‚ ‚ ccv[pcms]
+[ns]Saeki[nse]
+Ahhh! Somehow... my head feels completely blank...!![l][er]
+Noooo... aaaaahhhh...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -944,9 +948,9 @@
 *v3986|
 [fc]
 [vo_ya s="yama1136"]
-[ns]RŠİ[nse]
-u‚¤‚í‚ ‚ ‚ ‚Ÿ‚Ÿ‚Ÿ‚Ÿccc‚í‚½A‚í‚½A‚µA‚à‚ÁI@[r]
-“ª‚ªcc‚­‚ç‚­‚çcc‚µ‚ÄI@‚ ‚ ‚ÁA‚ ‚Ÿ‚Ÿ‚Ÿ‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+Uwaaaaaaaahhh... I-I... me too![l][er]
+My head... it's spinning! Ahhh, aahhhh!![pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -964,15 +968,16 @@
 *v3987|
 [fc]
 [vo_sa s="sae1328"]
-[ns]²”Œ[nse]
-u‚¢‚­‚¢‚­ƒCƒN‚£‚ÁI@ƒCƒN‚£‚¤‚¤‚¤‚ÁIv[pcms]
+[ns]Saeki[nse]
+I'm cumming, I'm cumming! Cummingggg![pcms]
 
 *v3988|
 [fc]
 [vo_ya s="yama1137"]
-[ns]RŠİ[nse]
-u‚¤‚Ÿ‚ ‚ ‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚ÁI@‚·‚²‚¢‚ÁI@¦‚¢‚Ì—ˆ‚¿‚á[r]
-‚¤‚ÁII@‚Ó‚Ÿ‚ ‚ ‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Uwaaaaaaaahhh... It's amazing![l][er]
+Something incredible is coming!![l][er]
+Fuuuuuuuuuhhhhh![pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -991,17 +996,17 @@
 
 *10709|
 [fc]
-‚¨‚ñ‚È‚Ì‚±‚Ì‚¨‚È‚©‚ÉA‚½‚­‚³‚ñ‚¾‚µ‚½B‚¨‚ñ‚È‚Ì‚±‚½[r]
-‚¿‚àA‚Ü‚ñ‚¼‚­‚°B‚¤‚ê‚µ‚¢‚ÈB[pcms]
+I released a lot inside the girls' stomachs.[l][er]
+The girls are also satisfied. I'm happy.[pcms]
 
 
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 
 [bgm001]
 
@@ -1012,16 +1017,16 @@
 
 *10710|
 [fc]
-‚ ‚ ccB[r]
-‚Ü‚½A‚ ‚Â‚­‚È‚Á‚Ä‚«‚½B‚±‚Ì‚±‚½‚¿A‚ ‚Â‚¢B[pcms]
+Ahh... It's getting hot again.[l][er]
+These girls, they're hot.[pcms]
 
 *10711|
 [fc]
-‚ ‚Â‚¢B[pcms]
+It's hot.[pcms]
 
 *10712|
 [fc]
-‚Ç‚±‚©A‚×‚Â‚Ì‚Î‚µ‚å‚É‚¢‚©‚È‚¢‚ÆB[pcms]
+We should go somewhere else.[pcms]
 
 ;//;//BG:bg03a
 
@@ -1030,20 +1035,19 @@
 
 *10713|
 [fc]
-‚Ü‚Ô‚µ‚¢ccB‚È‚ÉA‚±‚±ccB[pcms]
+It's dazzling... What is this place...?[pcms]
 
 *10714|
 [fc]
-‚ ‚êccB‚È‚É‚©A‚¨‚Æ‚ª‚·‚éB‚ ‚Á‚¿‚ÌA‚­‚ç‚¢‚Ù‚¤[r]
-‚©‚çA‚¨‚Æ‚ª‚·‚éB[pcms]
+Huh... I hear something. It's coming from over there, in the[r]dark direction.[pcms]
 
 *10715|
 [fc]
-‚Ğ‚Æ‚Ì‚±‚¦H[pcms]
+Someone's voice?[pcms]
 
 *10716|
 [fc]
-‚Æ‚Ñ‚çA‚¤‚²‚¢‚½B‚ ‚¢‚½B[pcms]
+The door moved. It opened.[pcms]
 
 ;//;//BG:bg12a
 
@@ -1052,29 +1056,28 @@
 
 *10717|
 [fc]
-‚Í‚±‚©‚ç‚¨‚Æ‚ª‚Å‚éB‚¨‚Æ‚±‚Ì‚±‚¦‚¾B[pcms]
+A sound is coming from here. It's a man's voice.[pcms]
 
 *10718|
 [fc]
-[ns]’j[nse]
-u—Áƒ–—Ë’nˆæI@‹Ù‹}‘Ò”ğII@¶‘¶Ò‚ÍA©‰q‘à‚Ìw[r]
-¦‚É]‚¢A‹Ù‹}‘Ò”ğI@¶‘¶Ò‚ÍA©‰q‘à‚Ìw¦‚É]‚¢[r]
-‹Ù‹}‘Ò”ğIIv[pcms]
+[ns]Man[nse]
+Ryoga-ryou area! Emergency evacuation!![l][er]
+Survivors, follow the Self-Defense Force's instructions and[r]evacuate immediately![l][er]
+Survivors, follow the Self-Defense Force's instructions and[r]evacuate immediately![pcms]
 
 *10719|
 [fc]
-‚¶‚¦‚¢‚½‚¢H@‚«‚ñ‚«‚ã‚¤‚½‚¢‚ĞH[r]
-cc‚È‚É‚»‚êH[pcms]
+Military? Emergency situation?...[l][er]
+What's that?[pcms]
 
 *10720|
 [fc]
-‚»‚ê‚ÉA‚¨‚©‚µ‚¢‚ÈB‚½‚µ‚©A‚±‚Ì‚Í‚±‚©‚ç‚Í‚¢‚Â‚àA[r]
-‚¨‚ñ‚È‚Ì‚Ğ‚Æ‚Ì‚±‚¦‚ª‚Å‚Ä‚­‚é‚Í‚¸‚È‚Ì‚ÉH[pcms]
+Moreover, that's strange. I'm certain that normally, only[r]women's voices should be coming from this place, right?[pcms]
 
 *10721|
 [fc]
-‚Ü‚ A‚¢‚¢‚âB‚±‚±A‚Å‚æ‚¤B[r]
-‚±‚ñ‚ÈA‚¤‚é‚³‚¢‚Í‚±A‚«‚ç‚¢B[pcms]
+Well, never mind. Let's stay here.[l][er]
+I don't like noisy places like this.[pcms]
 
 ;//;//BG:bg08a
 
@@ -1083,9 +1086,8 @@
 
 *10722|
 [fc]
-‚ ‚êccH[r]
-‚³‚Á‚«‚Ü‚Å‚Ì‚¨‚ñ‚È‚Ì‚±‚½‚¿A‚¢‚È‚­‚È‚Á‚Ä‚éB[r]
-‚Ç‚±‚¾‚ë‚¤B‚¤‚¦‚©‚ÈB[pcms]
+Huh...? The girls from earlier are gone.[l][er]
+I wonder where they went. Maybe upstairs.[pcms]
 
 ;//;//BG:bg06a
 
@@ -1094,8 +1096,8 @@
 
 *10723|
 [fc]
-‚Ü‚Ô‚µ‚¢B‚±‚±A‚¾‚ßB[r]
-‚ ‚»‚±‚ÉA‚Í‚¢‚éB[pcms]
+It's dazzling... This place is no good.[l][er]
+Let's go over there.[pcms]
 
 ;//;//BG:bg10a
 
@@ -1104,39 +1106,40 @@
 
 *10724|
 [fc]
-[ns]’|“à[nse]
-u‚ñ‚ª‚Ÿ‚ ‚ `ccB‚ñ‚ª‚Ÿ‚ ‚ ‚ `ccv[pcms]
+[ns]Takeuchi[nse]
+Ngaahhh... Ngaahhhh...[pcms]
 
 *10725|
 [fc]
-‚¤‚é‚³‚¢‚ÈB‚Å‚àA‚¢‚¢‚âB‚à‚¤A‚ ‚é‚­‚Ì‚ß‚ñ‚Ç‚­‚³[r]
-‚¢B‚Ë‚Ş‚¢‚µB[pcms]
+It's noisy. But, whatever. Walking is troublesome.[l][er]
+I'm sleepy too.[pcms]
+[l][er]
 
 *10726|
 [fc]
-‚¨‚ñ‚È‚Ì‚±‚à‚Ë‚Ä‚¢‚éB‚¨‚ê‚à‚Ë‚æ‚¤B[pcms]
+The girls are also sleeping. I should sleep too.[pcms]
 
 *10727|
 [fc]
-‚¨‚ê‚à‚Ë‚æ‚¤B[pcms]
+I should sleep too.[pcms]
 
 ;//blackout
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//‚±‚±‚Ü‚Å–{•Ò
+;//ã“ã“ã¾ã§æœ¬ç·¨
 
-;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
-;•s—v[eval exp="="sf.g_scn51 = 1"]
+;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
+;ä¸è¦[eval exp="="sf.g_scn51 = 1"]
 
-;//ƒEƒBƒ“ƒhƒEÁ‹
+;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//•‚ÉƒtƒF[ƒh
+;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 [jump target=*08302_TOP storage="08302.ks"]

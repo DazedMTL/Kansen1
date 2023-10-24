@@ -1,26 +1,26 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN04034wƒŠƒT‚ÌŒûx
-;//BG:OŠK‹³ºF–é
-;//“oêl•¨GålŒöEƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04034ã€ãƒªã‚µã®å£ã€
+;//BG:ä¸‰éšæ•™å®¤ï¼šå¤œ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *04034_H_TOP
-;[debug_win]‚È‚¤@04034_H[debug_win_end]
+;[debug_win]ãªã†ã€€04034_H[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04034 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04034 = 1"]
 
-;*SceneSet|wƒŠƒT‚ÌŒûx
+;*SceneSet|ã€ãƒªã‚µã®å£ã€
 
-;//flag:—Dƒ‹[ƒgƒtƒ[@bad‚T@•\¦
+;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€badï¼•ã€€è¡¨ç¤º
 
-;//ôFBGM006
+;//â™ªï¼šBGM006
 
 [bgm006]
 
-;//H_CG:ƒŠƒT‚ªƒpƒCƒYƒŠ
+;//H_CG:ãƒªã‚µãŒãƒ‘ã‚¤ã‚ºãƒª
 
 ;[evcg storage="HEV_036_a"]
 ;[trans_c cross time=500]
@@ -30,23 +30,20 @@
 
 *4307|
 [fc]
-Š´Šo‚ª‚ ‚Ü‚è‚É‚àƒnƒbƒLƒŠ‚µ‚Ä‚¢‚é–²‚ÍA³–²‚É‚È‚é‚Æ[r]
-•·‚¢‚½‚±‚Æ‚ª‚ ‚éB[pcms]
+I've heard that dreams with such vivid sensations can become[r]lucid dreams.[pcms]
 
 *4308|
 [fc]
-ƒ‚ƒm‚ÉŠ´‚¶‚éAV“¹æ¶‚Ì‘Ì‚Ì’g‚©‚³A_‚ç‚©‚³AŠÃ‚¢[r]
-“õ‚¢B[pcms]
+The warmth, softness, and sweet scent of Shindou-sensei's[r]body that I feel.[pcms]
 
 *4309|
 [fc]
-‚»‚Ì‘S‚Ä‚ğAƒnƒbƒLƒŠ‚Æ©•ª‚Ì‘Ì‚ÉŠ´‚¶‚éB[r]
-‚»‚ê‚È‚ç‚±‚ê‚ÍA³–²‚È‚Ì‚©B[pcms]
+I can clearly feel all of that in my own body.[l][er]
+If that's the case, could this be a lucid dream?[pcms]
 
 *4310|
 [fc]
-‚»‚ê‚Æ‚àA‰´‚ª–§‚©‚É•ø‚¢‚Ä‚¢‚éŠè–]‚ªA–²‚Æ‚µ‚Äo‚Ä[r]
-‚«‚½‚¾‚¯‚È‚Ì‚©ccB[pcms]
+Or is it just that my secret desires have manifested as a[r]dream...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -60,30 +57,28 @@
 *v1791|
 [fc]
 [vo_ri s="risa0441"]
-[ns]V“¹[nse]
-u‚Ÿ‚Şcc‚ñ‚ÁA‚¿‚ã‚ÕA‚ñ‚Şcc‚¿‚ã‚ÁA‚¿‚ã‚Ô‚ÁA[r]
-‚ñ‚Ó‚£ccv[pcms]
+[ns]Shindou[nse]
+Ahh... mmm, *sucking sound*, mmm...[l][er]
+*kissing sound*, *sucking sound*, *licking sound*, *sigh*...[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
 
 [se0 storage="se059" loop=true]
 
 *4311|
 [fc]
-ƒ{ƒ“ƒ„ƒŠ‚Æl‚¦‚²‚Æ‚ğ‚µ‚Ä‚¢‚éŠÔ‚ÉA‰´‚Ìƒ‚ƒm‚ÍV“¹æ[r]
-¶‚ÌŒû‚ÉŠÜ‚Ü‚ê‚Ä‚µ‚Ü‚Á‚½B[pcms]
+While I was lost in thought, my thing ended up in Shindou-[r]sensei's mouth.[pcms]
 
 *v1792|
 [fc]
 [vo_ri s="risa0442"]
-[ns]V“¹[nse]
-u‚¿‚ã‚Ô‚ÁA‚À‚ã‚Õ‚ÁA‚ñ‚¶‚ã‚Ácc‚¶‚ã‚Õ‚ÁA‚ñ‚ÁA[r]
-‚¶‚ã‚é‚Áccv[pcms]
+[ns]Shindou[nse]
+*sucking sound*, *kissing sound*, *licking sound*...[pcms]
 
 *4312|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤A‚Ÿccv[pcms]
+[ns]Kato[nse]
+U-ah...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -97,14 +92,12 @@
 *v1793|
 [fc]
 [vo_ri s="risa0443"]
-[ns]V“¹[nse]
-u‚ñ‚ÁA‚ñ‚Şcc‚Õ‚Ícc‚Í‚âA‚­A‚¹A‚¢‚µA‚Ì‚ÜA[r]
-‚¹‚Ä‚¥ccv[pcms]
+[ns]Shindou[nse]
+Mmm, nggh... pufu... h-hurry, touch, squeeze, lick, let me[r]have it...[pcms]
 
 *4313|
 [fc]
-ˆê’UŒû‚ğ—£‚µ‚ÄAV“¹æ¶‚Í¡“x‚ÍAãæ‚Å‰´‚Ìƒ‚ƒm‚ğ[r]
-Ó‚ßn‚ß‚½B[pcms]
+Shindou-sensei temporarily released her mouth and now she[r]started teasing my thing with the tip of her tongue.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -118,76 +111,75 @@
 *v1794|
 [fc]
 [vo_ri s="risa0444"]
-[ns]V“¹[nse]
-u‚Ö‚Í‚Ÿcc‚ê‚écc‚Ø‚¿‚á‚ÁA‚Ò‚¿‚ácc‚ñ‚Íccv[pcms]
+[ns]Shindou[nse]
+Heh... mmm... *sucking sound*, *licking sound*...[l][er]
+ah...[pcms]
 
 *4314|
 [fc]
-‚Ê‚ß‚Á‚½ãæ‚ªƒ‚ƒm‚Ìæ’[‚ğ”‡‚¤Š´G‚ÉA‰´‚Ív‚í‚¸˜[r]
-‚ğ•‚‚©‚¹‚Ä‚µ‚Ü‚¤B[pcms]
+The slimy tip of her tongue crawling along the tip of my[r]thing, I unintentionally lifted my hips.[pcms]
 
 *4315|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤‚Ÿ‚Ácc‚­cc‚ÁIv[pcms]
+[ns]Kato[nse]
+Ugh... ah...![pcms]
 
 *v1795|
 [fc]
 [vo_ri s="risa0445"]
-[ns]V“¹[nse]
-u‚Ó‚Ócc‚¨‚¿A‚ñ‚¿‚ñA‚Ò‚­A‚Ò‚­‚³A‚¹‚Äcc‚«A[r]
-‚à‚¿A‚¢‚¢‚ÌA‚Ëccv[pcms]
+[ns]Shindou[nse]
+Hehe... your, your thing, biku, bikusa, let it go...[l][er]
+it feels good, right?[pcms]
 
 *4316|
 [fc]
-Å“_‚Ì‡‚Á‚Ä‚È‚¢‚æ‚¤‚È–Ú‚ÅAV“¹æ¶‚Í”÷Î‚İA‚Ü‚½[r]
-‰´‚Ìƒ‚ƒm‚ğŒû‚ÉŠÜ‚ñ‚¾B[pcms]
+Shindou-sensei smiled with unfocused eyes and once again[r]took my thing into her mouth.[pcms]
 
 *4317|
 [fc]
-V“¹æ¶‚ÌƒCƒb‚Ä‚µ‚Ü‚Á‚Ä‚¢‚é–Ú‚ÉA‰´‚Íƒ]ƒb‚Æ‚È‚Á‚½[r]
-‚ªAƒ‚ƒm‚É—^‚¦‚ç‚ê‚é‰õŠ´‚É‚Í’ïR‚Å‚«‚È‚©‚Á‚½B[pcms]
+I was taken aback by the sight of Shindou-sensei reaching[r]her climax, but I couldn't resist the pleasure that was[r]being bestowed upon my thing.[pcms]
 
 *v1796|
 [fc]
 [vo_ri s="risa0446"]
-[ns]V“¹[nse]
-u‚Õ‚¿‚ã‚ÁA‚ñ‚¶‚ã‚écc‚Ş‚¿‚ã‚ÁA‚ñ‚ÁA‚ñ‚Ş‚Ácc[r]
-‚¿‚ã‚Ô‚ÁA‚¿‚á‚Õ‚Áccv[pcms]
+[ns]Shindou[nse]
+*sucking sound*, *licking sound*...[l][er]
+*kissing sound*, *moaning sound*...[l][er]
+*sucking sound*, *popping sound*...[pcms]
 
 *4318|
 [fc]
-[ns]‰Á“¡[nse]
-u‚­cc‚Ÿcc‚ÁIv[pcms]
+[ns]Kato[nse]
+Ku... ah...![pcms]
 
 *v1797|
 [fc]
 [vo_ri s="risa0447"]
-[ns]V“¹[nse]
-u‚ñ‚ÓA‚Ócc‚ñ‚¶‚ã‚ÁA‚À‚ã‚Õ‚ÁA‚¿‚ã‚Ô‚£ccv[pcms]
+[ns]Shindou[nse]
+Nfu, fu... njuu, jyuppu, chubuu...[pcms]
 
 *4319|
 [fc]
-‰´‚ªŒÀŠE‚È‚Ì‚ª‚í‚©‚Á‚½‚Ì‚©AV“¹æ¶‚ÍˆêuAŠğ‚µ‚»[r]
-‚¤‚ÈŠç‚ğ‚µ‚ÄAƒ‚ƒm‚ğŒƒ‚µ‚­‚µ‚²‚«ã‚°‚Ä‚­‚éB[pcms]
+Did Shindou-sensei realize that I've reached my limit?[l][er]
+In an instant, she had a delighted expression on her face[r]and vigorously started stroking my 'thing'.[pcms]
 
 *v1798|
 [fc]
 [vo_ri s="risa0448"]
-[ns]V“¹[nse]
-u‚À‚ã‚Õ‚ÁA‚ñ‚À‚ã‚ÁA‚¶‚ã‚Õ‚Ácc‚ñ‚Ş‚ÁA‚ñ‚ÁA‚ñ[r]
-‚¶‚ã‚Ácc‚¿‚ã‚Õ‚ÁA‚¿‚ã‚Ô‚£‚Áccv[pcms]
+[ns]Shindou[nse]
+Jyuppu, ndju, juppu... nmu, n, njuu...[l][er]
+chuppu, chubuu...[pcms]
 
 *4320|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤A‚ ‚Ÿcc‚ÁIv[pcms]
+[ns]Kato[nse]
+Ugh... ah...![pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
 
 [stop_se0]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 
 [se0 storage="se062"]
 
@@ -216,9 +208,7 @@
 
 *4321|
 [fc]
-¡‚Ü‚Å‚ÉŠ´‚¶‚½‚±‚Æ‚Ì‚È‚¢‹C‚¿—Ç‚³‚ÉA‰´‚Í—}‚¦‚é‚±[r]
-‚Æ‚ªo—ˆ‚¸‚ÉAV“¹æ¶‚ÌŒû‚ÉŠÜ‚Ü‚ê‚½‚Ü‚ÜAƒCƒb‚Ä‚µ[r]
-‚Ü‚Á‚½B[pcms]
+I couldn't hold back the overwhelming pleasure I had never[r]felt before, and I ended up climaxing while still inside[r]Shindou-sensei's mouth.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -232,65 +222,61 @@
 *v1799|
 [fc]
 [vo_ri s="risa0449"]
-[ns]V“¹[nse]
-u‚ñ‚ñ‚ÁI@‚ñ‚ÁA‚ñ‚®cc‚ñ‚ŞA‚²‚­‚Áccv[pcms]
+[ns]Shindou[nse]
+Nn! Nn, ngu... nmu, goku...[pcms]
 
 *4322|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Í‚ŸA‚£ccv[pcms]
+[ns]Kato[nse]
+Haa, u...[pcms]
 
 *4323|
 [fc]
-V“¹æ¶‚ÍA‰´‚Ìo‚µ‚½¸‰t‚ğ‘S‚Äˆù‚İŠ±‚µA‚³‚ç‚É”A[r]
-“¹‚Éc‚Á‚½‹Í‚©‚È‰t‚Ü‚ÅAŒû‚ğ‚·‚Ú‚ß‚Ä‹z‚¢æ‚Á‚½B[pcms]
+Shindou-sensei drank all of the semen I released, and even[r]sucked up the small amount of liquid that remained in my[r]urethra by pursing her lips.[pcms]
 
 *v1800|
 [fc]
 [vo_ri s="risa0450"]
-[ns]V“¹[nse]
-u‚ñ‚ÁA‚ñ‚¿‚ãcc‚¿‚ã‚£‚ÁA‚¿‚ã‚Ş‚Áccv[pcms]
+[ns]Shindou[nse]
+Mmm, *kiss*... *smooch*... *suck*...[pcms]
 
 *4324|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ÓA‚Í‚Áccƒnƒ@ƒbccv[pcms]
+[ns]Kato[nse]
+Fu, ha... Haa...[pcms]
 
 *v1801|
 [fc]
 [vo_ri s="risa0451"]
-[ns]V“¹[nse]
-u‚ñA‚ê‚écc‚ñ‚ÓA‚Ócc‚¨‚¢A‚µA‚©‚Á‚½A‚ícc[r]
-‚±‚­A‚ÄA‚ÇA‚ë‚ÇA‚ë‚Åccv[pcms]
+[ns]Shindou[nse]
+N, reru... nfu, fu... oi, shi, katta, wa...[l][er]
+koku, te, do, rodo, rode...[pcms]
 
 *4325|
 [fc]
-–²¸‚µ‚Ä‚µ‚Ü‚Á‚½‚Ì‚Å‚Í‚È‚¢‚©‚ÆA‰´‚Í‘Ì‚ğ‹N‚±‚µ‚Ä“ª[r]
-‚ğŒƒ‚µ‚­U‚Á‚½‚ªA–Ú‚ªŠo‚ß‚é‚æ‚¤‚È‚±‚Æ‚Í‚È‚©‚Á‚½B[pcms]
+I sat up and shook my head vigorously, wondering if I had[r]just had a wet dream, but there was nothing to wake me up.[pcms]
 
 *4326|
 [fc]
-‚±‚êA–²‚¶‚á‚È‚¢ccB[r]
-Œ»À‚È‚ñ‚¾ccB[r]
-‚Å‚àA‚»‚ê‚È‚ç‚Ç‚¤‚µ‚ÄV“¹æ¶‚ªccB[pcms]
+This isn't a dream... It's reality...[l][er]
+But if that's the case, then why is Shindou-sensei...?[pcms]
+[l][er]
 
 *4327|
 [fc]
-‚»‚ê‚æ‚è‰´ccV“¹æ¶‚ÆccB[pcms]
+But more importantly, me... and Shindou-sensei...[pcms]
 
 *v1802|
 [fc]
 [vo_ri s="risa0452"]
-[ns]V“¹[nse]
-u‚ÜA‚¾A‚ÌA‚±‚Á‚Ä‚éA‚İ‚½A‚¢‚Ëcc‚¹‚ñ‚¹A‚ªA[r]
-‚º‚ñA‚ÔA‚µA‚Ú‚èA‚Æ‚Á‚ÄA‚ ‚°‚éA‚íccv[pcms]
+[ns]Shindou[nse]
+You still look so tense... Sensei will take care of all your[r]stiffness...[pcms]
 
 *4328|
 [fc]
-•¢‚¢”í‚³‚Á‚Ä‚­‚éV“¹æ¶‚ğA‰ä‚É•Ô‚Á‚Ä“®—h‚µ‚Ä‚¢‚½[r]
-‰´‚ÍA”ğ‚¯‚é‚±‚Æ‚ª‚Å‚«‚È‚©‚Á‚½B[pcms]
+I, who was shaken and unable to regain my composure,[r]couldn't avoid Shindou-sensei who was coming to cover me.[pcms]
 
-;//[04035]‚Ö
+;//[04035]ã¸
 [jump target=*04035_H_TOP storage="04035_H.ks"]
 
 

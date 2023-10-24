@@ -1,19 +1,19 @@
 
-;//¡ËƒuƒƒbƒN05012w‘åÎ‚¢x
-;//BG:“Áê‹³º˜L‰ºF“_“”F–é
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05012ã€å¤§ç¬‘ã„ã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šç‚¹ç¯ï¼šå¤œ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05012_TOP
-;[debug_win]‚È‚¤@05012[debug_win_end]
-;*SceneSet|w‘åÎ‚¢x
+;[debug_win]ãªã†ã€€05012[debug_win_end]
+;*SceneSet|ã€å¤§ç¬‘ã„ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05012 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05012 = 1"]
 
-;//flag:—‰¤‚Æ•P‚ÌğŒ
+;//flag:å¥³ç‹ã¨å§«ã®æ¡ä»¶
 
 [eval exp="f.TERM = 1"]
 
-;//ôFBGM005
+;//â™ªï¼šBGM005
 [bgm005]
 
 ;//BG:bg008b
@@ -26,32 +26,31 @@
 
 *4642|
 [fc]
-²”Œ‚ğ^—‚ÄA“ª‚Ì’†‚Å”O•§‚ğ¥‚¦‚½‚Ì‚Í¸”s‚¾‚Á‚½‚æ[r]
-‚¤‚ÅA‹t‚ÉÎ‚¢‚ª‚±‚İã‚°‚Ä‚«‚ÄA‰´‚Í‚Æ‚¤‚Æ‚¤‚«o[r]
-‚µ‚Ä‚µ‚Ü‚Á‚½B[pcms]
+I tried imitating Saeki and chanting a Buddhist mantra in my[r]head, but it seems like it was a failure.[l][er]
+Instead, laughter welled up inside me and I ended up[r]bursting out laughing.[pcms]
 
 *4643|
 [fc]
-[ns]‰Á“¡[nse]
-uƒOƒtƒbccv[pcms]
+[ns]Kato[nse]
+Hehe...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2004|
 [fc]
 [vo_sa s="sae0298"]
-[ns]²”Œ[nse]
-u‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Huh?![pcms]
 
 *4644|
 [fc]
-[ns]‰Á“¡[nse]
-uƒuƒtƒbccƒuƒ@ƒnƒnƒnƒnƒnƒbIIIIv[pcms]
+[ns]Kato[nse]
+Bwahaha... Bwahahahaha!![pcms]
 
-;//[05020]‚Ö
+;//[05020]ã¸
 [jump target=*05020_TOP storage="05020.ks"]

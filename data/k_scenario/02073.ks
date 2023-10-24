@@ -1,21 +1,21 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02073w•ÛŒ’º‘O‚ÌƒŠƒTx
-;//BG:“Áê‹³º˜L‰ºF–éFÁ“”
-;//“oêl•¨GålŒöE—DEƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02073ã€ä¿å¥å®¤å‰ã®ãƒªã‚µã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02073_TOP
-;[debug_win]‚È‚¤@02073[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02073 = 1"]
+;[debug_win]ãªã†ã€€02073[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02073 = 1"]
 
-;*SceneSet|w•ÛŒ’º‘O‚ÌƒŠƒTx
+;*SceneSet|ã€ä¿å¥å®¤å‰ã®ãƒªã‚µã€
 
 ;//[02073]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 [bgm001]
 ;//BG:bg004d
 [bg storage="bg04d"]
@@ -23,346 +23,331 @@
 
 *1574|
 [fc]
-‰¹‚Ì•·‚±‚¦‚Ä‚«‚½•û‚ÖŒü‚©‚Á‚½‰´’B‚ªŒ©‚Â‚¯‚½‚Ì‚ÍA•Û[r]
-Œ’º‚©‚ço‚Ä‚­‚éV“¹æ¶‚¾‚Á‚½B[pcms]
+We headed towards the direction where we heard the sound,[r]and what we found was Shindou-sensei coming out of the[r]infirmary.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v658|
 [fc]
 [vo_ya s="yama0182"]
-[ns]RŠİ[nse]
-uV“¹æ¶IHv[pcms]
+[ns]Yamagishi[nse]
+Shindou-sensei!?[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [ChrSetParts layer=1 chface="risa_c_a_12"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v659|
 [fc]
 [vo_ri s="risa0192"]
-[ns]V“¹[nse]
-u‚ÁII@‚ A‚ ‚È‚½’BA‚Ç‚¤‚µ‚Ä‚±‚±‚Éccv[pcms]
+[ns]Shindou[nse]
+Huh!? W-Why are you all here...[pcms]
 
 *1575|
 [fc]
-ŒÄ‚Ñ‚©‚¯‚½º‚ÉAƒrƒbƒNƒŠ‚µ‚ÄU‚è•Ô‚Á‚½V“¹æ¶‚ÍA[r]
-“®—h‚ğ‰B‚¹‚È‚¢—lq‚ÅA‰´‚ÆRŠİ‚³‚ñ‚ğŒğŒİ‚ÉŒ©‚½B[pcms]
+Startled by the voice calling out, Shindou-sensei turned[r]around with surprise.[l][er]
+Unable to hide her agitation, she looked back and forth[r]between me and Yamagishi-san.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;//—™ŸºF’|“à‚³‚ñ¨’|“àŒN
+;//ï¼ æ‰æ¸•ï¼šç«¹å†…ã•ã‚“â†’ç«¹å†…å›
 
-;—§‚¿
+;ç«‹ã¡
 
 *v660|
 [fc]
 [vo_ya s="yama0183"]
-[ns]RŠİ[nse]
-u‰f‰æ‚ğŠÏ‚Ä‚éÅ’†‚ÉA‚¦‚ÆA“c’†‚³‚ñ‚ÆŒÜ\—’‚³‚ñA[r]
-‚»‚ê‚É’|“àŒN‚àA‚¢‚È‚­‚È‚Á‚Ä‚µ‚Ü‚Á‚½‚ñ‚Å‚·v[pcms]
+[ns]Yamagishi[nse]
+While we were in the middle of watching a movie, um, Tanaka-[r]san and Igarashi-san, and also Takeuchi-kun, disappeared.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v661|
 [fc]
 [vo_ri s="risa0193"]
-[ns]V“¹[nse]
-u‚¢‚È‚­‚È‚Á‚½Hv[pcms]
+[ns]Shindou[nse]
+They disappeared?[pcms]
 
 *1576|
 [fc]
-[ns]‰Á“¡[nse]
-u¡A‰´‚ÆRŠİ‚³‚ñ‚Æ²”Œ‚ÅA‚¢‚È‚­‚È‚Á‚½“z‚ç‚ğ‘{‚µ[r]
-‚Ä‚½‚ñƒX‚¯‚ÇAŒ©‚Â‚©‚ç‚È‚­‚Äccv[pcms]
+[ns]Kato[nse]
+Right now, Yamagishi-san, Saeki, and I were searching for[r]the ones who disappeared, but we couldn't find them...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v662|
 [fc]
 [vo_ri s="risa0194"]
-[ns]V“¹[nse]
-u¢‚Á‚½‚í‚ËccB‰½‚àŒ¾‚í‚¸‚É‚¢‚È‚­‚È‚Á‚½‚ÌHv[pcms]
+[ns]Shindou[nse]
+This is troublesome... They disappeared without saying[r]anything?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v663|
 [fc]
 [vo_ya s="yama0184"]
-[ns]RŠİ[nse]
-u‰f‰æ‚ğ“r’†‚Å~‚ß‚Ä“d‹C‚ğ‚Â‚¯‚½‚ÉA‚¢‚È‚­‚È‚Á‚Ä[r]
-‚¢‚½‚Ì‚ª‚í‚©‚Á‚½‚ñ‚Å‚·B‚»‚ê‚Ü‚ÅA„’B‚à‘S‘R‹C‚ª‚Â[r]
-‚©‚È‚­‚Äccv[pcms]
+[ns]Yamagishi[nse]
+When we stopped the movie halfway and turned on the lights,[r]we realized they were gone.[l][er]
+Until then, we didn't notice at all...[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v664|
 [fc]
 [vo_ri s="risa0195"]
-[ns]V“¹[nse]
-u“r’†‚Å‰f‰æ‚ğ~‚ß‚½‚Æ‚¢‚¤‚Ì‚ÍH@‰½‚©A‹@Ş‚Éƒgƒ‰[r]
-ƒuƒ‹Hv[pcms]
+[ns]Shindou[nse]
+You said you stopped the movie halfway?[l][er]
+Did something happen with the equipment?[pcms]
 
 *1577|
 [fc]
-ƒfƒbƒL‚Ì‘€ì‚ğ”C‚¹‚½‰´‚ÉAV“¹æ¶‚ÍŠç‚ğŒü‚¯‚½B[pcms]
+Shindou-sensei turned her face towards me, who was in charge[r]of operating the deck.[pcms]
 
 *1578|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¢‚¦ccO–{–Ú‚Ì‰f‰æ‚ğŠÏ‚Ä‚é“r’†‚ÅA‰æ–Ê‚É‹}‚Éˆá[r]
-‚¤‚à‚Ì‚ª‰f‚Á‚½‚ñ‚Å‚·B‚»‚ê‚ÅA‚¢‚Á‚½‚ñ~‚ß‚½‚ñƒX‚¯[r]
-‚Çccv[pcms]
+[ns]Kato[nse]
+No... While we were in the middle of watching the third[r]movie, something different suddenly appeared on the screen.[l][er]
+So, we stopped it for a moment...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v665|
 [fc]
 [vo_ri s="risa0196"]
-[ns]V“¹[nse]
-uˆá‚¤‚à‚ÌH@‚¨‚©‚µ‚¢‚í‚ËAO–{‚Æ‚à’†g‚ÍŠm”F‚µ‚½[r]
-‚¯‚ê‚Çcc‰½‚ª‰f‚Á‚½‚ÌHv[pcms]
+[ns]Shindou[nse]
+Something different? That's strange.[l][er]
+I checked the contents of all three movies...[l][er]
+What was shown on the screen?[pcms]
 
 *1579|
 [fc]
-[ns]‰Á“¡[nse]
-u‘½•ªccƒAƒ_ƒ‹ƒgƒrƒfƒI‚¾‚Æv‚¤‚ñ‚Å‚·‚¯‚Çccv[pcms]
+[ns]Kato[nse]
+I think... it was probably an adult video...[pcms]
 
 *1580|
 [fc]
-—\‘z‚à‚µ‚Ä‚¢‚È‚©‚Á‚½‚Ì‚©AV“¹æ¶‚ÍŒ¾—t‚ğ¸‚Á‚ÄA[r]
-‰´‚ÌŠç‚ğŒ©‚½‚Ü‚ÜŒÅ‚Ü‚Á‚Ä‚µ‚Ü‚Á‚½B[pcms]
+Shindou-sensei, who seemed completely caught off guard, lost[r]her words and froze, staring at my face.[pcms]
 
 *1581|
 [fc]
-‚»‚Ì‚¤‚¿Aæ¶‚Í‚ä‚Á‚­‚è‚Æ‰´‚©‚ç‹ü‚ğŠO‚µ‚ÄA‰½‚©[r]
-‚ğl‚¦‚é‚æ‚¤‚É”û‚ğ‚Ğ‚»‚ß‚Ä–Ú‚ğ‚Â‚Ô‚Á‚½B[pcms]
+Eventually, the teacher slowly averted her gaze from me and[r]furrowed her eyebrows, closing her eyes as if deep in[r]thought.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_b_03"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v666|
 [fc]
 [vo_ri s="risa0197"]
-[ns]V“¹[nse]
-ucc‚ ‚Ìl‚Ëccv[pcms]
+[ns]Shindou[nse]
+... That person...[pcms]
 
 *1582|
 [fc]
-‚â‚ª‚Ä–Ú‚ğŠJ‚¯‚½V“¹æ¶‚ÍA‹ê‚¢Šç‚ğ‚µ‚ÄˆêŒ¾A‚»‚¤[r]
-™ê‚¢‚½B[pcms]
+Shindou-sensei, who eventually opened her eyes, muttered[r]with a bitter expression.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v667|
 [fc]
 [vo_ya s="yama0185"]
-[ns]RŠİ[nse]
-uccH@‚ ‚ÌlccHv[pcms]
+[ns]Yamagishi[nse]
+...? That person...?[pcms]
 
 *1583|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦cc’N‚ª‚â‚Á‚½‚©AS“–‚½‚è‚ª‚ ‚é‚ñ‚Å‚·‚©Hv[pcms]
+[ns]Kato[nse]
+Eh... Do you have any idea who did it?[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v668|
 [fc]
 [vo_ri s="risa0198"]
-[ns]V“¹[nse]
-u‚¢‚¦A‚È‚ñ‚Å‚à‚È‚¢‚íccB‚Æ‚à‚©‚­A‚¢‚È‚­‚È‚Á‚½[r]
-•”ˆõ‚ğ‘{‚³‚È‚­‚Ä‚Í‚È‚ç‚È‚¢‚í‚ËB‚Ç‚¤‚µ‚½‚ç‚¢‚¢‚©‚µ[r]
-‚çccv[pcms]
+[ns]Shindou[nse]
+No, it's nothing... Anyway, we have to search for the[r]missing club member.[l][er]
+I wonder what we should do...[pcms]
 
 *1584|
 [fc]
-–¾‚ç‚©‚É‰½‚©‚ğ’m‚Á‚Ä‚¢‚é•—‚Èæ¶‚ÉA‰´‚Í‘M‚¢‚½‚±‚Æ[r]
-‚ğŒû‚Éo‚µ‚½B[pcms]
+I spoke out what I had realized to the teacher, who seemed[r]to know something obvious.[pcms]
 
 *1585|
 [fc]
-[ns]‰Á“¡[nse]
-u‚à‚µ‚©‚µ‚ÄAæ¶‚Ì”Ş‚ª”ÆlccHv[pcms]
+[ns]Kato[nse]
+Could it be that the culprit is Sensei's boyfriend...?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v669|
 [fc]
 [vo_ya s="yama0186"]
-[ns]RŠİ[nse]
-u‚ `A‚»‚¤‚©‚ŸI@æ¶‚Ì”Ş‚ªƒCƒ^ƒYƒ‰‚µ‚½‚ñ‚¾‚æv[pcms]
+[ns]Yamagishi[nse]
+Ah, I see! It was Sensei's boyfriend who played a prank.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [ChrSetParts layer=1 chface="risa_c_a_12"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v670|
 [fc]
 [vo_ri s="risa0199"]
-[ns]V“¹[nse]
-u‚È‚Áccv[pcms]
+[ns]Shindou[nse]
+Ngh...[pcms]
 
 *1586|
 [fc]
-‰´‚ÆRŠİ‚³‚ñ‚Ì‚â‚èæ‚è‚ÉAV“¹æ¶‚ÍŠç‚ğÔ‚­‚µ‚½B[r]
-V“¹æ¶‚Í•’iA•¨Ã‚©‚Å—âÃ‚ÈŠ´‚¶‚¾‚©‚çA—â‚½‚¢l[r]
-‚È‚Ì‚©‚Æv‚Á‚Ä‚¢‚½B[pcms]
+Shindou-sensei blushed when she witnessed the interaction[r]between Yamagishi-san and me.[l][er]
+I had always thought of Shindou-sensei as a calm and[r]composed person, so I wondered if she was just cold-hearted.[pcms]
 
 *1587|
 [fc]
-‚Å‚àAƒIƒgƒR‚Ì‚±‚Æ‚ÅŠç‚ğÔ‚­‚·‚é‚Ì‚ğŒ©‚ÄAæ¶‚à•[r]
-’Ê‚Ì—‚Ìl‚È‚ñ‚¾‚ÈA‚Æ‰´‚Ív‚Á‚½B[pcms]
+But when I saw her blushing over a man, I realized that[r]Sensei is just an ordinary woman too.[pcms]
 
 *1588|
 [fc]
-[ns]‰Á“¡[nse]
-u’ƒ–Ú‚Á‹C‚ ‚é‚ñƒX‚ËAæ¶‚ÌƒJƒŒƒVv[pcms]
+[ns]Kato[nse]
+Sensei's boyfriend seems mischievous, doesn't he?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v671|
 [fc]
 [vo_ya s="yama0187"]
-[ns]RŠİ[nse]
-u‚¦`A‚Ç‚ñ‚Èl‚È‚ñ‚Å‚·‚©H@‹³‚¦‚Ä‚­‚¾‚³‚¢‚æ`v[pcms]
+[ns]Yamagishi[nse]
+Ehh, what kind of person is he?[pcms]
+Please tell me~[l][er]
 
 *1589|
 [fc]
-[ns]‰Á“¡[nse]
-u’èŠú“ü‚ê‚Æ‚©‚ÉAÊ^“ü‚ê‚Ä‚È‚¢‚ñƒX‚©Hv[pcms]
+[ns]Kato[nse]
+Don't you have any pictures in your wallet or something?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v672|
 [fc]
 [vo_ya s="yama0188"]
-[ns]RŠİ[nse]
-u‚ `AŒ©‚½`‚¢Iv[pcms]
+[ns]Yamagishi[nse]
+Ah~ I want to see![pcms]
 
 *1590|
 [fc]
-–Ê”’‚ª‚Á‚Ä‚Í‚â‚µ‚½‚Ä‚é‰´‚ÆRŠİ‚³‚ñ‚ÉAV“¹æ¶‚Í[r]
-’¿‚µ‚­º‚ğr‚°‚½B[pcms]
+Shindou-sensei, who was usually calm and composed, raised[r]her voice in an unusual manner towards me and Yamagishi-san,[r]who were getting excited and talking loudly.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [ChrSetParts layer=1 chface="risa_c_a_10"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v673|
 [fc]
 [vo_ri s="risa0200"]
-[ns]V“¹[nse]
-u‚¢‚¢‰ÁŒ¸‚É‚µ‚È‚³‚¢I@‰º‚ç‚È‚¢–‚Åæ¶‚ğ‚©‚ç‚©‚¤[r]
-‚ñ‚¶‚á‚ ‚è‚Ü‚¹‚ñIIv[pcms]
+[ns]Shindou[nse]
+Cut it out already! Stop teasing Sensei with such nonsense!![pcms]
 
 *1591|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Í‚¢A‚·‚ñ‚Ü‚¹‚ñccv[pcms]
+[ns]Kato[nse]
+Yes, I'm sorry...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v674|
 [fc]
 [vo_ya s="yama0189"]
-[ns]RŠİ[nse]
-u‚·A‚·‚İ‚Ü‚¹‚ñccv[pcms]
+[ns]Yamagishi[nse]
+S-Sorry...[pcms]
 
 *1592|
 [fc]
-ƒ`ƒ‰ƒb‚ÆRŠİ‚³‚ñ‚ğŒ©‚é‚ÆA”Ş—‚à‚±‚Á‚¿‚ğ‰¡–Ú‚ÅŒ©‚Ä[r]
-‚¢‚ÄA‰´’B‚Íæ¶‚ÉƒoƒŒ‚È‚¢’ö“x‚ÉAŒ¨‚ğ‚·‚­‚ß‚ÄÎ‚¢[r]
-‡‚Á‚½B[pcms]
+When I glanced at Yamagishi-san, she was also looking at me[r]out of the corner of her eye, and we exchanged a smile while[r]making sure Sensei didn't notice, shrugging our shoulders.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_b_03"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v675|
 [fc]
 [vo_ri s="risa0201"]
-[ns]V“¹[nse]
-ucc‘å‚«‚¢º‚ğo‚µ‚Ä‚²‚ß‚ñ‚È‚³‚¢B‚¯‚ê‚ÇA„‚É‚à[r]
-•·‚©‚ê‚½‚­‚È‚¢‚±‚Æ‚Í‚ ‚é‚ÌB‚»‚ê‚Í‚í‚©‚Á‚Äv[pcms]
+[ns]Shindou[nse]
+... I'm sorry for raising my voice.[l][er]
+But there are things that I don't want to be asked about[r]too.[l][er]
+I hope you understand.[pcms]
 
 *1593|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Í‚¢ccv[pcms]
+[ns]Kato[nse]
+Yes...[pcms]
 
 *1594|
 [fc]
-^Šç‚ÅŒ¾‚¤V“¹æ¶‚ÉA‚à‚µ‚©‚µ‚ÄƒIƒgƒR‚Æ‚¤‚Ü‚­‚¢‚Á[r]
-‚Ä‚È‚¢‚Ì‚©‚È‚ÆA‰´‚ÍŠ¨‚®‚ç‚¸‚É‚Í‚¢‚ç‚ê‚È‚©‚Á‚½B[pcms]
+I couldn't help but wonder if Shindou-sensei, who said it[r]with a serious face, was not getting along well with a man.[pcms]
 
 *1595|
 [fc]
-‚¢‚¢—A‚Á‚Ä‚¾‚¯‚¶‚áA—öˆ¤‚Í‚¤‚Ü‚­‚¢‚©‚È‚¢‚à‚ñ‚È‚Ì[r]
-‚©‚ÈccB[pcms]
+I wonder if just being a good woman isn't enough for love to[r]go well...[pcms]
 
-;//[02074]‚Ö
+;//[02074]ã¸
 [jump target=*02074_TOP storage="02074.ks"]
 

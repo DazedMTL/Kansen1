@@ -1,21 +1,21 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN03026wÄ‚Ñx‰‰
-;//BG:“Áê‹³º˜L‰ºF–éFÁ“”
-;//“oêl•¨G“µE‰Á“¡
-;//Y’|“à‹“_
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯03026ã€å†ã³ã€â™‚â™‚
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ç³ãƒ»åŠ è—¤
+;//ã€†ç«¹å†…è¦–ç‚¹
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *03026_H_TOP
-;[debug_win]‚È‚¤@03026_H[debug_win_end]
+;[debug_win]ãªã†ã€€03026_H[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_03026 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_03026 = 1"]
 
-;*SceneSet|wÄ‚Ñx
+;*SceneSet|ã€å†ã³ã€
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 
 ;//[bgm007]
 
@@ -26,27 +26,26 @@
 
 *3489|
 [fc]
-[ns]’|“à[nse]
-uccv[pcms]
+[ns]Takeuchi[nse]
+â€¦â€¦[l][er]
 
 *3490|
 [fc]
-“µ‚Í‚Ü‚¾AŒã‚ë‚©‚ç’Ç‚Á‚Ä‚«‚Ä‚¢‚éƒ{ƒN‚ÉA‹C‚ª‚Â‚¢‚Ä[r]
-‚È‚¢B[pcms]
+Hitomi still hasn't noticed me chasing after her from[r]behind.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1361|
 [fc]
 [vo_sa s="sae0145"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
-;//ôFBGM007ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 
 [fadeoutbgm time=500]
 
@@ -54,68 +53,62 @@
 
 *3491|
 [fc]
-ƒgƒCƒŒ‚Ì‘O‚Å—§‚¿~‚Ü‚Á‚½“µ‚ÉAƒ{ƒN‚Í¬‘–‚è‚Å‹ß‚Ã‚¢[r]
-‚ÄAˆê‹C‚É”ò‚Ñ‚©‚©‚Á‚½B[pcms]
+I approached Hitomi, who had stopped in front of the[r]restroom, and quickly jumped on her.[pcms]
 
 *3492|
 [fc]
-[ns]’|“à[nse]
-u‚Ğ‚Æ‚İ‚¡‚ÁIIv[pcms]
+[ns]Takeuchi[nse]
+Hitomii!![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1362|
 [fc]
 [vo_sa s="sae0146"]
-[ns]²”Œ[nse]
-u‚Ğcc‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Huh...?![pcms]
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 
 [se0 storage="se021"]
 
 [quake_bg xy m]
 
-;//ôFBGM003ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM003ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 
 [bgm003]
 
 *3493|
 [fc]
-Œã‚ë‚©‚ç”ò‚Ñ‚©‚©‚Á‚½ƒ{ƒN‚ª•ø‚«‚Â‚­‘O‚ÉA“µ‚Í¬‚³‚¢[r]
-”ß–Â‚ğ‚ ‚°‚ÄA‹Câ‚µ‚Ä‚µ‚Ü‚Á‚½B[pcms]
+Before I, who had jumped on her from behind, could embrace[r]her, Hitomi let out a small scream and fainted.[pcms]
 
 *3494|
 [fc]
-[ns]’|“à[nse]
-u‚ ccv[pcms]
+[ns]Takeuchi[nse]
+Ah...[pcms]
 
 *3495|
 [fc]
-°‚É“|‚ê‚½“µ‚ÌK‚Ì‰º‚ÉA…—­‚Ü‚è‚ª‚Å‚«n‚ß‚ÄA‚Ç‚ñ[r]
-‚Ç‚ñ‘å‚«‚­‚È‚Á‚Ä‚¢‚­B[pcms]
+A puddle began to form under Hitomi's fallen butt on the[r]floor, and it kept growing bigger and bigger.[pcms]
 
 *3496|
 [fc]
-…—­‚Ü‚è‚©‚çã‚Á‚Ä‚­‚éL‚¢‚ÅAƒ{ƒN‚Í‚»‚ê‚ª‚¨‚µ‚Á‚±[r]
-‚¾‚Æ‚í‚©‚Á‚½B[pcms]
+I realized that the smell coming from the puddle was urine.[pcms]
 
 *3497|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ğ‚Æ‚İ‚ªcc‚¨‚µ‚Á‚±A‚à‚ç‚µ‚Ä‚éccv[pcms]
+[ns]Kato[nse]
+Hitomi... she's... peeing...[pcms]
 
 *3498|
 [fc]
-‚ ‚Ì‹C‚Ì‹­‚¢“µ‚ªA–Ú‚Ì‘O‚Å‚¨‚µ‚Á‚±‚ğ˜R‚ç‚µ‚½‚Ì‚ğŒ©[r]
-‚ÄAƒ{ƒN‚Ìƒ`ƒ“ƒR‚ÍƒMƒ“ƒMƒ“‚É‚È‚è‚·‚¬‚ÄA’É‚­‚È‚Á‚Ä[r]
-‚¢‚½B[pcms]
+When I saw those strong-willed eyes in front of me, peeing[r]uncontrollably, my dick became rock hard and started[r]hurting.[pcms]
 
 *3499|
 [fc]
-‚¿‚ñ‚±‚ªA‚½‚¿‚·‚¬‚ÄA‚¢‚½‚¢‚æ‚§ccB[r]
-‚Í‚â‚­A‚¸‚Ú‚ñA‚Ê‚ª‚È‚¢‚ÆccB[r]
-‚Í‚â‚­A‚Ğ‚Æ‚İ‚Ì‚Ü‚ñ‚±‚É‚È‚©‚¾‚µ‚µ‚È‚¢‚ÆccB[pcms]
+My dick is standing up too much...[l][er]
+It hurts... I need to take off my pants quickly...[l][er]
+I need to cum inside Hitomi's pussy quickly...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -124,6 +117,6 @@
 
 ;//blackout
 
-;//[03027]‚Ö
+;//[03027]ã¸
 [jump target=*03027_H_TOP storage="03027_H.ks"]
 

@@ -1,83 +1,81 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN08220w‚½‚Ü‚Ë‚¬x
-;//;//BG:•ÛŒ’ºF“_“”
-;//“oêl•¨FålŒöE•ü”üE—D
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08220ã€ãŸã¾ã­ãã€
+;//;//BG:ä¿å¥å®¤ï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»æœ‹ç¾ãƒ»å„ª
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *08220_TOP
-;[debug_win]‚È‚¤@08220[debug_win_end]
+;[debug_win]ãªã†ã€€08220[debug_win_end]
 
-;*SceneSet|w‚½‚Ü‚Ë‚¬x
+;*SceneSet|ã€ãŸã¾ã­ãã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08220 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08220 = 1"]
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 
 ;//[bgm007]
 
-;//;//BG:bg–³‚µ
+;//;//BG:bgç„¡ã—
 
 *v3686|
 [fc]
 [vo_to s="tomo0458"]
-[ns]ŒÜ\—’[nse]
-u—D‚¿‚á‚ñ‚ÌƒXƒJ[ƒgA‚¢‚¢‚É‚¨‚¢‚ª‚·‚é`ccB[r]
-‚Æ‚Á‚¿‚á‚¦I@‚¦‚¢‚ÁIIv[pcms]
+[ns]Igarashi[nse]
+Yuu-chan's skirt has a nice smell~...[l][er]
+I'll take it off! Ei!![pcms]
 
 *v3687|
 [fc]
 [vo_to s="tomo0459"]
-[ns]ŒÜ\—’[nse]
-u‚½‚Ü‚Ë‚¬‚ÁII@‚ ‚Í‚Í‚Í‚ÁIIv[pcms]
+[ns]Igarashi[nse]
+Onion!! Ahahaha![pcms]
 
-;//SE:ƒKƒ“ƒb
+;//SE:ã‚¬ãƒ³ãƒƒ
 [se0 storage="se021"]
 
 *9986|
 [fc]
-‚È‚ñ‚¾H[r]
-’N‚¾‚æcc‚¤‚é‚³‚¢‚ÈccB[pcms]
+What? Who is it... so noisy...[pcms]
 
 *v3688|
 [fc]
 [vo_to s="tomo0460"]
-[ns]ŒÜ\—’[nse]
-u‚à[‚ÁI@’N‚à—V‚ñ‚Å‚­‚ê‚È‚¢‚æ`ccB‚Ç‚Á‚©‚¢‚Á[r]
-‚¿‚á‚¤‚¼‚§I@‚ ‚Í‚Í‚Í‚ÁIIv[pcms]
+[ns]Igarashi[nse]
+Moo! No one wants to play with me~...[l][er]
+I'm gonna go somewhere else! Ahahaha![pcms]
 
-;//SE:”à‚ğ•Â‚ß‚é‰¹i¨‚¢‚æ‚­j
+;//SE:æ‰‰ã‚’é–‰ã‚ã‚‹éŸ³ï¼ˆå‹¢ã„ã‚ˆãï¼‰
 
 [se0 storage="se010"]
 
 *9987|
 [fc]
-o‚Äs‚Á‚½‚©ccÃ‚©‚Å‚¢‚¢‚âccB[pcms]
+Did she leave... It's quiet, that's good...[pcms]
 
 *9988|
 [fc]
-‚à‚¤­‚µQ‚Ä‚¢‚½‚¢‚ñ‚¾ccB[pcms]
+I want to sleep a little longer...[pcms]
 
 *9989|
 [fc]
-[ns]’jq¶“k‚c[nse]
-u‚¨A‚ cc‚ç‚ÁA‚«`ccccv[pcms]
+[ns]Male Student D[nse]
+Oh, ah... Oh my, it's... ki~...[pcms]
 
 *9990|
 [fc]
-‚È‚ñ‚¾‚æccB[pcms]
+What is it...?[pcms]
 
 *9991|
 [fc]
-ƒEƒ‹ƒZƒF‚Á‚ÄccB[r]
-‚Ü‚¾cc‚¾‚êcc‚©ccc‚Á‚Äcc‚½ccB[pcms]
+So noisy... Is there still someone...[l][er]
+left...[pcms]
 
 *9992|
 [fc]
-ccccB[r]
-ccB[pcms]
+â€¦â€¦â€¦â€¦ã€‚ â€¦â€¦ã€‚[pcms]
 
 [bg storage="effect_white"][trans_c cross time=500]
 
@@ -87,8 +85,7 @@
 
 *9993|
 [fc]
-‰·‚©‚¢ccB[r]
-—×‚ÉA‰½‚©—L‚é‚Ì‚©‚ÈccB[pcms]
+It's warm... I wonder if there's something next to me...[pcms]
 
 ;//;//BG:bg13c
 
@@ -97,28 +94,24 @@
 
 *9994|
 [fc]
-‰½‚¾‚ë‚¤ccB[r]
-—×‚ÉA—‚Ìq‚ªQ‚Ä‚¢‚éccB[pcms]
+I wonder what it is... There's a girl sleeping next to me...[pcms]
 
 *9994a|
 [fc]
-’N‚¾‚Á‚¯cc‚±‚ÌqccB[r]
-‚â‚Ücc‚Å‚çH@‚¾‚Á‚½‚©ccH[r]
-‚â‚Ü‚®‚¿H[pcms]
+Who was it again... this child...[l][er]
+Yam... dera? Or was it... Yamaguchi?[pcms]
 
 *9995|
 [fc]
-‚ A‚»‚¤‚¾ccB[r]
-‚È‚ñ‚©A‚Ç‚±‚©‚ÉW‚Ü‚é‚Á‚Ä˜b‚µ‚Ä‚½—l‚ÈccB[pcms]
+Ah, that's right... I remember hearing something about[r]gathering somewhere...[pcms]
 
 *9996|
 [fc]
-‚Ç‚±‚¾‚Á‚¯‚ÈccB[pcms]
+Where was it again...?[pcms]
 
 *9997|
 [fc]
-‚Ü‚ A‚¢‚¢‚âccB[r]
-‚±‚Ìq‚à˜A‚ê‚Äs‚±‚¤ccB[pcms]
+Well, never mind... Let's take this child with us...[pcms]
 
-;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 [jump target=*08230_TOP storage="08230.ks"]

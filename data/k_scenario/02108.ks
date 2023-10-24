@@ -1,24 +1,24 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02108w’É‚İ~‚ßx
-;//BG:•ÛŒ’ºF’‹i’©Œ“—pj
-;//“oêl•¨GålŒö
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02108ã€ç—›ã¿æ­¢ã‚ã€
+;//BG:ä¿å¥å®¤ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02108_TOP
-;[debug_win]‚È‚¤@02108[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02108 = 1"]
+;[debug_win]ãªã†ã€€02108[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02108 = 1"]
 
-;*SceneSet|w’É‚İ~‚ßx
+;*SceneSet|ã€ç—›ã¿æ­¢ã‚ã€
 
 ;//[02108]
 
-;//flag:’É‚İ~‚ß“üè
+;//flag:ç—›ã¿æ­¢ã‚å…¥æ‰‹
 
 [eval exp="f.PAIN = 1"]
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 ;//[bgm009]
 ;//BG:bg013a
 ;g[bg storage="bg13a"]
@@ -26,31 +26,26 @@
 
 *2103|
 [fc]
-V“¹æ¶‚ÍA˜]œ‚ªÜ‚ê‚Ä‚¢‚é‚©‚à‚µ‚ê‚È‚¢‚ÆŒ¾‚Á‚Ä‚¢[r]
-‚½B‚È‚çA‚»‚±‚ğ—â‚â‚·•¨‚âA’É‚İ~‚ß‚ª‚ ‚Á‚½•û‚ª‚¢[r]
-‚¢”¤‚¾B[pcms]
+Shindou-sensei said that she might have a broken rib.[l][er]
+In that case, it would be better to have something to cool[r]it down and some painkillers.[pcms]
 
 *2104|
 [fc]
-[ns]‰Á“¡[nse]
-u’É‚İ~‚ßA’É‚İ~‚ßA‚Æccv[pcms]
+[ns]Kato[nse]
+Painkillers, painkillers...[pcms]
 
 *2105|
 [fc]
-‚à‚¤ˆê“xA•ÛŒ’º‚ÌŠ‚éŠ‚ğ‹™‚é‚ªA¼•z–ò‚Í‚ ‚é‚à‚Ì[r]
-‚ÌA’É‚İ~‚ßA‚»‚Ì‚à‚ÌƒYƒoƒŠ‚Æ‚¢‚¤–ò‚ÍA‚Ç‚¤‚â‚ç’u[r]
-‚¢‚Ä‚¢‚È‚¢‚æ‚¤‚¾‚Á‚½B[pcms]
+I search all over the infirmary again, but while there are[r]adhesive plasters, it seems that there is no specific[r]medicine for painkillers.[pcms]
 
 *2106|
 [fc]
-[ns]‰Á“¡[nse]
-u‚µ‚å‚¤‚ª‚È‚¢cc‚±‚ê‚Å‚à‚È‚¢‚æ‚èƒ}ƒV‚¾‚ëv[pcms]
+[ns]Kato[nse]
+It can't be helped... This is better than nothing, I guess.[pcms]
 
 *2107|
 [fc]
-—âŠ´ƒ^ƒCƒv‚Ì¼•z–ò‚ÆAw“ª’É‚â¶—’ÉA—lX‚È’É‚İ‚É[r]
-—Ç‚­Œø‚­x‚Æ” ‚É‘‚©‚ê‚½–ò‚ğè‚Éæ‚Á‚ÄA‰´‚Í•ÛŒ’º[r]
-‚ğ‚ ‚Æ‚É‚µ‚½B[pcms]
+I took the cooling type adhesive plaster and the medicine[r]labeled Effective for headaches, menstrual pain, and various[r]types of pain from the box, and left the infirmary.[pcms]
 
 ;//blackout
 
@@ -62,6 +57,6 @@
 
 ;;;[sysbt_meswin]
 
-;//[02109]‚Ö
+;//[02109]ã¸
 [jump target=*02109_TOP storage="02109.ks"]
 

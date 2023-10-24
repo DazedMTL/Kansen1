@@ -1,20 +1,20 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02167w“`‚¦‚ç‚ê–³‚©‚Á‚½Œ¾—tx
-;//BG:‰®ãF’©
-;//“oêl•¨GålŒöE—DE’|“àE“µE“c’†E•ü”üEƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02167ã€ä¼ãˆã‚‰ã‚Œç„¡ã‹ã£ãŸè¨€è‘‰ã€
+;//BG:å±‹ä¸Šï¼šæœ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…ãƒ»ç³ãƒ»ç”°ä¸­ãƒ»æœ‹ç¾ãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02167_TOP
-;[debug_win]‚È‚¤@02167[debug_win_end]
+;[debug_win]ãªã†ã€€02167[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02167 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02167 = 1"]
 
-;*SceneSet|w“`‚¦‚ç‚ê–³‚©‚Á‚½Œ¾—tx
+;*SceneSet|ã€ä¼ãˆã‚‰ã‚Œç„¡ã‹ã£ãŸè¨€è‘‰ã€
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 
 ;//[bgm008]
 
@@ -23,26 +23,28 @@
 [bg storage="bg22d"]
 [trans_c cross time=500]
 
-;//SE:ƒwƒŠƒRƒvƒ^[iƒzƒoƒŠƒ“ƒOj
+;//SE:ãƒ˜ãƒªã‚³ãƒ—ã‚¿ãƒ¼ï¼ˆãƒ›ãƒãƒªãƒ³ã‚°ï¼‰
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1168|
 [fc]
 [vo_ya s="yama0451"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒN‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun!![pcms]
 
 *3023|
 [fc]
-[ns]‰Á“¡[nse]
-u‚®‚¤‚£cc‚ÁIIv[pcms]
+[ns]Kato[nse]
+Guuuh...!![pcms]
 
 *3024|
 [fc]
-‰½‚¾IH@Œ‚‚½‚ê‚½IH@‰´‚ªIH@”M‚¢II@‘«II[r]
-‘«‚ªII@’É‚¢II@ƒNƒ\ƒbII@‰½‚ÅII@‚Ç‚¤‚È‚Á[r]
-‚Ä‚ñ‚¾IH@Œ‚‚½‚ê‚½II@G‚é‚ÈII@’É‚¦‚¥‚ÁII[pcms]
+What the!? I've been shot!? Me!?[l][er]
+It's hot!! My leg!! My leg hurts!![l][er]
+Damn it!! Why!? What's happening!?[l][er]
+I've been shot!! Don't touch me!![l][er]
+It hurts!![pcms]
 
 ;	/*
 ;	[bg storage="bg22d"]
@@ -52,110 +54,109 @@
 *v1169|
 [fc]
 [vo_ya s="yama0452"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒNII@‰Á“¡ŒN‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun!! Kato-kun!![pcms]
 
 *3027|
 [fc]
-[ns]‰Á“¡[nse]
-u‚®‚ÁI@‚ ‚ ‚Ÿ‚ŸIIv[pcms]
+[ns]Kato[nse]
+Guuuh... Aaahhh!![pcms]
 
 *3028|
 [fc]
-RŠİ‚³‚ñccII[r]
-‘‚­s‚©‚È‚«‚áccI[r]
-‚Å‚àA‘«‚ª“®‚©‚¹‚È‚¢ccB[pcms]
+Yamagishi-san...!! We need to go quickly...![l][er]
+But I can't move my legs...[pcms]
 
 *v1170|
 [fc]
 [vo_ya s="yama0453"]
-[ns]RŠİ[nse]
-u‚¨Šè‚¢cc‘‚­ccIv[pcms]
+[ns]Yamagishi[nse]
+Please... quickly...![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 [ChrSetEx layer=1 chbase="sae_d_d_12"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
 *3029|
 [fc]
-’É‚­‚ÄA‘«‚ª“®‚©‚È‚¢ccB[r]
-²”Œ‚Ìè‚ğA‚Ó‚è‚Ù‚Ç‚¯‚È‚¢ccB[pcms]
+It hurts, and I can't move my legs...[l][er]
+I can't even free myself from Saeki's grasp...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *3030|
 [fc]
-[ns]‰Á“¡[nse]
-u“¦‚°‚ÄccRŠİ‚³‚ñ‚¾‚¯‚Å‚àccv[pcms]
+[ns]Kato[nse]
+Run away... Yamagishi-san, at least...[pcms]
 
 *v1171|
 [fc]
 [vo_ya s="yama0454"]
-[ns]RŠİ[nse]
-u‚â‚¾I@ˆê‚É‹A‚é‚Á‚Ä–ñ‘©‚µ‚½‚¶‚á‚È‚¢I@–ñ‘©‚â[r]
-‚Ô‚él‚È‚ñ‚ÄŒ™‚¢‚¾‚æIIv[pcms]
+[ns]Yamagishi[nse]
+No way! We promised to go home together![l][er]
+I hate people who break promises!![pcms]
 
 *v1172|
 [fc]
 [vo_ya s="yama0455"]
-[ns]RŠİ[nse]
-u‚Ğ‚Æ‚è‚Ú‚Á‚¿‚ÍA‚à‚¤AŒ™IIIv[pcms]
+[ns]Yamagishi[nse]
+I'm tired of being alone!!![pcms]
 
 *3031|
 [fc]
-‚»‚¤‚¾cc•K‚¸ç‚é‚Á‚Äccˆê‚É‹A‚é‚Á‚Äcc–ñ‘©‚µ[r]
-‚½‚ñ‚¾ccB[pcms]
+That's right... We promised...[l][er]
+to protect each other... to go home together...[pcms]
 
 *3032|
 [fc]
-‰‚ß‚Ä‚Ìƒf[ƒgA‚Ç‚±‚És‚­‚©‚¾‚Á‚Ä‚Ü‚¾Œˆ‚ß‚Ä‚È‚¢‚Ì[r]
-‚Écc‚±‚ñ‚È‚Æ‚±‚Åƒ‚ƒ^ƒ‚ƒ^‚µ‚Ä‚ç‚ê‚È‚¢ccI[pcms]
+We haven't even decided where to go on our first date yet...[l][er]
+We can't waste time like this...![pcms]
 
 *3033|
 [fc]
-ˆê‚Écc‚ ‚Ìq‚Æˆê‚É‹A‚é‚ñ‚¾‚ÁccII[pcms]
+Together... I'm going home with that child...!![pcms]
 
 *v1173|
 [fc]
 [vo_ya s="yama0456"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒNIIv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun!![pcms]
 
 *3034|
 [fc]
-[ns]‰Á“¡[nse]
-u—£cc‚¹ƒFcc‚ÁIIv[pcms]
+[ns]Kato[nse]
+Let go... of me...!![pcms]
 
 [ChrSetEx layer=1 chbase="sae_d_d_12"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1174|
 [fc]
 [vo_sa s="sae0089"]
-[ns]²”Œ[nse]
-u‚¢‚©‚È‚¢A‚Åcc‚í‚½‚­A‚µ‚ğA‚¨A‚©‚µA‚Äccv[pcms]
+[ns]Saeki[nse]
+Don't go... I... can't let you...[l][er]
+go...[pcms]
 
 *3035|
 [fc]
-²”ŒccB[pcms]
+Saeki...[pcms]
 
 *3036|
 [fc]
-ƒNƒ\cc‚ÁI[r]
-‚±‚Ì‘«‚ğ’×‚µ‚Ä‚Å‚àA‰´‚Í‚ ‚Ìq‚Æ‹A‚é‚ñ‚¾II@[pcms]
+Shit...! Even if I have to crush my legs, I'm going home[r]with that child!![pcms]
 
 *3037|
 [fc]
-[ns]‰Á“¡[nse]
-u—£‚¹II@—D‚ª‘Ò‚Á‚Ä‚é‚ñ‚¾ƒbII@ccƒNƒ\‚ÁIv[pcms]
+[ns]Kato[nse]
+Let go!! Yuu is waiting!! ... Damn it![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:‰£‚é
+;//SE:æ®´ã‚‹
 
 [se0 storage="se026"]
 
@@ -172,38 +173,39 @@
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1175|
 [fc]
 [vo_sa s="sae0090"]
-[ns]²”Œ[nse]
-u‚®‚£‚Áccv[pcms]
+[ns]Saeki[nse]
+*groan*...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *3038|
 [fc]
-[ns]‰Á“¡[nse]
-u‚®‚ ‚Ÿ‚ÁccIIv[pcms]
+[ns]Kato[nse]
+Guahh...!![pcms]
 
 *v1176|
 [fc]
 [vo_ya s="yama0457"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒNI@’Í‚Ü‚Á‚ÄIv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun! Grab hold![pcms]
 
 *3039|
 [fc]
-[ns]‰Á“¡[nse]
-uƒnƒ@ƒbccI@ƒnƒ@ƒbccIv[pcms]
+[ns]Kato[nse]
+*panting*...! *panting*...![pcms]
 
 *3040|
 [fc]
-ƒNƒ\ccI@ã‚è‚Ã‚ç‚¢‚Ècc’N‚¾‚æAƒnƒVƒS‚É[r]
-‚µ‚½‚ÌccBŠK’i‚É‚µ‚Æ‚¯‚æƒoƒJccB[pcms]
+Shit...! It's hard to climb...[l][er]
+Who the hell decided to use a ladder...?[l][er]
+They should have made it stairs, idiots...[pcms]
 
-;//ôFBGM008ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM008ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 
 [fadeoutbgm time=500]
 
@@ -217,5 +219,5 @@
 
 ;//blackout
 
-;//[02168]‚Ö
+;//[02168]ã¸
 [jump target=*02168_TOP storage="02168.ks"]

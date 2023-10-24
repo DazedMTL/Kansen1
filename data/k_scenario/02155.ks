@@ -1,21 +1,21 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02155wˆê“ú‚ÌI‚í‚è‚Éx
-;//BG:OŠK˜L‰ºFƒoƒŠƒP[ƒhG–é
-;//BG:‰®ãF–é
-;//“oêl•¨GålŒöE—D
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02155ã€ä¸€æ—¥ã®çµ‚ã‚ã‚Šã«ã€
+;//BG:ä¸‰éšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰ï¼›å¤œ
+;//BG:å±‹ä¸Šï¼šå¤œ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02155_TOP
-;[debug_win]‚È‚¤@02155[debug_win_end]
+;[debug_win]ãªã†ã€€02155[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02155 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02155 = 1"]
 
-;*SceneSet|wˆê“ú‚ÌI‚í‚è‚Éx
+;*SceneSet|ã€ä¸€æ—¥ã®çµ‚ã‚ã‚Šã«ã€
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 
 [bgm009]
 
@@ -29,71 +29,69 @@
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1075|
 [fc]
 [vo_ya s="yama0366"]
-[ns]RŠİ[nse]
-uƒnƒ@ƒbAƒnƒ@ƒbccv[pcms]
+[ns]Yamagishi[nse]
+*Haa, haa...[pcms]
+*[l][er]
 
 *2816|
 [fc]
-[ns]‰Á“¡[nse]
-uƒNƒ\AV“¹æ¶‚Ü‚Åcc‚ÁIv[pcms]
+[ns]Kato[nse]
+Damn it, even Shindou-sensei...![pcms]
 
 *2817|
 [fc]
-‚±‚ê‚ÅAZÉ‚Ì’†‚É‚¢‚élŠÔ‚Å‚Ü‚Æ‚à‚È‚Ì‚ÍA‰´‚ÆRŠİ[r]
-‚³‚ñ‚¾‚¯‚É‚È‚Á‚Ä‚µ‚Ü‚Á‚½B‚»‚µ‚Ä“¦‚°‚ç‚ê‚éêŠ‚àA[r]
-‚±‚êˆÈã‚Í‚È‚¢B[pcms]
+With this, the only ones left in the school building who are[r]still sane are me and Yamagishi-san.[l][er]
+And there's nowhere else to run.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1076|
 [fc]
 [vo_ya s="yama0367"]
-[ns]RŠİ[nse]
-u‚©A‰Á“¡ŒNcc‚Ç‚¤‚µ‚æ‚¤ccv[pcms]
+[ns]Yamagishi[nse]
+K-Kato-kun... What should we do...[pcms]
 
 *2818|
 [fc]
-[ns]‰Á“¡[nse]
-u‹~••”‘à‚ª—ˆ‚é‚Ü‚ÅA‚±‚±‚Å—½‚®‚µ‚©ccv[pcms]
+[ns]Kato[nse]
+Until the rescue team arrives, we have no choice but to[r]endure here...[pcms]
 
 *2819|
 [fc]
-•sˆÀ‚»‚¤‚ÈŠç‚ÌRŠİ‚³‚ñ‚ÌŒü‚±‚¤‚ÉA’N‚©”ñíŠK’i‚ğã[r]
-‚Á‚Ä‚­‚é‚Ì‚ªŒ©‚¦‚ÄA‰´‚Í‚»‚¿‚ç‚Ö‘–‚è‚¾‚µ‚½B[pcms]
+I saw someone coming up the emergency staircase beyond[r]Yamagishi-san, who had an anxious look on her face, and I[r]started running towards them.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1077|
 [fc]
 [vo_ya s="yama0368"]
-[ns]RŠİ[nse]
-u‚ÇA‚Ç‚¤‚µ‚½‚ÌIHv[pcms]
+[ns]Yamagishi[nse]
+W-What's wrong!?[pcms]
 
 *2820|
 [fc]
-[ns]‰Á“¡[nse]
-uRŠİ‚³‚ñ‚Í‚»‚±‚É‚¢‚ÄIIv[pcms]
+[ns]Kato[nse]
+Yamagishi-san is over there!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:‹à–Ô‚ğ—h‚·‚é‰¹@ƒ‹[ƒv
+;//SE:é‡‘ç¶²ã‚’æºã™ã‚‹éŸ³ã€€ãƒ«ãƒ¼ãƒ—
 
 [se0 storage="se032"]
 
 *2821|
 [fc]
-”ñíŠK’i‚Æ‰®ã‚Ì‹«‚É‚ ‚éA”àó‚É‚È‚Á‚Ä‚¢‚éƒtƒFƒ“ƒX[r]
-‚ğA‰´‚Í—Í‚ğU‚èi‚Á‚Ä‰Ÿ‚³‚¦‚Â‚¯‚½B[pcms]
+I exerted all my strength to hold down the fence that was[r]shaped like a door, located at the boundary between the[r]emergency staircase and the rooftop.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_a_e_01"]
 [ChrSetXY layer=1 x=180 y=0]
@@ -103,42 +101,38 @@
 *v1078|
 [fc]
 [vo_ri s="risa0350"]
-[ns]V“¹[nse]
-u‚©‚ÆA‚¤A‚­‚£A‚ñcc‚¹‚ñA‚¹A‚àA‚È‚©A‚ÜA‚É[r]
-‚¢‚êA‚ÄccHv[pcms]
+[ns]Shindou[nse]
+Kato, ugh, ngh... Can you... put it in the center...?[pcms]
 
 *2822|
 [fc]
-ƒtƒFƒ“ƒX‚ÌŒü‚±‚¤‚ÉŒ»‚ê‚½V“¹æ¶‚ÍA‚à‚¤Š®‘S‚É–Ú‚Â[r]
-‚«‚ª•Ï‚í‚Á‚Ä‚µ‚Ü‚Á‚Ä‚¢‚½B[pcms]
+Shindou-sensei, who appeared beyond the fence, had[r]completely changed expression in his eyes.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1079|
 [fc]
 [vo_ya s="yama0369"]
-[ns]RŠİ[nse]
-u‚µccV“¹æ¶‚È‚ÌccH@’Ç‚¢‚©‚¯‚Ä—ˆ‚½‚ÌIHv[pcms]
+[ns]Yamagishi[nse]
+Sh-Shindou-sensei...? Did you follow us here!?[pcms]
 
 *2823|
 [fc]
-[ns]‰Á“¡[nse]
-u‚­cc‚ÁIv[pcms]
+[ns]Kato[nse]
+Ugh...![pcms]
 
 *2824|
 [fc]
-•·‚¢‚½‚±‚Æ‚à‚È‚¢‚æ‚¤‚È”L‚È‚Åº‚ÅA‰´‚É”÷Î‚ñ‚ÅŒ©‚¹[r]
-‚éV“¹æ¶‚ÍA‚µ‚©‚µ–Ú‚ÍÎ‚Á‚Ä‚¢‚È‚©‚Á‚½B[pcms]
+Shindou-sensei, who smiled at me with a cat-like voice that[r]I had never heard before, but his eyes were not smiling.[pcms]
 
 *2825|
 [fc]
-‚»‚µ‚Ä—‚Ìl‚Æ‚Ív‚¦‚È‚¢—Í‚ÅA”à‚ğŠJ‚¯‚æ‚¤‚Æ‚±‚¿‚ç[r]
-‚Ö‰Ÿ‚µ‚ñ‚Å‚­‚éB[pcms]
+And with a strength that didn't seem possible for a woman,[r]she pushed towards me, trying to open the door.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_a_e_01"]
 [ChrSetXY layer=1 x=180 y=0]
@@ -148,30 +142,28 @@
 *v1080|
 [fc]
 [vo_ri s="risa0351"]
-[ns]V“¹[nse]
-u‚¹A‚ñ‚¹A‚Ì‚¨‚Ü‚ñA‚±‚Écc‚©‚ÆA‚¤A‚­‚ñ‚ÌA‚¨[r]
-‚¿‚ñA‚¿‚ñA‚¿‚åA‚¤‚¾‚¢cc‚¨‚µA‚è‚Å‚àA‚¢‚¢A‚Ì[r]
-‚æcc‚ÈA‚©‚ÅA‚¾‚µ‚ÄA‚à‚¢A‚¢A‚Ìccv[pcms]
+[ns]Shindou[nse]
+S-sensei's pussy... Kato-kun's dick...[l][er]
+It's big... It's okay even if it's in my butt...[l][er]
+I want you to cum inside me...[pcms]
 
 *2826|
 [fc]
-[ns]‰Á“¡[nse]
-u‚â‚ß‚Ä‚­‚¾‚³‚¢Aæ¶cc‚ÁIIv[pcms]
+[ns]Kato[nse]
+Please stop, Sensei...!![pcms]
 
 *2827|
 [fc]
-‘Ì‚²‚Æ”à‚ğ‰Ÿ‚³‚¦‚Â‚¯‚é‰´‚ÉAV“¹æ¶‚ÍŠç‚ğ‹ß‚Ã‚¯A[r]
-—U‚¢‚ÌŒ¾—t‚ğš‘‚«‚©‚¯‚éB[pcms]
+Shindou-sensei leaned in close to me, who was holding down[r]the door with my entire body, and whispered seductive words.[pcms]
 
 *v1081|
 [fc]
 [vo_ri s="risa0352"]
-[ns]V“¹[nse]
-u‚ËA‚¦‚¥cc‚©‚ÆA‚­‚£A‚ñcc‚¹A‚ñ‚¹‚ÌA‚¨‚ÜA[r]
-‚ñ‚±cc‚ ‚ñ‚È‚±A‚Ş‚·A‚ß‚æ‚èA‚¸‚ÁA‚ÆA‚«‚àA‚¿[r]
-‚¢‚¢A‚ÌA‚æccv[pcms]
+[ns]Shindou[nse]
+Hey, ugh... Kato, ngh... Sensei's...[l][er]
+pussy... It feels much better than that girl's...[pcms]
 
-;//SE:‹à–Ô‚ğ—h‚·‚é‰¹@’â~
+;//SE:é‡‘ç¶²ã‚’æºã™ã‚‹éŸ³ã€€åœæ­¢
 
 [stop_se0]
 
@@ -179,50 +171,47 @@
 
 *2828|
 [fc]
-V“¹æ¶‚Í‚µ‚Î‚ç‚­‚ÌŠÔA”L‚È‚Åº‚Å—U‚¢AƒtƒFƒ“ƒX‚ğ[r]
-—h‚ç‚µ‚Ä‚¢‚½‚ªA‘S‚­‰‚¶‚È‚¢‰´‚É’ú‚ß‚½‚Ì‚©A”ñíŠK[r]
-’i‚ğ‰º‚è‚Ä‚¢‚Á‚½B[pcms]
+Shindou-sensei, for a while, tried to seduce me with a cat-[r]like voice and shook the fence, but perhaps realizing that I[r]wasn't responding at all, she gave up and went down the[r]emergency stairs.[pcms]
 
 *2829|
 [fc]
-[ns]‰Á“¡[nse]
-uƒnƒ@ccv[pcms]
+[ns]Kato[nse]
+*sigh*...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1082|
 [fc]
 [vo_ya s="yama0370"]
-[ns]RŠİ[nse]
-u‘åä•vH@‰Á“¡ŒNccv[pcms]
+[ns]Yamagishi[nse]
+Are you okay, Kato-kun...?[pcms]
 
 *2830|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ cc‚±‚Á‚¿‚É‚à’u‚¢‚Æ‚¢‚½•û‚ª‚¢‚¢‚Èccv[pcms]
+[ns]Kato[nse]
+Ah... It's probably better to leave it here too...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *2831|
 [fc]
-‰´‚ÍŠô‚Â‚©c‚Á‚Ä‚¢‚½ƒxƒ“ƒ`‚ğW‚ßA”àó‚ÌƒtƒFƒ“ƒX‚Ì[r]
-‘O‚ÉÏ‚İã‚°‚½B–h‰ÎƒVƒƒƒbƒ^[‚È‚Ç‚É”ä‚×‚é‚ÆAƒoƒŠ[r]
-ƒP[ƒh‚Æ‚µ‚Ä‚Í”ñí‚ÉS‹–‚È‚¢‚ªA¡‚Í‚±‚ê‚ªŒÀŠE‚¾B[pcms]
+I gathered a few remaining benches and stacked them in front[r]of the door-like fence.[l][er]
+Compared to fire shutters and such, it's not very reliable[r]as a barricade, but for now, this is the best we can do.[pcms]
+[l][er]
 
 *2832|
 [fc]
-[ns]‰Á“¡[nse]
-uƒnƒ@`ƒbccv[pcms]
+[ns]Kato[nse]
+*sigh*...[pcms]
 
 *2833|
 [fc]
-ƒoƒŠƒP[ƒh‚É‚µ‚½ƒxƒ“ƒ`‚É˜‚ğ‚©‚¯A‰´‚Í‘å‚«‚¢—­‘§‚ğ[r]
-‚Â‚­B[pcms]
+I sat down on the bench that we turned into a barricade and[r]let out a deep sigh.[pcms]
 
-;//[02156]‚Ö
+;//[02156]ã¸
 [jump target=*02156_TOP storage="02156.ks"]

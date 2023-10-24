@@ -1,20 +1,20 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02051wƒgƒCƒŒx
-;//BG:“Áê‹³ºF˜L‰ºF–éFÁ“”
-;//“oêl•¨GålŒöE—D
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02051ã€ãƒˆã‚¤ãƒ¬ã€
+;//BG:ç‰¹æ®Šæ•™å®¤ï¼šå»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02051_TOP
-;[debug_win]‚È‚¤@02051[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02051 = 1"]
+;[debug_win]ãªã†ã€€02051[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02051 = 1"]
 
-;*SceneSet|wƒgƒCƒŒx
+;*SceneSet|ã€ãƒˆã‚¤ãƒ¬ã€
 
 ;//[02051]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//BG:bg005d
 [bg storage="bg05d"]
@@ -27,105 +27,97 @@
 
 ;;;[sysbt_meswin]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v583|
 [fc]
 [vo_ya s="yama0107"]
-[ns]RŠİ[nse]
-u‚¦`A‚»‚êƒqƒh‚­‚È‚¢H@—\–ñ‚µ‚Ä‚½—‚Ìq‚ª‚©‚í‚¢[r]
-‚»‚¤‚¾‚æ`v[pcms]
+[ns]Yamagishi[nse]
+Ehh, isn't that mean?[pcms]
+The girl I had reserved must feel so sorry~[l][er]
 
 *1357|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¢‚â[A—S“ñ‚ª‚ ‚Ü‚è‚É‚à©–‚°‚ÉŒ¾‚¤‚©‚ç‚³B‚È‚ñ[r]
-‚©• —§‚Á‚Ä‚«‚¿‚á‚Á‚ÄB‚ A¡‚Å‚à‚Á‚Ä‚é‚æA‚ ‚¢‚Â[r]
-‚©‚ç’D‚¢æ‚Á‚½‘æ“ñƒ{ƒ^ƒ“v[pcms]
+[ns]Kato[nse]
+Ugh, Yuuji was bragging so much about it.[l][er]
+It made me really angry. Oh, I still have it, the second[r]button I took from him.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v584|
 [fc]
 [vo_ya s="yama0108"]
-[ns]RŠİ[nse]
-u‚ ‚Í‚ÍA–{“–Hv[pcms]
+[ns]Yamagishi[nse]
+Ahaha, really?[pcms]
 
 *1358|
 [fc]
-[ns]‰Á“¡[nse]
-u—S“ñ‚ªŒ‹¥‚·‚é‚ÉA‚²j‹V‘ã‚í‚è‚É‘¡‚Á‚Ä‚â‚ë‚¤‚Æ[r]
-v‚Á‚Ä‚³v[pcms]
+[ns]Kato[nse]
+I was thinking of giving it to him as a wedding gift instead[r]of a congratulatory gift for Yuuji's marriage.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v585|
 [fc]
 [vo_ya s="yama0109"]
-[ns]RŠİ[nse]
-u‚»‚êŠğ‚µ‚­‚È`‚¢I@‚ ‚Í‚Í‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+I'm not happy about that~ Ahaha![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *1359|
 [fc]
-^–ç—‚İ‚Ì‚µ‚å[‚à‚È‚¢ƒlƒ^‚ªƒEƒP‚½‚¹‚¢‚©ARŠİ‚³‚ñ[r]
-‚É•Ï‚Év‚í‚ê‚½‚­‚È‚­‚Ä‚¤‚Ü‚­‰ñ‚ç‚È‚©‚Á‚½‰´‚ÌŒû‚ÍA[r]
-‚¾‚¢‚ÔƒXƒ€[ƒY‚É“®‚­‚æ‚¤‚É‚È‚Á‚Ä‚¢‚½B[pcms]
+Thanks to the silly joke about Shinya, which seemed to have[r]been well received, my tongue, which didn't want Yamagishi-[r]san to think of me strangely, had become much smoother in[r]its movements.[pcms]
 
 *1360|
 [fc]
-RŠİ‚³‚ñ‚Ì‚±‚Æ‚ª‚à‚Á‚Æ’m‚è‚½‚¢‰´‚Æ‚µ‚Ä‚ÍA‚±‚ÌƒCƒL[r]
-ƒIƒC‚Éæ‚ç‚È‚¢è‚Í‚È‚¢B[pcms]
+As someone who wants to know more about Yamagishi-san, I[r]can't help but ride this momentum.[pcms]
 
 *1361|
 [fc]
-‚Å‚à‚Ü‚¸‚ÍA–³“ï‚È‚Æ‚±‚ë‚©‚çccB[pcms]
+But first, let's start with something safe...[pcms]
 
 *1362|
 [fc]
-[ns]‰Á“¡[nse]
-uRŠİ‚³‚ñA‰Æ‘°‚ªo‚Ä‚«‚ÄAÅŒã‚Íƒnƒbƒs[ƒGƒ“ƒh‚É[r]
-‚È‚é‰f‰æ‚ªD‚«‚Á‚ÄŒ¾‚Á‚Ä‚½‚æ‚ËB—á‚¦‚Î‚Ç‚ñ‚È‚ÌHv[pcms]
+[ns]Kato[nse]
+Yamagishi-san, you said you like movies where the family[r]comes together and it ends with a happy ending, right?[l][er]
+For example, what kind of movies?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v586|
 [fc]
 [vo_ya s="yama0110"]
-[ns]RŠİ[nse]
-u—á‚¦‚ÎA‚©‚Ÿcc‚»‚¤‚¾‚È‚Ÿccv[pcms]
+[ns]Yamagishi[nse]
+For example, umm... let's see...[pcms]
 
 *1363|
 [fc]
-‰½‚©‚ğv‚¢o‚·‚æ‚¤‚É’ˆ‚ğŒ©‚éRŠİ‚³‚ñ‚ÌŠç‚ªAˆêuA[r]
-”ß‚µ‚»‚¤‚ÈŠç‚É‚È‚Á‚½B[pcms]
+Yamagishi-san's face, as she looked up at the sky as if[r]trying to remember something, momentarily turned into a sad[r]expression.[pcms]
 
 *1364|
 [fc]
-‰Æ‘°‚ª‚©‚ç‚Ş˜b‚ªo‚é‚ÆARŠİ‚³‚ñ‚Í‚¢‚Â‚à‚Ç‚±‚©â‚µ[r]
-‚»‚¤‚ÈA”ß‚µ‚»‚¤‚ÈŠç‚ğ‚·‚éB[pcms]
+Whenever a story about family comes up, Yamagishi-san always[r]has a somewhat lonely, sad expression on her face.[pcms]
 
 *1365|
 [fc]
-‚à‚µ‚©‚µ‚½‚çA‰´‚ª‘z‘œ‚µ‚Ä‚¢‚éˆÈã‚ÉA‰Æ‚Ìl‚Æ‚¤‚Ü[r]
-‚­‚¢‚Á‚Ä‚È‚¢‚Ì‚©‚à‚µ‚ê‚È‚¢B[pcms]
+Maybe, the people in her family aren't getting along as well[r]as I imagine.[pcms]
 
 *1366|
 [fc]
-‰Æ‘°ŠÖŒW‚Ì˜b‚ÍA‚à‚¤•·‚©‚È‚¢•û‚ª‚¢‚¢‚©‚ÈccB[pcms]
+Maybe it's better not to ask about her family relationships[r]anymore...[pcms]
 
-;//ôFBGM010
+;//â™ªï¼šBGM010
 [bgm010]
 ;//BG:bg003d
 [bg storage="bg03d"]
@@ -135,67 +127,62 @@
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v587|
 [fc]
 [vo_ya s="yama0111"]
-[ns]RŠİ[nse]
-u‚¤`‚ñcc‚ A’…‚¢‚¿‚á‚Á‚½B‚ ‚Í‚Ív[pcms]
+[ns]Yamagishi[nse]
+Hmm... Ah, we've arrived. Ahaha.[pcms]
 
 *1367|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ [ccv[pcms]
+[ns]Kato[nse]
+Ah...[pcms]
 
 *1368|
 [fc]
-ŠÔ‰Ò‚¬‚É‚ä‚Á‚­‚è•à‚¢‚½‚Â‚à‚è‚¾‚Á‚½‚¯‚ÇA‚»‚ê‚É‚à[r]
-ŒÀ“x‚ª‚ ‚Á‚½B‰´’B‚ÍA–Ú“I‚ÌEˆõ—pƒgƒCƒŒ‚ÉA‚à‚¤’…[r]
-‚¢‚Ä‚µ‚Ü‚Á‚Ä‚¢‚½B[pcms]
+We had intended to walk slowly to buy some time, but there[r]was a limit to that as well.[l][er]
+We had already arrived at the designated staff restroom.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v588|
 [fc]
 [vo_ya s="yama0112"]
-[ns]RŠİ[nse]
-u‚»‚ê‚¶‚áA‚Ü‚½Œã‚Å‚Ëv[pcms]
+[ns]Yamagishi[nse]
+Well then, see you later.[pcms]
 
 *1369|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚¤A‚¤‚ñccv[pcms]
+[ns]Kato[nse]
+Ah, um, yeah...[pcms]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 [se0 storage="se005"]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *1370|
 [fc]
-Î‚Á‚Äè‚ğU‚èARŠİ‚³‚ñ‚Í—qEˆõ—pƒgƒCƒŒ‚Ö‚Æ“ü‚Á[r]
-‚Ä‚¢‚Á‚½B[pcms]
+Laughing and waving her hand, Yamagishi-san entered the[r]women's staff restroom.[pcms]
 
 *1371|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *1372|
 [fc]
-‚¹‚Á‚©‚­¨‚¢‚Ã‚¢‚Ä‚¢‚½—¬‚ê‚ªA‚Ü‚½“r’†‚ÅØ‚ç‚ê‚Ä‚µ[r]
-‚Ü‚Á‚½B[pcms]
+The momentum that had built up so nicely was once again cut[r]off halfway.[pcms]
 
 *1373|
 [fc]
-‚±‚¤“¯‚¶‚±‚Æ‚ª‘±‚­‚ÆARŠİ‚³‚ñ‚Æ‰´‚ÍŒ‹‚Î‚ê‚È‚¢‰^–½[r]
-‚È‚ñ‚¶‚á‚È‚¢‚©A‚Æv‚¦‚Ä‹C•ª‚ªd‚­‚È‚éB[pcms]
+I start to feel heavy-hearted, thinking that if things[r]continue like this, Yamagishi-san and I may never be[r]together.[pcms]
 
 *1374|
 [fc]
-‰´‚Í—­‘§‚ğ‚Â‚«‚È‚ª‚çA’jqEˆõ—pƒgƒCƒŒ‚Ì’†‚ğŠm‚©‚ß[r]
-‚É“ü‚Á‚½B[pcms]
+I let out a sigh and entered the men's staff restroom to[r]check inside.[pcms]
 
 ;//blackout
 
@@ -213,46 +200,42 @@
 
 *1375|
 [fc]
-”\•bŒãAEˆõ—pƒgƒCƒŒ‚©‚ço‚Ä‚«‚½‰´’B‚ÍA‚¨Œİ‚¢“¯[r]
-‚¶‚±‚Æ‚ğ•ñ‚µ‡‚Á‚½B[pcms]
+Several tens of seconds later, we came out of the staff[r]restroom and reported the same thing to each other.[pcms]
 
 *1376|
 [fc]
-’†‚Í“d‹C‚ª“_‚¢‚Ä‚¢‚È‚­‚Ä^‚ÁˆÃB[r]
-•¨‰¹‚Ğ‚Æ‚Â‚µ‚È‚¢B[r]
-’N‚à‚¢‚È‚¢B[pcms]
+The inside was pitch black with no lights on.[l][er]
+Not a single sound could be heard.[l][er]
+There was no one there.[pcms]
 
 *1377|
 [fc]
-‚»‚ÌŒãA’Êí‹³º“‚É‚ ‚é¶“k—pƒgƒCƒŒ‚àŒ©‚Ä‚İ‚½‚ªA[r]
-Œ‹‰Ê‚ÍEˆõ—pƒgƒCƒŒ‚Ì‚Æˆê‚¾‚Á‚½B[pcms]
+After that, we also checked the student restroom in the[r]regular classroom building, but the result was the same as[r]the staff restroom.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v589|
 [fc]
 [vo_ya s="yama0113"]
-[ns]RŠİ[nse]
-uˆêŠK‚ÌƒgƒCƒŒ‚¶‚á‚È‚¢‚İ‚½‚¢‚Ëccv[pcms]
+[ns]Yamagishi[nse]
+It seems like it's not the restroom on the first floor...[pcms]
 
 *1378|
 [fc]
-[ns]‰Á“¡[nse]
-uã‚ÌŠK‚ÌƒgƒCƒŒ‚ÍA‘½•ªA²”Œ‚ª‚à‚¤Œ©‚Ä‚é‚©‚çA‘Ì[r]
-ˆçŠÙ‚Ì•û‚És‚Á‚Ä‚İ‚æ‚Á‚©v[pcms]
+[ns]Kato[nse]
+Saeki has probably already checked the restroom on the upper[r]floor, so let's go to the gymnasium.[pcms]
 
 *1379|
 [fc]
-‚¤‚È‚¸‚­RŠİ‚³‚ñ‚ÉA‰´‚Í‚¤‚È‚¸‚«•Ô‚µ‚ÄA‘ÌˆçŠÙ‚Ö‚Æ[r]
-Œü‚©‚Á‚½B[pcms]
+I nodded back at Yamagishi-san who nodded, and we headed[r]towards the gymnasium.[pcms]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;//[02052]‚Ö
+;//[02052]ã¸
 [jump target=*02052_TOP storage="02052.ks"]
 

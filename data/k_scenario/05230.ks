@@ -1,16 +1,16 @@
 
-;//¡ËƒuƒƒbƒN05230w–²x
-;//BG:‹’®ŠoºF–éG“_“”
-;//BG:‹’®ŠoºF–éGÁ“”
-;//“oêl•¨GålŒöE“µE‰Á“¡
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05230ã€å¤¢ã€
+;//BG:è¦–è´è¦šå®¤ï¼šå¤œï¼›ç‚¹ç¯
+;//BG:è¦–è´è¦šå®¤ï¼šå¤œï¼›æ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»åŠ è—¤
 
 *05230_TOP
-;[debug_win]‚È‚¤@05230[debug_win_end]
-;*SceneSet|w–²x
+;[debug_win]ãªã†ã€€05230[debug_win_end]
+;*SceneSet|ã€å¤¢ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05230 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05230 = 1"]
 ;	/*
-;	;//ôFBGM001
+;	;//â™ªï¼šBGM001
 ;	[bgm001]
 ;	
 ;	;//BG:bg15c
@@ -24,26 +24,25 @@
 
 *5113|
 [fc]
-w¸—ç‚Èl‚Å‚·‚ËIx‚È‚Ç‚Æ‹©‚Î‚ê‚È‚¢‚¤‚¿‚ÉA‰´‚Í²[r]
-”Œ‚ğ‘—‚èo‚µ‚½B[pcms]
+Before being called rude, I sent Saeki off.[pcms]
 
 *5114|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤‚©A‚ª‚ñ‚Î‚ê‚æccv[pcms]
+[ns]Kato[nse]
+I see, do your best...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2130|
 [fc]
 [vo_sa s="sae0410"]
-[ns]²”Œ[nse]
-ucc“d‹CAÁ‚µ‚Ä‚¢‚«‚Ü‚·‚Ëccv[pcms]
+[ns]Saeki[nse]
+... I'll turn off the lights, okay...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -54,8 +53,8 @@
 [bg storage="bg15d"]
 [trans_c cross time=500]
 
-;//SE:˜L‰º‚ğ‘–‚é
-;//‰¹i‰“‚´‚©‚éj
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
+;//éŸ³ï¼ˆé ã–ã‹ã‚‹ï¼‰
 [se0 storage="se005"]
 
 
@@ -64,33 +63,31 @@
 
 *5115|
 [fc]
-l‚¦‚Ä‚İ‚ê‚ÎAw•|‚¢‚©‚çˆê‚ÉƒgƒCƒŒ‚É‚Â‚¢‚Ä‚«‚Äx[r]
-‚È‚ñ‚ÄA—‚Ìq‚ÌŒû‚©‚çŒ¾‚¦‚é”¤‚ª‚È‚¢B[pcms]
+It's impossible for a girl to say something like Because I'm[r]scared, come with me to the bathroom.[l][er]
+when you think about it.[pcms]
 
 *5116|
 [fc]
-‚µ‚©‚à‘Šè‚Í²”Œ‚¾Bw‚à‚µ‚©‚µ‚Ä•ÖŠ‚©Hx‚Æ•·‚©‚ê[r]
-‚é‚Ì‚àŒ™‚¾‚Á‚½‚ë‚¤B[pcms]
+And on top of that, it was Saeki.[l][er]
+It must have been unpleasant to be asked, Are you going to[r]the bathroom?[pcms]
 
 *5117|
 [fc]
-[ns]‰Á“¡[nse]
-uˆ«‚¢‚±‚Æ‚µ‚½‚Èccv[pcms]
+[ns]Kato[nse]
+You did something bad...[pcms]
 
 *5118|
 [fc]
-‹ß‚­‚ÌˆÖq‚ÉÀ‚Á‚Ä–Ú‚ğ•Â‚¶A‹N‚«‚½‚ç²”Œ‚ÉÓ‚Á‚Ä‚¨[r]
-‚±‚¤‚ÆA‰´‚Ív‚Á‚½B[pcms]
+I sat on a nearby chair, closed my eyes, and thought that[r]when I woke up, I would apologize to Saeki.[pcms]
 
 *5119|
 [fc]
-ccccB[r]
-cccB[pcms]
+â€¦â€¦â€¦â€¦ã€‚ â€¦â€¦â€¦ã€‚[pcms]
 
 [fadeoutbgm time=500]
 
 ;//blackout
-;//¦’·‚ß‚ÉB
+;//â€»é•·ã‚ã«ã€‚
 
 ;;;[sysbt_meswin clear]
 
@@ -107,133 +104,131 @@
 
 ;;;[sysbt_meswin]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2131|
 [fc]
 [vo_ya s="yama0820"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒNccv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=300]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2132|
 [fc]
 [vo_sa s="sae0411"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñccv[pcms]
+[ns]Saeki[nse]
+Kato-san...[pcms]
 
 *5120|
 [fc]
-‚±‚ÌºccB[r]
-RŠİ‚³‚ñ‚ÆA²”ŒccH[pcms]
+Whose voice is this...? Yamagishi-san and Saeki...?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=300]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2133|
 [fc]
 [vo_ya s="yama0821"]
-[ns]RŠİ[nse]
-u“š‚¦‚Äccv[pcms]
+[ns]Yamagishi[nse]
+Answer me...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=300]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2134|
 [fc]
 [vo_sa s="sae0412"]
-[ns]²”Œ[nse]
-u“š‚¦‚Ä‚­‚¾‚³‚¢ccv[pcms]
+[ns]Saeki[nse]
+Please answer me...[pcms]
 
 *5121|
 [fc]
-“š‚¦‚ÄccH[r]
-‰½‚ğccH[pcms]
+Answer me...? What...?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=300]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2135|
 [fc]
 [vo_ya s="yama0822"]
-[ns]RŠİ[nse]
-u„‚Æ“µ‚³‚ñccv[pcms]
+[ns]Yamagishi[nse]
+Hitomi-san and I...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=300]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2136|
 [fc]
 [vo_sa s="sae0413"]
-[ns]²”Œ[nse]
-u„‚ÆRŠİ‚³‚ñccv[pcms]
+[ns]Saeki[nse]
+Yamagishi-san and I...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=300]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2137|
 [fc]
 [vo_ya s="yama0823"]
-[ns]RŠİ[nse]
-u‚Ç‚Á‚¿‚ªD‚«‚È‚ÌccHv[pcms]
+[ns]Yamagishi[nse]
+Which one do you like...?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=300]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2138|
 [fc]
 [vo_sa s="sae0414"]
-[ns]²”Œ[nse]
-u‚Ç‚¿‚ç‚ªAD‚«‚È‚Ì‚Å‚·‚©ccHv[pcms]
+[ns]Saeki[nse]
+Which one do you like...?[pcms]
 
 [backlay_c][chara_int][trans_c cross time=500]
 
 *5122|
 [fc]
-RŠİ‚³‚ñ‚Æ²”ŒA‚Ç‚Á‚¿‚ªD‚«ccH[pcms]
+Yamagishi-san and Saeki, which one do you like...?[pcms]
 
 *5123|
 [fc]
-‰´‚ğD‚«‚¾‚Æ‚¢‚¤²”Œ‚ÆccB[r]
-‰´‚ªD‚«‚Å‚¢‚é‚¾‚¯‚ÌRŠİ‚³‚ñccB[pcms]
+Saeki, who says she likes me...[l][er]
+Yamagishi-san, who I just happen to like...[pcms]
 
 *5124|
 [fc]
-‰´cc‰´‚ÍccB[pcms]
+I... I...[pcms]
 
-;//¦ğŒ•ªŠò
-;//Eflag:“µƒ‹[ƒgƒNƒŠƒA@‚ªoff;//[05231]‚Ö
-;//Eflag:“µƒ‹[ƒgƒNƒŠƒA@‚ªon;//[06100]‚Ö
+;//â€»æ¡ä»¶åˆ†å²
+;//ãƒ»flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒoff;//[05231]ã¸
+;//ãƒ»flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒon;//[06100]ã¸
 
 [if exp="sf.g_hitomi_clear==1"]
 	;[jump target=*SEL00_05230_END]

@@ -1,15 +1,15 @@
 
-;//¡ËƒuƒƒbƒN05100w“µ‚Ì—U‚¢x
-;//BG:OŠK˜L‰ºF–éF“_“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05100ã€ç³ã®èª˜ã„ã€
+;//BG:ä¸‰éšå»Šä¸‹ï¼šå¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05100_TOP
-;[debug_win]‚È‚¤@05100[debug_win_end]
-;*SceneSet|w“µ‚Ì—U‚¢x
+;[debug_win]ãªã†ã€€05100[debug_win_end]
+;*SceneSet|ã€ç³ã®èª˜ã„ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05100 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05100 = 1"]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 
 [bgm001]
 
@@ -25,70 +25,65 @@
 
 *4831|
 [fc]
-‚»‚ê‚É‚µ‚Ä‚àA—S“ñ‚â^–ç‚Í‚Ç‚±‚Ös‚Á‚Ä‚µ‚Ü‚Á‚½‚Ì‚¾[r]
-‚ë‚¤‚©B[pcms]
+By the way, I wonder where Yuuji and Shinya went.[pcms]
 
 *4832|
 [fc]
-‚Ü‚¾Œ©‚Ä‚¢‚È‚¢êŠ‚ÅA‚ ‚¢‚Â‚ç‚Ìs‚«‚»‚¤‚ÈêŠ‚Æ‚¢[r]
-‚¦‚ÎA‘ÌˆçŠÙ‚ÆA•”º“‚ÆA•ÛŒ’º‚ÆccB[pcms]
+Speaking of places where they might have gone that we[r]haven't checked yet, there's the gymnasium, the club[r]building, and the infirmary...[pcms]
 
 *4833|
 [fc]
-[ns]‰Á“¡[nse]
-uL‚¢‚©‚çA‰B‚ê‚é‚Æ‚±‚¢‚Á‚Ï‚¢‚ ‚é‚ñ‚¾‚æ‚È[ccB[r]
-ƒfƒJƒCŠwZ‚Á‚Ä‚Ì‚à‘P‚µˆ«‚µ‚¾‚Èv[pcms]
+[ns]Kato[nse]
+Since it's big, there are plenty of places to hide...[l][er]
+Having a large school has its pros and cons.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2066|
 [fc]
 [vo_sa s="sae0360"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *4834|
 [fc]
-[ns]‰Á“¡[nse]
-u‚È‚ŸA‚¨‘OA‚Ç‚±‚©S“–‚½‚è‚È‚¢‚©Hv[pcms]
+[ns]Kato[nse]
+Hey, do you have any idea where they might be?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2067|
 [fc]
 [vo_sa s="sae0361"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *4835|
 [fc]
-²”Œ‚Í‰½‚©l‚¦‚ñ‚Å‚¢‚é‚Ì‚©AŒ¯‚µ‚¢–Ú‚Â‚«‚Å‚¸‚Á‚Æ[r]
-–Ù‚è‚ñ‚Å‚¢‚éB[pcms]
+Saeki seems lost in thought, staying silent with a serious[r]expression.[pcms]
 
 *4836|
 [fc]
-‚»‚ê‚Æ‚àA‰´‚Ìº‚ª•·‚±‚¦‚Ä‚¢‚È‚¢‚Ì‚©H[pcms]
+Or perhaps, you can't hear my voice?[pcms]
 
 *4837|
 [fc]
-[ns]‰Á“¡[nse]
-u²”Œcc‚Ç‚¤‚µ‚½H@ƒnƒ‰‚Å‚à’É‚¢‚Ì‚©Hv[pcms]
+[ns]Kato[nse]
+Saeki... What's wrong? Are you feeling sick?[pcms]
 
 *4838|
 [fc]
-²”Œ‚Ì—lq‚É‚¿‚å‚Á‚Æ•sˆÀ‚É‚È‚Á‚½‰´‚ÍAç’k¬‚¶‚è‚É[r]
-º‚ğ‚©‚¯‚é‚ÆA­‚µ“{‚Á‚½‚Ì‚©Šç‚ğ^‚ÁÔ‚É‚µ‚ÄA¬‚³[r]
-‚­Œû‚ğŠJ‚«n‚ß‚½B[pcms]
+I became a little worried about Saeki's state, so I jokingly[r]called out to her.[l][er]
+She seemed to get a bit angry and her face turned bright red[r]as she started to open her mouth, albeit softly.[pcms]
 
 *4839|
 [fc]
-‚Ü‚½“{º‚ª”ò‚ñ‚Å‚­‚é‚Ì‚©‚Æv‚¢A¨‚ğ‰Ÿ‚³‚¦‚æ‚¤‚Æ‚·[r]
-‚éccB[pcms]
+I thought another angry voice was coming, so I tried to[r]cover my ears...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -97,60 +92,58 @@
 
 *4840|
 [fc]
-‚Å‚àA²”Œ‚Ìº‚Í“{‚è‚Ì•¨‚Å‚Í‚È‚©‚Á‚½B[pcms]
+But Saeki's voice wasn't filled with anger.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2068|
 [fc]
 [vo_sa s="sae0362"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñcc‰®ã‚ÖAs‚Á‚Ä‚İ‚Ü‚¹‚ñ‚©Hv[pcms]
+[ns]Saeki[nse]
+Kato-san... Would you like to go to the rooftop?[pcms]
 
 *4841|
 [fc]
-[ns]‰Á“¡[nse]
-u‰®ãccHv[pcms]
+[ns]Kato[nse]
+The rooftop...?[pcms]
 
 *4842|
 [fc]
-‚»‚¤‚©A‰®ã‚ª‚ ‚Á‚½‚ÈccB[r]
-—S“ñ’B‚©^–çA‚Ç‚Á‚¿‚©‚ª‚¢‚éŠm—¦‚Í‚‚¢ccB[pcms]
+I see, there's a rooftop... The chances are high that either[r]Yuuji and Shinya are there...[pcms]
 
 *4843|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤‚¾‚ÈAs‚Á‚Ä‚İ‚é‚©B’N‚©‚¢‚é‚©‚à‚µ‚ê‚È‚¢v[pcms]
+[ns]Kato[nse]
+Yeah, let's go check it out. There might be someone there.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2069|
 [fc]
 [vo_sa s="sae0363"]
-[ns]²”Œ[nse]
-u‚¦‚¦ccv[pcms]
+[ns]Saeki[nse]
+Yes...[pcms]
 
 [se1 storage="se067"]
 
 *4844|
 [fc]
-²”Œ‚Í‚È‚º‚©v‚¢‚Â‚ß‚½Šç‚Å‚¤‚È‚¸‚¢‚ÄA‰´‚æ‚èæ‚ÉA[r]
-‰®ã‚ÖŒü‚©‚Á‚Ä•à‚¢‚Ä‚¢‚Á‚½B[pcms]
+Saeki nodded with a troubled expression for some reason, and[r]walked towards the rooftop before me.[pcms]
 
 *4845|
 [fc]
-[ns]‰Á“¡[nse]
-uccHv[pcms]
+[ns]Kato[nse]
+...?[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;//ôFBGM001ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM001ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 [fadeoutbgm time=500]
 
 [backlay_c][chara_int][trans_c cross time=150]
@@ -158,5 +151,5 @@
 
 ;//blackout
 
-;//[05110]‚Ö
+;//[05110]ã¸
 [jump target=*05110_TOP storage="05110.ks"]

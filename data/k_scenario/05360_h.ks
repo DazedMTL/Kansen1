@@ -1,19 +1,19 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN05360wƒgƒCƒŒx
-;//;//BG:“Áê‹³º˜L‰ºF’©FÁ“”
-;//“oêl•¨GålŒöE“µ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05360ã€ãƒˆã‚¤ãƒ¬ã€
+;//;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæœï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *05360_H_TOP
-;[debug_win]‚È‚¤@05360_H[debug_win_end]
-;*SceneSet|wƒgƒCƒŒx
+;[debug_win]ãªã†ã€€05360_H[debug_win_end]
+;*SceneSet|ã€ãƒˆã‚¤ãƒ¬ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05360 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05360 = 1"]
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 
 [bgm009]
 
@@ -31,24 +31,22 @@
 
 ;;;[sysbt_meswin]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2249|
 [fc]
 [vo_sa s="sae0475"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *5389|
 [fc]
-²”Œ‚Í‰´‚ÌƒVƒƒƒc‚ğ‚Â‚Ü‚ñ‚¾‚Ü‚ÜA[r]
-Œã‚ë‚ğ‘ål‚µ‚­‚Â‚¢‚Ä‚­‚éB[pcms]
+Saeki quietly follows behind me, still holding onto my[r]shirt.[pcms]
 
 *5390|
 [fc]
-‚Ü‚ŸA‚±‚Ìó‹µ‚¶‚ád•û‚È‚¢‚æ‚ÈccB[r]
-²”Œ‚Ì‚æ‚¤‚È•|‚ª‚è‚¶‚á‚È‚­‚Ä‚àA[r]
-ˆêl‚Å•ÖŠ‚És‚­‚Ì‚ÍƒLƒrƒVƒC‚æccB[pcms]
+Well, given the circumstances, I guess there's no other[r]choice...[l][er]
+Even if you're not as timid as Saeki, it's tough to go to[r]the restroom alone...[pcms]
 
 ;//;//BG:bg03a
 
@@ -60,74 +58,73 @@
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2250|
 [fc]
 [vo_sa s="sae0476"]
-[ns]²”Œ[nse]
-u‚²‚ß‚ñ‚È‚³‚¢cc•Ï‚È‚±‚Æ‚ğ‚¨Šè‚¢‚µ‚Äccv[pcms]
+[ns]Saeki[nse]
+I'm sorry... for asking you something strange...[pcms]
 
 *5391|
 [fc]
-[ns]‰Á“¡[nse]
-u‹C‚É‚·‚é‚ÈB‚Å‚«‚é‚¾‚¯‘‚­Ï‚Ü‚¹‚ë‚æv[pcms]
+[ns]Kato[nse]
+Don't worry about it. Just finish it as quickly as possible.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2251|
 [fc]
 [vo_sa s="sae0477"]
-[ns]²”Œ[nse]
-u‚Í‚¢ccv[pcms]
+[ns]Saeki[nse]
+Yes...[pcms]
 
 *5392|
 [fc]
-’†‚Ö“ü‚ë‚¤‚Æ‚µ‚Ä—§‚¿~‚Ü‚èA‰´‚ğU‚è•Ô‚Á‚½²”Œ‚ÍA[r]
-’p‚¸‚©‚µ‚»‚¤‚É‚¤‚Â‚Ş‚¢‚ÄAƒ{ƒ\ƒ{ƒ\‚Æ™ê‚¢‚½B[pcms]
+Saeki, who was about to enter, stopped and turned back to[r]me.[l][er]
+She looked embarrassed and muttered softly while looking[r]down.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2252|
 [fc]
 [vo_sa s="sae0478"]
-[ns]²”Œ[nse]
-u„‚ªo‚Ä‚­‚é‚Ü‚ÅA‚±‚±‚Å‘Ò‚Á‚Ä‚¢‚Ä‚­‚¾‚³‚¢ccB[r]
-â‘Î‚Éæ‚É–ß‚Á‚½‚è‚µ‚È‚¢‚Å‚­‚¾‚³‚¢‚Ëccv[pcms]
+[ns]Saeki[nse]
+Please wait here until I come out...[l][er]
+Please don't go back before me, okay...[pcms]
 
 *5393|
 [fc]
-[ns]‰Á“¡[nse]
-u‘åä•vA‚¿‚á‚ñ‚Æ‘Ò‚Á‚Ä‚Ä‚â‚é‚æv[pcms]
+[ns]Kato[nse]
+Don't worry, I'll wait for you properly.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2253|
 [fc]
 [vo_sa s="sae0479"]
-[ns]²”Œ[nse]
-uâ‘Î‚Å‚·‚æccv[pcms]
+[ns]Saeki[nse]
+I'm absolutely sure...[pcms]
 
 *5394|
 [fc]
-[ns]‰Á“¡[nse]
-u‚í‚©‚Á‚½‚©‚ç‘‚­s‚Á‚Ä‚±‚¢‚Á‚Äv[pcms]
+[ns]Kato[nse]
+Alright, hurry up and go.[pcms]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 [se0 storage="se005"]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *5395|
 [fc]
-‰´‚ÌŒ¾—t‚É‚¤‚È‚¸‚¢‚ÄA²”Œ‚Í¬‘–‚è‚ÅƒgƒCƒŒ‚Ì’†‚Ö‹ì[r]
-‚¯‚ñ‚Å‚¢‚Á‚½B[pcms]
+Saeki nodded at my words and hurriedly ran into the[r]restroom.[pcms]
 
-;//[05370]‚Ö
+;//[05370]ã¸
 [jump target=*05370_H_TOP storage="05370_H.ks"]
 

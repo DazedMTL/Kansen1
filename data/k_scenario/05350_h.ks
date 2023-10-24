@@ -1,35 +1,35 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN05350w’N‚à‚¢‚È‚¢•ÛŒ’ºx
-;//;//BG:•ÛŒ’ºF’©FÁ“”
-;//“oêl•¨GålŒöE“µEƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05350ã€èª°ã‚‚ã„ãªã„ä¿å¥å®¤ã€
+;//;//BG:ä¿å¥å®¤ï¼šæœï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *05350_H_TOP
-;[debug_win]‚È‚¤@05350_H[debug_win_end]
+;[debug_win]ãªã†ã€€05350_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 ;[if exp="tf.scene_mode == 0"][jump target=*05350][endif]
 ;[winset]
 
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *05350
 
-;*SceneSet|w’N‚à‚¢‚È‚¢•ÛŒ’ºx
+;*SceneSet|ã€èª°ã‚‚ã„ãªã„ä¿å¥å®¤ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05350 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05350 = 1"]
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 
 [bgm009]
 
@@ -38,7 +38,7 @@
 [bg storage="bg13a"]
 [trans_c cross time=500]
 
-;//SE:”à‚ğŠJ‚¯‚é
+;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
 
 [se0 storage="se008"]
 
@@ -48,141 +48,135 @@
 
 *5376|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¢‚È‚¢cc–ß‚Á‚Ä‚±‚È‚¢‚Ü‚Ü‚©v[pcms]
+[ns]Kato[nse]
+They're not here... It seems like they won't come back.[pcms]
 
 *5377|
 [fc]
-•ÛŒ’º‚Ì’†‚ÍA‚³‚Á‚«‰´‚Æ²”Œ‚ªŒ©‚½‚Ü‚Ü‚ÅARŠİ‚³‚ñ[r]
-‚Æ^–ç‚Ìp‚Í‚Ç‚±‚É‚à‚È‚©‚Á‚½B[pcms]
+The infirmary was just as Saeki and I saw it earlier, but[r]there was no sign of Yamagishi-san and Shinya anywhere.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [ChrSetParts layer=1 chface="risa_c_a_12"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2243|
 [fc]
 [vo_ri s="risa0566"]
-[ns]V“¹[nse]
-u”Ş—A‚Ç‚±‚Ös‚Á‚Ä‚µ‚Ü‚Á‚½‚Ì‚©‚µ‚çB‘{‚»‚¤‚É‚àA[r]
-‰½‚Ì“–‚Ä‚à‚È‚¢‚Ì‚Å‚Í‚Ëccv[pcms]
+[ns]Shindou[nse]
+I wonder where she went. Even if we search, we have no[r]clue...[pcms]
 
 *5378|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Å‚àA‚¨‚©‚µ‚È“z‚ç‚ªZÉ‚Ì’†ƒEƒ‚Â‚¢‚Ä‚Ü‚·‚µA[r]
-‹}‚ª‚È‚¢‚Æƒ„ƒo‚­‚È‚¢‚Å‚·‚©Hv[pcms]
+[ns]Kato[nse]
+But those strange guys are wandering around the school[r]building, isn't it dangerous if we don't hurry?[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2244|
 [fc]
 [vo_ri s="risa0567"]
-[ns]V“¹[nse]
-u‚»‚¤‚Ëccv[pcms]
+[ns]Shindou[nse]
+I see...[pcms]
 
 *5379|
 [fc]
-[ns]‰Á“¡[nse]
-u‚È‚ñ‚È‚çA‰´‚ªZÉ‚Ì’†AŒ©‚Ä‰ñ‚Á‚Ä‚«‚Ü‚µ‚å‚¤‚©H[r]
-‚È‚ñ‚Å‚©‚Í‚í‚©‚è‚Ü‚¹‚ñ‚¯‚ÇA‚ ‚¢‚Â‚ç“®‚«“İ‚¢‚µA[r]
-‘–‚ê‚Î•ß‚Ü‚ç‚¸‚Éccv[pcms]
+[ns]Kato[nse]
+How about I take a look around inside the school building?[l][er]
+I'm not sure why, but those guys are slow and if we run, we[r]can catch them without getting caught...[l][er]
+Kato: How about I take a look around inside the school[r]building?[l][er]
+I'm not sure why, but those guys are slow and if we run, we[r]can catch them without getting caught...[pcms]
+[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *5380|
 [fc]
-”w’†‚ªˆø‚Á’£‚ç‚ê‚éŠ´Šo‚ÉU‚è•Ô‚é‚ÆA²”Œ‚ªƒVƒƒƒc‚Ì[r]
-‚ğ‚Â‚Ü‚ñ‚ÅAã–ÚŒ­‚¢‚Å‰´‚ğŒ©‚Â‚ß‚Ä‚¢‚½B[pcms]
+When I turned back in response to the sensation of my back[r]being pulled, Saeki was holding onto the hem of her shirt[r]and looking up at me with upturned eyes.[pcms]
 
 *5381|
 [fc]
-[ns]‰Á“¡[nse]
-uH@‰½‚¾‚æv[pcms]
+[ns]Kato[nse]
+? What's wrong?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2245|
 [fc]
 [vo_sa s="sae0472"]
-[ns]²”Œ[nse]
-u‚ ‚ÌccƒgƒCƒŒccv[pcms]
+[ns]Saeki[nse]
+Um... the restroom...[pcms]
 
 *5382|
 [fc]
-[ns]‰Á“¡[nse]
-uƒgƒCƒŒHv[pcms]
+[ns]Kato[nse]
+The restroom?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2246|
 [fc]
 [vo_sa s="sae0473"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *5383|
 [fc]
-[ns]‰Á“¡[nse]
-ucc‚Â‚¢‚Ä—ˆ‚¢‚Á‚ÄHv[pcms]
+[ns]Kato[nse]
+... You want me to come with you?[pcms]
 
 *5384|
 [fc]
-•ğ‚ê‹C–¡‚ÉŒ¾‚Á‚½‰´‚ÌŒ¾—t‚ÉA²”Œ‚ÍŠç‚ğÔ‚­‚µ‚ÄA[r]
-–³Œ¾‚Å‚¤‚È‚¸‚¢‚½B[pcms]
+Saeki blushed and silently nodded in response to my words,[r]which were said with a hint of exasperation.[pcms]
 
 *5385|
 [fc]
-ˆÓŒ©‚ğ‹‚ß‚æ‚¤‚ÆV“¹æ¶‚ğŒ©‚é‚ÆAæ¶‚Íd•û‚È‚¢‚Æ[r]
-‚¢‚Á‚½—lq‚Å‚¤‚È‚¸‚¢‚½B[pcms]
+When I looked at Shindou-sensei, seeking his opinion, he[r]nodded with a resigned expression as if to say there was no[r]other choice.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2247|
 [fc]
 [vo_ri s="risa0568"]
-[ns]V“¹[nse]
-uˆê‚És‚Á‚Ä‚ ‚°‚È‚³‚¢B¡‚ÍŠëŒ¯‚Èó‹µ‚¾‚©‚çA[r]
-‚È‚é‚×‚­‘‚­–ß‚Á‚Ä‚­‚é‚Ì‚æv[pcms]
+[ns]Shindou[nse]
+Take her with you. It's a dangerous situation right now, so[r]make sure to come back as soon as possible.[pcms]
 
 *5386|
 [fc]
-[ns]‰Á“¡[nse]
-u‚í‚©‚è‚Ü‚µ‚½B‚¶‚á‚ s‚­‚©v[pcms]
+[ns]Kato[nse]
+Understood. Let's go then.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2248|
 [fc]
 [vo_sa s="sae0474"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *5387|
 [fc]
-Šç‚ğÔ‚­‚µ‚Ä‰Ÿ‚µ–Ù‚Á‚Ä‚¢‚é²”Œ‚ğ˜A‚ê‚ÄA[r]
-‰´‚Í•ÛŒ’º‚©‚çˆê”Ô‹ß‚¢AEˆõ—pƒgƒCƒŒ‚ÉŒü‚©‚Á‚½B[pcms]
+I took blushing and silent Saeki with me and headed to the[r]staff restroom, which was the closest one from the[r]infirmary.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -190,10 +184,10 @@
 
 ;//blackout
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05360]‚Ö
+;//[05360]ã¸
 [jump target=*05360_H_TOP storage="05360_H.ks"]
 
 

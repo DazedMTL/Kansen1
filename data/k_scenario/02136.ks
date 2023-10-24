@@ -1,56 +1,55 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02136w—D‚Ì”ß–Âx
-;//BG:“ñŠK˜L‰ºFƒoƒŠƒP[ƒh‘OF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöEƒŠƒTE—DE’|“àE”¼’[Š´õƒ]ƒ“ƒr[pcms]
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02136ã€å„ªã®æ‚²é³´ã€
+;//BG:äºŒéšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰å‰ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+//Characters; Protagonist, Risa, Yuu, Shinya, and Semi-[r]infected Zombies[l][er]
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02136_TOP
-;[debug_win]‚È‚¤@02136[debug_win_end]
+;[debug_win]ãªã†ã€€02136[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02136 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02136 = 1"]
 
-;*SceneSet|w—D‚Ì”ß–Âx
+;*SceneSet|ã€å„ªã®æ‚²é³´ã€
 
-;//ôFBGM003
+;//â™ªï¼šBGM003
 
 [bgm003]
 
-;//BG:bg–³‚µ
+;//BG:bgç„¡ã—
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//¦ŠG–³‚µ
+;//â€»çµµç„¡ã—
 
 *v973|
 [fc]
 [vo_ya s="yama0303"]
-[ns]RŠİ[nse]
-u‚¢‚â‚ ‚ ‚Ÿ‚Ÿ‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+Nooo!![pcms]
 
 *2489|
 [fc]
-[ns]‰Á“¡[nse]
-uRŠİ‚³‚ñIHv[pcms]
+[ns]Kato[nse]
+Yuu-san!?[pcms]
 
 *2490|
 [fc]
-“ñŠK‚©‚ç•·‚±‚¦‚Ä‚«‚½RŠİ‚³‚ñ‚Ì”ß–Â‚ÉA‰´‚Íˆê‹C‚ÉŠK[r]
-’i‚ğ‹ì‚¯ã‚ª‚Á‚½B[pcms]
+I quickly ran up the stairs upon hearing Yamagishi-san's[r]scream coming from the second floor.[pcms]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 
 [se0 storage="se005"]
 
 [bg storage="bg90"]
 [trans_c cross time=500]
 
-;//H_CG:ˆê”ÊƒV[ƒ“@
+;//H_CG:ä¸€èˆ¬ã‚·ãƒ¼ãƒ³ã€€
 
 [ChrSetEx layer=1 chbase="zom_03_a"]
 [ChrSetXY layer=1 x=0 y=0]
@@ -61,40 +60,38 @@
 
 *2491|
 [fc]
-[ns]‰Á“¡[nse]
-uRŠİ‚³‚ñ‚ÁIIv[pcms]
+[ns]Kato[nse]
+Yamagishi-san!![pcms]
 
 *2492|
 [fc]
-‚³‚Á‚«‚Ì“z‚ç‚Ì’‡ŠÔ‚ç‚µ‚¢’j‚ªA¬‚³‚¢”à‚©‚ç’†‚Ö˜r‚ğ[r]
-L‚Î‚µARŠİ‚³‚ñ‚Ì‘«ñ‚ğ’Í‚ñ‚Åˆø‚Á’£‚Á‚Ä‚¢‚½B[pcms]
+The man who seems to be one of those guys from earlier[r]reached his arm inside through a small door and grabbed[r]Yamagishi-san's ankle, pulling her.[pcms]
 
 *2493|
 [fc]
-[ns]’jq¶“k[nse]
-u‚®‚Ó‚¥A‚Ö‚¥cc‚¢‚¢A‚ ‚µ‚¾A‚È‚Ÿccv[pcms]
+[ns]male student[nse]
+Guh... heh... good, Ashida, huh...[pcms]
 
 *v974|
 [fc]
 [vo_ya s="yama0304"]
-[ns]RŠİ[nse]
-u‚¢‚â‚ÁA—£‚µ‚Ä‚¥‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+No, let go![pcms]
 
 *2494|
 [fc]
-[ns]’jq¶“k[nse]
-u‚ A‚µ‚¡cc‚È‚ß‚³A‚¹A‚Ä‚­‚êA‚¥ccv[pcms]
+[ns]male student[nse]
+Ah, Shii... Please, lick me gently...[pcms]
 
 *v975|
 [fc]
 [vo_ya s="yama0305"]
-[ns]RŠİ[nse]
-u‚¢‚â‚Ÿ‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+Nooo!![pcms]
 
 *2495|
 [fc]
-–Ú‚ğ”‚«Aã‚ğL‚Î‚µ‚ÄARŠİ‚³‚ñ‚Ì‘«‚ğär‚ß‚æ‚¤‚Æ‚·[r]
-‚é’j‚ÉA”Ş—‚ÌŒã‚ë‚©‚ç^–ç‚ªƒPƒŠ‚ğ“ü‚ê‚éB[pcms]
+Shinya kicks the man who was trying to lick Yamagishi-san's[r]leg from behind, with his eyes wide open and his tongue[r]extended.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
@@ -105,18 +102,18 @@
 
 *2496|
 [fc]
-[ns]’|“à[nse]
-u‚±‚Ì‚â‚ë‚¤I@‚ä‚¤‚¿‚á‚ñ‚©‚ç‚ÁI@‚Ä‚ğ‚ÁI@‚Í‚È[r]
-‚¹‚ÁIIv[pcms]
+[ns]Takeuchi[nse]
+You bastard! Let go of Yuu-chan![l][er]
+Hands off! Release her!![pcms]
 
 
 
-;mm ‚È‚ñ‚Å‰£‚é‘ÎÛ‚ğ“\‚ç‚È‚¢‚ñ‚¾‚ë‚¤‚È‚Ÿ
+;mm ãªã‚“ã§æ®´ã‚‹å¯¾è±¡ã‚’è²¼ã‚‰ãªã„ã‚“ã ã‚ã†ãªã
 [ChrSetEx layer=1 chbase="zom_03_a"]
 [ChrSetXY layer=1 x=280 y=0]
 [trans_c cross time=150]
 
-;//SE:‰£‚é
+;//SE:æ®´ã‚‹
 
 [se0 storage="se026"]
 
@@ -137,9 +134,7 @@
 
 *2497|
 [fc]
-^–ç‚É‰½“xR‚ç‚ê‚Ä‚àA’j‚Í‹¯‚Ş‚±‚Æ‚È‚­A’·‚­L‚Ñ‚½[r]
-ãæ‚ğƒ†ƒ‰ƒ†ƒ‰‚Æ“®‚©‚µ‚È‚ª‚çAŠç‚ğRŠİ‚³‚ñ‚Ì‘«‚Ö‹ß[r]
-‚Ã‚¯‚æ‚¤‚Æ‚·‚éB[pcms]
+No matter how many times Shinya kicks him, the man doesn't[r]flinch and continues to move his long extended tongue back[r]and forth, trying to bring his face closer to Yamagishi-[r]san's leg.[pcms]
 
 ;[ChrSetEx layer=1 chbase="zom_03_a"]
 ;[ChrSetXY layer=1 x=280 y=0]
@@ -147,8 +142,8 @@
 
 *2498|
 [fc]
-[ns]’jq¶“k[nse]
-u‚Ö‚ÍA‚Ÿcc‚ A‚µ‚¡ccv[pcms]
+[ns]male student[nse]
+Heh... Ah, Shii...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_e_13"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -158,15 +153,14 @@
 *v976|
 [fc]
 [vo_ya s="yama0306"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒNI@•‚¯‚ÄIIv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun! Help me!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *2499|
 [fc]
-‰´‚ÍŠK’i‚ğã‚è‚«‚Á‚ÄARŠİ‚³‚ñ‚Ì‘«‚ğ’Í‚ñ‚Å‚¢‚é’j‚Ì[r]
-•@æ‚ÉA¼–¾‚Ì‰Î‚ğ‹ß‚Ã‚¯‚½B[pcms]
+I reached the top of the stairs and brought the flame of a[r]torch close to the man who was holding onto Yamagishi-san's[r]leg.[pcms]
 
 [ChrSetEx layer=1 chbase="zom_03_a"]
 [ChrSetXY layer=1 x=280 y=0]
@@ -174,10 +168,10 @@
 
 *2500|
 [fc]
-[ns]’jq¶“k[nse]
-u‚¤‚ŸccI@‚ A‚£cccv[pcms]
+[ns]male student[nse]
+Ugh... Ah, ah...[pcms]
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 
 [se0 storage="se021"]
 
@@ -188,13 +182,12 @@
 
 *2501|
 [fc]
-‚Ì‚¯”½‚Á‚ÄŒã‚¸‚³‚é’j‚Ì• ‚ğA‰´‚Ív‚¢‚Á‚«‚èR‚è”ò‚Î[r]
-‚µ‚ÄAŠK’i‚Ì‰º‚Ö“Ë‚«—‚Æ‚µ‚Ä‚â‚Á‚½B[pcms]
+I kicked the man's stomach as he recoiled and sent him[r]flying backwards, pushing him down the stairs.[pcms]
 
 *2502|
 [fc]
-[ns]‰Á“¡[nse]
-uƒNƒ\–ì˜Y‚ªccv[pcms]
+[ns]Kato[nse]
+You bastard...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -209,5 +202,5 @@
 
 ;//blackout
 
-;//[02137]‚Ö
+;//[02137]ã¸
 [jump target=*02137_TOP storage="02137.ks"]

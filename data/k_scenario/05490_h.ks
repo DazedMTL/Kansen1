@@ -1,32 +1,32 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN05490w‹¶—‹³º‚Px
-;//;//BG:“ñŠK˜L‰ºF—[•ûGÁ“”
-;//“oêl•¨GålŒöE“µ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05490ã€ç‹‚ä¹±æ•™å®¤ï¼‘ã€
+;//;//BG:äºŒéšå»Šä¸‹ï¼šå¤•æ–¹ï¼›æ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *05490_H_TOP
-;[debug_win]‚È‚¤@05490_H[debug_win_end]
+;[debug_win]ãªã†ã€€05490_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 ;[if exp="tf.scene_mode == 0"][jump target=*05490][endif]
 ;[winset]
 
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//ôFBGM004
+;//â™ªï¼šBGM004
 [bgm004]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *05490
 
-;*SceneSet|w‹¶—‹³º‚Px
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05490 = 1"]
+;*SceneSet|ã€ç‹‚ä¹±æ•™å®¤ï¼‘ã€
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05490 = 1"]
 
 
 ;//;//BG:bg06a
@@ -40,85 +40,77 @@
 
 *5561|
 [fc]
-ü‚è‚É’ˆÓ‚µ‚È‚ª‚ç“ñŠK‚Öã‚Á‚Ä‚­‚é‚ÆA˜L‰º‚Ì‰œA‰´[r]
-’B‚ÌƒNƒ‰ƒX‚ª‚ ‚é•û‚©‚çA’‚Á‚Ä‚¢‚é‚æ‚¤‚Å‚àA‹©‚ñ‚Å[r]
-‚¢‚é‚æ‚¤‚Å‚à‚ ‚éº‚ªA‚¤‚Á‚·‚ç‚Æ•·‚±‚¦‚Ä‚­‚éB[pcms]
+As I carefully ascend the stairs, paying attention to my[r]surroundings, I can faintly hear voices coming from the[r]direction of our classroom at the end of the hallway.[l][er]
+It sounds like they are either talking or shouting.[pcms]
 
 *5562|
 [fc]
-[ns]‰Á“¡[nse]
-u‰½‚Ìº‚¾H@‚±‚êccv[pcms]
+[ns]Kato[nse]
+What's that voice? This...[pcms]
 
 *5563|
 [fc]
-–¾‚ç‚©‚É—lq‚Ì‚¨‚©‚µ‚¢Š´‚¶‚ª‚µ‚½‚ªARŠİ‚³‚ñ‚Ìw‚İ[r]
-‚ñ‚È‚ªW‚Ü‚Á‚Ä‚¢‚éx‚Æ‚¢‚¤Œ¾—t‚ğM‚¶‚ÄA‰´‚Í©•ª‚Ì[r]
-ƒNƒ‰ƒX‚ÖŒü‚©‚Á‚Ä•à‚¢‚½B[pcms]
+I had a distinct feeling that something was off, but I chose[r]to believe Yamagishi-san's words of everyone gathering and[r]walked towards my own classroom.[pcms]
 
 *5564|
 [fc]
-[ns]‰Á“¡[nse]
-u‰ƒ‰ï‚Å‚à‚µ‚Ä‚éƒJƒ“ƒW‚¾‚Èccv[pcms]
+[ns]Kato[nse]
+It feels like they're having some kind of party...[pcms]
 
 *5565|
 [fc]
-–Ú“I‚Ì‹³º‚É‹ß‚Ã‚­‚É‚Â‚êA•·‚±‚¦‚Ä‚­‚éº‚ª‘å‚«‚­‚È[r]
-‚èA’j‚ªŠì‚ñ‚Å‰½‚©‚ğ’‚Á‚Ä‚¢‚éº‚ÆA—‚Ìšb‚¬º‚¾‚Æ[r]
-‚¢‚¤‚±‚Æ‚ª‚í‚©‚Á‚½B[pcms]
+As I approached the designated classroom, the voices I could[r]hear grew louder, and I realized that there were the sounds[r]of a man happily talking and a woman moaning.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2301|
 [fc]
 [vo_sa s="sae0523"]
-[ns]²”Œ[nse]
-uˆê‘ÌAŠwZ‚Å‰½‚ğ‚µ‚Ä‚¢‚é‚Ì‚©‚µ‚çccv[pcms]
+[ns]Saeki[nse]
+I wonder what they're doing at school...[pcms]
 
 *5566|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *5567|
 [fc]
-‹³º‚Ì’†‚©‚ç‚µ‚Ä‚­‚éº‚ğA‚æ‚­•·‚¢‚Ä‚İ‚é‚ÆAº‚Ìå[r]
-‚Í—S“ñAŒÜ\—’ƒTƒ“AŠİ“cAV“¹æ¶A‚»‚µ‚ÄRŠİ‚³‚ñ[r]
-‚ÌŒÜl‚Ì‚æ‚¤‚¾‚Á‚½B[pcms]
+I carefully listened to the voices coming from inside the[r]classroom, and upon closer inspection, it seemed that the[r]voices belonged to Yuuji, Igarashi-san, Kishida, Shindou-[r]sensei, and Yamagishi-san, a group of five people.[pcms]
 
 *5568|
 [fc]
-ˆê‚­‚½‚É‚È‚Á‚Ä•·‚±‚¦‚Ä‚­‚é‚»‚ÌŒÜl‚Ìº‚ÉA‰´‚Í‘O[r]
-‚É^–ç‚Ì‰Æ‚ÅŒ©‚½A—Œğƒ‚ƒm‚Ì‚`‚u‚ğv‚¢o‚µ‚Ä‚¢‚½B[pcms]
+I couldn't help but recall the orgy-themed AV I had seen at[r]Shinya's house before, as I listened to the voices of those[r]five people coming together.[pcms]
 
 *5569|
 [fc]
-M‚¶‚½‚­‚È‚¢‚¯‚ÇccB‚±‚Ì’†AŠÔˆá‚¢‚È‚­—Œğó‘Ô‚¾[r]
-‚æ‚ÈccB‚Å‚àA‚Ç‚¤‚µ‚ÄRŠİ‚³‚ñ‚Ü‚ÅccB[pcms]
+I don't want to believe it... But there's no doubt that[r]they're in an orgy...[l][er]
+But why even Yamagishi-san...?[pcms]
+[l][er]
 
 *5570|
 [fc]
-ŠëŒ¯‚È‚æ‚¤‚È‚çA²”Œ‚ğ˜A‚ê‚Ä‚·‚®‚É“¦‚°‚æ‚¤‚Æl‚¦‚½[r]
-‰´‚ÍA’†‚Ì—lq‚ğŠm”F‚·‚é‚½‚ßAƒhƒA‚ğŠJ‚¯‚½B[pcms]
+I considered immediately escaping with Saeki if it seemed[r]dangerous, so I opened the door to check the situation[r]inside.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
 
-;//SE:”à‚ğŠJ‚¯‚é
+;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
 
 [se0 storage="se008"]
 
 ;//blackout
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05500]‚Ö
+;//[05500]ã¸
 [jump target=*05500_H_TOP storage="05500_H.ks"]
 
 

@@ -1,16 +1,16 @@
 
-;//¡ËƒuƒƒbƒN05010w“µ‚É’Ç‚¢‚Â‚­x
-;//BG:“Áê‹³º˜L‰ºF“_“”F–é
-;//i—Dƒ‹[ƒg‚Ì“Áê‹³º˜L‰º‚Æ‚Í–”•Ê‚Ì˜L‰º‚ğ—pˆÓ‚µ‚Ä—L‚è‚Ü‚·j
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05010ã€ç³ã«è¿½ã„ã¤ãã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šç‚¹ç¯ï¼šå¤œ
+;//ï¼ˆå„ªãƒ«ãƒ¼ãƒˆã®ç‰¹æ®Šæ•™å®¤å»Šä¸‹ã¨ã¯åˆåˆ¥ã®å»Šä¸‹ã‚’ç”¨æ„ã—ã¦æœ‰ã‚Šã¾ã™ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05010_TOP
-;[debug_win]‚È‚¤@05010[debug_win_end]
-;*SceneSet|w“µ‚É’Ç‚¢‚Â‚­x
+;[debug_win]ãªã†ã€€05010[debug_win_end]
+;*SceneSet|ã€ç³ã«è¿½ã„ã¤ãã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05010 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05010 = 1"]
 
-;//ôFBGM005
+;//â™ªï¼šBGM005
 
 [bgm005]
 
@@ -19,8 +19,7 @@
 
 *4624|
 [fc]
-‘‘«‚Å‹’®Šoº‚ğo‚½‰´‚ÍA‚·‚®‚ÉƒwƒbƒsƒŠ˜‚Åƒ\ƒƒ\[r]
-ƒ•à‚¢‚Ä‚¢‚é²”Œ‚É’Ç‚¢‚Â‚¢‚½B[pcms]
+I quickly left the audiovisual room and caught up with[r]Saeki, who was walking slowly with a hunched back.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -30,7 +29,7 @@
 [bg storage="bg05c"]
 [trans_c cross time=500]
 
-;//SE:˜L‰º‚ğ•à‚­
+;//SE:å»Šä¸‹ã‚’æ­©ã
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -40,126 +39,119 @@
 
 ;;;[sysbt_meswin]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1999|
 [fc]
 [vo_sa s="sae0293"]
-[ns]²”Œ[nse]
-u‚¤‚£ccv[pcms]
+[ns]Saeki[nse]
+Ugh...[pcms]
 
 *4625|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *4626|
 [fc]
-‚¤‚í[Ak‚¦‚Ä‚é‚æccB[r]
-‚æ‚Á‚Û‚Çƒ_ƒ‚È‚ñ‚¾‚ÈA‚±‚¤‚¢‚¤•µˆÍ‹CccB[pcms]
+Wow, you're trembling... It must be really bad, this kind of[r]atmosphere...[pcms]
 
 *4627|
 [fc]
-ƒrƒN‚Â‚«‚È‚ª‚ç•à‚­²”Œ‚ÉAƒCƒ^ƒYƒ‰S‚ª•¦‚¢‚½‰´‚ÍA[r]
-w•|‚ª‚è‚Ì²”Œ‚É‚Â‚¢‚Ä‚¢‚Á‚Ä‚â‚éx‚Æ‚¢‚¤“–‰‚Ì–Ú“I[r]
-‚ğ–Y‚ê‚ÄA‹º‚©‚µ‚Ä‚â‚ë‚¤‚Æ‹ß‚Ã‚¢‚½B[pcms]
+I approached Saeki, who was walking while trembling, with a[r]mischievous thought bubbling up inside me.[l][er]
+Forgetting my initial intention of accompanying the scared[r]Saeki, I decided to scare her instead.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2000|
 [fc]
 [vo_sa s="sae0294"]
-[ns]²”Œ[nse]
-u‘åä•vcc‘åä•v‚æA“µcc—‚¿’…‚¢‚Äcc—H—ì‚È‚ñ[r]
-‚Ä‚¢‚È‚¢‚Ì‚æcc‚ ‚ñ‚È”ñ‰ÈŠw“I‚È‚à‚ÌA„‚Íâ‘Î‚É”F[r]
-‚ß‚È‚¢‚íccv[pcms]
+[ns]Saeki[nse]
+It's okay... It's okay, Hitomi...[l][er]
+Calm down... There's no such thing as ghosts...[l][er]
+I absolutely refuse to acknowledge such unscientific[r]things...[pcms]
 
 *4628|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *4629|
 [fc]
-‚Í‚ŸccH[r]
-‚È‚ÉŒ¾‚Á‚Ä‚ñ‚¾H[pcms]
+Huh...? What are you saying?[pcms]
 
 *4630|
 [fc]
-•|‚³‚ğ–Y‚ê‚æ‚¤‚Æ‚Å‚à‚¢‚¤‚Ì‚©A²”Œ‚Í©ŒÈˆÃ¦‚Å‚à‚©[r]
-‚¯‚é‚æ‚¤‚ÉA—H—ì‚È‚ñ‚Ä•|‚­‚È‚¢‚ÆAƒuƒcƒuƒc©•ª‚ÉŒ¾[r]
-‚¢•·‚©‚¹‚Ä‚¢‚½B[pcms]
+Saeki, as if trying to convince herself, muttered to herself[r]that she shouldn't be afraid and that ghosts aren't scary.[pcms]
 
 *4631|
 [fc]
-‚Ç‚ñ‚¾‚¯•|‚ª‚è‚È‚ñ‚¾‚æccB[r]
-‚à‚µ‚©‚µ‚Ä²”Œ‚Á‚ÄA‰Æ‚Éˆêl‚Å‚¢‚é‚ÍAƒkƒCƒOƒ‹ƒ~[r]
-‚É˜b‚µ‚©‚¯‚½‚è‚µ‚Ä‚é‚ñ‚¶‚á‚È‚¢‚Ì‚©ccH[pcms]
+How much of a scaredy-cat are you...?[l][er]
+Could it be that Saeki, when you're home alone, you talk to[r]your stuffed animals...?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2001|
 [fc]
 [vo_sa s="sae0295"]
-[ns]²”Œ[nse]
-u‚»‚¤‚æcc—H—ì‚È‚Ç‚Æ‚¢‚¤‚à‚Ì‚ªA‚±‚Ì“ñ\ˆê¢‹I‚Ì[r]
-Œ»‘ã“ú–{‚É‘¶İ‚·‚é‚í‚¯‚ª‚È‚¢‚íccƒvƒ‰ƒYƒ}cc‘S‚Ä[r]
-‚Íƒvƒ‰ƒYƒ}‚È‚Ì‚æcc“ì–³“ì–³“ì–³ccv[pcms]
+[ns]Saeki[nse]
+That's right... There's no way something like ghosts exists[r]in modern-day Japan of the 21st century...[l][er]
+It's all plasma... Everything is plasma...[l][er]
+Namu namu namu...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *4632|
 [fc]
-[ns]‰Á“¡[nse]
-u‚­cc‚Ó‚Áccv[pcms]
+[ns]Kato[nse]
+*sigh*...[pcms]
 
 *4633|
 [fc]
-ƒvAƒvƒ‰ƒYƒ}‚ŸIH@¡ƒvƒ‰ƒYƒ}‚Á‚Ä‚¨‘OII[r]
-‚µ‚©‚à‰½‚Å”O•§‚¾‚æII[r]
-‚¨‘OAŒ‹‹Ç—H—ìM‚¶‚Ä‚é‚ñ‚¶‚á‚Ë[‚©II[pcms]
+P-Plasma!? Are you talking about plasma in this day and[r]age!![l][er]
+And why are you chanting Buddhist prayers!![l][er]
+You... do you actually believe in ghosts after all?![pcms]
 
 *4634|
 [fc]
-•|‚³‚Ì‚¹‚¢‚È‚Ì‚©A‚â‚Á‚Ä‚é‚±‚Æ‚ªƒ€ƒ`ƒƒƒNƒ`ƒƒ‚È²”Œ[r]
-‚ÉA‰´‚Ív‚í‚¸•¬‚«o‚µ‚»‚¤‚É‚È‚Á‚ÄAŒû‚ğ‰Ÿ‚³‚¦‚Ä•K[r]
-€‚Å‚±‚ç‚¦‚½B[pcms]
+Due to Saeki's fear and her erratic behavior, I couldn't[r]help but almost burst out laughing.[l][er]
+I desperately covered my mouth to hold it in.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//¦‘I‘ğˆ
-;//E‚®‚Ê‚£cc‘Ï‚¦‚ëcc‘Ï‚¦‚é‚ñ‚¾cc;//[05011]‚Ö
-;//EÎ‚¤‚ÈI@‚±‚ç‚¦‚ëI@‚Í‚ñ‚É‚á[‚Í[‚ç[cc;//[05012]‚Ö
+;//â€»é¸æŠè‚¢
+;//ãƒ»ãã¬ã…â€¦â€¦è€ãˆã‚â€¦â€¦è€ãˆã‚‹ã‚“ã â€¦â€¦;//[05011]ã¸
+;//ãƒ»ç¬‘ã†ãªï¼ã€€ã“ã‚‰ãˆã‚ï¼ã€€ã¯ã‚“ã«ã‚ƒãƒ¼ã¯ãƒ¼ã‚‰ãƒ¼â€¦â€¦;//[05012]ã¸
 
 ;;;;[sysbt_meswin clear]
 
 *SEL_05010
 
 
-*SEL01|‚®‚Ê‚£cc‘Ï‚¦‚ëcc‘Ï‚¦‚é‚ñ‚¾^Î‚¤‚ÈI@‚±‚ç‚¦‚ëI@‚Í‚ñ‚É‚á[‚Í[‚ç[
+*SEL01|ãã¬ã…â€¦â€¦è€ãˆã‚â€¦â€¦è€ãˆã‚‹ã‚“ã ï¼ç¬‘ã†ãªï¼ã€€ã“ã‚‰ãˆã‚ï¼ã€€ã¯ã‚“ã«ã‚ƒãƒ¼ã¯ãƒ¼ã‚‰ãƒ¼
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '‚®‚Ê‚£cc‘Ï‚¦‚ëcc‘Ï‚¦‚é‚ñ‚¾cc'"]
-[eval exp="f.seltext04 = 'Î‚¤‚ÈI@‚±‚ç‚¦‚ëI@‚Í‚ñ‚É‚á[‚Í[‚ç[cc'"]
+[eval exp="f.seltext02 = 'ãã¬ã…â€¦â€¦è€ãˆã‚â€¦â€¦è€ãˆã‚‹ã‚“ã â€¦â€¦'"]
+[eval exp="f.seltext04 = 'ç¬‘ã†ãªï¼ã€€ã“ã‚‰ãˆã‚ï¼ã€€ã¯ã‚“ã«ã‚ƒãƒ¼ã¯ãƒ¼ã‚‰ãƒ¼â€¦â€¦'"]
 
-[if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
-	;‘I‘ğˆ“à—e‚ğƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
+[if exp="tf.sys_sub == 0 || tf.é¸æŠè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
+	;é¸æŠè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[—š—ğo—Í•œ‹A]
+[å±¥æ­´å‡ºåŠ›å¾©å¸°]
 
-;‘I‘ğˆƒx[ƒX
+;é¸æŠè‚¢ãƒ™ãƒ¼ã‚¹
 [selbase]
-;•¶š‚Ì¶ƒ}[ƒWƒ“
+;æ–‡å­—ã®å·¦ãƒãƒ¼ã‚¸ãƒ³
 [eval exp="sf.seltext_x = 200"]
 
 [sel02 target=*SEL_TAERU]

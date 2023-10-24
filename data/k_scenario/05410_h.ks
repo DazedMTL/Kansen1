@@ -1,37 +1,37 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN05410wƒVƒƒƒ[x
-;//;//BG:–³‚µ
-;//“oêl•¨GålŒöE“µ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05410ã€ã‚·ãƒ£ãƒ¯ãƒ¼ã€
+;//;//BG:ç„¡ã—
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *05410_H_TOP
-;[debug_win]‚È‚¤@05410_H[debug_win_end]
+;[debug_win]ãªã†ã€€05410_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [eval exp="sf.SRP25 = 1"][if exp="tf.scene_mode == 0"][jump target=*05410][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *05410
 
-;*SceneSet|wƒVƒƒƒ[x
+;*SceneSet|ã€ã‚·ãƒ£ãƒ¯ãƒ¼ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05410 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05410 = 1"]
 
-;//flag:“µƒ‹[ƒgƒtƒ[@‚V@•\¦
-;//ôFBGM–³‚µ
+;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼—ã€€è¡¨ç¤º
+;//â™ªï¼šBGMç„¡ã—
 
 [fadeoutbgm time=500]
 
@@ -44,7 +44,7 @@
 
 *scene_start
 
-;//SE:ƒVƒƒƒ[‚Ì‰¹@ƒ‹[ƒv
+;//SE:ã‚·ãƒ£ãƒ¯ãƒ¼ã®éŸ³ã€€ãƒ«ãƒ¼ãƒ—
 
 [se0 storage="se043" loop=true]
 
@@ -57,106 +57,100 @@
 *v2267|
 [fc]
 [vo_sa s="sae0493"]
-[ns]²”Œ[nse]
-u‚¤cc‚¤‚£‚Áccv[pcms]
+[ns]Saeki[nse]
+Ugh... uhh...[pcms]
 
 *5453|
 [fc]
-ƒVƒƒƒ[‚ğ—‚Ñn‚ß‚Ä‚©‚çA²”Œ‚Í‚Æ‚¤‚Æ‚¤‹ƒ‚«o‚µ‚Ä[r]
-‚µ‚Ü‚Á‚ÄA‰´‚Í‚Ç‚¤Œ¾—t‚ğ‚©‚¯‚½‚ç‚¢‚¢‚©A‚Ü‚·‚Ü‚·‚í[r]
-‚©‚ç‚È‚­‚È‚Á‚Ä‚¢‚½B[pcms]
+Since Saeki started taking a shower, she finally started[r]crying, and I became even more unsure of what words to say.[pcms]
 
 *v2268|
 [fc]
 [vo_sa s="sae0494"]
-[ns]²”Œ[nse]
-u‚®‚·cc‚Ócc‚¤‚£ccv[pcms]
+[ns]Saeki[nse]
+*sob*... uhh... *sigh*...[pcms]
 
 *5454|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *5455|
 [fc]
-‚©‚¯‚éŒ¾—t‚ğŒ©‚Â‚¯‚ç‚ê‚È‚¢‚Ü‚ÜA—‡p‚ğŒ©‚È‚¢‚æ‚¤‚É[r]
-–Ú‚ğ•Â‚¶‚ÄA‰´‚Í²”Œ‚ªo‚Ä‚­‚é‚Ì‚ğ‘Ò‚Á‚½B[pcms]
+I closed my eyes, trying not to see Saeki's naked body, as I[r]waited for her to come out without finding the right words[r]to say.[pcms]
 
 *v2269|
 [fc]
 [vo_sa s="sae0495"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñcc‚»‚±‚ÉA‚¢‚Ü‚·‚æ‚Ëccv[pcms]
+[ns]Saeki[nse]
+Kato-san... You're there, right?[pcms]
 
 *5456|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ A‚¿‚á‚ñ‚Æ‚¢‚é‚æv[pcms]
+[ns]Kato[nse]
+Yeah, I'm here.[pcms]
 
 *5457|
 [fc]
-ƒgƒCƒŒ‚Ì‚Æ“¯‚¶‚æ‚¤‚ÉAˆêl‚Å‚¢‚é‹°•|‚ğ•´‚ç‚í‚¹‚é[r]
-‚½‚ß‚ÉA‰´‚Éº‚ğ‚©‚¯‚Ä‚¢‚é‚Ì‚©‚Æv‚Á‚½‚ªA²”Œ‚ÌŒ¾[r]
-—t‚É‚Í‘±‚«‚ª‚ ‚Á‚½B[pcms]
+I thought Saeki was calling out to me to distract herself[r]from the fear of being alone, just like when she was in the[r]bathroom, but there was more to Saeki's words.[pcms]
 
 *v2270|
 [fc]
 [vo_sa s="sae0496"]
-[ns]²”Œ[nse]
-u‚±‚ê‚©‚ç‚àA‚¸‚Á‚Æcc„‚Ì–T‚ÉA‚¢‚Ä‚­‚¾‚³‚¢cc[r]
-‚¨Šè‚¢ccv[pcms]
+[ns]Saeki[nse]
+Please... from now on, always be by my side...[l][er]
+I beg you...[pcms]
 
 *5458|
 [fc]
-—Ü‚Åk‚¦‚éº‚ÅŒ¾‚¤A“ñ“x–Ú‚Ì”’‚Æ‚àæ‚ê‚é²”Œ‚ÌŒ¾[r]
-—t‚ÉA‰´‚Ì‹¹‚Í’÷‚ß•t‚¯‚ç‚ê‚½‚æ‚¤‚É‹ê‚µ‚­‚È‚Á‚½B[pcms]
+Saeki's words, spoken with a trembling voice filled with[r]tears, could be interpreted as her second confession.[l][er]
+My chest tightened painfully in response.[pcms]
 
 *5459|
 [fc]
-•’i‚Æ‚Í‘S‚­ˆá‚¤ãX‚µ‚¢p‚ÉA©•ª‚Ì‚±‚Ìè‚Åç‚Á‚Ä[r]
-‚â‚è‚½‚¢‚Æl‚¦‚é’öA‰´‚Í²”Œ‚Éˆ¤‚µ‚³‚ğŠ´‚¶‚Ä‚¢‚½B[pcms]
+I felt a deep affection for Saeki, to the point where I[r]wanted to protect her with my own hands, seeing her in such[r]a vulnerable state that was completely different from her[r]usual self.[pcms]
 
 *v2271|
 [fc]
 [vo_sa s="sae0497"]
-[ns]²”Œ[nse]
-u‚£cc‚®‚·‚Ácc‚¤‚£ccv[pcms]
+[ns]Saeki[nse]
+*sob*... uhh... *sigh*...[pcms]
 
 *5460|
 [fc]
-‚·‚·‚è‹ƒ‚«‚È‚ª‚çA“š‚¦‚ğ‘Ò‚Â²”Œ‚ÉA‰´‚ÍccB[pcms]
+I... waited for Saeki, who was sobbing, for her response.[pcms]
 
 [if exp="tf.scene_mode == 1"][jump target=*SEL00_HOLD][endif]
 
-;//¦‘I‘ğˆ
-;//E—Í‹­‚­A²”Œ‚ÌŒ¾—t‚É“š‚¦‚½;//[05420]‚Ö
-;//E”G‚ê‚½²”Œ‚Ì‘Ì‚ğA—D‚µ‚­•ø‚«‚µ‚ß‚½;//[07180]‚Ö
+;//â€»é¸æŠè‚¢
+;//ãƒ»åŠ›å¼·ãã€ä½ä¼¯ã®è¨€è‘‰ã«ç­”ãˆãŸ;//[05420]ã¸
+;//ãƒ»æ¿¡ã‚ŒãŸä½ä¼¯ã®ä½“ã‚’ã€å„ªã—ãæŠ±ãã—ã‚ãŸ;//[07180]ã¸
 
 ;//<SltDel ALL>
-;//<SltAdd 0ƒJƒ“ƒ}SEL00_05410_ANSWERƒJƒ“ƒ}—Í‹­‚­A²”Œ‚ÌŒ¾—t‚É“š‚¦‚½>
-;//<SltAdd 1ƒJƒ“ƒ}SEL00_05410_HOLDƒJƒ“ƒ}”G‚ê‚½²”Œ‚Ì‘Ì‚ğA—D‚µ‚­•ø‚«‚µ‚ß‚½>
+;//<SltAdd 0ã‚«ãƒ³ãƒSEL00_05410_ANSWERã‚«ãƒ³ãƒåŠ›å¼·ãã€ä½ä¼¯ã®è¨€è‘‰ã«ç­”ãˆãŸ>
+;//<SltAdd 1ã‚«ãƒ³ãƒSEL00_05410_HOLDã‚«ãƒ³ãƒæ¿¡ã‚ŒãŸä½ä¼¯ã®ä½“ã‚’ã€å„ªã—ãæŠ±ãã—ã‚ãŸ>
 ;//<SltRun>
 
-*SEL01|—Í‹­‚­A²”Œ‚ÌŒ¾—t‚É“š‚¦‚½^”G‚ê‚½²”Œ‚Ì‘Ì‚ğA—D‚µ‚­•ø‚«‚µ‚ß‚½
+*SEL01|åŠ›å¼·ãã€ä½ä¼¯ã®è¨€è‘‰ã«ç­”ãˆãŸï¼æ¿¡ã‚ŒãŸä½ä¼¯ã®ä½“ã‚’ã€å„ªã—ãæŠ±ãã—ã‚ãŸ
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '—Í‹­‚­A²”Œ‚ÌŒ¾—t‚É“š‚¦‚½'"]
-[eval exp="f.seltext04 = '”G‚ê‚½²”Œ‚Ì‘Ì‚ğA—D‚µ‚­•ø‚«‚µ‚ß‚½'"]
+[eval exp="f.seltext02 = 'åŠ›å¼·ãã€ä½ä¼¯ã®è¨€è‘‰ã«ç­”ãˆãŸ'"]
+[eval exp="f.seltext04 = 'æ¿¡ã‚ŒãŸä½ä¼¯ã®ä½“ã‚’ã€å„ªã—ãæŠ±ãã—ã‚ãŸ'"]
 
 
-[if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
-	;‘I‘ğˆ“à—e‚ğƒoƒbƒNƒƒO‚É•\‹LB‰üsƒR[ƒh•K{B
+[if exp="tf.sys_sub == 0 || tf.é¸æŠè‚¢ãƒ­ã‚°è¡¨ç¤ºã—ã¦ã­ == 1"]
+	;é¸æŠè‚¢å†…å®¹ã‚’ãƒãƒƒã‚¯ãƒ­ã‚°ã«è¡¨è¨˜ã€‚æ”¹è¡Œã‚³ãƒ¼ãƒ‰å¿…é ˆã€‚
 	[sel_hisout txt="&f.seltext02"][hr]
 	[sel_hisout txt="&f.seltext04"][hr]
 [endif]
 [hr]
 
-[—š—ğo—Í•œ‹A]
+[å±¥æ­´å‡ºåŠ›å¾©å¸°]
 
-;‘I‘ğˆƒx[ƒX
+;é¸æŠè‚¢ãƒ™ãƒ¼ã‚¹
 [selbase]
-;•¶š‚Ì¶ƒ}[ƒWƒ“
+;æ–‡å­—ã®å·¦ãƒãƒ¼ã‚¸ãƒ³
 [eval exp="sf.seltext_x = 200"]
 
 [sel02 target=*SEL00_tika]

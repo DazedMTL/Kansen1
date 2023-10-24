@@ -1,20 +1,20 @@
 
-;//¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥
-;//¡ƒuƒƒbƒN0002Fw‹³º‚ÌƒNƒ‰ƒX‹³ºF“µ“oêx
-;//BG:‹³ºF’‹
-;//“oêl•¨GålŒöE“µE’|“à
+;//â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼
+;//â– ãƒ–ãƒ­ãƒƒã‚¯0002ï¼šã€æ•™å®¤ã®ã‚¯ãƒ©ã‚¹æ•™å®¤ï¼šç³ç™»å ´ã€
+;//BG:æ•™å®¤ï¼šæ˜¼
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»ç«¹å†…
 ;//
-;//¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥
+;//â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼
 *0002_TOP
-;[debug_win]‚È‚¤@0002[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0002 = 1"]
+;[debug_win]ãªã†ã€€0002[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0002 = 1"]
 
-;*SceneSet|w‹³º‚ÌƒNƒ‰ƒX‹³ºx
+;*SceneSet|ã€æ•™å®¤ã®ã‚¯ãƒ©ã‚¹æ•™å®¤ã€
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;//BG:bg010a
 
-;bg‚Æ‚Ü‚Æ‚ß‚Ä[backlay_c][chara_int]
+;bgã¨ã¾ã¨ã‚ã¦[backlay_c][chara_int]
 [bg storage="bg10a"]
 [trans_c cross time=500]
 
@@ -22,350 +22,317 @@
 
 *65|
 [fc]
-’S”C‚©‚ç‚µ‚Î‚ç‚­‚ÌŠÔA[r]
-‰Ä‹x‚İ’†‚Ìs“®‚ÉŠÖ‚·‚é’ˆÓ‚â‚çA‹ãŒ‚Ì[r]
-n‹Æ®‚Ì—\’è‚â‚ç‚ª‚‚ê—¬‚³‚ê‚ÄˆêŠwŠú‚ÍI‚í‚Á‚½B[pcms]
+The homeroom teacher kept bombarding us with reminders about[r]our summer vacation activities and the schedule for the[r]opening ceremony in September, and before we knew it, the[r]first semester had come to an end.[pcms]
 
 *66|
 [fc]
-‹A‚è‚Í“¹‘‚È‚ÇH‚í‚¸‚ÉA‚Ü‚Á‚·‚®‚¨‰Æ‚É‹A‚è‚È‚³‚¢B[pcms]
+On your way home, go straight back to your house without[r]stopping for any detours.[pcms]
 
 *67|
 [fc]
-‚Ü‚³‚©‚±‚ÌÎ‚É‚È‚Á‚ÄAw‚Ü‚Á‚·‚®‚¨‰Æ‚É‹A‚è‚È‚³‚¢x[r]
-‚È‚ñ‚ÄŒ¾‚í‚ê‚é‚Æv‚í‚È‚©‚Á‚½B[pcms]
+I never thought that at this age, I would be told to 'go[r]straight back home'.[pcms]
 
 *68|
 [fc]
-‰Æ‚É‹A‚é‚Ü‚Å‚ªI‹Æ®‚Å‚·A‚Á‚ÄH[r]
-‚»‚ñ‚È‚Ì—¥‹V‚Éç‚Á‚Ä‚éƒ„ƒc‚È‚ñ‚©ccB[pcms]
+So you're saying that 'until you get home is the end of the[r]school year ceremony'?[l][er]
+Who actually follows that kind of rule...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;//¦²”Œ
+;//â€»ä½ä¼¯
 *v13|
 [fc]
 [vo_sa s="sae0001"]
-[ns]—‚Ì‚±[nse]
-u‚İ‚È‚³‚ñAˆÏˆõ‰ï‚â•”Šˆ“®‚Ì‚È‚¢•û‚ÍA‘¬‚â‚©‚É[r]
-‰ºZ‚µ‚Ä‚­‚¾‚³‚¢B“¹‘‚È‚Ç‚µ‚Ä‚Í‚¢‚¯‚Ü‚¹‚ñ‚æB[r]
-‚È‚¨AÅŒã‚Ü‚Åccv[pcms]
+[ns]Girl[nse]
+Everyone who doesn't have committee meetings or club[r]activities, please go home promptly.[l][er]
+Don't dawdle along the way. Also, until the end...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *69|
 [fc]
-‚¢‚½‚æccB[pcms]
+I'm here...[pcms]
 
 *70|
 [fc]
-²”Œ“µBƒEƒ`‚Ì¶“k‰ïjãAÅ‚à”ül‚Ì¶“k‰ï’·—l‚ªB[pcms]
+Saeki Hitomi. The most beautiful student council president[r]in the history of our school.[pcms]
 
 *71|
 [fc]
-‚ ‚¢‚Â‚È‚çA–{“–‚É‚Ç‚±‚É‚àŠñ‚ç‚È‚¢‚ÅA[r]
-‚Ü‚Á‚·‚®‰Æ‚É‹A‚é‚ñ‚¾‚ë‚¤‚È[ccB[pcms]
+If it's her, she'll probably really go straight home without[r]stopping anywhere...[pcms]
 
 *72|
 [fc]
-‚È‚ñ‚ÆŒ¾‚Á‚Ä‚à²”Œ‚ÍA[r]
-¶“k‰ïjãÅ‚à”ül‚Ì‰ï’·‚Å‚ ‚é‚Æ“¯‚ÉA[r]
-¶“k‰ïjãÅ‚à‚¨Œ˜‚¢‰ï’·‚¾‚»‚¤‚¾‚©‚çB[pcms]
+Saeki is said to be not only the most beautiful student[r]council president in the history of our school, but also the[r]strictest.[pcms]
 
 *73|
 [fc]
-‚»‚Ì‚¹‚¢‚ÅA–J‚ß‚éE‚¯‚È‚·—¼•û‚ÌˆÓ–¡‚ÅA[r]
-w—’éx‚¾‚Ìw“S‚Ì—x‚¾‚Ì‚ÆŒ¾‚í‚ê‚Ä‚é‚í‚¯‚¾‚µB[pcms]
+That's why, because of that, she's called things like[r]Empress or Iron Lady, with meanings of both praise and[r]criticism.[pcms]
 
 *74|
 [fc]
-‚ ‚¢‚Â“Á—L‚Ì‘¼l‚ğŒ©‰º‚·‚æ‚¤‚È–Ú‚Â‚«‚Æ‚©A[r]
-ƒLƒcƒCŒ¾‚¢•û‚ğ’¼‚¹‚ÎA’jq‚É‚à—q‚É‚àA[r]
-‚à‚Á‚Æl‹C‚ªo‚é‚Ì‚ÉB‚à‚Á‚½‚¢‚È‚¢ccB[pcms]
+If she could just fix her unique habit of looking down on[r]others and her harsh way of speaking, she would become more[r]popular among both boys and girls.[l][er]
+It's a shame...[pcms]
 
 *75|
 [fc]
-²”Œ‚àA–Ù‚Á‚Ä‚¢‚ê‚Î‚©‚È‚è‚Ì”ül‚È‚ñ‚¾‚æ‚ÈA[r]
-Šm‚©‚ÉB[pcms]
+Saeki, if she stayed quiet, would definitely be quite[r]beautiful, indeed.[pcms]
 
 *76|
 [fc]
-²”Œ‚İ‚½‚¢‚È”ül‚ª‘Šè‚¾‚Á‚½‚çA—á‚¦‚Î‚Ç‚±‚©‚Ì[r]
-‚‹‰ƒŒƒXƒgƒ‰ƒ“‚ÅH–‚·‚éA‚Æ‚©‚¢‚Á‚½ƒf[ƒg‚à[r]
-ƒTƒ}‚É‚È‚é‚ñ‚¾‚ë‚¤‚©B[pcms]
+I wonder if a date like going to a fancy restaurant would be[r]fitting if I were with someone as beautiful as Saeki.[pcms]
 
 *77|
 [fc]
-‚½‚¾‚µA‰´‚¾‚¯€‚Ê‚Ù‚Ç•‚‚«‚»‚¤‚¾‚¯‚ÇB[pcms]
+However, I feel like I would be extremely nervous.[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std7|
 [fc]
-[ns]’|“à[nse]
-u‘×”VA‚±‚ÌŒã‚Ç‚¤‚·‚éH@‚È‚ñ‚©—\’è‚ ‚é‚ÌHv[pcms]
+[ns]Takeuchi[nse]
+Yasuyuki, what are you going to do after this?[l][er]
+Do you have any plans?[pcms]
 
 *78|
 [fc]
-‚»‚ñ‚È‰´‚Ì‚Æ‚è‚Æ‚ß‚à‚È‚¢l‚¦‚ÍA[r]
-^–ç‚Ìº‚ÅÄ‚ÑŒ»À‚Éˆø‚«–ß‚³‚ê‚½B[pcms]
+My aimless thoughts were brought back to reality by Shinya's[r]voice once again.[pcms]
 
 *79|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ñH@‚»‚¤‚¾‚È[cc‚Ç‚Á‚©‚Å‰½‚©H‚Á‚Ä‚­‚©v[pcms]
+[ns]Kato[nse]
+Hm? Well... I guess I'll grab something to eat somewhere.[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_a_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std8|
 [fc]
-[ns]’|“à[nse]
-u‚¶‚áƒ{ƒN‚ñ‚¿—ˆ‚È‚¢H@ƒlƒbƒg‚ÅV‚µ‚¢‚c‚u‚c”ƒ‚Á‚½[r]
-‚ñ‚¾B‚¦‚Á‚Ö‚Á‚ÖccAƒ‚ƒU–³‚µ‚Ìƒ„ƒcI@‚¢‚¢‚¾‚ëv[pcms]
+[ns]Takeuchi[nse]
+How about coming to my place? I bought a new DVD online.[l][er]
+Hehe... it's the uncensored version![l][er]
+It's good, right?[pcms]
 
 *80|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ü‚½‚»‚ê‚©ccB–{“–‚ÉD‚«‚¾‚ÈA‚¨‘Ov[pcms]
+[ns]Kato[nse]
+There you go again... You really like that, don't you?[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std9|
 [fc]
-[ns]’|“à[nse]
-u‚Ü‚½‚Á‚Ä‰½‚¾‚æ‚§A‘×”V‚¾‚Á‚ÄD‚«‚¶‚á‚ñv[pcms]
+[ns]Takeuchi[nse]
+What do you mean 'again'? You like it too, don't you,[r]Yasuyuki?[pcms]
 
 *81|
 [fc]
-[ns]‰Á“¡[nse]
-ucc‚Ü‚ŸAŒ’N‚È’j‚Æ‚µ‚Ä‚Í‚¾‚Èv[pcms]
+[ns]Kato[nse]
+Well, as a healthy man...[pcms]
 
 *82|
 [fc]
-Œ¨‚ğ‘g‚ñ‚Å’@‚«‡‚Á‚ÄA•i‚Ì–³‚¢Î‚¢‚ğ‚‚ê—¬‚µ‚Ä‚¢‚½[r]
-‰´’B‚ÍA”wŒã‚©‚ç”—‚é—â‚½‚­d‚¢ƒvƒŒƒbƒVƒƒ[‚ğŠ´‚¶‚Ä[r]
-ŒÅ‚Ü‚Á‚½B[pcms]
+We were leaning against each other, playfully hitting each[r]other's shoulders and laughing without any sense of decorum,[r]when we suddenly felt a cold and heavy pressure approaching[r]from behind, causing us to freeze in place.[pcms]
 
-;//¦²”Œ
+;//â€»ä½ä¼¯
 *v14|
 [fc]
 [vo_sa s="sae0002"]
-[ns]—‚Ì‚±[nse]
-u’á‘­‚È˜b‚Å‚¨Šy‚µ‚İ’†A\‚µ–ó‚ ‚è‚Ü‚¹‚ñ‚¯‚ê‚Çv[pcms]
+[ns]Girl[nse]
+I apologize for enjoying myself with vulgar talk.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//¦ŠG–³‚µ
+;//â€»çµµç„¡ã—
 
 *83|
 [fc]
-‚Ü‚é‚Å”w’†‚Ée‚©n•¨‚Å‚à[r]
-“Ë‚«‚Â‚¯‚ç‚ê‚Ä‚¢‚é‚©‚Ì‚æ‚¤‚ÈA“Æ“Á‚Èdˆ³Š´B[pcms]
+It was a unique sense of heavy pressure, as if there was a[r]gun or a knife pressed against our backs.[pcms]
 
 *84|
 [fc]
-U‚èŒü‚¢‚½æ‚ÅA‚ ‚Ì—â‚½‚¢–Ú‚ª‘Ò‚Á‚Ä‚¢‚é‚±‚Æ‚ğ[r]
-—\‘z‚µ‚È‚ª‚çA‰´’B‚Í‚»‚Ìº‚Ìå‚Ì•û‚Ö‚ÆA[r]
-‹°‚é‹°‚éU‚èŒü‚¢‚½B[pcms]
+We turned around, anticipating that those cold eyes were[r]waiting for us, and cautiously looked towards the source of[r]the voice.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
-;//¦²”Œ
+;ç«‹ã¡
+;//â€»ä½ä¼¯
 *v15|
 [fc]
 [vo_sa s="sae0003"]
-[ns]—‚Ì‚±[nse]
-u¡“ú‚ÍI‹Æ®‚Æ‚Í‚¢‚¦A‹³º‚Ì‘|œ‚Í•½í’Ê‚ès‚í‚ê[r]
-‚é‚Ì‚Å‚·B“–”Ô‚Ì‚ ‚È‚½•û‚ÉƒTƒ{‚ç‚ê‚Ä‚ÍA[r]
-‘¼‚Ìl‚ª–À˜f‚·‚é‚Ì‚Å‚·‚æHv[pcms]
+[ns]Girl[nse]
+Even though it's the end of the school year, classroom[r]cleaning is still done as usual.[l][er]
+If you, who are on duty, slack off, it will inconvenience[r]others, you know?[pcms]
 
 *85|
 [fc]
-v‚Á‚½’Ê‚è‚Ì–Ú‚ÅU‚èŒü‚¢‚½‰´’B‚ğŒ}‚¦‚½‚Ì‚ÍA[r]
-—’é‚Ì—_‚ê‚à‚‚¢“–Šw‰€‚Ì¶“k‰ï’·A²”Œ‚¾‚Á‚½B[pcms]
+We turned around as expected, and the one who greeted us[r]with eyes full of authority was Saeki, the student council[r]president who was highly respected as the empress of our[r]school.[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="take_a_d_09"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std11|
 [fc]
-[ns]’|“à[nse]
-u“–”ÔIH@‚¿‚å‚Á‚Æ‘Ò‚Á‚Ä‚æ“µA[r]
-ƒ{ƒN‚½‚¿‚¢‚Â‚©‚ç‘|œ“–”Ô‚É‚È‚Á‚½‚ÌHv[pcms]
+[ns]Takeuchi[nse]
+Duty!? Wait a minute, Hitomi. Since when did we become the[r]cleaning duty?[pcms]
 
 *86|
 [fc]
-ƒgƒ{‚¯‚½•\î‚Å‚»‚¤Œ¾‚¤^–ç‚ÉA[r]
-‚µ‚©‚ß‚½Šç‚ğ‚³‚ç‚ÉŒ¯‚µ‚­‚µ‚ÄA[r]
-²”Œ‚Í“{‚è‚Ì‚±‚à‚Á‚½º‚ğ‚ä‚Á‚­‚è‚Æ“f‚«o‚µ‚½B[pcms]
+Saeki, with a stern expression on her face, furrowed her[r]brows even more at Takeuchi's foolish remark, and slowly let[r]out a voice filled with anger.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v16|
 [fc]
 [vo_sa s="sae0004"]
-[ns]²”Œ[nse]
-u‹CˆÀ‚­‰º‚Ì–¼‘O‚ÅŒÄ‚Î‚È‚¢‚Å‚¢‚½‚¾‚¯‚Ü‚¹‚ñ‚©H[r]
-‰˜‚ç‚í‚µ‚¢ccv[pcms]
+[ns]Saeki[nse]
+Could you please refrain from calling me by my first name so[r]casually?[l][er]
+It's vulgar...[pcms]
 
 *87|
 [fc]
-Œû‚ğ•Â‚¶‚½Œã‚Å‚àA[r]
-ŠwZ’†‚Ì‹ó‹C‚ª“€‚è‚Â‚¢‚Ä‚µ‚Ü‚¤‚©‚Ì‚æ‚¤‚ÈŠá·‚µ‚ğA[r]
-²”Œ‚Í^–ç‚É‘—‚è‘±‚¯‚Ä‚¢‚éB[pcms]
+Saeki continues to send a gaze that freezes the air[r]throughout the school, even after closing her mouth,[r]directed at Shinya.[pcms]
 
 *88|
 [fc]
-ô‚¢‚Å‚à‚©‚¯‚é‚Â‚à‚è‚©A‚±‚¢‚Â‚ÍccB[pcms]
+Is she planning to curse us...?[pcms]
 
 *89|
 [fc]
-ƒwƒr‚ÉáÉ‚Ü‚ê‚½ƒJƒGƒ‹‚Ì‚æ‚¤‚É‚È‚Á‚Ä‚¢‚é^–ç‚©‚çA[r]
-‚Ç‚¤‚É‚©²”Œ‚Ì‹C‚ğˆí‚ç‚»‚¤‚ÆA‰´‚ÍR‹c‚ğ‘±‚¯‚½B[pcms]
+From Shinya, who was like a frog being stared at by a snake,[r]I continued to protest in order to somehow divert Saeki's[r]attention.[pcms]
 
 *90|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨‚¢²”ŒA‚¢‚­‚ç‰ºƒlƒ^Œ™‚¢‚¾‚©‚ç‚Á‚ÄA[r]
-‘|œ‚³‚¹‚é‚È‚ñ‚Ä‚â‚è‰ß‚¬‚¶‚á‚Ë[‚Ì‚©Hv[pcms]
+[ns]Kato[nse]
+Hey Saeki, isn't it going a bit too far to make us clean[r]just because you hate dirty jokes?[pcms]
 
 *91|
 [fc]
-²”Œ‚Í^–ç‚©‚ç‹ü‚ğŠO‚µA[r]
-Œy‚­‚½‚ß‘§‚ğ‚Â‚¢‚Ä‰´‚Ì•û‚ÖŒü‚«’¼‚Á‚½B[pcms]
+Saeki turned her gaze away from Shinya and let out a small[r]sigh before turning towards me.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v17|
 [fc]
 [vo_sa s="sae0005"]
-[ns]²”Œ[nse]
-u„‚ÌŒ¾—t‚ğ•·‚¢‚Ä‚¢‚ç‚Á‚µ‚á‚ç‚È‚©‚Á‚½‚ñ‚Å‚·‚©H[r]
-ÅŒã‚Ü‚Å‹³º‚Éc‚Á‚Ä‚¢‚½l‚É‚Í‘|œ‚ğ‚µ‚Ä‚à‚ç‚¤‚ÆA[r]
-‚³‚«‚Ù‚Çw‘å‚«‚Èº‚ÅxA‚¨’m‚ç‚¹‚µ‚½‚Í‚¸‚Å‚·v[pcms]
+[ns]Saeki[nse]
+Did you not listen to what I said?[l][er]
+I just announced loudly a while ago that those who stayed[r]until the end in the classroom would have to clean.[pcms]
 
 *92|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤‚ÍŒ¾‚Á‚Ä‚à‚¨‘OA[r]
-Œ±‹x‚İ‚Å’N‚àg‚Á‚Ä‚È‚©‚Á‚½‚ñ‚¾‚ºH[r]
-ƒSƒ~‚È‚ñ‚©‚Ë[‚Á‚Äv[pcms]
+[ns]Kato[nse]
+Even so, you know, no one has been using it during the exam[r]break, right?[l][er]
+There's no trash or anything.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v18|
 [fc]
 [vo_sa s="sae0006"]
-[ns]²”Œ[nse]
-u‘|œ‚ğI‚í‚ç‚¹‚È‚¯‚ê‚ÎA[r]
-‚¢‚Â‚Ü‚Å‚½‚Á‚Ä‚à‹A‚ê‚Ü‚¹‚ñ‚í‚æHv[pcms]
+[ns]Saeki[nse]
+If you don't finish cleaning, you won't be able to go home[r]no matter how long it takes, you know?[pcms]
 
 *93|
 [fc]
-²”Œ‚Ì—L–³‚ğŒ¾‚í‚¹‚È‚¢Œû’²‚ÉŠó–]‚ğ¸‚¢‚©‚¯‚½‚Æ‚«A[r]
-“V‚Ìº‚ª‰´‚½‚¿‚Ì“ªã‚©‚ç~‚è’‚¢‚¾B[pcms]
+When we were starting to lose hope in the tone that didn't[r]allow us to question Saeki, a heavenly voice descended upon[r]us from above.[pcms]
 
-;//ôFBGM01ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM01ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 [fadeoutbgm time=500]
 
-;//SE:Z“à•ú‘—ƒ`ƒƒƒCƒ€
+;//SE:æ ¡å†…æ”¾é€ãƒãƒ£ã‚¤ãƒ 
 [overflow_se storage="se004"]
 
 *94|
 [fc]
-[ns]Z“à•ú‘—[nse]
-u‰f‰æŒ¤‹†•”‚Ì•”ˆõ‚ÌŠF‚³‚ñAV“¹æ¶‚ª‚¨ŒÄ‚Ñ‚Å‚·B[r]
-Š‹}A—‰È€”õº‚ÉW‚Ü‚Á‚Ä‚­‚¾‚³‚¢B[r]
-ŒJ‚è•Ô‚µ‚Ü‚·ccv[pcms]
+[ns]School Announcement[nse]
+Attention members of the Film Research Club, please gather[r]in the science preparation room immediately.[l][er]
+I repeat...[pcms]
 
-;//ôFBGM01ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM01ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 [bgm001]
 
 *95|
 [fc]
-[ns]‰Á“¡[nse]
-u•‚©‚Á‚½I@s‚±‚¤‚º^–çIv[pcms]
+[ns]Kato[nse]
+Thank goodness! Let's go, Shinya![pcms]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
 [stop_overflow_se]
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 [se0 storage="se005"]
 
-;—§‚¿
+;ç«‹ã¡
 *std12|
 [fc]
-[ns]’|“à[nse]
-uƒIƒbƒP[Iv[pcms]
+[ns]Takeuchi[nse]
+Okay![pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v19|
 [fc]
 [vo_sa s="sae0007"]
-[ns]²”Œ[nse]
-u‚¿‚åA‚¿‚å‚Á‚Æ‚¨‘Ò‚¿‚È‚³‚¢Iv[pcms]
+[ns]Saeki[nse]
+W-Wait a minute![pcms]
 
 *96|
 [fc]
-[ns]‰Á“¡[nse]
-u²”ŒII@‚¨‘O‚à•”ˆõ‚¾‚ëA‘‚­—ˆ‚¢‚æB[r]
-‘|œ‚È‚ñ‚©‚µ‚Ä‚½‚çAV“¹æ¶‚É“{‚ç‚ê‚é‚¼v[pcms]
+[ns]Kato[nse]
+Saeki!! You're a member too, right?[l][er]
+Hurry up and come. If you're cleaning, Shindou-sensei will[r]get mad.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v20|
 [fc]
 [vo_sa s="sae0008"]
-[ns]²”Œ[nse]
-u‚¨cc‚¨‘Ò‚¿‚È‚³‚¢ƒbII[r]
-‚»‚ê‚àd—v‚Å‚·‚¯‚ÇI@‘|œ‚àccI@‘Ò‚¿‚È‚³‚¢I[r]
-l‚Ì˜b‚ğ•·‚«‚È‚³‚¢‚Á‚Ä‚ÎIIv[pcms]
+[ns]Saeki[nse]
+W-Wait a minute!! That's important too![l][er]
+Cleaning...! Wait! Listen to what people are saying!![pcms]
 
 *97|
 [fc]
-²”Œ‚ª‰½‚©‚í‚ß‚¢‚Ä‚¢‚éº‚ğ”w’†‚Éó‚¯‚È‚ª‚çA[r]
-‰´‚Æ^–ç‚Í‘–‚èo‚µ‚½B[pcms]
+While receiving the sound of Saeki shouting something from[r]behind, Shinya and I started running.[pcms]
 
-;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 [jump target=*0003_TOP storage="0003.ks"]
 

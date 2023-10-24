@@ -1,16 +1,16 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN03027wˆ«–²x
-;//BG:—qƒgƒCƒŒF–éFÁ“”
-;//“oêl•¨G“µE’|“à
-;//Y’|“à‹“_
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯03027ã€æ‚ªå¤¢ã€
+;//BG:å¥³å­ãƒˆã‚¤ãƒ¬ï¼šå¤œï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ç³ãƒ»ç«¹å†…
+;//ã€†ç«¹å†…è¦–ç‚¹
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *03027_H_TOP
-;[debug_win]‚È‚¤@03027_H[debug_win_end]
+;[debug_win]ãªã†ã€€03027_H[debug_win_end]
 
 [eval exp="sf.SRP13 = 1"][if exp="tf.scene_mode == 0"][jump target=*03027_H][endif]
 ;;[winset]
@@ -18,11 +18,11 @@
 [jump target=*scene_start]
 
 *03027_H
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_03027 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_03027 = 1"]
 
-;*SceneSet|wˆ«–²x
+;*SceneSet|ã€æ‚ªå¤¢ã€
 
-;//ôFBGM003
+;//â™ªï¼šBGM003
 *scene_start
 
 ;//H_CG
@@ -35,91 +35,83 @@
 
 *3501|
 [fc]
-[ns]’|“à[nse]
-uccv[pcms]
+[ns]Takeuchi[nse]
+â€¦â€¦[l][er]
 
 *3502|
 [fc]
-‚Ù‚ñ‚Æ‚É‚â‚é‚ÌccH[r]
-‚Ğ‚Æ‚İ‚Í‚½‚¾A‚¤‚¿‚É‚©‚¦‚ë‚¤‚Æ‚µ‚Ä‚½‚¾‚¯‚©‚à‚µ‚ê‚È[r]
-‚¢‚Ì‚ÉccB[pcms]
+Are you really going to do it...?[l][er]
+Hitomi might have just been trying to come back home...[pcms]
 
 *3503|
 [fc]
-‚Å‚àA‚¢‚ÜA‚Ğ‚Æ‚İ‚ğ‚ê‚¢‚Õ‚µ‚È‚«‚áA‚Ú‚­‚ªcc‚Ú‚­[r]
-‚Ì‚¿‚ñ‚±‚ªA‚¸‚Á‚Æ‚Ú‚Á‚«‚µ‚½‚Ü‚ñ‚Ü‚ÅA‚½‚¢‚Ö‚ñ‚È‚±[r]
-‚Æ‚É‚È‚é‚ñ‚¾ccB[pcms]
+But, right now, if I don't release Hitomi...[l][er]
+my penis will stay erect the whole time and it will become a[r]difficult situation...[pcms]
 
 *3504|
 [fc]
-’É‚­‚È‚é‚®‚ç‚¢ƒ{ƒbƒL‚µ‚Ä‚éƒ`ƒ“ƒR‚ğAŒ³’Ê‚è‚É‚·‚é‚½[r]
-‚ß‚É‚ÍA“µ‚ğƒŒƒCƒv‚µ‚ÄA—­‚Ü‚Á‚½ƒU[ƒƒ“‚ğo‚³‚È‚¢[r]
-‚Æ‚È‚ç‚È‚¢B[pcms]
+In order to return my painfully erect penis back to normal,[r]I have to rape Hitomi and release the built-up semen.[pcms]
 
 *3505|
 [fc]
-[ns]’|“à[nse]
-ucc‚¤‚¤‚ñA‚¿‚ª‚¤cc‚»‚¤‚¶‚á‚È‚¢‚æccv[pcms]
+[ns]Takeuchi[nse]
+... No, that's not it... It's not like that...[pcms]
 
 *3506|
 [fc]
-‚»‚¤‚¾‚Á‚½cc‚¿‚ñ‚±‚Ì‚½‚ß‚¶‚á‚È‚©‚Á‚½B[r]
-‚Ú‚­‚ª‚µ‚½‚±‚Æ‚ªA‚İ‚ñ‚È‚É‚Î‚ê‚È‚¢‚æ‚¤‚ÉA‚Ğ‚Æ‚İ‚É[r]
-‚­‚¿‚Ó‚¤‚¶‚·‚é‚½‚ß‚¾‚Á‚½ccB[pcms]
+That's right... It wasn't for the sake of my penis.[l][er]
+The reason I did what I did was to keep it a secret from[r]everyone and silence Hitomi...[pcms]
 
 *3507|
 [fc]
-‚Ğ‚Æ‚İ‚Ì‚¹‚¢‚ÅA‚Ú‚­‚Ì‚¶‚ñ‚¹‚¢‚ª‚¨‚©‚µ‚­‚È‚ë‚¤‚Æ‚µ[r]
-‚Ä‚é‚ñ‚¾‚©‚çA‚±‚¢‚Â‚É‚¹‚«‚É‚ñ‚ğ‚Æ‚Á‚Ä‚à‚ç‚í‚È‚¢‚Æ[r]
-‚ËccB[pcms]
+Because of Hitomi, my life is about to become messed up, so[r]I have to hold her responsible for it...[pcms]
 
 *3508|
 [fc]
-‚Å‚àA‚¹‚Á‚©‚­‚â‚é‚È‚çA‚Ğ‚Æ‚İ‚Ì‚¨‚Ü‚ñ‚±‚Ì‚«‚à‚¿‚æ[r]
-‚³‚ğA‚±‚ñ‚Ç‚Í‚à‚Á‚Æ‚È‚ª‚­A‚ ‚¶‚í‚í‚È‚«‚áccB[pcms]
+But if I'm going to do it, this time I have to savor the[r]pleasure of Hitomi's pussy for even longer...[pcms]
 
 *3509|
 [fc]
-[ns]’|“à[nse]
-ucc‚¾‚©‚çcc‚»‚¤‚¢‚¤‚±‚Æ‚¶‚áA‚È‚¢‚Á‚Ä‚Îccv[pcms]
+[ns]Takeuchi[nse]
+... That's why... I mean, it's not like that...[pcms]
 
 *3510|
 [fc]
-‚È‚ñ‚©A‚à‚¤cc‚¶‚Ô‚ñ‚ª‚È‚É‚©‚ñ‚ª‚¦‚Ä‚é‚Ì‚©A‚í‚©[r]
-‚ç‚È‚­‚È‚Á‚Ä‚«‚½ccB[pcms]
+Somehow, I... I've started to lose sight of what I'm[r]thinking...[pcms]
 
 *3511|
 [fc]
-[ns]’|“à[nse]
-u‚Ü‚ŸA‚¢‚Á‚©ccv[pcms]
+[ns]Takeuchi[nse]
+Well, I guess it's fine...[pcms]
 
 *3512|
 [fc]
-‚Ç‚Á‚¿‚É‚µ‚ëA‚Ğ‚Æ‚İ‚ğ‚ê‚¢‚Õ‚·‚é‚ñ‚¾cc‚«‚à‚¿‚æ‚­[r]
-‚È‚é‚È‚çA‚Í‚â‚¢‚Ù‚¤‚ª‚¢‚¢‚æ‚ËccB[pcms]
+Either way, I'm going to rape Hitomi...[l][er]
+If it feels good, it's better to do it sooner, right?[pcms]
 
 *3513|
 [fc]
-[ns]’|“à[nse]
-uƒnƒ@ccƒnƒ@ccv[pcms]
+[ns]Takeuchi[nse]
+*Heavy breathing*[l][er]
 
 *3514|
 [fc]
-‚È‚©‚È‚©cc‚¨‚ë‚¹‚È‚¢‚Ècc‚±‚ÌƒXƒgƒbƒLƒ“ƒOccB[r]
-‚¢‚¢‚âA‚à‚¤cc‚â‚Ô‚Á‚¿‚á‚¦ccB[pcms]
+It's quite... hard to take off...[l][er]
+these stockings... No, it's fine...[l][er]
+I'll just rip them apart...[pcms]
 
 *3515|
 [fc]
-[ns]’|“à[nse]
-u‚­‚Ácc‚±‚Ì‚ÁccIv[pcms]
+[ns]Takeuchi[nse]
+Kuh... This...![pcms]
 
 *v1363|
 [fc]
 [vo_sa s="sae0147"]
-[ns]²”Œ[nse]
-u‚ñcc‚ñ‚£ccv[pcms]
+[ns]Saeki[nse]
+Mmm... Nngh...[pcms]
 
-;//SE:•‚Ì”j‚ê‚é‰¹
+;//SE:æœã®ç ´ã‚Œã‚‹éŸ³
 
 [se0 storage="se006"]
 
@@ -134,29 +126,26 @@
 
 *3516|
 [fc]
-ƒXƒgƒbƒLƒ“ƒO‚ğƒ€ƒŠƒ„ƒŠ”j‚ë‚¤‚Æ‚µ‚ÄA‘Ì‚ğ—h‚ç‚µ‚½‚¹[r]
-‚¢‚©A“µ‚ª–Ú‚ğŠo‚Ü‚µ‚Ä‚µ‚Ü‚Á‚½B[pcms]
+Hitomi woke up because I was trying to forcefully tear off[r]her stockings and my movements caused her body to shake.[pcms]
 
 *3517|
 [fc]
-[ns]’|“à[nse]
-u‚ ccv[pcms]
+[ns]Takeuchi[nse]
+Ah...[pcms]
 
 *v1364|
 [fc]
 [vo_sa s="sae0148"]
-[ns]²”Œ[nse]
-uccIIv[pcms]
+[ns]Saeki[nse]
+...!![pcms]
 
 *3518|
 [fc]
-‘§‚ğ‹z‚¢‚Ş‚Ì‚ª‚í‚©‚Á‚½‚©‚çAƒ{ƒN‚ÍQ‚Ä‚Ä“µ‚ÌŒû‚ğ[r]
-è‚Å‰Ÿ‚³‚¦‚½B[pcms]
+I realized she was about to take a breath, so I hurriedly[r]covered Hitomi's mouth with my hand.[pcms]
 
 *3519|
 [fc]
-‚¨‚¨‚«‚È‚±‚¦‚¾‚³‚ê‚ÄA‚â‚·‚ä‚«‚½‚¿‚ª‚¨‚«‚Ä‚«‚½‚çA[r]
-‚Ú‚­‚Í‚¨‚µ‚Ü‚¢‚¾ccB[pcms]
+If they wake up because of the loud noise, I'm done for...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -170,31 +159,29 @@
 *v1365|
 [fc]
 [vo_sa s="sae0149"]
-[ns]²”Œ[nse]
-u‚ñ‚Ş‚Ácc‚ñ‚¤‚£‚Áccv[pcms]
+[ns]Saeki[nse]
+Mmm... Nngh...[pcms]
 
 *3520|
 [fc]
-“µ‚ª–\‚êo‚³‚È‚¢‚¤‚¿‚ÉAƒ{ƒN‚Íƒpƒ“ƒeƒB[‚Éè‚ğ‚©‚¯[r]
-‚ÄAv‚¢‚Á‚«‚èˆø‚Á’£‚Á‚Äˆø‚«‚¿‚¬‚Á‚½B[pcms]
+I put my hand on her panties and pulled them forcefully,[r]tearing them off before Hitomi could start struggling.[pcms]
 
 *v1366|
 [fc]
 [vo_sa s="sae0150"]
-[ns]²”Œ[nse]
-u‚ñ‚¤‚£‚ÁIv[pcms]
+[ns]Saeki[nse]
+Mmm... Ahh![pcms]
 
 *3521|
 [fc]
-[ns]’|“à[nse]
-uƒnƒ@ƒbccƒnƒ@ƒbccv[pcms]
+[ns]Takeuchi[nse]
+*panting*... *panting*...[pcms]
 
 *3522|
 [fc]
-‚à‚¤‚·‚®‚¾ccB[r]
-‚à‚¤‚·‚®A‚Ü‚½‚¨‚Ü‚ñ‚±‚Ì‚«‚à‚¿‚æ‚³‚ğA‚ ‚¶‚í‚¦‚éI[pcms]
+It's almost time... Soon, I'll be able to taste the pleasure[r]of your pussy again![pcms]
 
-;//SE:‘}“ü
+;//SE:æŒ¿å…¥
 
 [se0 storage="se058"]
 
@@ -213,28 +200,26 @@
 
 *3523|
 [fc]
-‘O‚Æˆá‚Á‚ÄA“ü‚ê‚éŠ‚Í‚í‚©‚Á‚Ä‚¢‚½‚©‚çA¡“x‚Í‚·‚ñ[r]
-‚È‚è‚Æƒ`ƒ“ƒR‚ğ‚¢‚ê‚é‚±‚Æ‚ª‚Å‚«‚½B[pcms]
+Unlike before, since I knew where to put it, this time I was[r]able to smoothly insert my penis.[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
 
 [se0 storage="se059"]
 
 *v1367|
 [fc]
 [vo_sa s="sae0151"]
-[ns]²”Œ[nse]
-u‚ñ‚¤J‚£‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Nnghh!![pcms]
 
 *3524|
 [fc]
-[ns]’|“à[nse]
-u‚¤‚Í‚Ÿ````ccv[pcms]
+[ns]Takeuchi[nse]
+Uhaaaa~...[pcms]
 
 *3525|
 [fc]
-‚±‚ê‚¾‚Ÿcc‚±‚Ì‚©‚ñ‚µ‚å‚­ccB[r]
-‚â‚Á‚Ï‚ècc‚¨‚Ü‚ñ‚±‚É‚¢‚ê‚é‚Ìcc‚«‚à‚¿‚¢‚¢II[pcms]
+This... this sensation... It feels so good to put it in your[r]pussy after all!![pcms]
 
 ;//redflash
 
@@ -245,184 +230,176 @@
 
 *3526|
 [fc]
-[ns]’|“à[nse]
-uƒCƒe‚ÁIIv[pcms]
+[ns]Takeuchi[nse]
+Ouch!![pcms]
 
 *3527|
 [fc]
-‚©‚Ü‚ê‚½II@‚Ú‚­‚Ì‚Ä‚ªA‚©‚Ü‚ê‚½II[r]
-‚­‚»‚Ácc‚È‚ñ‚Ä‚±‚Æ‚·‚é‚ñ‚¾II[pcms]
+I was bitten!! My hand, it was bitten!![l][er]
+Damn it... Why would you do something like that!![pcms]
 
 *3528|
 [fc]
-[ns]’|“à[nse]
-u‚¾A‚¾‚ß‚¾‚æcc‚¨‚Ü‚¦‚ªcc‚¨‚Ü‚¦‚ª‚í‚é‚¢‚ñ‚¾‚©[r]
-‚çcc‚¨‚Æ‚È‚µ‚­‚µ‚Ä‚ë‚æcc‚¨‚Ü‚¦‚ª‚í‚é‚¢‚ñ‚¾‚©‚ç[r]
-ccv[pcms]
+[ns]Takeuchi[nse]
+N-No... It's no good... It's because you...[l][er]
+It's because you're being naughty...[l][er]
+Just behave yourself... It's because you're being naughty...[pcms]
 
-;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
 
 [se0 storage="se061" loop=true]
 
 *v1368|
 [fc]
 [vo_sa s="sae0152"]
-[ns]²”Œ[nse]
-u‚Í‚ ‚ÁI@‚Í‚ ‚Á‚ÁII@‚½A‚½‚¯‚¤cc‚ñ‚ÁI@‚¤[r]
-‚£‚Áccv[pcms]
+[ns]Saeki[nse]
+Haa! Haaa!! Takeu... ngh! Ughh...[pcms]
 
 *3529|
 [fc]
-‚í‚é‚¢‚Ì‚ÍA‚Ú‚­‚¶‚á‚È‚­‚Ä‚Ğ‚Æ‚İ‚È‚ñ‚¾ccB‚Ğ‚Æ‚İ[r]
-‚Í‚Ú‚­‚Ì‚¢‚¤‚±‚Æ‚«‚©‚È‚«‚á‚¢‚¯‚È‚¢‚ñ‚¾ccB[pcms]
+It's not my fault, it's Hitomi's fault...[l][er]
+Hitomi has to listen to what I say...[pcms]
 
 *v1369|
 [fc]
 [vo_sa s="sae0153"]
-[ns]²”Œ[nse]
-u‚ñ‚¤‚ÁII@‚ñ‚ŞJ‚£‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Nnghh!! Ughh!![pcms]
 
 *3530|
 [fc]
-[ns]’|“à[nse]
-u‚Í[‚Ácc‚Í[‚Áccv[pcms]
+[ns]Takeuchi[nse]
+Haa... haa...[pcms]
 
 *v1370|
 [fc]
 [vo_sa s="sae0154"]
-[ns]²”Œ[nse]
-u‚ñ‚ñJ‚ÁII@‚ñJ‚¤‚£‚ÁII@‚Ó‚ŞJ‚£‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Nnghh!! Nguuhh!! Fumuhh!![pcms]
 
 *3531|
 [fc]
-‚Ğ‚Æ‚İ‚Ì‚¨‚Ü‚ñ‚±ccB‚«‚à‚¿‚¢‚¢ccB‚±‚µ‚ª‚©‚Á‚Ä[r]
-‚É‚¤‚²‚­ccB[pcms]
+Hitomi's pussy... feels good...[l][er]
+It's moving on its own...[pcms]
 
 *3532|
 [fc]
-[ns]’|“à[nse]
-u‚ ‚Ÿ``cc‚½‚Ü‚ñ‚È‚¢‚æ‚§cc‚¿‚ñ‚±‚ª‚Ÿcc‚¿‚ñ[r]
-‚±A‚«‚à‚¿‚æ‚·‚¬‚é‚£``ccv[pcms]
+[ns]Takeuchi[nse]
+Ahh... it feels so good... my dick...[l][er]
+my dick feels too good...[pcms]
 
 *v1371|
 [fc]
 [vo_sa s="sae0155"]
-[ns]²”Œ[nse]
-u‚ñJ‚ÁA‚ñ‚®‚£‚ÁII@‚ñ‚¤J‚£‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Nghh... Nguuhh!! Nuuuhh!![pcms]
 
 *3533|
 [fc]
-‚»‚¤‚¾ccB[r]
-‚­‚¿‚Ó‚¤‚¶‚àA‚¿‚á‚ñ‚Æ‚â‚Á‚Æ‚©‚È‚¢‚Æ‚ÈccB[pcms]
+That's right... I need to make sure to keep my mouth shut...[pcms]
 
 *v1372|
 [fc]
 [vo_sa s="sae0156"]
-[ns]²”Œ[nse]
-u‚ñ‚ŞJ‚£‚ÁII@‚ñJ‚ÁA‚Ş‚®‚¤‚£‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Nguuhh!! Nguhh, muguuu!![pcms]
 
 *3534|
 [fc]
-[ns]’|“à[nse]
-u‚¢‚¤‚È‚æcc‚¾‚ê‚É‚à‚¢‚¤‚È‚æcc‚à‚µ‚¾‚ê‚©‚É‚¢‚Á[r]
-‚½‚çA‚»‚Ì‚Æ‚«‚Í‚Ç‚¤‚È‚é‚©A‚í‚©‚Á‚Ä‚é‚æ‚ÈccHv[pcms]
+[ns]Takeuchi[nse]
+Don't say it... Don't tell anyone...[l][er]
+If you were to say it to someone, do you understand what[r]would happen then...?[pcms]
 
 *v1373|
 [fc]
 [vo_sa s="sae0157"]
-[ns]²”Œ[nse]
-u‚ñJ‚Ácc‚ñ‚¤J‚Áccv[pcms]
+[ns]Saeki[nse]
+Nnghh... Nguuhh...[pcms]
 
 *3535|
 [fc]
-‰ó‚ê‚½lŒ`‚İ‚½‚¢‚ÉA‰½“x‚à‰½“x‚à‚¤‚È‚¸‚­‚Ì‚ğŒ©‚ÄA[r]
-ƒ{ƒN‚Í“µ‚ğŠ®‘S‚Éx”z‚µ‚½‹C•ª‚É‚È‚Á‚ÄA‚±‚¢‚Â‚ğƒŒƒC[r]
-ƒv‚µ‚Ä‚¢‚é‚Ì‚ªA‚¾‚ñ‚¾‚ñ–Ê”’‚­‚È‚Á‚Ä‚«‚½B[pcms]
+I felt a sense of complete domination over Hitomi as I[r]watched her nod repeatedly like a broken doll, and I started[r]to find it more and more amusing to rape her.[pcms]
 
 *v1374|
 [fc]
 [vo_sa s="sae0158"]
-[ns]²”Œ[nse]
-u‚ñJ‚ÁA‚®‚£‚Ácc‚¤J‚£‚Áccv[pcms]
+[ns]Saeki[nse]
+Nghh... guuhh... ughh...[pcms]
 
 *3536|
 [fc]
-[ns]’|“à[nse]
-u‚Ó‚Ğ‚Ğ‚Ácc‚¾‚ê‚©‚É‚¢‚¢‚½‚­‚Ä‚àA‚¢‚¦‚È‚¢‚æ‚È‚Ÿ[r]
-cc‚¨‚µ‚Á‚±‚à‚ç‚µ‚ÄA‚³‚ç‚É‚ê‚¢‚Õ‚³‚ê‚Ü‚µ‚½A‚È‚ñ[r]
-‚Ä‚³‚Ÿcc‚Ó‚Ğ‚ÁA‚Ó‚Ğ‚Ğ‚Ğccv[pcms]
+[ns]Takeuchi[nse]
+Fufufu... Even if I wanted to tell someone, I couldn't,[r]right?[l][er]
+Like how I wet myself and was further violated...[l][er]
+Hahaha, fufufu...[pcms]
 
 *v1375|
 [fc]
 [vo_sa s="sae0159"]
-[ns]²”Œ[nse]
-u‚ñ‚ŞJ‚£‚ÁII@‚ñ‚ñJ‚£‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Nguuhh!! Nguhh!![pcms]
 
 *3537|
 [fc]
-‚¨‚µ‚Á‚±‚ğ˜R‚ç‚µ‚½‚±‚Æ‚ğŒ¾‚í‚ê‚é‚Ì‚ªŒ™‚İ‚½‚¢‚ÅA‚µ[r]
-‚©‚ß‚Á–Ê‚ğ‚µ‚ÄšX‚é“µ‚ğŒ©‚ÄAƒ{ƒN‚Í‚³‚ç‚É–Ê”’‚­‚È‚Á[r]
-‚Ä‚«‚½B[pcms]
+It seems like Hitomi doesn't like being told about wetting[r]herself, and as I watched her frown and groan, I found it[r]even more amusing.[pcms]
 
 *3538|
 [fc]
-[ns]’|“à[nse]
-u‚Ğ‚Æ‚İ‚¡cc‚Ç‚ñ‚È‚«‚à‚¿‚¾‚ŸccH@‚«‚ç‚Á‚Ä‚½‚¨[r]
-‚Æ‚±‚ÉA‚¨‚µ‚Á‚±‚à‚ç‚·‚Æ‚±‚İ‚ç‚ê‚Äcc‚µ‚©‚àA‚ê‚¢[r]
-‚Õ‚Ü‚Å‚³‚ê‚Ä‚³‚Ÿccv[pcms]
+[ns]Takeuchi[nse]
+Hitomi... What kind of feeling is it?[l][er]
+Being seen wetting yourself by the guy you despise...[l][er]
+And on top of that, being raped...[pcms]
 
 *v1376|
 [fc]
 [vo_sa s="sae0160"]
-[ns]²”Œ[nse]
-u‚ŞJ‚®‚¤J‚£‚ÁII@‚ñ‚¤J‚£‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Muguu!! Nguuhh!![pcms]
 
 *3539|
 [fc]
-[ns]’|“à[nse]
-u‚Ó‚Ğ‚Ğ‚Ğ‚Ácc‚¢‚¢‚«‚İ‚¾‚Ÿcc‚Ğ‚Æ‚İ‚¡A‚º‚Á‚½‚¢[r]
-‚¾‚ê‚É‚à‚¢‚¤‚È‚æ‚§cc‚à‚µ‚¢‚Á‚½‚çA‚Ü‚½‚ê‚¢‚Õ‚µ‚Ä[r]
-‚â‚é‚©‚ç‚È‚Ÿccv[pcms]
+[ns]Takeuchi[nse]
+Fufufu... You're such a good girl...[l][er]
+Hitomi, absolutely don't tell anyone, okay?[l][er]
+If you do, I'll make sure to rape you again...[pcms]
 
 *v1377|
 [fc]
 [vo_sa s="sae0161"]
-[ns]²”Œ[nse]
-u‚Ó‚ŞJ‚ÁII@‚ñ‚®‚¤‚£‚ÁII@‚¤J‚¤‚£‚Áccv[pcms]
+[ns]Saeki[nse]
+Fumuu!! Nguu!! Uvuuhh...[pcms]
 
 *3540|
 [fc]
-Š®‘S‚Éã‚É—§‚Á‚½‚±‚Æ‚ÆA“µ‚ÌŒ™‚ª‚éŠç‚É‚·‚²‚¢‹»•±‚µ[r]
-‚ÄAƒ{ƒN‚Í‚à‚¤ƒCƒL‚»‚¤‚É‚È‚Á‚Ä‚¢‚½B[pcms]
+I was completely thrilled by the fact that I had complete[r]control over her, and by the disgusted expression on[r]Hitomi's face, I was getting so excited that I was about to[r]climax.[pcms]
 
 *3541|
 [fc]
-[ns]’|“à[nse]
-u‚Í‚Ÿ``A‚¢‚­‚£``cc‚Ğ‚Æ‚İ‚¡A‚¨‚Ü‚ñ‚±‚Ì‚È‚©[r]
-‚Å‚¢‚­‚¼‚§ccv[pcms]
+[ns]Takeuchi[nse]
+Ahh... I'm going... inside your pussy, Hitomi...[pcms]
 
 *v1378|
 [fc]
 [vo_sa s="sae0162"]
-[ns]²”Œ[nse]
-u‚ñ‚¤J‚¤‚£‚ÁII@‚ñJ[‚ÁI@‚ñJ‚£[‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Nguuhh!! Ngghh! Nguuhh!![pcms]
 
 *3542|
 [fc]
-[ns]’|“à[nse]
-u‚ ‚Ÿ```A‚Å‚é‚£```ccv[pcms]
+[ns]Takeuchi[nse]
+Ahh... I'm... going to cum...[pcms]
 
 *v1379|
 [fc]
 [vo_sa s="sae0163"]
-[ns]²”Œ[nse]
-u‚ñJ‚¤J‚¤‚£‚£‚ÁIIv[pcms]
+[ns]Saeki[nse]
+Nguuhh!![pcms]
 
-;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
 
 [stop_se0]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 
 [se0 storage="se062"]
 
@@ -453,31 +430,30 @@
 
 *3543|
 [fc]
-ƒCƒ„ƒCƒ„‚Æñ‚ğU‚é“µ‚ÉA‚Ü‚½‹»•±‚µ‚È‚ª‚çAƒ{ƒN‚ÍƒI[r]
-ƒ}ƒ“ƒR‚Ì’†‚Åv‚¢‚Á‚«‚èƒCƒb‚Ä‚â‚Á‚½B[pcms]
+I came inside her pussy as she shook her head in refusal,[r]and once again, I was excited.[pcms]
 
 *3544|
 [fc]
-[ns]’|“à[nse]
-u‚Ş‚Ó‚£```ccv[pcms]
+[ns]Takeuchi[nse]
+Mufuu~...[pcms]
 
 *v1380|
 [fc]
 [vo_sa s="sae0164"]
-[ns]²”Œ[nse]
-u‚ñ‚¤J‚£cc‚¤J‚ŞJ‚¤‚£ccv[pcms]
+[ns]Saeki[nse]
+Nguuhh... Uvuuhh...[pcms]
 
 *3545|
 [fc]
-[ns]’|“à[nse]
-u‚Ó‚Ğ‚Ğ‚Ácc‚Ğ‚Æ‚İ‚¡cc‚Ú‚­‚Ì‚´[‚ß‚ñ‚ÅA‚É‚ñ‚µ[r]
-‚ñ‚µ‚¿‚á‚¤‚©‚à‚È‚Ÿcc‚Ó‚Ğ‚Ğ‚Ğccv[pcms]
+[ns]Takeuchi[nse]
+Fufufu... Hitomi... I might just make you experience my[r]desires...[l][er]
+Fufufu...[pcms]
 
 *v1381|
 [fc]
 [vo_sa s="sae0165"]
-[ns]²”Œ[nse]
-u‚®cc‚¤‚£ccv[pcms]
+[ns]Saeki[nse]
+Gu... uu...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -490,55 +466,50 @@
 
 *3546|
 [fc]
-ˆê‘§‚Â‚¢‚Ä‚©‚ç—£‚ê‚ÄA“µ‚ğŒ©‚éB[r]
-ƒXƒgƒbƒLƒ“ƒO‚ª”j‚©‚ê‚ÄAƒpƒ“ƒeƒB[‚Íî‚¯‚È‚­‚¸‚ê‚Ä[r]
-‚¢‚éB[pcms]
+After taking a breath, I move away and look at Hitomi.[l][er]
+Her stockings are torn and her panties are embarrassingly[r]out of place.[pcms]
 
 *3547|
 [fc]
-ƒIƒ}ƒ“ƒR‚©‚çAƒ{ƒN‚Ìo‚µ‚½ƒU[ƒƒ“‚ğ‚‚ç‚µ‚È‚ª‚çA[r]
-•ÖŠí‚ÉƒOƒbƒ^ƒŠ‚ÆÀ‚Á‚Ä‚¢‚éB[pcms]
+She is sitting on the toilet, with my semen dripping from[r]her pussy.[pcms]
 
 *3548|
 [fc]
-[ns]’|“à[nse]
-uccv[pcms]
+[ns]Takeuchi[nse]
+â€¦â€¦[l][er]
 
 *3549|
 [fc]
-‹»•±‚µ‚·‚¬‚½‚¹‚¢‚©A©•ª‚ª‰½‚ğ‚µ‚Ä‚¢‚½‚Ì‚©A[r]
-‚Í‚Á‚«‚è•ª‚©‚ç‚È‚Á‚½B[pcms]
+I was so excited that I couldn't clearly remember what I had[r]done.[pcms]
 
 *3550|
 [fc]
-‚Å‚àAƒCƒb‚½ŒãA­‚µ—âÃ‚É‚È‚Á‚Ä“µ‚ğŒ©‚é‚ÆccB[pcms]
+But after I came, and I calmed down a bit, I looked at[r]Hitomi...[pcms]
 
 *3551|
 [fc]
-‚®‚Á‚½‚è‚µ‚½“µ‚ğŒ©‚ÄAƒ{ƒN‚Í‚·‚²‚­‚Ş‚²‚¢‚±‚Æ‚ğ‚µ‚½[r]
-‚æ‚¤‚È‹C‚¿‚É‚È‚Á‚ÄA‹}‚É•|‚­‚È‚Á‚½B[pcms]
+Looking at Hitomi, who was completely exhausted, I started[r]to feel like I had done something really terrible, and[r]suddenly I became scared.[pcms]
 
 *3552|
 [fc]
-[ns]’|“à[nse]
-u‚ĞA‚Ğ‚Æ‚İccv[pcms]
+[ns]Takeuchi[nse]
+Hitomi...[pcms]
 
 *3553|
 [fc]
-[ns]’|“à[nse]
-u‚¨A‚¨‚Ü‚¦A‚¤‚¿‚É‚©‚¦‚ê‚æcc‚»‚ñ‚È‚ñ‚¶‚áA‚İ‚ñ[r]
-‚È‚Æ‚¢‚Á‚µ‚å‚É‚¢‚ç‚ê‚È‚¢‚¾‚ëA‚ÈH@‚à‚¤‚©‚¦‚êv[pcms]
+[ns]Takeuchi[nse]
+Y-You, go back home... If you keep acting like this, you[r]won't be able to stay with everyone, right?[l][er]
+Just go home.[pcms]
 
 *3554|
 [fc]
-[ns]’|“à[nse]
-u‚©‚¦‚ê‚æcc‚¢‚Ü‚·‚®cc‚¤‚¿‚É‚©‚¦‚ê‚Á‚Ä‚Îcc‚ÈI[r]
-‚©‚¦‚ê‚æccv[pcms]
+[ns]Takeuchi[nse]
+Go home... right now... go back to your house...![l][er]
+Go home...[pcms]
 
 *3555|
 [fc]
-‚»‚ê‚¾‚¯Œ¾‚Á‚ÄAƒ{ƒN‚Í“µ‚ğƒgƒCƒŒ‚É’u‚«‹‚è‚É‚µ‚ÄA[r]
-‹’®Šoº‚É‘–‚Á‚Ä“¦‚°‚½B[pcms]
+After saying just that, I left Hitomi in the toilet and ran[r]away to the audiovisual room.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -546,9 +517,9 @@
 
 ;//blackout
 
-;//‚±‚±‚Ü‚Å–{•Ò
+;//ã“ã“ã¾ã§æœ¬ç·¨
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
@@ -557,28 +528,28 @@
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
-;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
-;•s—v[eval exp="="sf.g_scn13 = 1"]
+;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
+;ä¸è¦[eval exp="="sf.g_scn13 = 1"]
 
-;//ƒEƒBƒ“ƒhƒEÁ‹
+;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//•‚ÉƒtƒF[ƒh
+;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
 ;[black_toplayer][trans_c random][hide_chara_int]
 [zapfade]
 
-;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 
-;//¦ğŒ•ªŠò
-;//Eflag:“µ‚ğS”z‚·‚é ‚ªOFF;//[02091]‚Ö
-;//Eflag:“µ‚ğS”z‚·‚é ‚ªON;//[03028]‚Ö
+;//â€»æ¡ä»¶åˆ†å²
+;//ãƒ»flag:ç³ã‚’å¿ƒé…ã™ã‚‹ ãŒOFF;//[02091]ã¸
+;//ãƒ»flag:ç³ã‚’å¿ƒé…ã™ã‚‹ ãŒON;//[03028]ã¸
 
-;//<If SEL00_ANXIETYƒJƒ“ƒ}(g_anxiety==1)>
+;//<If SEL00_ANXIETYã‚«ãƒ³ãƒ(g_anxiety==1)>
 
 ;//[jump target=*02091_TOP storage="02091.ks"]
 

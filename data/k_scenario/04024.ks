@@ -1,20 +1,20 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN04024w“µ‚Ì•œQ‚Qx
-;//BG:“Áê‹³º˜L‰ºF’‹i’©Œ“—pj
-;//“oêl•¨G’|“àE“µ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04024ã€ç³ã®å¾©è®ï¼’ã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ç«¹å†…ãƒ»ç³
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *04024_TOP
-;[debug_win]‚È‚¤@04024[debug_win_end]
+;[debug_win]ãªã†ã€€04024[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04024 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04024 = 1"]
 
-;*SceneSet|w“µ‚Ì•œQ‚Qx
+;*SceneSet|ã€ç³ã®å¾©è®ï¼’ã€
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 
 [bgm008]
 
@@ -23,107 +23,108 @@
 [bg storage="bg03a"]
 [trans_c cross time=500]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 
 [se0 storage="se005"]
 
 *4098|
 [fc]
-[ns]’|“à[nse]
-uƒnƒ@ƒbI@ƒnƒ@ƒbIv[pcms]
+[ns]Takeuchi[nse]
+Haah! Haah![pcms]
 
 *4099|
 [fc]
-ƒ„ƒoƒCAƒ„ƒoƒC‚æI[r]
-‘×”V‚ª‚â‚ç‚ê‚½I@‚ ‚¢‚ÂA€‚ñ‚¾‚ñ‚¶‚ácc‚¶‚á‚ A[r]
-—D‚¿‚á‚ñ‚àccƒ„ƒoƒC‚æI[pcms]
+Oh no, this is bad! Taishi got hurt![l][er]
+He... he might be dead... and Yuu-chan too...[l][er]
+This is really bad![pcms]
 
 *4100|
 [fc]
-‚È‚ñ‚¾‚æcc‚È‚ñ‚È‚ñ‚¾‚æA‚ ‚¢‚ÂII[pcms]
+What... what the hell is this?![pcms]
 
-;//SE:”à‚ğŠJ‚­
+;//SE:æ‰‰ã‚’é–‹ã
 
 [se0 storage="se008"]
 
 *4101|
 [fc]
-lccH[r]
-‚à‚µ‚©‚µ‚ÄA‚³‚Á‚«‚Ì“z‚Ì’‡ŠÔccH[pcms]
+A person...? Could it be, one of the guys from earlier...?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 [ChrSetEx layer=1 chbase="sae_d_d_12"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1688|
 [fc]
 [vo_sa s="sae0261"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *4102|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ÈA‚È‚ñ‚¾A“µ‚©ccB‚Ñ‚Á‚­‚è‚³‚¹‚é‚È‚æv[pcms]
+[ns]Kato[nse]
+W-What, Hitomi...? Don't surprise me like that.[pcms]
 
 *4103|
 [fc]
-‚±‚¢‚ÂA‹A‚Á‚½‚ñ‚¶‚á‚È‚©‚Á‚½‚Ì‚©H[r]
-•Aƒ{ƒƒ{ƒ‚¾‚¯‚ÇA‚Ç‚±‚©‚Å“]‚ñ‚¾‚Ì‚©‚ÈccB[pcms]
+Wasn't this person supposed to go home?[l][er]
+Their clothes are all torn up, I wonder if they fell[r]somewhere...[pcms]
 
 *4104|
 [fc]
-[ns]‰Á“¡[nse]
-u•A‚Ç‚¤‚µ‚½‚ñ‚¾‚æB’…‘Ö‚¦‚Å‚àæ‚è‚É—ˆ‚½‚Ì‚©Hv[pcms]
+[ns]Kato[nse]
+What happened to your clothes?[l][er]
+Did you come to get changed or something?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1689|
 [fc]
 [vo_sa s="sae0262"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *4105|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ÈA‚È‚ñ‚¾‚æA•‚Íƒ{ƒN‚ª‚â‚Á‚½‚ñ‚¶‚á‚È‚¢‚¾‚ëBˆ[r]
-—–Œ‚Í”j‚¢‚Ä‚â‚Á‚½‚¯‚Ç‚ÈI@ƒ€ƒtƒbIv[pcms]
+[ns]Kato[nse]
+W-What the hell, it wasn't me who did that to your clothes.[l][er]
+But I did break your hymen though![l][er]
+Mufufu![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1690|
 [fc]
 [vo_sa s="sae0263"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *4106|
 [fc]
-[ns]‰Á“¡[nse]
-u‚È‚ñ‚¾‚æcc—ˆ‚é‚È‚æ‚ÁI@‚Ü‚½”Æ‚µ‚Ä‚â‚é‚¼IIv[pcms]
+[ns]Kato[nse]
+What the hell... Don't come near me![l][er]
+I'll violate you again!![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1691|
 [fc]
 [vo_sa s="sae0264"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *4107|
 [fc]
-ccH[r]
-“µA–Ú‚ªcc–Ú‚ªA‘×”V‚ğ‰£‚Á‚½‚â‚Â‚Æˆê‚¾ccB[pcms]
+...? Hitomi, your eyes... your eyes, they're the same as the[r]person who hit Taiyuki...[pcms]
 
 *4108|
 [fc]
-‹C‚¿ˆ«‚¢AƒCƒb‚¿‚á‚Á‚Ä‚é–ÚccB[r]
-‚±‚¢‚ÂA‚Ç‚¤‚µ‚½‚ñ‚¾ccH[pcms]
+What's wrong with those creepy, orgasmic eyes...?[l][er]
+What happened to this person...?[pcms]
 
-;//[04025]‚Ö
+;//[04025]ã¸
 [jump target=*04025_TOP storage="04025.ks"]
 

@@ -1,15 +1,15 @@
 
-;//¡ËƒuƒƒbƒN05050w“µ‚Æ“ñŠK‹³ºx
-;//BG:“ñŠK‹³º˜L‰ºF–éFÁ“”^“_“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05050ã€ç³ã¨äºŒéšæ•™å®¤ã€
+;//BG:äºŒéšæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯ï¼ç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05050_TOP
-;[debug_win]‚È‚¤@05050[debug_win_end]
-;*SceneSet|w“µ‚Æ“ñŠK‹³ºx
+;[debug_win]ãªã†ã€€05050[debug_win_end]
+;*SceneSet|ã€ç³ã¨äºŒéšæ•™å®¤ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05050 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05050 = 1"]
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 ;	/*
 ;	[bgm001]
 ;	*/
@@ -23,12 +23,12 @@
 
 *4704|
 [fc]
-“ñŠK‚Í‰´’B‚ª•’ig‚Á‚Ä‚¢‚éŠK‚¾B“d“”‚ÌƒXƒCƒbƒ`‚ÌˆÊ[r]
-’u‚Í‚í‚©‚Á‚Ä‚¢‚éB[pcms]
+The second floor is the floor we usually use.[l][er]
+I know the position of the light switch.[pcms]
 
 *4705|
 [fc]
-‰´‚Í“ñŠK‚É’…‚¢‚Ä‚·‚®‚ÉA“d“”‚ÌƒXƒCƒbƒ`‚ğ“ü‚ê‚½B[pcms]
+As soon as I arrived on the second floor, I turned on the[r]light switch.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -43,123 +43,116 @@
 
 *4706|
 [fc]
-“”‚è‚ª“_‚¢‚Ä‚àA•¨‰¹ˆê‚Â‚µ‚È‚¢˜L‰º‚ÍA²”Œ‚¶‚á‚È‚­[r]
-‚Ä‚àS×‚­‚È‚é‚®‚ç‚¢A”–‹C–¡ˆ«‚­v‚¦‚½B[pcms]
+The hallway, even with the lights on, felt eerie and[r]unsettling, making anyone, not just Saeki, feel uneasy.[pcms]
 
 *4707|
 [fc]
-[ns]‰Á“¡[nse]
-u‚È‚ñ‚Å‚±‚¤‹C–¡ˆ«‚¢‚ñ‚¾‚ë‚¤‚ÈA–é‚ÌŠwZ‚Á‚Äccv[pcms]
+[ns]Kato[nse]
+I wonder why the school at night feels so creepy...[pcms]
 
 *4708|
 [fc]
-Šç‚ğ‚µ‚©‚ß‚Ä•Ó‚è‚ğŒ©‰ñ‚µ‚Ä‚¢‚é‚ÆA—×‚©‚ç²”Œ‚ªƒNƒX[r]
-ƒNƒXÎ‚¤‚Ì‚ª•·‚±‚¦‚Ä‚«‚½B[pcms]
+As I frowned and looked around, I could hear Saeki giggling[r]from next to me.[pcms]
 
 *4709|
 [fc]
-[ns]‰Á“¡[nse]
-uHv[pcms]
+[ns]Kato[nse]
+?[l][er]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2029|
 [fc]
 [vo_sa s="sae0323"]
-[ns]²”Œ[nse]
-u„‚ğ”n­‚É‚µ‚Ä‚¢‚½‚­‚¹‚ÉA‚ ‚È‚½‚¾‚Á‚Ä•|‚¢‚ñ‚¶‚á[r]
-‚ ‚è‚Ü‚¹‚ñ‚©v[pcms]
+[ns]Saeki[nse]
+You were making fun of me, but aren't you scared too?[pcms]
 
 *4710|
 [fc]
-[ns]‰Á“¡[nse]
-uƒoƒJŒ¾‚¤‚È‚æA‹C–¡ˆ«‚¢‚Á‚Ä‚¾‚¯‚¾B‚±‚ñ‚È‚à‚ñA‘S[r]
-‘R•|‚­‚Ë[‚Á‚Â[‚Ìv[pcms]
+[ns]Kato[nse]
+Don't say stupid things. It's just creepy, that's all.[l][er]
+This kind of thing doesn't scare me at all.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2030|
 [fc]
 [vo_sa s="sae0324"]
-[ns]²”Œ[nse]
-u‘f’¼‚É•|‚¢‚ÆŒ¾‚Á‚½‚ç”@‰½‚Å‚·‚©H@„‚Í”n­‚É‚µ‚½[r]
-‚è‚µ‚Ü‚¹‚ñ‚©‚çv[pcms]
+[ns]Saeki[nse]
+How about you just admit that you're scared?[l][er]
+I won't make fun of you.[pcms]
 
 *4711|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨‘O‚ªŒ¾‚¤‚ÈIv[pcms]
+[ns]Kato[nse]
+Don't you say that![pcms]
 
 *4712|
 [fc]
-ƒcƒbƒR‚ñ‚¾‚Æ‚±‚ë‚ÅA‰´‚Í‚Ü‚¾²”Œ‚Ìè‚ğˆ¬‚Á‚½‚Ü‚Ü‚Å[r]
-‚¢‚½‚±‚Æ‚É‹C‚ª‚Â‚¢‚ÄAQ‚Ä‚Äè‚ğ—£‚µ‚½B[pcms]
+I noticed that I was still holding Saeki's hand while I was[r]making fun of her, so I quickly let go.[pcms]
 
 *4713|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ Aˆ«‚¢ccv[pcms]
+[ns]Kato[nse]
+Ah, I'm sorry...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2031|
 [fc]
 [vo_sa s="sae0325"]
-[ns]²”Œ[nse]
-u‚¢‚¦ccv[pcms]
+[ns]Saeki[nse]
+No...[pcms]
 
 *4714|
 [fc]
-‰´‚Í‹}‚É’p‚¸‚©‚µ‚­‚È‚Á‚Ä‚«‚ÄA‚»‚ê‚ğ‚²‚Ü‚©‚»‚¤‚ÆA[r]
-‚í‚´‚Æº‚ğ‘å‚«‚ß‚É‚µ‚ÄAl‘{‚µ‚ğ‘±‚¯‚é‚±‚Æ‚ğ²”Œ‚É[r]
-‘£‚µ‚½B[pcms]
+I suddenly felt embarrassed, so in order to cover it up, I[r]intentionally raised my voice and urged Saeki to continue[r]searching for people.[pcms]
 
 *4715|
 [fc]
-[ns]‰Á“¡[nse]
-u‚³‚ŸA‹³ºŒ©‚Ä‰ñ‚Á‚ÄA‚³‚Á‚³‚ÆŸs‚±‚¤‚ºIv[pcms]
+[ns]Kato[nse]
+Alright, let's go around and check the classrooms quickly.[l][er]
+Let's move on to the next one![pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2032|
 [fc]
 [vo_sa s="sae0326"]
-[ns]²”Œ[nse]
-u—£‚³‚È‚­‚Ä‚¢‚¢‚Ì‚Éccv[pcms]
+[ns]Saeki[nse]
+You don't have to let go...[pcms]
 
 *4716|
 [fc]
-²”Œ‚ª‰½‚©‚ğŒ¾‚Á‚½‹C‚ª‚µ‚½‚ªA©•ª‚ªo‚µ‚½‘å‚«‚¢º[r]
-‚Ì‚¹‚¢‚ÅA‰½‚ğŒ¾‚Á‚½‚Ì‚©•·‚«æ‚ê‚È‚©‚Á‚½B[pcms]
+I felt like Saeki said something, but because of the loud[r]voice I let out, I couldn't make out what she said.[pcms]
+[l][er]
 
 *4717|
 [fc]
-‹°‚ç‚­²”Œ‚àA’p‚¸‚©‚µ‚¢‚Ì‚ğ‚²‚Ü‚©‚»‚¤‚ÆA©•ª‚Æ“¯[r]
-‚¶‚±‚Æ‚ğŒ¾‚¨‚¤‚Æ‚µ‚½‚Ì‚¾‚ë‚¤‚ÆA‰´‚Í‹C‚É‚¹‚¸‚ÉAè[r]
-‹ß‚È‹³º‚ÉŒü‚©‚Á‚½B[pcms]
+Saeki probably tried to cover up her embarrassment by saying[r]the same thing as me, and without worrying about it, I[r]headed towards the nearest classroom.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 ;//blackout
 
-;//[05060]‚Ö
+;//[05060]ã¸
 [jump target=*05060_TOP storage="05060.ks"]

@@ -1,26 +1,26 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02121wˆÀSx
-;//BG:“ñŠK˜L‰ºFƒoƒŠƒP[ƒhF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöE—DEƒŠƒTEŠİ“cE’|“à
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02121ã€å®‰å¿ƒã€
+;//BG:äºŒéšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»å²¸ç”°ãƒ»ç«¹å†…
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02121_TOP
-;[debug_win]‚È‚¤@02121[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02121 = 1"]
+;[debug_win]ãªã†ã€€02121[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02121 = 1"]
 
-;*SceneSet|wˆÀSx
+;*SceneSet|ã€å®‰å¿ƒã€
 
 ;//[02121]
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 [fadeoutbgm time=500]
 ;//BG:bg007a
 ;g[bg storage="bg07a"]
 ;g[trans_c cross time=500]
 
-;//SE:”à‚ğ’@‚­‰¹@ƒ‹[ƒv
+;//SE:æ‰‰ã‚’å©ãéŸ³ã€€ãƒ«ãƒ¼ãƒ—
 [overflow_se storage="se027" loop=true]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
@@ -28,69 +28,66 @@
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std269|
 [fc]
-[ns]’|“à[nse]
-u‚¤‚í‚ÁIv[pcms]
+[ns]Takeuchi[nse]
+Uwah![pcms]
 
 *2352|
 [fc]
-–h‰Î”à‚ª‹­‚­’@‚©‚ê‚é‰¹‚ÉA^–ç‚ª”•à‚ ‚Æ‚¸‚³‚éB[pcms]
+Shinya takes a few steps back at the sound of the fire door[r]being forcefully knocked.[pcms]
 
-;//ôFBGM009ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM009ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 [bgm009]
 
 [ChrSetEx layer=1 chbase="yuu_c_c_09"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v930|
 [fc]
 [vo_ya s="yama0292"]
-[ns]RŠİ[nse]
-uccccv[pcms]
+[ns]Yamagishi[nse]
+â€¦â€¦â€¦â€¦[l][er]
 
 *2353|
 [fc]
-‚xƒVƒƒƒc‚Ì”w’†‚ğ’Í‚Ü‚ê‚éŠ´G‚ÆA—‚ê‚éŒÄ‹z‚Ì‰¹‚ªA[r]
-Œã‚ë‚©‚ç“`‚í‚Á‚Ä‚­‚éB[pcms]
+I feel the sensation of my back being grabbed by a Y-shirt,[r]and I hear the sound of ragged breathing coming from behind[r]me.[pcms]
 
 *2354|
 [fc]
-RŠİ‚³‚ñ‚Í‰´‚Ì”w’†‚É‰B‚ê‚ÄA–h‰Î”à‚ğ‹Ã‹‚µ‚Ä‚¢‚½B[pcms]
+Yamagishi-san was hiding behind my back, staring at the fire[r]door.[pcms]
 
 *2355|
 [fc]
-[ns]‰Á“¡[nse]
-ucc‘åä•vBRŠİ‚³‚ñ‚ÍA‰´‚ª•K‚¸ç‚é‚©‚çv[pcms]
+[ns]Kato[nse]
+... Don't worry. I will definitely protect you, Yamagishi-[r]san.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *2356|
 [fc]
-¨‚¢‚É”C‚¹‚Ä‚»‚¤Œ¾‚Á‚Ä‚İ‚½‚à‚Ì‚ÌA‹¯‚¦‚Ä‚¢‚éRŠİ‚³[r]
-‚ñ‚Ì¨‚É‚ÍA‚Ç‚¤‚â‚ç“Í‚¢‚Ä‚¢‚È‚¢‚æ‚¤‚¾‚Á‚½B[pcms]
+Despite saying that in the heat of the moment, it seemed[r]that Yamagishi-san, who was trembling in fear, didn't seem[r]to hear it.[pcms]
 
-;//SE:”à‚ğ’@‚­‰¹@’â~
+;//SE:æ‰‰ã‚’å©ãéŸ³ã€€åœæ­¢
 
 [stop_overflow_se]
 
 *2357|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¢‚È‚­‚È‚Á‚½A‚Ì‚©ccHv[pcms]
+[ns]Kato[nse]
+Did they disappear...?[pcms]
 
 *2358|
 [fc]
-–h‰Î”à‚ğŠJ‚¯‚é‚±‚Æ‚È‚­A”à‚ÌŒü‚±‚¤‚É‚¢‚½ƒ„ƒc‚ÍA‚Ç‚±[r]
-‚©‚Ös‚Á‚Ä‚µ‚Ü‚Á‚½‚æ‚¤‚¾‚Á‚½B[pcms]
+It seemed like the person who was behind the fire door had[r]disappeared without opening it.[pcms]
 
-;//ôFBGM009ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM009ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 [fadeoutbgm time=500]
 [wait_c time=500]
 
-;//[02122]‚Ö
+;//[02122]ã¸
 [jump target=*02122_TOP storage="02122.ks"]

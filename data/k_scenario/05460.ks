@@ -1,13 +1,13 @@
 
-;//¡ËƒuƒƒbƒN05460w’…‘Ö‚¦x
-;//BG:‹’®ŠoºF—[•ûGÁ“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05460ã€ç€æ›¿ãˆã€
+;//BG:è¦–è´è¦šå®¤ï¼šå¤•æ–¹ï¼›æ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05460_TOP
-;[debug_win]‚È‚¤@05460[debug_win_end]
-;*SceneSet|w’…‘Ö‚¦x
+;[debug_win]ãªã†ã€€05460[debug_win_end]
+;*SceneSet|ã€ç€æ›¿ãˆã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05460 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05460 = 1"]
 
 [eval exp="f.prologue_route = 0"]
 [eval exp="f.yuu_route1 = 0"]
@@ -20,10 +20,10 @@
 [eval exp="f.hitomi_route4 = 0"]
 [eval exp="f.infection_route = 0"]
 
-;//flag:“µƒ‹[ƒgƒtƒ[@‚Q‚`@‰æ–Ê•\¦
-;//flag:“µƒ‹[ƒgƒtƒ[@PART‚Q@•\¦
+;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼’ï¼¡ã€€ç”»é¢è¡¨ç¤º
+;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€PARTï¼’ã€€è¡¨ç¤º
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 
 [fadeoutbgm time=500]
 
@@ -32,7 +32,7 @@
 [bg storage="bg15a"]
 [trans_c cross time=500]
 
-;//SE:”à‚ğŠJ‚­
+;//SE:æ‰‰ã‚’é–‹ã
 
 [se0 storage="se008"]
 
@@ -42,16 +42,14 @@
 
 *5507|
 [fc]
-‹’®Šoº‚É’…‚­‚ÆA²”Œ‚Í‘‘¬©•ª‚ÌƒoƒbƒO‚ğ‹™‚èAŠ·[r]
-‚¦‚Ì‰º’…‚ÆƒXƒgƒbƒLƒ“ƒO‚ğæ‚èo‚µ‚½B[pcms]
+When we arrived at the audiovisual room, Saeki immediately[r]rummaged through her bag and took out spare underwear and[r]stockings.[pcms]
 
 *5508|
 [fc]
-‚·‚é‚±‚Æ‚à‚È‚­A•”‰®‚Ì‹÷‚É—§‚Á‚Äƒ{[ƒb‚Æ‚»‚Ì—lq‚ğ[r]
-Œ©‚Ä‚¢‚½‰´‚É‹C‚ª‚Â‚«A²”Œ‚Í‚Á‚Ä‚¢‚½‰º’…‚ÆƒXƒgƒb[r]
-ƒLƒ“ƒO‚ğ‘f‘‚­Œã‚ë‚Ö‰B‚µ‚½B[pcms]
+Saeki noticed me standing in the corner of the room, doing[r]nothing and staring blankly.[l][er]
+She quickly hid the underwear and stockings she had with her[r]behind her back.[pcms]
 
-;//ôFBGM006
+;//â™ªï¼šBGM006
 [bgm006]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
@@ -59,94 +57,88 @@
 [ChrSetParts layer=1 chface="sae_c_c_09"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2286|
 [fc]
 [vo_sa s="sae0512"]
-[ns]²”Œ[nse]
-u¡‚©‚ç’…‘Ö‚¦‚é‚Ì‚Å‚·‚¯‚ê‚ÇBŒã‚ë‚ğŒü‚¢‚Ä‚¢‚Ä’¸‚¯[r]
-‚Ü‚¹‚ñ‚©Hv[pcms]
+[ns]Saeki[nse]
+I'm going to change now. Could you please turn around?[pcms]
 
 *5509|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦ccH@‚ ‚ÁA‚ ‚ Aˆ«‚¢ccv[pcms]
+[ns]Kato[nse]
+Eh...? Ah, ah, sorry...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *5510|
 [fc]
-Šç‚ğ‚µ‚©‚ß‚½²”Œ‚ÉŒ¾‚í‚êA‰´‚ÍQ‚Ä‚Ä”w’†‚ğŒü‚¯‚½B[pcms]
+Saeki, who frowned at me, told me to turn around, so I[r]quickly turned my back.[pcms]
 
 *5511|
 [fc]
-‚»‚¤‚¾‚Á‚½ccB²”ŒAƒXƒJ[ƒg‚Ì‰º‚É‰½‚à—š‚¢‚Ä‚È‚¢[r]
-‚ñ‚¾‚Á‚½ccB[pcms]
+Oh, that's right... Saeki isn't wearing anything under her[r]skirt...[pcms]
 
 *v2287|
 [fc]
 [vo_sa s="sae0513"]
-[ns]²”Œ[nse]
-u’…‘Ö‚¦‚é‚Æ‚±‚ë‚ğA•’Ê‚ÉŒ©‚æ‚¤‚Æ‚·‚é‚È‚ñ‚Äcc‚¢[r]
-‚­‚ç‰½‚Å‚à‘‚·‚¬‚é‚í‚æccv[pcms]
+[ns]Saeki[nse]
+Trying to watch me change so casually...[l][er]
+that's way too fast, even for you...[pcms]
 
 *5512|
 [fc]
-‚¢‚ÜŒã‚ë‚ÅA²”Œ‚ª’…‘Ö‚¦‚Ä‚éccBƒXƒJ[ƒg‚Ì‰º‚ÉA[r]
-‰½‚à—š‚¢‚Ä‚È‚¢²”Œ‚ª‚¢‚éccB[pcms]
+Saeki is changing behind me right now...[l][er]
+There's Saeki, not wearing anything under her skirt...[pcms]
 
-;//SE:ˆßC‚ê
+;//SE:è¡£æ“¦ã‚Œ
 
 [se0 storage="se057"]
 
 *5513|
 [fc]
-¡‚Ìó‹µ‚ÉŠµ‚ê‚Ä‚µ‚Ü‚Á‚Ä‚¢‚é‚¹‚¢‚È‚Ì‚©A‹Ù’£Š´‚ª”–[r]
-‚ê‚Ä‚µ‚Ü‚Á‚Ä‚¢‚ÄA‰´‚Í‚»‚ñ‚È‚±‚Æ‚ğl‚¦‚é‚æ‚¤‚É‚È‚Á[r]
-‚Ä‚¢‚½B[pcms]
+I had become accustomed to the current situation, and as a[r]result, the sense of tension had faded.[l][er]
+I found myself thinking about such things.[pcms]
 
 *5514|
 [fc]
-‚¿‚å‚Á‚ÆŒ©‚Ä‚İ‚æ‚¤‚©‚È[ccB‚¿‚å‚Á‚Æ‚®‚ç‚¢‚È‚çƒo[r]
-ƒŒ‚È‚¢‚æ‚ÈccB[pcms]
+Should I take a quick look...?[l][er]
+It won't be noticed if it's just a little bit, right...?[pcms]
 
 *5515|
 [fc]
-ƒ`ƒ‰ƒb‚ÆŒã‚ë‚ğU‚è•Ô‚é‚ÆA‚¿‚å‚¤‚Ç˜‚Ü‚Å‰º’…‚ğã‚°[r]
-‚½‚Æ‚±‚ë‚ÅAƒXƒJ[ƒg‚ª‚Ü‚­‚èã‚ª‚èAŠÛŒ©‚¦‚É‚È‚Á‚Ä[r]
-‚¢‚½B[pcms]
+When I glanced back for a moment, Saeki had just lifted her[r]underwear up to her waist, and her skirt had ridden up,[r]fully exposing everything.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2288|
 [fc]
 [vo_sa s="sae0514"]
-[ns]²”Œ[nse]
-uIIv[pcms]
+[ns]Saeki[nse]
+!![pcms]
 
 *5516|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ccv[pcms]
+[ns]Kato[nse]
+Ah...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *5517|
 [fc]
-²”Œ‚Í‰´‚Æ–Ú‚ª‡‚¤‚ÆAƒoƒbƒO‚©‚ç‚Ü‚¾­‚µ’†g‚Ì“ü‚Á[r]
-‚½ƒyƒbƒgƒ{ƒgƒ‹‚ğæ‚èo‚µA“Š‚°‚Â‚¯‚Ä‚«‚½B[pcms]
+Saeki made eye contact with me and took out a partially[r]filled water bottle from her bag, then threw it at me.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
 
-;//SE:ƒRƒ“
+;//SE:ã‚³ãƒ³
 [se0 storage="se022"]
 
 [flash_wh]
@@ -161,43 +153,43 @@
 
 *5518|
 [fc]
-[ns]‰Á“¡[nse]
-u’É‚¥‚ÁIIv[pcms]
+[ns]Kato[nse]
+Ouch!![pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_10"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2289|
 [fc]
 [vo_sa s="sae0515"]
-[ns]²”Œ[nse]
-u‚È‚ÁA‰½‚ğ‚µ‚Ä‚¢‚é‚Ì‚Å‚·ƒbIIv[pcms]
+[ns]Saeki[nse]
+W-What are you doing?![pcms]
 
 *5519|
 [fc]
-[ns]‰Á“¡[nse]
-uƒSƒƒ“ƒSƒƒ“II@‚à‚¤ŠOo‚Ä‚é‚©‚çIIv[pcms]
+[ns]Kato[nse]
+I'm sorry, I'm sorry!! I'm already leaving!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//ôFBGM006ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM006ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 [fadeoutbgm time=500]
 
-;//SE:”à‚ğŠJ‚­
+;//SE:æ‰‰ã‚’é–‹ã
 [se0 storage="se008"]
 
 *5520|
 [fc]
-‚Ü‚½‰½‚©‚ğ“Š‚°‚Â‚¯‚ç‚ê‚é‘O‚ÉA‰´‚ÍQ‚Ä‚Ä˜L‰º‚Ö‘–‚è[r]
-o‚½B[pcms]
+Before I could be hit with something again, I hurriedly ran[r]out into the hallway.[pcms]
+[l][er]
 
 ;//blackout
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05470]‚Ö
+;//[05470]ã¸
 [jump target=*05470_TOP storage="05470.ks"]

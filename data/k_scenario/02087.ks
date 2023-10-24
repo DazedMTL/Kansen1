@@ -1,21 +1,21 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02087w‹’®ŠoºF—D‚Æ“ñl‚Ì‰ï˜bx
-;//BG:‹’®ŠoºF–éF“_“”
-;//“oêl•¨GålŒöE—D
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02087ã€è¦–è´è¦šå®¤ï¼šå„ªã¨äºŒäººã®ä¼šè©±ã€
+;//BG:è¦–è´è¦šå®¤ï¼šå¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02087_TOP
-;[debug_win]‚È‚¤@02087[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02087 = 1"]
+;[debug_win]ãªã†ã€€02087[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02087 = 1"]
 
-;*SceneSet|w‹’®ŠoºF—D‚Æ“ñl‚Ì‰ï˜bx
+;*SceneSet|ã€è¦–è´è¦šå®¤ï¼šå„ªã¨äºŒäººã®ä¼šè©±ã€
 
 ;//[02087]
 
-;//flag:—Dƒ‹[ƒgƒtƒ[@‚R•\¦
-;//ôFBGM001
+;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼“è¡¨ç¤º
+;//â™ªï¼šBGM001
 ;//[bgm001]
 ;//BG:bg015c
 ;//[bg storage="bg15c"]
@@ -23,344 +23,319 @@
 
 *1753|
 [fc]
-[ns]‰Á“¡[nse]
-uO–{–Ú‚Ì‚â‚Â‚ÍA‚¿‚å‚Á‚Æ“‚©‚Á‚½‚©‚ç‚Ëv[pcms]
+[ns]Kato[nse]
+The third one was a bit harsh, you know.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v729|
 [fc]
 [vo_ya s="yama0210"]
-[ns]RŠİ[nse]
-u‚Ë`A‚ ‚ê‚Ì‚¹‚¢‚Å‘S•”ŠÏ‚ç‚ê‚È‚©‚Á‚½‚©‚çA‚È‚ñ‚©[r]
-‚·‚Á‚«‚è‚µ‚È‚­‚ÄccB–¾“úA‹A‚è‚É‚c‚u‚cØ‚è‚Äs‚±[r]
-‚¤‚Æv‚Á‚Ä‚é‚ñ‚¾v[pcms]
+[ns]Yamagishi[nse]
+You know, because of that, I couldn't watch the whole thing,[r]so I feel a bit unsatisfied...[l][er]
+I'm thinking of renting the DVD on my way home tomorrow.[pcms]
 
 *1754|
 [fc]
-‹êÎ‚µ‚È‚ª‚çŒ¾‚¤RŠİ‚³‚ñ‚ÉA‰´‚àÎ‚Á‚½B[r]
-O–{–Ú‚Ì‰f‰æ‚É‚Â‚¢‚Ä‚ÍAÁ‰»•s—Ç‚¾‚È‚Æ©•ª‚àŠ´‚¶‚Ä[r]
-‚¢‚½‚©‚ç‚¾B[pcms]
+I laughed along with Yamagishi-san as she said with a wry[r]smile.[l][er]
+It was because I also felt unsatisfied with the third movie,[r]just like her.[pcms]
 
 *1755|
 [fc]
-‚½‚¾A’j‚Å‚ ‚é‰´‚Ìê‡AŒ³‚Ì‰f‰æ‚Æ“¯‚¶‚æ‚¤‚ÉA“r’†[r]
-‚Å•Ï‚í‚Á‚½‚ ‚Æ‚Ì‰f‘œ‚É‚Â‚¢‚Ä‚àAÁ‰»•s—Ç‚Év‚Á‚Ä‚¢[r]
-‚é‚í‚¯‚¾‚¯‚ÇccB[pcms]
+However, in my case as a man, just like the original movie,[r]I also feel unsatisfied with the footage that changed[r]halfway through...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v730|
 [fc]
 [vo_ya s="yama0211"]
-[ns]RŠİ[nse]
-u‚ ‚ê‚àA‹v‚µ‚Ô‚è‚ÉØ‚è‚Ä‚¢‚±‚¤‚©‚È‚Ÿccv[pcms]
+[ns]Yamagishi[nse]
+Maybe I should rent that one too, after a long time...[pcms]
 
 *1756|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚êccHv[pcms]
+[ns]Kato[nse]
+Huh...?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v731|
 [fc]
 [vo_ya s="yama0212"]
-[ns]RŠİ[nse]
-uq‹Ÿ‚Ì ‚ÉŠÏ‚½‰f‰æ‚Å‚ËA¡‚Å‚à„‚Ìˆê”ÔD‚«‚È‰f‰æ[r]
-‚È‚Ìv[pcms]
+[ns]Yamagishi[nse]
+You know, it's a movie I watched when I was a child, and[r]it's still my favorite movie.[pcms]
 
 *1757|
 [fc]
-RŠİ‚³‚ñ‚Íâ‚µ‚»‚¤‚ÉÎ‚Á‚ÄA‰“‚­‚ğŒ©‚Â‚ß‚é‚æ‚¤‚ÉA[r]
-’ˆ‚É–Ú‚ğŒü‚¯‚½B[pcms]
+Yamagishi-san smiled sadly and looked into the distance,[r]raising her eyes to the sky.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v732|
 [fc]
 [vo_ya s="yama0213"]
-[ns]RŠİ[nse]
-u‚¨•ƒ‚³‚ñ‚à‚¨•ê‚³‚ñ‚àA„‚ªq‹Ÿ‚Ì ‚Í‚Ü‚¾¡‚İ‚½‚¢[r]
-‚É–Z‚µ‚­‚È‚­‚ÄAOl‚Åo‚©‚¯‚é‚±‚Æ‚ªŒ‹\‚ ‚Á‚½‚ñ‚¾B[r]
-‚»‚Ì ‚ÉŠÏ‚½‰f‰æ‚ÅAˆóÛ‚Éc‚Á‚Ä‚é‚Ì‚ª‚ ‚é‚Ìv[pcms]
+[ns]Yamagishi[nse]
+When I was a child, both my father and mother weren't as[r]busy as they are now, so we used to go out together quite[r]often.[l][er]
+There's a movie that I watched back then that left a lasting[r]impression on me.[pcms]
 
 *1758|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚à‚µ‚©‚µ‚ÄƒoƒX’â‚Å˜b‚µ‚Ä‚½AwÅŒã‚É‰Æ‘°‚ªˆê[r]
-‚Â‚É‚È‚Á‚ÄA‚İ‚ñ‚È‚ªK‚¹‚É‚È‚é‰f‰æx‚Á‚Äccv[pcms]
+[ns]Kato[nse]
+Ah, are you talking about the movie we discussed at the bus[r]stop?[l][er]
+The one where the family becomes one in the end and everyone[r]becomes happy...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v733|
 [fc]
 [vo_ya s="yama0214"]
-[ns]RŠİ[nse]
-u‚ ‚Í‚ÍA³‰ğI@Šo‚¦‚Ä‚Ä‚­‚ê‚½‚ñ‚¾A‰Á“¡ŒNv[pcms]
+[ns]Yamagishi[nse]
+Ahaha, that's right! You remembered, Kato-kun.[pcms]
 
 *1759|
 [fc]
-[ns]‰Á“¡[nse]
-uƒnƒnA‚Ü‚Ÿ‚Ëccv[pcms]
+[ns]Kato[nse]
+Haha, well...[pcms]
 
 *1760|
 [fc]
-–{“–‚È‚çA‚¿‚á‚ñ‚ÆŠo‚¦‚Ä‚¢‚½‚±‚Æ‚ğA‚à‚Á‚ÆƒAƒs[ƒ‹[r]
-‚·‚é‚Æ‚±‚ë‚¾‚¯‚ÇA‚Ü‚¾â‚µ‚³‚Ì•Y‚¤”Ş—‚ÌÎŠç‚ÉA‰´[r]
-‚Í‚»‚¤‚·‚é‚±‚Æ‚ğçSçO‚Á‚½B[pcms]
+In truth, I should have emphasized more on the things I[r]remembered, but I hesitated to do so when I saw her smile,[r]which still carried a sense of loneliness.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v734|
 [fc]
 [vo_ya s="yama0215"]
-[ns]RŠİ[nse]
-uƒRƒƒfƒB‰f‰æ‚È‚ñ‚¾‚¯‚ÇAÅŒã‚É‹ƒ‚¯‚éƒV[ƒ“‚ª‚ ‚Á[r]
-‚Ä‚ËB–Ê”’‚¢‚©‚çA‰Á“¡ŒN‚à‚æ‚©‚Á‚½‚çŠÏ‚Äv[pcms]
+[ns]Yamagishi[nse]
+It's a comedy movie, but there's a scene at the end that[r]makes you cry.[l][er]
+It's interesting, so Kato-kun, if you'd like, you should[r]watch it too.[pcms]
 
 *1761|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¶‚á‚ A‰´‚à‹A‚è‚ÉØ‚è‚Ä‚¢‚±‚¤‚©‚È[v[pcms]
+[ns]Kato[nse]
+Well then, maybe I'll rent it on my way home too.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v735|
 [fc]
 [vo_ya s="yama0216"]
-[ns]RŠİ[nse]
-u‚»‚ê‚ª‚¢‚¢‚æA‚¤‚ñIv[pcms]
+[ns]Yamagishi[nse]
+That's good, yeah![pcms]
 
 *1762|
 [fc]
-ˆê‚ÉØ‚è‚És‚±‚¤‚æA‚ÆŒ¾‚Á‚½‚Â‚à‚è‚¾‚Á‚½‚¯‚ÇAR[r]
-Šİ‚³‚ñ‚É‚Í‚»‚¤•·‚±‚¦‚È‚©‚Á‚½‚İ‚½‚¢‚ÅA”Ş—‚ÍƒjƒRƒb[r]
-‚ÆÎ‚Á‚¾‚¯‚¾‚Á‚½ccB[pcms]
+I intended to say, Let's go rent it together, but it seems[r]Yamagishi-san didn't hear it that way.[l][er]
+She just smiled softly...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v736|
 [fc]
 [vo_ya s="yama0217"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒN‚Ì‚¨‚·‚·‚ß‰f‰æ‚ÍH@ƒAƒNƒVƒ‡ƒ“Œn‚Æ‚©‚Å‚à‚¢[r]
-‚¢‚æv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun, what's your recommended movie?[l][er]
+It can be an action movie or something else.[pcms]
 
 *1763|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤‚¾‚È[ccv[pcms]
+[ns]Kato[nse]
+Well...[pcms]
 
 *1764|
 [fc]
-³’¼A‰´‚ÍƒeƒŒƒr‚Å‚â‚Á‚Ä‚¢‚é‰f‰æ‚µ‚©ŠÏ‚È‚¢B[r]
-‚»‚ê‚Å‚àŠÏ‚Ä‚¨‚¯‚ÎA‰f‰æD‚«‚ÌRŠİ‚³‚ñ‚ÆA‘½­A˜b[r]
-‚ª‚Å‚«‚é‚©‚ç‚¾B[pcms]
+Honestly, I only watch movies that are shown on TV.[l][er]
+But even so, if I watch them, I can have some conversations[r]with Yamagishi-san, who loves movies.[pcms]
 
 *1765|
 [fc]
-‚¾‚¢‚½‚¢ƒoƒCƒg‚ğ‚µ‚Ä‚¢‚È‚¢‰´‚ÉAçŒÜ•S‰~‚©A‚»‚êˆÈ[r]
-ã‚·‚é‰f‰æ‚Ìƒ`ƒPƒbƒg‚È‚ñ‚ÄA‚»‚¤‚»‚¤”ƒ‚¦‚é‚à‚ñ‚¶‚á[r]
-‚È‚¢‚ñ‚¾B[pcms]
+It's not like I, who hardly works part-time, can easily[r]afford movie tickets that cost 1,500 yen or more.[pcms]
 
 *1766|
 [fc]
-‚»‚ê‚Å‚àŠÏ‚Ä‚İ‚½‚¢‰f‰æ‚Í‚ ‚Á‚½‚©‚çA‰´‚Í‚»‚ê‚ğƒlƒ^[r]
-‚É‚µ‚æ‚¤‚Æl‚¦‚½B[pcms]
+I still had a movie I wanted to watch, so I thought about[r]using that as a topic.[pcms]
 
 *1767|
 [fc]
-[ns]‰Á“¡[nse]
-uƒIƒXƒXƒ‚Á‚Ä‚¢‚¤‚©AŠÏ‚½‚¢‚Æv‚Á‚Ä‚é‚â‚Â‚È‚ç‚ ‚é[r]
-‚æBŒ³Xƒ}ƒ“ƒK‚Å‚â‚Á‚Ä‚Ä‚³A¡“x‰f‰æ‚É‚È‚é‚â‚ÂA’m[r]
-‚ç‚È‚¢H@Ì‚Ì“ú–{‚ª•‘‘ä‚È‚ñ‚¾‚¯‚Çv[pcms]
+[ns]Kato[nse]
+Well, it's not so much a recommendation, but there's one[r]that I want to watch.[l][er]
+It was originally a manga, and now they're making it into a[r]movie.[l][er]
+Have you heard of it? It's set in old Japan.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v737|
 [fc]
 [vo_ya s="yama0218"]
-[ns]RŠİ[nse]
-u‚»‚ê‚Á‚ÄAº˜a‚Ì‰‚ß‚Ì ‚ªƒe[ƒ}‚Ì‰f‰æ‚¶‚á‚È‚¢H[r]
-„‚à‚ ‚êŠÏ‚Ä‚İ‚½‚¢‚ñ‚¾`Iv[pcms]
+[ns]Yamagishi[nse]
+Is that a movie set in the early Showa period?[l][er]
+I also want to watch that~![pcms]
 
 *1768|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ê—Ç‚³‚»‚¤‚¾‚æ‚ËI@‰´Aƒ}ƒ“ƒK‚Ì•û‚ÍŒ‹\“Ç‚ñ‚Å[r]
-‚Ä‚³A‚»‚ê‚Å‹»–¡‚ª‚ ‚é‚ñ‚¾v[pcms]
+[ns]Kato[nse]
+That seems good, right? I've actually read quite a bit of[r]the manga, so I'm interested in it.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v738|
 [fc]
 [vo_ya s="yama0219"]
-[ns]RŠİ[nse]
-u‚»‚¤‚È‚ñ‚¾‚ŸI@„‚à‚ ‚Ìƒ}ƒ“ƒKD‚«`Iv[pcms]
+[ns]Yamagishi[nse]
+Oh, really! I also love that manga~![pcms]
 
 *1769|
 [fc]
-[ns]‰Á“¡[nse]
-uRŠİ‚³‚ñ‚à“Ç‚ñ‚Å‚ñ‚ÌIH@‚¨‚§`Iv[pcms]
+[ns]Kato[nse]
+Yamagishi-san, you've read it too!?[l][er]
+Oh~![pcms]
 
 *1770|
 [fc]
-©•ª‚ª‚¢‚¢‚Æv‚Á‚Ä‚¢‚é‚à‚Ì‚ğARŠİ‚³‚ñ‚à‚¢‚¢‚Æv‚Á[r]
-‚Ä‚¢‚½‚±‚Æ‚ªA‰´‚É‚Í¦‚­Šğ‚µ‚­‚ÄA”Ş—‚Æ‚Ì‹——£‚ª­[r]
-‚µk‚Ü‚Á‚½‚æ‚¤‚ÉŠ´‚¶‚Ä‚¢‚½B[pcms]
+I felt really happy that Yamagishi-san also thought the same[r]thing as me, something that I thought was good.[l][er]
+It felt like the distance between us had slightly shortened.[pcms]
 
 *1771|
 [fc]
-‚»‚¤‚¾ccB[pcms]
+Well...[pcms]
 
 *1772|
 [fc]
-¡‚Ì‚±‚Ìó‹µ‚È‚çARŠİ‚³‚ñ‚ª‘O‚ÉŒ¾‚Á‚Ä‚½w‹C‚É‚È‚é[r]
-’jqx‚Ì‚±‚Æ‚ğA•·‚«o‚¹‚é‚©‚à‚µ‚ê‚È‚¢ccB[pcms]
+Given the current situation, I might be able to find out[r]about the interesting guy that Yamagishi-san mentioned[r]before...[pcms]
 
 *1773|
 [fc]
-‰´‚ÍŠÖŒW‚È‚¢˜b‚ğ‚µ‚È‚ª‚çAw‹C‚É‚È‚é’jqx‚Ì˜b‚ğØ[r]
-‚èo‚·ƒ`ƒƒƒ“ƒX‚ğ‰M‚Á‚½B[pcms]
+While talking about unrelated topics, I eagerly awaited the[r]chance to bring up the topic of the interesting guy that[r]Yamagishi-san mentioned.[pcms]
 
 *1774|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚Ìƒ}ƒ“ƒK‚Ì’†‚Éo‚Ä‚­‚éAÌ‚Ì“ú–{‚Ì¶Šˆ‚Á‚Ä‚¢‚¤[r]
-‚Ì‚ªA‚È‚ñ‚©V‘N‚Å‚³B‰´‚Í‚»‚ê‚ªD‚«‚È‚ñ‚¾‚¯‚ÇAR[r]
-Šİ‚³‚ñ‚Í‚È‚ñ‚ÅHv[pcms]
+[ns]Kato[nse]
+The depiction of life in old Japan that appears in that[r]manga feels somehow fresh.[l][er]
+I personally like it, but Yamagishi-san, why do you like it?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v739|
 [fc]
 [vo_ya s="yama0220"]
-[ns]RŠİ[nse]
-u‚ ‚Ìƒ}ƒ“ƒK‚Á‚ÄA‚¢‚ë‚ñ‚È‚¨˜b‚ª‚ ‚é‚¯‚ÇA‚Ù‚Ì‚Ú‚Ì[r]
-‚µ‚Ä‚ÄS‚ª‚ ‚Á‚½‚©‚­‚È‚é‚¨˜b‚ª‘½‚¢‚Å‚µ‚åB‚»‚¤‚¢‚¤[r]
-‚¨˜b‚ÉA‚È‚ñ‚©–ü‚³‚ê‚éŠ´‚¶‚ª‚·‚é‚ñ‚¾v[pcms]
+[ns]Yamagishi[nse]
+That manga has various stories, but many of them are[r]heartwarming and make your heart feel warm.[l][er]
+I feel healed by those kinds of stories.[pcms]
 
 *1775|
 [fc]
-[ns]‰Á“¡[nse]
-u‚È‚é‚Ù‚Ç‚Ë[B‚¶‚á‚ A‚»‚¤‚¢‚¤˜b‚Ì‚È‚©‚ÅA‚Ç‚ê‚ª[r]
-ˆê”ÔD‚«Hv[pcms]
+[ns]Kato[nse]
+I see. Well then, among those stories, which one is your[r]favorite?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v740|
 [fc]
 [vo_ya s="yama0221"]
-[ns]RŠİ[nse]
-u“ï‚µ‚¢‚È‚Ÿ`ccB‚¤`‚ñA‚ ‚ê‚©‚ÈB‘Ê‰Ùq‰®‚Ì‚¨[r]
-‚¶‚¢‚³‚ñ‚ÆAq‹Ÿ‚Ì‚¨˜bv[pcms]
+[ns]Yamagishi[nse]
+Hmm, it's a tough choice... Hmm, I think it would be the one[r]about the old man who runs a candy store and the story of[r]the children.[pcms]
 
 *1776|
 [fc]
-‚»‚±‚Å”Ş—‚ÍA‚»‚ê‚Ü‚Å‚¹‚Á‚©‚­Á‚¦‚Ä‚¢‚½â‚µ‚»‚¤‚È[r]
-ÎŠç‚ğA‚Ü‚½ì‚Á‚½B[pcms]
+And there, she once again put on the lonely smile that had[r]disappeared until then.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v741|
 [fc]
 [vo_ya s="yama0222"]
-[ns]RŠİ[nse]
-u‚ ‚Ì“ñl‚Á‚Ä–{“–‚Ìeq‚¶‚á‚È‚¢‚Ì‚ÉA–{“–‚ÌeqˆÈ[r]
-ã‚ÌŒq‚ª‚è‚ª‚ ‚é‚æ‚¤‚ÉŒ©‚¦‚È‚¢H@‚ ‚Ì‚¨˜b‚ğ“Ç‚Ş“x[r]
-‚ÉA‘A‚Ü‚µ‚¢‚ÈA‚Á‚Äv‚¤‚ñ‚¾ccv[pcms]
+[ns]Yamagishi[nse]
+Even though they're not actually parent and child, don't[r]they seem to have a connection that goes beyond that?[l][er]
+Every time I read that story, I can't help but feel[r]envious...[pcms]
 
 *1777|
 [fc]
-‚»‚ê‚«‚èA”Ş—‚Í‚¤‚Â‚Ş‚¢‚Ä–Ù‚Á‚Ä‚µ‚Ü‚Á‚ÄAw‹C‚É‚È[r]
-‚é’jqx‚ª’N‚©‚ğ•·‚«o‚¹‚é‚æ‚¤‚È‹ó‹C‚¶‚á‚È‚¢B[pcms]
+She then fell silent, looking down, and it didn't feel like[r]the kind of atmosphere where I could ask her about the[r]interesting guy.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *1778|
 [fc]
-Œv‚ğŒ©‚é‚ÆAŒß‘OO‚É‚È‚ë‚¤‚Æ‚µ‚Ä‚¢‚½B[r]
-RŠİ‚³‚ñ‚à‚à‚¤–°‚¢‚¾‚ë‚¤‚µA‚±‚Ì˜b‚ğ‚·‚é‚Ì‚ÍA‚Ü‚½[r]
-¡“x‚¾‚ÈccB[pcms]
+When I looked at the clock, it was about to be three in the[r]morning.[l][er]
+Yamagishi-san must be tired by now, so I guess I'll save[r]this conversation for another time...[pcms]
 
 *1779|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚»‚ë‚»‚ëQ‚æ‚¤‚©B‚à‚¤O‚¾‚µv[pcms]
+[ns]Kato[nse]
+Ah, it's about time to go to bed.[l][er]
+It's already three o'clock.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v742|
 [fc]
 [vo_ya s="yama0223"]
-[ns]RŠİ[nse]
-u‚ñA‚»‚¤‚¾‚Ëccv[pcms]
+[ns]Yamagishi[nse]
+Hmm, yeah...[pcms]
 
 *1780|
 [fc]
-RŠİ‚³‚ñ‚Í‚»‚Ì‚Ü‚ÜŠ÷‚É“Ë‚Á•š‚µ‚ÄA‰´‚ÍˆÖq‚ğ•À‚×‚Ä[r]
-‚»‚Ìã‚ÉQ‚»‚×‚Á‚ÄA–Ú‚ğ‚Â‚Ô‚Á‚½B[pcms]
+Yamagishi-san collapsed onto the desk as is, and I arranged[r]the chairs and lay down on top of one, closing my eyes.[pcms]
 
 ;//blackout
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//¦ğŒ•ªŠò
-;//Eflag:—Dƒ‹[ƒgƒNƒŠƒA@‚ªOFF;//[02076]‚Ö
-;//Eflag:—Dƒ‹[ƒgƒNƒŠƒA@‚ªON;//[03023]‚Ö
+;//â€»æ¡ä»¶åˆ†å²
+;//ãƒ»flag:å„ªãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒOFF;//[02076]ã¸
+;//ãƒ»flag:å„ªãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒON;//[03023]ã¸
 
 [if exp="sf.g_yuu_clear==0"]
 	[jump target=*02088_H_TOP storage="02088_H.ks"]

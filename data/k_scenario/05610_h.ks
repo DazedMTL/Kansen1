@@ -1,52 +1,49 @@
 
-;//¡ËƒuƒƒbƒN05610wS’n‚æ‚¢’E—Íx
-;//;//BG:’n‰ººFÁ“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05610ã€å¿ƒåœ°ã‚ˆã„è„±åŠ›ã€
+;//;//BG:åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05610_H_TOP
-;[debug_win]‚È‚¤@05610_H[debug_win_end]
-;*SceneSet|wS’n‚æ‚¢’E—Íx
+;[debug_win]ãªã†ã€€05610_H[debug_win_end]
+;*SceneSet|ã€å¿ƒåœ°ã‚ˆã„è„±åŠ›ã€
 
-;//flag:“µƒ‹[ƒgƒtƒ[@Next@•\¦
+;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€Nextã€€è¡¨ç¤º
 ;//;//BG:bg23b
 
 [bg storage="bg23b"]
 [trans_c cross time=500]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05610 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05610 = 1"]
 
 [ChrSetEx layer=1 chbase="sae_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_a_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2461|
 [fc]
 [vo_sa s="sae0620"]
-[ns]²”Œ[nse]
-uccccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦â€¦â€¦[l][er]
 
 *5902|
 [fc]
-[ns]‰Á“¡[nse]
-uccccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦â€¦â€¦[l][er]
 
 *5903|
 [fc]
-Œq‚ª‚è‚ª‰ğ‚¯‚Ä‚àA‰´‚Æ²”Œ‚Í‚¸‚Á‚Æ•ø‚«‡‚Á‚½‚Ü‚Ü‚Å[r]
-‚¢‚½B[pcms]
+Even if our connection is severed, Saeki and I will continue[r]to embrace each other.[pcms]
 
 *5904|
 [fc]
-‚¨Œİ‚¢‰½‚à’‚ç‚È‚¢‚Ü‚ÜA‚Ç‚ê‚®‚ç‚¢‚ÌŠÔ‚ªŒo‚Á‚½‚Ì[r]
-‚¾‚ë‚¤‚©B[pcms]
+I wonder how much time has passed without either of us[r]saying anything.[pcms]
 
 *5905|
 [fc]
-ŠO‚ª¡‚Ç‚¤‚È‚Á‚Ä‚¢‚é‚Ì‚©A‰´‚Íƒ{ƒ“ƒ„ƒŠ‚ÆAŠO‚Ì—lq[r]
-‚ğ‘z‘œ‚µ‚Ä‚¢‚½B[pcms]
+I was vaguely imagining what was happening outside.[pcms]
 
 ;	/*
 ;	[ChrSetEx layer=1 chbase="sae_c_a_01"]
@@ -54,57 +51,54 @@
 ;	[ChrSetParts layer=1 chface="sae_c_a_02"]
 ;	[trans_c cross time=150]
 ;	*/
-;—§‚¿
+;ç«‹ã¡
 
 *v2462|
 [fc]
 [vo_sa s="sae0621"]
-[ns]²”Œ[nse]
-u‚ ‚ê‚¾‚¯ccv[pcms]
+[ns]Saeki[nse]
+That much...[pcms]
 
 *5908|
 [fc]
-‚»‚ê‚Ü‚Å‰´‚Ì‹¹‚ÉŠç‚ğ–„‚ß‚Ä‚¢‚½²”Œ‚ªA•sˆÓ‚É“ª‚ğã[r]
-‚°A^Œ•‚ÈŠç‚ğ‚µ‚ÄŒû‚ğŠJ‚¢‚½B[pcms]
+Saeki, who had been burying her face in my chest until then,[r]suddenly lifted her head and opened her mouth with a serious[r]expression.[pcms]
 
 *5909|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ñccHv[pcms]
+[ns]Kato[nse]
+Hm...?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_a_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_a_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2463|
 [fc]
 [vo_sa s="sae0622"]
-[ns]²”Œ[nse]
-ucc„‚ªl‘O‚ÅA‚ ‚ê‚¾‚¯—Ü‚ğŒ©‚¹‚½‚Ì‚ÍA‚ ‚È‚½‚ª[r]
-‰‚ß‚Ä‚Å‚·B‚»‚ê‚Éccv[pcms]
+[ns]Saeki[nse]
+... The first time I showed tears in front of others was[r]because of you.[l][er]
+And...[pcms]
 
 *5910|
 [fc]
-²”Œ‚ªŠç‚ğÔ‚­‚µA^‚Á’¼‚®‚È–Ú‚Å‰´‚ğŒ©‚Â‚ß‚Ä‚­‚éB[r]
-”M‚­‚È‚Á‚½²”Œ‚Ì–j‚ğ—D‚µ‚­•‚Å‚È‚ª‚çA‰´‚à^‚Á’¼‚®[r]
-‚É‚»‚Ì–Ú‚ğŒ©‚Â‚ß•Ô‚µ‚½B[pcms]
+Saeki's face turned red, and she looked straight into my[r]eyes.[l][er]
+While gently stroking Saeki's flushed cheek, I also looked[r]straight back into her eyes.[pcms]
 
 *5911|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚ê‚ÉA‰½Hv[pcms]
+[ns]Kato[nse]
+And, what?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2464|
 [fc]
 [vo_sa s="sae0623"]
-[ns]²”Œ[nse]
-u‚»‚ê‚Écc‚±‚¤‚µ‚Ä—‡‚Å•ø‚«‡‚¤‚Ì‚àA“–‘R‚Ì–‚Å‚Í[r]
-‚ ‚é‚¯‚ê‚ÇA‚ ‚È‚½‚ª‰‚ß‚Ä‚Å‚·‚©‚çv[pcms]
+[ns]Saeki[nse]
+And... it's only natural for us to embrace each other naked[r]like this, but you're the first person I've done it with.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -113,18 +107,16 @@
 
 *5912|
 [fc]
-Æ‚ê‰B‚µ‚È‚Ì‚©A²”Œ‚ÍŒ¾‚¢I‚í‚é‚Æ‚·‚®‚ÉA‚Ü‚½‰´‚Ì[r]
-‹¹‚ÉŠç‚ğ–„‚ß‚½B[pcms]
+After finishing her words, Saeki immediately buried her face[r]in my chest again, as if trying to hide her embarrassment.[pcms]
 
 *5913|
 [fc]
-‰´‚Í²”Œ‚Ì‘Ì‚ğA‚³‚Á‚«‚æ‚è‚à‹­‚­•ø‚«‚µ‚ß‚ÄA“ª‚ğ—D[r]
-‚µ‚­•‚Å‚Ä‚â‚Á‚½B[pcms]
+I held Saeki's body even tighter than before and gently[r]stroked her head.[pcms]
 
 *5914|
 [fc]
-[ns]‰Á“¡[nse]
-u‰´‚¾‚Á‚ÄA²”Œ‚ª‰‚ß‚Ä‚¾‚æccv[pcms]
+[ns]Kato[nse]
+I'm the first for Saeki too...[pcms]
 
 ;	/*
 ;	[ChrSetEx layer=1 chbase="sae_c_a_01"]
@@ -132,49 +124,49 @@
 ;	[ChrSetParts layer=1 chface="sae_c_a_02"]
 ;	[trans_c cross time=150]
 ;	*/
-;—§‚¿
+;ç«‹ã¡
 
 *v2465|
 [fc]
 [vo_sa s="sae0624"]
-[ns]²”Œ[nse]
-u‚Í‚¢ccv[pcms]
+[ns]Saeki[nse]
+Yes...[pcms]
 
 *5917|
 [fc]
-•ø‚«‚µ‚ß‚Ä‚¢‚é²”Œ‚Ì‘Ì‚ÌA—D‚µ‚¢‰·‚©‚³‚Æ_‚ç‚©‚¢“õ[r]
-‚¢‚ÅA‰´‚ÍS’n‚æ‚­‚È‚èAáÙ‚ªd‚­‚È‚Á‚Ä‚«‚Ä‚¢‚½B[pcms]
+Saeki's body, which I was embracing, felt warm and[r]comforting with a gentle scent.[l][er]
+It made me feel at ease, and my eyelids began to feel heavy.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_a_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2466|
 [fc]
 [vo_sa s="sae0625"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñccHv[pcms]
+[ns]Saeki[nse]
+Kato-san...?[pcms]
 
 *5918|
 [fc]
-©‘R‚ÉáÙ‚ª•Â‚¶AˆÓ¯‚ª‰“‚­‚È‚Á‚Ä‚¢‚­’†‚ÅA‰´‚Í‰‚ß[r]
-‚Ä¨‚É‚·‚éA²”Œ‚Ì¬‚³‚­A—D‚µ‚­Î‚¤º‚ğ•·‚¢‚½B[pcms]
+As my eyelids naturally closed and my consciousness began to[r]fade, I heard Saeki's small, gentle laughter for the first[r]time.[pcms]
+[l][er]
 
 [ChrSetEx layer=1 chbase="sae_a_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_a_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2467|
 [fc]
 [vo_sa s="sae0626"]
-[ns]²”Œ[nse]
-uƒtƒtƒbcc‚¨‚â‚·‚İ‚È‚³‚¢ccv[pcms]
+[ns]Saeki[nse]
+Hehe... Goodnight...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -186,5 +178,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05620]‚Ö
+;//[05620]ã¸
 [jump target=*05620_TOP storage="05620.ks"]

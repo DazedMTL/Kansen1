@@ -1,12 +1,12 @@
 
-;//¡ËƒuƒƒbƒN02162wŠó–]‚Ì–é–¾‚¯x
-;//BG:‰®ãF’©
-;//“oêl•¨GålŒöE—D
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02162ã€å¸Œæœ›ã®å¤œæ˜ã‘ã€
+;//BG:å±‹ä¸Šï¼šæœ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
 
 *02162_TOP
-;[debug_win]‚È‚¤@02162[debug_win_end]
+;[debug_win]ãªã†ã€€02162[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02162 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02162 = 1"]
 
 [eval exp="f.prologue_route = 0"]
 [eval exp="f.yuu_route1 = 0"]
@@ -19,11 +19,11 @@
 [eval exp="f.hitomi_route4 = 0"]
 [eval exp="f.infection_route = 0"]
 
-;*SceneSet|wŠó–]‚Ì–é–¾‚¯x
+;*SceneSet|ã€å¸Œæœ›ã®å¤œæ˜ã‘ã€
 
-;//flag:—Dƒ‹[ƒgƒtƒ[@PART‚R@•\¦
+;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€PARTï¼“ã€€è¡¨ç¤º
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 
 [bgm001]
 
@@ -32,216 +32,202 @@
 [bg storage="bg22d"]
 [trans_c cross time=1000]
 
-;//SE:’¹‚Ì‚³‚¦‚¸‚è
+;//SE:é³¥ã®ã•ãˆãšã‚Š
 
 [se0 storage="se047"]
 
 *2932|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ñccv[pcms]
+[ns]Kato[nse]
+Hm...[pcms]
 
 *2933|
 [fc]
-áÙ‚ÉŠ´‚¶‚é‹­‚¢Œõ‚ÅA‰´‚Í–Ú‚ğŠo‚Ü‚µ‚½B[pcms]
+I woke up from the strong light that I felt on my eyelids.[pcms]
 
 *2934|
 [fc]
-‰´‚Íğ“ú‚Ì–é‚Ìo—ˆ–‚ªA‘S‚Ä–²‚¾‚Á‚½‚Ì‚Å‚Í‚È‚¢‚©‚Æ[r]
-Š´‚¶‚ÄA‹}‚¢‚Å—×‚ÉŠç‚ğŒü‚¯‚½B[pcms]
+I felt like yesterday's events might have all been a dream,[r]so I quickly turned my face towards the person next to me.[pcms]
+[l][er]
 
 *v1145|
 [fc]
 [vo_ya s="yama0433"]
-[ns]RŠİ[nse]
-uccccv[pcms]
+[ns]Yamagishi[nse]
+â€¦â€¦â€¦â€¦[l][er]
 
 *2935|
 [fc]
-‰´‚ÉK‚¹‚ğ‚­‚ê‚½—‚Ìq‚ÍA‚¿‚á‚ñ‚Æ—×‚É‚¢‚ÄAQ‘§‚ğ[r]
-—§‚Ä‚Ä‚¢‚½B[pcms]
+The girl who brought me happiness was right there next to[r]me, peacefully sleeping and breathing softly.[pcms]
 
 *2936|
 [fc]
-[ns]‰Á“¡[nse]
-uƒnƒ@cc—Ç‚©‚Á‚½ccv[pcms]
+[ns]Kato[nse]
+*sigh*... Thank goodness...[pcms]
 
 *2937|
 [fc]
-ğ“ú‚Ì–é‚É‹N‚«‚½‚±‚Æ‚ª–²‚Å‚Í‚È‚¢‚±‚Æ‚ğA‚»‚ê‚ÉA–³[r]
-–‚È–‚ğB[pcms]
+To confirm that what happened last night was not a dream,[r]and that everything is alright.[pcms]
 
 *2938|
 [fc]
-‰´‚Í‰ü‚ß‚ÄÀŠ´‚µ‚ÄA‚»‚ÌŠğ‚µ‚³‚Év‚í‚¸Î‚¢‚ª‚±‚İã[r]
-‚°‚Ä‚«‚½B[pcms]
+I felt it again and couldn't help but laugh at the joy that[r]welled up inside me.[pcms]
 
 *2939|
 [fc]
-[ns]‰Á“¡[nse]
-uƒNccƒNƒNƒbccƒtƒtccv[pcms]
+[ns]Kato[nse]
+Kuh... Kukku... Fufu...[pcms]
 
 *v1146|
 [fc]
 [vo_ya s="yama0434"]
-[ns]RŠİ[nse]
-u‚ñ‚£ccv[pcms]
+[ns]Yamagishi[nse]
+Mmm...[pcms]
 
 *2940|
 [fc]
-”E‚ÑÎ‚¢‚Å‘Ì‚ª—h‚ê‚½‚¹‚¢‚ÅARŠİ‚³‚ñ‚Ì–Ú‚ğŠo‚Ü‚µ‚Ä[r]
-‚µ‚Ü‚Á‚½‚æ‚¤‚¾‚Á‚½B[pcms]
+It seemed that my body shook with a suppressed laughter,[r]which caused Yamagishi-san to wake up.[pcms]
 
 *2941|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ [cc‚²‚ß‚ñA‹N‚±‚µ‚¿‚á‚Á‚½Hv[pcms]
+[ns]Kato[nse]
+Ah... sorry, did I wake you up?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1147|
 [fc]
 [vo_ya s="yama0435"]
-[ns]RŠİ[nse]
-u‚£cc‚¨‚Ÿ‚æ`ccv[pcms]
+[ns]Yamagishi[nse]
+Uhh... Good morning~...[pcms]
 
 *2942|
 [fc]
-ğ“ú‚Ì’©‚É‚à•·‚¢‚½AQ‹N‚«‚Å‚¿‚á‚ñ‚ÆŒ¾‚¦‚Ä‚È‚¢RŠİ[r]
-‚³‚ñ‚Ìw‚¨‚Í‚æ‚¤x‚ÉA‰´‚Í‚Ü‚½”Ş—‚ªˆ¤‚µ‚­‚È‚Á‚½B[pcms]
+I fell in love with her again when I heard Yamagishi-san's[r]good morning that she couldn't say properly when she woke up[r]yesterday morning.[pcms]
 
 *2943|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨‚Í‚æBRŠİ‚³‚ñA‚à‚µ‚©‚µ‚Ä’©ã‚¢Hv[pcms]
+[ns]Kato[nse]
+Good morning. Yamagishi-san, are you perhaps not a morning[r]person?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1148|
 [fc]
 [vo_ya s="yama0436"]
-[ns]RŠİ[nse]
-u‚ñ`cc‚§‚¤‚Å‚à‚È‚¢‚æccv[pcms]
+[ns]Yamagishi[nse]
+Mmm... It's not like that...[pcms]
 
 *2944|
 [fc]
-ã‚¢‚ñ‚¾‚ë‚¤‚ÈA‚«‚Á‚ÆccB[r]
-‚ÜA‰´‚ÍŠ„‚Æ‚·‚®‹N‚«‚ç‚ê‚é‚©‚çAƒvƒ‰ƒXƒ}ƒCƒiƒXƒ[ƒ[r]
-‚¾‚ëB[pcms]
+I guess she's just not a morning person...[l][er]
+Well, I can wake up pretty easily, so it's a zero-sum game.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *2945|
 [fc]
-‰º‚ç‚È‚¢‚±‚Æ‚ğl‚¦‚È‚ª‚çL‚Ñ‚ğ‚µ‚ÄAŠX‚Ì•û‚É–Ú‚ğ‚â[r]
-‚é‚ÆAŠ‚éŠ‚©‚çã‚Á‚Ä‚¢‚½‰Œ‚ÍA•ª‚Æ‚»‚Ì”‚ª­‚È[r]
-‚­‚È‚Á‚Ä‚¢‚½B[pcms]
+While stretching and thinking about trivial things, when I[r]looked towards the town, the smoke rising from various[r]places had significantly decreased in number.[pcms]
 
 *2946|
 [fc]
-‚à‚µ‚©‚µ‚ÄA“’…‚µ‚½‹~••”‘à‚ªA‰Î–‚ğÁ‚µ~‚ß‚Ä‚¢[r]
-‚é‚Ì‚©ccH[pcms]
+Could it be that the rescue team that arrived is[r]extinguishing the fires...?[pcms]
 
 *2947|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ccv[pcms]
+[ns]Kato[nse]
+Ah...[pcms]
 
-;//SE:ƒwƒŠƒRƒvƒ^[‚Ì‰¹@‰“‚¢
+;//SE:ãƒ˜ãƒªã‚³ãƒ—ã‚¿ãƒ¼ã®éŸ³ã€€é ã„
 
 [se0 storage="se033"]
 
 *2948|
 [fc]
-‰´‚Ì„‘ª‚ª³‚µ‚¢‚ÆØ–¾‚·‚é‚©‚Ì‚æ‚¤‚ÉAƒwƒŠƒRƒvƒ^[[r]
-‚âŒR—p‹@‚ç‚µ‚¢”òs‹@‚ªA‰½‹@‚àŠX‚Ìã‹ó‚ğ”ò‚ÑŒğ‚Á‚Ä[r]
-‚¢‚½B[pcms]
+As if to prove my speculation correct, helicopters and[r]military aircraft-like planes were flying around in the sky[r]above the town.[pcms]
 
 *2949|
 [fc]
-[ns]‰Á“¡[nse]
-uRŠİ‚³‚ñccRŠİ‚³‚ñ‚ÁIv[pcms]
+[ns]Kato[nse]
+Yamagishi-san... Yamagishi-san![pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1149|
 [fc]
 [vo_ya s="yama0437"]
-[ns]RŠİ[nse]
-u‚Ó‚¥ccHv[pcms]
+[ns]Yamagishi[nse]
+Huh...?[pcms]
 
 *2950|
 [fc]
-[ns]‰Á“¡[nse]
-u‹~••”‘à‚¾‚æI@ŠX‚Ü‚Å‹~••”‘à‚ª—ˆ‚Ä‚éIIv[pcms]
+[ns]Kato[nse]
+It's the rescue team! The rescue team has arrived in the[r]town!![pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1150|
 [fc]
 [vo_ya s="yama0438"]
-[ns]RŠİ[nse]
-u‚¦cc‚¦IHv[pcms]
+[ns]Yamagishi[nse]
+Eh... eh!?[pcms]
 
 *2951|
 [fc]
-‰´‚Ì—×‚É‹ì‚¯Šñ‚Á‚Ä‚«‚½RŠİ‚³‚ñ‚ÍAŠX‚Ìã‹ó‚ğ”ò‚ÑŒğ[r]
-‚¤ƒwƒŠƒRƒvƒ^[‚â”òs‹@‚ğŒ©‚ÄAŠ®‘S‚É–Ú‚ğŠo‚Ü‚µ‚½‚æ[r]
-‚¤‚¾‚Á‚½B[pcms]
+Yamagishi-san, who ran up to me, completely woke up when she[r]saw the helicopters and planes flying in the sky above the[r]town.[pcms]
 
 *2952|
 [fc]
-[ns]‰Á“¡[nse]
-u‚à‚¤‚·‚®‚±‚±‚É‚à—ˆ‚é‚æB•‚©‚Á‚½‚ñ‚¾‚æA‰´’BIv[pcms]
+[ns]Kato[nse]
+They'll be here soon. We're saved, all of us![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1151|
 [fc]
 [vo_ya s="yama0439"]
-[ns]RŠİ[nse]
-uˆê‚É‹A‚ê‚é‚ÌH@–{“–Hv[pcms]
+[ns]Yamagishi[nse]
+Can we go home together? Really?[pcms]
 
 *2953|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ Aˆê‚É‹A‚ë‚¤Iv[pcms]
+[ns]Kato[nse]
+Ah, let's go home together![pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1152|
 [fc]
 [vo_ya s="yama0440"]
-[ns]RŠİ[nse]
-u‚ ‚Í‚ÁI@‚â‚Á‚½‚Ÿ`‚ÁII@‚ ‚Í‚Í‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Ahaha! We did it!! Ahaha![pcms]
 
 *2954|
 [fc]
-[ns]‰Á“¡[nse]
-uƒnƒnƒnƒbIv[pcms]
+[ns]Kato[nse]
+Hahaha![pcms]
 
 *2955|
 [fc]
-‰´’B‚Í•ø‚«‡‚¢A”ò‚Ñ’µ‚Ë‚È‚ª‚çA•‚¯‚ª—ˆ‚½‚±‚Æ‚ğŠì[r]
-‚Ñ‡‚Á‚½B[pcms]
+We embraced each other, jumping for joy, celebrating the[r]fact that help had arrived.[pcms]
 
-;//[02163]‚Ö
+;//[02163]ã¸
 [jump target=*02163_TOP storage="02163.ks"]

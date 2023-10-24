@@ -1,23 +1,23 @@
 
-;//¡ËƒuƒƒbƒN05910wâ–]‚ÆAŠó–]x
-;//BG:–³‚µ
-;//“oêl•¨GålŒöE“µ
-;//ŠÔ‘ÑF—[•û
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05910ã€çµ¶æœ›ã¨ã€å¸Œæœ›ã€
+;//BG:ç„¡ã—
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;//æ™‚é–“å¸¯ï¼šå¤•æ–¹
 
 *05910_H_TOP
-;[debug_win]‚È‚¤@05910_H[debug_win_end]
+;[debug_win]ãªã†ã€€05910_H[debug_win_end]
 
-;*SceneSet|wâ–]‚ÆAŠó–]x
+;*SceneSet|ã€çµ¶æœ›ã¨ã€å¸Œæœ›ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05910 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05910 = 1"]
 
-;//flag:“µƒ‹[ƒgƒtƒ[@happy@•\¦
+;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€happyã€€è¡¨ç¤º
 
-;//ôFBGM011
+;//â™ªï¼šBGM011
 
 ;[bgm011]
 
-;//BG:bg–³‚µ
+;//BG:bgç„¡ã—
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=500]
 
@@ -27,19 +27,17 @@
 
 *6367|
 [fc]
-’·‚¢ŠÔ‚ğ‚©‚¯‚Ä²”Œ‚ª‹ƒ‚«‚â‚Ş‚Ì‚ğ‘Ò‚¿A”à‚ª‚«”ò[r]
-‚ñ‚Å‚µ‚Ü‚Á‚½o“ü‚èŒû‚©‚çA‰´’B‚ÍAŠwH‚Ö‚Æã‚ª‚Á‚½B[pcms]
+After waiting for a long time for Saeki to stop crying, we[r]went up to the school cafeteria through the blown-off[r]entrance door.[pcms]
 
 [bg storage="effect_white"][trans_c cross time=1001]
 
 *6368|
 [fc]
-•Ó‚è‚©‚ç‚ÍA‰½‚Ì•¨‰¹‚à‚µ‚È‚©‚Á‚½B[pcms]
+There was no sound coming from the surroundings.[pcms]
 
 *6369|
 [fc]
-‚Ü‚é‚ÅA‰´’B“ñl‚Ì‘¼‚ÍA’N‚à‚¢‚È‚¢¯‚É—ˆ‚½‚İ‚½‚¢‚¾[r]
-‚Á‚½B[pcms]
+It felt as if we had come to a deserted star, with no one[r]else but the two of us.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -52,82 +50,73 @@
 
 *6370|
 [fc]
-Š¢âI‚ğ‘~‚«•ª‚¯A‚æ‚¤‚â‚­ŠO‚Éo‚½‰´’B‚Ì–Ú‚Ì‘O‚ÉL‚ª[r]
-‚Á‚Ä‚¢‚½‚Ì‚ÍA•ö‚ê‚½•Ç‚âAÄ‚¯‚±‚°‚½–ØA‚»‚ê‚Écc[pcms]
+We finally made it outside, pushing through the rubble, and[r]what spread out before us was collapsed walls, charred wood,[r]and...[pcms]
 
 *6371|
 [fc]
-wlx‚¾‚Á‚½‚ç‚µ‚¢A•‚¢‰ò‚ª–³”‚É“]‚ª‚Á‚Ä‚¢‚½B[r]
-’j‚à—‚à•ª‚©‚ç‚È‚¢A•‚¢‰òB[pcms]
+There seemed to be 'people', countless black masses rolling[r]around.[l][er]
+They were neither men nor women, just black masses.[pcms]
 
 *6372|
 [fc]
-‚¿‚¬‚ê‚½˜r‚âA‘«B‚»‚ê‚ÉA“ªccB[pcms]
+Severed arms, legs. And, heads...[pcms]
 
 *6373|
 [fc]
-‘½•ªwlx‚Ìˆê•”‚¾‚Á‚½wƒ‚ƒmx‚ªA‚ ‚¿‚±‚¿‚É“]‚ª‚Á[r]
-‚Ä‚¢‚½B[pcms]
+Perhaps, scattered 'parts' of 'people' were rolling around[r]here and there.[pcms]
 
 *6374|
 [fc]
-‚±‚Ì’†‚ÌA‚Ç‚ê‚©‚ÍccRŠİ‚³‚ñ‚âcc^–çcc‚ÌccB[pcms]
+One of these... could be Yamagishi-san or Shinya...[pcms]
 
 *6375|
 [fc]
-‚Å‚àccB[r]
-—]‚è‚É‚à”ñŒ»À“I‚ÈŒõŒi‚Ì‚¹‚¢‚ÅA•sv‹c‚Æ‰½‚ÌŠ´î‚à[r]
-‚È‚©‚Á‚½B[pcms]
+But... Because of the incredibly unreal scene, strangely, I[r]didn't feel any emotions.[pcms]
 
 *6376|
 [fc]
-‰´’B‚É‚ÍA‚à‚¤‰ğ‚Á‚Ä‚¢‚½B[r]
-e—F‚âARŠİ‚³‚ñ’B‚É‚ÍA‚à‚¤A“ñ“x‚ÆccB[pcms]
+We already knew. Our best friends, Yamagishi-san and the[r]others, we would never see them again...[pcms]
 
 *6377|
 [fc]
-‚İ‚ñ‚È‚ÌŠç‚ğA‚à‚¤“ñ“x‚ÆŒ©‚é‚±‚Æ‚Ío—ˆ‚È‚¢–‚ğB[r]
-“ñ“x‚Æ‰ï‚¤–‚ªA–³‚¢–‚ğccB[pcms]
+We would never be able to see everyone's faces again.[l][er]
+We would never meet again...[pcms]
 
 *6378|
 [fc]
-‰´’B‚ÍA‚¸‚Á‚Æ–³Œ¾‚Ì‚Ü‚Ü‚¾‚Á‚½B[pcms]
+We remained silent the whole time.[pcms]
 
 *6379|
 [fc]
-cc‚»‚µ‚ÄA‚¢‚Â‚ÌŠÔ‚É‚©AZ–å‚Ì‚ ‚Á‚½êŠ‚Ü‚Å•à‚¢[r]
-‚Ä‚¢‚½ccB[pcms]
+... And then, before we knew it, we had walked to the place[r]where the school gate used to be...[pcms]
 
 *6380|
 [fc]
-Z–å‚ÆŒ¾‚í‚ê‚Ä‚¢‚½‚»‚ÌêŠ‚ÍA‚»‚Ì ‚Ì–Ê‰e‚ğ­‚µ‚¾[r]
-‚¯c‚µ‚ÄA‚ ‚Æ‚Í‚½‚¾Ô‚­õ‚Ü‚Á‚½‹ó‚ªL‚ª‚Á‚Ä‚¢‚½B[pcms]
+The place that was once called the school gate still[r]retained a faint trace of its former appearance, but the[r]rest was just a wide expanse of red-stained sky.[pcms]
 
 *6381|
 [fc]
-[ns]‰Á“¡[nse]
-uƒXƒQƒF‚È‚±‚è‚ácc‚¨‚í‚Á‚ÆIv[pcms]
+[ns]Kato[nse]
+This is incredible... Oh shit![pcms]
 
 *6382|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤‚íccv[pcms]
+[ns]Kato[nse]
+Ugh...[pcms]
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 [se0 storage="se021"]
 [quake_bg xy m]
 
 *v2601|
 [fc]
 [vo_sa s="sae0710"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *6383|
 [fc]
-©•ª‚ªv‚¤‚Ù‚Ç‰ñ•œ‚µ‚Ä‚¢‚È‚©‚Á‚½‚Ì‚©A‘«‰º‚ª‚¨‚Ú‚Â[r]
-‚©‚È‚¢‰´‚ÍA“]‚ª‚Á‚Ä‚¢‚½Š¢âI‚É‚Â‚Ü‚¸‚¢‚ÄA“]‚ñ‚Å‚µ[r]
-‚Ü‚Á‚½B[pcms]
+I must not have recovered as much as I thought, because my[r]legs were unsteady and I stumbled over the scattered debris,[r]falling down.[pcms]
 
 ;//EVENT_CG
 
@@ -142,79 +131,74 @@
 
 *6384|
 [fc]
-[ns]‰Á“¡[nse]
-uƒCƒbƒeƒFccv[pcms]
+[ns]Kato[nse]
+Ouch...[pcms]
 
 *v2602|
 [fc]
 [vo_sa s="sae0711"]
-[ns]²”Œ[nse]
-u‘åä•v‚Å‚·‚©Hv[pcms]
+[ns]Saeki[nse]
+Are you okay?[pcms]
 
 *6385|
 [fc]
-”÷Î‚İ‚È‚ª‚ç·‚µo‚³‚ê‚½²”Œ‚Ìè‚ğA‰´‚Íˆ¬‚èA—§‚¿[r]
-ã‚ª‚Á‚½B[pcms]
+I grasped Saeki's hand that was extended to me with a smile,[r]and stood up.[pcms]
 
 *6386|
 [fc]
-ˆ¬‚Á‚½‚Ü‚Ü—£‚³‚¸A²”Œ‚Ìè‚Ì‰·‚©‚³‚Æ_‚ç‚©‚³‚ÉA‰´[r]
-‚Í‰ü‚ß‚ÄA©•ª‚ª¶‚«‚Ä‚¢‚é‚±‚Æ‚ğÀŠ´‚µ‚½B[pcms]
+I held onto Saeki's hand without letting go, and in the[r]warmth and softness of her hand, I once again felt the[r]reality that I was alive.[pcms]
 
 *6387|
 [fc]
-‰´‚Ìè‚ğ‚µ‚Á‚©‚è‚Æˆ¬‚è’¼‚µA²”Œ‚ª—[“ú‚ÉÆ‚ç‚³‚ê‚½[r]
-Šç‚ğŒü‚¯‚éB[pcms]
+I firmly grasped Saeki's hand again, and she turned her face[r]towards the setting sun.[pcms]
 
 *v2603|
 [fc]
 [vo_sa s="sae0712"]
-[ns]²”Œ[nse]
-u‚Ç‚¤‚µ‚Ü‚·‚©H@‚±‚ê‚©‚çccv[pcms]
+[ns]Saeki[nse]
+What should we do? From now on...[pcms]
 
 *6388|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤‚¾‚Ècc‚Æ‚è‚ ‚¦‚¸A‰Æ‚É‹A‚ë‚¤‚©v[pcms]
+[ns]Kato[nse]
+Yeah... For now, let's go back home.[pcms]
 
 *v2604|
 [fc]
 [vo_sa s="sae0713"]
-[ns]²”Œ[nse]
-u‚Ó‚ÓccA‰ÆccA–³–‚È‚ç‚¢‚¢‚Ì‚Å‚·‚¯‚ÇccA‚Ó[r]
-‚Ó‚ÓccA‚Ó‚Ÿ‚ŸccA‚¤‚Ÿ‚ŸccA‚Ó‚Ó‚Ócc‚­‚Ác[r]
-c‚Ó‚Ÿ‚ÁccA‚Ó‚Óccv[pcms]
+[ns]Saeki[nse]
+Hehe... home... as long as we're safe...[l][er]
+hehehe... aahh... ughh... hehehe...[l][er]
+*gasp*... hehe...[pcms]
 
 *6389|
 [fc]
-²”Œ‚Ì–Ú‚É‚ÍA—[“ú‚ÉÆ‚ç‚³‚ê‚ÄA‹àF‚É‚È‚Á‚½…‚Ì‹Ø[r]
-‚ª“`‚í‚Á‚Ä‚¢‚½B[pcms]
+In Saeki's eyes, illuminated by the setting sun, the streaks[r]of water had turned golden.[pcms]
 
 *6390|
 [fc]
-‚à‚µB[pcms]
+If.[pcms]
 
 [fadeoutbgm time=1000]
-;//SE:ƒwƒŠƒRƒvƒ^[‚Ì‰¹@‰“‚¢
+;//SE:ãƒ˜ãƒªã‚³ãƒ—ã‚¿ãƒ¼ã®éŸ³ã€€é ã„
 ;[se0 storage="se033"]
 [fadeinse buf=0 storage="se033" time=1000 loop=true]
 
 *6391|
 [fc]
-‚à‚µA‰´’B‚Ì‹A‚éêŠ‚ª‚È‚­‚È‚Á‚Ä‚¢‚½‚Æ‚µ‚Ä‚àB[pcms]
+Even if the place we return to disappears.[pcms]
 
 *6392|
 [fc]
-‚à‚µA‚±‚Ì¢‚Ì’†‚É‚Ü‚Æ‚à‚È‚Ì‚ªA‰´’B‚µ‚©c‚³‚ê‚Ä‚¢[r]
-‚È‚­‚Ä‚àB[pcms]
+If, even if there were only the two of us left in this[r]world.[pcms]
 
 *6393|
 [fc]
-²”Œ‚Æˆê‚È‚çccB[pcms]
+If I'm with Saeki...[pcms]
 
 *6394|
 [fc]
-“ñl‚ÅA‚¸‚Á‚ÆA‚¸‚Á‚Æˆê‚ÉccB[pcms]
+Together, just the two of us, forever and ever...[pcms]
 
 [sysbt_meswin clear]
 
@@ -223,14 +207,14 @@
 
 [bg storage="effect_white"][trans_c cross time=1000]
 
-;//SE:ƒwƒŠƒRƒvƒ^[‚Ì‰¹@‰“‚¢
+;//SE:ãƒ˜ãƒªã‚³ãƒ—ã‚¿ãƒ¼ã®éŸ³ã€€é ã„
 ;[se0 storage="se033"]
-;SEƒtƒF[ƒhƒAƒEƒg ‚±‚êg—p‚µ‚½Œã‚Ìpcms‚ÌŒã‚ë‚Åstopse‚µ‚Ä‚­‚¾‚³‚¢Bƒ[ƒh‚·‚é‚Æ~‚ß‚½‚Ì‚É‚Ü‚½–Â‚Á‚Ä‚é‚©‚çB
+;SEãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ ã“ã‚Œä½¿ç”¨ã—ãŸå¾Œã®pcmsã®å¾Œã‚ã§stopseã—ã¦ãã ã•ã„ã€‚ãƒ­ãƒ¼ãƒ‰ã™ã‚‹ã¨æ­¢ã‚ãŸã®ã«ã¾ãŸé³´ã£ã¦ã‚‹ã‹ã‚‰ã€‚
 [fadeoutse buf=0 time=1000]
 [wait_c time=2000]
 ;[stop_se0]
 
-;//¦ƒXƒ^ƒbƒtƒ[ƒ‹‚Ö
+;//â€»ã‚¹ã‚¿ãƒƒãƒ•ãƒ­ãƒ¼ãƒ«ã¸
 
 [fadeoutbgm time=500]
 [stop_se0]
@@ -238,20 +222,20 @@
 [stop_overflow_se]
 [stopse_all]
 
-;//ƒ€[ƒr[Ä¶
-;ƒXƒLƒbƒv‚µ‚Ä‚½‚ç‚Æ‚ñ‚¶‚á‚¤‚©‚çƒXƒLƒbƒv‚Ì‰ğœ
+;//ãƒ ãƒ¼ãƒ“ãƒ¼å†ç”Ÿ
+;ã‚¹ã‚­ãƒƒãƒ—ã—ã¦ãŸã‚‰ã¨ã‚“ã˜ã‚ƒã†ã‹ã‚‰ã‚¹ã‚­ãƒƒãƒ—ã®è§£é™¤
 [cancelskip]
 [video visible=true left=0 top=0 width=800 height=600]
 [openvideo storage="hitomi_ed.mpg"]
 [playvideo]
 [bg storage="effect_black"][trans_c cross time=0]
 
-;ƒ€[ƒr[‚Ì‰¹—Ê•ÏX
+;ãƒ ãƒ¼ãƒ“ãƒ¼ã®éŸ³é‡å¤‰æ›´
 [if exp="sf.bgmplay == 1"]
 	;[video volume="&kag.bgm.currentBuffer.volume2"]
 	;[video volume=60]
-	;‚±‚ê‚Åbgm‚Æ“¯‚¶‚É‚È‚é‚©‚ÈH
-	;‚»‚Ì‚Ü‚Ü‚¾‚Æ‚¿‚å‚Á‚Æ‘å‚«‚¢‚©‚ç‚¿‚å‚Á‚Æ‰º‚°‚é
+	;ã“ã‚Œã§bgmã¨åŒã˜ã«ãªã‚‹ã‹ãªï¼Ÿ
+	;ãã®ã¾ã¾ã ã¨ã¡ã‚‡ã£ã¨å¤§ãã„ã‹ã‚‰ã¡ã‚‡ã£ã¨ä¸‹ã’ã‚‹
 	[eval exp="tf.movie_vol = (sf.dummy_bgmopt/1000)-5"]
 	[video volume="&tf.movie_vol"]
 [elsif exp="sf.bgmplay == 0"]
@@ -259,12 +243,12 @@
 [endif]
 [wv canskip=true]
 
-;//flag:“µƒ‹[ƒgƒNƒŠƒA@on
+;//flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€on
 [if exp="sf.g_hitomi_clear==1"]
 	[jump target=*SEL00_TITLE]
 [endif]
 
-;//ƒ€[ƒr[Ä¶
+;//ãƒ ãƒ¼ãƒ“ãƒ¼å†ç”Ÿ
 [call storage="movie_sub.ks" target=*hitomi_zap_open]
 
 [eval exp="sf.g_hitomi_clear = 1"]
@@ -287,7 +271,7 @@
 
 [wait_c time=1000]
 [eval exp="sf.g_infection = 1"]
-;//ƒ€[ƒr[Ä¶
+;//ãƒ ãƒ¼ãƒ“ãƒ¼å†ç”Ÿ
 [call storage="movie_sub.ks" target=*InfectionRoute_open]
 
 
@@ -299,5 +283,5 @@
 
 [returntitle]
 
-;//¦“µEƒƒCƒ“ƒ‹[ƒgE‚±‚±‚Ü‚Å
-;//wŠ´õi‰¼‘èj|“µEƒUƒbƒsƒ“ƒOƒ‹[ƒgƒeƒLƒXƒgx
+;//â€»ç³ãƒ»ãƒ¡ã‚¤ãƒ³ãƒ«ãƒ¼ãƒˆãƒ»ã“ã“ã¾ã§
+;//ã€æ„ŸæŸ“ï¼ˆä»®é¡Œï¼‰âˆ’ç³ãƒ»ã‚¶ãƒƒãƒ”ãƒ³ã‚°ãƒ«ãƒ¼ãƒˆãƒ†ã‚­ã‚¹ãƒˆã€

@@ -1,16 +1,16 @@
 
-;//¡ËƒuƒƒbƒN05120w‹C‚Ü‚¸‚¢’¾–Ùx
-;//BG:OŠK˜L‰ºF–éF“_“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05120ã€æ°—ã¾ãšã„æ²ˆé»™ã€
+;//BG:ä¸‰éšå»Šä¸‹ï¼šå¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05120_TOP
-;[debug_win]‚È‚¤@05120[debug_win_end]
-;*SceneSet|w‹C‚Ü‚¸‚¢’¾–Ùx
+;[debug_win]ãªã†ã€€05120[debug_win_end]
+;*SceneSet|ã€æ°—ã¾ãšã„æ²ˆé»™ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05120 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05120 = 1"]
 
 ;	/*
-;	;//SE:˜L‰º‚ğ‘–‚é
+;	;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 ;	[se0 storage="se005"]
 ;	*/
 
@@ -19,13 +19,12 @@
 
 *4875|
 [fc]
-OŠK‚Ì—x‚èê‚ÅA—JŸT‚»‚¤‚ÈŠç‚Å•à‚¢‚Ä‚¢‚½²”Œ‚ÉA‰´[r]
-‚Í’Ç‚¢‚Â‚¢‚½B[pcms]
+I caught up with Saeki, who was walking with a gloomy[r]expression on her face, at the third-floor landing.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;//ôFBGM001
+;//â™ªï¼šBGM001
 [bgm001]
 
 ;//BG:bg006c
@@ -37,150 +36,142 @@
 
 *4876|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚ ‚Ì‚³ccv[pcms]
+[ns]Kato[nse]
+Ah, um...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2076|
 [fc]
 [vo_sa s="sae0370"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *4877|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦‚Á‚Æcc‚³‚Á‚«‚Ì‚±‚Æ‚È‚ñ‚¾‚¯‚Çccv[pcms]
+[ns]Kato[nse]
+Um... About what happened earlier...[pcms]
 
 *4878|
 [fc]
-‚¤‚Â‚Ş‚¢‚Ä–Ú‚ğ‡‚í‚³‚¸A•Ô–‚ğ‘Ò‚Â²”Œ‚ÉAƒnƒbƒLƒŠ[r]
-‚Æ‚µ‚½“š‚¦‚ğo‚¹‚È‚¢‚Ì‚ğA‰´‚Í\‚µ–ó‚È‚­v‚Á‚½B[pcms]
+I felt sorry for Saeki, who was looking down and avoiding[r]eye contact, waiting for a clear answer from me that I[r]couldn't give.[pcms]
 
 *4879|
 [fc]
-‚Å‚à¡‚ÍA‚±‚¤‚¢‚¤•—‚É‚µ‚©A‰´‚É‚ÍŒ¾‚¦‚È‚©‚Á‚½B[pcms]
+But for now, this is the only way I could express it to her.[pcms]
 
 *4880|
 [fc]
-[ns]‰Á“¡[nse]
-uƒSƒƒ“cc•Ô–‚ğ‚·‚é‚Ì‚ÍA‚¿‚å‚Á‚ÆŠÔ‚ª‚©‚©‚é‚©[r]
-‚à‚µ‚ê‚È‚¢ccv[pcms]
+[ns]Kato[nse]
+I'm sorry... It might take a little time for me to give you[r]an answer...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2077|
 [fc]
 [vo_sa s="sae0371"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *4881|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚ê‚ÉA¡‚Í‚¢‚È‚­‚È‚Á‚½“z‚ç‚ğA‘‚­‘{‚³‚È‚«‚á‚È[r]
-‚ç‚È‚¢‚Á‚Ä‚Ì‚à‚ ‚é‚µccv[pcms]
+[ns]Kato[nse]
+Besides, we also have to quickly search for the ones who[r]disappeared...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2078|
 [fc]
 [vo_sa s="sae0372"]
-[ns]²”Œ[nse]
-ucc•ª‚©‚è‚Ü‚µ‚½v[pcms]
+[ns]Saeki[nse]
+... I understand.[pcms]
 
 *4882|
 [fc]
-–Ú‚ğ‡‚í‚³‚¸A‚¤‚Â‚Ş‚¢‚½‚Ü‚ÜA²”Œ‚ÍˆêŒ¾A‚»‚ê‚¾‚¯[r]
-‰‚¦‚½B[pcms]
+Saeki, without making eye contact and still looking down,[r]responded with just one word.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2079|
 [fc]
 [vo_sa s="sae0373"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *4883|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *4884|
 [fc]
-‰½‚àŒ¾‚í‚È‚¢²”Œ‚ÆA‰½‚àŒ¾‚¤‚±‚Æ‚ª‚Å‚«‚¸‚É‚¢‚é‰´‚Ì[r]
-ŠÔ‚ğAd‚­A‹C‚Ü‚¸‚¢‹ó‹C‚ª—¬‚ê‚éB[pcms]
+A heavy, awkward silence hangs between Saeki, who says[r]nothing, and me, who can't say anything.[pcms]
 
 *4885|
 [fc]
-ƒnƒbƒLƒŠ‚Æ‚µ‚½•Ô–‚ªo—ˆ‚¸Aƒoƒc‚Ìˆ«‚³‚ğŠ´‚¶‚Ä‚¢‚é[r]
-‰´‚É‚ÍA‚»‚Ì‹ó‹C‚ª‚æ‚èd‚­A‹C‚Ü‚¸‚­Š´‚¶‚½B[pcms]
+The air felt even heavier and more awkward for me, who felt[r]embarrassed for not being able to give a clear answer.[pcms]
 
 *4886|
 [fc]
-‰´‚Í‚»‚Ì‹ó‹C‚É‘Ï‚¦‚ç‚ê‚È‚­‚È‚Á‚ÄAl‘{‚µ‚ğ‘±‚¯‚é‚±[r]
-‚Æ‚ğ²”Œ‚É‘£‚µ‚½B[pcms]
+I couldn't bear that atmosphere any longer, so I urged Saeki[r]to continue searching for the missing people.[pcms]
 
 *4887|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Æ‚è‚ ‚¦‚¸A‘ÌˆçŠÙ‚És‚Á‚Ä‚İ‚æ‚¤B‚»‚±‚©•”º“‚¾[r]
-‚Æv‚¤‚ñ‚¾A‚ ‚¢‚Â‚ç‚ª‚¢‚é‚Ìv[pcms]
+[ns]Kato[nse]
+For now, let's go to the gymnasium.[l][er]
+I think they might be there or in the club building.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2080|
 [fc]
 [vo_sa s="sae0374"]
-[ns]²”Œ[nse]
-u‚¦‚¦ccv[pcms]
+[ns]Saeki[nse]
+Yes...[pcms]
 
 *4888|
 [fc]
-‰´‚Æ–Ú‚ğ‡‚í‚³‚È‚¢‚Ü‚ÜAƒ{ƒ\ƒb‚Æ‚»‚¤‰‚¦‚ÄA²”Œ‚Í[r]
-ˆêlAŠK’i‚ğ‰º‚èn‚ß‚½B[pcms]
+Saeki, without making eye contact with me, quietly responded[r]and started descending the stairs alone.[pcms]
 
 *4889|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 ;//blackout
 
-;//[05130]‚Ö
+;//[05130]ã¸
 [jump target=*05130_TOP storage="05130.ks"]

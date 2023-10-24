@@ -1,16 +1,16 @@
 
-;//¡ËƒuƒƒbƒN07020w‘Ìˆç’…x
-;//BG:“Áê‹³º˜L‰ºF–éGÁ“”
-;//“oêl•¨GålŒöEŠ´õ•ü”ü
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07020ã€ä½“è‚²ç€ã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼›æ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»æ„ŸæŸ“æœ‹ç¾
 
 *07020_H_TOP
-;[debug_win]‚È‚¤@07020_H[debug_win_end]
+;[debug_win]ãªã†ã€€07020_H[debug_win_end]
 
-;*SceneSet|w‘Ìˆç’…x
+;*SceneSet|ã€ä½“è‚²ç€ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07020 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07020 = 1"]
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 
 ;//[bgm007]
 
@@ -19,7 +19,7 @@
 [bg storage="bg08c"]
 [trans_c cross time=500]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 
 [se0 storage="se005"]
 
@@ -29,127 +29,122 @@
 
 *6986|
 [fc]
-l‰e‚É‘–‚Á‚Ä‹ß‚Ã‚¢‚Ä‚¢‚Á‚ÄA’iX‚Æ‚»‚Ìp‚ªƒnƒbƒLƒŠ[r]
-‚µ‚Ä‚­‚é‚ÆA‚»‚Ì—q¶“k‚Í‚â‚Í‚èŒÜ\—’ƒTƒ“‚¾‚Á‚½B[pcms]
+As I ran towards the figure in the distance, gradually their[r]appearance became clearer, and it turned out to be none[r]other than Yamagishi-san.[pcms]
 
 *6987|
 [fc]
-[ns]‰Á“¡[nse]
-uŒÜ\—’ƒTƒ“Iv[pcms]
+[ns]Kato[nse]
+Igarashi-san![pcms]
 
 [ChrSetEx layer=1 chbase="tomo_e_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_e_a_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2816|
 [fc]
 [vo_to s="tomo0312"]
-[ns]ŒÜ\—’[nse]
-u‚ [cc‚ ‚½‚ç‚µ‚¢‚ÌA‚İ[‚Á‚¯ccv[pcms]
+[ns]Igarashi[nse]
+Ah... I found something new...[pcms]
 
 *6988|
 [fc]
-ŒÜ\—’ƒTƒ“‚ÍQ‹N‚«‚Ì‚æ‚¤‚Éƒgƒƒ“‚Æ‚µ‚½Šç‚ğ‚µ‚ÄA‚¢[r]
-‚Â‚É‚à‘‚µ‚ÄŠÃ‚Á‚½‚é‚¢º‚ğo‚µ‚½B[pcms]
+Igarashi-san had a sleepy expression on her face, and she[r]spoke with an even sweeter voice than usual.[pcms]
 
 *6989|
 [fc]
-[ns]‰Á“¡[nse]
-uŒ©[‚Á‚¯A‚¶‚á‚È‚¢ƒX‚æA‚İ‚ñ‚È‘{‚µ‚Ä‚½‚ñƒX‚æHv[pcms]
+[ns]Kato[nse]
+I found it! It's not 'see', everyone was looking for it, you[r]know?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2817|
 [fc]
 [vo_to s="tomo0313"]
-[ns]ŒÜ\—’[nse]
-u‚³‚ª‚µ‚Ä‚½ccH@‚ñ[cc‚ ‚½‚µ‚Ì‚±‚ÆA‚µ‚Á‚Ä‚é[r]
-‚Ì[ccHv[pcms]
+[ns]Igarashi[nse]
+Were you looking for me...? Hmm...[l][er]
+Do you know about me...?[pcms]
 
 *6990|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¢‚â‚¢‚âAç’k‚Í‚à‚¤ccv[pcms]
+[ns]Kato[nse]
+No, no, enough with the jokes...[pcms]
 
 *6991|
 [fc]
-ˆÃ‚¢‚Ì‚É–Ú‚ªŠµ‚ê‚Ä‚«‚ÄAŒÜ\—’ƒTƒ“‚Ì•‘•‚ª§•‚¶‚á[r]
-‚È‚¢‚±‚Æ‚ÉA‰´‚Í‹C‚ª‚Â‚¢‚½B[pcms]
+Even though it was dark, my eyes had adjusted, and I noticed[r]that Igarashi-san wasn't wearing a school uniform.[pcms]
 
 *6992|
 [fc]
-‰½‚Å‘Ìˆç’…‚È‚ñ‚©’…‚Ä‚ñ‚¾H@‚±‚ÌlccB[r]
-‚µ‚©‚à‚ ‚¿‚±‚¿‰˜‚ê‚Ä‚é‚µccB[r]
-Z’ë‚Å—V‚ñ‚Å‚½‚Æ‚©ccH@‚Ü‚³‚©‚ÈccB[pcms]
+Why are you wearing a gym uniform?[l][er]
+This person... And it's dirty all over...[l][er]
+Were you playing in the schoolyard...?[l][er]
+No way...[pcms]
 
 *6993|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ccv[pcms]
+[ns]Kato[nse]
+Ah...[pcms]
 
 *6994|
 [fc]
-‚à‚µ‚©‚µ‚Äcc‚±‚ÌƒJƒbƒR‚Å—S“ñ‚ÆccH@‘Ì’†‰˜‚ê‚Ä[r]
-‚é‚Á‚ÄA‚Ç‚ñ‚¾‚¯Œƒ‚µ‚¢ƒvƒŒƒC‚µ‚Ä‚ñ‚¾‚æA—S“ñ‚Ì“zccB[pcms]
+Could it be... Yuuji and I in this outfit...?[l][er]
+Your whole body is dirty, just how intense of a play were[r]you having, Yuuji...[pcms]
 
 *6995|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦[‚ÆA‚Æ‚É‚©‚­Aˆê’U‚İ‚ñ‚È‚ÌŠ‚É–ß‚è‚Ü‚µ‚å‚¤B[r]
-V“¹æ¶‚àS”z‚µ‚Ä‚½‚µv[pcms]
+[ns]Kato[nse]
+Um, anyway, let's go back to where everyone is for now.[l][er]
+Shindou-sensei was also worried.[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_e_a1_02"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_e_a_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2818|
 [fc]
 [vo_to s="tomo0314"]
-[ns]ŒÜ\—’[nse]
-u‚¦[cc‚â‚Ÿ‚¾[cc‚ ‚½‚µA‚¾‚ê‚à‚¢‚È‚¢‚Æ‚±‚ª‚¢[r]
-‚¢‚È[ccv[pcms]
+[ns]Igarashi[nse]
+Ehh... No way... I prefer being in a place where no one is[r]around...[pcms]
 
 *6996|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ÍccHv[pcms]
+[ns]Kato[nse]
+Huh...?[pcms]
 
 *6997|
 [fc]
-ˆÓ–¡‚ª‚í‚©‚ç‚¸ƒLƒ‡ƒgƒ“‚Æ‚·‚é‰´‚Ìè‚ğˆø‚«AŒÜ\—’ƒT[r]
-ƒ“‚Í•à‚«‚¾‚µ‚½B[pcms]
+I didn't understand the meaning and stood there dumbfounded,[r]but Igarashi-san took my hand and started walking.[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_e_d_01"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2819|
 [fc]
 [vo_to s="tomo0315"]
-[ns]ŒÜ\—’[nse]
-u‚Ë[cc‚«‚å‚¤‚µ‚ÂA‚¢‚±ccHv[pcms]
+[ns]Igarashi[nse]
+Hey... Shall we go to the classroom...?[pcms]
 
 *6998|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *6999|
 [fc]
-‹°‚ç‚­A‰˜‚ê‚Ä‚µ‚Ü‚Á‚½‘Ìˆç’…‚©‚çA§•‚É’…‘Ö‚¦‚é‚Ì[r]
-‚ÉA‚İ‚ñ‚È‚ª‚¢‚éŠ‚Å‚ÍŒ™‚¾‚Æ‚¢‚¤‚±‚Æ‚È‚Ì‚¾‚ë‚¤B[pcms]
+It seems that she doesn't want to change into her school[r]uniform in front of everyone because her gym uniform got[r]dirty.[pcms]
 
 *7000|
 [fc]
-‰´‚Í‚»‚¤l‚¦‚ÄAŒÜ\—’ƒTƒ“‚É‚Â‚¢‚Ä‚¢‚­‚±‚Æ‚É‚µ‚½B[pcms]
+I decided to follow Igarashi-san with that in mind.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -162,9 +157,9 @@
 
 [if exp="tf.scene_mode == 1"][jump target=*SCENE_ONLY][endif]
 
-;//¦ğŒ•ªŠò
-;//Eflag:—‰¤Š×—@‚ªon;//[07100]‚Ö
-;//Eflag:—‰¤Š×—@‚ªoff;//[07030]‚Ö
+;//â€»æ¡ä»¶åˆ†å²
+;//ãƒ»flag:å¥³ç‹é™¥è½ã€€ãŒon;//[07100]ã¸
+;//ãƒ»flag:å¥³ç‹é™¥è½ã€€ãŒoff;//[07030]ã¸
 
 [if exp="sf.g_queen==1"]
 	;[jump target=*SEL00_QUEEN]

@@ -1,36 +1,36 @@
 
-;//¡ËƒuƒƒbƒN06150w•P‚ÌQŠçx
-;//;//BG:•ÛŒ’ºF’©FÁ“”
-;//“oêl•¨G’|“àE—D
-;//‹“_G’|“à
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯06150ã€å§«ã®å¯é¡”ã€
+;//;//BG:ä¿å¥å®¤ï¼šæœï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ç«¹å†…ãƒ»å„ª
+;//è¦–ç‚¹ï¼›ç«¹å†…
 
 *06150_H_TOP
-;[debug_win]‚È‚¤@06150_H[debug_win_end]
-;*SceneSet|w–°‚è•P‚Ì‹N°x
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;[debug_win]ãªã†ã€€06150_H[debug_win_end]
+;*SceneSet|ã€çœ ã‚Šå§«ã®èµ·åºŠã€
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 ;[if exp="tf.scene_mode == 0"][jump target=*06150][endif]
 ;[winset]
 
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *06150
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_06150 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_06150 = 1"]
 
-;//flag:“µƒ‹[ƒgƒtƒ[@zap‚T@•\¦
+;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€zapï¼•ã€€è¡¨ç¤º
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 
 [bgm007]
 
-;//;//BG:bg–³‚µ
+;//;//BG:bgç„¡ã—
 
 
 
@@ -38,13 +38,13 @@
 
 *6724|
 [fc]
-‚È‚ñ‚¾‚æccA‘×”V‚Ìƒ„ƒcA“µ‚Æ’‡—Ç‚³‚»‚¤‚¶‚á‚È‚¢‚©[r]
-ccB‚¢‚Â‚ÌŠÔ‚ÉA‚ ‚ñ‚ÈccB‚»‚ê‚ÉA‚¹‚Á‚©‚­‹C‚ğ[r]
-—˜‚©‚¹‚Ä‚â‚Á‚½‚Ì‚ÉA‚ ‚ÌŒ¾‚¢‚®‚³‚Í‚È‚¢‚æB[pcms]
+What the hell... That guy, Yasuyuki, seems to be getting[r]along with Hitomi...[l][er]
+When did that happen... And on top of that, even though I[r]went out of my way to do something nice, he had to say[r]something like that.[pcms]
 
 *6725|
 [fc]
-—S“ñ‚É‚ÍŒÜ\—’‚³‚ñA‘×”V‚É‚ÍA“µBƒ{ƒN‚¾‚¯AˆêlB[pcms]
+Yuuji has Tomomi, Yasuyuki has Hitomi.[l][er]
+I'm the only one alone.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -61,23 +61,23 @@
 
 *6726|
 [fc]
-[ns]’|“à[nse]
-u‚È‚ñ‚¾‚ëcc‹•‚µ‚¢‚Èccv[pcms]
+[ns]Takeuchi[nse]
+I wonder... It feels empty...[pcms]
 
 *6727|
 [fc]
-‚È‚ñ‚ÅAƒ{ƒN‚¾‚¯ccB[pcms]
+Why only me...[pcms]
 
 *6728|
 [fc]
-‚Å‚àA‚¢‚¢‚âB¡‚ÍA—×‚É—D‚¿‚á‚ñ‚ªQ‚Ä‚¢‚éB[r]
-‚»‚ê‚¾‚¯‚ÅA¡‚ÍK‚¹‚¾B[pcms]
+But it's fine. Right now, Yuu-chan is sleeping next to me.[l][er]
+Just that alone makes me happy.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
 
-;//;//BG:bg–³‚µ
+;//;//BG:bgç„¡ã—
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
@@ -87,22 +87,22 @@
 
 *6729|
 [fc]
-[ns]’|“à[nse]
-u‚»‚ê‚É‚µ‚Ä‚àAƒŠƒTæ¶ccv[pcms]
+[ns]Takeuchi[nse]
+By the way, Professor Risa...[pcms]
 
 *6730|
 [fc]
-‘S‚­Œ¾‚¤‚±‚Æ‚ğ•·‚¢‚Ä‚­‚ê‚È‚¢B[r]
-‚¿‚å‚Á‚Æ‹º‚¹‚ÎAŠÈ’P‚Éƒ„‚ç‚¹‚Ä‚­‚ê‚é‚Æv‚Á‚Ä‚½‚Ì‚ÉB[pcms]
+He doesn't listen to me at all.[l][er]
+I thought that if I threatened him a little, he would easily[r]let me have sex with him.[pcms]
 
 *6731|
 [fc]
-‚±‚ê‚à‘S•”AŠİ“c‚Ì–ì˜Y‚ªAƒ{ƒN‚Ì•ó•¨‚Á‚Äs‚Á‚¿‚á[r]
-‚Á‚½‚¹‚¢‚¾‚æI[pcms]
+This is all because that bastard Kishida took away my[r]treasure![pcms]
 
 *6732|
 [fc]
-ƒAƒCƒcA€‚È‚È‚¢‚©‚ÈccB€‚ñ‚¶‚á‚¦‚Î‚¢‚¢‚ñ‚¾B[pcms]
+I wish that guy would just die...[l][er]
+It would be better if he died.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -119,203 +119,198 @@
 
 *6733|
 [fc]
-cc‰½‚Å‚¢‚Â‚àA‚±‚¤‚È‚ñ‚¾‚ë‚¤B[r]
-‚±‚ñ‚È–‚Î‚Á‚©‚èl‚¦‚Ä‚é‚©‚çAƒ{ƒN‚Í‘Ê–Ú‚È‚Ì‚©‚ÈB[pcms]
+... Why does it always end up like this?[l][er]
+Because I'm always thinking about these things, am I just no[r]good?[pcms]
 
 *6734|
 [fc]
-—D‚¿‚á‚ñ‚ÌÎŠç‚ğŒ©‚Ä‚¢‚é‚ÍA‚±‚ñ‚Èl‚¦‚Í‚È‚¢‚Ì‚ÉB[r]
-—D‚¿‚á‚ñ‚¾‚¯Aƒ{ƒN‚ğ—‰ğ‚µ‚Ä‚­‚ê‚Ä‚¢‚éA‚»‚ñ‚È‹C‚ª[r]
-‚·‚éccB[pcms]
+When I see Yuu-chan's smile, I don't have thoughts like[r]these.[l][er]
+It feels like Yuu-chan is the only one who understands me...[pcms]
 
 *6735|
 [fc]
-‚ ‚ÌŒ³‹C‚ÈÎŠç‚ğŒ©‚Ä‚¢‚é‚¾‚¯‚ÅAƒ{ƒN‚Ì‚±‚Ìƒ‚ƒ„ƒ‚ƒ„[r]
-‚µ‚½‹C‚¿‚ÍA‚Ç‚±‚©‚É‚¢‚Á‚¿‚á‚¤‚ñ‚¾B[pcms]
+Just by seeing that cheerful smile, my cloudy feelings[r]disappear somewhere.[pcms]
 
-;//ôFBGM007ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 
 [bgm007]
 
 *6736|
 [fc]
-‚»‚¤‚¾ccB[pcms]
+That's right...[pcms]
 
 *6737|
 [fc]
-—D‚¿‚á‚ñ‚ªAƒ{ƒN‚Ì”Ş—‚É‚È‚Á‚Ä‚­‚ê‚ê‚ÎA[r]
-ƒ{ƒN‚à•Ï‚í‚ê‚éccƒ{ƒN‚ÌA‚±‚Ì«Ši‚à•Ï‚í‚ê‚é‚ñ‚¾B[r]
-‚«‚Á‚ÆA‚»‚¤‚¾B[pcms]
+If Yuu-chan becomes my girlfriend, I can change...[l][er]
+Even my personality can change.[l][er]
+I'm sure of it.[pcms]
 
-;//ôFBGM006
+;//â™ªï¼šBGM006
 
 [bgm006]
 
 *6738|
 [fc]
-[ns]’|“à[nse]
-u—D‚¿‚á‚ñccv[pcms]
+[ns]Takeuchi[nse]
+Yuu-chan...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_d_11"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_d_12"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2734|
 [fc]
 [vo_ya s="yama0935"]
-[ns]RŠİ[nse]
-u‚ ‚Í‚Ícc‰½Hv[pcms]
+[ns]Yamagishi[nse]
+Ahaha... What is it?[pcms]
 
 *6739|
 [fc]
-[ns]’|“à[nse]
-u‚¤‚í‚ŸH@—D‚¿‚á‚ñccB‹N‚«‚Ä‚½‚ñ‚¾ccHv[pcms]
+[ns]Takeuchi[nse]
+Uwaa? Yuu-chan... You're awake...?[pcms]
 
 *6740|
 [fc]
-‚Ñ‚Á‚­‚è‚µ‚½II[r]
-‚¢‚Â‚ÌŠÔ‚ÉccB[pcms]
+I was surprised!! When did...[pcms]
 
 *6741|
 [fc]
-cc—D‚¿‚á‚ñ‚ª”÷Î‚İ‚È‚ª‚çAƒ{ƒN‚ğŒ©‚Ä‚éccB[r]
-‚â‚Á‚Ï‚èA‚©‚í‚¢‚¢‚È‚ŸccB[pcms]
+... Yuu-chan is looking at me with a smile...[l][er]
+She really is cute...[pcms]
 
 *6742|
 [fc]
-–²A‚©‚ÈH@[r]
-l‚¦‚²‚Æ‚µ‚Ä‚¢‚éƒEƒ`‚ÉAQ‚¿‚á‚Á‚½‚ñ‚¾‚ë‚¤‚©H[pcms]
+Is this a dream? Did I fall asleep while lost in thought?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_d_11"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2735|
 [fc]
 [vo_ya s="yama0936"]
-[ns]RŠİ[nse]
-u‚ ‚Í‚ÍA’|“àŒNccA„‚Ëcc‚¿‚å‚Á‚Æg‘Ì‚ªcc”M[r]
-‚¢‚ñ‚¾ccv[pcms]
+[ns]Yamagishi[nse]
+Ahaha, Takeuchi-kun... I... my body is feeling a bit...[l][er]
+hot...[pcms]
 
 *6743|
 [fc]
-[ns]’|“à[nse]
-u‚¦H@”M‚¢H@”M‚Å‚à‚ ‚é‚ÌHv[pcms]
+[ns]Takeuchi[nse]
+Eh? Hot? Are you feeling hot too?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2736|
 [fc]
 [vo_ya s="yama0937"]
-[ns]RŠİ[nse]
-uˆá‚¤‚æccB‰½‚¾‚©cc‚¨• ‚Ì‰œ‚ªccáu‚¢‚Äccv[pcms]
+[ns]Yamagishi[nse]
+No... Somehow... My stomach...[l][er]
+it's throbbing...[pcms]
 
 *6744|
 [fc]
-‚¨• ‚Ì‰œ‚ªáu‚­H@[pcms]
+Is your stomach throbbing deep inside?[pcms]
 
 *6745|
 [fc]
-‰½‚»‚êccB[r]
-ƒGƒ–Ÿ‰æ‚Ì‘äŒ‚İ‚½‚¢ccB[pcms]
+What's that...? It sounds like a line from an erotic[r]manga...[pcms]
 
 *6746|
 [fc]
-‚Á‚ÄA‚à‚µ‚©‚µ‚ÄA—U‚Á‚Ä‚é‚ÌH@‚â‚Á‚Ï‚èA‚±‚êA–²[r]
-‚©H@–²‚¾‚æ‚ÈccB‚¢‚­‚ç‰½‚Å‚àA‚±‚ñ‚È‚¢‚«‚È‚è‚È[r]
-‚ñ‚Ä‚ÈccB[pcms]
+Are you, by any chance, inviting me?[l][er]
+Is this really a dream? It must be a dream...[l][er]
+No matter what, something like this happening all of a[r]sudden...[pcms]
 
 *6747|
 [fc]
-‚Å‚àA–²‚Å‚à‚¢‚¢‚âccB[r]
-–²‚Å‚à‰½‚Å‚à‚¢‚¢‚âA—D‚¿‚á‚ñ‚ªA‚±‚ñ‚È•—‚ÉŒê‚è‚©‚¯[r]
-‚Ä‚­‚ê‚é‚¾‚¯‚Å‚¢‚¢‚âB[pcms]
+But, even if it's a dream... It's fine.[l][er]
+Whether it's a dream or anything else, it's fine.[l][er]
+Just the fact that Yuu-chan is speaking to me like this is[r]enough.[pcms]
 
 *6748|
 [fc]
-–²‚Å‚àcc‚¢‚¢‚âccB[pcms]
+It's fine... even if it's a dream...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_d_11"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_d_12"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2737|
 [fc]
 [vo_ya s="yama0938"]
-[ns]RŠİ[nse]
-u‚æ‚ÁA‚ÆccB‚¶‚á‚ AƒGƒbƒ`A‚µ‚æccH@’|“àŒN[r]
-ccv[pcms]
+[ns]Yamagishi[nse]
+Hey... umm... then, let's have sex...[l][er]
+Takeuchi-kun...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *6749|
 [fc]
-ƒGƒbƒ`A‚µ‚æH@‚¾‚Á‚ÄIH[r]
-–ó‚ª•ª‚©‚ç‚È‚­‚È‚Á‚Ä‚«‚½ccB[pcms]
+Let's have sex, okay? Because...[l][er]
+I'm starting to lose track of what's going on...[pcms]
 
 *6750|
 [fc]
-–²‚Å‚à‚¢‚¢‚Á‚Äv‚Á‚½‚¯‚ÇA‚¢‚­‚ç‰½‚Å‚àccB[r]
-‚±‚ñ‚È‹}“WŠJ‚Á‚ÄccB[pcms]
+I thought it would be fine even if it's a dream, but no[r]matter what...[l][er]
+This sudden development...[pcms]
 
 *6751|
 [fc]
-‚±‚êA–²‚¶‚á‚È‚¢‚Ì‚©‚ÈccB‚»‚ê‚Æ‚àA–²H[pcms]
+Is this not a dream...? Or is it a dream?[pcms]
 
 *6752|
 [fc]
-‚ [ƒbII[pcms]
+Ahh!![pcms]
 
 *6753|
 [fc]
-–ó‚ª•ª‚©‚ç‚È‚¢II[pcms]
+I don't understand!![pcms]
 
 *6754|
 [fc]
-‚à‚¤A‚¢‚¢‚âccB[pcms]
+I give up...[pcms]
 
 *6755|
 [fc]
-–²‚È‚çA‚»‚ê‚Å‚¢‚¢‚µccB[r]
-–²‚¶‚á‚È‚­‚ÄA–{“–‚Ì–‚È‚çA‚à‚Á‚ÆŠğ‚µ‚¢ccB[pcms]
+If it's a dream, then that's fine...[l][er]
+But if it's not a dream, I would be even happier...[pcms]
 
 *6756|
 [fc]
-¡‚È‚çA‘×”V‚à’N‚à‚¢‚È‚¢‚µA—D‚¿‚á‚ñ‚©‚ç”—‚Á‚Ä‚«‚Ä[r]
-‚é‚ñ‚¾II[r]
-—‚Ìq‚É’p‚ğ‚©‚©‚¹‚¿‚á‚¾‚ß‚¾‚æ‚ÈI[pcms]
+Now, there's no one else around, and Yuu-chan is coming on[r]to me!![l][er]
+I can't embarrass a girl like that, right?![pcms]
 
 *6757|
 [fc]
-[ns]’|“à[nse]
-u‚ÚAƒ{ƒN‚Å‚¢‚¢‚È‚çccAŠì‚ñ‚ÅIIv[pcms]
+[ns]Takeuchi[nse]
+I-if it's me... I'd be happy to!![pcms]
 
 *6758|
 [fc]
-×‚¢g‘Ì‚ğA—Í”C‚¹‚Éˆø‚«Šñ‚¹‚éB[r]
-—D‚¿‚á‚ñ‚ÌA‚¢‚¢“õ‚¢‚ª‚·‚éccB[pcms]
+I forcefully pull her slender body towards me.[l][er]
+Yuu-chan, you smell so good...[pcms]
 
 *6759|
 [fc]
-ƒ{ƒN‚É‚àAt‚ª‚â‚Á‚Ä‚«‚½‚ñ‚¾II[pcms]
+Spring has come to me too!![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2738|
 [fc]
 [vo_ya s="yama0939"]
-[ns]RŠİ[nse]
-u‚â‚Ÿ‚ñIv[pcms]
+[ns]Yamagishi[nse]
+Yaaan![pcms]
 
-;//[06160]‚Ö
+;//[06160]ã¸
 [jump target=*06160_H_TOP storage="06160_H.ks"]
 
 

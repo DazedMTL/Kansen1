@@ -1,38 +1,38 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN05520w“¦‘–x
-;//;//BG:“ñŠK˜L‰ºF—[•ûGÁ“”
-;//“oêl•¨GålŒöE“µEƒ]ƒ“ƒr~‚Ri—‚Ql’j‚Plj
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05520ã€é€ƒèµ°ã€
+;//;//BG:äºŒéšå»Šä¸‹ï¼šå¤•æ–¹ï¼›æ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»ã‚¾ãƒ³ãƒ“Ã—ï¼“ï¼ˆå¥³ï¼’äººç”·ï¼‘äººï¼‰
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *05520_H_TOP
-;[debug_win]‚È‚¤@05520_H[debug_win_end]
+;[debug_win]ãªã†ã€€05520_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [eval exp="sf.SRP27 = 1"][if exp="tf.scene_mode == 0"][jump target=*05520][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *05520
 
-;*SceneSet|w“¦‘–x
+;*SceneSet|ã€é€ƒèµ°ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05520 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05520 = 1"]
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 
 [bgm009]
 
@@ -41,7 +41,7 @@
 [bg storage="bg06b"]
 [trans_c cross time=500]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 
 [se0 storage="se005"]
 
@@ -54,33 +54,30 @@
 
 ;;;[sysbt_meswin]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2350|
 [fc]
 [vo_sa s="sae0534"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñA‚Ç‚±‚Öccv[pcms]
+[ns]Saeki[nse]
+Kato-san, where are you going...[pcms]
 
 *5632|
 [fc]
-æ‚è‚ ‚¦‚¸“¦‚°‚È‚¯‚ê‚ÎA‚Æ‚¢‚¤v‚¢‚Å‹³º‚ğo‚Ä‚«‚½[r]
-‚½‚ß‚ÉA‰´‚Í‚Ç‚±‚Ö“¦‚°‚é‚©‚Ü‚Å‚Íl‚¦‚Ä‚¢‚È‚©‚Á‚½B[pcms]
+For the time being, I didn't think about where to run away[r]to, as I left the classroom with the thought of just needing[r]to escape.[pcms]
 
 *5633|
 [fc]
-‚Ç‚¤‚µ‚æ‚¤ccB[r]
-‚Ç‚±‚Ö“¦‚°‚æ‚¤ccB[pcms]
+What should I do... Where should I run away to...[pcms]
 
 *5634|
 [fc]
-ŠK’i‚Ü‚Å—ˆ‚½‚Æ‚±‚ë‚ÅA‰´‚Í‚Æ‚Á‚³‚ÉAã‚Ös‚­ŠK’i‚ğ[r]
-‘I‚ñ‚¾B[pcms]
+I quickly chose the stairs going up when I reached the[r]staircase.[pcms]
 
 *5635|
 [fc]
-[ns]‰Á“¡[nse]
-uã‚¾A‰®ã‚És‚­‚¼Iv[pcms]
+[ns]Kato[nse]
+Up, let's go to the rooftop![pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -88,7 +85,7 @@
 
 ;//blackout
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -97,13 +94,11 @@
 
 *5636|
 [fc]
-OŠK‚É’…‚«A‚³‚ç‚ÉŠK’i‚ğã‚ë‚¤‚Æ‚µ‚½‚Æ‚±‚ë‚ÅA‰´’B[r]
-‚Í‘«‚ğ~‚ß‚½B[pcms]
+We reached the third floor and stopped when we were about to[r]go up the stairs.[pcms]
 
 *5637|
 [fc]
-‚»‚±‚Å‚àAŒ©’m‚ç‚Ê¶“k“¯m‚É‚æ‚é—Œğ‚ªs‚í‚ê‚Ä‚¢‚½[r]
-‚Ì‚¾B[pcms]
+There, an orgy between unfamiliar students was taking place.[pcms]
 
 
 
@@ -111,7 +106,7 @@
 
 *scene_start
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 [bgm008]
 
 ;//H_CG
@@ -121,272 +116,253 @@
 ;;;[sysbt_meswin]
 
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
 
 [se0 storage="se059" loop=true]
 
 *v2351|
 [fc]
 [vo_mob s="other030001"]
-[ns]—q¶“kƒ¿[nse]
-u‚Ö‚ÍA‚Ÿcc‚ñ``ccv[pcms]
+[ns]Female Student Alpha[nse]
+Heh... ahh... mmm~[pcms]
 
 *5638|
 [fc]
-[ns]’jq¶“k‚l[nse]
-u‚ ‚ÁA‚ñ‚£cc‚Ó‚ ‚Ÿ‚ÁIIv[pcms]
+[ns]Male Student M[nse]
+Ah, ngh... fuahh!![pcms]
 
 *v2352|
 [fc]
 [vo_mob s="other040001"]
-[ns]—q¶“kƒÀ[nse]
-u‚¿‚ã‚Õ‚ÁA‚¿‚á‚Õ‚Ácc‚ñ‚ÁA‚¶‚ã‚éA‚ê‚éA‚ñ‚¿‚ã[r]
-cc‚¶‚ã‚Õ‚ÁA‚¿‚ã‚Ô‚£‚Áccv[pcms]
+[ns]Female Student Beta[nse]
+Chupu, chapu... mmm, juru, reru, nchu...[l][er]
+chupu, chubuu...[pcms]
 
 *5639|
 [fc]
-¡”N“ü‚Á‚½‚Î‚©‚è‚Ìq‚È‚Ì‚©A‚Ü‚¾‚ ‚Ç‚¯‚È‚¢Šç‚ğ‚µ‚½[r]
-’jq‚ªA“ñl‚Ì—q¶“k‚Éƒ‚ƒm‚ğ‚µ‚á‚Ô‚ç‚êAƒAƒiƒ‹‚ğ[r]
-˜M‚ç‚ê‚Ä‚¢‚½B[pcms]
+A boy with a still innocent face, who seems to have just[r]entered this year, was being sucked off by two female[r]students and had his anus played with.[pcms]
 
 *v2353|
 [fc]
 [vo_mob s="other040002"]
-[ns]—q¶“kƒÀ[nse]
-u‚ñ‚À‚ã‚ÁA‚À‚ã‚Õ‚é‚ÁA‚ñ‚ÁA‚¿‚ã‚®‚Ácc‚ñ‚®A‚Õ[r]
-‚Í‚Ÿcc‚ê‚éA‚Ò‚¿‚á‚ÁA‚¿‚á‚Õ‚ÁA‚ê‚é‚£ccv[pcms]
+[ns]Female Student Beta[nse]
+Ndyu, jyupuru, n, chugu... ngu, puhha...[l][er]
+reru, picha, chapu, reruu...[pcms]
 
 *5640|
 [fc]
-[ns]’jq¶“k‚l[nse]
-u‚ñ‚£‚Ácc‚Ğ‚ŸA‚­‚¤‚£‚ñIIv[pcms]
+[ns]Male Student M[nse]
+Mmm... hah, uunn!![pcms]
 
 *v2354|
 [fc]
 [vo_mob s="other030002"]
-[ns]—q¶“kƒ¿[nse]
-u‚Ó‚Ó‚Ácc‚¨‚ñ‚È‚Ì‚±‚İ‚½‚¢‚ÈA‚©‚í‚¢‚ç‚µ‚¢‚±‚¦‚¾[r]
-‚µ‚¿‚á‚Á‚Äcc‚¨‚Æ‚±‚Ì‚±‚Ì‚­‚¹‚Éccv[pcms]
+[ns]Female Student Alpha[nse]
+Hehe... You're making such a cute voice, like a little[r]girl...[l][er]
+Even though you're a boy...[pcms]
 
 *5641|
 [fc]
-[ns]’jq¶“k‚l[nse]
-u‚¾‚Á‚ÄA‚±‚ñ‚Ècc‚¨‚¿‚ñ‚¿‚ñ‚ÆA‚¨‚µ‚èA‚¢‚Á‚µ‚å[r]
-‚É‚È‚ñ‚Ä‚¥ccv[pcms]
+[ns]Male Student M[nse]
+But, doing something like this...[l][er]
+with my penis and butt together...[pcms]
 
 *v2355|
 [fc]
 [vo_mob s="other030003"]
-[ns]—q¶“kƒ¿[nse]
-u‚È‚Ÿ‚É‚¡cc‚­‚¿‚²‚½‚¦‚·‚é‚ÌccHv[pcms]
+[ns]Female Student Alpha[nse]
+What's the matter...? Are you resisting...?[pcms]
 
 *5642|
 [fc]
-[ns]’jq¶“k‚l[nse]
-u‚²A‚²‚ß‚ñ‚³cc‚Ğ‚á‚¤‚£‚ÁII@cc‚ ‚ÁA‚»‚ñ‚È[r]
-‚É‚µ‚¿‚ácc‚Ó‚ ‚Ÿ‚ñ‚ÁIIv[pcms]
+[ns]Male Student M[nse]
+S-Sorry... hyaaah!! ... Ah, don't do it so much...[l][er]
+fuuaaah!![pcms]
 
 *v2356|
 [fc]
 [vo_mob s="other030004"]
-[ns]—q¶“kƒ¿[nse]
-u‚¦‚Ÿ`ccv[pcms]
+[ns]Female Student Alpha[nse]
+Ehh~...[pcms]
 
 *5643|
 [fc]
-‚³‚Á‚«Œ©‚½‚à‚Ì‚Æ‚Íˆá‚¤A—‚Ì•û‚ª—§ê‚ªã‚Æ‚¢‚¤ŒõŒi[r]
-‚ÉA‰´‚à²”Œ‚à–Ú‚ğ’D‚í‚ê‚Ä‚µ‚Ü‚Á‚Ä‚¢‚½B[pcms]
+The scene where the woman had the upper hand, unlike what we[r]saw earlier, captivated both me and Saeki.[pcms]
 
 *5644|
 [fc]
-‰½‚©A“–‚½‚è‘O‚Ì‚æ‚¤‚ÉŒ¾‚¢‚È‚è‚É‚È‚Á‚Ä‚é‚¯‚ÇccB[r]
-‚ ‚ÌqA•’i‚©‚ç‚±‚ñ‚È‚±‚Æ‚µ‚Ä‚½‚Ì‚©ccH[pcms]
+He's obediently going along with it as if it's normal...[l][er]
+I wonder if he's always been doing things like this...?[pcms]
 
 *v2357|
 [fc]
 [vo_mob s="other040003"]
-[ns]—q¶“kƒÀ[nse]
-u‚Õ‚Ícc‚±‚ñ‚Ç‚ÍA‚«‚İ‚ª‚¤‚²‚¢‚Äcc‚ ‚½‚µ‚Ì‚­‚¿[r]
-‚Ü‚ñ‚±A‚¨‚©‚µ‚Ä‚¥ccv[pcms]
+[ns]Female Student Beta[nse]
+Puhha... This time, it's your turn to move...[l][er]
+I want you to put it in my mouth pussy...[pcms]
 
 *5645|
 [fc]
-[ns]’jq¶“k‚l[nse]
-u‚ÍA‚Í‚¡ccv[pcms]
+[ns]Male Student M[nse]
+Y-Yes...[pcms]
 
 *5646|
 [fc]
-’jq¶“k‚ÍŒ¾‚í‚ê‚é‚ª‚Ü‚Ü˜‚ğ“®‚©‚µA—q¶“k‚ÌŒû‚É[r]
-ƒ‚ƒm‚ğo‚µ“ü‚ê‚µn‚ß‚½B[pcms]
+The male student obediently moved his hips as he was told,[r]and began inserting and withdrawing something into the girl[r]student's mouth.[pcms]
 
 *5647|
 [fc]
-ƒ‚ƒm‚ÆŒû‚ÌŒ„ŠÔ‚©‚ç˜R‚ê‚é”ÚàÎ‚È‰¹‚ªA‰´’B‚ÌŠ‚Ü‚Å•·[r]
-‚±‚¦‚Ä‚­‚éB[pcms]
+We can hear the obscene sounds leaking from the gap between[r]the object and the mouth all the way to where we are.[pcms]
 
 *v2358|
 [fc]
 [vo_mob s="other040004"]
-[ns]—q¶“kƒÀ[nse]
-u‚ñJ‚ÁA‚ñ‚À‚ã‚ÁA‚®‚¶‚ã‚£‚ÁII@‚ñJ‚Ô‚ÁA‚ñJ[r]
-‚àJA‚À‚ã‚Ô‚£‚ÁIIv[pcms]
+[ns]Female Student Beta[nse]
+Nghh, n-juu, gjuuu!! Nghh-bu, nghh-mo, ju-buuu!![pcms]
 
 *5648|
 [fc]
-[ns]’jq¶“k‚l[nse]
-uƒnƒ@ƒbccƒnƒ@ƒbccIIv[pcms]
+[ns]Male Student M[nse]
+Haa... haa...!![pcms]
 
 *v2359|
 [fc]
 [vo_mob s="other040005"]
-[ns]—q¶“kƒÀ[nse]
-u‚À‚ã‚Õ‚ÁA‚Ô‚¿‚ã‚£‚ÁII@v[pcms]
+[ns]Female Student Beta[nse]
+Jyuppu, buchuu!![pcms]
 
 *v2360|
 [fc]
 [vo_mob s="other030005"]
-[ns]—q¶“kƒ¿[nse]
-u‚ñ‚ñ‚ÁII@cc‚Í‚Ÿ‚Áccv[pcms]
+[ns]Female Student Alpha[nse]
+Mmmh!! ... Haa...[pcms]
 
 *5649|
 [fc]
-[ns]’jq¶“k‚l[nse]
-uƒnƒ@ƒbcc‚¾‚Á‚Äcc‚¾‚Á‚Ä‚¥ccv[pcms]
+[ns]Male Student M[nse]
+Haa... because... because...[pcms]
 
 *v2361|
 [fc]
 [vo_mob s="other030006"]
-[ns]—q¶“kƒ¿[nse]
-u‚Ü‚½‚­‚¿‚²‚½‚¦‚·‚é‚£cc‚¢‚Â‚©‚ç‚»‚ñ‚ÈA‚È‚Ü‚¢‚«[r]
-‚È‚±‚É‚È‚Á‚½‚Ì‚§ccv[pcms]
+[ns]Female Student Alpha[nse]
+I want to taste it again... When did you become so bold like[r]this...[pcms]
 
 *5650|
 [fc]
-—q¶“k‚ÍŠµ‚ê‚½è‚Â‚«‚ÅA’jq¶“k‚ÌK‚ğ˜M‚è‘±‚¯‚Ä[r]
-‚¢‚éB[pcms]
+The female student continues to play with the male student's[r]ass with practiced movements.[pcms]
 
 *5651|
 [fc]
-[ns]’jq¶“k‚l[nse]
-u‚Ğ‚®‚¤‚£‚ÁII@cc‚äA‚Ñcc‚¾‚ß‚¥cc‚ÁIIv[pcms]
+[ns]Male Student M[nse]
+Higuu!! ... Y-Yu, sto... stop...!![pcms]
 
 *v2362|
 [fc]
 [vo_mob s="other040006"]
-[ns]—q¶“kƒÀ[nse]
-u‚ñJ‚¤J‚ÁII@‚ñJ‚ÁA‚®‚£A‚ñJ‚Ô‚£‚ÁIIv[pcms]
+[ns]Female Student Beta[nse]
+Nghh, ughh!! Nghh, guu, nghh-buuu!![pcms]
 
 *5652|
 [fc]
-ƒAƒiƒ‹‚©‚ç‚ÌhŒƒ‚ÉA’jq¶“k‚Í‘Ì‚ğ‘å‚«‚­’µ‚Ë‚³‚¹A[r]
-‘O‚Ì—q¶“k‚ÌŒû“à[‚­Aƒ‚ƒm‚ğ“Ë‚«“ü‚ê‚½B[pcms]
+The male student's body jerked violently in response to the[r]stimulation from his anus, as he thrust his object deep into[r]the mouth of the female student in front.[pcms]
 
 *v2363|
 [fc]
 [vo_mob s="other030008"]
-[ns]—q¶“kƒ¿[nse]
-u‚¾‚ß‚¾‚æA‚Ş‚¿‚á‚µ‚½‚ç‚Ÿcc‚Ù‚ç‚ŸA‚±‚Ì‚±‚­‚é‚µ[r]
-‚¢‚Á‚Äccv[pcms]
+[ns]Female Student Alpha[nse]
+No, it's no good if we go too far...[l][er]
+Look, it's getting swollen...[pcms]
 
 *v2364|
 [fc]
 [vo_mob s="other040007"]
-[ns]—q¶“kƒÀ[nse]
-u‚ñJ‚ÁA‚ñ‚ŞJ‚ÁA‚ñJ‚¨J‚§‚ÁIIv[pcms]
+[ns]Female Student Beta[nse]
+Nghh, nguhh, nghh-ohh!![pcms]
 
 *5653|
 [fc]
-[ns]’jq¶“k‚l[nse]
-u‚Ğ‚ ‚Ÿ‚ÁII@‚ ‚ÁA‚ĞA‚ñ‚­‚¤‚£‚ÁIIv[pcms]
+[ns]Male Student M[nse]
+Hiaa!! Ah, hi, nkuu!![pcms]
 
 *5654|
 [fc]
-‘Ì‚Ì“®‚«‚ğ~‚ß‚ç‚ê‚¸Ašb‚¬‘±‚¯‚é’jq¶“k‚ğŒ©‚Äƒjƒ„[r]
-ƒŠ‚ÆÎ‚¢A—q¶“k‚Í”Ş‚ÌƒAƒiƒ‹‚É‘}‚µ‚ñ‚¾wæ‚ğA[r]
-‚ä‚Á‚­‚è‚Æo‚µ“ü‚ê‚µn‚ß‚½B[pcms]
+The female student smirked as she watched the male student,[r]who couldn't stop his movements and continued to moan, and[r]slowly began inserting and withdrawing her fingers from his[r]anus.[pcms]
 
 *v2365|
 [fc]
 [vo_mob s="other030009"]
-[ns]—q¶“kƒ¿[nse]
-u‚Ó‚Óccv[pcms]
+[ns]Female Student Alpha[nse]
+Hehe...[pcms]
 
 *5655|
 [fc]
-[ns]’jq¶“k‚l[nse]
-u‚ñ‚Ğ‚¢‚¡‚ÁII@cc‚ ‚ÁA‚âA‚ä‚Ñcc‚¤‚²‚©‚µ‚½[r]
-‚çcc‚ÁIIv[pcms]
+[ns]Male Student M[nse]
+N-hii!! ... Ah, y-yubi... ugokashitara...!![pcms]
 
 *v2366|
 [fc]
 [vo_mob s="other040008"]
-[ns]—q¶“kƒÀ[nse]
-u‚®‚À‚ã‚ÁA‚À‚ã‚Ô‚£‚ÁII@‚ñJ‚ÁA‚Ô‚À‚ã‚ÁA‚¤J[r]
-‚®‚£‚ÁA‚ñJ‚ŞJ‚¤‚£‚ÁIIv[pcms]
+[ns]Female Student Beta[nse]
+Gyujuu, jyubuu!! Nguu, bujyu, uguu, ngumu!![pcms]
 
 *v2367|
 [fc]
 [vo_mob s="other030010"]
-[ns]—q¶“kƒ¿[nse]
-u‚¤‚²‚©‚µ‚½‚çcc‚È‚Ÿ‚ÉccHv[pcms]
+[ns]Female Student Alpha[nse]
+If I move it... what will happen...?[pcms]
 
 *5656|
 [fc]
-[ns]’jq¶“k‚l[nse]
-u‚ÅA‚¿‚ácc‚¨‚¿‚ñ‚¿‚ñA‚İ‚é‚­cc‚Å‚¿‚á‚¢A‚Ü‚·[r]
-‚¤‚£‚ÁIIv[pcms]
+[ns]Male Student M[nse]
+And, I... my penis... milk... I'm going to release it!![pcms]
 
 *v2368|
 [fc]
 [vo_mob s="other030011"]
-[ns]—q¶“kƒ¿[nse]
-u‚¶‚á‚ A‚±‚Ì‚±‚ÉA‚«‚İ‚Ì‚İ‚é‚­cc‚¢‚Á‚Ï‚¢‚Ì‚Ü‚¹[r]
-‚Ä‚ ‚°‚Äccv[pcms]
+[ns]Female Student Alpha[nse]
+Then, let me give this child your milk...[l][er]
+and fill her up...[pcms]
 
 *5657|
 [fc]
-Œã‚ë‚Ì—q¶“k‚É‚»‚¤º‚ğ‚©‚¯‚ç‚êA”Ş‚Í˜‚Ì“®‚«‚ğ‘¬[r]
-‚­AŒƒ‚µ‚­‚µn‚ß‚½B[pcms]
+The male student was called out by the girl behind him, and[r]he started moving his hips faster and more vigorously.[pcms]
 
 *v2369|
 [fc]
 [vo_mob s="other040009"]
-[ns]—q¶“kƒÀ[nse]
-u‚ñJ‚À‚ã‚ÁA‚ŞJ‚®‚ÁA‚ñ‚Ô‚£‚ÁII@‚À‚ã‚®‚ÁA‚Ô[r]
-‚À‚ã‚é‚ÁA‚ñ‚Ú‚ÁA‚¨J‚Ô‚¤‚£‚ÁIIv[pcms]
+[ns]Female Student Beta[nse]
+Nguh, jyu, mugu, nbuu!! Jyugu, bujyuru, nbo, obuuu!![pcms]
 
 *5658|
 [fc]
-[ns]’jq¶“k‚l[nse]
-uƒnƒ@ƒbccƒnƒ@ƒbcc‚àcc‚ç‚ß‚¥cc‚ÁIIv[pcms]
+[ns]Male Student M[nse]
+Haa... Haa... Don't... stop...!![pcms]
 
 *v2370|
 [fc]
 [vo_mob s="other030012"]
-[ns]—q¶“kƒ¿[nse]
-u‚¢‚­‚ÌccH@‚¢‚­‚Æ‚«‚ÍA‚¿‚á‚ñ‚Æ‚¢‚­‚Á‚Ä‚¢‚¤‚Ì[r]
-‚æccv[pcms]
+[ns]Female Student Alpha[nse]
+Are you going to cum...? When you cum, make sure you cum[r]properly...[pcms]
 
 *5659|
 [fc]
-[ns]’jq¶“k‚l[nse]
-u‚¢A‚­‚£cc‚ÁII@‚¢‚«‚Ü‚·‚£‚ÁIIv[pcms]
+[ns]Male Student M[nse]
+I... ah... I'm coming!![pcms]
 
 *5660|
 [fc]
-”Ş‚Í‹ƒ‚«‚»‚¤‚ÈŠç‚É‚È‚Á‚ÄA‚©×‚¢º‚Å‹©‚ÑA˜‚ğ‘O‚Ö[r]
-“Ë‚«o‚µ‚ÄA—q¶“k‚ÌŒû‚Ì’†‚ÖAƒ‚ƒm‚ğª–{‚Ü‚Å‘}‚µ[r]
-“ü‚ê‚½B[pcms]
+He had a face that looked like he was about to cry, and with[r]a weak voice, he shouted and thrust his hips forward,[r]inserting his thing all the way into the mouth of the female[r]student.[pcms]
 
 *5661|
 [fc]
-[ns]’jq¶“k‚l[nse]
-u‚¢A‚­cc‚¤‚¤‚£‚£‚ÁIIIIv[pcms]
+[ns]Male Student M[nse]
+I... ah... ughhhhhh!!!!![pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
 [stop_se0]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 [se0 storage="se062"]
 
 ;;;[sysbt_meswin clear]
@@ -415,82 +391,79 @@
 *v2371|
 [fc]
 [vo_mob s="other040010"]
-[ns]—q¶“kƒÀ[nse]
-u‚ñ‚Ô‚¤J‚£‚ÁIIv[pcms]
+[ns]Female Student Beta[nse]
+Nbuuuvu!![pcms]
 
 *5662|
 [fc]
-‘Ì‚ğáz¹‚³‚¹A”Ş‚ªŒû“à‚É“f‚«o‚³‚¹‚½¸‰t‚ğA—q¶[r]
-“k‚ÍA‚ğ–Â‚ç‚µ‚Äˆù‚İ‚ñ‚Å‚¢‚­B[pcms]
+The female student convulsed her body as she swallowed down[r]the semen that he ejaculated into her mouth with a loud[r]gulp.[pcms]
 
 *5663|
 [fc]
-[ns]’jq¶“k‚l[nse]
-u‚ ‚Ácc‚Í‚Ácc‚Ÿ‚­‚Áccv[pcms]
+[ns]Male Student M[nse]
+Ah... Ha... Haku...[pcms]
 
 *v2372|
 [fc]
 [vo_mob s="other040011"]
-[ns]—q¶“kƒÀ[nse]
-u‚ñJ‚ÁA‚ñ‚®‚Ácc‚Ô‚Õ‚Ácc‚Ô‚¿‚ãcc‚²‚­ccv[pcms]
+[ns]Female Student Beta[nse]
+Nguh... Nguu... Bupu... Buchu...[l][er]
+Gok-...[pcms]
 
 *5664|
 [fc]
-‚¾‚ªA”Ş‚ªo‚µ‚½—Ê‚Í‚©‚È‚è‘½‚©‚Á‚½‚æ‚¤‚ÅA—q¶“k[r]
-‚ªˆù‚İ‚Ş‚Ì‚ª’Ç‚¢‚Â‚©‚¸Aƒ‚ƒm‚ÆO‚ÌŒ„ŠÔ‚©‚çA¸‰t[r]
-‚ª˜R‚êo‚Ä‚«‚Ä‚¢‚½B[pcms]
+However, it seems that he released a considerable amount,[r]and the female student couldn't keep up with swallowing it[r]all.[l][er]
+Semen was leaking out from between her thing and lips.[pcms]
 
 *v2373|
 [fc]
 [vo_mob s="other030013"]
-[ns]—q¶“kƒ¿[nse]
-u‚ ‚Ÿ‚ñcc‚à‚Á‚½‚¢‚È‚¢ccv[pcms]
+[ns]Female Student Alpha[nse]
+Ahh... what a waste...[pcms]
 
 *5665|
 [fc]
-”Ş‚ÌŒã‚ë‚É‚¢‚½—q¶“k‚ÍAŒ„ŠÔ‚©‚ç˜R‚ê‚½¸‰t‚ğã‚Å[r]
-är‚ßæ‚èA‚µ‚Î‚ç‚­Œû‚ğƒ‚ƒSƒ‚ƒS‚Æ“®‚©‚µ‚Ä‚©‚çˆù‚İ[r]
-‚İAŠç‚ğ‚¾‚ç‚µ‚È‚­ŠÉ‚Ü‚¹‚½B[pcms]
+The female student who was behind him licked up the semen[r]that leaked out from the gap with her tongue, moved her[r]mouth for a while, and then swallowed it, loosening her face[r]in a sloppy manner.[pcms]
+[l][er]
 
 *v2374|
 [fc]
 [vo_mob s="other030014"]
-[ns]—q¶“kƒ¿[nse]
-u‚È‚ñ‚©cc‚¢‚Â‚à‚æ‚è‚±‚­‚Äcc‚¨‚¢‚µ‚¡ccv[pcms]
+[ns]Female Student Alpha[nse]
+Somehow... it's thicker than usual...[l][er]
+and delicious...[pcms]
 
 *5666|
 [fc]
-‚»‚¤‚µ‚Ä’jq¶“k‚ªƒuƒ`T‚¯‚½¸‰t‚ğA‚Ğ‚Æ‚µ‚«‚èŠy‚µ[r]
-‚ñ‚¾“ñl‚ÍA‰´‚ğŒ©‚Â‚¯‚Ä—§‚¿ã‚ª‚èA‚±‚¿‚ç‚Ö‚Æ‚É‚¶[r]
-‚èŠñ‚Á‚Ä‚«‚½B[pcms]
+The two who thoroughly enjoyed the semen that the male[r]student had ejaculated then stood up upon noticing me and[r]crawled towards me.[pcms]
 
 *v2375|
 [fc]
 [vo_mob s="other040012"]
-[ns]—q¶“kƒÀ[nse]
-u‚°‚Õcc‚ ‚çA‚ ‚»‚±‚É‚à‚©‚í‚¢‚¢‚±‚ª‚¢‚é‚íccv[pcms]
+[ns]Female Student Beta[nse]
+*burp*... Oh, look, there's a cute boy over there...[pcms]
 
 *v2376|
 [fc]
 [vo_mob s="other030007"]
-[ns]—q¶“kƒ¿[nse]
-u‚±‚ñ‚Ç‚Í‚í‚½‚µ‚ªA‚¨‚Ó‚¥‚ç‚·‚é‚£ccv[pcms]
+[ns]Female Student Alpha[nse]
+This time, I'll give you a blowjob...[pcms]
 
 *v2377|
 [fc]
 [vo_sa s="sae0535"]
-[ns]²”Œ[nse]
-us‚«‚Ü‚µ‚å‚¤A‰Á“¡‚³‚ñIv[pcms]
+[ns]Saeki[nse]
+Let's go, Kato-san![pcms]
 
 *5667|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚ ‚ ccv[pcms]
+[ns]Kato[nse]
+Ah, ah...[pcms]
 
 *5668|
 [fc]
-Å‚Á‚½—lq‚Ì²”Œ‚É˜r‚ğˆø‚Á’£‚ç‚ê‚ÄA‰´‚Í‰®ã‚Ös‚­[r]
-‚Ì‚ğ’ú‚ßAŠK’i‚ğ‹ì‚¯‰º‚è‚½B[pcms]
+Saeki, who seemed flustered, grabbed my arm and I gave up on[r]going to the rooftop.[l][er]
+Instead, we hurriedly ran down the stairs.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -500,35 +473,35 @@
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;//‚±‚±‚Ü‚Å–{•Ò
+;//ã“ã“ã¾ã§æœ¬ç·¨
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
-;•s—v[eval exp="="sf.g_scn28 = 1"]
+;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
+;ä¸è¦[eval exp="="sf.g_scn28 = 1"]
 
-;//ƒEƒBƒ“ƒhƒEÁ‹
+;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//•‚ÉƒtƒF[ƒh
+;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 
-;BGM’â~
+;BGMåœæ­¢
 [fadeoutbgm time=500]
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 [wait_c time=1000]
 
 
-;//[05530]‚Ö
+;//[05530]ã¸
 [jump target=*05530_TOP storage="05530.ks"]
 

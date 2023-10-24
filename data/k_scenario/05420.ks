@@ -1,28 +1,28 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN05420wZÉ‚Öx
-;//;//BG:–³‚µ
-;//;//BG:“n‚è˜L‰ºF—[•ûFÁ“”
-;//“oêl•¨GålŒöE“µ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05420ã€æ ¡èˆã¸ã€
+;//;//BG:ç„¡ã—
+;//;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *05420_TOP
-;[debug_win]‚È‚¤@05420[debug_win_end]
-;*SceneSet|wZÉ‚Öx
+;[debug_win]ãªã†ã€€05420[debug_win_end]
+;*SceneSet|ã€æ ¡èˆã¸ã€
 
-;//ôFBGM–³‚µ
+;//â™ªï¼šBGMç„¡ã—
 
 [fadeoutbgm time=500]
 
-;//;//BG:bg–³‚µ
+;//;//BG:bgç„¡ã—
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05420 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05420 = 1"]
 
-;//SE:ƒVƒƒƒ[‚Ì‰¹@ƒ‹[ƒv
+;//SE:ã‚·ãƒ£ãƒ¯ãƒ¼ã®éŸ³ã€€ãƒ«ãƒ¼ãƒ—
 
-;//—SEÏ‚İ
+;//ï¼ SEæ¸ˆã¿
 
 
 
@@ -30,24 +30,22 @@
 
 *5461|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ B‚¸‚Á‚ÆA‚¨‘O‚Ì–T‚É‚¢‚é‚æv[pcms]
+[ns]Kato[nse]
+Ah, I'll always be by your side.[pcms]
 
 *5462|
 [fc]
-²”Œ‚Ì‹C‚¿‚É‚àA©•ª‚Ì‹C‚¿‚É‚àA“š‚¦‚ğ‚¾‚·‚Â‚à[r]
-‚è‚ÅA‰´‚Í—Í‹­‚­‚»‚¤Œ¾‚Á‚½B[pcms]
+I said it with determination, intending to give an answer to[r]Saeki's feelings and my own feelings.[pcms]
 
 *v2272|
 [fc]
 [vo_sa s="sae0498"]
-[ns]²”Œ[nse]
-u‚Ó‚¥cc‚¤‚¦‚¥‚Áccv[pcms]
+[ns]Saeki[nse]
+Fe... Uee...[pcms]
 
 *5463|
 [fc]
-‰´‚Ì‚»‚Ì“š‚¦‚ğ•·‚¢‚ÄA²”Œ‚Ì‚µ‚á‚­‚èã‚°‚éº‚ª‘å‚«[r]
-‚­‚È‚èA‚µ‚Î‚ç‚­‚ÌŠÔAƒVƒƒƒ[º‚ğ–‚½‚µ‚Ä‚¢‚½B[pcms]
+Saeki's choked-up voice grew louder as she listened to my[r]answer, filling the shower room for a while.[pcms]
 
 [stop_se0]
 
@@ -65,19 +63,17 @@
 
 *5464|
 [fc]
-[ns]‰Á“¡[nse]
-u‚æ‚µA‚¢‚È‚¢‚Èccv[pcms]
+[ns]Kato[nse]
+Alright, I'm here...[pcms]
 
 *5465|
 [fc]
-²”Œ‚ª—‚¿’…‚­‚Ì‚ğ‘Ò‚Á‚Ä‚©‚çA‰´‚ÍƒVƒƒƒ[º‚ÌŠO‚Ö[r]
-Šç‚ğo‚µA‚¨‚©‚µ‚È“z‚ç‚ªƒEƒ‚Â‚¢‚Ä‚¢‚È‚¢‚©Aü‚è‚ğ[r]
-Šm”F‚µ‚½B[pcms]
+After waiting for Saeki to calm down, I poked my head out of[r]the shower room and checked the surroundings to make sure[r]there weren't any strange people wandering around.[pcms]
 
 *5466|
 [fc]
-[ns]‰Á“¡[nse]
-us‚­‚¼A²”ŒIv[pcms]
+[ns]Kato[nse]
+Let's go, Saeki![pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -88,7 +84,7 @@
 [bg storage="bg09a"]
 [trans_c cross time=500]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 
 [se0 storage="se005"]
 
@@ -98,65 +94,63 @@
 
 *5467|
 [fc]
-•ÛŒ’º‚ÉŒü‚©‚Á‚Ä‘–‚èo‚µ‚Ä‚·‚®A‰´‚Í²”Œ‚ª‚Â‚¢‚Ä‚«[r]
-‚Ä‚¢‚È‚¢‚±‚Æ‚É‹C‚ª‚Â‚¢‚½B“r’†‚Å—§‚¿~‚Ü‚èAŒã‚ë‚ğ[r]
-U‚è•Ô‚é‚ÆA²”Œ‚Í—£‚ê‚½Š‚ğ‚Ì‚ñ‚Ñ‚è•à‚¢‚Ä‚¢‚½[pcms]
+I started running towards the infirmary, but soon realized[r]that Saeki wasn't following me.[l][er]
+I stopped along the way and looked back, only to see Saeki[r]leisurely walking at a distance.[pcms]
 
 *5468|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ç‚¤‚µ‚½H@‹}‚°‚æAV“¹æ¶‚ª‘Ò‚Á‚Ä‚é‚ñ‚¾‚¼v[pcms]
+[ns]Kato[nse]
+What's wrong? Hurry up, Shindou-sensei is waiting.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2273|
 [fc]
 [vo_sa s="sae0499"]
-[ns]²”Œ[nse]
-u‚ÍA‘–‚ê‚é‚í‚¯‚È‚¢‚Å‚µ‚å‚¤cc’…‚¯‚Ä‚¢‚È‚¢‚Ì‚Å‚·[r]
-‚©‚çccv[pcms]
+[ns]Saeki[nse]
+Th-There's no way I can run...[l][er]
+I'm not wearing any...[pcms]
 
 *5469|
 [fc]
-ƒnƒbƒLƒŠ’‚ç‚¸Aƒ‚ƒSƒ‚ƒS‚ÆŒû‚Ì’†‚ÅŒ¾‚¤‚¹‚¢‚©A²”Œ[r]
-‚ÌŒ¾‚Á‚½‚±‚Æ‚ª—Ç‚­•·‚±‚¦‚È‚©‚Á‚½B[pcms]
+I couldn't hear what Saeki said very well because she didn't[r]speak clearly and mumbled in her mouth.[pcms]
 
 *5470|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦H@‰½Hv[pcms]
+[ns]Kato[nse]
+Eh? What?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_09"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2274|
 [fc]
 [vo_sa s="sae0500"]
-[ns]²”Œ[nse]
-u‰º’…‚ğ’…‚¯‚Ä‚¢‚È‚¢‚©‚ç‘–‚ê‚Ü‚¹‚ñƒbIIv[pcms]
+[ns]Saeki[nse]
+I can't run because I'm not wearing any underwear!![pcms]
 
 *5471|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦ccv[pcms]
+[ns]Kato[nse]
+Eh...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2275|
 [fc]
 [vo_sa s="sae0501"]
-[ns]²”Œ[nse]
-u‰˜‚ê‚½‰º’…‚ğA‚»‚Ì‚Ü‚Ü—š‚­‚í‚¯‚È‚¢‚Å‚µ‚å‚¤ƒbII[r]
-„‚Ì‚±‚Æ‚à­‚µ‚Íl‚¦‚Ä‚­‚¾‚³‚¢IIv[pcms]
+[ns]Saeki[nse]
+There's no way I would wear dirty underwear!![l][er]
+Please consider my feelings a little bit too!![pcms]
 
 ;	/*
 ;	;;;[sysbt_meswin clear]
@@ -169,7 +163,7 @@
 ;	[black_toplayer][trans_c cross time=1001][hide_chara_int]
 ;	*/
 
-;//[05430]‚Ö
+;//[05430]ã¸
 [jump target=*05430_TOP storage="05430.ks"]
 
 

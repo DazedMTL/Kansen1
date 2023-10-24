@@ -1,16 +1,16 @@
 
-;//¡ËƒuƒƒbƒN08252wûŠn2x
-;//BG:¸~Œû‘O˜L‰ºF’©
-;//“oêl•¨FålŒöE’|“àE—DE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯08252ã€åç©«2ã€
+;//BG:æ˜‡é™å£å‰å»Šä¸‹ï¼šæœ
+;//ç™»å ´äººç‰©ï¼šä¸»äººå…¬ãƒ»ç«¹å†…ãƒ»å„ªãƒ»ç³
 
 *08252_TOP
-;[debug_win]‚È‚¤@08252[debug_win_end]
+;[debug_win]ãªã†ã€€08252[debug_win_end]
 
-;*SceneSet|wûŠn‚Qx
+;*SceneSet|ã€åç©«ï¼’ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_08252 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_08252 = 1"]
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 
 [bgm007]
 
@@ -22,49 +22,47 @@
 
 *10361|
 [fc]
-–ñ‘©‚Á‚ÄA‰½‚¾‚Á‚½‚©‚ÈccB[pcms]
+I wonder what that promise was...[pcms]
 
 *10362|
 [fc]
-—Í–çccH@‚¢‚âA˜a–çccHH@‚¢‚¢‚âccB[r]
-ƒRƒCƒc‚ÌŒ¾‚¤w–ñ‘©x‚ª‰½‚¾‚Á‚½‚Ì‚©Av‚¢o‚¹‚È‚¢B[pcms]
+Rikiya...? No, Kazuya...? No...[l][er]
+I can't remember what this 'promise' he's talking about was.[pcms]
 
 *10363|
 [fc]
-‚È‚ñ‚©ƒRƒCƒcA‚¢‚Â‚à—]Œv‚È–‚Î‚Á‚©‚èŒ¾‚¤‚©‚çAƒCƒ‰[r]
-ƒCƒ‰‚·‚é‚ñ‚¾‚æ‚ÈccB[pcms]
+This guy always says unnecessary things, so it's[r]irritating...[pcms]
 
 *10364|
 [fc]
-‚ ‚êH[r]
-’N‚©‚ªA‚±‚Á‚¿‚ÉŒü‚©‚Á‚Ä•à‚¢‚Ä—ˆ‚éccB[pcms]
+Huh? Someone is walking towards me...[pcms]
 
 *10365|
 [fc]
-—‚Ìqcc‚¾ccH[r]
-’N‚¾‚ëccH@Œ©Šo‚¦—L‚é‚ñ‚¾‚¯‚ÇccB[r]
-‰½‚Å—‡‚È‚ñ‚¾‚ë‚¤H[pcms]
+A girl...? Who could it be...?[l][er]
+I feel like I've seen her before...[l][er]
+Why is she naked?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_a_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_a_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3767|
 [fc]
 [vo_ya s="yama1054"]
-[ns]RŠİ[nse]
-ucc‚©A‚©‚Æ‚¤cc‚­‚ñccv[pcms]
+[ns]Yamagishi[nse]
+... K-Katou... kun...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *10366|
 [fc]
-—‚Ìq‚ÍA‚»‚ê‚¾‚¯Œ¾‚¤‚ÆA“|‚ê‚Ä‚µ‚Ü‚Á‚½ccH[pcms]
+Did the girl just say that and then collapse...?[pcms]
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 [se0 storage="se021"]
 [quake_bg xy m]
 
@@ -81,96 +79,99 @@
 
 *10367|
 [fc]
-[ns]’|“à[nse]
-u‚ ‚êH@‚±‚Ìqcc‚Ç‚¤‚µ‚½‚ñ‚¾‚ë‚¤cc[r]
-’N‚©‚Æƒ„ƒb‚½Œã‚È‚Ì‚©‚Ècc¸q‚¢‚Á‚Ï‚¢•t‚¢‚Ä‚év[pcms]
+[ns]Takeuchi[nse]
+Huh? What's wrong with this girl...[l][er]
+I wonder if she just had sex with someone...[l][er]
+She's covered in a lot of semen.[pcms]
 
 *10368|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ü‚¾’N‚©c‚Á‚Ä‚½‚ñ‚¾ccB‚Å‚à‚³w‰Á“¡x‚Á‚Ä[r]
-Œ¾‚Á‚Ä‚½‚¯‚ÇA‰½‚Ì–‚¾Hv[pcms]
+[ns]Kato[nse]
+There's still someone left... But they said 'Kato', what[r]could they be referring to?[pcms]
 
 *10369|
 [fc]
-[ns]’|“à[nse]
-u‰Á“¡cc‰Á“¡cc‚©‚Æ‚¤ccH@‚»‚êA‹`”Vcc‚Ì–[r]
-‚¶‚á‚È‚¢‚ÌHv[pcms]
+[ns]Takeuchi[nse]
+Katou... Katou... Katou...? Is that referring to[r]Yoshinori...?[pcms]
 
 *10370|
 [fc]
-[ns]‰Á“¡[nse]
-u‚æ‚µ‚ä‚«ccH@’NHv[pcms]
+[ns]Kato[nse]
+Yoshiki...? Who is it?[pcms]
 
 *10371|
 [fc]
-[ns]’|“à[nse]
-u‚ A‚ ‚ AƒSƒƒ“cc‚â‚·A‚ä‚«cc‚¾‚ÈHv[pcms]
+[ns]Takeuchi[nse]
+Ah, ah, sorry... Yasu, Yuki...[l][er]
+right?[pcms]
 
 *10372|
 [fc]
-‚»‚¤‚¾‚æcc–¼‘OŠÔˆá‚¤‚È‚æ‚ÈccB[r]
-‚Á‚ÄA‰Á“¡H@‚»‚ê‚ÉA‚â‚·‚ä‚«H@‰½‚¾H[pcms]
+Yeah... Don't get my name wrong...[l][er]
+Wait, Katou? And Yasuyuki? What's going on?[pcms]
 
 *10373|
 [fc]
-‚±‚êA‰½‚Ì–‚¾H@‰½‚¾H@‚ ‚êH[pcms]
+What is this? What's going on?[l][er]
+Huh?[pcms]
 
 *10374|
 [fc]
-‰½‚¾cc‰½‚àccv‚¢o‚¹‚È‚¢ccH[r]
-v‚¢o‚·H@‰½‚¾H@‚Ÿ‚ ‚ H@‚ ‚ê‚¥H[r]
-‰½‚©“ª‚É•‚‚©‚Ô‚¯‚ÇccA‚»‚Ìæ‚ªccB[pcms]
+What... What... I can't remember anything...?[l][er]
+Remember? What is it? Ahh? Huh?[pcms]
 
 *10375|
 [fc]
-h‚¢cc‚±‚Ìsˆ×‚ªAh‚¢I@‰½‚¾H[r]
-‚£‚ ‚ ‚ÁI@‚½A•‚¯‚Ä‚­‚ê‚¥I[pcms]
+It's painful... This act, it's painful![l][er]
+What is it? Ahh! S-Someone, please help me![pcms]
 
 *10376|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤‚Ÿ‚ ‚ ‚ ‚ ‚ÁII@‰´H@‰½‚¾‚ÁH@‰½H@‰½HH[r]
-‰½‚ª‰½‚¾H@‚¤‚í‚ÁI@‚¤‚Ÿ‚ ‚Ÿ‚ IHv[pcms]
+[ns]Kato[nse]
+Uwaaaah!! Me? What's happening?[l][er]
+What? What?? What is going on?[l][er]
+Uwah! Uwaaaah!?[pcms]
 
 *10377|
 [fc]
-[ns]’|“à[nse]
-u‚ÈA‰½‚¾‚æ‹}‚Écc‚Ç‚¤‚µ‚½‚ñ‚¾‚æccHv[pcms]
+[ns]Takeuchi[nse]
+W-What's the matter all of a sudden...?[l][er]
+What's wrong...?[pcms]
 
 *10378|
 [fc]
-[ns]‰Á“¡[nse]
-u‚½A•‚¯‚Ä‚­‚êcc‰´A‰´‚Á‚ÄA‰½‚¾H@‰½H@‰½H[r]
-‚¨‚¨‚ÜA‚¨‚Ü‚¦A’N’N’N‚¾‚êHcc‚¤‚Ÿ‚ ‚ IHv[pcms]
+[ns]Kato[nse]
+H-Help me... Who am I? What? What?[l][er]
+Who are you, who who who?... Uwaaaah!?[pcms]
 
 *10379|
 [fc]
-[ns]’|“à[nse]
-u‘åä•v‚©ccH@’N‚©‚¢‚é‚Ìcc‚¤‚í‚ŸI@ŒNA’NHv[pcms]
+[ns]Takeuchi[nse]
+Are you okay...? Is someone there...?[l][er]
+Uwah! Who are you?[pcms]
 
 *10380|
 [fc]
-‰½‚¾I@•‚¯‚Ä‚­‚ê‚æccH[r]
-‚ ‚êccH[r]
-‚Ü‚½A—‚ªH@‘‚¦‚½ccH[pcms]
+What the hell! Someone help me...?[l][er]
+Huh...? There's another woman?[l][er]
+They multiplied...?[pcms]
 
 *v3768|
 [fc]
 [vo_sa s="sae1250"]
-[ns]²”Œ[nse]
-u‚¤‚Ÿ‚ ‚ cc‰Á“¡cc‚³‚ñcc‚ ‚ñ‚Ècccv[pcms]
+[ns]Saeki[nse]
+Uwaaa... Kato-san... like that...[pcms]
 
 *v3769|
 [fc]
 [vo_ya s="yama1055"]
-[ns]RŠİ[nse]
-u‚¤ccv[pcms]
+[ns]Yamagishi[nse]
+Uhh...[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 [se0 storage="se021"]
 [quake_bg xy m]
 
@@ -182,40 +183,41 @@
 
 *10381|
 [fc]
-‚à‚¤ˆêlA—‚ªcc’N‚¾ccH@‚ ‚ê‚¥H@ƒRƒCƒc‚ÍŠm[r]
-‚©cc‚³‚Á‚«cc‰´‚ÆAƒRƒCƒc‚Åcc‚»‚¤‚¾ccB[pcms]
+There's another woman... Who is she...?[l][er]
+Huh? I remember... Earlier... Me and her...[l][er]
+That's right...[pcms]
 
 *10382|
 [fc]
-‚»‚¤‚¾ccƒRƒCƒc‚ğA“ñl‚ÅccƒAƒCƒc‚ÆA‚Ó‚½‚ècc[r]
-‚ÅccB”Æ‚µ‚ÄccB[pcms]
+That's right... Let's... the two of us...[l][er]
+with him... the two of us... Violate him...[pcms]
 
 *v3770|
 [fc]
 [vo_sa s="sae1251"]
-[ns]²”Œ[nse]
-u‚£‚£ccv[pcms]
+[ns]Saeki[nse]
+Uuhh...[pcms]
 
 *10383|
 [fc]
-‚ ‚Í‚Í‚Í‚ÁII@‚»‚¤‚¾I@‰´’BAƒZƒbƒNƒX‚µ‚Ä‚½‚ñ‚¾[r]
-II@—Ç‚©‚Á‚½ccv‚¢o‚µ‚½‚ÁII@‚Í‚Í‚Í‚Í‚ÁI[pcms]
+Ahahaha!! That's right! We were having sex!![l][er]
+Thank goodness... I remembered!![l][er]
+Hahaha![pcms]
 
 *10384|
 [fc]
-‚»‚¤‚¾cc‚â‚Á‚Æv‚¢o‚µ‚½‚¼ccH[r]
-Šm‚©A‚ ‚Ì•”‰®‚ÅccB[r]
-’N‚©‚ÆccB[pcms]
+That's right... I finally remembered...?[l][er]
+I think it was in that room...[l][er]
+With someone...[pcms]
 
 *10385|
 [fc]
-ƒAƒCƒc‚ªA—‚Ìq‚ğˆø‚«‚¸‚Á‚ÄA‚ä‚Á‚­‚è‚Æ•à‚«o‚·B[r]
-Šm‚©‚ÉA‰½‚¾‚©‚ ‚Ì•”‰®‚ÉŒü‚©‚í‚È‚¢‚Æs‚¯‚È‚¢‹C‚ª‚·[r]
-‚éB[pcms]
+That person is dragging a girl and slowly walking.[l][er]
+Indeed, it feels like we have to go to that room for some[r]reason.[pcms]
 
 *10386|
 [fc]
-•t‚¢‚Äs‚±‚¤ccB[pcms]
+Let's follow them...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -224,7 +226,7 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[08260‚Ö]
+;//[08260ã¸]
 [jump target=*08260_H_TOP storage="08260_H.ks"]
 
 

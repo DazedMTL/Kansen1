@@ -1,20 +1,20 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02109w‹ÁˆÙ—ˆPx
-;//BG:“Áê‹³º˜L‰ºF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöE’|“à
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02109ã€é©šç•°æ¥è¥²ã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç«¹å†…
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02109_TOP
-;[debug_win]‚È‚¤@02109[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02109 = 1"]
+;[debug_win]ãªã†ã€€02109[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02109 = 1"]
 
-;*SceneSet|w‹ÁˆÙ—ˆPx
+;*SceneSet|ã€é©šç•°æ¥è¥²ã€
 
 ;//[02109]
 
-;//ôFBGM003
+;//â™ªï¼šBGM003
 [bgm003]
 ;//BG:bg005a
 [bg storage="bg05a"]
@@ -22,29 +22,27 @@
 
 *2108|
 [fc]
-[ns]’|“à[nse]
-u‚¤‚í‚ ‚ ‚ ‚ ‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚ÁIIIIv[pcms]
+[ns]Takeuchi[nse]
+Uwaaaaaaaahhhhhhhhhh!!!!!![pcms]
 
 *2109|
 [fc]
-•ÛŒ’º‚Ì”à‚ğ•Â‚ß‚½‚»‚ÌAEˆõŒºŠÖ‚Ì•û‚©‚çA^–ç‚Ì[r]
-‹©‚Ñº‚ª•·‚±‚¦‚Ä‚«‚½B[pcms]
+At the moment I closed the door to the infirmary, I heard[r]Shinya's scream coming from the staff entrance.[pcms]
 
 *2110|
 [fc]
-‚Ü‚³‚©A‰´’B‚ğP‚Á‚½A‚ ‚Ì’j‚©ccH[pcms]
+Could it be, that man who attacked us...?[pcms]
 
 *2111|
 [fc]
-[ns]‰Á“¡[nse]
-u^–ç‚Ÿ‚ÁIIv[pcms]
+[ns]Kato[nse]
+Shinya![pcms]
 
 *2112|
 [fc]
-‰´‚ªEˆõŒºŠÖ‚ÉŒü‚©‚Á‚Ä‘–‚è‚¾‚µ‚Ä‚·‚®AŒŒ‘Š‚ğ•Ï‚¦‚½[r]
-^–ç‚ª”½‘Î‘¤‚©‚ç‘–‚Á‚Ä‚«‚½B[pcms]
+As soon as I started running towards the staff entrance,[r]Shinya, with a terrified expression on his face, came[r]running from the opposite side.[pcms]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 [se0 storage="se005"]
 
 [ChrSetEx layer=1 chbase="take_a_d_01"]
@@ -52,76 +50,76 @@
 [ChrSetParts layer=1 chface="take_a_d_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std233|
 [fc]
-[ns]’|“à[nse]
-u‘×”V‚¡`‚ÁIIv[pcms]
+[ns]Takeuchi[nse]
+Taiyuki~!![pcms]
 
 *2113|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ç‚¤‚µ‚½I@‰½‚ª‚ ‚Á‚½‚ñ‚¾Iv[pcms]
+[ns]Kato[nse]
+What's wrong! What happened?[pcms]
 
 *2114|
 [fc]
-‰´‚É‚µ‚ª‚İ‚Â‚¢‚ÄA‘§‚àâ‚¦â‚¦‚É^–ç‚Í˜b‚µo‚µ‚½B[pcms]
+Clinging onto me, Shinya began to speak, gasping for breath.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std234|
 [fc]
-[ns]’|“à[nse]
-u“d˜bA‚©‚¯‚æ‚¤‚Æ‚µ‚½‚ç‚³cc’©Aƒ{ƒN’B‚ğP‚Á‚Ä‚«[r]
-‚½‚â‚Â‚İ‚½‚¢‚Ècc•Ï‚È‚â‚Â‚ç‚ªA‘å¨AZ–å‚ÌŠ‚É[r]
-‚¢‚½‚ñ‚¾‚æIIv[pcms]
+[ns]Takeuchi[nse]
+When I tried to make a phone call...[l][er]
+in the morning, it seemed like the same person who attacked[r]us...[l][er]
+there were a lot of strange people gathered at the school[r]gate!![pcms]
 
 *2115|
 [fc]
-‰´‚Í‚»‚ê‚ğ•·‚¢‚ÄAƒ]ƒb‚Æ‚È‚Á‚½B[r]
-‚ ‚Ì’j‚Ì‚æ‚¤‚ÈA“ª‚Ì‚¨‚©‚µ‚¢“z‚ª‘å¨‚¾‚Á‚ÄccH[pcms]
+I felt a chill run down my spine as I heard that.[l][er]
+A bunch of crazy people like that man...[l][er]
+gathered at the school gate?[pcms]
 
 *2116|
 [fc]
-[ns]‰Á“¡[nse]
-ucc‚ÅA‚¨‘OA‚Ç‚¤‚µ‚½‚ñ‚¾Hv[pcms]
+[ns]Kato[nse]
+... So, what happened to you?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std235|
 [fc]
-[ns]’|“à[nse]
-uƒ{ƒNA‚Ñ‚Á‚­‚è‚µ‚¿‚á‚Á‚Ä‚³ccZÉ‚Ì’†‚É“ü‚Á‚Ä‚±[r]
-‚È‚¢‚æ‚¤‚ÉA‹}‚¢‚ÅŒºŠÖ‚ÌƒVƒƒƒbƒ^[~‚ë‚µ‚½‚ñ‚¾cc[r]
-‚¾‚©‚çA“d˜b‚Å‚«‚È‚©‚Á‚½cc‚²‚ß‚ñccv[pcms]
+[ns]Takeuchi[nse]
+I got really scared... so I hurried to close the shutters at[r]the entrance to prevent them from coming inside the school[r]building...[l][er]
+That's why I couldn't make a phone call...[l][er]
+I'm sorry...[pcms]
 
 *2117|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¢‚âA‚»‚Ìó‹µ‚¶‚á‚µ‚å‚¤‚ª‚È‚¢‚æBæ‚è‚ ‚¦‚¸A‹[r]
-’®Šoº‚É–ß‚ë‚¤‚ºv[pcms]
+[ns]Kato[nse]
+Well, given the situation, there's nothing we can do.[l][er]
+For now, let's go back to the audiovisual room.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std236|
 [fc]
-[ns]’|“à[nse]
-u‚¤A‚¤‚ñccv[pcms]
+[ns]Takeuchi[nse]
+Y-Yeah...[pcms]
 
 *2118|
 [fc]
-‚Ü‚¾—‚¿’…‚©‚È‚¢—lq‚Ì^–ç‚Æ‹¤‚ÉA‰´‚Í‹’®Šoº‚Ö‚Æ[r]
-‘–‚Á‚½B[pcms]
+I ran to the audiovisual room with Shinya, who still seemed[r]unsettled.[pcms]
 
 ;//blackout
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;BGM’â~
+;BGMåœæ­¢
 [fadeoutbgm time=500][wb]
 ;;;[sysbt_meswin]
 
-;//[02109]‚Ö
+;//[02109]ã¸
 [jump target=*02110_TOP storage="02110.ks"]
 

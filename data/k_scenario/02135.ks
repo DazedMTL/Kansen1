@@ -1,24 +1,24 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02135wƒŠƒT‚Ì¶Óx
-;//BG:“Áê‹³º˜L‰ºF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöEƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02135ã€ãƒªã‚µã®å±è²¬ã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02135_TOP
-;[debug_win]‚È‚¤@02135[debug_win_end]
+;[debug_win]ãªã†ã€€02135[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02135 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02135 = 1"]
 
-;*SceneSet|wƒŠƒT‚Ì¶Óx
+;*SceneSet|ã€ãƒªã‚µã®å±è²¬ã€
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 
 ;//[bgm009]
 
-;//bg008a+zombie_003@ˆê‘Ì
+;//bg008a+zombie_003ã€€ä¸€ä½“
 
 ;	[ChrSetEx layer=2 chbase="zom_01_a"]
 ;	[ChrSetXY layer=2 x=200 y=0]
@@ -28,13 +28,12 @@
 
 *2486|
 [fc]
-[ns]‰Á“¡[nse]
-uæ¶A¼–¾‚Å‹º‚¹‚Î‚±‚¢‚Â‚ç‚àAZÉ‚Ì’†‚É‚¢‚é‚±‚¢[r]
-‚Â‚ç‚Ì’‡ŠÔ‚àA‘Sˆõ’Ç‚¢o‚¹‚Ü‚·‚æv[pcms]
+[ns]Kato[nse]
+Sensei, if we threaten them with torches, we can drive out[r]both these guys and their comrades inside the school[r]building.[pcms]
 
 *2487|
 [fc]
-‰´‚Í¼–¾‚ğU‚è‰ñ‚µA’j’B‚ğ‹¯‚Ü‚¹A‘Ş‚©‚¹‚éB[pcms]
+I swing the torch, intimidating the men and making them[r]retreat.[pcms]
 
 ;//BG:bg008a
 
@@ -48,28 +47,28 @@
 [ChrSetParts layer=1 chface="risa_f_f_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v972|
 [fc]
 [vo_ri s="risa0315"]
-[ns]V“¹[nse]
-u¡‚Í“ñŠK‚Ö–ß‚è‚Ü‚·I@Šİ“cæ¶‚Ì—e‘Ô‚ªS”z‚¾‚ív[pcms]
+[ns]Shindou[nse]
+Let's go back to the second floor now![l][er]
+I'm worried about Kishida-sensei's condition.[pcms]
 
 *2488|
 [fc]
-—L–³‚ğŒ¾‚í‚¹‚È‚¢’²q‚Å‚»‚¤Œ¾‚í‚êAŠK’i‚Ö‹}‚®V“¹æ[r]
-¶‚ğA‰´‚Í’Ç‚¤‚µ‚©‚È‚©‚Á‚½B[pcms]
+I had no choice but to chase after Shindou-sensei, who said[r]that with an unwavering tone, and hurried towards the[r]stairs.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 ;//blackout
 
-;//[02136]‚Ö
+;//[02136]ã¸
 [jump target=*02136_TOP storage="02136.ks"]
 
 

@@ -1,30 +1,30 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN0112w‰f‰æŒ¤‹†•”İ—§E“®‹@x
-;//BG:—‰È‹³ˆõº^—[•û
-;//EVENT;//BG:—‰È‹³ˆõºEƒŠƒT‚Ì––±Š÷‘O
-;//“oêl•¨GƒŠƒTEŠİ“c
-;//‹“_FƒŠƒT
-;//Y‰ñ‘zƒV[ƒ“
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0112ã€æ˜ ç”»ç ”ç©¶éƒ¨è¨­ç«‹ãƒ»å‹•æ©Ÿã€
+;//BG:ç†ç§‘æ•™å“¡å®¤ï¼å¤•æ–¹
+;//EVENT;//BG:ç†ç§‘æ•™å“¡å®¤ãƒ»ãƒªã‚µã®äº‹å‹™æœºå‰
+;//ç™»å ´äººç‰©ï¼›ãƒªã‚µãƒ»å²¸ç”°
+;//è¦–ç‚¹ï¼šãƒªã‚µ
+;//ã€†å›æƒ³ã‚·ãƒ¼ãƒ³
 
-;//š‚gEVENT_008@w‰f‰æŒ¤‹†•”İ—§E“®‹@x
-;//‘ÌˆÊF‘S—‡‚Åèñ‚ğS‘©‚³‚ê‚½‚Ü‚ÜA°‚É‰¡‚É‚È‚Á‚½Šİ“c‚É”w–Ê‹RæˆÊiŠİ“c‚ÌŠç‚Í‰æ–Ê‚É‚Í“ü‚ç‚¸j
-;//@@@S‘©‚³‚ê‚½è‚ÍAŠİ“c‚Ì’j«Ší‚ğˆ¬‚Á‚Ä‚¢‚éB
-;//·•ªF–Ú‚ğ•Â‚¶‚Ä‹üJ‚É‘Ï‚¦‚Ä‚¢‚éE–Ú‚ğŒ©ŠJ‚«AƒVƒ‡ƒbƒN‚ğó‚¯‚Ä‚¢‚éE
-;//@@@Œ±ŠÇEƒSƒ€ƒ`ƒ…[ƒuEŠİ“c‚Ì‰º”¼gEË¸·•ª
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;//â˜…ï¼¨EVENT_008ã€€ã€æ˜ ç”»ç ”ç©¶éƒ¨è¨­ç«‹ãƒ»å‹•æ©Ÿã€
+;//ä½“ä½ï¼šå…¨è£¸ã§æ‰‹é¦–ã‚’æ‹˜æŸã•ã‚ŒãŸã¾ã¾ã€åºŠã«æ¨ªã«ãªã£ãŸå²¸ç”°ã«èƒŒé¢é¨ä¹—ä½ï¼ˆå²¸ç”°ã®é¡”ã¯ç”»é¢ã«ã¯å…¥ã‚‰ãšï¼‰
+;//ã€€ã€€ã€€æ‹˜æŸã•ã‚ŒãŸæ‰‹ã¯ã€å²¸ç”°ã®ç”·æ€§å™¨ã‚’æ¡ã£ã¦ã„ã‚‹ã€‚
+;//å·®åˆ†ï¼šç›®ã‚’é–‰ã˜ã¦å±ˆè¾±ã«è€ãˆã¦ã„ã‚‹ãƒ»ç›®ã‚’è¦‹é–‹ãã€ã‚·ãƒ§ãƒƒã‚¯ã‚’å—ã‘ã¦ã„ã‚‹ãƒ»
+;//ã€€ã€€ã€€è©¦é¨“ç®¡ãƒ»ã‚´ãƒ ãƒãƒ¥ãƒ¼ãƒ–ãƒ»å²¸ç”°ã®ä¸‹åŠèº«ãƒ»å°„ç²¾å·®åˆ†
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *0112_H_TOP
-;[debug_win]‚È‚¤@0112_H[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0112 = 1"]
+;[debug_win]ãªã†ã€€0112_H[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0112 = 1"]
 
-;*SceneSet|w‰f‰æŒ¤‹†•”İ—§E“®‹@x
+;*SceneSet|ã€æ˜ ç”»ç ”ç©¶éƒ¨è¨­ç«‹ãƒ»å‹•æ©Ÿã€
 
 ;//[0112]
 
-;//ôFBGM004
+;//â™ªï¼šBGM004
 ;//[bgm004]
 
 ;//BG:bg017d
@@ -33,8 +33,7 @@
 
 *1217|
 [fc]
-‰f‰æŒ¤‹†•”‚ğ‘n•”‚·‚é‚«‚Á‚©‚¯‚É‚È‚Á‚½‚ ‚Ì“ú‚àA[r]
-Šİ“c‚Í“Ë‘RA„‚Ì‚¢‚é—‰È€”õº‚ÉŒ»‚ê‚½B[pcms]
+That day, which became the starting point for creating the[r]Film Research Club, Kishida suddenly appeared in the science[r]preparation room where I was.[pcms]
 
 ;//blackout
 
@@ -46,12 +45,12 @@
 
 ;;;[sysbt_meswin]
 
-;//BG:bg—‰È€”õº@ƒZƒsƒA
+;//BG:bgç†ç§‘æº–å‚™å®¤ã€€ã‚»ãƒ”ã‚¢
 
 [bg storage="bg18a_s"]
 [trans_c cross time=500]
 
-;//SE:”à‚ğŠJ‚¯‚é
+;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
 [se0 storage="se008"]
 
 [ChrSetEx layer=1 chbase="spi_kisi_a_a_01"]
@@ -59,483 +58,452 @@
 [ChrSetParts layer=1 chface="spi_kisi_a_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std172|
 [fc]
-[ns]Šİ“c[nse]
-uƒIƒCI@—ˆ‚Ä‚â‚Á‚½‚¼I@‚»‚ë‚»‚ë‰´‚Ìƒ`ƒ“ƒR‚ª—~‚µ[r]
-‚­‚È‚é ‚¾‚ë‚¤‚ªIv[pcms]
+[ns]Kishida[nse]
+Hey! I'm here! It's about time you start craving my dick,[r]isn't it?![pcms]
 
 *1218|
 [fc]
-‰‚ß‚Ä”Æ‚³‚ê‚½“úˆÈ—ˆAŠİ“c‚Í“xX‚â‚Á‚Ä‚«‚Ä‚ÍA[r]
-„‚Ì‘Ì‚ğg‚Á‚ÄA©•ª‚Ì•‚¢—~–]‚ğ–‚½‚µ‚Ä‚¢‚½B[pcms]
+Since the day I was first violated, Kishida has frequently[r]come and used my body to satisfy his dark desires.[pcms]
 
 *1219|
 [fc]
-‚»‚¤‚µ‚ÄŠİ“c‚ÉæøçW‚³‚ê‚é–ˆ‚ÉA„‚Ì’†‚Ì”í‹sšnD‚à‚æ[r]
-‚è–¾Šm‚ÉA‚æ‚è[‚­‚È‚Á‚Ä‚¢‚Á‚½B[pcms]
+As I was violated by Kishida over and over again, my[r]masochistic tendencies within me became clearer and deeper.[pcms]
 
 *v515|
 [fc]
 [vo_ri s="risa0142"]
-[ns]V“¹[nse]
-uŠİ“cAæ¶ccv[pcms]
+[ns]Shindou[nse]
+Kishida, sensei...[pcms]
 
 [ChrSetEx layer=1 chbase="spi_kisi_a_a_01"]
 [ChrSetXY layer=1 x=140 y=0]
 [ChrSetParts layer=1 chface="spi_kisi_a_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std173|
 [fc]
-[ns]Šİ“c[nse]
-uƒIƒCI@‘¼‚ÌlŠÔ‚ª‚¢‚È‚¢‚ÍAŠİ“c—l‚ÆŒÄ‚×‚ÆŒ¾‚Á[r]
-‚½‚¾‚ë‚¤Iv[pcms]
+[ns]Kishida[nse]
+Hey! Didn't I tell you to call me Kishida-sama when there's[r]no one else around?![pcms]
 
 *v516|
 [fc]
 [vo_ri s="risa0143"]
-[ns]V“¹[nse]
-u‚àA\‚µ–ó‚ ‚è‚Ü‚¹‚ñAŠİ“c—lccv[pcms]
+[ns]Shindou[nse]
+I-I'm sorry, Kishida-sama...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std174|
 [fc]
-[ns]Šİ“c[nse]
-uål‚É‘Î‚·‚éŒû‚Ì‚«‚«•û‚ğ’m‚ç‚È‚¢“z—ê‚É‚ÍAƒIƒVƒI[r]
-ƒL‚ª•K—v‚¾‚Èƒ@v[pcms]
+[ns]Kishida[nse]
+A slave who doesn't know how to speak to their master needs[r]to be disciplined.[pcms]
 
 *1220|
 [fc]
-‚»‚¤Œ¾‚¢‚È‚ª‚ç•”‰®‚Ì’†‚ğŒ©‚Ü‚µ‚Ä‚¢‚½Šİ“c‚ÍA–ò•i‚ª[r]
-’u‚¢‚Ä‚ ‚éƒXƒ`[ƒ‹’I‚É–Ú‚ğ—¯‚ßA‹ß‚Ã‚¢‚½B[pcms]
+While saying that, Kishida, who was looking around the room,[r]noticed the steel shelf where the chemicals were placed and[r]approached it.[pcms]
 
 [ChrSetEx layer=1 chbase="spi_kisi_a_a_01"]
 [ChrSetXY layer=1 x=140 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std175|
 [fc]
-[ns]Šİ“c[nse]
-uƒkƒbƒtƒDccƒOƒŠƒZƒŠƒ“‚Æ‚ÍA–Ê”’‚¢•¨‚ª‚ ‚é‚¶‚á‚È[r]
-‚¢‚©A‚¦‚¦ƒIƒCIv[pcms]
+[ns]Kishida[nse]
+Nnffu... Glycerin, huh? It's an interesting substance, isn't[r]it?[l][er]
+Yeah, oi![pcms]
 
 *1221|
 [fc]
-”à‚ğŠJ‚¯A’I‚Ì’†‚Ì–ò•i‚ğŒ©‚Ä‚¢‚½Šİ“c‚ÍA‚»‚Ì’†‚Ìˆê[r]
-‚Â‚ğè‚É‚Æ‚Á‚ÄA‚¢‚â‚ç‚µ‚¢Î‚İ‚ğì‚Á‚½B[pcms]
+Kishida, who had opened the door and was looking at the[r]chemicals on the shelf, picked up one of them and formed a[r]lewd smile.[pcms]
 
 *v517|
 [fc]
 [vo_ri s="risa0144"]
-[ns]V“¹[nse]
-u‚»‚ê‚ÍA‰ÈŠw•”‚ªÀŒ±‚Ég‚¤‚Ì‚ÉAÅ‹ßw“ü‚µ‚½‚à‚Ì[r]
-‚Åccv[pcms]
+[ns]Shindou[nse]
+That is something recently purchased for the science club's[r]experiments...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std176|
 [fc]
-[ns]Šİ“c[nse]
-u‚ ‚Æ‚ÍA“ü‚ê‚é‚à‚Ì‚ª‚ ‚ê‚Î‚Èƒ@v[pcms]
+[ns]Kishida[nse]
+And if there's something to put in, that would be great.[pcms]
 
 *1222|
 [fc]
-Šİ“c‚Í„‚ÌŒ¾—t‚ÍˆÓ‚É‰î‚³‚¸A¡“x‚ÍÀŒ±Ší‹ï‚ª’u‚¢‚Ä[r]
-‚ ‚é’I‚É‹ß‚Ã‚¢‚ÄA‚µ‚Î‚ç‚­•¨F‚µ‚Ä‚©‚çA‘å‚«‚ß‚Ìƒs[r]
-ƒyƒbƒg‚ğè‚É‚Æ‚Á‚½B[pcms]
+Kishida paid no attention to my words and approached the[r]shelf where the experimental equipment was placed.[l][er]
+After searching for a while, he picked up a large pipette.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std177|
 [fc]
-[ns]Šİ“c[nse]
-uƒkƒbƒtƒtƒtcc‚Ü‚Á‚½‚­A‚±‚±‚Í‚¨‘O‚İ‚½‚¢‚ÈƒƒX“Ø[r]
-‚Ì‚½‚ß‚É‚ ‚é‚æ‚¤‚È•”‰®‚¾‚ÈI@ƒIƒCIv[pcms]
+[ns]Kishida[nse]
+Nnffufufu... Honestly, this room seems to be made for a sow[r]like you![l][er]
+Hey![pcms]
 
 *v518|
 [fc]
 [vo_ri s="risa0145"]
-[ns]V“¹[nse]
-u‚ ‚ÌA‚»‚ê‚Å‰½‚ğccv[pcms]
+[ns]Shindou[nse]
+Um, what are you planning to do with that...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std178|
 [fc]
-[ns]Šİ“c[nse]
-u‚±‚Ì—D‚µ‚¢‚²ål—l‚ªA“z—ê‚É‚²–J”ü‚ğ‚­‚ê‚Ä‚â‚éI[r]
-‚³ƒ@A•‚ğ’E‚°I@‘S•”‚¾‚¼Iv[pcms]
+[ns]Kishida[nse]
+This kind master will give you a reward, my slave![l][er]
+Now, take off your clothes! All of them![pcms]
 
 *v519|
 [fc]
 [vo_ri s="risa0146"]
-[ns]V“¹[nse]
-u‚ÍA‚Í‚¢ccv[pcms]
+[ns]Shindou[nse]
+Y-Yes...[pcms]
 
 *1223|
 [fc]
-Œ¾‚í‚ê‚½‚Æ‚¨‚è‚É„‚ª‘S‚Ä‚Ì•‚ğ’E‚®‚ÆAŠİ“c‚ÍŸ‚Ìw[r]
-¦‚ğo‚µ‚½B[pcms]
+As I obediently took off all of my clothes as instructed,[r]Kishida gave me the next command.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std179|
 [fc]
-[ns]Šİ“c[nse]
-u‚æƒH‚µAŸ‚ÍƒPƒc‚ğ‚±‚Á‚¿‚É‚Â‚«‚¾‚µ‚ÄAè‚ÅL‚°‚Ä[r]
-ƒPƒc‚ÌŒŠ‚ªŒ©‚¦‚é‚æ‚¤‚É‚µ‚ëIv[pcms]
+[ns]Kishida[nse]
+Alright, next, stick your butt out towards me and spread it[r]with your hands so that your asshole is visible![pcms]
 
 *v520|
 [fc]
 [vo_ri s="risa0147"]
-[ns]V“¹[nse]
-u‚¦‚Ácc‚ A‚ ‚ÌA‰½‚ğccv[pcms]
+[ns]Shindou[nse]
+Eh... Ah, um, what are you...[pcms]
 
 *1224|
 [fc]
-Šİ“c‚ªƒOƒŠƒZƒŠƒ“‚ÌŠW‚ğŠJ‚¯Aƒsƒyƒbƒg‚Å’†g‚ğ‹z‚¢o[r]
-‚·‚Ì‚ğŒ©‚ÄA„‚Í‚ ‚Ì’j‚ª‚±‚ê‚©‚ç‰½‚ğ‚µ‚æ‚¤‚Æ‚µ‚Ä‚¢[r]
-‚é‚Ì‚ª•ª‚©‚Á‚½B[pcms]
+I understood what that man was about to do when I saw[r]Kishida open the lid of the glycerin and suck out its[r]contents with a pipette.[pcms]
 
 *1225|
 [fc]
-Šİ“c‚ÍƒOƒŠƒZƒŠƒ“‚ğg‚Á‚ÄA„‚ÉŸ¯’°‚ğ‚·‚é‹C‚¾‚Á‚½B[pcms]
+Kishida intended to give me an enema using glycerin.[pcms]
 
 [ChrSetEx layer=1 chbase="spi_kisi_a_a_01"]
 [ChrSetXY layer=1 x=140 y=0]
 [ChrSetParts layer=1 chface="spi_kisi_a_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std180|
 [fc]
-[ns]Šİ“c[nse]
-u‚È‚ñ‚¾ƒ@`H@‚²ål—l‚ÌŒ¾‚¤‚±‚Æ‚ª•·‚¯‚È‚¢‚Á‚Ä‚Ì[r]
-‚©AƒIƒCIv[pcms]
+[ns]Kishida[nse]
+What's this? Are you saying you can't obey your master's[r]orders, huh?[pcms]
 
 *v521|
 [fc]
 [vo_ri s="risa0148"]
-[ns]V“¹[nse]
-u‚àA\‚µ–ó‚ ‚è‚Ü‚¹‚ñccv[pcms]
+[ns]Shindou[nse]
+I-I'm sorry...[pcms]
 
 *1226|
 [fc]
-ä\•”‚ğ—¼è‚Å’Í‚ñ‚ÅŠJ‚«AŠİ“c‚Ì•û‚Ö“Ë‚«o‚µ‚½B[pcms]
+I grabbed my buttocks with both hands and spread them,[r]sticking them out towards Kishida.[pcms]
 
 *1227|
 [fc]
-’p‚¸‚©‚µ‚³‚ÆAä\•”‚ÌŒŠ‚Ü‚ÅæøçW‚³‚ê‚æ‚¤‚Æ‚µ‚Ä‚¢‚é‹°[r]
-•|‚ÆA‚»‚Ì–‚Ö‚Ì’ú‚ß‚ÆA‚»‚µ‚ÄA‰‚ß‚Ä‚Ì‘ÌŒ±‚Ö‚Ì‘½[r]
-­‚Ì‚—gŠ´‚ªA„‚Ì’†‚Å‚È‚¢Œğ‚º‚É‚È‚Á‚Ä‚¢‚½B[pcms]
+A mixture of embarrassment, fear of being violated even in[r]my anal opening, resignation to the situation, and a slight[r]sense of excitement for this first experience were swirling[r]within me.[pcms]
 
 [ChrSetEx layer=1 chbase="spi_kisi_a_b_01"]
 [ChrSetXY layer=1 x=80 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std181|
 [fc]
-[ns]Šİ“c[nse]
-uƒkƒbƒtƒD`ccƒ}ƒWƒ‚Å‚¨Œ˜‚¢æ¶‚ªA‚¢‚¢ƒJƒbƒR‚¾[r]
-‚Èƒ@I@‚¦‚¦ƒIƒCIv[pcms]
+[ns]Kishida[nse]
+Nuffu~... A serious and strict teacher like you, it's quite[r]a sight![l][er]
+Hey, yeah you![pcms]
 
 *1228|
 [fc]
-Šİ“c‚Ìr‚­‚È‚Á‚½•@‘§‚ª‚«‚©‚¯‚ç‚êAƒOƒŠƒZƒŠƒ“‚Å–[r]
-‚½‚³‚ê‚½ƒsƒyƒbƒg‚Ìæ‚ªA‚ä‚Á‚­‚è‚Æä\•”‚ÌŒŠ‚Ö“ü‚Á‚Ä[r]
-‚«‚½B[pcms]
+Kishida's rough breath blew against me, and the tip of the[r]pipette filled with glycerin slowly entered my anal opening.[pcms]
 
 *v522|
 [fc]
 [vo_ri s="risa0149"]
-[ns]V“¹[nse]
-u‚¤A‚ŸccIv[pcms]
+[ns]Shindou[nse]
+U-ah...![pcms]
 
 *1229|
 [fc]
-„‚Í—â‚½‚¢Š´G‚Év‚í‚¸º‚ğã‚°‚Ä‚µ‚Ü‚¢AU‚è•Ô‚Á‚Ä[r]
-Šİ“c‚Ì—lq‚ğ‰M‚¤‚ÆA‚¢‚â‚ç‚µ‚­Î‚¢‚È‚ª‚çAã‚È‚ß‚¸[r]
-‚è‚ğ‚µ‚Ä‚¢‚é‚Æ‚±‚ë‚¾‚Á‚½B[pcms]
+I couldn't help but let out a voice at the cold sensation,[r]and when I turned around to see Kishida's expression, he was[r]licking his lips with a lewd smile.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std182|
 [fc]
-[ns]Šİ“c[nse]
-uƒkƒbƒtƒtƒtccƒIƒCI@“®‚­‚ñ‚¶‚á‚È‚¢‚¼Iv[pcms]
+[ns]Kishida[nse]
+Nuffufufu... Hey! Don't move![pcms]
 
 *v523|
 [fc]
 [vo_ri s="risa0150"]
-[ns]V“¹[nse]
-u‚ÍA‚¡ccv[pcms]
+[ns]Shindou[nse]
+Ah...[pcms]
 
 *1230|
 [fc]
-Šİ“c‚Ìè‚Å‰Ÿ‚µo‚³‚êAƒsƒyƒbƒg‚©‚çƒOƒŠƒZƒŠƒ“‚ª’°“à[r]
-‚É—¬‚ê‚ñ‚Å‚«‚ÄA„‚Í• •”‚É—â‚½‚³‚ğŠ´‚¶‚½B[pcms]
+Kishida's hand pushed me forward, and glycerin flowed into[r]my intestines from the pipette, causing a cold sensation in[r]my abdomen.[pcms]
+[l][er]
 
 *v524|
 [fc]
 [vo_ri s="risa0151"]
-[ns]V“¹[nse]
-u‚ñ‚ÁI@‚¤‚£‚Áccv[pcms]
+[ns]Shindou[nse]
+Nn! Uuhh...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std183|
 [fc]
-[ns]Šİ“c[nse]
-u‚Ç‚¤‚¾A‚¤‚Ü‚¢‚©ƒ@H@“Ø—p‚ÌƒGƒT‚Íƒ@Iv[pcms]
+[ns]Kishida[nse]
+How is it? Tasty pig feed![pcms]
 
 *v525|
 [fc]
 [vo_ri s="risa0152"]
-[ns]V“¹[nse]
-u‚¤A‚­ccv[pcms]
+[ns]Shindou[nse]
+Ugh...[pcms]
 
 [ChrSetEx layer=1 chbase="spi_kisi_a_a_01"]
 [ChrSetXY layer=1 x=140 y=0]
 [ChrSetParts layer=1 chface="spi_kisi_a_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std184|
 [fc]
-[ns]Šİ“c[nse]
-uƒIƒCI@‚²ål—l‚ª‚¤‚Ü‚¢‚©‚Ç‚¤‚©•·‚¢‚Ä‚é‚ñ‚¾I@[r]
-“š‚¦‚È‚¢‚È‚çAƒRƒCƒc‚ğª–{‚Ü‚Å‘}‚µ‚Ş‚¼Iv[pcms]
+[ns]Kishida[nse]
+Hey! I'm asking if you're good at pleasing your master![l][er]
+If you don't answer, I'll shove this all the way in![pcms]
 
 *v526|
 [fc]
 [vo_ri s="risa0153"]
-[ns]V“¹[nse]
-u‚Í‚ÁA‚Í‚¢‚¡A”ü–¡‚µ‚¢‚ÅA‚·‚£ccv[pcms]
+[ns]Shindou[nse]
+Haa, y-yes, it's delicious, suu...[pcms]
 
 [ChrSetEx layer=1 chbase="spi_kisi_a_a_01"]
 [ChrSetXY layer=1 x=140 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std185|
 [fc]
-[ns]Šİ“c[nse]
-uƒkƒbƒtƒtƒtcc‚»‚¤‚©A‚¤‚Ü‚¢‚©ƒ@I@‚æƒH‚µA‚È‚ç[r]
-‚à‚Á‚ÆH‚í‚¹‚Ä‚â‚é‚¼I@Šì‚×ƒIƒCIv[pcms]
+[ns]Kishida[nse]
+Nuffufufu... I see, it's tasty, huh![l][er]
+Alright then, I'll feed you even more![l][er]
+Be grateful, you pig![pcms]
 
 *v527|
 [fc]
 [vo_ri s="risa0154"]
-[ns]V“¹[nse]
-u‚ÍA‚¡cc‚ ‚è‚ª‚Æ‚¤A‚²‚´‚¢‚Ü‚·ccv[pcms]
+[ns]Shindou[nse]
+Th-thank you...[pcms]
 
 *1231|
 [fc]
-‚»‚ê‚©‚ç‰½“x‚©ƒOƒŠƒZƒŠƒ“‚ğ’°“à‚É’“ü‚³‚êAŸ‘æ‚É‰º[r]
-• •”‚ª–c‚ê‚Ä‚­‚é‚æ‚¤‚É„‚É‚ÍŠ´‚¶‚ç‚ê‚½B[pcms]
+I felt glycerin being injected into my intestines several[r]times after that, and gradually, I felt my lower abdomen[r]swelling.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std186|
 [fc]
-[ns]Šİ“c[nse]
-u‚æƒH‚µA‚±‚ñ‚È‚à‚ñ‚Å‚¢‚¢‚¾‚ë‚¤v[pcms]
+[ns]Kishida[nse]
+Alright, this should be enough.[pcms]
 
 *1232|
 [fc]
-Šİ“c‚ª‚»‚¤Œ¾‚Á‚Äƒsƒyƒbƒg‚ğˆø‚«”²‚¢‚Ä‚©‚ç‚·‚®‚ÉA„[r]
-‚Ì• •”‚É“İ‚¢’É‚İ‚ªŒ»‚ên‚ß‚½B[pcms]
+After Kishida said that and pulled out the pipette, a dull[r]pain began to appear in my abdomen.[pcms]
 
 *v528|
 [fc]
 [vo_ri s="risa0155"]
-[ns]V“¹[nse]
-u‚ñA‚£ccv[pcms]
+[ns]Shindou[nse]
+Nn, uuhh...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std187|
 [fc]
-[ns]Šİ“c[nse]
-uƒkƒbƒtƒtƒtcc‚³ƒ@A‚¢‚Â‚Ü‚Å‘Ï‚¦‚ç‚ê‚é‚©‚Èƒ@Hv[pcms]
+[ns]Kishida[nse]
+Nufufufu... Now, I wonder how long you can endure?[pcms]
 
 *1233|
 [fc]
-ä\•”‚ÌŒŠ‚É‘}‚µ‚ñ‚Å‚¢‚½ƒsƒyƒbƒg‚Ìæ‚ğAŠİ“c‚Í“©‘R[r]
-‚Æ‚µ‚ÄŠç‚Åšk‚¢‚ÅA‰º”¼g‚ÌƒWƒƒ[ƒW‚Ì‘O‚ğ“Ë‚Á’£‚ç‚¹[r]
-‚Ä‚¢‚½B[pcms]
+Kishida, with a blissful expression on his face, sniffed the[r]tip of the pipette that was inserted into my anal opening,[r]causing the front of his lower body's jersey to bulge.[pcms]
 
 [ChrSetEx layer=1 chbase="spi_kisi_a_a_01"]
 [ChrSetXY layer=1 x=140 y=0]
 [ChrSetParts layer=1 chface="spi_kisi_a_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std188|
 [fc]
-[ns]Šİ“c[nse]
-u‚ñ‚ñ`AL‚¤‚¼ƒHI@L‚­‚ÄƒXƒPƒx‚ÈL‚¢‚ªƒ@Iv[pcms]
+[ns]Kishida[nse]
+Mmm, it smells! It's a lewd and arousing smell![pcms]
 
 *v529|
 [fc]
 [vo_ri s="risa0156"]
-[ns]V“¹[nse]
-u‚ A‚­cc‚»A‚ñ‚Èccv[pcms]
+[ns]Shindou[nse]
+Ah, ku... s-so, like that...[pcms]
 
 [ChrSetEx layer=1 chbase="spi_kisi_a_a_01"]
 [ChrSetXY layer=1 x=140 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std189|
 [fc]
-[ns]Šİ“c[nse]
-u‚¨‘O‚Íƒ}ƒ“ƒR‚¾‚¯‚¶‚á‚È‚­‚ÄAƒPƒc‚ÌŒŠ‚Ü‚ÅƒƒX“Ø‚Ì[r]
-L‚¢‚ª‚·‚é‚ñ‚¾‚ÈI@ƒIƒCIv[pcms]
+[ns]Kishida[nse]
+Not only does your pussy smell like a female pig, but your[r]asshole does too![l][er]
+Hey![pcms]
 
 *1234|
 [fc]
-Ÿ¯’°‚ğ‚³‚ê‚½–‚ÆAŠİ“c‚ÌJ‚ß‚ÌŒ¾—t‚ÉA„‚Ì’†‚©‚çA[r]
-¡‚Å‚Í‚»‚Ì³‘Ì‚ª‚í‚©‚Á‚½A‚ ‚Ìáƒ‚ê‚ªL‚ª‚Á‚Ä‚­‚é‚Ì[r]
-‚ğŠ´‚¶‚½B[pcms]
+I felt that numbness spreading from within me, now that I[r]understand its true nature, due to being given an enema and[r]Kishida's humiliating words.[pcms]
 
 *1235|
 [fc]
-áƒ‚ê‚ªL‚ª‚Á‚Ä‚­‚é‚Ì‚Æ“¯‚ÉA“İ’É‚¾‚Á‚½• •”‚Ì’É‚İ[r]
-‚ªAv‚í‚¸‘Ì‚ğ‹ü‚ß‚Ä‚µ‚Ü‚¤’öA‹}Œƒ‚ÉŒƒ‚µ‚­‚È‚Á‚½B[pcms]
+As the numbness spread, the dull pain in my abdomen[r]intensified rapidly to the point where I involuntarily bent[r]my body.[pcms]
 
 *v530|
 [fc]
 [vo_ri s="risa0157"]
-[ns]V“¹[nse]
-u‚¤‚£‚ÁccIv[pcms]
+[ns]Shindou[nse]
+Uuhh...![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std190|
 [fc]
-[ns]Šİ“c[nse]
-u‚È‚ñ‚¾ƒ@H@‚à‚¤ŒÀŠE‚È‚Ì‚©IH@ƒIƒCIv[pcms]
+[ns]Kishida[nse]
+What's wrong? Are you already at your limit!?[l][er]
+Hey![pcms]
 
 *v531|
 [fc]
 [vo_ri s="risa0158"]
-[ns]V“¹[nse]
-u‚ÍA‚Í‚¢cc‚¨Šè‚¢A‚µ‚ÜA‚·AƒgƒCƒŒ‚Écc‚ñ‚ÁA[r]
-‚­ccs‚©‚¹‚Ä‚­‚¾A‚³‚¢ccv[pcms]
+[ns]Shindou[nse]
+Y-Yes... please, let me... go to the bathroom...[l][er]
+ngh... please let me...[pcms]
 
 *1236|
 [fc]
-• •”‚ğ‰Ÿ‚³‚¦AãX‚µ‚­‚»‚¤Œ¾‚¤„‚ğAŠİ“c‚Í‚¢‚â‚ç‚µ[r]
-‚­Î‚Á‚ÄŒ©‰º‚ë‚µ‚½B[pcms]
+Kishida looked down at me with a lewd smile as I weakly said[r]those words while clutching my abdomen.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std191|
 [fc]
-[ns]Šİ“c[nse]
-uƒIƒCI@‚·‚®‚ÉƒgƒCƒŒ‚És‚©‚¹‚½‚çAŸ¯’°‚µ‚½ˆÓ–¡‚ª[r]
-‚È‚¢‚¾‚ë‚¤‚ªIv[pcms]
+[ns]Kishida[nse]
+Hey! If I let you go to the bathroom right away, there would[r]be no point in giving you an enema, right?![pcms]
 
 *v532|
 [fc]
 [vo_ri s="risa0159"]
-[ns]V“¹[nse]
-u‚ÍA‚¡ccv[pcms]
+[ns]Shindou[nse]
+Ah, i...[pcms]
 
 [ChrSetEx layer=1 chbase="spi_kisi_a_a_01"]
 [ChrSetXY layer=1 x=140 y=0]
 [ChrSetParts layer=1 chface="spi_kisi_a_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std192|
 [fc]
-[ns]Šİ“c[nse]
-u‚È‚ñ‚È‚çA‚±‚±‚Å‚µ‚Ä‚à‚¢‚¢‚¼ƒHH@ƒ}ƒWƒ‚Å‚¨Œ˜‚¢[r]
-æ¶‚ª·‘å‚É•³‚ğ˜R‚ç‚·‚Æ‚±‚ë‚ğA‚¶‚Á‚­‚èŒ©•¨‚³‚¹‚Ä[r]
-‚à‚ç‚¨‚¤‚¶‚á‚È‚¢‚©I@ƒIƒCIv[pcms]
+[ns]Kishida[nse]
+How about doing it right here?[l][er]
+Let me thoroughly enjoy watching the serious and uptight[r]teacher have a massive shit accident![l][er]
+Hey![pcms]
 
 *v533|
 [fc]
 [vo_ri s="risa0160"]
-[ns]V“¹[nse]
-u‹–A‚µ‚Ä‚­‚¾‚³A‚¢cc‚»‚ê‚¾‚¯‚Íccv[pcms]
+[ns]Shindou[nse]
+P-Please... forgive me... at least that...[pcms]
 
 *1237|
 [fc]
-‘§‚àâ‚¦â‚¦‚É‘i‚¦‚é„‚ğŒ©‰º‚ë‚µ‚ÄAŠİ“c‚ÌÎ‚İ‚ÍA[r]
-‚Ü‚·‚Ü‚·‚¢‚â‚ç‚µ‚­˜c‚ñ‚¾B[pcms]
+Kishida looked down at me, who was gasping for breath and[r]pleading, with an even more lewd and twisted smile.[pcms]
 
 [ChrSetEx layer=1 chbase="spi_kisi_a_a_01"]
 [ChrSetXY layer=1 x=140 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std193|
 [fc]
-[ns]Šİ“c[nse]
-u‚æƒH‚µA‚È‚ç‰´‚É‚Ü‚½‚ª‚Á‚Äƒ`ƒ“ƒR‚ğ‚µ‚²‚¯I@‰´‚ª[r]
-ƒCƒb‚¿‚Ü‚¤‚Ì‚ÆA‚¨‘O‚ª•³‚ğƒuƒ`T‚¯‚é‚ÌA‚Ç‚Á‚¿‚ª‘[r]
-‚¢‚©‹£‘ˆ‚¾Iv[pcms]
+[ns]Kishida[nse]
+Alright, then straddle me and jerk off my dick![l][er]
+Let's have a competition to see who finishes first, me[r]coming or you spraying shit everywhere![pcms]
 
 *v534|
 [fc]
 [vo_ri s="risa0161"]
-[ns]V“¹[nse]
-u‚»A‚ñ‚Ècc‚±‚Æccv[pcms]
+[ns]Shindou[nse]
+N-No... that...[pcms]
 
 [ChrSetEx layer=1 chbase="spi_kisi_a_a_01"]
 [ChrSetXY layer=1 x=140 y=0]
 [ChrSetParts layer=1 chface="spi_kisi_a_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std194|
 [fc]
-[ns]Šİ“c[nse]
-u‚È‚ñ‚¾A•s–‚È‚Ì‚©ƒ@H@æ‚É‰´‚ªƒCƒb‚½‚çAƒgƒCƒŒ[r]
-‚És‚©‚¹‚Ä‚â‚é‚ÆŒ¾‚Á‚Ä‚é‚ñ‚¾‚¼I@ƒIƒCIv[pcms]
+[ns]Kishida[nse]
+What's wrong? Are you dissatisfied?[l][er]
+I'm saying that if I come first, I'll let you go to the[r]bathroom![l][er]
+Hey![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *1238|
 [fc]
-‰º• •”‚Ì’É‚İ‚Í‚¢‚æ‚¢‚æŒƒ‚µ‚­‚È‚Á‚ÄA‚İ‚é‚İ‚éŠç‚ªÂ[r]
-‚´‚ß‚Ä‚¢‚­‚Ì‚ğA„‚Í©•ª‚ÅŠ´‚¶æ‚Á‚Ä‚¢‚½B[pcms]
+I could feel the pain in my lower abdomen intensifying, and[r]I could see my face growing paler by the moment.[pcms]
 
 *1239|
 [fc]
-‚Å‚àAŠİ“c‚Í‹Ç•”‚ğ˜I‚í‚É‚µAŠù‚É°‚É‹ÂŒü‚¯‚É‚È‚Á‚Ä[r]
-‚¢‚ÄA©•ª‚Ì–½—ß‚ğÀs‚·‚é‚Ü‚ÅA„‚ğƒgƒCƒŒ‚És‚©‚¹[r]
-‚é‚Â‚à‚è‚Í‚È‚¢‚æ‚¤‚¾‚Á‚½B[pcms]
+However, Kishida had already exposed his genitals and was[r]lying on his back on the floor.[l][er]
+It seemed that he had no intention of letting me go to the[r]bathroom until I carried out his orders.[pcms]
 
 *1240|
 [fc]
-• •”‚Ì’É‚İ‚ÆA‘Ì‚Ì‰œ‚©‚ç‚Ìáƒ‚ê‚É‘Ï‚¦‚È‚ª‚çA„‚ÍŠİ[r]
-“c‚Ì• ‚Ìã‚ÉŒ×‚èA‚µ‚á‚ª‚ñ‚¾B[pcms]
+Struggling through the pain in my abdomen and the numbness[r]deep within my body, I straddled Kishida's stomach and[r]squatted down.[pcms]
 
 [ChrSetEx layer=1 chbase="spi_kisi_a_a_01"]
 [ChrSetXY layer=1 x=140 y=0]
 [ChrSetParts layer=1 chface="spi_kisi_a_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std195|
 [fc]
-[ns]Šİ“c[nse]
-uƒIƒCI@‚à‚µ‰´‚Ì‘Ì‚É•³‚µ‚â‚ª‚Á‚½‚çA‚¨‘O‚Ìƒ}ƒ“ƒR[r]
-Ê^‚ğƒoƒ‰T‚­‚©‚ç‚Èƒ@I@ƒYƒ@ƒbƒnƒbƒnƒbƒnIIv[pcms]
+[ns]Kishida[nse]
+Hey! If you dare to shit on my body, I'll spread your pussy[r]pictures everywhere![l][er]
+Zaa hahahaha!![pcms]
 
 *v535|
 [fc]
 [vo_ri s="risa0162"]
-[ns]V“¹[nse]
-u‚Í‚¢ccŠæ’£‚èA‚Ü‚·ccv[pcms]
+[ns]Shindou[nse]
+Yes... I'll do my best...[pcms]
 
 *1241|
 [fc]
-–Ú‚Ì‘O‚Åk‚¦‚Ä‚¢‚é‹Ç•”‚ğ•Ğè‚Åˆ¬‚é‚ÆAŠİ“c‚Í‘Ì‚ğ‹N[r]
-‚±‚µA„‚Ì—¼èñ‚Ég‚ğ‚Í‚ß‚¾‚µ‚½B[pcms]
+Kishida grabbed the trembling genitals in front of him with[r]one hand, then he stood up and put handcuffs on both of my[r]wrists.[pcms]
+[l][er]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
 
-;//H_CG:ƒŠƒT‚ÆŠİ“c‚Ì‚r‚lƒvƒŒƒC
+;//H_CG:ãƒªã‚µã¨å²¸ç”°ã®ï¼³ï¼­ãƒ—ãƒ¬ã‚¤
 
 ;;;[sysbt_meswin clear]
 
@@ -549,22 +517,22 @@
 *v536|
 [fc]
 [vo_ri s="risa0163"]
-[ns]V“¹[nse]
-u‚ ‚ÌA‚±‚ê‚Íccv[pcms]
+[ns]Shindou[nse]
+Um, this is...[pcms]
 
 *1242|
 [fc]
-[ns]Šİ“c[nse]
-uƒkƒbƒtƒtcc‚¿‚á‚ñ‚Æ—¼è‚ğg‚¦‚é‚æ‚¤‚ÉAŒÅ’è‚µ‚Ä[r]
-‚â‚ë‚¤B‚»‚ê‚©‚çA‚±‚ê‚ÍƒIƒ}ƒP‚¾v[pcms]
+[ns]Kishida[nse]
+Nufufu... To make sure you can use both hands properly, I'll[r]restrain you.[l][er]
+And then, this is a bonus.[pcms]
 
 *v537|
 [fc]
 [vo_ri s="risa0164"]
-[ns]V“¹[nse]
-u‚¦cc‚ ‚Ÿ‚ÁIv[pcms]
+[ns]Shindou[nse]
+E... Ahh![pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
 [se1 storage="se059" loop=true]
 
 ;//redflash
@@ -582,158 +550,149 @@
 
 *1243|
 [fc]
-Šİ“c‚Í‚à‚¤ˆê“x„‚Ì’†‚ÉƒOƒŠƒZƒŠƒ“‚ğ—¬‚µ‚Ş‚Ì‚Æ“¯[r]
-‚ÉA¡“x‚Í’I‚©‚ç‚¿o‚µ‚½Œ±ŠÇ‚ğA„‚Ì«Ší‚É‘}‚µ[r]
-‚ñ‚¾B[pcms]
+Kishida poured glycerin into me once again, and at the same[r]time, he took a test tube from the shelf and inserted it[r]into my genitals.[pcms]
 
 *1244|
 [fc]
-‘}‚µ‚Ü‚ê‚½Œ±ŠÇ‚ªA‚Ü‚é‚Å«Ší‚©‚ç¶‚¦‚Ä‚«‚½—l‚É[r]
-Œ©‚¦‚ÄA„‚Ìp‚Í‚Ğ‚Ç‚­î‚¯‚È‚¢‚à‚Ì‚É‚È‚Á‚½B[pcms]
+The inserted test tube looked as if it was growing out of my[r]genitals, and my appearance became incredibly pathetic.[pcms]
 
 *v538|
 [fc]
 [vo_ri s="risa0165"]
-[ns]V“¹[nse]
-u‚¤A‚ ‚Ÿccv[pcms]
+[ns]Shindou[nse]
+Ugh, ahh...[pcms]
 
 *1245|
 [fc]
-[ns]Šİ“c[nse]
-u‚»‚ê‚ğƒ}ƒ“ƒR‚©‚ç—‚Æ‚µ‚½‚çA‚±‚±‚Å•³‚ğ‚µ‚Ä‚à‚ç‚¤[r]
-‚©‚ç‚Èƒ@I@‚³ƒ@An‚ß‚ëIv[pcms]
+[ns]Kishida[nse]
+If you drop that, I'll make you shit right here from your[r]pussy![l][er]
+Now, start![pcms]
 
 *v539|
 [fc]
 [vo_ri s="risa0166"]
-[ns]V“¹[nse]
-u‚ÍA‚¡ccv[pcms]
+[ns]Shindou[nse]
+Ah...[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
 [se1 storage="se059" loop=true]
 
 *1246|
 [fc]
-’·‚¢ŠÔ‚Í•Û‚¿‚»‚¤‚É‚È‚¢B‚»‚¤v‚Á‚½„‚ÍÅ‰‚©‚çŒƒ[r]
-‚µ‚­AŠİ“c‚Ì‹Ç•”‚ğ‚µ‚²‚«‚ ‚°‚½B[pcms]
+I thought that I wouldn't be able to hold on for much[r]longer.[l][er]
+So, right from the start, I vigorously stroked Kishida's[r]genitals.[pcms]
 
 *1247|
 [fc]
-[ns]Šİ“c[nse]
-uƒkƒbƒtƒtƒtcc‘Š“–Å‚Á‚Ä‚é‚æ‚¤‚¾‚Èƒ@I@‚¾‚ªA‚»[r]
-‚¤ŠÈ’P‚É‰´‚Ìƒ`ƒ“ƒR‚Í‚¢‚©‚È‚¢‚¼I@ƒIƒCIv[pcms]
+[ns]Kishida[nse]
+Nufufu... You seem quite impatient, don't you?[l][er]
+But my dick won't go down that easily![l][er]
+Hey![pcms]
 
 *v540|
 [fc]
 [vo_ri s="risa0167"]
-[ns]V“¹[nse]
-u‚­A‚Ó‚£ccIv[pcms]
+[ns]Shindou[nse]
+Kuh, fuu...![pcms]
 
 *1248|
 [fc]
-[ns]Šİ“c[nse]
-uƒIƒCI@ƒPƒc‚ÌŒŠ‚ªƒsƒNƒsƒN‚µ‚Ä‚é‚¼I@‚Ü‚³‚©A‚í[r]
-‚´‚Æ˜R‚ç‚µ‚Ä‚â‚ë‚¤‚È‚ñ‚Äl‚¦‚Ä‚¢‚é‚ñ‚¶‚á‚È‚¢‚¾‚ë‚¤[r]
-‚Èƒ@Iv[pcms]
+[ns]Kishida[nse]
+Hey! Your asshole is twitching![l][er]
+Don't tell me you're thinking of purposely wetting yourself,[r]are you?![pcms]
 
 *v541|
 [fc]
 [vo_ri s="risa0168"]
-[ns]V“¹[nse]
-u‚»‚ñA‚ÈA‚±‚ÆccvA‚Ä‚Ü‚¹A‚ñccv[pcms]
+[ns]Shindou[nse]
+I-I... I didn't... think of such a thing...[pcms]
 
 *1249|
 [fc]
-[ns]Šİ“c[nse]
-u‚í‚©‚Á‚Ä‚é‚¾‚ë‚¤‚Èƒ@I@‰´‚Ì‘Ì‚É•³‚ğ˜R‚ç‚µ‚½‚çA[r]
-‚¨‘O‚Ìƒ}ƒ“ƒRÊ^‚ªƒoƒ‰T‚©‚ê‚é‚¼I@ƒIƒCIv[pcms]
+[ns]Kishida[nse]
+You understand, right?! If you shit on my body, I'll spread[r]pictures of your pussy everywhere![l][er]
+Hey![pcms]
 
 *v542|
 [fc]
 [vo_ri s="risa0169"]
-[ns]V“¹[nse]
-u‚Í‚ÁA‚Í‚¢‚¡ccIv[pcms]
+[ns]Shindou[nse]
+Hah, y-yes...![pcms]
 
 *1250|
 [fc]
-„‚Í•K€‚¾‚Á‚½B[pcms]
+I was desperate.[pcms]
 
 *1251|
 [fc]
-ä\•”‚ÌŒŠ‚É—Í‚ğ“ü‚ê‚ê‚ÎA«Ší‚ÌŒ±ŠÇ‚ª—‚¿‚Ä‚«‚»‚¤[r]
-‚É‚È‚èAŒ±ŠÇ‚ğ—‚Æ‚·‚Ü‚¢‚Æ‚»‚¿‚ç‚ÉW’†‚·‚é‚ÆAãè[r]
-–å‚Ì•û‚ª‚¨‚ë‚»‚©‚É‚È‚é‚©‚ç‚¾B[pcms]
+If I put too much strength into my anal hole, it feels like[r]my genitals' test tube might fall out.[l][er]
+So, in order to avoid dropping the test tube, I focus on[r]that area, causing my anus to be neglected.[pcms]
 
 *v543|
 [fc]
 [vo_ri s="risa0170"]
-[ns]V“¹[nse]
-uƒnƒ@ƒbccƒnƒ@ƒbccIv[pcms]
+[ns]Shindou[nse]
+Haa... Haa...![pcms]
 
 *1252|
 [fc]
-[ns]Šİ“c[nse]
-u‚Ü‚¾‚Ü‚¾ƒ@I@‚±‚ê‚¶‚áæ‚Í‰“‚¢‚¼I@ƒIƒCIv[pcms]
+[ns]Kishida[nse]
+Not yet! This is still far from over![l][er]
+Hey![pcms]
 
 *v544|
 [fc]
 [vo_ri s="risa0171"]
-[ns]V“¹[nse]
-u\‚µ–óA‚ ‚è‚Ü‚¹A‚ñccv[pcms]
+[ns]Shindou[nse]
+I-I'm sorry...[pcms]
 
 *1253|
 [fc]
-‚Ç‚¤‚·‚ê‚ÎŠİ“c‚ª‘‚­â’¸‚É’B‚·‚é‚©A„‚Í•K€‚Ål‚¦[r]
-‚ÄAˆÈ‘O‚ÉŒû‚Å‚³‚¹‚ç‚ê‚½‚ÉAæ’[•”•ª‚ğhŒƒ‚µ‚½[r]
-‚ÌŠì‚Ñ‚æ‚¤‚ğv‚¢o‚µ‚½B[pcms]
+I desperately thought about how to make Kishida reach climax[r]faster, and I remembered the pleasure I felt when I[r]stimulated the tip during the previous time I did it with my[r]mouth.[pcms]
 
 *1254|
 [fc]
-‚»‚µ‚ÄA‹Ç•”‚ÌŒû‚©‚ç˜R‚êo‚µn‚ß‚½“§–¾‚Ì‰t‘Ì‚ğAæ[r]
-’[•”•ª‚É“h‚è‚Â‚¯‚é‚æ‚¤‚É‚µ‚ÄhŒƒ‚µ‚½B[pcms]
+And then, I began to stimulate the tip by coating it with[r]the transparent liquid that started leaking from my[r]genital's mouth.[pcms]
 
 *1255|
 [fc]
-[ns]Šİ“c[nse]
-uƒkƒbƒtƒtccƒIƒCI@l‚¦‚½‚ÈI@‚Ê‚ß‚Á‚Ä‚È‚©‚È‚©[r]
-‚¢‚¢‚¼ƒHIv[pcms]
+[ns]Kishida[nse]
+Nufufu... Hey! You've thought of something![l][er]
+Being slippery is quite nice, you know![pcms]
 
 *v545|
 [fc]
 [vo_ri s="risa0172"]
-[ns]V“¹[nse]
-u‚Í‚¡cc‚ ‚è‚ªA‚Æ‚¤A‚²‚´‚¢‚ÜA‚·ccv[pcms]
+[ns]Shindou[nse]
+Y-Yes... Th-Thank you very much...[pcms]
 
 *1256|
 [fc]
-Šİ“c‚ÌŒÄ‹z‚ÍŸ‘æ‚ÉŒƒ‚µ‚­‚È‚èA‹Ç•”‚Ìæ’[‚©‚ç‚Ç‚ñ‚Ç[r]
-‚ñ‰t‚ª˜R‚ê‚¾‚µ‚Ä‚«‚Ä‚¢‚½B[pcms]
+Kishida's breathing gradually became more intense, and[r]liquid was steadily leaking from the tip of his genitals.[pcms]
 
 *1257|
 [fc]
-[ns]Šİ“c[nse]
-uƒkƒbƒtƒDI@‚¢‚¢‚¼ƒHI@‚â‚é‚¶‚á‚È‚¢‚©AƒƒX“Ø‚ß[r]
-‚ªƒ@Iv[pcms]
+[ns]Kishida[nse]
+Nufufu! Good job! You're doing well, you female pig![pcms]
 
 *v546|
 [fc]
 [vo_ri s="risa0173"]
-[ns]V“¹[nse]
-uƒnƒ@ƒbcc‚¨ŠèA‚¢‚Å‚·A‚ÍA‚â‚­ccƒnƒ@ƒbcc‘[r]
-‚­AƒCƒb‚Ä‚­‚¾A‚³‚¢‚¡ccv[pcms]
+[ns]Shindou[nse]
+Haa... Please, hurry... Haa...[l][er]
+Come quickly, please...[pcms]
 
 *1258|
 [fc]
-[ns]Šİ“c[nse]
-uƒIƒCI@“z—ê‚ª‚²ål—l‚É–½—ß‚·‚é‚Ì‚©IH@ƒƒX“Ø[r]
-‚ª’²q‚Éæ‚è‚â‚ª‚Á‚ÄIv[pcms]
+[ns]Kishida[nse]
+Hey! Is the slave giving orders to the master!?[l][er]
+The female pig is getting carried away![pcms]
 
 *1259|
 [fc]
-‚»‚¤Œ¾‚¤‚ÆAŠİ“c‚Í„‚Ì«Ší‚É‘}‚µ‚Ü‚ê‚Ä‚¢‚½Œ±ŠÇ[r]
-‚ğ’Í‚İA“®‚©‚µn‚ß‚½B[pcms]
+Saying that, Kishida grabbed the test tube that was inserted[r]into my genitals and started moving it.[pcms]
 
-;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
 [overflow_se storage="se061"]
 
 ;//whiteflash
@@ -752,166 +711,165 @@
 *v547|
 [fc]
 [vo_ri s="risa0174"]
-[ns]V“¹[nse]
-u‚ ‚ÁI@Œ™‚Ÿ‚ÁIIv[pcms]
+[ns]Shindou[nse]
+Ah! Nooo!![pcms]
 
 *1260|
 [fc]
-[ns]Šİ“c[nse]
-uƒIƒCI@è‚ğ~‚ß‚é‚ñ‚¶‚á‚È‚¢I@‚¨‘O‚ª‰´‚æ‚èæ‚É[r]
-ƒCƒb‚Ä‚àAƒ}ƒ“ƒRÊ^‚ğƒoƒ‰T‚­‚¼I@ƒIƒCIv[pcms]
+[ns]Kishida[nse]
+Hey! Don't stop your hand! Even if you cum before me, I'll[r]leak pictures of your pussy![l][er]
+Hey![pcms]
 
 *v548|
 [fc]
 [vo_ri s="risa0175"]
-[ns]V“¹[nse]
-u‚ ‚Á‚­ccI@‚ÍA‚¢‚¡ccv[pcms]
+[ns]Shindou[nse]
+Ahh...! Haa, it feels good...[pcms]
 
 *1261|
 [fc]
-ˆê‹C‚É‘Ì‚Éáƒ‚ê‚ªL‚ª‚Á‚ÄAä\•”‚Ö‚ÌW’†‚ªã‚Ü‚Á‚Ä‚¢[r]
-‚­‚Ì‚ğA„‚Í•K€‚Å‚±‚ç‚¦‚½B[pcms]
+I desperately tried to endure as the numbness spread[r]throughout my body all at once, and the focus on my buttocks[r]weakened.[pcms]
 
 *1262|
 [fc]
-[ns]Šİ“c[nse]
-uƒIƒCI@ƒˆƒK‚é‚Ì‚Í‚¢‚¢‚ªAƒPƒc‚ÌŒŠ‚Í‚µ‚Á‚©‚è•Â‚ß[r]
-‚ëI@››‚ª˜R‚ê‚Ä‚é‚¼I@ƒYƒ@ƒbƒnƒbƒnƒbƒnIIv[pcms]
+[ns]Kishida[nse]
+Hey! It's fine if you're writhing, but make sure to close[r]your asshole![l][er]
+You're farting! Zaa hahahaha!![pcms]
 
 *v549|
 [fc]
 [vo_ri s="risa0176"]
-[ns]V“¹[nse]
-u‚¤‚ÁA‚­‚¤‚£ccIv[pcms]
+[ns]Shindou[nse]
+Ugh, kuuhh...![pcms]
 
 *1263|
 [fc]
-Šİ“c‚ÌJ‚ß‚ÌŒ¾—t‚ÅAáƒ‚ê‚ª‹­‚Ü‚èAL‚ª‚Á‚Ä‚¢‚­B[pcms]
+With Kishida's humiliating words, the numbness intensifies[r]and spreads.[pcms]
 
 *v550|
 [fc]
 [vo_ri s="risa0177"]
-[ns]V“¹[nse]
-u‚ñ‚£‚Ácc‚Á‚­Aƒnƒ@ƒbccIv[pcms]
+[ns]Shindou[nse]
+Nngh... Kuh, Haa...![pcms]
 
 *1264|
 [fc]
-[ns]Šİ“c[nse]
-u‚Ç‚¤‚µ‚½ƒ@A˜R‚ê‚é‚©IH@˜R‚ç‚·‚Ì‚©ƒ@IHv[pcms]
+[ns]Kishida[nse]
+What's wrong? Are you going to leak!?[l][er]
+Are you going to wet yourself!?[pcms]
 
 *v551|
 [fc]
 [vo_ri s="risa0178"]
-[ns]V“¹[nse]
-u‚­‚ŸA‚ ‚Ÿ‚ÁccIv[pcms]
+[ns]Shindou[nse]
+Ku-aah...![pcms]
 
 *v552|
 [fc]
 [vo_ri s="risa0179"]
-[ns]V“¹[nse]
-u‚¨AŠè‚¢ccI@‘‚­cc‚ÁIv[pcms]
+[ns]Shindou[nse]
+Please... faster...![pcms]
 
 *v553|
 [fc]
 [vo_ri s="risa0180"]
-[ns]V“¹[nse]
-uƒgƒCƒŒ‚És‚©‚¹‚Ä‚­‚¾‚³‚¢‚Á‚ÁI@‚±‚Ì‚Ü‚Ü‚Å‚Í‚ÁI[r]
-‚«cŠİ“c—l‚É‚Ác˜R‚ç‚µ‚Ä‚µ‚Ü‚¢‚Ü‚·‚ÁIIv[pcms]
+[ns]Shindou[nse]
+Please let me go to the bathroom![l][er]
+If I stay like this... I'll...[l][er]
+I'll end up wetting myself in front of...[l][er]
+Kishida-sama!![pcms]
 
 *1265|
 [fc]
-[ns]Šİ“c[nse]
-uèg‚Â‚¯‚ÄA‘S—‡‚Å•ÖŠ‚Ü‚Ås‚¯‚é‚Ì‚©H@‚¨‘O‚ÍHv[pcms]
+[ns]Kishida[nse]
+Can you go to the bathroom wearing handcuffs and completely[r]naked?[l][er]
+Can you?[pcms]
 
 *v554|
 [fc]
 [vo_ri s="risa0181"]
-[ns]V“¹[nse]
-uIIv[pcms]
+[ns]Shindou[nse]
+Ahh![pcms]
 
 *1266|
 [fc]
-—âÃ‚ğ‘•‚Á‚½—l‚ÈŒû’²‚ÌŠİ“c‚ÉŒ¾‚í‚êAv‚í‚¸“ª‚©‚çŒŒ[r]
-‚ªˆø‚¢‚Ä‚ä‚­B[pcms]
+Kishida, with a calm tone that seemed to disguise his true[r]intentions, said something that made my blood run cold.[pcms]
 
 *1267|
 [fc]
-‹Á‚¢‚½„‚ğAŠİ“c‚ÍŒ©“¦‚³‚È‚©‚Á‚½B[pcms]
+Kishida didn't miss the surprised me.[pcms]
 
 *1268|
 [fc]
-[ns]Šİ“c[nse]
-uƒIƒCI@‚¨‘O‚ÍAƒNƒ\‰ä–‚·‚é‚Ì‚É–²’†‚ÅA–ó‚ª•ª‚©[r]
-‚ç‚È‚­‚È‚Á‚Ä‚é‚ñ‚¶‚á‚È‚¢‚Ì‚©HI@‚»‚ê‚Æ‚à‹»•±‚µ‚Ä[r]
-‚é‚Ì‚©Hv[pcms]
+[ns]Kishida[nse]
+Hey! Are you so obsessed with holding it in that you've lost[r]your mind?![l][er]
+Or are you getting excited?[pcms]
 
-;//´…—ƒtƒ@ƒCƒ‹–³‚¢‚Ì‚ÅŒ»İ‰¹º‚È‚µ‚Å
+;//æ¸…æ°´ï¼ ãƒ•ã‚¡ã‚¤ãƒ«ç„¡ã„ã®ã§ç¾åœ¨éŸ³å£°ãªã—ã§
 ;//*|
 
 *1268a|
 [fc]
 ;[vo_ri s="risa0000"]
-[ns]V“¹[nse]
-uccIv[pcms]
+[ns]Shindou[nse]
+...![pcms]
 
 *1269|
 [fc]
-[ns]Šİ“c[nse]
-ucc‚Ü‚Á‚½‚­A‚Æ‚ñ‚Å‚à–³‚¢ƒƒX“Ø‚¾IIIv[pcms]
+[ns]Kishida[nse]
+... Seriously, what a ridiculous sow!!![pcms]
 
 *1270|
 [fc]
-Šİ“c‚ÌŒ¾—t‚É—âÃ‚³‚ğæ‚è–ß‚µ‚½B[pcms]
+I regained my composure at Kishida's words.[pcms]
 
 *1271|
 [fc]
-ccŠİ“c‚ÉŒ©”²‚©‚ê‚Ä‚¢‚éccB[pcms]
+... Kishida has seen through me...[pcms]
 
 *1272|
 [fc]
-„‚ÍA‚¢‚Â‚ÌŠÔ‚É‚©©•ª‚Ì’u‚©‚ê‚Ä‚¢‚éó‹µ‚ğ–Y‚ê‚Ä‚µ[r]
-‚Ü‚Á‚Ä‚¢‚½B[pcms]
+I had somehow forgotten about the situation I was in.[pcms]
 
 *1273|
 [fc]
-ccŠİ“c‚ÉS‘©‹ï‚ğ‚Í‚¸‚³‚ê‚È‚¯‚ê‚ÎA„‚Ícc[pcms]
+If I'm not released from the restraints by Kishida, then[r]I...[pcms]
 
 *v555|
 [fc]
 [vo_ri s="risa0182"]
-[ns]V“¹[nse]
-u‚Í‚Ác‚Í‚Ácc‚ ‚ ‚£‚ÁccIIv[pcms]
+[ns]Shindou[nse]
+Hah... hah... ahh...!![pcms]
 
 *1274|
 [fc]
-„‚Í‚à‚¤AŒÀŠE‚¾‚Á‚½B[pcms]
+I had reached my limit.[pcms]
 
 *1275|
 [fc]
-‹Ç•”‚Ìæ’[•”•ª‚ğ·X‚ÉhŒƒ‚µAŠİ“c‚ªˆê‚à‘‚­ƒCƒb[r]
-‚Ä‚­‚ê‚é–‚ğ‹F‚é‚Ù‚©A„‚É‚Í•û–@‚ª–³‚©‚Á‚½B[pcms]
+I had no choice but to persistently stimulate the tip of his[r]genitals, praying that Kishida would climax as soon as[r]possible.[pcms]
 
 *1276|
 [fc]
-„‚ÍÅ‚èAŠİ“c‚Ì‹Ç•”‚ğ—Íˆê”tA‚µ‚²‚«ã‚°‚éB[pcms]
+I was impatient, so I vigorously stroked Kishida's genitals[r]with all my strength.[pcms]
 
 *1277|
 [fc]
-[ns]Šİ“c[nse]
-u‚Ê‚¤‚ÁccƒƒX“Ø‚ß‚ªƒ@ccIIv[pcms]
+[ns]Kishida[nse]
+Nuu... You female pig...!![pcms]
 
 *v556|
 [fc]
 [vo_ri s="risa0183"]
-[ns]V“¹[nse]
-uƒnƒ@ƒbcc‚­A‚ ‚£‚ÁccIIv[pcms]
+[ns]Shindou[nse]
+Hah... ah, auu...!![pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
-;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
 [stop_se1]
 [stop_overflow_se]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 [overflow_se storage="se062"]
 
 ;//whiteflash
@@ -939,96 +897,91 @@
 
 *1278|
 [fc]
-ä\•”‚Ö‚ÌW’†‚ªA‚¢‚æ‚¢‚æ“rØ‚ê‚»‚¤‚É‚È‚Á‚½A[r]
-Šİ“c‚Ì‹Ç•”‚©‚ç‘å—Ê‚Ì¸‰t‚ª”ò‚ÑU‚Á‚½B[pcms]
+When my focus on his ass was about to waver, a large amount[r]of semen sprayed out from Kishida's genitals.[pcms]
 
 *1279|
 [fc]
-[ns]Šİ“c[nse]
-uƒkƒbƒtƒEƒDƒDIIv[pcms]
+[ns]Kishida[nse]
+Nuu...!![pcms]
 
 *v557|
 [fc]
 [vo_ri s="risa0184"]
-[ns]V“¹[nse]
-uƒnƒ@ƒbccƒnƒ@ƒbccv[pcms]
+[ns]Shindou[nse]
+Hah... hah...[pcms]
 
 *1280|
 [fc]
-Ÿ•‰‚ÉŸ‚Á‚½‚Ì‚Í„‚¾‚Á‚½B[pcms]
+I was the one who won the match.[pcms]
 
 *1281|
 [fc]
-‚Å‚àA‹C‚ğ”²‚¯‚é‚æ‚¤‚Èó‹µ‚Å‚Í“’ê‚È‚©‚Á‚½B[r]
-ˆêu‚Å‚à‹C‚ğŠÉ‚ß‚ê‚ÎA‚·‚®‚»‚±‚É‚Ü‚Å”—‚Á‚½•Ö‚ªAˆê[r]
-‹C‚É•¬‚«o‚µ‚Ä‚µ‚Ü‚¢‚»‚¤‚¾‚Á‚½B[pcms]
+But there was absolutely no way I could relax in that[r]situation.[l][er]
+Even for a moment, if I let my guard down, it felt like the[r]impending urge to go to the bathroom would burst out all at[r]once.[pcms]
 
 *v558|
 [fc]
 [vo_ri s="risa0185"]
-[ns]V“¹[nse]
-uƒnƒ@ƒbcc‚¨ŠèA‚¢‚µA‚Ü‚·ccègA‚ğccv[pcms]
+[ns]Shindou[nse]
+Hah... Please... Remove the handcuffs...[pcms]
 
 *1282|
 [fc]
-[ns]Šİ“c[nse]
-uƒkƒbƒtƒD`cc¡‚Ì‚Í‚È‚©‚È‚©–Ê”’‚©‚Á‚½BƒrƒfƒI‚É[r]
-B‚Á‚Ä‚¨‚¯‚Î‚æ‚©‚Á‚½‚Èƒ@v[pcms]
+[ns]Kishida[nse]
+Nnffu~... That was quite interesting.[l][er]
+I should have recorded it on video.[pcms]
 
 *1283|
 [fc]
-Šİ“c‚Í°‚É‹ÂŒü‚¯‚É‚È‚Á‚½‚Ü‚ÜA„‚ÌŒ¾—t‚ğ–³‹‚µA‚Ü[r]
-‚é‚ÅŠÖŒW‚È‚¢–‚ğ’‚èn‚ß‚½B[pcms]
+Kishida remained lying on his back on the floor, ignoring my[r]words and starting to talk about something completely[r]unrelated.[pcms]
 
 *1284|
 [fc]
-[ns]Šİ“c[nse]
-u‚»‚¤‚¾A‚¨‘OAŠwZ‚Ì‹à‚ÅƒrƒfƒIƒJƒƒ‰‚ğ”ƒ‚¤•û–@‚ğ[r]
-l‚¦‚ëI@‚Â‚¢‚Å‚ÉV‚µ‚¢ƒJƒƒ‰‚à”ƒ‚¦‚é‚¼ƒHI@‚¢‚¢[r]
-‚ÈAƒIƒCIv[pcms]
+[ns]Kishida[nse]
+Hey, think about how you can buy a video camera with the[r]school's money![l][er]
+And while you're at it, you can buy a new camera too![l][er]
+Sounds good, huh?[pcms]
 
 *v559|
 [fc]
 [vo_ri s="risa0186"]
-[ns]V“¹[nse]
-u‚¨AŠèA‚¢‚¡ccŠO‚µA‚Ä‚¥ccv[pcms]
+[ns]Shindou[nse]
+P-Please... remove... it...[pcms]
 
 *v560|
 [fc]
 [vo_ri s="risa0187"]
-[ns]V“¹[nse]
-u‚à‚¤cc‘Ê–Ú‚¥II@‚¨Šè‚¢II@‚¨Šè‚¢‚µ‚Ü‚·‚ÁI[r]
-‚Ícc‘‚­‚ÁIIv[pcms]
+[ns]Shindou[nse]
+No... I can't take it anymore!![l][er]
+Please!! Please, I beg you!! Hurry up!![pcms]
 
 *1285|
 [fc]
-[ns]Šİ“c[nse]
-u‚¤[‚ñAƒJƒƒ‰‚ÍƒfƒWƒJƒ‚ª‚¢‚¢‚ÈccƒtƒBƒ‹ƒ€‚Ì“ü[r]
-‚ê‘Ö‚¦‚ÌèŠÔ‚ª‚È‚¢‚©‚ç‚Èƒ@v[pcms]
+[ns]Kishida[nse]
+Hmm, a digital camera would be nice...[l][er]
+It's because there's no hassle of changing film.[pcms]
 
 *v561|
 [fc]
 [vo_ri s="risa0188"]
-[ns]V“¹[nse]
-u‚¢‚â‚ÁI@ƒCƒ„ƒ@ƒAƒAƒAƒAƒAƒAII@‚¨Šè‚¢‚µ‚Ü‚·‚Á[r]
-II@Šİ“c—lIIv[pcms]
+[ns]Shindou[nse]
+No! Noooo!! Please!! Kishida-sama!![pcms]
 
 *v562|
 [fc]
 [vo_ri s="risa0189"]
-[ns]V“¹[nse]
-u‚¤‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚ŸIIv[pcms]
+[ns]Shindou[nse]
+Uaaaaahhh!![pcms]
 
 *1286|
 [fc]
-•K€‚Ì§Šè‚à‹•‚µ‚­A„‚ª–½—ß‚ğó‚¯“ü‚ê‚é‚Ü‚ÅA[r]
-Šİ“c‚Ì–³‹‚Í‘±‚¢‚½B[pcms]
+Kishida continued to ignore me, despite my desperate pleas[r]being in vain, until I accepted his command.[pcms]
 
 *v563|
 [fc]
 [vo_ri s="risa0190"]
-[ns]V“¹[nse]
-u‚¨Šè‚¢‚Å‚·‚ÁI@‚à‚¤cc‹–‚µ‚Ä‚­‚¾‚³‚¢‚¡IIv[pcms]
+[ns]Shindou[nse]
+Please! Please... forgive me!![pcms]
 
 ;//blackout
 
@@ -1042,8 +995,7 @@
 
 *1287|
 [fc]
-‚»‚¤‚µ‚ÄA„‚Í‰f‰æŒ¤‹†•”‚Ì‘n•”‚ğŒv‰æ‚µA‚»‚ê‚ğŠwZ[r]
-‘¤‚É‚¿‚©‚¯‚½‚Ì‚¾‚Á‚½B[pcms]
+And so, I planned to establish a film research club and[r]proposed it to the school.[pcms]
 
 ;//BG:bg017d
 [bg storage="bg13d"]
@@ -1051,47 +1003,44 @@
 
 *1288|
 [fc]
-‰ß‹‚Ì‹L‰¯‚©‚çA‚Ó‚Æ‰ä‚É•Ô‚Á‚ÄA”–ˆÃ‚¢•Ç‚ÉŠ|‚©‚Á‚½[r]
-Œv‚É–Ú‚ğ‚±‚ç‚·‚ÆA‚±‚±‚Ö—ˆ‚Ä‚©‚çˆêŠÔ‹ß‚­‚ª‰ß‚¬[r]
-‚Ä‚¢‚½B[pcms]
+Returning to my senses from a distant memory, I focused my[r]gaze on the dimly lit clock hanging on the wall, and[r]realized that nearly an hour had passed since I arrived[r]here.[pcms]
 
 *v564|
 [fc]
 [vo_ri s="risa0191"]
-[ns]V“¹[nse]
-u’x‚¢‚í‚Ëccv[pcms]
+[ns]Shindou[nse]
+You're slow...[pcms]
 
 *1289|
 [fc]
-‚Å‚à„‚Í‚±‚±‚ğ“®‚©‚¸‚ÉAŠİ“c‚ğ‘Ò‚¿‘±‚¯‚éB[pcms]
+But I continue to wait here without moving, waiting for[r]Kishida.[pcms]
 
 *1290|
 [fc]
-Œµ–§‚ÉŒ¾‚¦‚ÎA„‚Ì”í‹sšnD‚ğ–‘«‚³‚¹‚éAšn‹sS‚É–[r]
-‚¿‚½s‚¢‚ğA‚¾B[pcms]
+Strictly speaking, it is an act filled with sadistic desires[r]that satisfies my masochistic tendencies.[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
 
-;//‚±‚±‚Ü‚Å–{•Ò
+;//ã“ã“ã¾ã§æœ¬ç·¨
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
-;•s—v[eval exp="="sf.g_scn05 = 1"]
+;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
+;ä¸è¦[eval exp="="sf.g_scn05 = 1"]
 
-;//ƒEƒBƒ“ƒhƒEÁ‹
+;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//•‚ÉƒtƒF[ƒh
+;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
@@ -1101,9 +1050,9 @@
 
 ;;;[sysbt_meswin]
 
-;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 
-;//[0032]iƒvƒƒ[ƒOE–{ƒ‹[ƒgj‚Ö
+;//[0032]ï¼ˆãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ãƒ»æœ¬ãƒ«ãƒ¼ãƒˆï¼‰ã¸
 
 [bg storage="bg15c"]
 [trans_c cross time=1000]

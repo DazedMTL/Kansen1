@@ -1,16 +1,16 @@
 
-;//¡ËƒuƒƒbƒN05840w‰®ã‚Öx
-;//BG:EˆõºF—[•ûFÁ“”
-;//BG:“Áê‹³º˜L‰ºG—[•ûGÁ“”
-;//“oêl•¨GålŒöE“µEƒ]ƒ“ƒr
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05840ã€å±‹ä¸Šã¸ã€
+;//BG:è·å“¡å®¤ï¼šå¤•æ–¹ï¼šæ¶ˆç¯
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼›å¤•æ–¹ï¼›æ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³ãƒ»ã‚¾ãƒ³ãƒ“
 
 *05840_TOP
-;[debug_win]‚È‚¤@05840[debug_win_end]
-;*SceneSet|w‰®ã‚Öx
+;[debug_win]ãªã†ã€€05840[debug_win_end]
+;*SceneSet|ã€å±‹ä¸Šã¸ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05840 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05840 = 1"]
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 
 [bgm008]
 
@@ -25,10 +25,9 @@
 
 *6237|
 [fc]
-‰½‚©‚Ì–ğ‚É—§‚Â‚©‚à‚µ‚ê‚È‚¢‚ÆAƒ‰ƒWƒI‚ğæ‚è‚És‚Á‚½[r]
-²”Œ‚ğ‘Ò‚Á‚Ä‚©‚çA‰´‚Í•’Ê‹³º“‚ÌŠK’i‚Ö‘–‚Á‚½B[pcms]
+After waiting for Saeki, who went to get the radio thinking[r]it might be useful for something, I ran to the stairs of the[r]regular classroom building.[pcms]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 
 [se0 storage="se005"]
 
@@ -41,47 +40,46 @@
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std379|
 [fc]
-[ns]’jq¶“k‚g[nse]
-u‚ÜA‚ñ‚±‚§```ccv[pcms]
+[ns]Male Student H[nse]
+P-pussy~...[pcms]
 
 *6238|
 [fc]
-[ns]‰Á“¡[nse]
-uIIv[pcms]
+[ns]Kato[nse]
+!![pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_d_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_d_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2572|
 [fc]
 [vo_sa s="sae0683"]
-[ns]²”Œ[nse]
-u‚«‚á‚ ‚Ÿ‚ÁIIIIv[pcms]
+[ns]Saeki[nse]
+Kyaaahhh!!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 [quake_bg xy m]
 [se0 storage="se021"]
 
 *6239|
 [fc]
-“Ë‘RA‹È‚ª‚èŠp‚©‚ço‚Ä‚«‚½’j‚É‹Á‚«A²”Œ‚Íƒoƒ‰ƒ“ƒX[r]
-‚ğ•ö‚µ‚Ä“]‚ñ‚¾B[pcms]
+Suddenly, Saeki was startled by a man who appeared from[r]around the corner and lost her balance, falling down.[pcms]
 
 *6240|
 [fc]
-[ns]‰Á“¡[nse]
-u²”Œ‚ÁIIv[pcms]
+[ns]Kato[nse]
+Saeki!![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 [ChrSetEx layer=5 chbase="zom_01_b"][ChrSetXY layer=5 x=200 y=0]
 [ChrSetEx layer=3 chbase="zom_05_b"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=4 chbase="zom_04_b"][ChrSetXY layer=4 x=400 y=0]
@@ -91,30 +89,27 @@
 
 *6241|
 [fc]
-²”Œ‚É‹ì‚¯Šñ‚èA•ø‚¦‚Ä“¦‚°‚æ‚¤‚ÆüˆÍ‚ğŒ©‰ñ‚·‚ÆA‹È[r]
-‚ª‚èŠp‚â¸~ŒûA‚³‚ç‚É•’Ê‹³º“‚Ì‚Ì•û‚©‚ç‚àA‚¨‚©[r]
-‚µ‚È“z‚ç‚ª‘å¨A‚±‚¿‚ç‚Ö•à‚¢‚Ä‚«‚Ä‚¢‚½B[pcms]
+I rushed towards Saeki, holding her tightly as I looked[r]around for an escape route.[l][er]
+From around the corners, stairwells, and even from the[r]direction of the regular classroom building, a large group[r]of strange people were walking towards us.[pcms]
 
 *6242|
 [fc]
-[ns]‰Á“¡[nse]
-uƒNƒ\ƒbII@‚±‚ñ‚È‚Écc‚ÁIIv[pcms]
+[ns]Kato[nse]
+Shit!! At a time like this...!![pcms]
 
 *6243|
 [fc]
-K–İ‚ğ‚Â‚¢‚½‚Ü‚Ü‚Ì²”Œ‚ÆAx‚¦‚Ä—§‚½‚¹‚æ‚¤‚Æ‚·‚é‰´[r]
-‚ÉA‹C–¡‚Ìˆ«‚¢A‚¢‚â‚ç‚µ‚¢Î‚¢‚ğ•‚‚©‚×‚ÄA’j‚ª‚É‚¶[r]
-‚èŠñ‚Á‚Ä‚­‚éB[pcms]
+Saeki, who fell on her butt, and me, trying to support her[r]and help her stand, were approached by a man with a creepy,[r]lewd smile on his face.[pcms]
 
 *6244|
 [fc]
-[ns]‰Á“¡[nse]
-u‚µ‚Á‚©‚è‚µ‚ëI@—§‚ÄA²”ŒIIv[pcms]
+[ns]Kato[nse]
+Pull yourself together! Stand up, Saeki!![pcms]
 
 *6245|
 [fc]
-[ns]’jq¶“k‚g[nse]
-u‚¢‚Ğ‚ÁA‚Ğ‚ÁA‚Ğ‚Ğcc‚Ü‚ñA‚±‚¾‚Ÿ`ccv[pcms]
+[ns]Male Student H[nse]
+I-hi, hi, hii... pussy~...[pcms]
 
 ;	/*
 ;	[ChrSetEx layer=1 chbase="sae_c_a_01"]
@@ -123,122 +118,111 @@
 ;	[trans_c cross time=150]
 ;	*/
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2573|
 [fc]
 [vo_sa s="sae0684"]
-[ns]²”Œ[nse]
-u‚¢‚â‚ ‚Ÿ‚ÁII@—ˆ‚È‚¢‚ÅƒbIIv[pcms]
+[ns]Saeki[nse]
+Nooo!! Don't come near me!![pcms]
 
 *6248|
 [fc]
-”—‚Á‚Ä‚­‚é’j‚É‘Î‚µA²”Œ‚Í‘å‚«‚­‘§‚ğ‹z‚Á‚ÄA‘å‰¹—Ê[r]
-‚Ì”ß–Â‚ğ‚Ô‚Â‚¯‚½B[pcms]
+Saeki took a deep breath and let out a loud scream in[r]response to the approaching man.[pcms]
 
 *6249|
 [fc]
-[ns]’jq¶“k‚g[nse]
-u‚¤cc‚Ÿccv[pcms]
+[ns]Male Student H[nse]
+U... a...[pcms]
 
 *6250|
 [fc]
-²”Œ‚Ì‹©‚Ñº‚É‚¤‚ë‚½‚¦‚½‚©‚Ì‚æ‚¤‚ÉA’j‚Í‘«‚ğ~‚ßA[r]
-“ñAO•àŒã‚¸‚³‚Á‚½B[pcms]
+The man, as if startled by Saeki's scream, stopped in his[r]tracks and took a few steps back.[pcms]
 
 *6251|
 [fc]
-‚³‚ç‚ÉA‚±‚¿‚ç‚É‹ßŠñ‚Á‚Ä‚«‚Ä‚¢‚½’j’B‚àA“®‚«‚ğ~‚ß[r]
-‚Ä‚¢‚ÄA‰½‚ª‹N‚±‚Á‚½‚ñ‚¾‚Æ‚Å‚àŒ¾‚¢‚½‚°‚ÉA•Ó‚è‚ğŒ©[r]
-‰ñ‚µ‚Ä‚¢‚éB[pcms]
+Furthermore, the men who had been approaching us also[r]stopped in their tracks, looking around as if wondering what[r]had happened.[pcms]
 
 *6252|
 [fc]
-[ns]‰Á“¡[nse]
-uccHv[pcms]
+[ns]Kato[nse]
+...?[pcms]
 
 *6253|
 [fc]
-­‚µ‚µ‚Ä‚©‚çA‚Ü‚½‚±‚¿‚ç‚É‹ß‚Ã‚«n‚ß‚½‚ªA‚»‚Ì—lq[r]
-‚ğ‚æ‚­Œ©‚Ä‚İ‚é‚ÆA“z‚ç‚Ì“®‚«‚Í‚Ğ‚Ç‚­“İ‚­A’x‚¢‚±‚Æ[r]
-‚É‰´‚Í‹C‚ª‚Â‚¢‚½B[pcms]
+After a while, they started to approach us again, but upon[r]closer observation, I noticed that their movements were[r]incredibly sluggish and slow.[pcms]
 
 *6254|
 [fc]
-¡‚Ü‚ÅA•|‚ª‚ç‚¹‚é‚½‚ß‚ÉA‚í‚´‚Æ‚ä‚Á‚­‚è•à‚¢‚Ä‚é‚Ì[r]
-‚©‚Æv‚Á‚Ä‚½‚¯‚ÇccB[pcms]
+Until now, I thought they were intentionally walking slowly[r]to scare us...[pcms]
 
 *6255|
 [fc]
-‚±‚¢‚Â‚çccB[r]
-‚à‚µ‚©‚µ‚ÄA‚ä‚Á‚­‚è‚Æ‚µ‚©“®‚¯‚È‚¢‚ñ‚¶‚áccH[r]
-‚¾‚Æ‚µ‚½‚çccB[pcms]
+These guys... Could it be that they can only move slowly...?[l][er]
+If that's the case...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *6256|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¢‚¢‚©²”ŒA‘S‘¬—Í‚ÅŠK’i‚Ü‚Å‘–‚é‚¼B‚ ‚¢‚Â‚ç‚É‚Ô[r]
-‚Â‚©‚ç‚È‚¢‚æ‚¤‚É‚µ‚ë‚æv[pcms]
+[ns]Kato[nse]
+Listen, Saeki. Let's run to the stairs at full speed.[l][er]
+Make sure you don't bump into them.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2574|
 [fc]
 [vo_sa s="sae0685"]
-[ns]²”Œ[nse]
-u‚¦A‚ÅA‚Å‚àccv[pcms]
+[ns]Saeki[nse]
+E-Even so...[pcms]
 
 *6257|
 [fc]
-[ns]‰Á“¡[nse]
-u‘åä•vA‰´‚ğM‚¶‚ëB‚ÈHv[pcms]
+[ns]Kato[nse]
+Don't worry, trust me. Okay?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2575|
 [fc]
 [vo_sa s="sae0686"]
-[ns]²”Œ[nse]
-ucc‚Í‚¢‚ÁIv[pcms]
+[ns]Saeki[nse]
+... Yes![pcms]
 
 *6258|
 [fc]
-—Í‹­‚­‚¤‚È‚¸‚¢‚½²”Œ‚ğ—§‚½‚¹A‰´‚ÍŒÄ‹z‚ğ®‚¦‚½B[pcms]
+I stood Saeki up, who nodded firmly, and took a deep breath[r]to steady myself.[pcms]
 
 *6259|
 [fc]
-[ns]‰Á“¡[nse]
-us‚­‚¼cc‘–‚êA²”ŒIIv[pcms]
+[ns]Kato[nse]
+Let's go... Run, Saeki!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 
 [se0 storage="se005"]
 
 *6260|
 [fc]
-²”Œ‚Ì˜r‚ğˆø‚«A“z‚ç‚ÌŠÔ‚ğ‘S‘¬‚Å‹ì‚¯”²‚¯‚é‚ÆA“ï‚È[r]
-‚­‚â‚è‚·‚²‚·‚±‚Æ‚ª‚Å‚«‚½B‚µ‚©‚à“z‚ç‚ÍA‘S‚­‰´’B‚É[r]
-‚Â‚¢‚Ä‚±‚ê‚È‚¢B[pcms]
+I pulled Saeki's arm and we dashed through the crowd at full[r]speed, easily passing through without any difficulty.[l][er]
+Moreover, they couldn't catch up to us at all.[pcms]
 
 *6261|
 [fc]
-[ns]‰Á“¡[nse]
-u‚â‚Á‚Ï‚è‚¾B‰½‚Ì•a‹C‚¾‚©’m‚ç‚È‚¢‚¯‚ÇAƒEƒCƒ‹ƒX‚Æ[r]
-‚â‚ç‚ÉŠ´õ‚·‚é‚ÆA‘–‚ê‚È‚­‚È‚é‚İ‚½‚¢‚¾‚Èv[pcms]
+[ns]Kato[nse]
+I knew it. I don't know what kind of illness it is, but it[r]seems that when infected with a virus or something, they[r]become unable to run.[pcms]
 
 *6262|
 [fc]
-²”Œ‚ÆŠç‚ğŒ©‡‚í‚¹AÎŠç‚ğŒğ‚í‚µA‰´‚Í‰®ã‚ğ–Úw‚µ[r]
-‚ÄŠK’i‚ğ‹ì‚¯ã‚Á‚½B[pcms]
+Saeki and I exchanged glances, shared a smile, and I[r]sprinted up the stairs towards the rooftop.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -249,5 +233,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05850]‚Ö
+;//[05850]ã¸
 [jump target=*05850_TOP storage="05850.ks"]

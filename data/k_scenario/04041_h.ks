@@ -1,20 +1,20 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN04041wƒ‰ƒWƒI‚Ux
-;//BG:‹³ºF’©
-;//“oêl•¨GålŒöE—D
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04041ã€ãƒ©ã‚¸ã‚ªï¼–ã€
+;//BG:æ•™å®¤ï¼šæœ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ª
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *04041_H_TOP
-;[debug_win]‚È‚¤@04041_H[debug_win_end]
+;[debug_win]ãªã†ã€€04041_H[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04041 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04041 = 1"]
 
-;*SceneSet|wƒ‰ƒWƒI‚Ux
+;*SceneSet|ã€ãƒ©ã‚¸ã‚ªï¼–ã€
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 
 [bgm009]
 
@@ -23,119 +23,113 @@
 [bg storage="bg11a"]
 [trans_c cross time=500]
 
-;//SE:”à‚ğŠJ‚¯‚é
+;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹
 
 [se0 storage="se008"]
 
 *4485|
 [fc]
-[ns]‰Á“¡[nse]
-uƒnƒ@cc—Ç‚©‚Á‚½ccv[pcms]
+[ns]Kato[nse]
+*sigh*... Thank goodness...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1910|
 [fc]
 [vo_ya s="yama0789"]
-[ns]RŠİ[nse]
-u’N‚àcc‚¢‚È‚¢‚Ëccv[pcms]
+[ns]Yamagishi[nse]
+There's no one here...[pcms]
 
 *4486|
 [fc]
-‹³º‚Ì’†‚É“z‚ç‚Í‚¨‚ç‚¸A‰´‚ªS”z‚µ‚Ä‚¢‚½‚æ‚¤‚È‚±‚Æ[r]
-‚Í‹N‚±‚ç‚È‚©‚Á‚½B[pcms]
+There was no one in the classroom, and nothing happened that[r]made me worried.[pcms]
 
 *4487|
 [fc]
-[ns]‰Á“¡[nse]
-u“d’rAc‚Á‚Ä‚é‚©‚Èccv[pcms]
+[ns]Kato[nse]
+I wonder if the battery is still remaining...[pcms]
 
 *4488|
 [fc]
-Š÷‚Ìã‚É’u‚«‚Á‚Ï‚È‚µ‚É‚È‚Á‚Ä‚¢‚½ƒ‰ƒWƒI‚É‹ß‚Ã‚«AR[r]
-Šİ‚³‚ñ‚ªˆÀS‚Å‚«‚é•ñ‚¹‚ª’®‚¯‚é‚±‚Æ‚ğŠú‘Ò‚µ‚ÄA‰´‚Í[r]
-ƒXƒCƒbƒ`‚ğ“ü‚ê‚½B[pcms]
+I approached the radio that had been left on the desk and,[r]hoping to hear news that would put Yamagishi-san at ease, I[r]turned it on.[pcms]
+[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//ôFBGM009ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM009ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 
 [fadeoutbgm time=500]
 
-;//—™ŸºF—éƒ–—Ë¨—Áƒ–—Ë
+;//ï¼ æ‰æ¸•ï¼šéˆ´ãƒ¶é™µâ†’æ¶¼ãƒ¶é™µ
 
 *v1911|
 [fc]
 [vo_mob s="radio0013"]
-[ns]ƒ‰ƒWƒI‚ÌƒAƒiƒEƒ“ƒT[[nse]
-uccŒß‘O”ªŒ»İA—Áƒ–—Ë’n‹æ‚ğ’†S‚Æ‚µ‚ÄA©‰q‘à[r]
-‚É‚æ‚é‹~•Šˆ“®‚ª‘±‚¯‚ç‚ê‚Ä‚¢‚Ü‚·Bã‹ó‚©‚ç‚Ì¶‘¶Ò[r]
-‚Ì‘{õ‚àAˆø‚«‘±‚«s‚í‚ê‚é–Í—l‚Å‚·v[pcms]
+[ns]Radio Announcer[nse]
+00 AM, rescue operations by the Self-Defense Forces continue[r]to be carried out, with a focus on the Suzugaoka area.[l][er]
+The search for survivors from the air is also said to be[r]ongoing.[pcms]
 
 *4489|
 [fc]
-ŠX‚Ìã‚É‚ ‚ê‚¾‚¯”ò‚ÑŒğ‚Á‚Ä‚¢‚é‚Ì‚¾‚©‚çA‚Ü‚¾‘{õ‚ğ[r]
-‘±‚¯‚Ä‚¢‚é‚È‚çA‹ß‚¢‚¤‚¿ƒwƒŠ‚Ìˆê‹@‚â“ñ‹@A‚±‚±‚Ìã[r]
-‚É‚à”ò‚ñ‚Å‚­‚é‚¾‚ë‚¤B[pcms]
+Given how many helicopters are flying around the city, if[r]they are still continuing the search, it won't be long[r]before one or two helicopters fly over here as well.[pcms]
 
 *4490|
 [fc]
-‘ål‚µ‚­‰®ã‚Å‘Ò‚Á‚Ä‚¢‚ê‚ÎA‹~••”‘à‚ª‚·‚®‚É‰´’B‚ğ[r]
-Œ©‚Â‚¯‚Ä‚­‚ê‚é”¤‚¾B[pcms]
+If we wait quietly on the rooftop, the rescue team should[r]find us soon.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1912|
 [fc]
 [vo_ya s="yama0790"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒNccv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun...[pcms]
 
 *4491|
 [fc]
-[ns]‰Á“¡[nse]
-u‚·‚®‚É‘{‚µ‚É—ˆ‚é‚©‚à‚µ‚ê‚È‚¢B‰®ã‚Ö–ß‚ë‚¤v[pcms]
+[ns]Kato[nse]
+They might come searching for us soon.[l][er]
+Let's go back to the rooftop.[pcms]
 
-;//ôFBGM011ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM011ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 
 [bgm011]
 
 *4492|
 [fc]
-ƒ‰ƒWƒI‚©‚ç‚Ìî•ñ‚ÅˆÀS‚Å‚«‚½‚Ì‚©ARŠİ‚³‚ñ‚ÉÎŠç‚ª[r]
-–ß‚Á‚Ä‚¢‚½B[pcms]
+Yamagishi-san had a smile on her face, as if she had been[r]reassured by the information from the radio.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v1913|
 [fc]
 [vo_ya s="yama0791"]
-[ns]RŠİ[nse]
-u‚¤‚ñ‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Yes![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 
 [se0 storage="se005"]
 
 *4493|
 [fc]
-‰´’B‚Íè‚ğæ‚è‡‚Á‚ÄA—ˆ‚½“¹‚ğ‘–‚Á‚Ä–ß‚Á‚½B[pcms]
+We held hands and ran back along the path we came.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -147,7 +141,7 @@
 
 ;//blackout
 
-;//[04042]‚Ö
+;//[04042]ã¸
 [jump target=*04042_H_TOP storage="04042_H.ks"]
 
 

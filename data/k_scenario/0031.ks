@@ -1,23 +1,23 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN0031w•ú‘—–ŒÌE‚»‚ÌŒãx
-;//BG:‹’®ŠoºF–é
-;//“oêl•¨GålŒöE—DE“µ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯0031ã€æ”¾é€äº‹æ•…ãƒ»ãã®å¾Œã€
+;//BG:è¦–è´è¦šå®¤ï¼šå¤œ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç³
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *0031_TOP
-;[debug_win]‚È‚¤@0031[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_0031 = 1"]
+;[debug_win]ãªã†ã€€0031[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_0031 = 1"]
 
-;*SceneSet|w•ú‘—–ŒÌx
+;*SceneSet|ã€æ”¾é€äº‹æ•…ã€
 
 ;//[0031]
 
 ;//BG:bg015d
 ;//[bg storage="bg15d"]
 ;//[trans_c cross time=500]
-;//ôFBGM007
+;//â™ªï¼šBGM007
 ;//[bgm007]
 
 ;[backlay_c][chara_int][trans_c cross time=150]
@@ -27,241 +27,222 @@
 
 *732|
 [fc]
-‰f‘œ‚ªÁ‚¦‚½¡A»—’‚ğ‰f‚µo‚µ‚Ä‚¢‚é‚¾‚¯‚Ì[r]
-ƒvƒƒWƒFƒNƒ^[‚ÌƒXƒCƒbƒ`‚ğØ‚èA[r]
-‰´‚Íº“à‚Ì“d“”‚ğ“_‚¯‚½B[pcms]
+Now that the image has disappeared, I turned off the switch[r]of the projector that was only projecting a sandstorm, and[r]turned on the indoor lights.[pcms]
 
 *733|
 [fc]
-‚±‚ÌƒrƒfƒIƒe[ƒv‚ÍA’N‚ª‚Á‚Ä‚«‚½‚ñ‚¾‚ë‚¤B[r]
-‚Æ‚Ä‚à‚¶‚á‚È‚¢‚¯‚ÇAV“¹æ¶‚Æ‚Ív‚¦‚È‚¢B[pcms]
+I wonder who brought this videotape.[l][er]
+There's no way I can believe it's from Shindou-sensei.[pcms]
 
 *734|
 [fc]
-‚©‚Æ‚¢‚Á‚ÄA’N‚©‚ª‚·‚è‘Ö‚¦‚½A[r]
-‚Æ‚¢‚¤‚Ì‚à–³—‚ª‚ ‚é‹C‚ª‚·‚éB[pcms]
+However, I feel like it's also hard to believe that someone[r]switched it out.[pcms]
 
 *735|
 [fc]
-‚Å‚à‚¢‚­‚çl‚¦‚Ä‚àA“š‚¦‚È‚ñ‚©o‚Ä‚±‚È‚©‚Á‚½B[pcms]
+But no matter how much I thought about it, I couldn't come[r]up with an answer.[pcms]
 
 *736|
 [fc]
-è‚ª‚©‚è‚È‚ñ‚©‰½‚à‚È‚¢‚ñ‚¾A‚í‚©‚é‚Í‚¸‚ª‚È‚¢B[pcms]
+There are no clues at all, so there's no way I can[r]understand.[pcms]
 
 *737|
 [fc]
-‚»‚ñ‚È‚±‚Æ‚ğl‚¦‚ÄA\ŒÜ•ª‚ªŒo‚Á‚½B[r]
-RŠİ‚³‚ñ‚à²”Œ‚àA‰Ÿ‚µ–Ù‚Á‚½‚Ü‚Ü‚¾B[pcms]
+Fifteen minutes passed while I was thinking about such[r]things.[l][er]
+Both Yamagishi-san and Saeki remained silent.[pcms]
 
 *738|
 [fc]
-‘¼‚Ì“z‚ç‚Ì—lq‚ğf‚¨‚¤‚Æº“à‚ğŒ©‰ñ‚·‚ÆA[r]
-^–ç‚àA—S“ñ‚àAŒÜ\—’ƒTƒ“‚à‚¢‚È‚©‚Á‚½B[r]
-‚Ü‚½‚ ‚ÌOl‚¾Bˆê‘Ì‚¢‚ÂA‚¢‚È‚­‚È‚Á‚½‚Ì‚©ccB[pcms]
+When I looked around the room to see how the others were[r]doing, Shinya, Yuuji, and Igarashi-san were nowhere to be[r]found.[l][er]
+It's those three again. I wonder when exactly they[r]disappeared...[pcms]
 
 *739|
 [fc]
-Ol‚ª‚¢‚Â‹’®Šoº‚ğo‚Äs‚Á‚½‚Ì‚©‚ğA[r]
-RŠİ‚³‚ñ‚©²”Œ‚É’m‚Á‚Ä‚é‚©•·‚±‚¤‚ÆA[r]
-‰´‚ÍŒû‚ğŠJ‚«‚©‚¯‚½B[pcms]
+I was about to ask Yamagishi-san or Saeki if they knew when[r]the three of them left the AV room.[pcms]
 
 *740|
 [fc]
-[ns]‰Á“¡[nse]
-u‚È‚ ccv[pcms]
+[ns]Kato[nse]
+Hey...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v283|
 [fc]
 [vo_ya s="yama0083"]
-[ns]RŠİ[nse]
-u‚Ë‚¥A‰Á“¡ŒNccv[pcms]
+[ns]Yamagishi[nse]
+Hey, Kato-kun...[pcms]
 
 *741|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚¦H@‰½Hv[pcms]
+[ns]Kato[nse]
+Ah, huh? What is it?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v284|
 [fc]
 [vo_ya s="yama0084"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒN‚àcc‚ ‚ ‚¢‚¤‚ÌAŒ©‚é‚ÌHv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun, do you also... watch those kinds of things?[pcms]
 
 *742|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦H@‚ [A‚¢‚âA‰´‚Í‘S‘Rccv[pcms]
+[ns]Kato[nse]
+Huh? Ah, no, not at all...[pcms]
 
 *743|
 [fc]
-ÀÛ‚ÍA^–ç‚É‘İ‚µ‚Ä‚à‚ç‚Á‚ÄŒ‹\Œ©‚Ä‚¢‚é‚¯‚ÇA[r]
-RŠİ‚³‚ñ‚Éˆ«‚¢ƒCƒ[ƒW‚ğ‚½‚ê‚½‚­‚È‚­‚ÄA[r]
-‰´‚Í‘½­‚ÌŒã‚ë‚ß‚½‚³‚ğŠ´‚¶‚È‚ª‚ç‰R‚ğ‚Â‚¢‚½B[pcms]
+In reality, I actually borrow them from Shinya and watch[r]them quite often, but I lied while feeling a bit guilty[r]because I didn't want Yamagishi-san to have a negative[r]impression of me.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v285|
 [fc]
 [vo_ya s="yama0085"]
-[ns]RŠİ[nse]
-u‚»‚¤‚È‚ñ‚¾cc[r]
-’j‚Ìq‚ÍA‚İ‚ñ‚È‚ ‚ ‚¢‚¤‚ÌD‚«‚È‚Ì‚©‚È‚Á‚ÄA[r]
-v‚Á‚Ä‚½‚ñ‚¾‚¯‚Çccv[pcms]
+[ns]Yamagishi[nse]
+Is that so... I was wondering if all boys liked those kinds[r]of things...[pcms]
 
 *744|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ü‚ŸAD‚«‚È‚â‚Â‚à‚¢‚é‚¯‚ÇA[r]
-‚ ‚ñ‚Ü‚è‹»–¡–³‚¢‚Ì‚à‚¢‚é‚æHv[pcms]
+[ns]Kato[nse]
+Well, there are some people who like them, but there are[r]also some who aren't very interested, you know?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v286|
 [fc]
 [vo_ya s="yama0086"]
-[ns]RŠİ[nse]
-u‚Ó`‚ñA‚»‚Á‚©ccv[pcms]
+[ns]Yamagishi[nse]
+Hmm, I see...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v287|
 [fc]
 [vo_sa s="sae0078"]
-[ns]²”Œ[nse]
-u‚ ‚È‚½‚½‚¿A‰½‚Ì˜b‚ğ‚µ‚Ä‚¢‚é‚Ì‚Å‚·‚©H[r]
-‚»‚¤‚¢‚¤˜b‚ÍA‰Æ‚É‹A‚Á‚Ä‚©‚ç‚É‚µ‚½‚ç‚¢‚©‚ªHv[pcms]
+[ns]Saeki[nse]
+What are you guys talking about?[l][er]
+How about saving that kind of conversation for when we get[r]home?[pcms]
 
-;//ôFBGM007ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 [fadeoutbgm time=500]
 
 *745|
 [fc]
-²”Œ‚Í‚Ü‚¾‚³‚Á‚«‚Ì‰f‘œ‚ÌƒVƒ‡ƒbƒN‚ª”²‚¯‚Ä‚È‚¢‚Ì‚©A[r]
-”÷–­‚É‚í‚¯‚Ì‚í‚©‚ç‚È‚¢R‹c‚ğ‰´’B‚É‚Ô‚Â‚¯‚½B[pcms]
+Saeki, still not recovered from the shock of the previous[r]video, directed a somewhat incomprehensible protest at us.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *746|
 [fc]
-‚»‚ê‚ğƒLƒbƒJƒP‚ÉA‚Ü‚½’N‚à’‚ç‚È‚¢ŠÔ‚ªn‚Ü‚Á‚½B[pcms]
+With that as a trigger, another period of silence began[r]where no one spoke.[pcms]
 
-;//SE:’‚Ì‰¹ƒ‹[ƒv
+;//SE:è™«ã®éŸ³ãƒ«ãƒ¼ãƒ—
 [se0 storage="se018"]
 
 *747|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v288|
 [fc]
 [vo_ya s="yama0087"]
-[ns]RŠİ[nse]
-uccv[pcms]
+[ns]Yamagishi[nse]
+â€¦â€¦[l][er]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v289|
 [fc]
 [vo_sa s="sae0079"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *748|
 [fc]
-‚È‚ñ‚Å’‚ç‚È‚¢‚Ü‚ÜA‚±‚¤‚µ‚Ä‚¶‚Á‚ÆÀ‚Á‚Ä‚¢‚é‚Ì‚©B[r]
-‰´‚Í©•ª‚ª‚µ‚Ä‚¢‚é‚±‚Æ‚ª–³ˆÓ–¡‚¾‚Æ‚¢‚¤‚±‚Æ‚ÉA[r]
-‚¢‚¢‰ÁŒ¸A‹C‚ª‚Â‚«n‚ß‚Ä‚¢‚½B[pcms]
+I started to realize that sitting here silently like this,[r]without saying anything, was meaningless.[pcms]
 
 *749|
 [fc]
-ƒGƒ‚¢‰f‘œ‚É’†’f‚³‚ê‚È‚¯‚ê‚ÎA[r]
-O–{–Ú‚Ì‰f‰æ‚ªI‚í‚Á‚Ä‚¢‚éŠÔ‚É‚È‚Á‚Ä‚¢‚½‚ªA[r]
-V“¹æ¶‚Í–ß‚Á‚Ä‚±‚È‚¢B[pcms]
+If we hadn't been interrupted by the erotic video, it would[r]have been time for the third movie to end, but Shindou-[r]sensei hasn't come back.[pcms]
 
 *750|
 [fc]
-‰´‚ÍRŠİ‚³‚ñ‚Æ²”Œ‚ÉAV“¹æ¶‚Æ‚¢‚È‚­‚È‚Á‚½˜A’†‚ğ[r]
-’T‚µ‚És‚­‚±‚Æ‚ğ’ñˆÄ‚µ‚æ‚¤‚Æl‚¦‚½B[pcms]
+I thought about suggesting to Yamagishi-san and Saeki that[r]we go look for the people who disappeared, including[r]Shindou-sensei.[pcms]
 
 *751|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚Ì‚³ccv[pcms]
+[ns]Kato[nse]
+Um...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v290|
 [fc]
 [vo_sa s="sae0080"]
-[ns]²”Œ[nse]
-uæ‚èŠ¸‚¦‚¸AV“¹æ¶‚¾‚¯‚Å‚à’T‚µ‚És‚«‚Ü‚µ‚å‚¤B[r]
-‚±‚ÌŒã‚Ç‚¤‚·‚é‚Ì‚©A[r]
-w¦‚ğó‚¯‚½•û‚ª‚¢‚¢‚Æ„‚Ív‚¢‚Ü‚·v[pcms]
+[ns]Saeki[nse]
+For now, let's go look for Shindou-sensei at least.[l][er]
+I think it would be better if we receive instructions on[r]what to do next.[pcms]
 
 *752|
 [fc]
-–Ù‚Á‚ÄÀ‚Á‚Ä‚¢‚é‚±‚Æ‚É–³ˆÓ–¡‚³‚ğŠ´‚¶‚Ä‚¢‚½‚Ì‚ÍA[r]
-©•ª‚¾‚¯‚¶‚á‚È‚©‚Á‚½‚æ‚¤‚ÅA[r]
-‰´‚æ‚èæ‚É²”Œ‚ªŒû‚ğŠJ‚¢‚ÄA‚»‚¤’ñˆÄ‚µ‚½B[pcms]
+It wasn't just me who felt that sitting here silently was[r]meaningless.[l][er]
+Saeki spoke up before me and suggested that we go look for[r]Shindou-sensei.[pcms]
 
 *753|
 [fc]
-²”Œ‚Ì‚»‚Ì’ñˆÄ‚ÍA–êˆê’v‚ÅÌ—p‚Æ‚È‚Á‚½B[pcms]
+Saeki's suggestion was unanimously adopted.[pcms]
 
 [stop_se0]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//¦ğŒ•ªŠò
-;//Eflag:ƒvƒƒ[ƒOƒUƒbƒsƒ“ƒOƒp[ƒg@ŠJ•ú@‚ªOFF‚Ì‚Æ‚«[0032]‚Ö
-;//Eflag:ƒvƒƒ[ƒOƒUƒbƒsƒ“ƒOƒp[ƒg@ŠJ•ú@on‚Ì‚Æ‚«[0103]‚Ö
+;//â€»æ¡ä»¶åˆ†å²
+;//ãƒ»flag:ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ã‚¶ãƒƒãƒ”ãƒ³ã‚°ãƒ‘ãƒ¼ãƒˆã€€é–‹æ”¾ã€€ãŒOFFã®ã¨ã[0032]ã¸
+;//ãƒ»flag:ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ã‚¶ãƒƒãƒ”ãƒ³ã‚°ãƒ‘ãƒ¼ãƒˆã€€é–‹æ”¾ã€€onã®ã¨ã[0103]ã¸
 
 [if exp="sf.g_prologue_clear==1"]
 	[jump target=*0103_TOP storage="0103.ks"]

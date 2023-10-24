@@ -1,27 +1,27 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN04030w¸ˆÓx
-;//BG:Šw‰€“ü‚èŒûF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöEƒŠƒTEƒ]ƒ“ƒr
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04030ã€å¤±æ„ã€
+;//BG:å­¦åœ’å…¥ã‚Šå£ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µãƒ»ã‚¾ãƒ³ãƒ“
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *04030_H_TOP
-;[debug_win]‚È‚¤@04030_H[debug_win_end]
+;[debug_win]ãªã†ã€€04030_H[debug_win_end]
 [eval exp="sf.SRP20 = 1"][if exp="tf.scene_mode == 0"][jump target=*04030_H][endif]
 ;;[winset]
 [jump target=*scene_start]
 
 *04030_H
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04030 = 1"]
-;*SceneSet|w¸ˆÓx
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04030 = 1"]
+;*SceneSet|ã€å¤±æ„ã€
 
 ;;;[sysbt_meswin clear]
 
 *scene_start
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 [bgm008]
 
 ;//H_CG
@@ -33,259 +33,252 @@
 
 *4206|
 [fc]
-ŒQ‚ª‚é’j’B‚É‚æ‚Á‚ÄAV“¹æ¶‚Ì•‚Í”j‚ç‚êA‚¸‚ç‚³‚ê[r]
-‚ÄA‘Ì‚ğ”‚«o‚µ‚É‚³‚ê‚Ä‚µ‚Ü‚Á‚½B[pcms]
+Newdou-sensei's clothes were torn and pulled apart by the[r]swarming men, leaving her body exposed.[pcms]
 
 *v1741|
 [fc]
 [vo_ri s="risa0413"]
-[ns]V“¹[nse]
-u‚¢‚â‚ÁII@‚â‚ß‚È‚³‚¢‹M’j’B‚ÁIIv[pcms]
+[ns]Shindou[nse]
+No!! Stop it, you guys!![pcms]
 
 *4207|
 [fc]
-[ns]’jq¶“k‚v[nse]
-u‚¤‚ÖA‚Ö‚Öcc‚«‚å‚É‚ãA‚¤‚ªA‚Ô‚éA‚ñ‚ÔA‚é‚ñA[r]
-‚µA‚Ä‚éA‚º‚¥cc‚ `A‚½‚Á‚Ä‚«A‚½‚Ÿ`ccv[pcms]
+[ns]Male Student W[nse]
+Uhehe... Kyonyu, uga, buru, nbu, run, shi, teru, zee...[l][er]
+Aaah, tatteki, taa~...[pcms]
 
 *4208|
 [fc]
-[ns]’jq¶“k‚t[nse]
-u‚ ‚Ÿ`cc‚ÜA‚ñ‚±‚§`ccv[pcms]
+[ns]Male Student U[nse]
+Ahh... pussy~...[pcms]
 
 *v1742|
 [fc]
 [vo_ri s="risa0414"]
-[ns]V“¹[nse]
-u‚Ğ‚ÁA‚¢‚âcc‚ÁIIv[pcms]
+[ns]Shindou[nse]
+No... stop...!![pcms]
 
-;//SE:‘}“ü
+;//SE:æŒ¿å…¥
 
 ;//[se0 storage="se058"]
 
 *4209|
 [fc]
-ƒEƒ`‚Ì§•‚ğ’…‚½’j’B‚ªA‚Ü‚é‚Å• ‚ğ‹ó‚©‚¹‚½b‚ÌŒQ‚ê‚Ì[r]
-—l‚ÉAV“¹æ¶‚ğæ‚èˆÍ‚ñ‚¾B[pcms]
+The men wearing our school uniforms surrounded Shindou-[r]sensei like a pack of hungry beasts.[pcms]
 
 *4210|
 [fc]
-‚»‚Ì‚¤‚¿‚Ìˆêl‚ªAæ¶‚ÌŒÒŠÔ‚É—–\‚É‹z‚¢•t‚¢‚½B[pcms]
+One of them forcefully latched onto the teacher's crotch.[pcms]
 
 *v1743|
 [fc]
 [vo_ri s="risa0415"]
-[ns]V“¹[nse]
-u‚Ğ‚®‚£‚ÁIIv[pcms]
+[ns]Shindou[nse]
+Higuu!![pcms]
 
-;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
 
 ;//[se1 storage="se060" loop=true]
 
-;//ƒ‚ƒm‚ğ‘S•”‘}‚µ‚ñ‚¾’j‚ÍA‘‘¬A˜‚ğ“®‚©‚µn‚ß‚½B
-;//[pcms]
+;//ãƒ¢ãƒã‚’å…¨éƒ¨æŒ¿ã—è¾¼ã‚“ã ç”·ã¯ã€æ—©é€Ÿã€è…°ã‚’å‹•ã‹ã—å§‹ã‚ãŸã€‚
+;//[l][er]
 
 ;//*|
 ;	[fc]
 ;	[vo_ri s="risa0416"]
-;//[ns]V“¹[nse]
-;//u‚¤‚Ÿcc‚ cc”²‚¢‚Äcc‘Ê–Ú‚æccIv
-;//[pcms]
+[ns]Shindou[nse]
+;//ã€Œã†ãâ€¦â€¦ã‚â€¦â€¦æŠœã„ã¦â€¦â€¦é§„ç›®ã‚ˆâ€¦â€¦ï¼ã€
+;//[l][er]
 
-;//[ns]’jq¶“k‚t[nse]
-;//u‚¤‚ÖA‚Ö‚¥ccv
-;//[pcms]
+[ns]Male Student U[nse]
+;//ã€Œã†ã¸ã€ã¸ã‡â€¦â€¦ã€
+;//[l][er]
 
 ;//*|
 ;	[fc]
 ;	[vo_ri s="risa0417"]
-;//[ns]V“¹[nse]
-;//u‚Ğ‚ÁA‚®‚Ácc‚¢A‚â‚Ÿ‚ÁI@”²‚¢A‚Ä‚¥‚ÁIIv
-;//[pcms]
+[ns]Shindou[nse]
+;//ã€Œã²ã£ã€ãã£â€¦â€¦ã„ã€ã‚„ãã£ï¼ã€€æŠœã„ã€ã¦ã‡ã£ï¼ï¼ã€
+;//[l][er]
 
 *4211|
 [fc]
-[ns]’jq¶“k‚u[nse]
-u‚­A‚¿‚àA‚¨‚©‚µA‚Ä‚âA‚é‚æcc‚¨A‚ç‚Ÿccv[pcms]
+[ns]Male Student V[nse]
+I-I'll make you feel good... I'll do strange things to[r]you...[l][er]
+O-oh...[pcms]
 
 *v1744|
 [fc]
 [vo_ri s="risa0418"]
-[ns]V“¹[nse]
-u‚ñ‚àJ‚§‚ÁIIv[pcms]
+[ns]Shindou[nse]
+N-mo~!![pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
 
 [se0 storage="se059" loop=true]
 
 *4212|
 [fc]
-•Ê‚Ì’j‚ÍV“¹æ¶‚Ì“ª‚Ìã‚É‚Ü‚í‚èAŒû‚Öƒ‚ƒm‚ğ‚Ë‚¶[r]
-‚ñ‚ÅA‚Ü‚é‚ÅƒAƒ\ƒR‚Ö“ü‚ê‚Ä‚¢‚é—l‚ÉA˜‚ğ“®‚©‚µn‚ß‚½B[pcms]
+Another man circled around Shindou-sensei's head and[r]forcefully inserted something into her mouth, moving his[r]hips as if he was thrusting into her genitals.[pcms]
 
 *v1745|
 [fc]
 [vo_ri s="risa0419"]
-[ns]V“¹[nse]
-u‚ñ‚Ô‚ÁI@‚ñ‚ÁA‚®‚£‚ÁI@‚ñ‚Ú‚ÁA‚ñ‚Ô‚¤‚£‚ÁIv[pcms]
+[ns]Shindou[nse]
+Nbuu! Nn, guu! Nboh, nbuuu![pcms]
 
 *4213|
 [fc]
-[ns]’jq¶“k‚u[nse]
-u‚¤‚ĞA‚Ğcc‚¿‚ñA‚ÛA‚Ì‚³‚«A‚Écc‚Ì‚Ç‚¿A‚ñA[r]
-‚±‚ªA‚ A‚½‚Á‚ÄA‚é‚ºcc‚ĞA‚Ö‚Öccv[pcms]
+[ns]Male Student V[nse]
+Uh, hi... my... di... is standing at the front...[l][er]
+my throat feels... ah, tight...[l][er]
+hehe...[pcms]
 
 *v1746|
 [fc]
 [vo_ri s="risa0420"]
-[ns]V“¹[nse]
-u‚ñ‚¤‚£‚ÁI@‚ñ‚®‚ÁA‚ñ‚Ô‚ÁI@‚¤‚¥‚ÁA‚°‚¥‚ÁIv[pcms]
+[ns]Shindou[nse]
+Nuuu! Nggh, nghh! Ugh, gehh![pcms]
 
 *4214|
 [fc]
-[ns]’jq¶“k‚t[nse]
-u‚Ó‚ÖA‚Öcc‚Ü‚ñA‚±A‚µA‚Ü‚Á‚ÄA‚é‚¼A‚±‚Ì‚¨A[r]
-‚ñ‚ÈA‚Ÿccv[pcms]
+[ns]Male Student U[nse]
+Fuh, he... pussy, I'm waiting for it, you woman...[l][er]
+ah...[pcms]
 
 *v1747|
 [fc]
 [vo_ri s="risa0421"]
-[ns]V“¹[nse]
-u‚¤‚®‚Ÿ‚ cc‚¤‚Ÿ‚ ‚ I@‚ñ‚Ô‚£I@‚¤‚¥‚¦‚¦‚ÁIv[pcms]
+[ns]Shindou[nse]
+Uguu... Uaaa! Nbuu! Weeee![pcms]
 
 *4215|
 [fc]
-‹ê‚µ‚»‚¤‚ÉŠç‚ğ˜c‚ßA™ï‚«º‚ğ‚ ‚°‚È‚ª‚çAV“¹æ¶‚Í[r]
-‘Ì‚ğ—h‚ç‚³‚ê‚Ä‚¢‚éB[pcms]
+Shindou-sensei's face contorted in pain, as she let out[r]moans, while her body was being shaken.[pcms]
 
 *4216|
 [fc]
-æ¶‚ğ•‚¯‚És‚±‚¤‚Æ‚à‚ª‚­‚ªAR‚ë‚¤‚ª‚Ç‚¤‚µ‚æ‚¤‚ª[r]
-“z‚ç‚Í‘S‚­‹¯‚Ü‚¸A‰´‚Í’Í‚ñ‚Å‚­‚éè‚ğU‚è•¥‚¤‚±‚Æ‚ª[r]
-‚Å‚«‚È‚©‚Á‚½B[pcms]
+No matter how much I struggled or kicked, those guys didn't[r]flinch at all.[l][er]
+I couldn't shake off their hands that were reaching out to[r]grab me.[pcms]
 
 *v1748|
 [fc]
 [vo_ri s="risa0422"]
-[ns]V“¹[nse]
-u‚ñ‚Î‚ÁccI@‰Á“¡ŒNcc‚É‚°‚Ècc‚³cc‚ñ‚Ô‚ÁIv[pcms]
+[ns]Shindou[nse]
+Nba...! Kato-kun... run away...[l][er]
+sa... nbu![pcms]
 
 *4217|
 [fc]
-[ns]’jq¶“k‚u[nse]
-u‚µ‚ÁA‚©A‚ècc‚ÈA‚ßcc‚ëA‚æccv[pcms]
+[ns]Male Student V[nse]
+S-shi, ka, ri... na, me... ro, yo...[pcms]
 
 *v1749|
 [fc]
 [vo_ri s="risa0423"]
-[ns]V“¹[nse]
-u‚Ô‚Ÿ‚ÁccI@“¦‚°‚Ècc‚ñ‚Ô‚ÁI@‚Õ‚Ÿ‚ cc‚¤‚¦[r]
-‚Áv[pcms]
+[ns]Shindou[nse]
+Buhh...! Don't run awa... nbuhh![l][er]
+Puahh...[pcms]
+uehh[l][er]
 
 *4218|
 [fc]
-[ns]‰Á“¡[nse]
-uƒNAƒ\ƒHccƒbIIv[pcms]
+[ns]Kato[nse]
+K-so...!![pcms]
 
 *4219|
 [fc]
-[ns]’jq¶“k‚t[nse]
-u‚Ù‚®‚êA‚Ä‚«A‚½‚È‚Ÿcc‚Ü‚ñA‚±A‚ª‚Ê‚êA‚Äcc[r]
-‚®‚¿‚å‚®A‚¿‚åA‚¨A‚Æ‚ªA‚µ‚Ä‚éA‚¼ccv[pcms]
+[ns]Male Student U[nse]
+Relax, enemy, I'm... your pussy is wet...[l][er]
+it's all sticky and... your butt is twitching...[pcms]
 
 *v1750|
 [fc]
 [vo_ri s="risa0424"]
-[ns]V“¹[nse]
-u‚ñ‚ñ``‚ÁII@‚ñ‚ÁA‚®‚ÁA‚Ô‚¿‚ã‚Áccv[pcms]
+[ns]Shindou[nse]
+Nnn~!! Nn, guh, buchu...[pcms]
 
 *4220|
 [fc]
-Œ™‚ª‚é‘fU‚è‚ğŒ©‚¹‚éV“¹æ¶‚ğŒ©‰º‚ë‚µA“ñl‚Ì’j‚Ì[r]
-Šç‚ªA‚¢‚â‚ç‚µ‚­AX‚­˜c‚ŞB[pcms]
+I looked down on Shindou-sensei, who showed signs of[r]resistance, and the faces of the two men twisted in a lewd[r]and ugly manner.[pcms]
 
 *4221|
 [fc]
-V“¹æ¶‚ªŒ™‚ª‚èAŠ«‚­’öA’j’B‚ÍŠì‚ÑA‹»•±‚·‚é‚æ‚¤[r]
-‚¾‚Á‚½B[pcms]
+It seemed that the men were delighted and excited as[r]Shindou-sensei resisted and screamed in discomfort.[pcms]
 
 *4222|
 [fc]
-[ns]’jq¶“k‚u[nse]
-u‚à‚Á‚ÆA‚·A‚¦A‚æcc‚±A‚ê‚¶‚áA‚¢‚¯[r]
-‚ÈA‚¢‚¾A‚ëccv[pcms]
+[ns]Male Student V[nse]
+More... su, e, yo... ko, re ja, ike na, i da, ro...[pcms]
 
 *v1751|
 [fc]
 [vo_ri s="risa0425"]
-[ns]V“¹[nse]
-u‚ñ‚ÁI@‚ñ‚ñJ‚ÁI@‚ñ‚Ô‚ÁA‚À‚ã‚Õ‚Áccv[pcms]
+[ns]Shindou[nse]
+Nn! Nngu! Nbu, jyupu...[pcms]
 
 *4223|
 [fc]
-[ns]’jq¶“k‚u[nse]
-u‚ ‚Ÿ`cc‚ÊA‚é‚ÊA‚éA‚ÌA‚µ‚½‚ª‚±A‚·‚ê‚Äcc[r]
-‚¢A‚¢‚ºA‚¥ccv[pcms]
+[ns]Male Student V[nse]
+Ahh~... it's slippery, slippery down there...[l][er]
+it's all sticky... it feels so good...[pcms]
 
 *v1752|
 [fc]
 [vo_ri s="risa0426"]
-[ns]V“¹[nse]
-u‚ñ‚àJ‚§‚ÁI@‚ñ‚ÁA‚ñ‚®A‚ñ‚Ô‚£I@‚¿‚ã‚Ô‚Ácc[r]
-‚¶‚ã‚Õ‚ÁA‚®‚¶‚ã‚Áccv[pcms]
+[ns]Shindou[nse]
+N-mo...! Nn, ngu, nbuu! Chubu...[l][er]
+jupu, guju...[pcms]
 
 *4224|
 [fc]
-V“¹æ¶‚ÌŒû‚É“Ë‚Á‚ñ‚Å‚¢‚é’j‚Ì“®‚«‚ªAŸ‘æ‚É‘¬‚­[r]
-‚È‚Á‚Ä‚¢‚­B[pcms]
+The movements of the man thrusting into Shindou-sensei's[r]mouth gradually become faster.[pcms]
 
 *v1753|
 [fc]
 [vo_ri s="risa0427"]
-[ns]V“¹[nse]
-u‚ñ‚¤J‚ÁI@‚ñ‚Ô‚§‚ÁI@‚ñ‚®A‚®‚¤‚£cc‚ÁIv[pcms]
+[ns]Shindou[nse]
+Nguh! Nbuo! Ngu, guu...![pcms]
 
-;//[ns]’jq¶“k‚t[nse]
-;//u‚¤A‚Í‚Ÿcc‚ÜA‚½cc‚ÜA‚ñ‚±A‚µA‚Ü‚Á‚ÄA‚«A
-;//‚½‚Ÿccv
-;//[pcms]
+[ns]Male Student U[nse]
+;//ã€Œã†ã€ã¯ãâ€¦â€¦ã¾ã€ãŸâ€¦â€¦ã¾ã€ã‚“ã“ã€ã—ã€ã¾ã£ã¦ã€ãã€
+;//ãŸãâ€¦â€¦ã€
+;//[l][er]
 
 *4225|
 [fc]
-[ns]’jq¶“k‚u[nse]
-u‚ ‚Ÿ``cc‚Å‚éA‚£``cc‚Ì‚ÇA‚ÉA‚¿‚åA‚­‚¹[r]
-‚ÂA‚È‚ªA‚µA‚±‚ñ‚ÅA‚âA‚é‚æ‚§``ccv[pcms]
+[ns]Male Student V[nse]
+Ahh~... It's coming out... Uhh~...[l][er]
+In your throat, I'll... fill it up slowly...[pcms]
 
 *v1754|
 [fc]
 [vo_ri s="risa0428"]
-[ns]V“¹[nse]
-u‚ñJ[[[‚ÁIII@‚ñ‚Ô‚ÁI@‚ŞJ‚ÁA‚¿‚ã‚Ô‚ÁA[r]
-‚À‚ã‚Õ‚£‚ÁI@‚¶‚ã‚Õ‚ÁA‚®‚¶‚ã‚ÁIv[pcms]
+[ns]Shindou[nse]
+Nghhh!! Nbu! Muhh, chubu, jyupuu![l][er]
+Juppu, gujuu![pcms]
 
 *4226|
 [fc]
-V“¹æ¶‚Ì™ï‚«º‚ÉA”ß–Â‚Ì‚æ‚¤‚È‚à‚Ì‚ª¬‚¶‚èAñ‚ğ[r]
-¬‚³‚­‰¡‚ÉU‚é‚Ì‚ª‚í‚©‚Á‚½B[pcms]
+I could tell from Shindou-sensei's moans, mixed with[r]screams, that she was shaking her head slightly from side to[r]side.[pcms]
 
 *4227|
 [fc]
-‚¾‚ªA’j‚ª—¼è‚Å“ª‚ğ‰Ÿ‚³‚¦‚½‚±‚Æ‚ÅAæ¶‚Ì’ïR‚Í‚·[r]
-‚®‚É—}‚¦‚ç‚ê‚Ä‚µ‚Ü‚Á‚½B[pcms]
+However, when the man pressed down on her head with both[r]hands, the teacher's resistance was immediately suppressed.[pcms]
 
 *4228|
 [fc]
-[ns]’jq¶“k‚u[nse]
-u‚¾‚·A‚¼‚§cc‚¹A‚¢‚µA‚Í‚çA‚¢‚Á‚ÏA‚¢A‚ÌA‚Ü[r]
-‚¹‚ÄA‚âA‚é‚º‚¥ccv[pcms]
+[ns]Male Student V[nse]
+I'm gonna... release it... slowly...[l][er]
+inside... your... womb...[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
 
 [stop_se0]
 
 [stop_se1]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 
 [se0 storage="se062"]
 
@@ -315,86 +308,83 @@
 *v1755|
 [fc]
 [vo_ri s="risa0429"]
-[ns]V“¹[nse]
-u‚ñ‚ŞJ‚¤‚¤‚£‚£‚ÁIIv[pcms]
+[ns]Shindou[nse]
+Nmuguuuhh!![pcms]
 
 *4229|
 [fc]
-V“¹æ¶‚Í–Ú‚ğŒ©ŠJ‚¢‚ÄAº‚É‚È‚ç‚È‚¢º‚Å‹©‚ñ‚¾B[pcms]
+Shindou-sensei opened her eyes wide and screamed in a voice[r]that couldn't be heard.[pcms]
 
 *4230|
 [fc]
-’j‚ª‚Í‚«o‚µ‚½¸‰t‚Í•¨¦‚¢—Ê‚¾‚Á‚½‚æ‚¤‚ÅAŒû‚Æƒ‚ƒm[r]
-‚ÌŠÔ‚Ì‹Í‚©‚ÈŒ„ŠÔ‚©‚çˆì‚êo‚Ä‚¢‚éB[pcms]
+The semen that the man ejaculated seemed to be an enormous[r]amount, overflowing from the small gap between his mouth and[r]her throat.[pcms]
 
 *4231|
 [fc]
-‚»‚Ì—lq‚É‹»•±‚µ‚½‚Ì‚©Aæ¶‚Ì‹¹‚É‰Ÿ‚µ‚Â‚¯‚Ä‚¢‚½’j‚à[r]
-Ë¸‚µ‚½‚¹‚¢‚ÅAæ¶‚Ì‘Ì‚Í¸‰t‚Ü‚İ‚ê‚É‚È‚Á‚Ä‚µ‚Ü‚Á‚½B[pcms]
+Due to the excitement of the situation, the man who was[r]pressing against the teacher's chest also ejaculated,[r]causing the teacher's body to be covered in semen.[pcms]
 
 *v1756|
 [fc]
 [vo_ri s="risa0430"]
-[ns]V“¹[nse]
-u‚°‚Í‚ÁII@‚²‚Ù‚ÁA‚ª‚Í‚ÁI@‚¤‚¦‚¥‚Áccv[pcms]
+[ns]Shindou[nse]
+Geha!! Gohoh, gahaa! Uee...[pcms]
 
 *v1757|
 [fc]
 [vo_ri s="risa0431"]
-[ns]V“¹[nse]
-u‚¤‚°‚ÁccII@‚¤‚Ÿ‚ ccI@‚°‚Ù‚ÁI@‚¤‚Ÿ‚ ‚ [r]
-ccv[pcms]
+[ns]Shindou[nse]
+Ugh...!! Uwaa...! Geho! Uwaaa...[pcms]
 
 *4232|
 [fc]
-‹ê‚µ‚»‚¤‚É¸‰t‚ğ“f‚«o‚·æ¶‚É‹»•±‚µ‚½‚Ì‚©AƒAƒ\ƒR[r]
-‚ğär‚ß‚Ä‚¢‚é’j‚Ì“®‚«‚ªA‹}‚ÉŒƒ‚µ‚­‚È‚Á‚Ä‚«‚½B[pcms]
+The man who was licking her genitals seemed to be excited by[r]the teacher who was struggling to spit out the semen, and[r]his movements suddenly became more intense.[pcms]
 
-;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
-;//¼‚Á‚½‰¹‚É•ÏXB
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
+;//æ¹¿ã£ãŸéŸ³ã«å¤‰æ›´ã€‚
 
 [se1 storage="se059"]
 
 *4233|
 [fc]
-[ns]’jq¶“k‚t[nse]
-u‚¤‚ÍA‚Ÿ``ccv[pcms]
+[ns]Male Student U[nse]
+Ugh, ahhh~...[pcms]
 
 *v1758|
 [fc]
 [vo_ri s="risa0432"]
-[ns]V“¹[nse]
-u‚¥‚¤‚ÁA‚°‚Ù‚Ácc‚¢A‚â‚Ÿcc‚â‚ßA‚Ä‚¥cc‚¨Šè‚¢ccv[pcms]
+[ns]Shindou[nse]
+Ehh, geho... i-please... stop...[l][er]
+please...[pcms]
 
 *4234|
 [fc]
-[ns]’jq¶“k‚t[nse]
-u‚Ó‚Ö‚ÖA‚Ö‚Ö‚¥cc‚¢‚â‚ªA‚éA‚¨‚ñA‚Ècc[r]
-cc‚±‚¤A‚Ó‚ñ‚·A‚é‚£``ccv[pcms]
+[ns]Male Student U[nse]
+Fufufu, hehe... you don't like it, huh...[l][er]
+moaning... like this, huhn...  fuuun~[pcms]
 
 *v1759|
 [fc]
 [vo_ri s="risa0433"]
-[ns]V“¹[nse]
-u‚¨Šè‚¢A‚¾‚©‚çcc‚ÁII@‚â‚ß‚Ä‚¥ccIIv[pcms]
+[ns]Shindou[nse]
+Please... stop...!! I beg you...!![pcms]
 
 *4235|
 [fc]
-Š«‚­V“¹æ¶‚ğŒ©‚ÄA’j‚Í‚¢‚â‚ç‚µ‚¢Î‚¢‚ğ•‚‚©‚×‚ÄA[r]
-‚³‚ç‚É“®‚«‚ğŒƒ‚µ‚­‚µ‚½B[pcms]
+The man, with a lewd smile on his face, intensified his[r]movements as he watched Shindou-sensei scream.[pcms]
 
 ;/*
 ;
 ;	*v1760|
 ;	[fc]
-;	[ns]’jq¶“k‚t[nse]
-;	u‚ ```cc‚Å‚éA‚£```cc‚¤‚Ÿ```ccv[pcms]
+[ns]Male Student U[nse]
+Ahhh... it's coming out... uhhhh...[l][er]
+uaaaahhh...[pcms]
 ;
-;	;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
+;	;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
 ;
 ;	[stop_se1]
 ;
-;	;//SE:Ë¸
+;	;//SE:å°„ç²¾
 ;
 ;	[se0 storage="se062"]
 ;
@@ -425,36 +415,36 @@
 *v1762|
 [fc]
 [vo_ri s="risa0434"]
-[ns]V“¹[nse]
-u‚¢‚â‚ ‚ ‚ ‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚ÁIIIIv[pcms]
+[ns]Shindou[nse]
+Nooooooo!![pcms]
 
 *v1763|
 [fc]
 [vo_ri s="risa0435"]
-[ns]V“¹[nse]
-u‚¤‚Ÿ‚ ‚ ccI@‘Ê–Úcc‚±‚ñ‚Ècc–ccIv[pcms]
+[ns]Shindou[nse]
+Uwaaa...! No... like this... thing...![pcms]
 
-;//’j‚Í™ï‚«º‚Æ“¯‚ÉA‚È‚é‚×‚­‰œ‚ÉË¸‚µ‚æ‚¤‚Æ‚Å‚à‚µ
-;//‚Ä‚¢‚é‚Ì‚©A‰½“x‚©‹­‚­˜‚ğ“Ë‚«o‚µ‚½B
-;//[pcms]
+;//ç”·ã¯å‘»ãå£°ã¨åŒæ™‚ã«ã€ãªã‚‹ã¹ãå¥¥ã«å°„ç²¾ã—ã‚ˆã†ã¨ã§ã‚‚ã—
+;//ã¦ã„ã‚‹ã®ã‹ã€ä½•åº¦ã‹å¼·ãè…°ã‚’çªãå‡ºã—ãŸã€‚
+;//[l][er]
 
 *4241|
 [fc]
-[ns]’jq¶“k‚t[nse]
-u‚®A‚Ó‚£``ccv[pcms]
+[ns]Male Student U[nse]
+Ugh, fuu~...[pcms]
 
 ;//*|
 ;	[vo_ri s="risa0436"]
-;//[ns]V“¹[nse]
-;//u‚ ‚Ácc‚ J‚Ácc‚ J‚Ÿ```cc‚Ğ‚ÁA‚Ÿcc‚¢
-;//‚âA‚Ÿcc“ü‚Á‚ÅA‚­‚éJ‚£ccv
-;//[pcms]
+[ns]Shindou[nse]
+;//ã€Œã‚ã£â€¦â€¦ã‚ã‚›ã£â€¦â€¦ã‚ã‚›ãã€œã€œã€œâ€¦â€¦ã²ã£ã€ãâ€¦â€¦ã„
+;//ã‚„ã€ãâ€¦â€¦å…¥ã£ã§ã€ãã‚‹ã‚›ã…â€¦â€¦ã€
+;//[l][er]
 
 *v1764|
 [fc]
 [vo_ri s="risa0437"]
-[ns]V“¹[nse]
-u‚ J‚ J‚ J‚ JccB‚¢‚â‚Ÿ``ccv[pcms]
+[ns]Shindou[nse]
+Ahh... ahh... ahh... nooo~...[pcms]
 
 [flash_wh]
 
@@ -463,52 +453,46 @@
 
 *4242|
 [fc]
-’j‚ª‚ä‚Á‚­‚è‚Æ—£‚ê‚é‚ÆAV“¹æ¶‚Í‹•‚ë‚È–Ú‚É‚È‚Á‚ÄA[r]
-¬‚³‚­A’á‚­™ï‚«‚È‚ª‚ç’E—Í‚µA’n–Ê‚ÉƒOƒbƒ^ƒŠ‚Æ‰¡‚½[r]
-‚í‚Á‚½B[pcms]
+When the man slowly pulled away, Shindou-sensei's eyes[r]became vacant, and she weakly collapsed to the ground,[r]moaning softly and lying there exhausted.[pcms]
 
 *v1765|
 [fc]
 [vo_ri s="risa0438"]
-[ns]V“¹[nse]
-u‚£cc‚®cc‚¤J‚£ccv[pcms]
+[ns]Shindou[nse]
+Ugh... guh... ughh...[pcms]
 
 *4243|
 [fc]
-[ns]‰Á“¡[nse]
-uV“¹æ¶‚ÁIIv[pcms]
+[ns]Kato[nse]
+Sensei Shindou!![pcms]
 
 *4244|
 [fc]
-ƒNƒ\ccƒbII[r]
-‚¢‚Â‚Ü‚Å‚à‚±‚ñ‚È“z‚ç‚É•ß‚Ü‚Á‚Ä‚éê‡‚¶‚á‚È‚¢I[r]
-‘‚­V“¹æ¶‚ğ•‚¯‚È‚¢‚ÆII[pcms]
+Damn it...!! This is not the time to be caught by these guys[r]forever![l][er]
+We need to quickly save Sensei Shindou!![pcms]
 
 *4245|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¹‚ñ‚¹cc‚®‚ ‚ ‚ ‚Ÿ‚Ÿ‚Ÿ‚ÁIIIIv[pcms]
+[ns]Kato[nse]
+Sensei... Guuuaaaahhhhhh!!!!!![pcms]
 
 *4246|
 [fc]
-’Í‚ñ‚Å‚¢‚é“z‚ç‚Ìè‚ğU‚è‚Ù‚Ç‚±‚¤‚Æ—Í‚ğ“ü‚ê‚½‘«‚ÉA[r]
-‚Ü‚é‚Å–œ—Í‚É‚Å‚à’÷‚ß•t‚¯‚ç‚ê‚½‚æ‚¤‚Èˆ³—Í‚Æ’É‚İA‚»[r]
-‚µ‚Ä”M‚ğŠ´‚¶‚½B[pcms]
+I felt a pressure, pain, and heat as if my leg was being[r]squeezed by a vise when I put force into swinging my leg to[r]shake off the hands of the people holding me.[pcms]
 
 *4247|
 [fc]
-‚È‚ñ‚¾IH[r]
-‰½‚ğ‚³‚ê‚½‚ñ‚¾IH[pcms]
+What?! What have they done to me?![pcms]
 
 *4248|
 [fc]
-‰´‚ª©•ª‚Ì‘«‚ğU‚è•Ô‚ë‚¤‚Æ‚µ‚½uŠÔ\\\B[pcms]
+At the moment I tried to swing my leg back...[pcms]
 
-;//SE:‰£‚é
+;//SE:æ®´ã‚‹
 
 [se0 storage="se026"]
 
-;//Y‰æ–Ê—h‚ê
+;//ã€†ç”»é¢æºã‚Œ
 
 [quake_bg xy m]
 
@@ -521,8 +505,8 @@
 
 *4249|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ª‚ÁccIIv[pcms]
+[ns]Kato[nse]
+Gah...!![pcms]
 
 ;//redout
 
@@ -530,27 +514,27 @@
 
 [red_toplayer][trans_c cross time=500][hide_chara_int_r]
 
-;//‚±‚±‚Ü‚Å–{•Ò
+;//ã“ã“ã¾ã§æœ¬ç·¨
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
 
-;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
-;•s—v[eval exp="="sf.g_scn20 = 1"]
+;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
+;ä¸è¦[eval exp="="sf.g_scn20 = 1"]
 
-;//ƒEƒBƒ“ƒhƒEÁ‹
+;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
 
-;//•‚ÉƒtƒF[ƒh
+;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
-;//¦ƒQ[ƒ€ƒI[ƒo[
+;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
+;//â€»ã‚²ãƒ¼ãƒ ã‚ªãƒ¼ãƒãƒ¼
 
 ;;;[sysbt_meswin clear]
 

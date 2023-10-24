@@ -1,14 +1,14 @@
 
-;//¡ËƒuƒƒbƒN05730w’Eox
-;//BG:’n‰ººGÁ“”
-;//BG:ŠwHF—[•ûFÁ“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05730ã€è„±å‡ºã€
+;//BG:åœ°ä¸‹å®¤ï¼›æ¶ˆç¯
+;//BG:å­¦é£Ÿï¼šå¤•æ–¹ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05730_TOP
-;[debug_win]‚È‚¤@05730[debug_win_end]
-;*SceneSet|w’Eox
+;[debug_win]ãªã†ã€€05730[debug_win_end]
+;*SceneSet|ã€è„±å‡ºã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05730 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05730 = 1"]
 
 ;//;//BG:bg23b
 
@@ -21,15 +21,13 @@
 
 *6138|
 [fc]
-[ns]‰Á“¡[nse]
-u“ª‚ğo‚³‚È‚¢‚æ‚¤‚ÉA‚µ‚á‚ª‚ñ‚¾‚Ü‚Ü•à‚­‚ñ‚¾B‚à‚µ[r]
-‚©‚µ‚½‚çA‚Ü‚½‚¨‚©‚µ‚È“z‚ç‚ªA’†‚É“ü‚Á‚Ä‚«‚Ä‚é‚©‚à[r]
-‚µ‚ê‚È‚¢‚©‚ç‚Èv[pcms]
+[ns]Kato[nse]
+Walk while crouching to avoid exposing your head.[l][er]
+There might be some strange people coming in again, so be[r]careful.[pcms]
 
 *6139|
 [fc]
-²”Œ‚É‚»‚¤’ˆÓ‚µ‚Ä‚©‚çA‰´‚Í‰¹‚ğ—§‚Ä‚È‚¢‚æ‚¤‚É”à‚ğ[r]
-ŠJ‚¯AŠwH‚Öã‚ª‚Á‚½B[pcms]
+After warning Saeki about that, I quietly opened the door[r]and went up to the school cafeteria.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -37,7 +35,7 @@
 
 ;//;//BG:bg14b
 
-;//ôFBGM009
+;//â™ªï¼šBGM009
 [bgm009]
 
 [bg storage="bg14b"]
@@ -49,28 +47,27 @@
 
 *6140|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
-;—§‚¿
+;ç«‹ã¡
 
 *6141|
 [fc]
-‘O‚É‚µ‚½‚æ‚¤‚ÉA‰´‚Í’²—ê‚ÌƒJƒEƒ“ƒ^[‰z‚µ‚ÉŠwH‚Ì[r]
-’†‚ğŒ©‰ñ‚µA’N‚à‚¢‚È‚¢‚±‚Æ‚ğŠm”F‚µ‚½B[pcms]
+As I did before, I looked around the school cafeteria from[r]behind the counter in the kitchen and confirmed that there[r]was no one there.[pcms]
 
 *6142|
 [fc]
-[ns]‰Á“¡[nse]
-u‚æ‚µAs‚­‚¼Iv[pcms]
+[ns]Kato[nse]
+Alright, let's go![pcms]
 
 ;;;[sysbt_meswin clear]
 
 
 
-;—§‚¿
+;ç«‹ã¡
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 
 [se0 storage="se005"]
 
@@ -79,5 +76,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05740]‚Ö
+;//[05740]ã¸
 [jump target=*05740_TOP storage="05740.ks"]

@@ -1,34 +1,34 @@
 
-;//¡ËƒuƒƒbƒN06030wHunting@Timex
-;//BG:“Áê‹³º˜L‰ºF–éFÁ“”
-;//BG:“n‚è˜L‰ºF–éF“_“”
-;//“oêl•¨GŠİ“cE—D
-;//‹“_FŠİ“c
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯06030ã€Huntingã€€Timeã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯
+;//BG:æ¸¡ã‚Šå»Šä¸‹ï¼šå¤œï¼šç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›å²¸ç”°ãƒ»å„ª
+;//è¦–ç‚¹ï¼šå²¸ç”°
 
 *06030_H_TOP
-;[debug_win]‚È‚¤@06030_H[debug_win_end]
+;[debug_win]ãªã†ã€€06030_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 ;[if exp="tf.scene_mode == 0"][jump target=*06030][endif]
 ;[winset]
 
 
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *06030
 
-;*SceneSet|w‚g‚t‚m‚s‚h‚m‚f@‚s‚h‚l‚dx
+;*SceneSet|ã€ï¼¨ï¼µï¼®ï¼´ï¼©ï¼®ï¼§ã€€ï¼´ï¼©ï¼­ï¼¥ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_06030 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_06030 = 1"]
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 
 [bgm007]
 
@@ -43,30 +43,31 @@
 
 *6466|
 [fc]
-[ns]Šİ“c[nse]
-uÅ‹ß‚Ì‚Í‚½‚¢‚µ‚½ƒ‚ƒ“‚¾‚Èv[pcms]
+[ns]Kishida[nse]
+The recent ones are quite something.[pcms]
 
 *6467|
 [fc]
-Ê^‚ğB‚é‚¾‚¯‚¶‚á‚È‚­‚ÄA“®‰æ‚àA‰¹º‚àB‚ê‚é‚ç‚µ[r]
-‚¢B‚±‚ÌŠÔƒŠƒT‚É”ƒ‚í‚¹‚½‚Ì‚Æ“¯‚¶ƒ^ƒCƒv‚©H[pcms]
+It seems that it can not only take photos, but also record[r]videos and audio.[l][er]
+Is it the same type that I made Risa buy the other day?[pcms]
 
 *6468|
 [fc]
-ccg‚¢•û‚ª•ª‚©‚ç‚ñccB[pcms]
+... I don't know how to use it...[pcms]
 
 *6469|
 [fc]
-‚Ü‚ ‚¢‚¢BƒŠƒT‚É‘€ì‚³‚¹‚æ‚¤B[r]
-ƒŠƒTcc‚ ‚ A‚»‚¤‚¾cB[pcms]
+Well, fine. Let's have Risa operate it.[l][er]
+Risa... Ah, that's right...[pcms]
 
 *6470|
 [fc]
-[ns]Šİ“c[nse]
-u‚ ‚ A•ÛŒ’º‚É‘Ò‚½‚¹‚Á•ú‚µ‚¾‚Á‚½‚ÈccB•ª’·‚¢[r]
-•ú’uƒvƒŒƒC‚¾I@ƒYƒ@ƒbƒnƒbƒnƒbƒnIv[pcms]
+[ns]Kishida[nse]
+Ah, I left her waiting in the infirmary for so long...[l][er]
+It was quite a long neglect play![l][er]
+Zaa hahaha![pcms]
 
-;//SE:”à‚ğŠJ‚¯‚éi¨‚¢‚æ‚­j
+;//SE:æ‰‰ã‚’é–‹ã‘ã‚‹ï¼ˆå‹¢ã„ã‚ˆãï¼‰
 
 [se0 storage="se009"]
 
@@ -77,25 +78,23 @@
 
 *6471|
 [fc]
-[ns]Šİ“c[nse]
-u‚Ù‚§ccA•ÛŒ’º‚É‚àA—‰Èº‚É‚à‹‚È‚¢‚©ccB‚¢[r]
-‚¢“x‹¹‚¾ccv[pcms]
+[ns]Kishida[nse]
+Oh... she's not in the infirmary or the science lab either.[l][er]
+She's quite brave...[pcms]
 
 *6472|
 [fc]
-“z—ê‚Ì•È‚ÉccB[r]
-‰´—l‚ª‘Ò‚Á‚Ä‚ëA‚ÆŒ¾‚Á‚½‚ç‰½‚Ü‚Å‚à‘Ò‚Á‚Ä‚ëccB[r]
-‚»‚ê‚Æ‚àAƒNƒ\‚Å‚à‚µ‚É‚¢‚Á‚½‚Ì‚©H[pcms]
+Even though she's my slave... When I told her to wait, she[r]should wait forever...[l][er]
+Or did she go and die like a piece of shit?[pcms]
 
 *6473|
 [fc]
-‘O‚ÉƒPƒc‚Éo‚µ‚½‚ ‚ÆA“‚¢‰º—Ÿ‚µ‚½‚Æ‚©‚Ê‚©‚µ‚Ä‚½‚©[r]
-‚ç‚ÈccB‚à‚µ¡“ú‚à‚»‚¤‚¾‚Á‚½‚çAŸ¯’°‚·‚é•K—v‚Ë‚¥[r]
-‚ÈI[pcms]
+After she said she had a terrible diarrhea after I came in[r]her ass...[l][er]
+If she's like that again today, there's no need for an[r]enema![pcms]
 
 *6474|
 [fc]
-d•û‚Ë‚¥ccBwéx‚É‹A‚é‚©B[pcms]
+There's no other choice... Let's go back to the Castle.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -106,14 +105,14 @@
 [bg storage="bg09e"]
 [trans_c cross time=500]
 
-;//—™ŸºF‰º‹L‚r‚d‚ª•\‚É‚È‚¢‚½‚ß‚ÉŒ»İ‰¹‚ğ’£‚Á‚Ä‚¢‚Ü‚¹‚ñB
+;//ï¼ æ‰æ¸•ï¼šä¸‹è¨˜ï¼³ï¼¥ãŒè¡¨ã«ãªã„ãŸã‚ã«ç¾åœ¨éŸ³ã‚’å¼µã£ã¦ã„ã¾ã›ã‚“ã€‚
 
-;//SE:˜L‰º‚ğ•à‚­
+;//SE:å»Šä¸‹ã‚’æ­©ã
 
 [se0 storage="se005"]
 
-;—§‚¿
-;//—‚Ìq@¦
+;ç«‹ã¡
+;//å¥³ã®å­ã€€â€»
 
 
 
@@ -122,287 +121,279 @@
 *v2605|
 [fc]
 [vo_ya s="yama0848"]
-[ns]RŠİ[nse]
-uˆÃ‚¢‚È‚ŸccB“”‚èA•t‚¯‚Ä‚Ù‚µ‚¢‚Èccv[pcms]
+[ns]Yamagishi[nse]
+It's so dark... I wish someone would turn on the lights...[pcms]
 
 *6475|
 [fc]
-‚ñH@‚Ü‚½’N‚©‚¢‚é‚Ì‚©H[pcms]
+Hm? Is there someone else again?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2606|
 [fc]
 [vo_ya s="yama0849"]
-[ns]RŠİ[nse]
-u–{“–Aƒgƒ‚‚¿‚á‚ñ’B‚Ç‚±s‚Á‚¿‚á‚Á‚½‚ñ‚¾‚ë‚¤v[pcms]
+[ns]Yamagishi[nse]
+I wonder where Tomo-chan and the others went.[pcms]
 
 *6476|
 [fc]
-RŠİ‚©ccB[r]
-ƒAƒCƒc‚Í‚¢‚¢ccB[pcms]
+Yamagishi... That person is good...[pcms]
 
 *6477|
 [fc]
-ƒkƒbƒtƒDccB[pcms]
+*Moan*...[pcms]
 
 *6478|
 [fc]
-‚»‚¤‚¾Awéx‚É—U‚¢‚ß‚³‚¦‚·‚ê‚ÎA[r]
-‚±‚Á‚¿‚Ìƒ‚ƒ“‚¾‚ÈccB[r]
-‚æ‚µccB[pcms]
+That's right, if I can lure them into the 'Castle', victory[r]will be mine...[l][er]
+Alright...[pcms]
 
 *6479|
 [fc]
-[ns]Šİ“c[nse]
-uƒIƒEARŠİII@‚Ç‚¤‚µ‚½H@ˆêl‚©ƒ@Hv[pcms]
+[ns]Kishida[nse]
+Oh, Yamagishi!! What's wrong? Are you alone?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_c_09"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 ;//
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2607|
 [fc]
 [vo_ya s="yama0850"]
-[ns]RŠİ[nse]
-u‚Ğ‚ÁI@‚¾A’NccHv[pcms]
+[ns]Yamagishi[nse]
+Huh! W-Who...?[pcms]
 
 *6480|
 [fc]
-ƒkƒbƒtƒDccB[r]
-ˆêl‚¾‚ÈccB[pcms]
+Nngh... I'm alone, huh...[pcms]
 
 *6481|
 [fc]
-‚»‚ê‚É‚µ‚Ä‚àA‰½Œ©‚Ä‚à‹¯‚¦‚é—‚ÌŠç‚Í‚¢‚¢B[pcms]
+Nevertheless, the face of a frightened woman is always good[r]to see.[pcms]
 
 *6482|
 [fc]
-[ns]Šİ“c[nse]
-u‚È‚ñ‚¾cc‰½“z‚àŸ“z‚àƒEƒƒ`ƒ‡ƒ‚µ‚â‚ª‚Á‚ÄccB[r]
-‚¨‘O‚çAŠÓÜ‰ï‚Í‚Ç‚¤‚µ‚½‚ñ‚¾IHv[pcms]
+[ns]Kishida[nse]
+What... Why is everyone wandering around like this?[l][er]
+Where did you all go for the viewing party!?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2608|
 [fc]
 [vo_ya s="yama0851"]
-[ns]RŠİ[nse]
-u‚«AŠİ“cæ¶ccv[pcms]
+[ns]Yamagishi[nse]
+K-Kishida-sensei...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2609|
 [fc]
 [vo_ya s="yama0852"]
-[ns]RŠİ[nse]
-u‚ A‚ ‚ÌccA“c’†‚³‚ñ‚ÆAŒÜ\—’‚³‚ñccAŒ©‚©‚¯[r]
-‚Ü‚¹‚ñ‚Å‚µ‚½‚©Hv[pcms]
+[ns]Yamagishi[nse]
+Um, did you happen to see Tanaka-san and Igarashi-san?[pcms]
 
 *6483|
 [fc]
-[ns]Šİ“c[nse]
-u“c’†ƒ@H@ƒAƒCƒc‚È‚ç‚µ‚Î‚ç‚­‘O‚ÉA•ÖŠ‚É“ü‚Á‚Ä‚¢[r]
-‚­‚ÌŒ©‚½‚ªccB‰½‚©‚ ‚Á‚½‚Ì‚©H[pcms]
+[ns]Kishida[nse]
+Tanaka? I saw him going into the restroom a while ago...[l][er]
+Did something happen?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2610|
 [fc]
 [vo_ya s="yama0853"]
-[ns]RŠİ[nse]
-u‚ÍA‚Í‚¢A‰f‰æŒ¤‹†•”‚Ì‡h‚ÅA‚İ‚ñ‚È‚Å‰f‰æ‚ğŒ©‚Ä[r]
-‚¢‚½‚ñ‚Å‚·‚¯‚ÇccA‹C‚ª•t‚¢‚½‚ç“c’†‚³‚ñ‚ÆAŒÜ\—’[r]
-‚³‚ñA‚»‚ê‚É’|“àŒN‚ª‹‚È‚­‚È‚Á‚Ä‚Äccv[pcms]
+[ns]Yamagishi[nse]
+Y-Yes, we were watching movies together at the film club's[r]training camp...[l][er]
+but, before I knew it, Tanaka-san, Igarashi-san, and[r]Takeuchi-kun were gone...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2611|
 [fc]
 [vo_ya s="yama0854"]
-[ns]RŠİ[nse]
-u‚»‚ê‚ÅA„‚ÆA‰Á“¡ŒN‚ÆA²”Œ‚³‚ñ‚ÅAè•ª‚¯‚µ‚Ä’T[r]
-‚µ‚Ä‚¢‚½‚ñ‚Å‚·v[pcms]
+[ns]Yamagishi[nse]
+So, Kato-kun, Saeki-san, and I were splitting up and[r]searching.[pcms]
 
 *6484|
 [fc]
-‚Ù‚§ccH@[r]
-‚ÆŒ¾‚¤‚±‚Æ‚ÍA‘¼‚Ì“z‚ç‚Í•Ê‚ÌêŠ‚É‚¢‚é‚Ì‚©B[r]
-D“s‡‚¾B[pcms]
+Oh...? So that means the others are in a different place.[l][er]
+Convenient.[pcms]
 
 *6485|
 [fc]
-v‚í‚¸Šç‚ª‚ä‚é‚ñ‚Å‚µ‚Ü‚¤B[r]
-Œå‚ç‚ê‚È‚¢‚æ‚¤‚É‚µ‚È‚¯‚ê‚ÎB[pcms]
+My face involuntarily loosens.[l][er]
+I must make sure not to be found out.[pcms]
 
 *6486|
 [fc]
-[ns]Šİ“c[nse]
-u‘¼‚Ì“z‚ç‚©ccB’|“à‚È‚çŒ©‚½‚ª‚Èv[pcms]
+[ns]Kishida[nse]
+So the others... I saw Takeuchi, but that's it.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2612|
 [fc]
 [vo_ya s="yama0855"]
-[ns]RŠİ[nse]
-u‚¦H@–{“–‚Å‚·‚©H@—Ç‚©‚Á‚½‚ŸccB’|“àŒN‚ÍA‚Ç[r]
-‚±‚É‚¢‚½‚ñ‚Å‚·‚©Hv[pcms]
+[ns]Yamagishi[nse]
+Eh? Is that true? Thank goodness...[l][er]
+Where was Takeuchi-kun?[pcms]
 
 *6487|
 [fc]
-‹³º‚ÅƒZƒ“ƒYƒŠ‚±‚¢‚Ä‚½ccB‚Æ‚ÍŒ¾‚í‚È‚¢‚Å‚¨‚±‚¤B[r]
-•m‚Ìî‚¯‚¾B[pcms]
+I won't say that I was jerking off in the classroom...[l][er]
+Let's keep that to ourselves. It's a samurai's mercy.[pcms]
 
 *6488|
 [fc]
-[ns]Šİ“c[nse]
-u©•ª‚Ì‹³º‚É‹‚½‚¼B‚à‚¤‹’®Šoº‚É–ß‚Á‚Ä‚é‚ñ‚¶‚á[r]
-‚Ë‚¥‚©Hv[pcms]
+[ns]Kishida[nse]
+He was in his own classroom. He might have already returned[r]to the audiovisual room, don't you think?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2613|
 [fc]
 [vo_ya s="yama0856"]
-[ns]RŠİ[nse]
-u‚»‚¤‚Å‚·‚©ccv[pcms]
+[ns]Yamagishi[nse]
+Is that so...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2614|
 [fc]
 [vo_ya s="yama0857"]
-[ns]RŠİ[nse]
-u‚¶‚á‚ A‚ ‚Æ‚Í“c’†‚³‚ñ‚ÆAƒgƒ‚‚¿‚á‚ñ‚ğŒ©‚Â‚¯‚ê‚Î[r]
-‚¢‚¢‚¾‚¯‚©I@æ¶A‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·IIv[pcms]
+[ns]Yamagishi[nse]
+Then, all we need to do is find Tanaka-san and Tomo-chan![l][er]
+Thank you, Sensei!![pcms]
 
 *6489|
 [fc]
-RŠİ‚ª‘–‚èo‚»‚¤‚Æ‚µ‚Ä‚¢‚éB“¦‚°‚é‚Â‚à‚è‚©ccH@[r]
-‚»‚¤‚Í‚³‚¹‚ñccB[pcms]
+Yamagishi is about to start running.[l][er]
+Is she planning to escape...? I won't let her...[pcms]
 
 *6490|
 [fc]
-[ns]Šİ“c[nse]
-uRŠİI@‘Ò‚ÄII@‰´‚àˆê‚É’T‚µ‚És‚Á‚Ä‚â‚é‚¼Iv[pcms]
+[ns]Kishida[nse]
+Yamagishi! Wait!! I'll go search with you too![pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2615|
 [fc]
 [vo_ya s="yama0858"]
-[ns]RŠİ[nse]
-u‚¦ccH@‚íA„ˆêl‚Å‘åä•v‚Å‚·‚©‚çccv[pcms]
+[ns]Yamagishi[nse]
+Eh...? I-I'll be fine on my own...[pcms]
 
 *6491|
 [fc]
-[ns]Šİ“c[nse]
-u‚Ü‚Ÿ‘Ò‚ÄccBŸè‚ÉŠw‰€‚Ì’†‚ğƒEƒƒ`ƒ‡ƒ‚³‚ê‚Ä‚à[r]
-‰´‚ç‚ª¢‚é‚ñ‚¾B‰½‚©‚ ‚Á‚½‚çA‰´’B‚ÌÓ”C‚É‚È‚Á‚¿‚Ü[r]
-‚¤‚©‚ç‚Èƒ@ccv[pcms]
+[ns]Kishida[nse]
+Well, wait... If you wander around the school on your own,[r]it'll cause trouble for us.[l][er]
+If something happens, it'll be our responsibility, you[r]know...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2616|
 [fc]
 [vo_ya s="yama0859"]
-[ns]RŠİ[nse]
-uccccv[pcms]
+[ns]Yamagishi[nse]
+â€¦â€¦â€¦â€¦[l][er]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2617|
 [fc]
 [vo_ya s="yama0860"]
-[ns]RŠİ[nse]
-u•ª‚©‚è‚Ü‚µ‚½ccB‚Ó‚£ccv[pcms]
+[ns]Yamagishi[nse]
+I understand...[pcms]
+*sigh*[l][er]
 
 *6492|
 [fc]
-ƒtƒ“ccAÅŒã‚Ì‚½‚ß‘§‚Í‹C‚ÉH‚í‚ñ‚ªA‚±‚ê‚Å“¦‚°‚ç[r]
-‚ê‚é–‚Í‚È‚¢‚¾‚ë‚¤ccB[pcms]
+Hmph... I don't like that final sigh, but she won't be able[r]to escape now...[pcms]
 
 *6493|
 [fc]
-ƒkƒbƒtƒDccB‚³‚Á‚«ƒŠƒT‚Éè‚ğo‚·‚È‚ÆŒ¾‚í‚ê‚½‚ªA[r]
-Š‘F“z—ê‚ÌŒ¾‚¤‚±‚ÆB’®‚©‚È‚­‚Ä‚à‚¢‚¢B[pcms]
+*Nuffu... Earlier, Risa told me not to touch her, but it's[r]just the words of a slave.[l][er]
+I don't have to listen.[pcms]
+*[l][er]
 
 *6494|
 [fc]
-‚»‚ê‚ÉA‰ä–‚Íg‘Ì‚Éˆ«‚¢‚©‚ç‚Èƒ@I@‚±‚±‚ÅƒXƒbƒLƒŠ[r]
-‚µ‚Ä‚¨‚­‚×‚«‚¾B[pcms]
+Besides, holding it in is bad for your body![l][er]
+You should relieve yourself here.[pcms]
 
 *6495|
 [fc]
-[ns]Šİ“c[nse]
-uRŠİA’T‚µ‚És‚­‘O‚ÉA‚¿‚Á‚Æ‘Ìˆç‹³Š¯º‚Ü‚Å•t‚«‡[r]
-‚¦I@ˆê‚ÂA—p–‚ª‚ ‚é‚ñ‚¾v[pcms]
+[ns]Kishida[nse]
+Yamagishi, before we go searching, can you come with me to[r]the gym teacher's office?[l][er]
+I have something to discuss.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_08"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2618|
 [fc]
 [vo_ya s="yama0861"]
-[ns]RŠİ[nse]
-u‚¦‚ÁHv[pcms]
+[ns]Yamagishi[nse]
+Eh?[pcms]
 
 *6496|
 [fc]
-[ns]Šİ“c[nse]
-u‚Ü‚ŸA‚Æ‚É‚©‚­s‚­‚¼ƒHH@’ƒ‚Ío‚ñ‚ª‚ÈI[r]
-ƒYƒ@ƒbƒnƒbƒnIv[pcms]
+[ns]Kishida[nse]
+Well, anyway, let's go, okay? I won't offer you tea![l][er]
+Zahaha![pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2619|
 [fc]
 [vo_ya s="yama0862"]
-[ns]RŠİ[nse]
-u‚ ccA‚¹Aæ¶ccv[pcms]
+[ns]Yamagishi[nse]
+Ah... T-Teacher...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -413,6 +404,6 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[06040]‚Ö
+;//[06040]ã¸
 [jump target=*06040_H_TOP storage="06040_H.ks"]
 

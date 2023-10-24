@@ -1,19 +1,19 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
-;//¡ËƒuƒƒbƒN05440wÃ‚©‚ÈŠw‰€“àx
-;//;//BG:“Áê‹³º˜L‰ºF—[•ûGÁ“”
-;//“oêl•¨GålŒöE“µ
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;//¤;//£;//¥;//¢;//¤;//£;//¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05440ã€é™ã‹ãªå­¦åœ’å†…ã€
+;//;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šå¤•æ–¹ï¼›æ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;//â–½;//â–²;//â–¼;//â–³;//â–½;//â–²;//â–¼
 
 *05440_TOP
-;[debug_win]‚È‚¤@05440[debug_win_end]
-;*SceneSet|wÃ‚©‚ÈŠw‰€“àx
+;[debug_win]ãªã†ã€€05440[debug_win_end]
+;*SceneSet|ã€é™ã‹ãªå­¦åœ’å†…ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05440 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05440 = 1"]
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 
 [bgm007]
 
@@ -28,35 +28,31 @@
 
 *5488|
 [fc]
-‚³‚Á‚«‚Ü‚ÅA²”Œ‚ÆŒ¾‚¢‡‚¢‚ğ‚µ‚Ä‚¢‚½‚¹‚¢‚Å‹C‚ª‚Â‚©[r]
-‚È‚©‚Á‚½‚ªA˜L‰º‚Éo‚Ä‚İ‚ÄAZÉ‚Ì’†‚ªˆÙ—l‚ÉÃ‚Ü‚è[r]
-‚©‚¦‚Á‚Ä‚¢‚é‚±‚Æ‚É‹C‚ª‚Â‚¢‚½B[pcms]
+I didn't notice it earlier because I was arguing with Saeki,[r]but when I stepped out into the hallway, I realized that the[r]inside of the school building was unusually quiet.[pcms]
 
 *5489|
 [fc]
-[ns]‰Á“¡[nse]
-u¡“ú‚Í‚Ç‚±‚Ì•”Šˆ‚à—ˆ‚Ä‚È‚¢‚Ì‚©‚ÈB‚¸‚¢‚Ô‚ñÃ‚©‚¾[r]
-‚¯‚Çccv[pcms]
+[ns]Kato[nse]
+I wonder if no clubs are meeting today.[l][er]
+It's quite quiet though...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2281|
 [fc]
 [vo_sa s="sae0507"]
-[ns]²”Œ[nse]
-u‚»‚¤‚Å‚·‚ËccB‚ ‚Ì•Ï‚Èl’B‚Ìº‚àA•·‚±‚¦‚Ä‚«‚Ü[r]
-‚¹‚ñ‚µccv[pcms]
+[ns]Saeki[nse]
+Yes, you're right... I can't hear the voices of those[r]strange people either...[pcms]
 
 *5490|
 [fc]
-[ns]‰Á“¡[nse]
-uƒzƒ‰[‰f‰æ‚¾‚ÆA‚±‚¤‚¢‚¤‚ÉAƒCƒLƒiƒŠ‰½‚©‚ª”ò‚Ñ[r]
-o‚µ‚Ä‚«‚½‚è‚·‚é‚ñ‚¾‚æ‚È[v[pcms]
+[ns]Kato[nse]
+In horror movies, something suddenly jumps out at you at[r]times like this, right?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -65,88 +61,80 @@
 
 *5491|
 [fc]
-‰´‚Ìç’k‚É•sˆÀ‚»‚¤‚ÈŠç‚É‚È‚Á‚ÄA²”Œ‚Í‰´‚Ì”w’†‚ÌŒã[r]
-‚ë‚É‰B‚êAƒVƒƒƒc‚Ì‚ğˆ¬‚Á‚½B[pcms]
+Saeki looked worried at my joke and hid behind me, gripping[r]the hem of my shirt.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2282|
 [fc]
 [vo_sa s="sae0508"]
-[ns]²”Œ[nse]
-u‚â‚ß‚Ä‚­‚¾‚³‚¢A‚»‚¤‚¢‚¤–‚ğŒ¾‚¤‚Ì‚Íccv[pcms]
+[ns]Saeki[nse]
+Please stop, saying things like that...[pcms]
 
 *5492|
 [fc]
-‚»‚Ì‚Ü‚Ü•à‚«o‚µ‚Ä‚·‚®A²”Œ‚Í‘å‚«‚Èº‚ğo‚µ‚ÄA‰´[r]
-‚ÌŒã‚ë‚©‚ç”ò‚Ñ‘Ş‚¢‚½B[pcms]
+As soon as we started walking, Saeki let out a loud scream[r]and jumped back from behind me.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2283|
 [fc]
 [vo_sa s="sae0509"]
-[ns]²”Œ[nse]
-u‚ ‚ÁccIIv[pcms]
+[ns]Saeki[nse]
+Ah...!![pcms]
 
 *5493|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¨‚í‚ÁII@‚ÈA‰½‚¾IHv[pcms]
+[ns]Kato[nse]
+Oh...! W-What is it!?[pcms]
 
 *5494|
 [fc]
-–{“–‚É‰½‚©‚ªo‚½‚Ì‚©‚Æv‚¢A‹}‚¢‚Åü‚è‚ğŒ©‰ñ‚µ‚Ä‚İ[r]
-‚½‚ªAŠç‚ğÔ‚­‚µ‚½²”Œ‚ªAƒXƒJ[ƒg‚Ì‚ğ‰Ÿ‚³‚¦‚Ä‚¢[r]
-‚½‚¾‚¯‚¾‚Á‚½B[pcms]
+I thought something really came out, so I quickly looked[r]around, but it turned out that Saeki, who had blushed, was[r]just holding down the hem of her skirt.[pcms]
 
 *5495|
 [fc]
-[ns]‰Á“¡[nse]
-u‰½‚¾‚æA‹}‚ÉƒfƒJƒCºo‚·‚È‚æccBƒrƒbƒNƒŠ‚·‚é‚¾[r]
-‚ëIv[pcms]
+[ns]Kato[nse]
+What the hell, don't suddenly scream so loudly...[l][er]
+It's gonna startle me![pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2284|
 [fc]
 [vo_sa s="sae0510"]
-[ns]²”Œ[nse]
-u‚²‚ß‚ñ‚È‚³‚¢cc‚ ‚ÌAV“¹æ¶‚ğ‘{‚·‘O‚ÉA‹’®Šo[r]
-º‚ÉŠñ‚Á‚Ä’¸‚¯‚Ü‚¹‚ñ‚©H@’…‘Ö‚¦‚ğæ‚è‚És‚«‚½‚¢‚Ì[r]
-‚Å‚·ccv[pcms]
+[ns]Saeki[nse]
+I'm sorry... Um, before we search for Shindou-sensei, could[r]you please stop by the audiovisual room?[l][er]
+I want to go get my change of clothes...[pcms]
 
 *5496|
 [fc]
-‰º‚É‰½‚à—š‚¢‚Ä‚¢‚È‚¢‚±‚Æ‚ÅA²”Œ‚Í‘–‚é‚Ì‚àŒ™‚ª‚é‚®[r]
-‚ç‚¢‚¾‚µA‚»‚ê‚Å‚Í‹}‚¢‚Å“¦‚°‚È‚¯‚ê‚Î‚È‚ç‚È‚­‚È‚Á‚½[r]
-‚ÉAŠëŒ¯“x‚ª‘å‚«‚­‚È‚éB[pcms]
+Saeki dislikes running so much that she even hesitates to do[r]so when she's not wearing anything underneath, and in[r]situations where she has to escape quickly, the level of[r]danger becomes even greater.[pcms]
 
 *5497|
 [fc]
-‚»‚ê‚È‚çA²”Œ‚ª‹C‚ª‚Â‚¢‚½¡‚Ì“_‚ÅA‹’®Šoº‚Éæ[r]
-‚è‚És‚Á‚Ä‚¨‚¢‚½•û‚ª‚¢‚¢B[pcms]
+In that case, it would be better for Saeki to go and get her[r]change of clothes from the audiovisual room now that she has[r]noticed.[pcms]
 
 *5498|
 [fc]
-[ns]‰Á“¡[nse]
-ucc‚µ‚å‚¤‚ª‚È‚¢A‹}‚®‚¼Iv[pcms]
+[ns]Kato[nse]
+... Fine, let's hurry![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *5499|
 [fc]
-‰´‚Í²”Œ‚Ìæ‚ğA‹’®Šoº‚ÉŒü‚©‚Á‚Ä‘«‘‚É•à‚¢‚½B[pcms]
+I walked quickly, following behind Saeki towards the[r]audiovisual room.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -156,5 +144,5 @@
 
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//[05450]‚Ö
+;//[05450]ã¸
 [jump target=*05450_TOP storage="05450.ks"]

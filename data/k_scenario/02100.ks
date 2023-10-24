@@ -1,20 +1,20 @@
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02100w‹°•|x
-;//BG:“Áê‹³º˜L‰ºF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöE—DE’|“à
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02100ã€ææ€–ã€
+;//BG:ç‰¹æ®Šæ•™å®¤å»Šä¸‹ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ç«¹å†…
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02100_TOP
-;[debug_win]‚È‚¤@02100[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02100 = 1"]
+;[debug_win]ãªã†ã€€02100[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02100 = 1"]
 
-;*SceneSet|w‹°•|x
+;*SceneSet|ã€ææ€–ã€
 
 ;//[02100]
 
-;//ôFBGM003
+;//â™ªï¼šBGM003
 ;//[bgm003]
 ;//BG:bg003a
 ;//[bg storage="bg03a"]
@@ -22,93 +22,88 @@
 
 *2019|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ècc‚È‚ñ‚È‚ñ‚¾‚æA‚±‚¢‚ÂccIv[pcms]
+[ns]Kato[nse]
+W-What... what's with this person...![pcms]
 
 *2020|
 [fc]
-ƒpƒ“ƒ`—Í‚É©M‚ª‚ ‚Á‚½‚í‚¯‚¶‚á‚È‚¢‚ªA‚»‚ê‚Å‚àA‚È[r]
-‚ñ‚Ìƒ_ƒ[ƒW‚à‚È‚¢‚æ‚¤‚È—lq‚Å‹ß‚Ã‚¢‚Ä‚­‚é’j‚ÉA‰´[r]
-‚Íœ±‘R‚Æ‚µ‚½B[pcms]
+I didn't have confidence in my punching power, but still, I[r]was stunned by the man who approached me without any signs[r]of damage.[pcms]
 
 *2021|
 [fc]
-Œ¾—t‚ğ¸‚Á‚ÄA”•àŒã‚¸‚³‚Á‚½‚Æ‚±‚ë‚ÅA‰´‚ÌƒVƒƒƒc‚ğ[r]
-RŠİ‚³‚ñ‚ªˆø‚Á’£‚Á‚Ä‚¢‚é‚Ì‚É‹C‚ª‚Â‚¢‚½B[pcms]
+I was at a loss for words and took a few steps back, when I[r]noticed that Yamagishi-san was pulling on my shirt.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v830|
 [fc]
 [vo_ya s="yama0263"]
-[ns]RŠİ[nse]
-u“¦‚°‚æ‚¤ccHv[pcms]
+[ns]Yamagishi[nse]
+Shall we run away...?[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v831|
 [fc]
 [vo_ya s="yama0264"]
-[ns]RŠİ[nse]
-u“¦‚°cc“¦‚°‚æcc‰Á“¡ŒNcc‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Run... let's run away... Kato-kun...![pcms]
 
 *2022|
 [fc]
-k‚¦‚éº‚ÅŒ¾‚¤RŠİ‚³‚ñ‚Éèõ‚¢‚ÄA”Ş—‚ğ˜e‚É•ø‚¦‚é‚æ[r]
-‚¤‚É‚µ‚Äx‚¦A‰´‚Í‹’®Šoº‚Ö‚ÆˆÚ“®‚ğn‚ß‚½B[pcms]
+I nodded to Yamagishi-san, who spoke with a trembling voice,[r]and supported her by holding her close to my side.[l][er]
+We began to move towards the audiovisual room.[pcms]
 
 *2023|
 [fc]
-’j‚Æ‚Ì‹——£‚ğŠm‚©‚ß‚æ‚¤‚ÆU‚è•Ô‚é‚ÆA^–ç‚ª‚Ü‚¾–j‚ğ[r]
-‰Ÿ‚³‚¦‚ÄA°‚É‚Ö‚½‚è‚ñ‚Å‚¢‚é‚Ì‚ªŒ©‚¦‚½B[pcms]
+When I turned around to check the distance between me and[r]the man, I saw Shinya still holding his cheek and slumping[r]to the floor.[pcms]
 
 *2024|
 [fc]
-[ns]‰Á“¡[nse]
-u^–ç‚ÁI@‰½‚µ‚Ä‚ñ‚¾A—§‚ÄI@“¦‚°‚é‚ñ‚¾‚æII@[r]
-‘‚­IIv[pcms]
+[ns]Kato[nse]
+Shinya! What are you doing, get up![l][er]
+We need to run!! Quickly!![pcms]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 [se0 storage="se005"]
 
 *2025|
 [fc]
-‚æ‚ë‚ß‚«‚È‚ª‚ç^–ç‚ª—§‚¿ã‚ª‚èA‘«‚ğ‚à‚½‚Â‚©‚¹‚È‚ª[r]
-‚ç’Ç‚Á‚Ä‚­‚é‚Ì‚ğŠm”F‚µ‚ÄA‰´‚Í‹’®Šoº‚Ö‹}‚¢‚¾B[pcms]
+I hurried towards the audiovisual room, confirming that[r]Shinya, staggering and stumbling, was getting up and chasing[r]after us.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_c_09"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v832|
 [fc]
 [vo_ya s="yama0265"]
-[ns]RŠİ[nse]
-u‚¨A’Ç‚¢‚©‚¯‚Ä‚­‚éccHv[pcms]
+[ns]Yamagishi[nse]
+Oh, he's chasing after us...?[pcms]
 
 *2026|
 [fc]
-[ns]‰Á“¡[nse]
-u‚È‚ñ‚¾IH@‰½‚È‚ñ‚¾ƒAƒCƒcIIv[pcms]
+[ns]Kato[nse]
+What the hell!? What's with that guy!![pcms]
 
 ;//blackout
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
 ;;;[sysbt_meswin]
 
-;//[02101]‚Ö
+;//[02101]ã¸
 [jump target=*02101_TOP storage="02101.ks"]
 

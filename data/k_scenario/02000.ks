@@ -1,13 +1,13 @@
 
-;//wŠ´õi‰¼‘èj|—DEƒƒCƒ“ƒ‹[ƒgƒeƒLƒXƒgx
+;//ã€æ„ŸæŸ“ï¼ˆä»®é¡Œï¼‰âˆ’å„ªãƒ»ãƒ¡ã‚¤ãƒ³ãƒ«ãƒ¼ãƒˆãƒ†ã‚­ã‚¹ãƒˆã€
 
-;//¡ËƒuƒƒbƒN02000w“ñl‚«‚è‚É‚È‚ê‚éƒ`ƒƒƒ“ƒXx
-;//BG:‹’®ŠoºF–é
-;//“oêl•¨GålŒö
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02000ã€äºŒäººãã‚Šã«ãªã‚Œã‚‹ãƒãƒ£ãƒ³ã‚¹ã€
+;//BG:è¦–è´è¦šå®¤ï¼šå¤œ
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬
 
 *02000_TOP
-;[debug_win]‚È‚¤@02000[debug_win_end]
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02000 = 1"]
+;[debug_win]ãªã†ã€€02000[debug_win_end]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02000 = 1"]
 
 [eval exp="f.prologue_route = 0"]
 [eval exp="f.yuu_route1 = 1"]
@@ -20,56 +20,51 @@
 [eval exp="f.hitomi_route4 = 0"]
 [eval exp="f.infection_route = 0"]
 
-;*SceneSet|w“ñl‚«‚è‚É‚È‚ê‚éƒ`ƒƒƒ“ƒXx
+;*SceneSet|ã€äºŒäººãã‚Šã«ãªã‚Œã‚‹ãƒãƒ£ãƒ³ã‚¹ã€
 
 ;//[02000]
 
-;//flag:ƒvƒƒ[ƒOƒtƒ[@‚`@•\¦
-;//flag:—Dƒ‹[ƒgƒtƒ[‰æ–Ê@•\¦
-;//flag:—Dƒ‹[ƒgƒtƒ[@Start@•\¦
+;//flag:ãƒ—ãƒ­ãƒ­ãƒ¼ã‚°ãƒ•ãƒ­ãƒ¼ã€€ï¼¡ã€€è¡¨ç¤º
+;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ç”»é¢ã€€è¡¨ç¤º
+;//flag:å„ªãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€Startã€€è¡¨ç¤º
 
 ;//BG:bg015d
 
 [bg storage="bg05c"]
 [trans_c cross time=500]
 
-;//ôFBGM–³‰¹
+;//â™ªï¼šBGMç„¡éŸ³
 [fadeoutbgm time=500]
 
 *1292|
 [fc]
-‚ ‚Ìê‚Å‚ÍŒ¾‚¦‚È‚©‚Á‚½A‰´‚Ìv˜fB[pcms]
+I couldn't say it there, my intentions.[pcms]
 
 *1293|
 [fc]
-‚»‚ê‚ÍA‚ ‚Æ‚©‚çRŠİ‚³‚ñ‚ğ’Ç‚¢‚©‚¯‚ÄA[r]
-ˆê‚És“®‚·‚é‚±‚Æ‚¾‚Á‚½B[pcms]
+That was to follow after Yamagishi-san later and act[r]together.[pcms]
 
 *1294|
 [fc]
-²”Œ‚É‚Íˆ«‚¢‚¯‚ÇAƒ`ƒƒƒ“ƒX‚ª‚ ‚é‚ÉA[r]
-RŠİ‚³‚ñ‚Æ“ñl‚«‚è‚É‚È‚Á‚Ä‚¨‚«‚½‚©‚Á‚½‚ñ‚¾B[pcms]
+I'm sorry, Saeki, but I wanted to be alone with Yamagishi-[r]san when there was a chance.[pcms]
 
 *1295|
 [fc]
-“ñl‚«‚è‚É‚È‚Á‚ÄA‚à‚Á‚Æ‚½‚­‚³‚ñA[r]
-”Ş—‚Æ˜b‚ğ‚µ‚Ä‚¨‚«‚½‚©‚Á‚½B[pcms]
+I wanted to be alone with her and talk more.[pcms]
 
 *1296|
 [fc]
-RŠİ‚³‚ñ‚ÌŒ¾‚¤w‹C‚É‚È‚é’jqx‚ÆA[r]
-”Ş—‚ª‚Â‚«‚ ‚¤‚±‚Æ‚É‚È‚Á‚½‚çA[r]
-‚»‚ñ‚È‹@‰ï‚à‚È‚­‚È‚Á‚Ä‚µ‚Ü‚¤‚¾‚ë‚¤‚©‚çB[pcms]
+If Yamagishi-san starts dating the 'guy she's interested in'[r]that she mentioned, then there won't be any chance for me to[r]be alone with her anymore.[pcms]
 
 *1297|
 [fc]
-[ns]‰Á“¡[nse]
-u‚æ‚µccv[pcms]
+[ns]Kato[nse]
+Alright...[pcms]
 
 *1298|
 [fc]
-‰´‚ÍRŠİ‚³‚ñ‚ğ’Ç‚Á‚Ä‘–‚Á‚½B[pcms]
+I chased after Yamagishi-san and ran.[pcms]
 
-;//[02010]‚Ö
+;//[02010]ã¸
 [jump target=*02010_TOP storage="02010.ks"]
 

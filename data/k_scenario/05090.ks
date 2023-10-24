@@ -1,20 +1,20 @@
 
-;//¡ËƒuƒƒbƒN05090w—ˆ”N‚Ì‹³ºx
-;//BG:OŠK˜L‰ºF–éFÁ“”^“_“”
-;//BG:OŠK‹³ºF–éFÁ“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯05090ã€æ¥å¹´ã®æ•™å®¤ã€
+;//BG:ä¸‰éšå»Šä¸‹ï¼šå¤œï¼šæ¶ˆç¯ï¼ç‚¹ç¯
+;//BG:ä¸‰éšæ•™å®¤ï¼šå¤œï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *05090_TOP
-;[debug_win]‚È‚¤@05090[debug_win_end]
-;*SceneSet|w—ˆ”N‚Ì‹³ºx
+;[debug_win]ãªã†ã€€05090[debug_win_end]
+;*SceneSet|ã€æ¥å¹´ã®æ•™å®¤ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_05090 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_05090 = 1"]
 
-;//flag:“µƒ‹[ƒgƒtƒ[@‚P@•\¦
+;//flag:ç³ãƒ«ãƒ¼ãƒˆãƒ•ãƒ­ãƒ¼ã€€ï¼‘ã€€è¡¨ç¤º
 
 
 ;	/*
-;	;//ôFBGM001
+;	;//â™ªï¼šBGM001
 ;	[bgm001]
 ;	
 ;	;//BG:bg006c
@@ -24,191 +24,187 @@
 
 *4814|
 [fc]
-[ns]‰Á“¡[nse]
-u—ˆ”N‚àˆê‚¾‚ÆA^–ç‚Í‚¸‚Á‚Æ“¯‚¶ƒNƒ‰ƒX‚È‚ñ‚¾‚æ[r]
-‚È[Bˆê“x‚à•ÊX‚É‚È‚Á‚½‚±‚ÆA‚È‚¢‚ñ‚¾‚æ‚Èv[pcms]
+[ns]Kato[nse]
+If we're together again next year, Shinya will be in the[r]same class forever.[l][er]
+We've never been separated even once.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2058|
 [fc]
 [vo_sa s="sae0352"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *4815|
 [fc]
-[ns]‰Á“¡[nse]
-u¡‚Ü‚Åˆê“x‚à•ÊX‚É‚È‚Á‚½‚±‚Æ‚È‚¢‚ñ‚¾‚æ‚ÈccB‚»[r]
-‚ê‚ÉA‘S‘R•Ï‚í‚Á‚Ä‚È‚¢‚ÈA‚ ‚¢‚ÂB‚à‚¤ˆê¶‚ ‚Ì‚Ü‚ñ[r]
-‚Ü‚¾‚ë‚¤‚Èv[pcms]
+[ns]Kato[nse]
+We've never been separated even once until now...[l][er]
+And he hasn't changed at all. He'll probably stay the same[r]forever.[pcms]
 
 *4816|
 [fc]
-‚»‚¤Œ¾‚Á‚ÄÎ‚¤‰´‚ğA²”Œ‚Í—â‚½‚¢–Ú‚ÅU‚è•Ô‚Á‚½B[pcms]
+Saeki looked back at me with cold eyes as I laughed and said[r]that.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2059|
 [fc]
 [vo_sa s="sae0353"]
-[ns]²”Œ[nse]
-u‚ ‚Ìl‚Ì˜b‚Í‚µ‚È‚¢‚Å‚­‚¾‚³‚¢B•s–ù‰õ‚Å‚·v[pcms]
+[ns]Saeki[nse]
+Please don't talk about that person.[l][er]
+It's unpleasant.[pcms]
 
 *4817|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 *4818|
 [fc]
-²”Œ‚Á‚ÄA‰½‚Å‚±‚ñ‚È‚É^–ç‚ªŒ™‚¢‚È‚ñ‚¾‚ë‚¤ccB[pcms]
+I wonder why Saeki hates Shinya so much...[pcms]
 
 *4819|
 [fc]
-Šm‚©‚ÉA^–ç‚Í—‚Éƒ‚ƒe‚éƒ^ƒCƒv‚¶‚á‚È‚¢‚¯‚ÇA²”Œ‚Ì[r]
-Œ™‚¢•û‚Á‚ÄA‚ ‚Ü‚è‚É‚à‚ ‚©‚ç‚³‚Ü‚¾‚æ‚ÈccB[pcms]
+Certainly, Shinya isn't the type to be popular with girls,[r]but Saeki's way of hating him is just too obvious...[pcms]
 
 *4820|
 [fc]
-Ğ“ï‚¾‚ÈA^–ç‚àccB‚Ü‚ŸA—q‚Ì‘O‚Å•½‹C‚ÅƒGƒ–{[r]
-L‚°‚éA‚ ‚¢‚Â‚à‚ ‚¢‚Â‚¾‚¯‚Ç‚³ccB[pcms]
+It's unfortunate, Shinya... Well, he's the type to casually[r]open up erotic books in front of girls, but still...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2060|
 [fc]
 [vo_sa s="sae0354"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *4821|
 [fc]
-²”Œ‚Í•s‹@Œ™‚»‚¤‚ÈŠç‚Ì‚Ü‚Ü‚ÅA–Ù‚è‚ñ‚Å‚µ‚Ü‚Á‚½B[r]
-^–ç‚Ì–‚É‚ÍA‚ ‚ñ‚Ü‚èG‚ê‚È‚¢•û‚ª—Ç‚³‚»‚¤‚¾B[pcms]
+Saeki remained with a displeased expression and fell silent.[l][er]
+It seems better not to touch on the subject of Shinya too[r]much.[pcms]
 
 *4822|
 [fc]
-[ns]‰Á“¡[nse]
-ucc^–ç‚ÍA‚Ü‚ŸA’u‚¢‚Æ‚­‚Æ‚µ‚ÄccB‚Ç‚¤‚¹‚È‚ç[r]
-RŠİ‚³‚ñ‚Æ‚à“¯‚¶ƒNƒ‰ƒX‚É‚È‚ê‚Îccv[pcms]
+[ns]Kato[nse]
+... Well, let's set Shinya aside for now...[l][er]
+If only I could be in the same class as Yamagishi-san too...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_07"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2061|
 [fc]
 [vo_sa s="sae0355"]
-[ns]²”Œ[nse]
-u‚Óccv[pcms]
+[ns]Saeki[nse]
+Hmph...[pcms]
 
 *4823|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ç‚¤‚µ‚½‚ñ‚¾‚æA‚È‚É“{‚Á‚Ä‚ñ‚¾‚æv[pcms]
+[ns]Kato[nse]
+What's wrong? Why are you angry?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2062|
 [fc]
 [vo_sa s="sae0356"]
-[ns]²”Œ[nse]
-u•Ê‚ÉA“{‚Á‚Ä‚È‚Ç‚¢‚Ü‚¹‚ñv[pcms]
+[ns]Saeki[nse]
+It's not like I'm angry or anything.[pcms]
 
 *4824|
 [fc]
-²”Œ‚Í‰´‚©‚ç–Ú‚ğ”½‚ç‚µA‰½‚©l‚¦‚Ş—l‚È•\î‚É‚È‚Á[r]
-‚½B[pcms]
+Saeki averted her gaze from me and her expression became[r]thoughtful, as if she was lost in thought.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:í“¬‹@‚ª”ò‚ñ‚Å‚¢‚­‰¹
+;//SE:æˆ¦é—˜æ©ŸãŒé£›ã‚“ã§ã„ãéŸ³
 [se0 storage="se017"]
 
 *4825|
 [fc]
-[ns]‰Á“¡[nse]
-u•Ï‚Èƒ„ƒcccB‚ñccHv[pcms]
+[ns]Kato[nse]
+What a weirdo... Hm...?[pcms]
 
 *4826|
 [fc]
-Œ‰¹‚Å˜L‰º‚Ì‘‹ƒKƒ‰ƒX‚ğk‚í‚¹‚È‚ª‚çA”òs‹@‚ªZÉ‚Ì[r]
-ã‚ğ”ò‚ñ‚Å‚¢‚Á‚½B[pcms]
+The airplane flew over the school building, shaking the[r]windows of the hallway with a thunderous noise.[pcms]
 
 *4827|
 [fc]
-‚Ü‚¾ŒP—û‚â‚Á‚Ä‚é‚Ì‚©ccBŒRl‚â‚é‚Ì‚àƒ‰ƒN‚¶‚á‚È‚¢[r]
-‚ñ‚¾‚È[ccB[pcms]
+Are they still doing training...?[l][er]
+Being a soldier isn't easy, huh...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_03"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2063|
 [fc]
 [vo_sa s="sae0357"]
-[ns]²”Œ[nse]
-u–{“–‚É‰½‚È‚Ì‚Å‚µ‚å‚¤‚ËA‚±‚Ì”òs‹@‚Ì‰¹ccv[pcms]
+[ns]Saeki[nse]
+I wonder what's the deal with this airplane noise...[pcms]
 
 *4828|
 [fc]
-[ns]‰Á“¡[nse]
-u^–ç‚ªŒ¾‚Á‚Ä‚½‚Ì‚ª³‰ğ‚¶‚á‚È‚¢‚Ì‚©H@–éŠÔŒP—û‚Á[r]
-‚Ä‚â‚Âv[pcms]
+[ns]Kato[nse]
+Isn't what Shinya said the correct answer?[l][er]
+The night training thing.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2064|
 [fc]
 [vo_sa s="sae0358"]
-[ns]²”Œ[nse]
-u‚Å‚àA‚ ‚Ü‚è‚É•s©‘R‚¾‚Æ‚Ív‚¢‚Ü‚¹‚ñ‚©H@‚±‚ñ‚È[r]
-–é’†‚ÉŒP—û‚¾‚È‚ñ‚ÄccB‚»‚Ì—l‚È‚±‚ÆA–{“–‚É—L‚è“¾[r]
-‚é‚Ì‚Å‚µ‚å‚¤‚©ccv[pcms]
+[ns]Saeki[nse]
+But, don't you think it's too unnatural?[l][er]
+Training in the middle of the night like this...[l][er]
+Is it really possible for something like that to happen...?[pcms]
 
 *4829|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¤[‚ñcc‚Å‚à‚Ü‚ŸAl‚¦‚½‚Á‚Ä‚µ‚å‚¤‚ª‚È‚¢‚Æv‚¤[r]
-‚ºH@‚Ç‚¤‚¹‰´’Bˆê”Ês–¯‚É‚ÍA–{“–‚Ì‚±‚Æ‚È‚ñ‚Ä‚í‚©[r]
-‚ç‚È‚¢‚ñ‚¾‚©‚ç‚³v[pcms]
+[ns]Kato[nse]
+Hmm... Well, I don't think it's worth thinking about, you[r]know?[l][er]
+After all, us ordinary citizens wouldn't really know the[r]truth anyway.[pcms]
+[l][er]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2065|
 [fc]
 [vo_sa s="sae0359"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
-;//¦ğŒ•ªŠò
-;//Eflag:“µƒ‹[ƒgƒNƒŠƒA@‚ªOFF;//[05100]‚Ö
-;//Eflag:“µƒ‹[ƒgƒNƒŠƒA@‚ªON;//[06000]‚Ö
+;//â€»æ¡ä»¶åˆ†å²
+;//ãƒ»flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒOFF;//[05100]ã¸
+;//ãƒ»flag:ç³ãƒ«ãƒ¼ãƒˆã‚¯ãƒªã‚¢ã€€ãŒON;//[06000]ã¸
 
 [if exp="sf.g_hitomi_clear==1"]
 	;[jump target=*SEL00_05090_END]

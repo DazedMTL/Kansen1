@@ -1,12 +1,12 @@
 
-;//¡ËƒuƒƒbƒN07250wÚ•«x
-;//BG;’n‰ººFÁ“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07250ã€æ¥å»ã€
+;//BG;åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *07250_H_TOP
-;[debug_win]‚È‚¤@07250_H[debug_win_end]
+;[debug_win]ãªã†ã€€07250_H[debug_win_end]
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 ;[if exp="tf.scene_mode == 0"][jump target=*07250][endif]
 ;[winset]
 
@@ -15,9 +15,9 @@
 
 
 
-;//’¼‘O‚Ìƒtƒ@ƒCƒ‹‚©‚çŒp‘±‚µ‚Ä‚¢‚éî•ñ‚Ìd‚İ
+;//ç›´å‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰ç¶™ç¶šã—ã¦ã„ã‚‹æƒ…å ±ã®ä»•è¾¼ã¿
 
-;//BGMEƒ‹[ƒvÄ¶
+;//BGMãƒ»ãƒ«ãƒ¼ãƒ—å†ç”Ÿ
 ;//[bgm008]
 
 [bgm010]
@@ -28,17 +28,17 @@
 
 ;;;[sysbt_meswin]
 
-;//’¼‘O‚Ìd‚İ‚ğ‚±‚ê‚ÅI‚í‚éB
-;//‚±‚±‚æ‚è–{•Ò
+;//ç›´å‰ã®ä»•è¾¼ã¿ã‚’ã“ã‚Œã§çµ‚ã‚ã‚‹ã€‚
+;//ã“ã“ã‚ˆã‚Šæœ¬ç·¨
 
 *07250
 
-;*SceneSet|wÚ•«x
+;*SceneSet|ã€æ¥å»ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07250 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07250 = 1"]
 
 ;	/*
-;	;//ôFBGM010
+;	;//â™ªï¼šBGM010
 ;	[bgm010]
 ;	
 ;	;//;//BG:bg23b
@@ -52,213 +52,201 @@
 
 *7694|
 [fc]
-‰Ä‚¾‚ÆŒ¾‚¤‚Ì‚É”§Š¦‚¢’n‰ºº‚Ì’†‚ÅA‰´’B‚Í•ª’·‚­•ø[r]
-‚«‡‚Á‚Ä‚¢‚½B[pcms]
+Even though it's summer, we were embracing each other for a[r]long time in the chilly basement.[pcms]
 
 *7695|
 [fc]
-‰½‚©‚ğ˜b‚·‚Å‚à‚È‚­cc‚»‚ê‚ÉA–Ú‚à‡‚í‚¹‚¸‚ÉccB[pcms]
+Without saying anything... and without even making eye[r]contact...[pcms]
 
-;//SE:—â‘ ŒÉ‚Ìƒ‚[ƒ^[‚Ì‰¹
+;//SE:å†·è”µåº«ã®ãƒ¢ãƒ¼ã‚¿ãƒ¼ã®éŸ³
 [se0 storage="se044"]
 
 *7696|
 [fc]
-“Ë‘R–Â‚è‹¿‚¢‚½—â‘ ŒÉ‚Ìƒ‚[ƒ^[‰¹‚ª‡}‚É‚µ‚½‚æ‚¤‚ÉA[r]
-²”Œ‚ªŒû‚ğŠJ‚­B[pcms]
+As if the sudden sound of the refrigerator motor ringing out[r]was a signal, Saeki opens her mouth.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3065|
 [fc]
 [vo_sa s="sae0923"]
-[ns]²”Œ[nse]
-u‚ ‚Ìccv[pcms]
+[ns]Saeki[nse]
+Um...[pcms]
 
 *7697|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ñccHv[pcms]
+[ns]Kato[nse]
+Hmm...?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3066|
 [fc]
 [vo_sa s="sae0924"]
-[ns]²”Œ[nse]
-u„‚àcc‚µ‚Ä‚İ‚½‚¢cc‚Å‚·ccv[pcms]
+[ns]Saeki[nse]
+I... want to try it too...[pcms]
 
 *7698|
 [fc]
-Á‚¦“ü‚é—l‚Èº‚Å²”Œ‚ª™ê‚¢‚½B‚»‚ÌŠç‚ÍA”M‚Å‚à‚ ‚é[r]
-‚©‚Ì—l‚É^‚ÁÔ‚ÅA¬‚³‚­Œ¨‚ğk‚í‚¹‚Ä‚¢‚½B[pcms]
+Saeki murmured in a voice that seemed to disappear.[l][er]
+Her face was as red as if she had a fever, and she was[r]trembling slightly, her shoulders shaking.[pcms]
 
 *7699|
 [fc]
-[ns]‰Á“¡[nse]
-u‚¦ccv[pcms]
+[ns]Kato[nse]
+Eh...[pcms]
 
 *7700|
 [fc]
-‚±‚ñ‚È‚ÉÃ‚©‚È•”‰®‚È‚Ì‚ÉAŠX•·‚«æ‚ê‚È‚©‚Á‚½B[r]
-•·‚«•Ô‚»‚¤‚Æ‚µ‚½–îæA²”Œ‚ÌŒû‚©‚ç¨‚¢‚æ‚­Œ¾—t‚ª”ò[r]
-‚Ño‚µ‚Ä‚«‚½B[pcms]
+In such a quiet room, there were parts that I couldn't hear[r]clearly.[l][er]
+Just as I was about to ask her to repeat, words burst out[r]forcefully from Saeki's mouth.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3067|
 [fc]
 [vo_sa s="sae0925"]
-[ns]²”Œ[nse]
-u„‚àccƒLƒXA‚µ‚Ä‚İ‚½‚¢‚ñ‚Å‚·ƒbIv[pcms]
+[ns]Saeki[nse]
+I... I want to try kissing too![pcms]
 
 *7701|
 [fc]
-[ns]‰Á“¡[nse]
-u‚Ècc‰½‚ğ‚¢‚«‚È‚èccIHv[pcms]
+[ns]Kato[nse]
+W-What are you suddenly...!?[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3068|
 [fc]
 [vo_sa s="sae0926"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñIIv[pcms]
+[ns]Saeki[nse]
+Kato-san!![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *7702|
 [fc]
-²”Œ‚ª–Ú‚ğ•Â‚¶‚ÄA¨‚¢‚æ‚­‰´‚ÌŒû‚É‹z‚¢•t‚¢‚Ä‚«‚ÄA[r]
-‚¨‚à‚Ş‚ë‚Éã‚ª‚Ë‚¶‚Ü‚ê‚éBRŠİ‚³‚ñ‚É‚³‚ê‚½—l‚ÉA[r]
-‚Ü‚½‚µ‚Ä‚àA“Ë‘RƒLƒX‚³‚ê‚Ä‚µ‚Ü‚Á‚½B[pcms]
+Saeki closed her eyes and forcefully pressed her lips[r]against mine, and her tongue was inserted forcefully.[l][er]
+Just like what happened with Yamagishi-san, I was suddenly[r]kissed once again.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3069|
 [fc]
 [vo_sa s="sae0927"]
-[ns]²”Œ[nse]
-u‚ñcc‚ñ‚Óccv[pcms]
+[ns]Saeki[nse]
+Mmm... nfu...[pcms]
 
 *7703|
 [fc]
-‰´‚Í‹Á‚«‚©‚çA²”Œ‚Í‹Ù’£‚©‚ç‚©A‚¨Œİ‚¢g‘Ì‚ª‹­‚Î‚Á[r]
-‚Ä‚µ‚Ü‚Á‚Ä‚¢‚½B[pcms]
+I was surprised, and Saeki seemed to be tense, so both of[r]our bodies became stiff.[pcms]
 
 *7704|
 [fc]
-‚Å‚àA‘Šè‚ª²”Œ‚¾‚Á‚½‚¹‚¢‚©A‚»‚Ì‹Ù’£‚Í‚·‚®‚É‰ğ‚¯[r]
-‚ÄA‰´‚àŒû‚ğ‹‚ß•Ô‚·B[pcms]
+But perhaps because it was Saeki, the tension quickly[r]dissipated, and I also returned her kiss.[pcms]
 
 *7705|
 [fc]
-RŠİ‚³‚ñ‚Ì‚Æˆá‚Á‚ÄA‹Á‚«‚Í‚·‚®‚ÉÁ‚¦A²”Œ‚ğ‹‚ß[r]
-‚Ä‚¢‚é©•ª‚É‹C‚ª•t‚¢‚½B[pcms]
+Unlike with Yamagishi-san, the surprise quickly faded away,[r]and I realized that I was yearning for Saeki.[pcms]
 
 *7706|
 [fc]
-‰´‚ÍccB[pcms]
+I...[pcms]
 
 *7707|
 [fc]
-–{“–‚ÍRŠİ‚³‚ñ‚æ‚èA²”Œ‚Ì–‚ªD‚«‚È‚ñ‚¾B[pcms]
+Actually, I like Saeki more than Yamagishi-san.[pcms]
 
 *7708|
 [fc]
-‚«‚Á‚ÆA‚»‚¤‚¾‚Á‚½‚ñ‚¾B[pcms]
+I'm sure, that's how it was.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3070|
 [fc]
 [vo_sa s="sae0928"]
-[ns]²”Œ[nse]
-u‚ñ‚ñ‚ÁccA‚ñ‚Ÿ‚ ccA‚Á‚Í‚Ÿccv[pcms]
+[ns]Saeki[nse]
+Nn... ah... haa...[pcms]
 
 *7709|
 [fc]
-²”Œ‚Í—Ü‚®‚İ‚È‚ª‚çA‰´‚ÉŒû‚Ã‚¯‚µ‚Ä‚¢‚éB[r]
-‘S‘RAˆ«‚¢‹C‚Í‚µ‚È‚¢B[pcms]
+Saeki is kissing me while tears well up in her eyes.[l][er]
+I don't feel bad at all.[pcms]
 
 *7710|
 [fc]
-‚Ş‚µ‚ëccB[r]
-‚±‚Ì‚Ü‚Ü’‚‘§‚·‚é‚Ü‚ÅA²”Œ‚ÆO‚ğd‚Ë‚Ä‚¢‚½‚¢B[r]
-‚¸‚Á‚Æcc‚±‚Ì‚Ü‚ÜccB[pcms]
+Rather... I want to keep pressing my lips against Saeki's[r]until I suffocate.[l][er]
+Forever... just like this...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3071|
 [fc]
 [vo_sa s="sae0929"]
-[ns]²”Œ[nse]
-u‚ñ‚ŸccA‚Ó‚Ÿ‚Ÿ‚Ÿ‚Ÿccv[pcms]
+[ns]Saeki[nse]
+Nngh... fuaaaa...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3072|
 [fc]
 [vo_sa s="sae0930"]
-[ns]²”Œ[nse]
-ucc‰Á“¡A‚³‚ñcc‚à‚Á‚ÆccƒLƒX‚µ‚Ä‚­‚¾‚³‚¢ccv[pcms]
+[ns]Saeki[nse]
+... Kato-san... please... kiss me more...[pcms]
 
 *7711|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ ccB‚ñccv[pcms]
+[ns]Kato[nse]
+Ah... Nn...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *7712|
 [fc]
-‚à‚Á‚Æ²”Œ‚ğŠ´‚¶‚½‚¢A‚»‚ÌˆêS‚©‚çA²”Œ‚Ìg‘Ì‚ğˆø[r]
-‚«Šñ‚¹—D‚µ‚­•ø‚«‚µ‚ß‚½B[pcms]
+I wanted to feel more of Saeki, so with that single-minded[r]desire, I pulled Saeki's body closer and gently embraced[r]her.[pcms]
 
 *7713|
 [fc]
-‰´‚à²”Œ‚àA“Ë‘RƒLƒX‚µ‚½–‚È‚ñ‚©–Y‚ê‚Ä‚µ‚Ü‚Á‚½‚İ‚½[r]
-‚¢‚ÉA‚¨Œİ‚¢‚ğ‹‚ß‡‚Á‚½B‚»‚Ìg‘Ì‚ÍA”M‚Å‚à‚ ‚é‚©[r]
-‚Ì—l‚É”M‚©‚Á‚½B[pcms]
+Both Saeki and I, as if we had forgotten about the sudden[r]kiss, yearned for each other.[l][er]
+Our bodies were hot, as if they were on fire.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3073|
 [fc]
 [vo_sa s="sae0931"]
-[ns]²”Œ[nse]
-u‚ñ‚Ácc‚ÍA‚Ócc‚ñ‚Şccv[pcms]
+[ns]Saeki[nse]
+Nn... ha, fu... nmu...[pcms]
 
 *7714|
 [fc]
-²”Œ‚ÌO‚ÆAŠÃ‚¢“f‘§‚Å‹»•±‚µ‚Ä‚µ‚Ü‚Á‚½‰´‚Ìè‚ÍA‚¢[r]
-‚Â‚ÌŠÔ‚É‚©‚»‚Ì_‚ç‚©‚»‚¤‚È‹¹‚É‹z‚¢‚Ü‚ê‚é‚æ‚¤‚É“®[r]
-‚¢‚Ä‚¢‚½B[pcms]
+My hand, excited by Saeki's lips and sweet breath, moved as[r]if being sucked into her soft-looking chest without me even[r]realizing it.[pcms]
 
 ;	/*
 ;	[ChrSetEx layer=1 chbase="sae_c_a_01"]
@@ -267,93 +255,88 @@
 ;	[trans_c cross time=150]
 ;	*/
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3074|
 [fc]
 [vo_sa s="sae0932"]
-[ns]²”Œ[nse]
-u‚Ó‚Ÿ‚ŸccA‰Á“¡A‚³‚ñccv[pcms]
+[ns]Saeki[nse]
+Fuaa... Kato-san...[pcms]
 
-;//SE:S”‰¹
+;//SE:å¿ƒæ‹éŸ³
 [se0 storage="se003"]
 
 *7717|
 [fc]
-è‚ğ“–‚Ä‚½‹¹‚©‚çA²”Œ‚ÌŒÛ“®‚Æk‚¦‚ª“`‚í‚Á‚Ä‚­‚éB[pcms]
+I could feel Saeki's heartbeat and trembling coming from the[r]chest where I placed my hand.[pcms]
 
 *7718|
 [fc]
-cc‹Ù’£‚µ‚Ä‚¢‚é‚ñ‚¾‚ë‚¤B‰´‚É‚±‚ñ‚È–‚³‚ê‚é‚È‚ñ‚ÄA[r]
-v‚Á‚Ä‚à‚¢‚È‚©‚Á‚½‚¾‚ë‚¤‚©‚çB[r]
-‚»‚ê‚àA‚±‚ñ‚È‚É“Ë‘R‚ÉB[pcms]
+... You must be nervous. You probably never expected[r]something like this to happen to you, especially not from[r]me.[l][er]
+And so suddenly, too.[pcms]
 
 *7719|
 [fc]
-²”Œ‚Ì_‚ç‚©‚¢O‚ªA‰´‚ÌO‚ğ—D‚µ‚­‚È‚¼‚éB[pcms]
+Saeki's soft lips gently trace my lips.[pcms]
 
 *7720|
 [fc]
-²”Œ‚ÌOcc_‚ç‚©‚¢‹¹ccŠÃ‚¢“õ‚¢ccB[pcms]
+Saeki's lips... soft chest... sweet scent...[pcms]
 
 *7721|
 [fc]
-‰´‚Ì—«‚Í‚à‚¤A‚Ç‚±‚©‚É”ò‚ñ‚Å‚¢‚Á‚Ä‚µ‚Ü‚¢‚»‚¤‚¾‚Á‚½B[pcms]
+My reason seemed to have flown away somewhere.[pcms]
 
 *7722|
 [fc]
-‡‚í‚¹‚½‚Ü‚Ü‚¾‚Á‚½Œû‚ğA‚ä‚Á‚­‚èˆø‚«—£‚µ‚ÄA²”Œ‚É[r]
-Œê‚è‚©‚¯‚éB[r]
-²”Œ‚Ì–Ú‚ÍA—Ü‚Å‚ñ‚Å‚¢‚½B[pcms]
+I slowly pulled my lips away from hers that were still[r]pressed together, and spoke to Saeki.[l][er]
+Her eyes were filled with tears.[pcms]
 
 *7723|
 [fc]
-[ns]‰Á“¡[nse]
-u²”Œccv[pcms]
+[ns]Kato[nse]
+Saeki...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3075|
 [fc]
 [vo_sa s="sae0933"]
-[ns]²”Œ[nse]
-u‘±‚¯‚ÄA‚­‚¾‚³‚¢cc‰Á“¡‚³‚ñ‚È‚çcc‘S‘RAŒ™‚Å‚Í[r]
-‚È‚¢‚Å‚·‚©‚çccv[pcms]
+[ns]Saeki[nse]
+Please continue... Kato-san...[l][er]
+I don't mind at all...[pcms]
 
 *7724|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚ ‚ cc‚¶‚á‚ A‚±‚Ì‚Ü‚Üccv[pcms]
+[ns]Kato[nse]
+Ah, ah... Then, like this...[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *7725|
 [fc]
-²”Œ‚ÌŒ¾—t‚ÉA‰´‚Ì’†‚Ì‰½‚©‚É‰Î‚ª‚Â‚¢‚½—l‚É‚È‚Á‚ÄA[r]
-§•‚Ìƒ{ƒ^ƒ“‚ğ—–\‚É‚Í‚¸‚·B[pcms]
+Saeki's words ignited something within me, causing me to[r]hastily unbutton her school uniform.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3076|
 [fc]
 [vo_sa s="sae0934"]
-[ns]²”Œ[nse]
-uccII@‰Á“¡‚³‚ñccv[pcms]
+[ns]Saeki[nse]
+...!! Kato-san...[pcms]
 
 *7726|
 [fc]
-‰´‚ª§•‚Ìƒ{ƒ^ƒ“‚ğ‚Í‚¸‚µn‚ß‚é‚ÆA[r]
-²”Œ‚Í‚·‚±‚µ‹Á‚¢‚½B[pcms]
+Saeki seemed a little surprised as I started unbuttoning her[r]school uniform.[pcms]
 
 *7727|
 [fc]
-‚Å‚à‚·‚®‚É—D‚µ‚¢Šç‚É‚È‚Á‚ÄAŒ™‚ª‚é—lq‚à–³‚­‚¶‚Á‚Æ[r]
-“®‚©‚¸‚É‚¢‚½B[pcms]
+But she quickly put on a gentle expression and stayed still[r]without showing any signs of resistance.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -362,30 +345,28 @@
 
 *7728|
 [fc]
-’p‚¶‚ç‚¤²”Œ‚ªA—]‚è‚É‚à–£—Í“I‚ÉŒ©‚¦‚ÄA[r]
-‰´‚Í§•‚ğ’E‚ª‚»‚¤‚Æ‚µ‚½è‚ğ~‚ß‚ÄA[r]
-Œ©‚Æ‚ê‚Ä‚µ‚Ü‚Á‚Ä‚¢‚½B[pcms]
+Saeki, who was blushing, looked so charming that I couldn't[r]help but stop my hands from undressing her school uniform[r]and became captivated by her.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3077|
 [fc]
 [vo_sa s="sae0935"]
-[ns]²”Œ[nse]
-u‚â‚ŸccA‚»‚ñ‚È‚ÉŒ©‚Â‚ß‚È‚¢‚Å‰º‚³‚¢ccv[pcms]
+[ns]Saeki[nse]
+Hey... please don't stare at me like that...[pcms]
 
 *7729|
 [fc]
-’p‚¶‚ç‚¢‚ğŠÜ‚ñ‚¾²”Œ‚Ìº‚ÉA–Ò—ó‚È«—~‚ª—N‚«ã‚ª‚Á[r]
-‚Ä‚­‚é‚Ì‚ğŠ´‚¶‚éB‚à‚Í‚â—«‚Í‚Ç‚±‚©‚ÉÁ‚¦‚Ä‚¢‚½B[pcms]
+I felt a fierce sexual desire welling up in response to[r]Saeki's voice, filled with shyness.[l][er]
+My rationality had completely disappeared somewhere.[pcms]
 
 *7730|
 [fc]
-‰´‚Í¨‚¢‚É”C‚¹‚Ä²”Œ‚ğ°‚É‰Ÿ‚µ“|‚µ‚Ä‚µ‚Ü‚Á‚Ä‚¢‚½B[pcms]
+I let my momentum take over and ended up pushing Saeki down[r]onto the bed.[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 
 [se0 storage="se021"]
 
@@ -398,40 +379,39 @@
 ;	[trans_c cross time=150]
 ;	*/
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3078|
 [fc]
 [vo_sa s="sae0936"]
-[ns]²”Œ[nse]
-u‚ ‚ÁIH@‰Á“¡A‚³‚ñIHv[pcms]
+[ns]Saeki[nse]
+Ah!? Kato-san!?[pcms]
 
 *7734|
 [fc]
-—–\‚É‚·‚é‚Â‚à‚è‚Í‘S‚­‚È‚©‚Á‚½‚Ì‚ÉAg‘Ì‚ªŒ¾‚¤‚±‚Æ[r]
-‚ğ‚«‚©‚È‚¢B[pcms]
+I had no intention of being rough, but my body wouldn't[r]listen.[pcms]
 
 *7735|
 [fc]
-w²”Œ‚Ì‘S‚Ä‚ğ‰´‚Ì•¨‚É‚µ‚½‚¢x[pcms]
+I want to make Saeki completely mine.[pcms]
 
 *7736|
 [fc]
-—}‚¦‚«‚ê‚È‚¢²”Œ‚Ö‚Ì‘z‚¢B[pcms]
+Uncontrollable feelings towards Saeki.[pcms]
 
 *7737|
 [fc]
-w‘z‚¢x‚æ‚è‚àcc”Æ‚µ‚½‚¢ccB[pcms]
+I want to violate you... more than just my feelings.[pcms]
 
 *7738|
 [fc]
-ˆÙí‚Èl‚¦‚¾‚Æ‚¢‚¤‚±‚Æ‚Í•ª‚©‚Á‚Ä‚¢‚éB[pcms]
+I understand that it's an abnormal thought.[pcms]
 
 *7739|
 [fc]
-‚µ‚©‚µ‰´‚Í‚¢‚Â‚µ‚©A²”Œ‚Ìg‘Ì‚ğ‹‚ßn‚ß‚Ä‚¢‚½B[pcms]
+However, before I knew it, I had started to desire Saeki's[r]body.[pcms]
 
-;//[07260]‚Ö
+;//[07260]ã¸
 [jump target=*07260_H_TOP storage="07260_H.ks"]
 
 

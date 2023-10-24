@@ -1,20 +1,20 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02127wƒŠƒT‚ÌÔx‰‰
-;//BG:“ñŠK˜L‰ºFƒoƒŠƒP[ƒhF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöEƒŠƒT
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥[pcms]
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02127ã€ãƒªã‚µã®è»Šã€â™‚â™‚
+;//BG:äºŒéšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ãƒªã‚µ
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼[l][er]
 
 *02127_TOP
-;[debug_win]‚È‚¤@02127[debug_win_end]
+;[debug_win]ãªã†ã€€02127[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02127 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02127 = 1"]
 
-;*SceneSet|wƒŠƒT‚ÌÔx
+;*SceneSet|ã€ãƒªã‚µã®è»Šã€
 
-;//ôFBGM003
+;//â™ªï¼šBGM003
 
 [bgm003]
 
@@ -27,57 +27,53 @@
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v958|
 [fc]
 [vo_ri s="risa0302"]
-[ns]V“¹[nse]
-u‚·‚®‚»‚±‚ÌŠK’i‚ğ‰º‚è‚ÄAEˆõŒºŠÖ‚©‚çŠO‚Öo‚Ü‚µ‚å[r]
-‚¤BZÉ“à‚ğ’Ê‚é‚Ì‚ÍŠëŒ¯‚©‚à‚µ‚ê‚È‚¢‚¯‚ê‚ÇA‚»‚ê‚ª[r]
-ˆê”ÔA„‚ÌÔ‚Ü‚Å‘‚­s‚¯‚é‚ív[pcms]
+[ns]Shindou[nse]
+Let's go down the stairs right over there and exit through[r]the staff entrance.[l][er]
+It might be dangerous to go through the school building, but[r]that's the fastest way to get to my car.[pcms]
 
 *2423|
 [fc]
-‰´‚Í–h‰Î”à‚ğ­‚µã‚°‚ÄŠç‚ğo‚µAŒü‚±‚¤‚Ì—lq‚ğ[r]
-‰M‚Á‚½B[pcms]
+I raised the fire door a little and peeked my face out to[r]see what was happening on the other side.[pcms]
 
 *2424|
 [fc]
-[ns]‰Á“¡[nse]
-u’N‚à‚¢‚È‚¢‚İ‚½‚¢‚Å‚·v[pcms]
+[ns]Kato[nse]
+It looks like there's no one here.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v959|
 [fc]
 [vo_ri s="risa0303"]
-[ns]V“¹[nse]
-u‚Å‚ÍA¡‚Ì‚¤‚¿‚És‚«‚Ü‚µ‚å‚¤v[pcms]
+[ns]Shindou[nse]
+Well then, let's go now while we have the chance.[pcms]
 
 *2425|
 [fc]
-æ‚Éo‚½V“¹æ¶‚ğ’Ç‚Á‚ÄAŠO‚Öo‚æ‚¤‚Æ‚µ‚½ARŠİ[r]
-‚³‚ñ‚ªS”z‚»‚¤‚Éº‚ğ‚©‚¯‚Ä‚«‚½B[pcms]
+When I tried to follow Shindou-sensei who had already left[r]and go outside, Yamagishi-san called out to me with a[r]worried expression.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_b_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v960|
 [fc]
 [vo_ya s="yama0302"]
-[ns]RŠİ[nse]
-u‹C‚ğ‚Â‚¯‚Ä‚ËA‰Á“¡ŒNccv[pcms]
+[ns]Yamagishi[nse]
+Be careful, Kato-kun...[pcms]
 
 *2426|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚Æ‚¿‚å‚Á‚Æ‚Å‚±‚±‚©‚ço‚ç‚ê‚é‚©‚çA‚à‚¤­‚µ‘Ò‚Á[r]
-‚Ä‚Äv[pcms]
+[ns]Kato[nse]
+We can get out from here in just a little bit, so please[r]wait a little longer.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
@@ -85,13 +81,12 @@
 
 *2427|
 [fc]
-•sˆÀ‚°‚ÈRŠİ‚³‚ñ‚ÉÎ‚Á‚Ä‚»‚¤“š‚¦‚é‰´‚ÉA”Ş—‚Í“¯‚¶[r]
-‚æ‚¤‚ÉÎ‚Á‚Ä‚¤‚È‚¸‚¢‚Ä‚İ‚¹‚½B[pcms]
+In response to me smiling and answering Yamagishi-san, who[r]seemed uneasy, she smiled back and nodded in the same way.[pcms]
 
 *2428|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚ê‚¶‚áAs‚Á‚Ä‚­‚é‚Ëv[pcms]
+[ns]Kato[nse]
+Well then, I'll be off.[pcms]
 
 [ChrSetEx layer=1 chbase="take_a_e_06"]
 [ChrSetXY layer=1 x=100 y=0]
@@ -99,23 +94,21 @@
 
 *2429|
 [fc]
-‚»‚¤Œ¾‚Á‚Ä‚à‚¤ˆê“xU‚è•Ô‚Á‚½ARŠİ‚³‚ñ‚Ì”wŒã‚ÉA[r]
-”Ş—‚ğˆÃ‚¢–Ú‚ÅŒ©‚Â‚ß‚Ä‚¢‚é^–ç‚ª‚¢‚½B[pcms]
+When I said that and turned around again, behind Yamagishi-[r]san, there was Shinya looking at her with dark eyes.[pcms]
 
 *2430|
 [fc]
-^–ç‚Ì‚»‚Ì–Ú‚ª‹C‚É‚È‚Á‚½‚ªA‚»‚Ìê‚ÅƒOƒYƒOƒY‚µ‚Ä‚¢[r]
-‚é‚í‚¯‚É‚à‚¢‚©‚¸A‰´‚ÍŠK’i‚ğ‹ì‚¯‰º‚è‚Ä‚¢‚­V“¹æ¶[r]
-‚ğ’Ç‚Á‚½[pcms]
+I was curious about Shinya's eyes, but I couldn't just stand[r]there hesitating.[l][er]
+I chased after Shindou-sensei as he hurriedly went down the[r]stairs.[pcms]
 
-;//SE:˜L‰º‚ğ‘–‚é
+;//SE:å»Šä¸‹ã‚’èµ°ã‚‹
 
 [se0 storage="se005"]
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 [black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 
@@ -123,5 +116,5 @@
 
 ;//blackout
 
-;//[02128]‚Ö
+;//[02128]ã¸
 [jump target=*02128_TOP storage="02128.ks"]

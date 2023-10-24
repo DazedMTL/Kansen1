@@ -1,16 +1,16 @@
 
-;//¡ËƒuƒƒbƒN07240w•ïˆÍ2x
-;//BG:ŠwHF—[•ûGÁ“”
-;//BG;’n‰ººFÁ“”
-;//“oêl•¨GålŒöE“µ
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯07240ã€åŒ…å›²2ã€
+;//BG:å­¦é£Ÿï¼šå¤•æ–¹ï¼›æ¶ˆç¯
+;//BG;åœ°ä¸‹å®¤ï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»ç³
 
 *07240_TOP
-;[debug_win]‚È‚¤@07240[debug_win_end]
-;*SceneSet|w•ïˆÍ‚Qx
+;[debug_win]ãªã†ã€€07240[debug_win_end]
+;*SceneSet|ã€åŒ…å›²ï¼’ã€
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_07240 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_07240 = 1"]
 
-;//ôFBGM007
+;//â™ªï¼šBGM007
 
 [bgm007]
 
@@ -25,32 +25,29 @@
 
 *7648|
 [fc]
-ƒ„ƒc‚ç‚Æ‘˜‹ö‚·‚é‚±‚Æ‚à‚È‚­A“ï‚È‚­ŠwH‚Ü‚Å‚½‚Ç‚è’…[r]
-‚­–‚ªo—ˆ‚½B[pcms]
+I was able to reach the school cafeteria without any[r]difficulty, without encountering those guys.[pcms]
 
 *7649|
 [fc]
-•”‰®‚Ì’†‚ÍA–Ú‚ª’É‚­‚È‚é’ö‚Ì—[“ú‚ª·‚µ‚İA—Ç‚­Œ©[r]
-“n‚¹‚È‚©‚Á‚½‚¯‚ÇA‰´’BˆÈŠO‚Ì‹C”z‚Í‚È‚©‚Á‚½B[pcms]
+The room was filled with a sunset so dazzling it made my[r]eyes hurt, and I couldn't see well, but there was no sign of[r]anyone other than us.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3051|
 [fc]
 [vo_sa s="sae0909"]
-[ns]²”Œ[nse]
-u—Ç‚©‚Á‚½cc‚±‚±‚É‚Í‚Ü‚¾A’N‚à—ˆ‚Ä‚¢‚È‚¢‚æ‚¤‚Å‚·[r]
-‚Ëccv[pcms]
+[ns]Saeki[nse]
+Thank goodness... It seems like no one has come here yet...[pcms]
 
 *7650|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤‚¾‚ÈA‚³‚Á‚³‚Æ‰º‚É‰B‚ê‚æ‚¤‚ºv[pcms]
+[ns]Kato[nse]
+Yeah, let's quickly hide downstairs.[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -68,203 +65,192 @@
 
 *7651|
 [fc]
-‚³‚Á‚«—ˆ‚½‚ÍAq‹Ÿ‚Ì ‚Éì‚Á‚Ä—V‚ñ‚¾”é–§Šî’n‚ğv[r]
-‚¢o‚µ‚ÄŠy‚µ‚©‚Á‚½‚Ì‚ÉA¡‚Íˆá‚¤B[pcms]
+When I came here earlier, it reminded me of the secret base[r]I used to make and play in when I was a child, and it was[r]fun.[l][er]
+But now, it's different.[pcms]
 
 *7652|
 [fc]
-–ó‚Ì•ª‚©‚ç‚È‚¢ƒ„ƒc‚ç‚É’Ç‚¢‰ñ‚³‚ê‚ÄA‚â‚Ş‚È‚­“¦‚°[r]
-‚ñ‚¾‚¾‚¯‚ÅAŠy‚µ‚­‚à‰½‚Æ‚à‚È‚¢B[pcms]
+I was chased by those incomprehensible guys and ended up[r]running away, so it's not fun at all.[pcms]
 
 *7653|
 [fc]
-[ns]‰Á“¡[nse]
-u’†‚©‚çŒ®‚ª‚©‚¯‚ç‚ê‚é”à‚Å—Ç‚©‚Á‚½ccB‚±‚ê‚ÅAæ[r]
-‚è‚ ‚¦‚¸‚ÍˆÀS‚¾‚Èv[pcms]
+[ns]Kato[nse]
+It's good that there's a door that can be locked from the[r]inside...[l][er]
+With this, we can at least feel safe for now.[pcms]
 
 *7654|
 [fc]
-•ÇÛ‚É˜‚ğ‰º‚ë‚·‚ÆA²”Œ‚ª‰´‚É‹ßŠñ‚Á‚Ä‚«‚ÄA•Ç‚É”w[r]
-’†‚ğ•t‚¯‚½‚Ü‚ÜAƒYƒ‹ƒYƒ‹‚·‚×‚é‚æ‚¤‚É‚»‚Ìê‚É‚µ‚á‚ª[r]
-‚İ‚ñ‚¾B[pcms]
+Saeki approached me as I sat down against the wall, and[r]while keeping her back against the wall, she slid down to[r]squat on the spot.[pcms]
 
 *7655|
 [fc]
-‚±‚±‚Ü‚Å‚­‚ê‚Î‘åä•v‚¾ccB[pcms]
+If we've made it this far, we should be safe...[pcms]
 
 *7656|
 [fc]
-[ns]‰Á“¡[nse]
-u”à‚ğ‰½‚©‚Åƒuƒb‰ó‚³‚È‚¢ŒÀ‚èA’N‚à’†‚É“ü‚Á‚Ä‚±‚ê‚È[r]
-‚¢‚¾‚ëBæ‚è‚ ‚¦‚¸A–¾“ú‚Ü‚Å‚±‚±‚É‚¢‚æ‚¤‚ºv[pcms]
+[ns]Kato[nse]
+Unless someone breaks down the door, no one can come in.[l][er]
+Let's stay here until tomorrow for now.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_a_01"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_a_02"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3052|
 [fc]
 [vo_sa s="sae0910"]
-[ns]²”Œ[nse]
-u‚Í‚¢ccv[pcms]
+[ns]Saeki[nse]
+Yes...[pcms]
 
 *7657|
 [fc]
-™ê‚­‚æ‚¤‚É“š‚¦‚ÄA²”Œ‚Í‘å‚«‚¢—­‘§‚ğ‚Â‚«A•ø‚¦‚½•G[r]
-‚ÉŠç‚ğ–„‚ß‚ÄAŒ¾—t‚ğ‘±‚¯‚éB[pcms]
+Saeki answered in a murmuring voice, let out a deep sigh,[r]buried her face in her knees, and continued speaking.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3053|
 [fc]
 [vo_sa s="sae0911"]
-[ns]²”Œ[nse]
-uccV“¹æ¶‚ª‹³‚¦q‚ğ‘Šè‚ÉA‚ ‚ñ‚È‚±‚Æ‚ğ‚·‚é‚È[r]
-‚ñ‚Äcc‚»‚ê‚ÉARŠİ‚³‚ñ‚àccv[pcms]
+[ns]Saeki[nse]
+... For Shindou-sensei to do such a thing with his[r]student...[l][er]
+And Yamagishi-san too...[pcms]
 
 *7658|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚Ì‚¨‚©‚µ‚È“z‚ç‚ÉƒŒƒCƒv‚³‚ê‚é‚ÆA‚ ‚ñ‚È•—‚É‚È‚é[r]
-‚Æ‚©‚Á‚Äƒ‰ƒWƒI‚ÅŒ¾‚Á‚Ä‚½‚¯‚ÇA‰½‚È‚ñ‚¾‚ë‚¤‚ÈccB[r]
-Œ³‚É–ß‚·•û–@‚à‚È‚¢‚Á‚Ä‚¢‚¤‚µccv[pcms]
+[ns]Kato[nse]
+On the radio, they were saying that if you get raped by[r]those weird guys, you'll end up like that...[l][er]
+I wonder what that's all about...[l][er]
+And they said there's no way to go back to normal...[pcms]
 
 *7659|
 [fc]
-‚»‚¤Œ¾‚Á‚Ä‰´‚ª—­‘§‚ğ‚Â‚­‚ÆA²”Œ‚Í“Ë‘R“{‚èn‚ß‚½B[pcms]
+As I let out a sigh in response, Saeki suddenly started[r]getting angry.[pcms]
+[l][er]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_09"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3054|
 [fc]
 [vo_sa s="sae0912"]
-[ns]²”Œ[nse]
-u‚»‚ê‚ğ’m‚Á‚Ä‚¢‚È‚ª‚çA‰½ŒÌ‹M’j‚Í‚ ‚Ìê‚ÅA‚·‚®‚É[r]
-“¦‚°o‚³‚È‚©‚Á‚½‚Ì‚Å‚·‚©I@‚à‚µA‚ ‚Ì‚Ü‚ÜRŠİ‚³‚ñ[r]
-‚ÉP‚í‚ê‚Å‚à‚µ‚Ä‚¢‚½‚çccv[pcms]
+[ns]Saeki[nse]
+Even though you knew that, why didn't you run away[r]immediately from that place![l][er]
+If you had been attacked by Yamagishi-san at that time...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3055|
 [fc]
 [vo_sa s="sae0913"]
-[ns]²”Œ[nse]
-u‚à‚µ‚©‚µ‚½‚çA‹M’j‚àA”Ş—’B‚Ì—l‚É‚È‚Á‚Ä‚µ‚Ü‚Á‚½[r]
-‚©‚à’m‚ê‚È‚¢‚Ì‚Å‚·‚æI@‚»‚ê‚È‚Ì‚ÉA‚ ‚ñ‚Ècc–‚³[r]
-‚ê‚Äccv[pcms]
+[ns]Saeki[nse]
+Perhaps, you might have ended up like them too![l][er]
+And yet, you went through something like that...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3056|
 [fc]
 [vo_sa s="sae0914"]
-[ns]²”Œ[nse]
-u‹M’j‚Ü‚Å‚ ‚Ì—l‚É‚È‚Á‚Ä‚µ‚Ü‚Á‚½‚çccA„‚ÍA‚Ç‚¤[r]
-‚·‚ê‚Î‚¢‚¢‚Ì‚Å‚·‚©IH@‹M’j‚¾‚¯‚ª—Š‚è‚È‚Ì‚Écc‹M[r]
-’j‚¾‚¯‚ªccv[pcms]
+[ns]Saeki[nse]
+If even you were to end up like that...[l][er]
+what should I do?! You're the only one I can rely on...[l][er]
+only you...[pcms]
 
 *7660|
 [fc]
-[ns]‰Á“¡[nse]
-u²”Œccv[pcms]
+[ns]Kato[nse]
+Saeki...[pcms]
 
 *7661|
 [fc]
-ccŠm‚©‚É‚ ‚Ì‚Í‰´‚à‚¤‚Á‚©‚è‚µ‚Ä‚¢‚½B[pcms]
+... Indeed, I was careless at that time.[pcms]
 
 *7662|
 [fc]
-‚»‚ê‚ÉA²”Œ‚ÌŒ¾‚¤’Ê‚èA‚Ü‚Æ‚à‚È‚Ì‚Í‰´’B‚¾‚¯‚É‚È‚Á[r]
-‚Ä‚µ‚Ü‚Á‚½B²”Œ‚ğˆêl‚É‚·‚é–ó‚É‚àA‰´‚ªˆêl‚É‚È‚Á[r]
-‚Ä‚µ‚Ü‚¤–ó‚É‚à‚¢‚©‚È‚¢B[pcms]
+And as Saeki said, we're the only ones left who are normal.[l][er]
+I can't leave Saeki alone, and I can't be left alone either.[pcms]
 
 *7663|
 [fc]
-‰´‚ÍA²”Œ‚É–ñ‘©‚µ‚½‚ñ‚¾B‚¸‚Á‚Æ–T‚É‚¢‚é‚Á‚ÄccB[pcms]
+I promised Saeki that I would always be by her side...[pcms]
 
 *7664|
 [fc]
-‰´‚ª²”Œ‚ğç‚ç‚È‚­‚¿‚áccB‰´‚ªA‚µ‚Á‚©‚è‚µ‚È‚«‚á[r]
-‚¢‚¯‚È‚¢‚ñ‚¾B[pcms]
+I have to protect Saeki... I have to be strong.[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3057|
 [fc]
 [vo_sa s="sae0915"]
-[ns]²”Œ[nse]
-u‰Á“¡‚³‚ñIH@‚¿‚á‚ñ‚Æ’®‚¢‚Äccv[pcms]
+[ns]Saeki[nse]
+Kato-san!? Listen carefully...[pcms]
 
-;//SE;ƒKƒ‰ƒKƒ‰
+;//SE;ã‚¬ãƒ©ã‚¬ãƒ©
 [se0 storage="se024"]
 
 *7665|
 [fc]
-[ns]‰Á“¡[nse]
-uIIv[pcms]
+[ns]Kato[nse]
+!![pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_c_08"]
 [ChrSetXY layer=1 x=100 y=0]
 [ChrSetParts layer=1 chface="sae_c_c_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3058|
 [fc]
 [vo_sa s="sae0916"]
-[ns]²”Œ[nse]
-u‚ÈƒbccIv[pcms]
+[ns]Saeki[nse]
+Ngh...![pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *7666|
 [fc]
-“Ë‘R‚Ì•¨‰¹‚É‹Á‚¢‚½‰´‚ÍAv‚í‚¸²”Œ‚ÌŒ¨‚ğ•ø‚«AŒû‚ğ[r]
-‰Ÿ‚³‚¦‚½B[pcms]
+Startled by the sudden noise, I instinctively grabbed[r]Saeki's shoulder and covered her mouth.[pcms]
 
 *7667|
 [fc]
-”à‚ğ•Â‚ß‚ÄAŒ®‚àŠ|‚¯‚½B[pcms]
+I closed the door and locked it.[pcms]
 
 *7668|
 [fc]
-ƒ„ƒc‚ç‚ª—ˆ‚Ä‚¢‚½‚Æ‚µ‚ÄA‰´’B‚Ì‘¶İ‚É‹C‚ª•t‚¢‚Ä‚àA[r]
-‚±‚±‚É“ü‚Á‚Ä‚­‚é–‚Ío—ˆ‚È‚¢‚¾‚ë‚¤B[pcms]
+Even if they notice our presence, they won't be able to come[r]in here.[pcms]
 
 *7669|
 [fc]
-‚½‚¾A‚³‚Á‚«‚Ì¸~Œû‚İ‚½‚¢‚ÉA‘å¨‚ª‚±‚±‚Ì“ü‚èŒû‚É[r]
-W‚Ü‚Á‚Ä‚«‚Ä‚µ‚Ü‚Á‚½‚çA‚±‚±‚©‚ço‚é–‚ªo—ˆ‚È‚­‚È[r]
-‚Á‚Ä‚µ‚Ü‚¤B[pcms]
+However, if a large group gathers at the entrance here, like[r]they did at the staircase earlier, we won't be able to leave[r]from here.[pcms]
 
 *7670|
 [fc]
-‚±‚ñ‚È‰½‚à‚È‚¢Š‚ÉA‚¶‚Á‚Æ‚µ‚Ä‚¢‚½‚­‚Í‚È‚¢B‹@‰ï‚ğ[r]
-‰M‚Á‚ÄAŠO‚É“¦‚°o‚µ‚½‚¢‚Ì‚ÉB[pcms]
+I don't want to stay still in a place like this.[l][er]
+I want to seize the opportunity and escape outside.[pcms]
 
-;//ôFBGM007ƒtƒF[ƒhƒAƒEƒg
+;//â™ªï¼šBGM007ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¢ã‚¦ãƒˆ
 
 [fadeoutbgm time=500]
 
@@ -273,149 +259,149 @@
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3059|
 [fc]
 [vo_sa s="sae0917"]
-[ns]²”Œ[nse]
-u‚Í‚Ÿ‚ÁccA‰½‚¾‚Á‚½‚Ì‚Å‚µ‚å‚¤‚©cc‰½‚àA•·‚±‚¦[r]
-‚È‚­‚È‚è‚Ü‚µ‚½‚Ëccv[pcms]
+[ns]Saeki[nse]
+Haa... What was that... I can't hear anything anymore...[pcms]
 
 *7671|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ‚ A‰½‚©‚ª“|‚ê‚½cc‚¾‚¯‚©‚à‚Èccv[pcms]
+[ns]Kato[nse]
+Ah, something might have just fallen...[pcms]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_06"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3060|
 [fc]
 [vo_sa s="sae0918"]
-[ns]²”Œ[nse]
-u‚ ‚ÌccA‚à‚¤ccv[pcms]
+[ns]Saeki[nse]
+Um... already...[pcms]
 
 *7672|
 [fc]
-‰´‚É•ø‚©‚ê‚½‚Ü‚Ü‚Ì²”Œ‚ªA’p‚¸‚©‚µ‚»‚¤‚É‰º‚ğŒü‚­B[r]
-‰´‚Í•ø‚«‚µ‚ß‚Ä‚¢‚½–‚ğA‚·‚Á‚©‚è–Y‚ê‚Ä‚µ‚Ü‚Á‚Ä‚¢‚½B[pcms]
+Saeki, who was still being embraced by me, shyly looked[r]down.[l][er]
+I had completely forgotten that I was holding her.[pcms]
 
-;//ôFBGM010ƒtƒF[ƒhƒCƒ“
+;//â™ªï¼šBGM010ãƒ•ã‚§ãƒ¼ãƒ‰ã‚¤ãƒ³
 [bgm010]
 
 *7673|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ ccA‚²AƒSƒƒ“ccv[pcms]
+[ns]Kato[nse]
+Ah... S-Sorry...[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3061|
 [fc]
 [vo_sa s="sae0919"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3062|
 [fc]
 [vo_sa s="sae0920"]
-[ns]²”Œ[nse]
-u„‚±‚»cc‚²‚ß‚ñ‚È‚³‚¢ccBæ‚è—‚µ‚Ä‚µ‚Ü‚Á‚Äccv[pcms]
+[ns]Saeki[nse]
+I'm the one who... I'm sorry...[l][er]
+I lost control...[pcms]
 
 *7674|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚¢‚âccB‰´‚àcc‚²‚ß‚ñ‚ÈccB‚»‚ê‚ÉA‚à‚¤[r]
-‚ ‚ñ‚Ècc•s’ˆÓ‚Í‚µ‚È‚¢‚©‚çv[pcms]
+[ns]Kato[nse]
+Ah, no... I'm sorry too... And, I won't be careless like[r]that again...[pcms]
 
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3063|
 [fc]
 [vo_sa s="sae0921"]
-[ns]²”Œ[nse]
-uccv[pcms]
+[ns]Saeki[nse]
+â€¦â€¦[l][er]
 
 *7675|
 [fc]
-[ns]‰Á“¡[nse]
-uccv[pcms]
+[ns]Kato[nse]
+â€¦â€¦[l][er]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *7676|
 [fc]
-‰´’B‚Í‚¨Œİ‚¢‚ÉÓ‚è‡‚Á‚½ŒãA–³Œ¾‚É‚È‚Á‚Ä‚µ‚Ü‚Á‚½B[pcms]
+After we apologized to each other, we fell into silence.[pcms]
 
 *7677|
 [fc]
-^‚ÁˆÃ‚ÅA‰Ä‚¾‚ÆŒ¾‚¤‚Ì‚É’¹”§‚ª—§‚Â‚Ù‚Ç‚ÉŠ¦‚¢’n‰ºº[r]
-‚ÍA¨–Â‚è‚ª‚·‚é‚­‚ç‚¢‚ÉÃ‚Ü‚è•Ô‚Á‚Ä‚¢‚éB[pcms]
+The underground room, despite it being summer, was so cold[r]that it sent shivers down my spine in the pitch darkness.[l][er]
+It was eerily silent, with only the ringing in my ears[r]breaking the stillness.[pcms]
 
 *7678|
 [fc]
-•·‚±‚¦‚Ä‚­‚é‚Ì‚ÍA²”Œ‚ÌŒÄ‹z‚ğ‚·‚é‰¹‚ÆA‰´‚ÌŒÛ“®‚¾[r]
-‚¯B[pcms]
+The only sounds I could hear were Saeki's breathing and my[r]own heartbeat.[pcms]
 
-;//SE:S”‰¹
+;//SE:å¿ƒæ‹éŸ³
 
 [se0 storage="se003"]
 
 *7679|
 [fc]
-Ã‚Ü‚è•Ô‚Á‚½•”‰®‚ÉA‰´‚ÌS‘Ÿ‚Ì‰¹‚ª¨á‚è‚¾‚Á‚½B‚Ç[r]
-‚¿‚ç‚©‚ª’‚èo‚¹‚ÎccB‚»‚¤v‚Á‚½–îæA²”Œ‚ªŒû‚ğ[r]
-ŠJ‚¢‚½B[pcms]
+In the silent room, the sound of my heartbeat was[r]disturbing.[l][er]
+If one of us were to speak... That's what I thought, and[r]just as I did, Saeki opened her mouth.[l][er]
+In the quiet room, the sound of my pounding heart was[r]grating on my ears.[l][er]
+If one of us were to start talking...[l][er]
+That's what I thought, and right then, Saeki spoke up.[pcms]
+[l][er]
 
 [ChrSetEx layer=1 chbase="sae_c_b_03"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="sae_c_b_04"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v3064|
 [fc]
 [vo_sa s="sae0922"]
-[ns]²”Œ[nse]
-uŠ¦‚¢ccv[pcms]
+[ns]Saeki[nse]
+It's cold...[pcms]
 
 *7680|
 [fc]
-’j‚Ì‰´‚Å‚³‚¦Agk‚¢‚·‚é’öAŠ¦‚©‚Á‚½B²”Œ‚É‚Í‘Ï‚¦[r]
-‚ç‚ê‚È‚©‚Á‚½‚Ì‚¾‚ë‚¤B[pcms]
+Even as a man, I shivered from the cold.[l][er]
+It must have been unbearable for Saeki.[pcms]
 
 *7681|
 [fc]
-[ns]‰Á“¡[nse]
-u‚»‚¤‚¾‚Èccv[pcms]
+[ns]Kato[nse]
+Yeah...[pcms]
 
 *7682|
 [fc]
-‚Ç‚¿‚ç‚©‚ç‚ÆŒ¾‚¤‚±‚Æ‚à‚È‚­Ag‘Ì‚ğŠñ‚¹‡‚¤B•sv‹c[r]
-‚ÆÆ‚ê‚Í‚È‚©‚Á‚½B[pcms]
+Without saying a word, we leaned against each other.[l][er]
+Strangely, there was no embarrassment.[pcms]
 
 *7683|
 [fc]
-‚Ş‚µ‚ëA²”Œ‚ª—×‚É‚¢‚é–‚ÅK‚¹‚È‹C‚¿‚É‚È‚Á‚Ä‚³‚¦[r]
-‚¢‚éB‚±‚ñ‚È–Œ‚ÉŠª‚«‚Ü‚ê‚Ä‚³‚¦‚¢‚È‚¯‚ê‚ÎA‚à‚Á[r]
-‚ÆK‚¹‚¾‚Á‚½‚Ì‚ÉB[pcms]
+On the contrary, just having Saeki by my side makes me feel[r]happy.[l][er]
+If only we hadn't been caught up in this incident, we could[r]have been even happier.[pcms]
 
 *7684|
 [fc]
-‚»‚Ì–‚¾‚¯‚ªA‰÷‚µ‚¢B[pcms]
+That's the only thing that's frustrating.[pcms]
 
 *7685|
 [fc]
-‚±‚ñ‚È–‚É‚³‚¦‚È‚Á‚Ä‚È‚¯‚ê‚ÎccB[pcms]
+If only it hadn't come to this...[pcms]
 
 ;	/*
 ;	;;;[sysbt_meswin clear]
@@ -424,6 +410,6 @@
 ;	*|
 ;	*/
 
-;//[07250]‚Ö
+;//[07250]ã¸
 [jump target=*07250_H_TOP storage="07250_H.ks"]
 

@@ -1,12 +1,12 @@
 
-;//¡ËƒuƒƒbƒN04013wˆø‚«—ô‚©‚ê‚½—D‚Ìv‚¢x
-;//BG:‘Ìˆç—p‹ïºF–é^“_“”
-;//“oêl•¨G—DEƒ]ƒ“ƒr”–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯04013ã€å¼•ãè£‚ã‹ã‚ŒãŸå„ªã®æ€ã„ã€
+;//BG:ä½“è‚²ç”¨å…·å®¤ï¼šå¤œï¼ç‚¹ç¯
+;//ç™»å ´äººç‰©ï¼›å„ªãƒ»ã‚¾ãƒ³ãƒ“æ•°å
 
 *04013_H_TOP
-;[debug_win]‚È‚¤@04013_H[debug_win_end]
+;[debug_win]ãªã†ã€€04013_H[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_04013 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_04013 = 1"]
 
 [eval exp="sf.SRP16 = 1"][if exp="tf.scene_mode == 0"][jump target=*04013][endif]
 ;;[winset]
@@ -15,13 +15,13 @@
 
 *04013
 
-;*SceneSet|wˆø‚«—ô‚©‚ê‚½—D‚Ìv‚¢x
+;*SceneSet|ã€å¼•ãè£‚ã‹ã‚ŒãŸå„ªã®æ€ã„ã€
 
-;//ôFBGM008
+;//â™ªï¼šBGM008
 
 ;//[bgm008]
 
-;//SE:ƒhƒTƒb
+;//SE:ãƒ‰ã‚µãƒƒ
 
 [se0 storage="se021"]
 
@@ -46,156 +46,154 @@
 *v1569|
 [fc]
 [vo_ya s="yama0615"]
-[ns]RŠİ[nse]
-u‚¢‚â‚ ‚Ÿ‚ÁII@—£‚µ‚Ä‚¥‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+Nooo!! Let go!![pcms]
 
 *3886|
 [fc]
-Œã‚ë‚©‚ç•ø‚«‚©‚©‚¦‚ç‚ê‚½‚Ü‚ÜA‹ÂŒü‚¯‚É“|‚³‚ê‚½‚ ‚Æ[r]
-‚àA„‚Ì§•‚Í‚Ç‚ñ‚Ç‚ñ”j‚©‚ê‚ÄA‚Í‚¬æ‚ç‚ê‚Ä‚¢‚­B[pcms]
+While being embraced from behind, I was pushed down onto my[r]back.[l][er]
+My uniform was torn apart and ripped off piece by piece.[pcms]
 
 *3887|
 [fc]
-‚»‚µ‚ÄA‰º’…‚àccB[pcms]
+And my underwear too...[pcms]
 
 *v1570|
 [fc]
 [vo_ya s="yama0616"]
-[ns]RŠİ[nse]
-u‚â‚ÁA‚¢‚â‚Ÿ‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+Nooo, stop!![pcms]
 
 *3888|
 [fc]
-[ns]’jq¶“k‚h[nse]
-u‚Ï‚ñA‚ÂA‚àA‚ç‚Á‚½A‚Ÿcc‚ J``ccƒƒXA‚Ì[r]
-‚É‚¨A‚¢A‚ªA‚·‚éA‚º‚¥ccv[pcms]
+[ns]Male Student I[nse]
+I-I received... ahhh~... panties...[l][er]
+even though I'm a male... it smells...[l][er]
+good...[pcms]
 
 *v1571|
 [fc]
 [vo_ya s="yama0617"]
-[ns]RŠİ[nse]
-u‚¤‚í‚Ÿ‚ ‚ ‚ I@‚â‚ß‚ÄIIv[pcms]
+[ns]Yamagishi[nse]
+Uwaaaah! Stop!![pcms]
 
 *3889|
 [fc]
-[ns]’jq¶“k‚j[nse]
-u‚·A‚°‚¥cc‚±A‚±‚Ü‚ÅA‚ÉA‚¨‚Á‚Ä‚­A‚é‚£ccv[pcms]
+[ns]Male Student K[nse]
+A-Amazing... to, to be teased like this...[pcms]
 
 *3890|
 [fc]
-[ns]’jq¶“k‚l[nse]
-u‚ ``cc‚½‚Á‚ÄA‚«A‚½‚Ÿccv[pcms]
+[ns]Male Student M[nse]
+Ahhh... I-I came... ahh...[pcms]
 
 *3891|
 [fc]
-„‚©‚ç‚Í‚¬æ‚Á‚½‰º’…‚ÉA•@‚ğ‹ß‚Ã‚¯‚Äšk‚¢‚Å‚¢‚é”Ş‚ç[r]
-‚Ì‚ ‚»‚±‚ªA‚¾‚ñ‚¾‚ñ‘å‚«‚­‚È‚Á‚Ä‚­‚é‚Ì‚ª‚í‚©‚Á‚½B[pcms]
+I could tell that their genitals, which were getting closer[r]to the underwear they had torn off me, were gradually[r]getting bigger.[pcms]
 
 *v1572|
 [fc]
 [vo_ya s="yama0618"]
-[ns]RŠİ[nse]
-u‚âA‚â‚ß‚ÄI@‚ÖA•Ï‘ÔIIv[pcms]
+[ns]Yamagishi[nse]
+S-Stop! P-Pervert!![pcms]
 
 *3892|
 [fc]
-“Á‚ÉAè‚É‰º’…‚ğ‚Á‚Ä‚¢‚é’jq‚ÍAƒYƒ{ƒ“‚ğ‚Í‚¢‚Ä‚¢[r]
-‚È‚­‚ÄA‘å‚«‚­‚È‚é‚Ì‚ª’¼ÚŒ©‚¦‚éB[pcms]
+Especially the boys who have underwear in their hands, they[r]are not wearing pants, and you can directly see them getting[r]bigger.[pcms]
 
 *v1573|
 [fc]
 [vo_ya s="yama0619"]
-[ns]RŠİ[nse]
-u‚ A‚ ‚ cc‚¢A‚¢‚âcc‚Ö‚ñA•Ï‘Ôccv[pcms]
+[ns]Yamagishi[nse]
+Ah, ah... no... p-pervert...[pcms]
 
 *3893|
 [fc]
-[ns]’jq¶“k‚h[nse]
-u‚Ó‚ÖA‚Ö‚¥cc‚ÜA‚ñ‚±A‚àA‚¯A‚Â‚Ì‚ A‚È‚àA‚Ü[r]
-‚éA‚İA‚¦‚¾‚Ÿccv[pcms]
+[ns]Male Student I[nse]
+Fuh, heh... ma, pussy, too, ke, tsu no a, na mo, maru, mi,[r]edaa...[pcms]
 
 *v1574|
 [fc]
 [vo_ya s="yama0620"]
-[ns]RŠİ[nse]
-u‚Ğ‚Ácc‚¢‚â‚Ÿccv[pcms]
+[ns]Yamagishi[nse]
+Hii... nooo...[pcms]
 
 *3894|
 [fc]
-‘å‚«‚­‚È‚Á‚½‚ ‚»‚±‚ğk‚í‚¹‚ÄA”Ş‚ç‚Í„‚Ì‘Ì‚ğ‰Ÿ‚³‚¦[r]
-‚ÄA‚ ‚¿‚±‚¿‚ğG‚éB[pcms]
+They make my body tremble as they hold me down and touch me[r]all over.[pcms]
 
 *v1575|
 [fc]
 [vo_ya s="yama0621"]
-[ns]RŠİ[nse]
-u‚¢‚âccG‚ç‚È‚¢‚Å‚¥cc‰Á“¡ŒNI@‰Á“¡ŒN‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+No... Don't touch me... Kato-kun![l][er]
+Kato-kun!![pcms]
 
 *3895|
 [fc]
-[ns]’jq¶“k‚f[nse]
-u‚ `A‚ª‚ÜA‚ñ‚Å‚«A‚Ë‚¥cc‚¢A‚ê‚éA‚¼‚§ccv[pcms]
+[ns]Male Student G[nse]
+Ahh, your pussy is getting wet...[l][er]
+I'm going to put it in...[pcms]
 
 *v1576|
 [fc]
 [vo_ya s="yama0622"]
-[ns]RŠİ[nse]
-uccII@‚¢A‚¢‚ê‚éIH@cc‚«‚á‚ ‚ ‚ ‚ IIv[pcms]
+[ns]Yamagishi[nse]
+...!! I-It's going in!? ... Kyaaa!![pcms]
 
 *3896|
 [fc]
-‰Ÿ‚³‚¦‚Â‚¯‚ç‚ê‚ÄA‘å‚«‚­L‚°‚³‚¹‚ç‚ê‚Ä‚¢‚é‘«‚ÌŠÔ‚©[r]
-‚çA‰º‚É‚È‚Á‚Ä‚¢‚é’jq‚Ì‚ ‚»‚±‚ªA‘å‚«‚­‚È‚Á‚Ä‹N‚«[r]
-‚ ‚ª‚Á‚Ä‚­‚é‚Ì‚ªŒ©‚¦‚½B[pcms]
+I could see the boy's genitals, which were underneath me,[r]being held down and spread apart, getting bigger and rising[r]up.[pcms]
 
 *v1577|
 [fc]
 [vo_ya s="yama0623"]
-[ns]RŠİ[nse]
-u‚Ğ‚ÁccIv[pcms]
+[ns]Yamagishi[nse]
+Hi...[pcms]
 
 *v1578|
 [fc]
 [vo_ya s="yama0624"]
-[ns]RŠİ[nse]
-u‚ÈA‰½l‚¦‚Ä‚é‚ÌI@‚â‚ß‚Ä‚¥II@•Ï‘ÔII@•Ï‘Ô[r]
-‚¡‚¡Iv[pcms]
+[ns]Yamagishi[nse]
+W-What are you thinking?! Stop it!![l][er]
+Pervert!! Such a pervert!![pcms]
 
 *3897|
 [fc]
-‚¢‚âcc‚¢‚ê‚ç‚ê‚¿‚á‚¤cc–¼‘O‚à’m‚ç‚È‚¢l‚ÉccB[r]
-‚»‚ñ‚È‚Ìcc‚»‚ñ‚È‚Ì‚¢‚âcc‚ÁII[pcms]
+No... I'm going to be put inside...[l][er]
+by someone I don't even know...[l][er]
+I don't want that... I don't want that...!![pcms]
 
 *v1579|
 [fc]
 [vo_ya s="yama0625"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒNI@‰Á“¡ŒN‚ÁI@•‚¯‚ÄII@‰Á“¡ŒN‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun! Kato-kun! Help me!! Kato-kun!![pcms]
 
 *v1580|
 [fc]
 [vo_ya s="yama0626"]
-[ns]RŠİ[nse]
-u‰Á“¡ŒNcc‰Á“¡ŒN‚Á‚Ä‚ÎccII@•‚¯‚Ä‚ÁI@‚½‚·[r]
-‚¯‚Ä‚¥‚¦‚¦Iv[pcms]
+[ns]Yamagishi[nse]
+Kato-kun... Kato-kun...!! Help me![l][er]
+Help meee![pcms]
 
 *3898|
 [fc]
-[ns]’jq¶“k‚f[nse]
-u‚¤A‚Ö‚¥cc‚Ó‚ÖA‚Ö‚Öccv[pcms]
+[ns]Male Student G[nse]
+U-uh, wow... hehe, hehe...[pcms]
 
 *v1581|
 [fc]
 [vo_ya s="yama0627"]
-[ns]RŠİ[nse]
-u‚¢‚â‚ ‚ ‚Ÿ‚Ÿ‚ÁII@‚¨Šè‚¢I@‚â‚ß‚Ä‚¥‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+Nooo!! Please! Stop it!![pcms]
 
 *3899|
 [fc]
-[ns]’jq¶“k‚f[nse]
-u‚¤‚ÖA‚Ö‚Ö‚¥cc‚¢‚½‚¾A‚«‚¡ccv[pcms]
+[ns]Male Student G[nse]
+U-uh, wow... hehe, hehe...[pcms]
 
-;//SE:‘}“ü
+;//SE:æŒ¿å…¥
 
 [se0 storage="se058"]
 
@@ -215,240 +213,237 @@
 *v1582|
 [fc]
 [vo_ya s="yama0628"]
-[ns]RŠİ[nse]
-u‚Ğ‚ÁI@‚¬‚¢‚¢‚¢‚¢‚¡‚¡‚¡‚¡‚¡‚ÁIIIIIIv[pcms]
+[ns]Yamagishi[nse]
+Eeek! G-gooooooddddd!![pcms]
 
-;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
 
 [se0 storage="se061"]
 
 *v1583|
 [fc]
 [vo_ya s="yama0629"]
-[ns]RŠİ[nse]
-u‚¬‚¡‚¢ccI@’É‚¢‚æ‚£ccII@‹ê‚µ‚¡cc”M‚¢c[r]
-cII@‚¤‚Ÿ‚ ‚ ‚ ccI@‚­‚Ácc‚¤‚ŸccIv[pcms]
+[ns]Yamagishi[nse]
+Gii...! It hurts...!! It's painful...[l][er]
+hot...!! Uaaaah...! Ku... uaa...![pcms]
 
 *3900|
 [fc]
-•‚¯‚Äcc‰Á“¡ŒNccII[pcms]
+Help me... Kato-kun...!![pcms]
 
 *v1584|
 [fc]
 [vo_ya s="yama0630"]
-[ns]RŠİ[nse]
-u‚¢‚ÁII@‚¤‚Ácc‚®cc‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+Ah!! Ugh... guh...![pcms]
 
 *v1585|
 [fc]
 [vo_ya s="yama0631"]
-[ns]RŠİ[nse]
-u‚Ğ‚ÁII@‚¬‚¡‚ÁII@‚­A‹ê‚µccI@”²‚¢‚Ä‚ÁI[r]
-‚¢‚â‚Ÿ‚ ‚ II@‚ JA‚¬‚¡‚¢IIv[pcms]
+[ns]Yamagishi[nse]
+Hii!! Gii!! Ku, it's... painful...![l][er]
+Take it out! Nooo!! Ahh, giiii!![pcms]
 
 *3901|
 [fc]
-•‚¯‚ÄI@•‚¯‚ÄI[r]
-‚±‚ñ‚È‚ÌŒ™II[pcms]
+Help me! Help me! I hate this kind of thing![pcms]
 
 *v1586|
 [fc]
 [vo_ya s="yama0632"]
-[ns]RŠİ[nse]
-u‚£‚®‚ÁII@Œ™‚¾‚ŸII@‚ñ‚¬‚¡‚¢ccI@Œ™‚¾‚æI[r]
-I@‚â‚ß‚Ä‚¥Iv@[pcms]
+[ns]Yamagishi[nse]
+Ugh!! I hate it!! Ngii...! I don't want this!![l][er]
+Stop it![pcms]
 
 *3902|
 [fc]
-[ns]’jq¶“k‚k[nse]
-u‚±A‚Ì‚¨‚ñA‚ÈA‚µ‚å‚¶‚åA‚¾cc‚Ü‚ñA‚±A‚©‚çA[r]
-‚¿‚¡‚Å‚ÄA‚éA‚ºccv[pcms]
+[ns]Male Student L[nse]
+Th-this sound... it's coming from her...[l][er]
+pussy...[pcms]
 
 *3903|
 [fc]
-[ns]’jq¶“k‚f[nse]
-u‚ÖA‚¤‚Öcc‚±‚ÌA‚ÜA‚ñ‚±A‚«A‚Â‚¢‚¡ccv[pcms]
+[ns]Male Student G[nse]
+H-uh... this... p-pussy... it's t-tight...[pcms]
 
 *v1587|
 [fc]
 [vo_ya s="yama0633"]
-[ns]RŠİ[nse]
-u‚¬‚ÁA‚Ğ‚ÁII@‚£‚®A‚¤‚ ‚Ÿcc‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+G-guh, hii!! Ugu, uaaah...!![pcms]
 
 *3904|
 [fc]
-[ns]’jq¶“k‚f[nse]
-u‚Ê‚êA‚Ä‚È‚¢A‚©A‚çcc‚·A‚×A‚è‚ªA‚íA‚é‚¢A[r]
-‚È‚Ÿccv[pcms]
+[ns]Male Student G[nse]
+It's not wet, so... the sensation is not good...[pcms]
 
 *v1588|
 [fc]
 [vo_ya s="yama0634"]
-[ns]RŠİ[nse]
-u‚¢‚ÁII@‚Á‚®A‚¤‚£cc‚¡‚¬‚ÁII@‚¤‚Ÿ‚ÁIIv[pcms]
+[ns]Yamagishi[nse]
+Ahh!! Guh, ugh... Igi!! Uaaah!![pcms]
 
 *3905|
 [fc]
-D‚«‚Èl‚Écc‚ ‚Ìl‚É‚ ‚°‚é‚Â‚à‚è‚¾‚Á‚½‚Ì‚ÉccB[r]
-–¼‘O‚à’m‚ç‚È‚¢l‚Écc‚Ş‚è‚â‚è‚È‚ñ‚ÄccB[pcms]
+I was planning to give it to the person I like...[l][er]
+to that person... But to someone I don't even know...[l][er]
+and being forced... it's impossible...[pcms]
 
 *v1589|
 [fc]
 [vo_ya s="yama0635"]
-[ns]RŠİ[nse]
-u‚Ğ‚ÁI@‚®‚£cc‚¤A‚Ÿ‚Ácc‚¢‚ÁI@‚Ğ‚¤‚£III[r]
-‚âA‚â‚ß‚ÄA‚¨Šè‚¢II@‚â‚ß‚Ä‚¥IIv[pcms]
+[ns]Yamagishi[nse]
+Hii! Guu... Ugh, ah... Ii! Hiuhh!!![l][er]
+Please... please stop!! Stop it!![pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
 
 [se1 storage="se059" loop=true]
 
 *3906|
 [fc]
-[ns]’jq¶“k‚f[nse]
-u‚¤A‚Ö‚¥cc‚¿‚å‚Á‚Æ‚ÙA‚®‚êA‚Äcc‚Ü‚ñA‚±‚ÌA[r]
-‚È‚©‚ªA‚ÊA‚é‚Ê‚é‚µA‚Ä‚«A‚½‚Ÿccv[pcms]
+[ns]Male Student G[nse]
+U, heh... a little bit so, gr, slippery...[l][er]
+the inside of this pussy is, s, so slippery...[pcms]
 
 *v1590|
 [fc]
 [vo_ya s="yama0636"]
-[ns]RŠİ[nse]
-uII@‚¤A‚¤‚»A‰R‚æII@ˆá‚¤Aˆá‚¤‚¤‚£IIv[pcms]
+[ns]Yamagishi[nse]
+!! No, no, it's a lie!! It's not true, not true!![pcms]
 
 *3907|
 [fc]
-‰‚ß‚Ä‚ğ‚Ş‚è‚â‚è’D‚í‚ê‚½ƒVƒ‡ƒbƒN‚Ì‘å‚«‚³‚ÉA„‚Ì“ª[r]
-‚ÍA‚à‚¤‚Ü‚Æ‚à‚É•¨‚ğl‚¦‚ç‚ê‚È‚­‚È‚Á‚Ä‚¢‚½B[pcms]
+The shock of having my first time forcibly taken away was so[r]great that my mind couldn't think straight anymore.[pcms]
 
 *3908|
 [fc]
-ü‚è‚ª‚Ú‚ñ‚â‚èˆÃ‚­‚È‚Á‚Ä‚­‚é‚Ì‚É‚ ‚í‚¹‚ÄA‘Ì‚Ì’É‚İ[r]
-‚àA‚Ç‚±‚©‰“‚­‚É‚ ‚é‚æ‚¤‚Év‚¦‚Ä‚«‚Ä‚¢‚½B[pcms]
+As the surroundings gradually became dim, the pain in my[r]body also seemed to be somewhere far away.[pcms]
 
 *v1591|
 [fc]
 [vo_ya s="yama0637"]
-[ns]RŠİ[nse]
-u‚ ‚ÁA‚¤‚Ácc‚ñ‚ÁA‚®‚ÁA‚¤‚£cc‚©‚Æ‚¤cc‚­‚ñ[r]
-‚©‚Æ‚¤‚­‚ñcc‚½A‚·cc‚¯ccv[pcms]
+[ns]Yamagishi[nse]
+Ah, ugh... ngh, guh... uu... Kato...[l][er]
+kun, Kato-kun... please... help...[pcms]
 
 *3909|
 [fc]
-„‚Í‰Á“¡ŒN‚É•‚¯‚ğ‹‚ß‚éB‰½‰ñA”Ş‚Ì–¼‚ğŒÄ‚ñ‚¾‚Ì‚¾[r]
-‚ë‚¤‚©B[pcms]
+I called out Kato-kun's name, seeking for help.[l][er]
+I wonder how many times I called his name.[pcms]
 
 *3910|
 [fc]
-„‚ÍA‰Á“¡ŒN‚Écc•‚¯‚Ä—~‚µ‚¢ccB[pcms]
+I... I want Kato-kun... to help me...[pcms]
 
 *3911|
 [fc]
-‰Á“¡ŒN‚Écc‚ ‚°‚æ‚¤‚Æv‚Á‚Ä‚½‚Ì‚ÉII[pcms]
+I was planning to give it to Kato-kun!![pcms]
 
 *3912|
 [fc]
-‰Á“¡ŒN‚ÉccB‰Á“¡ŒNII[pcms]
+To Kato-kun... Kato-kun!![pcms]
 
 *3913|
 [fc]
-[ns]’jq¶“k‚f[nse]
-u‚ÓA‚Ö‚Öcc‚¢‚âA‚ª‚Á‚ÄA‚½‚­‚¹A‚ÉA‚æ‚ª‚ÁA‚Ä[r]
-‚ñ‚¶‚áA‚Ë‚¥‚©A‚æccv[pcms]
+[ns]Male Student G[nse]
+Fufu... no, don't resist, just let me have my way with[r]you...[pcms]
 
 *v1592|
 [fc]
 [vo_ya s="yama0638"]
-[ns]RŠİ[nse]
-u‚¤‚Ÿ‚ÁA‚¢‚ÁI@‚ ‚Áccv[pcms]
+[ns]Yamagishi[nse]
+Ugh, ah...[pcms]
 
 *3914|
 [fc]
-Šì‚Î‚¹‚é‚¾‚¯‚È‚Ì‚ÉccB[r]
-ºcc~‚ß‚ç‚ê‚È‚¢ccB[pcms]
+Just trying to please... My voice...[l][er]
+I can't stop it...[pcms]
 
 *3915|
 [fc]
-[ns]’jq¶“k‚f[nse]
-u‚ê‚¢A‚ÕA‚³A‚ê‚Äcc‚ÜA‚ñ‚±A‚Ê‚ç‚µA‚ÄA‚æ‚ë[r]
-‚±‚ñA‚Å‚âA‚ª‚é‚¼cc‚±A‚Ì‚¨‚ñA‚È‚Ÿccv[pcms]
+[ns]Male Student G[nse]
+Lick, suck, slurp... make your pussy wet and enjoy it...[l][er]
+Oh, how lewd you are...[pcms]
 
 *v1593|
 [fc]
 [vo_ya s="yama0639"]
-[ns]RŠİ[nse]
-u‚£‚®A‚¤‚Ÿcc‚©‚ÆA‚­‚ñcc‚£A‚ñ‚®‚£ccv[pcms]
+[ns]Yamagishi[nse]
+Ugh, ugh... Kato-kun... ugh, nguh...[pcms]
 
 *3916|
 [fc]
-‘Ìcc—h‚ç‚³‚ê‚Ä‚écc‚³‚Á‚«‚æ‚èA‘å‚«‚­ccB[r]
-“ª‚ªA‚®‚ç‚®‚ç‚·‚éccB[pcms]
+My body... is trembling... more than before...[l][er]
+My head feels dizzy...[pcms]
 
 *3917|
 [fc]
-[ns]’jq¶“k‚f[nse]
-u‚¾A‚·‚¼‚§cc‚µ‚åA‚¶‚å‚Ü‚ñA‚±cc‚¹A‚¢‚µ‚ÅA[r]
-‚Ü‚ñA‚½‚ñ‚ÉA‚µ‚Ä‚âA‚é‚£ccv[pcms]
+[ns]Male Student G[nse]
+D-don't... p-please, pussy... I'll make you feel good...[pcms]
 
 *v1594|
 [fc]
 [vo_ya s="yama0640"]
-[ns]RŠİ[nse]
-u‚£A‚®cc‚ñA‚¤‚£cc‚¤A‚ ‚Ÿcc‚âA‚âcc‚â‚ß[r]
-‚Äccv[pcms]
+[ns]Yamagishi[nse]
+Ugh... guh... ngh... uu... ahh...[l][er]
+ya... ya... stop...[pcms]
 
 *3918|
 [fc]
-„cc¡A‚Ç‚±‚ğŒü‚¢‚Ä‚é‚ñ‚¾‚ë‚¤ccB[r]
-‘Ì‚ªAD‚«Ÿè‚È•ûŒü‚ğŒü‚¢‚Ä‚é‚æ‚¤‚ÈA‚»‚ñ‚ÈŠ´‚¶‚ª[r]
-‚·‚éccB[pcms]
+I... I wonder where I'm facing right now...[l][er]
+My body feels like it's moving in all sorts of directions,[r]as if it has a mind of its own...[pcms]
 
 *3919|
 [fc]
-—Í‚ªA“ü‚ç‚È‚¢‚æcc‘Ì‚ªA“®‚©‚È‚¢ccB[pcms]
+I can't muster any strength...[l][er]
+My body won't move...[pcms]
 
 *3920|
 [fc]
-‚È‚ñ‚©AˆÃ‚­‚È‚Á‚Ä‚«‚½cc‚à‚¤–é‚È‚ÌccH[r]
-ˆÃ‚­‚ÄA‚æ‚­Œ©‚¦‚È‚¢ccB[pcms]
+It's getting dark... Is it already night?[l][er]
+It's so dark, I can't see well...[pcms]
 
 *3921|
 [fc]
-‰Á“¡ŒNcc‚Ç‚±ccH[r]
-‰Á“¡ŒNcc•‚¯‚Ä‚æccB[pcms]
+Kato-kun... where are you...? Kato-kun...[l][er]
+please help me...[pcms]
 
 *3922|
 [fc]
-[ns]’jq¶“k‚f[nse]
-u‚ ```cc‚Å‚é‚ÅA‚écc‚Å‚é‚£``ccv[pcms]
+[ns]Male Student G[nse]
+Ahhh... I'm gonna... gonna... gonna cummm...[pcms]
 
 *v1595|
 [fc]
 [vo_ya s="yama0641"]
-[ns]RŠİ[nse]
-u‚ñ‚ÁA‚®‚£A‚¤‚£cc‚®A‚ ‚Ácc‚ñ‚£A‚¤‚Ÿcc‚»[r]
-‚Æ‚ÉccŠO‚É‚¾‚µAo‚µ‚Äcc‚¨Šè‚¢ccv[pcms]
+[ns]Yamagishi[nse]
+Nn, guu, uu... gu, ah... nnu, uwa...[l][er]
+soto ni... soto ni dashi, dashite...[l][er]
+onegai...[pcms]
+[l][er]
 
 *3923|
 [fc]
-[ns]’jq¶“k‚f[nse]
-u‚¢A‚­cc‚¼ccA‚¢‚­A‚¼‚§ccv[pcms]
+[ns]Male Student G[nse]
+I-I'm... gonna... gonna... cum...[pcms]
 
 *v1596|
 [fc]
 [vo_ya s="yama0642"]
-[ns]RŠİ[nse]
-u‚¤‚í‚Ÿ‚ ‚ ‚ ‚ I@‚âA‚â‚ß‚Ä‚¥I@‚¨Šè‚¢I@‚¨Šè[r]
-‚¢cc’†‚ÍccB’†‚Í‘Ê–Ú‚¥II@‚¤‚Ÿ‚ ‚ ‚ ccIv[pcms]
+[ns]Yamagishi[nse]
+Uwaaaah! S-Stop! Please! Please...[l][er]
+not inside... Not inside me!! Uaaaahhh...![pcms]
 
-;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
 
 [stop_se0]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
 
 [stop_se1]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 
 [se0 storage="se062"]
 
@@ -477,8 +472,8 @@
 
 *3924|
 [fc]
-[ns]’jq¶“k‚f[nse]
-u‚¤J‚ŸA‚ ‚Ÿ```ccv[pcms]
+[ns]Male Student G[nse]
+Ugh, ahhhhh~[l][er]
 
 ;//whiteflash
 
@@ -496,15 +491,14 @@
 *v1597|
 [fc]
 [vo_ya s="yama0643"]
-[ns]RŠİ[nse]
-uccII@‚¢A‚¢‚â‚Ÿ‚ ‚ ‚ ‚ ‚ IIIIv[pcms]
+[ns]Yamagishi[nse]
+...!! N-No, stoooopppp!!![pcms]
 
 *v1598|
 [fc]
 [vo_ya s="yama0644"]
-[ns]RŠİ[nse]
-u‚¢‚â‚Ÿ‚ ‚ ‚ ‚ II@‚¤‚í‚Ÿ‚ ‚ ‚ ‚ ‚ ‚ II@’†‚Å[r]
-cc‚¤‚í‚Ÿ‚ ‚ ‚ ‚ ‚ IIv[pcms]
+[ns]Yamagishi[nse]
+Noooo!! Uwaaaahhh!! Inside... uwaaaahhh!![pcms]
 
 ;//whiteout
 
@@ -518,25 +512,24 @@
 
 *3925|
 [fc]
-‘Ì‚Ì’†‚É‰½‚©‚ª“ü‚Á‚Ä‚­‚é‚Ì‚ğŠ´‚¶‚½‚Æ‚±‚ë‚ÅA–Ú‚Ì‘O[r]
-‚ª^‚Á”’‚É‚È‚Á‚½B[pcms]
+Just as I felt something entering inside my body, everything[r]in front of me turned completely white.[pcms]
 
 *3926|
 [fc]
-„A€‚ñ‚¶‚á‚Á‚½‚Ì‚©‚ÈccB[pcms]
+Did I... die?[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
 
 [se0 storage="se059"]
 
 *v1599|
 [fc]
 [vo_ya s="yama0645"]
-[ns]RŠİ[nse]
-uccv[pcms]
+[ns]Yamagishi[nse]
+â€¦â€¦[l][er]
 
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
@@ -545,7 +538,7 @@
 [bg storage="bg16c"]
 [trans_c cross time=500]
 
-;//BG:bg016c+ƒ]ƒ“ƒr[ƒY
+;//BG:bg016c+ã‚¾ãƒ³ãƒ“ãƒ¼ã‚º
 
 [ChrSetEx layer=4 chbase="zom_01_b"]
 [ChrSetXY layer=4 x=200 y=0]
@@ -557,101 +550,94 @@
 
 *3927|
 [fc]
-‘Ì‚Ì•\–Ê‚ª‚Ş‚¸‚Ş‚¸‚·‚é‚Ì‚ğŠ´‚¶‚ÄA„‚Í–Ú‚ğŠJ‚¯‚½B[r]
-€‚ñ‚Å‚È‚¢ccB[r]
-‹Câ‚µ‚Ä‚½‚¾‚¯ccH[pcms]
+I felt a tingling sensation on the surface of my body and[r]opened my eyes.[l][er]
+I'm not dead... I just fainted...?[pcms]
 
 *3928|
 [fc]
-€‚ñ‚Å‚¢‚½•û‚ª—Ç‚©‚Á‚½ccB[r]
-‚»‚¤‚·‚ê‚ÎA©•ª‚ª‚Ü‚¾”Æ‚³‚ê‚Ä‚¢‚éÅ’†‚È‚Ì‚ğA’m‚ç[r]
-‚È‚¢‚Å‚¢‚ç‚ê‚½‚Ì‚ÉccB[pcms]
+I wish I had died... If I had, I could have remained unaware[r]that I am still being violated...[pcms]
 
 *3929|
 [fc]
-ƒ{ƒ“ƒ„ƒŠ‚·‚é–Ú‚ÅA‰½‚ª‚Ş‚¸‚Ş‚¸‚·‚é‚Ì‚©‚Æ©•ª‚Ì‘Ì‚ğ[r]
-Œ©‚é‚ÆA”’‚­‘÷‚Á‚½ƒiƒƒNƒW‚İ‚½‚¢‚È‚à‚Ì‚ªA‘Ì‚Ìã‚ğ[r]
-”‡‚¢‰ñ‚Á‚Ä‚¢‚½B[pcms]
+With a vacant gaze, I looked at my body, wondering what was[r]causing the strange sensation.[l][er]
+To my horror, I saw a slimy, white slug-like creature[r]crawling all over me.[pcms]
 
 *v1600|
 [fc]
 [vo_ya s="yama0646"]
-[ns]RŠİ[nse]
-u‚¦ccHv[pcms]
+[ns]Yamagishi[nse]
+Huh...?[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰
 
 [se0 storage="se059"]
 
 *v1601|
 [fc]
 [vo_ya s="yama0647"]
-[ns]RŠİ[nse]
-u‚È‚Écc‚±‚êccHv[pcms]
+[ns]Yamagishi[nse]
+What... is this...?[pcms]
 
 *3930|
 [fc]
-‚»‚ÌƒiƒƒNƒW‚İ‚½‚¢‚È‚à‚Ì‚ÍA‘½•ªA’jq’B‚ªo‚µ‚½¸[r]
-‰t‚¾‚Æv‚¤B[pcms]
+I think that slimy slug-like thing is probably the semen[r]that the boys released.[pcms]
 
 *3931|
 [fc]
-‚Å‚àA¸‰t‚Á‚Äo‚µ‚½‚ ‚ÆA‚±‚ñ‚È•—‚ÉƒiƒƒNƒW‚İ‚½‚¢[r]
-‚É“®‚­‚à‚Ì‚È‚Ì‚©‚ÈccB[pcms]
+But, after ejaculating, does semen really move like this,[r]like a slug...?[pcms]
 
 *3932|
 [fc]
-¡‚Ü‚Å‚ÉŒ©‚½‚±‚Æ‚ª‚È‚¢‚©‚çA‚æ‚­‚í‚©‚ç‚È‚¢ccB[r]
-‚Å‚àA‘Ì‚Ì•\–Ê‚ğ’‚É”‡‚¢‚¸‚è‰ñ‚ç‚ê‚é‚æ‚¤‚ÈŠ´Šo‚ªA[pcms]
+I've never seen anything like this before, so I don't really[r]understand...[l][er]
+But the sensation of bugs crawling all over the surface of[r]my body...[pcms]
 
 *v1602|
 [fc]
 [vo_ya s="yama0648"]
-[ns]RŠİ[nse]
-u‚Ó‚Ócc‚Ó‚Ó‚ÓccB‚­‚·‚®‚Á‚½‚¢ccB‚Ó‚Óccv[pcms]
+[ns]Yamagishi[nse]
+Hehe... hehehe... It tickles...[l][er]
+hehe...[pcms]
 
 *3933|
 [fc]
-l‚Ìw‚Å•‚Å‚ç‚ê‚Ä‚é‚æ‚¤‚ÈŠ´‚¶‚ª‚µ‚ÄA„‚Í‚»‚ê‚ª‹C[r]
-‚¿‚¢‚¢‚Æv‚¦‚½B[pcms]
+I felt as if I was being touched by someone's fingers, and I[r]found it pleasurable.[pcms]
 
 *3934|
 [fc]
-‚Ç‚¤‚¹‚È‚çA’j‚Ìl‚Ìw‚Å•‚Å‚Ä—~‚µ‚¢ccB[r]
-‚»‚¤v‚Á‚½„‚ÍA–T‚Å„‚ğŒ©‰º‚ë‚µ‚Ä‚¢‚é’jq‚Ì˜r‚ğ’Í[r]
-‚ñ‚ÅA‚Ë‚¾‚Á‚½B[pcms]
+I thought to myself, If it's going to happen anyway, I'd[r]rather be touched by a man's fingers...[l][er]
+With that in mind, I grabbed the arm of the boy who was[r]looking down at me and pleaded with him.[pcms]
 
 *v1603|
 [fc]
 [vo_ya s="yama0649"]
-[ns]RŠİ[nse]
-u‚Ëccv[pcms]
+[ns]Yamagishi[nse]
+Hey...[pcms]
 
 *v1604|
 [fc]
 [vo_ya s="yama0650"]
-[ns]RŠİ[nse]
-u‚ËccA‚³‚í‚Á‚Ä‚¥ccB‚í‚½‚µ‚ğcc‚³‚í‚Á‚ÄHv[pcms]
+[ns]Yamagishi[nse]
+Hey... touch me... Please touch me?[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;bl‚Æ[backlay_c][chara_int][trans_c cross time=150]
+;blã¨[backlay_c][chara_int][trans_c cross time=150]
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 
 [stopse_all]
-;BGM’â~
+;BGMåœæ­¢
 [fadeoutbgm time=500][wb]
 
 ;//blackout
 
-;//‚±‚±‚Ü‚Å–{•Ò
+;//ã“ã“ã¾ã§æœ¬ç·¨
 
 
-;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
-;•s—v[eval exp="="sf.g_scn17 = 1"]
+;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
+;ä¸è¦[eval exp="="sf.g_scn17 = 1"]
 
-;//ƒEƒBƒ“ƒhƒEÁ‹
+;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
@@ -661,13 +647,13 @@
 
 ;;;[sysbt_meswin]
 
-;//•‚ÉƒtƒF[ƒh
+;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 
-;//[04004]‚Ö
+;//[04004]ã¸
 
 [jump target=*04004_H_TOP storage="04004_H.ks"]
 

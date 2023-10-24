@@ -1,20 +1,20 @@
 
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
-;//¡ËƒuƒƒbƒN02125wƒ‰ƒWƒI‚Sx‰‰
-;//BG:“ñŠK˜L‰ºFƒoƒŠƒP[ƒhF’‹i’©Œ“—pj
-;//“oêl•¨GålŒöE—DEƒŠƒTEŠİ“cE‰Á“¡
-;¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢¤£¥¢
-;¤£¥¢¤£¥
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯02125ã€ãƒ©ã‚¸ã‚ªï¼”ã€â™‚â™‚
+;//BG:äºŒéšå»Šä¸‹ï¼šãƒãƒªã‚±ãƒ¼ãƒ‰ï¼šæ˜¼ï¼ˆæœå…¼ç”¨ï¼‰
+;//ç™»å ´äººç‰©ï¼›ä¸»äººå…¬ãƒ»å„ªãƒ»ãƒªã‚µãƒ»å²¸ç”°ãƒ»åŠ è—¤
+;â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³â–½â–²â–¼â–³
+;â–½â–²â–¼â–³â–½â–²â–¼
 
 *02125_TOP
-;[debug_win]‚È‚¤@02125[debug_win_end]
+;[debug_win]ãªã†ã€€02125[debug_win_end]
 
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_02125 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_02125 = 1"]
 
-;*SceneSet|wƒ‰ƒWƒI‚Sx
+;*SceneSet|ã€ãƒ©ã‚¸ã‚ªï¼”ã€
 
-;//ôFBGM003
+;//â™ªï¼šBGM003
 
 ;//[bgm003]
 
@@ -26,87 +26,84 @@
 *v951|
 [fc]
 [vo_mob s="radio0009"]
-[ns]ƒ‰ƒWƒI‚ÌƒAƒiƒEƒ“ƒT[[nse]
-ucc‚±‚ê‚©‚ç“Ç‚İã‚°‚é’nˆæ‚Ì•û‚ÍA©‰q‘à‚Ìw¦‚É[r]
-]‚Á‚ÄA‘¬‚â‚©‚É‹~Œì{İ‚Ö”ğ“ï‚µ‚Ä‚­‚¾‚³‚¢v[pcms]
+[ns]Radio Announcer[nse]
+... For those in the area I am about to announce, please[r]follow the instructions of the Self-Defense Forces and[r]evacuate to the nearest medical facility as soon as[r]possible.[pcms]
 
 *2408|
 [fc]
-“ñŠK‚Ö–ß‚Á‚Ä‚­‚é‚ÆAV“¹æ¶‚ª–T‚ç‚Ìƒ‰ƒWƒI‚É¨‚ğŒX[r]
-‚¯‚Ä‚¢‚½B[pcms]
+When I returned to the second floor, I saw Shindou-sensei[r]listening attentively to the radio by her side.[pcms]
+[l][er]
 
 *v952|
 [fc]
 [vo_mob s="radio0010"]
-[ns]ƒ‰ƒWƒI‚ÌƒAƒiƒEƒ“ƒT[[nse]
-ucc¼•‘’n‹æA–îƒ–“‡’n‹æA—Áƒ–—Ë’n‹æA“cƒ–éŒÎ’n[r]
-‹æAğR’n‹æA‰¡‘«’n‹æccv[pcms]
+[ns]Radio Announcer[nse]
+... Nishimai District, Yagashima District, Suzukari[r]District, Tagashiroko District, Sakayama District, Yokotari[r]District...[pcms]
 
 *2409|
 [fc]
-[ns]‰Á“¡[nse]
-ucc‚È‚ñ‚©‘O‚æ‚è‘‚¦‚Ä‚Ü‚·‚ËAo‚Ä‚­‚é‚Æ‚±v[pcms]
+[ns]Kato[nse]
+...[pcms]
+Somehow, there seem to be more of them now, coming out from[l][er]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v953|
 [fc]
 [vo_ri s="risa0298"]
-[ns]V“¹[nse]
-u‚»‚ê‚¾‚¯A”íŠQ‚ªL‚ª‚Á‚Ä‚¢‚é‚Æ‚¢‚¤‚±‚Æ‚æB‘‚­‚±[r]
-‚±‚ğo‚é•û–@‚ğl‚¦‚½•û‚ª‚¢‚¢‚í‚Ëccv[pcms]
+[ns]Shindou[nse]
+That just means that the damage is spreading.[l][er]
+We should think of a way to leave here quickly...[pcms]
 
 *2410|
 [fc]
-[ns]‰Á“¡[nse]
-u‚ A‚»‚¤‚¢‚¦‚ÎA‰®ã‚©‚çæ¶‚ÌÔ‚ªŒ©‚¦‚½‚ñ‚Å‚·‚¯[r]
-‚ÇA‚ ‚ê‚Å‚±‚±‚©‚ç“¦‚°‚ç‚ê‚Ü‚¹‚ñ‚©Hv[pcms]
+[ns]Kato[nse]
+Oh, come to think of it, I saw Sensei's car from the[r]rooftop.[l][er]
+Can't we escape from here using that?[pcms]
 
 *2411|
 [fc]
-‰´‚Ì’ñˆÄ‚ÉAV“¹æ¶‚Íƒ|ƒJƒ“‚Æ‚µ‚½Šç‚É‚È‚Á‚½B[pcms]
+Shindou-sensei had a blank expression on her face when I[r]made my suggestion.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_b_03"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v954|
 [fc]
 [vo_ri s="risa0299"]
-[ns]V“¹[nse]
-u‚»‚¤‚¾‚ícc„AÔ‚Å—ˆ‚Ä‚¢‚½‚Ì‚æ‚ËB‚¨‚©‚µ‚È–‚ª[r]
-‘±‚¢‚½‚©‚ç¬—‚µ‚Ä‚¢‚ÄAÔ‚ª‚ ‚Á‚½–‚ğ‚·‚Á‚©‚è–Y‚ê[r]
-‚Ä‚¢‚½‚íccv[pcms]
+[ns]Shindou[nse]
+That's right... I came here by car.[l][er]
+I was so confused because of all the strange things[r]happening, I completely forgot that I had a car...[pcms]
 
 *2412|
 [fc]
-›‚¯‚½‚æ‚¤‚ÈŠç‚ğŒµ‚µ‚¢‚à‚Ì‚É•Ï‚¦‚ÄAV“¹æ¶‚Í—§‚¿[r]
-ã‚ª‚Á‚½B[pcms]
+Shindou-sensei changed her blank expression into a stern one[r]and stood up.[pcms]
 
 [ChrSetEx layer=1 chbase="risa_c_a_08"]
 [ChrSetXY layer=1 x=180 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v955|
 [fc]
 [vo_ri s="risa0300"]
-[ns]V“¹[nse]
-u¡‚·‚®Ô‚ğ“®‚©‚µ‚ÄA”ğ“ïŠ‚ÉŒü‚©‚¢‚Ü‚µ‚å‚¤B‰Á“¡[r]
-ŒN‚Í„‚Æˆê‚É—ˆ‚Äv[pcms]
+[ns]Shindou[nse]
+Let's move the car right away and head to the evacuation[r]center.[l][er]
+Kato-kun, come with me.[pcms]
 
 *2413|
 [fc]
-[ns]‰Á“¡[nse]
-u‚í‚©‚è‚Ü‚µ‚½v[pcms]
+[ns]Kato[nse]
+Understood.[pcms]
 
-;//[02126]‚Ö
+;//[02126]ã¸
 
 [jump target=*02126_TOP storage="02126.ks"]

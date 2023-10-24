@@ -1,11 +1,11 @@
 
-;//¡ËƒuƒƒbƒN06160w•P‚ÆA‰Æ—ˆx
-;//;//BG:•ÛŒ’ºF’©FÁ“”
-;//“oêl•¨G’|“àE—DE“c’†E•ü”ü
-;//‹“_G’|“à
+;//â– â‡’ãƒ–ãƒ­ãƒƒã‚¯06160ã€å§«ã¨ã€å®¶æ¥ã€
+;//;//BG:ä¿å¥å®¤ï¼šæœï¼šæ¶ˆç¯
+;//ç™»å ´äººç‰©ï¼›ç«¹å†…ãƒ»å„ªãƒ»ç”°ä¸­ãƒ»æœ‹ç¾
+;//è¦–ç‚¹ï¼›ç«¹å†…
 
 *06160_H_TOP
-;[debug_win]‚È‚¤@06160_H[debug_win_end]
+;[debug_win]ãªã†ã€€06160_H[debug_win_end]
 
 [eval exp="sf.SRP33 = 1"][if exp="tf.scene_mode == 0"][jump target=*06160_H][endif]
 ;;[winset]
@@ -13,9 +13,9 @@
 [jump target=*scene_start]
 
 *06160_H
-;g‚Á‚Ä‚È‚¢[eval exp="sf.g_06160 = 1"]
+;ä½¿ã£ã¦ãªã„[eval exp="sf.g_06160 = 1"]
 
-;//ôFBGM006
+;//â™ªï¼šBGM006
 
 [bgm006]
 
@@ -23,357 +23,357 @@
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2739|
 [fc]
 [vo_ya s="yama0940"]
-[ns]RŠİ[nse]
-u’|“àccŒNccv[pcms]
+[ns]Yamagishi[nse]
+Takeuchi... you...[pcms]
 
 *6761|
 [fc]
-[ns]’|“à[nse]
-u—D‚¿‚á‚ñccv[pcms]
+[ns]Takeuchi[nse]
+Yuu-chan...[pcms]
 
 *6762|
 [fc]
-‰Âˆ¤‚¢cc‰Âˆ¤‚¢Œû‚ªA–Ú‚ªA‚±‚ñ‚È‚É‹ß‚­‚ÉccB[r]
-”¯‚Ì–Ñ‚©‚çA‚»‚ê‚ÉAg‘Ì‘S‘Ì‚©‚çA‚¢‚¢“õ‚¢‚ª•Y‚Á‚Ä[r]
-‚­‚éccB[pcms]
+Cute... Your cute mouth, your eyes, they're so close...[l][er]
+From your hair, and your whole body, a nice scent is[r]drifting...[pcms]
 
 *6763|
 [fc]
-Šw‰€‚ÌƒAƒCƒhƒ‹‚ª¡Aƒ{ƒN‚ğ—U‚Á‚Ä‚¢‚éB[r]
-ƒ{ƒNccB‚Ç‚¤‚µ‚½‚çccB[pcms]
+The school idol is inviting me now.[l][er]
+Me... What should I do...?[pcms]
 
 *6764|
 [fc]
-‚±‚ñ‚ÈA‚Ç‚¤‚·‚ê‚Î‚¢‚¢‚ñ‚¾‚ë‚¤H[r]
-—S“ñ‚É’®‚¢‚Ä‚¨‚¯‚Î—Ç‚©‚Á‚½ccB[pcms]
+What should I do in a situation like this?[l][er]
+I should have asked Yuuji for advice...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_d_11"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2740|
 [fc]
 [vo_ya s="yama0941"]
-[ns]RŠİ[nse]
-u‚Ë‚¥cc’|“àŒNccAƒLƒXA‚µ‚æ‚¤‚æcc‚ËHv[pcms]
+[ns]Yamagishi[nse]
+Hey... Takeuchi-kun... Let's kiss...[l][er]
+okay?[pcms]
 
 *6765|
 [fc]
-[ns]’|“à[nse]
-u‚«AƒLƒXIHv[pcms]
+[ns]Takeuchi[nse]
+K-Kiss!?[pcms]
 
 *6766|
 [fc]
-S‘Ÿ‚ªA‚à‚¤”š”­‚µ‚»‚¤‚¾B[r]
-—D‚¿‚á‚ñ‚ªAƒ{ƒN‚ÆƒLƒX‚µ‚Ä‚­‚ê‚é‚È‚ñ‚ÄccB[pcms]
+My heart feels like it's about to explode.[l][er]
+Yuu-chan is going to kiss me...[pcms]
 
 *6767|
 [fc]
-‚Å‚àA‰½‚©•Ï‚¾ccB[pcms]
+But something feels strange...[pcms]
 
 *6768|
 [fc]
-—D‚¿‚á‚ñ‚Ì–Ú‚ªA‚¢‚Â‚à‚Æˆá‚¤—l‚ÈH@¶‹C‚ª‚È‚¢ccB[r]
-‚»‚ê‚ÉAŒû’²‚à•Ï‚É‚ä‚Á‚­‚è‚¾‚µAg‘Ì‚ª¦‚­”M‚¢B[r]
-‚à‚µ‚©‚µ‚ÄA”M‚ªccB[pcms]
+Yuu-chan's eyes, they seem different from usual?[l][er]
+There's no vitality... And her tone of voice is strangely[r]slow, and her body feels really hot.[l][er]
+Could it be that she has a fever...?[pcms]
 
 *6769|
 [fc]
-[ns]’|“à[nse]
-u‚Ë‚¥A—D‚¿‚á‚ñA‚â‚Á‚Ï‚è‚â‚ß‚æ‚¤H@‚È‚ñ‚©•Ï‚¾‚æ[r]
-cc”MA‚ ‚é‚İ‚½‚¢‚¾‚æHv[pcms]
+[ns]Takeuchi[nse]
+Hey, Yuu-chan, let's stop after all?[l][er]
+Something feels off... You seem to have a fever, don't you?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_d_11"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_d_12"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2741|
 [fc]
 [vo_ya s="yama0942"]
-[ns]RŠİ[nse]
-u‚ ‚Í‚ÍccA‘åä•vc‚¾‚©‚çccA‚ËH@„‚ÉA”C‚¹[r]
-‚ÄccB‚ñ‚Ácc‚¿‚ã‚Áccv[pcms]
+[ns]Yamagishi[nse]
+Ahaha... It's okay... trust me, okay?[l][er]
+Leave it to me... Mmm...  *kiss*[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *6770|
 [fc]
-[ns]’|“à[nse]
-uIIv[pcms]
+[ns]Takeuchi[nse]
+!![pcms]
 
 *6771|
 [fc]
-“Ë‘RA—D‚¿‚á‚ñ‚Ìã‚ª‚Ë‚¶‚Ü‚ê‚ÄAƒ{ƒN‚Íg‘Ì‚É“d‹C[r]
-‚ª‘–‚Á‚½‚İ‚½‚¢‚É‚È‚Á‚ÄA“®‚¯‚È‚­‚È‚Á‚Ä‚µ‚Ü‚Á‚½B[pcms]
+Suddenly, Yuu-chan's tongue was forced into my mouth, and it[r]felt like electricity ran through my body, causing me to[r]become unable to move.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2742|
 [fc]
 [vo_ya s="yama0943"]
-[ns]RŠİ[nse]
-u‚ñ‚Ÿ‚Ÿ‚ cc‚ñ‚Õ‚ÁccB’|“àŒNccAãcco‚µ‚Ä[r]
-cc‚ñ‚Áccv[pcms]
+[ns]Yamagishi[nse]
+Nnnaaa... Npuu... Takeuchi-kun...[l][er]
+Stick out your tongue... Nn...[pcms]
 
 *6772|
 [fc]
-—D‚¿‚á‚ñ‚ÉŒ¾‚í‚ê‚é‚ª‚Ü‚Ü‚ÉAã‚ğ“Ë‚«o‚·B[r]
-‰½‚¾‚©A—D‚¿‚á‚ñ‚ÌŒ¾‚¤‚±‚Æ‚É‹t‚ç‚¤–‚ªo—ˆ‚È‚¢B[pcms]
+As instructed by Yuu-chan, I stuck out my tongue.[l][er]
+Somehow, I couldn't resist what Yuu-chan was saying.[pcms]
 
-;—§‚¿
+;ç«‹ã¡
 *std402|
 [fc]
 [vo_ya s="yama0943"]
-[ns]RŠİ[nse]
-u‚ñ‚ñ‚ÁccB‚Õ‚ ‚Ÿ‚ÁccA‚Ó‚Óc‚¶‚á‚ cc‚±‚ê‚©[r]
-‚çccƒGƒbƒ`ccv[pcms]
+[ns]Yamagishi[nse]
+Mmm... Puaah... Hehe... Well then...[l][er]
+from now on... sex...[pcms]
 
 *6773|
 [fc]
-[ns]’|“à[nse]
-u‚¤‚ñccv[pcms]
+[ns]Takeuchi[nse]
+Yeah...[pcms]
 
 *6774|
 [fc]
-“ª‚Ì’†‚Éƒ‚ƒ„‚ª‚©‚©‚Á‚½‚İ‚½‚¢‚ÉA‚Ú[‚Á‚Æ‚µ‚Ä‚«‚½B[r]
-ƒLƒXcc‚µ‚½‚©‚çA‚©‚ÈccB[pcms]
+It feels like a haze has settled in my mind, and I'm[r]starting to feel absent-minded.[l][er]
+Maybe it's because we kissed...[pcms]
 
 *6775|
 [fc]
-‚»‚ê‚ÉA–°‚é’¼‘O‚İ‚½‚¢‚ÉAg‘Ì‚ª‚Ó‚í‚Á‚Æ‚µ‚ÄA‹C[r]
-‚¿‚¢‚¢BƒLƒX‚Á‚ÄA‚±[‚ä[ƒ‚ƒ“‚È‚Ì‚©‚ÈccB[pcms]
+And, just like before falling asleep, my body feels light[r]and pleasant.[l][er]
+Is this what kissing is like...?[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_d_11"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2743|
 [fc]
 [vo_ya s="yama0944"]
-[ns]RŠİ[nse]
-u‚Ó‚Ócc‚¦‚¢ccv[pcms]
+[ns]Yamagishi[nse]
+Hehe... here I go...[pcms]
 
 *6776|
 [fc]
-[ns]’|“à[nse]
-u‚¤‚í‚Ÿccv[pcms]
+[ns]Takeuchi[nse]
+Uwaa...[pcms]
 
 *6777|
 [fc]
-—D‚¿‚á‚ñ‚Éƒxƒbƒh‚É‰Ÿ‚µ“|‚³‚ê‚½B‚±‚êA–{“–‚Íƒ{ƒN‚ª[r]
-‚â‚é‚×‚«‚È‚ñ‚¶‚á‚È‚¢‚©H[pcms]
+Yuu-chan pushed me down onto the bed.[l][er]
+Shouldn't I be the one doing this instead?[pcms]
 
-;//SE;”à‚ğŠJ‚­
+;//SE;æ‰‰ã‚’é–‹ã
 [se0 storage="se008"]
 
 *6778|
 [fc]
-[ns]’|“à[nse]
-uccII@‚ÈA‚È‚ÉHv[pcms]
+[ns]Takeuchi[nse]
+...!! W-What?[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_d_b_01"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 ;//
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2744|
 [fc]
 [vo_to s="tomo0294"]
-[ns]ŒÜ\—’[nse]
-u‚ A‚ê‚¥ccA‚±A‚±‚ÉA‚àA‚Ğ‚ÆA‚ªcc‚¢‚év[pcms]
+[ns]Igarashi[nse]
+Ah, w-wait... There's someone...[l][er]
+here...[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_b_a_10"]
 [ChrSetXY layer=1 x=160 y=0]
 [ChrSetParts layer=1 chface="tanaka_b_a_11"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std403|
 [fc]
-[ns]“c’†[nse]
-u‚¨‚ñA‚ÈA‚¾A‚ ‚½A‚ç‚µA‚¢A‚¨‚ñA‚Èv[pcms]
+[ns]Tanaka[nse]
+Oh, that's right... it's onna.[pcms]
 
 *6779|
 [fc]
-—S“ñ‚ÆAŒÜ\—’‚³‚ñIH@¡‚Ü‚Å‚Ç‚±‚ÉccIH[r]
-‰½‚Å“ñl‚Æ‚àA•‚ªccIH[pcms]
+Yuuji and Igarashi-san!? Where have you been all this[r]time...!?[l][er]
+And why are both of you missing your clothes...!?[pcms]
 
 *6780|
 [fc]
-‚»‚ê‚ÉccB[r]
-–Ú‚Â‚«‚ª‚¨‚©‚µ‚¢ccB—D‚¿‚á‚ñ‚Æ“¯‚¶—l‚ÈA[r]
-ˆÙí‚È–Ú‚Â‚«‚ğ‚µ‚ÄccB[pcms]
+And... your gaze is strange...[l][er]
+It's the same abnormal gaze as Yuu-chan's...[pcms]
 
 *6781|
 [fc]
-‚â‚Á‚Ï‚èA‰½‚©‚¨‚©‚µ‚¢II[r]
-‰½‚©‚ª•Ï‚¾II[pcms]
+As I thought, something is strange!![l][er]
+Something is different!![pcms]
 
 *6782|
 [fc]
-[ns]’|“à[nse]
-u—S“ñII@‚Ç‚±‚É‚¢‚Á‚Ä‚½‚ñ‚¾‚æI@‚»‚ê‚ÉA‚»‚ÌŠi[r]
-Dcc‚È‚ÉIH@‚Ç‚¤‚µ‚½‚ÌIHv[pcms]
+[ns]Takeuchi[nse]
+Yuuji!! Where have you been!? And, what's with that[r]appearance...[l][er]
+What happened!?[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_b_a_10"]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 ;//
 
-;—§‚¿
+;ç«‹ã¡
 *std404|
 [fc]
-[ns]“c’†[nse]
-u‚ `ccA‚ ‚½A‚çA‚µA‚¨‚ñA‚ÈB‚âA‚è‚ÄA‚¦ccv[pcms]
+[ns]Tanaka[nse]
+Ahh... Ata... ra... shi... onna.[l][er]
+Yari te e...[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_d_b_01"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 ;//
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2745|
 [fc]
 [vo_to s="tomo0295"]
-[ns]ŒÜ\—’[nse]
-u‚±‚ÁA‚¿A‚ÌA‚ÓA‚Æ‚Á‚¿‚åA‚ÆA‚¦‚Á‚¿A‚·A‚éccv[pcms]
+[ns]Igarashi[nse]
+I-I'm, going, to, touch, you, intimately...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_d_11"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_d_12"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2746|
 [fc]
 [vo_ya s="yama0945"]
-[ns]RŠİ[nse]
-u‚ ‚Í‚Ícc‚İ‚ñ‚Ècc‚İ‚ñ‚È‚ÅAŠy‚µ‚à‚¤‚©ccB[r]
-‚ ‚ÍA‚ ‚Í‚Íccv[pcms]
+[ns]Yamagishi[nse]
+Ahaha... everyone... let's all have fun together...[l][er]
+Ahaha, ahaha...[pcms]
 
 *6783|
 [fc]
-‚â‚Á‚Ï‚è•Ï‚¾II@‚İ‚ñ‚È•Ï‚¾II[r]
-—D‚¿‚á‚ñ‚àA—S“ñ‚àAŒÜ\—’‚³‚ñ‚àccI[pcms]
+Something is definitely strange!![l][er]
+Everyone is strange!! Yuu-chan, Yuuji, and Igarashi-san[r]too...![pcms]
 
 *6784|
 [fc]
-â‘Î‚É‚¨‚©‚µ‚¢II[pcms]
+Something is definitely wrong!![pcms]
 
 *6785|
 [fc]
-‚ÉA“¦‚°‚È‚«‚áccA“¦‚°‚È‚«‚áII[pcms]
+I have to run... I have to run!![pcms]
 
 *6786|
 [fc]
-[ns]’|“à[nse]
-u‚±A‚±‚Á‚¿‚­‚ñ‚ÈII@‚±‚Á‚¿‚É—ˆ‚é‚È‚ŸIIv[pcms]
+[ns]Takeuchi[nse]
+D-Don't come this way!! Don't come over here!![pcms]
 
 [ChrSetEx layer=1 chbase="tomo_d_d_04"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_d_d_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2747|
 [fc]
 [vo_to s="tomo0296"]
-[ns]ŒÜ\—’[nse]
-u‚¦`ccA‚È‚ÉA‚¢A‚Á‚ÄA‚ñA‚Ì‚æ`ccB‚½A‚Ü[r]
-‚ÁA‚ÄA‚éA‚­‚¹A‚Éccv[pcms]
+[ns]Igarashi[nse]
+Ehh... What are you saying? What's with that weird way of[r]speaking...?[l][er]
+And you're just standing there...[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_b_a_10"]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 ;//
 
-;—§‚¿
+;ç«‹ã¡
 *std405|
 [fc]
-[ns]“c’†[nse]
-u‚ÈA‚ ccB‚¨A‚ê‚ÆA‚¹‚ÁA‚­‚·A‚µ‚æA‚¤A‚ºc[r]
-cA‚«A‚İccv[pcms]
+[ns]Tanaka[nse]
+N- Ah... Let's, have, s-sex, together...[l][er]
+with me...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_d_11"]
 [ChrSetXY layer=1 x=200 y=0]
 [ChrSetParts layer=1 chface="yuu_c_d_12"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2748|
 [fc]
 [vo_ya s="yama0946"]
-[ns]RŠİ[nse]
-u‚¢‚¢‚æ`II@‚¶‚á‚ A‚µ‚æ‚¤‚æII@‚«‚á[I@‚ [r]
-‚Í‚Í‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Sure~!! Then, let's do it!! Kyaa![l][er]
+Ahaha![pcms]
 
 [ChrSetEx layer=1 chbase="tomo_d_b_01"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 ;//
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2749|
 [fc]
 [vo_to s="tomo0297"]
-[ns]ŒÜ\—’[nse]
-u‚¦‚Ö‚Ö`ccA‚¶‚áA‚ A‚ ‚½A‚µA‚½A‚¿A‚àcc[r]
-‚¦‚¢ccv[pcms]
+[ns]Igarashi[nse]
+Ehehe~... Then, I, I'll, touch, you, too...[l][er]
+here...[pcms]
 
 ;	/*
-;	;//SE:•‚Ì”j‚ê‚é‰¹
+;	;//SE:æœã®ç ´ã‚Œã‚‹éŸ³
 ;	[se0 storage="se006"]
 ;	*/
 
 *v2749a|
 [fc]
-[ns]’|“à[nse]
-u‚¤‚íI@‚¤‚í‚ŸII@‚â‚ß‚ÄI@ŒÜ\—’‚³‚ñIIv[pcms]
+[ns]Takeuchi[nse]
+Uwa! Uwaa!! Stop it! Igarashi-san!![pcms]
 
 *6789|
 [fc]
-‚ÈA‰½‚±‚êccII@‰½ƒRƒŒIIII[pcms]
+W-What is this...!! What is this!!??[pcms]
 
 *6790|
 [fc]
-‚È‚ñ‚¾H@‚Ç‚¤‚È‚Á‚Ä‚ñ‚¾‚æIH[pcms]
+What's wrong? What's happening!?[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_d_b_01"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 ;//
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2750|
 [fc]
 [vo_to s="tomo0298"]
-[ns]ŒÜ\—’[nse]
-u‚¶‚áA‚ ‚½A‚µ‚½A‚¿‚àA‚Í‚¶A‚ßA‚ÜA‚µ‚åHv[pcms]
+[ns]Igarashi[nse]
+Well then, shall we start touching each other here?[pcms]
 
 *6791|
 [fc]
-[ns]’|“à[nse]
-u‚¤‚í‚Ÿ‚Ÿ‚ ‚ ‚ Iv[pcms]
+[ns]Takeuchi[nse]
+Uwaaaahhhh![pcms]
 
 
 ;;;[sysbt_meswin clear]
@@ -387,82 +387,80 @@
 
 ;;;[sysbt_meswin]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
 
 [se0 storage="se059" loop=true]
 
-;//SE:ƒsƒXƒgƒ“@’x‚¢@ƒ‹[ƒv
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€ãƒ«ãƒ¼ãƒ—
 
 [se1 storage="se060" loop=true]
 
 *6792|
 [fc]
-[ns]“c’†[nse]
-u‚ÍA‚Ícc‚«A‚İccA‚©‚çA‚¾ccA‚âA‚í‚çA‚©[r]
-‚¢A‚Ëccv[pcms]
+[ns]Tanaka[nse]
+H-Ha... Ki-mi... Kara... Da...[l][er]
+Ya... Wara... Kai... ne...[pcms]
 
 *v2751|
 [fc]
 [vo_ya s="yama0947"]
-[ns]RŠİ[nse]
-u‚¤‚ŸccA‚Í‚ÁI@‚ÅA‚µ‚å`ccA‚±‚ê‚Å‚àA‚Ü‚¾[r]
-‘S‘R•½‹CccB‚ñ‚Ÿ‚ ‚ÁI@‚à‚Á‚ÆA“Ë‚¢‚Ä‚àcc‘åä[r]
-•vcc‚¾‚æcc‚ñ‚Ÿ‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Ugh... Hah! Th-There... I-I'm...[l][er]
+still... totally fine... Ahh! Even if you thrust more...[l][er]
+I'll be okay... Ahh![pcms]
 
 *v2752|
 [fc]
 [vo_to s="tomo0299"]
-[ns]ŒÜ\—’[nse]
-u‚¤‚í‚ŸA‚àA‚¤ccA‚±‚ñA‚È‚ÉA‚¨‚Á‚«A‚­A‚µA[r]
-‚Ä‚éccB‚¨‚¢A‚µA‚»‚¤ccv[pcms]
+[ns]Igarashi[nse]
+Uwaa, m-mo... kon, nani, okki, ku, shi, teru...[l][er]
+oi, shi, sou...[pcms]
 
 *6793|
 [fc]
-‚¢‚¢–²‚È‚Ì‚©A‚»‚ê‚Æ‚àˆ«–²‚È‚Ì‚©H[r]
-‚¢‚­‚ç‹©‚ñ‚Å‚àAŒÜ\—’‚³‚ñ‚Í’®‚¢‚Ä‚¢‚È‚¢‚İ‚½‚¢‚ÉA[r]
-ƒ{ƒN‚É”—‚Á‚Ä‚­‚éB[pcms]
+Is this a good dream or a nightmare?[l][er]
+No matter how much I scream, it seems like Igarashi-san[r]isn't listening and keeps approaching me.[pcms]
 
 *6794|
 [fc]
-‚»‚ê‚ÉA—D‚¿‚á‚ñ‚Æ—S“ñ‚ÍA‚à‚¤ƒZƒbƒNƒX‚µ‚Ä‚¢‚éB[r]
-ŒÜ\—’‚³‚ñ‚ª‚·‚®—×‚É‚¢‚é‚Á‚Ä‚Ì‚ÉH[pcms]
+And yet, Yuu-chan and Yuuji are already having sex.[l][er]
+Even though Igarashi-san is right next to them?[pcms]
 
 *6795|
 [fc]
-â‘Î•Ï‚¾‚æcc‚±‚ñ‚È‚ÌccB[pcms]
+This is definitely weird... something like this...[pcms]
 
 *6796|
 [fc]
-‚»‚¤‚¾‚æccB[r]
-‚±‚ñ‚È‚Ì‚¨‚©‚µ‚¢B[pcms]
+That's right... This is strange.[pcms]
 
 *6797|
 [fc]
-ƒ{ƒN‚ÍAâ‘Î‚É–²‚ğŒ©‚Ä‚¢‚éB[r]
-‚±‚ñ‚È–‚ª—L‚é‚Í‚¸‚ª‚È‚¢B[pcms]
+I must be dreaming. There's no way something like this could[r]happen.[pcms]
 
 *6798|
 [fc]
-–²‚È‚çA—D‚¿‚á‚ñ‚ÆƒGƒbƒ`‚µ‚Ä‚ê‚Î—Ç‚©‚Á‚½ccB[r]
-‚Å‚àAŒÜ\—’‚³‚ñ‚à‰Âˆ¤‚¢‚µA‚±‚ê‚Í‚±‚ê‚Å‚¢‚¢‚©ccB[pcms]
+If this is a dream, I wish I could have had sex with Yuu-[r]chan...[l][er]
+But Igarashi-san is cute too, so maybe this is fine...[pcms]
 
 *6799|
 [fc]
-[ns]“c’†[nse]
-u‚±A‚ñA‚È‚ÉA‚½‚­A‚³A‚ñA‚µA‚éA‚½‚ç‚µA‚Äc[r]
-cA‚â‚çA‚µc‚¢‚ÈA‚¾ccB‚ÆA‚Ü‚çA‚È‚¢‚ÌHv[pcms]
+[ns]Tanaka[nse]
+Wh-What are you doing? If you keep teasing me like this...[l][er]
+I won't be able to hold back...[l][er]
+Can't you stop...?[pcms]
 
 *v2753|
 [fc]
 [vo_ya s="yama0948"]
-[ns]RŠİ[nse]
-u‚ ‚¤‚Ácc‚ ‚Í‚Ÿ‚ÁccB‚¤‚ñI@‘S‘RA~‚Ü‚ç‚È‚¢[r]
-‚ñ‚¾ccB‚Ó‚Ÿ‚ÁI@‚ñ‚Ÿ‚ ‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+Ahh... Ahh... Yes! It just won't stop...[l][er]
+Ahh! Nngh![pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
 [stop_se0]
 
-;//SE:ƒsƒXƒgƒ“@’x‚¢@’â~
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€é…ã„ã€€åœæ­¢
 [stop_se1]
 
 ;;;[sysbt_meswin clear]
@@ -477,103 +475,103 @@
 *v2754|
 [fc]
 [vo_to s="tomo0300"]
-[ns]ŒÜ\—’[nse]
-u‚¨‚ÁA‚«‚¢ccB‚±‚ñA‚ÈA‚ÉA‚¨‚ÁA‚«A‚¢cc‚·[r]
-‚²ccB‚¢‚½A‚¾A‚«A‚Ü`‚·ccB‚ñ‚ñ‚Ácc‚¿‚ã‚Õ[r]
-‚Ácc‚Õ‚ ‚Áccv[pcms]
+[ns]Igarashi[nse]
+Oh, I can hear... What, what is it?[l][er]
+Oh, it's amazing... It's coming...[l][er]
+Nnn... *sucking sound* Ahh...[pcms]
 
 *6800|
 [fc]
-ŒÜ\—’‚³‚ñ‚Ì¬‚³‚ÈŒû‚ªccƒ{ƒN‚Ì‚ğär‚ß‚ÄccB[r]
-ƒ{ƒN‚Ì–Ú‚Ì‘O‚É‚ÍAŒÜ\—’‚³‚ñ‚Ì‚¨‚Ü‚ñ‚±‚ªccB[pcms]
+Igarashi-san's small mouth... is licking mine...[l][er]
+In front of me, there is Igarashi-san's pussy...[pcms]
 
 *6801|
 [fc]
-‚`‚u‚ÌŒ©‰ß‚¬‚©‚ÈH@ƒ„ƒP‚ÉƒŠƒAƒ‹‚ÈccB[r]
-‚»‚ê‚ÉA‰t‚ªccB@‚ä‚Á‚­‚è‰t‚ª‚‚ê‚ÄccB[pcms]
+Is it because I've watched too much AV?[l][er]
+It's unusually realistic... And the fluids...[l][er]
+Slowly dripping...[pcms]
 
 *6802|
 [fc]
-‚»‚¤‚¾BŠm‚©‚ß‚Ä‚İ‚æ‚¤ccB’†‚ÌŠ´Šo‚È‚ñ‚©A‚`‚uŒ©[r]
-‚½‚¾‚¯‚¶‚á•ª‚©‚ç‚È‚©‚Á‚½‚µccB[pcms]
+That's right. Let's try to confirm...[l][er]
+I couldn't understand the sensation inside just by watching[r]AV...[pcms]
 
 *6803|
 [fc]
-[ns]’|“à[nse]
-uŒÜ\—’‚³‚ñccAG‚Á‚ÄA‚¢‚¢Hv[pcms]
+[ns]Takeuchi[nse]
+Igarashi-san... Can I touch you?[pcms]
 
 *v2755|
 [fc]
 [vo_to s="tomo0301"]
-[ns]ŒÜ\—’[nse]
-u‚¢‚¢A‚æ`ccA‚ä‚ÁA‚­‚èA‚¾A‚µA‚¢‚êA‚³‚êA[r]
-‚é‚ÌA‚ªA‚·‚«ccB‚ä‚Á‚­A‚èA‚µ‚ÄccHv[pcms]
+[ns]Igarashi[nse]
+It's... good~... I like it when...[l][er]
+you... slowly... insert it... inside me...[l][er]
+Can we... take it slow...?[pcms]
 
 *6804|
 [fc]
-[ns]’|“à[nse]
-u‚¤A‚¤‚ñccA‚¶‚á‚ ccA‚¤‚í‚Ÿccv[pcms]
+[ns]Takeuchi[nse]
+U-uhh... then... uwahh...[pcms]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹jƒ‹[ƒv
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰ãƒ«ãƒ¼ãƒ—
 
 [se0 storage="se059" loop=true]
 
 *6805|
 [fc]
-‚¿‚å‚Á‚Æ‚¾‚¯ŠJ‚¢‚½ŒŠ‚ÉAŒy‚­w‚ğ‰Ÿ‚µ“–‚Ä‚½‚¾‚¯‚ÅA[r]
-‚Ç‚ñ‚Ç‚ñ’†‚É–„‚Ü‚Á‚Ä‚¢‚­ccB[pcms]
+Just by lightly pressing my finger against the slightly[r]opened hole, it quickly gets buried inside...[pcms]
 
 *6806|
 [fc]
-‚à‚Á‚ÆŒ˜‚¢‚Æv‚Á‚Ä‚½‚Ì‚ÉA‚·‚²‚­_‚ç‚©‚­‚ÄAXw[r]
-‚ğ•ï‚İ‚Ş‚İ‚½‚¢‚É‚µ‚ÄccB[pcms]
+I thought it would be harder, but it's really soft, and[r]sometimes it feels like it's enveloping my finger...[pcms]
 
 *6807|
 [fc]
-‚â‚Á‚Ï‚èA‚±‚êA–²‚¶‚á‚È‚¢H[r]
-‚±‚ñ‚È‚ÉƒŠƒAƒ‹‚ÈŠ´Šo‚ÍA–²‚¶‚á—L‚è“¾‚È‚¢II[pcms]
+After all, this isn't a dream, is it?[l][er]
+This level of realistic sensation is impossible in a dream!![pcms]
 
 *v2756|
 [fc]
 [vo_ya s="yama0949"]
-[ns]RŠİ[nse]
-u‚­A‚£I@‚Ó‚ ‚Ÿ‚ÁI@“c’†‚³‚ñ‚ÌA¦‚¢ccI@Œ˜[r]
-‚¢‚æccA‚ ‚ ‚ÁccB’†‚ªcc‘~‚«‰ñ‚³‚ê‚ÄccA‚Ó[r]
-‚Ÿ‚ÁA‚ñ‚£‚ÁIv[pcms]
+[ns]Yamagishi[nse]
+K-uh! Fuahh! Tanaka-san's... amazing...![l][er]
+It's so hard... aahh... Inside...[l][er]
+it's stirring me up... fahh, nuu![pcms]
 
 *v2757|
 [fc]
 [vo_to s="tomo0302"]
-[ns]ŒÜ\—’[nse]
-u‚¿‚ã‚Ô‚ÁA‚ñ‚ÁccA‚Õ‚ŸccB‚«A‚İA‚Ì‚ä‚ÑA‚Ó[r]
-‚ÆA‚­‚Äcc‚«‚àA‚¿`‚æccA‚à‚ÁA‚ÆA‚¾‚µA‚¢A[r]
-‚êA‚µ‚ÄccHv[pcms]
+[ns]Igarashi[nse]
+*kiss sound*, *mmh*... *moan*...[l][er]
+Your finger... it's soft... feels good~...[l][er]
+Can you... put it in... more...[l][er]
+slowly...?[pcms]
 
 *6808|
 [fc]
-[ns]’|“à[nse]
-u‚¤‚ñccA‚±‚¤A‚Å‚¢‚¢‚Ì‚©‚ÈHv[pcms]
+[ns]Takeuchi[nse]
+Yeah... is this... okay?[pcms]
 
 *v2758|
 [fc]
 [vo_to s="tomo0303"]
-[ns]ŒÜ\—’[nse]
-u‚ ‚Ÿcc‚ñ‚Õ‚ÁccB‚«‚à‚¿A‚¢‚¢A‚æ‚§cc‚¿‚ã‚Ô[r]
-‚ÁA‚ñ‚¿‚ãI@‚ñ‚Ş‚£cc‚Í‚Ÿccv[pcms]
+[ns]Igarashi[nse]
+Ahh... npuu... feels good... chuubu...[l][er]
+nchu! Nmuu... haa...[pcms]
 
 *6809|
 [fc]
-‚à‚¤‘Ê–Ú‚¾ccB[r]
-©•ª‚Å‚·‚é‚Ì‚Æ‘S‘Rˆá‚¤ccB[pcms]
+It's no use anymore... It's completely different from doing[r]it myself...[pcms]
 
 *6810|
 [fc]
-Œû‚Å‚³‚ê‚é‚Ì‚ª‚±‚ñ‚È‚É‹C‚¿‚¢‚¢‚È‚ñ‚ÄB[r]
-‚»‚ê‚ÉAŒÜ\—’‚³‚ñ‚Ìg‘Ìcc’g‚©‚­‚ÄB[pcms]
+It feels so good to be done with my mouth.[l][er]
+And Yamagishi-san's body... it's warm.[pcms]
 
 *6811|
 [fc]
-‚à‚¤A‚à‚½‚È‚¢‚âccB[pcms]
+I can't hold on anymore...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -584,36 +582,36 @@
 
 ;;;[sysbt_meswin]
 
-;//SE:ƒGƒŒø‰Ê‰¹i¼‚Á‚½‰¹j’â~
+;//SE:ã‚¨ãƒ­åŠ¹æœéŸ³ï¼ˆæ¹¿ã£ãŸéŸ³ï¼‰åœæ­¢
 [stop_se0]
 
-;//SE:ƒsƒXƒgƒ“@‘‚¢@ƒ‹[ƒv
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€ãƒ«ãƒ¼ãƒ—
 [se0 storage="se061" loop=true]
 
 *6812|
 [fc]
-[ns]“c’†[nse]
-u‚¤‚Ÿ`cc‚µ‚ÜA‚éccA‚»A‚êA‚ÉA‚È‚É‚©A‚ A[r]
-‚½‚éccB‚Å‚é`cc‚¤‚£`ccv[pcms]
+[ns]Tanaka[nse]
+Ugh... it's tightening... something is about to...[l][er]
+come out... It's coming... ugh...[pcms]
 
 *v2759|
 [fc]
 [vo_ya s="yama0950"]
-[ns]RŠİ[nse]
-u‚ ‚Ÿ‚ÁI@‚ñ‚Ÿ‚ÁII@‚¨‚ÈA‚©‚Ì— ‚ÉA“–‚½‚Á‚Äc[r]
-c‚¤‚ ‚ cc‚ñ‚Ÿ‚ÁccI@„‚àcc‚¢AƒC‚«‚»ccA[r]
-‚ ‚ ‚Ÿ‚Ÿ‚Ÿ‚ ‚ Iv[pcms]
+[ns]Yamagishi[nse]
+Ahh! Nghh!! It's hitting... my, my secret spot...[l][er]
+Ughh... nghh...! I'm also... g-gonna...[l][er]
+aahhhhhh![pcms]
 
 *6813|
 [fc]
-[ns]“c’†[nse]
-u‚¤‚ÁccA‚¢‚­`ccv[pcms]
+[ns]Tanaka[nse]
+Ugh... I'm... going~...[pcms]
 
-;//SE:ƒsƒXƒgƒ“@‘‚¢@’â~
+;//SE:ãƒ”ã‚¹ãƒˆãƒ³ã€€æ—©ã„ã€€åœæ­¢
 
 [stop_se0]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 
 [se0 storage="se062"]
 
@@ -643,31 +641,32 @@
 *v2760|
 [fc]
 [vo_ya s="yama0951"]
-[ns]RŠİ[nse]
-u‚¤‚ ‚ ‚ ‚ ‚ [[[[[I@‚¨• ‚Ì’†‚Éo‚Ä‚é‚£I@[r]
-‚¢‚Á‚Ï‚¢‚Å‚Å‚é‚ÁI@‚­‚£‚ÁII@ƒCƒN‚£‚ÁI@ƒCƒN‚£[r]
-[[[[[IIv[pcms]
+[ns]Yamagishi[nse]
+Uwaaaaahhhh! It's coming out inside my stomach![l][er]
+It's overflowing! Kuuhhh!! I'm cumming![l][er]
+I'm cummiiiiing!![pcms]
+[l][er]
 
 *6814|
 [fc]
-ccII[r]
-—S“ñ‚Ìƒ„ƒccc—D‚¿‚á‚ñ‚É’†‚¾‚µcc‚µ‚½IH[pcms]
+...!! Yuuji... did he... creampie Yuu-chan!?[pcms]
 
 *6815|
 [fc]
-—D‚¿‚á‚ñA‚È‚ñ‚Å‰½‚àŒ¾‚í‚È‚¢‚ñ‚¾‚ë‚¤ccB[pcms]
+Yuu-chan, why aren't you saying anything...?[pcms]
 
 *6816|
 [fc]
-—S“ñ‚É’†‚¾‚µ‚³‚ê‚Ä‚æ‚ª‚é—D‚¿‚á‚ñccB[pcms]
+Yuu-chan, who is delighted to be creampied by Yuuji...[pcms]
 
 *6817|
 [fc]
-ƒwƒ“‚¾ccB[pcms]
+This is strange...[pcms]
 
 *6818|
 [fc]
-‚Å‚àcc‚ ‚ñ‚È—D‚¿‚á‚ñ‚ğ‚İ‚½‚çccƒ{ƒN‚à‚à‚¤ccB[pcms]
+But... when I see Yuu-chan like that...[l][er]
+I can't hold back anymore...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -681,29 +680,29 @@
 *v2761|
 [fc]
 [vo_to s="tomo0304"]
-[ns]ŒÜ\—’[nse]
-u‚Õ‚Ÿ‚ÁccA‚¦‚Ö‚ÖccA‚à‚¤A‚Å‚»A‚¤‚È‚ÌH@‚¢[r]
-‚¢A‚æcc‚­A‚¿‚ÉA‚¾A‚µA‚ÄccH@‚¢‚ÁA‚Ï‚¢A[r]
-‚¾‚µA‚ÄA‚ËHv[pcms]
+[ns]Igarashi[nse]
+Puaa... ehehe... are you already...[l][er]
+ready? It's okay... inside my mouth, right?[l][er]
+Release it all, okay?[pcms]
 
 *6819|
 [fc]
-—D‚¿‚á‚ñ‚Ìšb‚¬ºA‚»‚ê‚ÉAŒÜ\—’‚³‚ñ‚Ì—D‚µ‚¢º‚ÉA[r]
-‚·‚®‚ÉŒÀŠE‚ª—ˆ‚Ä‚µ‚Ü‚Á‚½B[pcms]
+I quickly reached my limit from Yuu-chan's moans and[r]Igarashi-san's gentle voice.[pcms]
 
 *v2762|
 [fc]
 [vo_to s="tomo0305"]
-[ns]ŒÜ\—’[nse]
-u‚¿‚ã‚Ô‚ÁA‚ñ‚ÁA‚¿‚ã‚¤‚£‚Ácc‚ñ‚ÍA‚Ÿcc‚ê‚éA[r]
-‚ñ‚¿‚ãA‚¿‚ã‚ÁA‚¿‚ã‚Ş‚£cc‚Ö‚Ÿcc‚¿‚ã‚Î‚Áccv[pcms]
+[ns]Igarashi[nse]
+*kiss*, *mm*, *suck*... *ah*...[l][er]
+it feels good, *kiss*, *suck*, *mhm*...[l][er]
+*heh*... *kiss*...[pcms]
 
 *6820|
 [fc]
-[ns]’|“à[nse]
-u‚¤‚ ‚ ‚ ‚ ‚ÁI@‚Å‚é‚ÁccI@‚ ‚ÁIv[pcms]
+[ns]Takeuchi[nse]
+Uaaaah! It's coming out...! Ah![pcms]
 
-;//SE:Ë¸
+;//SE:å°„ç²¾
 
 [se0 storage="se062"]
 
@@ -735,62 +734,60 @@
 *v2763|
 [fc]
 [vo_to s="tomo0306"]
-[ns]ŒÜ\—’[nse]
-u‚ñ‚Ô‚Ÿ‚ÁIH@‚ ‚ÍA‚ ‚Í‚Ícc‚·‚²A‚¢cc‚¢‚ÁA[r]
-‚Ï‚¢cc‚¹‚¢A‚µcc‚±‚¢A‚¡ccA‚Ì‚İA‚«A‚êA‚È[r]
-‚¢A‚æcc‚ñ‚ÁA‚¿‚ã‚¤‚£‚ÁIIv[pcms]
+[ns]Igarashi[nse]
+Nbuah!? Ahaha, ahaha... amazing...[l][er]
+it's, it's overflowing... inside, it...[l][er]
+can't, can't drink it all... nngh, chuuhh!![pcms]
 
 ;//whiteflash
 
 *6821|
 [fc]
-[ns]’|“à[nse]
-u‚¤‚Ÿ‚ ‚ ccA‚Í‚Ácc‚Í‚Ácc‚Í‚ÁccAŒÜ\—’‚³[r]
-‚ñI@‚à‚¤A‚â‚ß‚ÄIv[pcms]
+[ns]Takeuchi[nse]
+Uaaaah... ha... ha... ha... Igarashi-san![l][er]
+Stop already![pcms]
 
 *v2764|
 [fc]
 [vo_to s="tomo0307"]
-[ns]ŒÜ\—’[nse]
-u‚ñccA‚Õ‚Ÿ‚ÁccA‚Í‚ŸccA‚´‚ñA‚ËA‚ñccB[r]
-‚¨‚¢A‚µ‚¡cc‚ñ‚Í‚Ÿccv[pcms]
+[ns]Igarashi[nse]
+Nn... *puaa*... *haa*... Zan, ne, n...[l][er]
+Oi, shii... *nhaa*...[pcms]
 
 *6822|
 [fc]
-[ns]’|“à[nse]
-u‚Í‚Ÿcc‚Í‚Ÿccv[pcms]
+[ns]Takeuchi[nse]
+Haa... haa...[pcms]
 
 *v2765|
 [fc]
 [vo_to s="tomo0308"]
-[ns]ŒÜ\—’[nse]
-u‚Õ‚ ‚ÁccA‚¨‚¢A‚µ‚¢A‚Ì‚ªccA‚½‚­A‚³‚ñcc[r]
-v[pcms]
+[ns]Igarashi[nse]
+Puaa... oi, shii... it's... coming...[l][er]
+Takeuchi-san...[pcms]
 
 *6823|
 [fc]
-‚µA€‚Ê‚©‚Æv‚Á‚½ccB[pcms]
+I thought I was going to die...[pcms]
 
 *6824|
 [fc]
-‚â‚Á‚ÆA—£‚µ‚Ä‚­‚ê‚½ccB[r]
-ŒÜ\—’‚³‚ñAƒ{ƒN‚Ìo‚µ‚½‚ÌA‚ ‚ñ‚È‚É”ü–¡‚µ‚»‚¤‚ÉccB[pcms]
+Finally, she let go... Igarashi-san, the way she looked so[r]delighted by what I released...[pcms]
 
 *6825|
 [fc]
-‚â‚Á‚Ï‚è‚±‚ê‚ÍA–²‚¶‚á‚È‚¢B[r]
-ƒGƒbƒ`‚È–²‚ğŒ©‚ÄA–²¸‚µ‚½–‚ ‚Á‚½‚¯‚ÇA‚ ‚ñ‚È‚Ì‚Æ[r]
-‚Í”äŠr‚É‚È‚ç‚È‚¢ˆÊ‹C‚¿‚¢‚¢B[pcms]
+This is definitely not a dream.[l][er]
+I've had erotic dreams and experienced wet dreams before,[r]but this feels so much better than any of those.[pcms]
 
 *6826|
 [fc]
-–²‚¶‚á‚È‚¯‚ê‚ÎA‚±‚Ìó‹µ‚Á‚Äˆê‘ÌH[r]
-—D‚¿‚á‚ñ’B‚ÍAˆê‘Ì‚Ç‚¤‚µ‚¿‚á‚Á‚½‚ñ‚¾ccH[pcms]
+If this isn't a dream, what on earth is this situation?[l][er]
+What happened to Yuu-chan and the others...?[pcms]
 
 ;;;[sysbt_meswin clear]
 
 
-;//‰ñ‘z‚È‚Ì‚©’ÊíƒvƒŒƒC‚È‚Ì‚©‚Ì•ªŠò”»’f
+;//å›æƒ³ãªã®ã‹é€šå¸¸ãƒ—ãƒ¬ã‚¤ãªã®ã‹ã®åˆ†å²åˆ¤æ–­
 [if exp="tf.scene_mode == 1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]
@@ -809,170 +806,171 @@
 
 *6827|
 [fc]
-‚Ü‚¾—]‰C‚ªc‚Á‚Ä‚¢‚é‚Ì‚©A“ª‚ª‚Ó‚í‚Ó‚í‚·‚éB[r]
-‚»‚ê‚ÉA‰½‚©”M‚Á‚Û‚¢H[r]
-‚Ü‚½A•—×‚ª‚Ô‚è•Ô‚µ‚¿‚á‚Á‚½‚Ì‚©‚ÈccB[pcms]
+The lingering afterglow still remains, and my head feels[r]light and fuzzy.[l][er]
+And, is it just me or do I feel a bit feverish?[l][er]
+Maybe I've caught a cold again...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_d_11"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2766|
 [fc]
 [vo_ya s="yama0952"]
-[ns]RŠİ[nse]
-u‚ ‚ÍccA’|“àŒNccA‹C‚¿A‚æ‚©‚Á‚½Hv[pcms]
+[ns]Yamagishi[nse]
+Ahaha... Takeuchi-kun... Did it feel good?[pcms]
 
 *6828|
 [fc]
-[ns]’|“à[nse]
-u‚¤A‚¤‚ñAƒVƒƒƒŒ‚É‚È‚ç‚È‚¢‚­‚ç‚¢ccv[pcms]
+[ns]Takeuchi[nse]
+Y-Yeah, it was beyond words...[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_d_b_01"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2767|
 [fc]
 [vo_to s="tomo0309"]
-[ns]ŒÜ\—’[nse]
-u‚¢‚ÁA‚ÏA‚¢A‚¾‚µA‚ÄA‚½cc‚àA‚ñA‚Ëccv[pcms]
+[ns]Igarashi[nse]
+I-I... came... It felt... so good...[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_b_a_10"]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std406|
 [fc]
-[ns]“c’†[nse]
-u‚½‚µA‚©A‚ÙA‚©A‚É‚àccA‚¨A‚ñ‚ÈccA‚¢‚½A[r]
-‚æA‚¤‚Ècc‚ ‚¢A‚ÂA‚ÆA‚àA‚â‚èA‚½‚¢ccv[pcms]
+[ns]Tanaka[nse]
+I... also... want... to... do...[l][er]
+it... with... a... woman... like...[l][er]
+that...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_d_11"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2768|
 [fc]
 [vo_ya s="yama0953"]
-[ns]RŠİ[nse]
-u‚»‚¤‚¾‚æ‚ËA‚İ‚ñ‚È‚Å‚µ‚½•û‚ªAŠy‚µ‚¢‚à‚ñ‚ËccB[r]
-‚¶‚á‚ A’T‚µ‚ÉAs‚±‚¤‚©ccv[pcms]
+[ns]Yamagishi[nse]
+That's right, it's more fun when we're all together, isn't[r]it...?[l][er]
+Well then, shall we go and search...?[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *6829|
 [fc]
-‚İ‚ñ‚È‚Å‚µ‚½•û‚ªŠy‚µ‚¢H[r]
-—D‚¿‚á‚ñA‚Ç‚¤‚µ‚¿‚á‚Á‚½‚ñ‚¾‚ëccB[r]
-—S“ñ‚àAŒÜ\—’‚³‚ñ‚àA‚¢‚Â‚à‚Æˆá‚¤B[pcms]
+Is it more fun when we're all together?[l][er]
+What happened to Yuu-chan...? Yuuji and Igarashi-san are[r]also acting differently than usual.[pcms]
 
 *6830|
 [fc]
-cc‚İ‚ñ‚È•Ï‚¾‚¯‚ÇA’iXˆá˜aŠ´‚ª‚È‚­‚È‚Á‚Ä‚«‚½B[pcms]
+... Everyone is acting strange, but little by little, the[r]sense of unease is fading away.[pcms]
 
 *6831|
 [fc]
-‚İ‚ñ‚È‚ª•Ï‚È‚Ì‚©A‚»‚ê‚Æ‚àƒ{ƒN‚ª•Ï‚È‚Ì‚©B[r]
-–²‚©AŒ»À‚©‚à•ª‚©‚ç‚È‚­‚È‚Á‚Ä‚«‚½‚µccB[r]
-‰½‚ª‚È‚ñ‚¾‚©cc–ó‚ª•ª‚©‚ç‚È‚¢ccB[pcms]
+I don't know if everyone is strange, or if it's just me.[l][er]
+I can't tell if this is a dream or reality anymore...[l][er]
+I don't understand what's going on...[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2769|
 [fc]
 [vo_ya s="yama0954"]
-[ns]RŠİ[nse]
-u‚»‚ê‚¶‚á‚ As‚±‚¤‚©ccv[pcms]
+[ns]Yamagishi[nse]
+Well then, shall we go...?[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_d_b_01"]
 [ChrSetXY layer=1 x=240 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2770|
 [fc]
 [vo_to s="tomo0310"]
-[ns]ŒÜ\—’[nse]
-u‚Í[‚¢ccv[pcms]
+[ns]Igarashi[nse]
+Yes...[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_b_a_10"]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std407|
 [fc]
-[ns]“c’†[nse]
-u‚íA‚©‚ÁA‚½ccv[pcms]
+[ns]Tanaka[nse]
+I... ca... me...[pcms]
 
 *6832|
 [fc]
-—S“ñ‚ÆŒÜ\—’‚³‚ñ‚ÍAƒtƒ‰ƒtƒ‰‚µ‚È‚ª‚ç—D‚¿‚á‚ñ‚ÌŒã‚ë[r]
-‚É•À‚ÔB‚Ü‚é‚ÅA‚¨•P—l‚ÆA‚»‚ê‚É]‚¤‚µ‚à‚×‚İ‚½‚¢‚ÉB[pcms]
+Yuuji and Igarashi-san, staggering, line up behind Yuu-chan.[l][er]
+It's as if they were a princess and her obedient servants.[pcms]
 
 [ChrSetEx layer=1 chbase="yuu_c_b_04"]
 [ChrSetXY layer=1 x=200 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2771|
 [fc]
 [vo_ya s="yama0955"]
-[ns]RŠİ[nse]
-u’|“àŒN‚àA‘‚­As‚±‚¤‚æccB‚¶‚á‚ Aè•ª‚¯‚µ‚Ä[r]
-’T‚»‚¤‚©ccB„‚ÍA’|“àŒN‚ÆAˆê‚ÉA’T‚µ‚ÉAs‚­[r]
-‚Ëccv[pcms]
+[ns]Yamagishi[nse]
+Shinya-kun, let's go quickly...[l][er]
+Shall we split up and search...?[l][er]
+I'll go with Shinya-kun to look for them...[pcms]
 
 [ChrSetEx layer=1 chbase="tanaka_b_a_10"]
 [ChrSetXY layer=1 x=160 y=0]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 *std408|
 [fc]
-[ns]“c’†[nse]
-u‚¶‚áA‚ cc‚¨A‚êA‚½‚¿A‚ÍA‚Ç‚¤A‚µA‚æA‚¤v[pcms]
+[ns]Tanaka[nse]
+Well then... wha... t should we...[l][er]
+do?[pcms]
 
 [ChrSetEx layer=1 chbase="tomo_d_d_04"]
 [ChrSetXY layer=1 x=240 y=0]
 [ChrSetParts layer=1 chface="tomo_d_d_05"]
 [trans_c cross time=150]
 
-;—§‚¿
+;ç«‹ã¡
 
 *v2772|
 [fc]
 [vo_to s="tomo0311"]
-[ns]ŒÜ\—’[nse]
-u‚¤`‚ñccA‚Ç‚¤A‚µA‚æA‚¤‚Ëccv[pcms]
+[ns]Igarashi[nse]
+Hmm... What should we do...?[pcms]
 
 [backlay_c][chara_int][trans_c cross time=150]
 
 *6833|
 [fc]
-‚È‚ñ‚¾‚©Aƒ{ƒN‚à—D‚¿‚á‚ñ‚ÌŒ¾‚¤‚±‚Æ‚É‹t‚ç‚¦‚È‚¢B[pcms]
+Somehow, I can't go against what Yuu-chan says.[pcms]
 
 *6834|
 [fc]
-•t‚¢‚Äs‚©‚È‚«‚áccB[pcms]
+We have to go with them...[pcms]
 
 *6835|
 [fc]
-ƒ{ƒN‚àAs‚©‚È‚«‚áccB[pcms]
+I have to go too...[pcms]
 
 ;;;[sysbt_meswin clear]
 
@@ -981,29 +979,29 @@
 ;//blackout
 
 
-;//‚±‚±‚Ü‚Å–{•Ò
+;//ã“ã“ã¾ã§æœ¬ç·¨
 
 ;[black_toplayer][trans_c cross time=1001][hide_chara_int]
 
-;//‰ñ‘z—pƒtƒ‰ƒO‚Ìd‚İ
-;•s—v[eval exp="="sf.g_scn34 = 1"]
+;//å›æƒ³ç”¨ãƒ•ãƒ©ã‚°ã®ä»•è¾¼ã¿
+;ä¸è¦[eval exp="="sf.g_scn34 = 1"]
 
-;//ƒEƒBƒ“ƒhƒEÁ‹
+;//ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦æ¶ˆå»
 ;//<SystemIcon OFF>
 ;//<WinFrame OFF>
 ;//
-;BGM’â~
+;BGMåœæ­¢
 [fadeoutbgm time=500]
 ;[black_toplayer][trans_c random][hide_chara_int]
 [zapfade]
 
-;//•‚ÉƒtƒF[ƒh
+;//é»’ã«ãƒ•ã‚§ãƒ¼ãƒ‰
 ;//[bg storage="effect_black"]
 ;//[trans_c cross time=1001]
 
-;//;//[Ÿ‚ÌƒV[ƒ“‚Ö]
+;//;//[æ¬¡ã®ã‚·ãƒ¼ãƒ³ã¸]
 
-;//[05310]‚Ö
+;//[05310]ã¸
 
 [jump target=*05310_TOP storage="05310.ks"]
 
